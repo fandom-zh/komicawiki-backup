@@ -1,0 +1,2078 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>女神轉生系列登場惡魔Part 4 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"女神轉生系列登場惡魔Part_4","wgTitle":"女神轉生系列登場惡魔Part 4","wgCurRevisionId":412058,"wgRevisionId":412058,"wgArticleId":44599,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"女神轉生系列登場惡魔Part_4","wgRelevantArticleId":44599,"wgRequestId":"f23ac614fd2ea129a8779bb8","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part+4\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part+4","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.page.gallery.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-女神轉生系列登場惡魔Part_4 rootpage-女神轉生系列登場惡魔Part_4 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part+4" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">女神轉生系列登場惡魔Part 4</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;"><a href="/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97" title="女神轉生系列">女神轉生系列</a>登場惡魔Part 4</div>
+<table class="wikitable" style="margin:auto; text-align:center;"><tbody><tr><td colspan="4">登場惡魔列表：
+</td></tr><tr><td style="padding-left: 1em; padding-right: 1em;"><a href="/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_1" title="女神轉生系列登場惡魔Part 1">Part 1（十字教、中東、埃及）</a>
+</td>
+<td style="padding-left: 1em; padding-right: 1em;"><a href="/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_2" title="女神轉生系列登場惡魔Part 2">Part 2（歐陸（希臘、羅馬、北歐、不列顛、斯拉夫）、美洲）</a>
+</td>
+<td style="padding-left: 1em; padding-right: 1em;"><a href="/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_3" title="女神轉生系列登場惡魔Part 3">Part 3（印度、佛教、日本、中國）</a>
+</td>
+<td style="padding-left: 1em; padding-right: 1em;"><b>Part 4（魔人、其他、原創惡魔）</b>
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="種族表、解說及惡魔介紹"></span><span class="mw-headline" id=".E7.A8.AE.E6.97.8F.E8.A1.A8.E3.80.81.E8.A7.A3.E8.AA.AA.E5.8F.8A.E6.83.A1.E9.AD.94.E4.BB.8B.E7.B4.B9">種族表、解說及惡魔介紹</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=1" title="編輯章節：種族表、解說及惡魔介紹" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>請見<a href="/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_1" title="女神轉生系列登場惡魔Part 1">女神轉生系列登場惡魔Part 1</a></li></ul><p><br></p>
+<h3 class="in-block"><span id="魔人"></span><span class="mw-headline" id=".E9.AD.94.E4.BA.BA">魔人</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=2" title="編輯章節：魔人" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>在真一開始出現的特別惡魔族群，但不太分什麼神話的典故來源（目前最大參考來源主要源自《新約聖經》中的《啓示錄》）</li>
+<li>最大的特色是非常難打，隨機遇敵的話在地圖中將會十分難遇上，但打敗後將會有十分好的報酬，以及融合後將會成為十分強力的仲魔
+<ul><li>大多數都是骷髏頭，常駐的非骷髏魔人只有愛麗絲一人</li>
+<li>PS版真・女神轉生開始所有正傳有其專用BGM
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=cYThALx_tNc">PS版真一/真二/if...</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=6stU0OjkALg">真三</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=GhhhsvS9CeU">真四/4F</a></li>
+<li><a rel="nofollow" class="external text" href="https://youtu.be/ai5Hn7AyfWo">真五</a></li>
+<li>其BGM的部分旋律取自二代中<a rel="nofollow" class="external text" href="https://youtu.be/q5HvECi1SZs">替角色命名的BGM</a><br></li></ul></li></ul></li></ul><h4 class="in-block"><span id="天啟四騎士"></span><span class="mw-headline" id=".E5.A4.A9.E5.95.9F.E5.9B.9B.E9.A8.8E.E5.A3.AB">天啟四騎士</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=3" title="編輯章節：天啟四騎士" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ペイルライダー<br>（<a href="/Pale_Rider_(Fate)" title="Pale Rider (Fate)">蒼白騎士</a>）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">狀態異常
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">ペストクロップ
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>系列中最初出現的骷髏魔人之一</li>
+<li>啓示錄四騎士中的一員，象徵着「死亡」
+<ul><li>比另外三位同行早了好幾代登場</li></ul></li>
+<li>以西歐人心中的死神的形象（鐮刀，骷髏）設計</li>
+<li>真三帶有戰慄所有人修羅的「龍の眼光」的一人，能一口氣增加4個行動次數，配合作為其僚機的羅瓦下，只要重複發動加上沒有效防禦的話就能大殺四方</li>
+<li>善於在傷口上撒鹽，大量狀態異常技能配合專屬技能「ペストクロップ」能製造近乎即死的傷害，真三甚至有對中毒/睡眠狀態100%即死的可怕戰術</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ホワイトライダー<br>（白騎士）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">破魔
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">ゴッドアロー
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅲ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>啓示錄四騎士中的一員，十字教傳統中象徵着「征服」
+<ul><li>亦因此造型設計上配上了弓箭</li>
+<li>但其的定位十分模糊不定，一時被象徵着「瘟疫」，一時被象徵着「傳教」，一時象徵着「內鬥」，一時又被象徵着「反基督」</li></ul></li>
+<li>真三與蒼白騎士，紅騎士和黑騎士在人修羅進入於「第3カルパ」現身</li>
+<li>其專屬技能「ゴッドアロー」曾有着100%即死的破魔屬性攻擊，對沒有破魔免疫的召喚師們幾乎無法可施<s>但真五連同其他破魔咒殺技能慘遭nerf掉</s>
+<ul><li>在早期真4F中「ゴッドアロー」有著BUG，只要會發生傷害即使是BOSS也能夠瞬間即死，因此配上可以透過變異產生的破魔貫通可以直接秒殺除了YHVH以外的所有BOSS</li>
+<li>之後雖然被修掉，但可以透過推薦合體BUG繼承的單體破魔特大傷害技還是挺有用的。</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">レッドライダー<br>（紅騎士）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">物理
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">テラーソード
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅲ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>啓示錄四騎士中的一員，十字教傳統中象徵着「戰爭」，並善於挑動國於國之間的戰爭
+<ul><li>設計上根據聖經《啓示錄》的描述而戴上佩劍，舉起佩劍以表示發動戰爭/殲殺</li>
+<li>紅色的馬匹亦寓意着戰爭將血流成河</li></ul></li>
+<li>真三與蒼白騎士，白騎士和黑騎士在人修羅(ry</li>
+<li>真三帶有戰慄所有人修羅的「龍の眼光」的一人，能一口氣增加4個行動次數，，配合作為其僚機的力天使下，只要能重複發動加上沒有效防禦的話就能大殺四方
+<ul><li>真四慘遭nerf掉，但真五因其專屬物理技「テラーソード」復活並開始附帶無視無效/吸收/反射特性的貫通令他又可以大殺四方</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ブラックライダー<br>（黑騎士）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">ソウルバランス
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅲ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>啓示錄四騎士中的一員，十字教傳統中象徵着「饑荒」
+<ul><li>設計上根據聖經《啓示錄》的描述而攜帶天秤</li>
+<li>文中亦描述他會遊經周圍並帶來饑荒，亦保障富人能確保自己的油和酒供應</li>
+<li>舉起天秤象徵着導致饑荒糧食短缺及物價上漲而出現的等價交換情況</li></ul></li>
+<li>真三與蒼白騎士，白騎士和紅騎士在人(ry</li>
+<li>專屬技能「ソウルバランス」在真三能很有效地強制將整團HP減半（真四之後則大型萬能攻擊）並附帶無言狀態異常，加上大部分攻擊技能都為萬能屬性，令他在戰術上是也是極為難纏的對手</li></ul><p><br></p>
+<h4 class="in-block"><span id="其他"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96">其他</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=4" title="編輯章節：其他" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">アリス<br>（艾莉絲/愛麗絲）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人/屍鬼
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">咒殺
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真NINE：白兎の懐中時計<br>真SJ：死んでくれる？
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:200px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Smtalice.png" class="image"><noscript><img alt="" src="/images/thumb/f/f7/Smtalice.png/70px-Smtalice.png" width="70" height="120"></noscript><span class="lazy-image-placeholder" style="width: 70px;height: 120px;" data-src="/images/thumb/f/f7/Smtalice.png/70px-Smtalice.png" data-alt="" data-width="70" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真2
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Alice-0.png" class="image"><noscript><img alt="" src="/images/thumb/5/5f/Alice-0.png/32px-Alice-0.png" width="32" height="120"></noscript><span class="lazy-image-placeholder" style="width: 32px;height: 120px;" data-src="/images/thumb/5/5f/Alice-0.png/32px-Alice-0.png" data-alt="" data-width="32" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真1宣傳重繪板
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><ul><li>由初代就登場的元祖魔人，金髮蘿莉。
+<ul><li>雖然說叫做艾莉絲，但並非史實中的艾莉絲·普萊森斯·李道爾
+<ul><li>話雖如此，P5/5代專用技的演出動畫（撲克、刀叉）明顯參考了《愛麗絲夢游仙境》</li>
+<li>真NINE的專用技「白兎の懐中時計」也是取自白兔先生的部分</li>
+<li>在真SJ中也有她請求玩家替她追兔子的支線</li></ul></li></ul></li>
+<li><a href="/%E7%97%85%E5%AC%8C" class="mw-redirect" title="病嬌">病嬌</a>性格參照歐洲一個傳説，關於一位名為艾莉絲的雅利安女孩年幼早逝，成為亡靈後獲得強大魔力導致她失控，並將頑皮的小孩以"交友"為名殺掉
+<ul><li>可以說是近年來所有病嬌系艾莉絲和孤獨死靈法師幼女的原型，在現今的ACGN中影響力非常高</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=m5XFIUDEFAM">有專用的戰鬥曲</a></li></ul></li>
+<li>近乎全勤，部份集數有專用劇情。
+<ul><li>但真正以敵人/仲魔身份登場反而是真二開始</li>
+<li>真1則為NPC，是約30年前的核彈投下事件中死去的少女，被紅伯爵「彼列」和黑伯爵「內比羅斯」撿到靈魂並復活<s>所以其實是原創角色</s>
+<ul><li>六本木的死人街道正式為了她作為充滿朋友的地方而造，主要由黑伯爵負責操縱死人
+<ul><li>專用技「<a href="/%E6%88%90%E5%8F%A5/%E6%83%B3%E6%AD%BB%E4%B8%80%E6%AC%A1%E7%9C%8B%E7%9C%8B%E5%97%8E%EF%BC%9F" title="成句/想死一次看看嗎？">死んでくれる？</a>」正是當時詢問真1主角能否成為永遠的朋友時的問句</li></ul></li>
+<li>稱兩位惡魔為「叔叔」，並由復活她的兩位惡魔負責戰鬥的部分
+<ul><li>在外傳作品和其他兩人一同登場通常會是三人戰，本傳的4～5沒有</li></ul></li></ul></li></ul></li>
+<li>長年咒殺專精角色，代表技能「死んでくれる？」讓她成為真女神系列的地獄少女。
+<ul><li>可惜的在魔人眾多的真三沒有登場</li>
+<li>過去可以使用的作品由於耐性優秀的緣故，經常被繼承上回復和輔助魔法來使用
+<ul><li>在追加適性的4F雖然回複的適性為負值，但得利於專用技傷害化+可以透過技能變異洗出咒殺貫通的緣故一躍成強力咒殺輸出手</li>
+<li>5的「死んでくれる？」變為由她壟斷的咒殺屬性隨機魔法</li></ul></li>
+<li>隨著惡魔育成系統讓很多玩家以培養99級的金髮幼女為目標（無誤）。</li></ul></li>
+<li><s>真4/4F變成了<a href="/%E4%BD%90%E8%B3%80%E5%81%B6%E5%83%8F%E6%98%AF%E5%82%B3%E5%A5%87" title="佐賀偶像是傳奇">屍鬼</a>種族</s>
+<ul><li>在真1Gba版追加的幕間提到，她是死靈使內比羅斯以死靈術復活的殭屍，因為是屍體所以不能曬太陽</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">マタドール<br>（鬥牛士）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">物理、衝擊
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">血のアンダルシア、赤のカポーテ
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>マタドール在西班牙和葡萄牙語中為鬥牛勇士
+<ul><li>其名源自拉丁語mactator，意即屠宰者</li>
+<li>鬥牛勇士如其名，是專門與鬥牛決鬥並當眾殺牛的表演藝術家
+<ul><li>但因為以其殘忍度和高風險表演，近年有不少禁止聲音（尤其是動保界），不過西班牙人和葡萄牙人對這個傳統不亦樂乎</li></ul></li></ul></li>
+<li>從真三中以首個挑戰的魔人姿態登場的時候就成為眾惡魔召喚師心中的噩夢
+<ul><li>本身有着十分高命中/迴避率，配合補助和物理技能導致十分容易被團滅</li>
+<li>真三突如其來的決鬥就令沒準備好的人修羅們蒸發掉寶貴的練等成果</li>
+<li>真四為驚人的84等，雖然遇敵機率只有魔人共通的1/256，對於其駐紮範圍的惡魔普遍只有20lv左右，令不為意又留戀此地的新手武士們很快成為他的獵物</li>
+<li>真五作為DLC時再次成為<s>笨笨的跑去打的</s>新手們的噩夢</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ときのおきな<br>（時之翁）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">咒殺
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">かいおんぱ
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>死神的一種，手持沙漏，支配時間的同時左右他人生死</li>
+<li>與鬥牛士的享樂賜死不同，看穿人的命運，並在人之將死之際接近之
+<ul><li>但是只要將其打倒，會在消失時倒轉沙漏，似乎能扭轉命運</li></ul></li>
+<li><s>《LOL》極靈的原型</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">デイビット<br>（大衞）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">狀態異常
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">惑乱ラプソディ
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ダビデ<br>（大衞）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">造魔
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">咒殺、狀態異常
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">惡魔召喚師
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>系列中最初出現的骷髏魔人之一</li>
+<li>概念取自古代法國人在萬聖節的傳説，主要為死神每逢萬聖節深夜都會延伸並演奏小提琴，召喚死者爬出墳墓為它跳舞至日出
+<ul><li>順帶一提，法國作曲家聖桑也以此傳説編了一首有名的交響樂<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=YyknBTm_YyM">《Danse Macabre（骷髏之舞）》</a></li></ul></li>
+<li>大衞名稱來自17世紀著名法國弦樂器製作家Antonio Stradivari的一部小提琴Davidoff Stradivarius</li>
+<li>金子設計他時有參照地獄詞典以及<a rel="nofollow" class="external text" href="https://64.media.tumblr.com/1a9c5c19e06dfb860fda7f476b4bbb42/tumblr_ovqpg5MWIg1tj1qiho3_r2_1280.jpg">瑞典的一本書籍封面</a></li>
+<li>雖然比起其他魔人危險性不那麼大，但其狀態異常技能以及出色的屬性防禦力令他依舊十分難纏
+<ul><li>在真4序盤第一個登場的魔人，會在打退所有軍勢怪物不吉の群れ直接追加連戰，開場便攜帶全體咒殺和全體物理，將不少的武士們全部送去黃泉排隊</li>
+<li>在4F東狂中登場，獲得了附帶全能力下降的噁心異常技惑乱ラプソディ</li></ul></li>
+<li>在有著大量魔人的真三中是唯一一個未登場的骷髏魔人
+<ul><li>不過以但丁/雷道手中持有知識燭台來看，很可能是知識燭台的原持有人，隨後被但丁/雷道給打倒</li>
+<li><s>但五代主角從一開始就從蘇菲雅那裡拿到知識燭台了</s></li></ul></li>
+<li>造魔版本在PSP版以魔王登場，且造型後來用在造魔製造的其中一個型號上</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">だいそうじょう<br>（大僧正）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">破魔、咒殺、萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">煩悩即菩提、瞑想<br>回転説法
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>系列中最初出現的骷髏魔人之一</li>
+<li>大僧正一名取自漢傳佛教管理僧尼的僧官「僧正」的上司之稱，十字教的類似官職為「司教」</li>
+<li>早期的設定是弘法大師空海
+<ul><li>後期的設定文書則是改成佛教僧侶為了讓己成佛而進行的自殺性修行，以求達到「<ruby>全身舍利<rp>（</rp><rt style="font-size:0.5em;">肉身不腐</rt><rp>）</rp></ruby>」，「<ruby>紫磨金身<rp>（</rp><rt style="font-size:0.5em;">全身脱水</rt><rp>）</rp></ruby>」的境界而成為<ruby>即身佛<rp>（</rp><rt style="font-size:0.5em;">木乃伊</rt><rp>）</rp></ruby></li></ul></li>
+<li>真三後開始拿着手鈴，那是僧侶修煉即身佛時用來讓其他僧侶知道自己還在世的道具</li>
+<li>旁支作<a href="/%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%843" title="女神異聞錄3">女神異聞錄3</a>後持有專用技「回転説法」和艾莉絲的「死んでくれる？」互相對應</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ヘルズエンジェル<br>（地獄天使）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">火焰、衝擊、物理
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">ヘルスピン、ヘルバーナー、ヘルエギゾースト、ヘルスロットル
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>名字和造型取自美國40年代發跡的機車有組織犯罪幫會「Hell Angel」<s>因為是來自美國的8+9所以很會爆粗</s>
+<ul><li>其中其座駕造型參照了該幫派御用機車「哈雷機車」</li>
+<li><s>可能金子發現這個幫派所以也同樣弄成骷髏魔人了</s></li></ul></li>
+<li>英譯則稱他為「Hell Biker」（地獄騎手），似乎是為了對這個幫派名稱避諱</li>
+<li>雖然沒有什麼可怕技能，但有多姿多彩的屬性技能外，而且真三還有着比「龍の眼光」沒那麼作弊<s>才怪</s>的「ヘルスロットル」，一口氣增加3個行動繼續發動魔法<s>重複發動的話就真的ずっと俺のターン</s>
+<ul><li>這個敵方專用外掛技能理所當然在之後的作品封掉<s>不好讓現今的速食玩家摔手柄</s></li></ul></li>
+<li><s>I am Johnny Blaze, I am Ghost Rider. </s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">トランペッター<br>（號角手）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">回復、狀態異常、萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">神恩のラッパ、魔縁のラッパ
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>十字教聖典《新約聖經》中的末日預言書《啓示錄》中的告死天使
+<ul><li>祂會吹着喇叭呼喚着各種災害，告示世界終末的到來</li>
+<li>啓示錄中共有七位號角手
+<ul><li>第一位會帶來火災和冰雹，毀滅世上1/3的土地</li>
+<li>第二位會將海洋蒸發剩下1/3分量，並毀滅海洋中的生物</li>
+<li>第三位會帶來流星並直擊水源（幼發拉底河<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>），令飲用水受污染而無法再飲用</li>
+<li>第四位會將擊毀1/3個太陽、1/3個月亮、1/3份的星星，令世上失去1/3的日照時間</li>
+<li>第五位會開啓地獄之門，將惡魔「阿巴頓」解放並引來蝗災</li>
+<li>第六位會從幼發拉底河帶來四大天使與其軍隊降臨，並屠殺地上1/3的人類</li>
+<li>第七位會告知基督教的神與其救世主將會成世界的王，支配世界，直到永遠，並為世上帶來終極的審判（審判日），那時候世上所有不信教的人或異教徒將會被肅清</li>
+<li><s>這是什麼中二病的設定，但以古代就撰寫的角度來説這種描述頗創新就是了</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不過該作彌賽亞教就是以這個概念打造千年王國</span></li></ul></li></ul></li>
+<li>真三中每四個回合都有50%機率會使用專屬技能「魔縁のラッパ」能直接將最低血量比率的對手殺死<s>，假如很倒霉發現是主角最低的話就最好趕快reset了</s>
+<ul><li>真四雖然nerf掉成為典型的單體萬能攻擊，但倒霉地遇上微笑狀態的話還是會有附加100%即死的額外效果</li>
+<li>但真五在即死技能大nerf的情況下它也不能倖免，雖然變成無視屬性的單體機率即死技能倒是十分令人抓狂</li>
+<li>不過他沒有物理無效，即使真3時只要不讓主角HP墊底就好，比起物理無效一但手上的衝擊系魔法的仲魔用光MP就等死的大淫婦反而沒那麼頭痛。</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">マザーハーロット<br>（巴比倫大淫婦）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">萬能，狀態異常
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">バビロンの杯、女帝のリビドー
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅲ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>於十字教聖典《新約聖經》中的末日預言書《啓示錄》描述過的大淫婦
+<ul><li>全名為「大巴比倫的妓女之母及地球上最可憎之人」，但因為名稱太長一縮再縮成為現在的Mother Harlot甚至真三登場時<s>因為英文版的惡魔資料庫打不入那麼多字而</s>用的The Harlot了</li>
+<li>被描述成穿着紫紅色衣裳，騎着七頭十角的大紅龍，並對世上的王行淫並迷惑世人</li>
+<li>其描述某程度不是描述巴比倫而是暗示着羅馬帝國
+<ul><li>因為她在文中曾坐在七座山中，和羅馬神話中的七座山丘頗為吻合</li></ul></li></ul></li>
+<li>攻擊技能當然貼切其大淫婦形象，主要攻擊都會環繞着狀態異常，特別是其專用技能「女帝のリビドー」會附帶魅了</li>
+<li>真三帶有戰慄所有人修羅的「龍の眼光」的一人，能一口氣增加4個行動次數，雖然於她不會召喚僚機，但因為物理無效而除了衝擊系魔法外其他都有耐性而十分硬，因此若她一回合內重複使用的話<s>就會進入ずっと俺のターン狀態</s>，恐怕要提早reset了
+<ul><li><s>幸好</s>真四後沒有這種<s>毀天滅地的</s>敵方專用技能，但物理無效依然健在，再新增的專用技能「バビロンの杯」和一直擁有的「女帝のリビドー」變成沒法防禦的重傷害萬能屬性攻擊（且附帶狀態異常），加上會自行解除debuff，所以一不留神搞亂陣腳就很快被團滅了</li>
+<li>雖然不是最強的魔人，但名氣卻很大，很多人想到魔人第一時間都是她而不是號角手。</li></ul></li>
+<li><s>隔壁棚變成了<a href="/%E5%95%9F%E7%A4%BA%E9%8C%84%E4%B9%8B%E7%8D%B8_(Fate)" title="啟示錄之獸 (Fate)">貧乳少女</a></s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ダンテ<br>（但丁）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">E &amp; I、リベリオン、ネバーギブアップ、ホーリースター、<br>ラウンドトリップ、ワールウィンド、トゥーサムタイム、スティンガー、<br>父の名に誓って、ショウタイム
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅲ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:DanteRender.png" class="image"><noscript><img alt="DanteRender.png" src="/images/thumb/f/f7/DanteRender.png/200px-DanteRender.png" width="200" height="484"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 484px;" data-src="/images/thumb/f/f7/DanteRender.png/200px-DanteRender.png" data-alt="DanteRender.png" data-width="200" data-height="484"> </span></a>
+</td></tr></tbody></table><ul><li>CV：<a href="/%E6%A3%AE%E5%B7%9D%E6%99%BA%E4%B9%8B" title="森川智之">森川智之</a></li>
+<li>沒錯，就是<a href="/Devil_May_Cry" title="Devil May Cry">惡魔獵人系列</a>的那個但丁。<i><b><span style="color:red">Featuring Dante from the Devil May Cry Series.</span></b></i>
+<ul><li>在真3狂熱版以合作活動角色登場，之後因為版權問題改為葛葉雷道，但劇情沒有分別，只要進入アマラ深界後半打敗他就會加入。</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ケムトレイル<br>（化學尾跡）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">槍擊
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅳ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>原型為「<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%B0%BE%E8%B7%A1%E9%99%B0%E8%AC%80%E8%AB%96?uselang=zh-tw">化學尾跡陰謀論</a></span>」，指凝結尾跡含有化學成分，並有著逆反人道的目的</li>
+<li><s>這年頭都市傳說陰謀論都能當惡魔了</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">プラズマー/プラズマ・ボール<br>（等離子體/等離子球）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">電擊
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">プラズマ放電
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅳ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>外觀原型<s>自然</s>為等離子體，也就是電漿
+<ul><li>題外話，作為物質的第四態深受信仰，成為解釋超常現象的寵兒</li></ul></li>
+<li>實際上背景故事參考原型應為「<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E9%AB%98%E9%A0%BB%E4%B8%BB%E5%8B%95%E5%BC%8F%E6%A5%B5%E5%85%89%E7%A0%94%E7%A9%B6%E8%A8%88%E5%8A%83?uselang=zh-tw">高頻主動式極光研究計劃</a></span>」
+<ul><li>是一個由美國空軍、美國海軍、國防高等研究計劃署及阿拉斯加大學所共同合作的電離層研究計劃</li>
+<li>陰謀論上被認為是為了進行氣象戰而進行的研究，甚至是一種可以創造出極強射線的地球物理武器，除了是造成許多嚴重天災的元兇外，甚至導致地球毀滅</li>
+<li>其工作原理是透過鐳射來移動天線的焦點可以控制人工製造的等離子體，製造出能量束轟擊天空，這些能量束被電離層反射時會以低頻電磁波的形式返回地球
+<ul><li>特定波段的電磁波可以加熱電離層，使其往上升，電離層下方的空氣也會湧入並改變氣象，在戰爭上運用能輕易造成難辨自然或是人為的天災人禍</li></ul></li></ul></li>
+<li><s>形象就只是樓上的電擊屬性附魔版而已</s></li>
+<li><s>這年頭都市傳說（ry</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">人修羅<br>（人修羅）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL<br>真V：UNKNOWN
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">至高の魔弾、地母の晩餐、死亡遊戯<br>真V：混沌の理
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅲ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:250px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Demi-fiend_(SMTIII_HD_Edit)-2.png" class="image"><noscript><img alt="" src="/images/thumb/7/77/Demi-fiend_%28SMTIII_HD_Edit%29-2.png/68px-Demi-fiend_%28SMTIII_HD_Edit%29-2.png" width="68" height="120"></noscript><span class="lazy-image-placeholder" style="width: 68px;height: 120px;" data-src="/images/thumb/7/77/Demi-fiend_%28SMTIII_HD_Edit%29-2.png/68px-Demi-fiend_%28SMTIII_HD_Edit%29-2.png" data-alt="" data-width="68" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真3（惡魔化後）
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Hitoshura_Human.png" class="image"><noscript><img alt="" src="/images/thumb/9/9f/Hitoshura_Human.png/66px-Hitoshura_Human.png" width="66" height="120"></noscript><span class="lazy-image-placeholder" style="width: 66px;height: 120px;" data-src="/images/thumb/9/9f/Hitoshura_Human.png/66px-Hitoshura_Human.png" data-alt="" data-width="66" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真3（惡魔化前）
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><ul><li>CV：榎木淳弥</li>
+<li>沒錯，就是《<a href="/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97" title="女神轉生系列">真．女神轉生Ⅲ</a>》的主角，俗稱單車褲小子／紋身Boy</li>
+<li>初期作為主角的性能耐性面較差（由於成為非人之身而沒了破魔無效），在路上隨時可能會被破魔即死，不過攻擊面則是可以使用亂舞系魔法和各種專用物理技，比過去主角要強
+<ul><li>終期取得平將門禍魂後耐性面則變得相當優秀</li></ul></li>
+<li>在《數位惡魔傳說 天魔變》就有做為隱藏BOSS登場，實力強勁到甚至能角逐JRPG最難打BOSS的名次</li>
+<li>在真VDLC「人修羅與九位魔人」中作最終首領<s>數位惡魔傳說玩家：Ah shit, here we go again</s>
+<ul><li>主人公必需如真3那樣逐一把魔人們擊破，最後才在邪教世界打開挑戰人修羅之門。</li>
+<li>有著超越隱藏魔王濕婆的超破格實力，99級是最低要求，還得要吃大量靈香提升能力和事先準備，在不磨到使用「地母の晩餐」團滅的情況下才有機會擊破。</li>
+<li>雖然不能成為仲魔，但擊敗後能得到他的靈體，可以學會他的所有專用技<s>但是演示效果比較遜一點</s></li></ul></li></ul><p><br></p>
+<h3 class="in-block"><span id="其他神話、宗教及傳說"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96.E7.A5.9E.E8.A9.B1.E3.80.81.E5.AE.97.E6.95.99.E5.8F.8A.E5.82.B3.E8.AA.AA">其他神話、宗教及傳說</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=5" title="編輯章節：其他神話、宗教及傳說" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">モー・ショボー<br>（莫索保）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">兇鳥
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-LAW
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">衝擊
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">惡魔召喚師
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>布里亞特蒙古族的女惡魔，字面意思為「邪鳥」，會假扮成美女引誘男性去孤立無援的地方再變回雀鳥形態襲擊他們</li>
+<li>相傳是由未經戀愛就死掉的少女轉化而成的</li>
+<li>惡魔召喚師的萌物之一<s>，但不要過分接近她不然會被她啄爆腦殼再吸你的腦漿（無誤）</s>
+<ul><li>雖然本身是DARK屬性但可以不在月相特殊時對話，算是第一個可以對話的DARK屬性惡魔</li></ul></li>
+<li>3DS版靈魂駭客的隱藏boss葛葉雷道所操的莫索保會用她無法習得的「ファイナルヌード」</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">モコイ<br>（莫可伊/邪靈）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">夜魔
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL-CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">電擊
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">靈魂駭客
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>澳洲原住民傳説中居於森林的惡鬼，夜行性</li>
+<li>相傳是陰間靈魂的轉世，會強姦人類女性，甚至會綁架並吃掉小孩，並因此經常與人發生衝突</li>
+<li>惡魔召喚師的萌物之一<s>，會突破<a href="/%E7%AC%AC%E5%9B%9B%E9%9D%A2%E7%89%86" title="第四面牆">第四面牆</a>的宅宅
+</s><ul><s><li>《葛葉雷道對超力兵團》中被捕獲的話會問你是否用連射器抓他（該作捕獲=入隊時需要快速連按○鍵）</li>
+</s><li><s>真V是個鐵路兼電玩宅，甚至會問自己的召喚師（葛葉雷道？）幾時再召喚他</s></li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ユルング<br>（虹蛇）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">龍王
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">電擊、冰凍
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真・女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>澳洲原住民傳說中超越善惡的偉大存在，會爲乾旱的澳洲大陸引來降雨天氣的豐收之神
+<ul><li>相傳會隱藏在水井裏，然後在在雨後會現身，可以說是彩虹的擬物化（參考彩虹的發生原理）</li></ul></li>
+<li><s>但不僅在這系列變成中期雜魚，造型還很像蚯蚓/澳洲某個很好吃兼很好賣的蛇形軟糖</s></li>
+<li><s>真5裡差點被亞得米勒剝皮</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">コロンゾン<br>（克倫佐）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">妖魔、外道
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">LAW
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真・女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>20世紀初時被神秘學者阿萊斯特·克勞利所召喚的惡魔，失去控制後便完全被其附身</li>
+<li>真一中以典型惡魔形象登場，真三再次登場後變成了色違亡靈軍團</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ロア<br>（羅瓦）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">妖魔、夜魔、邪鬼
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">咒殺、異常狀態
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>神與聖靈在巫毒教的通稱，在多數存在中若有對人類生活實際影響者就會冠上此名</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ニ・カロン<br></th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">夜魔
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真・女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>印尼神話中蘭達的下屬魔女，當巴隆擊敗蘭達後就會成為新的蘭達</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">キャク<br>（Khyah/Cyak）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">夜魔
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真・女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>尼泊爾的怪物，雖然長相醜陋但能驅逐惡靈</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">カワンチャ<br>（Kwancha）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">地靈
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">異常狀態
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>尼泊爾傳說中生活在陰間的的病魔，會出現在十字路口，但假如獻上合適的祭品便能治癒病痛</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ラケー<br>（Lakhe）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">邪鬼
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">LAW
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>尼泊爾的吃人惡魔，居住在深山中，偶爾會進入村莊</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">オルクス<br>（奧庫斯）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">死神
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">衝擊、咒殺
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真・女神轉生 STRANGE JOURNEY
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>古代義大利中部，伊特拉斯坎神話的冥王，在壁畫上描繪了其長有長鬚的巨大身姿
+<ul><li>後來發生「維愛戰爭」後，被羅馬吸收神話體系及信仰，變成了死神「奧迦斯」</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ラクチャランゴ<br>（Rakcharango）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔獸
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>西藏傳說中閻王的侍者</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">サンニ・ヤカー<br>（Sanni Yaka）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔獸
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>斯里蘭卡的疾病之魔，代表著十八種不同的疾病</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ジャイアント<br>（巨人）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">地靈
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li><s>需要解釋嗎?</s>世界各地都有流傳的傳說生物
+<ul><li>各地流傳的各有不同，希臘巨人是蓋亞的子嗣，北歐巨人為諸神的威脅<s>，此外還有<a href="/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA" title="進擊的巨人">進擊的巨人</a></s></li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">シェイド<br>（陰影）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">邪靈
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>就是影子，在部分傳說被視為死者的鬼魂</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">コープス<br>（屍體）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">屍鬼
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">槍擊、冰凍、咒殺
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li><s>需要解釋嗎</s>就是屍體</li>
+<li>造型上是大量堆積的殭屍</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ワーカホリック<br>（工作狂）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">屍鬼
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li><s>現實大多數朋友的寫照</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ガルガンチュア<br>（高康大）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">造魔
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL-NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">原型、正式：雷電、衝擊<br>Q：補助<br>X：火焰、雷電<br>8：物理、萬能<br>零式：冰凍
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">8：にくたいのあくま<br>アイオンの雨
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">原型、正式、Q、X、8：惡魔召喚師<br>零式：惡魔召喚師 靈魂駭客
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li>出自《巨人傳》的巨人「高康大」</li>
+<li>以魔王形式登場，遭遇的型號眾多，等級不一</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">クトゥルー<br>（克蘇魯）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">邪神
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-LAW
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li>就是克蘇魯（無誤）</li>
+<li><s>雖然是最近建立的神話體系，但是拿別人小說總感覺哪裡不對</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ニャルラトホテプ<br>（奈亞拉托提普）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">邪神
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-LAW
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li>就是那個魷魚精（無誤）</li>
+<li><s>雖然是最近建立的神話體系，但是拿別人小說總感覺（ry</s></li>
+<li>P系列前兩作登場角色神取鷹久的Persona，同時也是P2的最終BOSS</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">オールドワン<br>（舊日支配者）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">外道
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li>就是那群妖魔鬼怪（無誤）</li>
+<li><s>雖然是最近建立的神話體系，但是拿別人小說（ry</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">バックベアード<br>（巴克貝亞德）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">外道
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>就是漫畫《鬼太郎》的那個（無誤）
+<ul><li>首度登場於1966年4月17號的「妖怪大戦争」，之後的作品中也經常作為西方高等妖怪登場</li></ul></li>
+<li>遠在《鬼太郎》之前就有過由攝影家「內藤正敏」於1964年製作的攝影作品「新宿幻景・キメラ」，並指其盜用靈感
+<ul><li>但後來又遭挖掘指類似靈感早在1882年由法國畫家「奧迪隆·魯東」繪製的「眼＝氣球」中出現</li>
+<li><s>雖然創作被指相近甚至相同的確需要反思，但是「黑色不可名狀+眼球」這種簡單要素怎看都是容易撞車的題材，內藤老師相比也沒料到會被幹到</s></li></ul></li>
+<li>從黑色隙縫怪變成遊戲形象的色違アスコモイド，真1再變成紅色觸手怪</li>
+<li><s>為什麼人家的作品也能照樣拿來用啊，又不是但丁那種合作的</s></li>
+<li><s>因<a href="/%E6%88%90%E5%8F%A5/%E4%BD%A0%E5%80%91%E9%80%99%E4%BA%9B%E6%AD%BB%E8%98%BF%E8%8E%89%E6%8E%A7%EF%BC%81%EF%BC%81" title="成句/你們這些死蘿莉控！！">「你們這些死蘿莉控！！」</a>一句成名，或與黑紅伯爵及大量未成年外貌惡魔愛好者結下深仇大恨</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ベテルギウス<br>（參宿四）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">堕天使
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL-CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">火焰、雷電
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li>就是《陰間大法師》那個（無誤）</li>
+<li><s>為什麼人家的作品也能照樣拿來用啊，又不是（ry</s></li>
+<li>真2中做為BOSS登場，打倒後會隨機以人型型態作為雜魚出現</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">クリス・ザ・カー<br>（<s>克麗絲追魂車</s>）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">外道
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">狀態異常
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li>元捏她為《克麗絲汀魅力》跟《幽靈追魂車》</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ラプスーチン<br>（拉斯普丁）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">怪僧
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">葛葉雷道對超力兵團
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>全名「格里戈里·葉菲莫維奇·拉斯普丁」，著名的俄羅斯<s>巨屌</s>妖僧
+<ul><li>他在青年未上位時已經十分風流，且好賭成性的雜碎。因而導致家道中落，但因爲一系列機緣巧合（如“神功”救活沙皇的皇太子和狗及被極端皇權主義者招攬）反成爲了沙皇尼古拉二世和皇后亞歷珊卓的心腹</li>
+<li>後來成功靠着“催眠術”勾搭了篤信神祕主義的皇后，加上極爲荒淫的生活態度，導致沙皇及其皇親國戚都千方百計想殺死他（如找藉口死刑、暗殺、毒殺等），可是憑他的直覺和生命力數次都死裏逃生
+<ul><li>最後的暗殺時還能以頭部重創的狀況下冰水中存活數分鐘（傳言而已，因蘇聯的文件清洗下詳細死因已經無從稽考）</li></ul></li>
+<li><s>巨屌傳說甚至在他死後令俄國女性都前來觀摩其割掉後的雄偉巨根</s></li></ul></li>
+<li>遊戲中為<s>還是大難不死的if路線下</s>大道寺伽耶的協力者，並多次與主角對抗<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後發現原來是個機械人</span>
+<ul><li><s>特技是俄羅斯套娃（無誤）</s></li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">サナト<br>（聖納）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">混沌王
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">物理、槍擊
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">地母の晩餐、死亡遊戯、ダークエナジー
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅳ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>全名「聖納.庫瑪拉」，原型為印度教神話登場的賢者
+<ul><li>在現代神智學中是1850萬年前來自金星、作為地球真理（地球的創造者，上帝）、物質世界的代理人及靈魂指導者「Mahātmā（偉大之魂）」的存在之一</li>
+<li>作為「世界君主」及「Mahātmā」的頂點，指引著世間萬物的進化<s>從賢者到概念化，這也太偏了吧</s></li></ul></li>
+<li>介紹見下：</li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;">點擊展開
+</th></tr><tr><td style="font-style:italic;">以下為隱藏的內容
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li>日文：正式名は「サナト・クマーラ」でありサンスクリット語で「永遠の若者」を意味する。<br>元はヒンドゥーの神ブラフマーの生み出した四人の賢者のひとりとされる。<br>一説には、数百万年前に金星から地球に降り立ち、物質界における地球人類の進化を早め、地球の霊的統治をおこなうため到来した存在といわれている。<br>その役割あるいは名前から、近年ではクラマテングと同一視されたり、ルシファーと混同されたりしている。</li>
+<li>翻譯：正式名稱為「聖納.庫瑪拉（Sanat Kumara）」，在梵語中意為「永恆的年輕者」。<br>最初被認為是印度教神梵天創造的四位智者之一。<br>一說認為，他在數百萬年前從金星上下來，以加快地球上人類在物質世界的進化，並執行地球的對靈統治。<br>近年來，由於其職責或名字，被與鞍馬天狗作同一視，或與路西法混淆。</li></ul></td></tr></tbody></table><ul><li><s>人修羅Alter</s><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li></ul><p><br></p>
+<h3 class="in-block"><span id="原創惡魔"></span><span class="mw-headline" id=".E5.8E.9F.E5.89.B5.E6.83.A1.E9.AD.94">原創惡魔</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=6" title="編輯章節：原創惡魔" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="數位惡魔物語_女神轉生Ⅱ"></span><span class="mw-headline" id=".E6.95.B8.E4.BD.8D.E6.83.A1.E9.AD.94.E7.89.A9.E8.AA.9E_.E5.A5.B3.E7.A5.9E.E8.BD.89.E7.94.9F.E2.85.A1">數位惡魔物語 女神轉生Ⅱ</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=7" title="編輯章節：數位惡魔物語 女神轉生Ⅱ" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">フレイミーズ<br>（火精靈）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">精靈
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">火焰
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">アクアンズ<br>（水精靈）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">精靈
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">冰凍
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">エアロス<br>（風精靈）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">精靈
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">火焰
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">アーシーズ<br>（磐石精靈）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">精靈
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">火焰
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">數位惡魔物語 女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li>就是四大元素</li>
+<li>最大的特點是不管和什麼惡魔合體都只會將該惡魔變成同一種族再高一階的惡魔，四大元素精靈亦同</li></ul><h4 class="in-block"><span id="真‧女神轉生"></span><span class="mw-headline" id=".E7.9C.9F.E2.80.A7.E5.A5.B3.E7.A5.9E.E8.BD.89.E7.94.9F">真‧女神轉生</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=8" title="編輯章節：真‧女神轉生" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">スティーヴン<br>（史提芬）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">超人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">全屬性
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">4F（第一階段）：エネルギー圧縮、特異点の烙印、<br>特異点の業火、特異点の雹撃、<br>特異点の雷光、特異点の竜巻、<br>カラミティコード、黒体の輻射、<br>（第二階段）：ブラックホール、収束する境界、<br>無境界の波動関数、特異点の波弾、<br>粒子の再生成、粒子の対消滅、<br>クラックコード、リブートコート
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:250px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:STEVEN.png" class="image"><noscript><img alt="" src="/images/thumb/4/43/STEVEN.png/116px-STEVEN.png" width="116" height="120"></noscript><span class="lazy-image-placeholder" style="width: 116px;height: 120px;" data-src="/images/thumb/4/43/STEVEN.png/116px-STEVEN.png" data-alt="" data-width="116" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真1
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Stephen_NINE.png" class="image"><noscript><img alt="" src="/images/thumb/4/4b/Stephen_NINE.png/102px-Stephen_NINE.png" width="102" height="120"></noscript><span class="lazy-image-placeholder" style="width: 102px;height: 120px;" data-src="/images/thumb/4/4b/Stephen_NINE.png/102px-Stephen_NINE.png" data-alt="" data-width="102" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真NINE
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Steven_SMTIV.png" class="image"><noscript><img alt="" src="/images/thumb/e/e9/Steven_SMTIV.png/84px-Steven_SMTIV.png" width="84" height="120"></noscript><span class="lazy-image-placeholder" style="width: 84px;height: 120px;" data-src="/images/thumb/e/e9/Steven_SMTIV.png/84px-Steven_SMTIV.png" data-alt="" data-width="84" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真4
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><ul><li>CV：<span class="plainlinks"><a rel="nofollow" class="external text" href="https://jp.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%BC_(%E4%BF%B3%E5%84%AA)?uselang=zh-tw">チョー（長）</a></span></li>
+<li>雖然歸類為原創惡魔，不過從外觀及涉及技術看來，原形是史提芬．霍金博士</li>
+<li>在真1時因為開發端末轉移技術而不經意的打開了魔界的大門受了重傷，之後將自己開發的惡魔召喚程式在網路上四處散播希望有人能拯救世界<s>，白話來說就是抽救世主轉蛋</s>
+<ul><li>當玩家尚未分歧路線或者正式走入中立路線時會給予玩家協助</li></ul></li>
+<li>在真4F中以DLC的追加BOSS登場，內容是各個世界知曉自己會被殺掉的YHVH開<s>GM</s>創造神權限將各作主角(救世主)們封入金剛神界打算殺掉
+<ul><li>而在找到亞雷夫和人修羅以及弗林後，前往他的所在場所會和玩家對戰以激發THE HERO靈魂的生存心使其復活</li>
+<li>而在戰勝後原本以為結束了…
+<ul><li><s><b>「小芬他…他站起來啦啊啊啊啊！！！！」</b></s></li></ul></li>
+<li>緊接而來的就是拿出全力和救世主們對戰的史提芬…
+<ul><li>雖然我方有包含玩家自己分兩隊共5個救世主並且有著包含兩個耐性降低效果的強勢技能，但史提芬是以各種暴力的貫通、削MP和萬能攻擊、以及各種能力超降低和超提升和破壞行動次數為主的極無理技能所構成</li>
+<li>而且行動非常隨機，許多人外獵人和救世主們就這樣被面前的輪椅超人疊滿強化跟弱化然後一砲蒸發<s>，不過HP香和MP香吃滿到9999/999又是一回事</s></li></ul></li>
+<li><s>沒見過史提芬的人修羅表示：干我屁事啊！</s></li>
+<li><s>經此一戰後玩家紛紛表示某四文字神要加強一下</s>
+<ul><li><s>話雖如此，史提芬的技能構成其實大多能找的到YHVH的影子，其戰鬥機制也和YHVH相同，連BGM也是用同一首，說是隱藏魔王加強版也不為過</s></li>
+<li><s>結論：霍金比唯一神還屌到不行（大噓）</s></li></ul></li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ロウヒーロー<br>（Law Hero）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">超人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">Law
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:200px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:A0tfw-7jptc.png" class="image"><noscript><img alt="" src="/images/thumb/c/ca/A0tfw-7jptc.png/39px-A0tfw-7jptc.png" width="39" height="120"></noscript><span class="lazy-image-placeholder" style="width: 39px;height: 120px;" data-src="/images/thumb/c/ca/A0tfw-7jptc.png/39px-A0tfw-7jptc.png" data-alt="" data-width="39" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真1
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:LHMessiahRender.png" class="image"><noscript><img alt="" src="/images/thumb/7/75/LHMessiahRender.png/36px-LHMessiahRender.png" width="36" height="120"></noscript><span class="lazy-image-placeholder" style="width: 36px;height: 120px;" data-src="/images/thumb/7/75/LHMessiahRender.png/36px-LHMessiahRender.png" data-alt="" data-width="36" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真1<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">（復活後）</span>
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">カオスヒーロー<br>（Chaos Hero）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">超人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">Chaos
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:200px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:ChaosHeroTransparent.png" class="image"><noscript><img alt="" src="/images/thumb/b/bf/ChaosHeroTransparent.png/49px-ChaosHeroTransparent.png" width="49" height="120"></noscript><span class="lazy-image-placeholder" style="width: 49px;height: 120px;" data-src="/images/thumb/b/bf/ChaosHeroTransparent.png/49px-ChaosHeroTransparent.png" data-alt="" data-width="49" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真1
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:DemonCHTransparent.png" class="image"><noscript><img alt="" src="/images/thumb/5/5f/DemonCHTransparent.png/60px-DemonCHTransparent.png" width="60" height="120"></noscript><span class="lazy-image-placeholder" style="width: 60px;height: 120px;" data-src="/images/thumb/5/5f/DemonCHTransparent.png/60px-DemonCHTransparent.png" data-alt="" data-width="60" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真1<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">（與惡魔合體後）</span>
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><h4 class="in-block"><span id="真‧女神轉生Ⅱ"></span><span class="mw-headline" id=".E7.9C.9F.E2.80.A7.E5.A5.B3.E7.A5.9E.E8.BD.89.E7.94.9F.E2.85.A1">真‧女神轉生Ⅱ</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=9" title="編輯章節：真‧女神轉生Ⅱ" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">キングフロスト<br>（霜精之王）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔王
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">冰凍
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">キングブフーラ
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅱ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:250px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:KingFrostSMT2-1.png" class="image"><noscript><img alt="" src="/images/thumb/0/0f/KingFrostSMT2-1.png/119px-KingFrostSMT2-1.png" width="119" height="120"></noscript><span class="lazy-image-placeholder" style="width: 119px;height: 120px;" data-src="/images/thumb/0/0f/KingFrostSMT2-1.png/119px-KingFrostSMT2-1.png" data-alt="" data-width="119" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>真2
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:16px auto;"><a href="/%E6%AA%94%E6%A1%88:King_Frost_(DSSH_Art)-1.png" class="image"><noscript><img alt="" src="/images/thumb/c/c5/King_Frost_%28DSSH_Art%29-1.png/120px-King_Frost_%28DSSH_Art%29-1.png" width="120" height="118"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 118px;" data-src="/images/thumb/c/c5/King_Frost_%28DSSH_Art%29-1.png/120px-King_Frost_%28DSSH_Art%29-1.png" data-alt="" data-width="120" data-height="118"> </span></a></div></div>
+			<div class="gallerytext">
+<p>靈魂駭客
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15.5px auto;"><a href="/%E6%AA%94%E6%A1%88:King_Frost_(Devil_Children_Art)-1.png" class="image"><noscript><img alt="" src="/images/thumb/2/2d/King_Frost_%28Devil_Children_Art%29-1.png/120px-King_Frost_%28Devil_Children_Art%29-1.png" width="120" height="119"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 119px;" data-src="/images/thumb/2/2d/King_Frost_%28Devil_Children_Art%29-1.png/120px-King_Frost_%28Devil_Children_Art%29-1.png" data-alt="" data-width="120" data-height="119"> </span></a></div></div>
+			<div class="gallerytext">
+<p>惡魔之子
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><ul><li>傑克霜精中的王
+<ul><li>在GBA版真2的幕間提到是元老院以無視合體法則的方式，把成千上萬的傑克霜精進行強制合體製造出來的惡魔</li>
+<li>2D作通常使用真2的造型，而在惡魔之子中金子一馬繪製了一個金色冷藏庫外型的版本，在之後的3D作品大多都使用這個造型<s>，畢竟用原版會的話會操死3D建模師和debuger</s></li></ul></li></ul><p><br></p>
+<h4 class="in-block"><span id="真‧女神轉生Ⅲ-NOCTURNE"></span><span class="mw-headline" id=".E7.9C.9F.E2.80.A7.E5.A5.B3.E7.A5.9E.E8.BD.89.E7.94.9F.E2.85.A2-NOCTURNE">真‧女神轉生Ⅲ-NOCTURNE</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=10" title="編輯章節：真‧女神轉生Ⅲ-NOCTURNE" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ライドウ<br>（葛葉雷道）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">？？？
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">物理、萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">ブギウギ、ヨシツネ見参、ミシャクジ雷電、ヒトコト大風、<br>凶鳥ガーヂアン、執り成し、モコイブーメラン、的殺、<br>永世ライドウ、ジライヤ乱舞
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅲ-NOCTURNE
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:Raidou_Kuzunoha_render-1.png" class="image"><noscript><img alt="Raidou Kuzunoha render-1.png" src="/images/thumb/3/35/Raidou_Kuzunoha_render-1.png/300px-Raidou_Kuzunoha_render-1.png" width="300" height="434"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 434px;" data-src="/images/thumb/3/35/Raidou_Kuzunoha_render-1.png/300px-Raidou_Kuzunoha_render-1.png" data-alt="Raidou Kuzunoha render-1.png" data-width="300" data-height="434"> </span></a>
+</td></tr></tbody></table><ul><li>CV：<a href="/%E6%9D%89%E7%94%B0%E6%99%BA%E5%92%8C" title="杉田智和">杉田智和</a>
+<ul><li>順帶一提五代的配角八雲翔平CV也是杉田<s>，也因為造型、CV和劇中表現被吐槽是雷道和但丁的混合體</s></li>
+<li>在小說板透露的１４代雷道本名錠平(ジョウヘイ)和翔平(ショウヘイ)只差一個字</li></ul></li>
+<li>《惡魔召喚師-葛葉雷道對》系列的主人公，<s>女神轉生系列主角特有的</s>無口</li>
+<li>在「アマラ深界」的「第5カルパ」中觸發活動，而隊伍尚有空位的話會加入，一加入就是80等
+<ul><li><s>夭壽啦，惡魔奴役人類啦</s></li></ul></li>
+<li>由於版本不同的關係，雖然技能不同但每個技能的效果都和但丁的技能差不多</li>
+<li>由於是惡魔召喚師的關係，大多技能都是召喚仲魔作為中心</li>
+<li>在靈魂駭客3DS移植版中也作為隱藏BOSS登場</li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ジャアクフロスト<br>（邪惡霜精）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">夜魔
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK-NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">冰凍、咒殺
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅲ-NOCTURNE
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:BlackFrostSMT3-1.png" class="image"><noscript><img alt="BlackFrostSMT3-1.png" src="/images/thumb/b/b0/BlackFrostSMT3-1.png/300px-BlackFrostSMT3-1.png" width="300" height="350"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 350px;" data-src="/images/thumb/b/b0/BlackFrostSMT3-1.png/300px-BlackFrostSMT3-1.png" data-alt="BlackFrostSMT3-1.png" data-width="300" data-height="350"> </span></a>
+</td></tr></tbody></table><ul><li>覺醒邪惡本性的傑克霜精<s>，不過其實是個<a href="/%E4%B8%AD%E4%BA%8C%E7%97%85" title="中二病">中二屁孩</a></s>
+<ul><li>在金子一馬的原畫中有踩著一般傑克霜精的造型</li>
+<li>值得一提的是耐性和一般的霜精不同，火炎屬性的耐性通常是無效或以上<s>，因此許多玩家會傻傻的用火炎屬性燒下去然後被騙行動點</s></li></ul></li>
+<li>真三中原爲經營澀谷道具屋的ヒーホーくん，但為了籌集更多資金於是賣掉店給其他人後踏上他成為王的旅程
+<ul><li>經一輪輾轉過後為了追求力量吃掉了「撒旦的禍魂」而變成邪惡霜精，並佔據了原為曼陀羅軍的歌舞伎町，成為歌舞伎町之皇（自稱）</li>
+<li>及後嘗試挑戰人修羅，<s>只要人修羅不老馬升天的話</s>但失敗，變回普通霜精然後溶解消失</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但在「アマラ深界」的「第3カルパ」中確定生還，而隊伍尚有空位的話會強制入隊，但有同名惡魔的話會怒退（無誤）</span></li></ul></li>
+<li>真V中則成為了銀座之皇（自稱），看中戴歐尼修斯的酒精供應，要求主角一起殺死他來壟斷酒精獲取暴利，完成他的請求便會入隊
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">由於他説過自己曾是歌舞伎町之皇因此很大機會是18年後的ヒーホーくん</span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li></ul></li></ul><p><br></p>
+<h4 class="in-block"><span id="真‧女神轉生_STRANGE_JOURNEY"></span><span class="mw-headline" id=".E7.9C.9F.E2.80.A7.E5.A5.B3.E7.A5.9E.E8.BD.89.E7.94.9F_STRANGE_JOURNEY">真‧女神轉生 STRANGE JOURNEY</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=11" title="編輯章節：真‧女神轉生 STRANGE JOURNEY" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ゴア隊長<br>（戈爾隊長）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">超人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">物理、槍擊
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">天上撃、Ｅ.Ｎ.Ｄ.、当意即妙、<br>克己、力があふれる
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生 STRANGE JOURNEY
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:200px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Commander_Gore_(SMT_SJ_Art)-1.png" class="image"><noscript><img alt="" src="/images/thumb/6/6f/Commander_Gore_%28SMT_SJ_Art%29-1.png/43px-Commander_Gore_%28SMT_SJ_Art%29-1.png" width="43" height="120"></noscript><span class="lazy-image-placeholder" style="width: 43px;height: 120px;" data-src="/images/thumb/6/6f/Commander_Gore_%28SMT_SJ_Art%29-1.png/43px-Commander_Gore_%28SMT_SJ_Art%29-1.png" data-alt="" data-width="43" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Commander_Gore_Ubergestalt_(SMT_SJ_Art)-1.png" class="image"><noscript><img alt="" src="/images/thumb/9/9d/Commander_Gore_Ubergestalt_%28SMT_SJ_Art%29-1.png/45px-Commander_Gore_Ubergestalt_%28SMT_SJ_Art%29-1.png" width="45" height="120"></noscript><span class="lazy-image-placeholder" style="width: 45px;height: 120px;" data-src="/images/thumb/9/9d/Commander_Gore_Ubergestalt_%28SMT_SJ_Art%29-1.png/45px-Commander_Gore_Ubergestalt_%28SMT_SJ_Art%29-1.png" data-alt="" data-width="45" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ（<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">復活為超人後</span>）
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">序章就<s>漂亮地立下flag</s>為了拯救主角而死，後因為銜尾蛇使然而以「ユーバー・ゲシュタルト（Über Gestalt）」的姿態復活</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">是擁有高度智慧但卻是另外且受操縱的意識，其穿著正是準備安葬時的喪服（無誤）</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在主角面臨摩耶的幻覺時被成功喚醒人類時期的意識，並用盡自身的所能協助主角</span></li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ヒメネス<br>（希門尼斯）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">覚醒人<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">、大地人</span>
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">Chaos
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">槍擊、火焰、萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">ケイオスタック、地獄の業火、レフトハンド、<br>シャッフラー、ダークマター
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真・女神轉生 STRANGE JOURNEY
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:200px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Jimenez_(SMT_SJ_Art)-1.png" class="image"><noscript><img alt="" src="/images/thumb/5/59/Jimenez_%28SMT_SJ_Art%29-1.png/49px-Jimenez_%28SMT_SJ_Art%29-1.png" width="49" height="120"></noscript><span class="lazy-image-placeholder" style="width: 49px;height: 120px;" data-src="/images/thumb/5/59/Jimenez_%28SMT_SJ_Art%29-1.png/49px-Jimenez_%28SMT_SJ_Art%29-1.png" data-alt="" data-width="49" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Jimenez_Awake_(SMT_SJ_Art)-2.png" class="image"><noscript><img alt="" src="/images/thumb/b/b0/Jimenez_Awake_%28SMT_SJ_Art%29-2.png/64px-Jimenez_Awake_%28SMT_SJ_Art%29-2.png" width="64" height="120"></noscript><span class="lazy-image-placeholder" style="width: 64px;height: 120px;" data-src="/images/thumb/b/b0/Jimenez_Awake_%28SMT_SJ_Art%29-2.png/64px-Jimenez_Awake_%28SMT_SJ_Art%29-2.png" data-alt="" data-width="64" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ（覚醒人）
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Jimenez_Soil_(SMT_SJ_Art)-2.png" class="image"><noscript><img alt="" src="/images/thumb/4/4c/Jimenez_Soil_%28SMT_SJ_Art%29-2.png/86px-Jimenez_Soil_%28SMT_SJ_Art%29-2.png" width="86" height="120"></noscript><span class="lazy-image-placeholder" style="width: 86px;height: 120px;" data-src="/images/thumb/4/4c/Jimenez_Soil_%28SMT_SJ_Art%29-2.png/86px-Jimenez_Soil_%28SMT_SJ_Art%29-2.png" data-alt="" data-width="86" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ（<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">大地人</span>）
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><ul><li>CV：<a href="/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F" title="櫻井孝宏">櫻井孝宏</a></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被研究員抓起來後與仲魔バガブー一併成為實驗體，在バガブー即將奄奄一息之際讓主角進行人與魔的惡魔合體</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但從此也性情大變，原本豪邁胡鬧的性格被急劇放大，在LAW路線完全變化為大地人</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">舊CHAOS結局遵從梅姆阿雷夫的意旨，創造了遍地鬥爭的新世界；而新CHAOS路線與主角創造了「清算污穢人類」的美好世界，並在此自由探求、人魔共存的<s>完美接近N路線的</s>世界中重逢</span></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ゼレーニン<br>（潔蕾妮）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">審判者<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">、聖柱</span>
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">Law
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">審判者：物理、電擊、萬能<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">聖柱：破魔、咒殺</span>
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">審判者：ライトハンド、断末波、メギドの雷火、咎歌<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">聖柱：レクイエム</span>
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真・女神轉生 STRANGE JOURNEY
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:200px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Zelenin_(SMT_SJ_Art)-1.png" class="image"><noscript><img alt="" src="/images/thumb/6/6c/Zelenin_%28SMT_SJ_Art%29-1.png/50px-Zelenin_%28SMT_SJ_Art%29-1.png" width="50" height="120"></noscript><span class="lazy-image-placeholder" style="width: 50px;height: 120px;" data-src="/images/thumb/6/6c/Zelenin_%28SMT_SJ_Art%29-1.png/50px-Zelenin_%28SMT_SJ_Art%29-1.png" data-alt="" data-width="50" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Zelenin_Judge_(SMT_SJ_Art)-1.png" class="image"><noscript><img alt="" src="/images/thumb/9/92/Zelenin_Judge_%28SMT_SJ_Art%29-1.png/44px-Zelenin_Judge_%28SMT_SJ_Art%29-1.png" width="44" height="120"></noscript><span class="lazy-image-placeholder" style="width: 44px;height: 120px;" data-src="/images/thumb/9/92/Zelenin_Judge_%28SMT_SJ_Art%29-1.png/44px-Zelenin_Judge_%28SMT_SJ_Art%29-1.png" data-alt="" data-width="44" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ（審判者）
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Zelenin_Pillar_(SMT_SJ_Art)-1.png" class="image"><noscript><img alt="" src="/images/thumb/0/06/Zelenin_Pillar_%28SMT_SJ_Art%29-1.png/86px-Zelenin_Pillar_%28SMT_SJ_Art%29-1.png" width="86" height="120"></noscript><span class="lazy-image-placeholder" style="width: 86px;height: 120px;" data-src="/images/thumb/0/06/Zelenin_Pillar_%28SMT_SJ_Art%29-1.png/86px-Zelenin_Pillar_%28SMT_SJ_Art%29-1.png" data-alt="" data-width="86" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ（<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">聖柱</span>）
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><ul><li>CV：<a href="/%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE" title="坂本真綾">坂本真綾</a></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被惡魔襲擊過後得主角營救，後遇上莫斯提馬並受其遊說</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">終盤被賜與力量，單憑歌唱即可鎮壓小隊；在CHAOS路線完全變化為聖柱</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">舊LAW結局中成為帶領萬千人類的聖柱，締造了永遠讚頌神明的王國；而在新LAW路線則為了淨化人類的鬥爭心而背叛神與天使，創造新的<s>完美接近（ry</s>美好世界</span></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">メムアレフ<br>（梅姆阿雷夫）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">大霊母<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">、虚大霊</span>
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">LIGHT-CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">全屬性
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">大霊母：火、氷、雷、風、光、闇、キス・マー、<br>始祖の理、大洪水、災厄の輪廻、秩序の光、<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">虚大霊：メム＝アレフ、MA</span>
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真・女神轉生 STRANGE JOURNEY
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:500px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:39.5px auto;"><a href="/%E6%AA%94%E6%A1%88:Mem_Aleph_(SMT_SJ_Art).png" class="image"><noscript><img alt="" src="/images/thumb/9/95/Mem_Aleph_%28SMT_SJ_Art%29.png/120px-Mem_Aleph_%28SMT_SJ_Art%29.png" width="120" height="71"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 71px;" data-src="/images/thumb/9/95/Mem_Aleph_%28SMT_SJ_Art%29.png/120px-Mem_Aleph_%28SMT_SJ_Art%29.png" data-alt="" data-width="120" data-height="71"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15.5px auto;"><a href="/%E6%AA%94%E6%A1%88:Mem_Aleph_Empty_Form-1.png" class="image"><noscript><img alt="" src="/images/thumb/e/e5/Mem_Aleph_Empty_Form-1.png/120px-Mem_Aleph_Empty_Form-1.png" width="120" height="119"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 119px;" data-src="/images/thumb/e/e5/Mem_Aleph_Empty_Form-1.png/120px-Mem_Aleph_Empty_Form-1.png" data-alt="" data-width="120" data-height="119"> </span></a></div></div>
+			<div class="gallerytext">
+<p>SJ（<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">虚大霊</span>）
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><ul><li>CV：<a href="/%E5%A4%A7%E5%8E%9F%E6%B2%99%E8%80%B6%E9%A6%99" title="大原沙耶香">大原沙耶香</a></li>
+<li>原創惡魔，地球意志的渾沌面相化身，和三賢人（神靈シェキナー）相對應的存在
+<ul><li>名稱的意義是來自希伯來語的水（Mem）+原初（Aleph）</li></ul></li>
+<li>原本是作為創造的太母神而存在，因為人類對地球的破壞和汙染而化成破壞的古母
+<ul><li>在本作中只有走表CHAOS路線才不會與她為敵，否則必定和玩家為敵</li>
+<li>重製版中更進一步的強化了其<s>老害</s>古母性格，除了黑色疆域外更是創造出用來消化異論者古神惡魔的嘆息之胎</li>
+<li>在嘆息之胎中被封印的惡魔有女神迪蜜特、天女阿娜西塔、女神伊絲塔、<s>湊數用的</s>墮天使佛紐斯、魔王亞蒙、夜魔許普諾斯、魔神宙斯、女神瑪麗亞等</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一度被擊破後，捨棄理智及肉體，成為單純破壞一切的存在「虛大靈」</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">配合機制足以競逐歷代最難魔王</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">保有前一個姿態的技能下依舊具有非常強大的攻擊力，而且此階段的屬性對應除了破魔與咒殺外皆會在每回合按規律切換</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而在「虛大靈」時追加的「MA」，效果是「即死及完全吸收對象的HP」，而且<b>可以對主角發動</b></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">導致對陣的時候輸出不足以有效攻打的話，跟此型態的她對戰有如俄羅斯輪盤，抽到主角直接GAME OVER</span></li></ul></li></ul></li>
+<li><s>有著一頭極為特色的大嬸髮型及極度苗條的身材</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">順帶一提，築地根岸寺裡最深處有著她的塑像</span></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">デモニホ
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">妖精
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL-NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">物理、槍擊、冰凍
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">てっけんせいさい、ブランクバレット、うちまくり
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真・女神轉生 STRANGE JOURNEY
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:Demonee-Ho_(Dx2_Art).png" class="image"><noscript><img alt="Demonee-Ho (Dx2 Art).png" src="/images/thumb/5/59/Demonee-Ho_%28Dx2_Art%29.png/300px-Demonee-Ho_%28Dx2_Art%29.png" width="300" height="409"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 409px;" data-src="/images/thumb/5/59/Demonee-Ho_%28Dx2_Art%29.png/300px-Demonee-Ho_%28Dx2_Art%29.png" data-alt="Demonee-Ho (Dx2 Art).png" data-width="300" data-height="409"> </span></a>
+</td></tr></tbody></table><ul><li>身穿戰甲的傑克霜精</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">DSJ中表明其本體為藏王權現<s>而且說話會以「ホー」作結尾，前後反差惹得隊員們失笑</s></span></li></ul><p><br></p>
+<h4 class="in-block"><span id="真‧女神轉生Ⅳ/Ⅳ_Final"></span><span class="mw-headline" id=".E7.9C.9F.E2.80.A7.E5.A5.B3.E7.A5.9E.E8.BD.89.E7.94.9F.E2.85.A3.2F.E2.85.A3_Final">真‧女神轉生Ⅳ/Ⅳ Final</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=12" title="編輯章節：真‧女神轉生Ⅳ/Ⅳ Final" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ケンジ
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">東京王
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">覇者の気風、欺瞞の鎖
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅳ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:Kenji_SMTIV_Full_Artwork.png" class="image"><noscript><img alt="Kenji SMTIV Full Artwork.png" src="/images/thumb/4/4c/Kenji_SMTIV_Full_Artwork.png/300px-Kenji_SMTIV_Full_Artwork.png" width="300" height="373"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 373px;" data-src="/images/thumb/4/4c/Kenji_SMTIV_Full_Artwork.png/300px-Kenji_SMTIV_Full_Artwork.png" data-alt="Kenji SMTIV Full Artwork.png" data-width="300" data-height="373"> </span></a>
+</td></tr></tbody></table><ul><li>CV：<a href="/%E5%B0%8F%E8%A5%BF%E5%85%8B%E5%B9%B8" title="小西克幸">小西克幸</a></li>
+<li>「<ruby>爆炎之東京<rp>（</rp><rt style="font-size:0.5em;">chaos世界線</rt><rp>）</rp></ruby>」的支配者，以等離子態的人臉姿態現身
+<ul><li>創造了東京社會結構的人，包括惡魔人類<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>和牲畜人類<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>之間的「共存」關係</li>
+<li>還是人類的時候就能夠躲避天使襲擊的強者，以「東京王」之名被居民們所畏懼</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">以沙漠東京對應的人類角色聲優是神谷浩史來看，恐怕是前世的華爾達</span></li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">バロウズ
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">妖精
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL-NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅳ
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:Yq9fjvMN_4x-2.png" class="image"><noscript><img alt="Yq9fjvMN 4x-2.png" src="/images/thumb/e/e0/Yq9fjvMN_4x-2.png/250px-Yq9fjvMN_4x-2.png" width="250" height="500"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 500px;" data-src="/images/thumb/e/e0/Yq9fjvMN_4x-2.png/250px-Yq9fjvMN_4x-2.png" data-alt="Yq9fjvMN 4x-2.png" data-width="250" data-height="500"> </span></a>
+</td></tr></tbody></table><ul><li>CV：<a href="/index.php?title=%E7%94%B2%E6%96%90%E7%94%B0%E8%A3%95%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="甲斐田裕子（頁面不存在）">甲斐田裕子</a></li>
+<li>橫跨兩作的<b>NPC</b>，在終端內負責「惡魔召喚程式」及「邪教之館」的運作
+<ul><li>表面上是寄宿在籠手終端的妖精<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，實際上是史蒂芬按照東京女神所製作的高等OS<s>，所以實際上是電靈</s></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">程度高等到能達到普通人之間的談吐得體</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真4 Final的製作組名單裡，寫明與東京女神同一CV</span></li></ul></li>
+<li><s>HELLO HUMAN，我是バロウズ</s></li>
+<li><s>不行！錯誤要跳出來了～！</s></li></ul></li>
+<li><s>身材很棒，跟東京女神同一個倒模吧</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ミトラ菩薩<br>（密特拉菩薩）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">破壞神
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">自動、物理、萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">独善の契、厳正なる裁き
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅳ Final
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:SMTIVA_Mitra-2.png" class="image"><noscript><img alt="SMTIVA Mitra-2.png" src="/images/thumb/6/6f/SMTIVA_Mitra-2.png/250px-SMTIVA_Mitra-2.png" width="250" height="292"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 292px;" data-src="/images/thumb/6/6f/SMTIVA_Mitra-2.png/250px-SMTIVA_Mitra-2.png" data-alt="SMTIVA Mitra-2.png" data-width="250" data-height="292"> </span></a>
+</td></tr></tbody></table><ul><li>（上接彌勒菩薩）在宇宙之卵變異的姿態，自稱已經到了「佛」的境界，並開啟新的法陣，讓主角在宇宙之卵被打敗會無法復活</li>
+<li>取自彌勒菩薩原型為密特拉的部份，權能也變成了契約相關的能力
+<ul><li>一說為彌勒信仰取自密特拉信仰而成的結果</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ヴィシュヌフリン<br>（毗濕奴福林）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔神
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">モア・シャイン<br>第二階段：光刃ナンダカ、暗刃ナンダカ
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅳ Final
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><ul class="gallery mw-gallery-slideshow" style="width:300px !important;" data-showthumbnails=""><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Vishnuflynn_B_SMT4A-1.png" class="image"><noscript><img alt="" src="/images/thumb/8/8b/Vishnuflynn_B_SMT4A-1.png/97px-Vishnuflynn_B_SMT4A-1.png" width="97" height="120"></noscript><span class="lazy-image-placeholder" style="width: 97px;height: 120px;" data-src="/images/thumb/8/8b/Vishnuflynn_B_SMT4A-1.png/97px-Vishnuflynn_B_SMT4A-1.png" data-alt="" data-width="97" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>第一型態
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/%E6%AA%94%E6%A1%88:Vishnuflynn_II_SMTIVA_Official_Art-1.png" class="image"><noscript><img alt="" src="/images/thumb/c/c9/Vishnuflynn_II_SMTIVA_Official_Art-1.png/120px-Vishnuflynn_II_SMTIVA_Official_Art-1.png" width="120" height="120"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 120px;" data-src="/images/thumb/c/c9/Vishnuflynn_II_SMTIVA_Official_Art-1.png/120px-Vishnuflynn_II_SMTIVA_Official_Art-1.png" data-alt="" data-width="120" data-height="120"> </span></a></div></div>
+			<div class="gallerytext">
+<p>第二型態
+</p>
+			</div>
+		</div></li>
+</ul></td></tr></tbody></table><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">（上接黑天神部分）宇宙之卵心臟部中，黑天神與福林合體的姿態</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">消耗到一定量生命值後進入第二階段，從手捧蓮花變成<s>機動戰士</s>手持四把光束軍刀</span></li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">タマガミの残滓
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">死人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">狀態異常
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">太古の呪怨
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生Ⅳ Final
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">支線任務「死霊ヲ討伐セヨ」中登場，為控制名為「ノア」的女性屍體的前總理大臣大腦殘骸</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">訴說著為了打造強盛而不被瓜分、玩弄的日本而打造對靈國防兵器的事，並惋惜多神聯合宛如當天的列強</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">意圖再度東山再起，但被主角擊敗，大腦的培養缸被打破，女性屍體也在後來的支線任務中有更多後續（見イサナミ）</span></li></ul></li></ul><p><br></p>
+<h4 class="in-block"><span id="真‧女神轉生V"></span><span class="mw-headline" id=".E7.9C.9F.E2.80.A7.E5.A5.B3.E7.A5.9E.E8.BD.89.E7.94.9FV">真‧女神轉生V</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=13" title="編輯章節：真‧女神轉生V" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">八雲 ショウヘイ<br>（八雲翔平）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">超人
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生V
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:Shohei_Yakumo_Render.png" class="image"><noscript><img alt="Shohei Yakumo Render.png" src="/images/thumb/5/5f/Shohei_Yakumo_Render.png/250px-Shohei_Yakumo_Render.png" width="250" height="426"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 426px;" data-src="/images/thumb/5/5f/Shohei_Yakumo_Render.png/250px-Shohei_Yakumo_Render.png" data-alt="Shohei Yakumo Render.png" data-width="250" data-height="426"> </span></a>
+</td></tr></tbody></table><ul><li>CV：<a href="/%E6%9D%89%E7%94%B0%E6%99%BA%E5%92%8C" title="杉田智和">杉田智和</a></li>
+<li><s>黑化的雷道</s></li>
+<li>女媧的半身，自幼已經與其同行，自稱「狩獵全數惡魔之人」<s>所以其實是但丁</s></li>
+<li>初登場時被女媧命令放過主角，再次登場時會正面與主角對決</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本作的中立陣營代表</span></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">コンス・ラー<br>（孔斯·拉）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">魔神
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">LIGHT-NEAUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">火焰、萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">メセクテトの旅路、へリオポリスの暁
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生V
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:Khonsura.png" class="image"><noscript><img alt="Khonsura.png" src="/images/thumb/c/cb/Khonsura.png/250px-Khonsura.png" width="250" height="388"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 388px;" data-src="/images/thumb/c/cb/Khonsura.png/250px-Khonsura.png" data-alt="Khonsura.png" data-width="250" data-height="388"> </span></a>
+</td></tr></tbody></table><ul><li>孔斯得到太陽神力量後的姿態，勝利後得到合體限制解除</li>
+<li><s>合體後反而沒了專用技</s>
+<ul><li>作為BOSS登場時倒是有「メセクテトの旅路」和「へリオポリスの暁」兩個專技</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">タオ<br>（多緒）</span>
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">至聖女</span>
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">LIGHT-LAW</span>
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">萬能、破魔、回復</span>
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">秩序の光</span>
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">真‧女神轉生V
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:Tao_Demon.jpg" class="image"><noscript><img alt="Tao Demon.jpg" src="/images/thumb/9/97/Tao_Demon.jpg/250px-Tao_Demon.jpg" width="250" height="347"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 347px;" data-src="/images/thumb/9/97/Tao_Demon.jpg/250px-Tao_Demon.jpg" data-alt="Tao Demon.jpg" data-width="250" data-height="347"> </span></a>
+</td></tr></tbody></table><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">CV：<a href="/%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94" title="早見沙織">早見沙織</a></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">磯野上多緒在對抗拉赫姆一戰中犧牲自己後，接受引導並「女神轉生」後的型態。在劇情終盤會加入玩家隊伍並協助玩家走上創世之路。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">有著相當強力的專用技「秩序の光」，效用和伊登的金蘋果相同（但多了解除能力降低的效果）。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在進入至高天前會依照玩家的路線給予神意，但如果玩家走破壞王座路線會直接翻臉走人<s>，讓無數不知情玩家在她身上消費的道具就此放水流。</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">更糟的是雖然能記錄在惡魔全書中但不能召喚，即使玩家培養到99級在二週目也用不了。<s>所以雖然是遊戲中和迪蜜特以及伊登並列最強的支援角色，但卻沒人願意花資源在她身上。</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">至聖女的種族名是來自日本函館正教會中聖母瑪利亞的別名「パナギア」<s>，實質算是馬利亞的亞種仲魔</s></span></li></ul></li></ul><p><br></p>
+<h4 class="in-block"><span id="其他_2"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96_2">其他</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=14" title="編輯章節：其他" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">イナルナ姫<br>（伊那瑠奈姫）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">惡魔召喚師：古姬<br>真TCG：古妃
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">DARK－CHAOS
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">萬能
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">第一型態：無情の舞、外法幻花陣<br>第二型態：恨みの慟哭、嘆きの咆哮、絶滅覇拳
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">惡魔召喚師
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li>生前為支配古代日本的巫女，後在現世懷著悲憤及憎惡而復活</li>
+<li><s>對戰的時候那音樂輕快得以為在看城市獵人</s></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ジード<br>（Zeed）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">造魔
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL-NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">惡魔召喚師 靈魂駭客
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li>在酒店「業魔殿」裡，藉由「ドリー・カドモン」合體誕生的仲魔</li>
+<li>型號眾多且自由命名
+<ul><li>分為「普通」、「人型」、「獸型」、「龍型」、「天使」、「龍/獸」、「人/天使」共7種，並再往下分成兩種</li>
+<li>當中人型、獸型、龍型、天使裡其中各一個型號在前一代的PSP就作為魔王登場
+<ul><li>分別是「大衛（人型）」、「斯庫爾（獸型）」、「利維坦（龍型）」、「以諾（天使）」</li></ul></li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">Aiホーくん<br>（Ai 吼）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">妖精
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL-NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">冰結、回復
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">ソウルハッカーズ2
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:Ai_Ho_DS_Soul_Hackers_2-1.png" class="image"><noscript><img alt="Ai Ho DS Soul Hackers 2-1.png" src="/images/thumb/1/13/Ai_Ho_DS_Soul_Hackers_2-1.png/300px-Ai_Ho_DS_Soul_Hackers_2-1.png" width="300" height="282"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 282px;" data-src="/images/thumb/1/13/Ai_Ho_DS_Soul_Hackers_2-1.png/300px-Ai_Ho_DS_Soul_Hackers_2-1.png" data-alt="Ai Ho DS Soul Hackers 2-1.png" data-width="300" data-height="282"> </span></a>
+</td></tr></tbody></table><ul><li>自SJ以來睽違多年的傑克霜精新種
+<ul><li>打扮成女主角林檎的外觀，同時也是本作的特典玩偶</li>
+<li><s>可惜沒法把身材還原</s></li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">ゼノン<br>（芝諾/Zenon）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">造魔
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">NEUTRAL-NEUTRAL
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">ソウルハッカーズ2
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;"><a href="/%E6%AA%94%E6%A1%88:Zenon_DS_Soul_Hackers.jpg" class="image"><noscript><img alt="Zenon DS Soul Hackers.jpg" src="/images/thumb/b/b5/Zenon_DS_Soul_Hackers.jpg/300px-Zenon_DS_Soul_Hackers.jpg" width="300" height="303"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 303px;" data-src="/images/thumb/b/b5/Zenon_DS_Soul_Hackers.jpg/300px-Zenon_DS_Soul_Hackers.jpg" data-alt="Zenon DS Soul Hackers.jpg" data-width="300" data-height="303"> </span></a>
+</td></tr></tbody></table><ul><li>CV:興津和幸</li>
+<li>釐屬於幻影結社的造魔，由本作主要反派鐵面人親手製作
+<ul><li>為負責承載能量體「虹約」的容器，腦袋不好但戰鬥能力非常強大</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Aion</span>
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">電靈</span>
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">萬能、電擊、槍擊</span>
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">第一階段：<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">悲痛の禊、突き刺す、ネオ・ドグマ、アークライト、クロックアップ、ダメージ圧縮</span><br>第二階段：<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">振り回す、メタ・サクラメント、ピュシス・パラドクス、穢れなきヴォイド、エンテュメーシス、雷槌のプレロマ、裂風のプレロマ、歌う、来たるべき無窮光、アポストル生成、ロゴス崩壊、アビスの眼</span>
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">ソウルハッカーズ2
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">
+</td></tr></tbody></table><ul><li>CV:<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">森なな子（被菲格統合後）</span>
+<ul><li>在21世紀中期，於網路中的無數情報中誕生的電子生命體<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，<s>一看就知道是</s>本作最終BOSS</span>。</li></ul></li>
+<li>名稱出自希臘神話中的艾詠神，是掌管時間、年循環、星體與黃道帶的希臘原始神。象徵為環與銜尾蛇
+<ul><li>其象徵的「時間」代表著永恆及無限。</li></ul></li></ul><p><br></p>
+<table border="2" style="margin; text-align:center; background:#555566; color:#fff;"><tbody><tr><th scope="col" colspan="2" style="padding-left: 2em; padding-right: 2em; background:#666677">うちゅういしき<br>（宇宙意志）
+</th>
+<td rowspan="4" colspan="3" style="margin; text-align:center;">
+<table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">種族
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td>
+<th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">陣營
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">-
+</td></tr></tbody></table><table border="1" style="margin:auto;"><tbody><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">象徵屬性
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">電擊、衝擊
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">標誌性技能
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">スターダスト、フォース
+</td></tr><tr><th scope="col" style="padding-left: 1em; padding-right: 1em; background:#666677;">初登場作品
+</th>
+<td colspan="2" style="padding-left: 1em; padding-right: 1em; background:#666677;">外伝ラストバイブル
+</td></tr></tbody></table></td></tr><tr><td rowspan="3" colspan="2" style="background:#666677;">（圖片待補充）
+</td></tr></tbody></table><ul><li><s>堂堂宇宙意志拘泥於普通的屬性</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也就是「偉大之理」或者「真理」，整個女神轉生系列中的大黑幕，連YHVH也是他的分靈</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>但只有在外傳跑出來跟主角打過</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>不過要真的跑到本家的話變態技能跟適性一定都屌到不行，還是算了吧</s></span></li></ul></li></ul><p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關條目"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E6.A2.9D.E7.9B.AE">相關條目</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=15" title="編輯章節：相關條目" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li><a href="/RPG" title="RPG">RPG</a></li>
+<li><a href="/%E4%B8%96%E7%95%8C%E6%A8%B9%E7%9A%84%E8%BF%B7%E5%AE%AE" title="世界樹的迷宮">世界樹的迷宮</a></li>
+<li><a href="/%E7%A5%9E%E8%A9%B1" title="神話">神話</a></li>
+<li><a href="/%E6%83%A1%E9%AD%94" title="惡魔">惡魔</a></li>
+<li><a href="/%E5%A4%A9%E4%BD%BF" title="天使">天使</a></li>
+<li><a href="/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97" title="女神轉生系列">女神轉生系列</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=16" title="編輯章節：回應" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<p><a href="/index.php?title=%E8%A8%8E%E8%AB%96:%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;redlink=1" class="new" title="討論:女神轉生系列登場惡魔Part 4（頁面不存在）">討論:女神轉生系列登場惡魔Part 4</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;action=edit&amp;section=17" title="編輯章節：備註" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">處於敍利亞、伊拉克、土耳其一帶的可域，被視為美索不達米亞文明的搖籃</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">技能和人修羅相同，且種族也是混沌王</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">詳見主條目</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">指爲了與得到惡魔般的力量而主動和仲魔融合後的人類</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">指爲了在弱肉強食的世界中生存而放棄人權，實施手術將自己的腦髓抽出並改造成給惡魔主人的MAG供應物「赤玉」的人類</span></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=女神轉生系列登場惡魔Part_4&amp;oldid=412058">https://wiki.komica.org/index.php?title=女神轉生系列登場惡魔Part_4&amp;oldid=412058</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4"
+				data-user-name="Fong Houlen"
+				data-user-gender="unknown"
+				data-timestamp="1663824499">
+				最後編輯於 2022年9月22日 (週四) 13:28
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E6%83%A1%E9%AD%94Part_4&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.858","ppvisitednodes":{"value":2757,"limit":1000000},"ppgeneratednodes":{"value":9258,"limit":1000000},"postexpandincludesize":{"value":121204,"limit":2097152},"templateargumentsize":{"value":18493,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14883,"limit":5000000},"timingprofile":["100.00%  250.919      1 -total"," 72.59%  182.149     71 模板:MegatenData1","  9.48%   23.790      2 模板:Ref","  7.37%   18.505     65 模板:Censored","  1.63%    4.092      4 模板:Ruby","  1.40%    3.519      3 模板:Wp","  0.77%    1.930      3 模板:Plainlinks","  0.64%    1.613      1 模板:H0","  0.52%    1.306      1 模板:Collapse_top","  0.40%    1.003      1 模板:Collapse_bottom"]},"cachereport":{"timestamp":"20221109071539","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":254});});</script>		</body>
+		</html>
+		

@@ -1,0 +1,1550 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>在台灣播放的電視動畫及節目狀況一覽表 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"在台灣播放的電視動畫及節目狀況一覽表","wgTitle":"在台灣播放的電視動畫及節目狀況一覽表","wgCurRevisionId":364068,"wgRevisionId":364068,"wgArticleId":29643,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"在台灣播放的電視動畫及節目狀況一覽表","wgRelevantArticleId":29643,"wgRequestId":"7842a5db366402fc917f9b82","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-在台灣播放的電視動畫及節目狀況一覽表 rootpage-在台灣播放的電視動畫及節目狀況一覽表 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">在台灣播放的電視動畫及節目狀況一覽表</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">在台灣播放的電視動畫及節目狀況一覽表</div>
+<table class="wikitable" style="margin: 1.5em auto;text-align:center;"><tbody><tr><td>本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr></tbody></table><table class="wikitable" style="margin: 1.5em auto;"><tbody><tr><td><b><big>本條目缺乏可靠資訊來源，故觀看時請自行斟酌條目內容可信性</big></b>
+</td></tr></tbody></table><p><br></p>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>本條目主要著重記載在台灣播放過的電視動畫及節目狀況
+<ul><li>在電腦網路娛樂尚未取代電視頻道的20世紀下半到21世紀初期，多數人以看電視作為休閒之一，於是電視台就會購入並安排一些熱門節目的重播。</li>
+<li>有的時候會分季播映，當同系列的節目沒有新的內容播映時會重播之前的內容。</li>
+<li>但隨著時代變遷、當初台灣後製組為了娛樂效果所做的一些自創台詞不再流行之後，多數老舊動畫的知名片段就會變成少數人揶揄的對象。</li></ul></li>
+<li>偶而也有在特定的時間只播放過唯一一次的節目。
+<ul><li>這種狀況通常是遭到電視台官方主動<a href="/%E8%85%B0%E6%96%AC" title="腰斬">腰斬</a>、觀眾投訴又或者是經費不足引起的。</li>
+<li>有一小部分只播一回之後相隔近20年時間沒有再次重播。
+<ul><li>例如一些特定的日本動畫，首播當時既使是完結過後數個月也沒有發行相關影碟<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>。</li>
+<li>而大部分的歐美動畫在台灣播映時很少發行影碟。</li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="現在仍在不斷重播的節目一覽"></span><span class="mw-headline" id=".E7.8F.BE.E5.9C.A8.E4.BB.8D.E5.9C.A8.E4.B8.8D.E6.96.B7.E9.87.8D.E6.92.AD.E7.9A.84.E7.AF.80.E7.9B.AE.E4.B8.80.E8.A6.BD">現在仍在不斷重播的節目一覽</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=2" title="編輯章節：現在仍在不斷重播的節目一覽" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span id="日本動畫"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E5.8B.95.E7.95.AB">日本動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=3" title="編輯章節：日本動畫" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>收錄條件：每年都有不斷重播且持續十年以上<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>的<b>已完結</b>的動畫。</li></ul><table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註</th>
+<th>正在重播中的電視台
+</th></tr><tr><td><a href="/%E7%83%8F%E9%BE%8D%E6%B4%BE%E5%87%BA%E6%89%80" title="烏龍派出所">烏龍派出所</a></td>
+<td>こちら葛飾区亀有公園前派出所</td>
+<td>380</td>
+<td><span style="color:purple;background-color:;">2004年8月13日</span></td>
+<td>衛視中文台</td>
+<td>於我們這一家前引進的警察生活題材日本搞笑國民番，然而首次播映後的幾回內容中劇情漏洞等問題一一浮現；在年代久遠下相關討論與留存的證據資料稀少</td>
+<td>各種影碟版本都只出到電視版第104集《變身！所長的新車》為止，後來新出的影碟只有特別篇。</td>
+<td>華視、衛視中文台
+</td></tr><tr><td><a href="/%E7%81%8C%E7%B1%83%E9%AB%98%E6%89%8B" title="灌籃高手">灌籃高手</a></td>
+<td>SLAM DUNK（スラムダンク）</td>
+<td>101</td>
+<td>1995年5月7日</td>
+<td>華視<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+<td>最早在台灣播映的籃球題材動畫，相關細節詳見條目</td>
+<td>2007年4月底在台視首次播映時<b>無法聽到日文原聲版</b>，後期在ANIMAX動漫台播放及發行的DVD卻有原聲，現在每年寒暑假前後還可以在東森電影台的任何時段看到；此外ELTA體育在2020年曾因應疫情播出一輪</td>
+<td rowspan="5" align="center">東森電影台
+</td></tr><tr><td colspan="2" align="center"><a href="/%E4%B8%AD%E8%8F%AF%E4%B8%80%E7%95%AA" class="mw-redirect" title="中華一番">中華一番</a></td>
+<td>52</td>
+<td>1999年6月28日</td>
+<td>台視</td>
+<td>首播時以〈中華一番之滿漢傳奇〉的名義播放，由於當時有統一贊助播出<a href="/%E7%BF%BB%E8%AD%AF%E5%86%8D%E5%89%B5%E4%BD%9C" title="翻譯再創作">所以主角與故事關鍵人物的姓名就...</a><s>，一切都是贊助商的陰謀啊！</s>2020年已有重開機版</td>
+<td>目前是在最多電視頻道重播的動畫<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>，2017年晚期重播時有修復畫面和更改字幕樣式，而富國錄音的字樣被消去。
+</td></tr><tr><td>第一神拳</td>
+<td>はじめの一歩</td>
+<td>76+TVSP+OVA<br>New Challenger:26<br>Rising:25</td>
+<td>2003年4月30日</td>
+<td>東森電影台</td>
+<td>現存唯一在台灣每年還有重播的拳擊題材動畫。全三季，第三季在2014年清明節後引進播映。<br>第二季在東森電影台晚間時段播映時有日文原聲</td>
+<td>第二季《New Challenger》由中視首播，以2009年的時段來看為名副其實的深夜動畫<br>東森電影台的《第一神拳-冠軍之路》廣告宣傳曾出包過：宣傳上寫電影版，實際上是2小時的特別篇。
+</td></tr><tr><td><a href="/%E9%A0%AD%E6%96%87%E5%AD%97D" title="頭文字D">頭文字D</a></td>
+<td>イニシャルD</td>
+<td>81</td>
+<td>2002年9月11日</td>
+<td>中視</td>
+<td>在賽車題材動畫中人氣度與《閃電霹靂車》系列上並駕齊驅的系列動畫之一，全五季包含一個特別篇與兩部獨立的電影版，早期在東森電影台首播時有安排日文原聲版時段<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+<td>第四季與第五季在台灣首播的時間相差長達八年，而且後來在2014年第五季引進時因應東森電影台內部政策廢止日文原聲版時段
+</td></tr><tr><td>棒球大聯盟</td>
+<td>メジャー</td>
+<td>154</td>
+<td>2006年1月2日</td>
+<td>MOMO親子台</td>
+<td>在第四台頻道獨家首播、華視跟著引進，全六季含有兩部電影版，在2013年鑽石王牌尚未動畫化與引進台灣之前有名的棒球題材動畫，跟過去的校園棒球漫畫不同，此作以職棒選手的人生歷程為主題。</td>
+<td>現在只有東森電影台每年會重播，而且有時是當年電視版最後一季的內容，同時在民視也有零星放映。<br>MOMO親子台開台早期的主打系列動畫之一，2018年日本官方推出從前作主角茂野吾郎的兒子大吾視角出發的續作，同時台灣也已開始在東森電影台獨家首播。
+</td></tr><tr><td>大山版<a href="/%E5%93%86%E5%95%A6A%E5%A4%A2" title="哆啦A夢">哆啦A夢</a></td>
+<td>ドラえもん(1979年版)</td>
+<td>684</td>
+<td><span style="color:purple;background-color:;">1994年8月21日</span></td>
+<td>中視</td>
+<td><a rel="nofollow" class="external text" href="https://chinesedora.com/news/6999.htm">據傳當年在中視獨家全台首播的前幾年之間差點過不了台灣新聞局與有關單位的審查</a>，首次播映後該版權曾多次在不同的電視台之間轉手<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>，最後於1999年9月20日正式落腳在華視晚餐時段播映至今<br><s>有「華視一哥」的稱號</s></td>
+<td>曾在2000年中創下前所未有的收視率7%紀錄<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>，然而在2006年6月以後因為大人的原因<b>再也不能聽日文原聲版</b><br>現在的全新重製版本例外，2016年後期華視官方宣稱有52集的播出帶老舊破損<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>。原本在八大綜合台還能看到少部分內容，但在2018年9月3日更動節目改成新版動畫後，已不再繼續播映。</td>
+<td>（不再重播）
+</td></tr><tr><td>烘焙王</td>
+<td>焼きたて!!ジャぱん</td>
+<td>69</td>
+<td>2006年2月4日<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
+<td>台視</td>
+<td>全台首播前電視台官方曾在對應的頻道與影視分享網站上釋出最新宣傳預告，其中有兩個是日文原聲版播出，然而在全台首播後幾乎沒有公開播映過任何片尾曲<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></td>
+<td>在隔年的東森電影台首播時補回全部的片尾曲、然後在2012年中視首次引進播映時中配有換過，現在僅有東森電影台仍然在不定期重播，除了字幕外其餘引用台視版本，最初的官方公式網頁在摩納哥盃篇結束時就已不再更新<a rel="nofollow" class="external text" href="https://www.ttv.com.tw/drama/2006/BakeKing/plot.asp">每集大綱</a>。</td>
+<td>東森電影台
+</td></tr><tr><td>亂馬1/2</td>
+<td>らんま1/2</td>
+<td>18+熱鬥篇143</td>
+<td>不詳</td>
+<td>衛視中文台</td>
+<td><s>早在90年代初盜拷國配錄影帶仍盛行的時期就有各地第四台自行配音播送</s>衛視中文台首次播映時所有的主題歌與片尾曲都很完整、沒有上中文字幕，但很少播出下集預告、此外登場人物更改成觀眾耳熟能詳的華人姓名。2008年後期在緯來綜合台與中視版本中除了修正翻譯、中配換人之外還有刪前以前的露點片段</td>
+<td>除了過去的中視與緯來綜合台播映的修復版本之外，目前ANIMAX動漫台仍有在重播，內容和台詞是早期的原始翻譯版本</td>
+<td rowspan="2" align="center">暫無重播
+</td></tr><tr><td colspan="2" align="center">結界師</td>
+<td>52</td>
+<td><span style="color:purple;background-color:;">2007年6月16日</span></td>
+<td>台視</td>
+<td>於全台首播前曾有台灣藝人站台支持該動畫，只在首播時有完整片尾曲，為當時接續烘焙王檔次的幻術師題材新動畫</td>
+<td>在中視與ANIMAX動漫台的版本片尾曲有補回來，不過每集副標題字幕卻反而被<a href="/%E9%AC%BC%E9%9A%B1" title="鬼隱">鬼隱</a>，另外在2009年時曾經有出現過第二季動畫投票聯署活動，但是不知是否投票被灌水的緣故從2013年後沒有出現後續消息，很可能被<a href="/%E8%85%B0%E6%96%AC" title="腰斬">腰斬</a>。
+</td></tr><tr><td>舊版<a href="/%E6%88%91%E5%80%91%E9%80%99%E4%B8%80%E5%AE%B6" title="我們這一家">我們這一家</a></td>
+<td>あたしンち(2002年版)</td>
+<td>331</td>
+<td><span style="color:purple;background-color:;">2004年12月13日</span></td>
+<td>東森綜合台</td>
+<td>全台首播時在官方公式網頁和報章雜誌上的獨家宣傳寫著「全日本最受歡迎的家庭生活題材國民番動畫」<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>。直至今日兩首中文翻唱歌仍在播映，也曾傳出第278集被徹底鬼隱的消息</td>
+<td>現在僅於台視主頻與東森幼幼台仍有零星內容，而且台視版本有些許刪改，2014年12月東森幼幼台重播時曾播映過去從未播映的小單元。</td>
+<td>台視、東森幼幼、東森綜合
+</td></tr><tr><td>史上最強弟子兼一</td>
+<td>史上最強の弟子ケンイチ</td>
+<td>52+11(OVA:闇之襲擊)</td>
+<td><span style="color:purple;background-color:;">2008年7月7日</span></td>
+<td>八大綜合台</td>
+<td>改編自松江名俊的同名漫畫的武打題材動畫，因為最初動畫化的時候主要的動畫製作公司是<a href="/index.php?title=TMS_Entertainment&amp;action=edit&amp;redlink=1" class="new" title="TMS Entertainment（頁面不存在）">TMS Entertainment</a>的關係，在海外播映版中的片尾曲製作組名單全部英文化<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>，而且有相當程度的刪改</td>
+<td>2014年10月東森電影台晚上9點播映Brain's Base製作的OVA版本時由於女主角的聲優川上とも子在2011年去世，OVA版本由<a href="/%E9%87%98%E5%AE%AE%E7%90%86%E6%83%A0" title="釘宮理惠">釘宮理惠</a>接棒，還有部分片段被刪改。</td>
+<td rowspan="2" align="center">東森電影
+</td></tr><tr><td>怪醫黑傑克</td>
+<td>ブラックジャック</td>
+<td>61+2(SP)+17(怪醫黑傑克21)+4(4個生命奇蹟)<br>(電視版)<hr>12<br>(OVA)</td>
+<td>2005年6月13日<hr>2000年6月28日</td>
+<td>台視<hr>東森電影台</td>
+<td>漫畫之神手塚在全盛時期1970年代的三大代表作之一，後來在電視版有分成主要的本篇與後續的21這兩個系列、台灣版本幾乎是與日本的DVD發行日期同步，早期的特別篇多數一刀未剪且有播過日文原聲版</td>
+<td>2012年日本官方出舊版的完結篇動畫，2014年東森電影台引進並重新做出刪修和改成中文配音。2016年時前傳《青年黑傑克》漫畫改編動畫。
+</td></tr><tr><td>真珠美人魚</td>
+<td>マーメイドメロディー ぴちぴちピッチ</td>
+<td>102</td>
+<td><span style="color:purple;background-color:;">2005年7月24日</span></td>
+<td>東森幼幼台</td>
+<td>當時首播後幾個月之間受到幼女們龐大的歡迎，還推出了對應的中文翻唱專輯與玩具，而且人氣也贏過<a href="/%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AF%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="ふたりはプリキュア">第一部</a>和第二部的光之美少女動畫。順帶一提在全台首播之前曾在晚餐時段安插了相關中文翻唱歌的Music Video一分鐘短片將近一個月，並在首播前日播映第一集搶先看<br>2021年宣布推出新作</td>
+<td>之後在華視首播時有保留全數的日文原版歌詞，然而當時台灣的影片後製技術不太好在主題曲和片尾曲內只用了一條藍色條狀帶子把日文字幕遮住，目前在近幾年的毛蟲台偶而也會重播。
+</td></tr><tr><td>忍者哈特利</td>
+<td>忍者ハットリくん</td>
+<td>694</td>
+<td>2001年3月6日</td>
+<td>台視</td>
+<td>安孫子素雄的三大成名作之一。日本官方曾宣稱僅獨家授權隨機挑選當中200集內容的版權給台灣電視台，然後在部分第四台頻道反覆播映一段時間。<br>但近幾年已有「當初日本官方宣稱僅授權隨機挑選當中200集的版權是台灣方面貪小便宜，想壓低版權預算所致」的說法，若此事為真將會是最大的黑歷史，但目前證據不多無法證實</td>
+<td>現在已經確認完結篇【雪山機關山莊】<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>在毛蟲台以<a rel="nofollow" class="external text" href="https://forum.gamer.com.tw/C.php?bsn=6589&amp;snA=236">【雪地小屋大騷動】</a>播出<br>台灣在2019年8月正式由東森幼幼台引進印度版本，但印度版本只有52集。未購入的最初兩集未來有機會補回，然而卻將副標題的過場給剪掉了。
+</td></tr><tr><td>家有賤狗</td>
+<td>平成イヌ物語バウ</td>
+<td>40</td>
+<td>1998年6月5日</td>
+<td>緯來綜合台</td>
+<td>跟蠟筆小新、櫻桃小丸子引進的時間差不多、以牛頭犬做為故事主角的日常搞笑題材動畫。</td>
+<td>後期在卡通頻道播映時曾經有修正過翻譯名稱。
+</td></tr><tr><td>奇天烈大百科</td>
+<td>キテレツ大百科</td>
+<td>150</td>
+<td>不詳</td>
+<td>衛視中文台</td>
+<td>與多啦A夢系列還有超能力魔美同一名作者的三大姊妹作之一，唯一更動的設定只有木手英一和奇天烈的性格完全跟大雄和多啦A夢相反。曾在2002年至2003年之間的晚餐時段播映，除了小細節與中文字幕有更動之外一切普通。</td>
+<td>後期在東森幼幼台與MOMO親子台播映時不再播映任何一首主題曲和片尾曲。<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></td></tr><tr><td><a href="/%E5%BA%AB%E6%B4%9B%E9%AD%94%E6%B3%95%E4%BD%BF" title="庫洛魔法使">庫洛魔法使</a>(1999年版)</td>
+<td>カードキャプターさくら(1999年版)</td>
+<td>70</td>
+<td>2000年7月31日</td>
+<td>華視</td>
+<td>讓當時剛迎接21世紀的E世代幼女們印象相當深刻，不用直接變身而用魔法卡片戰鬥的知名<a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3" title="魔法少女">魔法少女</a>動畫之一</td>
+<td>電視版確實有播出日文原聲版；可是相同時間點播映的電影版反而沒有。
+</td></tr><tr><td>棋靈王</td>
+<td>ヒカルの碁</td>
+<td>75+1</td>
+<td><span style="color:purple;background-color:;">2002年7月7日</span></td>
+<td>八大綜合台</td>
+<td>最具代表的圍棋題材動畫，當年暑假甫剛播映就掀起一陣「大家都來下圍棋」的熱潮，華視也為此製作了教學小短片</td>
+<td>少數在台灣沒有太多差評的影集之一，目前偶而會在衛視電影等頻道重播。
+</td></tr><tr><td>死神</td>
+<td>BLEACH</td>
+<td>366</td>
+<td>2006年4月12日</td>
+<td>八大綜合台</td>
+<td>首播時極少數被列為保護級的少年向劇情動畫之一，然後除了ANIMAX動漫台版本之外其餘版本多數都從未完整播完整首片尾曲及下集預告<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>，眾多深夜動畫中，八大綜合台首播時史無前例由飛輪海翻唱的中文主題歌版本<s>，<b>我是死神也是上帝</b></s></td>
+<td>只在衛視電影台、ANIMAX動漫台偶而會有重播
+</td></tr><tr><td>麻辣教師GTO</td>
+<td>GTO</td>
+<td>43</td>
+<td>2000年7月3日</td>
+<td>中視</td>
+<td>由高木涉主演、當時最具震撼人心與台灣社會的教師題材動畫，幾年後另外出了<a href="/%E6%8E%92%E6%AF%92" title="排毒">排毒</a>版的台灣偶像劇版本，有一段時間曾經在國興衛視和衛視電影台重播過</td>
+<td>首次播映的當時有日文原聲版與中文配音版兩種並存，目前偶而會在衛視電影台與少數小規模頻道重播
+</td></tr><tr><td>玩偶遊戲</td>
+<td>こどものおもちゃ</td>
+<td>102</td>
+<td>1999年1月4日</td>
+<td>卡通頻道</td>
+<td>當時主角倉田紗南的自創舞步，以及手持印著變種白蝙蝠巴比特圖案的各種道具在首播後，一度在台灣玩具界引起風潮</td>
+<td>最近的一次播映是在2014年六月的MOMO親子台，配音有換過，然後播映一段時間後，主題曲和片尾曲被刪掉中間的30秒。
+</td></tr><tr><td>小魔女DOREMI</td>
+<td>おジャ魔女どれみ</td>
+<td>201(4期)</td>
+<td>2001年3月28日</td>
+<td>台視</td>
+<td>90年代動畫界新銳人物設計師馬越嘉彥最初的成名作之一，魔女宅急便上映後所引進之台灣史上第一部（？）可闔家觀賞（？？）的小魔女題材動畫，在第三季之後的劇情都由東森幼幼台獨家放送<s>，幸好所有的主題曲和片尾曲沒被當局改造成很謎的中文翻唱歌</s></td>
+<td>目前如有再次重播則是全部內容一起播送，然後在2006年有追加特別篇。
+</td></tr><tr><td>金田一少年事件簿</td>
+<td>金田一少年の事件簿</td>
+<td>148+SP回3話<br>R:25+22+SP回1話</td>
+<td><span style="color:purple;background-color:;">1998年8月29日</span></td>
+<td>民視</td>
+<td>繼名偵探柯南之後引進之台灣的知名偵探題材動畫，故事劇情比名偵探柯南還要更獵奇</td>
+<td>目前僅只剩下ANIMAX動漫台還有在播映單一中文配音版的幾段內容<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>，且因為年代久遠同時早已跟日本當初的原版有些不同所以一部份回數有待確認
+</td></tr><tr><td>鬼太郎(1996年版動畫/2007年版動畫)</td>
+<td>ゲゲゲの鬼太郎（第4シリーズ）<br>ゲゲゲの鬼太郎（第5シリーズ）</td>
+<td>第四部:114<br>第五部:100</td>
+<td>1999年4月1日<br>2010年3月13日</td>
+<td>民視/台視</td>
+<td>已故漫畫家水木茂老師的代表作。第四期為令當時的台灣觀眾印象深刻，同時是首部正式在台灣播映的鬼太郎系列動畫之一，然後在2007年版動畫引進播出之前曾經短暫在少數頻道重播過幾回</td>
+<td>第五季(2007年版)最後的播映紀錄是2015年2月到6月的ANIMAX動漫台，而且跟台視版本不同全部內容有播完。
+</td></tr><tr><td>火影忍者</td>
+<td>NARUTO -ナルト-</td>
+<td>220<br>疾風傳:500</td>
+<td><span style="color:purple;background-color:;">2003年5月31日</span></td>
+<td>華視</td>
+<td>約90年代末期引進忍者亂太郎後華視獨家首播的科幻忍者題材動畫，初期所有頻道首播時都只播映至鳴人第一次遇到自來也的那一回為止，同時拖戲的程度是當時熱門動畫中最嚴重的<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></td>
+<td>至今仍在東森電影台等少數頻道重播，華視在全台首播的五年後的2008年接續引進新續集【疾風傳】直到2017年完結為止。
+</td></tr><tr><td>小紅帽恰恰</td>
+<td>赤ずきんチャチャ</td>
+<td>74+OVA3</td>
+<td>1999年7月7日</td>
+<td>台視</td>
+<td>全台首播時由1993年的新人聲優鈴木真仁聲演主角恰恰的魔法少女冒險題材動畫。</td>
+<td>OVA動畫沒有引進播出，此後曾經在卡通頻道、東森幼幼台、迪士尼頻道和MOMO親子台有重播過。
+</td></tr><tr><td>幽遊白書</td>
+<td>幽☆遊☆白書</td>
+<td>112</td>
+<td>1997年2月2日</td>
+<td>中視</td>
+<td>全台首播時由1992年的聲優佐佐木望聲演主角浦飯幽助的靈異題材動畫。</td>
+<td>曾在多家電視台播出,中都卡通台還曾播出多次。不過當時的播映情形已不可考。animax大概在2008年左右台內首播，2013年才開始有中文配音，是重配的版本，AXN也沿用此版本。2021年八大綜合台引進此作，然後中配又再度換人（部分角色是初代中配版本，至於整體播出情形除了片頭前有警語告示，大致上都沒有問題。片尾則是完整播完<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>。
+</td></tr></tbody></table><h3 class="in-block"><span id="歐美動畫"></span><span class="mw-headline" id=".E6.AD.90.E7.BE.8E.E5.8B.95.E7.95.AB">歐美動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=4" title="編輯章節：歐美動畫" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p>收錄條件變更為持續<b>五年</b>以上但仍有完結篇者。
+</p>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>飛哥與小佛</td>
+<td>Phineas and Ferb</td>
+<td>222(4季)</td>
+<td>2009年6月15日</td>
+<td>迪士尼頻道</td>
+<td><b>總共104天的暑假又到來離開學的日子還很遙遠...</b><br>由一對兄弟在暑假中做各種奇想天開事物+整天告狀卻因為各種因素失敗的姐姐+真身為幹員的寵物鴨嘴獸阻止瘋狂科學家狂行為劇情主題的美國動畫。<br>本作以雙劇情線+歌曲繁多為最大特徵。</td>
+<td>2015年6月12日播出整個系列的完結篇，仍然重播,直到2021年12月31日該頻道關台為止
+</td></tr><tr><td>肥貓鬥小強</td>
+<td>Oggy and the Cockroaches(ENG)<br>Oggy et les Cafards(FRA)</td>
+<td>494(7季)</td>
+<td>2004年5月21日</td>
+<td>中天綜合台</td>
+<td>中天綜合台首播時為台灣第一部無對白法國原創動畫，然後在2011年由卡通頻道再次重播，新增爆笑配音版本並獲得不少好評，後續內容由卡通頻道接續引進並播映至今</td>
+<td>早期首播的版本翻譯名稱為《肥貓阿吉》，卡通頻道再次重播後重播至今，據說相同的內容曾每隔三天就重播一次
+</td></tr><tr><td>天兵公園</td>
+<td>Regular Show</td>
+<td>261(8季)</td>
+<td>2011年3月19日</td>
+<td>卡通頻道</td>
+<td></td>
+<td>
+</td></tr><tr><td><a href="/%E6%8E%A2%E9%9A%AA%E6%B4%BB%E5%AF%B6" title="探險活寶">探險活寶</a></td>
+<td>The Adventure Time</td>
+<td>283(10季)</td>
+<td>2011年4月17日</td>
+<td>卡通頻道</td>
+<td></td>
+<td>
+</td></tr><tr><td>大力水手卜派</td>
+<td>POPEYE The Sailor Man</td>
+<td></td>
+<td>1996年4月30日</td>
+<td>卡通頻道</td>
+<td>從1920年代播映到1964年的美國國民番動畫，台灣方面則是一次全部引進播放</td>
+<td>僅重播至2008年
+</td></tr><tr><td>頑皮豹</td>
+<td>The Pink Panther</td>
+<td></td>
+<td>1972年1月9日</td>
+<td>中視</td>
+<td>頑皮豹為了日常小事惡整與自己做對的大鼻子先生的默劇卡通（至於被惡搞的場合通常是槓上人外）<br>Henry Mancini編曲的主題歌是一代經典</td>
+<td>2000年代後甚少播映；重開機版本「頑皮豹與朋友們」未引進台灣
+</td></tr><tr><td>冒險王奇克</td>
+<td>Kick Buttowski: Suburban Daredevil</td>
+<td>52(2季)</td>
+<td>不詳</td>
+<td>迪士尼頻道</td>
+<td></td>
+<td>
+</td></tr><tr><td>變身國王上學記</td>
+<td>The Emperor's New School</td>
+<td>21+31</td>
+<td>2008年4月3日</td>
+<td>迪士尼頻道</td>
+<td>迪士尼動畫電影《變身國王》的外傳動畫，以原本電影的故事時間線為基準的<a href="/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C" title="平行世界">平行世界</a>故事。</td>
+<td>完結篇<a href="/%E7%88%9B%E5%B0%BE" title="爛尾">標題與內容不明</a>，就算電影播映頻率已減少、美國本土內容已播畢仍在台灣播映一段時間。
+</td></tr><tr><td><a href="/%E9%A3%9B%E5%A4%A9%E5%B0%8F%E5%A5%B3%E8%AD%A6" title="飛天小女警">飛天小女警</a>(舊版)</td>
+<td>The Powerpuff Girls</td>
+<td>78(6季)</td>
+<td>2000年1月4日</td>
+<td>卡通頻道</td>
+<td>當時全台首播時少數一刀未剪、劇情及動作頗具衝擊性的歐美動畫之一。後來推出了動作場面更優秀<s>但是票房很慘</s>的劇場版。</td>
+<td>2007年引進東映改編版，2016年美國推出「新飛天小女警」但評價暴死
+</td></tr><tr><td>少年悍將(舊版)</td>
+<td>Teen Titans</td>
+<td>65(5季)</td>
+<td>2002年3月11日</td>
+<td>卡通頻道</td>
+<td>除了當時台灣CN引進的日本動畫之外卡通頻道系列招牌動畫之一，舊版最後一次播出的時間大約在2009年初期一段時間</td>
+<td>2014年推出翻新版Teen Titans Go!(少年悍將GO!)<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></td></tr><tr><td colspan="2" align="center">BEN 10 <br>(外星小英雄)</td>
+<td>52(4季)<br>Alien Force:46(3季)<br>Ultimate Alien:52(3季)<br>Omniverse:80<br>2016版:110(3季)</td>
+<td>2006年5月22日</td>
+<td>卡通頻道</td>
+<td></td>
+<td>目前台灣本土化翻譯政策下所記錄最初的美國原創動畫「試作品」，除了後來新播映的系列以外最初的無印版也會不定時重播
+</td></tr><tr><td>魚樂圈</td>
+<td>Fish Hooks</td>
+<td>39</td>
+<td>2011年5月3日</td>
+<td>迪士尼頻道</td>
+<td></td>
+<td>
+</td></tr><tr><td><a href="/Voyager_1_(Fate)" title="Voyager 1 (Fate)">小王子</a></td>
+<td>Le Petite Prince</td>
+<td>26+13</td>
+<td>2011年7月3日</td>
+<td>公共電視</td>
+<td>以聖修伯里的繪本改編的法國動畫，法國在2010年首播，次年暑假引進台灣播映</td>
+<td>
+</td></tr><tr><td>七寶</td>
+<td>The 7D</td>
+<td>不詳</td>
+<td>2006年5月1日</td>
+<td>迪士尼頻道</td>
+<td>以《白雪公主》為原型推出的電視動畫，不過主角為七個小矮人。 <br><s>反正不是中國的某個村落更不是佛教徒眼中的至寶</s>。</td>
+<td>
+</td></tr><tr><td>傑克龍</td>
+<td>American Dragon:Jake Long</td>
+<td>26</td>
+<td>2007年5月21日</td>
+<td>迪士尼頻道</td>
+<td></td>
+<td>
+</td></tr><tr><td colspan="2" align="center">PUCCA</td>
+<td>39</td>
+<td>2006年3月31日</td>
+<td>迪士尼頻道</td>
+<td>最早以英文配音播映的韓國短篇動畫，曾在台灣流行過</td>
+<td>
+</td></tr><tr><td>愛探險的朵拉</td>
+<td>Dora the Explorer</td>
+<td>26</td>
+<td>2003年4月29日</td>
+<td>東森幼幼台</td>
+<td>早期全台首播時少有的有保留一部分英文單字和台詞（因為是教育向）的全年齡向的學齡前探索動畫。</td>
+<td>2006年追加表哥Diego為主角的野生動物認知節目「Go,Diego,Go!」，和Dora都在台灣以及美國廣為人知。2014年推出主角13歲時的少女版本「Dora And Friends」；2019年推出劇情原創的真人電影，評價良好可惜台灣沒有引進。
+</td></tr></tbody></table><h3 class="in-block"><span id="華語原創動畫"></span><span class="mw-headline" id=".E8.8F.AF.E8.AA.9E.E5.8E.9F.E5.89.B5.E5.8B.95.E7.95.AB">華語原創動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=5" title="編輯章節：華語原創動畫" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>喜羊羊與灰太狼</td>
+<td>530<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td>
+<td>不詳</td>
+<td>MOMO親子台</td>
+<td>《喜羊羊與灰太狼》是在藍貓於2001年全台首播之後第二部少見的中國原創以野狼與綿羊對立作為題材的動畫，第一部最初在2008年左右在MOMO親子台首播，確切日期無法考察，《喜羊羊與灰太狼之羊羊運動會》是《喜羊羊與灰太狼》動畫系列的第二部，2012年2月8日在中視首播的時候片名為《羊羊運動會》而且還有少見的台灣閩南語配音。</td>
+<td>後期在2014年於MOMO親子台播映時成為每次在準點之前<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>一分鐘短片播映的熱門Music Video之一。
+</td></tr><tr><td>閻小妹</td>
+<td>36</td>
+<td>2011年7月3日</td>
+<td>公共電視</td>
+<td>目前已知系列最多的台灣原創動畫，有分段與不同章節播出。而且也曾經在<a href="/%E6%B0%B4%E6%9E%9C%E5%86%B0%E6%B7%87%E6%B7%8B" title="水果冰淇淋">水果冰淇淋</a>節目中以聖誕節特別篇小短片的名義演出，目前最新內容就到《金門比武篇》為止。</td>
+<td>後來的台視綜合台也有引進播出。
+</td></tr><tr><td>快樂星貓</td>
+<td>261</td>
+<td><span style="color:purple;background-color:;">2018年3月24日</span></td>
+<td>台視綜合台</td>
+<td>一隻大型虎斑貓下凡尋找12星座的代表人物收集力量以打倒最終魔王的冒險題材動畫，作者是台灣人，動畫是中國製作，又因為片名是繁體字書寫而且配音來自台灣，所以被誤認成台灣原創動畫。</td>
+<td>由於宣傳問題曾與魔蹤傳奇撞檔，導致後者官網連結突然消失至2019年12月。<a rel="nofollow" class="external text" href="https://2.bp.blogspot.com/-QTmuRxxYBT4/XJMjts2P-_I/AAAAAAAAE5A/rUOvXqdRQOI3KdUyk0RS0LooSRGxwL2vgCKgBGAs/s1600/%25E7%25B6%259C%25E5%2590%2588%25E5%25AE%2598%25E7%25B6%25B2%25E6%2588%25AA%25E5%259C%25961.jpg">證據圖片</a>
+</td></tr><tr><td>魔蹤傳奇</td>
+<td>12</td>
+<td><span style="color:purple;background-color:;">2010年6月25日</span></td>
+<td>公共電視</td>
+<td>以<s><a href="/%E6%83%85%E7%AF%80%E6%8E%A8%E9%80%B2%E5%99%A8" title="情節推進器">原理不明的</a></s>特殊能力讓現在的男女主角以進入考古遺址的洞穴中穿越時空來17世紀的台灣與歐納聯手對抗反派的史前時代題材動畫。雖然是台灣和瑞士共同製作，劇情<a href="/%E9%AB%98%E9%81%94%E5%85%AB%E6%88%90" title="高達八成">高達八成</a>是白開水。</td>
+<td>
+</td></tr></tbody></table><h3 class="in-block"><span id="綜藝節目"></span><span class="mw-headline" id=".E7.B6.9C.E8.97.9D.E7.AF.80.E7.9B.AE">綜藝節目</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=6" title="編輯章節：綜藝節目" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h3 class="in-block"><span id="連續劇"></span><span class="mw-headline" id=".E9.80.A3.E7.BA.8C.E5.8A.87">連續劇</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=7" title="編輯章節：連續劇" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>各大八點檔</td>
+<td></td>
+<td>通常上百集</td>
+<td>1997(<a href="/%E6%B0%91%E8%A6%96" title="民視">民視</a>開播時就開始)/2000(三立台灣台)</td>
+<td><a href="/%E6%B0%91%E8%A6%96" title="民視">民視</a>無線台、三立台灣台</td>
+<td>只要是冷門時段就會補上舊的八點檔劇目。</td>
+<td>
+</td></tr></tbody></table><h3 class="in-block"><span id="探索節目"></span><span class="mw-headline" id=".E6.8E.A2.E7.B4.A2.E7.AF.80.E7.9B.AE">探索節目</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=8" title="編輯章節：探索節目" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>美麗冒險王</td>
+<td>不詳</td>
+<td>10+10</td>
+<td>2013年3月24日</td>
+<td>公共電視</td>
+<td>為有名的英國實境節目《全球動物冒險王》的姊妹作品之一，由知名演員Naomi Wilkinson來主持，主要是介紹幾個世界上最讓世人產生出噩夢的致命野生動物。</td>
+<td>由於原版的片名LOGO在台灣首播後被中文片名的LOGO給覆蓋住，所以到目前為止原版片名未知LOGO<s>台灣製作組出面表示那根本一點也不重要</s>。
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="重播次數較少的節目"></span><span class="mw-headline" id=".E9.87.8D.E6.92.AD.E6.AC.A1.E6.95.B8.E8.BC.83.E5.B0.91.E7.9A.84.E7.AF.80.E7.9B.AE">重播次數較少的節目</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=9" title="編輯章節：重播次數較少的節目" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="日本動畫_2"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E5.8B.95.E7.95.AB_2">日本動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=10" title="編輯章節：日本動畫" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>收錄條件：首次引進時的幾年間雖然有重播但是只有十次以下且沒有分段播映的。
+<ul><li>因為有些年番或者泡麵番熱門動畫，會間隔三四年時間重播，或者是自全台首播算起後長達7~8年以內只重播一兩次，在21世紀初期直到社群網站出現前很常見。</li>
+<li>播放次數中,MOD頻道播出次數不列入。</li></ul></li></ul><table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>重播次數</th>
+<th>備註
+</th></tr><tr><td>彗星公主</td>
+<td>コメットさん</td>
+<td>79+68</td>
+<td>2003年5月16日</td>
+<td>卡通頻道</td>
+<td>3</td>
+<td>原作橫山光輝因火災過世前的晚期作品之一，全43集。<br>作為當時在卡通頻道晚餐時段備受關注的動畫而重播兩次，最後一次播映是2006年4月上旬
+</td></tr><tr><td colspan="2" align="center">地球防衛家族</td>
+<td>14<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td>
+<td>不明</td>
+<td>不明</td>
+<td>4</td>
+<td>平凡的地球人家庭被宇宙聯盟選入防衛隊抵抗外敵的故事。<br>最後一次播映在ANIMAX動漫台週末的清晨時段（2008年），按照慣例刪改了少部分有露點或兒童不宜疑慮的片段
+</td></tr><tr><td colspan="2" align="center">花田少年史</td>
+<td>25</td>
+<td>2003年4月19日</td>
+<td>八大綜合台</td>
+<td>6</td>
+<td>史上第一部台灣首播時以閩南話發音播出的日本動畫，後來在華視播出時在立體雙語的部分是當初史所未見的非常複雜，既有華視的國台雙語版、民視的日台雙語版、影碟版本的國日、日台雙語版與單獨的國語或台語版，最後一回播映是在毛蟲台的2011年的6月1日<br>除了第八集〈淚撒胸前〉首播時被有關當局禁播以外其餘的內容大致上沒問題
+</td></tr><tr><td>通靈王</td>
+<td>シャーマンキング</td>
+<td>64</td>
+<td>2002年5月1日</td>
+<td>中視</td>
+<td>8</td>
+<td>起初所有頻道的播映版本只有到52集，2005年在台視播映時補回了後來的12集直通至動畫完結篇
+</td></tr><tr><td>阿爾卑斯少女─小天使</td>
+<td>アルプスの少女ハイジ</td>
+<td>52</td>
+<td><span style="color:purple;background-color:;">1977年11月13日</span></td>
+<td>台視</td>
+<td>7</td>
+<td>為1973年日本首部製作團隊於海外取材製作的世界名作劇場系列動畫，1974年在日播出。<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>曾經有播映過另外剪輯過的電影版，而且在21世紀初期的台灣卡通頻道有重播過一陣子。<br>但是毛蟲台在2013年再次重播時中文翻唱歌更換成新版本，而且隔年9月在華視重播時無法聽原版的主題歌
+</td></tr><tr><td>阿漬的垃圾堆</td>
+<td>ガラクタ通りのステイン</td>
+<td>14+1</td>
+<td>不詳</td>
+<td>ANIMAX動漫台</td>
+<td>不列入</td>
+<td>用當時先進的全3D技術製作的流浪漢題材短篇原創動畫。最後一回的【尾聲】沒有於台灣播出，同時也因為從最初就是跑龍套動畫<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>的關係所以重播次數不列入
+</td></tr><tr><td colspan="2" align="center">犬夜叉</td>
+<td>167+完結篇26</td>
+<td><span style="color:purple;background-color:;">2001年7月14日</span></td>
+<td>台視</td>
+<td>6</td>
+<td><s>值得一看再看的動人故事</s><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>首播時曾經是一度受到當代<a href="/%E8%85%90%E5%A5%B3" title="腐女">腐女</a>們歡迎的高橋老師代表作之一<br>然後不包含在2009年播映之完結篇的話大概如此，而且在中視播映時曾經把播映忍者哈特利的時段給吃掉<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></td></tr><tr><td>少年冒險王</td>
+<td>冒険王ビィト</td>
+<td>52+25</td>
+<td>2007年4月25日</td>
+<td>台視</td>
+<td>3</td>
+<td>三條陸和稻田浩司聯合製作的冒險題材漫畫。全部有兩季動畫，第一季和第二季都是在2007年與2008年同一檔次在台視頻道播映，少數在台視沒有於周末首播的全新動畫系列之一。
+</td></tr><tr><td>男女蹺蹺板</td>
+<td>彼氏彼女の事情</td>
+<td>26</td>
+<td>2000年3月26日</td>
+<td>中視</td>
+<td>4</td>
+<td>由曾經執導過新世紀福音戰士的庵野秀明所執導，當時畫風與廣告過場畫面格式相當特殊的幾部校園戀愛題材動畫之一，最後一次播映在2009年11月的緯來日本台下午6點
+</td></tr><tr><td colspan="2" align="center">STRAY SHEEP</td>
+<td>6</td>
+<td>2002年4月7日</td>
+<td>東森幼幼台</td>
+<td>3</td>
+<td>在海綿寶寶全台首播前東森幼幼台所播映一刀未剪的致鬱系蠟筆風格動畫
+</td></tr><tr><td>全職獵人(1999年版)</td>
+<td>HUNTER×HUNTER (1999年のアニメ)</td>
+<td>62<br>OVA:8+8+14</td>
+<td>2001年7月3日</td>
+<td>華視</td>
+<td>6</td>
+<td>在新版即將要播映的前夕為當時的常任連環重播動畫之一、在那之後超級電視台有播映獨家引進的OVA續集，最後的播映是在2013年9月的ANIMAX動漫台，很難得的是這裡播映的版本是主題曲和片尾曲都有全部播出。
+</td></tr><tr><td>魔法少年賈修</td>
+<td>金色のガッシュベル!!</td>
+<td>150</td>
+<td><span style="color:purple;background-color:;">2004年6月20日</span></td>
+<td>台視</td>
+<td>8</td>
+<td>當時為接續數碼寶貝第四系列檔次的星期日全新系列魔法題材動畫，跟前一檔動畫不同片尾曲有全部播出，然而至今為止只有台視版本播映至150集完結，其餘播出版本只有到第104集而已。
+</td></tr><tr><td>瑪麗亞†狂熱</td>
+<td>まりあ†ほりっく</td>
+<td>12+12</td>
+<td>2009年10月10日</td>
+<td>緯來日本台</td>
+<td>2</td>
+<td>全兩季，於緯來日本台不時播映
+</td></tr><tr><td>阿貴與Gatchinpo</td>
+<td>アークエとガッチンポー</td>
+<td>25</td>
+<td>2007年6月13日</td>
+<td>台視</td>
+<td>2</td>
+<td>所有阿貴系列動畫中唯一的日本東京電視台改編版動畫，但是台視在當日星期六下午五點整閃電播映之後就再也沒有播出過。之後就只有東森幼幼台全部播完，至今台視尚未說明其原因<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></td></tr><tr><td>科學小飛喵</td>
+<td>ニャニがニャンだー ニャンダーかめん</td>
+<td>83</td>
+<td>2004年4月26日</td>
+<td>東森幼幼台</td>
+<td>6</td>
+<td>與麵包超人系列同一個作者的動物擬人化英雄題材作品，曾經在MOMO親子台於2006年開台之初的一兩年內有播映過幾次<s>，但可惜的是很少有觀眾記得完結篇在播映甚麼內容，因為在播映完結篇後又繼續從第一集開始重來</s>。
+</td></tr><tr><td>外星人田中太郎</td>
+<td>うちゅう人田中太郎</td>
+<td>24</td>
+<td>2003年5月11日</td>
+<td>卡通頻道</td>
+<td>9</td>
+<td>少數有在台灣播映、而且是少數非TMS Entertainment動畫製作公司製作但是製作人員名單卻用英文表示的外星人題材搞笑動畫。全12集每回片長12分鐘兩回一起播映，所以在首播之後連環重播了一段時間，在2014年12月又再次於迪士尼頻道重播多次<s>，但是現在無論是播出帶或者是網路上能找到的只有全中文配音版本</s>
+</td></tr><tr><td>鼻毛真拳</td>
+<td>ボボボーボ・ボーボボ</td>
+<td>76</td>
+<td><span style="color:purple;background-color:;">2006年5月19日</span></td>
+<td>台視</td>
+<td>2</td>
+<td>台視官方宣稱史上最搞笑且最無俚頭的未來科幻題材動畫，可是播映中途卻突然遭到家長投訴以至於到第26集後喊停，至今為止就只有2013年5月的衛視電影台有重播一次
+</td></tr><tr><td>奇幻兒童<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></td>
+<td>ファンタジックチルドレン</td>
+<td>26</td>
+<td>2007年5月3日</td>
+<td>ANIMAX動漫台</td>
+<td>4</td>
+<td>在2008年到2010年之間該頻道用來墊檔的專屬暫時性連環重播動畫
+</td></tr><tr><td>三眼神童</td>
+<td>三つ目がとおる</td>
+<td>48</td>
+<td>2002年4月17日</td>
+<td>緯來綜合台</td>
+<td>5</td>
+<td>漫畫之神手塚在1970年代的三大代表作之一，目前已知最後播映資料在2004年10月至11月東森電影台的晚上八點<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></td></tr><tr><td>神風怪盜貞德</td>
+<td>神風怪盗ジャンヌ</td>
+<td>44</td>
+<td>2001年3月6日</td>
+<td>衛視中文台</td>
+<td>5</td>
+<td>當時在21世紀初期幾年非常受到台灣女性讀者與觀眾歡迎的動畫之一，最後一回重播是在2007年五月的緯來日本台
+</td></tr><tr><td>甜蜜小天使第二季</td>
+<td>ひみつのアッコちゃん(1988年版)</td>
+<td>61</td>
+<td>2002年9月17日</td>
+<td>衛視中文台</td>
+<td>3</td>
+<td>極少數曾經有在台灣的電視頻道播映的赤塚不二夫老師三大成名作之一的第二次改編動畫作品。
+</td></tr><tr><td>植木的法則</td>
+<td>うえきの法則</td>
+<td>51</td>
+<td>2006年1月3日</td>
+<td>MOMO親子台</td>
+<td>6</td>
+<td>極少數有保留日文原版字幕<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>之在台灣播映的環保冒險題材日本動畫之一，在MOMO親子台2006年的開台之初為主打系列動畫之一，還有少見的日文原聲版播映的時段
+</td></tr><tr><td>十二生肖爆烈戰士</td>
+<td>十二戦支 爆烈エトレンジャー</td>
+<td>39</td>
+<td><span style="color:purple;background-color:;">1996年5月9日</span></td>
+<td>中視</td>
+<td>4</td>
+<td>目前台灣播映過唯一的十二生肖拯救世界題材動畫。曾經在衛視電影台重播過，片尾曲只剩後半30秒片段，已知曾在衛視電影台重播但是最後重播的時間不明。
+<p>網路上也只有找到零碎幾回衛視中文台國語配音版本（3~8話）。
+</p>
+</td></tr><tr><td>哈雷小子</td>
+<td>ジャングルはいつもハレのちグゥ</td>
+<td>26</td>
+<td>2003年2月17日</td>
+<td>八大綜合台</td>
+<td>3</td>
+<td>首次播映之後曾經一度引起小君臉風潮的叢林部落生活題材動畫系列，另外的兩部OVA動畫沒有跟著引進。
+</td></tr><tr><td>金魚注意報</td>
+<td>きんぎょ注意報!</td>
+<td>54</td>
+<td>2001年3月22日</td>
+<td>衛視中文台</td>
+<td>5</td>
+<td>當時極少數具有特殊畫風與人物設計的搞笑動畫之一，首次播映時翻譯為《娛樂金魚眼》<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>，最後一次播映的時間是在2008年的MOMO親子台，只是不給播片尾曲。
+</td></tr><tr><td>妖怪人間貝姆</td>
+<td>妖怪人間ベム -HUMANOID MONSTER BEM-</td>
+<td>26</td>
+<td>2007年8月3日</td>
+<td>ANIMAX動漫台</td>
+<td>3</td>
+<td>當時動漫台獨家播映的極少數只有唯一中文配音版本的青年向妖怪題材動畫，2019年7月日本官方宣布即將播映第四次最新重製版本。
+</td></tr><tr><td>魔兵傳奇</td>
+<td>MÄR-メルヘヴン-</td>
+<td>102</td>
+<td>2005年5月4日</td>
+<td>華視</td>
+<td>5</td>
+<td>少數有在台灣播映、而且女主角是由2003年度新人聲優<a href="/%E6%B8%85%E6%B0%B4%E6%84%9B" title="清水愛">清水愛</a>主演的異世界冒險動畫之一，然後第一首主題歌在當時的廣告宣傳首次播出的時候一度讓觀眾朗朗上口。
+</td></tr><tr><td>血色花園</td>
+<td>RED GARDEN</td>
+<td>22</td>
+<td>2008年7月22日</td>
+<td>ANIMAX動漫台</td>
+<td>4</td>
+<td>在2008年首度引進的<a href="/%E7%8D%B5%E5%A5%87" class="mw-redirect" title="獵奇">獵奇</a>題材動畫之一，主要描述在美國羅德島上三名女孩在某次謀殺事件下與神秘外星生物周旋的故事。
+</td></tr><tr><td colspan="2" align="center">女神候補生</td>
+<td>12</td>
+<td>2001年5月27日</td>
+<td>華視</td>
+<td>3</td>
+<td>2004年5月27日再於超視重播時難能可貴地有原聲
+</td></tr><tr><td>B傳說！戰鬥彈珠人</td>
+<td>B-伝説! バトルビーダマン</td>
+<td>52+51</td>
+<td>2006年10月2日</td>
+<td>卡通頻道</td>
+<td>6</td>
+<td>在戰鬥陀螺系列與超速YOYO之後台視獨家首播的彈珠題材動畫，後來有推出續集《戰鬥彈珠人炎魂》，在那之後曾經在卡通頻道連環重播了一陣子直到2011年，少數在台視沒有於周末首播的全新動畫之一。
+</td></tr><tr><td><a href="/%E6%B6%BC%E5%AE%AE%E6%98%A5%E6%97%A5" title="涼宮春日">涼宮春日</a>的憂鬱</td>
+<td>涼宮ハルヒの憂鬱</td>
+<td>28</td>
+<td>2007年12月2日</td>
+<td>ANIMAX動漫台</td>
+<td>6</td>
+<td>當年輕小說的代表作<s>加上<a href="/SJW" title="SJW">某藝人</a>的抹黑而更廣為人知</s>。
+</td></tr><tr><td><a href="/%E5%B9%B8%E9%81%8B%E2%98%86%E6%98%9F" title="幸運☆星">幸運☆星</a></td>
+<td>らき☆すた</td>
+<td>24</td>
+<td>2009年1月30日</td>
+<td>ANIMAX動漫台</td>
+<td>4</td>
+<td>在涼宮春日的憂鬱爆紅之後跟著引進的京都動畫公司姊妹作之爆笑惡搞題材動畫，不只是路人聲優特別多而且還有聲優本人親自演出的畫面，例如今野宏美本人親自錄影演唱片尾曲的橋段。
+</td></tr><tr><td>超能力魔美</td>
+<td>エスパー魔美</td>
+<td>119</td>
+<td>不詳</td>
+<td>華視</td>
+<td>3</td>
+<td>與大山版多啦A夢系列與奇天烈大百科同一名作者的三大姊妹作之一，過了千禧年後在迪士尼頻道首次播映時翻譯為魔美一點靈，唯一不同的是有露點疑慮的片段全都被河蟹。
+</td></tr><tr><td>小公主優希</td>
+<td>ぷちぷり＊ユーシィ</td>
+<td>26</td>
+<td>2003年6月22日</td>
+<td>卡通頻道</td>
+<td>6</td>
+<td>當年台灣卡通頻道獨家播出的以五位遭受詛咒之後十七歲依然是幼兒體型的公主們競爭傳說中的白金王冠的故事，目前還有通路在販售少量的影碟。
+</td></tr><tr><td>徽章戰士</td>
+<td><a href="/%E3%83%A1%E3%83%80%E3%83%AD%E3%83%83%E3%83%88" title="メダロット">メダロット</a></td>
+<td>52+39</td>
+<td>2002年8月30日</td>
+<td>華視</td>
+<td>7</td>
+<td>在火影忍者全台首播之後跟著引進播出的機器人題材動畫之一，全兩季都有引進且後續還有在八大綜合台等少數頻道重播過。
+</td></tr><tr><td>幸運女神</td>
+<td>ああっ女神さまっ</td>
+<td>48+24+22</td>
+<td>2006年9月13日</td>
+<td>ANIMAX動漫台</td>
+<td>8</td>
+<td>少數有在台灣播出，舞台非異世界且男主角是現代人類的女神題材動畫，同時也是當年ANIMAX動漫台獨家首播的主打系列之一。2011年的OVA動畫似乎沒有引進播出。
+</td></tr><tr><td>召喚惡魔</td>
+<td>よんでますよ、アザゼルさん。</td>
+<td>13+13+OAD4</td>
+<td>2013年4月28日</td>
+<td>東森電影台</td>
+<td>4</td>
+<td>當初在東森電影台播映之極少數片長只有十二分鐘的半篇惡魔題材動畫，同時也是台灣非常罕見的主角以山東腔中文配音的日本動畫，很可惜的是第二季和OAD動畫至今沒有在台灣播出。
+</td></tr><tr><td>超能大耳鼠</td>
+<td>チンプイ</td>
+<td>56+1</td>
+<td>不詳</td>
+<td>東森幼幼台</td>
+<td>5</td>
+<td>安孫子素雄的三大成名作之一，同時是主角為女性版的野比大雄遇到老鼠外星人且理解科法後意外成為將來某星球國王的新娘子的故事。
+</td></tr><tr><td>元氣五胞胎</td>
+<td>ゴーゴー五つ子ら・ん・ど</td>
+<td>50</td>
+<td>2004年1月7日</td>
+<td>迪士尼頻道</td>
+<td>4</td>
+<td>在2016年初期<a href="/%E5%B0%8F%E6%9D%BE%E5%85%88%E7%94%9F" title="小松先生">小松先生</a>系列動畫再次擄獲台灣影迷的心之前難得有在電視上播出的多胞胎題材動畫，但是當時有看過動畫版結局的觀眾表示說有點無聊<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>。
+</td></tr><tr><td>千禧年大尋寶</td>
+<td>マスターモスキートン'99</td>
+<td>26</td>
+<td>2000年1月2日</td>
+<td>華視</td>
+<td>3</td>
+<td>原名稱為《爆笑吸血鬼99》，主要是為了當時迎接千禧年而引進的少數具有喜劇成分的吸血鬼題材動畫，最後重播是在2002年3月到6月間，播出時採用少見的跳蛙式，在第二個和第四個星期六的晚餐時段播出。
+</td></tr><tr><td>夢之蠟筆王國</td>
+<td>夢のクレヨン王国</td>
+<td>70</td>
+<td>2001年7月13日</td>
+<td>卡通頻道</td>
+<td>5</td>
+<td>早期由新銳人物設計師與繪本製作人稻上晃在未來開始製作光之美少女之前最初的成名作之一，最後一次播送是在2006年三月的東森幼幼台。
+</td></tr><tr><td>真·女神轉生 <s><a href="/%E9%AD%94%E5%8A%9B%E5%AF%B6%E8%B2%9D%E7%B3%BB%E5%88%97" title="魔力寶貝系列">魔力寶貝</a></s>惡魔之子<br>魔力少年/召喚王</td>
+<td>真・女神転生デビチル<br>真・女神転生Dチルドレン ライト&amp;ダーク</td>
+<td>50+52</td>
+<td>2001年1月5日</td>
+<td>東森電影台</td>
+<td>4</td>
+<td>實為真<a href="/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97" title="女神轉生系列">女神轉生系列</a>動畫其中之一，而且在台灣首次播映時傳出那是直接用香港製作版本的播出帶播出的<s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，用各種搜尋引擎查找時多數會找到同名卡牌遊戲。</span></s>最後一次播送是在2004年九月的東森電影台晚上七點整。
+</td></tr><tr><td>章魚燒超人</td>
+<td>たこやきマントマン</td>
+<td>77</td>
+<td>2000年7月1日</td>
+<td>華視</td>
+<td>3</td>
+<td>自先後引進的麵包超人系列還有科學小飛喵之後世所罕見以章魚燒擬人化拯救世界的超人題材動畫，此後的最後一次播出是在2005年八大綜合台的下午五點整。
+</td></tr><tr><td>以柔克剛</td>
+<td>YAWARA!</td>
+<td>124</td>
+<td>1999年1月3日</td>
+<td>衛視中文台</td>
+<td>4</td>
+<td>全台首播當時台灣時逢雪梨奧運熱之下所引進播出的高中生少女以巴塞隆納奧運金牌為目標的柔道題材動畫，同時也是皆口裕子的出道作，可惜台灣播映版本沒有播映到真完結篇。
+</td></tr><tr><td>CLAMP學園偵探團</td>
+<td>CLAMP学園探偵団</td>
+<td>26</td>
+<td>2001年7月23日</td>
+<td>緯來日本台</td>
+<td>3</td>
+<td>在柯南與金田一之後少數引進之老少咸宜、學校教職員工與學生的權利和立場相反的偵探題材動畫，其中以完結篇時兩人阻止失控地鐵的橋段最為感動。
+</td></tr><tr><td>馳風競艇王</td>
+<td>モンキーターン</td>
+<td>52</td>
+<td><span style="color:purple;background-color:;">2005年7月1日</span></td>
+<td>台視</td>
+<td>2</td>
+<td>少數在台視沒有於周末首播的全新動畫之一。目前在台灣非常罕見的快艇競速題材動畫，然後同時也是到目前為止維基百科當中完全沒有中文版資料的動畫，全台首播時原有的片名LOGO被中文片名給覆蓋、不曾播映過完整的片尾曲。
+</td></tr><tr><td>仙境傳說動畫版</td>
+<td>Ragnarok The Animation</td>
+<td>26</td>
+<td><span style="color:purple;background-color:;">2005年6月27日</span></td>
+<td>台視</td>
+<td>3</td>
+<td>在線上遊戲仙境傳說非常風行的黃金時代由台視獨家首播，同時也是由聲優<a href="/%E9%98%AA%E5%8F%A3%E5%A4%A7%E5%8A%A9" title="阪口大助">阪口大助</a>和<a href="/%E6%B0%B4%E6%A8%B9%E5%A5%88%E5%A5%88" title="水樹奈奈">水樹奈奈</a>首席主演的線上遊戲改編動畫，有觀眾指稱魔法師屬性的少部分設定不太好。
+</td></tr><tr><td>小紅豆</td>
+<td>あずきちゃん</td>
+<td>117(3期)</td>
+<td><span style="color:purple;background-color:;">1998年9月4日</span></td>
+<td>衛視中文台</td>
+<td>8</td>
+<td>早期在衛視中文台獨家首播，由1995年出道的聲優野上尤加奈主演的小學生純愛生活向題材動畫。
+</td></tr><tr><td>大嘴鳥</td>
+<td>キョロちゃん</td>
+<td>91</td>
+<td>2005年1月28日</td>
+<td>東森幼幼台</td>
+<td>4</td>
+<td>第一部以森永巧克力球的商標大嘴鳥作為故事題材的島上生活小動畫。<br>冷知識：本作是<a href="/%E9%87%98%E5%AE%AE%E7%90%86%E6%83%A0" title="釘宮理惠">釘宮理惠</a>的處女秀。
+</td></tr><tr><td>驅魔少年</td>
+<td>D-Gray Man</td>
+<td>103<br>HALLOW:13</td>
+<td>2014年11月17日</td>
+<td>衛視電影台</td>
+<td>3</td>
+<td>是2008年的動畫，卻很晚才在衛視電影台全台首播<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>，但8首ED只收錄第一首。<s>←Animax台到2019年6月引進時全部播出了，卻沒有中文配音</s>
+</td></tr><tr><td>北海小英雄</td>
+<td>小さなバイキングビッケ</td>
+<td>77+1</td>
+<td>不詳</td>
+<td>台視、華視</td>
+<td>6</td>
+<td>目前已知最早的維京海盜題材動畫，年輕時的尾田榮一郎曾在後來開始海賊王漫畫上的相關創作當中受此啟發。2013年於華視頻道重播時多出了中文翻唱歌，幸運的是還能聽原版。
+</td></tr><tr><td>貝露莎</td>
+<td>魔法の妖精ペルシャ</td>
+<td>48</td>
+<td><span style="color:purple;background-color:;">1986年8月15日</span></td>
+<td>台視</td>
+<td>2</td>
+<td>八大戲劇台曾於2003年重新配音。
+</td></tr><tr><td>劍擊小精靈</td>
+<td>六三四の剣</td>
+<td>36</td>
+<td>不詳</td>
+<td>華視</td>
+<td>3</td>
+<td>少數以日本劍道選手的一生作為題材的動畫；當時跟天才小釣手、美味大集合並稱台灣1980年代三大立志與生活向動畫。
+</td></tr><tr><td>城市風雲兒</td>
+<td>剣勇伝説YAIBA</td>
+<td>52</td>
+<td>1998年2月13日</td>
+<td>台視</td>
+<td>4</td>
+<td>作畫風格和故事劇本與<a href="/%E4%B8%83%E9%BE%8D%E7%8F%A0" title="七龍珠">七龍珠</a>相似、而且劇情在富士山外星人基地那邊拖戲相當久的青山剛昌代表作之一，當時女主角的名字翻譯成雷莉亞、在輝夜公主篇時反派人物終於達成目的之那一段令觀眾們震撼。
+</td></tr><tr><td>七龍珠改</td>
+<td>ドラゴンボール改</td>
+<td>98</td>
+<td>2011年1月1日</td>
+<td>台視</td>
+<td>3</td>
+<td>於元旦當天全台首播，以全新特效和原版人馬來重新製作原版內容的七龍珠系列之一。
+</td></tr><tr><td>宇宙人形17</td>
+<td>フィギュア17 つばさ&amp;ヒカル</td>
+<td>13</td>
+<td>2004年11月2日</td>
+<td>超視</td>
+<td>2</td>
+<td>每一集片長全部有46分鐘，首播時拆開成兩半播映，然後以當時少見的日文原聲版播放的外星人戰鬥題材動畫，主軸是因為外星人警察出意外，墜落在北海道後有一位10歲女孩被捲入危險外星生物事件協助戰鬥的故事
+</td></tr><tr><td>小王子</td>
+<td>星の王子さま プチ・プランス</td>
+<td>39</td>
+<td><span style="color:purple;background-color:;">1982年6月11日</span></td>
+<td>中視</td>
+<td>4</td>
+<td>聲優松野太紀作為子役初演出的第一部動畫作品，中視引進時以小乖乖為名播出。2000年東森幼幼台換過中配班底，且首次播出原版片頭片尾<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>。最後一次播出是在2014及2016年的國興衛視，有原聲只可惜不給播片頭片尾。
+</td></tr><tr><td>聖槍修女</td>
+<td>クロノクルセイド</td>
+<td>24</td>
+<td></td>
+<td>緯來日本台</td>
+<td>2</td>
+<td>緯來日本台首播時譯作摩登大法師，且在播放時片中獵奇畫面一刀未剪。2007年2月17日(大年初七)在台視以連播三集來播映完結篇。
+</td></tr><tr><td>十二國記</td>
+<td>十二国記</td>
+<td>45</td>
+<td></td>
+<td>超級電視台</td>
+<td></td>
+<td>首播時曾因演員屈中恆的配音引起話題，該作也曾在台灣掀起熱潮，但不論如何重播都只播39集。
+</td></tr><tr><td>未來少年科南</td>
+<td>未来少年コナン</td>
+<td>26</td>
+<td>1990年代</td>
+<td>中視</td>
+<td>3</td>
+<td><a href="/%E4%B8%96%E7%B4%80%E6%9C%AB" title="世紀末">世紀末</a>題材作品，舞台設定在2008年因為地磁扭曲毀滅的世界。<br>華視早已經引進本作，並以《阿丹歷險記》在媒體上公開但未播出。
+</td></tr><tr><td>大耳查布(2009年版)</td>
+<td>チェブラーシカ あれれ？</td>
+<td>26</td>
+<td>2013年5月28日</td>
+<td>東森幼幼台</td>
+<td>不列入</td>
+<td>之後2014年至2015年初期之間一部分節錄內容偶而會在該頻道與東森電影台、東森洋片台的廣告時間直接全部播出，成為在台播出之日本動畫中的首例。
+<p><br>然而片頭中的工作人員名單及日文副標題莫名被鬼隱。
+</p>
+</td></tr></tbody></table><h4 class="in-block"><span id="世界名作劇場系列"></span><span class="mw-headline" id=".E4.B8.96.E7.95.8C.E5.90.8D.E4.BD.9C.E5.8A.87.E5.A0.B4.E7.B3.BB.E5.88.97">世界名作劇場系列</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=11" title="編輯章節：世界名作劇場系列" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>重播次數</th>
+<th>備註
+</th></tr><tr><td>龍龍與忠狗</td>
+<td>フランダースの犬</td>
+<td>52</td>
+<td>1980年12月10日</td>
+<td>華視</td>
+<td>3</td>
+<td>
+</td></tr><tr><td>萬里尋母</td>
+<td>母をたずねて三千里</td>
+<td>52</td>
+<td>1977年1月10日</td>
+<td>華視</td>
+<td>2</td>
+<td>2005年本台再次播出,但能聽到原版片頭片尾
+</td></tr><tr><td>小浣熊</td>
+<td>あらいぐまラスカル</td>
+<td>52</td>
+<td>1978年1月11日</td>
+<td>華視</td>
+<td>4</td>
+<td>好消息電視有重播。
+</td></tr><tr><td>小英的故事</td>
+<td>ペリーヌ物語</td>
+<td>53</td>
+<td>1979年7月2日</td>
+<td>台視</td>
+<td>6</td>
+<td>好消息電視有重播。
+</td></tr><tr><td>清秀佳人</td>
+<td>赤毛のアン</td>
+<td>50</td>
+<td>1991年11月4日</td>
+<td>中視</td>
+<td>5</td>
+<td>
+</td></tr><tr><td>湯姆歷險記</td>
+<td>トム・ソーヤーの冒険</td>
+<td>49</td>
+<td>1981年4月8日</td>
+<td>中視</td>
+<td>7</td>
+<td>
+</td></tr><tr><td>新魯賓遜漂流記</td>
+<td>家族ロビンソン漂流記 ふしぎな島のフローネ</td>
+<td>50</td>
+<td>1983年4月15日</td>
+<td>華視</td>
+<td></td>
+<td>
+</td></tr><tr><td>可愛的露西</td>
+<td>南の虹のルーシー</td>
+<td>50</td>
+<td>1983年6月1日</td>
+<td>台視</td>
+<td></td>
+<td>
+</td></tr><tr><td>妮妮與安安</td>
+<td>アルプス物語 わたしのアンネット</td>
+<td>48</td>
+<td>1984年7月20日</td>
+<td>台視</td>
+<td></td>
+<td>
+</td></tr><tr><td>香取少女</td>
+<td>牧場の少女カトリ</td>
+<td>49</td>
+<td>1985年10月26日</td>
+<td>台視</td>
+<td>3</td>
+<td>
+</td></tr><tr><td>莎拉公主</td>
+<td>小公女セーラ</td>
+<td>46</td>
+<td>1987年12月28日</td>
+<td>中視</td>
+<td></td>
+<td>
+</td></tr><tr><td>小安娜</td>
+<td>愛少女ポリアンナ物語</td>
+<td>51</td>
+<td>1988年5月9日</td>
+<td>台視</td>
+<td></td>
+<td>
+</td></tr><tr><td>小婦人</td>
+<td>愛の若草物語</td>
+<td>48</td>
+<td>1990年8月28日</td>
+<td>華視</td>
+<td></td>
+<td>
+</td></tr><tr><td>小公子</td>
+<td>小公子セディ</td>
+<td>43</td>
+<td>1989年10月22日</td>
+<td>台視</td>
+<td></td>
+<td>
+</td></tr><tr><td>小飛俠</td>
+<td>ピーターパンの冒険</td>
+<td>41</td>
+<td>1990年9月27日</td>
+<td>台視</td>
+<td></td>
+<td>
+</td></tr><tr><td>長腿叔叔</td>
+<td>私のあしながおじさん</td>
+<td>40</td>
+<td>1991年10月22日</td>
+<td>台視</td>
+<td>3</td>
+<td>
+</td></tr><tr><td>羅密歐的藍天</td>
+<td>ロミオの青い空</td>
+<td>33</td>
+<td>1997年3月13日(?</td>
+<td>華視</td>
+<td>2</td>
+<td>
+</td></tr></tbody></table><h3 class="in-block"><span id="韓國動畫"></span><span class="mw-headline" id=".E9.9F.93.E5.9C.8B.E5.8B.95.E7.95.AB">韓國動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=12" title="編輯章節：韓國動畫" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>大長今</td>
+<td>장금이의 꿈</td>
+<td>26+26</td>
+<td>2007年10月28日</td>
+<td>中視</td>
+<td>當時與<a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D" title="神奇寶貝">神奇寶貝</a>系列的《鑽石&amp;珍珠》章節同為中視獨家首播的兩大主打動畫之一，而且也與蜜蜜甜心派相同為少數「作畫非常穩定」的韓國動畫之一，劇情發展與同名古裝劇類似。</td>
+<td>故事分成上下兩部，上篇為《長今之夢》；下篇為《少女長今》。不過在相關風潮過後就再也沒有重播過，有線電視最後一次播出是2012年4月的毛蟲台<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>。之後代理商的MOD頻道有重播
+</td></tr><tr><td>小企鵝PORORO</td>
+<td>뽀로로</td>
+<td>不詳</td>
+<td>2005年1月22日</td>
+<td>東森幼幼台</td>
+<td>為早期在2004年從韓國進口的一部分汽水瓶上經常能看到的戴眼鏡的小企鵝商標，曾經在東森幼幼台獨家播映過一陣子，然後於2016年暑假回歸。</td>
+<td>在2016年回歸時出現另外製作的中文原創歌。
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="至今只播映過一次的節目"></span><span class="mw-headline" id=".E8.87.B3.E4.BB.8A.E5.8F.AA.E6.92.AD.E6.98.A0.E9.81.8E.E4.B8.80.E6.AC.A1.E7.9A.84.E7.AF.80.E7.9B.AE">至今只播映過一次的節目</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=13" title="編輯章節：至今只播映過一次的節目" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<h3 class="in-block"><span id="日本動畫_3"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E5.8B.95.E7.95.AB_3">日本動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=14" title="編輯章節：日本動畫" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>收錄條件：引進時只播過一次且長達十年以上未曾重播過，然後首播時沒有安排任何時間相近的重播時段。</li></ul><table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>奪寶奇謀</td>
+<td>モンタナ・ジョーンズ</td>
+<td>52</td>
+<td>1995年9月6日</td>
+<td>中視</td>
+<td></td>
+<td>
+</td></tr><tr><td>萬能小偵探</td>
+<td>名探偵ホームズ</td>
+<td>26</td>
+<td>不明</td>
+<td>中視</td>
+<td></td>
+<td>
+</td></tr><tr><td>我的裘可妹妹</td>
+<td>ちょこッとSister</td>
+<td>24</td>
+<td><span style="color:purple;background-color:;">2009年9月26日</span></td>
+<td>ANIMAX動漫台</td>
+<td>少數有在台灣播映，以聖誕節時剛上大學的男主角希望聖誕老人能送給他一個親妹妹的妹妹題材動畫之一，最初播映時既使是已修正過的公播版本也還是有刪修</td>
+<td>從那時之後再也沒有重播過。
+</td></tr><tr><td>失落的宇宙</td>
+<td>ロスト・ユニバース</td>
+<td>26</td>
+<td>2002年3月31日</td>
+<td>衛視中文台</td>
+<td></td>
+<td>
+</td></tr><tr><td>泡泡糖危機</td>
+<td>バブルガムクライシス</td>
+<td>8</td>
+<td>2001年9月13日</td>
+<td>衛視中文台</td>
+<td></td>
+<td>
+</td></tr><tr><td>銀牙傳說</td>
+<td>銀牙伝説WEED</td>
+<td>26</td>
+<td>2007年4月18日</td>
+<td>中視</td>
+<td>以一隻尋找父親的流浪犬的冒險作為題材的冒險動畫。每個星期六下午五點整播映、同時有手機簡訊的抽獎活動宣傳，然而在播映到第三集後突然無預警腰斬，原時段改播選秀節目超級星光大道</td>
+<td>2010年中視有全部播送，然而播映時的相關資料早已不知去向<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>，極有可能真的被有關當局封印。
+</td></tr><tr><td>銀河鐵道物語</td>
+<td>銀河鉄道物語</td>
+<td>26</td>
+<td><span style="color:purple;background-color:;">2005年5月26日</span></td>
+<td>台視</td>
+<td>作者松本零士在2003年根據前作改編的銀河鐵道系列最新作，除了2005年夏季在台視首播外的重播資料未知。</td>
+<td>此後台灣各大電視頻道不曾引進過第二季動畫與OVA版本。
+</td></tr><tr><td>七武士(動畫版)</td>
+<td>SAMURAI 7</td>
+<td>26</td>
+<td>2006年2月3日</td>
+<td>台視</td>
+<td>當時為台灣唯一播映的動畫版七武士系列</td>
+<td>播映時間不明且無預告
+</td></tr><tr><td>PEACE MAKER鐵</td>
+<td>新撰組異聞PEACE MAKER</td>
+<td>13</td>
+<td>2004年12月6日</td>
+<td>超視</td>
+<td></td>
+<td>原漫畫譯名為《刀魂～新撰組異聞列傳～》
+</td></tr><tr><td>小心啊！公主</td>
+<td>姫様ご用心</td>
+<td>12</td>
+<td>2008年9月13日</td>
+<td>ANIMAX動漫台</td>
+<td>在九月週休二日下午六點到七點連續播映兩回</td>
+<td>第一部只有中文配音版本且只播一次的原創深夜動畫
+</td></tr><tr><td>最高機密</td>
+<td>秘密 〜The Revelation〜</td>
+<td>26</td>
+<td>2012年6月22日</td>
+<td>華視</td>
+<td></td>
+<td>2008年出品卻晚了4年時間才在華視播出，只播過一次
+</td></tr><tr><td>明日之星娜佳</td>
+<td>明日のナージャ</td>
+<td>50</td>
+<td>2006年5月28日</td>
+<td>衛視中文台</td>
+<td>在小英的故事和萬里尋母之後由當時的東堂泉創作、由2003年度新人聲優<a href="/%E5%B0%8F%E6%B8%85%E6%B0%B4%E4%BA%9E%E7%BE%8E" title="小清水亞美">小清水亞美</a>擔任主演而且多數聲優耳熟能詳的尋親馬戲團題材動畫，順帶一提多數聲優為後來的光之美少女系列班底</td>
+<td>片尾曲的部分由主演聲優演唱。
+</td></tr><tr><td>BASILISK～甲賀忍法帖～</td>
+<td>バジリスク ～甲賀忍法帖～</td>
+<td>24</td>
+<td>2008年7月12日</td>
+<td>衛視中文台</td>
+<td>在衛視中文台深夜時段撥出，2008年8月3日起又將時段移至深夜一點連撥三集。</td>
+<td>相當獵奇，卻意外地被列為輔導級。
+</td></tr></tbody></table><h3 class="in-block"><span id="韓國動畫_2"></span><span class="mw-headline" id=".E9.9F.93.E5.9C.8B.E5.8B.95.E7.95.AB_2">韓國動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=15" title="編輯章節：韓國動畫" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>蜜蜜甜心派</td>
+<td>TV에세이 좋은생각</td>
+<td>120+120</td>
+<td>2003年1月20日</td>
+<td>台視</td>
+<td>首次播映時為全台唯一播映的韓國勵志教育動畫然後因此在教育界轟動一時、而且各級學校與圖書館也有不少相關影集，雖然當時可以聽韓文原聲但多數的原版字幕被中文覆蓋掉</td>
+<td>目前已經再也沒有任何重播消息
+</td></tr><tr><td>超級數碼寶貝</td>
+<td>유니미니펫</td>
+<td>26</td>
+<td>2004年4月8日</td>
+<td>衛視電影台</td>
+<td>當時在少數畫風與背景設計還有劇本結構上跟日本同名動畫系列極為相似的韓國動畫</td>
+<td>目前與此相關的資料已經都是散失難尋的狀態，現存的幾個線索是主角為小學生、名字叫做<b>元東宇</b>、然後家中開設電玩商品店(跟遊戲王最初的動畫系列有些類似) <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=zlya5-dQvMc">在中國大陸翻譯為迷你竉物星</a><s>目前在網路上只找到全國語配音(對岸的)，及部分的韓語原音</s>
+</td></tr><tr><td>天神向前衝</td>
+<td>올림포스 가디언</td>
+<td>39</td>
+<td>2004年3月10日</td>
+<td>東森電影台</td>
+<td>當時在片尾曲極少數有完全用韓文字母標示之製作人員名單的希臘神話題材正統韓國動畫</td>
+<td>
+</td></tr><tr><td>奇域大冒險</td>
+<td>카드왕믹스마스터</td>
+<td>26</td>
+<td>2006年5月10日</td>
+<td rowspan="2">東森幼幼台</td>
+<td></td>
+<td>
+</td></tr><tr><td>魔法小迷狐</td>
+<td>요랑아 요랑아</td>
+<td>26</td>
+<td>未知</td>
+<td>然而卻無任何副標題</td>
+<td>
+</td></tr><tr><td>小飛機大冒險</td>
+<td>The Airport Diary</td>
+<td>65</td>
+<td>2011年3月14日</td>
+<td>公共電視</td>
+<td>在三個國家共同製作的《SUPER WING》動畫於2016年全台首播前唯一的十分鐘小飛機題材正統韓國動畫。</td>
+<td>在英文配音版的《小魔女的華麗冒險》系列之前為罕見的可以聽韓文原聲的動畫之一。
+</td></tr></tbody></table><h3 class="in-block"><span id="台灣原創動畫"></span><span class="mw-headline" id=".E5.8F.B0.E7.81.A3.E5.8E.9F.E5.89.B5.E5.8B.95.E7.95.AB">台灣原創動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=16" title="編輯章節：台灣原創動畫" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>卡爾邦尼亞大飯店</td>
+<td>12</td>
+<td><span style="color:purple;background-color:;">2019年2月23日</span></td>
+<td>台視綜合台</td>
+<td>史上第一部以二氧化碳（與北極熊）擬人化的台灣原創環保題材動畫，每回片長約三分鐘的泡麵番。</td>
+<td>第一部難得只在一個周末播映的台灣原創動畫。
+</td></tr><tr><td>米米系列</td>
+<td>8</td>
+<td><span style="color:purple;background-color:;">2019年3月30日</span></td>
+<td>台視綜合台</td>
+<td>和樓上同樣改編自短篇繪本。</td>
+<td>
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="有引進但未曾於電視台播映的節目"></span><span class="mw-headline" id=".E6.9C.89.E5.BC.95.E9.80.B2.E4.BD.86.E6.9C.AA.E6.9B.BE.E6.96.BC.E9.9B.BB.E8.A6.96.E5.8F.B0.E6.92.AD.E6.98.A0.E7.9A.84.E7.AF.80.E7.9B.AE">有引進但未曾於電視台播映的節目</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=17" title="編輯章節：有引進但未曾於電視台播映的節目" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>收錄條件：原則上以未曾於台灣播放的作品(包含不限於電視.OTT.網路等平台)皆為本段落的收錄範圍。但由於符合條件的節目眾多，因此僅收錄於台灣引進時有錄製中文配音之外國動畫以及有國外配音版本之華語原創動畫。</li>
+<li>《超速變形螺旋傑特》：Animax首播與日後重播只有日語原音，但中文配音有錄製。<s>在B站上還能找到該作品中配的所有集數。</s></li>
+<li>《<a href="/%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%AB" class="mw-redirect" title="偶像大師">偶像大師</a>》：原定在2016年4月由中視首播，接檔同時段的《LoveLive！》，但之後換為《神劍闖江湖》而且只有日語原音。<s>據傳是因為收視率欠佳的關係才出此下策。</s>此外以上這三部有中文配音且都曾由群英社代理過，而據錄音室粉專影片訪談得知偶像大師有錄過。<s>但因為上述大人的原因只能等有生之年不知道何時聽到...</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="特殊系"></span><span class="mw-headline" id=".E7.89.B9.E6.AE.8A.E7.B3.BB">特殊系</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=18" title="編輯章節：特殊系" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<h3 class="in-block"><span id="日本動畫_4"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E5.8B.95.E7.95.AB_4">日本動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=19" title="編輯章節：日本動畫" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>收錄條件：雖然官方依舊持續更新，但每年都有重播且超過52集與經過十年以上。</li></ul><table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td><a href="/%E8%88%AA%E6%B5%B7%E7%8E%8B" title="航海王">航海王</a></td>
+<td>ONE PIECE（ワンピース）</td>
+<td><span style="color:purple;background-color:;">2001年7月22日</span><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></td>
+<td>台視</td>
+<td>首次播映的幾年後成為二十一世紀台灣的七大熱門動畫之一，然而在2003年開始重播後除了差評外以及<s>已經很少人觀看的</s>新視界映畫祭，自多雷斯羅薩篇後用章節區分<br>另外有播出自製的香菸警語短片<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup>，自2010年2月7日播映後到2020年即將滿10年時間。</td>
+<td>實際上在2002年從一月至七月期間暫時休播一陣子<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup>，2016年後期再次重播的舊版內容中有數位修復和更換字幕，過去一段時間未曾公開播映所有片尾曲，直到2016年阿拉巴斯坦篇重製為止。
+</td></tr><tr><td>水田山葵版哆啦A夢</td>
+<td>ドラえもん(2005年版)</td>
+<td><span style="color:purple;background-color:;">2009年1月19日</span></td>
+<td>華視</td>
+<td>首次引進播映後除了最初引進的52集內容外以每年26集的進度分段購買版權<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>，現在(2019年)進度是364集，當初播映時因為台灣電視機的畫面比例仍然是4:3的緣故所以原有的16:9畫面被拉長，而且主題曲有錯字</td>
+<td>2018年5月3日華視決定從第二集（急驚風與慢郎中）再度重播，而且在四個月後的9月3日八大也開始跟進<s>，舊版已確定不再播送，據傳是因為授權到期的緣故。</s>自全台首播後至今(2021年)仍無法聽日文原聲版。
+</td></tr><tr><td>櫻桃小丸子</td>
+<td>ちびまる子ちゃん</td>
+<td>1997年3月27日</td>
+<td>不明</td>
+<td>最早引進台灣播映的90年代初期三大日本國民番之一，根據作者本人生前的童年生活改編而來，動畫化之後以當時首播時的片尾曲《大家來跳舞》最膾炙人口</td>
+<td>2001年後有不同的播映版本，然而中視於2018年4月10日再度於中視播映時無法聽日文原聲版，內容是從2012年元旦後日本首播的內容開始至2013年年底日本除夕為止，直到2019年12月23日終於可以聽日文原聲版。
+</td></tr><tr><td>忍者亂太郎</td>
+<td>忍たま乱太郎</td>
+<td>1995年5月29日</td>
+<td>衛視中文台</td>
+<td>此為最早引進台灣播映的九十年代初期三大日本國民番動畫之一。當時在九十年代末期衛視中文台首次播映的電視宣傳廣告版本曾讓一些特定的小孩產生出陰影來，而且一部份內容新舊雜陳且唯二播映過日文原聲版的只有華視與緯來日本台的版本</td>
+<td>目前動畫版在日本已經超過1000集，早期播映的版本有出現小朋友繪畫的應募活動（僅限於日本方面）而且在卡通頻道播映時保留了原始的片尾曲版本。之後由群英社接手代理並於MOD、中天娛樂台、超視等頻道播映，還出現原創主題曲。截至2015年仍有播映的頻道紀錄為ANIMAX動漫台，第24季與第25季於2021年由木棉花代理，並於2022年1月5日起由緯來綜合台播出。
+</td></tr><tr><td><a href="/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0" title="蠟筆小新">蠟筆小新</a></td>
+<td>クレヨンしんちゃん</td>
+<td>不明</td>
+<td>首華卡通台<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></td>
+<td>此為九十年代末期開放引進台灣播映的九十年代初期三大日本國民番動畫之一。在小新的妹妹野原向日葵登場的前後背景畫風有極大落差，然後在老三台輪播一段時間後由八大綜合台穩定分段引進播放，直到2013年4月15日在台視工作日下午時段回歸為止。據說最新內容得版權已經全部由台視買回</td>
+<td>在台視頻道回歸播出後發生許多刪修相關的問題<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>，而且在星期六晚餐時段曾經有過宣傳廣告不實的前科<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup>，然後台視在2017年1月初不再播映特別篇動畫改從2013年的第814集內容播映至2018年8月11日為止<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>，2019年2月23日起恢復播映本篇最新進度直到9月29日為止，2020年7月11日與2021年12月18日播放最新進度（自2019年3月起）。
+</td></tr><tr><td>名偵探柯南</td>
+<td>名探偵コナン</td>
+<td><span style="color:purple;background-color:;">1997年7月6日</span></td>
+<td>華視</td>
+<td>當時在九十年代末期金田一動畫系列尚未引進台灣之前最受台灣觀眾歡迎的懸疑推理題材動畫，首次播映的幾年後成為二十一世紀初期台灣的七大熱門動畫之一，同時也是TMS Entertainment動畫製作公司唯二目前仍在推出新續集的動畫。在2014年時華視將該動畫歸類為「適齡優良節目」標章之一</td>
+<td>在日本慶祝動畫十周年後台灣重播模式與各種重播版本非常複雜，有的沒有片尾曲、有的製作組名單完全英文化、有的甚至是Call機時代的內容與特別篇<s>，同時在2017年某些頻道重播的時候還出現早期內容的數位修復版本，</s>2020年起開始於各大平台上架自海外第803集起的最新集數（包含2021年2月播映的「紅之校外旅行」與同年11月自海外版第986集至第1021集）<s>，連上面的藍胖子都能追到跟日方只有三年的差距，代理商曼迪都能更新到兩年左右，可以不用管華視的進度到哪裡了（主線緋色篇要等到2022年）</s>
+</td></tr><tr><td><a href="/%E5%8F%AF%E6%84%9B%E5%B7%A7%E8%99%8E%E5%B3%B6" title="可愛巧虎島">可愛巧虎島</a></td>
+<td>しましまとらのしまじろう</td>
+<td>1999年2月13日</td>
+<td>民視</td>
+<td>兒童雜誌《巧連智》的關聯動畫，日本方面穩定播映中<br>民視引進，後來由東森幼幼台全面接手至今</td>
+<td>有人認為賽璐珞顏料畫風與現在的電繪立體畫風不大相容<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup></td></tr><tr><td>麵包超人</td>
+<td>それいけ！アンパンマン</td>
+<td>1998年1月22日</td>
+<td>不詳</td>
+<td>日本史上登場人物最多的繪本改編動畫，2010年時已播出超過1000集，同時也是TMS Entertainment動畫製作公司唯二目前仍在推出新續集與最新電影的動畫。</td>
+<td>台灣已知在2001年時卡通頻道曾經有播映過，由於受到製作公司的影響，部份播映版本的ED Staff Roll改為英文表示。目前播映的是是毛蟲台引進、2011年後的播映版本，但後期片尾曲改成中文翻唱。
+</td></tr></tbody></table><h3 class="in-block"><span id="韓國動畫_3"></span><span class="mw-headline" id=".E9.9F.93.E5.9C.8B.E5.8B.95.E7.95.AB_3">韓國動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=20" title="編輯章節：韓國動畫" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>全集數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>哈囉！小梅子</td>
+<td>안녕 자두야(KOR)<br>Hello Jadoo(ENG)</td>
+<td>117</td>
+<td>2012年12月5日</td>
+<td rowspan="2">迪士尼頻道</td>
+<td>以描繪作者小時候生活的繪本與漫畫改編而來的當時第一個以全英文發音在台灣播映的正統韓國動畫，有分三段播出，目前在台灣進度到第二季完結</td>
+<td>現在的最後一次播送是2016年的東森幼幼台
+</td></tr><tr><td>我是夢妮</td>
+<td>아이엠몽니(KOR)<br>I am Mongni(ENG)</td>
+<td>26</td>
+<td>2013年6月21日</td>
+<td>以大約國中生年紀的濟州島海女在意外下想當大明星為由上首都發展的故事題材出名，同時也是第二個以全英文發音在台灣播映的正統韓國動畫，不同的是這是全部一段播完</td>
+<td>不幸的是,部分集數內容有遭刪減(如第2集後半)
+</td></tr></tbody></table><h3 class="in-block"><span id="歐美動畫_2"></span><span class="mw-headline" id=".E6.AD.90.E7.BE.8E.E5.8B.95.E7.95.AB_2">歐美動畫</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=21" title="編輯章節：歐美動畫" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>原文片名</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td><a href="/%E6%B5%B7%E7%B6%BF%E5%AF%B6%E5%AF%B6" title="海綿寶寶">海綿寶寶</a></td>
+<td>Spongebob Squarepants</td>
+<td>2005年7月12日</td>
+<td>Home Box Office頻道<hr>東森幼幼台</td>
+<td>有關該動畫細節請詳看相關條目</td>
+<td>直到2018年作者敵不過病魔過世為止仍舊為播映跨度最長的美國兒童向動畫
+</td></tr></tbody></table><h3 class="in-block"><span id="數碼寶貝系列"></span><span class="mw-headline" id=".E6.95.B8.E7.A2.BC.E5.AF.B6.E8.B2.9D.E7.B3.BB.E5.88.97"><a href="/%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA" title="デジモンシリーズ">數碼寶貝系列</a></span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=22" title="編輯章節：數碼寶貝系列" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>此區域比照黑歷史條目的神奇寶貝系列不用以上述的分類方式來收錄。</li></ul><table class="wikitable" style="font-size:small;"><tbody><tr><th>季數</th>
+<th>台灣首播日期</th>
+<th>首播電視台</th>
+<th>重播次數</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>第一季</td>
+<td>2000年3月12日</td>
+<td>台視</td>
+<td>6</td>
+<td></td>
+<td>
+</td></tr></tbody></table><p><br></p>
+<h3 class="in-block"><span id="社論節目"></span><span class="mw-headline" id=".E7.A4.BE.E8.AB.96.E7.AF.80.E7.9B.AE">社論節目</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=23" title="編輯章節：社論節目" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><td>請注意：這段條目<span style="color:red;background-color:;">可能有詆毀部分節目特色的<b>爭議</b>存在</span>，既使可依照現有的事實陳述但盡量避免發生
+</td></tr><tr><td>一部分刪除線下的文章純屬知情人的猜測，尚未出現決定性證據之前請先別當真
+</td></tr></tbody></table><ul><li>這裡主要是以內容和播放模式<b>超乎常理</b>為優先。</li></ul><table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>健康老實說</td>
+<td><span style="color:purple;background-color:;">2017年7月24日</span></td>
+<td>台視</td>
+<td>基本上就是以健康為主題的一般談話節目，然而在該日剛首播後的一瞬間出現了許多不合理現象，在目前已知的十個內容與亞種中有一半在半小時後重複播出相同內容以及傳出負面相關的疑惑，多數內容是從《生活大小事》節目中買來播的<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup><s>，由於相關內容每天重複性高曾被外人質疑那是給家財萬貫的阿茲海默症患者看的順便撈點油水</s>。</td>
+<td>一年後過了9月3日不再於工作日下午時段播出，直到2019年3月14日之前僅剩餘周末早晨檔次，曾有過從2018年十月初期開始就一直在循環播出兩個內容<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup>的情況。<br>在2018年12月1日之後製作組在沒有修改片名的情形下直接播出《生活大驚喜》節目的其中兩個內容<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup>，與全台首播時相同情況。<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup></td></tr><tr><td>生活最速報<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup></td>
+<td><span style="color:purple;background-color:;">2018年9月3日</span></td>
+<td>台視</td>
+<td>在《健康老實說》之後於該年9月3日臨時接檔的新節目，最初算是正常但是全部只有5個內容，然而被發現觀眾說那其實是從衛視中文台的《幸福方程式》拿來播的<br>兩個月後的11月30日星期五是最後一次播出<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup></td>
+<td>從10月開始直到11月5日之前分別循環播出兩種氫離子水活水機和所謂的<b>超智王</b><sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>這三個話題，雖然在十一月五日之後有追加四個新內容但也開始出現與健康老實說節目一樣的不合理現象。
+</td></tr><tr><td>幸福一點通／幸福方程式</td>
+<td>2017年12月12日<br>2016年8月24日</td>
+<td>衛視中文台</td>
+<td>節目的特性跟前面兩者一樣，後來當台視引進的時候改名為《幸福一點通》，然後在一開始播映的時候中規中矩，直到健康老實說首播第一集以後開始出現不合理現象，不只是在進廣告時出現沒有公司名稱的電話號碼廣告<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup>還有出現重複播出相同內容的現象。</td>
+<td>晚期有觀眾注意到全內容跟《生活最速報》節目完全一樣<s>，後來於維基百科出現過大小眼現象說這個節目有收錄但是健康老實說節目卻不肯收錄的情形，兩者的待遇相差非常大<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup>。
+</s></td></tr></tbody></table><h3 class="in-block"><span id="單元劇"></span><span class="mw-headline" id=".E5.96.AE.E5.85.83.E5.8A.87">單元劇</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=24" title="編輯章節：單元劇" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>片名</th>
+<th>首播日期</th>
+<th>首播電視台</th>
+<th>紀要</th>
+<th>備註
+</th></tr><tr><td>我的這一班</td>
+<td><span style="color:purple;background-color:;">1993年3月29日</span></td>
+<td>華視</td>
+<td>在一些宗教團體開電視台製播新節目前，唯一描寫班級生活的全年齡向情境劇。最早由華視播出，後來轉移到新創建的公視，請了三批演員並借用三個不同的中學校來拍攝。</td>
+<td>2017年中官方似乎有意收尾，官網更新亦停在前一年。
+</td></tr><tr><td><a href="/%E6%B0%B4%E6%9E%9C%E5%86%B0%E6%B7%87%E6%B7%8B" title="水果冰淇淋">水果冰淇淋</a></td>
+<td><span style="color:purple;background-color:;">1998年7月2日</span></td>
+<td>公共電視</td>
+<td>史上第一部兒童向節目、也是公視的元老節目之一，由劇場人趙自強主持，比同一年開台的東森幼幼台早了幾個月時間播出。</td>
+<td>已經播映超過20年成為台灣之最<s>，但是唯一的官方公式網站卻一直停留在2007年的最後一次更新，部分小動畫中設定還<a href="/%E5%90%83%E6%9B%B8" title="吃書">吃書</a>，不過其實這些東西幾乎都沒什麼人會在意</s>。
+</td></tr></tbody></table><h3 class="in-block"><span id="打歌節目"></span><span class="mw-headline" id=".E6.89.93.E6.AD.8C.E7.AF.80.E7.9B.AE">打歌節目</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=25" title="編輯章節：打歌節目" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>這種節目通常在節目與下個節目間有超過五分鐘的空檔間播出，內容為一些時下流行音樂的music video，不過是完整mv的短縮版。
+<ul><li>視空檔的時間播出一至三首。</li>
+<li>近期有播出此類型節目的電視台如下：
+<ul><li><a href="/index.php?title=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0&amp;action=edit&amp;redlink=1" class="new" title="八大第一台（頁面不存在）">八大第一台</a>：音樂共和國<br><a href="/index.php?title=%E5%85%AB%E5%A4%A7%E7%B6%9C%E5%90%88%E5%8F%B0&amp;action=edit&amp;redlink=1" class="new" title="八大綜合台（頁面不存在）">八大綜合台</a>：百分百發燒星<s>星星發高燒了</s><br><a href="/index.php?title=%E4%B8%89%E7%AB%8B%E9%9B%BB%E8%A6%96&amp;action=edit&amp;redlink=1" class="new" title="三立電視（頁面不存在）">三立電視</a>：碟報<br><a href="/index.php?title=%E4%B8%89%E7%AB%8B%E5%8F%B0%E7%81%A3%E5%8F%B0&amp;action=edit&amp;redlink=1" class="new" title="三立台灣台（頁面不存在）">三立台灣台</a>：OOO（時下八點檔劇名）金曲<br><a href="/index.php?title=%E8%A1%9B%E8%A6%96%E4%B8%AD%E6%96%87%E5%8F%B0&amp;action=edit&amp;redlink=1" class="new" title="衛視中文台（頁面不存在）">衛視中文台</a>、<a href="/index.php?title=%E8%A1%9B%E8%A6%96%E9%9B%BB%E5%BD%B1%E5%8F%B0&amp;action=edit&amp;redlink=1" class="new" title="衛視電影台（頁面不存在）">衛視電影台</a>：巨星網<br><a href="/index.php?title=TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0&amp;action=edit&amp;redlink=1" class="new" title="TVBS歡樂台（頁面不存在）">TVBS歡樂台</a>：音樂百匯<br><a href="/index.php?title=%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC%E5%8F%B0&amp;action=edit&amp;redlink=1" class="new" title="東森幼幼台（頁面不存在）">東森幼幼台</a>：YOYO音樂盒<br>其他像是<a href="/%E5%8F%B0%E8%A6%96" class="mw-redirect" title="台視">台視</a>、<a href="/index.php?title=%E6%9D%B1%E6%A3%AE%E9%9B%BB%E8%A6%96&amp;action=edit&amp;redlink=1" class="new" title="東森電視（頁面不存在）">東森電視</a><sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup>等也有播出，只是沒有節目名稱</li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="延伸條目"></span><span class="mw-headline" id=".E5.BB.B6.E4.BC.B8.E6.A2.9D.E7.9B.AE">延伸條目</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=26" title="編輯章節：延伸條目" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li>台灣電視台簡介
+<ul><li><a href="/%E6%B0%91%E8%A6%96" title="民視">民視</a></li>
+<li><a href="/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96" title="台灣公共電視">台灣公共電視</a></li>
+<li><a href="/%E4%B8%AD%E5%9C%8B%E9%9B%BB%E8%A6%96%E5%85%AC%E5%8F%B8" title="中國電視公司">中國電視公司</a></li>
+<li><a href="/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E8%A6%96%E5%85%AC%E5%8F%B8" title="中華電視公司">中華電視公司</a></li>
+<li><a href="/%E9%A6%96%E8%8F%AF%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93" title="首華卡通頻道">首華卡通頻道</a></li></ul></li>
+<li>有重複內容的條目：
+<ul><li><a href="/%E8%85%B0%E6%96%AC" title="腰斬">腰斬</a></li>
+<li><a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=27" title="編輯章節：回應" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<p><a href="/%E8%A8%8E%E8%AB%96:%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8" title="討論:在台灣播放的電視動畫及節目狀況一覽表">討論:在台灣播放的電視動畫及節目狀況一覽表</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;action=edit&amp;section=28" title="編輯章節：備註" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">儘管當時社群網站才正要開始流行的時候幾乎也是如此</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">以在台灣首播的該年與日期為準，文字為紫色的就是已經可以確定的全台首播日期。</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">該版本未播出第24話，之後的版本皆有補回。</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">中視、卡通頻道、華視、東森電影台、八大綜合台、緯來綜合台等</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">但是自2007年開始出現了相關宣傳廣告是日文原聲版但在實際播映時則沒有的情形出現<s>，陰森台這樣做也是沒問題嗎？</s></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">例如1996年2月25日的台視、與中視同一年播映的衛視中文台等</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">以台灣的人口比例與電視人口的數量來說總收視率能破4%就算是超人氣節目，目前<b>還未出現</b>第二部能刷新紀錄的日本動畫</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">官方說法是舊版動畫已經播映滿4200集</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">首播的當日是難得一見的周六晚上7時30分</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">該動畫全片長25分鐘，在台灣播映時兩段廣告加起來至少有7分鐘因此被壓縮到只有播映後面的小單元《烘焙王小知識》</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">2019年6月3日的<a rel="nofollow" class="external text" href="https://mycte.turnnewsapp.com/varietytheatre/jp/333038">一篇日本新聞報導</a>中提到該系列已不再有國民番動畫頭銜<s>，都過了15年了這不是理所當然？</s></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">其實在TMS動畫公司製作的所有動畫中只有這個是特殊案例：主題曲的部分製作組名單是改成了全中文標示</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">該集原文名稱為【雪山のからくり山荘の巻】</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">東森幼幼台版的片頭曲使用自家的主題曲，MOMO親子台則是有播原版片頭片尾，但只播一小段。</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">包含下集預告後的《死神圖鑑》、《死神圖鑑黃金版》、《破面大百科》小單元等等</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">民視首播時只有單一中文，後面集數改到台視播出時配音有換過（ANIMAX動漫台播出時中配再換了人），也提供日文副聲。</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">無印+R(兩期)隨機墊檔...</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">詳看黑歷史條目中有關火影忍者的部分，原創劇情比例比其他同類型動畫多</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">繼該台曾引進的家庭教師、鬼燈的冷徹之後，又來了一部少數片尾有完整播完的作品</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">目前製作252集(5季</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">第1部為530集，第二部為60，若追加後續作品...已製作19部(目前共1682集)</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">例如3點59分、4點59分這樣依此類推</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">可能包含電視沒播映的一回內容</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">後來台視早期配音版本先後有在中都卡通台、東森卡通台播出。</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">如果在前一檔某動畫的完結篇是第13集、而且是剛好是奇數的話就會隨機播映該動畫的其中一回</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">Animax台重播廣告時的宣傳語(迷)，2013年快7月底時更換的PV一開始就是寫這些。</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">在2007年8月的工作日早上六點曾經播映過忍者哈特利，但是在原因未知下只播映10集之後就突然換成犬夜叉後半的劇情</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">因為台視官方資料裡面沒有特設官網以及影像資料，臉書流行之前既使有也都會消失</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text">舊譯《奇幻旅程》</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">目前已經可以從少數庫存的舊報紙上確定其最後播映的日期是從2004年10月7日開始至11月初期，然後當時的宣傳廣告以日文原聲播映；實際播出時以中文配音播映</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">字幕的意思為：看電視的時候請保持距離、同時也保持室內明亮。其他在《魔兵傳奇》也有</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text">但這也可能是香港翻譯的名稱，例如早期的數碼寶貝系列全彩漫畫</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text">當時的動畫完結篇就只是主角家中的一隻狗小六子突然要搬家至巴黎，最後只是虛驚一場的內容而已。</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text">當時傳出要在中視首播但不知為何最終沒有撥出。</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text">在本作中，片頭前段隨片頭曲前奏之時會<a rel="nofollow" class="external text" href="https://ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E7%8E%8B%E5%AD%90%E3%81%95%E3%81%BE#%E3%82%B2%E3%82%B9%E3%83%88%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC">有一段開場白</a>，不過蝸牛台後製組在當時技術不成熟無法消音，而是用別的音樂附上中配版口譯，到標題畫面顯示時才恢復原聲。值得一提的是，本作在蝸牛台播出在片頭唱歌時和亂馬1/2一樣沒有中文歌詞字幕。</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">開場白來自原作：這個故事獻給全世界的小孩子，以及還沒有忘記自己孩童時代的大人們。還有，給那些不只看外表，具有勇氣去發現事物真正的美麗的所有人們。我由衷奉獻這份友情—聖•艾修伯里。</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text">該台首播的年份與中視相同,隔年該台新增閩南語配音板</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text">目前確定是群英社代理，然而現在已經找不到相關庫存資料</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text">這是來自於舊報紙上的考證日期，跟維基百科之前紀錄的有些微不同</span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text">大概是因為香菸風波，才會有此行舉動。在本動畫的每一節開頭之前都會先插播此短片，畫面每次顯示隨機一則香菸相關警語，一段期間後，加上語音廣播：“航海王提醒您，吸煙有害健康。”</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text">這是因為當時有分季播出，然後電視台要播映下一季動畫需要花上一些時間後製與配音，非一時暫停播映</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text">但是在從2013年八月到2014年的暑假之間除外，將近一整年的時間沒有安排新版的任何播映檔次</span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text">九二一地震發生之前盜版時代的全台首播</span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text">相關的可能性很多，有人推測那些刪很大的片段是<b>剛好有抽菸和長相兇惡的路人出現</b></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text">2016年6月在新我們這一家播完後台視當局宣稱是HD高畫質的全新內容，但實際上是2004年台灣未曾播映過的特別篇內容</span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text">主要是播映少部分2001年以前未曾引進的內容<s>，也因此弄亂日本原有的播映順序，有幾回是播出小葵還沒登場的內容，混亂程度幾乎比名偵探柯南嚴重</s></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text">雖然吉卜力工作室到《回憶中的瑪妮》為止還有可以將手繪的賽璐珞顏料背景跟電腦特效合成的特殊技術，但是可愛巧虎島方面的台灣後製組就很難說了</span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><a href="#cite_ref-48">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">除了唯一一個叫做「晶璽Teeter倒立機」的商品除外，因為那是從《生活大驚喜》節目的第一集拿來播的</span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><a href="#cite_ref-49">↑</a></span> <span class="reference-text">在該時間點的周末分別播映骨質疏鬆症相關以及〈注意!!緊張人生沒有好胃來!?〉內容，12月以後大幅度調整</span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><a href="#cite_ref-50">↑</a></span> <span class="reference-text">為【補骨逆齡大作戰】還有【少糖少藥行不行】內容，目前疑惑的是兩者沒有相關影片資料</span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><a href="#cite_ref-51">↑</a></span> <span class="reference-text">已經可以確定在開始播出的三十分鐘後有重複播出相同內容的主題時廣告時間通常有兩段，而且<span style="color:red;background-color:;"><b>絕對</b></span>會出現晶璽自家產品的電視廣告。</span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><a href="#cite_ref-52">↑</a></span> <span class="reference-text">與此同名的節目很多，這裡的敘述是首播當時近三個月內台視新播的內容為準</span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><a href="#cite_ref-53">↑</a></span> <span class="reference-text">晚期播映時有人發現到其中一個內容<b>超智王</b>跟幸福一點通節目播映的<b>超智王</b>完全一樣，只是播映時間不同。</span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><a href="#cite_ref-54">↑</a></span> <span class="reference-text">就是在介紹營養食品<b>台灣綠蜂膠</b>和所謂的PPLs成分的話題，可是那種營養食品光憑每年的產量最多700公斤而且就只有在台灣生產的情形來說台灣的社會下層人了解多少？然後在裡面提到的PPLs成分對於很少接受教育的人來說而言幾乎是很陌生的單字</span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><a href="#cite_ref-55">↑</a></span> <span class="reference-text">這整個內容中只有「無痛無病，是生活品質的關鍵，只要用對方法，健康可以重來」的廣告台詞和電話號碼，然後衛視中文台的《幸福方程式》節目也有<s>，因為播出很頻繁而有<span style="color:red;background-color:;">新世代老鼠會廣告</span>的聯想</s></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><a href="#cite_ref-56">↑</a></span> <span class="reference-text">當初在2018年12月1日之後出現了跟健康老實說一樣的狀況，內容分別是【降真香】、【「藻」回健康】、【力雪達地龍酵素】還有【枸杞汁】這些，曾被觀眾質疑那也是置入性行銷廣告。</span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><a href="#cite_ref-57">↑</a></span> <span class="reference-text">早期播出時，開始前及結束後會有令人產生心理陰影的過場</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=在台灣播放的電視動畫及節目狀況一覽表&amp;oldid=364068">https://wiki.komica.org/index.php?title=在台灣播放的電視動畫及節目狀況一覽表&amp;oldid=364068</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="1641821843">
+				最後編輯於 2022年1月10日 (週一) 21:37
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%92%AD%E6%94%BE%E7%9A%84%E9%9B%BB%E8%A6%96%E5%8B%95%E7%95%AB%E5%8F%8A%E7%AF%80%E7%9B%AE%E7%8B%80%E6%B3%81%E4%B8%80%E8%A6%BD%E8%A1%A8&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.502","ppvisitednodes":{"value":1664,"limit":1000000},"ppgeneratednodes":{"value":3892,"limit":1000000},"postexpandincludesize":{"value":9248,"limit":2097152},"templateargumentsize":{"value":4097,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":20386,"limit":5000000},"timingprofile":["100.00%  117.349      1 -total"," 44.88%   52.664     26 模板:Ref"," 11.96%   14.032     35 模板:Color","  2.58%    3.033      1 模板:PostEditing","  1.84%    2.157      2 模板:Censored","  1.63%    1.917      1 模板:H0"]},"cachereport":{"timestamp":"20221103010018","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":323});});</script>		</body>
+		</html>
+		

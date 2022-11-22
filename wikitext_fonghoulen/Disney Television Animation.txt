@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Disney Television Animation - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Disney_Television_Animation","wgTitle":"Disney Television Animation","wgCurRevisionId":403920,"wgRevisionId":403920,"wgArticleId":47007,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"Disney_Television_Animation","wgRelevantArticleId":47007,"wgRequestId":"49d9447e1d141c08083205ee","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=Disney+Television+Animation\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=Disney+Television+Animation","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=Disney_Television_Animation&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=Disney_Television_Animation&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Disney_Television_Animation rootpage-Disney_Television_Animation stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=Disney+Television+Animation" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">Disney Television Animation</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">Disney Television Animation/迪士尼電視動畫公司/<s>敵視你/老鼠帝國/西方最強法務部</s></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>成立於1984年，迪士尼旗下的<a href="/%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="動畫工作室">動畫工作室</a>之一，主力是製作TV版動畫。
+<ul><li>華特迪士尼動畫工作室（Walt Disney Animation Studios）早就在1923年成立，主力為動畫電影。</li>
+<li>1950年代電視開始普及，華特迪士尼動畫工作室亦開始製作在電視上播放的動畫，主角為米老鼠。</li>
+<li>1984年公司重組，把製作TV版動畫的業務分拆成現時的迪士尼電視動畫公司（Disney Television Animation ），而原有的工作室則集中處理動畫電影。</li>
+<li>2011年迪士尼全面收購彼思（Pixar）後，為了分隔兩間工作室的作品，華特迪士尼動畫工作室所出產的電影均記錄在「迪士尼經典動畫長片」（Disney's Full-Length Animated Classics）的名義下。</li>
+<li>而「迪士尼公主」（Disney Princess）亦指在這系列中被賦予「公主」稱號的女角。</li></ul></li>
+<li>除了自家製作的動畫外，迪士尼旗下所有動畫電影的TV化系列（包括平行宇宙、前傳、外傳或後傳）皆由此工作室負責。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="動畫影集列表"></span><span class="mw-headline" id=".E5.8B.95.E7.95.AB.E5.BD.B1.E9.9B.86.E5.88.97.E8.A1.A8">動畫影集列表</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=2" title="編輯章節：動畫影集列表" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><td>以下列表僅列出部分作品
+</td></tr></tbody></table><h3 class="in-block"><span id="1980_-_1990年代"></span><span class="mw-headline" id="1980_-_1990.E5.B9.B4.E4.BB.A3">1980 - 1990年代</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=3" title="編輯章節：1980 - 1990年代" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="Mickey_Mouse_Works_（米老鼠新傳）"></span><span class="mw-headline" id="Mickey_Mouse_Works_.EF.BC.88.E7.B1.B3.E8.80.81.E9.BC.A0.E6.96.B0.E5.82.B3.EF.BC.89">Mickey Mouse Works （米老鼠新傳）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=4" title="編輯章節：Mickey Mouse Works （米老鼠新傳）" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>Disney的成名作，1999年高清化後以TV版推出。</li></ul><h4 class="in-block"><span id="DuckTales_（唐老鴨俱樂部）"></span><span class="mw-headline" id="DuckTales_.EF.BC.88.E5.94.90.E8.80.81.E9.B4.A8.E4.BF.B1.E6.A8.82.E9.83.A8.EF.BC.89">DuckTales （唐老鴨俱樂部）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=5" title="編輯章節：DuckTales （唐老鴨俱樂部）" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>工作室最早推出的作品之一。</li>
+<li>故事主要描述大富豪史高治（Scrooge McDuck）和唐老鴨（Donald Duck）以及其一家的冒險。
+<ul><li>當中史高治在金錢堆裡游泳到現在也是為人熟知的情節，經常被多套動畫惡搞。</li>
+<li>但現實中<b>在金錢堆裡游泳根本不可能</b>。</li>
+<li>重啟版中也特別強調在金錢堆裡游泳是經過特殊訓練才可以。</li></ul></li>
+<li>2017年重啟。
+<ul><li>唐老鴨的存在感大幅提升，並有著「史上最偉大的冒險家之一」的稱號。</li>
+<li>重啟版亦加入很多同世界觀但分佈在其他作品的角色，如飛天德（Darkwing Duck）。</li></ul></li></ul><h4 class="in-block"><span id="The_New_Adventures_of_Winnie_the_Pooh（小熊維尼歷險記）"></span><span class="mw-headline" id="The_New_Adventures_of_Winnie_the_Pooh.EF.BC.88.E5.B0.8F.E7.86.8A.E7.B6.AD.E5.B0.BC.E6.AD.B7.E9.9A.AA.E8.A8.98.EF.BC.89">The New Adventures of Winnie the Pooh（小熊維尼歷險記）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=6" title="編輯章節：The New Adventures of Winnie the Pooh（小熊維尼歷險記）" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事主要描述愛吃蜂蜜的小熊維尼（Winnie the Pooh）和其他的動物鄰居夥伴們的生活日常。</li>
+<li>現時此作品在中國大陸被<a href="/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%9A%84%E5%AF%A9%E6%9F%A5%E5%88%B6%E5%BA%A6" title="中國大陸的審查制度">限制出售</a>，原因你懂的...</li></ul><h4 class="in-block"><span id="Chip_'n_Dale:_Rescue_Rangers（救難小福星）"></span><span class="mw-headline" id="Chip_.27n_Dale:_Rescue_Rangers.EF.BC.88.E6.95.91.E9.9B.A3.E5.B0.8F.E7.A6.8F.E6.98.9F.EF.BC.89">Chip 'n Dale: Rescue Rangers（救難小福星）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=7" title="編輯章節：Chip 'n Dale: Rescue Rangers（救難小福星）" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事描述由四隻花栗鼠組成的「救援突擊隊」拯救世界。</li>
+<li>2022年重啟並推出新的同名真人化電影（？）。
+<ul><li>雖然說是真人化，但其實是2D混3D混真人的作品。</li>
+<li>電影版發生在電視動畫結束後30年，而且還加入不少除了迪士尼以外的第三方動漫的彩蛋。</li></ul></li></ul><h4 class="in-block"><span id="Darkwing_Duck（狡猾飛天德）"></span><span class="mw-headline" id="Darkwing_Duck.EF.BC.88.E7.8B.A1.E7.8C.BE.E9.A3.9B.E5.A4.A9.E5.BE.B7.EF.BC.89">Darkwing Duck（狡猾飛天德）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=8" title="編輯章節：Darkwing Duck（狡猾飛天德）" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>惡搞<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>的作品。</li>
+<li>2017年重啟DuckTales的同時，亦順道把Darkwing Duck的故事重啟。
+<ul><li>故事中除了把Darkwing Duck的名號交給新人外，亦把主要反派Negaduck的背景故事重寫。</li>
+<li>2020年曾公佈會重新製作Darkwing Duck，但推出時間未定。</li></ul></li></ul><h4 class="in-block"><span id="Gargoyles（夜行神龍）"></span><span class="mw-headline" id="Gargoyles.EF.BC.88.E5.A4.9C.E8.A1.8C.E7.A5.9E.E9.BE.8D.EF.BC.89">Gargoyles（夜行神龍）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=9" title="編輯章節：Gargoyles（夜行神龍）" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>講述被封印千年的夜行神龍一族，被解封後在曼哈頓打擊罪惡的故事。</li></ul><h4 class="in-block"><span id="Recess（下課後）"></span><span class="mw-headline" id="Recess.EF.BC.88.E4.B8.8B.E8.AA.B2.E5.BE.8C.EF.BC.89">Recess（下課後）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=10" title="編輯章節：Recess（下課後）" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>講述主角提傑（T.J）下課後的大冒險。</li></ul><h3 class="in-block"><span id="2000_年代"></span><span class="mw-headline" id="2000_.E5.B9.B4.E4.BB.A3">2000 年代</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=11" title="編輯章節：2000 年代" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="House_of_Mouse（米老鼠群星會）"></span><span class="mw-headline" id="House_of_Mouse.EF.BC.88.E7.B1.B3.E8.80.81.E9.BC.A0.E7.BE.A4.E6.98.9F.E6.9C.83.EF.BC.89">House of Mouse（米老鼠群星會）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=12" title="編輯章節：House of Mouse（米老鼠群星會）" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事發生在由米老鼠和唐老鴨等人所創立的餐館劇院中。
+<ul><li>客人全都是迪士尼著名電影的角色，包括主角、配角和奸角。</li>
+<li>中途會重播早期米老鼠的電影小故事。</li></ul></li>
+<li>之後有關米老鼠的故事都會有其他迪士尼著名電影角色作為彩蛋。</li></ul><h4 class="in-block"><span id="Kim_Possible（麻辣女孩）"></span><span class="mw-headline" id="Kim_Possible.EF.BC.88.E9.BA.BB.E8.BE.A3.E5.A5.B3.E5.AD.A9.EF.BC.89">Kim Possible（麻辣女孩）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=13" title="編輯章節：Kim Possible（麻辣女孩）" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>講述高中女生金姆（Kim Possible）跑遍全球打擊犯罪，但也必須與一般青少年一樣處理許多生活課題的故事。</li></ul><h4 class="in-block"><span id="American_Dragon:Jake_Long（美國飛龍:傑克龍）"></span><span class="mw-headline" id="American_Dragon:Jake_Long.EF.BC.88.E7.BE.8E.E5.9C.8B.E9.A3.9B.E9.BE.8D:.E5.82.91.E5.85.8B.E9.BE.8D.EF.BC.89">American Dragon:Jake Long（美國飛龍:傑克龍）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=14" title="編輯章節：American Dragon:Jake Long（美國飛龍:傑克龍）" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>講述主角傑克龍（Jake Long）為了保護社區中的傳說生物而作戰的故事。在當中混入了許多中國元素是為一大特色。<s>然後主角的妹妹與敵女兼主角戀人的玫瑰很騷。</s></li></ul><h4 class="in-block"><span id="The_Replacements（替身計畫）"></span><span class="mw-headline" id="The_Replacements.EF.BC.88.E6.9B.BF.E8.BA.AB.E8.A8.88.E7.95.AB.EF.BC.89">The Replacements（替身計畫）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=15" title="編輯章節：The Replacements（替身計畫）" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>主角為一對姐弟惠莉（Riley Eugene Daring）和杜迪（Todd Bartholomew Daring），在費立康公司安排下住進德林家。</li>
+<li>父母都是特務，他們各自有一隻專用手機，可以直撥費立康為他們把週遭不滿意的大人換掉。</li></ul><h4 class="in-block"><span id="Phineas_and_Ferb（飛哥與小佛[1]）"></span><span class="mw-headline" id="Phineas_and_Ferb.EF.BC.88.E9.A3.9B.E5.93.A5.E8.88.87.E5.B0.8F.E4.BD.9B.5B1.5D.EF.BC.89">Phineas and Ferb（飛哥與小佛<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=16" title="編輯章節：Phineas and Ferb（飛哥與小佛[1]）" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>由兩條主線構成的喜劇。
+<ul><li>飛哥（Phineas）跟其繼弟小佛（Ferb），兩人每天都能夠創造新奇誇張的物品，例如在後院造雲霄飛車、蓋大峽谷，發明複製機械人，他們的姐姐凱蒂絲總是想要向媽媽告狀，但結局卻總是以告狀失敗收場。</li>
+<li>主角的寵物鴨嘴獸泰瑞（Perry the Platypus）真正身份為動物特務「P」，為了阻止瘋狂而且邪惡的科學家漢斯·杜芬舒斯的詭異行動而試着去撂倒他。
+<ul><li><s>到後來雙方的關係已經變成相愛相殺，而且多數時間是杜芬舒斯自爆。</s></li></ul></li>
+<li>通常到最後飛哥等人做出來的東西都會被杜芬舒斯做出來的東西給意外毀掉，而杜芬舒斯的發明或計畫也會一同被摧毀（無誤）。</li></ul></li>
+<li>名梗：XX終結者、總共104天的暑假、我恨你鴨嘴獸泰瑞。</li></ul><h3 class="in-block"><span id="2010_年代"></span><span class="mw-headline" id="2010_.E5.B9.B4.E4.BB.A3">2010 年代</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=17" title="編輯章節：2010 年代" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="Mickey_Mouse（米奇歡樂多）"></span><span class="mw-headline" id="Mickey_Mouse.EF.BC.88.E7.B1.B3.E5.A5.87.E6.AD.A1.E6.A8.82.E5.A4.9A.EF.BC.89">Mickey Mouse（米奇歡樂多）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=18" title="編輯章節：Mickey Mouse（米奇歡樂多）" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>2013年的重啟作，以還原1920年代的畫風而著名。</li></ul><h4 class="in-block"><span id="Fish_Hooks（魚樂圈）"></span><span class="mw-headline" id="Fish_Hooks.EF.BC.88.E9.AD.9A.E6.A8.82.E5.9C.88.EF.BC.89">Fish Hooks（魚樂圈）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=19" title="編輯章節：Fish Hooks（魚樂圈）" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事圍繞在大魚缸中的小魚兒的生活日常。</li></ul><h4 class="in-block"><span id="Milo_Murphy's_Law（米羅的莫非命運）"></span><span class="mw-headline" id="Milo_Murphy.27s_Law.EF.BC.88.E7.B1.B3.E7.BE.85.E7.9A.84.E8.8E.AB.E9.9D.9E.E5.91.BD.E9.81.8B.EF.BC.89">Milo Murphy's Law（米羅的莫非命運）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=20" title="編輯章節：Milo Murphy's Law（米羅的莫非命運）" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事圍繞有著極大霉運但總能樂觀面對的米羅‧莫非（Milo Murphy）的冒險。
+<ul><li>故事基於著名的經驗法則「莫非定律」（Murphy's Law）：一件事可能出錯時就一定會出錯（Anything may happen will happen）。</li>
+<li>因此主角的背包內一定有著能夠應付任何狀況的道具。</li></ul></li>
+<li>和「Phineas and Ferb」同一世界觀，因此鴨嘴獸泰瑞（Perry the Platypus）的故事也在此作中繼續下去。</li></ul><h4 class="in-block"><span id="Gravity_Falls（神秘小鎮大冒險）"></span><span class="mw-headline" id="Gravity_Falls.EF.BC.88.E7.A5.9E.E7.A7.98.E5.B0.8F.E9.8E.AE.E5.A4.A7.E5.86.92.E9.9A.AA.EF.BC.89">Gravity Falls（神秘小鎮大冒險）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=21" title="編輯章節：Gravity Falls（神秘小鎮大冒險）" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="http://home.gamer.com.tw/creationDetail.php?sn=1571760">巴哈晚安部落專輯</a></li>
+<li>故事圍繞弟寶（Dipper）和他的雙胞胎姊姊美寶（Mabel）。
+<ul><li>兩人在12歲暑假時被送到他們叔公史坦（Grunkle Stan）所經營的「神秘屋」居住。</li>
+<li>姊弟兩人一方面幫助史坦經營神秘屋，一方面探索當地的超自然事物，以及背後的神祕謎團。</li></ul></li></ul><h4 class="in-block"><span id="Sofia_the_First（小公主蘇菲亞）"></span><span class="mw-headline" id="Sofia_the_First.EF.BC.88.E5.B0.8F.E5.85.AC.E4.B8.BB.E8.98.87.E8.8F.B2.E4.BA.9E.EF.BC.89">Sofia the First（小公主蘇菲亞）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=22" title="編輯章節：Sofia the First（小公主蘇菲亞）" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>內容講述小女孩蘇菲亞（Sofia）為了成為公主進入皇家，並遇上其他迪士尼公主而展開的冒險。
+<ul><li><s><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%89" title="仮面ライダーディケイド">我只是路過的公主，請給我記著！</a></s></li>
+<li><s><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B8%E3%82%AA%E3%82%A6" title="仮面ライダージオウ">我要成為最棒最善良的公主！</a></s></li></ul></li></ul><h4 class="in-block"><span id="Wander_Over_Yonder（宇宙小奇兵）"></span><span class="mw-headline" id="Wander_Over_Yonder.EF.BC.88.E5.AE.87.E5.AE.99.E5.B0.8F.E5.A5.87.E5.85.B5.EF.BC.89">Wander Over Yonder（宇宙小奇兵）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=23" title="編輯章節：Wander Over Yonder（宇宙小奇兵）" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事主要描寫星際旅客旺達（Wander）對抗邪惡的故事。</li>
+<li>由於原創者為Craig Mc-Cracken，因此故事中暗藏<a href="/%E9%A3%9B%E5%A4%A9%E5%B0%8F%E5%A5%B3%E8%AD%A6" title="飛天小女警">飛天小女警</a>的彩蛋。
+<ul><li>Craig Mc-Cracken亦因為製作Wander Over Yonder而沒有加入<a href="/%E9%A3%9B%E5%A4%A9%E5%B0%8F%E5%A5%B3%E8%AD%A6" title="飛天小女警">飛天小女警</a>2016年重製版的製作。</li>
+<li>Wander Over Yonder完結後，因Craig Mc-Cracken的新提案不受迪士尼接受而離開。</li></ul></li></ul><h4 class="in-block"><span id="Star_vs._the_Forces_of_Evil（公主闖天關）"></span><span class="mw-headline" id="Star_vs._the_Forces_of_Evil.EF.BC.88.E5.85.AC.E4.B8.BB.E9.97.96.E5.A4.A9.E9.97.9C.EF.BC.89">Star vs. the Forces of Evil（公主闖天關）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=24" title="編輯章節：Star vs. the Forces of Evil（公主闖天關）" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3" title="魔法少女">魔法少女</a>動畫 (無誤</li>
+<li>故事開始於妙尼王國（Mewni) 的公主星星蝶舞（Star Butterfly）繼承家族的傳家寶物「皇家魔法杖」，由於操控不善，所以被安排來到地球學習。</li></ul><h4 class="in-block"><span id="Amphibia（蛙！小安的奇幻之旅）"></span><span class="mw-headline" id="Amphibia.EF.BC.88.E8.9B.99.EF.BC.81.E5.B0.8F.E5.AE.89.E7.9A.84.E5.A5.87.E5.B9.BB.E4.B9.8B.E6.97.85.EF.BC.89">Amphibia（蛙！小安的奇幻之旅）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=25" title="編輯章節：Amphibia（蛙！小安的奇幻之旅）" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>小安（Anne）和兩位好友莎夏（Sasha）、瑪希（Marcy）三人被傳送到一個充滿智慧兩棲動物的異世界，並展開拯救世界的冒險。</li></ul><h4 class="in-block"><span id="The_Owl_House（奇幻貓頭鷹小屋）"></span><span class="mw-headline" id="The_Owl_House.EF.BC.88.E5.A5.87.E5.B9.BB.E8.B2.93.E9.A0.AD.E9.B7.B9.E5.B0.8F.E5.B1.8B.EF.BC.89">The Owl House（奇幻貓頭鷹小屋）</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=26" title="編輯章節：The Owl House（奇幻貓頭鷹小屋）" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>露絲（Luz Noceda）被傳送到一個充滿魔法的群島「怪奇魔界」（Boiling Isles），被稱為「貓頭鷹夫人」（Owl Lady）的叛逆女巫伊丹收入門下，開始了魔法修練之旅。</li>
+<li>由於女主角露絲的雙性戀取向而一度引起炎上。
+<ul><li>迪士尼官方表示會跟據當地風土民情而把有關女同志的片段作出刪減。</li>
+<li>台灣迪士尼的選擇是刪減有關情節，把旁白中的「女朋友」改成「最好的朋友」。</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=27" title="編輯章節：連結" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>美國動畫頻道<a href="/%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="動畫工作室">動畫工作室</a><a href="/%E5%BE%A1%E4%B8%89%E5%AE%B6" title="御三家">御三家</a>
+<ul><li><b>Disney Television Animation</b></li>
+<li><a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">Cartoon Network Studios</a></li>
+<li><a href="/Nickelodeon_Animation_Studio" title="Nickelodeon Animation Studio">Nickelodeon Animation Studio</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=28" title="編輯章節：回應" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<p><a href="/%E8%A8%8E%E8%AB%96:Disney_Television_Animation" title="討論:Disney Television Animation">討論:Disney Television Animation</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=Disney_Television_Animation&amp;action=edit&amp;section=29" title="編輯章節：備註" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">港譯：飛哥與發仔</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=Disney_Television_Animation&amp;oldid=403920">https://wiki.komica.org/index.php?title=Disney_Television_Animation&amp;oldid=403920</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/Disney_Television_Animation"
+				data-user-name="Wei75631"
+				data-user-gender="unknown"
+				data-timestamp="1659661937">
+				最後編輯於 2022年8月5日 (週五) 09:12
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=Disney_Television_Animation&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.048","walltime":"0.052","ppvisitednodes":{"value":142,"limit":1000000},"ppgeneratednodes":{"value":238,"limit":1000000},"postexpandincludesize":{"value":341,"limit":2097152},"templateargumentsize":{"value":107,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":389,"limit":5000000},"timingprofile":["100.00%    2.283      1 模板:H0","100.00%    2.283      1 -total"]},"cachereport":{"timestamp":"20221010113349","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":179});});</script>		</body>
+		</html>
+		

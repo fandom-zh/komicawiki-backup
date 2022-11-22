@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>バカゲー - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"バカゲー","wgTitle":"バカゲー","wgCurRevisionId":415543,"wgRevisionId":415543,"wgArticleId":2406,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"バカゲー","wgRelevantArticleId":2406,"wgRequestId":"f840a0b046d35d9ed8050b76","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-バカゲー rootpage-バカゲー stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">バカゲー</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">バカゲーム/笨蛋遊戲/Baka Game/Dumb Game/<s>白癡驚<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>/硬膠驚<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></s></div>
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><td>編者的文法可能有欠通順，還望有朋友能加以改正。
+</td></tr><tr><td>注意：以下內容、語調可能比較主觀，希望大家能以較公正客觀語氣為本條目作出<a href="/%E4%BF%AE%E6%AD%A3" title="修正">修正</a>。
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>バカゲーム（一般會簡寫バカゲー）直譯是笨蛋遊戲。中文可稱蠢GAME。
+<ul><li>顧名思義，是指呈現內容蠢到非常的遊戲。</li>
+<li>這些遊戲的故事、人設、音樂或者世界觀等都是製作群故意胡搞瞎搞，藉此引人發噱。</li>
+<li>簡單點說，就是所謂「<a href="/%E5%85%AC%E5%BC%8F%E3%81%8C%E7%97%85%E6%B0%97" title="公式が病気">公式が病気</a>」（官方有病）。</li></ul></li>
+<li>バカゲー一開始已不打算朝正經的方向製作，但並非見到一小點不正經的內容就可以說是バカゲー。
+<ul><li>例如：MGS系列雖然到處也充斥著惡搞場面，但遊戲的設定以及本篇劇情始終是以正經嚴肅的方式進行的，惡搞點只是作為遊戲的點綴而已。因此MGS系列並不屬於バカゲー之一。</li></ul></li>
+<li>跟<a href="/%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC" title="クソゲー">クソゲー</a>（糞遊戲）不同，クソゲー是因出現大量BUG，系統不親切，又或者是遊戲性低下無趣，令玩家玩得痛苦而被批為クソゲー的，造成如此情況，大多數原因基於遊戲完成度太低之故。
+<ul><li>而バカゲー多半只是在故事劇情，背景資料設定有些蠢或白痴而已，但一般的遊戲完成度都不會太低，而遊戲性也不會太差。</li>
+<li>當然也有例外，被稱為傳說的糞遊戲的デスクリムゾン（死亡火槍）在某程度也可以稱為バカゲー。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li></ul></li>
+<li>由於每人對搞笑的定義也不同，因此人們對バカゲー的標準可能比較廣。而一旦作惡搞的方向錯誤的話，就會被視之為クソゲー。
+<ul><li>例如在<a href="/%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC" title="クソゲーオブザイヤー">クソゲーオブザイヤー</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>2009的次賞得主之一的Let’s 全力ヒッチハイク!!!!!!!!!就是因為故事設定極度寒冷<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>而在一眾クソゲー脫穎而出。</li>
+<li>可見有時バカゲー和クソゲー其實只有一線之差，能令玩家享受的就是好ゲー。</li></ul></li>
+<li>如果含有更多<a href="/%E9%9B%BB%E6%B3%A2" title="電波">電波</a>成分也有可能變成<a href="/%E5%A5%87%E3%82%B2%E3%83%BC" title="奇ゲー">奇ゲー</a>的一種。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="バカゲー一覽"></span><span class="mw-headline" id=".E3.83.90.E3.82.AB.E3.82.B2.E3.83.BC.E4.B8.80.E8.A6.BD">バカゲー一覽</span><span class="mw-editsection"><a href="/index.php?title=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC&amp;action=edit&amp;section=2" title="編輯章節：バカゲー一覽" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="wikitable" style="font-size:small; margin:0.5em auto;"><tbody><tr><th>遊戲名稱
+</th>
+<th>平台
+</th>
+<th>解說
+</th>
+<th>影片
+</th></tr><tr><td>超兄貴系列
+</td>
+<td>PCE<br>PS2
+</td>
+<td>遊戲內的肌肉男滿天飛(無誤)。同時也因為這遊戲的關係，<a href="/%E5%85%84%E8%B2%B4" title="兄貴">兄貴</a>成為了<s><a href="/BL" title="BL">基佬</a></s>肌肉男的<a href="/%E4%BB%A3%E5%90%8D%E8%A9%9E" title="代名詞">代名詞</a>。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=jAjkYnBEGOk">遊玩影片</a>
+</td></tr><tr><td>珍道中！ポールの大冒険
+</td>
+<td>Wii
+</td>
+<td>男主角ポール前去拯救戀人的奇妙(?)冒險。<br>事實上蒐集關卡中的ネタ才是遊戲的精神所在；從第一關的蘋果就開始惡搞，有太硬的蘋果、腐爛的蘋果、雕刻成兔子的蘋果等。其吐槽風格跟呈現方式都是致敬陣內智則，連吐槽時都是關西腔。<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為有不少ネタ會導致主角陣亡掉命</span>，本遊戲會有大量的1UP。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=8tu4GetB7-o">遊玩影片</a>
+</td></tr><tr><td>半熟英雄系列
+</td>
+<td>PC<br>SFC
+</td>
+<td>
+</td>
+<td>
+</td></tr><tr><td>ゴッドハンド (God Hand)
+</td>
+<td>PS2<br>PS3
+</td>
+<td>2006年發售的<a href="/%E6%B8%85%E7%89%88%E5%8B%95%E4%BD%9C%E9%81%8A%E6%88%B2" title="清版動作遊戲">清版動作遊戲</a>。<br>從各方面可看出，這遊戲完全是沒考慮到市場需求的(包括三上真司本人也說God hand做得太過火了)，因此當時有クソゲー和神ゲー的兩極評價。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=O-FMr74qgoQ">遊玩影片</a>
+</td></tr><tr><td>デスクリムゾン (死亡火槍)
+</td>
+<td>SS
+</td>
+<td>儘管是一塊大<a href="/%E5%9C%B0%E9%9B%B7" title="地雷">地雷</a>，但單靠越前的聲線已經夠你狂笑一段長時間。其後續集2雖說在畫面上有改善，但其他方面仍是問題連連，而故事方面更能說官方已經病入膏肓了<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>。但在更之後的ox（以第二集為基礎的改良版）是一隻很<a href="/%E6%99%AE%E9%80%9A" title="普通">普通</a>的遊戲<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=K07h7pzpxPY">遊玩影片</a>
+</td></tr><tr><td>NO MORE HEROES
+</td>
+<td>Wii
+</td>
+<td>
+</td>
+<td>
+</td></tr><tr><td>セガガガ
+</td>
+<td>Dreamcast
+</td>
+<td>雖然有時很熱血，但是故事劇情，系統和對白實在太亂來<s>兼自虐</s>，有大量遊戲業界<a href="/%E6%8D%8F%E4%BB%96" title="捏他">捏他</a>，最後變成STG真是不明所以<s>，「R・P・G」は（株）バンダイの登録商標です</s>。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=7Dwfkr5dtVI">遊玩影片</a>
+</td></tr><tr><td>Trio the Punch -Never Forget Me...-
+</td>
+<td>Arcade
+</td>
+<td>與副標題相符，該遊戲只能玩過一次就絕對畢生難忘；意義不明的標題名稱、紅短褲胖鬍子大叔造型的敵人、打倒敵人時的謎之叫聲，第一關的boss居然是個用腳發射氣功的雕像…<br>其實本作跟《格鬥列傳》系列一樣有不同自家角色客串。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=rIPtzZHJnkg">遊玩影片</a>
+</td></tr><tr><td>ハロー！パックマン（海外標題：PAC-MAN 2 The New Adventure）
+</td>
+<td>SFC<br>MD
+</td>
+<td>《小精靈（PAC-MAN）》系列唯一一款點擊式動作冒險遊戲，玩家需引導小精靈來完成故事<br>不過由於本作自由度高，玩家幾乎時常無視故事進度來惡整小精靈讓他發瘋<s>然後GAME OVER</s>或是讓小精靈做出古怪的行為，本作劇情也以搞笑向卡通風格演出讓不少玩家會心一笑<br>同時也因為本作提示頗不明顯需要摸索才能繼續進行故事<s>順便也惡整小精靈</s>的緣故，因此本作也能列為鬼畜ゲー<br><br>有密技可以在本作遊玩初代的小精靈遊戲（2+1款）
+</td>
+<td><a rel="nofollow" class="external text" href="https://youtu.be/ndsB3vPR_Sg">遊玩影片</a>
+</td></tr><tr><td>PuLiRuLa
+</td>
+<td>Arcade<br>SFC
+</td>
+<td>Taito貫有風格的可愛角色和畫風下，充滿製作組毒<a href="/%E9%9B%BB%E6%B3%A2" title="電波">電波</a>的第三關和部分魔法效果，以及最終關令人咋舌的<a href="/%E3%82%B0%E3%83%AD%E3%83%86%E3%82%B9%E3%82%AF" title="グロテスク">獵奇</a><a href="/%E9%80%86%E6%B5%81" title="逆流">非主流</a>背景。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=t3wsFFCncrY">遊玩影片</a>
+</td></tr><tr><td>おでかけレスターれれれのれ(^^; (Lester the Unlikely)
+</td>
+<td>SFC
+</td>
+<td>媲美波斯王子的操作性和緊張感，電波般的劇情和配樂、處處有孔明以及讓人完全無法同情的無能男主角。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Guc3UovkO6I">遊玩影片</a>
+</td></tr><tr><td>ファーストサムライ (First samurai)
+</td>
+<td>SNES
+</td>
+<td>操作一名上半裸身的日本武士男闖關，不過介面生命條非常前衛的用粗勇的手臂來顯示。<br>吃到補血藥或打開寶箱時會歌唱「哈雷路亞」，劍被打飛時會說出"Oh, no, my sword!"的台詞。<br><s>先生你到底是哪國人？</s><br>續作的Second Samurai的Sega版圖像與風格改得正常一些，卻也失去了韻味，就只是個單純的清版遊戲，Amiga版仍然維持著前代特色
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=YggE27IHwmE">遊玩影片</a>、<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=JeF2oYKlj7c">2代Amiga版</a>
+</td></tr><tr><td>パロディウス系列 (Parodius)
+</td>
+<td>Arcade<br>SFC<br>PS<br>SS
+</td>
+<td>不單止是Konami明星大集合STG，更連章魚、兔女郎、火柴人等也可以丟上天當自機。<br>雖然遊戲系統及關卡配置均採自Konami本家的"宇宙巡航機"及"沙羅曼蛇"，但敵人設定惡搞不單止還會有"兵蜂"的鈴飛出來，甚至有模仿"純愛手札"風味的關卡…
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=--RATHL-biQ">遊玩影片</a>
+</td></tr><tr><td><a href="/%E3%82%B2%E3%83%BC%E3%83%A0%E5%A4%A9%E5%9B%BD" title="ゲーム天国">ゲーム天国</a> 系列
+</td>
+<td>Arcade<br>SS<br>PS
+</td>
+<td>同パロディウス走惡搞向的明星大集合STG。<br>如同標題一樣，遊戲主題都是JALECO自家遊戲<s>同時也玩自虐梗</s>。<br>除此之外，CV陣容更是豪華，家用版更是有漫才內容和動畫特典<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>，是JALECO全盛時期中的優秀作品。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=QbJMW8YHOPM">遊玩影片</a>
+</td></tr><tr><td>美食戦隊薔薇野郎
+</td>
+<td>SFC
+</td>
+<td>濃烈的世界觀，奇妙的恢復手段，切記不要兩個香菇混著吃會大扣血（-999）。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=rlrzMm8qVVM">遊玩影片</a>
+</td></tr><tr><td>ダイナマイト刑事 (火爆刑警)
+</td>
+<td>Arcade<br>SS<br>PS2<br>PS3
+</td>
+<td>以電影《Die Hard》的大樓冒險為基礎，但跟電影劇情一點關係都沒有。麥克連何時跟消防車和雷射<a href="/%E6%A9%9F%E5%99%A8%E4%BA%BA" title="機器人">機器人</a>搏鬥過了？<br>PS2移植版更是追加不少バカ元素進去。第三集更加大玩cosplay，可以打扮成成龍、殭屍、小丑等造型，連招式也隨打扮而改變。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=-_DGbtWC5HE">遊玩影片</a>
+</td></tr><tr><td>風雲默示錄 格鬥創世
+</td>
+<td>
+</td>
+<td>一大堆由武器和格鬥技組合而成的<s>不倫不類</s>全新格鬥技（例如<a href="/%E6%8B%B3%E7%9A%87%E7%B3%BB%E5%88%97%E4%B8%AD%E5%BE%9E%E5%85%B6%E4%BB%96%E9%81%8A%E6%88%B2%E8%80%8C%E4%BE%86%E7%9A%84%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8#m5e532a5" title="拳皇系列中從其他遊戲而來的人物列表">空手道+回力刀</a>，劍+拳擊手套），男角限定的脫衣KO，任何武器投出去也會自動回到手中，奇天烈的人物設定和結局…最後還有超<s>吵耳</s>雄亮叫聲的Opening!<s>被官方承認是<a href="/%E6%8D%8F%E4%BB%96" title="捏他">捏他</a>。</s><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><br>所幸在改良版《風雲默示錄Super Tag Battle》從バカゲー轉變為洗鍊又熱血的風格，挽回不少印象分數
+</td>
+<td>
+</td></tr><tr><td>世界英雄榜ワールドヒーローズ系列
+</td>
+<td>Arcade
+</td>
+<td>將世界歷史民俗傳說<s>以及現代漫畫</s>的人物以兩光方式演譯：能發出鯊魚型與大船型<b>氣功</b>的海盜船長基德、在現代當上班族的歌舞伎忍者風魔小太郎、柔道英雌<s>豬熊柔</s>出雲涼子、<a href="/%E9%9F%93%E5%9C%8B%E8%B5%B7%E6%BA%90" class="mw-redirect" title="韓國起源">居然是韓國籍</a>的<a href="/%E6%9D%8E%E5%B0%8F%E9%BE%8D" title="李小龍">李小龍</a>、中國武將風格卻使用<a href="/%E5%8C%97%E6%96%97%E3%81%AE%E6%8B%B3" class="mw-redirect" title="北斗の拳">北斗神拳</a>招式的成吉思汗、求偶心切的聖女(?)貞德、龐克暴露狂開膛手傑克、<a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm3930133">負けたッスー負けたッスー負けたッスー</a>的<s>無名修羅</s>泰國拳手、No.1No.1No.1No.1的<s>浩克·荷根</s>美國摔角手、機械人<a href="/%E6%88%90%E5%8F%A5/%E5%BE%B7%E5%9C%8B%E7%9A%84%E7%A7%91%E5%AD%B8%E5%8A%9B%E6%98%AF%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80" title="成句/德國的科學力是世界第一">納粹</a>軍官、仿<a href="/%E5%8C%97%E6%96%97%E3%81%AE%E6%8B%B3" class="mw-redirect" title="北斗の拳">拳王拉歐</a>的時空<a href="/%E5%A4%A7%E9%AD%94%E7%8E%8B" title="大魔王">魔王</a>、魔鬼終結者T-1000液態金屬人+<s>巴歐來訪者</s>究極生物<a href="/DIO" title="DIO">DIO</a>、大家印象最深的還是那個淫賤至極的<a rel="nofollow" class="external text" href="https://www.nicovideo.jp/watch/sm6808484">狂僧拉斯普汀</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>…
+</td>
+<td>
+</td></tr><tr><td>豪血寺一族系列
+</td>
+<td>
+</td>
+<td>充滿惡趣的故事人物背景設定都不比背景音樂有名，尤其是"レッツゴー!陰陽師"。<b>成仏しろよ！</b>
+</td>
+<td>
+</td></tr><tr><td>摩訶摩訶
+</td>
+<td>SFC
+</td>
+<td>充滿惡趣味設定，最後頭目只是遊戲封面中一個毫不顯眼的小人，而且其最終型態雖外表變得恐怖但HP只有1。<s>可惜致命Bug太多而淪為クソゲー實在可惜。</s>
+</td>
+<td>
+</td></tr><tr><td>イデアの日
+</td>
+<td>SFC
+</td>
+<td>上面的姐妹作，世界觀不同但系統是沿用的，BUG倒是修正了不少……故事超多超展開就是了。
+</td>
+<td>
+</td></tr><tr><td>悪代官系列
+</td>
+<td>PS2
+</td>
+<td>以設置陷阱打倒正義之士保護無惡不作的惡代官（玩家）為主題，玩法類似《影牢》。除了滑稽的惡代官和惡德商人的搞笑表現之外，各關故事或場景明顯地向各式各樣的創作致敬，如「<ruby>太多肉<rp>（</rp><rt style="font-size:0.5em;">Taitaniku</rt><rp>）</rp></ruby>丸」<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>、女忍者<a href="/%E6%88%B0%E9%9A%8A" title="戰隊">戰隊</a>、「<a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88" title="機動戰士鋼彈">白基地丸</a>」<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>、獎勵小遊戲<s>百萬富O</s>「問答百万石」等，Game Over以ハッピーエンド為名，內容會根據各關卡內容而有所不同（例如某拳擊動畫的名場面、白基志丸墜落後引發大規模<s>一年</s>戰爭）。
+</td>
+<td><a rel="nofollow" class="external text" href="https://youtu.be/YBbwLdOtPrA">TAS影片</a>
+</td></tr><tr><td>鈴木爆発
+</td>
+<td>PS
+</td>
+<td>當身邊的柳丁、手槍、<a href="/%E4%BE%BF%E7%95%B6" title="便當">便當</a>、影子甚至是月亮都是計時炸彈的時候…
+</td>
+<td>
+</td></tr><tr><td>押忍!闘え!応援団（海外：Elite Beat Agents）
+</td>
+<td>DS
+</td>
+<td>只要有困難，1組3人的應援團（或西裝男）都會給你打氣助你渡過難關。<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><br>就連埃及豔后都要召喚他們穿越時空到古埃及應援。
+</td>
+<td>
+</td></tr><tr><td>暴れん坊天狗
+</td>
+<td>FC<br>PC / Switch（復刻版）
+</td>
+<td>一個天狗面具在美國大肆破壞的STG，但到了最後卻變成打倒外星生物（?）後響起美國的國歌。故事耐人尋味但爽快感滿分。除此以外，中潟憲雄與大久保高嶺為本作製作的BGM也相當棒<br> 海外版《Zombie Nation》則是做了在地化改變：例如天狗面具改成鬼臉面具、部分BOSS改變等<br>後來CITY CONNECTION於2021年10月28日推出復刻版，除了收錄雙版本以外也追加如倒轉、即時存讀檔、連射等輔助系統
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=h946DsjPrZo">遊玩影片</a>
+</td></tr><tr><td>功夫滑仔(Kung Fu Rider)
+</td>
+<td>
+</td>
+<td>只需一張椅子加四個滑輪，速度便快如風的賽車（?）遊戲。
+</td>
+<td>
+</td></tr><tr><td>クッキングファイター好
+</td>
+<td>
+</td>
+<td>日本一在魔界戰紀前的惡搞舊例，將<a href="/%E6%A9%9F%E5%8B%95%E6%AD%A6%E9%AC%A5%E5%82%B3G%E9%8B%BC%E5%BD%88" title="機動武鬥傳G鋼彈">機動武鬥傳</a>人設加上妙手小廚師料理對抗和<a href="/%E4%B8%AD%E8%8F%AF%E4%B8%80%E7%95%AA" class="mw-redirect" title="中華一番">中華一番</a>式世界觀<a href="/%E6%88%90%E5%8F%A5/%E7%88%AD%E4%BB%80%E9%BA%BC%3F%E6%91%BB%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%81%9A%E6%88%90OOXX%E5%95%8A%E3%80%81%E7%AC%A8%E8%9B%8B!" class="mw-redirect" title="成句/爭什麼?摻在一起做成OOXX啊、笨蛋!">摻在一起</a>搞出來的<s>電子小說</s>+<a href="/%E5%8B%95%E4%BD%9C%E9%81%8A%E6%88%B2/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0" class="mw-redirect" title="動作遊戲/アクションゲーム">動作</a>料理遊戲，唯一能自由活動的只有戰鬥過程，必須追著活跳跳的牲口<a href="/%E3%82%B0%E3%83%AD%E3%83%86%E3%82%B9%E3%82%AF" title="グロテスク">先斬後炒</a>，斬傷對手阻止烹調過程、還可以奪取對手已經完成的料理直接算自己的分數…劇情演示人物性格生硬令人咬牙、在過場劇情的人物立繪之爛更令人扼腕，唯一可取的只有主角聲優－<a href="/%E6%AA%9C%E5%B1%B1%E4%BF%AE%E4%B9%8B" title="檜山修之">檜山修之</a>的賣力演出。<br>到了2015年，日本一在其過去作品投票活動中<b>故意給此作灌了80兆票</b><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>，令此作品經18年後以下載販賣的形式再發售，<b>發售期限為80億秒（直到2269年1月2日）</b>，連以往的官網也因此更新了。
+</td>
+<td>
+</td></tr><tr><td>魔界戰紀系列
+</td>
+<td>
+</td>
+<td>說真的，日本一出品的遊戲…只要是卡漫風格的作品都惡搞得很。<s>因為一旦用正常風格就不行了。<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></s>
+</td>
+<td>
+</td></tr><tr><td>METAL WOLF CHAOS
+</td>
+<td>
+</td>
+<td>可説是<a href="/%E8%AE%8A%E6%85%8B" title="變態">變態</a>企業的作品之中最變態的一個<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>，第47任美國大總統自己穿上強化戰鬥服對付爆亂的副總統，跟他還有段GAY情（誤），能生身出入宇宙（無誤）。明明用大殺傷力武裝隨便拆樓但卻做出0殺傷的記録。DLC甚至把派對用品當武器用。最可怕的是在遊戲中還出現了改裝成戰鬥堡壘的白宮、會潛水的空軍一號等東西……但<a href="/%E5%A4%96%E4%BA%BA" title="外人">外國人</a>似乎非常受落，被稱為「史上最美國的遊戲」，可是外國人一直玩不到。<br><b>事隔14年後Devolver Digital於E3 2018宣佈將會推出HD重製版作多平台發售</b>，消息公佈後一大群外人爽到高潮(無誤)。
+</td>
+<td>
+</td></tr><tr><td><a href="/Metal_Slug" title="Metal Slug">越南大戰系列</a>
+</td>
+<td>
+</td>
+<td>像海珊的敵人、火星人等外星生物、會龜派氣功的老頭、肥肥狀態，還會像某電影般駕駛戰鬥機來個神風特攻撞向巨型幽浮的主炮將外星人擊退。請告訴我這塊遊戲有那個地方不惡搞。不過最近幾代因為難度太高，還有<s>意義不明</s>的同名塔防遊戲弄壞名聲，而人氣不再。
+</td>
+<td>
+</td></tr><tr><td>勇者別囂張（勇者のくせになまいきだ）
+</td>
+<td>
+</td>
+<td>玩家身為破壞神，與愛護環境、富有愛心、<a href="/%E3%83%A1%E3%82%BF%E7%99%BA%E8%A8%80" title="メタ発言">メタ発言</a><s>而且超弱</s>的魔王一起對抗邪惡的人類帝國。<br>小心！勇者ああああ<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>攻過來了！！
+</td>
+<td>
+</td></tr><tr><td>ずんずん教の野望(尊尊教的野望)
+</td>
+<td>Arcade
+</td>
+<td>從外表看是款氣氛嚴肅的打擊邪教的遊戲，但是實際內容相當惡搞，敵方有醉漢、熊貓、小丑等敵人<s>這邪教好多元化</s>，甚至有酷似朱利*娜女郎和*國隊長的敵人和頭目<s>所以這哪裡像邪教？</s>。過關後主角會哈哈大笑。<br>在本遊戲稼動開始的同時剛好發生了奧姆真理教引發的沙林毒氣事件，而令本遊戲瞬間爆紅。
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm7098689">遊玩影片</a>
+</td></tr><tr><td>HARAKIRI
+</td>
+<td>
+</td>
+<td>於PC-88上推出，類似信長の野望的戰略遊戲。Game如其名，遊戲中的武將的死因多半都是切腹（受不住屈辱or城市內武將滿員要幹掉能力低的部下換新武將等）。此外會有戰國時代以外的人物參戰<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>，還有耐力驚人的<s>SUMOU</s>相撲兵!<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td>
+<td>
+</td></tr><tr><td><a href="/%E9%BB%84%E6%98%8F%E9%85%92%E5%A0%B4%EF%BD%9EUwabami_Breakers%EF%BD%9E" title="黄昏酒場～Uwabami Breakers～">黃昏酒場</a>
+</td>
+<td>
+</td>
+<td>上海アリス幻樂団於C73發售的產物，彈幕系統和3面BOSS曲由神主操刀，只是自機為喝醉的OL「淺間伊佐美」，射出的彈幕為一根又一根的牙籤。
+</td>
+<td>
+</td></tr><tr><td>異域狂想曲
+</td>
+<td>
+</td>
+<td>EG：當菜鳥經過磨練而成長之後，就會成為老鳥，這是千古不變的道理（當然也會有例外），成為老鳥以後戰鬥的技術不一定會更好、任務的執行也不一定會更有效率，倒是態度反而可能變得更散漫、對紀律和規定也越來越不遵守，而且還會習得一種叫做「欺負菜鳥」的新技能。
+</td>
+<td>
+</td></tr><tr><td>ポケットファイター（袖珍快打）
+</td>
+<td>
+</td>
+<td>角色會自己<a href="/Cosplay" title="Cosplay">cosplay</a>，攻擊方式包含送情書、打針、機車衝撞等奇怪方式，甚至在背景中的人物也都是在惡搞。
+</td>
+<td>
+</td></tr><tr><td>學園帥哥（学園ハンサム）
+</td>
+<td>PC<br>iOS<br>Android
+</td>
+<td>戀愛BL遊戲，但作畫卻「刻意的」大崩壞<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>，裡面的角色沒一個正常的（包括主角）<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>，可攻略對象從頭到腳至行為都莫名其妙，最經典莫過於「殺人下巴」…完全是バカゲー。<br>2015年<s>竟然</s>宣佈OVA化<s>，怎麼畫都不算<a href="/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="作畫崩壞">作畫崩壞</a></s>。
+</td>
+<td>
+</td></tr><tr><td>南方四賤客：真實之杖
+</td>
+<td>
+</td>
+<td>無節操<a href="/RPG" title="RPG">RPG</a>遊戲，多樣化的技能（包皮環切、放屁龍吼、扔屎等），甚至還有直腸探險的關卡以及墮胎小遊戲，還整合了動畫17季的劇情，美式嘲諷風味濃厚的バカゲー。<br><s>以遊戲為媒體表現的南方公園第17.5季</s>
+</td>
+<td>
+</td></tr><tr><td>南方四賤客：浣熊俠聯盟/屁碎紀元/菊部分裂<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></td>
+<td>
+</td>
+<td>樓上的續作，紅色的樂高積木是岩漿，明目張膽的玩歧視黑人哏，這次屁功進化到可以操作時間，新小孩的悲慘超級英雄設定也是此代的核心:<s>看到你爸在幹你媽</s>，<br><s>以遊戲為媒體表現的南方公園第21.5季</s>，UBI很故意的把自家產品拿進去打廣告<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td>
+<td>
+</td></tr><tr><td><a href="/Made_in_Wario%E7%B3%BB%E5%88%97" title="Made in Wario系列">Made in Wario(瓦利歐製造)系列</a>
+</td>
+<td>
+</td>
+<td>最大特色是五秒內就能完成的大量小遊戲，內容大量惡搞(甚至連本家遊戲都惡搞)，遊戲玩法創意也十分豐富。<br>但是<b>メイドイン俺</b>造成<b>任天堂最大的誤算</b><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></td>
+<td>
+</td></tr><tr><td>Goat Simulator (山羊模擬器)
+</td>
+<td>PC
+</td>
+<td>玩家是一隻山羊，目的是不停在城市搞破壞，到處都充滿惡搞……
+</td>
+<td>
+</td></tr><tr><td><a href="/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9%E4%BB%99%E7%95%8C%E5%82%B3" title="封神演義仙界傳">仙界通録正史 〜TVアニメーション仙界伝封神演義より〜</a>
+</td>
+<td>
+</td>
+<td>少年JUMP漫畫《封神演義》的最後一部官方遊戲。說是遊戲，實際上是各種可以修改的小故事組成的集合。<br>宣傳語為「藤崎竜に挑め!」（挑戰（原作者）藤崎龍），事實證明這宣傳語真的一點都沒誇張<br>把原作中的經典場面（其中不乏感人的名場面）以及後來製作的惡搞段子全程配上語音供玩家欣賞，亮點是<b>幾乎每一句話都可以修改成預設的其他台詞</b>。<br>真正意義上的原作粉碎機，能把原作中的經典場景和角色形象崩壞到渣都不剩<br>恐怖的是遊戲後來還舉辦了活動，有幾個段子受到了原作者的首肯……
+</td>
+<td>
+</td></tr><tr><td>鬼馬小英雄
+</td>
+<td>
+</td>
+<td>漢堂的RPG，主角是個鬼靈精怪的小和尚外加他有點笨頭笨腦的師兄。兩人從偷逃出寺廟出發，結果一路上誤打誤撞救了很多人，最後更是成了拯救武林的大英雄。<br>然而他倆除了偷出少林寺之外還在旅途中<a href="/%E7%A0%B4%E6%88%92%E5%83%A7" title="破戒僧">破了很多戒律</a>，結局還是沒能逃過制裁，被罰在夕陽下勞動……<br>無論是劇情還是遊戲成分都有大量惡搞無厘頭的地方，但也繼承了漢堂一貫的極高難度
+</td>
+<td>
+</td></tr><tr><td>Yo-Jin-Bo -用心棒-
+</td>
+<td>
+</td>
+<td><a href="/%E4%B9%99%E5%A5%B3%E9%81%8A%E6%88%B2" title="乙女遊戲">乙女遊戲</a>中少有的バカゲー，劇情主線看似很沉重，角色們卻要多high有多high，只有女主一人是常識人。還有大量梗、惡搞、明明是時代劇卻無視時代限制的成分，就連反派也一邊耍惡一邊不忘搞笑（非本意）
+</td>
+<td>
+</td></tr><tr><td>ザ・警察官
+</td>
+<td>PS2
+</td>
+<td>仿照警察掃黑的槍戰現場攝影紀錄片風格，但最常聽到的卻是<b>『Player 殉職』</b>!，真能在槍林彈雨中倖存則可以立刻升任，若是高手或TAS輔助，則10分鐘內由基層巡警飆升為警視廳總監也非不可能<b>另加送100生命作獎勵</b><s>但若中槍殉職還是立刻跌回巡警</s>，除了續作會打遍日本各地縣市外，還可以跨海<s>直闖<a href="/%E4%BF%A0%E7%9B%9C%E7%8D%B5%E8%BB%8A%E6%89%8BGrand_Theft_Auto" class="mw-redirect" title="俠盜獵車手Grand Theft Auto">洛聖托市</a></s>以日語廣播進行掃蕩與駁火<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>，只是不知為何緝捕的要犯資料照片全都是遊戲製作人員…
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=nIhGavncFtw&amp;t=184s">遊玩影片</a>
+</td></tr><tr><td>建設重機喧嘩バトル ぶちギレ金剛!! (BCV: Battle Construction Vehicles)
+</td>
+<td>PS2
+</td>
+<td>世界唯一一部工程起重機格鬥遊戲。還請來本宮ひろ志當人設<s>呂布和趙雲轉職成為地盤工人</s>，聲優陣容也相當豪華。<br>故事講述熱血主角金剛隼人要繼承並重振亡父金剛團十郎的家業，無論是招攬人才還是與敵方企業爭生意也是駕駛重機對打解決。故事後盤敵方企業的老闆修羅部ウメ與主角辯駁時更說出「<a href="/%E6%88%90%E5%8F%A5/I_am_your_father" title="成句/I am your father">你的真正父親，正是老夫也！</a>」，搞得主角向自己的頭倒水發現頭蓋和ウメ一樣凸起後方能確認<s>難道他洗頭時沒有發現頭蓋凸起</s>。<br>不過同一時間遊戲性卻非常之差<s>而且超必殺技的演出非常古怪</s>，讓不少玩過的人坦言把這作品改為動漫就好。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=JLGGZalnyEs">遊玩影片</a>
+</td></tr><tr><td><a href="/%E6%88%B0%E5%9C%8BBASARA" title="戰國BASARA">戰國BASARA</a>
+</td>
+<td>
+</td>
+<td>作品將戰國時代安排大量惡趣味、超越時代的黑科技、致敬著名作品、美男化的武將為賣點。會搞成這個模樣的原因是因為製作組從一開始就不懂戰國史，所以一邊學一邊<s>瞎J8</s>亂做，最後積非成是當成賣點至今。<br><s>雖然戰國無雙也沒有什麼資格講人<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></s>
+</td>
+<td>
+</td></tr><tr><td>銀河任俠伝
+</td>
+<td>AC
+</td>
+<td>本來是一個平平無奇的動作遊戲，不過本作除了故事惡趣之外，遊戲裡的角色設定充滿各種惡搞：知名藝人、著名動漫、特攝甚至是西方的影視作品均會拿來玩梗。角色命名更是把原作裡的名字照搬過來毫無保留；假如本作品在21世紀推出，Jaleco肯定會不停被控侵權然後賠到脫褲。
+</td>
+<td><a rel="nofollow" class="external text" href="https://youtu.be/zGWwJgwssg0">youtube</a>
+</td></tr><tr><td>Hand Simulator (手手模擬器)
+</td>
+<td>PC
+</td>
+<td>讓玩家用鍵盤和滑鼠操作手，原本控制手應該是簡單的事情，但是在遊戲中卻異常的難超控，光要拿起一把槍就很困難，因此常常看到玩家犯蠢個情形，又加上遊戲中<s>不精美常常骨折</s>滑稽的角色模型<s>，感覺就像是一群不知在幹什麼的殘障</s>，讓遊玩時顯得特別搞笑。
+</td>
+<td>
+</td></tr><tr><td>Grass Simulator(草模擬器)
+</td>
+<td>PC
+</td>
+<td>只能一直看草還有<s>中槍也不會死的惡魔</s>牛，而玩家基本上除了動攝影機以外幾乎什麼都不能做。<br><s>I hate you grass!</s>
+</td>
+<td>
+</td></tr><tr><td>Yandere Simulator(<a href="/%E7%97%85%E5%AC%8C%E6%A8%A1%E6%93%AC%E5%99%A8" title="病嬌模擬器">病嬌模擬器</a>)
+</td>
+<td>PC
+</td>
+<td><s>真正玩法其實是在高校花式殺人</s>
+</td>
+<td>
+</td></tr><tr><td>Untitled Goose Game(無名鵝愛搗蛋)
+</td>
+<td>PC
+</td>
+<td>操作一隻鵝到處搞破壞的遊戲
+</td>
+<td>
+</td></tr><tr><td><a href="/Red_Alert#.E7.B4.85.E8.89.B2.E8.AD.A6.E6.88.923.28Red_Alert_3.29" title="Red Alert">《終極動員令：紅色警戒3》</a>
+</td>
+<td>PC
+</td>
+<td>雖然一代開始就是帶有黑色幽默般的惡搞，但三代劇本和設定不禁讓人覺得官方是抱著搞笑心態在做遊戲的...<br>特別是以日本帝國為藍本的昇陽帝國，充分顯示出西方世界對日式時代劇和ACG的刻板印象，並將其各種元素加以拼湊<s>成四不像</s>。<br>若不掛名C&amp;C系列作的話其實遊戲性還不算差。
+</td>
+<td>
+</td></tr><tr><td>JAPAN WORLD CUP系列
+</td>
+<td>
+</td>
+<td>由JRA<s>腦子進水吃錯藥</s>製作出來的<s>終極級智障</s>競馬影片改編的賭馬遊戲，光是看到參賽馬就會讓人噴飯；穿黑絲的，<a href="/%E6%9D%B1%E6%96%B9%E4%BB%97%E5%8A%A9" title="東方仗助">飛機頭</a>，斑馬，甚至拖頭牛或者是長頸鹿、陸龜來的也有，然後居然還有個<s>每次都會第一個彎摔倒的</s>兩個人<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>假扮的紙糊馬；賽馬途中會發生各種極度白癡的事件，例如馬會站起來<b>橫著跑</b>然後<b>跳芭蕾舞</b>，雙人馬的馬身越來越長或是<a href="/OGC" title="OGC">前後前後伸縮</a>然後火箭般放屁一飛衝天；騎手會無緣無故祈禱，跳舞，仰臥起坐，變成風車瘋狂旋轉，站起來亂揮鞭子甚至讓全場脫光光，召喚演歌舞台車或者是拿出紅布來引自己的<s>牛</s>馬撞死其他的馬等等。<br>而後來的2代除了有大象，熊貓參戰之外，3代更加出現了道具戰，Cosplay戰，動物戰等等的分賽，也出現了會狂揮鼻子打飛其他選手的大象，特洛伊木馬，會用忍術的俄羅斯忍者，以及UMA等等<s>完全超越混沌一詞能夠形容的恐怖景象</s>
+</td>
+<td><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=POQIH5KyUjI">https://www.youtube.com/watch?v=POQIH5KyUjI</a>
+</td></tr><tr><td>しょぼんのアクション(貓利歐/瑪利貓)
+</td>
+<td>PC
+</td>
+<td><a href="/%E7%91%AA%E5%88%A9%E6%AD%90%E7%B3%BB%E5%88%97" title="瑪利歐系列">瑪利歐</a>的惡搞版，充滿了各種初見殺陷阱，例如跳躍時撞到隱形磚塊摔死、背景的雲是摸到會死的怪物、吃到香菇強化後會壓碎地板摔死等等<br>過關條件十分嚴苛，即使知道了陷阱也要考驗操作技術，本作也能算是<a href="/%E9%AC%BC%E7%95%9C%E3%82%B2%E3%83%BC" title="鬼畜ゲー">鬼畜ゲー</a>或<a href="/%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC" title="クソゲー">クソゲー</a>
+</td>
+<td>
+</td></tr><tr><td>SNKヒロインズ Tag Team Frenzy
+</td>
+<td>PS4
+</td>
+<td>以KOF為主的SNK女角們的雙人隊制格鬥遊戲<s>，但承襲自拳皇XIV糟糕的角色建模使得評價不佳</s><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>，簡化系統的同時也加入不少惡搞<s>使人眼花撩亂</s>的招式特效。<br>加上主辦人的特殊癖好，連性轉換的玩法<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>都出現，不禁令人懷疑這玩鬧般的劇情竟然是發生在XIV之後的正史。
+</td>
+<td>
+</td></tr><tr><td>Duty Calls: The Calm Before the Storm
+</td>
+<td>PC
+</td>
+<td>本身其實是為了推廣狂彈風暴這款遊戲而製作出來的惡搞遊戲，其基本是針對老牌射擊遊戲決勝時刻系列的戲仿醜化。<s>不過諷刺的是決勝時刻依舊屹立不搖，而狂彈風暴的續集直到現在都是遙遙無期。</s>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=G1gTj9nlYo4">遊玩影片</a>
+</td></tr><tr><td><a href="/%E9%AD%94%E5%85%B5%E9%A9%9A%E5%A4%A9%E9%8C%84" title="魔兵驚天錄">魔兵驚天錄</a>
+</td>
+<td>Xbox360<br>PS3<br>WiiU<br>Steam<br>Switch
+</td>
+<td>主角蓓優妮塔是名身材姣好、舉止充滿挑逗意味、愛吃棒棒糖的500歲眼鏡屬性美魔女，會使用各式各樣的魔女拷問刑具和SM手段處刑從天而降的<s>遵循原作的醜八怪</s>天使們，處刑技中又以某個叫做Joy的美女天使的處刑手段最……<br>另外主角的服裝是由帶有魔力的頭髮構成的，而她召喚惡魔時身上會變得<b>一絲不掛</b><s>，想在這時試圖衝上去還會被賞巴掌</s>。<br>雖然以魔女狩獵後倖存者的故事背景嚴肅，主線大綱還算正經，卻有著不少令人噴飯的橋段：除上述的處刑手段外，還有初次變身的偽裝被武器劃開（還配上嬌喘）、主角對Joy的性感舞蹈對決、把天使當排球打的召喚惡魔<s>還會漏接</s>、蘿莉控猩猩天使、被爆鳥的尿尿小童像、對手貞德爆衣後兩腿之間的謎之聖光、一直試圖耍帥卻永遠吃鱉還根本摔不死的記者路卡等……更不用說遊戲首次通關後的<s>安柏拉傳統舞蹈</s>MV「Let's Dance boys!」了。<br>遊戲中可以更換的服裝除了常規服裝外，還有啦啦隊服、死庫水、布魯馬等體育服裝可以更換<br>由<b><a href="/%E4%BB%BB%E5%A4%A9%E5%A0%82" title="任天堂">任天堂</a>出資</b>在WiiU和Switch上推出的二代雖然バカゲー要素少了風格變得更加正經，但和其他ACT比起來還是相當……<br>特別是更加進化的變身脫衣Play，和與任天堂IP連動的武器（鐵球怪汪汪）和服裝（碧姬/黛西公主、林克、火狐、薩姆斯）
+</td>
+<td><a rel="nofollow" class="external text" href="https://youtu.be/MbgTYm_DuM0">處刑技一覽</a><br><a rel="nofollow" class="external text" href="https://youtu.be/6g_2QiIJ0H8">VS Joy</a><br><a rel="nofollow" class="external text" href="https://youtu.be/n7CMMDQBjGQ">VS 貞德</a><br><a rel="nofollow" class="external text" href="https://youtu.be/lPHr9ghVyNU">Let's Dance Boys!</a>
+</td></tr><tr><td>ぶきあつめ～なんでも武器になるRPG～
+</td>
+<td>Steam
+</td>
+<td>由kagaya以RPG製作大師MV製作的角色扮演遊戲，最主要特徵是地圖上一切物件（包括怪物、NPC，甚至是背景）都可以被當武器商人的主角撿起來當作武器揮舞<s>，一般的勇者只是翻箱倒櫃撿道具，這部直接連整個房子甚至連屋主都可以拿去，蘭斯洛特表示內行</s>
+</td>
+<td><a rel="nofollow" class="external text" href="https://store.steampowered.com/app/1056490/The_World_is_Your_Weapon/">購買頁面</a>
+</td></tr><tr><td>DEEEER Simulator(非常普通的鹿)
+</td>
+<td>PC<br>Switch<br>XBOX<br>PS4
+</td>
+<td>操控一隻鹿到處搞破壞，可以裝備槍枝、騎車和警察戰鬥<s>，原來是<a href="/%E4%BF%A0%E7%9B%9C%E7%8D%B5%E8%BB%8A%E6%89%8B" title="俠盜獵車手">GTA</a></s>。<br>騎牛可以噴射牛奶飛行，地圖上也有許多生物飄在空中。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=n2YNprhh4-U">遊玩影片</a>
+</td></tr><tr><td>櫻花校園模擬器
+</td>
+<td>各智慧型手機平台
+</td>
+<td>如同其名就是模擬上學，除此之外還可以約會、遊玩遊樂器材，甚至在街上搞破壞、飆車、欺負路人、攻打黑幫（順便搜刮全武器）、外星人<s>原來是廉價版GTA+病嬌模擬器</s><br>同時自由度相當高：大部分玩家都會建造跑酷關卡以及房屋分享給其他玩家<s>因此遊玩影片大都是以跑酷居多</s><br>又同時因為<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=wLkfz10Srxw">有玩家搞出讓寵物貓對主角跳舞的迷因影片</a>一炮而紅
+</td>
+<td>
+</td></tr><tr><td>Spermicide(殺精劑)
+</td>
+<td>PC
+</td>
+<td>射殺精子的遊戲<s>殺洨啦</s>
+</td>
+<td>
+</td></tr><tr><td>UnEpic
+</td>
+<td>PC
+</td>
+<td>由Francisco Téllez de Meneses所開發的一款惡搞D&amp;D等TRPG的ARPG，描寫一名阿宅在上廁所時不小心穿越到遊戲世界與看守地下城的幽靈展開冒險，除了D&amp;D以外也惡搞了不少知名電影。
+</td>
+<td>
+</td></tr><tr><td>Ghost 1.0
+</td>
+<td>PC
+</td>
+<td>Francisco Téllez de Meneses開發的RogueLike風格ARPG，描寫一名代號幽靈的特工受到駭客指使潛入巨大企業內部，與前作同樣充斥著相當多樣的惡搞。
+</td>
+<td>
+</td></tr><tr><td>UnMetal
+</td>
+<td>PC
+</td>
+<td>Francisco Téllez de Meneses開發的潛行風格ARPG，這次直接惡搞到潛龍諜影。
+</td>
+<td>
+</td></tr><tr><td>昭和米國物語
+</td>
+<td>PC<br>PS4<br>PS5
+</td>
+<td>由對岸的遊戲工作室開發的打殭屍沙盒遊戲（未發售），咋聽名字可能會讓人以為是類似高堡奇人的架空歷史甚至<a href="/index.php?title=%E5%8F%8D%E7%83%8F%E6%89%98%E9%82%A6&amp;action=edit&amp;redlink=1" class="new" title="反烏托邦（頁面不存在）">科幻小說</a>世界觀，但是只要看到<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=8DBXAfb0SsA&amp;t=43s">PV</a>就會直接露餡；仿忍殺風的荒誕世界觀，包括有被改名新橫濱的好萊塢，掛上「金門」大燈籠的金門橋，穿上和服的自由神像，在告高速公路的山坡上冒出的鳥居，名叫「ロムネ」的彈珠汽水；內容也是滿滿的梗，包括川普MAGA，亞納海姆和殖民地墜落，「紅蓮團」和突破天際的鑽頭，AV泳池等等亂七八糟但迷之帶感的要素，讓人不禁期待中國大陸是否終於能夠弄出不再倚靠傳統仙俠題材的バカゲー3A大作
+</td></tr><tr><td>超絶倫人ベラボーマン
+</td>
+<td>AC、PCE
+</td>
+<td>以惡搞特攝英雄劇為主題的遊戲，單是主角的稱號<b>超絕倫人</b>已經能讓成人男女忍不住笑，出招時的<b>ベラボー！</b>叫聲連發<b>ベラボベラボーベラボーー！</b>煩人，魔王預告宣言有特別細緻的<a href="/OGC" title="OGC">舉手握棍</a>插向玩家的動畫
+</td>
+<td>
+</td></tr><tr><td>萬寧棋牌遊戲系列
+</td>
+<td><a href="/%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%81%8A%E6%88%B2" title="智慧型手機遊戲">智慧型手機</a>
+</td>
+<td>由對岸眾多遊戲公司開發的集體創作系列，有五子棋，象棋，台球和圍棋等；乍看是普通的棋牌類遊戲，但是存在著極度混沌的「大招模式」，裡面每一招都是直接能夠破壞遊戲體驗的技能，而且還可以看廣告來替技能升級<br>例如五子棋有一回合可以隨機多下棋子，棋子會分裂，破壞對手棋子甚至可以篡改勝利的連珠子數；象棋有開局召喚多隻車或炮、令對手的棋子倒戈、按照被對手吃掉數量的棋子反破壞對手的棋子、甚至可以無限召喚棋子等；台球則可以召喚雪球幫助撞擊更多的球，放置障礙物攔截對方的撞擊，多次彈跳的母球甚至吸取對手的撞擊力等，各式奇招應有盡有。也被人笑稱「名為下棋，實為鬥法」。<br>雖然看起來是單純的荒誕世紀末遊戲，但是開發者<b>居然有在做平衡</b>，很多一開始被認為是無敵的技能都開發出了克制技能，但也令遊戲的勝負只看<b>能不能抽到被自己的技能克制的敵人</b>。<br>本來是抖音上名為「萬寧叔」的創作者的一條滑稽五子棋比賽影片，但是卻被眾多對岸手遊開發者變成了「荒誕棋牌」的商標。<s>因此並沒有屈臣氏五子棋和屈臣氏象棋</s>
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連接"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E6.8E.A5">相關連接</span><span class="mw-editsection"><a href="/index.php?title=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC&amp;action=edit&amp;section=3" title="編輯章節：相關連接" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><a href="/%E5%85%AC%E5%BC%8F%E3%81%8C%E7%97%85%E6%B0%97" title="公式が病気">公式が病気</a></li>
+<li><a href="/%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC" title="クソゲー">クソゲー</a></li>
+<li><a href="/%E9%AC%BC%E7%95%9C%E3%82%B2%E3%83%BC" title="鬼畜ゲー">鬼畜ゲー</a></li>
+<li><a href="/%E5%A5%87%E3%82%B2%E3%83%BC" title="奇ゲー">奇ゲー</a></li>
+<li><a href="/%E9%AC%B1%E3%82%B2%E3%83%BC" title="鬱ゲー">鬱ゲー</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC&amp;action=edit&amp;section=4" title="編輯章節：回應" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<p><a href="/%E8%A8%8E%E8%AB%96:%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC" title="討論:バカゲー">討論:バカゲー</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC&amp;action=edit&amp;section=5" title="編輯章節：備註" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">粵語諧音Game=驚</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">硬膠=粵語諧音on9=愚蠢，白癡。</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">單單是主角越前對紅色門的執著，以及那一堆超謎對白已經足夠解釋了。</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Kuso game of the year，由<a href="/2ch" title="2ch">2ch</a>舉辦的活動。每年由網民們從一批該年發售クソゲー展開公投，並藉此挑選出一些極級クソゲー<s>加以褒獎</s>。</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">當然能成為得主，也跟遊戲本身的遊戲性差劣和畫面簡陋有關。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.nicovideo.jp/watch/sm14969%EF%BC%8C%E7%94%B1%E6%96%BC%E4%B8%8A%E5%82%B3%E8%80%85%E6%B2%92%E6%9C%89%E5%BB%BAlist%EF%BC%8C%E6%89%80%E4%BB%A5%E5%8F%AA%E5%A5%BD%E7%9B%B4%E6%8E%A5%E6%94%BE%E4%B8%8A%E7%AC%AC%E4%B8%80part%E7%9A%84%E9%80%A3%E7%B5%90%EF%BC%8C%E7%89%B9%E6%AD%A4%E6%8A%B1%E6%AD%89%E3%80%82">http://www.nicovideo.jp/watch/sm14969，由於上傳者沒有建list，所以只好直接放上第一part的連結，特此抱歉。</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">只限遊戲性，但其他方面仍然極度白痴。</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">第一作特典為遊戲附贈的VHS、第二作特典則直接放在遊戲裡面</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=cnXGSDwt7Z4">https://www.youtube.com/watch?v=cnXGSDwt7Z4</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">史實的拉斯普汀擁有約30cm長的粗大<a href="/%E9%99%B0%E8%8E%96" title="陰莖">陰莖</a>，本遊戲把他的超必殺技設定成把敵人抓進花叢裡OOO也是理所當然的⋯</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">致敬1997年上映的《Titanic》電影，因為遊戲裡有玩此電影裡男女主角在船頭擺姿勢的名場面。</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">2代可以操作上面的<s>鋼彈</s>木動佛像去鎮壓宇宙一揆⋯</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">最高難度則會是女子啦啦隊(日版)</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">8（ハ）0（オ）兆→好兆</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">其推出的推理遊戲「奈落の城」為クソゲーオブザイヤー2008的次賞得主，至於在2010年推出的王道RPG"Last Rebellion"則首週銷量連1萬也沒。</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">其實它的製作公司是FROM SOFTWARE，即是以Armored Core、ACE系列等成名的公司……</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">自古RPG初開以來玩RPG時懶為勇者改名的人就會隨便按開頭四個あ當名，遊戲中則變成讓不少玩家都頭痛的最強勇者（<a href="/%E5%A4%A7%E9%AD%94%E7%8E%8B" title="大魔王">大魔王</a>的意味）<s>不過玩家必勝的意味上ああああ的確殺了不少大魔王不下數萬次</s>。</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">源頼朝、平清盛、忽必烈、黑船男ペリー、ショー・コスギ（小杉正一）等。</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">此外單挑也是以相撲賽來進行的啊!</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">裡面其實會出現幾張精美的角色CG，但也只有那幾張，其他就都是滿滿崩壞。</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">主角會想愛上那幾個莫名其妙的男角也根本不是正常人了…</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">其實根據原文應該是要跟屁眼有關係的諧音，<s>但因為台版審核要很偽善所以只能翻浣熊俠聯盟</s></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">尤其是刺客教條</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">該遊戲特色就是玩家自己製作小遊戲並且上傳給其他玩家遊玩，但是人氣度非常高的很多都是<b>R-18的糟糕遊戲</b>，搞到國外的實況者上傳youtube都還要事先打碼以免被捅</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">美版《Police 911》則是讓玩家扮演美國警察，在美國抓到一半犯人後跨海到日本抓餘下的。<s>國際刑警？</s></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">不過至少人家是歷史遊戲老鋪光榮，歷史考證和捏他控制得比較好之餘，而且劇情方面的功夫比較足</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">第三版變成三人，同一場比賽還有美國版本出場</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">然而截至2019年時還是有超過30萬套以上的銷售成績。<s>以一個模組回收再利用的遊戲來說根本奇談...</s></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text">如女版泰瑞、MissX、來自<a href="/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8" title="快打旋風">快打旋風EX</a>的Skullomania等等</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=バカゲー&amp;oldid=415543">https://wiki.komica.org/index.php?title=バカゲー&amp;oldid=415543</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="1666003824">
+				最後編輯於 2022年10月17日 (週一) 18:50
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E3%83%90%E3%82%AB%E3%82%B2%E3%83%BC&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.287","ppvisitednodes":{"value":617,"limit":1000000},"ppgeneratednodes":{"value":2072,"limit":1000000},"postexpandincludesize":{"value":3492,"limit":2097152},"templateargumentsize":{"value":2454,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9668,"limit":5000000},"timingprofile":["100.00%   68.460      1 -total"," 41.30%   28.274      1 模板:H0"," 31.07%   21.270     21 模板:Ref","  5.51%    3.770      1 模板:Youtube","  2.81%    1.925      1 模板:Ruby","  1.74%    1.194      1 模板:Censored"]},"cachereport":{"timestamp":"20221024145820","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":730});});</script>		</body>
+		</html>
+		

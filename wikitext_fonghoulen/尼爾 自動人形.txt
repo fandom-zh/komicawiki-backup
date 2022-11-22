@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>尼爾 自動人形 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"尼爾_自動人形","wgTitle":"尼爾 自動人形","wgCurRevisionId":397878,"wgRevisionId":397878,"wgArticleId":234,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"尼爾_自動人形","wgRelevantArticleId":234,"wgRequestId":"857f4175cd84d3727c0438b2","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%B0%BC%E7%88%BE+%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%B0%BC%E7%88%BE+%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-尼爾_自動人形 rootpage-尼爾_自動人形 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%B0%BC%E7%88%BE+%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">尼爾 自動人形</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">尼爾 自動人形/NieR Automata<s>/NieR Rising: Revengeance</s></div>
+<table class="wikitable" style="margin:1.5em auto; text-align:center;"><tbody><tr><td>以下含有部分的劇情，沒玩過原著又不想<b>自爆/感染邏輯病毒</b>/<s>被竹莢魚毒死</s>的話請不要繼續看下去。
+</td></tr><tr><td>Pod 042再次提醒正在觀看的你，<span style="font-size:25px;"><b>以下條目內容含有對遊戲劇情十分重要的內容</b></span>，還沒/在遊玩中的你請自行考慮要不要看下去。
+</td></tr><tr><td>Pod 153再再次提醒正在觀看的你，<span style="font-size:25px;"><b>以下條目內容含有對遊戲劇情十分重要的內容</b></span>，還沒/在遊玩中的你請<span style="font-size:25px;"><b>考慮要/不要反黑本條目</b></span>。
+</td></tr></tbody></table><div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24234.jpg" class="image"><img alt="Img24234.jpg" src="/images/thumb/a/af/Img24234.jpg/400px-Img24234.jpg" width="400" height="400"></a></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=1" title="編輯章節：簡介" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>由Platinum Games開發，<a href="/Square_Enix" title="Square Enix">Square Enix</a>發行的ARPG遊戲。</li>
+<li>為已倒閉的cavia所開發的《<a href="/%E5%BE%A9%E4%BB%87%E9%BE%8D%E9%A8%8E%E5%A3%AB%E6%AD%A6%E5%99%A8%E6%95%85%E4%BA%8B" title="復仇龍騎士武器故事">復仇龍騎士(誓血龍騎士)</a>》系列作的外傳《<a href="/%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B" title="尼爾 人工生命／型態">NieR</a>》的正式續作。
+<ul><li>承襲了《DOD》和《NieR》的特色，本作一樣是歪曲世界觀和扭曲人格(ry</li>
+<li><s>這小組的作品真是虐自己主角不手軟的！</s></li></ul></li>
+<li>於2015年E3中公開開發中的情報<s>從外國看客的反應就能知道原作是何等兩極的作品</s></li>
+<li>於2017年2月23日於PS4平台發售。英文版和中文版也分別在3月17日和4月27日發售。</li>
+<li><a href="/%E5%85%AC%E5%BC%8F%E3%81%8C%E7%97%85%E6%B0%97" title="公式が病気">公式が病気</a></li>
+<li><s>很多玩家跟COSER基本上看不懂或不看這劇情是幹嘛，只是為了看白色內褲而知道有這作品的</s></li>
+<li>為DOD/尼爾系列中首次突破百萬銷量的長賣作品，發售至2021年的時候已經賣破600萬套<s>全系列加起來都沒有單一作多的那種</s>。</li>
+<li>2022年2月23日宣布動畫化。</li>
+<li>2022年6月28日宣布移植到Nintendo Switch平台。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="製作人員"></span><span class="mw-headline" id=".E8.A3.BD.E4.BD.9C.E4.BA.BA.E5.93.A1">製作人員</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=2" title="編輯章節：製作人員" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>製作人
+<ul><li>齊藤洋介</li></ul></li>
+<li>導演
+<ul><li>横尾太郎<s>帶著埃米爾頭的那一位</s></li></ul></li>
+<li>音楽
+<ul><li>岡部啓一</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="故事"></span><span class="mw-headline" id=".E6.95.85.E4.BA.8B">故事</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=3" title="編輯章節：故事" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>遊戲舞台設定在《NieR》故事「D結局」<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">什麼結局都沒所謂啦<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span>數千年後的世界。
+<ul><li>外星人利用機械生命體侵略地球，人類被迫逃到月球<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">才怪</span>。</li>
+<li>逃到月球的人類派出由機械人（Android）組成的反抗軍，與機械生命體戰鬥了好幾千年，但依然沒有成功打破膠著的局面。</li>
+<li>因此，月球上的人類為了奪回地球建立寄葉（YoRHa）部隊，主角們就是這個部隊的機械人。</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="主要角色"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E8.A7.92.E8.89.B2">主要角色</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=4" title="編輯章節：主要角色" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<h3 class="in-block"><span id="2B/寄葉2號B型/ヨルハ二号B型/YoRHa_No.2_Type-B"></span><span class="mw-headline" id="2B.2F.E5.AF.84.E8.91.892.E8.99.9FB.E5.9E.8B.2F.E3.83.A8.E3.83.AB.E3.83.8F.E4.BA.8C.E5.8F.B7B.E5.9E.8B.2FYoRHa_No.2_Type-B">2B/寄葉2號B型/ヨルハ二号B型/YoRHa No.2 Type-B</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=5" title="編輯章節：2B/寄葉2號B型/ヨルハ二号B型/YoRHa No.2 Type-B" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24545.png" class="image"><noscript><img alt="Img24545.png" src="/images/thumb/4/49/Img24545.png/274px-Img24545.png" width="274" height="384"></noscript><span class="lazy-image-placeholder" style="width: 274px;height: 384px;" data-src="/images/thumb/4/49/Img24545.png/274px-Img24545.png" data-alt="Img24545.png" data-width="274" data-height="384"> </span></a></div>
+<ul><li>CV:Kira Buckland(英語)、<a href="/%E7%9F%B3%E5%B7%9D%E7%94%B1%E4%BE%9D" title="石川由依">石川由依</a>(日語)</li>
+<li>戰鬥型機械人<s>，體重:148.8 kg</s></li>
+<li>本作看板娘<s>，令不少不認識尼爾系列的玩家入坑的重要功臣。橫尾你好樣的。</s>
+<ul><li><s>繼隔壁棚某王子後又一個SE打工仔，不斷穿越到各個世界去打工，2021年6月還跑到糖豆人的世界了</s></li></ul></li>
+<li>因為白色短髮的造型與前作的凱寧有雷同，因此很多不明所以的玩家認為2B也是扶她
+<ul><li>後來公佈了各種試玩<s>加上玩家鍥而不捨的偷看裙底</s>，此謠言攻破。</li>
+<li>但在DLC「3C3C1D119440927」中配信給她的換裝正是凱寧的服裝。</li></ul></li>
+<li>平時以戰鬥為第一要務，性格認真嚴肅。
+<ul><li>經常對9S把感情表露在外說教，其實2B自己的內心也有著絕不下於對方的感情起伏。</li>
+<li>偶爾有流露出感情的時候
+<ul><li>比如在序章後得知9S並沒有上傳一開始與其共事的記憶時，不自覺的握緊拳頭。</li>
+<li><s>被問及如何製作小孩子時也慌掉了。</s></li></ul></li>
+<li>曾經有一次改用9S的暱稱“Nines”稱呼9S<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>，但9S發覺並詢問時立即否定並聲稱9S聽錯了<s>傲嬌確認</s>。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來可以找到2B曾經駕駛過的飛行裝置上找到2B的遺言，遺言中正式的稱呼9S為Nines。</span></li></ul></li>
+<li>在劇情上，所戴的眼罩是戰鬥時的視覺輔助。遊戲設計上，是代表「見ざる」／<a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E4%B8%89%E7%8C%BF">不看的猴子</a>／不看。<s>其實只是看起來色色的設計，不用想太多</s>　
+<ul><li><s>所以是在叫玩家別偷看裙底吧</s></li>
+<li>另外在舞台YoRHa的設定，YoRHa部隊在戰鬥時戴上眼罩是義務。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因此9S、A2自行除下眼罩，在遊戲內外其實都另有深意。<s>並不是因為做了精細的面部模型想秀一下</s></span></li></ul></li>
+<li>也因此推測O系列機型的口罩是「言わざる」的意思。</li></ul></li>
+<li>懶的釣魚的程度大慨是世界第一了。基本上是POD在下水抓。</li>
+<li>11945年——遊戲序章，進行第243次降下作戦，第一次與9S進行共同任務。
+<ul><li>後兩人以自己黑盒的爆走自爆，任務中共消滅了4台敵方的大型機械生命體。</li>
+<li>自爆前9S用剩餘不多的時間上傳2B的記憶資料到Bunker，卻沒有來的及備分自己的記憶情報，結果9S自己與2B再見面時兩人的關係再次重置了。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實並不是第一次見面。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">按照官方朗読劇、訪談、攻略本等背景資料，司令官一開始就預見過於優秀的9S型號必定會接觸到YoRHa伺服的極機密資料。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際上2B的名稱是偽裝的，真正的身份是2E——2號機E型，寄葉部隊處刑（Execute）部隊</span>。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">過去已最少有6次消滅9S的記錄。本篇開始時9S好奇擅長單獨行動的自己及專於戰鬥的2B為何會被派往調查任務其實是伏筆。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對9S的處刑基本上都由兩人共同調查任務開始，面對只專門收集情報的9S，2B每次都單獨生還回來。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">每次都因為無謂的對話加深兩人間的感情，隨著每次的處刑也越見痛苦。即使9S的記憶情報因被殺而重置，自己也記得每一次殺死他的事。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">決定性的一次，9S主動以病毒自殺，死前以已經消失了的雙手捧著2B的臉孔，約定以後一直都要由2B來執行他的處刑</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因此主動地回避著兩人間的感情交流，原因是因為已經不想再由於對處刑對象抱有感情、而陷入極度的傷感之中了。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">C路線時被倫理病毒攻擊，最後在9S眼前被A2殺死。也是直接導致9S黑化的主因。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後被塔大量的複製，對9S進行攻擊，其中一台死後觸發自爆，炸斷了9S的左手，9S醒來後把在躺在旁邊的複製體的左手給拔掉並接到自己身上。</span></li></ul></li></ul></li>
+<li>對比其他聲優，石川宅度不算很高，遊戲就只破掉一次。
+<ul><li><s>白髮的<a href="/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA" title="進擊的巨人">米卡莎</a></s></li>
+<li><s><a href="/%E9%AD%82%E9%AD%84%E5%A6%96%E5%A4%A2" title="魂魄妖夢">魂魄妖夢</a></s></li></ul></li></ul><h3 class="in-block"><span id="9S/寄葉9號S型/ヨルハ九号S型/YoRHa_No.9_Type-S"></span><span class="mw-headline" id="9S.2F.E5.AF.84.E8.91.899.E8.99.9FS.E5.9E.8B.2F.E3.83.A8.E3.83.AB.E3.83.8F.E4.B9.9D.E5.8F.B7S.E5.9E.8B.2FYoRHa_No.9_Type-S">9S/寄葉9號S型/ヨルハ九号S型/YoRHa No.9 Type-S</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=6" title="編輯章節：9S/寄葉9號S型/ヨルハ九号S型/YoRHa No.9 Type-S" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24546.png" class="image"><noscript><img alt="Img24546.png" src="/images/thumb/b/b1/Img24546.png/274px-Img24546.png" width="274" height="384"></noscript><span class="lazy-image-placeholder" style="width: 274px;height: 384px;" data-src="/images/thumb/b/b1/Img24546.png/274px-Img24546.png" data-alt="Img24546.png" data-width="274" data-height="384"> </span></a></div>
+<ul><li>CV:Kyle McCarley(英語)、<a href="/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9" title="花江夏樹">花江夏樹</a>(日語)</li>
+<li>支援2B的掃瞄型機械人<s>，體重：129.9 kg</s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真主角(?)</span></li>
+<li>因為有高度的情報收集能力，操作他時可以得到更多敵人的資訊。</li>
+<li>敵人資料的天使文字也是在他的路線時才開解的。<s>不過他本人其實看不懂天使文字</s>
+<ul><li>9S可以在戰鬥中聽到機器人的心聲，同時通過駭入敵人可以從中了解一些敵人的背景。</li></ul></li>
+<li>因為是非戰鬥型，一次只能裝備一把近戰武器，近戰連段也較少，取而代之的是可以在戰鬥中駭入敵人。<s><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=e965krb9qlg">投槍的攻擊力及距離</a> 卻比專精近戰的強上好幾倍，果然真的很優秀</s>
+<ul><li>駭客介面為2D射擊小遊戲，需要在時限內迴避子彈並擊破核心，失敗的話則會扣血。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><ul><li>成功駭入時可以使敵人自爆，造成範圍傷害，能直接炸死血量較低的敵人。</li>
+<li>若在不被目標發現的狀態下成功駭入，則可以選擇讓該機器自爆、使該機器替我方戰鬥、或遙控該機器。</li></ul></li></ul></li>
+<li>比嚴肅認真的2B性格更乖巧隨和，會對日常行為笨拙的2B有諸多吐槽，說話也喜歡在句末拉長音。
+<ul><li>很喜歡擔當自己聯絡員的21O，通訊時總會找點無謂的事說一下。</li>
+<li>對2B有著很複雑的情感。</li>
+<li>按他的說法，就像專精於戰鬥的B型機一樣，在專精於情報收集的S型眼中，2B拼命埋藏在心中的感情其實在他眼中跟沒有藏住沒兩樣。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不論是殺意、還是好意。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從言行舉止中推測到2B已經殺死過自己幾次的事。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在以往的任務，也知道明明2B有數不盡的機會可以更輕鬆更確實的殺死自己，但每一次都選擇令自己感到最少痛苦的方法。</span></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">C路線時展示出過人的機智，及時發現Bunker有可疑的數據而停止同步，在YoRHa全滅時把2B及自己都救出來。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對2B混雜著殺意及喜歡。也因此當所有同伴死亡，連2B也因為掩護自己而死時，所有在YoRHa壓抑的情感過度爆發而壞掉了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在2B死後，人格逐漸出現異常，變得極度憎恨機械生命體，言行也逐漸粗暴狂燥。當不得不面對被敵人汚染、但又勉強保持意識的21B時，只剩下殺死對方的方法來處理自己的感情。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在塔的圖書館得知所有的真相後，認為世界以及自己的出生沒有意義。</span></li></ul></li>
+<li>CV的花江是重度宅，本篇遊戲已經最少通關再刪存檔三次了。
+<ul><li>而且是從最初代的復仇龍騎士開始就玩。據說當時大慨是中小學，零錢只夠在炸彈超人跟復仇龍騎士二選一，最後選了個＂看起來＂像無雙的......結果從此有了心理創傷。</li></ul></li>
+<li><s>白髮的金木研或是小湊春市</s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">經歷也差不多一樣悲劇?</span></li></ul><h3 class="in-block"><span id="A2/寄葉A型2號/ヨルハA型二号/YoRHa_Type-A_No.2"></span><span class="mw-headline" id="A2.2F.E5.AF.84.E8.91.89A.E5.9E.8B2.E8.99.9F.2F.E3.83.A8.E3.83.AB.E3.83.8FA.E5.9E.8B.E4.BA.8C.E5.8F.B7.2FYoRHa_Type-A_No.2">A2/寄葉A型2號/ヨルハA型二号/YoRHa Type-A No.2</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=7" title="編輯章節：A2/寄葉A型2號/ヨルハA型二号/YoRHa Type-A No.2" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24547.png" class="image"><noscript><img alt="Img24547.png" src="/images/thumb/6/67/Img24547.png/274px-Img24547.png" width="274" height="384"></noscript><span class="lazy-image-placeholder" style="width: 274px;height: 384px;" data-src="/images/thumb/6/67/Img24547.png/274px-Img24547.png" data-alt="Img24547.png" data-width="274" data-height="384"> </span></a></div>
+<ul><li>CV:Cherami Leigh(英語)、諏訪彩花(日語)</li>
+<li>劇情中段突然出現的角色，似乎被基地通緝。
+<ul><li>是很早期參與真珠湾降下作戦的機械人，和地球反抗軍的領導人是舊識。</li></ul></li>
+<li>A、B路線時只有出現一次。關於她的事只有在三週目時才會提到。</li>
+<li>在三週目時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">遇見受電腦病毒感染的2B，在其配刀——白之約定中得到了一部分2B的記憶後親手殺死2B，但不幸被9S目睹而導致9S後來逐漸壞掉</span>
+<ul><li>真實身份是<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">寄葉部隊早期試驗型機械人——攻擊（Attacker）型2號機，為了次世代寄葉部隊的誕生而設計出的棄子</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">是真珠湾降下作戦唯一的倖存者，司令部隨後發現其性格資料在極端環境下，可以展出相當優秀的判斷力、反應能力及生存能力，所以將後續的處刑部隊——E型的性格樣本都設計為出自於A2。<s>所以是2B的媽媽</s></span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本篇著墨不多的地方，是由於其故事都在舞台YoRHa上演過了。司令官及阿涅莫內同理。基本上要看過舞台劇才可以完全了解她們幾人在劇中抱有的感情。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實本來個性溫柔，也很關心同伴。在降下地球途中失去包含隊長一號在內的多數隊員，以致隊長的任務落在自己身上，面對著很大的壓力</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後在是次作戰中失去尤如家人一樣的所有同伴，在發現司令部對自己一隊的背叛之後，發誓要消滅YoRHa及所有機械生命體。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">過往已經分別幾次擊退過2E及9S的追擊，並成功消滅過兩者幾次。兩人是因為被破壞而沒有當時見過A2的記憶。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本篇初登場時，只是偶爾經過森之國，發現「今次」的兩人與以往的氣氛有所不同。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在舞台劇的設定中，為了補足機械人形不足的情報，對所有機型都植入了真正人類的個性情報，而且她／他們本人也知道這事。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">A2得到的是「與婆婆幸福地生活在鄉下的少女」的擬似記憶。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></span></li></ul></li>
+<li>三週目<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">2B死亡後</span>成為可操控角色，戰鬥操作與2B類似。
+<ul><li>與另外兩人最大的不同是自爆被狂化取代，大幅提升攻擊力，但降低防禦並持續扣血。<s>而且之後一樣會脫一點</s> <s>不過本來就沒穿多少了.....</s></li>
+<li>另外有專用技能挑釁，同時令敵我雙方的攻擊力提高。</li>
+<li>配合自爆取消、挑釁特效、<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=MUW0TtbaQYE">A2的連段</a> 不論實用還是華麗度都是最高的。<s>而且挑釁的姿勢有夠色的</s></li></ul></li></ul><h3 class="in-block"><span id="ポッド042，ポッド153/Pod_042，Pod_153"></span><span class="mw-headline" id=".E3.83.9D.E3.83.83.E3.83.89042.EF.BC.8C.E3.83.9D.E3.83.83.E3.83.89153.2FPod_042.EF.BC.8CPod_153">ポッド042，ポッド153/Pod 042，Pod 153</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=8" title="編輯章節：ポッド042，ポッド153/Pod 042，Pod 153" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24552.png" class="image"><noscript><img alt="Img24552.png" src="/images/thumb/7/74/Img24552.png/205px-Img24552.png" width="205" height="287"></noscript><span class="lazy-image-placeholder" style="width: 205px;height: 287px;" data-src="/images/thumb/7/74/Img24552.png/205px-Img24552.png" data-alt="Img24552.png" data-width="205" data-height="287"> </span></a></div>
+<ul><li>CV:DC Douglas, Abby Trott(英語)、安元洋貴，あきやまかおる(日語)
+<ul><li>Pod是YoRHa部隊的戰術支援單位，負責協助YoRHa單位執行任務。
+<ul><li>用途有通訊、分析、提供遠程火力、協助駭入、記錄資訊、滑翔<s>、吐槽、釣魚</s>等。</li>
+<li>根據舞台劇，舊YoRHa部隊的G型(Gunner)及舊S型(Snipper)機械人形的機能都大致上融進POD了。後續戰鬥型機體只精於近戰的原因就是因為有POD的支援。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">和一般YoRHa型機械人形不一樣，所搭載思考迴路是屬於一般的AI類型。</span></li></ul></li></ul></li>
+<li>Pod 153和Pod 042分別負責支援和記錄2B和9S戰鬥的機械端末。
+<ul><li>二者在二周目9S線時會開始私下會面交流所記錄的2B和9S的情報，在三週目時更是暗中聯繫以防<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">A2和9S碰面。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在故事的末端確認產生了感情，E結局中042因不能活動被153吊起來更表示好羞恥。</span></li></ul></li>
+<li>遊戲最後打破第4面牆跟觀眾道謝的一幕，是製作人致敬自己在初代復仇龍騎士結尾，瑪納(Mana) 向觀眾道謝的場景。</li>
+<li>兩隻都很喜歡被 <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=qUIgFP2Q1ng">摸摸</a> 的樣子</li></ul><h3 class="in-block"><span id="オペレーター6O，オペレーター21O/聯絡員6O，聯絡員21O"></span><span class="mw-headline" id=".E3.82.AA.E3.83.9A.E3.83.AC.E3.83.BC.E3.82.BF.E3.83.BC6O.EF.BC.8C.E3.82.AA.E3.83.9A.E3.83.AC.E3.83.BC.E3.82.BF.E3.83.BC21O.2F.E8.81.AF.E7.B5.A1.E5.93.A16O.EF.BC.8C.E8.81.AF.E7.B5.A1.E5.93.A121O">オペレーター6O，オペレーター21O/聯絡員6O，聯絡員21O</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=9" title="編輯章節：オペレーター6O，オペレーター21O/聯絡員6O，聯絡員21O" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24548.png" class="image"><noscript><img alt="Img24548.png" src="/images/thumb/f/f7/Img24548.png/274px-Img24548.png" width="274" height="383"></noscript><span class="lazy-image-placeholder" style="width: 274px;height: 383px;" data-src="/images/thumb/f/f7/Img24548.png/274px-Img24548.png" data-alt="Img24548.png" data-width="274" data-height="383"> </span></a></div>
+<ul><li>CV:磯部恵子，初美メアリ(日語)</li>
+<li>碉堡中分別負責與2B和9S通信聯繫的聯絡員。
+<ul><li>6O外觀為雙麻花辮，個性開朗並嚮往地球；21O外觀為短髮，個性正經。
+<ul><li>兩人各有一個支線任務，分別是2B拍了沙漠玫瑰的照片寄給6O做為平時照顧的謝禮，以及9S幫21O尋找人類舊世界情報。</li></ul></li>
+<li>偶爾會哭哭喜歡的前輩不理自己，喜歡花朵或小動物等可愛的東西，不時看木星占卜之類的6O，行為跟女子力滿點的女高中生沒有兩樣。
+<ul><li>初期本篇的未日氣氛也被她的 <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=lW7j2Y1Vzow">對話</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> 沖淡不少。</li></ul></li>
+<li>9S路線時，21O 基本上都在以大姐姐的形象在訓斥個性隨便的9S。
+<ul><li>明明口氣很冷淡，後期偶爾卻會出現不自覺地關心9S的字句。</li>
+<li><s>感謝你完成今次的情報收集任務，之後會給你獎♡勵，等一下來我的房間</s>　<s>獎勵是補品跟武器.....</s></li></ul></li></ul></li>
+<li>在三週目時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">6O及其他聯絡員在碉堡中被感染病毒而控制，被2B與9S打倒後，因碉堡爆炸而死亡</span>。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">若之前有解完6O的沙漠玫瑰支線任務，則在逃離碉堡途中時還會聽到6O斷斷續續地感謝2B給她照片的事……</span>。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">21O於總攻擊作戰時換上戰鬥型裝備轉為21B加入地面部隊，但因為電腦病毒感染被敵方操縱，成為資源回收裝置的塔頂boss並與9S交戰，戰鬥的時候時不時說出以往跟9S的對話<s>(官方表示最愛虐玩家)</s>，最後被A2殺死</span>。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">由戰鬥對話可以得知21O一直感到寂寞，在看過9S收集的舊世界資料後對「家人（日語「家族（かぞく）」）」這樣的親密關係產生嚮往，並希望能和9S成為家人</span>。</li></ul></li></ul></li></ul><h3 class="in-block"><span id="司令官/司令官/Commander"></span><span class="mw-headline" id=".E5.8F.B8.E4.BB.A4.E5.AE.98.2F.E5.8F.B8.E4.BB.A4.E5.AE.98.2FCommander">司令官/司令官/Commander</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=10" title="編輯章節：司令官/司令官/Commander" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24549.png" class="image"><noscript><img alt="Img24549.png" src="/images/thumb/a/ac/Img24549.png/274px-Img24549.png" width="274" height="384"></noscript><span class="lazy-image-placeholder" style="width: 274px;height: 384px;" data-src="/images/thumb/a/ac/Img24549.png/274px-Img24549.png" data-alt="Img24549.png" data-width="274" data-height="384"> </span></a></div>
+<ul><li>CV:加納千秋</li>
+<li>YoRHa的司令官，冷靜沉著的冰山美人，鐵面無私地指揮著YoRHa部隊的運作　
+<ul><li>表面上是這樣......6O私下跟2B說到，其實她自己的衣服在房間隨便掉，也經常忘了做機體檢查，說不定是個意外粗心的人。</li></ul></li>
+<li>名稱是White/白/ホワイト</li>
+<li>與A2似乎在以往的作戰有著深厚的因緣。</li>
+<li>主要戲份都在舞台YoRHa的舞台劇中出演了，在本篇其實沒甚麼戲份。<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">由YoRHa上層部決定以投下16機進行真珠湾降下作戦，消滅機械生命體位於真珠湾的主伺服。<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際上是為了測試機體能力的自殺任務，部隊全員都注定會在死前的最後一刻自爆。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">舞台劇跟遊戲中的文件說明差不多。只是舞台劇更增多了幾個角色，內心戲加重，而且紅衣少女也作為A2對抗的最後Boss登場。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">過程中司令官一直冷靜的執行著尤如親手殺死部下一般的命令，但內心其實比誰也痛苦，私下祈禱著她們的勝利。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後在C路線，Bunker陷落時與整個基地一起在爆炸中死亡。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">整個YoRHa部隊中，唯一的非YoRHa型機體。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">確實地掌握著S級的極密文件的內容，至於SS級...從給予9S極密文件的行為中可以猜測，她本人應該多少也推測到YoRHa的真相了</span>。</li>
+<li>角色設定、服裝、三圍資料都很色，可惜本篇遊戲可怕地完全沒有表現<s>色氣</s>的機會。
+<ul><li>玩家也要 <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=4cQSEgg7FzU">費盡苦心</a> 才可以見到彩色版本的3D模型......DLC希望。</li></ul></li></ul><p><br></p>
+<h3 class="in-block"><span id="帕斯卡/パスカル/Pascal"></span><span class="mw-headline" id=".E5.B8.95.E6.96.AF.E5.8D.A1.2F.E3.83.91.E3.82.B9.E3.82.AB.E3.83.AB.2FPascal">帕斯卡/パスカル/Pascal</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=11" title="編輯章節：帕斯卡/パスカル/Pascal" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24553.png" class="image"><noscript><img alt="Img24553.png" src="/images/thumb/7/75/Img24553.png/228px-Img24553.png" width="228" height="319"></noscript><span class="lazy-image-placeholder" style="width: 228px;height: 319px;" data-src="/images/thumb/7/75/Img24553.png/228px-Img24553.png" data-alt="Img24553.png" data-width="228" data-height="319"> </span></a></div>
+<ul><li>CV:Alexis Tipton(英語)、<a href="/%E6%82%A0%E6%9C%A8%E7%A2%A7" title="悠木碧">悠木碧</a>(日語)</li>
+<li>和平主義的機械生命體，與有相同意見的機械生命體建立起村莊來。
+<ul><li>名字取自法國數學家和哲學家布萊茲‧帕斯卡<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>。</li></ul></li>
+<li>和一部分脫離機器生命體網路的機器人建立了和平主義者的村子，和反抗軍簽訂協議為其提供一部分資源。
+<ul><li>三週目時A2會在廢棄都市遭遇被狂化機器生命體圍攻的帕斯卡，救下其後開始與A2建立聯繫。但其村子會遭遇危機<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一部分村民狂化開始互相攻擊，只有它自己帶著機器人孩子們離開</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">隨後帶著剩餘的機器人們逃往廢棄工廠，然後和A2一起外出對抗追殺的發狂機械生命體，後來更是操控隱藏起來的超巨大兵器迎戰敵方的超巨大兵器<s>《環太平洋3：尼爾》</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但待解決完一切後回到工廠卻發現剩餘的小機器人盡數自殺，自覺原來曾經教會機器人們何為恐懼以讓其遠離戰鬥保全生命，但不料因此讓圍困中的機器生命體感受到絕望而選擇死亡</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">之後有三個分支：清除帕斯卡的悲傷記憶、殺死帕斯卡，或者什麼都不做直接離開</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">若選擇清除帕斯卡的悲傷記憶，則之後切換到9S視角時會在機器人村遇到失憶的帕斯卡正在清理村子裡的「垃圾」……。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">選擇殺死帕斯卡的話，則會獲得帕斯卡的核心；選擇什麼都不做的話，任務敘述會指出此後再也沒有人看過帕斯卡。</span></li></ul></li></ul></li>
+<li>大叔（無誤）<s>有玩家知道他是男的之後崩潰，認為他不該用女聲優</s></li>
+<li><s>課金王是本體</s>
+<ul><li><s>本體</s>CV悠木碧是重度超弩級宅，甚至有自己手製的9S人偶。</li>
+<li>超喜歡9S，甚至會對9S的CV花江說："這人聲音跟9S一樣耶，真的超意義不明WW"</li>
+<li>用悠木碧是因為其中一位製作人表示如果不用悠木碧的話他就不幹了。</li></ul></li></ul><p><br></p>
+<h3 class="in-block"><span id="阿涅莫內/アネモネ/Anemone"></span><span class="mw-headline" id=".E9.98.BF.E6.B6.85.E8.8E.AB.E5.85.A7.2F.E3.82.A2.E3.83.8D.E3.83.A2.E3.83.8D.2FAnemone">阿涅莫內/アネモネ/Anemone</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=12" title="編輯章節：阿涅莫內/アネモネ/Anemone" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24551.png" class="image"><noscript><img alt="Img24551.png" src="/images/thumb/f/f6/Img24551.png/228px-Img24551.png" width="228" height="337"></noscript><span class="lazy-image-placeholder" style="width: 228px;height: 337px;" data-src="/images/thumb/f/f6/Img24551.png/228px-Img24551.png" data-alt="Img24551.png" data-width="228" data-height="337"> </span></a></div>
+<ul><li>CV：初美メアリ(日語)</li>
+<li>機械人反抗軍營地的領導者。
+<ul><li>似乎認識A2，並稱呼其為二號。</li></ul></li>
+<li>支線任務中可以得知<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">是早期反抗軍的成員，反抗軍在過去的作戰中與A2的部隊合作，並讓其加入一起行動。後來在該次攻擊中所有同伴陣亡，只剩阿涅莫內和A2存活</span>。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">剛開始合作時阿涅莫內不太信任A2及其YoRHa的同伴，直到反抗軍同胞受到YoRHa部隊二十一號的幫助而存活才改觀。但最後二十一號在攻擊中被感染病毒，阿涅莫內也不得不殺死她</span>。</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在舞台劇得知，反抗軍都是YoRHa第8次降下作戰的倖存者。</span></li></ul><h3 class="in-block"><span id="潔卡絲/ジャッカス/Jackass"></span><span class="mw-headline" id=".E6.BD.94.E5.8D.A1.E7.B5.B2.2F.E3.82.B8.E3.83.A3.E3.83.83.E3.82.AB.E3.82.B9.2FJackass">潔卡絲/ジャッカス/Jackass</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=13" title="編輯章節：潔卡絲/ジャッカス/Jackass" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：Amanda C. Miller(英語)、川渕かおり</li>
+<li>名字在英文差不多就是糟話</li>
+<li>反抗軍的爆破狂，倉庫番的大前輩，也是阿涅莫內之外另一個有語音的反抗軍成員</li>
+<li>主要在沙漠區域活動，經常搞令人不敢領教的實驗。<s>K結局的原凶</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">情報分析担当官。結局後機械生命体研究報告書的作者。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與司令官是舊識，兩人是朋友關係。稱對方為白。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在兩人的通信中得知，曾經搞過把兩個機械人形合體的實驗。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">即使YoRHa滅亡，潔卡絲以及反抗軍也在最後自力到達真相了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也因此YoRHa的紋章是合起來的眼睛，而反抗軍也是打開的眼睛。</span></li></ul></li></ul></li></ul><h3 class="in-block"><span id="波波爾/ポポル/Popola_、_迪菠爾/デボル/Devola"></span><span class="mw-headline" id=".E6.B3.A2.E6.B3.A2.E7.88.BE.2F.E3.83.9D.E3.83.9D.E3.83.AB.2FPopola_.E3.80.81_.E8.BF.AA.E8.8F.A0.E7.88.BE.2F.E3.83.87.E3.83.9C.E3.83.AB.2FDevola">波波爾/ポポル/Popola 、 迪菠爾/デボル/Devola</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=14" title="編輯章節：波波爾/ポポル/Popola 、 迪菠爾/デボル/Devola" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img24550.jpg" class="image"><noscript><img alt="Img24550.jpg" src="/images/thumb/8/83/Img24550.jpg/373px-Img24550.jpg" width="373" height="320"></noscript><span class="lazy-image-placeholder" style="width: 373px;height: 320px;" data-src="/images/thumb/8/83/Img24550.jpg/373px-Img24550.jpg" data-alt="Img24550.jpg" data-width="373" data-height="320"> </span></a></div>
+<ul><li>CV：Claudia Lenz(英語)、<a href="/%E7%99%BD%E7%9F%B3%E6%B6%BC%E5%AD%90" title="白石涼子">白石涼子</a>(日語)</li>
+<li>前代重要角色的同型號機械人。
+<ul><li>二者是特化了治療和修理的稀少機械人。</li></ul></li>
+<li>由於前作的事故，同型號機體在事後基本都被處分了，現在剩下的兩機則是為了防止再度暴走而留下來的樣本。
+<ul><li>由於過去的事故非常嚴重，經常受到其他機械人形的白眼。總是被派往外出處理危險的任務，直到三週目9S選擇幫助她們，才開始了解兩人在本作的一點經歷。</li>
+<li>不過兩人都逆來順受，甚至連她們自己也認為受到這種對待是理所當然的。</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">2周目開始可以透過9S收集Gestalt計畫書，內容基本上就是前作Nier內容。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兩姐妹是為了對抗因為&lt;復仇龍騎士1&gt;—E END 帶來的白鹽化症候群而製作的機械人，負責監督Gestalt計畫。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但計劃隨著Original Gestalt的死亡而失敗，直接導致人類絕種的主因。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">事實上Gestalt計劃的問題完全出在立案的委員會身上<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>，但包括她們自己在內，所有機械人也禁不著把錯怪在身為監督者的她們身上。</span></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後為了幫助9S進入駭進「塔」裡而奮死保護他，ポポル為9S解除塔裡的自我封閉系算法的防壁，而導致自己的回路嚴重燒毀。兩人結束了塔下的戰鬥後死亡，最後埋葬於塔的崩壞中。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在POD的記錄中其他所有同型機都是兩姐妹一起結束生命。</span></li></ul></li></ul><h3 class="in-block"><span id="埃米爾/エミール/Emil"></span><span class="mw-headline" id=".E5.9F.83.E7.B1.B3.E7.88.BE.2F.E3.82.A8.E3.83.9F.E3.83.BC.E3.83.AB.2FEmil">埃米爾/エミール/Emil</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=15" title="編輯章節：埃米爾/エミール/Emil" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：Julie Ann Taylor(英語)、<a href="/%E9%96%80%E8%84%87%E8%88%9E%E4%BB%A5" title="門脇舞以">門脇舞以</a>(日語)</li>
+<li>前作要角，於本作是以彩蛋的形式出現。
+<ul><li>出現方式是在廢棄商場擊敗當地機器人並擊殺一名意圖逃跑的機器人後從其頭部爆出。
+<ul><li>之後會在廢墟都市地區再次碰見他，此時埃米爾以將頭部裝在小貨車上的<s>托馬斯小三輪車</s>形態出現，並向主角出售商品。</li></ul></li>
+<li>而且還邊播著一首有極強洗腦性的 <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=x2NbB806bCs">歌曲</a> 邊高速奔馳<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>，必須使用Pod射擊他才會停下<s>，超煩人。</s></li></ul></li>
+<li>支線任務中可以在商場找到一種會發光的花朵“月之淚”，埃米爾會出現表示對花有種熟悉的感覺，並委託主角在別處看到月之淚時通知他。每次讓其接觸花朵後埃米爾都會恢復一部分過去的記憶，直到最後出現完整的過去回憶。
+<ul><li>每一次埃米爾來的超快，9S的表現從震驚到習以為常<s>甚至還沒有講完地點埃米爾就會突然從背後出現</s></li>
+<li>找完所有花朵後埃米爾會贈與主角商場電梯的鑰匙，使用後可以抵達地底下的月之淚花田。</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在前作生存下來後，遭遇外星人入侵地球，便分裂自身製造出大量複製體與外星人以及其製造的機械生命體戰鬥。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但由於機械生命體幾乎無窮無盡，戰鬥也就僵持下去，埃米爾在分裂自身的過程中複製個體的記憶也開始淡薄。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">甚至有部分個體因承受不了無止境的戰鬥而精神崩潰，埃米爾支線的最後會與一部分仍倖存但精神崩潰的埃米爾複製體交戰，對於複製體在最終戰的處理會導致可能引向全部結局中的“Y”結局。</span></li></ul></li>
+<li>似乎並非前作的埃米爾的本體<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，而是本體分離出來的複製體，但繼承了大部分本體的記憶。</span>
+<ul><li>前作女主角Kaine的舊家會在地底深處的原因是本體在那邊重建的。</li></ul></li></ul><h3 class="in-block"><span id="亞當/アダム/Adam"></span><span class="mw-headline" id=".E4.BA.9E.E7.95.B6.2F.E3.82.A2.E3.83.80.E3.83.A0.2FAdam">亞當/アダム/Adam</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=16" title="編輯章節：亞當/アダム/Adam" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV:Greg Chun(英語)、浪川大輔(日語)</li>
+<li>在沙漠地區由大量機器生命體<b>孕育</b>出的與機械人外表無異的機器生命體，具有進化功能，會隨時間提升等級。
+<ul><li>相當有學習性，在從主角手下脫逃後通過書本等事物了解了相當多的知識並試圖去了解人類，並最終選擇和2B戰鬥來了解生存的意義。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後為了體會生命的意義而在戰鬥中切斷自己與網路的連線，被2B殺死後無法復原。</span></li></ul></li>
+<li><s>沒有小JJ</s></li></ul><h3 class="in-block"><span id="夏娃/イヴ/Eve"></span><span class="mw-headline" id=".E5.A4.8F.E5.A8.83.2F.E3.82.A4.E3.83.B4.2FEve">夏娃/イヴ/Eve</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=17" title="編輯章節：夏娃/イヴ/Eve" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV:Ray Chase(英語)、鈴木達央(日語)</li>
+<li>亞當的<b>弟弟。沒錯，是男的。</b>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">是從主角第一次擊敗亞當後從身體裡分離出來的，捏他自聖經中夏娃由亞當的肋骨中誕生的記載。</span></li></ul></li>
+<li>對自己的名字產生疑惑，認為夏娃是女性的名字，兄弟的名字如果是「該隱與亞伯」這種應該好一點。但隨即被哥哥反駁。
+<ul><li>比起有知性且懂得學習的哥哥，基本上性格比較衝動，凡事都依賴哥哥亞當。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因此在哥哥被消滅後精神崩潰意圖毀滅所有機械生命體和人類</span></li></ul></li></ul><h3 class="in-block"><span id="紅衣少女/赤い少女/N2"></span><span class="mw-headline" id=".E7.B4.85.E8.A1.A3.E5.B0.91.E5.A5.B3.2F.E8.B5.A4.E3.81.84.E5.B0.91.E5.A5.B3.2FN2"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">紅衣少女/赤い少女/N2</span></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=18" title="編輯章節：紅衣少女/赤い少女/N2" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">CV:中田讓治(日語) <s>表面是少女，心裡卻是大叔</s></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>很早在預告中就登場了，但除了CV和“超越”這一形容外都是馬賽克</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在機械生命體的網路中誕生出來的意識總合體，從過往人類資料庫中保存的某個早期少女的資料建構出了自己的形象。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際上很早就完成了對機械人部隊的資訊入侵，二周目在外星飛船廢墟、碉堡的機庫以及最終畫面中都出現個體的虛影，暗示其一直在背後操控大局。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在三週目於塔內和A2作戰時，在網路中複製自身意圖消滅A2，但卻導致自身容量飽和分裂出持“A2是敵人必須消滅”以及“A2存續可以催促其自身進化”兩個觀點相反的個體，隨後開始對峙互相消滅。<s>少有的不需要動手即可完成的BOSS戰</s></span></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="主要敵人"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E6.95.B5.E4.BA.BA">主要敵人</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=19" title="編輯章節：主要敵人" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>機械生命體
+<ul><li>本作中的主要敵人，由外星人製造，結構簡單<s>省的製造複雜模型讓內存爆炸</s>，一般有圓球般的腦袋和鐵桶般的身體構成。</li>
+<li>常見的體型主要分為小型、中型及大型，也有類似動物的多足型，以及類似戰車與飛行船的機型。</li>
+<li>外形根據遊戲內場所的不同在裝飾上有所變化，比如遊樂場的機器人會化妝、沙漠的機器人會圍披風等，森林王國的機器生命體更是會穿鎧甲騎機器馬。
+<ul><li>大部分沒有裝備武器，少部分會裝備盾牌來防禦攻擊。</li></ul></li>
+<li>部分機械生命體會乘坐<s>救生圈</s>飛行器，使用發射電球的槍械攻擊。</li>
+<li>平時分為有主動性和被動性兩種，有主動性的會在角色經過時主動發動攻擊，被動性的則可以在旁邊平穩經過，除非直接對其進行攻擊。
+<ul><li>可以跳過很多本應和被動型機器人的作戰。</li>
+<li>也有即使攻擊也完全不會反擊的類型，如帕斯卡村的村民，但數量非常稀少。</li></ul></li>
+<li>遊戲後期和三週目會出現狂暴機器人（眼睛變成紅色），除了會主動攻擊外性能也會增加<s>還有吞食機械人的習性</s>。</li>
+<li>曾經和機械人長期交戰的存在，但是後來在機器人網路中覺醒了對於親情、友情、愛情、血緣關係、領域等概念開始變得有感情。
+<ul><li>但並非所有個體可以理解這些概念，大多數只是在機械性的進行模仿。</li>
+<li>也因此後前作的「魔物」不同，除了極少數的例外之外，基本上都是沒有感情(靈魂)的。</li></ul></li>
+<li>部分特殊個體的名字出自於各國哲學家。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從設定集（<a href="/%E6%AA%94%E6%A1%88:Img24501.jpg" title="檔案:Img24501.jpg">圖片連結</a>）看，似乎機械生命體是外星人根據埃米爾的複製體模仿出來的</span></li></ul></li>
+<li>外星人
+<ul><li>進攻地球的外星人，製造了機械生命體來對抗人類。</li>
+<li>其進攻地球的目的不明。
+<ul><li>按復仇龍騎士的特典——普羅米修斯之火，應該是自力飛上宇宙的P-33引起了他們的興趣。</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">隨主線劇情進展，可以從亞當和夏娃那裡得知早在幾百年前外星人就已經被進化後的機械生命體消滅了。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">主角只能看到外星人的屍體而已，其外型類似於章魚。</span></li></ul></li></ul></li>
+<li>歌姬
+<ul><li>遊樂園章節的BOSS，二周目9S線可以得知名字為波娃<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>(ボーヴァル)。</li>
+<li>原本是普通的機器人，被一名戴著高帽的機器人<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> 教導了關於愛情的概念，隨即開始想辦法打扮自己來獲取其傾慕。
+<ul><li>但發覺裝飾無法吸引其注意後開始吸收同伴乃至機械人的零件來改造自己，但始終無法吸引高帽機器人而開始壞掉。</li></ul></li>
+<li>在2B和9S線的第三章中登場，抓走了很多機械人並將其活著改造成裝飾品乃至武器使用。</li></ul></li>
+<li>叛逃的寄葉部隊
+<ul><li>在支線任務中遇見的叛逃隊員，成員為22B、64B以及小隊隊長8B。</li>
+<li>會從司令官那邊收到指令，稱有幾名寄葉部隊成員襲擊了機械人反抗軍營地並脫離戰線，要求2B和9S前去討伐。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但討伐完後會發現黑盒子完全損毀，回到反抗軍營地後則會了解根本沒有寄葉部隊襲擊反抗軍營地的消息。當問及聯絡員小姐時，則被告知繼續調查下去會很危險。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">看來是知道了什麼不該知道的秘密而被滅口了……</span></li></ul></li></ul></li>
+<li>超巨大兵器
+<ul><li>序章BOSS，偽裝成工廠建築之一。</li>
+<li>根據流程來看一共有八個<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li>其中一個在任務中自爆後出現後續支線，將其修復後可以得知其背景
+<ul><li>名字叫恩格斯<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>(エンゲルス)，製造番號110-b，公元11934年2月製造，8月初次出擊。</li>
+<li>出乎意料的性格很隨和，在被修復後很隨意的交出了相關情報，<s>還對主角說以後常來玩</s></li></ul></li></ul></li>
+<li>超巨大潛水兵器
+<ul><li><s>很大，非常大，大到不行</s></li>
+<li>從水底鑽出，一口就將反抗軍的航母咬碎。會釋放EMP，機械人部隊難以近身，而且還渾身包裹著電磁防護膜，連衛星炮都傷不了其分毫。</li>
+<li>根據帕斯卡所說是過去為了殲滅機械人而製造，但上陸後只會敵我不分的攻擊，最後只能棄置於深海。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從9S線了解到因為自身有缺陷而被拋棄，一直都很孤獨而渴望同伴</span></li></ul></li>
+<li>遊樂園的兔子機器人雕像
+<ul><li>表面上是一個銅像，但實際上直接對其攻擊一段時間後會顯形攻擊角色</li>
+<li>語音似乎是大阪腔。<s>居然毆打如此可愛的我，機械人都毫無人性嗎？</s>←台詞之一</li>
+<li>配合經驗值晶片，擊破後可以獲得4萬點經驗，是前期賺經驗的好去處，但注意若靠9S駭入殺死經驗會少很多。</li></ul></li>
+<li>哥吉拉型機械生命體
+<ul><li>而且還是16年的「真‧哥吉拉」版的造型！</li>
+<li>碰見時間是在三週目，在完成雙子機械人的支線最後一段。不去交任務直接去森林也可以碰見。但注意僅此出現一次，交完任務後再也不會出現。</li>
+<li>紫色的吐息和背部發出的紫光都有完美還原。</li></ul></li>
+<li><s>動物</s>
+<ul><li>本作中能夠接觸互動的有鹿及野豬，可以騎乘作為代步工具，也可打倒獲得素材道具。</li>
+<li>但打起來可說是比機械生命體更強更硬的敵人。</li>
+<li>意外地有不少玩家的第一次都是給了野生鹿。看起來很和平的樣子突然就2連突進令玩家連反應都來不及就死了。<s>不過當玩家冷靜下來用遠程打帶跑對方就束手無策了</s>
+<ul><li><s>99等野豬+滿改POD = 最強移動炮塔</s></li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="地點"></span><span class="mw-headline" id=".E5.9C.B0.E9.BB.9E">地點</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=20" title="編輯章節：地點" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<p>跟前作一樣，本作的地區其實並不會迎來夜晚。
+</p>
+<ul><li>碉堡（Bunker）
+<ul><li>內部所有東西都是黑白單色，代表碉堡是死的（沒未來注定滅亡）。</li>
+<li>位於地球軌道上，所有寄葉部隊就是從此處出擊反攻地球的。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">三週目裡基地會因為中了機械生命體的病毒而最後自毀</span></li></ul></li>
+<li>工廠廢墟
+<ul><li>序章的戰鬥地點，超大型兵器就是在這裡製造的，一週目後期和機器人和平談判時也是在這裡。</li>
+<li>後期可以選擇回到工廠廢墟，撿起自己在序章丟下的武器，並且<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">此時可以在這裡發現序章和2B一同作戰的機械人11B的屍體以及其武器，從黑盒子讀取的數據來看11B意圖脫離戰線並準備趁開頭戰鬥假裝被擊墜，但結果真的被擊墜而且由於自己先前自行破壞了通訊設備無法聯絡友軍，被困於機器人後方無法戰鬥死亡</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">之後再回到基地，會遇見和11B友好的機械人16D，並交給她在11B屍體旁邊發現的遺物武器，16D道謝後表示自己是防禦型（16D的D應該是Defend防禦的意思）用不到，將武器贈與2B。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">此時可以選擇告訴與不告訴16D關於11B叛逃的真相，選擇不告訴的話，16D會表露自己其實和11B在交往，之後打算轉向戰鬥型討伐11B的敵人。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">選擇告訴16D的話，16D會立即表露出對11B的唾棄，以及告訴主角11B因其是防禦型而粗暴對待其的事實。</span></li></ul></li>
+<li>另外地底的機械生命體製造機是即死陷阱，倒在那邊的義體可說是多不勝數……
+<ul><li>另外地底樓梯那邊的自爆陷阱意外地坑人，倒在那邊的義體(ry</li></ul></li>
+<li>其實是前作P-33的製造工場。
+<ul><li>後期出現的自殺教團，也就是模仿在普羅米修斯之火，投火自殺的P-33而成的。</li></ul></li></ul></li>
+<li>機械人反抗軍營地
+<ul><li>位於城市廢墟中，由舊型機械人組成，是寄葉部隊重要的合作對象。</li>
+<li>完成初期任務後，反抗軍領導會開放一個房間供主角休息使用。</li>
+<li>營地的角落有一台點唱機，獲得唱片後可以在此撥放遊戲內的BGM來聽。</li>
+<li>舊型機因為冷卻裝置不完善，需要用大量帳篷遮光。</li>
+<li>在一二周目結尾會被狂化機器人攻破，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而且狂化機器人還會吞噬機械人</span>，三周目時已經重建。</li></ul></li>
+<li>城市廢墟
+<ul><li>一周目中段因為機械生命的攻擊而出現塌陷和地下空洞。</li>
+<li>地下空洞有外星人的基地。</li>
+<li>地下還有埃米爾居住的地方。
+<ul><li>靠近一個擺放埃米爾面具的地方時會被警告偷東西不好，但依然可以選擇撿走。</li>
+<li>再次遇到埃米爾時從其口中得知家裡失竊了，已經將東西保存好了。</li>
+<li>第二次換用9S來，通過駭入的方式解鎖箱子再拿一次。隨即會被埃米爾發現，埃米爾會憤怒並立即與主角交戰，注意埃米爾超強，若不提前就做好準備，倒在(ry。</li>
+<li>若擊敗可以獲得武器——埃米爾的頭（兩個），可以在戰鬥時打出去<s>還會有慘叫聲</s>。</li></ul></li></ul></li>
+<li>沙漠地帶
+<ul><li>設有反抗軍的駐點，並有住宅區的廢墟。</li>
+<li>最初遇見亞當與夏娃的區域。</li>
+<li>支線任務中<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">和埃米爾精神崩潰的複製個體交戰也是在這個區域。</span></li></ul></li>
+<li>遊樂園廢墟
+<ul><li>遇見歌姬BOSS的地方，這裡的機械生命體會打扮成小丑等遊樂園工作人員，幾乎不會主動攻擊。</li>
+<li>在遊樂園的友好機器人SHOP購入大量材料後進入三週目世界開頭或者是在地面機械人反抗軍營地賣出，可以大量賺得金錢，除了可以購買武器外，還可以<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">直接購買遊戲獎杯</span>。</li></ul></li>
+<li>帕斯卡的村子
+<ul><li>以帕斯卡為中心，由脫離機器人網路的和平主義者機器人聚集而成的村落。</li>
+<li>村裡的機器人不會反擊。可以從村民那邊接到不少支線任務。
+<ul><li>像是幫吵架的親子尋回離家出走的小孩、找回為姊姊收集替換零件而走失的妹妹、還有幫忙傳遞情書的跑腿等等溫馨有趣(?)的任務。</li></ul></li></ul></li>
+<li>森林地帶
+<ul><li>由一些脫離機械生命體網路的機器人盤踞，機器人的領袖（自稱森林王）在256年前宣佈成立“森林王國”這一組織。但在128年後領袖機能停止，其他機器人將其記憶存放到一個小機器人<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> 裡，此後便一直照顧無法長大的森林王。</li>
+<li>比起帕斯卡村裡的和平主義者們，雖然同樣選擇脫離機器人網路但極度排外，會主動攻擊任何入侵者。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">進入森之城堡時可以在某個房間發現一群謀劃消滅帕斯卡的村子的機器人</span></li></ul></li>
+<li>水沒都市
+<ul><li>位於太平洋沿岸，受到過去戰爭的影響而地盤下沉。</li>
+<li>沿岸設有反抗軍的導彈。護衛航母的任務出發點。</li>
+<li>三周目時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在岸邊會有2B脫出碉堡時搭乘的飛行裝置殘骸，使用9S調查的話可以播放殘留其中的2B給9S的留言檔案。</span></li></ul></li>
+<li>塔
+<ul><li>三周目時出現在廢墟都市的建築物。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">由機械生命體網路誕生的總合體"紅衣少女"(CV:中田讓治)<s>表面是少女，心裡卻是大叔</s>建造，原本是為了攻擊人類月面基地而建造的砲台。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但結局時因為機械生命體發現人類早已滅亡，便改成向宇宙射出"方舟"的發射台，向宇宙尋找更多的可能性。</span></li></ul></li>
+<li>需要擊破設置在遊樂園廢墟、森之國、水沒都市的"資源回收裝置"，才會開放進入的方法。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">造形與前作ポポル的圖書館完全一樣。甚至有她的Boss擊破獎杯房。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其藏書中記錄著YoRHa計劃背後的真相。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">事實上YoRHa計劃有兩個主要目的。一，為下一世代的機體題供實驗數據，情報收集後全體報廢。二，偽造人類在月面生存的情報，以提升所有機械人形的士氣。為守密情報，一定時間後將故意開放後門讓敵方入侵，令部隊全滅。偽裝工作完成。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為人道考量，必定報廢的YoRHa部隊會以機械生命體的核心造成黑盒代替傳統AI。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後一根壓垮9S的稻草，諷刺地YoRHa的立案人之一正是其數千年前的初代原形機九號。當時得知自己的製作者ジニア打算處分自己在內的部隊成員時發狂殺死所有人，並殘酷地修改YoRHa計劃為現在的完善版本後上傳至月面基地。最後死在二號機的手下。</span></li></ul></li></ul></li>
+<li>故事發生地的位置？
+<ul><li>B路線<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> 中，9S會搜刮一些資料交給碉堡裡的聯絡員處理，其中一則是一張夾雜在自行車裡的紙條<s>怎麼保存這麼久的</s>，内容大致如下（非原文）：
+<ul><li>平成25年（公元2013年），一名叫齊藤陽介<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> 的人騎自行車達到了時速30公里以上35公里以下的速度屬於超速，被舞濱警察署的警察佐藤賢一<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> 扣下自行車。</li></ul></li>
+<li>鑒於現實中舞濱靠近東京迪士尼樂園，而遊戲中的廢棄遊樂園外形也很像迪士尼城堡，由此可見似乎故事發生的地點是位於一萬年以後的日本舞濱？</li></ul></li></ul><p><br></p>
+<table class="wikitable" style="margin:auto;"><caption><font size="6">超劇透警報注意</font>
+</caption>
+<tbody><tr><td>Pod 153</td>
+<td>報告：再次提醒正在觀看的玩家，<span style="font-size:25px;"><b>下述文檔內容將直接劇透故事重心</b></span>。
+</td></tr><tr><td>Pod 153</td>
+<td>提案：請未完成遊戲結局的玩家慎重考慮是否應該繼續閱讀下述文檔。
+</td></tr></tbody></table><p><br></p>
+<table class="wikitable" style="margin:auto;"><tbody><tr><td>Pod 042:真的...沒問題嗎?<br>是&lt;-<br>否
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="結局"></span><span class="mw-headline" id=".E7.B5.90.E5.B1.80">結局</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=21" title="編輯章節：結局" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;">結局列表
+</th></tr><tr><td style="font-style:italic;">Pod042：機密文件已開啟
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li>A結局 - flower for m[A]chines
+<ul><li>一週目的結局。</li>
+<li>9S成功駭入夏娃，令2B能殺掉夏娃，終結掉一切機械生命體的網路連接。但9S因為駭入被感染論理病毒。感染了病毒的他不能將現在的資料上傳到碉堡，只能在這裡死亡。9S將失去在地球上的一切記憶。9S希望2B能親手殺掉他。</li>
+<li>2B別無選擇，以雙手慢慢勒緊9S的脖子，最終令他死亡。不能控制自己感情的2B哭泣且抱緊死去的9S。</li>
+<li>但9S以機械生命體的網路連接複製了自己的記憶，令自己以一體機械生命體的身體復活。2B坐上9S附上的機械巨手上，遙遙望向她們的將來...</li></ul></li>
+<li>B結局 - or not to [B]e
+<ul><li>二週目的結局。基本上，只是9S視點的A結局。</li>
+<li>能解開本作其中一個內幕<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">:人類已經滅絕，月球上有人類生存只是假消息，只剩下人類的DNA樣本存在。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">事實上，所有人類已經在外星人來襲前數百年絕種了。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Gestalt體因為魔王Nier的死亡全員步向崩壞化，Replicant體則因此死於黑文病，即使倖存下來的也因為沒有生殖機能而絕後。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後少量人類也在4200年左右死去了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在月面的只有人類、Gestalt及Replicant的基因情報。</span></li></ul></li>
+<li>結局名稱是捏他莎士比亞劇作《哈姆雷特》的名句「To be or not to be」。</li></ul></li>
+<li>A、B路線通關後出現C路線。--- <span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">講述9S復活後，回到基地之後發生的事。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在大型降下作戰中，YoRHa所有成員受到病毒感染。除9S、2B以外全員陣亡，Bunker被炸毀。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">2B在掩護9S逃走時被擊落，最後被論理病毒感染。A2為了減輕她的痛苦把她殺掉了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">趕來的9S目擊這一幕後完全黑化。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同時「塔」從地底出現，地震把A2及9S分開兩了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後兩人不約而同在塔的頂端碰面。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">A2為了復仇而打算消滅機械生命體的中樞</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">9S則為了復仇而打算將殺死2B的A2消滅。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">按選擇使用A2還是9S分別進入C、D結局。</span></li></ul></li>
+<li>C結局 - meaningless [C]ode
+<ul><li>三週目最後的結局之一。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">A2斬斷9S的左手且經Pod 042的幫助下強行駭入他。知道9S被感染的回路無法簡單修復的A2，決定犧牲自己拯救9S。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">將9S交給Pod 042帶走後，A2關閉掉"塔"的系統令其崩解。而她也在殘破的塔內墜落，期待著再見到生前的同伴們的一刻。</span></li></ul></li>
+<li>D結局 - chil[D]hood's end
+<ul><li>三週目最後的結局之二。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">9S差點被A2殺掉，但最後一刻A2記起2B的說話感到猶豫，9S抓緊這一瞬以劍刺穿了A2的身體，A2的劍也刺穿了9S。在一段悲鳴後，9S失去了知覺。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">9S的精神在"塔"的機械生命體網路中發現機械生命體的目的已經變成利用方舟向外太空進發，他也發現不需要再憎恨機械生命體了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在最後，"塔"射出方舟後崩解。世界的機械生命都在看著那飛向太空的方舟。</span></li>
+<li>結局名稱是捏他亞瑟‧查理斯‧克拉克所著的科幻小說《童年末日》(Childhood's End)。</li></ul></li>
+<li>E結局 - the [E]nd of YoRHa
+<ul><li>通關C和D結局後才會出現的結局。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Pod 153確認所有寄葉機體的信號停止，執行計畫最後階段 — 刪除所有寄葉部隊資料。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Pod 042反對執行命令，因為它和153都產生了感情。它不能接受這個結局，試圖復原2B、9S和A2。</span><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">決意保存三名機械人資料的042和玩家得到超越次元的力量幫助<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>，終於成功突破系統防火牆，復原三人資料和身體。Pod 042和153知道它們的行動可能只會帶來重複的結果，但也有不是這樣的可能性。「因為未來不是被賦予的，而是獲得的。」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結局後，玩家可以以刪除自己的所有存檔為代價，換來幫助世界上隨機一名玩家的機會。</span></li></ul></li>
+<li>其他結局
+<ul><li>在ABCDE五個結局外，還存在有F至Z一共21個其他結局，<s>不過全都是作死或惡搞結局</s>。
+<ul><li>mission [F]ailed：<s>在B路線下於序章中，若9S在限定時間內沒有自我修復成功，便進入結局</s></li>
+<li>hun[G]ry for knowledge：<s>B路線下，序章中9S選擇不進入飛行器支援而走向其他地方</s></li>
+<li>a mountain too [H]igh：<s>AB路線下都可以，在接到攻打剩餘的大型兵器的任務後不去戰鬥地點而去遊樂園</s></li>
+<li>no [I] in team：<s>A路線下打完亞當後不管9S直接走人</s></li>
+<li>bad [J]udgment：<s>A路線下去和談時直接上前砍死想要和談的機器人</s></li>
+<li>aji wo [K]utta：<s>A路線下接到一個和竹筴魚有關的任務，選擇品嘗竹筴魚後被噎死</s></li>
+<li>[L]one wolf：<s>A路線下機器生命體變異後不去管營地裡遇難的機械人直接走人</s></li>
+<li>break ti[M]e：<s>C路線下，パスカルの救助邀請後選擇不管</s></li>
+<li>[N]o man's village：<s>直接屠殺掉所有宣稱友好的機器人村民</s></li>
+<li>just y[O]u and me：<s>C路線下，宇宙部隊降下後脫離不管</s></li>
+<li>corru[P]tion：<s>C線2B遇見A2前，污染度達到100%</s></li>
+<li>[Q]uestionable actions：<s>C線9S不找2B直接走人</s></li>
+<li>mave[R]ick：<s>C線A2當著パスカル的面殺掉所有孩子</s></li>
+<li>city e[S]cape：<s>C線雙子救援時不開門直接走</s></li>
+<li>fa[T]al error：<s>把自己的系統晶片拆了</s></li>
+<li>deb[U]nked：<s>在碉堡自爆</s></li>
+<li>reckless bra[V]ery：<s>C線9S到雙子死亡後都沒有辦法開門</s></li>
+<li>broken [W]ings：<s>序章死亡</s></li>
+<li>time to rela[X]：<s>C線第一次操控A2時選擇直接離開</s></li>
+<li>head[Y] battle：<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與埃米爾的精神崩潰的複製體戰鬥，在戰鬥最後埃米爾的複製體會選擇自爆，此時放任不管任由複製體自爆，會顯示由於埃米爾自爆導致反應爐造成的污染覆蓋地球，地球不再適合人類居住</span></li>
+<li>over[Z]ealous：<s>C線操縱A2時，救完帕斯卡後把他殺死</s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，導致整村暴走、地球上Android全數滅絕</span></li></ul></li></ul></li></ul></td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="逸聞"></span><span class="mw-headline" id=".E9.80.B8.E8.81.9E">逸聞</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=22" title="編輯章節：逸聞" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li>2B這個名字來源於英語名言“To be or not to be”（<a href="/William_Shakespeare_(Fate)" title="William Shakespeare (Fate)">莎士比亞</a>戲劇作品《哈姆雷特》第三幕第一場，哈姆雷特王子一段獨白的第一句前半部）。A2則是出自拉丁語的“Et tu Brute?”（<a href="/Gaius_Julius_Caesar_(Fate)" title="Gaius Julius Caesar (Fate)">凱撒大帝</a>的臨終遺言“布魯圖，也有你嗎？”）</li>
+<li>橫尾聽過石川由依的聲音樣本後宣佈“不管花多少錢也要請這個人來為2B配音！”</li>
+<li>9S的CV會選擇花江夏樹就是因為有員工向橫尾推薦了《東京喰種》</li>
+<li>悠木碧一開始並不知道自己配音的角色是帕斯卡，同樣中田讓治也沒想到自己來給N2配音。這兩人都以為自己要配的是對方的角色
+<ul><li><s>不過很碰巧的，兩人配的角色內在都是大叔（無誤）</s></li></ul></li>
+<li>輔助機的編號數字越小，情感越接近人類。所以遊戲裡042比153先產生了感情
+<ul><li>042這個數字出自SF小說《銀河系搭便車指南》，是代表了“究極”的數字、153出自聖經中的153條大魚</li></ul></li>
+<li>2B和9S戴眼罩的含義是“一開始就不去看真相”，6O和21O這些通訊員戴口罩的含義則是“不會闡述真實”
+<ul><li>A2不戴眼罩代表了她靠自己的意識選擇面對真實</li>
+<li>寄葉部隊和解放軍的標誌中也各自包含了“閉上的眼睛”和“睜開的眼睛”要素</li></ul></li>
+<li>宇宙基地的情景保持灰白色是在暗喻此地是個已經死亡的地方</li>
+<li>人造人的皮膚和人類一樣是溫的，頭髮也會自然生長
+<ul><li>甚至可以性交感受到快樂，但只是對人類行為的模倣罷了。</li></ul></li>
+<li>2B和9S的黑色服裝代表了喪服，另外2B的裙子和9S的短褲都是散熱部件，所以自爆時這兩個地方才會首先炸飛……</li>
+<li>機械生命體會產生自我意識的原因就是前作BOSS之一P-33，這段劇情出自DOD系列10週年紀念BOS中收錄的小說《普羅米修斯之火》</li>
+<li>E結局中的042和153的台詞是向初代DOD本篇的結尾，瑪納向觀眾道謝的一幕致敬
+<ul><li><b>本当に、本当にありがとうございました。/Thank you for Playing.</b></li>
+<li><s>至少這次是真的讓玩家發自內心的感動，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而不是<b>最後まで抗った結果がこれだよ！</b></span></s></li></ul></li>
+<li>四零式戰術槍的武器故事中有一個時空悖論，具體詳情可能和續作有關
+<ul><li>具體來說，四零式戰術槍描述了北部戰線全滅的景象，但北部戰線的部隊在這槍出現且可完全升級後一樣會在遊戲中出現幫助玩家，也就是說這槍的武器故事在「記載著未來的情報」。
+<ul><li>製作人表示這不是Bug，而且跟「全世界的武器屋」的雅科爾（アコール）有關。</li>
+<li>雅科爾（アコール）正是DOD3中，超脫於時空，由「舊世界」製作的量產機械人。</li>
+<li>配合攻略本「詛咒是大災難之日」的描述，部分日方玩家認為DOD&gt;Nier:Automata有可能是迴繞時間線。</li></ul></li></ul></li>
+<li>埃米爾的住處並非當年凱妮的家，而是後來重新建造的，不過原型埃米爾在這裡居住過一段時間，那些大量的月之淚花也是那時原型埃米爾種下的</li>
+<li><s>橫尾在<a rel="nofollow" class="external text" href="https://youtu.be/hhDL3Q86ofY">官方廣告</a>上不僅當眾騷擾白金的員工還一邊滾來滾去飆髒話</s>
+<ul><li><s>NieR Automata T-Shirt! NieR Automata T-Shirt!（滾來滾去）S**t Square Enix!</s></li></ul></li>
+<li>遊戲推出後3年10個月後一名外國人發現遊戲內其實存在可以直接跳到E結局的CHEATCODE，橫尾太郎本身亦於TWITTER轉載有關發現，亦證實此為nier automata遊戲中最後的秘密。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="投票"></span><span class="mw-headline" id=".E6.8A.95.E7.A5.A8">投票</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=23" title="編輯章節：投票" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<ul><li>你喜歡哪個角色？</li></ul><div class="vote-block"><div class="vote-page" data-section="1" data-vote-page="尼爾 自動人形/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=1">編輯投票選項</a></span></div></div>
+<ul><li>你喜歡哪個結局？</li></ul><div class="vote-block"><div class="vote-page" data-section="2" data-vote-page="尼爾 自動人形/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=2">編輯投票選項</a></span></div></div>
+<p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="參見"></span><span class="mw-headline" id=".E5.8F.83.E8.A6.8B">參見</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=24" title="編輯章節：參見" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-10 collapsible-block" id="mf-section-10">
+<ul><li><a href="/Square_Enix" title="Square Enix">Square Enix</a></li>
+<li><a href="/RPG" title="RPG">RPG</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jp.square-enix.com/nierautomata/">日版網站</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.niergame.com/">美版網站</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(11)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=25" title="編輯章節：回應" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-11 collapsible-block" id="mf-section-11">
+<div class="pcomment-insert" data-number="" data-section="2" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2" title="討論:尼爾 自動人形">討論:尼爾 自動人形</a>|number=|section=2}}</div>
+<p><a href="#toc">↑</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(12)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;action=edit&amp;section=26" title="編輯章節：備註" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-12 collapsible-block" id="mf-section-12">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為NieR的所有結局都能發展到自動人形的世界。</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">時間是攻入森林王國那一章節時</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">另外進入駭客小遊戲時BGM會變成8bit版本</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">碰巧與前作的女(?)主角カイネ的經歷一樣。</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">此片未段有重要劇情，觀看前請注意。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">舞台劇雖然算是本篇故事的前傳性質，但到底並非遊戲本篇的內容，加上在遊戲發售前已經上演，劇情及設定有多少相通現時不得而知。</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">同理，由設定集所得知的情報畢竟是橫尾<s>老賊</s>的設定，想吸收多少請個人地冷靜的自己估算一下。</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">遊戲的文件中說明是12機</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">程式語言Pascal也是紀念他而以此命名</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">簡單來說，當時研究機關的上層還忙著互相推卸責任及維持既得利益、強行以平民實驗、<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">隱瞞重要患者Yohna其實無法可治等等</span>，<s>根本就是一群混帳</s>。</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實那BGM是前作以自己為題的</span><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=0x0-EYfwP-c"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">悲慘BGM</span></a><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">再改編版。<s>橫尾虐角色的多樣性已經至於用歌曲來虐了</s></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">取名自法國女權主義者西蒙·波娃</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">疑似居住在和平機器人村落，原型為法國哲學家讓-保羅·薩特</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">一開始消滅一個，然後出現三個；後期有直接應對兩個的任務，之後在三週目廢棄工廠保衛和平機器生命體時由帕斯卡操縱一個對抗狂化的一個</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">就是歷史上寫《資本論》的那位，順帶一提組成其手臂的巨大鋸子名稱叫馬克思……</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">名字イマヌエル取自德國哲學家康德</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">這段資料放在上鎖箱子內，只有9S才能打開</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">本作製作人www</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">白金工作室社長www</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於是開始了本作最難的「駭客」（彈幕）遊戲，敵人都是製作群組的一行一行字，打到後段會難度會三級跳，正當苦惱著怎麼都打不過時……</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其它玩家的存檔資料，會化身為圍繞自身的6機協助火力輸出</span></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=尼爾_自動人形&amp;oldid=397878">https://wiki.komica.org/index.php?title=尼爾_自動人形&amp;oldid=397878</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2"
+				data-user-name="阿史"
+				data-user-gender="unknown"
+				data-timestamp="1656468150">
+				最後編輯於 2022年6月29日 (週三) 10:02
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.916","ppvisitednodes":{"value":2006,"limit":1000000},"ppgeneratednodes":{"value":4150,"limit":1000000},"postexpandincludesize":{"value":39420,"limit":2097152},"templateargumentsize":{"value":17508,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7628,"limit":5000000},"timingprofile":["100.00%  252.792      1 -total"," 57.09%  144.330    137 模板:Censored","  3.00%    7.595      1 模板:Collapse_top","  2.27%    5.740      1 模板:Pcomment","  1.25%    3.153      4 模板:Size","  0.99%    2.499      2 模板:Vote","  0.68%    1.727      1 模板:H0","  0.56%    1.417      1 模板:Collapse_bottom"]},"cachereport":{"timestamp":"20221022210021","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108});});</script>		</body>
+		</html>
+		

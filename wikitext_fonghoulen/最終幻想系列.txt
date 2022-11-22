@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>最終幻想系列 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"最終幻想系列","wgTitle":"最終幻想系列","wgCurRevisionId":414793,"wgRevisionId":414793,"wgArticleId":7861,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"最終幻想系列","wgRelevantArticleId":7861,"wgRequestId":"3f54e687490eebcfbeaae4e3","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-最終幻想系列 rootpage-最終幻想系列 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">最終幻想系列</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">最終幻想系列（ファイナルファンタジー/Final Fantasy）</div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td>以下含有部分的劇情，沒玩過原著又不想<b>被太空戰士的譯名<a href="/%E9%9B%B7" title="雷">雷</a>死/拍電影拍到公司被併購/遊戲一直生不出來</b>的話請不要繼續看下去。
+</td></tr></tbody></table><div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Logo_FFonly.png" class="image"><img alt="Logo FFonly.png" src="/images/thumb/2/29/Logo_FFonly.png/400px-Logo_FFonly.png" width="400" height="213"></a></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=1" title="編輯章節：簡介" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>由SquareSoft（現<a href="/Square_Enix" title="Square Enix">Square Enix</a>）開發兼銷售的一系列<a href="/RPG" title="RPG">RPG</a>。</li>
+<li>Final Fantasy一名來由是製作人坂口博信宣言「如果這個賣不出去我就不再做遊戲了」，故將之取名Final Fantasy。而這句話有沒有成真大家有目共睹，制作人到XII一直都是他<s>，之後的不要提了，一直到FF7重製才有起色</s>。
+<ul><li>XII開始的本家作品都有或大或小的硬傷，而新水晶神話企劃下的作品幾乎每個都出了問題（尤其是FFXIII），還一路影響到砍掉重練的XV......</li>
+<li>由XI起轉攻<a href="/MMORPG" title="MMORPG">MMORPG</a>市場，XII明明是單機卻加入了MMORPG般的系統設定，然後XIV整團爆掉結果要<a href="/%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4" title="砍掉重練">砍掉重練</a>。</li></ul></li>
+<li>台灣市場的舊譯名為<b>「太空戰士」</b>。
+<ul><li>理由是當時華泰出版社的遊戲雜誌為了吸引買家將遊戲譯名引用當時相當受歡迎的本土特攝作品<a href="/%E8%B6%85%E7%B4%9A%E6%88%B0%E9%9A%8A%E7%B3%BB%E5%88%97" title="超級戰隊系列">《太空戰士》</a>，之後便為台灣各家雜誌與網站使用。</li>
+<li>在Ⅸ發行前經Square Enix控訴而取消；而在正式的中文翻譯出來前，台灣出版業在Square Enix同意下只能使用英文標題或是英文簡寫，但在前12代使用太1~太12的簡稱仍然相當普遍
+<ul><li><s>IV、VII、VIII、<a href="/Final_Fantasy_XIV" title="Final Fantasy XIV">XIV</a>有上過太空，也算是正確了</s></li></ul></li>
+<li>而現在使用的「最終幻想」的譯名原是大陸地區的通稱，經Square Enix認可後成為華語區<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>的官方譯名。</li></ul></li>
+<li>於2017/2/19獲得金氏世界紀錄認證為史上作品數目最多的系列（87作）<s>算是對SE騙錢能力的讚賞嗎</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="系統與背景資料及用語"></span><span class="mw-headline" id=".E7.B3.BB.E7.B5.B1.E8.88.87.E8.83.8C.E6.99.AF.E8.B3.87.E6.96.99.E5.8F.8A.E7.94.A8.E8.AA.9E">系統與背景資料及用語</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=2" title="編輯章節：系統與背景資料及用語" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span id="屬性"></span><span class="mw-headline" id=".E5.B1.AC.E6.80.A7"><a href="/%E5%B1%AC%E6%80%A7" title="屬性">屬性</a></span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=3" title="編輯章節：屬性" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>一代建立的格局，四名主角通常代表四種不同屬性。</li>
+<li>隨著每一代設計的不同也有不同的屬性。炎、冰、雷三種是必備，水、風、土不見得一定有但會輪番出現，毒、闇、聖則是偶爾才會有。</li>
+<li>其中零式系列將物理攻擊也細分為切断、貫通、衝撃、銃弾四種，分別對應斬擊、刺擊、重擊與細小飛行道具四種傷害。</li></ul><h3 class="in-block"><span id="職業"></span><span class="mw-headline" id=".E8.81.B7.E6.A5.AD"><a href="/%E5%A5%87%E5%B9%BB/%E8%A7%92%E8%89%B2%E8%81%B7%E6%A5%AD" title="奇幻/角色職業">職業</a></span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=4" title="編輯章節：職業" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>同樣是一代建立的格局，每個角色固有一個職業，可以使用職業特有的能力。在部分作品中可以轉職為更高級的職業。</li>
+<li>Ⅲ、Ⅴ、XI、戰略版系列和部分衍生遊戲中，可以使用特殊道具或在特定場所更換角色的職業。
+<ul><li>X-2和XII是通過在換裝盤（ドレスフィア）/黃道職業盤（ゾディアックジョブ）上<s>走格子</s>習得職業能力的系統。</li>
+<li>XIII和XIII-2的陣形系統中的六種職能可說是職業系統的衍生，每個角色雖能習得所有職能，但實際表現會因不同角色而產生相當差距。</li>
+<li>LRFF的風格系統是根據身上的服裝改變自身性能，和換裝盤系統相似。</li>
+<li>XIV則是通過更換武器來更換職業。</li></ul></li>
+<li>部分作品中還有可以習得屬於另一職業的能力的系統。</li></ul><h3 class="in-block"><span id="魔法"></span><span class="mw-headline" id=".E9.AD.94.E6.B3.95">魔法</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=5" title="編輯章節：魔法" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>大體上可以分為長於攻擊與debuff的「黑魔法」和擅於治療和強化的「白魔法」兩大類。根據作品不同，具體什麼職業能習得什麼魔法也有不同。
+<ul><li>還有不屬於上述兩類、可以召喚「召喚獸」的「召喚魔法」與讓角色習得怪物技能的「青魔法」等系統。</li></ul></li>
+<li>和<a href="/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%E7%B3%BB%E5%88%97" title="勇者鬥惡龍系列">隔壁棚</a>的「咒文」不太一樣的是，魔法名有固定後綴表示其等級（無後綴→~ラ/ア→~ガ/ダ→~ジャ）。<s>不過舊作的英譯版常常變成「（魔法名）Ⅰ/Ⅱ/Ⅲ」，後期作品才逐漸統一</s></li></ul><h3 class="in-block"><span id="召喚獸"></span><span class="mw-headline" id=".E5.8F.AC.E5.96.9A.E7.8D.B8">召喚獸</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=6" title="編輯章節：召喚獸" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>首見於Ⅲ。系列的招牌系統之一。</li>
+<li>通過「召喚魔法」降臨在戰場上的強大存在。不同的召喚獸持有不同的特有技能，能夠對敵人造成巨大傷害或給予我方強化效果。
+<ul><li>在部分作品裡是和劇情核心密切相關的存在。</li>
+<li>早期多半是出場後放個大絕就離開，X以後逐漸變成可以像額外的玩家角色一樣獨立操作/戰鬥的系統。</li>
+<li>另外在XIV裡，歷代的召喚獸更多是以「蠻神」等高難度BOSS的形式登場的。</li></ul></li>
+<li>名字通常源自神話或傳說中的神靈/英雄/幻獸，但形象和原形可能會天差地別。
+<ul><li><s>最明顯的例子是冰神濕婆和龍王巴哈姆特</s></li>
+<li>不過在系列內，形象設定雖然根據不同作品會有差異，但基本設計要素和絕招的名稱大多是一脈相承。</li>
+<li>每一作的召喚獸名單都不完全相同，有些召喚獸可能在其他作品裡只是一般BOSS甚至普通的怪物，也有不少僅登場一次的召喚獸。
+<ul><li>也有XII這樣直接拋開歷代名單自己搞了一整套全新召喚獸的事例。（部份召喚獸的名字來自戰略遊戲Final Fantasy Tactics內的Boss）</li></ul></li></ul></li></ul><h4 class="in-block"><span id="知名召喚獸列表"></span><span class="mw-headline" id=".E7.9F.A5.E5.90.8D.E5.8F.AC.E5.96.9A.E7.8D.B8.E5.88.97.E8.A1.A8">知名召喚獸列表</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=7" title="編輯章節：知名召喚獸列表" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table class="wikitable"><tbody><tr><th>名字</th>
+<th>常見形象</th>
+<th>召喚屬性/效果</th>
+<th>絕招</th>
+<th>備註
+</th></tr><tr><td>伊弗利特<br>イフリート</td>
+<td>膚色黝黑、頭上長有巨大雙角的魔人</td>
+<td>火</td>
+<td>地獄之火焰（地獄の火炎）</td>
+<td>亦有紅色或綠色甚至白人膚色的版本，部分作品中形象似乎有獸化的趨勢。
+</td></tr><tr><td>濕婆<br>シヴァ</td>
+<td>膚色青白、穿著清涼的<s>背頭髮型</s>性感女神</td>
+<td>冷氣</td>
+<td>鑽石星塵（ダイヤモンドダスト）</td>
+<td>與神話原型差異最大的召喚獸之一。<s>不僅屬性變化了還性轉了</s>
+</td></tr><tr><td>拉姆<br>ラムウ</td>
+<td>身穿長袍、手持長杖，有一大把白鬍子的長者</td>
+<td>雷</td>
+<td>制裁之雷（裁きの雷）</td>
+<td>名字來源自上古兩河流域阿卡德人神話中的智者。
+</td></tr><tr><td>泰坦<br>タイタン</td>
+<td>土石色<s>全裸</s>巨人</td>
+<td>土</td>
+<td>大地之怒（大地の怒り）</td>
+<td>
+</td></tr><tr><td>利維坦<br>リヴァイアサン</td>
+<td>尖嘴、長鬚且有翅狀鰭的大海蛇</td>
+<td>水</td>
+<td>大海嘯</td>
+<td>就是聖經中的利維坦。
+</td></tr><tr><td>巴哈姆特<br>バハムート</td>
+<td>巨龍<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+<td>無</td>
+<td>百萬火光（メガフレア）</td>
+<td>與現實原型差異最大的召喚獸之一<s><b>魚</b>躍<b>龍</b>門</s>。原本巴哈姆特只是貝希摩斯（比蒙巨獸）<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>的另一種寫法。<br>作為系列招牌召喚獸之一，不僅登場率極高，衍生亞種也是最多的<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td></tr><tr><td>亞歷山大<br>アレキサンダー</td>
+<td>要塞大小和外形的機械巨人</td>
+<td>聖</td>
+<td>神聖審判（聖なる審判）</td>
+<td>零式中則已經完全看不到人型而是一座<s>天空之城</s>巨型浮空要塞<br><s>要怎麼才能將<a href="/Alexander_the_Great_(Fate)" title="Alexander the Great (Fate)">著名歷史人物</a>和機械要塞聯繫起來啦</s>
+</td></tr><tr><td><a href="/%E6%9A%97%E9%BB%91%E7%A0%B4%E5%A3%9E%E7%A5%9E%E7%B3%BB%E5%88%97" title="暗黑破壞神系列"><s>大菠蘿</s></a>迪亞波羅斯<br>（ディアボロス）</td>
+<td>紅黑配色的有翼惡魔</td>
+<td>闇</td>
+<td>黑暗使者（闇よりの使者）</td>
+<td>少數即使作品不同其形象也幾乎沒有變化的召喚獸之一。
+</td></tr><tr><td>奧丁<br>オーディン</td>
+<td>頭戴有角的頭盔，身披披風，持劍與盾的騎馬人</td>
+<td>即死</td>
+<td>斬鐵劍（斬鉄剣）</td>
+<td><s>明明原型最知名的武器是槍但</s>劍才是本體。另外在XIII裡沒有騎馬<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>。
+</td></tr><tr><td>卡邦庫爾/寶石獸<br>カーバンクル</td>
+<td>頭上有紅色寶石的青綠色大耳朵小動物</td>
+<td>反射</td>
+<td>紅寶石之光（ルビーの光）<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td>
+<td>早期召喚效果是給我方附加反射狀態，後期作品則逐漸出現了治療或強化我方的效果。<s>造型有變得越來越萌的趨勢</s>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="ATB">ATB</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=8" title="編輯章節：ATB" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>Active Time Battle的縮寫，為傳統回合制戰鬥的改變版，玩家可藉由行動量表充滿的時間推論角色出招先後順序。
+<ul><li>首見於Ⅳ。</li>
+<li>Ⅷ時系統改成實時戰鬥，也就是可以行動時卻不進行操作的話敵人仍不會等待，玩家手腳不夠快的話是會被滅團的。</li>
+<li>Ⅹ中採用變體的「CTB制」，不使用行動量表而是直接將敵我雙方的行動順序算好列出；使用會改變行動順序的指令時則可在選擇目標的同時預覽變動。</li>
+<li>XII的「ADB制」則加入了地型和距離等的ARPG要素，戰鬥途中玩家可以隨意走位迴避敵人的攻擊，也能夠指示電腦控制的隊員作出支援。</li>
+<li><s>XIII最初在E3公佈的戰鬥影片裡的要素，在成品版裡沒一個能做出來</s><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><ul><li>一直到LRFF時，系統才修改成有點當時XIII預告片的樣子</li></ul></li></ul></li>
+<li>現在所謂的「半回合制」的原型。</li></ul><h3 class="in-block"><span id="騎乘獸"></span><span class="mw-headline" id=".E9.A8.8E.E4.B9.98.E7.8D.B8">騎乘獸</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=9" title="編輯章節：騎乘獸" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>首見於Ⅱ。在部分村落可以付錢以使用騎乘獸。</li>
+<li>多半有高速與不遇敵的優勢，不過村落與迷宮內不可使用。</li>
+<li>最有名也最常見的騎乘獸為「陸行鳥（チョコボ）」，很多作品都設有陸行鳥養成和陸行鳥競賽的要素。
+<ul><li>經典形象是淡黃色類似鴕鳥<s>體味很重</s>的大型鳥類（Q版外觀作品中會變得類似大型的雞），喜愛吃一種名為「基薩爾野菜」的蔬菜。V開始會有「クエ」的獨特叫聲。
+<ul><li>有不同顏色的亞種，最有名的亞種是肥胖型的「胖陸行鳥（デブチョコボ）」。</li></ul></li>
+<li>在部分作品中有戰鬥力，甚至在早期作品中常常兼差召喚獸。</li>
+<li>作為與莫古力並列的系列吉祥物，甚至有自己的衍生遊戲系列。</li></ul></li></ul><h3 class="in-block"><span id="莫古利（モーグリ）"></span><span class="mw-headline" id=".E8.8E.AB.E5.8F.A4.E5.88.A9.EF.BC.88.E3.83.A2.E3.83.BC.E3.82.B0.E3.83.AA.EF.BC.89">莫古利（モーグリ）</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=10" title="編輯章節：莫古利（モーグリ）" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>在Ⅲ初次登場的種族，與陸行鳥並列為系列吉祥物。</li>
+<li>形象為覆蓋白色短毛、頭上有彩色絨球、背後有紅色蝙蝠翅膀的小型生物，一些作品裡還會有紅色的大鼻子。
+<ul><li>不喜歡被觸碰頭上的絨球。常見棲息於森林之中，但也有和人類共同生活在城市中的作品存在。</li>
+<li>最開始叫聲是「ニャー」，不過這之後（包括NDS上的三代重製版）都統一為「クポー」了。
+<ul><li>有些作品會有會說話的莫古利出現，一般會以「クポ」作為自稱又或者有在語尾加上「クポー」的口癖。</li></ul></li>
+<li>在XII和FFT等Ivalice世界觀作品裡，其形象更接近於有兔子般長耳的獸人。</li></ul></li>
+<li>常常成為友方同伴或者擔任部分遊戲系統功能。
+<ul><li><s>也常常作為交流大使到友商遊戲中串場</s></li></ul></li></ul><h3 class="in-block"><span id="希德（Cid）"></span><span class="mw-headline" id=".E5.B8.8C.E5.BE.B7.EF.BC.88Cid.EF.BC.89">希德（Cid）</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=11" title="編輯章節：希德（Cid）" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="center"><div class="floatnone"><a href="/%E6%AA%94%E6%A1%88:Img14320.jpg" class="image"><noscript><img alt="Img14320.jpg" src="/images/thumb/f/ff/Img14320.jpg/783px-Img14320.jpg" width="783" height="600"></noscript><span class="lazy-image-placeholder" style="width: 783px;height: 600px;" data-src="/images/thumb/f/ff/Img14320.jpg/783px-Img14320.jpg" data-alt="Img14320.jpg" data-width="783" data-height="600"> </span></a></div></div>
+<ul><li>經常出沒於FF遊戲中的角色，在二代初次登場。
+<ul><li>不過GBA版以後的一代重製版有讓他的名字以「天空人之祖」的名義被提及。</li></ul></li>
+<li>早期形象多半為<a href="/%E5%8A%A9%E6%8B%B3%E4%BA%BA" title="助拳人">支援主角</a>的中老年人，留著一大把鬍子，且經常和以飛空艇為主的機械技術脫不了關係；近年形象則越來越多樣化。
+<ul><li>VII第一次出現壯年形象的希德<s>雖然不管從哪個角度看都完全不像只有32歲</s>，也是第一個會加入隊伍成為可控戰鬥夥伴的希德。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在XII、XIII擔任反派，零式中甚至是還最終BOSS（但不是主要黑幕）。</span></li>
+<li><s>XV中破天荒地性轉為希德妮（其實是本代希德的孫女）</s></li>
+<li>WOFF更出現了機器人希德。</li>
+<li><s>有一說是希德如果鬍子越少就越壞，不過也有例外就是了</s></li></ul></li></ul><h3 class="in-block"><span id="ただの石[8]水晶/魔石"></span><span class="mw-headline" id=".E3.81.9F.E3.81.A0.E3.81.AE.E7.9F.B3.5B8.5D.E6.B0.B4.E6.99.B6.2F.E9.AD.94.E7.9F.B3"><s>ただの石</s><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><a href="/%E6%B0%B4%E6%99%B6" title="水晶">水晶</a>/魔石</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=12" title="編輯章節：ただの石[8]水晶/魔石" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>貫穿FF全系列的要素。
+<ul><li>雖然除少數共享世界觀的例外，每作FF都有其獨自的故事，但水晶或魔石一類的物品幾乎一定會在世界觀和故事中佔據一席之地。</li>
+<li>早期的FF劇情常常圍繞地水火風四屬性水晶發生的變亂展開，後期水晶或魔石則多半和世界或行星的根本相關，不管怎樣通常是主角方需要保護其不被惡役濫用或侵略的存在。
+<ul><li>也有新水晶神話這樣將水晶描寫成偏負面存在的例子。</li></ul></li></ul></li>
+<li>常常持有不可思議的力量，根據作品不同可以是魔法或能力的載體、召喚魔法的媒介、能量源、神靈、製作素材<s>乃至於職業套裝區分</s>等。</li></ul><h3 class="in-block"><span id="兼差"></span><span class="mw-headline" id=".E5.85.BC.E5.B7.AE"><s>兼差</s></span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=13" title="編輯章節：兼差" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>如上所述，除少數例外，通常FF各作世界觀都是各自獨立的<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>，但部分角色名（例如希德）和地名、召喚獸和怪物設計、道具、貨幣名（ギル）等，會不停被後續作品沿用或致敬。
+<ul><li>此道的集大成之作非XIV莫屬，到處都有致敬前代作品的彩蛋，可以在其中找齊直至XII的所有本篇作品的捏他。另外開發時間相近和更晚的XIII和XV則是有單獨聯動活動。
+<ul><li><s>製作人直接稱之為「最終幻想系列的主題樂園」</s></li>
+<li><s>最近更是開始讓FF系列<a href="/%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2" title="尼爾 自動人形">以外的作品</a>兼差了</s></li></ul></li>
+<li>除了希德外最常被拿來兼差的名字是比格斯&amp;魏吉（ビッグス&amp;ウェッジ），甚至日文維基還有專門介紹兩人的條目。
+<ul><li>原捏他為星際大戰的同名角色，最早於VI序章登場，為搭乘魔導機甲攻擊納爾謝的兩名士兵。</li>
+<li>後續作品則大多是作為龍套小兵登場。</li></ul></li></ul></li></ul><h3 class="in-block"><span id="騙錢"></span><span class="mw-headline" id=".E9.A8.99.E9.8C.A2"><s>騙錢</s></span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=14" title="編輯章節：騙錢" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><s>由於SQEX太窮，幾乎所有2D舊作都已被複刻/移植/重制撈錢5次以上</s>
+<ul><li>連新作都能搞個雲端/口袋版強制移植到手機上。</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="作品列表"></span><span class="mw-headline" id=".E4.BD.9C.E5.93.81.E5.88.97.E8.A1.A8">作品列表</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=15" title="編輯章節：作品列表" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="本篇"></span><span class="mw-headline" id=".E6.9C.AC.E7.AF.87">本篇</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=16" title="編輯章節：本篇" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>備註
+</th>
+<th>Logo圖案
+</th></tr><tr><td>Final Fantasy
+</td>
+<td rowspan="3">FC
+</td>
+<td><i>「被賦予光之力的四位戰士，挺身對抗覆蓋世界的黑暗。」</i><br>系列首作，遇怪率異常的高和遊戲開始前能自由選擇職業為其最大特徵。<br>首部有時間旅行概念的FF。
+</td>
+<td>光之戰士（重製版追加）
+</td></tr><tr><td>Final Fantasy Ⅱ
+</td>
+<td><i>「與強大的帝國針鋒相對的，年輕的反抗軍們。」</i><br>首部有明確劇情與人物的FF。系列作代表吉祥物「陸行鳥」首次登場。<br>角色培養部份未採傳統升級制，而採各項熟練度制。<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>，但也因此在海外評價較差。<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">便當發得特別兇，重製版還新增了讓吃便當角色組隊打另一個版本最終Boss的路線。</span>
+</td>
+<td>皇帝（重製版追加）
+</td></tr><tr><td>Final Fantasy Ⅲ
+</td>
+<td><i>「被水晶選中的少年少女們的旅行。」</i><br>召喚獸系統+轉職系統開祖，替系列真正打下基礎之作。<br>由於FC原版的代碼相當複雜導致移植困難，後來又因為把代碼搞丟而導致後來出的DS重製版不得不照著現有資料重做一份新的。
+</td>
+<td>天野喜孝的畫作《ツインソード》（重製版追加）
+</td></tr><tr><td>Final Fantasy Ⅳ
+</td>
+<td rowspan="3">SFC
+</td>
+<td><i>「即使內心糾葛不已，仍為守護世界而拔劍的青年。」</i><br>ATB系統始祖，劇情與人物塑造更加強化<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><s>，前半便當發很兇後面卻幾乎全吐出來</s>。<br>美國發售時以《Ⅱ》名義推出。
+</td>
+<td>凱因（原版）<br>戈爾貝札（DS重製版）
+</td></tr><tr><td>Final Fantasy Ⅴ
+</td>
+<td><i>「以風之異變作為契機，戰士們踏上守護世界之旅。」</i><br>把FF3出現的職業+轉職系統更進一步發揚光大的作品<br><s>Butz Klauser與愉快的<a href="/%E5%BE%8C%E5%AE%AE" title="後宮">後宮</a>們的大冒險</s>
+</td>
+<td>飛龍
+</td></tr><tr><td>Final Fantasy Ⅵ
+</td>
+<td><i>「魔導之力循環往復，龐大的命運開始轉動。」</i><br>首個跳脫前五作「水晶戰士」模式+沒固定主角<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>的作品，劇情以群像劇為主要特徵。<br>評價最高的2DFF作品<s>因此經常和樓下戰誰是系列最強</s>，其把SFC音效晶片發揮到極致的音樂更被譽為經典<br>美國發售時以《Ⅲ》名義推出。
+</td>
+<td>駕駛著魔導機甲的蒂娜
+</td></tr><tr><td>Final Fantasy Ⅶ
+</td>
+<td>PS<br>PC
+</td>
+<td><i>「星球正面臨威脅，追逐因緣之敵，前往廣闊世界。」</i><br>Square跳槽到Sony陣營後的首作，不論在技術突破、劇情表現與遊戲系統等各方面都極為出色而成為<a href="/%E6%95%91%E6%A9%9F%E7%A5%9E%E4%BD%9C" title="救機神作">奠定PS王朝地位的名作</a>之一，也因此多年來都是重製呼聲最高的作品。<br>FF亦從本作開始，內容與風格逐漸脫離原本被限制在中古時代奇幻的範圍。<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><br>2015年11月，本作主角克勞德確定要在<a href="/%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BA%82%E9%AC%A5%E5%8F%83%E6%88%B0%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD#a0c29e65" title="任天堂明星大亂鬥參戰角色一覽">任天堂明星大亂鬥</a>出演；而反派賽菲羅斯則在2020年12月參戰。
+</td>
+<td rowspan="3">隕石
+</td></tr><tr><td>Final Fantasy Ⅶ Remake
+</td>
+<td>PS4<br>PS5<br>PC
+</td>
+<td rowspan="2">2015年發佈預告而引起全球玩家轟動，2020年4月10日推出第一部:Remake。<br>由於重製規模太大決定以分部方式製作（預定三部曲），重製第一部的內容只到原作離開米德加的劇情<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>。<br>雖然說是重製，但是從場景、遊戲流程、戰鬥系統幾乎全面擴充翻新，大量加入新增角色與劇情橋段<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">並埋了反抗<s>原作廚</s>命運和疑似平行世界線的伏筆</span>，在新舊玩家之間均廣受好評<s>但也讓一些老外開始擔心本作會步入<a href="/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E5%BF%83%E7%B3%BB%E5%88%97" title="王國之心系列">王國之心系列</a>的後塵</s>。<br><s>實質上是FFVII-2</s>
+</td></tr><tr><td>Final Fantasy Ⅶ Rebirth
+</td>
+<td>PS5
+</td></tr><tr><td>Final Fantasy Ⅷ
+</td>
+<td>PS<br>PC
+</td>
+<td><i>「少女會成為魔女，而知曉愛的少年成為了騎士。」</i><br>使用獨創的GF接合系統來作為主要強化角色的手段，怪物隨角色等級變強的設定成為練功狂的惡夢。<br>角色模組首次採用真人比例的八頭身，讓FF系列轉為偶像劇的元凶（無誤），也是歷代評價最兩極的作品之一。<br><s>（對著只有240p解析度+PS1模組的史克爾）莉諾雅：You're the best looking guy here</s>
+</td>
+<td>相擁的史克爾和莉諾雅
+</td></tr><tr><td>Final Fantasy Ⅸ
+</td>
+<td>PS
+</td>
+<td><i>「在戰爭和野心的漩渦正中，探尋活著的意義的人們。」</i><br>從七八代的未來感世界觀回到最初的中古時代奇幻風格，打著回歸原點不過當時評價很兩極，近年來逐漸回升中。<br>PSFF系列畫面最精緻的作品之一，不過有著戰鬥節奏過慢<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">+最終BOSS突兀的亂入</span>的缺點。
+</td>
+<td>水晶
+</td></tr><tr><td>Final Fantasy Ⅹ
+</td>
+<td rowspan="2">PS2
+</td>
+<td><i>「被死之螺旋束縛的世界中，少年與少女相遇了。」</i><br>首部加入全劇情語音的FF。整體風格偏東洋風，捨棄等級制而以獨創的幻光盤系統強化角色。<br>因淒美動人的劇情大受好評，經《FAMI通》讀者票選成為史上最感人落淚遊戲之第一名<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>，在系列作樂曲評選中本作亦在人聲主題歌組與BGM組雙雙拿下冠軍。<br><s>英文版著名爛哏：Tidus' laugh；因為單獨拿出來看太傻而變成歐美FF圈爛哏之一，<a rel="nofollow" class="external text" href="https://youtu.be/sOzM4ClFG1o">還有人把FF10的OST全配上了提達的笑聲</a></s><br><s>時隔21年因為本作角色<a href="/%E6%88%90%E5%8F%A5/%E2%97%8B%E2%97%8B%E7%9A%84%E2%97%8B%E2%97%8B%E5%A4%AA%E2%97%8B%E2%97%8B%E4%BA%86%E5%90%A7%EF%BC%81" class="mw-redirect" title="成句/○○的○○太○○了吧！">瓦卡的迷因影片</a>而再次爆紅<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></s>
+</td>
+<td>在水面上舉行祈送儀式的優娜與「辛」
+</td></tr><tr><td>Final Fantasy X-2
+</td>
+<td>系列作第一次推出整數作的直接續篇，不過因為風格變動太大而被某些粉絲批評SE自砸招牌。
+</td>
+<td>「優、琉、派」三人組
+</td></tr><tr><td>Final Fantasy XI
+</td>
+<td>PS2（已停止支援）<br>XB360（已停止支援）<br>PC
+</td>
+<td><i>「尋求著尚未目睹的地平線，冒險者在瓦納·迪爾上展翼高飛。」</i><br>系列作第一部MMORPG。<br>主線劇情<s>本來</s>已於2015年11月10日完結，雖然有將近五年沒有大型更新，但依舊持續運營且不斷有遊戲平衡等小型更新。在2020年8月6日更是<s>突然</s>更新其第六個資料片版本「蝕世之胚胎」。<br>原本還有和韓國製作方合作推出手遊版本的打算，但在數年的音訊不明後如今該項目已確認流產。
+</td>
+<td>冒險者們
+</td></tr><tr><td>Final Fantasy XII
+</td>
+<td>PS2
+</td>
+<td><i>「為了斬斷過往，少年們奔赴戰亂的時代。」</i><br>系列第一部《FAMI通》40分滿分遊戲，歐美一些媒體也給了相當的高分<br>實際上由於中途更換製作人的原因造成整個故事崩壞而在玩家中罵聲一片<s>，《法米通》變《塞錢通》元凶之一<br>主角是歷代FF最空氣，<a rel="nofollow" class="external text" href="http://dic.nicovideo.jp/a/%E3%82%AA%E3%82%A4%E3%83%A8%E3%82%A4%E3%83%A8">\ｵｲﾖｲﾖ!/</a></s><br>在國際版推出後爭議普遍平息，且論遊戲性被認為是系列中的神作之一。
+</td>
+<td>伽布拉斯
+</td></tr><tr><td>Final Fantasy XIII
+</td>
+<td rowspan="3">PS3<br>XB360<br>PC
+</td>
+<td><i>「觸及對立的世界的真相之時，人與被註定的命運相對峙。」</i><br><s>一旦被扯上就會爆炸的</s>新水晶神話（Fabula Nova Crystallis）系列第一作，但是因為各種大人的理由，自由度堪稱系列倒數第一<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>而招致非議，世界觀雖然<s>靠著一堆亂七八糟的自創名詞+故弄玄虛的敘事</s><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>算是獨樹一格，但相較之下劇情卻只能算普通。<s>總之幹你鳥山</s><br><s>比起遊戲本身，大眾一致同意主角<a href="/%E9%9B%B7%E5%85%89" title="雷光">雷光</a>才是本體（無誤）</s><br>由於發售前期待過大導致本作成為歷代值崩數一數二快（後來被FF15超車）也是評價爭議最大的作品之一，還有崩潰的玩家<s>（念作野村黑）</s><a rel="nofollow" class="external text" href="https://w.atwiki.jp/ff13funeral">建立了葬式スレ和wiki</a>大婊特婊，足見當時的爭議批評戰火之猛烈<br>題外話：因為本作上述不講人話般的劇情，而出現了「<a rel="nofollow" class="external text" href="https://dic.nicovideo.jp/t/a/%E3%83%8E%E3%83%A0%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5">如果讓SQEX製作某某遊戲新作</a>」的定型文哏。
+</td>
+<td><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被水晶柱撐起的繭</span>
+</td></tr><tr><td>Final Fantasy XIII-2
+</td>
+<td><s>吃書就算了，連結局補完都要DLC，而且還挖坑</s><br><s>《法米通》變《塞錢通》元凶之二（其實是莎拉好萌值40分），然後幹你鳥山</s><br>主題為時空旅行和悸論，新增了會協助戰鬥的寵物系統<br>雖然改進了前作的許多問題，但本作最大的問題在結局<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">雖然號稱多結局，實際上官方認定的只有打完最後BOSS後莎拉死去+世界毀滅的結局，而且在你破完所有要素後遊戲還會跳出一個嘲笑玩家所有努力都是徒勞無功的結局，是為讓玩家怒火瞬間引爆的原因之一</span>。
+</td>
+<td>交戰的雷光與凱厄斯
+</td></tr><tr><td>Lightning Returns Final Fantasy XIII
+</td>
+<td><s>其實是為了榨取雷光價值而出的殺必死資料片（半誤）</s><br>特色是有著時間限制（13日）<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>和半開放地圖，及多樣化的風格及換裝系統。<br>三部曲中攻略自由度最高也是總體評價最好的一作<s>，但因為前兩作的陰影太深而救不回來一再腰斬的銷量，讓玩家不禁大呼何不一開始就這麼設計。</s><br>大概是因為前作結局太讓人火大，這次劇情總算是不故弄玄虛+給了個Happy Ending<s>，但玩家還是選擇幹你鳥山</s>。
+</td>
+<td>雷光衣服上代表「解放者」的閃電標記
+</td></tr><tr><td><a href="/Final_Fantasy_XIV" title="Final Fantasy XIV">Final Fantasy XIV</a>
+</td>
+<td>PC<br>PS3（2.0-3.0限定，已停止支持）<br>PS4（4.0開始）<br>PS5（5.5開始）
+</td>
+<td><i>「受母水晶的引導，光之戰士們斬破混亂的時代。」</i><br>MMORPG，<s>XI的精神續作</s><b>但舊版1.0除了<a href="/%E5%9C%B0%E9%9B%B7" title="地雷">地雷</a>以外什麼都不是，已於2012年12月31日起停止營運。</b><br>在各方大力批評之下於2011年末發表「新生FFXIV宣言」，到2012年下旬開始<s>毀世界</s>將舊版玩家轉移到新版「重生之境」。<br>新版2.0於2013年8月27日開始正式營運，系統整個砍掉重做<s>變得有點像<a href="/%E9%AD%94%E7%8D%B8%E7%88%AD%E9%9C%B8" title="魔獸爭霸">隔壁棚</a>，但和舊版相比至少是能玩的遊戲</s>。重製後風評逐漸上升，<s>在先後爆炸的樓上和樓下之間儼然是近十年以來本傳的中流砥柱</s><br>享有兩項金氏世界紀錄，分別為史上製作人員名單End Credit最長的MMORPG（98分鐘）<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>及史上單款作品最多首BGM的遊戲（目前共638首，陸續更新中）
+</td>
+<td>冒險者們
+</td></tr><tr><td><a href="/Final_Fantasy_XV" title="Final Fantasy XV">Final Fantasy XV</a>
+</td>
+<td>PS4<br>XBoxOne<br>PC
+</td>
+<td><i>「由與同伴們的因緣支撐的，被選中的王的旅途。」</i><br>原來的FF Versus XIII扶正上位而成，系列首部<s>極可能也是最後一部</s><b>開放世界ARPG</b><s>然而後半段仍然是一本道</s>。<br>發售後才藉由一系列的DLC篇章補完劇情及IF路線結局，但後續最重要的幾個篇章卻因為製作人田畑端跑路而斷尾，也因此失去最後機會挽救慘不忍睹的聲望。<br><s>許多玩家表示在看到FF15的慘況後，發現FF13系列也沒那麼慘了</s>
+</td>
+<td><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">沉睡的<s>路人女主角</s>露娜弗蕾雅+諾克提斯（破關後追加）</span>
+</td></tr><tr><td>Final Fantasy XVI
+</td>
+<td>PS5
+</td>
+<td><i>「這是為了斬斷水晶加護的故事。」</i><br>製作人由讓XIV起死回生的吉田直樹擔任，在2020年的PS5發表會上公佈。2021年才會公佈更多消息，不過從預告來看似乎是要走回早期本傳的王道西幻風的樣子。<s><br>發佈實機畫面疑似要趕發佈會的死線（以PS5水準來說）而做的有些潦草，而且從畫質、配樂到風格都一股高清版XIV的味道。<br>其實是XII和XIV的私生子</s>
+</td>
+<td>鳳凰與伊弗利特
+</td></tr></tbody></table><h3 class="in-block"><span id="衍生作品"></span><span class="mw-headline" id=".E8.A1.8D.E7.94.9F.E4.BD.9C.E5.93.81">衍生作品</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=17" title="編輯章節：衍生作品" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="Sa·Ga系列"></span><span class="mw-headline" id="Sa.C2.B7Ga.E7.B3.BB.E5.88.97"><a href="/Sa%C2%B7Ga%E7%B3%BB%E5%88%97" title="Sa·Ga系列">Sa·Ga系列</a></span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=18" title="編輯章節：Sa·Ga系列" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<h4 class="in-block"><span id="Tactics系列作品"></span><span class="mw-headline" id="Tactics.E7.B3.BB.E5.88.97.E4.BD.9C.E5.93.81">Tactics系列作品</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=19" title="編輯章節：Tactics系列作品" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>劃分為Ivalice Alliance的系列作，與FFⅩⅡ使用基本相同的世界觀。
+<ul><li>總製作人為松野泰己（至FFⅩⅡ止）。</li></ul></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>備註
+</th></tr><tr><td>Final Fantasy Tactics
+</td>
+<td>PS<br>PSP
+</td>
+<td>首部銷量過百萬的SLG遊戲<s>複刻潮最大受害者</s>，劇本擔當為松野泰己因而故事非常嚴肅晦澀<s>，PS美版是大地雷<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></s><br>法米通推出的攻略本「<a rel="nofollow" class="external text" href="https://wikiwiki.jp/ffdic/%E6%9B%B8%E7%B1%8D/%E3%80%90%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%BF%E3%82%AF%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E5%A4%A7%E5%85%A8%E3%80%91">FFT大全</a>」是一核地雷，散播「<a rel="nofollow" class="external text" href="https://wikiwiki.jp/ffdic/%E3%82%BB%E3%83%AA%E3%83%95/%E3%80%90%E3%81%93%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%AF%E5%B0%8F%E6%95%B0%E7%82%B9%E4%BB%A5%E4%B8%8B%E3%82%92%EF%BC%88%E7%95%A5%EF%BC%89%E3%80%91">在Elmdor侯爵身上盜取正宗與源氏裝備的成功率只有0%，但表示的數值被割去小數點下單位，仍有零點幾%機會能偷到，只要重覆偷取就能取到手</a>」這種謠言，網路不發達的時代下令<a rel="nofollow" class="external text" href="http://dic.nicovideo.jp/a/%E9%BB%92%E6%9C%AC(fft)">無數玩家虛擲大量光陰</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><br>復刻版新增劇情、職業、以及通信共鬥、通信對戰模式，既有劇情也有不少插上過場動畫。亂入角色的過度優遇<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>、擾人的延遲<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>和音效劣化<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>都備受垢病
+</td></tr><tr><td>Final Fantasy Tactics Advance
+</td>
+<td>GBA
+</td>
+<td>與FFⅩⅡ同期的<s>子供向</s>作品，共通設定也較多，戰鬥中引入裁判系統<s>打個架還得遵守各種規則超麻煩</s>。
+</td></tr><tr><td>Final Fantasy Tactics Advance2
+</td>
+<td>NDS
+</td>
+<td><s>製作人在前期訪談裡撤了最多謊的一部FF<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></s>
+</td></tr><tr><td>Final Fantasy Tactics Social
+</td>
+<td>手機
+</td>
+<td>手遊大廠本命作<s>前三部只是鋪墊</s>
+</td></tr></tbody></table><h4 class="in-block"><span id="聖劍傳說系列"></span><span class="mw-headline" id=".E8.81.96.E5.8A.8D.E5.82.B3.E8.AA.AA.E7.B3.BB.E5.88.97"><a href="/%E8%81%96%E5%8A%8D%E5%82%B3%E8%AA%AA%E7%B3%BB%E5%88%97" title="聖劍傳說系列">聖劍傳說系列</a></span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=20" title="編輯章節：聖劍傳說系列" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>作為最終幻想系列衍生作品推出的ARPG</li></ul><h4 class="in-block"><span id="陸行鳥相關系列作品"></span><span class="mw-headline" id=".E9.99.B8.E8.A1.8C.E9.B3.A5.E7.9B.B8.E9.97.9C.E7.B3.BB.E5.88.97.E4.BD.9C.E5.93.81">陸行鳥相關系列作品</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=21" title="編輯章節：陸行鳥相關系列作品" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>備註
+</th></tr><tr><td>不思議なダンジョン
+</td>
+<td rowspan="2">PS
+</td>
+<td rowspan="3">以陸行鳥為主題的<a href="/%E5%8D%83%E8%AE%8A%E7%9A%84%E8%BF%B7%E5%AE%AE%E7%B3%BB%E5%88%97#.E9.99.B8.E8.A1.8C.E9.B3.A5.E7.9A.84.E5.8D.83.E8.AE.8A.E8.BF.B7.E5.AE.AE.EF.BC.88.E3.83.81.E3.83.A7.E3.82.B3.E3.83.9C.E3.81.AE.E4.B8.8D.E6.80.9D.E8.AD.B0.E3.81.AA.E3.83.80.E3.83.B3.E3.82.B8.E3.83.A7.E3.83.B3.EF.BC.89" title="千變的迷宮系列">千變的迷宮系列</a>
+</td></tr><tr><td>不思議なダンジョン2
+</td></tr><tr><td>不思議なダンジョン-時忘れの迷宮
+</td>
+<td>Wii
+</td></tr><tr><td>チョコボと魔法の絵本
+</td>
+<td rowspan="2">DS
+</td>
+<td>
+</td></tr><tr><td>チョコボと魔法の絵本-魔女と少女と5人の勇者
+</td>
+<td>
+</td></tr><tr><td>チョコボレーシング 〜幻界へのロード〜
+</td>
+<td>PS
+</td>
+<td><s>仿瑪利歐賽車的</s>賽車類型遊戲<br>除了賽場上的魔石道具外，每個角色還可以選擇一項能力在比賽過程中使用
+</td></tr><tr><td>チョコボGP
+</td>
+<td>Switch
+</td>
+<td>チョコボレーシング<s>間隔23年才發行</s>的續作<br><s>先不論手遊天尊式的萬惡商城制度，光是剛發售的一堆BUG就足以勸退一堆玩家了…</s>雖製作人接受巴哈姆特新聞採訪表示日後釋出更新檔改善BUG。
+</td></tr></tbody></table><h4 class="in-block"><span id="Final_Fantasy_VII補完計畫相關"></span><span class="mw-headline" id="Final_Fantasy_VII.E8.A3.9C.E5.AE.8C.E8.A8.88.E7.95.AB.E7.9B.B8.E9.97.9C">Final Fantasy VII補完計畫相關</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=22" title="編輯章節：Final Fantasy VII補完計畫相關" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><s>基本上就是以降臨神子為首的一連串過度消費FFⅦ的行為</s></li>
+<li>FF7AC部分詳見影像作品項</li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>類型
+</th>
+<th>備註
+</th></tr><tr><td>Crisis Core: Final Fantasy VII
+</td>
+<td>PSP
+</td>
+<td>ARPG
+</td>
+<td>FF7前傳，不少人心中的神作<s>也可能是FF7補完計畫的唯一良作</s>
+</td></tr><tr><td>Before Crisis: Final Fantasy VII
+</td>
+<td>JAVA手機遊戲
+</td>
+<td>RPG
+</td>
+<td>
+</td></tr><tr><td>Dirge of Cerberus: Final Fantasy VII
+</td>
+<td>PS2
+</td>
+<td>動作射擊
+</td>
+<td><b>入選2006年KOTY家用機部門次點</b><br>後出的國際版有相當改善
+</td></tr><tr><td>Final Fantasy VII G-Bike
+</td>
+<td>Android/iOS
+</td>
+<td>動作射擊
+</td>
+<td>出不到一年就停止營運了
+</td></tr><tr><td>Final Fantasy VII Ever Crisis
+</td>
+<td>Android/iOS
+</td>
+<td>RPG?
+</td>
+<td>為整合本傳+補完計畫ABCD四作劇情的手機重製作品
+</td></tr><tr><td>Final Fantasy VII The First Soldier
+</td>
+<td>Android/iOS
+</td>
+<td>大逃殺類型
+</td>
+<td>由Ateam Entertainment開發<br>2022年10月12日宣布2023/1/11停止營運<s>這次有撐過一年了<s>
+</s></s></td></tr><tr><td>Crisis Core -FINAL FANTASY VII- REUNION
+</td>
+<td>Steam<br>PS4<br>PS5<br>Xbox Series X/S<br>Xbox One<br>Switch
+</td>
+<td>ARPG
+</td>
+<td>核心危機「Remaster版」（官方說法）
+</td></tr></tbody></table><h4 class="in-block"><span id="Dissidia系列作品"></span><span class="mw-headline" id="Dissidia.E7.B3.BB.E5.88.97.E4.BD.9C.E5.93.81">Dissidia系列作品</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=23" title="編輯章節：Dissidia系列作品" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>作為系列誕生15週年紀念而推出的各代主角與反派參戰的格鬥遊戲。
+<ul><li>說是格鬥遊戲，但也有摻入RPG的指令式系統與成長、探索要素等。</li></ul></li>
+<li>其實一開始的構想是製作<a href="/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E5%BF%83%E7%B3%BB%E5%88%97" title="王國之心系列">王國之心系列</a>的對戰遊戲，但被打回票後便改以FF角色為主的格鬥遊戲。</li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>備註
+</th></tr><tr><td>Dissidia Final Fantasy
+</td>
+<td rowspan="2">PSP
+</td>
+<td>Dissida系列的開端，參戰作品角色為FF1-12的正反派。<br><s>PSP被盜版最嚴重的遊戲之一</s>
+</td></tr><tr><td>Duodecim Dissidia Final Fantasy 012
+</td>
+<td>
+</td></tr><tr><td>Dissidia Final Fantasy(2015)
+</td>
+<td>街機
+</td>
+<td>
+</td></tr><tr><td>DISSIDIA FINAL FANTASY OPERA OMNIA
+</td>
+<td>Android/iOS
+</td>
+<td>採用與Dissidia系列類似的世界觀跟BRV/HP系統，不過實際上是較傳統的CTB式戰鬥。
+</td></tr></tbody></table><h4 class="in-block"><span id="Theatrhythm系列作品"></span><span class="mw-headline" id="Theatrhythm.E7.B3.BB.E5.88.97.E4.BD.9C.E5.93.81">Theatrhythm系列作品</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=24" title="編輯章節：Theatrhythm系列作品" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>作為系列誕生25週年紀念而推出的各代遊戲音樂的節奏遊戲。
+<ul><li>說是節奏遊戲，但也有包含一些RPG的成長與收集要素等。</li></ul></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>備註
+</th></tr><tr><td rowspan="2">Theatrhythm Final Fantasy
+</td>
+<td>N3DS
+</td>
+<td>
+</td></tr><tr><td>iOS / Android
+</td>
+<td>遊戲本體免費但只有包含基礎角色13人跟FMS和BMS各一首，是個不知不覺會讓人不斷買曲子跟角色的大錢坑。
+</td></tr><tr><td>Theatrhythm Final Fantasy: Curtain Call
+</td>
+<td>N3DS
+</td>
+<td>
+</td></tr><tr><td>THEATRHYTHM FINAL FANTASY Allstar Carnival
+</td>
+<td>街機
+</td>
+<td>
+</td></tr><tr><td>THEATRHYTHM FINAL BAR LINE
+</td>
+<td>Switch / PS4
+</td>
+<td><s>Curtain Call移植追加歌曲+α版</s>
+</td></tr></tbody></table><h4 class="in-block"><span id="零式相關作品"></span><span class="mw-headline" id=".E9.9B.B6.E5.BC.8F.E7.9B.B8.E9.97.9C.E4.BD.9C.E5.93.81">零式相關作品</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=25" title="編輯章節：零式相關作品" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>從原本Fabula Nova Crystallis中的Final Fantasy Agito XIII改名獨立出來的系列，使用與FF XIII相同的水晶神話背景與自己的獨特世界觀。
+<ul><li>遊戲類型為ARPG，特點是戰記背景與校園風，可控人物也非常多。</li></ul></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>備註
+</th></tr><tr><td><a href="/Final_Fantasy_%E9%9B%B6%E5%BC%8F" title="Final Fantasy 零式">Final Fantasy 零式</a>
+</td>
+<td>PSP
+</td>
+<td>繼FFX以來擁有最強劇情力的作品，詳見條目。
+</td></tr><tr><td>Final Fasntasy Agito
+</td>
+<td>iOS / Android
+</td>
+<td>把註冊好的商標撿回來用的例子，特點為可自創角色遊玩，從故事的第一輪迴開始以半年左右為期不斷循環。<br>已停止營運，似乎是收回去回爐重作了
+</td></tr></tbody></table><h4 class="in-block"><span id="光之4戰士/Bravely相關作品"></span><span class="mw-headline" id=".E5.85.89.E4.B9.8B4.E6.88.B0.E5.A3.AB.2FBravely.E7.9B.B8.E9.97.9C.E4.BD.9C.E5.93.81">光之4戰士/Bravely相關作品</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=26" title="編輯章節：光之4戰士/Bravely相關作品" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>總製作人為淺野智也，原本概念為「要以最新技術開發出懷舊風RPG」。
+<ul><li>2012年推出的第二作《Bravely Default: Flying Fairy》跳脫最終幻想系列並獲得廣大反響，於2013年12月正式發表續作《Bravely Second》的製作。</li></ul></li>
+<li>Bravely系列連劇情和劇本上都會和遊戲有相當大的關係。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">玩家其實就是劇中神界的住人之一。</span></li>
+<li>Bravely Default：<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">除了會讓大家瘋掉的輪迴是取自防禦能儲存回合數也就是幫助妖精開大洞外，還有平行世界其實是玩家好友之一所使用的世界，以及使用好友召喚才能攻擊的次元封閉等。</span></li>
+<li>Bravely Second：<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在進入壞結局的情況下更是會讓遊戲角色對玩家祈禱要玩家繼承重打第二輪，最終戰甚至連最嚇人的刪存檔都用上了。</span></li>
+<li>Bravely Default II：<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真結局路線需要玩家手動在存檔介面將魔王的備份記憶覆蓋，最終迷宮會有航海模式的好友助陣。</span></li></ul></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>備註
+</th></tr><tr><td>光の4戦士 ファイナルファンタジー外伝
+</td>
+<td>NDS
+</td>
+<td>繼聖劍傳說1後第二部打著「FF外傳」之名的作品。
+</td></tr><tr><td><a href="/BRAVELY_DEFAULT" title="BRAVELY DEFAULT">Bravely Default: Flying Fairy</a>
+</td>
+<td>3DS
+</td>
+<td>以其獨特的戰鬥系統而受注目，同時為作曲家<a href="/Sound_Horizon" title="Sound Horizon">Revo</a>以「<a href="/Sound_Horizon" title="Sound Horizon">Linked Horizon</a>」名義與商業作品合作的首作。<br><s>淺野：這不是FF這不是FF這不是FF…</s><br>副標題意義是飛翔的妖精<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">依照上述淺野說的話去掉「FF」兩字後，才是這個遊戲真正的副標題「Lying Airy(說謊的艾雅莉)」</span>
+</td></tr><tr><td>Bravely Default: Praying Brage
+</td>
+<td>網頁
+</td>
+<td>時間設在BDFF<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">表結局</span>200年後的續集。於Hangame、<a href="/%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB" class="mw-redirect" title="ニコニコ動画">Niconico</a>和日本Yahoo!三個網路平台提供服務。
+</td></tr><tr><td>Bravely Default: For the Sequel
+</td>
+<td rowspan="2">3DS
+</td>
+<td>BDFF<s>騙錢<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></s>完全版，收錄多國版語音字幕+Bravely Second系統<s><a href="/%E4%B8%96%E7%95%8C" title="世界">The World</a></s>試用。<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同時也對於原作7和8章毫無變化的LOOP劇情做出各種<s>有病的</s>大翻修</span><br>副標題意義是迎向續篇
+</td></tr><tr><td><a href="/BRAVELY_SECOND" title="BRAVELY SECOND">Bravely Second: End Layer</a>
+</td>
+<td>時間設在BDFF<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真結局</span>數年後的正統續集，部分職業消滅並洗牌技能後改由其他職業繼承技能，<br>副標題意義是終結的世界。<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真正的副標題是加上時停系統所使用的點數SP的Send Player（繼承遊玩）<br>章節較前作少<s>，至少沒有前作累人的LOOP梗了</s></span>
+</td></tr><tr><td><a href="/BRAVELY_DEFAULT_II" title="BRAVELY DEFAULT II">Bravely Default II</a>
+</td>
+<td>Nintendo Switch
+</td>
+<td>系列續集<s>樓上表示：</s>，部份職業回歸一代，另外加入部份<a href="/OCTOPATH_TRAVELER" title="OCTOPATH TRAVELER">歧路旅人</a>的技能<br>中文版嚴重武俠+文言文化的<a href="/%E7%BF%BB%E8%AD%AF%E5%86%8D%E5%89%B5%E4%BD%9C" title="翻譯再創作">翻譯再創作</a>引來了兩岸三地的華人玩家一致吐槽<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真正的副標題可能是是封面與封底之間的pages（書頁）<br><s>這次終於不再玩LOOP劇情了，不過進入真結局前還得看兩個假結局</s></span>
+</td></tr></tbody></table><h4 class="in-block"><span id="手機遊戲"></span><span class="mw-headline" id=".E6.89.8B.E6.A9.9F.E9.81.8A.E6.88.B2">手機遊戲</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=27" title="編輯章節：手機遊戲" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>一部份作品有移植至其他家用主機</li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>備註
+</th></tr><tr><td>Final Fantasy Ⅳ THE AFTER：月の帰還
+</td>
+<td>日本手機<br>Wii<br>PSP<br>iOS<br>Android
+</td>
+<td>FFⅣ續作，之後移植至Wii以及隨著《Final Fantasy Ⅳ Complete Edition》一併移植至PSP。<br>2013年下旬以DS版FFⅣ模式重製為3D版，於智慧型手機配信。
+</td></tr><tr><td><a href="/Final_Fantasy_Dimensions" title="Final Fantasy Dimensions">Final Fantasy Legends: 光と闇の戦士</a>
+</td>
+<td rowspan="4">日本手機<br>iOS<br>Android
+</td>
+<td><s>難得的</s>2D版FF原創新作。以Ⅴ系統為底，劇情與世界觀設定則為Ⅰ~Ⅵ的大雜燴。<br>在海外以《Final Fantasy Dimensions》名義推出。
+</td></tr><tr><td>Final Fantasy Legends II: 時空ノ水晶
+</td>
+<td>樓上的續作，最早採用免費營運的社群遊戲，伺服器關閉後推出與前代類似的買斷版本<br>在海外以《Final Fantasy Dimensions 2》名義推出。
+</td></tr><tr><td>Final Fantasy Artnix
+</td>
+<td rowspan="3"><s>騙錢用</s>社群遊戲。
+</td></tr><tr><td>Final Fantasy Brigade
+</td></tr><tr><td>Final Fantasy Tactics S
+</td>
+<td rowspan="4">iOS<br>Android
+</td></tr><tr><td>Final Fantasy All The Bravest
+</td>
+<td>與上面三作採用道具收費的社群遊戲相比，本作更偏向普通的手機遊戲<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但重要內容都要購買昂貴的DLC才會開放，加之各種嚴重缺點，被某美媒體稱作「大便」</span>
+</td></tr><tr><td>Final Fantasy Brave Exvius
+</td>
+<td>交由《Brave Frontier》開發商Alim開發的<s>披著FF皮的BF</s>手遊，<br>有原創主線劇情，此外所有城鎮與部分迷宮可像舊式RPG般探索。<br>抽角率坑中之坑+營運經常出包<s>幹你廣野</s>
+</td></tr><tr><td>Final Fantasy XV: Pocket Edition
+</td>
+<td>畫面改為Q版並以手機平台為主的FFXV，採用分章節販售的方式推出
+</td></tr></tbody></table><h4 class="in-block"><span id="其他遊戲"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96.E9.81.8A.E6.88.B2">其他遊戲</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=28" title="編輯章節：其他遊戲" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>主機
+</th>
+<th>備註
+</th></tr><tr><td>Final Fantasy USA Mystic Quest
+</td>
+<td>SFC
+</td>
+<td>首發於北美，主打低難度
+</td></tr><tr><td>Final Fantasy Explorers
+</td>
+<td>3DS
+</td>
+<td>以多人遊玩為主的ARPG
+</td></tr><tr><td><a href="/World_of_Final_Fantasy" title="World of Final Fantasy">World of Final Fantasy</a>
+</td>
+<td>PS4<br>PSV<br>Switch
+</td>
+<td>以收服迷影獸為主軸，完成一定條件可以召喚歷代主角作為召喚獸。<br>2018年推出強化版Maxima。
+</td></tr><tr><td>Stranger of Paradise:Final Fantasy Origin
+</td>
+<td>PS5
+</td>
+<td>由<a href="/KOEI_TECMO" title="KOEI TECMO">KOEI TECMO</a>下的Team Ninja開發的動作遊戲<br><s>CHAOSCHAOSCHAOSCHAOSCHAOSxN</s><br><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">初代FF前傳</span></s>
+</td></tr></tbody></table><h4 class="in-block"><span id="影像作品"></span><span class="mw-headline" id=".E5.BD.B1.E5.83.8F.E4.BD.9C.E5.93.81">影像作品</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=29" title="編輯章節：影像作品" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>類型
+</th>
+<th>備註
+</th></tr><tr><td>Final Fantasy：Legend of the Crystals
+</td>
+<td>OVA
+</td>
+<td>劇情背景時間點位在FF5的200年後。
+</td></tr><tr><td>FF：U ～ファイナルファンタジー：アンリミテッド～
+</td>
+<td>TV動畫
+</td>
+<td>由GONZO製作、SquareSoft贊助的TV動畫，原定52話卻因為下者票房的慘敗而被腰斬到剩25話。<br>有Sa.Ga系列的製作人河津秋敏參與世界觀設定，劇情雖然和FF系列沒太大關連但在觀眾間評價並不差。而且待遇比樓下好，有出Web小說和廣播劇補完一部分後續劇情。
+</td></tr><tr><td>Final Fantasy：The Spirit Within
+</td>
+<td rowspan="3">CG動畫電影
+</td>
+<td>雖然是當時最精美的3DCG電影，但因為耗資過大+票房難看導致SquareSoft陷入財政危機，埋下日後被併購的種子，還導致擔任導演和編劇的坂口博信退社。<br>除了票房上的慘敗外，劇情過度枯燥且內容和FF系列幾乎完全扯不上半毛錢關係也是問題點之一<s>，<a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=fqEhFaBW4I8">唯一有娛樂性的地方是製作組自己在閒暇時間製作的舞蹈影片</a></s>。<br>而在劇中作為女主角，預定要作為虛擬女星出演其他S社電影的Aki Ross也因此被雪藏。<br>也有出版小說版（有full length和evolution兩版），補充了不少電影裡沒演到的劇情，評價還比電影好。
+</td></tr><tr><td>Final Fantasy VII: Advent Children
+</td>
+<td>為直接推出DVD/BD/UMD的OVA電影，因為滿足了粉絲而獲得了相當的成功（還以剪輯版本參加了威尼斯影展），日後還發行了加長版。<br><s>有悲劇的玩家直到電影播完了才發現自己買的UMD裡面裝的不是PSP遊戲<br>FFVII補完計畫的萬惡根源</s>
+</td></tr><tr><td>Kingsglaive: Final Fantasy XV
+</td>
+<td>FF15的前傳電影。<br><s>被觀眾和玩家吐槽為什麼不把劇情做進去本篇</s>
+</td></tr><tr><td>BROTHERHOOD FINAL FANTASY XV
+</td>
+<td>Web動畫
+</td>
+<td>全五話，內容主要敘述FF15主角群等人少年時期的時光。
+</td></tr><tr><td>我和父親的FINAL FANTASY XIV：光之老爸
+</td>
+<td>TV迷你劇/電影
+</td>
+<td>與以上作品完全不同的是：這是根據一個真實玩家的日記改編，記述他與突然退休的爸爸一起打FFXIV<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">並一起抗癌</span><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>的溫情故事
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="投票"></span><span class="mw-headline" id=".E6.8A.95.E7.A5.A8">投票</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=30" title="編輯章節：投票" data-section="30" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>最期待哪一個作品推出新作？</li></ul><div class="vote-block"><div class="vote-page" data-section="1" data-vote-page="最終幻想系列/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=1">編輯投票選項</a></span></div></div>
+<p><br></p>
+<ul><li>最萌哪一個女主角？</li></ul><div class="vote-block"><div class="vote-page" data-section="2" data-vote-page="最終幻想系列/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=2">編輯投票選項</a></span></div></div>
+<p><br></p><p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=31" title="編輯章節：連結" data-section="31" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a href="/RPG" title="RPG">RPG</a></li>
+<li><a href="/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%E7%B3%BB%E5%88%97" title="勇者鬥惡龍系列">勇者鬥惡龍系列</a>（永遠的宿敵，合併後兩者有推出過合作作品<s>但只是大富翁</s>）</li>
+<li><a href="/Chrono_Trigger" title="Chrono Trigger">Chrono Trigger</a>（與宿敵在合併成SQEX前合作的產物）</li>
+<li><a href="/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E5%BF%83%E7%B3%BB%E5%88%97" title="王國之心系列">王國之心系列</a>（<s>跟迪士尼一起亂入</s>）</li>
+<li><a href="/Square_Enix" title="Square Enix">Square Enix</a></li>
+<li><a rel="nofollow" class="external text" href="https://wikiwiki.jp/ffdic/">粉絲建立的用語WIKI</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=32" title="編輯章節：回應" data-section="32" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<p><a href="/%E8%A8%8E%E8%AB%96:%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="討論:最終幻想系列">討論:最終幻想系列</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=33" title="編輯章節：備註" data-section="33" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">原則上<b>不包含</b>曾發生中文譯名爭議的台灣。</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">在XV裡其形象為穿著龍型盔甲的巨人，稱號也從龍神變成了劍神。此外神話原型的巴哈姆特是一條大魚。</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">另外貝希摩斯也是FF系列中經常出沒的招牌魔物之一。</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">光是VII一系就有巴哈姆特改、巴哈姆特零式、巴哈姆特震、巴哈姆特烈……</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">因為本身會化身為女主騎的馬（無誤）。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">部分作品會出現「（其他寶石）之光」的變體，另外網遊兩作（XI、XIV）的寶石獸作為玩家使魔，沒有該技能而是持有「（寶石名）之輝（xxの輝き）」的Buff技能</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">SE社的壞習慣之一：在能夠滿足技術上的條件以前就先把想要做出來的戰鬥概念放給玩家看，問題是這個概念影片玩家都看了但是開發團隊<b>居然沒有全部看過</b>，導致很長一段時間中開發團隊對於遊戲要做成什麼樣子<b>根本沒有共識</b><s>反正就是幹你鳥山</s>。</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">出自鳥山求在FF13開發訪談時發出的失言。</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">不過在部分作品中會暗示與特定前作之間暗含關聯。</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">此系統日後被應用在後述的<a href="/Sa%C2%B7Ga%E7%B3%BB%E5%88%97" title="Sa·Ga系列">Sa·Ga系列</a>上</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">由於I~III的編劇寺田憲史與製作人坂口博信在劇情塑造方面理念不合，故本作起編劇改由坂口親力親為，寺田日後則成為批判FF系列最大力者之一</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">不過大多數會將全作第一個出場，又握有故事關鍵的Tina（美版名Terra）當作主角；若以此定義則本作亦是首次以女性為主角的作品</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">另一部同樣是日系經典的<a href="/%E5%82%B3%E5%A5%87%E7%B3%BB%E5%88%97" title="傳奇系列">傳奇系列</a>則一直要到TOX2才開始有風格上的轉變，到TOX為止風格都還在中古時代奇幻的範圍內。</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">原作中這段劇情遊玩時間只占遊戲開頭的<b>5個小時</b>左右，但重製第一部將這段拉長到了25~40小時，確實擁有對得起一部完整作品的質與量。</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">該評選並沒有分系列、平台或遊戲類型；第二名是CCFF7、第三名是卡普空的《大神》。整個FF系列總共7款衝上前20名，其中包括當時發售不滿一年的FF零式。</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">該片目前因為版權問題而被下架，niconico代表くりたしげたか曾表示該片已經是傳奇了。</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">分為13個章節，但只有第11章開始才能在根本沒有NPC的荒蕪大地上隨便逛，其他時候都只能依照故事的要求往前跑，也回不去之前的地圖。後來製作組在訪談承認遊戲會變成這樣是因為開發困難而導致的。</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">著名成句：<i><b>パルスのファルシのルシがパージでコクーン</b></i></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">但遊戲一開始時只剩下6天的時間，需要不斷做任務來延長剩餘時間到13天，做夠多任務的話會出現隱藏的第14天。</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">遊戲中的一天約為現實裡的75分鐘，但可以透過GP技能來暫時停止時間；在消耗減半+GP補給翻倍的easy難度下甚至可以半永久暫停時間。</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">因為把舊版的忠實玩家ID全部都列了進去</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">翻譯十分爛（幾乎到達了影響劇情理解的程度）錯誤當然也是相當多，之後複刻的PSP美版進行了徹底且質量極高的重新翻譯</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">侯爵有「保護裝備メンテナンス」的職業特性，裝備不能毀壞或偷取。</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">FF12的巴爾菲亞。性能完勝FFT既有角色穆斯塔迪奧、精品也是露骨強推的</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">用上算術的話，去完小解特效還沒結束。相傳是因通信對戰要加入在施法動畫中供對方操作妨礙而<b>故意設定</b>。只要稍打外掛檔，<b>用UMD玩一樣能解決</b></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">ルカヴィ大妖怪的登場、被擊破的聲效全都變得不堪入耳</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">存在持有裁判的敵人社團、可以探索整個Ivalice大陸、故事很有內涵等等...</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">其實價格有比BDFF初版便宜<s>，不過要玩家上Nintendo e-shop購買可回復SP（Bravely Second系統試用點數）的道具就真的很騙錢…</s></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">影視都提及老爸「Indy」抗癌成功就完了，遺憾的是由於主角「Maidy」因家族遺傳也患上癌症，已在2020年12月10日病逝。</span></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=最終幻想系列&amp;oldid=414793">https://wiki.komica.org/index.php?title=最終幻想系列&amp;oldid=414793</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97"
+				data-user-name="Fmnnnn"
+				data-user-gender="unknown"
+				data-timestamp="1665574581">
+				最後編輯於 2022年10月12日 (週三) 19:36
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.164","walltime":"0.185","ppvisitednodes":{"value":963,"limit":1000000},"ppgeneratednodes":{"value":2059,"limit":1000000},"postexpandincludesize":{"value":9480,"limit":2097152},"templateargumentsize":{"value":5201,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10625,"limit":5000000},"timingprofile":["100.00%   60.545      1 -total"," 62.85%   38.051     22 模板:Ref","  9.42%    5.705     21 模板:Censored","  2.95%    1.787      2 模板:Vote","  1.87%    1.135      1 模板:Stub_row","  1.87%    1.132      1 模板:H0"]},"cachereport":{"timestamp":"20221012213336","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1009});});</script>		</body>
+		</html>
+		

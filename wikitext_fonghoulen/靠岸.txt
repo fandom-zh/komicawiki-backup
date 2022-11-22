@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>靠岸 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"靠岸","wgTitle":"靠岸","wgCurRevisionId":391527,"wgRevisionId":391527,"wgArticleId":6046,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"靠岸","wgRelevantArticleId":6046,"wgRequestId":"4213d94ffb43b64f362af006","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E9%9D%A0%E5%B2%B8\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E9%9D%A0%E5%B2%B8","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-靠岸 rootpage-靠岸 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E9%9D%A0%E5%B2%B8" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">靠岸</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">靠岸(Port of Return)/<s>靠杯/靠夭/靠!岸!/西風先生你在哪？(Where on earth is Mr.Xifeng？)</s></div>
+<table class="wikitable" style="margin: 0 auto;text-align: center;"><tbody><tr><td style="">本條目歡迎有興趣的朋友加以補完。
+</td></tr><tr><td style="">給惡意破壞者的話：此頁早已被無數島民備份，奉勸當事人無謂白費心機！
+</td></tr><tr><td style="">也請部份島民備份時注意備份格式
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>動詞。船向碼頭或岸靠近。如：「滿載而歸的漁船靠岸卸貨。」</li>
+<li>指春水堂公司製作的大型<s>Flash動畫</s>電影。</li>
+<li><s>咖啡麻醉不了孤單，只會讓心更燙～</s></li>
+<li><s>哦 都一樣 所謂夢想 終究飄飄蕩蕩～</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="電影內容"></span><span class="mw-headline" id=".E9.9B.BB.E5.BD.B1.E5.85.A7.E5.AE.B9">電影內容</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=2" title="編輯章節：電影內容" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="center"><div class="floatnone"><a href="/%E6%AA%94%E6%A1%88:Img2629.jpg" class="image"><noscript><img alt="Img2629.jpg" src="/images/d/d2/Img2629.jpg" width="600" height="423"></noscript><span class="lazy-image-placeholder" style="width: 600px;height: 423px;" data-src="/images/d/d2/Img2629.jpg" data-alt="Img2629.jpg" data-width="600" data-height="423"> </span></a></div></div>
+<h3 class="in-block"><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=3" title="編輯章節：簡介" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><s>蠢</s>春水堂科技娛樂股份公司獨立製作的<s>同人</s>動畫電影。為奇幻冒險類動畫，於2010/3/5上映。</li>
+<li>「號稱」挑戰宮崎駿大師，採用近日式動畫風格。
+<ul><li><s>不少地方流露天空之城或風之谷的影子<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不過都是東施效顰</span></s></li></ul></li>
+<li>「號稱」花費資金一億兩千萬<s>丟到水溝裡</s>。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><ul><li><s>可能是層疊外判每層吃錢導致實際製作經費只餘極少，或者是花了一億在行銷</s></li></ul></li>
+<li>「號稱」2010台灣動畫里程<s>墓</s>碑，全長81分鐘。 (平均每分鐘約133.3萬元，以及8.9年人力)
+<ul><li>由春水堂在中國南京設立的動畫廠協力製作。<s>大概是這樣靠向對岸所以叫靠岸吧。</s></li>
+<li>2006年獲得政府電影輔導金800萬元。<s>被喻為稅金小偷，部分網友推論一億兩千萬大部分用於支付電影節公關費用。</s></li></ul></li>
+<li>「號稱」使用人力數高達二百人，製作四年完成，大約超過800人力/年。
+<ul><li><s>猜測可能連掃地歐巴桑、送件工讀生都算在內。</s></li>
+<li>但成片的人物作畫水準和分鏡演出奇差，畫面上的唯一優點大概只餘相當精緻的背景，<s>相較之下號稱花了十二年統籌的<a href="/GUN%E9%81%93" title="GUN道">槍道武藏</a>可能更有看頭。</s>
+<ul><li><s>人物可能是用illustrator、flash跟小畫家繪製。爆炸等效果可能是用particleIllusion直接套用。</s></li></ul></li>
+<li><s>如果二百人力全是高中生，或許能解釋這種水準</s></li>
+<li>而劇情本身雖有還算可以的發想，但是實際演出中卻充斥者各種難以入耳的台詞，整合性差且意義不明的搞笑橋段和設定，最後解決危機的方式也沒啥說服力可言。唯一比較能看的大概只有最後五分鐘……</li></ul></li>
+<li>部分網友表示看完後請<s>對電影票錢</s>放下執念<s>，不然會內傷</s>。</li>
+<li>導演張榮貴表示:「對於網友建設性意見，他和團隊虛心接受，自己給靠岸打90分，下部作品會更好。」<s>看來滿分應該不是100分</s><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+<li>由迪昇數位影視發行BD，但目前似無發行DVD的計畫<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li>最近他的台灣邪神作品地位被<a href="/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB%E6%9C%88%E5%88%8A" title="台灣漫畫月刊">人</a>搶走，心情非常嘔。</li></ul><h3 class="in-block"><span id="獎項"></span><span class="mw-headline" id=".E7.8D.8E.E9.A0.85">獎項</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=4" title="編輯章節：獎項" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>2009年「第十一屆台北電影節 "劇情長片類"」入圍。</li>
+<li>2009年「釜山國際電影節 "WIDE ANGLE SECTION"」入圍。</li>
+<li>2010年「第二屆澳門國際電影節」最佳動畫片。</li>
+<li>2010年「第一屆金驢獎」最驢影片獎、最驢導演獎入圍。</li>
+<li>2011年「2011聖地牙哥國際動漫展」(Comic-Con International:San Diego 2011) 入圍</li></ul><h3 class="in-block"><span id="官方劇透"></span><span class="mw-headline" id=".E5.AE.98.E6.96.B9.E5.8A.87.E9.80.8F">官方劇透</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=5" title="編輯章節：官方劇透" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">心，是靈魂的戰場，每天上演善與惡、光明與黑暗的肉搏。冷光飄浮，一個不完美的少女，為了得到完美的愛情，不顧預言師的警告，用魔法紅線綁住男友西風間樹（李勇配音）的心，不料，在即將得到幸福的前一刻，卻陷入一場戰爭。</span></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">冷光飄浮（吳穎配音）在碼頭等不到西風間樹，被虎眼長空（康殿宏配音）救上一艘神秘的黑鯨船，展開一場奇幻冒險的旅程。越想靠岸，鯨船卻越航向深不可測的空間而無法靠岸。最後經歷了一場無明的大戰，原本只關心自己的冷光飄浮，為了拯救同船乘客，決定犧牲自己…</span></li></ul><h3 class="in-block"><span id="人物介紹"></span><span class="mw-headline" id=".E4.BA.BA.E7.89.A9.E4.BB.8B.E7.B4.B9">人物介紹</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=6" title="編輯章節：人物介紹" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><s>根據網友研判，名字很可能是打電玩國二生取的</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實是布袋戲的取名法</span></li></ul></li>
+<li>冷光飄浮/Frostlight（CV:吳穎）
+<ul><li>年齡:20</li>
+<li>性別:女</li>
+<li>擔綱:女主角</li>
+<li>喜惡
+<ul><li>喜歡的顏色:粉紅色</li>
+<li>喜歡的配件:兔子圍巾、即時通訊環</li>
+<li>愛人:保護她的西風間樹</li>
+<li>寵物:小金魚黑牛</li>
+<li>最討厭的事:八卦、搞小團體</li></ul></li>
+<li>能力:頭非常硬</li>
+<li>萌屬性:<a href="/%E3%82%A2%E3%83%9B%E6%AF%9B" class="mw-redirect" title="アホ毛">呆毛</a>、<s><a href="/%E4%B8%AD%E4%BA%8C%E7%97%85" title="中二病">中二病</a></s>、<s><a href="/%E5%BB%9A" title="廚">廚</a></s>、<s>曝露狂傾向</s>、<s>怪胎</s>、<s>兜檔布</s>、<s>不穿內褲（看來春水堂有意讓人方便畫同人糟糕本）</s></li>
+<li>西風間樹對她的愛稱是「飄」</li>
+<li>為了和西風間樹一同私奔而在港口<s>一邊做著各種體操</s>等他，但這時空軍卻襲擊了港口<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，死在了空襲之中</span></li>
+<li>在戰亂中她和銀月<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">死後的靈魂</span>一同被虎眼長空帶上大船，故事就此開始
+<ul><li>在船上的她一開始處於失憶狀態，只記得自己愛人的名字和兩人之間的約定，但後來藉著<b>打勾勾</b>（無誤）慢慢回想起來自己上船前的各種回憶</li></ul></li>
+<li><b>一切的元兇</b>
+<ul><li>為了維持住和西風間樹之間的愛，向地攤買了能把所愛之人的心束縛住的紅線，卻不知道她對愛情的執念正成了引來修羅大軍的主因</li>
+<li>最後終於放下執念，<s>以一招外掛般地大吼</s>擊退了修羅王</li></ul></li>
+<li>在結局時終於下船見到西風間樹<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但這時她才發現自己已經死去以及大船外的現實時間早已過了<b>60</b>年的事實；而眼前的愛人早已是個老人</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後抱住了老去的愛人，和他道別後真正放下了執念而消失</span></li>
+<li><s>明明是很有潛力的題材為甚麼正片會演成那樣啊啊啊啊啊啊啊啊</s></li></ul></li>
+<li>在劇中表現極度不討喜，除了天天吵著要見樓下以外，性格還不時溫柔不時暴怒變來變去
+<ul><li><s>不知為何會使用破牆踢和刀劍，身手還十分矯健</s></li></ul></li>
+<li>偶爾會使用諸如<b>機車巴巴</b>、<b>爆定了</b>之類的語助詞</li>
+<li><s>史上無敵超正美少女（笑）</s></li>
+<li><s>不少網友看到她的名字時誤認為這是新的氣泡飲料名</s></li>
+<li><a href="/images/f/f1/4a707e727a65d_wn.jpg" class="internal" title="4a707e727a65d wn.jpg">初期人物設計圖</a>裡中還是一位普通的黑髮麻花辮少女，但成片裡的形象卻是刺眼高彩度的混搭風穿著+有著橘髮和呆毛的少女。</li></ul></li>
+<li>西風間樹/Westwind（CV:李勇）
+<ul><li>年齡:21</li>
+<li>性別:男</li>
+<li>擔綱:第一男主角</li>
+<li>身分:冷光飄浮的戀人</li>
+<li>喜惡
+<ul><li>喜歡的地方:大海</li>
+<li>喜歡的食物:義大利麵</li>
+<li>最嚮往的生活:自由自在、不受拘束</li>
+<li>最討厭的事:鉤心鬥角的家族</li></ul></li>
+<li>男主角(笑)，擅長小提琴演奏</li>
+<li>冷光飄浮對他的愛稱是「樹」</li>
+<li>為了和冷光飄浮之間的戀愛和自己的家人起了爭執，後來和她約定私奔，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果卻目睹冷光飄浮死在空襲之中。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">就算看到自己愛人死去，依舊每天前往港口等待冷光飄浮的歸來，就這樣等了60年。最後終於如願和女主的靈魂再次團聚。</span></li></ul></li>
+<li>虎眼長空/Tiger-eyes（CV:康殿宏）
+<ul><li>年齡:不詳</li>
+<li>性別:男</li>
+<li>擔綱:第二男主角</li>
+<li>身分:黑鯨船船長</li>
+<li>萌屬性:大叔、<s>有色乳頭<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></s></li>
+<li>長得和樓上很像
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">早期設定中有著其外貌會隨著看的人心中思念的人而改變的設定，但後來因為技術原因而作罷。</span></li></ul></li>
+<li><s>不少網友誤認為卡米那活過來了還慘遭整形</s></li>
+<li><s><a href="/%E6%88%90%E5%8F%A5/%E2%97%8B%E2%97%8B%EF%BC%8C%E4%BD%A0%E7%9C%9F%E6%98%AF%E8%A0%A2X%E9%81%8E%E9%9A%BB%E8%B1%AC" title="成句/○○，你真是蠢X過隻豬">蠢X過隻豬</a></s></li></ul></li>
+<li>春花夢雨/Springrain
+<ul><li>性別:女</li>
+<li>年齡:20</li>
+<li>喜惡
+<ul><li>喜歡的樂器:鋼琴</li>
+<li>喜歡的配件:名牌限量包包</li></ul></li>
+<li>萌屬性:<a href="/%E7%B5%95%E5%B0%8D%E9%A0%98%E5%9F%9F" title="絕對領域">絕對領域</a>、過膝長襪</li>
+<li>設定上是女主角的情敵，但出場連一分鐘都不到還沒配音，<s>不過和其他人比起來沒那麼崩</s></li>
+<li><s>愛稱是春夢</s></li></ul></li>
+<li>銀月/Slivermoon（CV:謝佼娟）
+<ul><li>性別:女</li>
+<li>年齡:5</li>
+<li>喜惡
+<ul><li>喜歡的食物:母親做的手工泡芙</li></ul></li>
+<li>萌屬性:<a href="/%E8%98%BF%E8%8E%89" title="蘿莉">蘿莉</a>、口吃、<s>死小孩</s>、<s><a href="/%E9%9B%BB%E6%B3%A2" title="電波">電波</a></s></li>
+<li>能力:<s>會發出"我要吃泡芙電波"</s>
+<ul><li><s>很吵，對劇情推動沒有任何幫助的角色</s></li></ul></li>
+<li><s>人設參考摩亞的可能性<a href="/%E9%AB%98%E9%81%94%E5%85%AB%E6%88%90" title="高達八成">高達八成</a>。</s>
+<ul><li><s>這就叫「<a href="/%E5%8E%9F%E5%89%B5%E9%A2%A8%E8%A1%8C" title="原創風行">原創風行</a>」？</s></li></ul></li></ul></li>
+<li>黑牛/Ripple（CV:夏乙田）
+<ul><li>年齡:特異功能般的長壽</li>
+<li>身長:7公分</li>
+<li>身分:冷光飄浮的寵物</li>
+<li>喜惡
+<ul><li>喜歡的事物:在魚缸裡轉圈圈</li>
+<li>希望兩個小主人趕快重逢，還有，可以變成人類<s><a href="/%E6%88%90%E5%8F%A5/%E9%AD%94%E6%88%92%E6%98%AF%E6%8A%84%E5%A4%A9%E5%A0%82%E7%9A%84" title="成句/魔戒是抄天堂的">波妞是抄黑牛的</a></s></li>
+<li><s>取“黑牛”這名稱，就讓人聯想到鐵人28號的不亂拳博士得意作─黑牛</s></li></ul></li>
+<li>能力:長壽、與星星溝通</li>
+<li>是西風間樹在<b>海邊</b>買回來的金魚</li></ul></li>
+<li>大副  <s>(姓大名副，這根本是官階名，誰給她真實名字吧？)</s>（CV:謝佼娟）
+<ul><li>性別:女</li>
+<li>年齡:23</li>
+<li>身分:黑鯨船的第二指揮官，是虎眼長空的得力助手。</li>
+<li>喜惡
+<ul><li>最喜歡的休閒:發呆、放空</li>
+<li>最討厭的人類:話太多的男人</li></ul></li>
+<li>能力:駕駛鯨船、敵軍偵防、包扎救護，專用武器是貓頭戰戢。</li>
+<li>萌屬性:<a href="/%E7%84%A1%E5%8F%A3" title="無口">無口</a>、軍服</li></ul></li>
+<li><a href="/%E8%B3%BD%E5%B7%B4%E6%96%AF%E5%BC%B7" title="賽巴斯強">賽巴斯強</a>（CV:阿泰）
+<ul><li>性別:男</li>
+<li>年齡:32</li>
+<li>身分:小販，行走江湖多年而奸詐狡猾的甘草人物。
+<ul><li><s>對劇情推動沒有任何幫助的角色x2</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">某方面而言是本作最慘角色<s>（笑）</s>，再也無法和自己的家人相見了</span></li></ul></li>
+<li>能力:用RAP唱宋詞</li>
+<li><s>萌屬性:空氣嫁、青蛙裝</s></li>
+<li><s>取這種名字應該在日本當歐洲籍管家才對</s></li>
+<li><s>只不過是個小販罷了</s></li>
+<li><s>必殺技是宇宙新星，還會召喚火鳥</s></li></ul></li>
+<li>大修羅/Asura（CV:陳旭昇）
+<ul><li>性別:男+女</li>
+<li>年齡:永生</li>
+<li>身分:反派大頭目</li>
+<li>喜惡:
+<ul><li>最喜歡的東西：一切美麗的外表</li>
+<li>最討厭的東西：長得太醜的事物</li>
+<li>嗜好：創造世界，然後再毀滅它</li></ul></li>
+<li>能力:身高可任意巨大化或微小化、把黑鯨船抓來的乘客變成修羅兵、暗黑七星陣</li>
+<li><s>阿修羅男爵，請不要隨便打工。</s></li></ul></li></ul><h3 class="in-block"><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=7" title="編輯章節：連結" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>一般介紹
+<ul><li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=XXs5-4JEUxQ">2009-06-17公視晚間新聞(動畫導演阿貴 推出長片"靠岸")</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=jkxlfqM1Row"><s>靠岸電影精采畫面--因為罵的太慘所以</s>已經移除</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=zD-tAYUUVtw">靠岸電影預告<s>--這次學聰明了所以關掉評分</s></a></li>
+<li><a rel="nofollow" class="external text" href="http://portofreturn.pixnet.net/blog">官方部落格(已關閉)</a></li>
+<li><a rel="nofollow" class="external text" href="http://photo.xuite.net/portofreturn/3818647">官方新部落格</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.facebook.com/pages/kao-an-dian-ying/200039168993">電影Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="http://blog.yam.com/ffyak/article/22332889">靠岸觀後感(含捏他)</a></li>
+<li><a rel="nofollow" class="external text" href="http://app.atmovies.com.tw/movie/movie.cfm?action=filmdata&amp;film_id=fptw29805114">【開眼電影】靠岸台北票房：67萬元</a></li></ul></li>
+<li>有八卦
+<ul><li><a rel="nofollow" class="external text" href="http://okuma938.pixnet.net/blog/post/22325215">靠岸原始故事撰寫者的自白</a></li>
+<li><a rel="nofollow" class="external text" href="http://portofreturn.pixnet.net/blog/post/30397999">版主悄悄話...你看不見我你看不見我(已關閉)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.student.tw/db/showthread.php?t=216410">動畫 靠岸 （有預告）燒錢4年1.2億-台灣深藍學生聯合論壇</a></li></ul></li></ul><h3 class="in-block"><span id="回響"></span><span class="mw-headline" id=".E5.9B.9E.E9.9F.BF">回響</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=8" title="編輯章節：回響" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>有網友認為也許換個配樂會有加分的作用
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=yeJ7VimvCOM">史詩級科幻戰爭鉅作 - 靠岸！</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=kwaYpNxINFg&amp;feature=related">換成英雄傳說(空之軌跡)如何?</a></li>
+<li>造成有某些論壇誤以為這些配樂就是靠岸的配樂XDDDDDDD</li></ul></li>
+<li>也有<s>原作者</s>鄉民認為這只不過是同人電影，自己才是原作。</li>
+<li><a rel="nofollow" class="external text" href="http://www.bilibili.com/video/av84277933"><s>遲來十年</s>對岸UP主的吐槽</a>
+<ul><li>對岸網友反應：除了結局的反轉有點意思以外其他都是一坨X</li></ul></li></ul><h3 class="in-block"><span id="同人創作"></span><span class="mw-headline" id=".E5.90.8C.E4.BA.BA.E5.89.B5.E4.BD.9C">同人創作</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=9" title="編輯章節：同人創作" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>竟然有同人本，天要下紅雨了！
+<ul><li><a rel="nofollow" class="external text" href="http://www.comibook.com/cb2914">大船入港～要靠岸啦</a></li></ul></li></ul><h3 class="in-block"><span id="投票"></span><span class="mw-headline" id=".E6.8A.95.E7.A5.A8">投票</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=10" title="編輯章節：投票" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>你會去電影院看靠岸嗎?(已下片) (現在種花電信MOD好評播送中(要錢</li></ul><div class="vote-block"><div class="vote-page" data-section="1" data-vote-page="靠岸/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E9%9D%A0%E5%B2%B8/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=1">編輯投票選項</a></span></div></div>
+<p><br></p>
+<ul><li>你會去買靠岸BD來看嗎?</li></ul><div class="vote-block"><div class="vote-page" data-section="2" data-vote-page="靠岸/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E9%9D%A0%E5%B2%B8/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=2">編輯投票選項</a></span></div></div>
+<p><br></p>
+<ul><li>你覺得靠岸做為台灣第一部挑戰日系動畫的電影，最須要如何改進?</li></ul><div class="vote-block"><div class="vote-page" data-section="3" data-vote-page="靠岸/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E9%9D%A0%E5%B2%B8/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=3">編輯投票選項</a></span></div></div>
+<p><br></p>
+<ul><li>你覺得靠岸對你來說的意義是?</li></ul><div class="vote-block"><div class="vote-page" data-section="4" data-vote-page="靠岸/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E9%9D%A0%E5%B2%B8/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=4">編輯投票選項</a></span></div></div>
+<p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=11" title="編輯章節：相關連結" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><a href="/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB%E6%9C%88%E5%88%8A" title="台灣漫畫月刊">台灣漫畫月刊</a>-邪神漫畫霸主</li>
+<li><a href="/%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89" title="腳趾上的星光">腳趾上的星光</a>-來勢洶洶的挑戰者</li>
+<li><a href="/%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E" title="重甲機神">重甲機神</a>-本作目前最大挑戰者</li>
+<li><a href="/%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81" title="台灣ACG發展情況">台灣ACG發展情況</a></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a rel="nofollow" class="external text" href="http://www.bilibili.com/video/av721925">B站上的備份（已被刪）</a></span></s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="意見"></span><span class="mw-headline" id=".E6.84.8F.E8.A6.8B">意見</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=12" title="編輯章節：意見" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<p><a href="/%E8%A8%8E%E8%AB%96:%E9%9D%A0%E5%B2%B8" title="討論:靠岸">討論:靠岸</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E9%9D%A0%E5%B2%B8&amp;action=edit&amp;section=13" title="編輯章節：備註" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">其實這個金額是春水堂到推出靠岸前所有旗下作品的總經費總和</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://tw.news.yahoo.com/article/url/d/a/100312/5/21xbu.html">中央社：靠岸褒貶不一　阿貴自評90分</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.books.com.tw/exep/prod/dvd/dvdfile.php?item=D020032163">博客來DVD館代售中</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/%E5%B0%91%E5%B9%B4%E6%BC%AB%E7%95%AB%E7%9A%84%E7%A6%81%E5%BF%8C" title="少年漫畫的禁忌">見少年漫畫的禁忌的回應部分</a></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=靠岸&amp;oldid=391527">https://wiki.komica.org/index.php?title=靠岸&amp;oldid=391527</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E9%9D%A0%E5%B2%B8"
+				data-user-name="Fong Houlen"
+				data-user-gender="unknown"
+				data-timestamp="1654139749">
+				最後編輯於 2022年6月2日 (週四) 11:15
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E9%9D%A0%E5%B2%B8&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.093","ppvisitednodes":{"value":337,"limit":1000000},"ppgeneratednodes":{"value":758,"limit":1000000},"postexpandincludesize":{"value":5383,"limit":2097152},"templateargumentsize":{"value":1610,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1331,"limit":5000000},"timingprofile":["100.00%   37.586      1 -total"," 11.80%    4.436     13 模板:Censored","  7.53%    2.832      4 模板:Vote","  3.83%    1.441      1 模板:H0"]},"cachereport":{"timestamp":"20221026101930","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92});});</script>		</body>
+		</html>
+		

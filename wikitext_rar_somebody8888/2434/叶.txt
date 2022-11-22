@@ -1,0 +1,104 @@
+{{h0|{{ruby|叶|かなえ}}}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub|本條目[[:分類:需要擴充的條目|內容不足需要擴充]]，歡迎有興趣的叶え隊加以補完}}
+|}
+
+[[檔案:叶.png|right|300px]]
+{{size|24|{{color|#ABD3D8|#000000|'''にじさんじゲーマーズ一番槍～<br>《ライトニング・ゲイボルグ》叶です～'''}}}}
+
+== 基本資料 ==
+* にじさんじ所屬虛擬Liver，にじさんじGAMERS第1期成員。
+** 人設是{{twitter|u_skeeep|name=U助}}。
+* 設定上是如天使一般降臨的超療癒系男子，總是抱著一個黑貓抱枕。
+
+== 人物特點 ==
+* 長時間配信之鬼，出道直播就播了'''548分鐘'''不提，幾乎每天都會開直播，直播總時長與單日平均時長都是社內之最。
+* 在本社掀起了ARK熱潮的四皇之一，另外三人請見下述。
+
+== 主要事紀 ==
+=== 2018年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 5月1日
+| YouTube頻道開始活動，首次發布自我介紹短片。
+|-
+! width="80px" | 5月2日
+| 作為にじさんじGAMERS第1期成員，與赤羽葉子同時公開活動訊息。<br>同日發布了長達'''548分鐘'''的YouTube初次直播。
+|-
+! width="80px" | 7月17日
+| 與[[葛葉]]組成組合ChroNoiR。
+|-
+! width="80px" | 8月20日
+| 在openrec.tv開始ChroNoiR.TV企劃。
+|}
+
+=== 2019年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 4月20日
+| YouTube訂閱達到10萬銀盾。
+|-
+! width="80px" | 7月7日
+| 生日直播，發布第一首原創曲「叶わないという事」
+|-
+! width="80px" | 8月30日
+| ChroNoiR.TV企劃第十刻（最終回）。
+|}
+
+=== 2020年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月1日
+| 以ChroNoiR名義進行初次直播
+|-
+! width="80px" | 12月26日
+| YouTube訂閱達到50萬。
+|}
+
+=== 2021年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 8月1日
+| 參加「NIJISANJI AR LIVE“Light up tones”」，公布新3D形象。
+|}
+
+=== 2022年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月20日
+| 因為確診武漢肺炎的緣故，停止「NIJISANJI四周年紀念DAY2」的活動。
+|-
+! width="80px" | 5月14日
+| YouTube訂閱達到100萬金盾，為社內第二位達到金盾的Liver。
+|}
+
+== 人際關係 ==
+* 赤羽葉子
+** 同期，兩人組合名為「叶え葉」。
+
+* [[葛葉]]
+** 同為GAMERS所屬，兩人組合名為「ChroNoiR」。
+
+* 渋谷ハジメ、本間ひまわり、夜見れな
+** ARK四皇的另外三人。
+
+== 軼事 ==
+
+== 相關條目 ==
+* '''[[KomicaWiki]]條目'''
+** [[虛擬Youtuber]]
+** [[にじさんじ]]
+
+* '''外部連結'''
+** [https://www.nijisanji.jp/members/kanae 官方介紹頁]
+** 影片頻道：{{youtube|c=UCspv01oxUFf_MTSipURRhkA|title=YouTube}}
+** 社交媒體：{{twitter|Kanae_2434|name=Twitter帳戶}}
+** 維基類連結：[https://wikiwiki.jp/nijisanji/%E5%8F%B6 にじさんじ非公式wiki]、[https://dic.nicovideo.jp/a/%E5%8F%B6%28%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98%29 ニコニコ大百科]、[https://dic.pixiv.net/a/%E5%8F%B6%28%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98%E3%82%B2%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%BA%29 ピクシブ百科]、[https://zh.moegirl.org.cn/%E5%8F%B6(%E8%99%9A%E6%8B%9FUP%E4%B8%BB)# 萌娘百科]
+
+{{虛擬YouTuber}}
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+
+[[分類:虛擬YouTuber]]
+[[分類:網路文化]]
+[[分類:にじさんじ]]

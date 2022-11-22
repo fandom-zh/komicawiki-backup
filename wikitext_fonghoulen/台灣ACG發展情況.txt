@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>台灣ACG發展情況 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"台灣ACG發展情況","wgTitle":"台灣ACG發展情況","wgCurRevisionId":378319,"wgRevisionId":378319,"wgArticleId":35689,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"台灣ACG發展情況","wgRelevantArticleId":35689,"wgRequestId":"a06ba692bae4ab87e43c8bbb","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-台灣ACG發展情況 rootpage-台灣ACG發展情況 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">台灣ACG發展情況</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">台灣ACG發展情況</div>
+<table class="wikitable" style="margin: 1.5em auto;text-align:center;"><tbody><tr><td>本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr></tbody></table><p><br></p>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="序言"></span><span class="mw-headline" id=".E5.BA.8F.E8.A8.80">序言</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=1" title="編輯章節：序言" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>以目前台灣情況來說，台灣的<a href="/ACG" title="ACG">ACG</a>文化產業鏈可說是半死不活；造成這一切的成因從環境、政策、市場、題材創意、大眾觀感等等都可能是問題所在。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="動畫發展"></span><span class="mw-headline" id=".E5.8B.95.E7.95.AB.E7.99.BC.E5.B1.95">動畫發展</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=2" title="編輯章節：動畫發展" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span id="20世紀"></span><span class="mw-headline" id="20.E4.B8.96.E7.B4.80">20世紀</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=3" title="編輯章節：20世紀" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>七零年代創作為中國的傳統題材為主，但當時票房不佳且嚴重虧損，而多數臺灣動畫師還是以代工美日動畫。</li>
+<li>八零年代替美國動畫代工的宏廣公司事業達到了巔峰，日本動畫方面卻因薪資及中日斷交的關係，逐漸將代工轉向中國和韓國。</li>
+<li>九零年代臺灣新聞局開始有輔導金制度，1998年開始成立動畫相關系所培養動畫人才，同時臺灣動畫在國際動畫影展上獲得肯定，讓動畫產業達到一定的提昇效果。</li>
+<li>因此八九零年代可說是台灣動畫的全盛期，那時台灣的文創素質上都相當的水準。
+<ul><li>蔡志忠曾經在遠東卡通指導過很多動畫電影，像是1981年開始的《老夫子》三部曲、1983年的《烏龍院》和1994年較鮮為人知的《禪說阿寬》。</li>
+<li>1995年8月，協和影視改編林政德原作的《YOUNG GUNS》和日本合作的兩集OVA、機車廣告，甚至還有LA BOYZ唱主題曲。</li>
+<li>1998年推出由王小棣導演，漫畫家麥仁杰負責造型設計、分鏡，不管主題、劇情還是作畫上都可被視為台灣之光的《魔法阿媽》。
+<ul><li>然而，《魔法阿媽》雖然入圍第35屆金馬獎最佳動畫片作品名單，但最後並沒有成功奪下金馬獎最佳動畫片。
+<ul><li>在《電影檔案：第35屆金馬影展得獎影片》一書上透露，評審黃木村認為此片沒有用電腦特效而過於老舊、粗糙，另外<b>劉立行、貢敏、王清華</b>等評審則批評內容宣揚迷信、怪力亂神而落選。</li></ul></li>
+<li>不過有一點必須特別強調：<b>魔法阿媽並不是台灣動畫的全部，沒有獲獎也不代表台灣動畫就這麼完了</b>。</li></ul></li>
+<li>同樣在1998年7月2日全台首播的<a href="/%E6%B0%B4%E6%9E%9C%E5%86%B0%E6%B7%87%E6%B7%8B" title="水果冰淇淋">水果冰淇淋</a>節目也是台灣動畫全盛期的產物之一。
+<ul><li>至今為止，有一部分知名台灣原創動畫曾與該節目合作共演或者是以小品動畫表現。</li></ul></li></ul></li></ul><h3 class="in-block"><span id="21世紀"></span><span class="mw-headline" id="21.E4.B8.96.E7.B4.80">21世紀</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=4" title="編輯章節：21世紀" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>千禧年前後剛好是台灣網路萌芽的年代，春水堂的《阿貴》、在線上的《訐譙龍》等FLASH動畫都已經紅遍大街小巷。
+<ul><li>當時伴隨大眾運輸系統引進車上電視，也有不少短篇FLASH動畫趁此機會加入公車電視動畫的爭霸戰。</li>
+<li>然而從2007年開始，隨著媒體主流從公車電視逐漸轉向串流影音，大多數公車電視也因重複撥放引來抗議而逐漸消失，這些失去主要舞台的FLASH動畫公司沒有跟著轉型，因而逐漸沒落。</li></ul></li>
+<li>2000年代有推出中國傳統故事改編的《梁山伯與祝英台》、《紅孩兒決戰火焰山》、《海之傳說-媽祖》等電影，雖然製作上有規有矩，但就劇情氣氛實在是差強人意。</li>
+<li>到了2010年代，更出現以大資金噱頭、素質卻讓人傻眼的<b>曠世巨作</b>，如《<a href="/%E9%9D%A0%E5%B2%B8" title="靠岸">靠岸</a>》、《<a href="/%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89" title="腳趾上的星光">腳趾上的星光</a>》、《<a href="/%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E" title="重甲機神">重甲機神</a>》，其評價之差甚至成為網民口中的萬年笑柄。</li>
+<li>有很多人常針對宣稱花多年時間、砸大錢製作的《靠岸》跟同年的《鑑真大和尚》做比較，都認為《鑑真》雖不完美但整體素質比《靠岸》好太多了。</li>
+<li>此外同個時期也還有像《夢見》、《幸福路上》等佳作，但劇情敘述方面並不突出、票房相對成本而言也不亮眼。
+<ul><li>《夢見》主打現實為手繪2D動畫、而在主要冒險舞台的「夢境」則採用純3D動畫的特殊表現方式，甚至也邀請了打造出擅長歌藝的虛擬歌手兼女主角的Mida，評價雖然不賴但僅憑口碑累積出來的票房實在不足以回本。</li>
+<li>《幸福路上》則有送去日本參加東京動畫獎，得到動畫長片評審團大獎東京都知事獎。</li></ul></li>
+<li>21世紀的電視動畫方面，有像《YOYOMAN》、《姆姆抱抱》、《小貓巴克里》、《閻小妹》、《大嬸婆與小聰明》、《吉娃斯愛科學》、《九藏喵窩》、《魔蹤傳奇》等低齡向作品。
+<ul><li>電視動畫中還有跟日韓合作的《摺紙戰士》、《時間支配者》和《軒轅劍·蒼之曜》等青少年向作品，但沒有像當時的《YOUNG GUNS》引起熱潮。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而且《時間支配者》的原作者彭傑還因為前往大陸發展，在社群媒體上的發言<b>十分缺乏台灣價值</b>而遭到眾多<s>玻璃心碎</s>的網友撻伐，最後《時間支配者》動畫也因為真的做的不怎麼好而埋沒於洪流中。</span></li></ul></li>
+<li>另外也有從大型機台出發，被日本物色而改編成短篇動畫的《機甲英雄》，不過評價也相當微妙。</li></ul></li>
+<li>至於林政德、蔡志忠和敖幼祥等老牌創作者，他們都老早跑去對岸那邊去了。
+<ul><li>當然也有像麥仁杰、吳念真等人想為台灣爭光，但以風氣來看能否能讓動畫電影起色還是未知數。</li></ul></li>
+<li>2019年在公視首播的《德哥與皮皮》，不只製作用心連媒體都給予正面評價，可以算是這個年代少見的神作。</li>
+<li>2020年將推出台灣與日本合作的科幻動畫《伊甸》，整體素質如何要等待撥放再商榷。</li>
+<li>2021年6月公視宣布進行animation lab新計畫，預定播出三部動畫。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="漫畫發展"></span><span class="mw-headline" id=".E6.BC.AB.E7.95.AB.E7.99.BC.E5.B1.95">漫畫發展</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=5" title="編輯章節：漫畫發展" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="五六零年代"></span><span class="mw-headline" id=".E4.BA.94.E5.85.AD.E9.9B.B6.E5.B9.B4.E4.BB.A3">五六零年代</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=6" title="編輯章節：五六零年代" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>1953年《學友》雜誌引爆台灣漫畫的潛力，在時事造英雄的情況下，使得很多老字號漫畫家也因此百花齊放，如《小俠龍捲風》的陳海虹、《諸葛四郎》的葉宏甲、獨創鳳眼美女的陳定國、充滿鄉土民情的劉興欽與李費蒙(牛哥)等等。</li>
+<li>1966年國民政府制定<b>編印連環圖畫輔導辦法</b>，由於規定所有漫畫都必須經由國立編譯館審核，不少創作在審查時被百般刁難，而導致有漫畫家因此罷筆，因此台灣ACG界的破壞可追溯至蔣中正國民黨時代。
+<ul><li>例如山巴（邱錫勳）畫一隻會說話的小狗被說是「<b>這小孩子看了會神經病！</b>」，以及劉興欽的《機器人》有自我意識、不需要被遙控而遭到關切等等。</li>
+<li>不過不說台灣，日本跟美國早在1963年跟1954年就分別成立的審查機關，前者至今仍然相當影響日本漫畫界，後者更是直接導致美漫黃金時代結束的推手之一，因此把台灣漫畫起不來的問題全部推給惡法顯然是不負責任的。</li>
+<li>有關連環圖畫輔導辦法究竟是怎麼一回事可以參考<a rel="nofollow" class="external text" href="https://www.slideshare.net/yuyaochen/the-chronical-research-of-taiwanese-comics-in-economics-of-regulations">動漫畫研究者余曜成教授的簡報</a><s>，嫌太長的可以看這篇<a rel="nofollow" class="external text" href="https://www.plurk.com/p/nc7f7y">摘要說明</a></s>。</li></ul></li>
+<li>1966年政府開始嚴格追查任何被視為違法或者沒被送審的漫畫，加上1966年後國立編譯館的審核而變本加厲，相反的<a href="/%E6%B8%AF%E6%BC%AB" class="mw-redirect" title="港漫">港漫</a>市場興起，以至於部分漫畫家轉往香港發展。</li>
+<li>從1966年至1975年來，台灣漫畫在創作量大幅下降，加上盜版日本漫畫和異軍突起的香港漫畫的波及下，在1970年時已經出現了巨大斷層。</li></ul><h3 class="in-block"><span id="七八零年代"></span><span class="mw-headline" id=".E4.B8.83.E5.85.AB.E9.9B.B6.E5.B9.B4.E4.BB.A3">七八零年代</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=7" title="編輯章節：七八零年代" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>1970年初期，社會上充斥著將漫畫視為社會毒瘤的風氣，這時漫畫家牛哥跳出來痛擊國立編編譯館和日本漫畫的猖狂。
+<ul><li>國立編譯館不得已收拾殘局，雖然成功加強對日本漫畫的審核並限制其市場發展，但無法挽回出版界漫畫不足，使得一些新興台灣漫畫家抓住機會將作品往上推銷。</li></ul></li>
+<li>1980年敖幼祥在《中國時報》連載《烏龍院》獲得大成功，1982年漫畫清潔運動後讓台灣漫畫掀起熱潮。
+<ul><li>除了盜版日本漫畫，美國漫畫也遭受池魚之殃，《民生報》在1981年未經過授權刊載《史努比》而被美國出版商抗議，這時《民生報》不得已找敖幼祥畫《超級狗皮皮》墊檔而意外受到迴響。</li>
+<li>1984年《中國時報》舉辦漫畫投稿比賽開始，成功挖掘了無數第一線漫畫家，如蔡志忠、鄭問、朱德庸、阿推、陳弘耀、麥仁杰、高永、游素蘭等等。</li></ul></li>
+<li>1987年7月14日台灣宣布解嚴，<b>編印連環圖畫輔導辦法</b>隨之廢除，在缺乏控管的情況下日本漫畫大量佔據市場，使本來出版量就不是很大的台灣漫畫再次陷入危機。</li></ul><h3 class="in-block"><span id="九零年代"></span><span class="mw-headline" id=".E4.B9.9D.E9.9B.B6.E5.B9.B4.E4.BB.A3">九零年代</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=8" title="編輯章節：九零年代" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>九零年代初期以來，各大漫畫書刊在台灣陸續出爐，如《少年快報》、《星期漫畫》、《公主快報》、《漢堡漫畫》、《龍少年》、《星少女》等等。
+<ul><li>九零年代盜版仍然進行，當時劉明昆、許培育、孫家裕、楊永明等台灣漫畫家對青文出版社的《<a href="/%E5%93%86%E5%95%A6A%E5%A4%A2" title="哆啦A夢">機器貓小叮噹</a>》進行<b>二次創作</b>非常盛行。</li>
+<li>那時台灣漫畫會刊登在日本主題的漫畫雜誌中，如《寶島少年》連載賴有賢的《小和尚》、《熱門少年TOP》連載艾雷迪的《蜥蜴超人》和林政德的《YOUNG GUNS》、《新少年快報》連載唐靉的《滾球王》和任正華的《頑劣家族》等。</li></ul></li>
+<li>同樣隨著時代演變，很多漫畫雜誌因為台灣市場小加上競爭激烈，抵抗不了銷售量逐漸慘淡還有數位媒體的興起，不是轉向網路連載就是停刊，如青文的《王牌小子》、《巨彈小子》、《強棒》；長鴻的《美少女》；尖端的《V.KIDS勝利小子》等。</li></ul><h3 class="in-block"><span id="21世紀_2"></span><span class="mw-headline" id="21.E4.B8.96.E7.B4.80_2">21世紀</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=9" title="編輯章節：21世紀" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>雖然台灣漫畫在90年代末期逐漸重回正軌，但2004年12月政府頒行〈出版品分級辦法〉，又重挫了一次出版業。
+<ul><li>該辦法幾乎跟編印連環圖畫輔導辦法如出一轍的審查出版品，雖然並不是審查未過禁止出版而是會根據審查結果不同而給予不同分級，然而<b>分級的標準卻是交給地方行政機構自行判定</b>。</li>
+<li>加上分級僅有分成普遍級與限制級，且規定<b>店家違規擺出限制級作品將科以「最重停業一年」的重罰</b>，使得眾多書店與租書店為了避免被罰影響生計而不得不撤下眾多書籍。
+<ul><li>由於ACG本身也可能因為暴力、情色等因素被擅自認定為是限制級，因此這項規則對台灣的ACG發展也相當於一記重槌。</li></ul></li>
+<li><s>更扯的是當時的新聞局長林佳龍還刻意在台中舉辦的世界書展上邀了兩名模特兒一起做<b>燒毀限制級書刊</b>的秀...</s></li>
+<li>因此「出版品分級辦法」可說是「編印連環圖畫輔導辦法」精神上的延續。</li></ul></li>
+<li>由「補助發行定期刊物」的扶植措施下，東立的《龍少年》、《星少女》復刊，台北市漫畫工會的《GO創意漫畫誌》創刊，此外全力出版社以獨資1500萬創立《挑戰者》月刊於2004年5月時發行，在政府鼎力相助下台灣漫畫展現出難的台灣漫畫主題雜誌。
+<ul><li>遺憾的是在沒銷量刺激、敏銳度過低加上台灣漫畫在當時佔有率低下，導致《GO創意漫畫誌》在2007年停掉補助直接停刊，之後政府補助改由2007年博海文化出品的《BINGO樂透漫畫月刊》，但其品質慘不忍睹而在2009年不幸陣亡。</li>
+<li>相對的《挑戰者》用心良苦挖掘出在至今還不斷活躍的漫畫家，如林迺晴、彭傑、VOFAN、張季雅等，可是面對銷路問題和成本入不敷出而使資金見底，以致《挑戰者》在2008年準備停刊時不少國人<a href="/%E9%99%B0%E5%BD%B1%E4%BA%BA" title="陰影人">對此一無所知</a>，之後全力出版社將連載作品轉至網路的Comicomi，結果2010年時因稿費問題造成《星光墜在希伯來》停刊，連帶造成大部分漫畫家走人，以致Comicmoi成為停擺狀態。</li></ul></li>
+<li>在「挑戰2008： 國家發展重點計畫」出現一項「數位典藏家型科技計畫」的子項目，2009年1月《CCC創作集》順利誕生。
+<ul><li>初期《CCC創作集》在各同人活動和國際書展等場合進行免費兌換，內容不管是對於台灣特色運用、藝術價值還是整體品質都相當出色，再加上集結許多新秀漫畫家，如AKRU、簡嘉誠、張季雅、蕭乃中、艾姆兔等，經過一年的苦心下終於打響名號而擄獲不少國人芳心，《CCC創作集》無疑成為了傑出的本土漫畫雜誌。</li>
+<li>不過相對的，因為是國家贊助的關係，能夠使用的題材也相當有限制，且很容易受到國策的影響算是一大隱憂。</li>
+<li>2021年初CCC一度面臨停刊危機，所幸後來解除了。</li></ul></li>
+<li>令人匪夷所思的是，2011年7月6日創刊名為《<a href="/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB%E6%9C%88%E5%88%8A" title="台灣漫畫月刊">台灣漫畫月刊</a>》的漫畫雜誌，並號稱是全台第一全彩本土漫畫月刊，由於連載作品品質不堪入目、內容低劣、濫竽充數引起了非常多人砲轟，短時間內於7月15日立即停刊。</li>
+<li>在智慧手機和平板電腦普及的情況下，紙本雜誌的重要性逐漸下降，過往沒有見度的漫畫可以藉由網路進行連載，以品質、口碑和網路平台的宣傳下來累積人氣，日後發行單行本時也不會因為知名度不夠而煩惱銷量問題。</li>
+<li>此外，台灣直到現在還是有許多繪師在同人展活躍，但是苦於台灣缺乏足夠的市場，不得已只好跨洋輾轉到日本發展的例子時有所聞。</li>
+<li>如今很多漫畫家已經在兒童教育月刊和報紙上連載漫畫，如已去世的張友誠和彭永成、參與漫畫教學的易水翔麟、《機甲盤古》的林迺晴、《Miss阿性》的李勉之、《KANO》的陳小雅等。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="遊戲發展"></span><span class="mw-headline" id=".E9.81.8A.E6.88.B2.E7.99.BC.E5.B1.95">遊戲發展</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=10" title="編輯章節：遊戲發展" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<h3 class="in-block"><span id="1990年代"></span><span class="mw-headline" id="1990.E5.B9.B4.E4.BB.A3">1990年代</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=11" title="編輯章節：1990年代" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>台灣的遊戲在90年代算是有輝煌過的黃金期，也是DOS還在盛行的時代，作為台灣遊戲的三巨頭-大宇、智冠和精訊都是在這時期活躍的。</li>
+<li>三巨頭都在一開始代理海外遊戲，但可能就是代理太多因而決定開發以中國武俠風格的DOS遊戲，分別是精訊的武俠式<a href="/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%E7%B3%BB%E5%88%97" title="勇者鬥惡龍系列">DQ</a>《俠客英雄傳》、智冠的畫中<a href="/%E7%A9%BF%E8%B6%8A%E5%B0%8F%E8%AA%AA" class="mw-redirect" title="穿越小說">穿越故事</a>《神州八劍》和大宇的萬年長青樹《<a href="/%E8%BB%92%E8%BD%85%E5%8A%8D%E7%B3%BB%E5%88%97" title="軒轅劍系列">軒轅劍</a>》。
+<ul><li>隨後智冠從<a href="/%E9%87%91%E5%BA%B8" title="金庸">金庸</a>那取得版權後，將《笑傲江湖》、《倚天屠龍》等武俠小說改編成遊戲，另外旗下的河洛工作室還開發了將金庸小說人物大雜燴的《<a href="/%E9%87%91%E5%BA%B8%E7%BE%A4%E4%BF%A0%E5%82%B3" title="金庸群俠傳">金庸群俠傳</a>》。</li>
+<li>大宇方面也不負眾望，在這時期推出了很多多元題材的國產遊戲，像是與軒轅劍齊名的中式RPG《<a href="/%E4%BB%99%E5%8A%8D%E5%A5%87%E4%BF%A0%E5%82%B3%E7%B3%BB%E5%88%97" title="仙劍奇俠傳系列">仙劍奇俠傳</a>》、主打美少女的回合戰略遊戲《<a href="/%E5%A4%A9%E4%BD%BF%E5%B8%9D%E5%9C%8B%E7%B3%BB%E5%88%97" title="天使帝國系列">天使帝國</a>》、栽培偶像明星的養成遊戲《<a href="/%E6%98%8E%E6%98%9F%E5%BF%97%E9%A1%98%E7%B3%BB%E5%88%97" title="明星志願系列">明星志願</a>》、諷刺社會亂象的可愛風RPG《<a href="/%E9%98%BF%E8%B2%93%E9%98%BF%E7%8B%97" title="阿貓阿狗">阿貓阿狗</a>》，以及比軒轅劍還要早推出的圖版遊戲《<a href="/%E5%A4%A7%E5%AF%8C%E7%BF%81" title="大富翁">大富翁</a>》等經典。</li></ul></li>
+<li>同時這時的宇峻科技推出了不少佳作，例如《超時空英雄傳說》、《三國群英傳》、《幻世錄》和《新絕代雙驕》等。</li>
+<li>此外其他遊戲公司都靠著自己的招牌打響名號，像弘煜科技的日漫風RPG《風色幻想》、明日工作室的大富翁風圖版遊戲《虛擬人生》、富峰群的模擬經營遊戲《便利商店》、漢堂的戰略RPG《炎龍騎士團》和武俠RPG《天地劫》等。</li>
+<li>如上述，台灣遊戲創作界的整體實力僅止於PC GAME。</li></ul><h3 class="in-block"><span id="2000年代"></span><span class="mw-headline" id="2000.E5.B9.B4.E4.BB.A3">2000年代</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=12" title="編輯章節：2000年代" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>這時台灣開始掀起了OnlineGame熱潮，很多遊戲公司開始專攻網遊，使得一些經典款系列有出新作以外，其他單機遊戲都因遭受波及而沒落。</li>
+<li>頗開從韓國、日本和歐美代理的作品，台灣自製的OnlineGame代表有中華網龍的《金庸群俠傳》、鈊象電子的《唯舞獨尊》、大宇的《飛天歷險》等。</li>
+<li>在那時候開始中國大陸的遊戲產業逐漸崛起，加上大宇資訊等公司的確成功把遊戲外銷到大陸，事後也造成很多台灣的老牌遊戲公司一個個整形變成大陸的形狀。
+<ul><li>這一切說穿了，就是多數台灣公司甚至整個台灣社會短視近利的風氣造的孽，這狀況直到2010年後才稍微緩和一些。</li>
+<li>但時至今日台灣最多人課金的手機遊戲是中老年人間流行的賭博遊戲，或是《天堂M》、《RO仙境傳說》等真正的重課遊戲。</li></ul></li></ul><h3 class="in-block"><span id="2010年代至今"></span><span class="mw-headline" id="2010.E5.B9.B4.E4.BB.A3.E8.87.B3.E4.BB.8A">2010年代至今</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=13" title="編輯章節：2010年代至今" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>由於Steam和獨立遊戲公司在遊戲界崛起，世界各地的遊戲愛好者都開始展現出自己的作品推上國際舞台，而台灣的新興遊戲團隊伴隨著這個契機遠名海外，如精緻創新的雷亞、主打恐怖遊戲的赤燭和主打搞怪格鬥遊戲的數位卡夫特。
+<ul><li>2011年9月成立的雷亞遊戲以題材多元、品質精良和多平台發行稱著，作品有嚴肅科幻風的《Cytus》、黑暗童話風的《DEEMO》、與外星異形戰鬥的《Implosion》、以高中生作為主角的《VOEZ》、以奇幻世界為舞台的《Sdorica 萬象物語》、卡牌策略遊戲《Soul of Eden》，以及為信仰遊戲代理的《MO：Astray 細胞迷途》等。</li>
+<li>2015年9月成立的赤燭遊戲主打以台灣本土為背景的恐怖遊戲，目前有《<a href="/%E8%BF%94%E6%A0%A1" title="返校">返校</a> Detention》和《<a href="/%E9%82%84%E9%A1%98" title="還願">還願</a> Devotion》兩大招牌，雖然成功外銷海外，後者卻因為不慎踩到<a href="/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%9A%84%E5%AF%A9%E6%9F%A5%E5%88%B6%E5%BA%A6" title="中國大陸的審查制度">中共的地雷</a>而引發爭議。</li>
+<li>而數位卡夫特則是主打格鬥遊戲，目前的招牌有《眾神之鬥 Fight of Gods》、《動物之鬪 Fight of Animals》以及《鋼鐵之鬪：無限之戰 Fight of Steel: Infinity Warrior》，其風格往往奇葩且怪誕不經。</li></ul></li>
+<li>2020年以來有希萌創意發行的《小魔女諾貝塔》、SIGONO的《OPUS》、maJAJa的《餐癮地城》、光穹的《棄海：波弟大冒險》、創遊的《廖添丁-稀代兇賊の最期》、Team9的《文字遊戲》、JERA的《Dusk Diver 酉閃町》等獨立製作作品問世，且在海外小有名氣。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="台灣ACG發展不順利的根本原因"></span><span class="mw-headline" id=".E5.8F.B0.E7.81.A3ACG.E7.99.BC.E5.B1.95.E4.B8.8D.E9.A0.86.E5.88.A9.E7.9A.84.E6.A0.B9.E6.9C.AC.E5.8E.9F.E5.9B.A0">台灣ACG發展不順利的根本原因</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=14" title="編輯章節：台灣ACG發展不順利的根本原因" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<h3 class="in-block"><span id="台灣市場本來就不大"></span><span class="mw-headline" id=".E5.8F.B0.E7.81.A3.E5.B8.82.E5.A0.B4.E6.9C.AC.E4.BE.86.E5.B0.B1.E4.B8.8D.E5.A4.A7">台灣市場本來就不大</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=15" title="編輯章節：台灣市場本來就不大" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>雖然這個答案很傷人，但<b>台灣市場的確沒你我想像的那麼大</b>。</li>
+<li>日本市場再怎麼萎縮，至少還是有1.2億的人口數，更別提中國有10多億人口，就算作品品質再差總有能養得起來的市場<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>。</li>
+<li>然而台灣不論如何，大概2500萬就已經是極限（不到日本人口的1/4）；而市場主流還是偏向購買日本漫畫的情況下，使得台灣ACG不管如何就是無法單憑台灣自家市場就能回本。
+<ul><li>也因市場真的很小，因此產業只要有個風吹草動加上青黃不接的狀況就很容易陷入危機。</li></ul></li>
+<li>即使不須翻譯的最大市場就在台灣的隔壁，台灣創作界因政治干擾的緣故，導致一些主流創作者並不願意爭取其市場。
+<ul><li>不過大陸的社會風氣的確沒有台灣開放就是了，主要就是中共<s>焚化部</s>對<a href="/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%9A%84%E5%AF%A9%E6%9F%A5%E5%88%B6%E5%BA%A6" title="中國大陸的審查制度">創作題材控制嚴厲</a>，任何有政府、國家、民族不利的內容都被視為<a href="/%E6%88%90%E5%8F%A5/%E9%80%99%E6%98%AF%E7%A6%81%E6%AD%A2%E4%BA%8B%E9%A0%85" title="成句/這是禁止事項">禁忌</a>，加上多數中國民眾的觀念已和其他國家有不小差距，任何推廣至中國市場的作品只要稍有不慎就會引來<b>炎上</b>。
+<ul><li>例如沒什麼政治要素的《還願》，就是因為在彩蛋使用「習近平小熊維尼」等在中國引起大陸民眾撻伐的梗，<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>觸發兩岸網民在Steam的衝突而在中國（後來變成全球）被迫下架，甚至連以白色恐怖為題材的《返校》都<s>不意外</s>跟著遭殃而封殺。</li>
+<li>而後來赤燭自己開一個遊戲平台把它上架。
+<ul><li><s>中國民眾：我喜歡XX，但是我更愛祖國，所以請你去死吧。</s></li>
+<li>追根究柢來講就是在於<b>中共對於管控的標準確實太過浮動難以捉摸</b>，就連大陸本土的創作也會因為被抓到一些把柄而被批評、封殺的狀況。</li></ul></li>
+<li>但上述原因除了對中共的厭惡外，更多創作者藉由嘲諷的方式來表達文字獄的不滿，實際上多數國家也有對於特定對象相關的諷刺型創作。</li></ul></li>
+<li>由此可見，兩岸政府對彼此出版品的審查標準已經天差地遠，造成台灣的主流創作界不願意或沒辦法前往中國大陸發展的主要原因<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>。</li></ul></li></ul><h3 class="in-block"><span id="過於忽視故事的劇情和表現手法之重要性"></span><span class="mw-headline" id=".E9.81.8E.E6.96.BC.E5.BF.BD.E8.A6.96.E6.95.85.E4.BA.8B.E7.9A.84.E5.8A.87.E6.83.85.E5.92.8C.E8.A1.A8.E7.8F.BE.E6.89.8B.E6.B3.95.E4.B9.8B.E9.87.8D.E8.A6.81.E6.80.A7">過於忽視故事的劇情和表現手法之重要性</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=16" title="編輯章節：過於忽視故事的劇情和表現手法之重要性" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>台灣主流創作在故事敘述方面非常薄弱、缺乏吸引力之類的問題已經不是一天兩天的事了。
+<ul><li>同時近期幾年除了上述的以及市場相關的問題外，還有衍生出人物與各種設定、畫面流暢度不嚴謹的情形。</li>
+<li>有一部分提到的科普和動植物相關知識也有以上類似的問題，同時會有誤導小朋友觀眾的疑慮<s>雖然有些作者會表示說那是博君一笑</s><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>。</li>
+<li>經常為了<a href="/%E5%BE%A1%E9%83%BD%E5%90%88%E4%B8%BB%E7%BE%A9" title="御都合主義">故事上的方便</a>而產生出除了奇幻與科幻題材外幾乎不合理的劇情發展，同時有些是上個世紀劇本家常用的。
+<ul><li>例如主角落入<b>河水</b>時出現大白鯊、遇到船難時剛好有海豚出現且直接帶往剛好在附近的荒島上。</li>
+<li><s>只要製作組表示說那是給幼童觀賞的小動畫就不會有問題，但是當初的觀眾長大後再看個幾次的話…</s></li></ul></li></ul></li>
+<li>常常使用老舊題材也是一個問題：
+<ul><li>像《蝴蝶夢》、《紅孩兒》和《媽祖》這些以中國古典改編的國產動畫片在故事表現方面都有明顯的千瘡百孔。</li>
+<li>此外《夢見》的雙主角線和《幸福路上》的收尾其實上表現非常突兀，雖然不完美但還是很用心的良作了。</li></ul></li>
+<li>相對的，台灣的創作市場卻很偏重畫技，因此創作者出刊的畫冊相當多，然而正因為劇本問題使得大多數的連環漫畫創作劇情都相當抱歉。</li></ul><h3 class="in-block"><span id="缺乏擅長市場調查與行銷能力的人才"></span><span class="mw-headline" id=".E7.BC.BA.E4.B9.8F.E6.93.85.E9.95.B7.E5.B8.82.E5.A0.B4.E8.AA.BF.E6.9F.A5.E8.88.87.E8.A1.8C.E9.8A.B7.E8.83.BD.E5.8A.9B.E7.9A.84.E4.BA.BA.E6.89.8D">缺乏擅長市場調查與行銷能力的人才</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=17" title="編輯章節：缺乏擅長市場調查與行銷能力的人才" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><s>其實是老生常談，各國遊戲廣告比一比台灣的遊戲廣告就是莫名其妙的無趣自HIGH。</s>
+<ul><li>即便是已經正常很多的《軒轅劍》在廣告方面常常得不到位，例如做為單機遊戲的《漢之雲》、《雲之遙》的PV沒有遊戲系統簡介，就連宣傳詞與使用的影片橋段都很奇怪，也讓不少人直搖頭，而這宣傳落漆的問題卻是直到最新的《穹之扉》與《軒轅劍柒》都沒有看到大宇想花心思改善。</li></ul></li>
+<li>動畫還很缺乏善於掌握市場需求的製作人，因此製作出來的作品也相當慘烈。
+<ul><li>同樣因為缺乏市場敏銳度，使得一般而言大多作品都不容易拉到贊助，能動用的預算自然也變少，而形成做出來的作品同樣很糟的惡性循環。</li></ul></li>
+<li>而在漫畫方面，擅長分析市場需求的編輯也是少之又少。
+<ul><li>不過台灣在市場不健全的狀態下，編輯本身負擔的工作已經相當多，又有十足的業績壓力，這方面的惡性循環恐怕也不是一下子就能解決的。</li></ul></li>
+<li>同時還有更麻煩的問題是台灣的IP經營人手實在很不健全，各大地區發展IP都往多媒體同時發展<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>，但台灣在這方面實在相當欠缺。
+<ul><li>少數這種多媒體同時發展還有點成績的大概就《軒轅劍》和《機甲英雄》，不過似乎也就只有這兩個IP很成功<s>其中《軒轅劍》甚至還有點像吃老本</s>。</li></ul></li></ul><h3 class="in-block"><span id="台灣上層和出資方的心態問題"></span><span class="mw-headline" id=".E5.8F.B0.E7.81.A3.E4.B8.8A.E5.B1.A4.E5.92.8C.E5.87.BA.E8.B3.87.E6.96.B9.E7.9A.84.E5.BF.83.E6.85.8B.E5.95.8F.E9.A1.8C">台灣上層和出資方的心態問題</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=18" title="編輯章節：台灣上層和出資方的心態問題" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>在政府輔助這方面來看，光是要在有限的時間內拿出成品來，再加上台灣的大戶老是愛炒房，這對有心創作的人來說實在難上加難<s>除非不加盟政府輔助，或者運用各種手段除掉全台灣的炒房制度，否則一點希望都沒有</s>。
+<ul><li>此外一定要強調有台灣或中華傳統文化的要素也是個大問題，像是李安導演的《少年PI》因為沒有台灣元素而被揚言拿回輔助款的情況。</li></ul></li>
+<li>故宮博物院曾經展出已故漫畫家鄭問的作品，結果典藏雜誌社社長表示<b>故宮不應該舉辦屬於通俗文化的漫畫展</b>，最後引來漫畫家和愛好者的反彈聲浪。</li>
+<li>另一方面，本來商業就是在商言商，出錢的就是老大，就像日本動畫也常因出資者/製作委員會的關係而出現爛作，這是世界各地都有的問題。</li>
+<li>遊戲方面由於完全pay to win的手遊過於暴利，除了偶有單機良作也難有進展。
+<ul><li>民間以及部分議員已在推行轉蛋法，但能否入法仍是未知數。</li></ul></li></ul><h3 class="in-block"><span id="其他東方國家已成功發展ACG，台灣準備好了嗎？"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96.E6.9D.B1.E6.96.B9.E5.9C.8B.E5.AE.B6.E5.B7.B2.E6.88.90.E5.8A.9F.E7.99.BC.E5.B1.95ACG.EF.BC.8C.E5.8F.B0.E7.81.A3.E6.BA.96.E5.82.99.E5.A5.BD.E4.BA.86.E5.97.8E.EF.BC.9F">其他東方國家已成功發展ACG，台灣準備好了嗎？</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=19" title="編輯章節：其他東方國家已成功發展ACG，台灣準備好了嗎？" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>不提已發展多年的日本，同為東方文化圈的中、韓、東南亞在ACG方面也已經成功進軍海外，甚至在台灣發行，就算是沒代理的也在網上小有名氣。</li>
+<li>中國大陸：那邊雖然有不少壞鍋粥的鼠屎和<a href="/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%9A%84%E5%AF%A9%E6%9F%A5%E5%88%B6%E5%BA%A6" title="中國大陸的審查制度">變態的政府審核</a>，但近年也不斷進步，推出了不少有一定水準的佳作。
+<ul><li>動畫方面有像《大聖歸來》、《白蛇緣起》<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>、《哪吒之魔童降世》、《羅小黑戰記》及其電影版等等<s>，至於《大魚海棠》因為劇情太無聊+導演的問題發言引起爭議就又是另外一回事了</s>。</li>
+<li><s>台灣<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">PTT</span>鄉民：成天講這些<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">支那</span>動畫有進步，我們又看不到又懶得看——<br>編者：那就自己去找<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">資源</span>啊！還有你是當他們開的YouTube頻道被吃了嗎？</s></li>
+<li>電玩方面有《<a href="/%E5%B4%A9%E5%A3%9E3rd" title="崩壞3rd">崩壞3rd</a>》、《<a href="/%E5%8E%9F%E7%A5%9E" title="原神">原神</a>》、《<a href="/%E5%B0%91%E5%A5%B3%E5%89%8D%E7%B7%9A" title="少女前線">少女前線</a>》、《<a href="/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F" title="明日方舟">明日方舟</a>》等海外叫好叫座的手遊，此外在風格上貼近日系動漫風而不是傳統中國古典風<s>至於<a href="/%E5%8E%9F%E5%89%B5%E9%A2%A8%E8%A1%8C" title="原創風行">原創風行</a>的爭議另當別論吧</s>。</li></ul></li>
+<li>南韓：在以前就對ACG產業煞費苦心，《賤兔》、《呆呆熊》、《逗逗蟲》等搞笑動畫都成功行銷各國，更別說數不清的OnlineGame和網路漫畫了。</li>
+<li>東南亞：雖處於產業鏈底端，但還是有大部分動畫公司擔任外包工作，而動畫公司擁有33%的原創IP。</li>
+<li>泰國：目前成功行銷海外的代表性作品有動畫電影《暹羅訣：九神戰甲》和恐怖遊戲《Home Sweet Home》。</li>
+<li>馬來西亞：也是盛產漫畫的國家之一，作品還成功推廣海外。
+<ul><li>如經典老牌漫畫《甘榜男孩》、改編成電影的兒童向漫畫《哥妹倆》、惡搞西遊記的網路四格漫畫《西遊筋~唐山葬~》、帶有熱血戰鬥要素的科教漫畫《X-VENTURE》等等。</li>
+<li>曾席捲同人圈的<a href="/%E5%BA%AB%E5%B7%B4%E5%85%AC%E4%B8%BB" title="庫巴公主">庫巴公主</a>就是出自馬來西亞繪師之手。</li></ul></li>
+<li>新加坡：具有理工學院數字動畫專業和共和理工學院遊戲設計專業的專校，目前有推廣海外的兒童向動畫《奇寶萌兵》和《恐龍火車》。
+<ul><li>跟<a href="/%E8%97%8D%E6%BE%A4%E5%85%89" title="藍澤光">藍澤光</a>有表親關係的藍澤祈就是由新加坡微軟分公司祝賀2013年的萌擬人化形象被創造出來的。</li></ul></li>
+<li>印尼：在大量年輕人口和網路普及下使得電玩、電競產業受到重視，像是恐怖遊戲《DreadOut》、文字遊戲《Coffee Talk》等。</li>
+<li>菲律賓：近年推出了漫畫改編的靈異驅魔動畫《靈探特萊絲》。</li></ul><h3 class="in-block"><span id="社會刻板印象"></span><span class="mw-headline" id=".E7.A4.BE.E6.9C.83.E5.88.BB.E6.9D.BF.E5.8D.B0.E8.B1.A1">社會刻板印象</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=20" title="編輯章節：社會刻板印象" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>主條目：<a href="/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E4%BA%82%E8%B1%A1" title="台灣媒體亂象">台灣媒體亂象</a></li>
+<li>台灣不知為何常有將兒童向作品和ACG完全劃上等號的社會現象，還有許多人將之一律視作色情作品。</li>
+<li>加上支持者也因為主流媒體施加的刻板印象幾乎被視作次等人口，導致投入相關興趣常被擁有<s>邪魔歪道價值觀的腦殘</s>家長封殺。</li>
+<li>這個問題在2007的「涼宮春日」事件達到高峰，後來中視集團、TVBS等<s>妖魔鬼怪</s>新聞台的歧視性新聞也對這件事放大檢視。</li>
+<li>經過多年抗爭，今日社會對於ACG的接納度已有提升，但對相關產業<s>尤其是被主流社會洗腦的業者</s>的眼光仍停在過去，仍然有待改變。</li>
+<li>2019年播放的現象級動畫《<a href="/%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83" title="鬼滅之刃">鬼滅之刃</a>》在長輩間紅到出圈，稍稍抵消ACG作品中的一些刻板印象，而《<a href="/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0" title="咒術迴戰">咒術迴戰</a>》在台灣也可能朝這個方向進展。</li></ul><h3 class="in-block"><span id="改善方向"></span><span class="mw-headline" id=".E6.94.B9.E5.96.84.E6.96.B9.E5.90.91">改善方向</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=21" title="編輯章節：改善方向" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><s>還沒有，所以...</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="外部連結"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90">外部連結</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=22" title="編輯章節：外部連結" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a href="/%E5%87%BA%E7%89%88%E7%A4%BE" title="出版社">出版社</a></li>
+<li><a href="/%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="動畫工作室">動畫工作室</a></li>
+<li><a href="/%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E5%85%AC%E5%8F%B8" title="電子遊戲公司">電子遊戲公司</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=23" title="編輯章節：回應" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81" title="討論:台灣ACG發展情況">討論:台灣ACG發展情況</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;action=edit&amp;section=24" title="編輯章節：備註" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">例如《喜羊羊和灰太狼》、《熊出沒》、《大耳朵圖圖》等一開始都是粗糙的低成本動畫，但藉由收視率和知名度增高，動畫製作群就能賺足夠的錢讓作品的素質提升</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">官方說法是上市前<b>忘記把測試版素材換掉</b>，後來推出沒多久就緊急修正</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">由於兩岸的特殊關係，中國對於台灣的出版品審查或台灣對於中國居民的居留資格審查比其他任何地方都還要嚴格許多，造成台灣的出版品無法直接銷售到中國，中國居民也無法直接接觸到台灣的創作者，兩者有時甚至得透過第三國來當作跳板。</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">例如網路上隨處可見台灣繪師帶去日本販賣的日文版同人誌以及逆流中文翻譯版，卻鮮少見到台灣原生的中文版即為一例。</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">例如在《我的泰山爸爸》故事中蒜頭爸爸有提到「阿空加瓜山是死火山之一」，但近幾年的最新資料表示那並非死火山、而維基百科的阿根廷火山列表中也沒有列入。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">以《<a href="/%E5%BC%B7%E8%A5%B2%E9%AD%94%E5%A5%B3" class="mw-redirect" title="強襲魔女">強襲魔女</a>》為例，一個IP從插畫專欄開始起步，同時還推出了動畫、漫畫、輕小說甚至是<s>做得很爛的</s>遊戲，藉著本身擁有的IP魅力屹立不搖，發展10年至今仍然有相關商品與創作推出<s>，甚至還要跟上偶像風開始唱歌跳舞了的樣子</s></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">2021年續集《青蛇劫起》在網飛上架，世界觀開始和同公司另一系列《新神榜》結合。</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=台灣ACG發展情況&amp;oldid=378319">https://wiki.komica.org/index.php?title=台灣ACG發展情況&amp;oldid=378319</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81"
+				data-user-name="Seraphmm"
+				data-user-gender="unknown"
+				data-timestamp="1647849012">
+				最後編輯於 2022年3月21日 (週一) 15:50
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%8F%B0%E7%81%A3ACG%E7%99%BC%E5%B1%95%E6%83%85%E6%B3%81&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.076","walltime":"0.257","ppvisitednodes":{"value":303,"limit":1000000},"ppgeneratednodes":{"value":1018,"limit":1000000},"postexpandincludesize":{"value":2246,"limit":2097152},"templateargumentsize":{"value":1104,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3209,"limit":5000000},"timingprofile":["100.00%  107.309      1 -total"," 11.93%   12.805      2 模板:Ref","  7.10%    7.620      1 模板:PostEditing","  5.32%    5.704      1 模板:Pcomment","  4.30%    4.613      5 模板:Censored","  3.67%    3.934      1 模板:H0"]},"cachereport":{"timestamp":"20220926032413","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":492});});</script>		</body>
+		</html>
+		

@@ -1,0 +1,66 @@
+{{h0|{{ruby|▽▲TRiNITY▲▽|とりにてぃー}} / 金銀銅ポン}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub|本條目[[:分類:需要擴充的條目|內容不足需要擴充]]，<s>如果不怕被三人的PON力導致血壓飆高的話</s>歡迎各位加以補完}}
+|}
+
+[[檔案:▽▲TRiNITY▲▽.jpg|center|300px]]
+
+== 基本資料 ==
+* 由[[にじさんじ]]所屬的Liver，鷹宮リオン、葉加瀬冬雪、フレン・E・ルスタリオ三人組成的組合。
+* 雖然名義上是以唱歌活動為主，不過三人都因為超PON的遊戲能力而知名<s>，隨便一人都能讓觀眾的血壓飆高的程度</s>。
+
+== 成員列表 ==
+=== 鷹宮リオン ===
+{{size|24|{{color|#CC3D7B|#E3BE88|'''皆さまごきげんよう<br><s>半沢直樹見た？</s>'''}}}}<br>
+[[檔案:鷹宮リオン.png|150px]]
+* 金PON擔當，2018年8月9日作為SEEDs2期成員之一出道。
+* 設定上是就讀貴族魔法學校「私立帝華高中」的高材生暨風紀委員，表面上是態度[[ツンデレ|高傲]]的大小姐。
+* 《刀劍神域》與《半澤直樹》的狂熱粉絲，尤其還因為後者而在MC開了蓋銀行的企劃。
+* 曾經在三人與グウェル・オスガール的海龜湯連動上展現出不愧金PON的超PON理解力。
+* 人設：{{twitter|kemo_9_1_sailor|name=タジマ粒子}}
+* {{youtube|c=UCV5ZZlLjk5MKGg3L0n0vbzw|title=YouTube頻道}}
+* {{twitter|TakamiyaRion|name=Twitter帳戶}}
+
+=== 葉加瀬冬雪 ===
+{{size|24|{{color|#EEFFFF|#558DBD|'''わかった！<br><s>（わかってない）</s>'''}}}}<br>
+[[檔案:葉加瀬冬雪.png|150px]]
+* 銀PON擔當，2019年7月3日作為SMC組（葉加瀬冬雪、加賀美ハヤト、夜見れな）成員之一出道。
+* 設定上是喜歡做實驗的JK，隨身攜帶著各種奇怪藥水。
+** 姓氏的「葉加瀨」與「博士」在日語的讀音相同。
+* 指示廚殺手（字面意義上），玩遊戲時總是會不按牌理出牌的操作，讓指示廚們血壓飆高的元兇。
+* 在社內舉行問答大賽時還曾多次展現出按鈴搶答，卻把回答推給加賀美社長處理的謎之操作。
+* 人設：{{twitter|vane0|name=vane}}
+* {{youtube|c=UCGYAYLDE7TZiiC8U6teciDQ|title=YouTube頻道}}
+* {{twitter|hakase_fuyuki|name=Twitter帳戶}}
+
+=== フレン・E・ルスタリオ ===
+{{size|24|{{color|#EC1D2F|#CD6276|'''見てるよ～'''}}}}<br>
+[[檔案:フレン・E・ルスタリオ.png|150px]]
+* 銅PON擔當，2020年1月30日作為メイフ（フレン・E・ルスタリオ、メリッサ・キンレンカ、イブラヒム）成員之一出道。
+* 設定上是來自コーヴァス帝国的女騎士，有著為達成目的不擇手段的信條。
+* 雖然自稱天才，不過在拆炸彈遊戲中的PON表現還是讓好好先生的社築發飆了…
+* 人設：{{twitter|SHUTOCHIKACHIKA|name=モリチカシュウト}}
+* {{youtube|c=UCuep1JCrMvSxOGgGhBfJuYw|title=YouTube頻道}}
+* {{twitter|furen_2434|name=Twitter帳戶}}
+
+== 相關條目 ==
+* '''[[KomicaWiki]]條目'''
+** [[虛擬Youtuber]]
+** [[にじさんじ]]
+
+* '''外部連結'''
+** [https://nbcuni-music.com/trinity/ 官方網頁]
+** [https://wikiwiki.jp/nijisanji/%E2%96%BD%E2%96%B2TRiNITY%E2%96%B2%E2%96%BD にじさんじ非公式wiki]
+
+{{虛擬YouTuber}}
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+
+[[分類:虛擬YouTuber]]
+[[分類:網路文化]]
+[[分類:にじさんじ]]

@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>磷葉石 (寶石之國) - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"磷葉石_(寶石之國)","wgTitle":"磷葉石 (寶石之國)","wgCurRevisionId":422182,"wgRevisionId":422182,"wgArticleId":35382,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"磷葉石_(寶石之國)","wgRelevantArticleId":35382,"wgRequestId":"ad53e277549cddf25f36166a","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E7%A3%B7%E8%91%89%E7%9F%B3+%28%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B%29\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E7%A3%B7%E8%91%89%E7%9F%B3+%28%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B%29","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-磷葉石_寶石之國 rootpage-磷葉石_寶石之國 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E7%A3%B7%E8%91%89%E7%9F%B3+%28%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B%29" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">磷葉石 (寶石之國)</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;"> フォスフォフィライト/<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E7%A3%B7%E8%91%89%E7%9F%B3?uselang=zh-tw">磷葉石</a></span>/Phosphophyllite</div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td>本條目含有大量劇透，如沒看過原作又不想<b>四分五裂<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">並因此換掉自己的肢體，最後被作成超度機器</span></b>的話請不要隨意反白。
+</td></tr></tbody></table><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/%E6%AA%94%E6%A1%88:BcEpNTB.jpg" class="image"><img alt="" src="/images/thumb/8/82/BcEpNTB.jpg/300px-BcEpNTB.jpg" width="300" height="207" class="thumbimage"></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:BcEpNTB.jpg" class="internal" title="放大"></a></div>無垢的薄荷天使<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">現在已經死的差不多了</span></div></div></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>由市川春子所創作的漫畫《<a href="/%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B" title="寶石之國">寶石之國</a>》及其衍生作品的主角</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="個人資料"></span><span class="mw-headline" id=".E5.80.8B.E4.BA.BA.E8.B3.87.E6.96.99">個人資料</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=2" title="編輯章節：個人資料" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>本作的主角，年齡為寶石人之中最年幼（約300歲）</li>
+<li>硬度3.5、靭性最低。</li>
+<li>愛稱「フォス/小磷/法斯/<s>3.5/萬碎爺</s>」</li>
+<li>寶石顏色為月人最愛的薄荷色。</li></ul><h3 class="in-block"><span id="聲優"></span><span class="mw-headline" id=".E8.81.B2.E5.84.AA">聲優</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=3" title="編輯章節：聲優" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><a href="/%E9%BB%91%E6%BE%A4%E6%9C%8B%E4%B8%96" title="黑澤朋世">黒沢ともよ</a>（原版）</li>
+<li>陳貞伃（Animax中文配音版）</li></ul><h3 class="in-block"><span id="性格及形象"></span><span class="mw-headline" id=".E6.80.A7.E6.A0.BC.E5.8F.8A.E5.BD.A2.E8.B1.A1">性格及形象</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=4" title="編輯章節：性格及形象" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>性格天真爛漫、相當冒失
+<ul><li>做什麼事都相當笨拙。</li>
+<li>雖然如此，卻一直想要幫助自己的夥伴</li>
+<li>在經歴各種事件後戰鬥技巧和精神上大幅成長<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，同時身體與性格也跟著改變</span>。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來卻因為各種不顧後果的<s>作死</s>大膽行為<s>還有幻聽</s>先後換掉雙足、雙手、頭部及左右眼，體型也從原本中性的面貌變成近似人類男性的樣子</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">隨著一系列的劇情發展而逐漸壞掉（精神與物理上）<s>最後成佛了</s></span></li></ul></li></ul><h3 class="in-block"><span id="經歷"></span><span class="mw-headline" id=".E7.B6.93.E6.AD.B7">經歷</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=5" title="編輯章節：經歷" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>因為非常脆弱又沒什麼特長而一直沒工作。
+<ul><li>在金剛先生要求下，接下了<s>完全不重要的</s>編寫博物志的工作</li></ul></li>
+<li>在第一天工作時為了寫博物誌而接觸了辰砂，説出了要幫助辰砂，找到他能做到又想做的工作。
+<ul><li>可是之後又一直想不到如何幫助他。</li></ul></li>
+<li>被アドミラビリス族女王出賣作救弟弟的條件而被月人襲撃而失去雙足，可是知道アドミラビリス族的景況又沒生女王的氣
+<ul><li>事後金剛大怒，因此被停止博物誌的工作，並因失去三分之一身體而失憶。
+<ul><li>之後利用女王留下的石英及貝殼部份造成了新的腳，歩速大幅提升。</li></ul></li></ul></li>
+<li>在冬天沒像一如以往冬眠，而是跑去跟着南極石工作和學習<s>找他麻煩</s>
+<ul><li>途中卻在浮冰的「話」的影響下失去雙手<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，在和南極石一起到緒之濱找可以當手的材料時，看着南極石被月人帶走</span>。</li>
+<li>之後利用找到的黄金和白金形成的合金造成新的手，髪型也改短了，一人完成冬天了的主要警備工作。</li>
+<li>但曾出現忘記辰砂的現象(一秒)。因為新的手有伸縮及變形能力而戰力大幅上升，可是卻不時幻覺見到南極石，而且因為合金過重令内部碎裂而要靠合金填補「加固」。</li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為對老師與月人的關係相當在意，</span>而開始査閲月人資料，並嘗試與月人對話。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其間在某場戰鬥中被腰斬，幽靈水晶為了救他而被月人剝掉表層。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">精神不安定的情況惡化，曾經突然把黑水晶困起來「保護」，之後合金手還捏碎了他自己的頭部，要別的寶石們制止(物理)。</span></li></ul></li>
+<li>振作起來之後繼續和黑水晶組隊，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了撿黑水晶的斷手而被月人帶走了頭部</span>。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">黑水晶決定把幽靈水晶最看重的青金石的頭部接在小磷上</span>，手術後睡了102年。獲得了極強的觀察力與細膩的思考力。</li>
+<li>小磷與<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">青金石</span>在夢中交流，在他的助言和黑水晶的「幫助」下故意被月人帶上了月球<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，從月人的王子口中知道了部份老師的秘密。</span>
+<ul><li><span class="bot-directive-archiver" title="no-archive-begin|"></span><mark class="inline-text-censored" title="#0E0B79" style="color:#000040 !important; background-color:#000040; cursor:default;"><span class="bot-directive-archiver" title="no-archive-end|"></span>青金石的「金」其實是黃鐵礦，<b>別名愚人金</b>。<span class="bot-directive-archiver" title="no-archive-begin|"></span></mark><span class="bot-directive-archiver" title="no-archive-end|"></span></li></ul></li></ul></li>
+<li>在月人口中了解月人行動的原因後<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，認為老師不是同伴並為了讓同伴不再被抓而</span>決定幫助月人。
+<ul><li>左眼被換成了月人製造的人工合成珍珠，並得到月人的防水技術及衣飾武器的支援。</li>
+<li>説服(試探)部份寶石人自願上月球，想刺激老師令他願意祈禱，然而沒有成功。</li></ul></li>
+<li>另一方面留在地上的寶石人們，得到老師的自白而變得更能接受老師的存在。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">磷葉石似乎沒有理解到辰砂不願上月球的原因。</span></li>
+<li>向月人交渉讓他們展開月面的中至高硬度寶石砂回復工程。</li></ul></li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;">以下是71話起的重大劇透，請做好心理準備再點開
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li>71話<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">特攻學校失敗並被黑水晶打碎帶回月球。</span></li>
+<li>72話<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">先是注意到自己不再被地面的寶石人視作同伴，再被前來看自己的黑水晶否定了過去的羈絆及友人關係。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與其他角色的關係開始變得「裡外不是人」，特攻學校失敗後沒同伴來探望，還被新生的黑水晶<s>嘴炮</s>提醒他的態度(<b>又冷淡又自以為在帶領同伴</b>)會讓身邊同伴慢慢消失。</span></li>
+<li>然而<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">當他得知寶石砂回復工程很順利，又覺得<b>即使沒人認同自己還是沒有做錯</b>...</span></li></ul></li></ul><ul><li>73話<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被告知寶石砂回復工程即使成功了，復活的寶石人也沒法回復記憶，而且需要殺光食砂為生的アドミラビリス族<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>以取回殼上的高純度寶石碎，被牠們視作皇族的小磷只要一句命令就能讓牠們交出貝殼(滅族)。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">當小磷向アドミラビリス族要求取得貝殼時，不忍看到殼和肉連在一起的個體痛苦地拔殻並決定先再考慮一下（因此整個寶石砂回復工程進入了死胡同），後來王子表示再下一世代不一定會長殻所以等吃砂的世代自然死去再回收貝殼就好。</span></li></ul></li></ul><ul><li>74話<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">決定下次單人回地面拜託老師為月人祈禱，並表示他已經只可以想到這個辨法了。</span></li>
+<li>76話<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與月人王子了解月人的「身後事」如何處理後，不帶武器的一人向地球出發。</span></li>
+<li>77話<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不但被打碎監禁，還被其他寶石警戒着；看到金剛祈禱中斷後，被誤以為想攻撃金剛而被場上（除了翡翠和藍柱石以外的）所有寶石打到粉碎。</span></li>
+<li>78話<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在辰砂的意見下小磷的碎片被分散丟去不同地方收藏。</span></li></ul><ul><li>79話<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在被打碎220年後，在其他寶石人<s>及月人</s>忘記下小磷被金剛重新組裝起來，然而只剩下一副皮包骨架的樣子。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在看到金剛展開祈禱模式後又中斷的情況下發出了嚇人的怒吼。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果在第80話時一度強迫金剛祈禱，但之後81話因其他寶石人介入而失敗，並與其他寶石人展開混戰。</span></li></ul></li>
+<li>82話<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被救回會後表示金剛仍愛着自己，認為只要其他寶石人不在一定迫能使金剛祈禱，<b>下次要把阻事的寶石人殺掉</b>，結果刺激到黑水晶身上疑似小白的寵物月人而被打爆。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被王子交給バルバタ修復，並提醒他要「慎重」處理小磷這二百年的記憶。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">修復期間夢到其他寶石人對自己説出各種過份的話。</span></li></ul></li></ul><ul><li>84話時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">以尚未修復好的破爛姿態<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>出現，要求借用月人軍隊及其他月面寶石人的力量進攻地球，並決定<b>放棄寶石砂回復工程</b>。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然而因為其構造的問題，出撃前的防水銀加工做得不完善<s>，<a href="/%E6%95%97%E5%8C%97%E3%83%95%E3%83%A9%E3%82%B0" title="敗北フラグ">敗北flag</a>?</s></span></li></ul></li>
+<li>87話時看着碎光光的寶石人們傻笑，還一路走一路故意踩著寶石碎片</li>
+<li>根據第88話中王子的解釋，磷葉石獲得了三族的能力，又在月人刻意下得到模擬人類的契機。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">肉體的能力無法讓他産生重大改變，但青金石的頭的智慧令他飛躍性的進化。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在故事推進下，他得到了足以讓他求死的絶望與仇恨，並在所有人與物的「幫助」下成為了人類。</span></li>
+<li>到91話時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">已經打爆了試圖交涉的藍柱石和對他感到愧疚的翡翠。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">磷葉石：理解？理解什麼啊？早就來不及了啊。</span></li></ul></li>
+<li>92話時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">遇上了辰砂並展開交戰，雙方的身體在戰鬥中化成一片片碎片，但是他們用來戰鬥的合金及水銀逐漸交融在一起……</span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li>93話時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">打倒了辰砂，在身體吸收了大量的水銀的狀態下走向金剛老師的所在位置；途中還看到以前模樣的自己的幻覺。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">身體吸收水銀後明顯增高，且恢復了些許理智</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在遇見金剛老師後再次請求他的祈禱，結果在金剛表示沒辦法後氣得叫他粉碎</span></li></ul></li>
+<li>結果94話時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">金剛因小磷已成為「人類」而真的開始碎裂，他露出安祥的笑容感謝小磷讓他終於能停機並得到解脱</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">金剛把右眼交給磷，叫他祈求自己的幸福，話沒説完後就碎光光了</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同時，王子到達只剩磷一人的學校，要索取金剛給予磷的右眼；拒絶的磷被一撃打飛</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">磷看着被撃飛到空中的右眼，想要伸手抓着「幸福」，並馬上把它放進自己的右臉</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">得到右眼的磷回頭一看，只見破爛的校舍空空如也，昔日的「同伴」們被月人大批大批的搬走，並幻見到過去人類城市被隕石破壞的情景</span></li></ul></li></ul></li>
+<li>95話時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">證實這一切都是月人為了製造下一代超度機器的計畫，而磷就是那台被培養出來的機器。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">裝上右眼的磷被灌入金剛的資料和記憶，預計時間要<b>一萬年</b>之久。而<b>這時全部被轉化成月人的寶石人和金剛正要在王子的歡迎下度過愉快的一萬年。</b></span></li></ul></li></ul></li>
+<li>98話捏他
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在這一萬年裡讀取了金剛與博士的回憶，終於昇華<s>成佛</s>並迎來以前所認識、現已成為月人的各人</span></li>
+<li><s>一反讀者期望</s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">經已變得相當平靜並認同月人想要化作虛無的願望，在金剛與艾庫美亞的道謝下合十禱告，畫面隨即<s>爆炸</s>變成一團白光......</span></li>
+<li><s>然後又要休載兩個月了幹</s></li></ul></li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="/%E6%AA%94%E6%A1%88:%E9%80%B2%E5%8C%96%E5%8F%B2.jpg" class="image"><noscript><img alt="" src="/images/thumb/f/f2/%E9%80%B2%E5%8C%96%E5%8F%B2.jpg/400px-%E9%80%B2%E5%8C%96%E5%8F%B2.jpg" width="400" height="3071" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 400px;height: 3071px;" data-src="/images/thumb/f/f2/%E9%80%B2%E5%8C%96%E5%8F%B2.jpg/400px-%E9%80%B2%E5%8C%96%E5%8F%B2.jpg" data-alt="" data-width="400" data-height="3071" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:%E9%80%B2%E5%8C%96%E5%8F%B2.jpg" class="internal" title="放大"></a></div>磷葉石進化史（截至84話）</div></div></div></div>
+</td></tr></tbody></table><ul><li><span class="bot-directive-archiver" title="no-archive-begin|"></span><mark class="inline-text-censored" title="此為推測" style="color:#02f78e !important; background-color:#02f78e; cursor:default;"><span class="bot-directive-archiver" title="no-archive-end|"></span>因身上有很多部份已經不再是單純的寶石，有讀者提出意見認為小磷可能會在多次修補下成為融合月人(魂)、アドミラビリス族(肉)、寶石(骨)的「人類」，引發金剛祈禱。<span class="bot-directive-archiver" title="no-archive-begin|"></span></mark><span class="bot-directive-archiver" title="no-archive-end|"></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在上月球後，部分寶石人實現了各自的願望，唯獨小磷一直被打臉到精神崩潰，不但一次又一次的忘記初衷，還變得越來越像人類。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果一如所料，磷連身軀都變得像人類一般，並能指令金剛「停機」。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">經過一萬年後道出了<b>自己其實由始至終都是孤獨的存在</b>。</span></li></ul><h3 class="in-block"><span id="人際關係"></span><span class="mw-headline" id=".E4.BA.BA.E9.9A.9B.E9.97.9C.E4.BF.82">人際關係</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=6" title="編輯章節：人際關係" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>金剛老師
+<ul><li>對小磷特別照顧，一開始小磷對金鋼也是抱著敬愛的態度，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但後來隨著小磷不斷挖掘秘密而逐漸產生裂痕。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際上和王子互通有無。</span></li></ul></li>
+<li>辰砂
+<ul><li>在故事初期救下磷葉石，在過程中小磷逐漸發現辰砂的孤獨；事後小磷說要幫他找到<b>比現在更好更開心的工作</b></li>
+<li>磷葉石最初開始行動的契機，但之後兩個人卻漸行漸遠……</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來隨著身體的更換，磷葉石逐漸忘記自己的初衷，還一度忘記了辰砂</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">諷刺的是因為小磷不斷搞事<s>作死</s>，間接讓辰砂反而被寶石人夥伴逐漸接納</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在被磷葉石打倒後感謝他的行動實現了彼此之間的約定</span></li>
+<li><s>動畫版OP根本就是他們兩個人的世界</s></li></ul></li>
+<li>鑽石
+<ul><li>在小磷被誤以為變成蛞蝓時，唯一一個主動關心他的寶石人</li>
+<li>和小磷一起上月球的寶石人之一，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來成為了月球偶像。在小磷要帶月人總進攻時（因為被小磷威脅說要帶圓粒金剛石上來而）決定也要參與行動。</span></li></ul></li>
+<li>金紅石
+<ul><li>老是被小磷嗆庸醫。</li>
+<li>把蓮花剛玉難得醒來時的見面機會讓給了小磷，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在蓮花剛玉被小磷偷偷帶走後壞掉。</span></li></ul></li>
+<li>紫水晶33&amp;84
+<ul><li>在小磷加入巡邏活動時帶他熟悉做法，後來在月人再次來襲時被小磷救下。</li>
+<li>其中84跟隨了小磷上月球，但一直被誤認為33，自稱故意把髪型弄反了。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來84適應了月球生活並改變髮型，並為了準備他日月人消失而想盡可能地學習月人的科技。</span></li></ul></li></ul></li>
+<li>紫翠玉
+<ul><li>月人研究者+愛好者，小磷曾找他請教月人相關的資料。</li>
+<li>和小磷一起上月球的寶石人之一，一直都蒙着眼睛。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">73話時向小磷上表示打算加入下次的特攻，打算藉手術在胸腔深處植入發光體以維持紅色暴走狀態，不過被小磷否決了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第84話時決定參加小磷的反攻地球計劃，並要求藍錐礦同行。結果沒賭到暴走狀態直接不省人事。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但在87話時又突然醒來進入暴走模式，打碎了所有寶石。</span></li></ul></li></ul></li>
+<li>蓮花剛玉
+<ul><li>在短暫醒來時給了小磷謹慎行事的建議。</li>
+<li>被小磷偷偷帶到月球並治好病症。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來參與了特攻，被辰砂用水銀攻撃後被帶回去治療。81話時在透綠柱石幫忙下回到地面，把月人給予的其中一個修補用寶石拔出交給金紅石以交換小磷，隨後再次陷入了昏迷。</span></li></ul></li>
+<li>南極石
+<ul><li>小磷的搭檔。在冬季巡邏時在小磷的要求下而組隊。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在尋找小磷的新手材料時被月人抓走，只留下一隻腳。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為此事而給了小磷重大的影響和PTSD。還一度把黑水晶誤認成南極石</span></li></ul></li>
+<li>圓粒金剛石
+<ul><li>小磷的搭檔。在前者建議下改為跟鋯石一組</li>
+<li>因為小磷把夥伴帶上月球而開始不把他當做夥伴，因此再見面時二話不説的把對方打個粉碎。</li></ul></li>
+<li>幽靈水晶
+<ul><li>小磷的搭檔。負責圖書室管理。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了救小磷被月人剝掉表層而被帶走，留下了裡面的黑水晶。</span></li></ul></li>
+<li>黑水晶
+<ul><li>小磷的（ry。一開始對前者的態度很差，後來注意到小磷的精神狀態不佳後態度寬容不少。</li>
+<li>和小磷一起上月球的寶石人之一，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果被月人王子看上了他的「二重特性」，在王子及月人動手下成了女性化又自私的「原有姿態」。保留了全黑的外觀並變得非常愛美。後來不只和小磷畫清界線更和月人的王子發展成戀人關係，被月人稱為公主。<s>讓觀眾全都翻桌了</s></span></li></ul></li>
+<li>艾庫美亞
+<ul><li>月人王子，和小磷交談後透露了獵捕寶石人的原因。</li>
+<li>在小磷得知月人的動機後決定幫助他們以換取寶石人同伴的安全，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但事實上只不過是成了王子手中的棋子。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在88話證實至今為止小磷的變化全都是被他計畫好的。因為看中了小磷的異質性而決定把他當成培育新人類的基礎。</span></li></ul></li>
+<li><s><a href="/%E7%A5%9E%E8%87%8D%E5%B0%8F%E6%8D%B2%E6%AF%9B" title="神臍小捲毛">神臍小捲毛</a>的<a href="/%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99" title="史帝芬·宇宙">小捲毛</a></s>
+<ul><li>同樣都是以寶石為題材，同樣在相近時間點推出的作品，同樣都是樂於助人的天真主角，但是兩人的境遇卻是完全相反</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在磷葉石不斷行動<s>作死</s>卻一次又一次被打臉時，隔壁棚的小捲毛則是一次又一次克服困難並成長</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">當小捲毛成為拯救宇宙的英雄時，磷葉石卻已經化為修羅，同樣身為主角但待遇卻天差地遠<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，就算是壞掉了也有人能把小捲毛救回來。</span><s>畢竟一個是善解人意的鑽石，一個是成事不足敗事有餘的3.5；而且背景設定和規模狀態也差很多，這也是沒辦法的事。</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">目前一個完結一個進入收尾階段，當小捲毛選擇<b>作為人類</b><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>時，2020年9月號月刊Afternoon上的寶石之國11集發售封面標語卻寫著<b>超越人類</b>......</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">隨著時間進展小磷越來越像人類，而且在吸收辰砂的水銀後樣貌還和金剛老師有幾分相似……最後直接走上成為第二代金剛的路……與此同時其他月人化的寶石人們正要在小磷被轉化的一萬年內過上幸福生活……</span></li></ul></li></ul></li></ul><h3 class="in-block"><span id="萌屬性"></span><span class="mw-headline" id=".E8.90.8C.E5.B1.AC.E6.80.A7"><a href="/%E8%90%8C%E5%B1%AC%E6%80%A7" title="萌屬性">萌屬性</a></span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=7" title="編輯章節：萌屬性" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><a href="/%E7%B6%A0%E9%AB%AE%E7%BE%8E%E4%BA%BA" title="綠髮美人">綠髮美人</a><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">→藍髮→光頭</span></li>
+<li><a href="/%E5%A4%A9%E7%84%B6%E5%91%86" title="天然呆">天然呆</a></li>
+<li>平胸</li>
+<li><s>美腿</s></li>
+<li>人外</li>
+<li>搞事</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E3%82%AA%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4" title="オッドアイ">オッドアイ</a></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E5%A3%9E%E6%8E%89" title="壞掉">壞掉</a></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E9%BB%91%E5%8C%96" title="黑化">黑化</a></span></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">男人的身軀(94話開始)</span></s></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">沒人愛</span></s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E5%B7%A5%E5%85%B7%E4%BA%BA" title="工具人">工具人</a></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>成佛</s></span></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="其他"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96">其他</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=8" title="編輯章節：其他" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/%E6%AA%94%E6%A1%88:%E4%B8%8A%E5%B8%9D%E6%89%8D%E6%9C%89%E6%86%90%E6%86%AB%E4%B9%8B%E5%BF%83%EF%BC%8C%E6%88%91%E6%B2%92%E6%9C%89.jpg" class="image"><noscript><img alt="" src="/images/thumb/4/4a/%E4%B8%8A%E5%B8%9D%E6%89%8D%E6%9C%89%E6%86%90%E6%86%AB%E4%B9%8B%E5%BF%83%EF%BC%8C%E6%88%91%E6%B2%92%E6%9C%89.jpg/250px-%E4%B8%8A%E5%B8%9D%E6%89%8D%E6%9C%89%E6%86%90%E6%86%AB%E4%B9%8B%E5%BF%83%EF%BC%8C%E6%88%91%E6%B2%92%E6%9C%89.jpg" width="250" height="139" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 139px;" data-src="/images/thumb/4/4a/%E4%B8%8A%E5%B8%9D%E6%89%8D%E6%9C%89%E6%86%90%E6%86%AB%E4%B9%8B%E5%BF%83%EF%BC%8C%E6%88%91%E6%B2%92%E6%9C%89.jpg/250px-%E4%B8%8A%E5%B8%9D%E6%89%8D%E6%9C%89%E6%86%90%E6%86%AB%E4%B9%8B%E5%BF%83%EF%BC%8C%E6%88%91%E6%B2%92%E6%9C%89.jpg" data-alt="" data-width="250" data-height="139" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:%E4%B8%8A%E5%B8%9D%E6%89%8D%E6%9C%89%E6%86%90%E6%86%AB%E4%B9%8B%E5%BF%83%EF%BC%8C%E6%88%91%E6%B2%92%E6%9C%89.jpg" class="internal" title="放大"></a></div><s>歡迎各位被致鬱的島民自由使用</s></div></div></div>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">由於其在劇中的一連串遭遇，被粉絲吐槽作者為甚麼不給他一個痛快（死掉）</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">求求作者放過小磷，讓他趕緊死掉不好嗎<s>史上第一部讀者希望主角快點死掉的漫畫</s></span></li></ul></li>
+<li>更因此在對岸衍生出了一個成句：「<a rel="nofollow" class="external text" href="https://zh.moegirl.org/zh-tw/%E4%B8%8A%E5%B8%9D%E6%89%8D%E6%9C%89%E6%80%9C%E6%82%AF%E4%B9%8B%E5%BF%83%EF%BC%8C%E6%88%91%E6%B2%A1%E6%9C%89">上帝</a>才有<a href="/Goetia_(Fate)" title="Goetia (Fate)">憐憫</a>之心，<a href="/%E6%88%90%E5%8F%A5/%E5%AF%AC%E6%81%95%E6%98%AF%E4%BB%96%E5%80%91%E8%88%87%E4%B8%8A%E5%B8%9D%E7%9A%84%E4%BA%8B%EF%BC%8C%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%98%AF%E5%AE%89%E6%8E%92%E4%BB%96%E5%80%91%E8%A6%8B%E9%9D%A2" title="成句/寬恕是他們與上帝的事，我的工作是安排他們見面">我沒有</a>」。
+<ul><li>原出處為美國動作片《絕煞刀鋒》</li>
+<li>隨著漫畫的劇情發展，對岸的寶石之國粉絲開始將市川老師的自畫頭像P在了圖中神父的頭上，開始在粉絲群內傳播。</li>
+<li>而隨著《鬼滅之刃》等一部分熱門漫畫的劇情發展愈發殘酷，越來越多P上其他漫畫作者的頭的版本出現。</li>
+<li>目前加入被P圖行列的作者有<s>鱷魚</s>吾峠呼世晴（<a href="/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83" class="mw-redirect" title="鬼滅の刃">鬼滅之刃</a>）、<s>變態</s>土筆章人（<a href="/%E4%BE%86%E8%87%AA%E6%B7%B1%E6%B7%B5" title="來自深淵">來自深淵</a>）、<s>究極生物</s><a href="/%E8%8D%92%E6%9C%A8%E9%A3%9B%E5%91%82%E5%BD%A5" title="荒木飛呂彥">荒木飛呂彥</a>（<a href="/JOJO%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%9A%AA" title="JOJO的奇妙冒險">JOJO的奇妙冒險</a>）、小高和剛（<a href="/%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%91" class="mw-redirect" title="ダンガンロンパ">槍彈辯駁</a>）等。</li></ul></li>
+<li>在單行本第10卷末尾附贈的小冊子裡出現了以早期故事設定概念為基礎的草稿漫畫。在早期設定中，磷葉石是會老老實實負責博物志的性格，還能幫忙搞醫務工作，且與黑鑽的關係很好（黑鑽在早期概念故事中是主角）。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=9" title="編輯章節：相關連結" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><a href="/%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B" title="寶石之國">寶石之國</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=10" title="編輯章節：回應" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)" title="討論:磷葉石 (寶石之國)">討論:磷葉石 (寶石之國)</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;action=edit&amp;section=11" title="編輯章節：備註" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">過去的アドミラビリス族例如ウェントリコスス能輕易把殼脱掉，月球上的アドミラビリス族卻在世代交替及演化迅速下出現了新世代個體的殼和肉大多都連在一起的現像</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">口部裂開<s>初號機化</s>、全身破裂兼不規則，在決定到地上把失去的右眼拿回來時頭部後方長出了像是菩提葉的物體</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">金能溶於<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E6%B0%B4%E9%8A%80?uselang=zh-tw">水銀</a></span>，形成<b><span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E6%B1%9E%E9%BD%8A?uselang=zh-tw">汞齊</a></span></b>，而汞齊能用作於金、銀的冶金或<b>還原</b>材料，並被中國古代道教認為是長生不老藥的成分之一</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Being Human，SU未來篇的片尾曲名</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=磷葉石_(寶石之國)&amp;oldid=422182">https://wiki.komica.org/index.php?title=磷葉石_(寶石之國)&amp;oldid=422182</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)"
+				data-user-name="Cougar5"
+				data-user-gender="unknown"
+				data-timestamp="1668748870">
+				最後編輯於 2022年11月18日 (週五) 13:21
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.241","ppvisitednodes":{"value":1239,"limit":1000000},"ppgeneratednodes":{"value":2978,"limit":1000000},"postexpandincludesize":{"value":27444,"limit":2097152},"templateargumentsize":{"value":11162,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1963,"limit":5000000},"timingprofile":["100.00%  148.615      1 -total"," 44.46%   66.071     87 模板:Censored"," 16.22%   24.102      2 模板:Block"," 13.25%   19.692      1 模板:H0"," 11.35%   16.867      3 模板:Wp","  9.63%   14.310      3 模板:Plainlinks","  4.92%    7.308      8 模板:Bot-directive-archiver","  4.85%    7.203      1 模板:Collapse_top","  4.31%    6.406      1 模板:Stub_row","  2.32%    3.443      1 模板:Ref"]},"cachereport":{"timestamp":"20221118123715","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":409});});</script>		</body>
+		</html>
+		

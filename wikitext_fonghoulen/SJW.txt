@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>SJW - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"SJW","wgTitle":"SJW","wgCurRevisionId":418392,"wgRevisionId":418392,"wgArticleId":37049,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"SJW","wgRelevantArticleId":37049,"wgRequestId":"043af8954b26703f0b4ad4e5","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=SJW\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=SJW","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-SJW rootpage-SJW stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit" title="編輯此頁面的導言章節"><a href="/index.php?title=SJW&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=SJW" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">SJW</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">社會<s>不</s>正義戰士/social <s>in</s>justice warrior<s>/social justice wrecker</s>/SJW/ソーシャル・<del>イン</del>ジャスティス・ウォリアー</div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td><span style="font-size:24px;"><span style="color:red;background-color:;"><b>警告！本條目已發佈第一級SJW警報！</b></span></span>
+</td></tr><tr><td>本條目含有爭議內容，不願意和SJW㨃拳的話請不要繼續看下去
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="定義"></span><span class="mw-headline" id=".E5.AE.9A.E7.BE.A9">定義</span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>SJW全寫為「Social Justice Warrior」<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>，直譯為「社會正義戰士」，是一個用作稱呼某些有著特定理念及行為人們的<b>貶義詞</b>。</li>
+<li>在中文語境中，<b>正義魔人</b>、<b>鍵盤俠</b>、<b>覺醒青年（簡稱覺青）</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>、<b>左膠</b>或其他類似的詞語可以用作同義詞。</li>
+<li>SJW這個縮寫出自英語，因此一開始是指歐美一些假借左派進步思想耍流氓的無賴；但在台灣，或甚至世界各地的左派人士當中，都有相當比例的人有類似的言論和行為，因此用SJW來形容台港澳等地一些言論和行為出軌的左派人士，當然是可以的。</li>
+<li>由於Komica的本質和客群之故，因此本文會傾向討論動漫影視等文化產業內容受到的影響，也多少會反映出動漫喜好者，尤其男性動漫喜好者的觀點<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>；然而SJW的影響範圍非常廣泛，遠遠不僅限於文化產業，社會各個領域的人都有可能會因為SJW的「<s>不</s>正義舉動」而受害，<a href="#.E8.A2.ABSJW.E7.89.BD.E9.80.A3.2F.E9.99.B7.E5.AE.B3.E7.9A.84.E4.BA.BA.E4.BA.8B.E7.89.A9.E4.B8.80.E8.A6.BD">不能因為你是女性或者因為你不喜歡動漫，或甚至你支持某些社會正義的理念或相關社群，就認為自己不會受到SJW的負面影響，像是《哈利波特系列》的原作者J.K. Rowling，就是一個身為女性、支持某種社會正義理念但一樣受SJW所害的例子</a>。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>「Social Justice Warrior」原是作為一個中性術語，起源於20世紀後期，意義為指投身社會正義運動的人們。
+<ul><li><s>因此也有人認為應該有「Social Justice <a href="/%E7%AB%A5%E8%B2%9E%E9%AD%94%E6%B3%95%E5%B8%AB" title="童貞魔法師">Wizard</a>」</s></li>
+<li>但當這一詞彙在2011年出現在網路上時，其代表含意變為了負面，原因見下。</li></ul></li>
+<li>現在一般用此詞代指支持各類平權運動如女權、民權、進步主義、LGBT和多元文化等等的特定偏激人士。
+<ul><li>一般而言支持這些東西並不會出太大的問題，然而由於近年來該派的行為越加過激並引發了各種騷動，而招致大家的反感。</li>
+<li>更大的問題在於SJW常常發表一些支持多元文化的言論並欺壓各路行業，但遇上真正有著巨大靠山的問題人物或事件卻不敢發聲。</li>
+<li>並且有不少人認為，有相當一部份人只是在<b>利用多元進步的思想，去達成自己的<s>邪惡</s>利益</b>。而真正需要幫助的弱勢分子卻依舊得不到任何幫助。
+<ul><li>其中一些人可能是在藉由自由平等上位，好取得更多的權力地位，就和過去很多共產國家的領袖一樣，都是藉由社會正義之類的左派理念，來包裝自己在實質上是個希望建立一個以自己為中心的階級結構的實質極右派人士的真面目。<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>其他一些人可能沒有政治野心，但就算這樣也不能排除這些人只是純粹好玩，想看一些人被亂搞後狼狽不堪的樣子並藉此取樂而已<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>還有一些人則可能是有足夠的良心，真的關心社會正義，並且沒有真的要為自己追求多少利益，但他們可能受到某些<s>奇怪的</s>老師的影響，或覺得這類的名詞聽起來很新潮、很酷、很偉大、光明、正確，因此大量學習這類的名詞和理論卻忽略現實運作，甚至忽略了其中一些參與社會運動的人，可能是惡名昭彰的SJW的事實<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>，結果思想行為變得偏激、古怪，甚至具有毀滅性，並因而成為SJW之一。<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li></ul></li>
+<li>因此不少網民指責這些人只不過是藉由參與虛偽的社會正義討論，以提高自我感覺及個人聲譽。
+<ul><li>不過要注意一點：<b>基本上所有參與政治、討論政治議題的人，包括你我在內，都是為了自己以及自己的同類的利益在發聲，不管是不是有意的都一樣。為自己的同類發聲、爭取自己人的利益並沒有錯，錯的是把自己人的利益給包裝成公衆利益。</b><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li>SJW出問題的地方，很可能是在於SJW用少數族群權益來包裝自己的利益，而真正少數族群的人未必那麼贊同SJW的某些想法。另外要注意的是，SJW的利益未必在於金錢，而可能在於名聲和地位；但不論是甚麼，我們有理由懷疑SJW是假借少數族群的權益，來換取自己的利益，換句話說，我們有理由懷疑SJW藉由偽善來博取上位。</li></ul></li>
+<li>在現代社會，因民主而來的多元化是進步價值；然而SJW的所作所為，經常是要求所有人都按照「多元化的標準來講話」，不容他人在碰到牽涉到公共議題的內容時，以其他的方式來說話。
+<ul><li>這種逼迫所有人按照某種方式講話的做法，本身是最反對多元化的表現，也是極權政治的特徵之一，也就是說，SJW和他們最反對的那些表明就是要反對多元主義的極右派人士和極權政府，根本是同類<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>，甚至可以認為極右派沒有SJW那麼討厭，因為極右派是表明自己就是不爽多元化、不願某些特定種類的人和自己平起平坐甚至過得比自己要好的真小人，SJW是以多元化之名反多元化的偽君子。<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li></ul></li>
+<li>SJW和十九與二十世紀的共產主義運動一樣，都是藉由左派或進步思想之名到處搞破壞的<s>假</s>社會運動<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>；從某些角度來看，或許可以認為SJW就是當年共產主義運動的翻版，甚至還更糟，因為共產主義好歹講明了自己就是要搞革命、搞破壞來實現無產階級專政的目標<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>，<s>果然歷史是會重演的。</s>
+<ul><li><s>所以說SJW根本共匪2.0。</s></li></ul></li></ul></li></ul><ul><li><b>不過這應該要注意的一點是，並不是SJW本身或女權、民權、進步主義、LGBT和多元文化等等SJW支持的東西即為負面的，也不是SJW以外的人就不會有類似的行為，而是本文提及的負面情況往往和SJW有關係。參與相關活動的人亦有人指出有人利用這些議題來行使其他<s>邪惡</s>目的</b><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><ul><li>他們的理論大多數缺乏嚴謹的邏輯，甚至會有不一致、雙重標準、自相矛盾、出爾反爾之處。面對高舉這種大旗的SJW們時不應以其過度政治正確，而應該指出他們刻意忽視的政治錯誤。<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><ul><li>例如最後生還者2中對亞裔的歧視即是一個例子。</li></ul></li>
+<li>左不是不好，左派是好的，女權、民權、進步主義、LGBT和多元文化等等進步思想更是好東西，但近年來這些東西已經受到SJW的流氓行徑給嚴重汙染。</li>
+<li><a rel="nofollow" class="external text" href="https://medium.com/eoiss/%E4%B8%89%E5%8D%81%E5%88%86%E9%90%98%E5%85%A7%E5%B0%B1%E6%87%82%E7%9A%84%E7%B3%BB%E5%88%97-%E5%9C%A8%E5%8F%B0%E7%81%A3%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8%E5%B7%A6%E5%8F%B3%E6%B4%BE-1f75ab7415f5">要避免思想變得偏激、古怪的唯一方法，就是多做功課，看看現實社會是怎樣運作的，不論你支持的思想是左派、右派或者中間路線都一樣。</a></li></ul></li></ul><ul><li>SJW為達目的時常不擇手段，以下是他們常用的一些手法：<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><ul><li>在歐美各大論壇製造大量網軍分身帳號，創造出人多勢眾的假象。</li>
+<li>透過各種謊言跟假資訊來誤導大眾的看法。</li>
+<li>以各種手段反串來分化甚至抹黑不歡迎他們的網站，例如在該網站惡意發布兒童色情，使該網站被迫關閉。<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li>透過各種方式威脅創作者，逼迫創作者改劇情並對他們的思想妥協。</li>
+<li>以主流壓迫父權白人殖民等字眼進行詭辯<s>都給你講</s>。
+<ul><li><s>畢竟後現代主義就是哲學戰鬥機</s>。</li></ul></li>
+<li>簡單地講，就是<a rel="nofollow" class="external text" href="http://dict.revised.moe.edu.tw/cgi-bin/cbdic/gsweb.cgi?o=dcbdic&amp;searchid=Z00000133803">耍流氓</a>、<a rel="nofollow" class="external text" href="http://dict.revised.moe.edu.tw/cgi-bin/cbdic/gsweb.cgi?o=dcbdic&amp;searchid=Z00000133835">耍無賴</a>，根本沒有那麼難以理解。</li></ul></li></ul><ul><li>而由於該派的勢力愈發強大，眾多娛樂產業和人權團體也在被一點一滴滲透...
+<ul><li>不少真正的女權團體、LGBT人士和民權運動人士其實一點都不想跟SJW劃上等號，有時候還會被SJW當成是幫凶。</li>
+<li>與一般的印象相反，並非所有的SJW都是烏合之眾，事實上許多SJW會以組織的方式行動，以此奪取重要論壇、劇情與設計部分、乃至於公司高層與股東的主導權。<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><ul><li>這是因為SJW現象實際上是左派文化戰爭運動較為激進的一部分，背後有資本或是政治勢力支持並不奇怪。</li>
+<li>其中一個例子就是激進的BLM在歐美各地拆雕像，結果某些政治人物非但不譴責，反而大加支持。</li></ul></li>
+<li><a rel="nofollow" class="external text" href="https://disp.cc/m/21-csqB">SJW疑似有滲透既有組織、改造既有創作，將既有的事物變得符合自己標準，而不願藉由自己重新創作全新的東西、建立自己的組織來發揚自己理念的傾向。</a>
+<ul><li>如果SJW多半都是藉由自己重新創作全新的東西、建立自己的組織來發言自己的理念的話，那人們或許還不會那麼討厭他們，但比起創作全新作品和成立新組織，SJW似乎更喜歡奪取既有的組織和改造既有的作品。</li>
+<li><s><b>可見我們有很好的理由認為SJW的真正動機不是社會正義，而只是嫉妒他人做得出能賣的東西自己卻什麼都做不出來，就這樣。</b></s></li></ul></li>
+<li>此外，遊戲廠商、影視圈、速食店等商業公司常在SJW的淫威下被迫參加社會運動，因而淪為SJW的受害者：有些事跟他們根本沒有直接關聯、甚至沒義務要去關心，卻被SJW威脅而不得不公開表態，否則就會被貼上標籤。<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><ul><li>即使商業公司屈服於SJW，SJW也很少會花錢進行任何消費行為，即使有也會因為SJW的人口太少而賺不多，因此公司屈服於SJW的要求通常是該公司收入下滑的開始，英語圈的名詞「Get Woke, Go Broke」(大致翻譯：「覺醒的話，就等著破產」)就是描述該現象。</li>
+<li>一個潛在對付SJW的做法可能是不理會SJW和相關人士的壓力，專心做市場取向的東西，甚至直接聲明自己就是要做政治不正確的東西，然後讓市場決定一切。<s>政治不正確是我們電影/遊戲的一部份，不爽不要看/玩</s>。<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></li></ul></li></ul></li></ul><ul><li>一些人可能會主張SJW真的有理想、至少出發點是良善的，其他一些人則可能認為這些人根本沒有真正的理想。
+<ul><li>不過就SJW所造成的負面影響來看，不論這些SJW是否真的支持這些理念，其實都不重要，重要的是這些人確實已經造成了實質損害，甚至已經使得社會在實質上變得<b>更加不正義</b>。</li></ul></li></ul><ul><li>應當要注意的是，一些人可能平常能用常理思考、做出還算中肯的結論，甚至可能平常和本文的多數讀者一樣，是個厭惡動漫遊戲的劇情內容被SJW給摧毀的阿宅，但碰到某些議題會突然變成SJW。
+<ul><li>所以說一個人是否是SJW，並沒有那麼地一清二楚，甚至一個人可以在大致反對SJW的同時，在某些議題上變成標準的SJW，一些喜好動漫電玩的阿宅可能在某些議題上也會變成SJW。<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></li>
+<li>除此之外，有時一些問題可能確實需要改進，但也確實會引發多數人的反對的。</li>
+<li>此外，也有一些議題是很難判定是否偏激，或者是否已經開始走偏的。</li>
+<li><b>此外也不要忘記在一些人的眼中，動漫遊戲喜好者起身反對政治人物和媒體將自己和色情、暴力或幼稚劃上等號的作為，可能和那些參社會運動的人並無二致，甚至爭取動漫遊戲喜好者受尊重的做為本身就是一種社會運動，所以反對SJW的暴行時，切忌不要做出搬石頭砸自己的腳的事。</b></li>
+<li>總之，這就和現實中判定多數人的善惡忠奸一樣，在事實上會比看起來的來得困難。<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></li></ul></li></ul><ul><li>不過另一方面，「革命不是請客吃飯」，所以即使SJW和非SJW之間的界線其實並不那麼地清楚，對於SJW的惡行惡狀，還是可以大肆聲討。
+<ul><li>碰到他人使用奧步，還手是合理的，「打不還手、罵不還口」不僅一般人無法做到，而且可能反而不能得到支持，甚至在聲討他人罪行時，這種要求本身是不對的；但由於在社會上，「<a href="/%E6%88%90%E5%8F%A5/%E8%AA%8D%E7%9C%9F%E4%BD%A0%E5%B0%B1%E8%BC%B8%E4%BA%86" title="成句/認真你就輸了">首先使用暴力你就輸了</a>」是硬道理之故，因此對於SJW，應當要先講理，等到SJW使用奧步時，再以同等的奧步還擊<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>，而且應當將SJW的各種奧步和惡行都節錄下來，讓世人知道，使他們無法裝無辜、扮演受害者(play the victim)。<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li>
+<li>如果使用的手段的激烈程度超過SJW的手段，或者他人不知道SJW曾經使用過奧步，那麼任何對SJW的反擊，很容易就會達到反效果，讓SJW贏得第三方普遍的支持，進而讓SJW得逞。</li>
+<li>另外有鑑於SJW其實有組織的事實，沒有組織的對抗，是根本不可能使得SJW的勢力消失或衰退的，頂多是個別的SJW因此受挫時能稍微爽一下而已</li>
+<li>有鑑於SJW罪惡滔天、缺乏邏輯，因此只要應對得當、方法得宜，我們相信第三方社會大眾是不會支持SJW的。</li></ul></li></ul><ul><li>簡言之，SJW根本就是假借社會正義和社會運動之名行不義之舉的新型態流氓，而且常常還是人們普遍瞧不起的那種專門欺善怕惡的流氓，甚至根本就是一群<a href="/%E4%BA%BA%E6%B8%A3" title="人渣">人渣</a>。<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><ul><li>根據中文維基百科的講法，流氓是「經常生事、不講道理、靠威嚇、翹課等手段取得利益者」，從這個定義和上述SJW的行為來看，用「流氓」一詞來形容SJW，是完全合理的。</li>
+<li>另外根據教育部國語辭典的定義來看，流氓是「<a rel="nofollow" class="external text" href="http://dict.revised.moe.edu.tw/cgi-bin/cbdic/gsweb.cgi?o=dcbdic&amp;searchid=Z00000063296">不務正業、為非作歹，破壞社會秩序的不法分子。</a>」，從這個定義和上述SJW的行為來看，用「流氓」一詞來形容SJW，也一樣是合理的。</li>
+<li>而且從SJW其實有組織這點來看，他們已經不僅僅只是個別的流氓了，而是像黑手黨一樣有組織的黑道團體。也就是說SJW的組織可以說是掛著社運團體名義的幫派和詐騙集團。</li>
+<li><s>所以回應SJW時可以說「社會正義是三小，我只知道我在跟流氓講話」</s></li>
+<li><s>因此對付SJW的方法出來了：將這些人給提報為流氓，讓政府機關介入處理SJW</s><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></li>
+<li>另外根據教育部國語辭典的定義來看，人渣是「<a rel="nofollow" class="external text" href="http://dict.revised.moe.edu.tw/cgi-bin/cbdic/gsweb.cgi?o=dcbdic&amp;searchid=Z00000135855">對社會敗類的鄙稱</a>」，而敗類是「<a rel="nofollow" class="external text" href="http://dict.revised.moe.edu.tw/cgi-bin/cbdic/gsweb.cgi?o=dcbdic&amp;searchid=Z00000014659">團體中品德敗壞、墮落的人</a>」，因此從這個定義和上述SJW的行為來看，用「<a href="/%E4%BA%BA%E6%B8%A3" title="人渣">人渣</a>」一詞來形容SJW，也一樣是合理的。</li>
+<li><b>有鑑於SJW對既有文化創意產品甚至現實文物所造成的破壞，可以認為SJW完全就是歐美國家的紅衛兵，而講求<a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">政治正確</a>已經變成了歐美版的文化大革命。</b><s>可見SJW完全就是中國共產黨翻版，是真正的中共同路人。</s></li>
+<li>事實上，達致真正平權的最簡單第一步──停止標籤
+<ul><li>正如<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=DNS8e-yfS9U">摩根費曼提到</a>，不要用「黑人」和「白人」區分，每個人都是獨立個體</li>
+<li><s>也就是說那些越強調不要種族歧視的反而才是最種族歧視</s></li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關爭議"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E7.88.AD.E8.AD.B0">相關爭議</span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="島民爭議事件一覽"></span><span class="mw-headline" id=".E5.B3.B6.E6.B0.91.E7.88.AD.E8.AD.B0.E4.BA.8B.E4.BB.B6.E4.B8.80.E8.A6.BD">島民爭議事件一覽</span></h3>
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><th style="width: 150pt;">事件名稱
+</th>
+<th>原因
+</th>
+<th>結果
+</th>
+<th>備註
+</th></tr><tr><td><a rel="nofollow" class="external text" href="https://www.appledaily.com.tw/headline/20050102/D6WORT34TGPDLRH5SDXOWCHX6Y">台中書展燒書</a>
+</td>
+<td>2005年台中市政府以提倡出版品分級為名，邀請兩名模特兒在會場前焚燒3000本「色情書刊」並高喊口號。
+</td>
+<td>
+</td>
+<td>諷刺的是<a rel="nofollow" class="external text" href="https://www.ptt.cc/bbs/C_Chat/M.1657711831.A.787.html">政府邀請的二人都曾<b>拍攝高尺度寫真</b></a><s>，只許州官放火的概念</s>
+</td></tr><tr><td><a href="/%E6%B5%81%E8%A8%80%E7%B5%82%E7%B5%90%E7%99%BE%E9%81%B8/%E5%9C%8B%E9%9A%9B%E5%8F%8A%E7%A4%BE%E6%9C%83%E6%96%87%E5%8C%96%E5%83%B9%E5%80%BC%E6%B5%81%E8%A8%80#.E2.80.BB.E6.AD.BB.E5.88.91.E7.84.A1.E5.8A.A9.E6.96.BC.E6.94.B9.E5.96.84.E6.B2.BB.E5.AE.89.EF.BC.9F.E6.87.89.E8.A9.B2.E5.BB.A2.E9.99.A4.E6.AD.BB.E5.88.91.EF.BC.9F" title="流言終結百選/國際及社會文化價值流言">死刑存廢</a>
+</td>
+<td>自1950年代以來，呼籲各國政府廢除死刑成為各大人權團體的重點之一。
+</td>
+<td>有越來越多國家廢除死刑，就算保留死刑的國家，如美國，也開始出現判死刑後數十年不執行，以致死刑犯更常老死獄中而不是被處決的狀況
+</td>
+<td>在一些地方，雖然政府沒有廢死，但因為民眾對廢除死刑的疑慮<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>及人權團體的積極推動，使得死刑成為一個討論話題。
+</td></tr><tr><td>Metoo
+</td>
+<td>影視製作人Harvey Weinstein性騷擾事件後，當事人Alyssa Milano呼籲其他遭到性騷擾或是性侵害的女性影視人將經歷公諸於世
+</td>
+<td>多人被迫退出演藝圈甚至吃上官司，但後來的事件很多都被證實子虛烏有，像是安柏·赫德對前夫強尼·戴普的指控，再到Alec Holowka被Metoo的不實指控害到抑鬱自殺都是（詳見下面被SJW牽連/陷害的人事物一覽）
+</td>
+<td>這個標籤其實在2006年就有使用紀錄<br>本意雖好，最後卻因為濫用標籤變相獵巫的經典案例，更甚是成了敲詐及誹謗男性的手段之一
+</td></tr><tr><td>BLM（Black Live Matters）
+</td>
+<td>2012年Trayvon Martin被警察槍殺，警員翌年獲判無罪引發黑人社群不滿及示威
+</td>
+<td>到2020年非裔美國人George Floyd遭到執法時手法過重的白人警察殺害時，終於引發全美各地暴亂、許多社會人士以及廠商被強迫表態和自肅，而作為防疫工具的口罩被視作政治標誌遭到檢討，間接導致美國疫情惡化<br>遊戲界中，下述的Valve因為沒有表態立場成了SJW攻擊對象
+</td>
+<td>反法西斯左翼組織ANTIFA因為挑動國內衝突在事件中被列為恐怖組織<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為時機過於敏感（外加2020年11月就是總統大選），甚至有中國政府為此事件幕後黑手的陰謀論<br>對於警方對George Floyd使用不恰當的過度武力是大多數人接受的共識，但包括黑人在內不少人對於把前科纍纍的他封為種族爭議中犧牲的英雄感到反感<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></span>
+</td></tr><tr><td><a href="/Steam" title="Steam">Steam</a>平台下架風波
+</td>
+<td>母公司Valve沒有在BLM事件中表態
+</td>
+<td>多家遊戲廠商以及製作者下架遊戲抗議
+</td>
+<td><s>雖然後來揭發發起杯葛行動製作人的上架遊戲水準參差，變相只是替Valve解決Steam太多低水準垃圾遊戲問題</s>
+</td></tr><tr><td>防武漢肺炎（COVID-19）自警團（コロナ自警団）
+</td>
+<td>日本在武漢肺炎疫情下實行自肅政策，有民眾自起巡街或在網路上糾察沒有遵守政府規範的人
+</td>
+<td>多人遭到自警團威脅身家甚至侵害私有財產<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></td>
+<td>此類事件在網路上甚至有「コロナ私刑」的惡名。不過隨著日本解除緊急事態已有減少
+</td></tr><tr><td><a href="/%E6%B6%BC%E5%AE%AE%E6%98%A5%E6%97%A5" title="涼宮春日">涼宮春日</a>事件
+</td>
+<td>藝人吳宗憲<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>在節目「我猜我猜我猜猜猜」上，以捏造的小說內容指稱涼宮春日是色情作品，並挑動來賓羞辱動漫愛好者
+</td>
+<td>惡化台灣老一輩以及<a href="/ACG" title="ACG">ACG</a>族群的關係，很多家長甚至仍因此蔑視動漫作品，把它們和色情劃上等號<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></td>
+<td>同製作組還有未經准許拆封、亂動動漫周邊以及製作物<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>的惡行<br><s>憲哥的自拍照很會各種<a href="/%E9%A1%8F%E8%97%9D" title="顏藝">顏藝</a>，卻也成為了部分網友間的惡搞素材</s>
+</td></tr><tr><td><a href="/%E9%AB%98%E6%B5%B7%E5%8D%83%E6%AD%8C" title="高海千歌">高海千歌</a>立牌爭議
+</td>
+<td>被質疑其替地方農業跨界宣傳蜜柑的人形立牌看板敏感部位過於明顯（胯下痕）招致抗議
+</td>
+<td>立牌一度遭到撤下
+</td>
+<td>
+</td></tr><tr><td>日本警察VTuber宣導片炎上
+</td>
+<td>虛擬YouTuber「戶定梨香」替千葉縣警方製作的交通政令宣導遭到全國女權議員聯盟抨擊「物化女性」、「誘使性犯罪」
+</td>
+<td>儘管全國女權議員聯盟的聲明遭到反彈，影片還是被主動下架
+</td>
+<td>
+</td></tr><tr><td>溫泉娘性歧視爭議
+</td>
+<td>為エンバウンド公司聯合日本觀光廳推出的旅遊宣傳計畫，人設遭到Colabo負責人仁藤夢乃在推特撻伐性剝削女性
+</td>
+<td>官網以及觀光廳移除部分介紹
+</td>
+<td>部分角色出自R18繪師之手，會炎上也是意料中的事
+</td></tr><tr><td>新娘投票停辦
+</td>
+<td>《名偵探柯南：萬聖節的新娘》宣傳活動包含觀眾投票決選心目中的新娘
+</td>
+<td>遭到抗議「價值觀過時」停辦
+</td>
+<td>
+</td></tr><tr><td>Kyo0007之亂
+</td>
+<td>該巴哈姆特使用者公然自稱在<a href="/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99" title="巴哈姆特電玩資訊站">巴哈姆特</a>檢舉了<b>已經標示十八禁</b>的<s>飆<a href="/%E4%B8%8A%E8%BB%8A" title="上車">車</a></s>動畫《<a href="/%E7%95%B0%E7%A8%AE%E6%97%8F%E9%A2%A8%E4%BF%97%E5%A8%98%E8%A9%95%E9%91%91%E6%8C%87%E5%8D%97" title="異種族風俗娘評鑑指南">異種族風俗娘評鑑指南</a>》因此引發眾怒
+</td>
+<td>動畫瘋一度決定下架換成有河蟹畫面的AT-X版本，但在網民抗議下折衷改成付費收看
+</td>
+<td>動畫瘋付費會員人數次月創下歷史新高，Kyo0007則在網民檢舉下被永久封帳
+</td></tr><tr><td>支語警察
+</td>
+<td>中國文化統戰議題被放大檢視，因此有人開始糾正使用中國用語的網民，如「視頻」、「質量」等詞都是糾正目標
+</td>
+<td>但時常造成討論串擦槍走火甚至歪樓
+</td>
+<td>除了對專有名詞的譯法提出糾正外都有可能成為引爆筆戰的原因
+</td></tr><tr><td><a href="/BanG_Dream!" title="BanG Dream!">BanG Dream!</a>大漁旗事件
+</td>
+<td>短篇動畫<a rel="nofollow" class="external text" href="https://anime.bang-dream.com/pico/special/present/">大漁旗</a>的設計因為和太陽旗相像，被南韓觀眾認定為宣揚軍國主義
+</td>
+<td>官方仍未對此作出回應
+</td>
+<td>南韓因為過去遭到日本殖民統治，一直有官方帶頭的反日風氣，過去也有和中國相同的<a href="/%E6%B2%B3%E8%9F%B9" title="河蟹">河蟹</a>日本武器紀錄
+</td></tr><tr><td><a href="/%E5%8E%9F%E7%A5%9E" title="原神">原神</a>反派設計
+</td>
+<td>主要反派丘丘人的人設及動作參考美洲原住民，被認定是歧視
+</td>
+<td>官方仍未對此作出回應；至於其他角色的造型被河蟹是政府審查使然
+</td>
+<td><s>反正圍繞本作的爭議不差這一個，而且只有歐美國家比較關心這點</s>
+</td></tr><tr><td>Fixed Art
+</td>
+<td colspan="3"><center>詳見下方關於宇崎學妹的介紹</center>
+</td></tr><tr><td>歐美素食主義
+</td>
+<td>
+</td>
+<td>會有以暴力等手段來要求他人吃素，詳見下方關於Tash Peterso及PETA的介紹
+</td>
+<td>
+</td></tr><tr><td>蒙娜麗莎破壞事件
+</td>
+<td>2022年5月29日位於法國巴黎羅浮宮的蒙娜麗莎畫像遭到偽裝身障人士的36歲男子以「抗議氣候變遷」為由砸蛋糕
+</td>
+<td>當事人遭到逮捕並送入精神療養機構，畫作則因防彈玻璃外殼保護倖免於難
+</td>
+<td>
+</td></tr><tr><td>歐美LGBT專法
+</td>
+<td>
+</td>
+<td>自稱跨性別者的男性侵占女性空間的事蹟層出不窮，像是在廁所和同房的女子遭到性侵、強佔女性專屬的體育競賽、跨性別囚犯在女子監獄侵害女囚犯等等
+</td>
+<td>強佔<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>女性專屬的體育競賽這一點目前都被默認，直至男跨女的Lia Thomas贏得數項游泳賽事後才被放大檢視，演變成女權與跨性別者間的亂戰
+</td></tr></tbody></table><h3 class="in-block"><span id="被島民爭論的SJW知名人物一覽"></span><span class="mw-headline" id=".E8.A2.AB.E5.B3.B6.E6.B0.91.E7.88.AD.E8.AB.96.E7.9A.84SJW.E7.9F.A5.E5.90.8D.E4.BA.BA.E7.89.A9.E4.B8.80.E8.A6.BD">被島民爭論的SJW知名人物一覽</span></h3>
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><th style="width: 150pt;">大名
+</th>
+<th>職業
+</th>
+<th>原因
+</th>
+<th>備註
+</th></tr><tr><td>Anita Sarkeesian
+</td>
+<td>社會評論家、電玩開發顧問
+</td>
+<td>GamerGate事件、<a href="/%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" title="最後生還者2炎上事件">最後生還者2炎上事件</a>
+</td>
+<td>雖然自稱電玩評論以及電玩開發顧問，但事實上<a href="/%E3%82%A8%E3%82%A2%E3%83%97" title="エアプ">她根本就沒有去玩自己評論的作品，只是把遊戲影片斷章取義去煽動網民</a>
+</td></tr><tr><td>Zoë Tiberius Quinn
+</td>
+<td>電玩開發人員
+</td>
+<td>Gamergate事件的核心，其開發遊戲 Depression Quest在媒體獲得好評，卻在大眾評分獲得差評，一部分玩家認為這是Zoë Quinn賄賂評分員跟記者所導致的，而Zoë Quinn則以厭女症反駁那些質疑她的人，進而引爆網戰。
+<p>Gamergate事件後Zoe Quinn宣稱要製作新的充滿正確意識的獨立遊戲，並透過群募獲得約85000美金的資金，兩年過去不但遊戲完全沒影，也沒有宣布終止製作或退錢給贊助者，在她推特上質疑遊戲進度的人更會被即時列入黑名單。
+</p><p>於2019年八月宣稱2017年度獨立遊戲得主Night in the Woods的開發者，Alec Holowka在兩人交往時將她禁閉在家中並且性侵她。指控完全沒有任何證據，但在媒體競相指責下Alec因此而被自己工作的遊戲公司解約，最後因為不堪各方責罵而在八月30日自殺。
+</p><p>之後網路社群查閱Zoe Quinn的社群媒體發現，在她宣稱自己被禁閉的時間內仍然有正常發文等等，還有不少與其他人的合照，無論如何看起來都不像"受到禁閉"的樣子。面對這些疑點Zoe Quinn的回應是拒絕發表任何評論，並且關閉自己的twitter。
+</p>
+</td>
+<td>除了Reddit外，The Escapist，NeoGAF，Steam和4chan各論壇也都發生大規模刪除有關Zoe的討論，引發玩家對於媒體做言論控制的疑慮<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></td></tr><tr><td>Greta Thunberg<br>格蕾塔·童貝里<br>（瑞典環保少女）
+</td>
+<td>環保人士
+</td>
+<td>言行表裡不一：乘坐高級列車時被抓包浪費食物（吐司邊），連鐵道公司都看不下去發推<a href="/%E5%90%90%E6%A7%BD" title="吐槽">吐槽</a><br>沒有完全如口上所說乘坐太陽能帆船展開旅程，而是在太陽能帆船身後跟著大型輪船護航跨越太平洋…<br><s>會被黑其實是拿氣候變化為由公開翹課，讓還在讀書的跟上班的人很賭爛。</s>
+</td>
+<td><b>結果成為了2019年時代雜誌年代人物<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></b><br><s>蠔爹油</s><b>How Dare You!</b><br><s>最後還被發現其實是她老爸利用她來出名賺錢</s><br>2021年5月自己在推特轉發CNN對中國報導的推文並對中國碳排放量做出自己的見解，結果隨即觸動<a href="/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%9A%84%E5%AF%A9%E6%9F%A5%E5%88%B6%E5%BA%A6" title="中國大陸的審查制度">中國的敏感神經</a>並被中國媒體狠批她是西方白人的傲慢偏見的代表
+</td></tr><tr><td>Brie Larson
+</td>
+<td>演員
+</td>
+<td>《獨角獸之店》及《<s>經期大媽</s>驚奇隊長》的言論爭議，再加上在後者的演出而讓不少觀眾對她沒好感<s>，明明她在《不存在的房間》時就憑其演技得到奧斯卡金像獎的……</s>
+</td>
+<td>
+</td></tr><tr><td>Neil Druckmann
+</td>
+<td>遊戲公司Naughty Dog副總裁
+</td>
+<td><a href="/%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" title="最後生還者2炎上事件">最後生還者2炎上事件</a>、秘境探險4
+</td>
+<td><s>美國版<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2%E8%A3%BD%E4%BD%9C%E5%9C%98%E9%9A%8A%E6%9B%B4%E6%8F%9B%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" title="動物朋友2製作團隊更換炎上事件">細谷伸之</a>，</s>關於他的豐功偉業請見上方專條。
+</td></tr><tr><td>George Hill
+</td>
+<td>NBA球員
+</td>
+<td>支持BLM，在Jacob Blake槍擊案時第一個跳出來要求罷賽。
+</td>
+<td>結果他的球隊公鹿在季後賽第二輪就被熱火爆冷門以1:4擊敗<s>被動罷賽</s>，由於公鹿的總冠軍呼聲很高，被認定是導致球隊士氣潰散的元兇。
+</td></tr><tr><td>Brianna Wu
+</td>
+<td>遊戲工作室Giant Spacekat共同創辦人
+</td>
+<td>發推指責參戰<a href="/%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2" title="異度神劍2">異度神劍2</a>、胸部尺寸偏大的焰與光人設荒謬<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup>，後來更表示不想和批評的玩家有任何接觸而刪推
+</td>
+<td>順帶一提，其參與製作的遊戲在<a href="/Steam" title="Steam">Steam</a>上多為負評（且角色設計也不堪入目），甚至有留言指出她可能在GamerGate事件有份
+</td></tr><tr><td>Tash Peterson
+</td>
+<td>澳洲素食主義倡議者、dontwatch.net創辦人
+</td>
+<td>在海產餐廳、肯德基、超市鬧事，指責用餐者虐待動物、要求他們改吃素甚至對店內潑灑紅漆
+</td>
+<td>被西澳大利亞<b>禁止進入任何營業場所</b>後就跑去東澳大利亞的墨爾本鬧事...至少她是這份列表中唯一被制裁的（無誤）<br>澳洲經常被袋鼠和野兔大量繁殖困擾甚至大片土地沙漠化，畜牧業也是該國的經濟命脈之一
+</td></tr><tr><td>PETA（善待動物組織）
+</td>
+<td>國際組織
+</td>
+<td>對於涉及經濟動物的行為一概反對，從澳洲的水族館餐廳到二次元的動物森友會、精靈寶可夢都被他們抗議過<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></td>
+<td>不只PETA，很多其他喜愛動物或某些特定種類動物的人，像是部分愛貓人士、愛狗人士等，也經常因為他們的機車行為而被人批評。沒有一個正常人會支持虐待動物，虐待動物當然會受到一般大眾的普遍批評，但一些動保人士的其機車行為實在令人傻眼。
+</td></tr><tr><td>臺灣廢除死刑推動聯盟
+</td>
+<td>聯合社會組織
+</td>
+<td>最早是基於知名冤獄徐自強案成立，對死刑犯個案提供協助的組織，但在後來整個變調成逢死必反，配合政黨大大干預司法體系運作，造成更多法官成為恐龍法官。
+</td>
+<td>以鄭捷案、小燈泡案為代表的隨機殺傷路人事件在2010年代增多，使得許多人認可死刑作為生命刑的嚇阻力，是組織的反對者近年大增的主因。
+</td></tr></tbody></table><h3 class="in-block"><span id="被SJW牽連/陷害的人事物一覽"></span><span class="mw-headline" id=".E8.A2.ABSJW.E7.89.BD.E9.80.A3.2F.E9.99.B7.E5.AE.B3.E7.9A.84.E4.BA.BA.E4.BA.8B.E7.89.A9.E4.B8.80.E8.A6.BD">被SJW牽連/陷害的人事物一覽</span></h3>
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><th style="width: 150pt;">名稱
+</th>
+<th>被批鬥的原因
+</th>
+<th>結果
+</th>
+<th>備註
+</th></tr><tr><td>Alec Holowka
+</td>
+<td>被遊戲製作上的同事Zoë Quinn指稱性侵
+</td>
+<td>其所參與製作的遊戲被延宕發售，本人則在2019年8月30日自殺
+</td>
+<td>
+</td></tr><tr><td>J.K. Rowling（<a href="/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E7%B3%BB%E5%88%97" title="哈利波特系列">哈利波特系列</a>作者）
+</td>
+<td>轉推文章中以「來月事的人」（People who menstruate）代替專指女性（Women）一詞，以尊重多元性別，但是反被SJW攻擊是反LGBT。
+</td>
+<td>本人遭到自己的粉絲網站開除，並被SJW在網路上追殺，當年電影班底幾乎無人聲援。
+</td>
+<td>諷刺的是本人實際上是LGBT權益的支持者<s>，也因此經常被某些人嘴她把自己筆下角色掰彎</s> ，SJW這次的行為已形同搬石頭砸自己的腳了。2020出的新書也被拿來炒話題，後來連改編電影的紀念番組都沒她的份。
+</td></tr><tr><td>Charles Robert Darwin（物競天擇作者、現代演化論奠基者）
+</td>
+<td>因為其理論基礎和左派平等主義意識形態相容度太低，加上被視為英國帝國主義象徵而被批鬥。
+</td>
+<td>英國博物館開始審查達爾文的著作，並提議移除"過於種族主義"的部分。<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup></td>
+<td>作為過去進步主義與科學的象徵，現今居然也受到科學機構與自稱進步派的SJW之審查與批評，這類事件被視為科學界被極左把持而逐漸失去客觀性的證據之一。
+</td></tr><tr><td>蘇啟誠
+</td>
+<td>2018年9月謝長廷擔任駐日代表期間，在燕子颱風侵襲的機場淹水事件中被批踢踢的網民抹黑成「沒有作為並將黑鍋甩到其下屬蘇身上」，而被特定立場政治名嘴在政論節目上批鬥蘇「舔日」以此進行護航。
+</td>
+<td>2018年9月14日蘇在處長官邸上吊自殺身亡，享壽61歲<br>從蘇的遺書可得知處理國人滯留在關西機場的問題，卻要一直遭受嚴厲批評而感到痛苦<br>經過調查證實很多關於他的負面消息都是<b>網路上的網軍造謠放出的假消息</b>並且更被發現多為特定政治立場的網軍所為。<br>也因為這次事件加上10月的普悠瑪號列車出軌事故關係影響，以致做為執政黨的民進黨於11月24日的九合一公投嚴重慘敗，大量縣市首長通通被國民黨的參選人奪去或連任。
+</td>
+<td>作為罪魁禍首之一的楊蕙如已被批踢踢八卦版永久列入黑名單。<br>在政論節目批鬥蘇的兇手之一的政治名嘴黃暐瀚其母親於2021年5月5日出車禍死亡，也被某些人諷刺批評是惡報。
+</td></tr><tr><td><s>台灣某便當店</s>
+</td>
+<td>台灣立報記者鄭諺鴻指稱拒賣便當給菲律賓移工，然後透過一名叫Grace Tung（本名：董曉秋）的女網友在臉書發文宣稱在一間便當店看不慣老闆欺負菲籍勞工並為其伸張正義，該文瞬間爆紅還因此上了國際新聞版面，後續不久還有個Hung En Pan（本名：潘鴻恩）也跟進發表與前者類似故事的文章。
+</td>
+<td>許多網友向Grace Tung求問是哪間便當店並想抵制，但本人卻說店家想圓滿解決請求別公開反而開始引起其他網友對她的文章的真實性。<br>後來證實為造謠，連便當店老闆都是記者找來假扮的。造謠的方式和內容極為粗糙，是被快速識破的主要原因。造謠的主嫌三人則<s>因為造謠得太蠢又太明顯而</s>被只被法院判處數千元的罰鍰。
+</td>
+<td>稍早前菲律賓引發的的廣大興28號槍擊案是事件的爆發背景。
+</td></tr><tr><td>新竹市立光復高中
+</td>
+<td>學生在<b>老師同意下</b>以Cosplay二戰德國陸軍、揶揄<a href="/%E5%B8%8C%E7%89%B9%E5%8B%92" class="mw-redirect" title="希特勒">希特勒</a>作為遊行主題。
+</td>
+<td>因為媒體獵巫鬧上國際新聞、校長辭職、政府補助款取消。
+</td>
+<td>
+</td></tr><tr><td>Jack Gantos
+</td>
+<td>創作了一本探討恐怖攻擊的成人繪本"A Suicide Bomber Sits in the Library"。
+</td>
+<td>該書被SJW聲討後又遭到出版社Abrams ComicArts杯葛，最後以個人名義出版。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.goodreads.com/book/show/41104075-a-suicide-bomber-sits-in-the-library">被SJW洗負評的證據</a>
+</td></tr><tr><td>PewDiePie
+</td>
+<td>在實況中常有政治不正確的言詞。
+</td>
+<td>樹大招風遭到聲討，然而SJW槓上pewds（他的支持者）時踢到鐵板，最後反成為被揶揄的對象。
+</td>
+<td>後來PewDiePie沒有受邀參與Youtube Rewind的拍攝也被認為和此有關；事實上Youtube現任CEO同時也是Google創辦人之一的Susan Wojcicki掌管後，該網站的審查政策就越加嚴格，大量影片不論其政治不正確的發言立意為何，都會受到嚴格審查及查禁，但是審查的標準卻不詳實公布而有多重標準甚至亂審之嫌。
+</td></tr><tr><td><a href="/Exhentai" title="Exhentai">Exhentai</a>
+</td>
+<td>伺服器在荷蘭，而歐盟對二次元色情的管制日漸嚴厲，荷蘭的伺服器供應商未免遭受波及而主動要求解約。
+</td>
+<td>網站創辦人兼管理員Maximum_Joe在4_chan發出消息告知網站將在12小時內關閉，並且解除所有下載限制，並發出使用者備份通知，強調「絕非演習」；此後也的確關閉了網站。消息一出，網友不論人種國籍均互助合作，爭相備份所有的資料，更有網友PO出了成功備份網站整整50TB的原始檔案（不含翻譯版本），體現了薄本面前人人自由、平等、仁愛而團結的高尚精神，更有網友在推特以及FB等社交媒體向Exhentai致敬的大量貼文；其後伺服器轉移到東歐的摩爾多瓦後重生
+</td>
+<td>雖然Exhentai拯救了無數紳士淑女，但始終是侵害著作權的非法網站，如果是因為著作權而強制下架，網友自然能夠接受（畢竟理虧），但被關閉的理由卻是兒童色情而引起各方網友對日漸嚴格的法規更加不滿。
+</td></tr><tr><td><a href="/Formula_1" title="Formula 1">F1</a>賽車女郎
+</td>
+<td>官方遭遇抗議。
+</td>
+<td>FIA決定自2018起取消賽車女郎。
+</td>
+<td>諷刺的是賽車女郎們多半表態相當熱愛自己的工作，這已經是侵害工作權的情況了。同時因為開支問題，FIA早就已經想要將不必要的單位撤除，這樣反而讓FIA得到裁員的大義名分。而其實賽車女郎根本不是以外表為唯一賣點的職業，她們的地位是品牌代言人，不少賽車女郎有相當高的學歷或專業技能，有些女郎本身就有F1的賽車資格，還受到不少年輕女性的傾慕，更不用說外貌本來就是品牌代言人的必要條件；指稱其僅在乎外表以及物化女性其實反而是在歧視女郎們。<s>不爽只有女郎你們可以聯署要求增加賽車猛男啊</s>
+</td></tr><tr><td>眾多ACG繪師
+</td>
+<td>主要原因是聯合國、歐盟及各方歐美人士對二次元色情的界定日漸嚴厲，連畫正常圖的繪師<a href="/%E6%88%90%E5%8F%A5/%E8%BA%BA%E8%91%97%E4%B9%9F%E4%B8%AD%E6%A7%8D" title="成句/躺著也中槍">也被牽連</a>。<br>至於在台灣等地的類似事件主要肇因於其他SJW活動。
+</td>
+<td>繪師社群網路帳號被封帳，或是被要求停止創作。2019年聯合國甚至把二次元色情列入管制，造成很多繪師轉往Plurk或<a href="/Pixiv" title="Pixiv">pixiv</a>發展。
+</td></tr><tr><td>歐美眾多歷史人物和神話的塑像
+</td>
+<td>原型在BLM風波中被認定為種族主義者，另外有被認為是父權遺毒的案例。
+</td>
+<td>塑像遭到抗議者破壞、污損甚至惡搞，連林肯、邱吉爾、羅斯福這些沒有推動種族歧視的人物也遭殃了。
+</td>
+<td>此外連耶穌基督和聖母瑪利亞也被SJW列入進攻目標，理由僅僅是<b>他們是白皮膚</b>，卻忽視他們是猶太人的歷史事實。
+</td></tr><tr><td>眾多奇幻設定中的奇幻種族，如歐克獸人（orc）、黑暗精靈（dark elf）等
+</td>
+<td>原型在BLM風波中被認定是對黑人的種族歧視。
+</td>
+<td>許多奇幻小說相關的影劇與遊戲被迫刪除或是改寫這些"奇幻種族"的設定<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>，以避免被BLM騷擾。
+</td>
+<td>事實上是美國民間<a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">政治正確</a>的濫觴，具體個例在該條目亦有提及。
+</td></tr><tr><td><a href="/%E7%B1%83%E7%90%83" title="籃球">NBA</a>
+</td>
+<td>支持BLM的球員工會長暨球星Kyrie Irving在NBA因為武漢肺炎影響決定於7月復賽之際帶頭揚言罷賽，甚至抹黑聯盟「利用球員們的天賦牟利」<s>卻沒看到自己賺了多少</s>
+</td>
+<td>NBA如期復賽，Kyrie Irving則以傷勢為由不出賽<br>Jacob Blake槍擊案後又有公鹿為代表的球隊要求再次停賽，但被聯盟拒絕<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>，最後因為多數球隊決定繼續比賽，僅有公鹿以延後一場比賽抗議。
+</td>
+<td>因為Irving本身就有很多場下爭議，<b>很多關於此事的報導都是抹黑他的假新聞</b>，務必仔細閱聽<br>值得一提的是很多參與罷賽會議的球員並沒有表態支持。
+</td></tr><tr><td>眾多歐美reddit網友
+</td>
+<td>主要原因是SJW活動在許多reddit子版的蓬勃發展，使得大量SJW網軍與分身帳號在那些論壇取得了管理員的身分。
+</td>
+<td>致使大量reddit子版變成政治正確的一言堂，許多原本在該子版的網友不是被SJW的惡意檢舉逼到刪帳號，就是脫離該子版另創新版來進行相關領域討論，詳情可見這個<a rel="nofollow" class="external text" href="https://www.reddit.com/r/WatchRedditDie/">reddit子版</a>裡面整理了許多被SJW控制的reddit子版慘狀。
+</td>
+<td>但是隨著時間的過去新的子版也會有SJW滲透的問題，當新的子版被SJW再次控制後，原有的網友就只能再次脫離另創新版（恐怖的無限輪迴）。
+</td></tr><tr><td><a href="/SCP%E5%9F%BA%E9%87%91%E6%9C%83" class="mw-redirect" title="SCP基金會">SCP基金會</a>
+</td>
+<td>部分項目因為作者性別認同引發爭議，其他討論版如Reddit和FB也將SJW話題封禁，後來在網站Logo於驕傲月改成彩虹色時終於爆發
+</td>
+<td>許多成員刪文出走成立RPC管理局
+</td>
+<td>
+</td></tr><tr><td><a href="/%E5%B0%8D%E9%A6%AC%E6%88%B0%E9%AC%BC" title="對馬戰鬼">對馬戰鬼</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=SSW76F0OIoM">最初預告</a>時邀請了<b>非日本人</b>的Cornelius Boots吹奏尺八，被指責其文化挪用 (Cultural appropriation)<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup></td>
+<td>攻擊Cornelius Boots的SJW並不知道他獲得尺八大師教學資格且深受日本音樂界認可，這事讓SJW慘遭滑鐵盧。<br>後來在遊戲正式發售後便蜂起在Metacritic洗榜刷負評指責白人做的遊戲根不了解日本文化。
+</td>
+<td><a rel="nofollow" class="external text" href="https://i.redd.it/96uk2wwb8ob51.jpg">洗負評的評論之一</a><br>當時Cornelius Boots的事件有日本的網友出面指正SJW的言論，但SJW卻用<b>日本人怎麼可能英文那麼好去質疑他根本不是日本人</b>，事後還封鎖該網友<s>，更突顯SJW才是種族歧視份子</s><br>順帶一提，儘管部份日本歷史考究因為遊戲性需要而有所出入，但日本人對遊戲並沒有太大異議，反倒稱讚本作優秀，長崎縣觀光聯盟還在發售後主動與SIE合作推廣當地旅遊，可見十分受歡迎。
+</td></tr><tr><td>台灣司法<br>死刑存廢議題
+</td>
+<td>維持並執行死刑而不斷受到法學者、人權團體、歐盟不成比例的批判<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup></td>
+<td>以台灣的司法體制以及法學學派，法官在重大刑案宣判前必定會參考過去的判例，並且會顧慮其判決是否會顛覆過去判例的判決邏輯，以及判決對未來相似或相關案件以及社會的影響。其抗議在一定程度上導致了相當數量的法官寧願顛覆過去判例的判決邏輯，甚至被批為恐龍法官也不願在罪犯應判死時判處死刑。<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup></td>
+<td>也正是因為王清峰引發的爭議和很多廢死人士的出軌言論，使得本來民眾支持度稍微超過「反對廢除死刑，即使有配套措施也一樣」的「在實行無假釋無期徒刑做為配套措施下，國家可以有條件廢除死刑」這點，失去民眾的支持，之後民意變得更加支持死刑，且這種趨勢持續了好幾年，2010年之後很多年，超過一半的民眾都堅持反對廢除死刑，即使有配套措施也一樣。<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup></td></tr><tr><td>引進澳洲的多部輕小說、漫畫
+</td>
+<td>被議員Connie Bonaros（南澳洲參議員 Stirling Griff 的前參謀長）以出現性場面等原因認定為色情出版物，而她的主要政策之一就是要求澳洲分級委員會重新對所有的漫畫和動畫進行分級。
+</td>
+<td>負責代理的紀伊國屋聽聞消息後主動下架遭到點名的書籍，議員還在推特上<a rel="nofollow" class="external text" href="https://twitter.com/ConnieBonaros/status/1284991900659838976">祝賀</a>，當然遭到各路網民圍剿。
+</td>
+<td>目前已知遭到牽連的作品為<a href="/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F" title="刀劍神域">刀劍神域</a>、<a href="/%E5%93%A5%E5%B8%83%E6%9E%97%E6%AE%BA%E6%89%8B" title="哥布林殺手">哥布林殺手</a>、<a href="/NO_GAME_NO_LIFE_%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F" title="NO GAME NO LIFE 遊戲人生">遊戲人生</a>、情色漫畫老師、平行天堂、<a href="/%E6%98%9F%E5%88%BB%E9%BE%8D%E9%A8%8E%E5%A3%AB" title="星刻龍騎士">星刻龍騎士</a>、我在麻理體內，稍早前這些作品也被澳洲amazon下架<br>問題在於<b>既然認定是色情，為何不直接修改分級限制而是全部下架？</b>議員在推特上的祝賀文更凸顯她根本沒有看過這些作品，僅僅只是看過封面就將之打入兒童色情，甚至以為這些書籍是免費提供；同時也能看出刻意給予高帽去催促紀伊國屋將被點名的書籍從其他國家的分店中下架<s>，可見SJW是無視國界和文化差異的</s>。而基本上書籍的審查極為耗費時間和成本，<s>更何況一旦演變成訴訟戰，這次的SJW是隨時可以搞你的議員</s>這也是為什麼紀伊國屋和各通路均選擇主動下架的緣故。
+</td></tr><tr><td>樂高TECHNIC系列的貝爾波音V-22魚鷹套件
+</td>
+<td>上市前夕被反戰團體German Peace Society（DFG-VK）以美化戰爭及散播恐懼為由請願停售。
+</td>
+<td>樂高宣布延後上市（實質上就是取消發售計畫），並發出聲明稿，強調此舉是為了堅守迴避「真實軍備」的原則，以維護品牌價值，部分流落到ebay網站的套件成為珍貨
+</td>
+<td>魚鷹的確還未用於民間用途，但在救援以及搜救任務中V-22均有優良表現，樂高的發售立意也是基於此機在現實搜救的重要作用；其實軍用載具未必一定是戰鬥或協助戰鬥用途，軍隊也不是只會戰爭，救援、協助當地重建、護衛平民、提供醫療以及運送傷患等都是軍隊的工作。
+</td></tr><tr><td><a href="/%E5%AE%87%E5%B4%8E%E5%AD%B8%E5%A6%B9%E6%83%B3%E8%A6%81%E7%8E%A9%EF%BC%81" title="宇崎學妹想要玩！">宇崎學妹想要玩！</a>
+</td>
+<td>女主角宇崎花胸部過大加上20歳童顏引來歐美網民抨撃。
+</td>
+<td>歐美網民指稱該作物化女性、外觀<s>蛋蛋奶</s>不合理，於是創作「Fixed Art」<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup>並留言稱「I fixed it」<br>此舉被反對方批評這是對原作的極度不尊重，認為他們針對女性角色，還有人拿JOJO中的<b>17歳</b>猛男<a href="/%E7%A9%BA%E6%A2%9D%E6%89%BF%E5%A4%AA%E9%83%8E" title="空條承太郎">承太郎</a>出來諷刺。<br>之後有人拿<s>巨型<a href="/%E5%9C%B0%E9%9B%B7" title="地雷">地雷</a></s><a href="/%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" title="最後生還者2炎上事件">最後生還者2中的<s>母猩猩</s>艾比</a>出來比較，<a rel="nofollow" class="external text" href="http://yurukuyaru.com/archives/83704508.html">引來SJW廚繪畫艾比一拳打死宇崎花的惡意插畫</a>，<a rel="nofollow" class="external text" href="https://twitter.com/YourNerdWonder/status/1295164336076394497">但不久後又有護航者畫了艾比拳頭被無效化的插畫來反擊</a>。其他日本ACG角色如<a href="/%E7%9F%A2%E6%BE%A4%E6%97%A5%E9%A6%99" title="矢澤日香">矢澤日香</a>、<a href="/%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99" title="霧雨魔理沙">霧雨魔理沙</a><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup>也被Fixed Art惡搞。
+</td>
+<td>早在2019年10月時本作的紅十字會合作海報已於日本引來批評（環境型セクハラ），雖然被部份人士抵制，但是捐血量比去年提升了將近一成<br>動畫開播時也有日本網民指本作中畫奶子的方法違反生理結構（非惡意批評），同年八月時批踢踢希洽版圍繞此爭爆發了延燒多日的筆戰。
+</td></tr><tr><td>いど的<a href="/%E8%89%A6%E9%9A%8ACollection" title="艦隊Collection">艦隊Collection</a>漫畫
+</td>
+<td>雪風改二、丹陽實裝時在慶祝漫畫提及中華民國。
+</td>
+<td>推特遭到小粉紅鬧板後作者為了避免引起爭端被迫刪文。
+</td>
+<td>僅有推特上傳的部分被刪除，至於後續關於新刊發售消息的推文有各地網友前來應援。<br>值得一提的是丹陽的介紹中<b>完全沒有言及中華民國</b><s>也沒有閩南語粗口</s><sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>。
+</td></tr><tr><td>美樂蒂媽媽名言週邊
+</td>
+<td>當中引用的美樂蒂媽媽名言中「女人的敵人就是女人」被抨擊是醜化女性、製造性別歧視
+</td>
+<td>最終導致相關商品強制下架
+</td>
+<td>抨擊一方指現實的女人才不會這樣說，並指責寫出這種台詞的動畫的一定是男性、女性在動畫制作中都沒發言權云云。<br>但實際上美樂蒂動畫製作團隊是以女性為主甚至在訪問中提及是全女性班底<s>，結果真的應驗了美樂蒂媽的「女人的敵人就是女人」這句話</s>
+</td></tr></tbody></table><h3 class="in-block"><span id="被置入SJW元素而出問題的近代作品列表"></span><span class="mw-headline" id=".E8.A2.AB.E7.BD.AE.E5.85.A5SJW.E5.85.83.E7.B4.A0.E8.80.8C.E5.87.BA.E5.95.8F.E9.A1.8C.E7.9A.84.E8.BF.91.E4.BB.A3.E4.BD.9C.E5.93.81.E5.88.97.E8.A1.A8">被置入SJW元素而出問題的近代作品列表</span></h3>
+<h4 class="in-block"><span id="影視"></span><span class="mw-headline" id=".E5.BD.B1.E8.A6.96">影視</span></h4>
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><th style="width: 150pt;">作品名
+</th>
+<th>被增加或修改刪除的要素
+</th>
+<th>結果
+</th>
+<th>備註
+</th></tr><tr><td>星際大爭霸（2005年重製版）
+</td>
+<td>一些要角被"重製"成女人，以增加多樣性，這種破壞設定的行為導致原本的影迷憤怒
+</td>
+<td>SJW透過假帳號與滲透管理員的方式控制了許多相關討論網站，嚴重誤導了編劇與股東，使得後期集數愈發政治正確，結果整個新重啟的影集因為幾乎無人收看，最後於09年宣布收攤
+</td>
+<td><a rel="nofollow" class="external text" href="https://disneystarwarsisdumb.wordpress.com/2018/09/16/all-of-this-happened-15-years-ago">事件相關整理</a>這也是目前SJW如何感染破壞一個IP的經典例子
+</td></tr><tr><td>巫師（網飛版真人劇）
+</td>
+<td>一些要角由黑人或印度人飾演，甚至連希里也難逃此劫。完全無視了原作是以波蘭一帶的東歐文化背景為基礎的事實。
+</td>
+<td>雖說希里「黑化」導致炎上而讓網飛打消了念頭，但芙林吉拉·薇歌還是變成黑人版芙林吉拉
+</td>
+<td>也讓「網飛版」成為一個新MEME
+</td></tr><tr><td>蝙蝠女（CW電視劇）
+</td>
+<td>漫畫中蝙蝠女確實是女同性戀，但真人版把各種女<s>犬</s>權主義强行插入，預告片中明明女主偷蝙蝠俠的服裝還說「這服裝會變得完美如果能夠符合女人的身體」，即使裝備全偷蝙蝠俠的，也還說出「我不會讓男人偷走女人的功勞」。
+</td>
+<td>預告播出後便負評不斷，專業影評褒貶不一，觀衆評分更是暴死，導致該時段收視率連續暴跌，主演才一季便宣佈辭去女主角。
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=b7RPQMBhVcM">宣傳預告</a>其實最初宣布由澳洲同性戀演員Ruby Rose主演時就已經受到DC漫畫迷抗議，原因是有更多更好的LGBTQ背景的演員可以擔任主角，製作群卻選擇了演技不佳，演任何角色都是自己，根本無法詮釋角色的Ruby Rose。(有趣的是，沒有多少DC迷去攻擊她的背景，反而是SJW們自己以其同性戀元素不夠等言論去攻擊對方。)
+</td></tr><tr><td>星際大戰8：最後的絕地武士
+</td>
+<td>上一集已經加入充滿瑪麗蘇的女主角芮，在這集更變本加厲加入了亞裔<s>肥婆</s>蘿絲上演了拖累劇情的政治正確且莫名其妙的賭場戲碼，還與黑人配角芬恩搞曖昧<br>除此之外還把本傳主角<a href="/%E8%B7%AF%E5%85%8B%C2%B7%E5%A4%A9%E8%A1%8C%E8%80%85" class="mw-redirect" title="路克·天行者">路克</a>慘變父權老害，以及用白男耍蠢來陪襯女權的法斯瑪隊長，企圖把系列核心的主角天命及原力扭曲成誰都可以擁有，破壞之前建立下來的世界觀
+</td>
+<td>獲得幾乎所有影評大贊<s>想也知道是怕得罪某D社</s>，但電影被星戰迷稱為<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a>，玩具周邊收入史上最低（尤其蘿絲的玩具），導演雷恩·強生被撤換，間接影響到星戰9的劇本和票房；而在星戰9結局由芮繼承天行者名號也讓一眾影迷在影院崩潰。
+</td>
+<td>凱特琳·甘迺迪被觀眾們認為是幕後黑手，被曼達洛人系列影集狠狠打臉後總算下台一鞠躬
+</td></tr><tr><td>魔鬼剋星（2016版電影）
+</td>
+<td>硬是把主角群全員性轉成女性重啓拍成平行世界，白男不是白癡就是反派，克里斯漢沃成爲無腦花瓶<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup>，還把前作男主角客串成配角羞辱一番
+</td>
+<td>票房及評價大爆死，原本的續集遙遙無期後來改成與正史接近的重啟
+</td>
+<td>在索尼駭客事件中流出情報說是導演保羅·費格想趁女權風潮才把這重啓强行製作成全員女性
+</td></tr><tr><td>星際戰警：跨國行動
+</td>
+<td>作爲一部外傳電影，主角是完全沒性格的究極瑪麗蘇女黑人，白男拍檔克里斯漢沃劇中表現非常無能只能襯托女主的威能，導致劇情枯燥乏味，缺乏星際戰警三部曲的感覺
+</td>
+<td>票房及評價大爆死
+</td>
+<td>男女主角都稱拍攝過程非常糟糕，甚至需要他們自己請編劇來寫其角色下一部分的劇情
+</td></tr><tr><td>我們與惡的距離
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table><h4 class="in-block"><span id="動漫畫"></span><span class="mw-headline" id=".E5.8B.95.E6.BC.AB.E7.95.AB">動漫畫</span></h4>
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><th style="width: 150pt;">作品名
+</th>
+<th>被增加或修改刪除的要素
+</th>
+<th>結果
+</th>
+<th>備註
+</th></tr><tr><td>漫威新勇士（2020）
+</td>
+<td>數位成員設計充滿各種政治正確且明顯討好某群體
+</td>
+<td>預告片得到30萬倒讚，加上疫情影響取消播出計畫
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=5PCWUCv1rnU">宣傳預告</a>
+</td></tr><tr><td>我不是星火（I Am Not Starfire）
+</td>
+<td>主角為DC近期創作的星火的<s><a href="/%E6%88%90%E5%8F%A5/%E2%97%8B%E2%97%8B%EF%BC%8C%E4%BD%A0%E7%9C%9F%E6%98%AF%E8%A0%A2X%E9%81%8E%E9%9A%BB%E8%B1%AC" title="成句/○○，你真是蠢X過隻豬">長得像隻豬一樣</a>的</s>女兒，以女同肥胖跟叛逆作賣點<br>而女兒這角色的形象被大眾懷疑是<a rel="nofollow" class="external text" href="https://preview.redd.it/igto984gosb71.png?width=2048&amp;format=png&amp;auto=webp&amp;s=e1c64dbef632691f238e7685d946d15c4b74fffc">作者Mariko Tamaki把自己形象做成角色來自肥自己</a>
+</td>
+<td>宣傳影片在短時間內得到大量dislike，官方嚇得關了YouTube和推特的留言功能
+</td>
+<td><a rel="nofollow" class="external text" href="http://komicolle.org/c/159067">新</a><a rel="nofollow" class="external text" href="https://komicolle.org/c/134705">舊</a>討論串
+</td></tr><tr><td><a href="/%E6%88%90%E5%8F%A5/HEYYEYAAEYAAAEYAEYAA" title="成句/HEYYEYAAEYAAAEYAEYAA">太空超人：啟示錄</a>
+</td>
+<td>第一集直接賜死原作主角He-Man然後扶正配角泰拉
+</td>
+<td>預告詐欺導致原作支持者的不滿，爛番茄觀眾評價不及30%
+</td>
+<td>製作人Kevin Smith在訪談還直稱自己覺得原作是給小嬰兒看的
+</td></tr></tbody></table><h4 class="in-block"><span id="遊戲"></span><span class="mw-headline" id=".E9.81.8A.E6.88.B2">遊戲</span></h4>
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><th style="width: 150pt;">作品名
+</th>
+<th>被增加或修改刪除的要素
+</th>
+<th>結果
+</th>
+<th>備註
+</th></tr><tr><td>戰地風雲5
+</td>
+<td>首發預告片中出現二戰時有英國女兵在前線拯救男兵的情節不合史實<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup>，乖離前作寫實歷史戰爭遊戲而造成系列玩家爭議
+</td>
+<td>預告片在出來後就負評不斷，在爭議聲浪中DICE的CEO竟反譏玩家讀書少還放大絕「不爽不要買」，結果銷量成為系列最低，該CEO被EA高層直接開除<br>2020年4月23日官方公告在6月最後一波更新後將不會再有任何更新，被認為等同斷尾
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=fb1MR85XFOc">宣傳預告</a>
+</td></tr><tr><td>英國學院遊戲奬（BAFTA）
+</td>
+<td>2021年的遊戲評審準則中追加基本入圍條件裡指定，遊戲角色需包含一定比例的LGBTQ+族群、殘障人士、不同地區角色、低社會階層角色<br>劇情需有描寫少數群族及展示多元性（幻想故事則需要與現實的相關族種地區有關聯）等
+</td>
+<td>但只要符合三項就行，不須全部符合所有項目
+</td>
+<td><a rel="nofollow" class="external text" href="http://www.bafta.org/sites/default/files/uploads/baftabfidiversitystandardsforgames2021pilot.pdf">評審入圍條件全文詳細</a>
+</td></tr><tr><td>全軍破敵：三國
+</td>
+<td>其實女權介入的徵兆從羅馬2起就出現大量女將起就開始了。<br>但全軍破敵：三國甚至變本加厲的將《三國志·方技傳.周宣》記載中僅寥寥數語<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup>提及的兩名女賊鄭、姜融合為一人並將其設為獨立勢力。
+</td>
+<td>但真的引發爭議是在全軍破敵三國中，出現的女將暴露立繪MOD，竟然讓社群負責人Grace直接跟玩家筆戰甚至傳到官方自動退出討論區並刪除相關暴露女將的文章。事件甚至延燒到社群經理Michael Whelan，在離職前的最後一次官方人員實況中，直接謾罵反對ca刪除暴露立繪mod以及官方討論區的嘴臉的youtuber Arch Warhammer，幸好隔天發現事情嚴重性的CA馬上向該名youtuber道歉，才即時止血。
+</td>
+<td>還有少數女將立繪模組還可以從工作坊上下載，且CA也盡可能美化女將立繪<s>話說3D模組依舊慘不忍睹</s>。
+</td></tr><tr><td><a href="/%E4%B8%96%E7%B4%80%E5%B8%9D%E5%9C%8B" title="世紀帝國">世紀帝國</a>3決定版
+</td>
+<td>更改了一些符合歷史敘述但是政治不正確的言詞，像是第二時代從殖民時代改成商業時代，產錢幣的建築種植園改成農莊，基本上就是與殖民主義有關的歷史名詞通通換成政治正確但不符合史實的名詞。<br>易洛魁和蘇族分別改成了豪丹諾蘇尼和拉科塔人<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup>並讓其更改成需藉由毛皮市場建築來收取礦物<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup>，並且把火舞祭典改成社區廣場<s>從火舞祭變成逛菜市場有比較好！？</s>。<br>更改陰影戰役的部分劇情。<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup></td>
+<td>
+</td>
+<td>其實比起政治正確的問題，該作本身的優化問題中文化漏譯及錯譯問題更大，而且搞不好微軟都的資源、人力、經費投入到世紀四了。
+</td></tr><tr><td><a href="/%E5%88%BA%E5%AE%A2%E6%95%99%E6%A2%9D" title="刺客教條">刺客教條</a>：維京紀元
+</td>
+<td>關於角色Eorforwine燒傷留下臉部<a href="/%E5%82%B7%E7%97%95" title="傷痕">傷痕</a>而以暴力發洩憤怒的介紹被打造無障礙環境遊戲的公司Can I Play That創辦人Courtney Craven指控歧視
+</td>
+<td>Ubisoft移除記述並道歉
+</td>
+<td>日本版還有<a href="/%E6%B2%B3%E8%9F%B9" title="河蟹">河蟹</a>血跡等畫面的爭議，後已移除
+</td></tr><tr><td><a href="/%E6%88%B0%E5%9C%8B%E7%84%A1%E9%9B%99" title="戰國無雙">戰國無雙</a>5
+</td>
+<td>新登場的武將角色「彌助」因配音聲優Paddy Ryan／パディ．ライアン本身膚色（白）與彌助的膚色（黑）不一，引來BLM人士的失望和不滿導致備受批評
+</td>
+<td>不了了之（至少沒有影響到遊戲<a href="/%E6%9C%AC%E9%AB%94" title="本體">本體</a>），日本網友都認為BLM人士矯枉過正
+</td>
+<td>聲優Paddy Ryan／パディ．ライアン為出生於東京都的歐美人士，日語發音非常道地標準
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="番外篇：要如何對抗SJW"></span><span class="mw-headline" id=".E7.95.AA.E5.A4.96.E7.AF.87.EF.BC.9A.E8.A6.81.E5.A6.82.E4.BD.95.E5.B0.8D.E6.8A.97SJW">番外篇：要如何對抗SJW</span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="vote-block"><div class="vote-page" data-section="1" data-vote-page="SJW/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=SJW/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=1">編輯投票選項</a></span></div></div>
+<ul><li><s>以上全數是來亂的</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a href="/%E4%BA%BA%E6%B8%A3" title="人渣">人渣</a></li>
+<li><a href="/%E5%B3%B6%E6%B0%91N%E5%A4%A7%E8%BF%BD%E6%AE%BA%E5%B0%8D%E8%B1%A1" title="島民N大追殺對象">島民N大追殺對象</a></li>
+<li><s><a href="/CalArts" title="CalArts">CalArts</a></s></li>
+<li><a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">政治正確</a></li>
+<li><a href="/%E4%BA%BA%E8%BA%AB%E6%94%BB%E6%93%8A" title="人身攻擊">人身攻擊</a></li>
+<li><a href="/%E6%88%90%E5%8F%A5/%E4%BD%A0%E5%80%91%E7%95%B6%E4%B8%AD%E8%AA%B0%E6%98%AF%E6%B2%92%E7%BD%AA%E7%9A%84%EF%BC%8C%E8%AA%B0%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%94%A8%E7%9F%B3%E9%A0%AD%E6%89%94%E4%BB%96" title="成句/你們當中誰是沒罪的，誰就可以用石頭扔他">成句/你們當中誰是沒罪的，誰就可以用石頭扔他</a></li>
+<li><a href="/%E6%88%90%E5%8F%A5/%E5%B7%B2%E7%B6%93%E6%B2%92%E6%9C%89%E4%BA%BA%E7%82%BA%E6%88%91%E7%AB%99%E5%87%BA%E4%BE%86%E8%AA%AA%E8%A9%B1%EF%BC%8C%E5%9B%A0%E7%82%BA%E4%BB%96%E5%80%91%E9%83%BD%E8%A2%AB%E6%8A%93%E8%B5%B0%E4%BA%86" title="成句/已經沒有人為我站出來說話，因為他們都被抓走了">成句/已經沒有人為我站出來說話，因為他們都被抓走了</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:SJW" title="討論:SJW">討論:SJW</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><s>從SJW的行徑來看，或許將其全寫改為「Social Justice Wannabe」、「Stupid Jealous Wannabe」、「Social Justice Wrecker」、「Sociopath that Just Whine」或「Social Justice Waste」之類的東西，會更符合現實</s></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">這一詞在2014年台灣發生的太陽花學運時原本是屬於正面褒意用語，然而自香港政治術語「左膠」傳入台灣後，「覺醒青年」的用意也逐漸從褒意被轉成為貶意。</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">包括動漫喜好者在內，很多男性都厭惡女權，並因而有將所有的女權思想都畫入SJW的出格思想的傾向。不可否認這傾向可能和SJW經常濫用女權和其他進步思想有關；但把女權人士視為SJW代表的作法，以及將大多數女權思想都劃入SJW的出格思想的傾向，很容易就會讓人變得和濫用邏輯謬誤來求上位的SJW沒有甚麼分別</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">SJW的理念當然是左派，但這些人的實質行為，會導致一個和法西斯主義理念或其他類似的極右派思想實質相容的社會，因此用實質極右派稱呼</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">一些想藉此上位的人可能有<a href="/%E5%8F%8D%E7%A4%BE%E6%9C%83%E5%9E%8B%E4%BA%BA%E6%A0%BC%E7%95%B0%E5%B8%B8" title="反社會型人格異常">反社會型人格異常</a>，但其他一些則是開始時有足夠的良心且充滿理想，但到了後來逐漸被這麼做所帶來的利益給腐化。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">有這種心態的人可能有<a href="/%E5%8F%8D%E7%A4%BE%E6%9C%83%E5%9E%8B%E4%BA%BA%E6%A0%BC%E7%95%B0%E5%B8%B8" title="反社會型人格異常">反社會型人格異常</a>，《4%的人毫無良知，我該怎麼辦》一書裡曾提到一個<a href="/%E5%8F%8D%E7%A4%BE%E6%9C%83%E5%9E%8B%E4%BA%BA%E6%A0%BC%E7%95%B0%E5%B8%B8" title="反社會型人格異常">反社會型人格異常</a>人士的範例，這人是一個縱火犯，而他縱火的目的，主要是看其他人因此狼狽不堪的樣子並藉此取樂，一些SJW(以及一些因為任何其他原因而耍<a href="/%E5%BB%9A" title="廚">廚</a>的人)的心態可能和那名縱火犯類似。</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">不過要區別一個人是否可信，有時並不容易，因為你不身處其中，不能真的了解事情的真相</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">我們不要以為自己絕對不會變成SJW，事實是我們每個人，都比我們自己所想的，更容易受到各種情境的影響，因此在事實上，我們每個人都有可能會受到各種外在影響，或因為一些我們崇拜的人物的講法，而變成某些領域的SJW。所以研發讀心裝置找出並解決可能成為SJW的人，最後很可能其實就是要把我們每一個人都給解決掉，從此世界上不再有人類。《<a href="/%E5%93%86%E5%95%A6A%E5%A4%A2" title="哆啦A夢">哆啦A夢</a>》裡面有個《獨裁者按鈕》的故事，裡面提到說大雄深受胖虎所苦，因此大雄直觀的方法就是按下獨裁者按鈕，讓胖虎消失，但胖虎消失後，永遠都會有一個人接手胖虎的位子，繼續折磨、欺負大雄，結果大雄因而讓世界上所有的人都消失。這故事顯示了消滅掉問題人物，很多時候其實不能解決問題本身，問題本身另有其他的根源；況且在現實中模稜兩可或者不是非黑即白的狀況實在太多，因此學習《約會大作戰》裏頭<a href="/%E6%99%82%E5%B4%8E%E7%8B%82%E4%B8%89" title="時崎狂三">時崎狂三</a>專殺壞人的作法狙殺潛在的SJW，即使可行(在現實上，這種作法在技術上缺乏可行性)，最後的結果往往是自己變成比SJW或其它自己想除掉的壞人更讓人困擾的問題，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因此狂三可以這樣幹而你不行的原因是因為第一她是精靈(所以沒有現實上會碰到的技術問題)、第二她生活在二次元世界(所以不必面對現實中經常存在的那種模稜兩可、不是非黑即白的狀況)</span>；就算能回到過去消滅目前的問題的根源，因為現實的複雜性，因此結果難以預知，而且很可能會製造出比原本的問題更大的問題，像《紅色警戒》系列的故事就是愛因斯坦與特斯拉製造時光機回到過去消滅<a href="/%E5%B8%8C%E7%89%B9%E5%8B%92" class="mw-redirect" title="希特勒">希特勒</a>，結果大戰一樣爆發，只是入侵者變成蘇聯而已。</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">有鑒於包括你我在內任何人都可能會變成SJW，以及促進社會正義會為自己帶來的潛在利益之故，因此時時保持警覺是很重要的，尤其那些有志投身社會正義的人更是如此。</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">不要認為要讓有良心的人擺脫SJW言行會比較容易，要讓被洗腦的人清醒，有時很困難。</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">這不是說絕對沒有那種完全為了他人，沒有想到自己的人，但通常會參與政治的人，都不會是這種人，換句話說，任何參與政治和社會活動的人，基本上都可以假定他們不是聖賢，並且可以假定他們只是另一批為了自己人利益而跳出來搞政治的平凡人而已；甚至我們可以認為，史書上記載的很多正人君子，可能其實根本是古代的SJW，當然一個古人是不是古代的SJW，是需要仰賴歷史證據來判斷的。</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.facebook.com/eoiss.blog/posts/2550875678558648">可以點此參見相關的討論</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">除了上面的權力結構之外，這種要求整齊劃一、以多元化知名打壓真正多元思想的極權思想，也在實質上和法西斯主義或其他類似的極右派思想完全相容，而我們可以認為，這就是為何很多SJW可以稱得上是披著左派外皮的實質極右派人士的根本原因之一；此外許多(或許是所有的)極權政府，不管名義上是左派還是右派，在實質上也往往都有著大量實質極右派並且和法西斯主義相容的制度和作為，一個掛著左派名義但在實質上完全走向極右派的例子就是共產國家北韓的階級制度和金氏家族永遠執政的實然，但政府的作為不在本文的討論範圍之內。</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">不過這不表示極右派那些保守甚至反動的思想就不令人討厭，事實上，正是因為極右派思想普遍令人反感，並且確實造成了嚴重的危害，所以才會有多元價值觀的出現作為平衡，並進而讓SJW有空間假借多元文化之名亂搞的。</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.thenewslens.com/article/135101">有興趣的可以點此見共產黨在掌權前在中國造成的破壞</a>，<a rel="nofollow" class="external text" href="https://www.thenewslens.com/article/135100">不過國民黨在反共時造成的破壞也不遑多讓</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">事實證明，無產階級專政從來就不能實現，而且共產主義的理論打從最一開始就錯。雖然卡爾‧馬克思生於社會科學才剛開始發展的時代，因此還算是情有可原；但馬克思晚年時經濟學和其他社會科學理論就已開始發展，因此後世的人繼續沿用他的理論，將他的理論當成聖經，就是很要不得的了。<a rel="nofollow" class="external text" href="https://theinitium.com/channel/communism/">想了解共產主義的錯誤的，可點此了解相關內容。</a>這些文章當中的一些甚至提到說共產主義常用的黑格爾「辯證法」完全不科學且不是真的合乎邏輯，這樣看來共產主義甚至和一些人所說的SJW的思考方式一樣─都是用某種強詞奪理的方式而不是用真正的邏輯和科學與事實來論證，只是兩邊用的名詞有別而已。</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">因為女性主義或其他的進步思想常常和SJW相關，而把女性主義或其他SJW常常主張的思想給直接打成負面的思想，是犯下關聯謬誤(association fallacy)這項邏輯謬誤的做法。用邏輯謬誤來對治善於使用邏輯謬誤的SJW，最後會讓自己變得和SJW沒有甚麼分別。</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">不只SJW，很多蓄意撒謊以換取自身目的的人，講的話邏輯都會出問題，或者會利用邏輯謬誤來達成自己的目的。</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://disneystarwarsisdumb.wordpress.com/the-phases-of-a-geeker-gate/">The Phases of a Geeker Gate</a></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://komicolle.org/c/112525">據稱SJW正以組織式與孤狼式對歐美右派論壇進行突襲，他們正在惡意發布兒童色情作品，並導致論壇被取締</a></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">如果你財大氣粗又能迴避政府的干涉或公眾輿論的壓力的話，任何的團體都可以收買，而且收買可以透過完全合法的手段進行以致政府沒有理由介入；而這些團體不願被收買的個人往往就是得被迫離開，這是很悲哀的事實。</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">有時企業或任何人不一定能知道批評者代表的是一般民眾，還是只是人少聲音大的SJW，而且有時不可能知道；此外，一些看起來很少有人或只有SJW會關心的事，一旦沒處理好，就會導致公關災難、讓企業受到一般民眾的普遍譴責，且算是一般人不會關心的事情，有時少數的奧客就能把企業給搞死，而企業永遠不可能完全清楚哪些東西會爆雷，哪些不會（同樣地，企業有時也不知道為何一些東西會爆紅、讓企業大發利市）；所以對任何事，即使是再小的事，都要小心謹慎，所以為了避免聲譽受損，比較好的方法就是乖乖配合。</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">不只是企業，一般人有時也未必能時時知道某些東西是否只是SJW會雷；且有時見到一些自己覺得雷的東西時，人們會認為這可能是自己性格某些部分太過機車所致，而不知道和自己有一樣想法的人其實很多；而這樣的模糊空間，也是SJW得以生存甚至得逞的原因之一。</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">不過這樣的一個問題是SJW可能會訴諸法律甚至訴諸外國政府，進而讓公司在有賺錢的狀況下依舊因為罰款等理由而破產、倒閉。不過假如這些公司能勝訴的話不理會SJW的做法有可能可以阻止SJW惡意扭曲創作的歪風，因為在SJW訴諸法律失敗以及近年來民眾對SJW的不滿日益增長的狀況下，這些公司會發現他們大可不必理會SJW的意見，可以專心去做滿足客戶需要的東西，不過前提是SJW必須遭到挫敗。</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">另外要小心的是SJW可能會透過各種手段以奪取重要論壇、劇情與設計部分、乃至於公司高層與股東的主導權，以將一些開始時相對較能抵擋得住壓力的機構給收歸已有。不過在SJW受到大眾集體反對的狀況下，他們背後的金主有可能會棄他們而去，進而讓他們無以為繼，但這很難說。因為有可能反制SJW的措施全數失敗，這樣的話人們更願意支持SJW，甚至可能很多民眾都會轉而支持SJW；也有可能SJW敗亡時背後的主使者切割失敗，因而只好繼續支持SJW、和他們站在同一陣線。</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">一種做法是，一個人只要在一個議題上表現得像SJW，就是SJW。之所以會有這種辨識法主因在於大多數SJW並不承認自己是SJW，反倒喜歡開分身帳號裝中立帶方向，把事情搞到沒有中間地帶只有黑白。雖然上述排除法能夠有效地中止SJW對論壇的滲透，但是這種區分法基本上會直接讓該論壇失去中立性，令人感到惋惜的是目前網路上還倖存的網站大多數都是靠類似的方式才阻止了SJW的滲透。</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">但這不表示從此就要放棄是非對錯，從此一切都以利害關係出發。做人要善惡分明、嫉惡如仇，但要真的確實分別一個人或一件事的好壞，往往比很多人想的困難。</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">例如要等到SJW先出現邏輯謬誤，再以邏輯謬誤還擊；SJW先使用暴力搞破壞，再聯絡警察使用公權力對付他們</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text">出示證據非常重要，甚至是絕對必要的，不然第三方很容易就會認為你是壞人；證據最好是無可辯駁或難以辯駁的，不然對方可能會耍嘴皮子，把黑的給硬說成白的，並進而得到第三方的支持</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">也許其實稱不上是新型態的流氓，因為現在SJW的所做所為，和一百多年前的共產黨，有相似之處。<s>可見中共果然是流氓政權、稱呼中共為「共匪」是正確的。</s></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">不過《檢肅流氓條例》已經於民國98年（西元2009年）廢止</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text">廢除死刑可能會導致治安惡化，是一個的疑慮，而且民眾有理由相信這種可能；另一個常見的疑慮是這樣是否會對受害者家屬和社會的公平正義造成不良影響；其中台灣和日本討論最為激烈，這兩國也是除了美國外另有死刑的民主國家</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">George Floyd曾因持械行劫多次在德州監獄服刑</span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text">根據新聞報導，有被警告者遭到砸窗、破壞車輛</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text">此人有不少爭議事蹟，例如認為婚外情<b><a href="/NTR" title="NTR">被害者</a></b>的女方爆料不對、竟然公開支持男方再批評女方，還作出<b>憂鬱症的病因是不知足</b>等「偉論」，曾<a rel="nofollow" class="external text" href="https://newtalk.tw/news/view/2020-03-13/375641">被台灣憂鬱症防治協會嚴重抗議</a>，爭議點是當時ACG文化仍未成為顯學，且不少宅圈人員的不自愛，所引發的歧視問題，這讓順風向的吳宗憲支持者們覺得「只是節目效果」、「憲哥只是開個玩笑，其他人幹嘛小題大作罵憲哥」等等的SOP起手式護航擁護吳宗憲</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">但之後隨著ACG文化逐漸成為顯學，加上2019年<a href="/%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83" title="鬼滅之刃">鬼滅之刃</a>暴紅後，很多長輩與<a href="/ACG" title="ACG">ACG</a>緊繃關係有得到一些緩解</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><a href="/%E5%A4%8F%E5%A8%9C" title="夏娜">夏娜</a>抱枕、知名Coser馬大的能天使鋼彈</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text">生理男經歷變性手術後體質仍相較女性為優</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://imgur.com/a/f4WDf">InternetAristocrat, censorship on Reddit, shadowbanning, and other shenanigans.</a></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text">但按當時讀者投票票數只是亞軍（冠軍應為香港人），不過雜誌以<b>她對世界各地的年輕抗議者日益增強的感染</b>為由選為冠軍；順帶一提，當時站在海邊的封面照也被質疑不環保</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text">然而她反而推崇<a href="/%E9%AD%94%E5%85%B5%E9%A9%9A%E5%A4%A9%E9%8C%84" title="魔兵驚天錄">魔兵驚天錄</a>的主角蓓優妮塔（身材姣好的500歲美魔女）......</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text">而且PETA抗議的手段常常牽涉物化女性的爭議，從一些角度來看，PETA把動物看得比人更重要，完全顛覆了一般大眾「人比動物更重要」的常識，甚至可說是「率獸食人」。這種輕人重畜的心態，和古代「衛懿公好鶴」以及楚莊王在愛馬死後要大臣以士大夫之禮葬馬、甚至用死威脅大臣不得反對(詳情可見《楚莊王葬馬》)的心態，有可比之處。</span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text">另外有消息指出，在善待動物組織的總部，該集團每年人道毀滅近2000貓和狗。善待動物組織聲稱，一半動物（但非全部）都沒有被收養（本處內容引用自維基百科的相關條目），他們善待動物到哪去了？</span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.telegraph.co.uk/news/2020/09/05/natural-history-museum-review-potentially-offensive-charles/">[1]</a>，Natural History Museum to review potentially 'offensive' Charles Darwin collection。</span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://globalnews.ca/news/7103563/dungeons-dragons-evil-race-stereotypes/">[2]</a>，‘Dungeons &amp; Dragons’ to change ‘evil’ races due to racial stereotypes。</span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/493012/netflix%E6%89%AE%E9%BB%91%E6%9A%97%E7%B2%BE%E9%9D%88%E5%8A%87%E9%9B%86%E8%A2%AB%E4%B8%8B%E6%9E%B6-%E6%97%A5%E6%9C%AC%E5%B0%8F%E8%AA%AA%E5%AE%B6%E8%B3%AA%E7%96%91-%E6%9A%97%E9%BB%91-%E5%B7%B2%E6%88%90%E7%A6%81%E5%BF%8C">[3]</a>，Netflix扮黑暗精靈劇集被下架　日本小說家質疑「暗黑」已成禁忌。</span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text">還有一個原因是Jacob Blake是因為抗拒警方命令，甚至準備到座車內拿槍才被槍擊</span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><a href="#cite_ref-48">↑</a></span> <span class="reference-text">原泛指誤用並貶低其他文化內容，使他人曲解該文化的原本意義<s>，簡單點說就是類似無限流YY小說把其他作品主人公當小弟收又亂套用那些作品的設定</s>，但在SJW曲解下成了甚麼膚色的人就該有其膚色的樣子，不該去亂用不是自己膚色的文化，這反成了阻礙不同膚色間的人可以互相理解交流學習的機會，而這種「甚麼膚色的人就該有其膚色的樣子」的思維，<b>和過去種族隔離支持者的思維，有類似之處，過去種族隔離者認為，「黑鬼就是該過著窮酸且被白人壓榨的日子，不然沒有黑鬼的樣子」</b>，而種族隔離是種族歧視的一種形式。</span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><a href="#cite_ref-49">↑</a></span> <span class="reference-text">這些團體或許也有批判其他違背人權的現象，但將執行死刑和其他國家明顯且真的造成問題的違背人權現象並列，會給人一種這些團體將大國其他違背人權的現象輕描淡寫，且柿子挑軟的吃，只敢大聲批判小國執行死刑的印象。<s><a rel="nofollow" class="external text" href="https://m.facebook.com/eoiss.blog/posts/2503690256610524/">更不要說已經確實有人在死刑存廢無關的場合指出說歐洲國家欺善怕惡了</a>，<a rel="nofollow" class="external text" href="https://medium.com/eoiss/%E9%9B%9C%E8%AB%87part34-%E9%82%84%E6%98%AF%E4%BE%86%E8%AB%87%E4%B8%80%E4%B8%8B%E6%AD%BB%E5%88%91%E5%A5%BD%E4%BA%86-3f978b9d181a">而且這個人並不強烈支持死刑。</a></s></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><a href="#cite_ref-50">↑</a></span> <span class="reference-text">台灣民進黨政府表態認為死刑非廢不可，雖未表示停止執行死刑；但部分團體對台灣死刑的批判，加上來自於上級官員的壓力，已經導致大部分法官不判處殺人犯死刑這種的結果。之後更是有廢死學者、團體及官員認為「民眾不相信司法卻強烈要求殺人者死的心態很矛盾」，他們覺得民眾的問題在於「是司法失準、失去民眾信用在先，所以讓民眾變得更加要求死刑、好對殺人罪維持相對一致的判決結果的」。</span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><a href="#cite_ref-51">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://deptcrc.ccu.edu.tw/index.php?option=module&amp;lang=cht&amp;task=pageinfo&amp;id=98&amp;index=1">在2020年，「不論如何都反對廢除死刑」的比例，在10年後首次降到五成以下。</a></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><a href="#cite_ref-52">↑</a></span> <span class="reference-text">強行改成<s>醜到有剩的</s>歐美畫風及改掉身體比例的「改正」畫，有時還會強制把角色改成黑肉來符合<a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">政治正確</a>，有日本網友指出這種行為實際上已觸犯"帶著優越感將自己創作置於原作之上"，和"用於政治主張"這兩個二次創作的大忌</span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><a href="#cite_ref-53">↑</a></span> <span class="reference-text">然後那個繪師的推特帳號就被破壞了，還被挖出很多爭議言論</span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><a href="#cite_ref-54">↑</a></span> <span class="reference-text">考量丹陽移交的時代背景有<a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">限制方言</a>的政策，沒有閩南語台詞是可以解釋的</span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><a href="#cite_ref-55">↑</a></span> <span class="reference-text">不過原作相同定位的女秘書其實也是雷同情況便是</span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><a href="#cite_ref-56">↑</a></span> <span class="reference-text">其實整個首發PV都充滿與史實乖離的槽點（如花俏的服裝、在歐線戰場出現武士刀，戴義肢戰鬥的女兵和沒有出現<a href="/%E9%98%BF%E9%81%93%E5%A4%AB%E2%80%A7%E5%B8%8C%E7%89%B9%E5%8B%92" title="阿道夫‧希特勒">納粹旗</a>），之後的預告片都重新向史實表現靠攏</span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><a href="#cite_ref-57">↑</a></span> <span class="reference-text">後東平劉楨夢蛇生四足，穴居門中，使宣占之，宣曰：「此為國夢，非君家之事也。當殺女子而作賊者。」頃之，女賊鄭、姜遂俱夷討，以蛇女子之祥，足非蛇之所宜故也。</span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><a href="#cite_ref-58">↑</a></span> <span class="reference-text">其實拉科塔只是蘇族的一支，並不能完全代表整個大平原原住民勢力。</span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><a href="#cite_ref-59">↑</a></span> <span class="reference-text">但是同樣是群酋爭霸登場的阿茲特克還有後來新加的印加這兩個美洲勢力還是可以正常挖礦。</span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><a href="#cite_ref-60">↑</a></span> <span class="reference-text">故事改為查伊頓第一人稱講述、將前面關卡的敵人從蘇族更改為當地的幫派份子，讓查伊頓住在部落的叔叔"法蘭克"取代了瘋馬酋長的戲份，然後卡斯特的個性被改得像個三流反派，少數還算可以的地方就是讓查伊頓有一個好結局。</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=SJW&amp;oldid=418392">https://wiki.komica.org/index.php?title=SJW&amp;oldid=418392</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/SJW"
+				data-user-name="日記"
+				data-user-gender="male"
+				data-timestamp="1667276676">
+				最後編輯於 2022年11月1日 (週二) 12:24
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=SJW&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.226","ppvisitednodes":{"value":1106,"limit":1000000},"ppgeneratednodes":{"value":3520,"limit":1000000},"postexpandincludesize":{"value":3818,"limit":2097152},"templateargumentsize":{"value":3466,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":32491,"limit":5000000},"timingprofile":["100.00%  121.163      1 -total","  7.04%    8.528      7 模板:Ref","  3.91%    4.741      3 模板:Censored","  2.06%    2.493      3 模板:Youtube","  1.96%    2.375      1 模板:Size","  1.21%    1.468      1 模板:H0","  1.18%    1.430      1 模板:Pcomment","  1.10%    1.337      1 模板:Vote","  1.07%    1.292      1 模板:Color","  0.92%    1.110      1 模板:Stub_row"]},"cachereport":{"timestamp":"20221101044334","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":396});});</script>		</body>
+		</html>
+		

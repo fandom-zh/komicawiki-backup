@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>重甲機神 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"重甲機神","wgTitle":"重甲機神","wgCurRevisionId":255581,"wgRevisionId":255581,"wgArticleId":34709,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"重甲機神","wgRelevantArticleId":34709,"wgRequestId":"c5c8bfe640f70b9c234a8435","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-重甲機神 rootpage-重甲機神 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">重甲機神</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">重甲機神Baryon/重甲機神：神降臨（Deus Ex Baryon）</div>
+<table class="wikitable" style="margin: 0 auto;text-align:center;"><tbody><tr><td>本條目歡迎各位觀眾繼續補充。
+</td></tr><tr><td><s>靠岸上映相隔不到十年再度遭遇了挑戰</s>
+</td></tr></tbody></table><div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/%E6%AA%94%E6%A1%88:%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E%EF%BC%9A%E7%A5%9E%E9%99%8D%E8%87%A8.jpg" class="image"><img alt="重甲機神：神降臨.jpg" src="/images/e/e2/%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E%EF%BC%9A%E7%A5%9E%E9%99%8D%E8%87%A8.jpg" width="250" height="353" class="thumbimage"></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E%EF%BC%9A%E7%A5%9E%E9%99%8D%E8%87%A8.jpg" class="internal" title="放大"></a></div></div></div></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=1" title="編輯章節：簡介" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>由乾坤一擊創意股份有限公司推出，宣稱費時十二年製作的動畫長片，於2019年11月8日上映，2020年1月22日下檔。
+<ul><li>導演兼編劇「黃瀛洲（網名「Jo-jo」）」在訪談中表示原片長有120分鐘，院線版則刪成100分鐘。</li>
+<li>但這12年的範圍其實是從企劃開始到正式上映為止，正式製作時間大概只有5年。</li></ul></li></ul><ul><li>成本為<b>2000萬</b>新台幣。
+<ul><li>號稱是<b>台灣人駕駛巨型<a href="/%E6%A9%9F%E5%99%A8%E4%BA%BA" title="機器人">機器人</a>拯救世界的動畫片</b><s>對岸的<a href="/%E6%94%BF%E6%B2%BB%E5%BB%9A" title="政治廚">政治廚</a>表示：</s>，<b>然而機器人實際出場的時間不上十分鐘</b><s>讓很多看預告加上被標語打動而買票的觀眾感覺被騙</s></li>
+<li>再加上劇情太過自嗨又差勁，因此上映後差評如潮<s>，<b>為什麼教劇本學的大學講師會交出如此差勁的答卷？</b></s></li>
+<li>據說<a rel="nofollow" class="external text" href="https://www.businesstoday.com.tw/article/category/80392/post/201911220004/">原本有中國贊助商要資助，並改動劇情為中國背景的動畫，但被製作組回絕</a><s>現在想想那個廠商沒資助真是幸運，不用給自己公司留下污點</s>。</li>
+<li>製作組希望本作能夠成為<b>台灣動畫的低標</b><s>一語成讖</s></li>
+<li>本片獲文化部<b>1020萬</b>補助</li></ul></li></ul><ul><li>票房<b>167萬</b>，慘賠上千萬元，最後數週平均觀眾甚至未滿一人<s>卻以倍數成長</s>。
+<ul><li>雖然目前沒有發行DVD，不過此片下檔後於2020年11月宣告在台北科學教育館免費重映，其中一次300席<b>全滿</b></li>
+<li>批踢踢漫吐板主還在某場重映時揪到八個鄉民一起進場，因此得到「重甲九榮神」的戲稱</li></ul></li></ul><ul><li>值得一提的是，本作為在台灣播放（有加上中配）的動畫中，少數<a href="/%E8%81%B2%E5%84%AA" title="聲優">聲優</a>為<b>一人一役</b>的作品<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="故事"></span><span class="mw-headline" id=".E6.95.85.E4.BA.8B">故事</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=2" title="編輯章節：故事" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<pre>在近未來世界地球資源面臨枯竭，遼闊海洋成為開發新目標。
+某日，一位正義感十足的少年雷鳴海正駕駛著「重甲機兵」機器人在海底採集礦物樣本，突然無數衛星雷射砲光束從天而降，讓正在舉行巡迴演唱會的偶像歌手天音也意外遭受攻擊墜入海中，幸好被路過的雷鳴海所救。
+突如其來的攻擊，<b>將全世界所有武力先進國家摧毀殆盡</b>，世界陷入潰滅狀態。<s>明明其他國家都被炸了，偏偏就沒有出現中國的畫面</s>
+但身處於台灣東北海深處的海底都市「鸚鵡螺市」，雖然躲過了雷射光束的攻擊，而以為雷射無法攻擊到的海底都市安全無虞，因此全世界殘存勢力向台灣集結，以深海為基地準備展開絕地大反攻，卻發現深海中還有更危險的「海底魔獸」正悄悄地向海底都市襲擊而來，雷鳴海率領著重甲機兵隊是否能成功拯救世界…
+</pre>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="高達八成都是龍套的角色介紹"></span><span class="mw-headline" id=".E9.AB.98.E9.81.94.E5.85.AB.E6.88.90.E9.83.BD.E6.98.AF.E9.BE.8D.E5.A5.97.E7.9A.84.E8.A7.92.E8.89.B2.E4.BB.8B.E7.B4.B9"><s><a href="/%E9%AB%98%E9%81%94%E5%85%AB%E6%88%90" title="高達八成">高達八成</a>都是龍套的</s><a href="/%E8%A7%92%E8%89%B2" class="mw-redirect" title="角色">角色</a>介紹</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=3" title="編輯章節：高達八成都是龍套的角色介紹" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>雷鳴海【CV：江志倫、莊汶錡（先行版）】
+<ul><li>特點是會拿台灣小吃的名稱當做<a href="/%E5%BF%85%E6%AE%BA%E6%8A%80" title="必殺技">必殺技</a>名字使用
+<ul><li>例：<s>朽霸掌</s><b>燒肉粽</b></li></ul></li>
+<li>首映場特典贈送的漫畫的主角之一</li></ul></li></ul><ul><li>苗天音【CV：戴瑋嫺】
+<ul><li>出身於廈門的偶像歌手，有著超乎常人的聽力
+<ul><li>順便一提本作的廈門設定上是<b>小漁村</b><s>完全無視現實的離譜設定，要損對岸也別用這種愚蠢的方式啊</s></li></ul></li></ul></li></ul><ul><li>艾瑞克·韋斯特蘭【CV：張騰】</li>
+<li>朝永航一郎【CV：徐偉翔、北村豐晴（日文台詞部分）】
+<ul><li>首映場特典贈送的漫畫的主角之一</li></ul></li></ul><ul><li>司空弦【CV：夏治世、孫誠（先行版）】</li>
+<li>傑克·麥克連【CV：康殿宏、袁光麟（先行版）】</li></ul><ul><li>蘇薏嵐【CV：穆宣名、吳曉蘆（先行版）】
+<ul><li>本作觀眾公認最顧人怨角色<s>浪費了CV</s></li></ul></li></ul><ul><li>朴英愛【CV：連思宇】
+<ul><li><s>沒什麼存在意義的</s>韓國人。</li></ul></li></ul><ul><li>艾希薇婭·凱芙【CV：張乃文】
+<ul><li><s>沒什麼存在意義的</s>印度人。</li></ul></li></ul><ul><li>胡筱涵【CV：楊詩穎】</li>
+<li>杜保羅【CV：宋昱璁】
+<ul><li><s>沒什麼存在意義的</s>新加坡人。</li></ul></li></ul><ul><li>派西絲【CV：<s>錢欣郁→</s>嚴正嵐】</li>
+<li>約翰·麥克連【CV：賈文安】</li>
+<li>漢斯‧格魯伯【CV：陳幼文、王俊博（先行版）】</li></ul><ul><li>朝永茉茉子【CV：<a href="/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C" title="花澤香菜">花澤香菜</a>】
+<ul><li>其聲優慘遭製作組玩弄，詳見<a href="#.E8.A6.81.E6.B1.82.E8.8A.B1.E6.BE.A4.E9.A6.99.E8.8F.9C.E8.AA.AA.E4.B8.AD.E6.96.87">下面爭議</a></li></ul></li></ul><ul><li>紀香【CV：陳貞伃】</li>
+<li>楊聖凱、楊聖旋【CV：林沛笭、黃聖凱（先行版）】</li>
+<li>侯鳳起【CV：梁興昌、蘇振威（先行版）】</li>
+<li>瑪姬【CV：龍顯蕙】</li>
+<li> ???【CV：<a href="/%E5%8A%89%E5%82%91" title="劉傑">劉傑</a>】
+<ul><li><s>真正的神降臨（台灣聲優意義上）</s></li></ul></li></ul><ul><li><s>放了一大堆外國人，結果只有日本人說母語，而且那些外國人還都說著標準中文，那還不如直接設定成全部是台灣人。</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="片中抄考捏他"></span><span class="mw-headline" id=".E7.89.87.E4.B8.AD.E6.8A.84.E8.80.83.E6.8D.8F.E4.BB.96">片中<s><a href="/%E5%8E%9F%E5%89%B5%E9%A2%A8%E8%A1%8C" title="原創風行">抄考</a></s><a href="/%E6%8D%8F%E4%BB%96" title="捏他">捏他</a></span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=4" title="編輯章節：片中抄考捏他" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><a href="/%E6%88%90%E5%8F%A5/%E4%B8%8D%E8%83%BD%E9%80%83%E4%B8%8D%E8%83%BD%E9%80%83%E4%B8%8D%E8%83%BD%E9%80%83" title="成句/不能逃不能逃不能逃">不能逃不能逃不能逃…</a></li>
+<li>小拳王</li>
+<li>槍的名字叫做Government<s>，所以裡面人物都用晶晶體講沒人在乎尷尬到爆的Government雙關語</s></li>
+<li>主角用《<a href="/%E5%A4%A9%E5%85%83%E7%AA%81%E7%A0%B4" class="mw-redirect" title="天元突破">天元突破</a>》的<a href="/%E5%A4%A9%E5%85%83%E7%AA%81%E7%A0%B4%E5%90%8D%E8%A8%80%E9%9B%86" title="天元突破名言集">台詞</a>激勵裡面的女角</li>
+<li><a href="/%E5%A4%8F%E4%BA%9E%E2%80%A7%E9%98%BF%E8%8C%B2%E7%B4%8D%E5%B8%83%E7%88%BE" title="夏亞‧阿茲納布爾">紅色有角三倍速</a></li>
+<li>將軍認為核反應爐會核爆<s>暗示美國軍人都是文組</s></li>
+<li>33860台遊戲主機串連成超級電腦<s>告訴大家導演只會用<a rel="nofollow" class="external text" href="https://tw.news.appledaily.com/international/daily/20030527/66914/">15年前的科技梗</a></s></li>
+<li>女主角設定有嚴重的超時空要塞既視感</li>
+<li>預告的250億分之一機率是捏他《裝甲騎兵》裡的<a href="/%E4%B8%8D%E6%AD%BB%E8%BA%AB" title="不死身">異能生存體</a></li>
+<li>貌似吉翁公國軍服的服裝</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="爭議事件"></span><span class="mw-headline" id=".E7.88.AD.E8.AD.B0.E4.BA.8B.E4.BB.B6">爭議事件</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=5" title="編輯章節：爭議事件" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<h3 class="in-block"><span id="初期爭議"></span><span class="mw-headline" id=".E5.88.9D.E6.9C.9F.E7.88.AD.E8.AD.B0">初期爭議</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=6" title="編輯章節：初期爭議" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>作為台灣首部上院線的自製機器人動畫片，由於導演是台灣現代動漫圈黎明期引路人之一的傻呼嚕同盟的主要成員，在製作初期時就有不少島民相當關注。</li>
+<li>不過企畫一開始的宣傳就有不少吐槽點十足的問題，特別是「<b>台灣人不得不當救世主</b>」這不知所謂的標語
+<ul><li>設定上因為<b>美日共英等國因為是一線強國，先被外星人幹掉了才輪到二線國家頭的台灣拯救世界</b><s>這是甚麼<a href="/YY%E5%B0%8F%E8%AA%AA" title="YY小說">YY小說</a>般的劇情</s></li>
+<li>但問題來了，先不論設定合理性，為何<b>台灣是二線國家</b>？一二線到底怎麼設定的？<s>不如說這也太妄自菲薄把自己看太低了</s></li>
+<li>而實際成品劇情看起來也跟這設定沒什麼關係<s>，那幹嘛設定成這樣？</s></li>
+<li>導演解釋「因為不這樣設定的話台灣很難有被外星人侵略的理由」<s>，之後就被島民<a href="/%E5%90%90%E6%A7%BD" title="吐槽">吐槽</a>還不如設定成凱達格蘭族的遺產是外星人搶奪的目標等更有說服力</s></li>
+<li><s>不是說台灣人沒資格當救世主，但就不能想點有說服力的理由嗎？</s></li></ul></li></ul><ul><li>另外當時公布的主角機霸律皇機設也有不小爭議，有一部分島民覺得設計上似乎有抄襲其他機人作而吵了起來
+<ul><li>不過指稱抄襲的一方找不出明顯有問題的部分，因此機設問題並沒有造成什麼影響。</li></ul></li></ul><h3 class="in-block"><span id="募資目標過低"></span><span class="mw-headline" id=".E5.8B.9F.E8.B3.87.E7.9B.AE.E6.A8.99.E9.81.8E.E4.BD.8E">募資目標過低</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=7" title="編輯章節：募資目標過低" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>一如簡介所說，本作成本大概是2000萬台幣
+<ul><li>以一部動畫片來講成本非常低，而在這之前製作團隊在網上募資時訂的目標更是低到1000萬左右</li></ul></li></ul><ul><li>從當時在募資時款項過低這點，就有島民吐槽募款目標定的這麼低，將來一定會給其他出資者「重甲花1000萬都做得出來，我們為什麼要出更多錢」之類的藉口，對台灣動畫發展相當不利
+<ul><li>不過另一方面來說，在台灣做動畫片本身就難如登天，要是目標訂得太高，反而更有可能因無法到達目標而夭折</li></ul></li></ul><h3 class="in-block"><span id="要求花澤香菜說中文"></span><span class="mw-headline" id=".E8.A6.81.E6.B1.82.E8.8A.B1.E6.BE.A4.E9.A6.99.E8.8F.9C.E8.AA.AA.E4.B8.AD.E6.96.87"><a rel="nofollow" class="external text" href="https://www.plurk.com/p/nk4qhx">要求花澤香菜說中文</a></span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=8" title="編輯章節：要求花澤香菜說中文" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>導演在接受Youtuber「半瓶醋」直播訪問時誇獎台灣配音員實力，而為了讓大家了解他們的優秀於是<b>刻意讓花澤香菜講中文</b>來作對比，「讓你知道配別國語言，即使再優秀的日本配音員一樣會產生某種的狀況」</li>
+<li>此舉被認為是刻意刁難甚至悔辱日本聲優於是大炎上，隔日<a rel="nofollow" class="external text" href="https://youtu.be/PWeWnoRlYxE">導演在直播時就自己的發言道歉</a>，<a rel="nofollow" class="external text" href="https://www.ptt.cc/bbs/C_Chat/M.1573165266.A.2CB.html">官方Facebook也發出道歉聲明</a>
+<ul><li>實際上根據某些採訪片段能知道導演是香菜廚（如<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=ncqxGzUiE3w">此影片（1:58:5處）</a>），所以濫用職權請香菜說中文</li></ul></li></ul><ul><li>香菜曾在<a rel="nofollow" class="external text" href="https://www.bilibili.com/video/av31200265">訪談（13分26秒處）</a>上提到這件事讓她傻眼（很客氣的說法）
+<ul><li><s>你假如是請她過來講日文參雜一些中文也算了，和別人經紀人講說台詞只有幾個中文字結果內文幾乎全部是中文這根本是詐欺合同了吧…要不是香菜非常敬業這樣搞真的不怕把人氣到一怒走人？</s></li></ul></li></ul><h3 class="in-block"><span id="黃瀛洲在訪談中的客群定義"></span><span class="mw-headline" id=".E9.BB.83.E7.80.9B.E6.B4.B2.E5.9C.A8.E8.A8.AA.E8.AB.87.E4.B8.AD.E7.9A.84.E5.AE.A2.E7.BE.A4.E5.AE.9A.E7.BE.A9">黃瀛洲在訪談中的客群定義</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=9" title="編輯章節：黃瀛洲在訪談中的客群定義" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>導演在<a rel="nofollow" class="external text" href="http://www.funscreen.com.tw/feature.asp?FE_NO=1855">訪談</a>裡表示他的客群是青少年族群
+<ul><li>諷刺的是，實際到現場捧場的都是30歲以上的資深老宅</li>
+<li>重映因為是在教育場所，客群更變成家長和小孩</li></ul></li></ul><h3 class="in-block"><span id="黃瀛洲對反對言論的回應"></span><span class="mw-headline" id=".E9.BB.83.E7.80.9B.E6.B4.B2.E5.B0.8D.E5.8F.8D.E5.B0.8D.E8.A8.80.E8.AB.96.E7.9A.84.E5.9B.9E.E6.87.89">黃瀛洲對反對言論的回應</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=10" title="編輯章節：黃瀛洲對反對言論的回應" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>導演在多個訪談裡對有關電影的負面言論發表過回應，例如「對台灣作品最嚴格最多偏見的，不是別人，而是台灣人自己」等</li></ul><ul><li>有人就導演在訪談中的取態向官方Facebook反映，得到的回覆竟然是<a rel="nofollow" class="external text" href="https://i.imgur.com/H81JDW0.png">「巴哈姆特上累積了太多<b>酸民</b>…我們真的無能力也無法把他們當成目標族群」</a>
+<ul><li><s>諷刺的是<a href="/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9" title="巴哈姆特">巴哈姆特</a>站方不只幫忙打廣告，還發了一堆公關票給版務人員</s></li></ul></li></ul><ul><li><s>不是啊大哥，你們作的這麼爛已經根本脫離酸民還有<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a>的問題了</s></li></ul><h3 class="in-block"><span id="其他爭議事件"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96.E7.88.AD.E8.AD.B0.E4.BA.8B.E4.BB.B6">其他爭議事件</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=11" title="編輯章節：其他爭議事件" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>導演在訪談裡表示：
+<ul><li><b>機器人動畫是最便宜最容易做的題材</b>
+<ul><li><s><a href="/PROMARE" title="PROMARE">普羅米亞</a>表示：（人家還是少數能在台灣連播兩個月以上的日系動畫電影…）</s></li>
+<li><s>明明機器人題材才是近年最容易爆死的</s></li></ul></li>
+<li><b>因為很多台灣人對本土作品有偏見</b>（見上）、找外包會被嫌「不夠純」所以堅持全MIT
+<ul><li>但卻請了日本工作室混音和請日本人配音</li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="改正方案（請島民自由發揮）"></span><span class="mw-headline" id=".E6.94.B9.E6.AD.A3.E6.96.B9.E6.A1.88.EF.BC.88.E8.AB.8B.E5.B3.B6.E6.B0.91.E8.87.AA.E7.94.B1.E7.99.BC.E6.8F.AE.EF.BC.89">改正方案（請島民自由發揮）</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=12" title="編輯章節：改正方案（請島民自由發揮）" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li>背景設定直接<a href="/%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4" title="砍掉重練">砍掉重練</a>，最好別太強調國家</li>
+<li>讓台灣名勝變身成巨大機器人</li>
+<li>重甲<a href="/BL" title="BL">「基」</a>神（<a href="/%E6%AF%94%E5%88%A9%E2%80%A7%E6%B5%B7%E9%9D%88%E9%A0%93" title="比利‧海靈頓">哲學</a>意味）</li>
+<li><s>說了這麼多還不如讓鄉民接力寫還比現在的成品有趣</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="參見"></span><span class="mw-headline" id=".E5.8F.83.E8.A6.8B">參見</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=13" title="編輯章節：參見" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><a href="/%E9%9D%A0%E5%B2%B8" title="靠岸">靠岸</a>-邪神動畫霸主<s>，挑戰對象一號</s></li>
+<li><a href="/%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89" title="腳趾上的星光">腳趾上的星光</a></li>
+<li><a href="/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB%E6%9C%88%E5%88%8A" title="台灣漫畫月刊">台灣漫畫月刊</a>-邪神漫畫霸主</li>
+<li><s><a href="/JOJO%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%9A%AA" title="JOJO的奇妙冒險">JOJO的奇妙冒險</a>-因為導演的網名而<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a></s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=14" title="編輯章節：回應" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E" title="討論:重甲機神">討論:重甲機神</a>|number=|section=1}}</div>
+<p><a href="/%E8%A8%8E%E8%AB%96:%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E" title="討論:重甲機神">討論:重甲機神</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;action=edit&amp;section=15" title="編輯章節：備註" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">由於台灣配音員資源和人力的短缺，同一部動畫中配經常出現<b>一人多役</b>的情況<s>導致用台配玩聲優梗時能玩的梗特別多</s></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=重甲機神&amp;oldid=255581">https://wiki.komica.org/index.php?title=重甲機神&amp;oldid=255581</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E"
+				data-user-name="Naikhara"
+				data-user-gender="unknown"
+				data-timestamp="1606123989">
+				最後編輯於 2020年11月23日 (週一) 17:33
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.097","ppvisitednodes":{"value":136,"limit":1000000},"ppgeneratednodes":{"value":1118,"limit":1000000},"postexpandincludesize":{"value":750,"limit":2097152},"templateargumentsize":{"value":277,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":484,"limit":5000000},"timingprofile":["100.00%   53.992      1 -total"," 89.27%   48.200      1 模板:Ref","  3.73%    2.013      1 模板:Pcomment","  3.31%    1.786      1 模板:Youtube","  2.60%    1.402      1 模板:H0"]},"cachereport":{"timestamp":"20220917145854","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84});});</script>		</body>
+		</html>
+		

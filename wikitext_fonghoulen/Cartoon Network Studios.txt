@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cartoon Network Studios - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cartoon_Network_Studios","wgTitle":"Cartoon Network Studios","wgCurRevisionId":416214,"wgRevisionId":416214,"wgArticleId":218,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"Cartoon_Network_Studios","wgRelevantArticleId":218,"wgRequestId":"120169bde658eade46ea90ba","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=Cartoon+Network+Studios\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=Cartoon+Network+Studios","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=Cartoon_Network_Studios&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=Cartoon_Network_Studios&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cartoon_Network_Studios rootpage-Cartoon_Network_Studios stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=Cartoon+Network+Studios" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">Cartoon Network Studios</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">Cartoon Network Studios/卡通頻道工作室</div>
+<p><br></p>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>始創於1994年的<a href="/%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="動畫工作室">動畫工作室</a>，原為Hanna-Barbera旗下，於2001年開始用卡通頻道（Cartoon Network）名義製作動畫影集。</li>
+<li>至2003年，其名正式完全取代卡通卡通（Cartoon Cartoons）作為自家製作商標。</li>
+<li>卡通頻道工作室和卡通卡通不同的地方，就是不再收納外來動畫工作室的卡通作品，只會協助拓展一些與卡通頻道有關的外來動畫影集。</li>
+<li>製作人之中亦不少轉到或曾在迪士尼頻道、尼克卡通台工作，像是塞思·麥克法蘭<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> 和Butch Hartman<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> 都有闖出一片天，也不乏有本人親自替角色配音的情況。</li>
+<li>2022年4月，母公司「華納媒體」 (WarnerMedia)與「探索」(Discovery)合併為「華納兄弟探索」(Warner Bros Discovery)，為了<s>省錢</s>精簡架構而進行一連串改革
+<ul><li>強行終止大量動畫計劃，並把大量動畫作品從在各大頻道移除，被稱為「2022 The Great Cartoon Network Purge」</li>
+<li><a href="/Warner_Bros._Animation" title="Warner Bros. Animation">Warner Bros. Animation</a>、Cartoon Network Studios和Hanna-Barbera Studios旗下的開發和製作團隊合併為一隊，三間工作室名義上會繼續存在，但開發、製作、演員、法務、公關團隊將會共享</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="動畫影集列表"></span><span class="mw-headline" id=".E5.8B.95.E7.95.AB.E5.BD.B1.E9.9B.86.E5.88.97.E8.A1.A8">動畫影集列表</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=2" title="編輯章節：動畫影集列表" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><td>以下列表僅列出部分作品
+</td></tr></tbody></table><h3 class="in-block"><span id="1992–2004"></span><span class="mw-headline" id="1992.E2.80.932004">1992–2004</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=3" title="編輯章節：1992–2004" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="The_Powerpuff_Girls（飛天小女警）"></span><span class="mw-headline" id="The_Powerpuff_Girls.EF.BC.88.E9.A3.9B.E5.A4.A9.E5.B0.8F.E5.A5.B3.E8.AD.A6.EF.BC.89">The Powerpuff Girls（<a href="/%E9%A3%9B%E5%A4%A9%E5%B0%8F%E5%A5%B3%E8%AD%A6" title="飛天小女警">飛天小女警</a>）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=4" title="編輯章節：The Powerpuff Girls（飛天小女警）" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="http://home.gamer.com.tw/creationDetail.php?sn=1616240">巴哈晚安部落專輯</a></li>
+<li>詳見<a href="/%E9%A3%9B%E5%A4%A9%E5%B0%8F%E5%A5%B3%E8%AD%A6" title="飛天小女警">飛天小女警</a></li>
+<li>原創：Craig Mc-Cracken、導演：Genndy Tartakovsky</li>
+<li>Cartoon Network最著名的作品之一，現時地位為看板娘(無誤)。</li></ul><h4 class="in-block"><span id="Dexter's_Laboratory（德克斯特的實驗室）"></span><span class="mw-headline" id="Dexter.27s_Laboratory.EF.BC.88.E5.BE.B7.E5.85.8B.E6.96.AF.E7.89.B9.E7.9A.84.E5.AF.A6.E9.A9.97.E5.AE.A4.EF.BC.89">Dexter's Laboratory（德克斯特的實驗室）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=5" title="編輯章節：Dexter's Laboratory（德克斯特的實驗室）" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="http://home.gamer.com.tw/creationDetail.php?sn=1548831">巴哈晚安部落專輯</a></li>
+<li>原創：Genndy Tartakovsky<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>、導演：Craig Mc-Cracken<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li>進來後果自行負責，通過這扇拱門後，你將會碰到這世上前所未有­的事情，在此發生！</li>
+<li>常見的故事模式就是德克斯特在實驗室搞天龍人，而他的姊姊蒂蒂總是闖進去製造混亂，此外對於其他事情都有浮誇描述。</li>
+<li>打破當年電視動畫的傳統：「每一集事情結束後會恢復正常」，但本作每集都在事情未解決結束且沒恢復，下一集又從「正常」狀況開始。</li>
+<li>內容多半具有許多知名作品的戲仿，其中<a href="/%E6%BC%AB%E5%A8%81%E6%BC%AB%E7%95%AB" title="漫威漫畫">漫威</a>系列更中槍了無數次。</li>
+<li>中間時段會播放兩個小短篇「呼叫猴子請按M」或「正義之友」。
+<ul><li>呼叫猴子請按M：在片頭，德克斯特因為研究猴子得不到成果而懊惱時，就會有一位身屬地球防衛隊的女性召喚牠，猴子就會立刻變成超級猴子去拯救世人。</li>
+<li>正義之友：<s><a href="/%E7%BE%8E%E5%9C%8B%E9%9A%8A%E9%95%B7" title="美國隊長">美國隊長</a></s>葛羅利、<s>浩克</s>庫克和<s>索爾</s>維哈林<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> 是一間公寓的室友，他們總是要挑戰如何在超級英雄的冒險舉動與平靜的生活在公寓中取得一個平衡點。他們也曾經在飛天小女警登場。
+<ul><li>有一集葛羅利還來幫德克斯特過生日。</li></ul></li></ul></li></ul><h4 class="in-block"><span id="Samurai_Jack（傑克武士）"></span><span class="mw-headline" id="Samurai_Jack.EF.BC.88.E5.82.91.E5.85.8B.E6.AD.A6.E5.A3.AB.EF.BC.89">Samurai Jack（傑克武士）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=6" title="編輯章節：Samurai Jack（傑克武士）" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="http://home.gamer.com.tw/creationDetail.php?sn=1571760">巴哈晚安部落專輯</a>、<a rel="nofollow" class="external text" href="https://home.gamer.com.tw/creationDetail.php?sn=3987235">第五季版本</a></li>
+<li>原創：Genndy Tartakovsky</li>
+<li>故事發生在一個極遙遠，由邪惡統治的未來世界。</li>
+<li>黑暗變形魔大師阿蠱破壞一個類似日本的古代東方國家，在與領主兒子決鬥即將落敗時將他扔進未來；失去守護者的世界於是被邪惡統治，領主兒子則在未來中與阿蠱的爪牙奮戰並尋找回到過去的方法...</li>
+<li>2004年推出第四季後完結。2017年推出第五季，也是系列作的最後一季，但播放頻道由Cartoon Network改為Adult Swim
+<ul><li>第五季故事是第四季的50年後，所有回到過去的方法都被阿蠱破壞，但主角因穿越時空的影響而沒有變老</li>
+<li>第五季開始時，失去了神刀的傑克患上了嚴重的創傷症後群，但最後還是順利克服並取回神刀。</li>
+<li>新增一名女主角阿喜（Ashi）<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，是阿蠱的女兒，最後為了幫助傑克而步上<a href="/%E5%A4%A9%E5%85%83%E7%AA%81%E7%A0%B4" class="mw-redirect" title="天元突破">隔壁棚</a>某個反螺旋信使的後塵</span>。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因此讓許多粉絲哀鴻遍野，衍生遊戲裡也因此補充了阿喜存活的if結局。</span></li></ul></li></ul></li>
+<li><s>尤教授外傳</s><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li></ul><h4 class="in-block"><span id="The_Grim_Adventures_of_Billy_and_Mandy（怪誕骷髏魔/愛酷一族/大鼻與酷蒂）"></span><span class="mw-headline" id="The_Grim_Adventures_of_Billy_and_Mandy.EF.BC.88.E6.80.AA.E8.AA.95.E9.AA.B7.E9.AB.8F.E9.AD.94.2F.E6.84.9B.E9.85.B7.E4.B8.80.E6.97.8F.2F.E5.A4.A7.E9.BC.BB.E8.88.87.E9.85.B7.E8.92.82.EF.BC.89">The Grim Adventures of Billy and Mandy（怪誕骷髏魔/愛酷一族/大鼻與酷蒂）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=7" title="編輯章節：The Grim Adventures of Billy and Mandy（怪誕骷髏魔/愛酷一族/大鼻與酷蒂）" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Maxwell Atoms<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li>台灣首播時譯為《怪誕骷髏魔》，之後又翻譯成《大鼻與酷蒂》。</li>
+<li>是一部由卡通頻道改革卡通卡通期間，經公眾投票選出製作的動畫。</li>
+<li>原文名字為Grim and Evil，後來因由Evil的部分表現平平，在2003年被分拆成為長篇動畫。</li>
+<li>有很多對知名作品的戲仿，如《養鬼吃人》、《哈利波特》、《叔比狗》、《CSI犯罪現場》等。</li>
+<li>在變成《大鼻與酷蒂》後翻譯也跟著台味化，台客式<a href="/%E7%BF%BB%E8%AD%AF%E5%86%8D%E5%89%B5%E4%BD%9C" title="翻譯再創作">翻譯</a>風潮下荼毒的受害者之一。</li></ul><h4 class="in-block"><span id="Courage_the_Cowardly_Dog（膽小狗英雄）"></span><span class="mw-headline" id="Courage_the_Cowardly_Dog.EF.BC.88.E8.86.BD.E5.B0.8F.E7.8B.97.E8.8B.B1.E9.9B.84.EF.BC.89">Courage the Cowardly Dog（膽小狗英雄）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=8" title="編輯章節：Courage the Cowardly Dog（膽小狗英雄）" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="http://home.gamer.com.tw/creationDetail.php?sn=1468478">巴哈晚安部落專輯</a></li>
+<li>原創、編劇、導演：John R. Dilworth</li>
+<li>於1995年《妙妙卡通秀》（What A Cartoon）的〈膽小狗大戰外星雞〉（The Chicken From Outer Space）為起點，後入圍奧斯卡最佳動畫短片奠定作品地位。</li>
+<li>茉莉兒與奧提斯兩位夫婦住在鳥不生蛋的無名小鎮（The Middle of Nowhere），有天茉莉兒把一隻流浪<a href="/%E7%8A%AC" title="犬">狗</a>撿回家，並取名為「英雄（Courage）」。為了報答茉莉兒，即使奧提斯老是欺負他又罵他「小笨狗（Stupid Dog）」，英雄依然屢次發揮智慧化險為夷，拯救主人茉莉兒<s>，另外奧提斯只是順便救而已</s>。</li>
+<li>精神獵奇的指數幾乎到達了極致。</li>
+<li>美版為茉莉兒配音的聲優西亞·懷特（Thea White）女士於2021年7月30日病逝，享壽81歲。</li></ul><h4 class="in-block"><span id="Johnny_Bravo（拚命郎約翰尼）"></span><span class="mw-headline" id="Johnny_Bravo.EF.BC.88.E6.8B.9A.E5.91.BD.E9.83.8E.E7.B4.84.E7.BF.B0.E5.B0.BC.EF.BC.89">Johnny Bravo（拚命郎約翰尼）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=9" title="編輯章節：Johnny Bravo（拚命郎約翰尼）" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="http://home.gamer.com.tw/creationDetail.php?sn=1679368">巴哈晚安部落專輯</a></li>
+<li>原創：Butch Hartman</li>
+<li>主角約翰尼是個自戀又愚蠢的男人，而也因此使劇情變得更加有趣。</li>
+<li>其實早期的約翰尼沒有那麼蠢，只是到後期版本他<a href="/%E8%85%A6%E6%AE%98" title="腦殘">腦殘</a>這點被無限放大。</li>
+<li><s><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=fwl7Rcx_PFo">毀滅公爵。</a></s></li></ul><h4 class="in-block"><span id="Cow_and_Chicken（雞與牛）"></span><span class="mw-headline" id="Cow_and_Chicken.EF.BC.88.E9.9B.9E.E8.88.87.E7.89.9B.EF.BC.89">Cow and Chicken（雞與牛）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=10" title="編輯章節：Cow and Chicken（雞與牛）" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="http://home.gamer.com.tw/creationDetail.php?sn=2307877">巴哈晚安部落專輯</a></li>
+<li>原創：David Feiss</li>
+<li>作品裡有很多非常怪異的要素，另外<a href="/%E3%82%B0%E3%83%AD%E3%83%86%E3%82%B9%E3%82%AF" title="グロテスク">獵奇</a>要素更是不少。</li></ul><h4 class="in-block"><span id="I_Am_Weasel（黃鼠狼威索）"></span><span class="mw-headline" id="I_Am_Weasel.EF.BC.88.E9.BB.83.E9.BC.A0.E7.8B.BC.E5.A8.81.E7.B4.A2.EF.BC.89">I Am Weasel（黃鼠狼威索）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=11" title="編輯章節：I Am Weasel（黃鼠狼威索）" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：David Feiss</li>
+<li>從《雞與牛》的附屬作品獨立出來的作品，沒穿褲子先生仍會頻繁亂入。</li></ul><h4 class="in-block"><span id="Ed,_Edd_n_Eddy（搗蛋三傻）"></span><span class="mw-headline" id="Ed.2C_Edd_n_Eddy.EF.BC.88.E6.90.97.E8.9B.8B.E4.B8.89.E5.82.BB.EF.BC.89">Ed, Edd n Eddy（搗蛋三傻）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=12" title="編輯章節：Ed, Edd n Eddy（搗蛋三傻）" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事圍繞在艾、艾德與艾迪三個人的搞怪故事，他們位在於Peach Creek鎮的死胡同（cul-de-sac）裡，和死胡同的其他小孩們玩一堆稀奇古怪的花招。</li>
+<li>本作中只有小孩跟動物，沒有科幻或超自然要素，但怪異和超現實的情節依然是其特色。</li></ul><h4 class="in-block"><span id="Mike,_Lu_&amp;_Og（小島樂園）"></span><span class="mw-headline" id="Mike.2C_Lu_.26_Og.EF.BC.88.E5.B0.8F.E5.B3.B6.E6.A8.82.E5.9C.92.EF.BC.89">Mike, Lu &amp; Og（小島樂園）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=13" title="編輯章節：Mike, Lu &amp; Og（小島樂園）" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Mikhail Shindel、Mikhail Aldashin、Charles Swenson</li>
+<li>此動畫由KINOFILM Animation製作，但以「Cartoon Network原創」的名義發行。</li>
+<li>住在都市的女孩小麥(Mike)在當交換生時偶然被送到了太平洋上的一座小島，故事由此展開。</li></ul><h4 class="in-block"><span id="­Sheep_in_the_Big_City（城市小綿羊）"></span><span class="mw-headline" id=".C2.ADSheep_in_the_Big_City.EF.BC.88.E5.9F.8E.E5.B8.82.E5.B0.8F.E7.B6.BF.E7.BE.8A.EF.BC.89">­Sheep in the Big City（城市小綿羊）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=14" title="編輯章節：­Sheep in the Big City（城市小綿羊）" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創、導演：Mo Willems<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li>作品的表現方式就像是個電影工作室的樣子，其中包括廣告和廣播室。</li></ul><h4 class="in-block"><span id="Time_Squad（時空特攻隊）"></span><span class="mw-headline" id="Time_Squad.EF.BC.88.E6.99.82.E7.A9.BA.E7.89.B9.E6.94.BB.E9.9A.8A.EF.BC.89">Time Squad（時空特攻隊）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=15" title="編輯章節：Time Squad（時空特攻隊）" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創、導演：Dave Wasson<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li>巴客、拉瑞三千與奧圖等人修正歷史的故事。</li></ul><h4 class="in-block"><span id="Codename:_Kids_Next_Door，簡稱KND（小孩大聯盟）"></span><span class="mw-headline" id="Codename:_Kids_Next_Door.EF.BC.8C.E7.B0.A1.E7.A8.B1KND.EF.BC.88.E5.B0.8F.E5.AD.A9.E5.A4.A7.E8.81.AF.E7.9B.9F.EF.BC.89">Codename: Kids Next Door，簡稱KND（小孩大聯盟）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=16" title="編輯章節：Codename: Kids Next Door，簡稱KND（小孩大聯盟）" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="http://home.gamer.com.tw/creationDetail.php?sn=2095237">巴哈晚安部落專輯</a></li>
+<li>原創、導演：Tom Warburton<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>、編劇：Mo Willems</li>
+<li>「KND」是個大到富可敵國的秘密組織，只對13歲以下者開放，全世界都有其蹤跡，大到要分轄區，比如中國就是C區、牙買加為J區，以此類推。
+<ul><li>加入小孩大聯盟的理由很簡單：只要那孩子受夠大人所謂如處罰、規矩等「暴行」，並讓自己的DNA分泌物或自己選定代號輸入位在月球全球指揮中心的電腦內，就可以遵守各項規定，直到加入者13歲生日時永久退出並被永久註銷相關記憶。</li>
+<li>對付<s>欺負</s>大人的方式多到不行，行頭和武器都是用廢物拼裝成，如破鍋改成的鋼盔、發射糖豆的機關槍等。</li></ul></li>
+<li>本作五位主角為組織其中成員，辦事處兼總部是一個高達100多層的巨型樹屋，所在轄區為「V區」。裡面不乏個人空間和公用設施，像專門盛放乳酪的倉庫、停機坪、一個由成百上千隻北美碩鼠驅動的發電站和專用的自製衛星接收機等。</li></ul><h4 class="in-block"><span id="Foster's_Home_for_Imaginary_Friends（親親麻吉）"></span><span class="mw-headline" id="Foster.27s_Home_for_Imaginary_Friends.EF.BC.88.E8.A6.AA.E8.A6.AA.E9.BA.BB.E5.90.89.EF.BC.89">Foster's Home for Imaginary Friends（親親麻吉）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=17" title="編輯章節：Foster's Home for Imaginary Friends（親親麻吉）" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Craig Mc-Cracken</li>
+<li>構思是Craig和妻子Lauren Faust到加州動物避難所領養些小狗，這時他幻想著這些狗在領養前是如何生活的。就這樣，他有了麻吉之家的構思。</li>
+<li>動畫技術是經Craig獨力和美國國外人士設計。他們使用Adobe的Flash、Illustrator和After Effects協助製作，因此，動畫製作成本較為昂貴。</li>
+<li>麻吉之家是本作的關鍵，是幻想朋友居住的地方。因孩子年紀增長，幻想朋友因而遭遺棄，為了協助想朋友福斯特夫人創立Wilson Way 1123號的麻吉之家，照顧無家的幻想朋友。它的宗旨是「好想像永不會被遺忘」。</li>
+<li>2022年原作者Craig Mc-Cracken回歸卡通頻道工作室後宣佈會製作重製版，但因目標觀眾是年幼兒童因此重製版會比原作更幼齡化。</li></ul><h3 class="in-block"><span id="2004–2010"></span><span class="mw-headline" id="2004.E2.80.932010">2004–2010</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=18" title="編輯章節：2004–2010" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="Ben_10_（少年駭客）[11]"></span><span class="mw-headline" id="Ben_10_.EF.BC.88.E5.B0.91.E5.B9.B4.E9.A7.AD.E5.AE.A2.EF.BC.89.5B11.5D">Ben 10 <s>（少年駭客）<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></s></span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=19" title="編輯章節：Ben 10 （少年駭客）[11]" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Man of Action</li>
+<li>10歲的<a href="/%E7%94%B0%E5%B0%8F%E7%8F%AD" title="田小班">田小班</a>在暑假第一天，與爺爺馬克、堂妹小玟在郊外露營發現從天而降的Omnitrix，讓他擁有變身成外星人的能力，每一種外星人都有獨特的神奇力量，此後小班成為超級英雄，肩負起保衛世界的任務。「何謂英雄？」一直是這部探討的主題。
+<ul><li>一開始小班不能控制自己決定變身成什麼樣子，而且變身有時間限制，超過就會變回原樣，但這點不能自己決定變身這點在後期似乎克服了。</li></ul></li>
+<li>如果一集開場動畫出現漫畫圖像，就代表這集是另一假設的<a href="/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C" title="平行世界">平行世界</a>，原本的時空不會發生。
+<ul><li>《Ben 10,000》和《Ken 10》兩集敘述未來的劇情，只是表示這些是未來的其中一種可能，不代表以後必然如此發展的。</li></ul></li></ul><h4 class="in-block"><span id="Ben_10:_Alien_Force（Ben_10_外星英雄）"></span><span class="mw-headline" id="Ben_10:_Alien_Force.EF.BC.88Ben_10_.E5.A4.96.E6.98.9F.E8.8B.B1.E9.9B.84.EF.BC.89">Ben 10: Alien Force（Ben 10 外星英雄）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=20" title="編輯章節：Ben 10: Alien Force（Ben 10 外星英雄）" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Man of Action、開發：Dwayne Mc-Duffie<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li>小班已經有5年沒有戴上Omnitrix，由於馬克爺爺失蹤使小班重出江湖。面對新的威脅下，小班不再單打獨鬥，必須和小玟、凱文合作，還要尋找可靠盟友解決威脅。前期面對的敵人以進化人與其手下半人獸為重大威脅，後期則要面對回歸的魔賈斯。
+<ul><li>由於多處設定改變而評價不一，被部分粉絲視為<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a>。</li></ul></li></ul><h4 class="in-block"><span id="Chowder（愛吃鬼巧達）"></span><span class="mw-headline" id="Chowder.EF.BC.88.E6.84.9B.E5.90.83.E9.AC.BC.E5.B7.A7.E9.81.94.EF.BC.89">Chowder（愛吃鬼巧達）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=21" title="編輯章節：Chowder（愛吃鬼巧達）" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="https://home.gamer.com.tw/creationDetail.php?sn=3296590">巴哈晚安部落專輯</a></li>
+<li>原創、編劇：C.H. Greenblatt<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>作品中常出現布偶、黏土、實物呈現的景色或菜色，而所處城市杏仁餅城的建築物皆富有摩洛哥或印度風味，居民都是<a href="/%E4%BA%BA%E5%A4%96" title="人外">人外</a>，但也有外表像人類的生物。</li>
+<li>每集片頭曲畫面在烤箱中的食物都不同，而片尾一定會出現布偶戲橋段。</li>
+<li>經常打破<a href="/%E7%AC%AC%E5%9B%9B%E9%9D%A2%E7%89%86" title="第四面牆">第四面牆</a>，著名劇情為<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=nGb-2oVDWXk">因為用盡金錢導致沒有動畫結果要配音員洗車賺錢補回經費</a>。</li>
+<li>台客式翻譯風潮下荼毒的受害者之一。</li></ul><h4 class="in-block"><span id="Transformers:_Animated（變形金剛進化版）"></span><span class="mw-headline" id="Transformers:_Animated.EF.BC.88.E8.AE.8A.E5.BD.A2.E9.87.91.E5.89.9B.E9.80.B2.E5.8C.96.E7.89.88.EF.BC.89">Transformers: Animated（變形金剛進化版）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=22" title="編輯章節：Transformers: Animated（變形金剛進化版）" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>設計：Derrick J. Wyatt</li>
+<li>孩之寶為了配合<a href="/%E8%AE%8A%E5%BD%A2%E9%87%91%E5%89%9B%E7%B3%BB%E5%88%97" title="變形金剛系列">變形金剛</a>真人電影版的人氣與卡通頻道共同推出的變形金剛動畫。</li>
+<li>劇情和設定上本來與真人電影版無關，但日版則是改成了跟真人電影版接軌的方式。</li>
+<li>本作的柯博文和其他代不同之處在於他只是單純的維修小隊隊長，並不是博派的領袖，而且因為年輕所以經驗也不夠<s>，當然老馬也有更大說服力</s>。</li>
+<li>主要劇情舞台發生在近未來的底特律市，一開始是單純的打擊運用黑科技的罪犯，後來劇情回到慣例的博狂對決，最後舞台則轉移到了塞博坦星。</li>
+<li><s>當年聽聞因2008金融危機而導致縮短話數兼爛尾，某位全身天藍色的博派配角被壓成廢鐵後就沒有然後了。</s></li></ul><h4 class="in-block"><span id="The_Marvelous_Misadventures_of_Flapjack（阿嗨大冒險）"></span><span class="mw-headline" id="The_Marvelous_Misadventures_of_Flapjack.EF.BC.88.E9.98.BF.E5.97.A8.E5.A4.A7.E5.86.92.E9.9A.AA.EF.BC.89">The Marvelous Misadventures of Flapjack（阿嗨大冒險）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=23" title="編輯章節：The Marvelous Misadventures of Flapjack（阿嗨大冒險）" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Thurop Van Orman、編劇：Pendleton Ward</li>
+<li>有著一大堆媲美《雞與牛》的精神獵奇要素。</li>
+<li>台客式翻譯風潮下荼毒的受害者之一。</li></ul><h4 class="in-block"><span id="Generator_Rex（機械戰士REX）"></span><span class="mw-headline" id="Generator_Rex.EF.BC.88.E6.A9.9F.E6.A2.B0.E6.88.B0.E5.A3.ABREX.EF.BC.89">Generator Rex（機械戰士REX）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=24" title="編輯章節：Generator Rex（機械戰士REX）" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Man of Action</li>
+<li>故事發生在五年前的全球大爆炸，幻晶散佈到大氣中，地球所有生物受幻晶感染，隨時可能在宿主體內活化，突變成「變魔（E.V.O.，全名Exponentially Variegated Organism）」，其中有些還喪心病狂而作亂。為了對抗變魔，「剋魔會（Providence）」隨之成立，目的就是為了捕捉並治療變魔，總部為主要基地，「維合號」為行動指揮中心和太空艦。</li>
+<li>Rex是個失去記憶的十五歲少年，身為變魔的他能控制幻晶而受剋魔會重用，並運用該力量打擊邪惡勢力「冥王魔界（Abysus）」及治癒被幻晶感染的人們。</li>
+<li>因為和Ben 10是同個製作組，兩部作品的主角也曾經合作過。</li></ul><h4 class="in-block"><span id="Camp_Lazlo（瘋狂夏令營）"></span><span class="mw-headline" id="Camp_Lazlo.EF.BC.88.E7.98.8B.E7.8B.82.E5.A4.8F.E4.BB.A4.E7.87.9F.EF.BC.89">Camp Lazlo（瘋狂夏令營）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=25" title="編輯章節：Camp Lazlo（瘋狂夏令營）" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Joe Murray</li>
+<li>故事講述一個夏令營內所發生的事，但內裡都是一班長得像人的動物。</li>
+<li>主角為蜘蛛猴拉茲洛(Lazlo)以及印度象洛基(Raj)。</li></ul><h4 class="in-block"><span id="My_Gym_Partner's_a_Monkey（我的麻吉是猴子）"></span><span class="mw-headline" id="My_Gym_Partner.27s_a_Monkey.EF.BC.88.E6.88.91.E7.9A.84.E9.BA.BB.E5.90.89.E6.98.AF.E7.8C.B4.E5.AD.90.EF.BC.89">My Gym Partner's a Monkey（我的麻吉是猴子）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=26" title="編輯章節：My Gym Partner's a Monkey（我的麻吉是猴子）" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>12歲的阿丹因名字弄錯而被送進達爾文中學，是一間專收動物的學校。作為唯一的人類，阿丹學到新校舍的「自然法則」大道理...</li></ul><h3 class="in-block"><span id="2010–2019"></span><span class="mw-headline" id="2010.E2.80.932019">2010–2019</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=27" title="編輯章節：2010–2019" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="Ben_10:_Ultimate_Alien（Ben_10_終極英雄）"></span><span class="mw-headline" id="Ben_10:_Ultimate_Alien.EF.BC.88Ben_10_.E7.B5.82.E6.A5.B5.E8.8B.B1.E9.9B.84.EF.BC.89">Ben 10: Ultimate Alien（Ben 10 終極英雄）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=28" title="編輯章節：Ben 10: Ultimate Alien（Ben 10 終極英雄）" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Man of Action、開發：Dwayne Mc-Duffie</li>
+<li>小班得到Omnitrix的升級<s>退化</s>版Ultimarix以後，擁有更強大<s>低能</s>的變身能力，能將之前變身的外星人轉變為強<s>弱</s>化版本。此外小班身份曝光被迫面對異樣眼光。小班除了面對女友茱莉的關係變化，還要面對各式各樣的舊敵人和新敵人。</li>
+<li>前期劇情主線在阻止惡怪剋，之後就沒有特定的主要敵人，有多集敘述各角色本身的故事。後期原本衰弱的永恆武士重振實力，異界生物大剛也將構成嚴重威脅。</li></ul><h4 class="in-block"><span id="Adventure_Time（探險活寶）"></span><span class="mw-headline" id="Adventure_Time.EF.BC.88.E6.8E.A2.E9.9A.AA.E6.B4.BB.E5.AF.B6.EF.BC.89">Adventure Time（探險活寶）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=29" title="編輯章節：Adventure Time（探險活寶）" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>詳見<a href="/%E6%8E%A2%E9%9A%AA%E6%B4%BB%E5%AF%B6" title="探險活寶">探險活寶</a></li>
+<li>原創：Pendleton Ward、編劇：Thurop Van Orman</li>
+<li>台客式翻譯風潮下荼毒的受害者之一。</li>
+<li>2020年推出番外篇「Adventure Time: Distant Lands」（探險活寶：遙遠的秘境），補完原故事中沒有描述的人和事。</li>
+<li>2021年宣佈製作衍生作品「Adventure Time: Fionna and Cake」，推出時間未定。</li></ul><h4 class="in-block"><span id="The_Amazing_World_of_Gumball（阿甘妙世界）"></span><span class="mw-headline" id="The_Amazing_World_of_Gumball.EF.BC.88.E9.98.BF.E7.94.98.E5.A6.99.E4.B8.96.E7.95.8C.EF.BC.89">The Amazing World of Gumball（阿甘妙世界）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=30" title="編輯章節：The Amazing World of Gumball（阿甘妙世界）" data-section="30" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>詳見<a href="/%E9%98%BF%E7%94%98%E5%A6%99%E4%B8%96%E7%95%8C" title="阿甘妙世界">阿甘妙世界</a></li>
+<li>由英國倫敦的卡通頻道歐洲工作室製作，2012開始在卡通頻道播出。Ben Bocquelet及英國電影和電視藝術學院獎項得獎者Mic Graves擔任導演。該劇曾在法國安錫國際動畫影展中，獲得最佳電視製作水晶獎。</li>
+<li>主角是住在吉吉小鎮且搞怪有趣的陶家（Watterson），以圍繞家庭的日常生活發展。</li>
+<li>作品以融合現實場景，角色以不同形式的動畫來演出。</li>
+<li>前期作風大多是試著讓事情鬧大前解決事情，後期劇情完全變成甚麼事都鬧大才好<s>以及各種有病惡搞及諷刺，甚至還公開惡搞過山寨版和同人二創</s>。</li>
+<li>台客式翻譯風潮下荼毒的受害者之一。</li></ul><h4 class="in-block"><span id="Regular_Show（天兵公園）"></span><span class="mw-headline" id="Regular_Show.EF.BC.88.E5.A4.A9.E5.85.B5.E5.85.AC.E5.9C.92.EF.BC.89">Regular Show（天兵公園）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=31" title="編輯章節：Regular Show（天兵公園）" data-section="31" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a rel="nofollow" class="external text" href="https://home.gamer.com.tw/creationDetail.php?sn=3874508">巴哈晚安部落專輯</a></li>
+<li>原創：J. G. Quintel</li>
+<li>背景設定在一個稱之「青黏公園」的一座民營公園，不負責任又老搞砸一切的天兵鳥哥與阿天慕名來應徵工友，而公園裡發生莫名其妙的<a href="/%E8%B6%85%E5%B1%95%E9%96%8B" title="超展開">超展開</a>更是其特色。</li>
+<li>台客式翻譯風潮下荼毒的受害者之一。</li></ul><h4 class="in-block"><span id="Ben_10:_Omniverse（Ben_10_全面進化）"></span><span class="mw-headline" id="Ben_10:_Omniverse.EF.BC.88Ben_10_.E5.85.A8.E9.9D.A2.E9.80.B2.E5.8C.96.EF.BC.89">Ben 10: Omniverse（Ben 10 全面進化）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=32" title="編輯章節：Ben 10: Omniverse（Ben 10 全面進化）" data-section="32" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Man of Action、設計：Derrick J. Wyatt<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li>小班使用阿茲米斯給他的新Omnitrix持續拯救世界。小玟和凱文有各自原因離開貝爾市後，小班遇到新夥伴戮克。另外小班除了要面對過去的舊敵人，還遇上各式各樣的新敵人，另外一定程度解釋了《外星英雄》和《終極英雄》中間的空白。</li>
+<li>比起AF和UA算是相對好一些，但是畫風古怪加上日式ACG風格荼毒比之前來的重。</li></ul><h4 class="in-block"><span id="Steven_Universe（神臍小捲毛）"></span><span class="mw-headline" id="Steven_Universe.EF.BC.88.E7.A5.9E.E8.87.8D.E5.B0.8F.E6.8D.B2.E6.AF.9B.EF.BC.89">Steven Universe（神臍小捲毛）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=33" title="編輯章節：Steven Universe（神臍小捲毛）" data-section="33" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>詳見<a href="/%E7%A5%9E%E8%87%8D%E5%B0%8F%E6%8D%B2%E6%AF%9B" title="神臍小捲毛">神臍小捲毛</a></li>
+<li>原創：Rebecca Sugar</li>
+<li><s>因為題材皆和寶石有關，一度在隔壁棚的寶石之國動畫化時被扯上關係。</s></li>
+<li>台客式翻譯風潮下荼毒的受害者之一。</li></ul><h4 class="in-block"><span id="Uncle_Grandpa（天才阿公）"></span><span class="mw-headline" id="Uncle_Grandpa.EF.BC.88.E5.A4.A9.E6.89.8D.E9.98.BF.E5.85.AC.EF.BC.89">Uncle Grandpa（天才阿公）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=34" title="編輯章節：Uncle Grandpa（天才阿公）" data-section="34" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Peter Browngardt</li>
+<li>描述一個怪裡怪氣的老阿伯、一隻常識人怪獸、一塊會說話又愛現的披薩和一隻真實照片老虎去「幫」小朋友「解決」事情的故事。</li>
+<li>曾在神臍小捲毛客串過。</li>
+<li>台客式翻譯風潮下荼毒的受害者之一。</li></ul><h4 class="in-block"><span id="Ben_10（Ben_10_再顯神威）"></span><span class="mw-headline" id="Ben_10.EF.BC.88Ben_10_.E5.86.8D.E9.A1.AF.E7.A5.9E.E5.A8.81.EF.BC.89">Ben 10（Ben 10 再顯神威）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=35" title="編輯章節：Ben 10（Ben 10 再顯神威）" data-section="35" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Man of Action</li>
+<li>第一輯的重製版。</li>
+<li>除了劇中人物畫風變得幼兒化外，劇情也大幅度簡化，回歸到本來的「英雄vs外星人」。</li>
+<li>2021年推出三個特別篇後結束。
+<ul><li>最後的特別篇「Alien X-tinction」中，正式把重製版定義為原版的<a href="/%E5%B9%B3%E8%A1%8C%E4%B8%96%E7%95%8C" title="平行世界">平行世界</a>。</li>
+<li>現時重製版的世界線稱號為「Dimension 27998.3」。</li></ul></li></ul><h4 class="in-block"><span id="Clarence（我愛阿噗）"></span><span class="mw-headline" id="Clarence.EF.BC.88.E6.88.91.E6.84.9B.E9.98.BF.E5.99.97.EF.BC.89">Clarence（我愛阿噗）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=36" title="編輯章節：Clarence（我愛阿噗）" data-section="36" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Skyler Page</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=xEsKT026mQ8">首次引發同性戀爭議的作品。</a></li>
+<li>台客式翻譯風潮下荼毒的受害者之一。</li></ul><h4 class="in-block"><span id="We_Bare_Bears（熊熊遇見你）"></span><span class="mw-headline" id="We_Bare_Bears.EF.BC.88.E7.86.8A.E7.86.8A.E9.81.87.E8.A6.8B.E4.BD.A0.EF.BC.89">We Bare Bears（熊熊遇見你）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=37" title="編輯章節：We Bare Bears（熊熊遇見你）" data-section="37" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Daniel Chong<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>台客式翻譯風潮下荼毒的受害者之一。</li></ul><h4 class="in-block"><span id="Over_the_Garden_Wall（花園牆外/謎樣森林）"></span><span class="mw-headline" id="Over_the_Garden_Wall.EF.BC.88.E8.8A.B1.E5.9C.92.E7.89.86.E5.A4.96.2F.E8.AC.8E.E6.A8.A3.E6.A3.AE.E6.9E.97.EF.BC.89">Over the Garden Wall（花園牆外/謎樣森林）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=38" title="編輯章節：Over the Garden Wall（花園牆外/謎樣森林）" data-section="38" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Patrick McHale</li>
+<li>改自2013年播出的短篇故事「無名墳墓」(Tome of the Unknown)，故事講述沃特(Wirt)和葛瑞格(Greg)莫名地進入了一片詭譎又陰暗的黑森林，為了回家而在森林中進行冒險</li>
+<li>有著媲美《探險活寶》的浩大世界觀及黑劇情<s>，但只有一季就完結了</s>。</li></ul><h4 class="in-block"><span id="Summer_Camp_Island（夏令營奇幻島）"></span><span class="mw-headline" id="Summer_Camp_Island.EF.BC.88.E5.A4.8F.E4.BB.A4.E7.87.9F.E5.A5.87.E5.B9.BB.E5.B3.B6.EF.BC.89">Summer Camp Island（夏令營奇幻島）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=39" title="編輯章節：Summer Camp Island（夏令營奇幻島）" data-section="39" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：	Julia Pott</li>
+<li>故事講述歐乖（Oscar Peltzer）和他的朋友嘿朵（Hedgehog）在夏令營奇幻島上發生的妙事。
+<ul><li>島上輔導員是女巫、馬是獨角獸、床底下有怪物、泳池中有鯊魚。</li>
+<li><b>在夏令營奇幻島上任何事情都可能發生</b>。</li></ul></li></ul><h3 class="in-block"><span id="2019–現在"></span><span class="mw-headline" id="2019.E2.80.93.E7.8F.BE.E5.9C.A8">2019–現在</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=40" title="編輯章節：2019–現在" data-section="40" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="Infinity_Train（無限列車）"></span><span class="mw-headline" id="Infinity_Train.EF.BC.88.E7.84.A1.E9.99.90.E5.88.97.E8.BB.8A.EF.BC.89">Infinity Train（無限列車）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=41" title="編輯章節：Infinity Train（無限列車）" data-section="41" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Owen Dennis</li>
+<li>原本只是在2016年播出的短篇故事，2019年正式以Cartoon Network Original Series的名義製作成長篇動畫，在Netflix和HBO Max上推出。</li>
+<li>描寫在一輛巨型列車「Infinity Train」上所發生的故事。</li>
+<li><s><a href="/%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83" title="鬼滅之刃">雖然作品名字是這樣，但跟某上弦的戰鬥沒有任何關係</a>。</s></li>
+<li>2022年4月被母公司「華納兄弟探索」(Warner Bros Discovery)為了省錢而在HBO Max上移除，所有相關資料也在各個媒體平台全數移除。</li></ul><h4 class="in-block"><span id="Primal/Genndy_Tartakovsky's_Primal（原始戰記）"></span><span class="mw-headline" id="Primal.2FGenndy_Tartakovsky.27s_Primal.EF.BC.88.E5.8E.9F.E5.A7.8B.E6.88.B0.E8.A8.98.EF.BC.89">Primal/Genndy Tartakovsky's Primal（原始戰記）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=42" title="編輯章節：Primal/Genndy Tartakovsky's Primal（原始戰記）" data-section="42" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Genndy Tartakovsky</li>
+<li>故事講述一名穴居人與一頭暴龍搭檔的冒險，於Adult Swim頻道中播出。</li>
+<li>由於故事設定在史前時代，因此故事中對話不多，反以獨特的畫面、節奏和剪輯去帶動劇情。</li></ul><h4 class="in-block"><span id="Close_Enough（人生差一點）"></span><span class="mw-headline" id="Close_Enough.EF.BC.88.E4.BA.BA.E7.94.9F.E5.B7.AE.E4.B8.80.E9.BB.9E.EF.BC.89">Close Enough（人生差一點）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=43" title="編輯章節：Close Enough（人生差一點）" data-section="43" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：J. G. Quintel</li>
+<li>描寫一個住在洛杉磯公寓，一家四口的日常生活麻煩事，於HBO Max頻道中播出。</li>
+<li>解決過程中永遠會發生各種超現實升級<s>，成人版的Regular Show</s>。</li>
+<li>2022年4月被母公司「華納兄弟探索」(Warner Bros Discovery)為了省錢而強行終止，所有相關資料也在各個媒體平台全數移除。</li></ul><h4 class="in-block"><span id="We_Baby_Bears（熊熊寶貝遇見你）"></span><span class="mw-headline" id="We_Baby_Bears.EF.BC.88.E7.86.8A.E7.86.8A.E5.AF.B6.E8.B2.9D.E9.81.87.E8.A6.8B.E4.BD.A0.EF.BC.89">We Baby Bears（熊熊寶貝遇見你）</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=44" title="編輯章節：We Baby Bears（熊熊寶貝遇見你）" data-section="44" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原創：Daniel Chong</li>
+<li>熊熊遇見你的前傳故事。</li>
+<li>描述年幼主角的冒險，目的是為了尋找一個他們能夠稱為「家」的地方。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=45" title="編輯章節：連結" data-section="45" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>美國動畫頻道<a href="/%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="動畫工作室">動畫工作室</a><a href="/%E5%BE%A1%E4%B8%89%E5%AE%B6" title="御三家">御三家</a>
+<ul><li><a href="/Disney_Television_Animation" title="Disney Television Animation">Disney Television Animation</a></li>
+<li><b>Cartoon Network Studios</b></li>
+<li><a href="/Nickelodeon_Animation_Studio" title="Nickelodeon Animation Studio">Nickelodeon Animation Studio</a></li></ul></li>
+<li><a href="/Warner_Bros._Animation" title="Warner Bros. Animation">華納兄弟動畫公司</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=46" title="編輯章節：回應" data-section="46" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<p><a href="/%E8%A8%8E%E8%AB%96:Cartoon_Network_Studios" title="討論:Cartoon Network Studios">討論:Cartoon Network Studios</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=Cartoon_Network_Studios&amp;action=edit&amp;section=47" title="編輯章節：備註" data-section="47" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">曾負責CN卡通的劇作，也曾製作過Larry and Steve和The Life of Larry兩部動畫短片，可以說是後來《蓋酷家庭》的雛型</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">後原創尼克卡通頻道的The Fairly OddParents（趣怪守護仙）、Danny Phantom（幻影丹尼）和T.U.F.F. Puppy</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">後導演Hotel Transylvania（尖叫旅社）</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">後創作迪士尼頻道的Wander Over Yonder（宇宙小奇兵）</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">劇中人物完全在惡搞復仇者聯盟，連<a href="/%E9%8B%BC%E9%90%B5%E4%BA%BA" title="鋼鐵人">鋼鐵人</a>跟銀色衝浪手都出現過</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">不是只有觀眾覺得像。當初在台灣要準備播時，卡通頻道的廣告就有拿此為梗</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">後導演迪士尼頻道的Fish Hook（魚樂圈）</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">曾擔任Sesame Street（芝麻街）短篇的動畫師。</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">後導演迪士尼頻道的The Buzz on Maggie（飛天瑪姬）、Star vs. the Forces of Evil（星蝶公主）。</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">曾擔任迪士尼頻道Pepper Ann（波波安）的角色設計。</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">最初引進台灣時的<a href="/%E7%BF%BB%E8%AD%AF%E5%86%8D%E5%89%B5%E4%BD%9C" title="翻譯再創作">譯名</a>，已被官方棄用且該譯名被多數粉絲視為黑歷史。</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">曾參與過Justice League（正義聯盟）的幾部動畫版。</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">曾編寫<a href="/%E6%B5%B7%E7%B6%BF%E5%AF%B6%E5%AF%B6" title="海綿寶寶">海綿寶寶</a>、導演Fish Hooks（魚樂圈）。</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">曾設計Teen Titan（少年悍將）和Scooby-Doo! Mystery Incorporated（叔比狗神祕檔案）。</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">參與過迪士尼和皮克斯的動畫電影製作。</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=Cartoon_Network_Studios&amp;oldid=416214">https://wiki.komica.org/index.php?title=Cartoon_Network_Studios&amp;oldid=416214</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/Cartoon_Network_Studios"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="1666275905">
+				最後編輯於 2022年10月20日 (週四) 22:25
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=Cartoon_Network_Studios&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.115","ppvisitednodes":{"value":449,"limit":1000000},"ppgeneratednodes":{"value":1414,"limit":1000000},"postexpandincludesize":{"value":875,"limit":2097152},"templateargumentsize":{"value":314,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4687,"limit":5000000},"timingprofile":["100.00%   47.581      1 -total","  4.94%    2.350      1 模板:Youtube","  3.95%    1.881      2 模板:Censored","  3.21%    1.528      1 模板:H0"]},"cachereport":{"timestamp":"20221115035828","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":264});});</script>		</body>
+		</html>
+		

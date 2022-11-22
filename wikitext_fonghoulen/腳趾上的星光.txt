@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>腳趾上的星光 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"腳趾上的星光","wgTitle":"腳趾上的星光","wgCurRevisionId":204316,"wgRevisionId":204316,"wgArticleId":9798,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"腳趾上的星光","wgRelevantArticleId":9798,"wgRequestId":"44dc80bb251405948704fcec","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-腳趾上的星光 rootpage-腳趾上的星光 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">腳趾上的星光</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">  腳趾上的星光(Melody) </div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/%E6%AA%94%E6%A1%88:Img10214.jpg" class="image"><img alt="Img10214.jpg" src="/images/thumb/d/d9/Img10214.jpg/300px-Img10214.jpg" width="300" height="427" class="thumbimage"></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Img10214.jpg" class="internal" title="放大"></a></div></div></div></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=1" title="編輯章節：簡介" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>台灣知名音樂人姚謙創作的<del>PowerPoint</del>動畫電影，結合音樂與動畫的雙城愛情故事。</li>
+<li>導演:顏順發／編劇:黃興芳</li>
+<li>由李心潔、林宥嘉配音演出。</li>
+<li><del>大雄</del>大熊星國際多媒體與綺泰動畫出品發行。</li>
+<li>片長：90分  上映日期：2012/06/01</li>
+<li><del>號稱</del>製作費用5000萬元，歷時兩年。</li>
+<li><del>謎樣的<a href="/GL" class="mw-redirect" title="GL">百合</a>作。</del></li>
+<li><del>才兩年就超越<a href="/%E9%9D%A0%E5%B2%B8" title="靠岸">靠岸</a>。</del></li>
+<li><del>神奇的公車，車輪不會轉還會向前滑行。</del></li>
+<li>台北票房約11萬。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li>2012年獲得網路媒體ETtoday第二屆金蝦獎最蝦政府輔助獎以一萬多張網友投票打敗眾多爛片。<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="官方介紹"></span><span class="mw-headline" id=".E5.AE.98.E6.96.B9.E4.BB.8B.E7.B4.B9">官方介紹</span><span class="mw-editsection"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=2" title="編輯章節：官方介紹" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>一對相愛的戀人<s>いやま わのん</s>井山(林宥嘉)和音(李心潔)，一起在浩瀚的星空下暢談彼此的夢想。而後，他們決定暫別兩年，勇敢追尋。井山前往北京學習繪畫，而音則留在台北鑽研音樂創作。</li>
+<li>一封一封來往於北京與台北的書信之間，裝載著兩人遙遠而真摯的情意，兩年的遠距離戀情，會為他們的人生帶來怎樣的轉變呢？</li>
+<li>本片堅持華人原創，動畫場景皆依據實景繪製，結合台灣新生代畫家廖震平美術畫作，以樸實的手感繪畫，呈現台灣、北京等多處美景。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="人物介紹"></span><span class="mw-headline" id=".E4.BA.BA.E7.89.A9.E4.BB.8B.E7.B4.B9">人物介紹</span><span class="mw-editsection"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=3" title="編輯章節：人物介紹" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><s>不少人以為 "井山和音" 是一個日本人，いやま わのん</s></li>
+<li>井山 (CV: 林宥嘉)
+<ul><li>性別:男</li></ul></li>
+<li>音 (CV:李心潔)
+<ul><li>性別:女</li></ul></li>
+<li>白景姍<s>(白井山)(這麼說來上面那個是黑的)</s>
+<ul><li>性別:女</li></ul></li>
+<li>Maya
+<ul><li>性別:女</li></ul></li>
+<li>Peter
+<ul><li>性別:男</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="爭議事件"></span><span class="mw-headline" id=".E7.88.AD.E8.AD.B0.E4.BA.8B.E4.BB.B6">爭議事件</span><span class="mw-editsection"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=4" title="編輯章節：爭議事件" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>綺泰動畫總監鄧橋批判網友只看日系動畫就評論這部作品差勁 <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><ul><li>但網友反駁，你的車子連輪子都不會轉，根本是從Flash退化成PowerPoint <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li><del><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=vU1cUKBx2S0">張藝</a>都比你有資格用這個論調</del></li></ul></li>
+<li>之後又說 "光憑個幾分鐘就來評斷好壞是不公平的，得要進戲院看完才行" 。 <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><ul><li><del>想拐人去花錢這種餌太爛了喔。</del></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="投票"></span><span class="mw-headline" id=".E6.8A.95.E7.A5.A8">投票</span><span class="mw-editsection"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=5" title="編輯章節：投票" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>你覺得跟靠岸比起來，誰比較驚悚?</li></ul><div class="vote-block"><div class="vote-page" data-section="1" data-vote-page="腳趾上的星光/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=1">編輯投票選項</a></span></div></div>
+<ul><li>你覺得台灣下一步可以用什麼作動畫電影?</li></ul><div class="vote-block"><div class="vote-page" data-section="2" data-vote-page="腳趾上的星光/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=2">編輯投票選項</a></span></div></div>
+<p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="參見"></span><span class="mw-headline" id=".E5.8F.83.E8.A6.8B">參見</span><span class="mw-editsection"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=6" title="編輯章節：參見" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a href="/%E9%9D%A0%E5%B2%B8" title="靠岸">靠岸</a>-邪神動畫霸主，<del>挑戰對象</del></li>
+<li><a href="/%E9%87%8D%E7%94%B2%E6%A9%9F%E7%A5%9E" title="重甲機神">重甲機神</a>-<s>又一個新挑戰者</s></li>
+<li><a href="/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB%E6%9C%88%E5%88%8A" title="台灣漫畫月刊">台灣漫畫月刊</a>-邪神漫畫霸主</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span><span class="mw-editsection"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=7" title="編輯章節：連結" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><a rel="nofollow" class="external text" href="http://www.facebook.com/StarToes">官方Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=xtDWrwQ8Rz4">三分鐘預告片</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=8" title="編輯章節：回應" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<div class="pcomment-insert" data-number="" data-section="2" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89" title="討論:腳趾上的星光">討論:腳趾上的星光</a>|number=|section=2}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;action=edit&amp;section=9" title="編輯章節：備註" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://app.atmovies.com.tw/movie/movie.cfm?action=filmdata&amp;film_id=fmtw62089567">開眼電影影片資料</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">得獎名單  <a rel="nofollow" class="external free" href="http://www.ettoday.net/news/20121122/130889.htm#ixzz2CxpCWO7k">http://www.ettoday.net/news/20121122/130889.htm#ixzz2CxpCWO7k</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">鄧橋：或許台灣動畫必須走入谷底 <a rel="nofollow" class="external free" href="http://eweekly.atmovies.com.tw/Data/351/33513230/">http://eweekly.atmovies.com.tw/Data/351/33513230/</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">見三分鐘預告片1:42處</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">不夠日本？「腳趾上的星光」2周下檔 <a rel="nofollow" class="external free" href="http://blog.yam.com/newsebc/article/51782199">http://blog.yam.com/newsebc/article/51782199</a></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=腳趾上的星光&amp;oldid=204316">https://wiki.komica.org/index.php?title=腳趾上的星光&amp;oldid=204316</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89"
+				data-user-name="Akenneth731"
+				data-user-gender="unknown"
+				data-timestamp="1581059932">
+				最後編輯於 2020年2月7日 (週五) 15:18
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E8%85%B3%E8%B6%BE%E4%B8%8A%E7%9A%84%E6%98%9F%E5%85%89&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.056","walltime":"0.061","ppvisitednodes":{"value":209,"limit":1000000},"ppgeneratednodes":{"value":764,"limit":1000000},"postexpandincludesize":{"value":2180,"limit":2097152},"templateargumentsize":{"value":433,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1938,"limit":5000000},"timingprofile":["100.00%   28.536      1 -total"," 79.29%   22.627      5 模板:Ref","  7.79%    2.223      2 模板:Vote","  5.59%    1.596      1 模板:Pcomment","  3.77%    1.075      1 模板:H0"]},"cachereport":{"timestamp":"20221028214224","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132});});</script>		</body>
+		</html>
+		

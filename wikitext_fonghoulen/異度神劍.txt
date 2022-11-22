@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>異度神劍 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"異度神劍","wgTitle":"異度神劍","wgCurRevisionId":419212,"wgRevisionId":419212,"wgArticleId":11889,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"異度神劍","wgRelevantArticleId":11889,"wgRequestId":"0160367e1e7d35987b9f460d","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-異度神劍 rootpage-異度神劍 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">異度神劍</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">異度神劍（ゼノブレイド / Xenoblade Chronicles） /<s>印度神劍 / <a href="/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA" title="進擊的巨人">進擊的巨神</a>  / 殖民地守護隊</s> / <span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Monado:Beginning of The World</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></div>
+<table class="wikitable" style="margin:auto;text-align: center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td><b>穏やかじゃないですね</b>
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li><a href="/%E4%BB%BB%E5%A4%A9%E5%A0%82" title="任天堂">任天堂</a>在Wii平台推出的<a href="/RPG" title="RPG">RPG</a>
+<ul><li>Monolith Soft製作，高橋哲哉擔任製作總監</li>
+<li>劇本為曾負責異域傳說動畫版《Xenosaga THE ANIMATION》與DS遊戲《異域神兵I・II》的竹田裕一郎</li>
+<li>下村陽子，清田愛未與ACE+（工藤友利，CHiCO，平松建治） 等人擔任配樂</li>
+<li>人物設計：從缺<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><ul><li><s>所以人物設計看起來很地味也是沒辦法的事。</s></li></ul></li></ul></li>
+<li>作為Wii上的三大RPG企劃的其中一作與《夢幻終章》和《潘朵拉之塔》一同公佈，然而和其他兩款差太多的畫面（尤其是人物模組）表現導致期待度不高。
+<ul><li>然而隨著遊戲發售後風評水漲船高，最後反而成為這三作中名氣最大的一作<s>，還意外婊了隔壁棚因為各種因素變成一本道的FF13</s>。</li>
+<li>歐美版由於美國任天堂不想代理而丟給了歐洲分部處理，導致所有角色的英文配音都是英國腔。但評價在玩家中頗高<s>，尤其是和<a href="/%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2" title="異度神劍2">異度神劍2</a>比起來……</s>。</li></ul></li></ul><ul><li>一度移植到<b>NEW</b> 3DS，後於2020年的Nintendo Switch上推出終極版
+<ul><li>除了畫面升級+人物模組<a href="/%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4" title="砍掉重練">砍掉重練</a>之外還追加後日談劇情《相連的未來》</li>
+<li><s>終極版發售一個月就賣出了133萬套，爆了Wii版的總銷量。可見因為異度神劍2逆流的玩家有多少。</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="劇情"></span><span class="mw-headline" id=".E5.8A.87.E6.83.85">劇情</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=2" title="編輯章節：劇情" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<pre>在遠古之時，這個世界還只有廣闊無邊的汪洋；以及一望無際，浩瀚無垠的天空而已。
+當時有兩名巨大的神誕生於世：巨神與機神，神與神之間展開了攸關彼此生死的一戰，隨後便雙雙化為亡骸。
+自那時起，歷經無數晝夜後，我們的世界——存在於巨神遺骸上的這片大地：巨神界，在機神兵的肆虐下如今飽受摧殘。
+</pre>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="系統"></span><span class="mw-headline" id=".E7.B3.BB.E7.B5.B1">系統</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=3" title="編輯章節：系統" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>戰鬥系統
+<ul><li>異度神劍系列的戰鬥系統為即時制，當鎖定敵人並攻擊後會顯示戰鬥面板</li>
+<li>角色會在可攻擊敵人的範圍內自動攻擊，玩家可以自由選擇走位以及發動戰技</li>
+<li>不同技能有其不同等待時間，藉由持續攻擊累積的天賦計量表可以發動天賦戰技</li></ul></li>
+<li>地圖
+<ul><li>每探索到一個新地點時會把該地區的名稱紀錄在地圖上，會有經驗值獎勵</li>
+<li>部分地點和秘境設有地標，一旦將地標紀錄下來就可以在地圖上用它來快速旅行</li>
+<li>決定版增加了自動移動的功能以方便跑圖，同時改善導航系統</li></ul></li>
+<li>任務系統
+<ul><li>在城鎮內可以與居民建立牽絆並組合成牽絆圖</li>
+<li>藉由完成支線任務可以改變居民之間的牽絆關係，部分支線任務有兩種不同解法也會影響之後的牽絆關係</li>
+<li><s>因為Wii的性能的因素高達八成的支線不是跑腿打怪就是打雜</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="登場角色"></span><span class="mw-headline" id=".E7.99.BB.E5.A0.B4.E8.A7.92.E8.89.B2">登場角色</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=4" title="編輯章節：登場角色" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<h3 class="in-block"><span id="主要角色"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E8.A7.92.E8.89.B2">主要角色</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=5" title="編輯章節：主要角色" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>修爾克（シュルク/Shulk）【CV：<a href="/%E6%B7%BA%E6%B2%BC%E6%99%89%E5%A4%AA%E9%83%8E" title="淺沼晉太郎">淺沼晉太郎</a>/Adam Howden】
+<ul><li>9號殖民地防衛隊兵器開發局人員，本作主角，喜歡研究機械
+<ul><li>疑似味覺遲鈍+木頭屬性，對菲奧倫做的料理味道只有一種反應，連梅莉亞對他有好感都沒察覺到。</li></ul></li>
+<li>在因緣際會下成為了蒙納多的使用者，之後因為9號殖民地遭入侵<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">以及菲奧倫的死亡</span>而與萊恩踏上旅途
+<ul><li>因為武器綁定為蒙納多的關係，沒有辦法隨意變換武器，攻擊力則為等級依存</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在相連的未來中自行開發了自己的蒙納多仿製品，在三代被梅莉亞留作紀念</span></li></ul></li>
+<li>是14年前雪山探險隊山難事件下的唯一倖存者<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">才怪</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實在那時就已經死亡並被薩扎附體成為容器，一直到終章才真正覺醒。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這也是為何修爾克拿起蒙納多卻不會有任何副作用的真正原因。</span></li></ul></li>
+<li>其戰技數量（不論是普通還是蒙納多戰技）正好能填滿八個戰技槽，算是適合新人上手的角色</li>
+<li><s>不論是原版還是重製版都沒有真的把菲奧倫做的三明治吃下去</s></li>
+<li><s>I am really feeling it!</s></li>
+<li><s>穏やかじゃないですね</s></li></ul></li>
+<li>萊恩（ライン/<s>Rain</s>Reyn）【CV：宮下榮治/Jay Taylor】
+<ul><li>9號殖民地防衛隊員，修爾克的好友</li>
+<li>武器為盾牌劍，高防禦力，高血量，並有大量增加仇恨值技能的主坦擔當</li>
+<li>Now It's Reyn time!</li></ul></li>
+<li><s>菲常穩</s>菲奧倫（フィオルン/Fiora）【CV：<a href="/%E4%B8%AD%E5%B0%BE%E8%A1%A3%E9%87%8C" title="中尾衣里">中尾衣里</a>/Carina Reeves】
+<ul><li>9號殖民地防衛隊實習員，丹邦的妹妹，料理技術很不錯
+<ul><li><s>但似乎因為劇情裡沒人真的吃下去她的料理的緣故，而在粉絲間出現了「菲奧倫的料理技術不好」的惡搞八掛</s></li></ul></li>
+<li>修爾克的青梅竹馬，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後半追加天降屬性</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">序盤遭機神兵「黑色的費斯」襲擊而死亡，嚇壞了無數新玩家</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">中盤確認生還，但被機神界改造成為機神兵「費斯‧涅墨西斯」的中樞元件</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原本一度被梅娜絲人格支配，在取回自身意識後與修爾克重逢</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也因此了解到機神界的苦衷，並因此決定要要幫助兩界的人民們</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">機娘型態菲奧倫在歐美粉絲圈內為了防止劇透一般被稱呼為第七人/Seven，<s>然而從<a rel="nofollow" class="external text" href="https://youtu.be/QTZ8cgVrOes">事前的廣告</a>及事後的各種連動客串看來官方根本不在乎被劇透玩家的感受</s></span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結局後恢復成荷姆斯</span></li>
+<li>武器為雙劍，高火力輸出類型，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">可藉由裝備各種浮翼來改變天賦戰技</span></li></ul></li>
+<li>卡露娜（カルナ/Sharla）【CV：<a href="/%E6%B8%A1%E9%82%8A%E6%98%8E%E4%B9%83" title="渡邊明乃">渡邊明乃</a>/Kellie Bright】
+<ul><li>6號殖民地防衛隊醫療兵，朱朱的姊姊</li>
+<li>武器為步槍，使用技能後會積熱，需要藉由天賦戰技提早冷卻不然容易陷入過熱而長時間硬直
+<ul><li>因此被玩家取了個過熱<s>過熟</s>姐的綽號</li></ul></li>
+<li>同時也是本作全職補師擔當，單人全體加補血加buff都能勝任，亦有針對眩暈有15%一擊必殺的高威力技能爆頭狙擊</li>
+<li>因為作為後衛太強勢，被加上天賦技能作nerf以免破壞平衡<s>，然後就從暴力補變成最難用角色……再加上攻擊技能過少導致進行連鎖攻擊時容易斷連，導致這個角色變得不人氣。</s></li></ul></li>
+<li>丹邦（ダンバン/<s>Duncan</s>Dunban）【CV：堀川亮/Rufus Jones】
+<ul><li>前9號殖民地防衛隊員，菲奧倫的<a href="/%E5%85%84%E8%B2%B4" title="兄貴">哥哥</a></li>
+<li>一年前操縱蒙納多阻止機神兵入侵的英雄，在大戰後因為負傷而退出前線</li>
+<li>在修爾克一行人突入6號殖民地時與其會合</li>
+<li>武器為太刀，高速度的迴避坦擔當</li>
+<li><s>神劍版楊過</s><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li><s>That's Dunban over there!</s></li></ul></li>
+<li><s>梅機會</s>梅莉亞（メリア/Melia）【CV：勝田詩織/Jenna Coleman】
+<ul><li>海恩塔的<s><a href="/BBA" class="mw-redirect" title="BBA">BBA</a></s>皇女，外表看似十來歲的少女但實際年齡為<b>88</b>歲</li>
+<li>為海恩塔與荷姆斯的混血兒（混種率80%以上），已故的生母是荷姆斯族的影妃（側室）</li>
+<li>後日談《相連的未來》的主角</li>
+<li>武器為法杖，技能幾乎是環繞以太+召喚元素爲主，但招牌技能卻是她唯二物理技<s>而且不魔法使的</s>破壞之矛+星光膝擊<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><s>ｱｲﾀﾀﾀ……</s></li>
+<li><s>本作的敗犬擔當，劇中遭遇慘度堪稱本作主角群之冠</s><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li><s>模組更新後的最大贏家，還有出模型</s></li>
+<li><s>在博士的時間線不停出現的克拉拉·奥斯伍德，還帶領英國成爲日不落帝國</s></li>
+<li><s><ruby><a rel="nofollow" class="external text" href="https://youtu.be/muH1AtbePJs">CHOOSE</a><rp>（</rp><rt style="font-size:0.5em;">SELECT</rt><rp>）</rp></ruby></s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於三代中登場<s>，人家妮雅都翻身了結果梅莉亞只能看著修爾克的自製蒙納多睹物思人...</s></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>自己在科維斯主堡的閨房是名勝景點（大誤）</s></span></li></ul></li></ul></li>
+<li>力奇（リキ/Riki）【CV：甲斐田幸/Wayne Forester】
+<ul><li>一年一度的諾彭族勇者；看起來年紀很小，其實已經40歲了，與妻子育有至少11個小孩
+<ul><li>英文版的聲優表現相比日版的幼齒，更加貼近實際年齡</li>
+<li><s>排球+色大叔屬性，雖然已婚又有一堆孩子但還是想泡梅莉亞</s></li>
+<li>為了養孩子經常借錢，初登場時還被其他諾彭狂丟蘑菇+討債</li></ul></li>
+<li>武器為棍棒，根據選擇個性可以強化白天或晚上的戰鬥力</li>
+<li>有全角色中最高的HP<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>，技能也相當多樣化可以應對各種狀況；但因為體型過小無法在水邊戰鬥（其兒女同理）</li></ul></li>
+<li>奇諾（キノ/Kino）【CV：山盛由果/Emma Tate】
+<ul><li><s>卡露娜二號</s>力奇的兒子，後日談《相連的未來》同伴之一</li></ul></li>
+<li>寧寧（ネネ/Nene）【CV：相澤舞/Emma Pierson】
+<ul><li><s>萊恩二號</s>力奇的女兒，後日談《相連的未來》同伴之一</li></ul></li></ul><h3 class="in-block"><span id="荷姆斯族"></span><span class="mw-headline" id=".E8.8D.B7.E5.A7.86.E6.96.AF.E6.97.8F">荷姆斯族</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=6" title="編輯章節：荷姆斯族" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>迪克森（ディクソン/Dickson）【CV：小山剛志/Anthony May】
+<ul><li>前9號殖民地防衛隊員，修爾克的義父</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真實身份為巨神使徒「三聖」成員之一，巨人族的末裔</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了讓修爾克成為薩札宿主而在十四年前帶他參加蒙納多搜索隊</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在修爾克擊敗艾機爾時偷襲修爾克使薩札復活</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後在監獄島與修爾克決戰後戰死</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>意志啊——那種東西能吃嗎？</s><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></span></li></ul></li>
+<li>穆姆卡（ムムカ/Mumkhar）【CV：<a href="/%E8%8B%A5%E6%9C%AC%E8%A6%8F%E5%A4%AB" title="若本規夫">若本規夫</a>/Tim Watson】
+<ul><li>前9號殖民地防衛隊員，於一年前的大戰中逃走</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被機神界改造成為機神兵「黑色的費斯」的中樞元件</span></li>
+<li>性格卑劣，嫉妒丹邦的成就而時時刻刻想著要取代他。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">成為機神兵後這方面的性格更加明顯。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後因為對丹邦等人的執念過深而意外摔落自取滅亡</span></li></ul></li>
+<li>范達姆（ヴァンダム/Vangarre）【CV：風間信彥/Alec Newman】
+<ul><li>9號殖民地防衛隊長</li>
+<li>性情嚴格易怒，被萊恩戲稱為「直角鬍子」</li>
+<li>事實上整個異域系列都有名稱類似的人登場（類似<a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a>的席德）</li></ul></li>
+<li>朱朱（ジュジュ/Juju）【CV：羽鳥健一/Jordan Clarke】
+<ul><li>卡露娜的弟弟</li>
+<li>為了收復6號殖民地而一度被機神兵捉去，後被修爾克等人救出</li>
+<li>被救出後為了復興殖民地而留守，可以找他消耗素材提升殖民地等級</li>
+<li><s>被海外粉絲討厭的角色之一</s></li></ul></li>
+<li>歐達瑪（オダマ/Otharon）【CV：納谷悟朗/Lewis MacLeod】
+<ul><li>6號殖民地防衛隊長</li>
+<li>在褐色的費斯一戰中差點墜於中央採礦場的以太流中，但被修爾克等人所救</li></ul></li>
+<li>加德（ガド/Gadolt）【CV：竹內幸輔/Nick Boulton】
+<ul><li>6號殖民地防衛隊員，卡露娜的未婚夫</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被機神界改造成為機神兵「綠色的費斯」的中樞元件</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在修爾克等人進入機神界後被艾機爾剝奪過去的記憶，恢復記憶後為了保護卡露娜等人而在艾機爾成為機神之際替眾人爭取時間而犧牲</span></li></ul></li></ul><h3 class="in-block"><span id="諾彭族"></span><span class="mw-headline" id=".E8.AB.BE.E5.BD.AD.E6.97.8F">諾彭族</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=7" title="編輯章節：諾彭族" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>咚可（ドンガ/Chief Dunga）【CV：山田泰功/David Peart】
+<ul><li>邊境村的村長</li>
+<li>同時也是村內的預言家</li>
+<li><s>不過預言多半是靠直覺，後來還乾脆假借預言把多次借錢不還的力奇趕出村子</s></li></ul></li>
+<li>奧卡（オカ/Oka）
+<ul><li>力奇的妻子</li></ul></li>
+<li>巴恩（バーン/Bana）
+<ul><li>邊境村居民，背著村子走私紅色花粉團給海恩塔以中飽私囊</li>
+<li>被主角群阻止交易後被村子懲罰，必須像老鼠一般沒日沒夜的跑滾輪…</li>
+<li><s>從此開啟了各代都會有的反派諾彭必跑滾輪的傳統</s></li></ul></li></ul><h3 class="in-block"><span id="海恩塔族"></span><span class="mw-headline" id=".E6.B5.B7.E6.81.A9.E5.A1.94.E6.97.8F">海恩塔族</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=8" title="編輯章節：海恩塔族" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>索雷安（ソレアン/Sorean）【CV：<a href="/%E4%B8%AD%E7%94%B0%E8%AE%93%E6%B2%BB" title="中田讓治">中田讓治</a>/Peter Dickson】
+<ul><li>海恩塔的皇主（皇帝）</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後為保護女兒而被「黑色的費斯」殺死</span></li></ul></li>
+<li>卡利安（カリアン/Kallian）【CV：小尾元政/Rufus Wright】
+<ul><li>海恩塔的皇子，梅莉亞同父異母的哥哥</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在薩札復活後化為特雷西亞，最後與羅蘭同歸於盡</span></li></ul></li>
+<li>優米雅（ユミア/Yumea）【CV：佐藤麻子/Aoife MacMahon】
+<ul><li>海恩塔的光妃（皇后）</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為地下組織「巨神教異端審問官」的支配者</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了阻止梅莉亞繼承王位而打算趁她參拜皇家之墓時派塔魯可暗殺，在東窗事發後被逮捕</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在薩札復活後化為特雷西亞，最後被梅莉亞擊敗並「介錯」</span></li></ul></li>
+<li>塔魯可（タルコ/Tyrea）【CV：根谷美智子/Katie McGuinness】
+<ul><li>優米雅的屬下</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">終盤證實其為優米雅的女兒</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與梅莉亞同樣是海恩塔與荷姆斯的混血兒，因而對她抱持憎恨</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在優米雅死後對為母親介錯的梅莉亞表達感謝並離去</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在後傳《相連的未來》正式與梅莉亞和解，決心作為梅莉亞的「影」而戰</span></li></ul></li>
+<li>羅蘭（ロウラン/Lorithia）【CV：紗ゆり/Rachel Atkins】
+<ul><li>海恩塔的宰相</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真實身份為巨神使徒「三聖」成員之一</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在巨神胎內與化為特雷西亞的卡利安合而為一，最後因為卡利安的抵抗而戰敗身死</span></li></ul></li>
+<li>馬克西斯（マクシス/Maxis）【CV：間宮康弘/Ed Dogliani】
+<ul><li>《相連的未來》登場角色</li></ul></li>
+<li>蓋爾嘉（ゲルガー/Gael'gar）【CV：宮崎寛務/Samuel Barnett】
+<ul><li>《相連的未來》登場角色</li></ul></li></ul><h3 class="in-block"><span id="機神界人"></span><span class="mw-headline" id=".E6.A9.9F.E7.A5.9E.E7.95.8C.E4.BA.BA">機神界人</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=9" title="編輯章節：機神界人" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>艾機爾（エギル/Egil）【CV：桐井大介/Peter Bramhill】
+<ul><li>機神界盟主<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，「費斯」的控制者，同時也是伊達波思的操作者</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在阿加雷斯尚未被薩札附身時曾與他有過一段友誼</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為防止巨神甦醒而企圖消滅巨神界的生命，並取代梅娜絲成為機神</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後逐漸與修爾克等人互相理解，在與巨神的戰鬥中身亡，但其對巨神造成的損傷也讓修爾克等人得以進入巨神界內部</span></li></ul></li>
+<li>芭涅雅（ヴァネア/Vanea）【CV：甲斐田幸/Harriet Carmichael】
+<ul><li>艾機爾的妹妹，<s>兄控</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">雖然同為機神界人卻企圖阻止艾機爾的行動</span></li></ul></li>
+<li>梅格爾（ミゴール/Miqol）【CV：宮澤正/Richard Ridings】
+<ul><li>機神界人隱居村落的村長，艾機爾與芭涅雅的父親</li>
+<li><s>佩佩豬小妹的豬爸爸</s></li></ul></li>
+<li>莉娜妲（リナーダ/Linada）【CV：佐藤麻子/Louiza Patikas】
+<ul><li>機神界人隱居村落的醫師</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在修爾克等人抵達機神界後救下他們並把他們帶到村落</span></li></ul></li></ul><h3 class="in-block"><span id="機神兵"></span><span class="mw-headline" id=".E6.A9.9F.E7.A5.9E.E5.85.B5">機神兵</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=10" title="編輯章節：機神兵" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>黑色的費斯（黒いフェイス/Metal Face）【CV：<a href="/%E8%8B%A5%E6%9C%AC%E8%A6%8F%E5%A4%AB" title="若本規夫">若本規夫</a>/Tim Watson】
+<ul><li>襲擊9號殖民地的黑色機神兵，武器為鉤爪</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">中樞元件為前9號殖民地防衛隊員穆姆卡</span></li></ul></li>
+<li>褐色的費斯（褐色のフェイス/Xord）【CV：<a href="/%E7%8E%84%E7%94%B0%E5%93%B2%E7%AB%A0" title="玄田哲章">玄田哲章</a>/Jonathan Keeble】
+<ul><li>襲擊6號殖民地的褐色機神兵，武器為戰鎚</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">中樞元件為9號殖民地的工匠佐德</span></li></ul></li>
+<li>綠色的費斯（緑のフェイス/Jade Face）【CV：竹內幸輔/Nick Boulton】
+<ul><li>艾機爾因應主角們侵入機神界而投入戰鬥的綠色機神兵，武器為來福槍</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">中樞元件為卡露娜的未婚夫加德</span></li></ul></li>
+<li>費斯‧涅墨西斯（フェイス・ネメシス/Face Nemesis）【CV：梅田未央/Jo Wyatt】
+<ul><li>芭涅雅開發的白色機神兵，武器為雙刀</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">中樞元件為修爾克的青梅竹馬菲奧倫</span></li></ul></li>
+<li>費斯‧伊達波思（フェイス・ヤルダバオト/Yaldabaoth）【CV：桐井大介/Peter Bramhill】
+<ul><li>艾機爾親自操作的金色機神兵，武器為大劍</li></ul></li></ul><h3 class="in-block"><span id="其他"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96">其他</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=11" title="編輯章節：其他" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>阿爾維斯（アルヴィース/Alvis）【CV：程嶋しづマ/Blake Ritson】
+<ul><li>出現在修爾克身邊的神秘少年</li>
+<li>與修爾克同樣能操縱蒙納多，於海恩塔國內擔任<a href="/Woz" title="Woz">神聖預言官</a></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真實身份為巨神使徒「三聖」成員之一</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">是唯一沒有對主角群抱有敵意的使徒，甚至在修爾克被擊敗時出面引導他</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結局揭曉他就是蒙納多本體，在舊世界的身份是控制相轉移設施的電腦</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結合二代劇情來看，他可能就是三元處理器（トリニティ・プロセッサー）中與克勞斯的半身一同消失的本質（ウーシア），三位天之<s>罩杯</s>聖杯的其中一位<s>，也是唯一的貧乳</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">終極版直接把胸前的鑰匙換成天之聖杯的水晶</span></li></ul></li></ul></li>
+<li>薩札（ザンザ/Zanza）【CV：谷口節/Stephen Greif<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">→淺沼晉太郎/Adam Howden</span>】
+<ul><li>被海恩塔族封印在監獄島上的巨人</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">巨神界的創造主</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本無實體，必須依附在自己創造的生物身上</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">巨人模樣為附身在巨人阿加雷斯（アガレス/Arglas）的姿態</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在大戰之後身軀被海恩塔族封印在監獄島，靈魂與蒙納多一同被封印在瓦拉克雪山的歐賽之塔</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在迪克森的協助下寄宿在死亡的修爾克身上，以圖再度復活<s>，也就是說玩家大部分時間其實就是在扮演披著修爾克外表的薩扎……</s> </span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真名為克勞斯（クラウス），在舊世界為研究相轉移的科學家</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在世界存亡之際無視葛拉蒂亞的阻止執行相轉移實驗，最後導致自己的左半身被轉移到新世界成為巨神</span></li></ul></li></ul></li>
+<li>梅娜絲（メイナス/Meyneth）【CV：梅田未央/Jo Wyatt】
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">機神界的創造主</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與薩札同樣無實體，必須依附在自己創造的生物身上</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在芭涅雅的協助下寄宿在菲奧倫身上，希望能阻止薩札復活</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真名為葛拉蒂亞（ガラテア），在舊世界為克勞斯的同事</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">企圖阻止克勞斯執行相轉移實驗但失敗，被轉移到新世界成為機神</span></li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="地區"></span><span class="mw-headline" id=".E5.9C.B0.E5.8D.80">地區</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=12" title="編輯章節：地區" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<h3 class="in-block"><span id="巨神界"></span><span class="mw-headline" id=".E5.B7.A8.E7.A5.9E.E7.95.8C">巨神界</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=13" title="編輯章節：巨神界" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>9號殖民地（コロニー9）
+<ul><li>修爾克等人的故鄉</li></ul></li>
+<li>灰燼洞窟（テフラ洞窟）
+<ul><li class="mw-empty-elt"></ul></li>
+<li>巨神腳（巨神脚）
+<ul><li>由巨神足部構成的平原</li></ul></li>
+<li>6號殖民地（コロニー6）
+<ul><li>卡露娜姊弟的故鄉</li>
+<li>因為機神兵的攻擊幾乎瀕臨毀滅，部分居民藉由逃生艇逃到巨神腳周邊避難</li></ul></li>
+<li>中央採礦場（中央採掘場）
+<ul><li>6號殖民地底下的採礦場</li></ul></li>
+<li>磷光之地扎托爾（燐光の地ザトール）
+<ul><li class="mw-empty-elt"></ul></li>
+<li>巨神胎內（巨神胎内）
+<ul><li class="mw-empty-elt"></ul></li>
+<li>瑪格納原始森林（マクナ原生林）
+<ul><li class="mw-empty-elt"></ul></li>
+<li>邊境村（サイハテ村）
+<ul><li>力奇的故鄉，諾彭族的村落</li></ul></li>
+<li>艾爾特海（エルト海）
+<ul><li>由巨神頭部形成的海域</li></ul></li>
+<li>皇都阿卡莫托（皇都アカモート）
+<ul><li>梅莉亞的故鄉，海恩塔皇國的首都</li></ul></li>
+<li>海恩塔墓地（ハイエンター墓所）
+<ul><li class="mw-empty-elt"></ul></li>
+<li>監獄島（監獄島）
+<ul><li>海恩塔族關押薩札的巨大監獄島</li></ul></li>
+<li>瓦拉克雪山（ヴァラク雪山）
+<ul><li class="mw-empty-elt"></ul></li></ul><h3 class="in-block"><span id="機神界"></span><span class="mw-headline" id=".E6.A9.9F.E7.A5.9E.E7.95.8C">機神界</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=14" title="編輯章節：機神界" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">遊戲末期除了墮落巨臂以外的地區，會因為巨神薩扎復活後把整個機神消滅而無法返回</span></li>
+<li>大劍溪谷（大剣の渓谷）
+<ul><li>由刺入巨神腹部的機神之劍形成的峽谷</li></ul></li>
+<li>卡拉哈德要塞（ガラハド要塞）
+<ul><li class="mw-empty-elt"></ul></li>
+<li>墜落巨臂（落ちた腕）
+<ul><li>由被斬斷的機神左手構成的海岸，機神界人隱居村落座落在其掌心</li></ul></li>
+<li>機神界區域（機神界フィールド）
+<ul><li>由機神軀幹形成的高塔結構</li></ul></li>
+<li>中央工廠（中央工廠）
+<ul><li>製造機神兵的中央工廠</li></ul></li>
+<li>帝都安古尼拉特（帝都アグニラータ）
+<ul><li>機神界的大都市，在大戰以後已經廢棄</li></ul></li>
+<li>機神界中樞（機神界中枢）
+<ul><li class="mw-empty-elt"></ul></li></ul><h3 class="in-block"><span id="???"></span><span class="mw-headline" id=".3F.3F.3F">???</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=15" title="編輯章節：???" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">記憶空間</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">由薩札的記憶重現形成的空間</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">模仿了太陽系的星系結構，各區域有特雷西亞和費斯的思念體</span></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="種族與世界觀"></span><span class="mw-headline" id=".E7.A8.AE.E6.97.8F.E8.88.87.E4.B8.96.E7.95.8C.E8.A7.80">種族與世界觀</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=16" title="編輯章節：種族與世界觀" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<h3 class="in-block"><span id="世界"></span><span class="mw-headline" id=".E4.B8.96.E7.95.8C">世界</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=17" title="編輯章節：世界" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>巨神界
+<ul><li>構築在巨神身體上的世界</li>
+<li>該世界上的生物有著由有機物構成的身體，並有「生於巨神，最終也歸於巨神」的生命觀</li>
+<li>居住在巨神界的人類種族有荷姆斯、諾彭，與海恩塔三種</li></ul></li>
+<li>機神界
+<ul><li>構築在機神身體上的世界</li>
+<li>該世界上的生物有著由機械構成的身體</li>
+<li>居住在機神界的人類種族為機神界人</li></ul></li></ul><h3 class="in-block"><span id="物種"></span><span class="mw-headline" id=".E7.89.A9.E7.A8.AE">物種</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=18" title="編輯章節：物種" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>荷姆斯（ホムス）
+<ul><li>即一般人類種族，居住在巨神界足部</li></ul></li>
+<li>諾彭（ノポン）
+<ul><li>擅長經商的毛茸茸矮人種族，居住在巨神界背部
+<ul><li>雖然有雙手不過非常細小，主要都是使用種族特有的大耳朵進行各種工作</li></ul></li>
+<li>以蘑菇作為時鐘，有著會在句尾加「嗼（も）」的習慣，不論男女老幼都是直接用名字自稱</li>
+<li>從進化圖來看似乎並非在巨神上誕生的種族，到底是……</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">基本上每一代都會有一個負責搗亂的惡役諾彭，而這些諾彭的下場也不外乎就是被抓去跑<s>老鼠</s>滾輪</span></li></ul></li>
+<li>海恩塔（ハイエンター）
+<ul><li>與世隔絕的有翼人種族，居住在巨神界頭部</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際上是由特雷西亞進化而成的，會在時機成熟之際蛻變為特雷西亞，然而假如是像梅莉亞那樣的混血種便不會蛻變</span></li>
+<li><s>翅膀就跟妖鳥死麗濡一樣長在頭上</s></li></ul></li>
+<li>特雷西亞（テレシア）
+<ul><li>棲息在巨神界上層的靈獸<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，是巨神的細胞，為剷除妨礙巨神的生命而生</span></li></ul></li>
+<li>機神界人（マシーナ）
+<ul><li>棲息在機神界的機械生命體，壽命和成長週期長達幾千年</li>
+<li><s>服裝品味異常奇異</s></li></ul></li>
+<li>機神兵
+<ul><li>接受艾機爾指令，襲擊巨神界的巨大機械士兵</li>
+<li>多半純機械而無個人意識，少部分擁有自我意識的機神兵名為「費斯（フェイス）」</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">擁有意識的費斯都是由改造荷姆斯作為其中樞元件，目的為阻擋蒙納多的傷害</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">費斯多保有一部份原先的記憶，然而在劇情中盤起因為穆姆卡與佐德的因素而被艾機爾拔除</span></li></ul></li></ul></li></ul><h3 class="in-block"><span id="其他_2"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96_2">其他</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=19" title="編輯章節：其他" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>以太（エーテル）
+<ul><li>構成作中世界萬物的根源元素</li></ul></li>
+<li>蒙納多（モナド）
+<ul><li>傳說由巨神賜予荷姆斯族的聖劍</li>
+<li>嚴格來說並非劍刃武器，而是劍型的特殊裝置，啟動時會化為光之刃</li>
+<li>可以輕易斬斷機神兵，不過對肉身人類幾乎無效
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因此艾機爾為了對抗蒙納多而將荷姆斯嵌入機神兵內作為其中樞元件</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">會隨著遊戲進度得到升級版本</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">異度神劍2中的滅也是使用蒙納多，但能對肉身造成傷害<s>不過還是沒修爾克和丹邦猛</s></span></li></ul></li>
+<li>未來視（ビジョン）
+<ul><li>修爾克在啟動蒙納多後覺醒的能力之一</li>
+<li>可以看見不久之後的未來，若能善用能力甚至可以改變原先註定的未來</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C">相關</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=20" title="編輯章節：相關" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><a href="/%E4%BB%BB%E5%A4%A9%E5%A0%82" title="任天堂">任天堂</a></li>
+<li><a href="/%E7%95%B0%E5%9F%9F%E7%B3%BB%E5%88%97" title="異域系列">異域系列</a>
+<ul><li><a href="/%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2" title="異度神劍2">異度神劍2</a></li>
+<li><a href="/%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D3" title="異度神劍3">異度神劍3</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=21" title="編輯章節：連結" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li><a rel="nofollow" class="external text" href="https://www.nintendo.co.jp/switch/aubqa/">重製版官網</a>
+<ul><li class="mw-empty-elt"></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=22" title="編輯章節：回應" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<p><a href="/%E8%A8%8E%E8%AB%96:%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D" title="討論:異度神劍">討論:異度神劍</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;action=edit&amp;section=23" title="編輯章節：備註" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-10 collapsible-block" id="mf-section-10">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">09年E3的原標題，因當時開發有擺脫異度系列的陰霾爲出發點，後來時任任天堂社長岩田聰慫恿高橋後決定改成現名</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">嚴格來說是衆3d模組設計師們的即興製作出來的，因此沒有2D設計原案，多數平面畫作都是公開後由雜誌及資料集的編輯們收到其3D模組再意想出來的。不過異度神劍2由田中仁久彥客串了本作男女主角設計</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">右手在一年前的機神大戰受蒙納多的副作用影響導致殘廢幾乎無法動作（連湯匙都用不了），所以用左手來戰鬥</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">星光膝擊在破壞之矛使用後會對非倒地免疫的怪<b>強制</b>倒地，是對於針對本作後期高於99等級怪物或低等級束縛play而發展出來的戰法 倒地鎖定(topple lock) 的關鍵技能組合之一</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">自己全家死光光不說（老爸擋刀老媽早逝，自己哥哥還為了阻止羅蘭而自爆身亡），劇情後盤薩扎覺醒的時候還把絕大部分的海恩塔族變成了特雷西亞，唯有像她這樣的混血兒倖免於難；而她自己對修爾克的感情也沒有結果（在17章時某個時間內如果把時間調到午夜再去和昏迷的修爾克對話，會看到梅莉亞的心聲，而到最後她還是選擇守護自己所愛的人的幸福。）</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">一開始原本是設計成HP最低的盜賊類角色，但後來在某個程序員的私心下被更動</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在監獄島決戰中對菲奧倫的發言所做出的回應</span></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=異度神劍&amp;oldid=419212">https://wiki.komica.org/index.php?title=異度神劍&amp;oldid=419212</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D"
+				data-user-name="Somebody8888"
+				data-user-gender="unknown"
+				data-timestamp="1667618171">
+				最後編輯於 2022年11月5日 (週六) 11:16
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.125","ppvisitednodes":{"value":1098,"limit":1000000},"ppgeneratednodes":{"value":2287,"limit":1000000},"postexpandincludesize":{"value":19220,"limit":2097152},"templateargumentsize":{"value":7052,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3304,"limit":5000000},"timingprofile":["100.00%   54.244      1 -total"," 36.86%   19.995      1 模板:H0"," 35.34%   19.169     79 模板:Censored","  2.81%    1.525      1 模板:Ruby","  2.45%    1.331      1 模板:Stub_row"]},"cachereport":{"timestamp":"20221109060427","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":260});});</script>		</body>
+		</html>
+		

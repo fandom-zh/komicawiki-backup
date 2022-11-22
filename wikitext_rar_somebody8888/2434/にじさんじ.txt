@@ -1,0 +1,1491 @@
+{{h0|にじさんじ / NIJISANJI / 彩虹社 / 2434 / <s>日商吉</s>}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub}}
+|}
+[[檔案:にじさんじlogo.png|400px|right]]
+
+== 簡介 ==
+* 為ANYCOLOR（原名いちから）株式會社成立的[[虛擬YouTuber|虛擬Liver]]計畫
+** 最早是應用在iOS上的面孔捕捉應用程式，在[[月之美兔|月ノ美兎]]獲得極大迴響後才轉型成經營虛擬Liver的公司。
+* JP最早除一二期生外還有GAMERS與SEEDs等派生，後來從2019年起統合不再以此分類。
+* 海外取向的團組有上海/台北組「にじさんじ上海/台北<ref>與カプセル合作推出</ref>」、中國組「VirtuaReal<ref>與bilibili合作推出，完全以bilibili為核心平台運作，並未在YouTube設立頻道。</ref>」、印尼組「NIJISANJI ID」、印度組「NIJISANJI IN」、韓國組「NIJISANJI KR」與歐美組「NIJISANJI EN」。
+** 目前上海/台北組、IN組皆已解散，ID與KR兩組則併入にじさんじ本家，僅剩VirtuaReal組與EN組仍為獨立運作。
+* 除了にじさんじ外，ANYCOLOR還設立了培訓虛擬Liver的虛擬藝人學院VTA（バーチャル・タレント・アカデミー），結業後即可作為虛擬Liver出道。
+* 相比起hololive，所屬藝人眾多，個性強烈且風格複雜，因此成員獨立性較強，在「統一性」上並不明確。
+** 如果要比喻的話，hololive就像蘇聯（中央集權管理），而彩虹社則是神聖羅馬帝國（地方諸侯各自為政）。
+
+== 成員列表 ==
+[[檔案:にじさんじ2022415成員.jpg|450px|thumb|center|彩虹社JP+ID+KR成員一覽（截至2022/04/15）]]
+=== {{youtube|c=UCX7YkU9nEeaoZbkVLVajcMg|title=にじさんじ}} ===
+{|class="wikitable" style="margin:auto;"
+!姓名
+!人設
+!說明
+!頻道
+!推特
+|-
+!colspan=5 align="center"|2018/02/08出道（1期生）
+|-
+|[[月之美兔|月ノ美兎（つきの みと）]]
+|ねづみどし
+|清楚系班級[[委員長]]<s>（官網曰）</s><br><s>實際上是本社最渾沌的成員（無誤）</s>
+|{{youtube|c=UCD-miitqNY3nyukJ4Fnf4_A|title=連結}}
+|{{twitter|MitoTsukino|name=連結}}
+|-
+|勇気ちひろ（ゆうき ちひろ）
+|cacao
+|外表為10歲的[[魔法少女]]<br>在這幾年間逐漸進化為APEX之鬼<s>，這東西比魔法棒好用啊，連頻道的頭像都是她拿手槍的樣子</s>
+|{{youtube|c=UCLO9QDxVL4bnvRRsz6K4bsQ|title=連結}}
+|{{twitter|Chihiro_yuki23|name=連結}}
+|-
+|[[エルフのえる|える]]
+|ほーじろ
+|從異世界的精靈國度來到日本的孤高美少女精靈<br>真名在VTuber界也是數一數二長的[[壽限無]]名<ref>真名為「'''スノー・ホワイト・パラダイス・エルサント・フロウ・ワスレナ・ピュア・プリンセス・リーブル・ラブ・ハイデルン・ドコドコ・ヤッタゼ・ヴァルキュリア・パッション・アールヴ・ノエル・チャコボシ・エルアリア・フロージア・メイドイン・ブルーム・エル'''」，不會念的可以參考{{youtube|K2dutYkhZ3c|title=本人提供的歌詞}}，如果想追求玄人等級念法的話可以參考{{youtube|IxtaCJRq1Tk|title=ジョー・力一的落語}}或是{{youtube|kvQt_-BvFng|time=3166|title=剣持刀也的超高速介紹文}}。</ref>
+|{{youtube|c=UCYKP16oMX9KKPbrNgo_Kgag|title=連結}}
+|{{twitter|Elu_World|name=連結}}
+|-
+|[[樋口楓|樋口楓（ひぐち かえで）]]
+|ねづみどし
+|馬尾JK，愛稱「でろーん」<br>
+|{{youtube|c=UCsg-YqdqQ-KFF0LNk23BY4A|title=連結}}
+|{{twitter|HiguchiKaede|name=連結}}
+|-
+|[[靜凜|静凛（しずか りん）]]
+|竹花ノート
+|平凡（自稱）JK，愛稱「しずりん」<br>熱愛腹肌的光之戰士
+|{{youtube|c=UC6oDys1BGgBsIC3WhG1BovQ|title=連結}}
+|{{twitter|ShizuRin23|name=連結}}
+|-
+|渋谷ハジメ（しぶや はじめ）
+|ほーじろ
+|男大生，愛稱「ハジキ」<br>作為最早（外表）唯一的男性歷經磨難，但也因此成為了可靠的前輩
+|{{youtube|c=UCeK9HFcRZoTrvqcUCtccMoQ|title=連結}}
+|{{twitter|sibuya_hajime|name=連結}}
+|-
+|鈴谷アキ（すずや あき）
+|ねづみどし
+|[[偽娘|男の娘]]，15歲的中學生<br>剣持刀也的限界化對象，本人則是相當冷靜地應對
+|{{youtube|c=UCpnvhOIJ6BN-vPkYU9ls-Eg|title=連結}}
+|{{twitter|aki_suzuya|name=連結}}
+|-
+|モイラ
+|ねづみどし
+|天界的女神，年齡不可考<br>在VR演唱會先行3D登場，展現了流暢的舞姿
+|{{youtube|c=UCvmppcdYf4HOv-tFQhHHJMA|title=連結}}
+|{{twitter|Moiramoimoimoi|name=連結}}
+|-
+!colspan=5 align="center"|2018/03/15出道（2期生）
+|-
+|鈴鹿詩子（すずか うたこ）
+|ねづみどし
+|（表）唱歌大姊姊（裡）傳說等級貴腐人正太控<br>迎來無數次頻道危機的強者
+|{{youtube|c=UCwokZsOK_uEre70XayaFnzA|title=連結}}
+|{{twitter|suzukautako|name=連結}}
+|-
+|宇志海いちご（うしみ いちご）
+|CH3（めちるき）
+|海牛小學生<br>早期行為舉止相當年幼，近年成長不少
+|{{youtube|c=UCmUjjW5zF1MMOhYUwwwQv9Q|title=連結}}
+|{{twitter|ushimi_ichigo|name=連結}}
+|-
+|家長むぎ（いえなが むぎ）
+|竹花ノート
+|穿著睡衣的女子高中生<br>拿起吉他會判若兩人，生活習慣相當慘烈
+|{{youtube|c=UC_GCs6GARLxEHxy1w40d6VQ|title=連結}}
+|{{twitter|ienaga_mugi23|name=連結}}
+|-
+|夕陽リリ（ゆうひ りり）
+|ねづみどし
+|來自未來的女子高中生，帥氣的個性擄獲許多人<br>擁有自己的背景故事，在不同地方可看到伏筆
+|{{youtube|c=UC48jH1ul-6HOrcSSfoR02fQ|title=連結}}
+|{{twitter|Yuuhi_Riri|name=連結}}
+|-
+|物述有栖（もののべ ありす）
+|萌木雄太
+|外表相當年幼但卻是JK，混血兒<br>出道至今依舊保持原樣的強者，在外部也相當活躍
+|{{youtube|c=UCt0clH12Xk1-Ej5PXKGfdPA|title=連結}}
+|{{twitter|AliceMononobe|name=連結}}
+|-
+|文野環（ふみの たまき）
+|ねづみどし
+|愛稱「野良猫」，數一數二的自由人<br>非常難以掌握，無論做什麼都不奇怪
+|{{youtube|c=UCBiqkFJljoxAj10SoP2w2Cg|title=連結}}
+|{{twitter|nekokan_chu|name=連結}}
+|-
+|伏見ガク（ふしみ がく）
+|ほーじろ
+|大學生，爽朗的好青年<br>公主連結與柏青哥狂熱分子，社內柏青哥大賽推手之一
+|{{youtube|c=UCXU7YYxy_iQd3ulXyO-zC2w|title=連結}}
+|{{twitter|gaku_fushimi|name=連結}}
+|-
+|ギルザレンIII世（ぎるざれんさんせい）
+|ソウスケ
+|吸血鬼，另有女性樣貌「ギル子」<br>以直播頻率極低聞名，不過也會出現在他人的聊天室中
+|{{youtube|c=UCUzJ90o1EjqUbk2pBAy0_aw|title=連結}}
+|{{twitter|Gilzaren_III|name=連結}}
+|-
+|[[劍持刀也|剣持刀也（けんもち とうや）]]
+|ほーじろ
+|所屬劍道部的DK，反應相當靈活，與觀眾的互動堪稱絕景<br><s>VTuber界中最知名的[[成句/你們這些死蘿莉控！！|蘿莉控]]，就算沒看彩虹社大概也會聽過他的名號</s><br><s>另外雖然是蘿莉控不過會對偽娘前輩鈴谷アキ限界化</s>
+|{{youtube|c=UCv1fFr156jc65EMiLbaLImw|title=連結}}
+|{{twitter|rei_Toya_rei|name=連結}}
+|-
+|森中花咲（もりなか かざき）
+|森名尚
+|擁有10歲、15歲、22歲三個姿態，歌唱力相當高<br>由於各種原因成為了負けヒロイン代表
+|{{youtube|c=UCtpB6Bvhs1Um93ziEDACQ8g|title=連結}}
+|{{twitter|KazakiMorinaka|name=連結}}
+|-
+!colspan=5 align="center"|2018/05/02出道（GAMERS）
+|-
+|colspan=5 align="center"|兩人組合名為「叶え葉」，取自兩人的名字
+|-
+|[[叶|叶（かなえ）]]
+|U助
+|突然像天使一般降臨的治癒系男子（理所當然的隱藏著黑暗面）<br>遊戲力很高，長時間配信之鬼，初次直播就連播了'''548分鐘'''<br>彩虹社第二個達成百萬訂閱的Liver<br>與同社另一位百萬訂閱的葛葉組成組合ChroNoiR
+|{{youtube|c=UCspv01oxUFf_MTSipURRhkA|title=連結}}
+|{{twitter|Kanae_2434|name=連結}}
+|-
+|赤羽葉子（あかばね ようこ）
+|Na53
+|JK，不思議狂人<br>配信不頻繁但總會留下濃厚的一筆<br>也是<s>耳膜終結者</s>絕叫系擔當，更因此有「猿」與「森之賢者」的別名<br><s>'''ﾄﾞｩﾙﾙﾙﾙﾙﾙ三└(┐卍^o^)卍ｲﾔｯﾎｵｵｵｫｫｫｵｵｵｵｵｵｵ!!!!!!!!!!!!d=(^o^)=b'''</s>
+|{{youtube|c=UCBi8YaVyZpiKWN3_Z0dCTfQ|title=連結}}
+|{{twitter|Youko_Akabane|name=連結}}
+|-
+!colspan=5 align="center"|2018/06/03出道（SEEDs1期生）
+|-
+|ドーラ
+|GT
+|火龍的擬人，ド葛本社的大家長暨媽媽擔當<br>能歌善舞，時常被社內外的音樂企劃邀請
+|{{youtube|c=UC53UDnhAAYwvNO7j_2Ju1cQ|title=連結}}
+|{{twitter|___Dola|name=連結}}
+|-
+|海夜叉神（うみや しゃのかみ）
+|YSK（ユスケ）
+|擅長大亂鬥的神明，曾經是鬼<br>{{color|red||已於2019/04/09畢業}}
+|{{youtube|c=UCqEp6RdtsMbUNrCdCswr6pA|title=連結}}
+|{{twitter|god_yaksa23|name=連結}}
+|-
+|[[VOMS_Project#.F0.9F.A6.8C.E7.B7.8B.E7.AC.A0.E3.83.88.E3.83.A2.E3.82.B7.E3.82.AB.F0.9F.A6.8C|{{color|black||名伽尾アズマ（なかお あずま）}}]]
+|さかなへん
+|豪爽的大姊，交友廣闊<br>{{color|red||已於2019/05/31畢業}}
+|{{youtube|c=UCks41vQN-hN-1KHmpZyPY3A|title=連結}}
+|{{twitter|azuma_dazo|name=連結}}
+|-
+|出雲霞（いずも かすみ）
+|U助
+|擁有五個人格的AI少女，故事性極強的Liver<br>{{color|red||已於2020/10/31畢業}}
+|{{youtube|c=UCLpYMk5h1bq8_GAFVBgXhPQ|title=連結}}
+|{{twitter|ikasumi_zzz|name=連結}}
+|-
+|轟京子（とどろき きょうこ）
+|ほーじろ
+|服飾專門學校畢業，配信時也展現了好品味<br>狂氣到人稱「狂子」
+|{{youtube|c=UCRV9d6YCYIMUszK-83TwxVA|title=連結}}
+|{{twitter|KT_seeds|name=連結}}
+|-
+|シスター・クレア
+|ほーじろ
+|教會的修女，治癒與清楚擔當<br>個性很認真，曾經公開的行程表嚴謹到會讓人嚇一跳
+|{{youtube|c=UC1zFJrfEKvCixhsjNSb1toQ|title=連結}}
+|{{twitter|SisterCleaire|name=連結}}
+|-
+|花畑チャイカ（はなばたけ ちゃいか）
+|ikuyoan
+|外表是男大姊系精靈，實際上是自由兼常識人擔當<br>與椎名唯華的組合為「彩虹反抗軍」<br>只要有他在就會很有趣
+|{{youtube|c=UCsFn_ueskBkMCEyzCEqAOvg|title=連結}}
+|{{twitter|ZulmIhP1nlMOT5y|name=連結}}
+|-
+|社築（やしろ きずく）
+|おとと
+|與公式設定一樣是程式設計師，ド葛本社的爸爸擔當<br>是個相當資深的宅男，同時音遊的實力也非常驚人
+|{{youtube|c=UCKMYISTJAQ8xTplUPHiABlA|title=連結}}
+|{{twitter|846kizuQ|name=連結}}
+|-
+|安土桃（あづち もも）
+|萌木雄太<br>はあと
+|擅長繪畫，2020/10/19更換了角色形象<br>原本的樣子與現在的樣子均有參與設計
+|{{youtube|c=UC6TfqY40Xt1Y0J-N18c85qQ|title=連結}}
+|{{twitter|momo_azuchi_|name=連結}}
+|-
+|卯月コウ（うづき こう）
+|三瀬ゆづき
+|雖然是大少爺但很殘念<br>持有名作「鍋ラップ」
+|{{youtube|c=UC3lNFeJiTq6L3UWoz4g1e-A|title=連結}}
+|{{twitter|udukikohh|name=連結}}
+|-
+|鈴木勝（すずき まさる）
+|神吉李花
+|永遠的13歲，與出雲霞、卯月コウ擁有相同世界觀設定<br>深受繪師ママ溺愛為他設計了很多小裝飾，有一位「妹妹」Ruco
+|{{youtube|c=UCryOPk2GZ1meIDt53tL30Tw|title=連結}}
+|{{twitter|Darkness_Eater|name=連結}}
+|-
+|緑仙（リューシェン）
+|小金井コガネ
+|本名「仙河緑」，性別不明<br>催生了許多有趣企劃，歌唱力也十分強
+|{{youtube|c=UCt5-0i4AVHXaWJrL8Wql3mw|title=連結}}
+|{{twitter|midori_2434|name=連結}}
+|-
+|八朔ゆず（はっさく ゆず）
+|やすも
+|中學生，有著狂氣與少女的一面<br>{{color|red||已於2019/05/07畢業}}
+|{{youtube|c=UCFaDvgez8USXHiKidt0NtZg|title=連結}}
+|{{twitter|839yuzu|name=連結}}
+|-
+!colspan=5 align="center"|2018/06/08出道（VOIZ）
+|-
+|colspan=5 align="center"|彩虹第一個純男性團體組合
+|-
+|春崎エアル（はるさき えある）
+|小金井コガネ
+|正職寫成王子讀作社畜，曾因過勞多次出入醫院<br>模仿遊戲王的貝卡斯深得好評<br>{{color|green||於2018/08/09併入SEEDs2期生}}
+|{{youtube|c=UCtAvQ5U0aXyKwm2i4GqFgJg|title=連結}}
+|{{twitter|harusakiair2434|name=連結}}
+|-
+|成瀬鳴（なるせ なる）
+|夏目チョコ
+|擅長運動，喜歡可愛事物的青年，因為聲音受到好評而展開Liver活動<br>一度更換角色形象，最後回歸本來的樣子<br>馬力歐賽車強者，曾得兩次社內比賽冠軍<br>{{color|green||於2018/09/25併入SEEDs2期生}}
+|{{youtube|c=UCoM_XmK45j504hfUWvN06Qg|title=連結}}
+|{{twitter|narusenaru_2434|name=連結}}
+|-
+|黒羽黒兎（くろはね くろと）
+|夏目チョコ
+|演劇部所屬的高中生<br>{{color|red||已於2018/06/30畢業}}
+|{{youtube|c=UCzmpwcn4TGmtMIkJ2BY7jew|title=連結}}
+|無
+|-
+|神成ポアロ（かみなり ぽあろ）
+|花咲まひる
+|憧憬YouTube而降臨凡間的天神<br>{{color|red||已於2018/06/30畢業}}
+|{{youtube|c=UC6CuqUPujM3-i2HHgr43JiQ|title=連結}}
+|無
+|-
+!colspan=5 align="center"|2018/07/06出道（GAMERS）
+|-
+|colspan=5 align="center"|三人組合名為「もるひまさく」，取自三人的名字
+|-
+|[[笹木咲|笹木咲（ささき さく）]]
+|やすも
+|喜歡遊戲的JK（特別是[[任天堂|任]]系）<br>曾一度於2018/11/15畢業，後於2019/01/16復歸<s>，還因此被笑是稀勢の里<ref>稀勢の里是日本相撲界第72代橫綱，笹木出道時稀勢の里進入休場，笹木一度畢業時稀勢の里結束休場回歸土俵，笹木再度復出時正好就是稀勢の里宣布引退之時，因此產生了「笹木咲的中之人＝稀勢の里」的八卦（大誤）。</ref></s><br><s>和外送軟體foodpanda沒有任何關係</s>
+|{{youtube|c=UCoztvTULBYd3WmStqYeoHcA|title=連結}}
+|{{twitter|saku_sasaki|name=連結}}
+|-
+|[[姬森璐娜|{{color|black||闇夜乃モルル（やみよのもるる）]]}}
+|YSK（ユスケ）
+|嗜好拉麵與可樂的惡魔娘<br>最大的特徵是咬字不清以及非常重的奶音<br>{{color|red||已於2019/06/27畢業}}
+|{{youtube|c=UCNUgrFCo2Hr_VXc9bEwjcHQ|title=連結}}
+|{{twitter|_rnrrdark|name=連結}}
+|-
+|本間ひまわり（ほんま ひまわり）
+|やすも
+|超元氣JK，ド葛本社的姐姐擔當<br>有著與開朗的樣子截然不同的陰暗過去，似乎也影響了本人的學力<br>體重是繞不過去的梗<br><s>因為在マイクラ一句[[問題發言]]引起「🔥舞元🔥」的罪'''葵'''禍首（確信）<ref>舞元在マイクラ開了一個牧場養馬，ひま因為把自己的馬寶寶送到舞元牧場牧養的關係便說出「舞元有自己（馬）的小寶寶」，然後舞元就[[風評被害]][[成句/躺著也中槍|躺槍]]了。</ref></s>
+|{{youtube|c=UC0g1AE0DOjBYnLhkgoRWN1w|title=連結}}
+|{{twitter|honmahimawari|name=連結}}
+|-
+!colspan=5 align="center"|2018/07/30出道（GAMERS）
+|-
+|魔界ノりりむ（まかいの りりむ）
+|lack
+|大魔王撒旦的女兒，本名為「リリム・キスミー・ラブリーハート＝ロリータニア」<br>沉迷於遊戲而完全忘記自己身為惡魔的使命
+|{{youtube|c=UC9EjSJ8pvxtvPdxLOElv73w|title=連結}}
+|{{twitter|makaino_ririmu|name=連結}}
+|-
+|[[葛葉|葛葉（くずは）]]
+|本田ロアロ
+|家裡蹲吸血鬼，本名為「アレクサンドル・ラグーザ」，ド葛本社的弟弟擔當<br>博美犬屬性，還可變身成女性樣貌「サーニャ」<br>彩虹社首個達成百萬訂閱的Liver，也是史上第一位達成此成就的男性Vtuber<br>與同社另一位百萬訂閱的叶組成組合ChroNoiR
+|{{youtube|c=UCSFCh5NL4qXrAy9u-u2lX3g|title=連結}}
+|{{twitter|Vamp_Kuzu|name=連結}}
+|-
+|雪汝（せつな）
+|苔コッコ
+|居住在雪山的雪女，對人類世界的遊戲感到興趣<br>{{color|red||已於2019/10/30畢業}}
+|{{youtube|c=UCfM_A7lE6LkGrzx6_mOtI4g|title=連結}}
+|{{twitter|setsuna2434|name=連結}}
+|-
+|[[椎名唯華|椎名唯華（しいな ゆいか）]]
+|神岡ちろる
+|性格我行我素的靈能力JK<br>與花畑チャイカ的組合為「彩虹反抗軍」<br>'''[[腹黑]][[人渣]]（公認）'''，曾一度在連動時惡搞過りりむ而被營運方謹慎處分<br><s>同時也是本社迫害ユードリック的最大推手，在玩寶可夢跟實況野球時都拿出最大力度迫害</s>
+|{{youtube|c=UC_4tXjqecqox5Uc05ncxpxg|title=連結}}
+|{{twitter|yuika_siina|name=連結}}
+|-
+!colspan=5 align="center"|2018/08/09出道（SEEDs2期生）
+|-
+|神田笑一（かんだ しょういち）
+|Yuzuki
+|瞇瞇眼男大生，擁有很多技能與經歷的強者<br>每周會固定開特攝同時視聽
+|{{youtube|c=UCWz0CSYCxf4MhRKPDm220AQ|title=連結}}
+|{{twitter|Kanda_Shoichi|name=連結}}
+|-
+|鳴門こがね（なると こがね）
+|るかこ
+|在高中打工的22歲校務員<br>{{color|red||已於2018/12/31畢業}}
+|{{youtube|c=UCF1JdALrXgub24weQpqDy9Q|title=連結}}
+|{{twitter|nArUtO_kOgAnE|name=連結}}
+|-
+|飛鳥ひな（あすか ひな）
+|タジマ粒子
+|JK，可變成大人外貌<br>時常幫忙監修ボイス而被尊稱為「ひなP」
+|{{youtube|c=UCiSRx1a2k-0tOg-fs6gAolQ|title=連結}}
+|{{twitter|hina__asuka|name=連結}}
+|-
+|雨森小夜（あめもり さよ）
+|ほーじろ
+|永遠的少女，有著獨特的世界觀<br>演技與歌力優秀，由於身處バーチャル網走刑務所的緣故甚少配信
+|{{youtube|c=UCRWOdwLRsenx2jLaiCAIU4A|title=連結}}
+|{{twitter|Sayo_Amemori|name=連結}}
+|-
+|[[▽▲TRiNITY▲▽#.E9.B7.B9.E5.AE.AE.E3.83.AA.E3.82.AA.E3.83.B3|鷹宮リオン（たかみや りおん）]]
+|タジマ粒子
+|就讀魔法學校的大小姐<br>金ポン，雖然很ポンコツ但對古典樂及美術都有一定素養
+|{{youtube|c=UCV5ZZlLjk5MKGg3L0n0vbzw|title=連結}}
+|{{twitter|TakamiyaRion|name=連結}}
+|-
+|舞元啓介（まいもと けいすけ）
+|おとと
+|32→34歲的單身農家，不知何時成為了被迫害的歐吉桑擔當<br>促成了各種競技企劃，其實擁有相當豐富的情史<br>曾經表示過被Selen的直播前過場片段洗腦還因此向同期推薦<br><s>結果此舉引起舞元單推Millie對Selen的醋勁</s><br><s>🔥舞元🔥</s>
+|{{youtube|c=UCJubINhCcFXlsBwnHp0wl_g|title=連結}}
+|{{twitter|maimoto_k|name=連結}}
+|-
+!colspan=5 align="center"|2018/08/31出道（SEEDs2期生）
+|-
+|竜胆尊（りんどう みこと）
+|ni02
+|鬼之女王，超級[[酒女|酒鬼]]<br>精通歌舞，一手促成了年末大型活動「にじさんじユニット歌謡祭」
+|{{youtube|c=UCPvGypSgfDkVe7JG2KygK7A|title=連結}}
+|{{twitter|RindouMikoto|name=連結}}
+|-
+|でびでび・でびる
+|巻羊
+|外表相當可愛的<s>無尾熊</s>惡魔<br>大酒鬼，坐過無數女性的膝蓋
+|{{youtube|c=UCjlmCrq4TP1I4xguOtJ-31w|title=連結}}
+|{{twitter|debidebiru_sama|name=連結}}
+|-
+|桜凛月（さくら りつき）
+|ハリオ
+|來自桜第一惑星的外星人公主，稀少的清楚之一<br>在各種遊戲裡展現了建築長才
+|{{youtube|c=UCfQVs_KuXeNAlGa3fb8rlnQ|title=連結}}
+|{{twitter|SAKURA_RITSUKI|name=連結}}
+|-
+|町田ちま（まちた ちま）
+|栗原さくら
+|有著輕飄飄外表的學生，非常擅長唱歌<br>狂犬裡負責狂的部分，產生許多魔性作品
+|{{youtube|c=UCo7TRj3cS-f_1D9ZDmuTsjw|title=連結}}
+|{{twitter|chima_machita23|name=連結}}
+|-
+|月見しずく（つきみ しずく）
+|きのこむし
+|目標成為兔子偶像的17歲女高中生<br>{{color|red||已於2020/01/13畢業}}
+|{{youtube|c=UCqQV8xEBWd5SVZBLlYrS_5Q|title=連結}}
+|{{twitter|tukimi_sizuku|name=連結}}
+|-
+|ジョー・力一（じょー りきいち）
+|スドウミノル
+|真身不明的小丑，在重考浪人時期受到天啟而決定成為小丑<br>後面的力一是漢字，不是片假名<s>，不然會跟[[小丑 (DC漫畫)|某漫畫反派]]與[[女神異聞錄5|某怪盜]]撞名</s><br>非常擅長脫口秀型的雜談，甚至曾創出大小姐型的角色「鹿鳴館キリコ」
+|{{youtube|c=UChUJbHiTVeGrSkTdBzVfNCQ|title=連結}}
+|{{twitter|JoeRikiichi|name=連結}}
+|-
+|遠北千南（あちきた ちなみ）
+|森名尚
+|JK，持有複數聲線的能力者<br>{{color|red||已於2020/03/31畢業}}
+|{{youtube|c=UCuz0vzQgC8LRdS6lVV0UkUg|title=連結}}
+|{{twitter|ac1kt|name=連結}}
+|-
+!colspan=5 align="center"|2018/09/25出道（SEEDs2期生）
+|-
+|ベルモンド・バンデラス
+|ソウスケ
+|來自夢之世界的酒吧老闆，成熟帥氣的嗓音被稱作にじさんじ的[[大塚明夫]]<br>マイクラ的地底王，時常被女性展開強烈攻勢<br><s>抽卡時令人嘆為觀止的歐洲人</s><br><s>誰やねん<ref>笹木在唱カンザキイオリ編寫的[[VOCALOID]]歌曲「{{youtube|0HYm60Mjm0k|命に嫌われている。}}」的重填詞版「{{youtube|HZleluBJrjA|笹木は嫌われている。}}」時，其中一句歌詞是「'''ベルモンド・バンデラス　誰やねん'''」，甚至還引來本人在下面留言「'''我哭了　在各種意義上（泣いた　色んな意味で）'''」，就此「誰やねん」傳說不脛而走…</ref></s>
+|{{youtube|c=UCbc8fwhdUNlqi-J99ISYu4A|title=連結}}
+|{{twitter|belmond_b_2434|name=連結}}
+|-
+|矢車りね（やぐるま りね）
+|CH3（めちるき）
+|看起來是可愛小女生的奇人<br>由於學業關係配信不頻繁
+|{{youtube|c=UCvzVB-EYuHFXHZrObB8a_Og|title=連結}}
+|{{twitter|Rine_Yaguruma|name=連結}}
+|-
+|夢追翔（ゆめおい かける）
+|ほーじろ
+|バーチャル創作歌手，愛稱「ゆめお」<br>時常在活動裡擔任主持人，雖然常被各種調戲但也有サイコパス的一面
+|{{youtube|c=UCTIE7LM5X15NVugV7Krp9Hw|title=連結}}
+|{{twitter|kakeru_yumeoi|name=連結}}
+|-
+|黒井しば（くろい しば）
+|未公開
+|會說話的黑柴犬，擅長繪畫跟マイクラ建築<br>有著會讓人淚腺崩壞的背景故事
+|{{youtube|c=UCmeyo5pRj_6PXG-CsGUuWWg|title=連結}}
+|{{twitter|BlackShiba_chan|name=連結}}
+|-
+!colspan=5 align="center"|2019/01/08出道（紅白アホ合戦）
+|-
+|colspan=5 align="center"|組合名稱取自兩人的形象色
+|-
+|童田明治（わらべだ めいじー）
+|萌木雄太
+|狼耳[[ロリ巨乳|蘿莉巨乳]]小紅帽<s>，雖然自稱11歲但剣持刀也始終未承認她的蘿莉資格</s><br>{{color|red||已於2022/04/30畢業}}
+|{{youtube|c=UCveZ9Ic1VtcXbsyaBgxPMvg|title=連結}}
+|{{twitter|warabeda_meiji|name=連結}}
+|-
+|久遠千歳（くどう ちとせ）
+|柴乃櫂人
+|被魔女下詛咒而使年齡停留在11歲的少女，因為不老不死的關係而喪失了情感表達<br>{{color|red||已於2019/08/31畢業}}
+|{{youtube|c=UCP2o-o6u4uX3uq1hXspl0rg|title=連結}}
+|{{twitter|kudou_chitose|name=連結}}
+|-
+!colspan=5 align="center"|2019/01/17出道（みれロア）
+|-
+|colspan=5 align="center"|組合名稱取自兩人的名字
+|-
+|郡道美玲（ぐんどう みれい）
+|Na53
+|[[ツンデレ|強氣]][[お姉さん先生|女老師]]，隨著時間流逝也露出嬌的一面<br>在各種遊戲展現了夢女的潛力，目前沉迷於麻將
+|{{youtube|c=UCeShTCVgZyq2lsBW9QwIJcw|title=連結}}
+|{{twitter|g9v9g_mirei|name=連結}}
+|-
+|夢月ロア（ゆづき ろあ）
+|ベコ太郎
+|13歲的小惡魔，有著相當特殊的口音<br>喜歡能量飲料到是會當成水來喝的程度，擅長吃辣
+|{{youtube|c=UCCVwhI5trmaSxfcze_Ovzfw|title=連結}}
+|{{twitter|yuzuki_roa|name=連結}}
+|-
+!colspan=5 align="center"|2019/01/28出道
+|-
+|小野町春香（おのまち はるか）
+|ハヤブサ
+|小野町旅館的若女將，國中生→高中生<br>一碰到棒球個性就會豹變
+|{{youtube|c=UCg63a3lk6PNeWhVvMRM_mrQ|title=連結}}
+|{{twitter|onomachi_haruka|name=連結}}
+|-
+|語部紡（かたりべ つむぐ）
+|巻羊
+|某學校圖書館的地縛靈<br>幽靈人口（物理），於2019/03/11在推特留下不明發言「'''菌糸'''」後就此'''[[鬼隱|人間蒸發]]'''<br>從出道到失蹤不到三個月甚至只有開過三次直播<s>，還因此被戲稱已經超度成佛了<ref><s>順便一提在Google搜尋語部紡時會有很高機率出現「語部紡 引退」「語部紡 死亡」「語部紡 生存報告」等奇妙搜尋提示…</s></ref></s><br>後來同期的小野町春香想在2022/01/28三周年紀念活動時開<s>降靈術</s>逆凸試圖召喚語部，但最終依舊失敗
+|{{youtube|c=UCufQu4q65z63IgE4cfKs1BQ|title=連結}}
+|{{twitter|KataribeTsumugu|name=連結}}
+|-
+|瀬戸美夜子（せと みやこ）
+|かやはら
+|高中攝影社社長<br>キモヲタ
+|{{youtube|c=UCHK5wkevfaGrPr7j3g56Jmw|title=連結}}
+|{{twitter|seto_miyako|name=連結}}
+|-
+!colspan=5 align="center"|2019/03/08出道
+|-
+|御伽原江良（おとぎばら えら）
+|萌木雄太
+|設定上是擅長手工藝的大學生<s>，實際上表現卻是不亞於剣持刀也的重度蘿莉控</s><br>配信時的高昂情緒非常有可看性<br>{{color|red||已於2021/03/10畢業}}
+|{{youtube|c=UCwQ9Uv-m8xkE5PzRc7Bqx3Q|title=連結}}
+|{{twitter|OtogibaraEra|name=連結}}
+|-
+|真堂雷斗（しんどう らいと）
+|Yuzuki
+|18歲的高中生<br>{{color|red||已於2019/03/12解約}}
+|{{youtube|c=UCF9L86q4cXaZGW-vn7Sygbw|title=連結}}
+|{{twitter|s_raito2434|name=連結}}
+|-
+!colspan=5 align="center"|2019/03/22出道（さんばか）
+|-
+|colspan=5 align="center"|組合名稱取自「<s>三馬鹿</s>森巴嘉年華（サンバカーニバル）」
+|-
+|戌亥とこ（いぬい とこ）
+|ようか
+|刻耳柏洛斯族少女，兩個髮扣分別叫Pan（パン）與Ken（ケン）<br>具有獨特嗓音的歌姬<br><s>ｱﾊｧｰ↑</s>
+|{{youtube|c=UCXRlIK3Cw_TJIQC5kSJJQMg|title=連結}}
+|{{twitter|inui_toko|name=連結}}
+|-
+|アンジュ・カトリーナ
+|カワグチ
+|擁有中性容貌的[[鍊金術士系列|美少女鍊金術士]]<br>由於追求愛情的個性產出了令人聞風喪膽的[[咒術迴戰|特級咒物]]，實際上文筆相當不錯<br><s>同期出道的三人中最混沌的</s>
+|{{youtube|c=UCHVXbQzkl3rDfsXWo8xi2qw|title=連結}}
+|{{twitter|ange_katrina_|name=連結}}
+|-
+|リゼ・ヘルエスタ
+|藤ちょこ
+|ヘルエスタ王國第二皇女<s>，設定上文武雙全實際上也有脫線的一面</s><br>任粉，主要實況的遊戲也以任天堂遊戲為主<br>特別是[[神奇寶貝|寶可夢]]系列，甚至在小學時為了和留學生一起玩寶可夢而跑去學中文<br>同時也是月ノ美兎的大粉絲<br>吉祥物是名叫セバスチャン・ピヨードル的鳥<br><s>セバス終於在2022/05/25中不再只是2D的了</s>
+|{{youtube|c=UCZ1xuCK1kNmn5RzPYIZop3w/videos|title=連結}}
+|{{twitter|Lize_Helesta|name=連結}}
+|-
+!colspan=5 align="center"|2019/04/02出道（紅ズワイガニ）
+|-
+|colspan=5 align="center"|組合名稱取自「紅色」與「松葉蟹（ズワイガニ）」
+|-
+|三枝明那（さえぐさ あきな）
+|ネヲ
+|夢想是在武道館開唱的大學生，像辣椒的紅色挑染是特徵<br>正太控，跟女生說話會緊張
+|{{youtube|c=UCNW1Ex0r6HsWRD4LCtPwvoQ|title=連結}}
+|{{twitter|333akina|name=連結}}
+|-
+|愛園愛美（あいぞの まなみ）
+|伊東ライフ<br>Guchico
+|在女僕咖啡廳工作，擁有另一個型態<br>由於ママ是那位伊東ライフ的關係逃不了下捏他，本人則是非常熟練地運用有時甚至會嚇到所有人
+|{{youtube|c=UC0WwEfE-jOM2rzjpdfhTzZA|title=連結}}
+|{{twitter|manami_aizono|name=連結}}
+|-
+!colspan=5 align="center"|2019/04/29出道（まひるる）
+|-
+|colspan=5 align="center"|組合名稱取自兩人的名字
+|-
+|鈴原るる（すずはら るる）
+|さいね
+|名門出身而不知世故的的女大生<s>，實際上是披著美大生皮的古神</s><br>{{color|red||已於2021/06/30畢業}}
+|{{youtube|c=UC_a1ZYZ8ZTXpjg9xUY9sj8w|title=連結}}
+|{{twitter|lulu_suzuhara|name=連結}}
+|-
+|雪城眞尋（ゆきしろ まひろ）
+|竹花ノート
+|JK，不憫吉娃娃<br>3D披露後出現各種意味深演出，逐步揭露了背景故事
+|{{youtube|c=UCHX7YpFG8rVwhsHCx34xt7w|title=連結}}
+|{{twitter|mahiroyukishiro|name=連結}}
+|-
+!colspan=5 align="center"|2019/05/17出道（{{ruby|LvEx|レベルエックス}}）
+|-
+|colspan=5 align="center"|組合名稱取自兩人的名字縮寫
+|-
+|エクス・アルビオ
+|ケースワベ
+|異世界英雄，為了尋找回到原本世界的方法而開始直播<br>有時前後邏輯不連貫的發言被稱作「エビオ構文」，甚至被運用到工商合作的遊戲裡
+|{{youtube|c=UCIytNcoz4pWzXfLda0DoULQ|title=連結}}
+|{{twitter|ex_albio|name=連結}}
+|-
+|レヴィ・エリファ
+|きる太
+|魔物與人類混血的亞人<br>據本人說法在媽媽肚子裡就進行了腐女胎教，很擅長唱歌
+|{{youtube|c=UCtnO2N4kPTXmyvedjGWdx3Q|title=連結}}
+|{{twitter|levi_e_2434|name=連結}}
+|-
+!colspan=5 align="center"|2019/06/19出道（乳山）
+|-
+|colspan=5 align="center"|組合名稱取自ニュイ的巨'''乳'''以及葉'''山'''的名字
+|-
+|葉山舞鈴（はやま まりん）
+|fumi
+|居住在海濱都市的少女<br>奇人之一，長時間配信是家常便飯
+|{{youtube|c=UCfipDDn7wY-C-SoUChgxCQQ|title=連結}}
+|{{twitter|Hayama_Marin|name=連結}}
+|-
+|ニュイ・ソシエール
+|カンザリン
+|意外來到這個世界的魔女<br>對遊戲的劇情會十分投入，由於清涼的打扮3D公開時讓眾人各種意義上的提心吊膽 <br>[[賽馬]]粉絲，每逢日本GI賽馬日都會開直播跟觀眾談馬經
+|{{youtube|c=UCUc8GZfFxtmk7ZwSO7ccQ0g|title=連結}}
+|{{twitter|Nui_Sociere|name=連結}}
+|-
+!colspan=5 align="center"|2019/07/03出道（SMC組）
+|-
+|colspan=5 align="center"|組合名稱取自三人的身分：科學家（'''S'''cientist）、魔術師（'''M'''agician）及社長（'''C'''EO）
+|-
+|[[▽▲TRiNITY▲▽#.E8.91.89.E5.8A.A0.E7.80.AC.E5.86.AC.E9.9B.AA|葉加瀬冬雪（はかせ ふゆき）]]
+|vane（ばね）
+|理科系JK，隨身攜帶著各種奇怪的藥水<br>銀ポン<s>，有著玩遊戲能讓觀眾（尤其是指示廚）血壓飆高的特殊能力</s>
+|{{youtube|c=UCGYAYLDE7TZiiC8U6teciDQ|title=連結}}
+|{{twitter|hakase_fuyuki|name=連結}}
+|-
+|加賀美ハヤト（かがみ はやと）
+|冬臣
+|加賀美工業的青年社長，看似冷酷實際上熱情且幽默<br>熱愛模型與卡片的大男孩，シャウト大好評
+|{{youtube|c=UCmovZ2th3Sqpd00F5RdeigQ|title=連結}}
+|{{twitter|H_KAGAMI2434|name=連結}}
+|-
+|夜見れな（よるみ れな）
+|あるてら
+|偶像魔術師，雖然其神秘氛圍使觀眾著迷但魔術本領只有半調子的程度<br>擁有會讓人腦袋融化的嗓音，擅長ドット繪
+|{{youtube|c=UCL34fAoFim9oHLbVzMKFavQ|title=連結}}
+|{{twitter|rena_yorumi|name=連結}}
+|-
+!colspan=5 align="center"|2019/07/24出道（ぶるーず）
+|-
+|colspan=5 align="center"|組合名稱取自三人都是藍色形象色
+|-
+|黛灰（まゆずみ かい）
+|いちじく
+|擁有罕見才能的駭客，為了潛入搜查而開始直播<br>時常玩有著特殊風格的遊戲，本身也有自己的背景故事，目前為階段性完結狀態
+|{{youtube|c=UCb5JxV6vKlYVknoJB8TnyYg|title=連結}}
+|{{twitter|mayuzumi_X|name=連結}}
+|-
+|アルス・アルマル
+|Paryi
+|新人魔法師，將直播當作休閒<br>咬字相對不清，另外由於繪師ママ的個人風格，頭的大小時常被拿來當梗
+|{{youtube|c=UCdpUojq0KWZCN9bxXnZwz5w|title=連結}}
+|{{twitter|ars_almal|name=連結}}
+|-
+|相羽ういは（あいば ういは）
+|東西
+|正統風虛擬偶像，為了累積經驗而開始直播<br>具有數一數二的強大運動能力<br><s>清楚霸王，在對岸更因為相羽跟項羽的諧音而有西楚霸王的稱呼</s><br><s>うはい</s>
+|{{youtube|c=UCnRQYHTnRLSF0cLJwMnedCg|title=連結}}
+|{{twitter|AibaUiha|name=連結}}
+|-
+!colspan=5 align="center"|2019/08/08出道（ぽさんけ）
+|-
+|colspan=5 align="center"|組合名稱取自「<s>ポンコツ</s>ぽやぽや」與「[[御三家]]」<br>而三人的人設也正如寶可夢御三家般結合了草火水的屬性
+|-
+|天宮こころ（あまみや こころ）
+|さくらしおり
+|可與龍對話的巫女，御三家的水屬性擔當<br>由於說話較含糊不清得到愛稱「あまみゃ」<br>漫畫家中音ナタ老師很愛畫她的哭臉
+|{{youtube|c=UCkIimWZ9gBJRamKF0rmPU8w|title=連結}}
+|{{twitter|amamiya_kokoro|name=連結}}
+|-
+|エリー・コニファー
+|アナ
+|花妖精女僕，御三家的草屬性擔當<br>擅長吹奏長笛，對紅茶很講究，3D時也披露了一手
+|{{youtube|c=UCpNH2Zk2gw3JBjWAKSyZcQQ|title=連結}}
+|{{twitter|Eli_Conifer|name=連結}}
+|-
+|ラトナ・プティ
+|西ノ田
+|追求未知大地的冒險家，御三家的火屬性擔當<br>ASMR與FPS高手，身分是小貓熊但常被戲稱為狸貓
+|{{youtube|c=UCIG9rDtgR45VCZmYnd-4DUw|title=連結}}
+|{{twitter|ratna_petit|name=連結}}
+|-
+!colspan=5 align="center"|2019/09/19出道（チューリップ組）
+|-
+|colspan=5 align="center"|組合名稱取自同名童謠的歌詞「ならんだ～ならんだ～赤（シェリン）、白（健屋）、黄色（早瀬）」
+|-
+|早瀬走（はやせ そう）
+|はにわ
+|操著關西腔的陽キャ<br>歌藝驚人，被稱作にじさんじ的松本梨香，オカン
+|{{youtube|c=UC2OacIzd2UxGHRGhdHl1Rhw|title=連結}}
+|{{twitter|SouHayase|name=連結}}
+|-
+|健屋花那（すこや かな）
+|かやはら
+|在醫院工作的護理師，想讓大家打起精神而開始直播<br>雖然人設看起來很[[ヤンデレ|病]]，不過意外卻是健康的陽キャ<br>在平均學力有些慘烈的にじさんじ中是難得一見的頭腦派秀才<ref>在與[[癒月巧可]]連動的學力測驗上三分鐘內答對28題，與holo的[[獅白牡丹]]並列第一名。</ref><br>性癖是嘔吐聲（無誤）<ref>本人有表示不要過度玩梗</ref>
+|{{youtube|c=UC8C1LLhBhf_E2IBPLSDJXlQ|title=連結}}
+|{{twitter|sukosuko_sukoya|name=連結}}
+|-
+|シェリン・バーガンディ
+|フカヒレ
+|追求世間之「謎」的青年偵探<br>甫出道便以驚人的自我介紹PPT確立起迷偵探的形象，與強大的歌唱力之間的高低差足以讓人耳鳴
+|{{youtube|c=UCHBhnG2G-qN0JrrWmMO2FTA|title=連結}}
+|{{twitter|ShellinBurgundy|name=連結}}
+|-
+!colspan=5 align="center"|2019/10/17出道（織姫星）
+|-
+|colspan=5 align="center"|組合名稱取自七夕
+|-
+|フミ
+|Yuzuki
+|被供奉在某神社的神明大人<br>常被當成阿嬤，但在3D披露時展現了優秀的身體能力
+|{{youtube|c=UCwrjITPwG4q71HzihV2C7Nw|title=連結}}
+|{{twitter|FumiVirtual|name=連結}}
+|-
+|星川サラ（ほしかわ さら）
+|米白粕
+|英日混血的少女<br>活潑開朗又頑皮，同時也是CP廚限界オタク<br><s>星川ァ！</s>
+|{{youtube|c=UC9V3Y3_uzU5e-usObb6IE1w|title=連結}}
+|{{twitter|Sara_Hoshikawa|name=連結}}
+|-
+|山神カルタ（やまがみ かるた）
+|vane（ばね）
+|見習中的烏鴉天狗<br>曾在短時間內就換了數次話題（通稱脊髄トーク<ref>意思就是指講話'''像脊髓反射一般完全沒經過大腦'''</ref>），基本上是重い女
+|{{youtube|c=UCllKI7VjyANuS1RXatizfLQ|title=連結}}
+|{{twitter|karuta_Yamagami|name=連結}}
+|-
+!colspan=5 align="center"|2019/10/31出道（赤の組織）
+|-
+|colspan=5 align="center"|組合名稱取自三人都是紅色形象色
+|-
+|えま★おうがすと
+|しらたま
+|從魔界出逃的魔王族少女<br>用蘿莉外表酗酒的強者，在3D披露時做出了各種挑戰放送禁忌的行為
+|{{youtube|c=UCl1oLKcAq93p-pwKfDGhiYQ|title=連結}}
+|{{twitter|emma_august_|name=連結}}
+|-
+|ルイス・キャミー
+|ハリオ
+|穿梭在暗夜中的女[[怪盜]]<br>外表很性感內心是幼女，因緣際會下開始打麻將，現在是實力者
+|{{youtube|c=UCb6ObE-XGCctO3WrjRZC-cw|title=連結}}
+|{{twitter|Luis_Cammy|name=連結}}
+|-
+|魔使マオ（まつかい まお）
+|もきゅ
+|為幫助主人蠱惑人類而開始直播的脫線使魔<br>非常擅長吐槽，頭上的裝飾品時常被當成耳毛
+|{{youtube|c=UCerkculBD7YLc_vOGrF7tKg|title=連結}}
+|{{twitter|matsukai_mao|name=連結}}
+|-
+!colspan=5 align="center"|2019/11/28出道（{{ruby|夜王国|ナイトキングダム}}）
+|-
+|colspan=5 align="center"|組合名稱取自三人的活動時間都傾向於夜行性
+|-
+|不破湊（ふわ みなと）
+|とまつかぜ
+|目標No.1牛郎的青年<br>容易腦死，同期グウェル的同担拒否過激派厄介古参オタク
+|{{youtube|c=UC6wvdADTJ88OfIbJYIpAaDA|title=連結}}
+|{{twitter|Fuwa_Minato|name=連結}}
+|-
+|白雪巴（しらゆき ともえ）
+|生川
+|以弱肉強食為座右銘的抖S御姐<br>女性觀眾相當多，演技力很強
+|{{youtube|c=UCuvk5PilcvDECU7dDZhQiEw|title=連結}}
+|{{twitter|Tomoe_Shirayuki|name=連結}}
+|-
+|グウェル・オス・ガール
+|ikuyoan
+|當人們渴求主持的時候便會現身的神祕主持人<br>公布已婚生子後改變了本來的炎上藝風，現在是有趣計畫的主辦與授課擔當<br>另外歌唱能力也相當強，甚至還曾搞出{{youtube|2Rr2taSmIgY|一人合唱版的社歌}}
+|{{youtube|c=UC1QgXt46-GEvtNjEC1paHnw|title=連結}}
+|{{twitter|Gwelu_os_gar|name=連結}}
+|-
+!colspan=5 align="center"|2019/12/26出道（まななつ）
+|-
+|colspan=5 align="center"|組合名稱取自三人的名字
+|-
+|ましろ
+|未公開
+|自稱「最終兵器」，擁有中性外貌的大學生<br>外表跟聲音雖很中性，實際上卻是正港男子漢，從生活到配信都充滿了狂氣
+|{{youtube|c=UCfki3lMEF6SGBFiFfo9kvUA|title=連結}}
+|{{twitter|mashiro2434|name=連結}}
+|-
+|奈羅花（ならか）
+|アナ
+|實習中的地獄獄卒，總是與手下「阿」與「吽」一起行動<br>擅長FPS遊戲，不知為何頻繁遇到各種倒楣事
+|{{youtube|c=UC-o-E6I3IC2q8sAoAuM6Umg|title=連結}}
+|{{twitter|Naraka_2434|name=連結}}
+|-
+|来栖夏芽（くるす なつめ）
+|UNI
+|性格隨和的19歲大學生<br>在マイクラ裡展現了文筆被編輯看中而輕小說作家出道，由於會畫畫的關係特典自己也有上陣
+|{{youtube|c=UCRcLAVTbmx2-iNcXSsupdNA|title=連結}}
+|{{twitter|kurusu72me|name=連結}}
+|-
+!colspan=5 align="center"|2020/01/30出道（メイフ）
+|-
+|colspan=5 align="center"|組合名稱取自三人的名字
+|-
+|[[▽▲TRiNITY▲▽#.E3.83.95.E3.83.AC.E3.83.B3.E3.83.BBE.E3.83.BB.E3.83.AB.E3.82.B9.E3.82.BF.E3.83.AA.E3.82.AA|フレン・E・ルスタリオ]]
+|モリチカシュウト
+|來自コーヴァス帝國，尋找因緣對手的女騎士<br>銅ポン，曾經差點讓社築中風
+|{{youtube|c=UCuep1JCrMvSxOGgGhBfJuYw|title=連結}}
+|{{twitter|furen_2434|name=連結}}
+|-
+|メリッサ・キンレンカ
+|未公開
+|以虛擬創作者為目標，夢想成為虛擬與現實間的橋梁<br>有著讓人驚豔的好歌喉<br>{{color|red||已於2022/05/31畢業}}
+|{{youtube|c=UCwcyyxn6h9ex4sMXGtpQE_g|title=連結}}
+|{{twitter|melissa_2434|name=連結}}
+|-
+|イブラヒム
+|犬月煙
+|前石油大王，目前正經營溫泉產業<br>在3D披露時讓觀眾欣賞他打小鋼珠長達數十分鐘，有著極高的建築造詣
+|{{youtube|c=UCmZ1Rbthn-6Jm_qOGjYsh5A|title=連結}}
+|{{twitter|honmono_ibrahim|name=連結}}
+|-
+!colspan=5 align="center"|2020/04/02出道（VΔLZ）
+|-
+|colspan=5 align="center"|組合名稱取自圓舞曲的法語（Valse）跟英語（Waltz）造語<br>繼VOIZ後第二組純男性團體組合，設定上三人是在櫻魔皇國的祓魔師養成機構「禍祓」結識的同學
+|-
+|長尾景（ながお けい）
+|本田ロアロ
+|在皇都經營除魔業的青年<br>專業忖度師，認真時的反差會讓人感冒<br>看起來很像是乙女遊戲常見的的冷酷帥哥實際上卻是自由奔放的陽キャお兄さん<br>甚至還因此被評為「亂入乙女遊戲的快樂快樂月刊角色」
+|{{youtube|c=UCXW4MqCQn-jCaxlX-nn-BYg|title=連結}}
+|{{twitter|kei_nagao2434|name=連結}}
+|-
+|弦月藤士郎（げんづき とうじろう）
+|べっこ
+|出仕皇國的官吏，被委任於「神」的管理以及與「神」的聯繫人的職責<br>什麼都會的音樂長才，對美妝也十分講究
+|{{youtube|c=/UCGw7lrT-rVZCWHfdG9Frcgg|title=連結}}
+|{{twitter|1O46V|name=連結}}
+|-
+|甲斐田晴（かいだ はる）
+|あいるむ
+|在皇都也很著名的「魔」的研究者<br>擅長自彈自唱，不知不覺間成為了被虐擔當
+|{{youtube|c=UCo2N7C-Z91waaR6lF3LL_jw|title=連結}}
+|{{twitter|Kaida_Haru|name=連結}}
+|-
+!colspan=5 align="center"|2020/06/30出道
+|-
+|空星きらめ（そらほし きらめ）
+|おしおしお
+|夢想在大舞台上大顯身手的高中生<br>打工戰士，有著一片坦蕩的胸襟
+|{{youtube|c=UC_82HBGtvwN1hcGeOGHzUBQ|title=連結}}
+|{{twitter|kirame_2434|name=連結}}
+|-
+|金魚坂めいろ（きんぎょざかめいろ）
+|未公開
+|管理著名為「金魚坂」千本鳥居所構成階梯、世家的獨生女<br>{{color|red||已於2020/10/19解約}}
+|{{youtube|c=UC69URn8iP4u8D_zUp-IJ1sg|title=連結}}
+|{{twitter|meiro_oO|name=連結}}
+|-
+!colspan=5 align="center"|2020/08/06出道（世怜音演劇同好会）
+|-
+|colspan=5 align="center"|以校園為主題，設定上是名校「世怜音女学院」的學生，為了拯救面臨解散危機的演劇部而開始活動<br>五人的姓氏涵蓋了東南西北與中央等方位名，名字則採用了與形象色對應的事物
+|-
+|朝日南アカネ（あさひな あかね）
+|えいひ
+|高等部一年級，擁有朝氣性格<br>幼時體弱多病，歌唱力出眾
+|{{youtube|c=UCe_p3YEuYJb8Np0Ip9dk-FQ|title=連結}}
+|{{twitter|Akane_Asahina__|name=連結}}
+|-
+|周央サンゴ（すおう さんご）
+|葉山えいし
+|中等部一年級，性格穩重大方<br>愛稱「ンゴ」，魔性的風格深受好評
+|{{youtube|c=UCL_O_HXgLJx3Auteer0n0pA|title=連結}}
+|{{twitter|Suo_Sango|name=連結}}
+|-
+|東堂コハク（とうどう こはく）
+|U35
+|高等部三年級，雖是大小姐卻有著親民的氣質<br>歌曲表達力很強，配信頻率相當隨性
+|{{youtube|c=UCebT4Aq-3XWb5je1S1FvR_A|title=連結}}
+|{{twitter|kohaku_todo|name=連結}}
+|-
+|北小路ヒスイ（きたこうじ ひすい）
+|未公開
+|中等部二年級，擁有相當廣泛的興趣<br>有著十分故事性的過去，很喜歡B級電影
+|{{youtube|c=UCRqBKoKuX30ruKAq05pCeRQ|title=連結}}
+|{{twitter|Hisui_Kitakoji|name=連結}}
+|-
+|西園チグサ（にしぞの ちぐさ）
+|泉彩
+|高等部二年級，好奇心旺盛的運動健將<br>表情非常豐富，オタク<br><s>相對的是個抽卡時令人嘆為觀止的非洲人</s>
+|{{youtube|c=UCkngxfPbmGyGl_RIq4FA3MQ|title=連結}}
+|{{twitter|Chigusa_24zono|name=連結}}
+|-
+!colspan=5 align="center"|2021/07/19出道（エデン組）
+|-
+|colspan=5 align="center"|組合名稱取自「伊甸（Eden）」
+|-
+|アクシア・クローネ
+|黒野ユウ
+|機動步兵隊「スローンズ」的駕駛員<br>擅長遊戲的好青年，很缺錢因此擁有各種打工經驗
+|{{youtube|c=UC8oPnditPSp5lZu45fnXWCA|title=連結}}
+|{{twitter|AXIA_96NE|name=連結}}
+|-
+|ローレン・イロアス
+|ここかなた
+|都市警備隊所屬的青年<br>FPS高手，個性爽朗
+|{{youtube|c=UCgmFrRcyH7d1zR9sIVQhFow|title=連結}}
+|{{twitter|Lauren_iroas|name=連結}}
+|-
+|レオス・ヴィンセント
+|丁嵐あたらよ
+|每天研究奇怪藥物的[[瘋狂科學家]]<br>初配信各種意義上都是傳說，身邊跟著「まめねこ」，毫不掩飾的吸菸人士
+|{{youtube|c=UC-6rZgmxZSIbq786j3RD5ow|title=連結}}
+|{{twitter|Leos_Vincent|name=連結}}
+|-
+|オリバー・エバンス
+|夏子
+|[[イケメン|容貌英俊]]的青年教授<br>身材高大，說得一口流利英文，剛開始對推特非常不熟因而產生許多趣聞<br><s>NIJISANJI EN 0期生</s>
+|{{youtube|c=UCqjTqdVlvIipZXIKeCkHKUA|title=連結}}
+|{{twitter|oliverD_23|name=連結}}
+|-
+|レイン・パターソン
+|lack
+|身手一流的保鑣<br>內在是熱愛賭博的幼女，和柏青哥與賽艇都有合作
+|{{youtube|c=UCRm6lqtdxs_Qo6HeL-SRQ-w|title=連結}}
+|{{twitter|Lain_Paterson|name=連結}}
+|-
+!colspan=5 align="center"|2022/03/16出道（Ranunculus）
+|-
+|colspan=5 align="center"|組合名稱取自「毛茛花（Ranunculus）」<br>由VTA第一屆結業生組成，也是首次由彩虹社自己培訓出道的新人組合
+|-
+|天ヶ瀬むゆ（あまがせ むゆ）
+|未公開
+|擁有食夢能力的半妖<br>身材高挑，運動能力也很強
+|{{youtube|c=UCAQDFeCTVdx90GtwohwjHzQ|title=連結}}
+|{{twitter|Muyu_Amagase|name=連結}}
+|-
+|先斗寧（ぽんと ねい）
+|二色こぺ
+|在陰陽兩界間的雜貨屋打工的關西少女<br>愛吃辣的大學生，百合廚
+|{{youtube|c=UCe22Bcwd_GCpTjLxn83zl7A|title=連結}}
+|{{twitter|ponto_nei|name=連結}}
+|-
+|海妹四葉（うみせ よつは）
+|およ
+|熱衷於挑戰困難的貧乏高中生<br>打工戰士，脊髄トーク能力者
+|{{youtube|c=UCtHY-tP0dyykhTRMmnfPs_g|title=連結}}
+|{{twitter|Yotsuha_Umise|name=連結}}
+|-
+!colspan=5 align="center"|2022/05/21出道
+|-
+|[[壱百満天原サロメ|壱百満天原サロメ（ひゃくまんてんばら さろめ）]]
+|緜
+|憧憬大小姐的一般人女性ですわ<br>第一個SOLO出道的成員，才剛出道即締造了各種傳說，堪稱橫空出世（無誤）<br>彩虹社第三個達成百萬訂閱的Liver，甚至僅以'''14天'''成為目前VTuber界最速金盾紀錄
+|{{youtube|c=UCgIfLpQvelloDi8I0Ycbwpg|title=連結}}
+|{{twitter|1000000lome|name=連結}}
+|-
+!colspan=5 align="center"|未出道
+|-
+|ユードリック
+|yow
+|魔法學院的老師，本名為「ユードリック・アレキサンダー」<br>從2018年底開始招募[[中の人|靈魂]]至今'''仍然處於未出道狀態'''<ref>順便一提在他之後還有至少六個皮（笠原蒼、ヴォルフガング5世、サイルスト、小鳥遊ミミ、海星ステラ、弐伍）至今也未招募到靈魂。</ref><br><s>甚至變成了其他社員之間的梗角擔當，給他賦予了各種「{{ruby|設定|迫害}}<ref>例如被彩虹反抗軍強行挖角、被本間ひまわり形容成魔法少女之類的，其中最知名的設定是緑仙與名伽尾アズマ所賦予的'''愛吃生肉'''設定，甚至還會用魔法把烤肉變成生肉，以及會吃小孩子頭髮等等</ref>」<br>明明沒出道但在[https://dic.nicovideo.jp/a/%E3%83%A6%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%82%AF ニコニコ百科]跟[https://dic.pixiv.net/a/%E3%83%A6%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%82%AF pixiv百科]等百科都'''享有獨立條目的待遇'''<br>因為上述要素過多還被網民戲稱是'''傳說的機體'''，因此無法出道的原因可能就是'''找不到匹配的駕駛'''</s>
+|無
+|無
+|}
+
+=== {{youtube|c=UCbLgcjfsUaCUgJh9SVit8kw|title=NIJISANJI ID}} ===
+* 已於2022年4月併入本家。
+{|class="wikitable" style="margin:auto;"
+!姓名
+!人設
+!說明
+!頻道
+!推特
+|-
+!colspan=5 align="center"|2019/09/13出道（3SetBBQ）
+|-
+|colspan=5 align="center"|組合名稱取自三人的emoji可以聯想到BBQ
+|-
+|Taka Radjiman（タカ・ラジマン）
+|未公開
+|IT企業的CEO<br>歌唱與建築力都很厲害，可說三國語言
+|{{youtube|c=UCZ5dNZsqBjBzbBl0l_IdmXg|title=連結}}
+|{{twitter|Taka_Radjiman|name=連結}}
+|-
+|ZEA Cornelia（ゼア・コルネリア）
+|未公開
+|由已故的Cornelia博士製作出的自動人形「Z-type Executive Automaton」簡稱「ZEA」<br>音域相當高，可以用原key唱炉心融解
+|{{youtube|c=UCA3WE2WRSpoIvtnoVGq4VAw|title=連結}}
+|{{twitter|ZEA_Cornelia|name=連結}}
+|-
+|Hana Macchia（ハナ・マキア）
+|未公開
+|專攻設計的女大學生<br>美日混血，清楚（にじさんじ），アンジュ推
+|{{youtube|c=UCpJtk0myFr5WnyfsmnInP-w|title=連結}}
+|{{twitter|Hana_Macchia|name=連結}}
+|-
+!colspan=5 align="center"|2019/12/18出道（CloverMcOver）
+|-
+|colspan=5 align="center"|組合名稱取自「四葉草（Clover）」與「改頭換面（Makeover）」
+|-
+|Rai Galilei（ライ・ガリレイ）
+|未公開
+|來自亞空間警察第42支部，重視時間與規則的警察<br>聲音比外表的樣子還來得低沉，LOL玩家
+|{{youtube|c=UC8Snw5i4eOJXEQqURAK17hQ|title=連結}}
+|{{twitter|Rai_Galilei|name=連結}}
+|-
+|Amicia Michella（アミシア・ミシェラ）
+|未公開
+|看起來很室內其實是外出派少女，對冷笑話沒有免疫力<br>繪畫力很高，具有強大的恐怖遊戲耐性
+|{{youtube|c=UCrR7JxkbeLY82e8gsj_I0pQ|title=連結}}
+|{{twitter|AmiciaMichella|name=連結}}
+|-
+|Miyu Ottavia（ミユ・オッタヴィア）
+|未公開
+|熱愛水獺的樂觀少女<br>專攻商業的大學生，比起可愛更想被稱讚帥氣
+|{{youtube|c=UCOmjciHZ8Au3iKMElKXCF_g|title=連結}}
+|{{twitter|MiyuOttavia|name=連結}}
+|-
+|Riksa Dhirendra（リクサ・ディレンドラ）
+|未公開
+|專攻媒體的大學生，看起來很難以親近其實是個好人<br>雖然是個會擅自爬窗進到同僚家（不分男女）的怪人，但相當多才多藝並值得信賴
+|{{youtube|c=UCkL9OLKjIQbKk2CztbpOCFg|title=連結}}
+|{{twitter|RiksaDhirendra|name=連結}}
+|-
+!colspan=5 align="center"|2020/03/13出道（LAN_NEE3S）
+|-
+|colspan=5 align="center"|組合名稱取自三人的名字首字
+|-
+|Azura Cecillia（アズラ・セシリア）
+|未公開
+|來自遙遠宇宙的戰士<br>喜歡故事性很強的遊戲，Miyu控
+|{{youtube|c=UCk5r533QVMgJUdWwqegH2TA|title=連結}}
+|{{twitter|Azura_Cecillia|name=連結}}
+|-
+|Nara Haramaung（ナラ・ハラマウン）
+|未公開
+|來自異世界Haramaung一族的長女，因為不明原因來到這個世界<br>成熟的大姊姊，唱歌很好聽
+|{{youtube|c=UCoWH3sDpeXG1aXmOxveX4KA|title=連結}}
+|{{twitter|Nara_Haramaung|name=連結}}
+|-
+|Layla Alstroemeria（ライラ・アストロメリア）
+|未公開
+|穿越時空的歷史學者<br>會做歷史相關配信，有著空靈的歌聲
+|{{youtube|c=UCyRkQSuhJILuGOuXk10voPg|title=連結}}
+|{{twitter|LaylaAlstro2434|name=連結}}
+|-
+!colspan=5 align="center"|2020/08/07出道（3FicLite）
+|-
+|colspan=5 align="center"|組合名稱取自「交通號誌燈（Traffic Light）」
+|-
+|Etna Crimson（エトナ・クリムソン）
+|未公開
+|已退役的前超級英雄<br>[[假面騎士系列]]的粉絲，最喜歡的作品是[[仮面ライダークウガ|空我]]跟[[仮面ライダー電王|電王]]
+|{{youtube|c=UCjFu-9GHnabzSFRAYm1B9Dw|title=連結}}
+|{{twitter|Etna_Crimson|name=連結}}
+|-
+|Bonnivier Pranaja（ボンニフィエル・プラナジャ）
+|未公開
+|職業釣客，退役後跑來當Liver<br>APEX高手，愛稱「Bobon」
+|{{youtube|c=UCHjeZylSgXDSnor8wUnwU_g|title=連結}}
+|{{twitter|bobon_pranaja|name=連結}}
+|-
+|Siska Leontyne（シスカ・レオンタイン）
+|未公開
+|某最高機密企業的菁英警衛<br>跟Riksa是冤家，看起來很帥氣也有笨拙的一面
+|{{youtube|c=UC5qSx7KzdRwbsO1QmJc4d-w|title=連結}}
+|{{twitter|SiskaLeontyne|name=連結}}
+|-
+!colspan=5 align="center"|2020/11/11出道（53Renade）
+|-
+|colspan=5 align="center"|組合名稱取自三人的名字首字
+|-
+|Nagisa Arcinia（ナギサ・アルシニア）
+|Ikazu401
+|時裝設計師志願的少女<br>聲音跟外表都非常可愛
+|{{youtube|c=UCijNnZ-6m8g85UGaRAWuw7g|title=連結}}
+|{{twitter|NagisaArcinia|name=連結}}
+|-
+|Derem Kado（デレム・カド）
+|Krau
+|就讀魔法學校的魔法少女，為了找尋魔法貓而展開冒險<br>頭部的緞帶解開後是清爽的短髮與異色瞳，不擅長恐怖遊戲
+|{{youtube|c=UCMzVa7B8UEdrvUGsPmSgyjA|title=連結}}
+|{{twitter|DeremKado|name=連結}}
+|-
+|Reza Avanluna（レザ・アファンルナ）
+|Krau
+|藉由做夢穿越各個世界的世界紀錄家<br>會自作曲與撰寫TRPG劇本的才子，恐怖遊戲苦手
+|{{youtube|c=UC5yckZliCkuaEFbqzLBD7hQ|title=連結}}
+|{{twitter|RezaAvanluna|name=連結}}
+|-
+!colspan=5 align="center"|2021/07/28出道（6WS）
+|-
+|colspan=5 align="center"|組合名稱取自「早日康復（Get Well Soon）」的簡寫「GWS」再利用Leet法把G改成6
+|-
+|Hyona Elatiora（ヒョナ・エラティオラ）
+|Mi Goreng
+|某診所的醫生，非常不喜歡別人碰觸自己的獸耳<br>同期Love，興趣相當廣泛
+|{{youtube|c=UCIBj1-d71vKjRftiauF50pg|title=連結}}
+|{{twitter|HyonaElatiora|name=連結}}
+|-
+|Xia Ekavira（シア・エカフィラ）
+|alchemaniac
+|居住在洞窟的科學家<br>一手完成原創曲，會彈多種樂器
+|{{youtube|c=UCoJ0Ct-jdas4cLPpSp06gZg|title=連結}}
+|{{twitter|Xia_Ekavira|name=連結}}
+|-
+|Mika Melatika（ミカ・メラティカ）
+|Raijuu
+|幽靈少女<br>英文流利，個性積極外向，常跟他人交流
+|{{youtube|c=UCahgMxSIQ2zIRrPKhM6Mjvg|title=連結}}
+|{{twitter|MikaMelatika|name=連結}}
+|}
+
+=== NIJISANJI IN ===
+* 已於2021年4月解散。
+{|class="wikitable" style="margin:auto;"
+!姓名
+!人設
+!說明
+!頻道
+!推特
+|-
+!colspan=5 align="center"|2020/01/23出道（3 idiots）
+|-
+|colspan=5 align="center"|組合名稱取自同名寶萊塢電影
+|-
+|Aadya（アディア）
+|未公開
+|{{color|red||已於2021/04/30畢業}}
+|{{youtube|c=UC_aB_-PHLFHiP61djM0oOiQ|title=連結}}
+|{{twitter|Aadya_VTuber|name=連結}}
+|-
+|Vihaan（ビハン）
+|未公開
+|{{color|red||已於2021/04/30畢業}}
+|{{youtube|c=UC0lik9pHju6ONgkBh7N5wHw|title=連結}}
+|{{twitter|Vihaan_VTuber|name=連結}}
+|-
+|Noor（ヌール）
+|未公開
+|{{color|red||已於2021/04/30畢業}}
+|{{youtube|c=UC6oW4FXETgEGOFTxWmI2h5Q|title=連結}}
+|{{twitter|Noor_VTuber|name=連結}}
+|}
+
+=== {{youtube|c=UCStzBFfjwFYb0qSYHnzFZvw|title=NIJISANJI KR}} ===
+* 已於2022年4月併入本家
+{|class="wikitable" style="margin:auto;"
+!姓名
+!人設
+!說明
+!頻道
+!推特
+|-
+!colspan=5 align="center"|2020/01/25出道
+|-
+|Wiffy（위피 / ウィフィ）
+|ぱとり
+|KR官方Wi-Fi的擬人化<br>{{color|red||已於2020/11/15畢業}}
+|{{youtube|c=UCzMAP-oh5-pC8j6RlCPf26w|title=連結}}
+|{{twitter|Wiffy2434|name=連結}}
+|-
+|Yu Ruri（유루리 / ユ・ルリ）
+|ninnzinn
+|{{color|red||已於2020/07/17畢業}}
+|{{youtube|c=UCIJ9zP6gIkT8BB4Lz4UYPhA|title=連結}}
+|{{twitter|RuriYu2434|name=連結}}
+|-
+|Shin Yuya（신유야 / シン・ユヤ / 申幽夜）
+|桐江
+|重度手機依存的女大學生<br>{{color|red||已於2021/06/15畢業}}
+|{{youtube|c=UCjGE11ZnF0JSR8egVAwh-3A|title=連結}}
+|{{twitter|YuyaShin2434|name=連結}}
+|-
+|Min Suha（민수하 / ミン・スゥーハ）
+|吉野
+|擁有溫柔嗓音的青年，擅長唱歌
+|{{youtube|c=UCUtKkGKef8BYMs3h-3zQm9A|title=連結}}
+|{{twitter|SuhaMin2434|name=連結}}
+|-
+!colspan=5 align="center"|2020/01/25出道（541 E&C移籍）
+|-
+|Moarin（모아린 / モアリン / 牟阿琳）
+|未公開
+|{{color|red||已於2020/02/28脫離}}
+|{{youtube|c=UCrhf6HYKnV6bxyaB6ooJzbw|title=連結}}
+|{{twitter|MoarinVtuber|name=連結}}
+|-
+|Gaon（가온 / ガオン）
+|だぶき
+|28歲的前上班族，因為藥物實驗的關係而幼化<br>雖然綁著[[馬尾|雙馬尾]]但卻是貨真價實的男人
+|{{youtube|c=UCpRXCTyNNa-MnjhK6gisnRw|title=連結}}
+|{{twitter|Gaon2434|name=連結}}
+|-
+|Kaen（카엔 / カエン）
+|未公開
+|擅長玩遊戲的犬耳少年<br>{{color|red||已於2020/07/17畢業}}
+|{{youtube|c=UCZgRRTDMYwHpQ7sCl0aCp2Q|title=連結}}
+|{{twitter|KaenVtuber|name=連結}}
+|-
+|Lorou（로로 / ローロー）
+|未公開
+|擅長作曲的野貓DJ<br>{{color|red||已於2020/07/17畢業}}
+|{{youtube|c=UCLSzgV37Dt24T8p3-TNiSLg|title=連結}}
+|{{twitter|LOROU_beats|name=連結}}
+|-
+|Han Chiho（한치호 / ハン・チホ / 韓淄蝴）
+|ゆしか
+|過去被封印，於現代復活的驅魔道士<br>{{color|red||已於2022/04/30畢業}}
+|{{youtube|c=UCJ6LH4jMNy0JN9RSThz1mMQ|title=連結}}
+|{{twitter|HanChiho2434|name=連結}}
+|-
+|Hakuren（백연 / ハクレン / 白戀）
+|未公開
+|{{color|red||已於2020/07/17畢業}}
+|{{youtube|c=UC6WU2SrnG019ucm_bdY6qxQ|title=連結}}
+|{{twitter|VtuberHakuRen|name=連結}}
+|-
+!colspan=5 align="center"|2020/05/22出道（嵐ウナギ）
+|-
+|colspan=5 align="center"|組合名稱取自三人的名字：アラシウナギ
+|-
+|Lee Siu（이시우 / イ・シウ）
+|凪白みと
+|喜歡玩遊戲的家裡蹲白狐<br><s>順便一提因為與[[白上吹雪]]同一個ママ的關係，長像相似度[[高達八成]]也是[[成句/現在想想這也是理所當然的事|理所當然的事]]（誤）</s><br>{{color|red||已於2022/03/20畢業}}
+|{{youtube|c=UCSlv7Z-4q7_7NRkzJB10A5Q|title=連結}}
+|{{twitter|SiuLee2434|name=連結}}
+|-
+|So Nagi（소나기 / ソ・ナギ）
+|aoki
+|對日本文化非常感興趣的大小姐<br>アンジュ大粉絲，病嬌
+|{{youtube|c=UC5ek2GWKvUKFgnKSHuuCFrw|title=連結}}
+|{{twitter|NagiSo2434|name=連結}}
+|-
+|Chae Ara（채아라 / チェ・アラ）
+|東西
+|來自天界監視人類的天使，因為自己對人類的喜愛而成為Liver<br>{{color|red||已於2022/04/15解約}}
+|{{youtube|c=UCmWqYB6y8gSfPONWGspuOWQ|title=連結}}
+|{{twitter|AraChae2434|name=連結}}
+|-
+!colspan=5 align="center"|2020/07/31出道（音色は紫）
+|-
+|Akira Ray（아키라 레이 / 明楽レイ）
+|昌未
+|在韓國留學的日本人，陽キャ
+|{{youtube|c=UC7hffDQLKIEG-_zoAQkMIvg|title=連結}}
+|{{twitter|RayAkira2434|name=連結}}
+|-
+|Lee Roha（이로하 / イ・ロハ）
+|トマリ
+|日本與韓國混血，擅長彈鋼琴的狂人，擁有迷之技術力
+|{{youtube|c=UCClwIqTUn5LDpFucHyaAhHg|title=連結}}
+|{{twitter|RohaLee2434|name=連結}}
+|-
+|Nun Bora（눈보라 / ヌン・ボラ）
+|だぶき
+|高中生軍人，因為朋友很少的原因決定當Liver交朋友<br>{{color|red||已於2021/11/30畢業}}
+|{{youtube|c=UC1ZV7KBscK0EMoJKFu1DnDg|title=連結}}
+|{{twitter|BoraNun2434|name=連結}}
+|-
+!colspan=5 align="center"|2020/10/09出道
+|-
+|Oh Jiyu（오지유 / オ・ジユ）
+|sane
+|外表帥氣的[[男裝麗人|女校王子]]，遊戲王與加賀美社長的粉絲
+|{{youtube|c=UCnzZmBOSrQf2wDBbnsDajVw|title=連結}}
+|{{twitter|JiyuOh2434|name=連結}}
+|-
+|Shin Kiru（신기루 / シン・ギル）
+|sane
+|{{color|red||已於2022/03/31畢業}}
+|{{youtube|c=UCi6nV5Z2dzFuXBzLG3P9zqQ|title=連結}}
+|{{twitter|KiruShin2434|name=連結}}
+|-
+|Yang Nari（양나리 / ヤン・ナリ）
+|iltusa
+|自稱魔王，有著非常可愛的軟綿綿聲音
+|{{youtube|c=UCCHH0nWYXFZmtDS_4tvMxHQ|title=連結}}
+|{{twitter|NariYang2434|name=連結}}
+|-
+|Ryu Hari（류하리 / リュ・ハリ）
+|あるてら
+|收集噩夢的少女，英文相當流利
+|{{youtube|c=UClS6k3w1sPwlVFqK3-yID5A|title=連結}}
+|{{twitter|HariRyu2434|name=連結}}
+|-
+!colspan=5 align="center"|2021/04/23出道（{{ruby|미안하다|ミアナダ}} {{ruby|피나야|ピナヤ}}）
+|-
+|colspan=5 align="center"|組合名稱取自三人的名字，意思為「對不起，Fyna（すまんな、フィナ）」
+|-
+|Seffyna（세피나 / セフィナ）
+|ゆしか
+|歌唱妖精，畫得一手好圖，幾乎定居在マイクラ內
+|{{youtube|c=UCeGendL8CO5RkffB6IFwHow|title=連結}}
+|{{twitter|Seffyna2434|name=連結}}
+|-
+|Song Mia（송미아 / ソン・ミア / 松美雅）
+|ぱとり
+|{{color|red||已於2022/05/01畢業}}
+|{{youtube|c=UCyqzU2nq7eGNi4kN0uHx7TA|title=連結}}
+|{{twitter|SongMia2434|name=連結}}
+|-
+|Ban Hada（반하다 / バン・ハダ）
+|刀彼方
+|住在バーチャル澳洲的船長，因此英語十分流利，FPS玩家
+|{{youtube|c=UCLjx3lqIkYkPCBJop8czJ2A|title=連結}}
+|{{twitter|BanHada2434|name=連結}}
+|-
+!colspan=5 align="center"|2021/08/25出道
+|-
+|Ha Yun（하윤 / ハ・ユン）
+|いしみ
+|因為太喜歡玩遊戲而留級的高校生<br>APEX高手，時常參加相關活動
+|{{youtube|c=UCrhhJPNsOqzNIkUfTABoSpg|title=連結}}
+|{{twitter|HaYun2434|name=連結}}
+|-
+|Na Sera（나세라 / ナ・セラ）
+|リン☆ユウ
+|因為不用拯救世界而失業的清楚（？）魔法少女<br>會一口氣開20幾窗來看社內活動
+|{{youtube|c=UCX88Pe54pxbJDSGIyGrzNdg|title=連結}}
+|{{twitter|NaSera2434|name=連結}}
+|-
+|Ko Yami（고야미 / コ・ヤミ）
+|かれい
+|來自異世界的貓女<br>{{color|red||已於2022/02/20畢業}}
+|{{youtube|c=UC9oudjCTHL2BfwxfDwI18eg|title=連結}}
+|{{twitter|KoYami2434|name=連結}}
+|-
+|Lee On（이온 / イ・オン）
+|にもし
+|見習精靈魔法使<br>{{color|red||已於2022/03/30畢業}}
+|{{youtube|c=UCCJcCWrbQzz6eDhX4M1CUwg|title=連結}}
+|{{twitter|LeeOn2434|name=連結}}
+|}
+
+=== {{youtube|c=UC-JSeFfovhNsEhftt1WHMvg|title=NIJISANJI EN}} ===
+{|class="wikitable" style="margin:auto;"
+!姓名
+!人設
+!說明
+!頻道
+!推特
+|-
+!colspan=5 align="center"|2021/05/12出道（LazuLight）
+|-
+|colspan=5 align="center"|組合名稱取自「天藍石（Lazulite）」與「光（Light）」的造字
+|-
+|Elira Pendora（エリーラ・ペンドラ）
+|釜飯轟々丸
+|沉穩的天空龍，宛如大姊姊一般的存在<br>日文相當流利，在各種奔放的成員中顯得很可靠<br>會講法語
+|{{youtube|c=UCIeSUTOTkF9Hs7q3SGcO-Ow|title=連結}}
+|{{twitter|EliraPendora|name=連結}}
+|-
+|Pomu Rainpuff（ぽむ・れいんぱふ）
+|玖条イチソ
+|居住於綠意盎然的森林裡的妖精，擅長オタ芸的オタク<br>委員長的大粉絲，有時會變成病嬌
+|{{youtube|c=UCP4nMSTdwU1KqYWu3UH5DHQ|title=連結}}
+|{{twitter|PomuRainpuff|name=連結}}
+|-
+|Finana Ryugu（フィナーナ・竜宮）
+|Gilse
+|有著清純的心的美人魚，初配信7秒傳說<s>，「GRRR～」</s><br>以Egg事件作為開端，成為當仁不讓的unseiso代表
+|{{youtube|c=UCu-J8uIXuLZh16gG-cT1naw|title=連結}}
+|{{twitter|FinanaRyugu|name=連結}}
+|-
+!colspan=5 align="center"|2021/07/14出道（OBSYDIA）
+|-
+|colspan=5 align="center"|組合名稱取自「黑曜石（Obsidian）」
+|-
+|Rosemi Lovelock（ロゼミ・ラブロック）
+|アバンドン蘭花
+|在美麗的花園裡生長的薔薇的少女，治癒代表<br>喜歡音MAD，アンジュ的大FAN<br>日語流利，也會講法語
+|{{youtube|c=UC4WvIIAo89_AzGUh1AZ6Dkg|title=連結}}
+|{{twitter|Rosemi_Lovelock|name=連結}}
+|-
+|Selen Tatsuki（セレン・龍月）
+|釜飯轟々丸
+|來自月亮的<s>長頸龍</s><ref>因為她立繪的頸畫得太長而產生的哏</ref>月亮龍，有著爽朗<s>狂氣</s>的笑聲<br>APEXガチ勢，喜歡可愛的東西，對於恐怖類型則非常苦手<br>'''會講廣東話'''但是看不懂中文字
+|{{youtube|c=UCV1xUwfM2v2oBtT3JNvic3w|title=連結}}
+|{{twitter|Selen_Tatsuki|name=連結}}
+|-
+|Petra Gurin（ペトラ・グリン）
+|ももこ
+|長年於冰凍的海獨自一人的企鵝，可愛的被虐擔當<br>會說流利的日文，也會講中文（官話+粵語），時常幫同僚製作影片
+|{{youtube|c=UCgA2jKRkqpY_8eysPUs8sjw|title=連結}}
+|{{twitter|Petra_Gurin|name=連結}}
+|-
+!colspan=5 align="center"|2021/10/06出道（Ethyria）
+|-
+|colspan=5 align="center"|四人的角色設計各自有「天堂 / 地獄」以及「和風 / 西洋風」的配對
+|-
+|Enna Alouette（エナー・アールウェット）
+|KT。
+|來自天堂的青鳥，然而她是厭惡著鳥的<br>非常擅長唱歌，興趣是罵倒<br>會講中文且發音標準
+|{{youtube|c=UCR6qhsLpn62WVxCBK1dkLow|title=連結}}
+|{{twitter|EnnaAlouette|name=連結}}
+|-
+|Nina Kosaka（狐坂ニナ）
+|so-bin
+|掌管天堂的九尾狐，大家的媽咪<br>習慣稱呼眾人為Honey，個性豪爽有行動力
+|{{youtube|c=UCkieJGn3pgJikVW8gmMXE2w|title=連結}}
+|{{twitter|NinaKosaka|name=連結}}
+|-
+|Reimu Endou（遠藤霊夢）
+|未公開
+|於地獄裡徬徨的幽靈，會說流利的西班牙文與日文<br>幾乎每天都會喝的味噌湯派，耽美愛好者
+|{{youtube|c=UCBURM8S4LH7cRZ0Clea9RDA|title=連結}}
+|{{twitter|ReimuEndou|name=連結}}
+|-
+|Millie Parfait（ミリー・パフエ）
+|小原トメ太
+|來自地獄的貓魔女，個性很頑皮<br>舞元單推，在逆凸舞元時不意外的限界化，時常性騷擾Elira
+|{{youtube|c=UC47rNmkDcNgbOcM-2BwzJTQ|title=連結}}
+|{{twitter|MillieParfait|name=連結}}
+|-
+!colspan=5 align="center"|2021/12/17出道（Luxiem）
+|-
+|colspan=5 align="center"|EN第一組全男性的組合，設定上都是從過去來到現代之人
+|-
+|Ike Eveland（アイク・イーヴランド）
+|TCB
+|從過去來到現在的文豪，拿起筆會判若兩人<br>ニコニコ＋V家老人，音樂長才，重金屬音樂愛好者並且會死腔<br>瑞典人，一旦講起瑞典話就會讓無數觀眾暈船<br><s>IKEA<ref>IKEA是著名的瑞典家具公司，正好Ike也是瑞典人，甚至Ike本人還曾在雜談回討論過IKEA在各地的讀音。</ref></s>
+|{{youtube|c=UC4yNIKGvy-YUrwYupVdLDXA|title=連結}}
+|{{twitter|Ike_Eveland|name=連結}}
+|-
+|Mysta Rias（ミスタ・リアス）
+|吠L
+|從過去來到現在的偵探，各種意義上讓人很擔心的存在<br>以各種事蹟震懾了同僚與觀眾，差點引發食物與用語大戰<ref>其中最知名的事蹟大概包含了'''煮飯不會洗米'''、'''用非常亂七八糟的刀工切小黃瓜'''，以及'''在絞肉放入{{ruby|超大量|<s>致死劑量</s>}}的鹽與胡椒'''甚至還'''使用熟食用的器具處理可能孳生細菌的生食'''等等<s>，順便一提他在玩《Cooking Simulator》時還展現了好幾種把廚房炸掉的方法</s>。</ref><br>背景故事與Luca來自同一個時間，根據後來本人的發言可以得知背景故事的旁白是Vox<br><s>然後在直播前30分鐘因為被Pomu發現'''影片內有一個非常髒的髒話而緊急消音處理<ref>{{censored|Cunt，意思是指女性的陰道，然而與作為醫學用語的陰道（Vagina）不同，Cunt通常只被拿來當髒話使用，類似於中文的'''「屄（音同『逼』）」'''。}}</ref>'''</s>
+|{{youtube|c=UCIM92Ok_spNKLVB5TsgwseQ|title=連結}}
+|{{twitter|Mysta_Rias|name=連結}}
+|-
+|Vox Akuma（ヴォックス・アクマ）
+|LAM
+|從過去來到現在的聲之惡魔<br>特徵為嗓音低沉的英國腔，聲音演技十分強大<br>背景故事描述其曾領導一支氏族但遭到德川家康殲滅
+|{{youtube|c=UCckdfYDGrjojJM28n5SHYrA|title=連結}}
+|{{twitter|Vox_Akuma|name=連結}}
+|-
+|Luca Kaneshiro（ルカ・カネシロ）
+|およ
+|從過去來到現在的黑手黨BOSS，大型犬<br>口頭禪POG具有超強感染力，兩聲類<br>背景故事與Mysta來自同一個時間<br><s>擁有全EN組首屈一指的[[巨乳|Booba]]</s>
+|{{youtube|c=UC7Gb7Uawe20QyFibhLl1lzA|title=連結}}
+|{{twitter|Luca_Kaneshiro|name=連結}}
+|-
+|Shu Yamino（闇ノシュウ）
+|吠L
+|從過去來到現在的咒術師，與出道配信的混沌不同個性穩重<br>にじさんじ箱推，日文能力者，時常提供同僚技術支援<br><s>和同期Ike跟Vox的催淚史詩完全不同，背景故事的設定非常智障（讚美意涵）</s>
+|{{youtube|c=UCG0rzBZV_QMP4MtWg6IjhEA|title=連結}}
+|{{twitter|Shu_Yamino|name=連結}}
+|-
+!colspan=5 align="center"|2022/02/22出道（Noctyx）
+|-
+|colspan=5 align="center"|與前一期相反，本期所有成員均設定為來自未來之人
+|-
+|Alban Knox（アルバーン・ノックス）
+|およ
+|來自未來的怪盜<br>由於外套下的衣服緣故得到便利商店店員梗，弟系<br>背景故事在與其他EN男V相比堪稱數一數二的沉重，甚至讓主持直播的Reimu與Ike也不禁動容
+|{{youtube|c=UCQ1zGxHrfEmmW4CPpBx9-qw|title=連結}}
+|{{twitter|alban_knox|name=連結}}
+|-
+|Yugo Asuma（遊間ユーゴ）
+|犬月煙
+|來自未來的天才DJ<br>有著中性嗓音，擁有迷之行動力的音樂勢<br>留外的日本人，以為要入社就得住日本便搬回國<br>背景故事跟Ike有關聯
+|{{youtube|c=UCSc_KzY_9WYAx9LghggjVRA|title=連結}}
+|{{twitter|Yugo_Asuma|name=連結}}
+|-
+|Fulgur Ovid（ファルガー・オーヴィド）
+|LAM
+|來自未來的生化人，實際上是文系オタク<br>愛稱「Fu-chan」，涉獵範圍非常廣的[[腐女|腐男子]]<br>背景故事的演出{{ruby|致敬|惡搞}}了Vox的漫畫風格，甚至中間都有一段非常類似的對話<br>而他跟Vox基本上就是一對雖然整天吵架但關係很好的兄弟（ママ同為LAM的意味）
+|{{youtube|c=UCGhqxhovNfaPBpxfCruy9EA|title=連結}}
+|{{twitter|Fulgur_Ovid|name=連結}}
+|-
+|Sonny Brisko（サニー・ブリスコー）
+|石据カチル
+|來自未來的特殊警察，平常是好青年有時會變身成戰鬥狂<br>日文十分流利，初配信時甚至展現了模仿[[若本規夫]]、[[小山力也]]、[[杉田智和]]等聲優的多變聲線<br>背景故事更利用這一點一人演出了好幾名角色作成Trigger動畫般的科幻風格
+|{{youtube|c=UCuuAb_72QzK0M1USPMEl1yw|title=連結}}
+|{{twitter|sonny_brisko|name=連結}}
+|-
+|Uki Violeta（浮奇・ヴィオレタ）
+|KiKi
+|來自未來的超能力者，有著輕柔的嗓音<br>腐男子之二，跟Fulgur擁有情侶推特布景，經常在連動時賣腐調情
+|{{youtube|c=UChJ5FTsHOu72_5OVx0rvsvQ|title=連結}}
+|{{twitter|uki_violeta|name=連結}}
+|}
+
+== 爭議事件 ==
+=== にじさんじ上海/台北事件 ===
+* 最早「にじさんじ上海/台北」是彩虹母公司いちから與カプセル合作在上海與台北推出的虛擬Liver計畫，並於2018/08/24正式開始活動。
+* 然而上海方卻以被營運方職場剝削與資源分配失衡等理由陸續退出，最終導致いちから與カプセル終止合作。
+* 在合作終止後，雖然カプセル將剩餘的台北方成員改組成VEgo試圖將計畫延續，但最終仍於2020/03/31隨著最後一名成員畢業而徹底終結計畫。
+
+=== 真堂雷斗事件 ===
+* 2019/03/08出道的真堂雷斗，在2019/03/10進行初配信後很快就被5ch起底在推特有嚴重不良發言。
+** {{censored|而且還是'''想對未成年少女下藥迷姦'''此等近乎犯罪行為的發言。}}
+* 最終真堂雷斗於2019/03/12被解除契約收場。
+
+=== 疑似社內霸凌事件 ===
+* 2020/10/19，金魚坂めいろ被社內解除契約。
+* 此時炎上系VTuber<s>裁狗</s>[[鳴神裁]]在此時爆料，宣稱金魚坂是被夢月ロア霸凌才退社，藉此帶風向攻擊夢月ロア，也導致夢月ロア暫停了一切活動。
+* 受此事件影響，夢月ロア找來了律師對鳴神提出訴訟。←いまここ
+
+=== Chae Ara事件 ===
+* 關於從2021年11月起發生在KR組Chae Ara的一系列事件，'''也被認為是導致Chae Ara被解除契約的導火線'''。
+* {{color|red||'''由於此事件的資料來源可靠性仍然存疑，加上編者在翻譯時可能會有理解錯誤的緣故，詳細內容暫且隱藏處理。'''}}
+{{hideh|隱藏內容}}
+* 最早是在2021/10/31有推特用戶指控Chae Ara涉嫌辱罵自己甚至還被其威脅不得提告，最終當事人忍無可忍決定公開此事。
+* 這件事作為導火線燒起來以後，接著又爆出如'''洩漏公司機密'''以及'''霸凌同儕'''等等各種對Chae Ara不利的訊息。
+** {{censored|順便一提<s>裁狗</s>鳴神裁<s>不意外的</s>也有在這次的事件拱火，甚至還把已畢業的Shin Yuya牽連進來。}}
+* 對上述事件的指控，雖然Chae Ara在2021/12/29發推解釋卻對自己涉及的事件含糊其辭。
+* 後來Chae Ara的YouTube頻道會員被撤除，最後在KR組於2022/04/15併入にじさんじ本家時，Chae Ara就從此從にじさんじ消失了，其YouTube頻道的影片也都轉成私人，似乎也暗示了她已經實質被營運方解除了契約…
+{{hidef}}
+
+=== Vox五星旗事件 ===
+* 2022/03/03，Vox預定直播了今晚學中文的直播。
+* 待機圖選用了台灣繪師「Lameir 莫斌」的圖，然而'''在直播的預告圖中背景卻換成了中國國旗五星旗'''。
+* 在引發爭議後雖然五星旗圖馬上就被換掉，不過繪師卻因此險些[[成句/躺著也中槍|躺槍]]。
+
+=== EN DC群事件 ===
+* 2022/03/05，Petra連動的時候不小心跳出了DC群的聊天畫面。
+* 畫面顯示部分EN成員在嘲諷[[Hololive production|隔壁社]]的對話內容。
+* 原本在推特跟EN成員<ref>Selen跟Fulgur除外</ref>有相互追隨的[[Mori Calliope|死神]]則因這件事一度單方面退追，後來疑似有私下和解（？）才又追了回來。
+
+=== Vox狂粉事件 ===
+* 2022/05/29，Vox的角色扮演ASMR直播中，Reimu突然出現在聊天室並問Vox一些遊戲問題。
+* 直播結束後不少Vox狂粉認為Reimu很不尊重Vox粉絲的心情，結果跑去Reimu的Youtube直播間洗版，還對Reimu進行言論攻擊，甚至發威脅信。
+* 之後Vox作出了道歉，也有跟粉絲劃清界線，此事件才稍加平息。
+
+== 相關連結 ==
+* [[虛擬YouTuber]]
+* [https://www.nijisanji.jp/ 官方網站]
+* {{twitter|nijisanji_app|name=官方Twitter}}
+* {{youtube|c=UCX7YkU9nEeaoZbkVLVajcMg|title=官方YouTube頻道}}
+* [https://wikiwiki.jp/nijisanji/ 非公式wiki]
+
+{{虛擬YouTuber}}
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+
+[[分類:虛擬YouTuber]]
+[[分類:網路文化]]
+[[分類:にじさんじ|*]]

@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>史帝芬·宇宙 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"史帝芬·宇宙","wgTitle":"史帝芬·宇宙","wgCurRevisionId":350558,"wgRevisionId":350558,"wgArticleId":35005,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"史帝芬·宇宙","wgRelevantArticleId":35005,"wgRequestId":"42aaf86f1c3f5a2456964aa2","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-史帝芬·宇宙 rootpage-史帝芬·宇宙 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">史帝芬·宇宙</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;"> Steven Quartz <span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Cutie Pie Demayo Diamond</span> Universe（史帝芬·石英·宇宙）/小捲毛（尤捲毛）<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>/<s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Stevenzilla</span></s></div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td>本條目含有大量劇透，如沒看過原作又不想<b>被迫處理<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">自己老媽</span>數不完的爛攤子後，陷入自我存在危機<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">並崩潰變成怪獸</span></b>的話請不要隨意反白。
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>由<a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">Cartoon Network Studios</a>製作的動畫《<a href="/%E7%A5%9E%E8%87%8D%E5%B0%8F%E6%8D%B2%E6%AF%9B" title="神臍小捲毛">神臍小捲毛</a>》及其衍生作品的主角
+<ul><li>宇宙寶衛隊的一員</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">鑽石政權第三紀元的新一代粉鑽</span></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">粉鑽受害者互助會創辦人兼天字第一號受害者</span></s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">未來篇的最終BOSS</span></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="個人資料"></span><span class="mw-headline" id=".E5.80.8B.E4.BA.BA.E8.B3.87.E6.96.99">個人資料</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=2" title="編輯章節：個人資料" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/%E6%AA%94%E6%A1%88:Steven.png" class="image"><noscript><img alt="" src="/images/thumb/7/72/Steven.png/250px-Steven.png" width="250" height="248" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 248px;" data-src="/images/thumb/7/72/Steven.png/250px-Steven.png" data-alt="" data-width="250" data-height="248" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Steven.png" class="internal" title="放大"></a></div>玫瑰水晶的繼承者(第一至五季的形象)<br><s>完全不像是14歲的青少年</s></div></div></div>
+<ul><li>全名：<b>Steven Quartz Universe（史帝芬•石英•宇宙）</b>
+<ul><li>臺譯：<b>小捲毛（尤捲毛）</b></li></ul></li>
+<li>由母親玫瑰水晶（Rose Quartz）和父親葛瑞格•宇宙（Greg Universe）生下的寶石人混血兒</li>
+<li>本作的主角，13歲（身體年齡在8歲左右）
+<ul><li>S2E23後為14歲</li>
+<li>官方遊戲Unleash The Light中為15歲</li>
+<li>劇場版和未來篇時為16歲
+<ul><li><s>為了配合心理年齡和聲優，</s>身型在這兩年間明顯快速成長</li></ul></li></ul></li>
+<li>劇中目前唯一的男性半寶石人，為玫瑰水晶的兒子</li>
+<li>寶石為繼承自母親的玫瑰水晶<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">粉鑽</span>，鑲嵌在肚臍的位置。</li>
+<li>原型是主創Rebecca Sugar的弟弟Steven Sugar。<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li></ul><h3 class="in-block"><span id="聲優"></span><span class="mw-headline" id=".E8.81.B2.E5.84.AA">聲優</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=3" title="編輯章節：聲優" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>Zach Callison（美國原版）
+<ul><li>Daniel DiVenere（MultiVersus）</li></ul></li>
+<li>穆宣名（台灣配音版本）<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li>陳振聲（香港配音版本）</li>
+<li>林勇（日文配音版本）</li></ul><h3 class="in-block"><span id="性格及形象"></span><span class="mw-headline" id=".E6.80.A7.E6.A0.BC.E5.8F.8A.E5.BD.A2.E8.B1.A1">性格及形象</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=4" title="編輯章節：性格及形象" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="center"><div class="floatnone"><a href="/%E6%AA%94%E6%A1%88:Stevendesign.jpg" class="image"><noscript><img alt="Stevendesign.jpg" src="/images/thumb/c/c5/Stevendesign.jpg/800px-Stevendesign.jpg" width="800" height="218"></noscript><span class="lazy-image-placeholder" style="width: 800px;height: 218px;" data-src="/images/thumb/c/c5/Stevendesign.jpg/800px-Stevendesign.jpg" data-alt="Stevendesign.jpg" data-width="800" data-height="218"> </span></a></div></div>
+<ul><li>形象為穿著夾腳拖，體型矮胖的正太，在寶石神殿改建後搬到那和寶衛隊同居
+<ul><li>劇場版和未來篇時長大成青少年<s>並多出了脖子</s>，穿上了粉紅色夾克，上衣顏色也換了
+<ul><li><a rel="nofollow" class="external text" href="https://wiki.komica.org/%E6%AA%94%E6%A1%88:%E5%8F%B2%E5%B8%9D%E8%8A%AC%E7%9A%84%E7%97%85%E6%AD%B7%E8%A1%A8.jpg">根據馬赫許華倫醫師的檢查</a>，史帝芬在未來篇的身高為167公分，體重為65.77公斤，換算成BMI值為23.4<s>，和胖子外表完全不符</s></li>
+<li><s>因此可推測一到五季時史帝芬的身高可能連120公分都沒有</s>
+<ul><li><s>還有人藉此得出了SU世界觀的人物平均身高很高的論點</s><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li></ul></li>
+<li><s>根據粉絲估計，其能力強度與脖子長度成正比<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，特別是變成怪獸後。</span></s></li></ul></li></ul></li>
+<li>個性善良寬容，多愁善感，喜歡感情豐富的事物
+<ul><li>開心的時候眼中會出現星星</li>
+<li><s>愛哭鬼，幾乎每一集都在哭</s></li>
+<li>經常<b>主動</b>幫助身邊的的朋友解決他們的問題。</li>
+<li>其實很害怕自己只能活在玫瑰水晶的陰影下，因此想讓自己成長為能夠擔下重責大任，不負大家期望的寶衛隊一員。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">很害怕自己變得沒用不被需要，從正式參與寶衛隊的行動後便開始有意無意隱藏自己的情緒，到未來篇時這個狀態變得更嚴重</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第五季末被白鑽點出他<b>總是享受被次等人圍繞的感覺</b>（因為自己感覺被需要）。在未來篇更被鐵石英直指「<b>沒有人比你更可悲</b>（總是需要他人）」</span></li></ul></li>
+<li>未來篇時個性開始變得沒有以往那麼寬容<s>顏藝也開始變多</s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">開始出現了PTSD，在被提及母親狀況的時候更表現出明顯的抗拒，並表現出了強烈的控制欲，非常害怕自己沒有目標和依靠</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後期這些情緒甚至惡化成<b>自我厭惡</b>，對自己的身分開始產生了否定，最後導致他徹底失控……</span></li></ul></li></ul></li>
+<li>喜歡吃甜甜圈和披薩，會向薯條店買炸剩的薯渣來吃
+<ul><li>在未來篇開始減肥改吃素了，<s>但才堅持不到幾集就破功了</s></li></ul></li></ul><h3 class="in-block"><span id="能力"></span><span class="mw-headline" id=".E8.83.BD.E5.8A.9B">能力</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=5" title="編輯章節：能力" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>武器為繼承自母親的盾牌<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><ul><li>除了防禦也可以作為投擲武器</li>
+<li>未來篇後期改為召喚六角形護盾，可以直接發射攻擊，也可以集合成長滿尖刺的高牆再進行突進攻擊</li></ul></li>
+<li>有一個滿是粉紅色雲海的房間，可以在那裡召喚出自己想要的東西<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>雖然表面上看不出來，但力氣相當大
+<ul><li>因為是半寶石人的緣故身體相當強健，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">就算受到足以骨折的重傷也會瞬間癒合</span></li>
+<li>本人的身體年齡和體型外表會隨著其<b>心境</b>而變化</li></ul></li>
+<li>除了許多寶石人都能做到的將身體變形<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>和製造泡泡外還有著多種技能</li>
+<li>初期效果會隨著心情起伏，後期熟練後能夠自由運用：
+<ul><li>製造防護泡泡（可以額外長出尖刺）<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><ul><li>劇場版內出現了作為拳套使用的方式</li></ul></li>
+<li>在粉紅獅<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">和復活後的拉爾斯</span>的毛髮內存放東西</li>
+<li>治癒唾液
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">未來篇中其眼淚也開始有了同樣效果</span></li></ul></li>
+<li>漂浮</li>
+<li>給予植物自我意識<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在睡眠/昏迷期間和他人進行意識交流，甚至能附身在他人身上</span><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">復活眼淚，被復活的生物會變成粉紅色並長生不老，並能透過其毛髮來進入空間來收納東西</span><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li><s>由此可見如果有<a href="/%E6%9B%BF%E8%BA%AB_(JoJo)" class="mw-redirect" title="替身 (JoJo)">替身</a>的話應該是<a href="/%E6%9D%B1%E6%96%B9%E4%BB%97%E5%8A%A9" title="東方仗助">瘋狂鑽石</a>或<a href="/%E5%96%AC%E9%AD%AF%E8%AB%BE%E2%80%A7%E5%96%AC%E5%B7%B4%E6%8B%BF" title="喬魯諾‧喬巴拿">黃金體驗</a>那種類型的</s></li>
+<li>未來篇時在情緒激動時自身會粉紅化，戰鬥力、防禦力、變形能力和速度會大幅提升
+<ul><li>其速度提升速率的效果就有如時間暫停一般</li>
+<li>同時有了把自己潛意識轉錄到附近的電視和錄影帶上的能力，甚至還能發送出去</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">變成寶石怪物時能夠發出足以震裂地表的怒吼，使用這個能力時身上的角和瞳孔會發光</span></li></ul></li>
+<li>因為父親的耳濡目染，也擅長唱歌和彈奏吉他</li></ul><h3 class="in-block"><span id="經歷"></span><span class="mw-headline" id=".E7.B6.93.E6.AD.B7">經歷</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=6" title="編輯章節：經歷" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>在自己的寶石力量初次覺醒後，以負責輔助與防禦的工作加入寶衛隊的活動。
+<ul><li>過程中經歷了許多與寶石怪獸和敵對寶石人的戰鬥，逐漸成長為拯救宇宙的英雄。</li>
+<li>其冒險歷程和其他寶石人的互動詳見主條目的角色項目。</li></ul></li></ul><h4 class="in-block"><span id="第一季至第五季"></span><span class="mw-headline" id=".E7.AC.AC.E4.B8.80.E5.AD.A3.E8.87.B3.E7.AC.AC.E4.BA.94.E5.AD.A3">第一季至第五季</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=7" title="編輯章節：第一季至第五季" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事前期因為經常搞出各種事故而被視為死小孩，後來隨著其心智成長而逐漸排毒</li>
+<li>前期被寶衛隊當成小小孩看待
+<ul><li>剛出生幾個月就差點被寶衛隊拐帶走；石榴石以為他和玫瑰水晶融合，紫水晶以為他是玫瑰水晶變形而成，而珍珠差一點就要把他的寶石拔出來。但最後還是被葛瑞格帶回去養育。</li>
+<li>一度因為被當小孩太久而向寶衛隊提出接受考驗的要求，但後來發現那些考驗全都是放水題，正準備要對寶衛隊發飆時意外得知她們的用心良苦，而默默地接受好意</li>
+<li>在S01E13時因為情緒因素而使自己無法控制肉體年齡並老去，直到發現自己身體年齡會隨著自己的感受而變化，在寶衛隊的幫助下還原</li>
+<li>S02E23透露其身體年齡停滯在8歲左右，<s>為了不在康妮選上總統後自己只能當第一合法正太</s>，在生日當天試圖用變形能力令自己長大成青少年，結果因為變形過久外加過於緊張導致<b>身體退化回嬰兒時期</b>
+<ul><li>一夜過後<s>退化成受精卵</s>回復正常，並發現自己長出了鬍子</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在經歷一連串危及地球存亡的危機後，心智有明顯成長</span>，後來在劇場版時終於成功長大<s>還多出了脖子</s></li>
+<li>目前半寶石人具體壽命有多長，是否和寶石人一樣能夠不老不死皆為不明<s>有可能會出現壽命論，請做好心理準備</s></li>
+<li><s>原版的CV表示凍了這麼久終於可以用自己的本音說話了，但台配CV到劇場版還是沒換還沿用到未來篇，真是辛苦聲優了</s></li></ul></li></ul><ul><li>在經歷第一季末的事件後，對自己生活中的寶石人的存在看法開始產生了改變。</li></ul><ul><li>在劇情中發現寶石怪物的正體後<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>，決定找出拯救他們的辦法
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">曾一度試圖使用其治癒能力試圖讓其中一名寶石人復原，但效果並不持久，同時得知了寶石怪物之所以會被腐化的原因</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在得知自己的真實身世後，決定試圖說服鑽石們幫助她復原寶石怪物</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">"Reunited"中用其意識交流能力告訴黃藍兩鑽自己就是粉鑽的兒子，其後以粉鑽身分和寶衛隊與黃藍兩鑽一同前往家園星試圖說服白鑽</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為在舞會上與康妮融合而被勃然大怒的鑽石們關禁閉，期間用其附身能力到地球，附身到西瓜史帝芬身上去找鉍彩晶等人求援</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後用理說服黃藍兩人後，與寶衛隊和援軍們一同對抗白鑽</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在說服所有鑽石後，帶著她們來到地球一起治癒寶石怪物們</span></li></ul></li></ul><ul><li>隨著劇情的一步步發展，逐漸發現自己的母親並不是他人口中的"聖母"......
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在發現其母親的過去（打碎粉鑽，把想採取過激行動的鉍彩晶封印，拋下寶衛隊和葛瑞格生下他而離去等事件）後，其母親在心中的完美形象逐漸崩塌</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">更曾在自己的房間中對著自己的母親幻影大吼，懷疑起自己只是個收爛攤子的工具人</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了得知自己的宿命而帶著粉紅獅吐出來的鑰匙前往沙漠，結果只找到<s>位在女性大腿間</s><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>其母親的垃圾場</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在第四季末為了保護朋友不被抓走，自願以玫瑰水晶的名義被帶往母星接受審判；結果不但沒能解決問題，還發現了更多關於母親和粉鑽的疑點</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">發現玫瑰水晶就是粉鑽的真相及本性後，對母親的評價進一步跌落</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而自己的夢中開始出現粉鑽的記憶，其對於自己的認知也開始混亂</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在第五季最終回《Change Your MInd》中被白鑽取出其寶石，但在其後其寶石形成的是<b>面無表情的粉紅史帝芬</b>，並展現了完全抵擋白鑽全力攻擊，AT力場等級的防禦力</span></li>
+<li><b><a rel="nofollow" class="external text" href="https://youtu.be/qhsxqTJz23E">SHE'S GONE!!!</a></b></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後在體認到"<b>我一直都是我</b>"的事實後，和粉紅史帝芬合體並喜極而泣</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在劇場版聽聞尖晶石的過去後直接眼神死表示「像極了我媽會幹出來的事」</span></li></ul></li></ul><h4 class="in-block"><span id="劇場版"></span><span class="mw-headline" id=".E5.8A.87.E5.A0.B4.E7.89.88">劇場版</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=8" title="編輯章節：劇場版" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/%E6%AA%94%E6%A1%88:Steven_Universe_(Modelsheet_Movie)_by_RylerGamerDBS.png" class="image"><noscript><img alt="" src="/images/thumb/f/f5/Steven_Universe_%28Modelsheet_Movie%29_by_RylerGamerDBS.png/200px-Steven_Universe_%28Modelsheet_Movie%29_by_RylerGamerDBS.png" width="200" height="312" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 312px;" data-src="/images/thumb/f/f5/Steven_Universe_%28Modelsheet_Movie%29_by_RylerGamerDBS.png/200px-Steven_Universe_%28Modelsheet_Movie%29_by_RylerGamerDBS.png" data-alt="" data-width="200" data-height="312" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Steven_Universe_(Modelsheet_Movie)_by_RylerGamerDBS.png" class="internal" title="放大"></a></div>名揚銀河的耀眼寶石(劇場版形象)<br><s>差別是聲音變熟和脖子</s></div></div></div>
+<ul><li>在第五季結局的兩年後，與寶衛隊等人過著快樂的生活，<a href="/%E6%AD%BB%E4%BA%A1%E3%83%95%E3%83%A9%E3%82%B0" title="死亡フラグ">並希望這樣的快樂生活能持續下去</a>
+<ul><li>但就在這時，一個不速之客帶著一個巨大的裝置<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>來到了沙灘鎮</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">該人將裝置插進了地底下，並把寶衛隊等人打得難以還手，隨後使用一把發著光的鐮刀打爆了初期寶衛隊三人</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">史帝芬也遭到她的攻擊，在一番纏鬥後將她打爆後試圖用泡泡封印她，卻發現自己的能力變得虛弱並不穩定</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">隨後發現重新成形的寶衛隊全都失去以往的記憶，並得知那個不速之客的名字是尖晶石</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來在鉍彩晶的解說下得知了鐮刀的作用<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>，決定要復原寶衛隊和尖晶石的記憶，以拯救地球</span></li></ul></li></ul><ul><li>劇場版中被失憶的尖晶石糾纏，但他並不領情<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">並似乎因其行為而感到煩躁</span>，而是把心思放在要怎麼恢復寶衛隊的記憶和挽救殘局上。
+<ul><li>在他說要暫時離開尖晶石的時候，後者表現出極度的不滿</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在復原紫水晶的記憶後，為了喚醒珍珠的記憶以便套出情報，和眾人來到了演唱會兼避難所現場</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在演唱會中和自己的父親合體<s>父子丼</s>，變成第一位完全男性性徵的合體寶石人史帝格（Steg），用其歌聲及行動回復了珍珠的記憶</span></li>
+<li>但尖晶石在演唱會中被激起創傷，逃到了寶石神廟的傳送點</li>
+<li>事後尖晶石帶著他來到花園，告知其來龍去脈後回復記憶，並同意幫助他拯救地球</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但就在阻止注射器毀滅地球後，尖晶石被史帝芬的一時失言再次激起創傷</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而後發現史帝芬手上帶著重置鐮刀，誤以為他打算背刺她而再度反目</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">尖晶石試圖對失憶的石榴石動手，結果石榴石因為史帝芬在解釋時的一句「<b>因為這不是真相</b>」而恢復記憶，導致她被寶衛隊打倒，其後逃到注射器頂部</span></li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在劇場版恢復其力量的契機是「改變的力量」</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了說服尖晶石，獨自一人爬到了注射器頂端，此時他的精神狀況已經遊走在崩潰邊緣</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但卻被尖晶石抓住並被打出鼻血，並將他抓到高空中想讓他摔死</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這時他崩潰的大喊「<b>為什麼自己受了這麼多罪，力量卻遲遲無法回復?</b>」，而尖晶石在即將放手前嘲笑他「<b>像你這種廢物是如何成為銀河系的救世主的？</b>」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果在摔下去前一刻，他發現自己之所以能有現在的幸福快樂生活，是因為自己有著進步、<b>改變的力量</b>，而導致力量回復</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">憤怒的尖晶石見狀並展開攻勢，結果完全無法對拼命勸說，<b>希望她自己改變</b>的史帝芬造成傷害</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>受不了其歌聲攻勢</s>，尖晶石用其全力對他揮出巨大的一拳，破壞了位於地表的注射器，並導致其爆炸</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後尖晶石終於體悟到自己只不過是在自我傷害，和犯下的錯誤後被成功說得，並被他從爆炸中救出</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">事後史帝芬領悟了世界上沒有永遠的幸福快樂，永遠有事情在等著他；並<s>為了擺脫這兩個大麻煩</s>將尖晶石介紹給鑽石們收養</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">至於殘留的毒素？在治癒唾液面前毒素完全不算甚麼，<s>不過至於他親了多久嘛......</s></span></li></ul></li></ul><h4 class="in-block"><span id="未來篇"></span><span class="mw-headline" id=".E6.9C.AA.E4.BE.86.E7.AF.87">未來篇</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=9" title="編輯章節：未來篇" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/%E6%AA%94%E6%A1%88:StevenTeen.png" class="image"><noscript><img alt="" src="/images/thumb/8/81/StevenTeen.png/250px-StevenTeen.png" width="250" height="271" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 271px;" data-src="/images/thumb/8/81/StevenTeen.png/250px-StevenTeen.png" data-alt="" data-width="250" data-height="271" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:StevenTeen.png" class="internal" title="放大"></a></div>對未來無所適從的少年(未來篇形象)<br><s>被粉絲認證需要心理治療</s></div></div></div>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">表面上</span>是個歷經許多磨練，擺脫偉大母親陰影的好孩子；在小家園星開設學校，幫忙所有被治癒的寶石人適應在地球上的新生活
+<ul><li>然而第二集卻讓其他寶石人去做不適合他們的工作，差點釀成無力回天的大禍<s>為甚麼要在這種時候出包阿</s></li>
+<li>紫水晶得知他對於鐵石英的擔心後，指出他<b>應該停止試著補償每個人</b></li></ul></li>
+<li>在第一話被不願接受他幫助，隱居中的鐵石英挑釁，氣得提出對戰。
+<ul><li>在對戰過程發現了自己在情緒激動時會全身粉紅化，並且戰鬥能力會大幅提高</li></ul></li>
+<li>改變了飲食習慣和舉止<s>寶衛隊表示很不開心</s>
+<ul><li>在未來篇第七集《Snow Day》中，被寶衛隊拿著他以前喜歡的東西糾纏<s>，並被迫玩了場史上最大的鬼抓人</s>
+<ul><li>後來向她們坦白自己已經不是以前那個天真的孩子，希望她們能接受這個事實。</li></ul></li></ul></li>
+<li>在小家園星的第一屆畢業典禮後<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為差點鬧出人命而</span>辭職，並開始對園藝種植產生興趣。
+<ul><li>還拿自己朋友的名字給植物取名<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">你是有多希望把朋友綁在身邊啊by觀眾。</span></li>
+<li>結果無意間搞出了仙人掌史帝芬，前者一度成為史帝芬傾訴心事的對象。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但事後仙人掌史帝芬的狀態越來越怪異，開始模仿他的言行，並暴走成怪獸並攻擊史帝芬</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後史帝芬利用模仿這點，向仙人掌釋出關懷而成功安撫它。不過仙人掌卻在事後直接離開，並把身上的一朵花摘下送給史帝芬</span><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li></ul></li>
+<li>在未來篇第12集《Bismuth Casual》中決定要帶自己的朋友去溜冰場
+<ul><li>結果不但發現自己不會溜冰，自己更和其他人類的生活徹底脫節，在康妮的朋友問起自己經驗和就學狀態時完全答不出所以然。不過在康妮的幫助下解圍了。</li></ul></li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>以下大捏</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在收拾一連串母親留下的爛攤子後，對她留下事件的態度已經變為<b>不願想起的心理創傷</b>，在遇到粉珍珠的狀況和正牌玫瑰水晶時的態度也是各種尷尬。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">開始壓抑自己負面的情緒，並出現了過勞的傾向，臉色也越來越差<s>讓許多老觀眾因為不適應而崩潰</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在得知粉珍珠的傷痕起因<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>後更直接崩潰大罵</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">史帝芬：<b>我再也忍受不了她留下的爛事好嘛！？我不想去思考也不想去聽，我只想修正它！</b></span></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同時開始對自己的未來感到迷惘，害怕自己只能原地踏步</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為害怕自己的朋友變得不再熟悉離他而去，一時激動在小家園星的畢業典禮上，造出會收縮的圓頂把朋友困在其中；差點就把大家給擠死。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來更不斷做起內容詭異的惡夢；數次夢到自己被自己的家隔離在外，更被夢中的巨大酷奇貓指出：「<b>既然你的朋友不需要你的幫助，那為什麼你還在這？</b>」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了挽留要去外地讀大學的康妮，而在紅藍寶石兩人的支持下決定要向康妮求婚，<b>並決定要就此融合以史帝芬妮的狀態活下去</b></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為此特地買了一堆和他們兩人回憶相關的求婚用物品，並把螢光圈拿來當作求婚手環<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>；再把康妮約出來向她求婚，結果康妮在驚訝之後暫時婉拒了，並告訴他現在還不是時候。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然後史帝芬就在目送康妮離開後倒地不起，在倒地不起的同時能力再次失控，把沙灘壓出一個大坑。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">求婚失敗後過了渾渾噩噩的一夜，在打開冰箱要拿東西吃時看到初次見到康妮時手上拿的螢光圈，結果史帝芬的情緒和能力再次失控導致<b>身體不斷變形</b>。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">隨後被知情的康妮拖去醫院看醫生，並接受一連串的檢查；之後史帝芬被負責治療的康妮媽媽點出自己現在的狀態會如此失控，<b>是因為這幾年來的各種災難下造成的心理陰影導致的</b><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">當康妮媽媽問起最近有沒有任何糟糕經歷引發他的PTSD時，史帝芬想到了昨天求婚失敗的過程，結果<s>玻璃心碎</s>情緒再次暴走導致自己不斷漲大，直到葛瑞格接到康妮的電話趕來安慰他，才使史帝芬的情緒緩和下來。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在看完醫生的幾天後，被葛瑞格帶出去旅行以散散心，在旅途過程中知道了葛瑞格的過去。<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果史帝芬<s>再次玻璃心碎</s>氣到發飆，甚至大罵自己為甚麼要在這種環境下長大，甚至表現出了對自己身分厭惡的傾向；最後失控出了車禍，不幸中的大幸是沒有人受傷。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">車禍事件後因為受不了寶衛隊的質問<a href="/%E4%B8%96%E7%95%8C" title="世界">導致能力再次發作</a>，在能力爆發的同時衝去森林找鐵石英求助，並要求她訓練自己以控制能力。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在鐵石英的訓練下短短三天內就被訓練得和她差不多強壯<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>，隨後兩人的對戰再次開打。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在對戰中史帝芬不僅佔盡上風，沉浸在戰鬥的快感；甚至還露出可怕的笑容，瞳孔變成了和<b>鑽石</b>相同的形狀。</span></li></ul></li></ul></li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:352px;"><a href="/%E6%AA%94%E6%A1%88:20200321075616.jpg" class="image"><noscript><img alt="" src="/images/thumb/a/a1/20200321075616.jpg/350px-20200321075616.jpg" width="350" height="594" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 350px;height: 594px;" data-src="/images/thumb/a/a1/20200321075616.jpg/350px-20200321075616.jpg" data-alt="" data-width="350" data-height="594" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:20200321075616.jpg" class="internal" title="放大"></a></div><b>「妳說得對，鐵石英。我一直都在抑制。」</b><br><s>珍珠：<b>THAT'S NOT MY BABY!!</b></s></div></div></div></div>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果最後鐵石英被史帝芬的<s>無限刺盾製</s>全力攻擊給<b>粉碎本體寶石而死</b>。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">發現自己犯下大錯的史帝芬，<s>在變回小胖子的同時</s>帶著鐵石英的碎片衝回寶石神廟。用盡自己全力和備用的鑽石萃取液才救活她。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被復活的鐵石英承認了史帝芬的能力，並稱呼他為「<b>我的鑽石</b>」，卻沒有注意到史帝芬的驚恐表情。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在未來篇第17集《Homeworld Bound》裡，發現自己再也無法求助他人的史帝芬，在把寶衛隊擋在門外的狀況下搭上了寶石神廟內的銀河傳送點......</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">史帝芬到了母星並請求鑽石們的幫助，但連續請教黃鑽和藍鑽<s>並吸了她的鑽石大麻</s>後都起不了作用</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來嘗試用白鑽的新能力與白鑽同步，但卻因為想起過去的心靈創傷而讓情況變得更糟</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在同步時，史帝芬意會到自己的身分並開始把自己的問題遷怒到鑽石上，同時想起了第五季末時發生的事。<b>此時史帝芬發現這時的白鑽完全由他擺佈，完全無法對他產生威脅；這時史帝芬開始萌生對白鑽的殺意。</b></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在幻覺中，巨大的史帝芬操縱著嬌小的粉化白鑽走向柱子，<b>意圖要讓她撞向柱子粉碎自己的寶石</b>。</span></li></ul></li></ul></li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:352px;"><a href="/%E6%AA%94%E6%A1%88:%E8%87%AA%E6%88%91%E5%82%B7%E5%AE%B3%EF%BC%88%EF%BC%9F%EF%BC%89.png" class="image"><noscript><img alt="" src="/images/thumb/6/65/%E8%87%AA%E6%88%91%E5%82%B7%E5%AE%B3%EF%BC%88%EF%BC%9F%EF%BC%89.png/350px-%E8%87%AA%E6%88%91%E5%82%B7%E5%AE%B3%EF%BC%88%EF%BC%9F%EF%BC%89.png" width="350" height="247" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 350px;height: 247px;" data-src="/images/thumb/6/65/%E8%87%AA%E6%88%91%E5%82%B7%E5%AE%B3%EF%BC%88%EF%BC%9F%EF%BC%89.png/350px-%E8%87%AA%E6%88%91%E5%82%B7%E5%AE%B3%EF%BC%88%EF%BC%9F%EF%BC%89.png" data-alt="" data-width="350" data-height="247" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:%E8%87%AA%E6%88%91%E5%82%B7%E5%AE%B3%EF%BC%88%EF%BC%9F%EF%BC%89.png" class="internal" title="放大"></a></div>「拜託，別這樣做！我不喜歡這樣！」<br><b>「這是報復妳對我做的一切！」</b></div></div></div></div>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但最後真正撞向柱子的只有他自己，而白鑽此時嚇得倒在房間中央，口中喃喃得問：「<b>那到底是什麼？</b>」</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後請求尖晶石幫助<s>並被她翻唱自己的歌婊過一次後</s>，發現鑽石們也幫不了自己，再次拋下她們使用傳送座離開</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">回到家後發現自己不但一直維持在粉紅狀態，身材漲大的同時瞳孔更變成了鑽石形狀</span><div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/%E6%AA%94%E6%A1%88:Wormyboi.png" class="image"><noscript><img alt="" src="/images/thumb/f/f5/Wormyboi.png/250px-Wormyboi.png" width="250" height="277" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 277px;" data-src="/images/thumb/f/f5/Wormyboi.png/250px-Wormyboi.png" data-alt="" data-width="250" data-height="277" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Wormyboi.png" class="internal" title="放大"></a></div>牠的眼中訴說著恐懼<br><s>突破天際的超長脖子<br>其實是史帝芬的獸設（大誤）</s></div></div></div>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了試圖挽回自己的信心衝去小家園星幫忙，結果自己的能力開始不斷暴走。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在能力暴走<s>並幾乎拆了整個小家園星</s>後回到了家中，卻發現寶衛隊等人、康妮和葛瑞格正在等著他</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">康妮的手機收到了奇怪的視訊：影片中史帝芬一直復讀著：「STEVEN IS HERE TO HELP!-STEVEN HELP-HELP STEVEN-」，使她非常擔心而趕來。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在眾人的盤問下史帝芬開始精神錯亂，一言一行中爆出自己的壓力和最近搞出的麻煩，最後……</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">史帝芬：我知道你們認為我很好很成熟知道該怎麼做，但那些都不是真的！我根本沒有從我的問題學習到任何東西，那只讓我變得更糟！你們都把我當成什麼小天使，但我已經不是那個孩子了！......<b>我是騙子，我是個大騙子，我是個怪物！</b>（背上爆出無數的尖刺）</span></li></ul></li>
+<li><s>終於變成寶石怪物了，理論家你們高興了吧！</s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">變成寶石怪物後，表現出的情緒比起憤怒更像是無助與恐懼。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後怪獸史帝芬被眾人用愛給予了一個巨大的擁抱，在大家的全力關懷下使牠感動得流下了無數淚水，終於復原成原來的樣貌。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">就目前所見是唯一一位被治癒後沒有留下腐化痕跡的半寶石人。<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在從怪獸狀態復原數月（及心理治療）後，史帝芬決定離鄉背井去尋找自己的目標。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最終回結尾史帝芬分送完自己的東西後，與寶衛隊道別開著車駛離沙灘鎮，並打算在美國各處四處旅行，直到找到能安頓下來的地方為止。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為此還特地製作了手製的酷奇貓冰淇淋餅乾給寶衛隊等人。藉此間接與寶衛隊等人告知自己要搬出去的事實。</span></li></ul></li>
+<li>To be continue...?</li></ul></td></tr></tbody></table><h3 class="in-block"><span id="人際關係"></span><span class="mw-headline" id=".E4.BA.BA.E9.9A.9B.E9.97.9C.E4.BF.82">人際關係</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=10" title="編輯章節：人際關係" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>玫瑰水晶<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">粉鑽</span>
+<ul><li>原本和寶衛隊一樣將其當成偉大的聖母，但是......</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">隨著劇情的一步步發展，已經變成試圖向她劃清介線甚至<b>唾棄</b>的態度，在未來篇時把掛在寶石神廟內的母親畫像收到粉紅獅的鬃毛內（換句話說就是<b>眼不見為淨</b>）</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">諷刺的是史帝芬自己的狀態和性格反而走向回頭路。不僅越來越糟（粉鑽是越來越好），還變得越來越像以前的<s>屁孩</s>粉鑽。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">直到結局時史帝芬對自己及粉鑽的關係是否釋懷依舊不明。</span></li></ul></li></ul><ul><li>宇宙寶衛隊等人
+<ul><li>和石榴石、紫水晶、珍珠等人可說是母子兼朋友一般的關係</li>
+<li>同時也對橄欖石和青金石伸出援手，以致她們加入寶衛隊</li></ul></li></ul><ul><li>葛瑞格·宇宙
+<ul><li>父子之間的關係相當不錯，經常到父親那協助洗車場工作</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果未來篇史帝芬知道葛瑞格的過去之後直接翻臉了，兩人的關係也產生了裂痕。但就結局來看最後應該還是和解了……</span></li></ul></li></ul><ul><li>康妮·馬赫許華倫
+<ul><li>兩人之間是朋友關係</li>
+<li>是史帝芬的仰慕對象<s>兼未來老婆</s></li>
+<li>原本是個近視，但在意外之下被史蒂芬的口水治好
+<ul><li>在第二季開始加入寶衛隊的活動，學習了一身高強的劍術</li></ul></li>
+<li>能夠和他合體成史帝芬妮(Stevonnie)<s>性別是they</s></li></ul></li></ul><ul><li>沙灘鎮的居民
+<ul><li>常常幫助他們解決問題<s>至於結果就......</s></li>
+<li>經常到那的披薩店、薯條店和甜甜圈店買東西吃</li>
+<li>和那裏的兩任市長都有相當來往</li>
+<li>和當地的青少年的關係很好，還玩過樂團</li></ul></li></ul><ul><li>鑽石政權
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第五季時為了說服所有鑽石來治癒被腐化的寶石怪物，以粉鑽身分和眾人及黃藍鑽一同前往家園星</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在經歷轟轟烈烈的大戰後，成功說服鑽石們，並廢除其獨裁統治</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但就算這樣，和鑽石們的關係還是相當微妙<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>，劇場版開頭結束登基典禮後還被三鑽纏著不放</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">未來篇時史帝芬試圖找她們尋求協助，但卻以失敗收場</span></li></ul></li></ul><ul><li>尖晶石
+<ul><li>劇場版中和史帝芬敵對的寶石人，詳細情況請見劇場版經歷和主條目</li>
+<li><s>明明雙方沒啥愛情接點，卻被粉絲送作堆，相關同人不是甜到掉渣就是各種SM</s></li></ul></li></ul><ul><li><s><a href="/%E5%BE%BD%E7%AB%A0%E6%88%B0%E5%A3%AB%E4%B8%80%E8%A6%BD-%E7%B5%82%E9%A0%AD%E7%9B%AE%E6%A9%9F" title="徽章戰士一覽-終頭目機">哈德妮絲汀</a></s>
+<ul><li>荒曲緒的寶石型徽章戰士</li></ul></li></ul><ul><li><s><a href="/%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B" title="寶石之國">寶石之國</a>的<a href="/%E7%A3%B7%E8%91%89%E7%9F%B3_(%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B)" title="磷葉石 (寶石之國)">磷葉石</a></s>
+<ul><li>同樣都是以寶石為題材，同樣在相近時間點推出的作品，同樣都是樂於助人的天真主角，但是兩人的境遇卻是完全相反</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在史帝芬不斷克服萬難並成長的同時，隔壁棚的磷葉石不斷行動<s>作死</s>卻一次又一次被打臉</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">當史帝芬成功以和平手段化解鑽石政權的危機並拯救尖晶石時，磷葉石卻已經徹底瘋掉並叫囂要把寶石人磨碎，同樣身為主角但待遇卻天差地遠</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但是未來篇的史帝芬開始出現了嚴重的心理問題，不只和家人產生裂痕，能力更開始失控</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果最後兩個人都壞掉了，但史帝芬沒多久就被救回來了，<s>而小磷大概會往「<b>超越人類</b>」的路一去不回頭......</s></span></li></ul></li></ul><ul><li><s><a href="/%E6%9D%B1%E6%96%B9%E4%BB%97%E5%8A%A9" title="東方仗助">東方仗助</a></s>
+<ul><li>因為能力相似而被某些觀眾拿來比較。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a rel="nofollow" class="external text" href="https://wiki.komica.org/%E6%AA%94%E6%A1%88:%E5%B3%B6%E6%B0%91%E7%9A%84%E9%A0%90%E8%A8%80.png">然後就有島民藉此推出了玫瑰水晶的真實身分……</a></span></li></ul></li></ul><ul><li><s><a href="/Undertale%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD" title="Undertale角色一覽">Sans</a></s>
+<ul><li>因為體型相近而有了「Sans=掛掉的史帝芬」相關惡搞</li>
+<li><s><b>SANS</b>=<b>S</b>teven <b>A</b>fter <b>N</b>ot <b>S</b>urviving</s></li></ul></li></ul><ul><li><s>心理治療</s>
+<ul><li><s>崩潰</s>粉絲對未來篇史帝芬狀態的評價</li>
+<li><s>因為未來篇劇情越來越致鬱（詳見黑幕部分）而產生的新配對，粉絲紛紛吐槽史帝芬快去做心理治療</s></li>
+<li>未來篇時終於去看醫生了，結果……</li>
+<li>最後<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在變成怪獸再被救回來後</span>終於開始了心理治療<s>，終於不用再玩Steven needs Therapy的哏了</s></li></ul></li></ul><h3 class="in-block"><span id="萌屬性"></span><span class="mw-headline" id=".E8.90.8C.E5.B1.AC.E6.80.A7"><a href="/%E8%90%8C%E5%B1%AC%E6%80%A7" title="萌屬性">萌屬性</a></span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=11" title="編輯章節：萌屬性" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>合法<a href="/%E6%AD%A3%E5%A4%AA" title="正太">正太</a>（限一到五季）</li>
+<li>胖</li>
+<li>盾役</li>
+<li>天真無邪（限一到五季）</li>
+<li><a href="/%E8%8B%A6%E5%91%BD%E4%BA%BA" title="苦命人">苦命人</a></li>
+<li>捲髮<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></li>
+<li><s>愛哭鬼</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">沒自信、依賴性強</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">自打臉（未來篇限定）</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>總攻</s><a href="/%E5%85%84%E8%B2%B4" title="兄貴">兄貴</a>（被鐵石英訓練三天後）</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E5%A3%9E%E6%8E%89" title="壞掉">壞掉</a></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E5%93%A5%E5%90%89%E6%8B%89" class="mw-redirect" title="哥吉拉">哥吉拉</a></span></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="其他"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96">其他</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=12" title="編輯章節：其他" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>本劇唯一的全勤獎候補，基本上每一集都有出場
+<ul><li>就算當集主場不是他，劇情描寫也會是以他的所見所聞為主</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">唯一的例外是未來篇第19集《I Am My Monster》，因為他徹底壞掉失去理智了，該集的主角是試圖救回他的寶衛隊一眾。</span></li></ul></li>
+<li>沒有上學和就醫紀錄
+<ul><li>不是文盲，懂得閱讀和寫作，但是在認識康妮前對學校和醫院全無概念</li>
+<li>在未來篇證實<b>沒有身分證和戶口</b>，幽靈人口無誤
+<ul><li>但還是考到駕照了</li></ul></li>
+<li>從劇中來看應該是受到寶衛隊的家庭教育，另外很喜歡讀書</li>
+<li>在官方漫畫<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>曾短暫去康妮的學校讀書過
+<ul><li>但在介紹史帝芬的家庭狀況時，因為內容完全超出其他人的理解範圍，導致在一旁的康妮相當尷尬</li>
+<li>後來把出任務時帶回家的紀念品(寶石怪物的殘骸)帶去學校想給大家看，結果害康妮的學校被拆。</li>
+<li>雖然最後與寶衛隊和康妮，及同校的學生一同成功收拾怪物，卻導致自己也被退學</li>
+<li>順帶一提在當天的考試中取得了優秀的成績，僅次於康妮</li></ul></li>
+<li>不過在未來篇第14集《Growing Pains》終於去看醫生了</li></ul></li>
+<li>在劇中女裝過數次</li>
+<li>只要一聽老爸彈吉他就會睡著</li>
+<li><s>表面上是薔薇新娘但其實是真正的王子</s></li>
+<li><s>其實已經在S01E22中死亡，後面出現的都是另一個平行世界的史帝芬</s><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></li>
+<li><s>未來篇第六集時因為要同時兼顧兩份工作（照顧洋蔥和進行安全宣導）而導致精疲力竭再起不能</s><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></li>
+<li><s>性轉後的名字為Nora Universe</s><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">疑似因為受不了還債而在未來篇得了憂鬱症</span></s><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果狀況不只憂鬱症，還有PTSD和自我厭惡</span></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="二次設定和創作"></span><span class="mw-headline" id=".E4.BA.8C.E6.AC.A1.E8.A8.AD.E5.AE.9A.E5.92.8C.E5.89.B5.E4.BD.9C">二次設定和創作</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=13" title="編輯章節：二次設定和創作" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在玫瑰水晶的真身揭曉後</span>，二次創作中出現了各式各樣<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">鑽石</span>版本的史帝芬</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">二創中常會把其半身粉紅史帝芬描繪成沒有感情、只有純粹的理性和力量，和本體正好相反<s>的鬼畜總攻</s></span>
+<ul><li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在粉紅化兄貴史帝芬出現後，湧出了一堆兄貴史帝芬（狂氣壯攻）X正常史帝芬（弱氣胖受）的<a href="/BL" title="BL">BL</a>同人</span></s></li></ul></li>
+<li><s><a rel="nofollow" class="external text" href="https://youtu.be/B0m2P20QaNY">因為受到珍珠的說唱影響而決定出道</a></s>
+<ul><li><s>後來以中之人的名義出了<a rel="nofollow" class="external text" href="https://www.youtube.com/playlist?list=OLAK5uy_n1rA_1uUBtxoATot0ixiTgvdEHhj3lAn4">獨立專輯</a>（還邀請康妮來唱），結果其中一首歌被SU粉絲<a rel="nofollow" class="external text" href="https://twitter.com/kittensneezeVA/status/1204303835935707144?s=19">發掘拿來</a><a rel="nofollow" class="external text" href="https://youtu.be/GrXoWMqzzvc">做成手書</a>，間接導致<a rel="nofollow" class="external text" href="https://youtu.be/JzXiukc6DEc">原曲</a>點閱量在短短幾周內翻倍</s>
+<ul><li>原曲播放次數在2020年1月11日正式突破一百萬，在三月突破200萬播放次數，是該專輯內唯一一首破百萬播放的曲子<s>，看起來中之人想擺脫這個既定印象還需要一段時間</s></li>
+<li>目前已於六月突破300萬播放次數</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但是中之人和角色的同步率卻越來越高</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在其聲優因心病而遠離社交媒體去旅行後，有人從未來篇ED曲《Being Human》推測史帝芬會在結局離開沙灘鎮。結果還真的被說中了。</span></li></ul></li></ul><h3 class="in-block"><span class="mw-headline" id="Corrupted_Steven_Theory"><b>Corrupted Steven Theory</b></span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=14" title="編輯章節：Corrupted Steven Theory" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/%E6%AA%94%E6%A1%88:%E5%A4%A7%E8%9F%B2%E8%88%87%E5%8F%B2%E8%92%82%E8%8A%AC.jpg" class="image"><noscript><img alt="" src="/images/thumb/c/c5/%E5%A4%A7%E8%9F%B2%E8%88%87%E5%8F%B2%E8%92%82%E8%8A%AC.jpg/180px-%E5%A4%A7%E8%9F%B2%E8%88%87%E5%8F%B2%E8%92%82%E8%8A%AC.jpg" width="180" height="112" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 180px;height: 112px;" data-src="/images/thumb/c/c5/%E5%A4%A7%E8%9F%B2%E8%88%87%E5%8F%B2%E8%92%82%E8%8A%AC.jpg/180px-%E5%A4%A7%E8%9F%B2%E8%88%87%E5%8F%B2%E8%92%82%E8%8A%AC.jpg" data-alt="" data-width="180" data-height="112" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:%E5%A4%A7%E8%9F%B2%E8%88%87%E5%8F%B2%E8%92%82%E8%8A%AC.jpg" class="internal" title="放大"></a></div>主角與未來篇大蟲的臉型對比<s>新一代迫害對象</s></div></div></div>
+<ul><li><a rel="nofollow" class="external text" href="https://novantinuum.tumblr.com/post/188153524489/on-the-corruptedsteven-theory">元兇</a></li>
+<li>未來篇OP中，在畫面中出現了一隻臉型和他相似的大蟲
+<ul><li>劇中在史帝芬身上出現過和刺（玫瑰）、毛毛蟲（睡袋）相關的象徵，還有臉型對比、角的數量（五隻角對應髮型的五坨捲毛）和大蟲體色（OP中看起來是暗紫色，實際為淡粉色）<s>和那長到不行的脖子</s>。</li>
+<li>劇組提到未來篇將要開始聚焦到主角本身的問題<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">（主要是心理和壓抑問題）</span>和未來。</li></ul></li>
+<li>以上線索在粉絲一連串<s>亂來</s>的推測和討論後，導致兩者逐漸變成了同人圈不斷迫害的新對象
+<ul><li>一部分SU學家認為：史帝芬在未來篇會因為<b>長時間的心理問題</b>，而<b>逐漸腐化成OP裡的那條大蟲</b><s>但也有白目表示是被新脖子占據身體而造成的</s>。
+<ul><li>會被如此推測的其中一部分原因是因為寶石人的心理狀態會反應在物理型態上。</li></ul></li>
+<li><s>史帝芬表示：幹你們就那麼想看我還完債後原地惡墮嗎</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">如果鑽石真的會腐化，劇情要怎麼處理會是一個大問題</span><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但隨著粉紅化能力的出現，以及史帝芬的心理問題惡化（<b>壓抑情緒、過勞、害怕改變<s>自打臉</s>、各種發脾氣、把自己的問題推到別人身上、自我厭惡</b>），只讓黑化相關的猜測及二次創作越演越烈</span></li></ul></li>
+<li>相關同人以虐系為主，但也有康妮安慰怪獸史帝芬<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">或是不得已只好囚禁甚至殺掉他</span>的糖<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">刀片</span>系同人<s>甚至還有賣萌和當寵物養的</s>。</li>
+<li>最後證實OP裡的大蟲並不是蟲而是淡粉色的<a href="/%E5%93%A5%E5%90%89%E6%8B%89" class="mw-redirect" title="哥吉拉">哥吉拉</a>。<b><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而且就是壞掉的史帝芬本人。</span></b>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">雖然劇中在怪獸史帝芬復原時給出了治癒眼淚的特寫，但劇情並未<b>真正寫明</b>是否為腐化，再加上史帝芬復原後沒有留下腐化痕跡，也有人認為這只不過是史帝芬變形能力失控而已。</span></li>
+<li><s>但因為在結局裡沒啥表現外加收掉的速度太快，導致完結後相關同人大幅減少</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=15" title="編輯章節：相關連結" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a href="/%E7%A5%9E%E8%87%8D%E5%B0%8F%E6%8D%B2%E6%AF%9B" title="神臍小捲毛">神臍小捲毛</a></li>
+<li><a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">Cartoon Network Studios</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=16" title="編輯章節：回應" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99" title="討論:史帝芬·宇宙">討論:史帝芬·宇宙</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;action=edit&amp;section=17" title="編輯章節：備註" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">台灣CN引進時使用的<s><a href="/%E7%BF%BB%E8%AD%AF%E5%86%8D%E5%89%B5%E4%BD%9C" title="翻譯再創作">翻譯再創作</a></s>譯名，髮型因素</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">本作的背景美術設計擔當，生日和史帝芬一樣在8月15日</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">使用的是類似野原新之助的聲線</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">由於本作畫面上角色身高比例並不安定，因此一旦有確切數據能做比較，實際大小就會變得相當混亂……</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">第一次召喚的契機是因為吃到已經停售的酷奇貓冰淇淋夾心餅，在喜悅的心情下召喚出來</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">但只會依照他的意識去做，並非真正的活物</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">史帝芬本人並不擅長變型，在未來篇前僅能伸長四肢，無法改變基礎外貌<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a rel="nofollow" class="external text" href="https://youtu.be/tmoHkWZgjUg">，但曾一度差點讓自己變成獵奇的多頭貓咪獸</a>，而在未來篇最後更因為心理徹底崩潰而變成怪獸</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">為了保護康妮免於落石的危險意外激發了這個能力</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">成品：西瓜史帝芬和能像狗狗活動般的南瓜，未來篇還出現了仙人掌史帝芬</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">受害者：拉爾斯和西瓜史帝芬，並曾使用這個能力去向在地球的鉍彩晶等人求援。此外也用這個能力成功安撫晶簇體，使其自願待在自己製造的泡泡內</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在第五季初期使用了這個能力來治癒死去的拉爾斯</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被家園星的鑽石們用地圖兵器腐化光線攻擊</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">劇中提到腐化光束的性質比起物理傷害，更偏向於精神破壞</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">其實是粉鑽的腿部飛船</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">裝滿了能夠殺死所有有機生物的劇毒</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">將寶石人重置到默認設置的重置器</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">仙人掌的花語：<b>保護、母親對孩子的溫暖與照顧、孤獨與堅強、對事物的堅持（不論過程如何艱難）</b></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">被粉鑽鬧脾氣時暴走的力量意外所傷</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">史帝芬初次見到康妮時，她手上正帶著螢光圈，同時也是他們兩人相識的契機</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在史帝芬的X光片下可以看到骨架上到處都是歷年來戰鬥中留下的已癒合傷痕</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">葛瑞格和粉鑽一樣為了逃離現在的生活，拋下家人遠走高飛；而且還輕率得因為一首歌就自顧自得走向音樂家之路，為了給自己孩子「自由」讓他沒能過上正常孩子的生活等。但是葛瑞格卻沒有意識到他討厭的過去正是史帝芬嚮往的正常人生活。</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">原因詳見能力項</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際上這個型態是否為腐化並沒有定論，有人提出腐化的定義是整顆寶石（連同心靈）壞掉，而史帝芬比較像是自我認知的問題。而官方目前也沒有給出一個確定的答案</span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">實際上從訪談和未來篇的劇情可以得知史帝芬一直都沒有<b>真正</b>原諒她們</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">設定上是類似玫瑰的形狀(動畫中看不出來，不過Funko Pop發行的官方公仔上有做出來)
+<a href="/%E6%AA%94%E6%A1%88:%E5%8F%B2%E5%B8%9D%E8%8A%AC%E7%9A%84%E5%BE%8C%E9%AB%AE.jpg" class="image"><noscript><img alt="史帝芬的後髮.jpg" src="/images/thumb/b/b2/%E5%8F%B2%E5%B8%9D%E8%8A%AC%E7%9A%84%E5%BE%8C%E9%AB%AE.jpg/100px-%E5%8F%B2%E5%B8%9D%E8%8A%AC%E7%9A%84%E5%BE%8C%E9%AB%AE.jpg" width="100" height="81"></noscript><span class="lazy-image-placeholder" style="width: 100px;height: 81px;" data-src="/images/thumb/b/b2/%E5%8F%B2%E5%B8%9D%E8%8A%AC%E7%9A%84%E5%BE%8C%E9%AB%AE.jpg/100px-%E5%8F%B2%E5%B8%9D%E8%8A%AC%E7%9A%84%E5%BE%8C%E9%AB%AE.jpg" data-alt="史帝芬的後髮.jpg" data-width="100" data-height="81"> </span></a></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">由KABOOM! Studio出版的<s>畫風很悲劇的</s>官方漫畫《Steven Universe: Too Cool for School》，並非正史內容</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">詳見S01E22：史帝芬因為使用了<s><a href="/%E5%90%89%E8%89%AF%E5%90%89%E5%BD%B1" title="吉良吉影">敗者成塵</a></s>時光沙漏而把一個又一個平行世界的自己帶來組樂團<s><a href="/JOJO%E7%AC%AC%E4%B8%83%E9%83%A8%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD" title="JOJO第七部登場人物一覽">D4C</a></s>，結果造成不可收拾的混亂；最後其中一個<s>留著<a href="/%E6%9D%B1%E6%96%B9%E4%BB%97%E5%8A%A9" title="東方仗助">東方仗助</a>髮型的</s>他決定把最初的時光沙漏破壞，並導致所有自己全滅<s>在掛掉前對原本的自己說了<a href="/%E5%B8%83%E7%BE%85%E8%AB%BE%E2%80%A7%E5%B8%83%E5%8A%A0%E6%8B%89%E6%8F%90" title="布羅諾‧布加拉提">Arrivederci</a></s>，僅留下最初尚未使用時光沙漏的史帝芬</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">然而以上只是太陽石拍的安全宣導廣告而已……</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text">其實只是他父母預計要給女兒取的姓名</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">其配音Zach Callison最近因心理健康問題，刪除了自己在社交媒體上的所有訊息，願他能度過難關(合掌)</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">目前要治療腐化的寶石怪物必須要<b>四鑽合力</b>（黃鑽治療物理型態、藍鑽治療情緒狀態、粉鑽治療心靈、白鑽則是令三者的作用能夠持續）<s>但從第五季最終回和未來篇來看三鑽的洗澡水加史帝芬的唾液也可以</s></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=史帝芬·宇宙&amp;oldid=350558">https://wiki.komica.org/index.php?title=史帝芬·宇宙&amp;oldid=350558</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99"
+				data-user-name="Fong Houlen"
+				data-user-gender="unknown"
+				data-timestamp="1637299034">
+				最後編輯於 2021年11月19日 (週五) 13:17
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%8F%B2%E5%B8%9D%E8%8A%AC%C2%B7%E5%AE%87%E5%AE%99&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.393","ppvisitednodes":{"value":2171,"limit":1000000},"ppgeneratednodes":{"value":4498,"limit":1000000},"postexpandincludesize":{"value":41244,"limit":2097152},"templateargumentsize":{"value":20057,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11823,"limit":5000000},"timingprofile":["100.00%  128.804      1 -total"," 43.44%   55.951     16 模板:Ref"," 32.36%   41.684      1 模板:H0"," 31.94%   41.144    142 模板:Censored","  1.65%    2.131      1 模板:Collapse_top","  1.33%    1.712      1 模板:Pcomment","  1.02%    1.320      1 模板:Collapse_bottom"]},"cachereport":{"timestamp":"20221006175256","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":541});});</script>		</body>
+		</html>
+		

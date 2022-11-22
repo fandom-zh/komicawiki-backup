@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>最後生還者2炎上事件 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"最後生還者2炎上事件","wgTitle":"最後生還者2炎上事件","wgCurRevisionId":409645,"wgRevisionId":409645,"wgArticleId":37043,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"最後生還者2炎上事件","wgRelevantArticleId":37043,"wgRequestId":"4601da4d2f377177d3ba2c47","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-最後生還者2炎上事件 rootpage-最後生還者2炎上事件 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit" title="編輯此頁面的導言章節"><a href="/index.php?title=%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">最後生還者2炎上事件</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">最後<s>的<a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88_%E9%90%B5%E8%A1%80%E5%AD%A4%E5%85%92" title="機動戰士鋼彈 鐵血孤兒">鐵<span style="color:red;background-color:;">血</span></a></s><s><a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_ARC-V" title="遊☆戯☆王 ARC-V">ARC</a></s><a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="動物朋友2"><s>朋友</s></a>生還者 二部曲/ザ・ラスト・オブ・<s>鉄<span style="color:red;background-color:;">血</span>の</s>ア<s>ークフレン</s>ス<s>゛</s> Part II<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><s>/西雅圖戰鬼之最後原諒猩還者</s></div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td>本條目記載的內容為當前正在發生的事件。
+</td></tr><tr><td>本條目含有大量劇透，不想被迫<span style="font-size:24px;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">打<b>喬爾夫球</b>或<b>看艾比被後入</b></span></span>的話請不要繼續看下去
+</td></tr><tr><td><span style="font-size:24px;"><span style="color:red;background-color:;"><b>警告！本條目已發佈第一級<ruby><a href="/SJW" title="SJW">SJW</a><rp>（</rp><rt style="font-size:0.5em;"><span style="color:blue;background-color:;"><a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">政治正確</a><s>(笑)</s></span></rt><rp>）</rp></ruby>警報！</b></span></span>
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="最後的解說"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E8.A7.A3.E8.AA.AA">最後的解說</span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>本條目主要記載PS4遊戲《最後生還者 二部曲（The Last of Us Part II）》的劇情洩漏後，一連串事件所導致的炎上事件</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="最後的簡介"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E7.B0.A1.E4.BB.8B">最後的簡介</span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>《最後生還者（The Last of Us）》是一款以以末日<a href="/%E5%96%AA%E5%B1%8D" title="喪屍">殭屍</a>為主題的動作生存遊戲，於2013年發售
+<ul><li>故事描述兩名主角：在20年前殭屍來襲時失去獨生女的單親爸爸「喬爾（Joel）」以及孤兒「艾莉（Ellie）」，在末日之中互相扶持、求存並成長的經過</li>
+<li>本作以細膩的人物刻畫和互動描寫兩人之間培養出的親子情懷，並藉著這點獲得了許多玩家一致好評</li></ul></li></ul><ul><li>因此當粉絲們得知二代的開發消息都激動不已，然而劇情水準參差、廠商不謹慎的商業操作手法，讓遊戲發售後起了巨大爭議</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="最後的事情經過"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E4.BA.8B.E6.83.85.E7.B6.93.E9.81.8E">最後的事情經過</span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>本作如同其他未發售遊戲一樣，因為武漢肺炎疫情影響而推延
+<ul><li>而事實上在開發的7年間已多次推延發售日</li></ul></li></ul><ul><li>在2020年4月4日，<a rel="nofollow" class="external text" href="https://twitter.com/PlayStation/status/1245773000592384001">SONY宣佈本作不再是原定的五月推出而是無限期延遲，直至能全球同步發售</a>
+<ul><li>有網友分析實際原因似乎是希望延續上作作為PS3最後的獨佔遊戲，本作希望以PS4最後的獨佔遊戲作為賣點，符合遊戲標題的「Last of Us」的意境，所以需要配合PS5的公佈和發售不斷調整發售日</li>
+<li>普遍玩家也體諒疫情情況，無奈接受相關安排</li></ul></li></ul><h3 class="in-block"><span id="最後的洩漏內容"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E6.B4.A9.E6.BC.8F.E5.85.A7.E5.AE.B9">最後的洩漏內容</span></h3>
+<ul><li>4月26-28日左右，在4chan等國外網路討論區突然出現疑似是本作遊戲實機測試畫面的過場影片及劇透<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">：喬爾和艾莉在遊戲中疑似先後被新角色「艾比」所殺</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><ul><li>由於遊戲影片裡有顯示應為測試系數的UI，不少人確信這是真正的流出內容，開始引發退訂潮</li></ul></li></ul><ul><li>有消息指這是開發團隊的成員因為不滿遊戲而刻意外洩<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>，對此遊戲開發商「頑皮狗（Naughty Dog）」否認並指摘是<a rel="nofollow" class="external text" href="https://kotaku.com/hackers-are-likely-responsible-for-the-last-of-us-ii-le-1843230805">駭客或現職員工</a>所為
+<ul><li>亦有消息指由於遊戲被無限期推延導致遊戲開發奬金也無限期押後，引起員工不滿而被刻意洩漏</li></ul></li></ul><ul><li>然而在風波發生當下，頑皮狗副總裁Neil Druckmann<a rel="nofollow" class="external text" href="https://games.yahoo.com.tw/thelaststand2sjwdoom-024131056.html">在其Instgram上引用了美國搖滾樂手Kurt Cobain的名言</a>，被視為諷刺玩家「不爽不要買」，自此開始炎上
+<ul><li>因為引言裡Kurt Cobain直言<a href="/%E6%88%90%E5%8F%A5/%E4%BD%A0%E5%80%91%E7%95%B6%E4%B8%AD%E8%AA%B0%E6%98%AF%E6%B2%92%E7%BD%AA%E7%9A%84%EF%BC%8C%E8%AA%B0%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%94%A8%E7%9F%B3%E9%A0%AD%E6%89%94%E4%BB%96" title="成句/你們當中誰是沒罪的，誰就可以用石頭扔他">「你們當中有人若厭惡同性戀、不同膚色或女性請不用來」</a>，被認為是要暗諷不買遊戲的玩家都是歧視LGBT和有色人種（尤指黑人）等</li></ul></li></ul><ul><li>內容曝光的翌日，<a rel="nofollow" class="external text" href="https://www.facebook.com/122191731156908/posts/3891521460890564/?d=n">官方隨即公布遊戲於6月18日推出</a>
+<ul><li>同時《<a href="/%E5%B0%8D%E9%A6%AC%E6%88%B0%E9%AC%BC" title="對馬戰鬼">對馬戰鬼</a>》的發售日由原定的6月16日更改為7月17日</li></ul></li></ul><ul><li>對於流出畫面和劇透的真偽，直到發售日前一直有爭拗
+<ul><li>有<s>被收買的</s>評論者指責劇透者，表示內容全屬捏造</li>
+<li>認為洩漏劇情是真的一方則覺得SONY突然宣佈發售日期是要止血，因此以為內容屬實</li>
+<li>及後官方推出新的預告<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">當中出現喬爾說不會放艾莉一人獨自行動的片段</span>，似是要暗指流出片段內容不實
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但該預告反成了發售後風波的另一條導火線…</span></li></ul></li></ul></li></ul><h3 class="in-block"><span id="最後的評分風波"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E8.A9.95.E5.88.86.E9.A2.A8.E6.B3.A2">最後的評分風波</span></h3>
+<ul><li>6月12日起隨著媒體評論解禁，各家遊戲評論陸續公佈了對本作的評分：不意外地絕大部分知名媒體和網站都給本作打全滿或接近滿分的分數，Metacritic媒體評分開出95高分
+<ul><li>但有眼尖的網友發現大多數滿分評論普遍都在稱讚遊戲性，但對劇情卻絕少評價
+<ul><li>當中還有遊戲評論指「外洩劇情不足以影響遊戲」「以外洩劇情的一小段評價遊戲過於武斷」、甚至說「爆雷不（完全）正確」，有支持頑皮狗的網友以為所謂「洩密」根本是有心人的炒作</li></ul></li>
+<li>不止英文語系網頁，中文語系的遊戲評論亦有相似情況
+<ul><li>在中文語圈中尤以<a href="/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9" title="巴哈姆特">巴哈姆特</a>電玩瘋的編輯<a rel="nofollow" class="external text" href="https://forum.gamer.com.tw/C.php?bsn=21876&amp;snA=2510&amp;tnum=95">「阿豪」</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>和Youtuber<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=5W02JXNKclo">「萊斯」</a>因盛讚本作<s>甚至拿其他遊戲來比較</s>遭眾多網友圍攻</li></ul></li></ul></li></ul><ul><li>而在一眾知名的遊戲評論網站當中，惟有IGN日本<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><a rel="nofollow" class="external text" href="https://jp.ign.com/the-last-of-us-2/44388/review/the-last-of-us-part-ii">給予本作7/10分</a>，評論文裡也出現其他同期評論鮮有的劇情評價
+<ul><li>反對頑皮狗的網友於是以此為據聲稱爆雷定必都是真的，並猜測SONY或頑皮狗或有買榜之嫌</li>
+<li>IGN日本似乎也因此遭受質疑，之後<a rel="nofollow" class="external text" href="https://jp.ign.com/the-last-of-us-2/44460/news/the-last-of-us-part-ii-ign-japan">另發一篇文章</a>解釋<s>並非只有他們會這樣下評</s></li>
+<li><s>由於其評價內容受多數玩家認同，也有人笑稱IGN日本<a href="/%E6%83%A1%E9%AD%94%E5%9F%8ETAS" title="惡魔城TAS">跌<b>上</b></a>神壇</s></li></ul></li></ul><h3 class="in-block"><span id="最後的發售炎上"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E7.99.BC.E5.94.AE.E7.82.8E.E4.B8.8A">最後的發售炎上</span></h3>
+<ul><li>6月18日發售日前夕，遊戲情報隨著有人先得到遊戲片並偷跑實況陸續公開，早前洩漏的爆雷內容逐一驗證並大都獲證屬實，正式引爆玩家們的怒火：
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">艾比殺死喬爾的情節在遊戲最初2小時左右發生，也就是遊戲教學模式剛完結不久</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">艾比殺死喬爾的原因過於武斷<s>，被網友質疑是否已經把所有遭遇過、叫Joel或Jo之類的無辜者都殺過一遍</s>，連結前面劇情甚至有恩將仇報之嫌</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">喬爾的行為模式嚴重<s>老馬</s>與一代脫勾</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">疑似是參考Neil Druckmann建模的角色「曼尼（Manny）」<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>對已死的喬爾吐口水</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">艾莉在與傑西對話時提到自己對他其實沒興趣，傑西問是否因為他是「亞洲人（Asian）」時她直言不諱，被認為是歧視亞裔</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但同時傑西疑似有借種讓狄娜懷孕</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">上述最終預告裡「喬爾說不會放艾莉一人獨自冒險」的對白在實際遊戲裡其實是由傑西講出，被質疑為了反擊爆雷甚至欺騙玩家，故意更換該段的角色和重錄對白製作假劇情</span></li>
+<li><a href="#.E5.8B.95.E7.89.A9.E6.98.9F.E7.90.83.E9.A0.BB.E9.81.93.E3.80.81.E7.8C.A9.E7.8C.A9.E4.BA.A4.E9.85.8D"><s>艾比的動物星球交配級幹炮情節</s></a></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">艾莉因為各種無法理解的思考邏輯，在殺害艾比伙伴後突然又救艾比又要殺她，最後莫名奇妙放過對方</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最終艾莉復仇未果，失去妻兒（狄娜帶同孩子離她而去），甚至無法再彈奏喬爾遺下的吉他（兩隻手指在與艾比纏鬥期間被對方咬斷），結局異常悽慘；相反復仇成功的艾比卻得到善終</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>可以說全劇劇情都是問題</s></span></li></ul></li></ul><h3 class="in-block"><span id="最後的爭議點及新角色問題點解說"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E7.88.AD.E8.AD.B0.E9.BB.9E.E5.8F.8A.E6.96.B0.E8.A7.92.E8.89.B2.E5.95.8F.E9.A1.8C.E9.BB.9E.E8.A7.A3.E8.AA.AA">最後的爭議點及新角色問題點解說</span></h3>
+<ul><li>新角色「艾比（Abby）」直到遊戲發售前，完全沒提及為女主角並且是可操作角色之一，而遊戲裡逾半時間需要操縱她進行遊戲
+<ul><li>但因本作過分使用倒敍法描寫劇情，使玩家<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在她殺死喬爾後</span>根本無法認同艾比的行為，反而招惹不少仇恨
+<ul><li>之後在<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">前一幕在傑西被她槍殺、喬爾的哥哥「湯米（Tommy）」在其槍下危在旦夕，</span>經歷一連串不愉快的劇情之下遊戲切換至艾比視點回憶劇情
+<ul><li>玩家被迫帶著討厭艾比的情緒操縱她繼續遊戲<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，更過份是回到上述場景後需要使用她去打艾莉，厭惡感進一步上升</span></li></ul></li>
+<li>即使之後玩家了解其動機，但經過上述各種吸仇恨的行為已經無法讓她得到同情和支持
+<ul><li>動機:<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">艾比的父親為火螢成員，在喬爾解救艾莉的過程中死於其手，而隨後火螢的瓦解也讓她一時失去棲身之所</span></li></ul></li></ul></li>
+<li>其暴躁的性格本身也不討喜，角色性能與一代的喬爾如出一轍，有某種取代的含意
+<ul><li>儘管故事中後期試圖替她塑造良好形象，但前面的表現已經讓其形象無法挽回<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，因此直到最後普遍玩家對艾莉要殺死她並不抱任何疑問</span></li>
+<li>簡言而之：<b>拙劣的劇情安排導致玩家無法對艾比感同身受反而帶來反感</b></li></ul></li>
+<li>在2014年的預告中其模組較女性化，但到發售前夕的新PV裡在相同場景下的模組變成了現在的壯健模樣
+<ul><li>配合Neil的言論，有人於是猜測這是為更符合他心中完美的女性象徵而強行把她的外表改得異常誇張，此被認為過度傾向<a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">政治正確</a>的造型配合上述的角色描寫讓部份玩家異常地不屑她。</li></ul></li>
+<li>雖然頗多人對艾比健碩身型有非議，但實際上其身型是取自美國職業舉重運動員及健身教練的Collen Fotsch。
+<ul><li>不過在她個人網誌分享訓練心得中曾提及，平常不會維持該身型，只有在在舉重或模特兒拍照時，才會非常嚴格控制食量、水份吸收及運動量，好讓身體在的那一兩天內能展現該種肌肉身型。</li>
+<li>她有提及該種體格對身體負擔相當大且身體會很快作出反譴從而無法長期維持該身型。</li>
+<li>另外，有網友留意到遊戲中有細節提及艾比的每日訓練，但按照那種訓練模式是無法鍛鍊出這種體型。</li></ul></li></ul></li></ul><ul><li>另一個最常被炮轟的問題點則是前作角色智商嚴重下降
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">喬爾在一代展現出對陌生人的慬慎性在本作蕩然無存，甚至他會死掉的導火線就是自己毫無防備地於艾比的營地中抖出自己的大<s>惡</s>名招惹眾怒</span></li></ul></li></ul><ul><li>除此以外絕大部份角色的行動嚴重缺乏脈絡，完全是由劇情推動角色行動，而非角色影響劇情發展
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">劇情初段艾比在明顯不知喬爾容貌當下、僅聽到對方的名字是「喬爾」便用散彈槍轟他，之後才質問他是否自己要找的那個喬爾</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然而當喬爾反問對方是誰時，卻只回一句「你猜猜吧」就<s>打起喬爾夫球</s>拿球桿敲他的頭</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而面對落得與自己一樣目睹喪父場景的艾莉卻沒考慮對方或會像自己般回來復仇，而隨便放她和早前被艾比一行人打暈的湯米離開</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">順帶一提，劇情中艾莉只從傑西口中知道喬爾未有如期會合，但完全沒提示艾莉知道他身在艾比的營地，但艾莉仿如心靈感應一般直奔喬爾所在地，劇情進展過於巧合</span></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">湯米在艾莉第一次想復仇時阻止她（由湯米自己上而不希望艾莉復仇），但劇情後段艾莉要放棄報仇時卻又突然情緒勒索她要堅持</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">故事尾聲艾莉救了被吊起、身陷險境的艾比和列夫（Lev）後先是突然回想起喬爾的死，為了報仇要對方與自己決鬥（否則殺了列夫），但當快要把她殺死時又回想起喬爾而未能下殺手等一連串<a href="/%E3%81%94%E9%83%BD%E5%90%88%E4%B8%BB%E7%BE%A9" class="mw-redirect" title="ご都合主義"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">反覆橫跳的行為</span></a>讓人覺得矛盾跟完全摸不著頭腦</span></li></ul></li></ul><ul><li>劇情中雙重標準亦是被炮轟的問題
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">喬爾和湯米在絕境中冒著生命危險救下艾比，她轉身背刺湯米、虐殺了剛剛拼命救下自己的喬爾；身為敵對組織狼幫的亞拉和列夫同樣是在絕境之中救下了她，她卻願意為他們背叛自己盟友WLF屠殺自己的同伴</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">艾莉為了報仇落得悽慘下場還大仇未報，但艾比卻復仇成功且獲得善終</span></li></ul></li></ul><ul><li>此外還有人發現<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=yr01s3BC_Z8"><b>無法用槍射擊</b>猶太教的相關物件</a>（可瞄準但準星會變灰），被認為同樣是政治正確下的產物</li>
+<li><b>製作人一方面標榜政治正確</b>、一方面在遊戲中以有色人種來開玩笑，予人雙重標準之嫌</li></ul><h3 class="in-block"><span id="最後的遊戲發售後續事件"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E9.81.8A.E6.88.B2.E7.99.BC.E5.94.AE.E5.BE.8C.E7.BA.8C.E4.BA.8B.E4.BB.B6">最後的遊戲發售後續事件</span></h3>
+<ul><li>遊戲發售後Neil在自己推特上的發文疑似在玩家傷口上灑鹽：
+<ul><li>發推表示<a rel="nofollow" class="external text" href="https://twitter.com/neil_druckmann/status/1274168534457712641">高興Metacritic上的評論數量比一代翻倍</a>，暗示遊戲有一倍人支持<s>無視炎上</s></li>
+<li>上傳了一段<a rel="nofollow" class="external text" href="https://twitter.com/neil_druckmann/status/1273827860755537921">喬爾模仿salt bae灑鹽動作的影片</a><a href="/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8#.E3.83.99.E3.82.AC.EF.BC.88Vega.EF.BC.89.EF.BC.8D.E6.88.B0.E6.85.84.E9.AD.94.E4.BA.BA.EF.BC.8D" title="快打旋風系列登場人物列表"><s>請大家吃鹽</s></a>
+<ul><li>英文俚語中「Salty（鹹的）」有「酸民」的意思，影片含意也許不言而喻</li></ul></li>
+<li>在父親節當天<a rel="nofollow" class="external text" href="https://twitter.com/Neil_Druckmann/status/1274723519373340674">轉發喬爾與艾莉彈奏吉他的圖祝賀</a>，對已知劇情的玩家無疑是在傷口上多捅一刀
+<ul><li>IGN亦於同日<a rel="nofollow" class="external text" href="https://twitter.com/IGN/status/1274718970575290368">在推特上傳本作影片慶祝父親節</a>，也成為網友抨擊對象</li></ul></li>
+<li>6月27日，<a rel="nofollow" class="external text" href="https://twitter.com/neil_druckmann/status/1276570238125961216">在推特上表示專重和愛戴粉絲，但「愛+尊重≠迎合粉絲」</a>，並配以艾莉模仿「<a rel="nofollow" class="external text" href="https://knowyourmeme.com/memes/roll-safe">Roll Safe</a>」Meme的圖片，再一次激起玩家憤怒</li></ul></li></ul><ul><li>6月22日，Neil與本作另一位編劇Halley Gross接受<a rel="nofollow" class="external text" href="https://www.indiewire.com/2020/06/the-last-of-us-part-ii-interview-neil-druckmann-halley-gross-spoilers-1234568597/">訪問</a>談及對劇情轉折的看法<a rel="nofollow" class="external text" href="https://www.ptt.cc/bbs/PlayStation/M.1592886571.A.DB0.html">（翻譯<s>及各種幹譙</s>）</a></li></ul><div class="NavFrame collapsed" style=""><div class="NavHead" style="">訪問重點（點擊展開）</div><div class="NavContent" style="">
+<ul><li>為讓玩家一開始就對艾比產生同情而非默認她為本作反派，所以才讓玩家能在遊戲裡操作她</li>
+<li>他們覺得<a href="/%E4%BC%8A%E8%97%A4%E8%AA%A0" title="伊藤誠">讓角色不斷做出玩家意願相違背的行動</a>是很有意思的事</li>
+<li>製作組抗拒玩家喜歡前作故意留白、讓看倌自行詮譯的開放式結局，所以本作特意強調艾莉否定喬爾在前作的決定
+<ul><li>但另一方面又希望玩家自行詮譯結局艾莉留下喬爾給她的吉他的意思<s>，自我否定</s></li></ul></li></ul><ul><li>強調喬爾從一代開頭<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">到死去為止</span>基本都沒有變過<s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">間接承認他死於被強行降智，同時</span>打臉護航者的年老安逸論</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原本預定喬爾死前喊親生女兒莎拉的名字<s>，意圖暗示喬爾一直不當艾莉一回事</s>但其CV認為不合適，最終沒有收錄</span></li></ul></li></ul><ul><li>結局<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原定是艾莉在殺死艾比後被亂入的第三者所殺的全滅結局，</span>經過多番調整後才修改成現在的樣子</li></ul></div></div>
+<dl><dd><ul><li>以上訪談惹來更多人憤怒，認為製作人有意踐踏一代的成果</li></ul><dl><dd><ul><li>部分網友更直指這和《動物朋友2》時的情況幾乎一樣，故意噁心一代的製作組及支持一代的玩家</li></ul></dd></dl></dd></dl><ul><li>6月25日，就劇情風波，Neil連同喬爾的CV「Troy Baker」及艾莉的CV「Ashley Johnson」<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=g6rRfK-V2jY">接受訪問</a></li></ul><div class="NavFrame collapsed" style=""><div class="NavHead" style="">部分訪問重點（點擊展開）</div><div class="NavContent" style="">
+<ul><li>Neil指任何角色都不該享有「必須死得有價值、有光榮」的特權<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，故喬爾在一代的角色定位不會影響他最後怎樣<s>犬</s>死</span>
+<ul><li>他又補充設定指喬爾在傑克森市4年生活一直有在尋找並接納在外地的生還者們加入，與艾比一行人碰面時是想邀對方一起去傑克森市，認為他們是一般人而非獵人</li>
+<li>喬爾對艾比以外的人都有戒心<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>但還是會站在一群人中間等著被宰</s></span>，就艾比因與艾莉<s>看不出來的</s>同齡且才剛救了她而不視之為威脅</li></ul></li></ul><ul><li>Troy<s>被強迫</s>表示沒人比起他和Neil更熱愛喬爾這個角這個角色，連他們自己都覺得沒問題所以其他人更應尊重他們的看法
+<ul><li>他又對於自己飾演喬爾當下某個表情可能沒有詮釋地很完美給予自己批評：有一瞬間喬爾自己內心認為「你看看你，這就是你輕易讓自己去相信別人、相信去愛、相信感覺、相信自己在這是安全的，進而導致卸下心防而付出代價，這就是你的下場，這是一個非常後悔的瞬間」</li></ul></li></ul><ul><li>對於預告片誤導和沒提及艾比為可操作角色，Neil表示是為了防止劇情外洩
+<ul><li>他更表示是參考《潛龍諜影2》當初E3預告及《汪達與巨像》的最後橋段為參考例子</li></ul></li></ul><ul><li>Neil表示有部分橋段的確是有意要讓玩家感到不舒服，但非遊戲整體體驗的目的
+<ul><li>在玩家得知洩漏劇情後理解玩家<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對喬爾死亡和<s>當時根本沒有人知道的</s>需要操控殺死他的兇手而</span>感到憤怒</li>
+<li>他認為會有玩家們會<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因得知喬爾會死而</span>恨透遊戲且堅拒不移，但覺得很難向玩家解釋所以選擇<s>用欺詐預告</s>等遊戲上市讓玩家自行體驗</li></ul></li></ul><ul><li>Ashley對結局<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">艾莉最後不殺艾比</span>表示能認同，認為若當時艾莉真的幹下去了那她就真的徹底泯滅人性<s>，但她前面已經殺了一堆人不是早已人性直葬才對</s>
+<ul><li>她又引用艾比被葉拉和列夫所救的例子為反例<s>但艾莉根本就不會知道這件事</s></li></ul></li></ul></div></div>
+<dl><dd><ul><li>以上解釋及追加設定<s>理所當然地</s>無助平息玩家憤怒，更有玩家認為Neil只是開<a href="/%E8%81%B2%E5%84%AA%E4%B9%8B%E7%9B%BE" title="聲優之盾">聲優之盾</a>來為自己狡辯<s>但影片負評數沒有很高</s></li></ul></dd></dl><ul><li>6月30日<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=pDLNb7lECR4">Neil在另一個訪問</a>中回應了對玩家憎恨本作的看法
+<ul><li>他瞭解玩家會不喜歡本作但<a href="/%E6%88%90%E5%8F%A5/%E5%9C%A8%E8%99%9B%E6%A7%8B%E7%9A%84%E6%95%85%E4%BA%8B%E7%95%B6%E4%B8%AD%E5%B0%8B%E6%B1%82%E7%9C%9F%E5%AF%A6%E6%84%9F%E7%9A%84%E4%BA%BA%E8%85%A6%E8%A2%8B%E4%B8%80%E5%AE%9A%E6%9C%89%E5%95%8F%E9%A1%8C" title="成句/在虛構的故事當中尋求真實感的人腦袋一定有問題">疑惑他們為什麼會對一個虛擬角色如此暴怒，同時表示遊戲角色是虛構沒必要為此認真</a>，因此會盡量忽略玩家的仇恨
+<ul><li><s>完全否定自己在2014年提倡不應在電子遊戲物化女性的言論</s></li></ul></li>
+<li>順帶一提影片關閉了評論<s>以防進一步炎上</s></li>
+<li>到7月4日再在推特上<a rel="nofollow" class="external text" href="https://twitter.com/neil_druckmann/status/1279210264362024960">表示</a><a href="/%E6%88%90%E5%8F%A5/%E9%86%92%E9%86%92%E5%90%A7%EF%BD%9E%E9%98%BF%E5%AE%85%EF%BC%81%EF%BC%81" title="成句/醒醒吧～阿宅！！">難以理解玩家對虛擬角色動怒，更反諷玩家該去看醫生</a><s>結果當然再次炎上</s></li></ul></li></ul><ul><li>玩家對遊戲的憤怒也燒到參與製作的成員之上，<a rel="nofollow" class="external text" href="https://twitter.com/neil_druckmann/status/1279841603843051520">Neil</a>與飾演艾比的<a rel="nofollow" class="external text" href="https://twitter.com/LauraBaileyVO/status/1279173199918292992">Laura Bailey</a>均曾收到網友恐嚇對他們及其身邊人不利
+<ul><li>Neil更指責這些作人身攻擊及死亡恐嚇的玩家為恐誇性別、恐同和反猶太人</li>
+<li>但<s>除死忠粉外</s>網友大都對此冷淡看待，也有調侃指為何不報警而是丟上網路<s>公審</s>，甚至有人懷疑其實是自導自演</li></ul></li></ul><ul><li>7月7日<a rel="nofollow" class="external text" href="https://twitter.com/playstation/status/1280502071242956818">PS官方推特宣布</a>本作獲得六月最佳遊戲榮譽<s>，但六月本身就因疫情問題沒啥PS遊戲大作推出，被笑是自己頒獎給自己</s></li></ul><ul><li>7月27日，遊戲媒體「VG247」在<a rel="nofollow" class="external text" href="https://www.vg247.com/2020/07/27/the-last-of-us-part-2-cast-crew/">報道</a>中表示本作是動用了14個製作室、由約2332人的超大型團隊辛苦製作的超大作<s>大概想藉此搏取同情</s>，但隨即被其他業界人士調侃：
+<ul><li>Sam Sharma（現EA、前Guerrilla Games及<a href="/Ubisoft" title="Ubisoft">Ubisoft</a>遊戲製作人）：<a rel="nofollow" class="external text" href="https://twitter.com/s3rioussam/status/1287754079381356550">哇、這真是驚人的事實（棒讀），不過我們倒有不少經驗</a></li>
+<li>Ellie Joy Panic（Ubisoft產品經理）：<a rel="nofollow" class="external text" href="https://twitter.com/elliejoypanic/status/1287794207088709635">Ubisoft旗下的AAA級遊戲動輒就是動員10-15個製作室、千人以上團隊聯合製作</a></li>
+<li>Damien Schubert（《星際大戰：舊共和國》製作團隊成員）：<a rel="nofollow" class="external text" href="https://twitter.com/ZenOfDesign/status/1287801361984376832">真「可愛」的新聞呢</a></li>
+<li>Stitch Media（《Terrorarium》等遊戲開發商）：（<a rel="nofollow" class="external text" href="https://twitter.com/stitchmedia/status/1288100974062690305">我們的遊戲只用了不到這些資源的3%去做，但也有拿到10分</a></li>
+<li>Canuck Play Inc.（《Doug Flutie's Maximum Football》系列開發商）：<a rel="nofollow" class="external text" href="https://twitter.com/CanuckGS/status/1288103312248705024">我們公司只到這人數的0.15%，同樣10分</a></li>
+<li>網友補<s>刀</s>充： <a rel="nofollow" class="external text" href="https://twitter.com/ooooughh/status/1287826428747186183">Valve的《戰慄時空：艾莉克絲》才用了80人</a></li></ul></li></ul><ul><li>在7月19日<a rel="nofollow" class="external text" href="https://happygamer.com/neil-druckmann-on-the-last-of-us-part-2s-sales-says-sony-didnt-influence-the-games-length-73984/">Neil接受訪問</a>中表示並不在乎銷售，只要售出足夠開發下一部<s>沒人在乎的</s>高銷量作品的數目便足夠讓Sony信任他們<s>，但若銷量連上作的一半也沒有Sony很難不在乎吧</s></li></ul><ul><li>上面提到的《對馬戰鬼》之後如期在7月17日推出，但不知何故<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=KX7bpDH6QwU">在遊戲實體片裡塞了本作的廣告</a><s>，是積存了多少實體貨</s>
+<ul><li><s>於是延伸出「西雅圖戰鬼」的梗</s></li>
+<li><s>順帶一提另一面是《鐵血戰士：狩獵戰場》的廣告，不過沒有人在意</s></li></ul></li></ul><ul><li>雖然面對眾多陰霾，<a href="#3.E5.A4.A9400.E8.90.AC">本作首周銷售量按官方公布有400萬</a>，PSN遊玩人數亦有430萬多人</li></ul><ul><li>2022年6月Neil於索尼的「夏季遊戲節（Summer Game Fest）」擔任壓軸嘉賓，除公佈新銷量數字（見下）外還公開了一代PS5重製版、二代多人遊戲獨立化與及HBO劇集版等新資訊
+<ul><li>值得一提的是一代重製版標題改為《最後生還者 <b>一部曲</b>（The Last of Us <b>Part I</b>）》，直播裡Neil還提到<b>劇情會有所改寫</b></li>
+<li>目前一代重製版已確定追加前傳，9/2則會公開其他細節</li></ul></li></ul><h3 class="in-block"><span id="最後的遊戲發售後各方反應"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E9.81.8A.E6.88.B2.E7.99.BC.E5.94.AE.E5.BE.8C.E5.90.84.E6.96.B9.E5.8F.8D.E6.87.89">最後的遊戲發售後各方反應</span></h3>
+<h4 class="in-block"><span id="歐美"></span><span class="mw-headline" id=".E6.AD.90.E7.BE.8E">歐美</span></h4>
+<ul><li>澳洲最大電玩連鎖店「JB Hi-Fi」<a rel="nofollow" class="external text" href="https://www.sausageroll.com.au/entertainment/games/jb-hi-fi-not-accepting-any-more-the-last-of-us-part-ii-trade-ins/">以防疫為由暫時拒收本作的二手遊戲片</a><s>但網友都以為是遊戲太糞了根本無法轉手才喊停，又或者是遊戲片本身跟病毒一樣恐怖</s></li></ul><ul><li>知名實況主PewDiePie在實況中<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">玩到喬爾被殺的一幕後</span>需要中離冷靜情緒，隨後更揚言<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">如果連艾莉的馬也殺死便</span>刪遊戲</li></ul><ul><li><s>一向反主流媒體的</s>videogamedunkey在綜合遊戲性和劇情後<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=I7OcL8j6rhk">給出了4/5分評價</a><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>，但我們都知道對dunkview而言分數根本不重要</s></span>
+<ul><li><s>不過更重要原因是遊戲有猩猩</s></li>
+<li><s><a href="/%E6%88%90%E5%8F%A5/%E5%AE%8C%E4%BA%86%E5%AE%8C%E4%BA%86%EF%BC%8C%E8%A6%81%E8%AE%8A%E6%AE%AD%E5%B1%8D%E4%BA%86" title="成句/完了完了，要變殭屍了">完了完了，</a>繼《<a href="/%E6%AD%BB%E4%BA%A1%E6%93%B1%E6%B7%BA" title="死亡擱淺">死亡擱淺</a>》後驢子又要被燒了</s></li>
+<li>其後他在2020年11月7日的<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=dVQcZa4O01A">影片</a>中詳細說明了包括劇情也給予好評的原因<s>，順道酸爆各種Youtube「無腦反對」評論</s>：</li></ul></li></ul><div class="NavFrame collapsed" style=""><div class="NavHead" style="">驢子的<s>反駁</s>說明（點擊展開）</div><div class="NavContent" style="">
+<dl><dd><dl><dd><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">喬爾對陌生人的（過分）謹慎只是屬於前作前期的事情，在後期他已經慢慢變回有同理心的普通人。因此在續集抖出自己名字而被殺實屬<s>劇本惡意的</s>不幸而非降智。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">故事整體對dunkey而言不是完美，但仍具有令他印象深刻的優良娛樂性。不像<ruby>某些<rp>（</rp><rt style="font-size:0.5em;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA" title="魔物獵人">魔物獵人</a></span></rt><rp>）</rp></ruby><ruby>3A<rp>（</rp><rt style="font-size:0.5em;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">決勝時刻</span></rt><rp>）</rp></ruby><ruby>遊戲<rp>（</rp><rt style="font-size:0.5em;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Days Gone</span></rt><rp>）</rp></ruby>只能令他勉強記住某些角色。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後生還者2的故事擁有超越現存所有遊戲故事的創新性，相對最後生還者1的故事對dunkey而言基本上就是有殭屍的《天外奇蹟》</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">艾比被設計成與艾莉對比的角色，加上遊玩期間體驗到她（也跟艾莉類近）的兩面性對dunkey而言有足夠說服力說明她復仇的動機。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>傑西其實是從COD跑過來的角色，要被射4發爆頭才會死。</s>相對他更不滿的是不同於第一集角色們在殭屍末日裡還不停長距離移動</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這遊戲不是單方面說「復仇是不好」的說教故事：沒錯它會令玩家有點罪惡感，但另一方面它也故意惹怒玩家，令他們如同艾莉一樣執著起來藉此增加她與玩家<s>已經漸漸消失</s>的連繫。</span></li></ul><dl><dd><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">亦因此不提供殺人以外的選擇不是為了限制玩家的選擇，反而是因為要令玩家與艾莉同步起來：「沒錯這群混蛋殺掉了喬爾，對他/她來一發爆炸箭吧」</span></li></ul></dd></dl><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後艾莉經歷一切還是轉念放過艾比的段落其實是與第一集時喬爾最後轉念拯救艾莉同出一轍。再者，艾莉確是為了復仇放棄了一切，包括與玩家的連繫；她變成了螢幕前的玩家也不熟悉的怪物，因此放過艾比後的那句「just take with him」所指的「他」可能也是指玩家。</span></li></ul></dd></dl></dd></dl></div></div>
+<dl><dd><dl><dd><ul><li><s>「說我為了賺錢忘本！？我真的忘本就會學那群Youtuber一樣跟風幹爆這遊戲吧？」</s></li></ul></dd></dl></dd></dl><ul><li>事件主戰場之一的Metacritic在2020年7月18日<a rel="nofollow" class="external text" href="https://www.ettoday.net/dalemon/post/51234">修改了玩家評分規則</a>，遊戲發售後36小時才會開放玩家評分，玩家登入後在遊戲頁面上還會看到「Please spend some time playing the game」的信息
+<ul><li>首批套用此規則的遊戲分別有《對馬戰鬼》<s>又是你啊</s>與NS的《紙片<a href="/Mario" class="mw-redirect" title="Mario">瑪利歐</a> 摺紙國王》</li></ul></li></ul><h4 class="in-block"><span id="亞洲"></span><span class="mw-headline" id=".E4.BA.9E.E6.B4.B2">亞洲</span></h4>
+<ul><li>發售第一天，PTT二手遊戲交易板已出現大量拋售轉售本作的帖子
+<ul><li>有網友指出部份遊戲店出現滯銷，網路上甚至流傳有買家把NS和本作綑綁出售的圖片<s>買家更被要求補錢才可以只買Switch不要本作光碟</s>、與及<a rel="nofollow" class="external text" href="https://pbs.twimg.com/media/EbVki1MVAAE1MX0.jpg">店家表示放棄預訂片的客人將永久喪失PS5主機與遊戲預購權的「公告」</a></li>
+<li>截至2020年7月中旬，本作二手價最低跌至900台幣以下，低至原價的一半
+<ul><li>到2021年8月已經能看到低於500的二手價了</li></ul></li></ul></li></ul><ul><li>有自稱認識遊戲媒體業界朋友的網友辯稱給予本作高分的原因（下述）</li></ul><p><br></p>
+<ul><li>6月21日，巴哈姆特PS4及最後生還者哈拉區的阿豪評測文先後被板主鎖上，其後自刪
+<ul><li>按PS4區板主表示鎖文原因是內容涉及劇透和謾罵、並把大部分回覆刪除，當然也引來限制言論自由的質疑
+<ul><li><s>造就負評最多的精華文<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></s>←然而在22日已在網友抗議下自精華區移除</li></ul></li>
+<li>同時PS4區開設本作專用臨時討論、遊戲疑問和劇透串供集中討論（期限至同月26日），並發<a rel="nofollow" class="external text" href="https://forum.gamer.com.tw/C.php?bsn=60596&amp;snA=50173&amp;tnum=1">公告</a>宣導要網友不要隨意到別人的串爆雷或謾罵</li>
+<li>另外在巴哈姆特上刊登的本作廣告似乎同日全數下架</li>
+<li>6月24日，巴哈姆特編輯部主管「linger」於最後生還者區發表<a rel="nofollow" class="external text" href="https://forum.gamer.com.tw/C.php?bsn=21876&amp;snA=2729">道歉聲明</a>，就個別筆者誤導玩家進行致歉，並重申站方對廣告的方針
+<ul><li>然而由於本文只放在最後生還者區並沒有於GNN或PS4區刊登被質疑想低調處理之嫌，加上站上遊戲評分被揭發疑似黑箱作業（下述）被認為官方沒有誠意平息風波而不獲大部分會員接受，該道歉文獲得負評和豪哥一樣都來到「X」</li></ul></li></ul></li></ul><ul><li>曾一度力挺本作的Youtuber「萊斯」再次上傳<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=skEiPi7JmMM">影片</a>為自己沒拿捏分寸指摘爆雷內容是假的言論道歉，但再次重申自己非常熱愛本作和艾比的角色
+<ul><li>然而不少網友指出是次評測風格和過往大相逕庭，即使萊斯堅稱沒有收受任何現金交易，仍舊認為他只是收取其他利益（例如日後PS獨佔遊戲的先行遊玩權）</li></ul></li></ul><ul><li>另一位知名Youtuber「井川一」在<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=eZzGPOxcjnQ">影片</a>評此作為對得起作品名號的傑作，同樣遭網友痛批</li></ul><ul><li>不少<a href="/%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81" title="遊戲實況">遊戲實況</a>主都在玩完本作後<a rel="nofollow" class="external text" href="https://newtalk.tw/news/view/2020-06-22/424851">感到憤怒甚至崩潰</a>
+<ul><li><a rel="nofollow" class="external text" href="https://www.league-funny.com/gaming/article-150695">「你們知道《人中之龍6》其實滿好玩的嗎」</a>by魯蛋</li>
+<li>懶貓<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在喬爾被殺後</span><a rel="nofollow" class="external text" href="https://clips.twitch.tv/ThirstyBlitheGiraffeHassaanChop">關閉並直接刪除遊戲</a>，事後還<a rel="nofollow" class="external text" href="https://www.facebook.com/Heavenknowslol/posts/3961972727209369">在臉書發文表示對劇情的不滿</a></li>
+<li>聶寶在破完的當下在PTT發了一篇<a rel="nofollow" class="external text" href="https://www.ptt.cc/bbs/PlayStation/M.1592585063.A.F7B.html">長達1500字的<s>抱怨</s>抒發心得文</a>，表示<a rel="nofollow" class="external text" href="https://clips.twitch.tv/FragileSarcasticTortoiseTwitchRPG">「能玩完不罵髒話的人，那才叫愛與寬恕」</a>
+<ul><li>又在臉書提到<a rel="nofollow" class="external text" href="https://www.facebook.com/nielnieh345NieBao/posts/3167264196682435">這是他這輩子玩過最噁心的遊戲</a>，<a rel="nofollow" class="external text" href="https://www.facebook.com/nielnieh345NieBao/posts/3174295305979324">還提到母親上週剛過世，想從遊戲得到救贖的他卻一無所有</a></li></ul></li>
+<li>韓國實況主「CranK」在實況時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">當喬爾被殺後</span>不發一語地關掉遊戲，<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=nCjFadu1ViY">在觀眾面前用剪刀把遊戲片剪斷</a>
+<ul><li>在剪片前他提到自己父親一年前去世，而遊戲中的演出讓他難堪</li></ul></li>
+<li>中國實況主「桿菌無敵」在結束實況後錄製了<a rel="nofollow" class="external text" href="https://www.bilibili.com/video/av328540689">長約十分鐘的影片</a>大罵遊戲劇情上的缺失與人物塑造的失敗，狂飆髒話更表明玩這遊戲就是一趟「餵屎之旅」
+<ul><li>甚至稱看他實況遊戲的觀眾為<b>一同吃屎的兄弟</b><s>可見玩到糞作的憤怒真的是不分國界</s></li></ul></li></ul></li></ul><ul><li>發售後三週遊戲突然在對岸全面下架，理由眾說紛紜，當中有網友向網路店家查詢後得到的回答是<a rel="nofollow" class="external text" href="https://www.ettoday.net/dalemon/post/51124"><b>因為退貨的人太多</b></a>
+<ul><li><s>頭一次看到<a href="/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%9A%84%E5%AF%A9%E6%9F%A5%E5%88%B6%E5%BA%A6" title="中國大陸的審查制度">在中國下架的商品不是因為乳滑</a>的…</s></li></ul></li></ul><ul><li>在PS5發售後，<a rel="nofollow" class="external text" href="https://youtu.be/6kPHKelVLaY?t=180">有亞洲的零售商戶的小道消息指</a>他們向批發商訂購PS5的話需要同時綁定一定數量的本作遊戲<s>，銷售量又可以吹噓一番了</s></li></ul><ul><li>至今本作在台灣價格已經跌至590，得到GOTY後不但價格沒起色反而開始跟一些東西綁在一起（特別是主機）想趁年終拋售，甚至可能是福袋的必含物之一，已有店家聲明不會在福袋裡放入本作
+<ul><li>在許多店家也是山積沒人敢買，被綁在其他商品一起賣也是常態<s>，甚至還要跟NS貨架區混在一起、甚至跟2077綁在一起賣</s></li></ul></li></ul><h3 class="in-block"><span id="最後的評價"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E8.A9.95.E5.83.B9">最後的評價</span></h3>
+<ul><li><b>單論遊戲性美術音樂而言</b>本作無疑有很高的水準，然而作為<b>以劇情為賣點的遊戲</b>本作卻有著太多讓玩家難以接受、水準差劣的劇情安排</li></ul><ul><li>遊戲一邊強調暴力和復仇的不好，卻一邊只允許使用暴力和引發仇恨方式推進故事
+<ul><li>但是同時又搧玩家一巴掌指責玩家製造暴力和仇恨，有玩家因此斥責遊戲不給玩家選擇卻指責玩家做錯毫無道理</li>
+<li>另外也有玩家指出在倫理崩壞、人人自危、殺人自保是家常便飯的末世背景述說「復仇」主題並不適合</li></ul></li></ul><ul><li>劇情充斥大量悲傷情節，然而缺乏足夠作為對比的正向橋段，使玩家對悲劇逐漸感到麻木
+<ul><li>同時製作人受用大量直接的暴力行為以流於表面的方式去勾起玩家情緒，卻甚少描寫角色間複雜情感的劇情<s>，明顯功力不足</s></li></ul></li></ul><ul><li><a href="/%E3%81%94%E9%83%BD%E5%90%88%E4%B8%BB%E7%BE%A9" class="mw-redirect" title="ご都合主義">情節過於御都合</a>，角色受劇情擺布單純淪為推動劇情的工具，沒有邏輯可言
+<ul><li>角色們往往都會作出愚蠢的決定去推進故事，並為表達出製作人希望傳達的理念讓行動經常前後不一
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">艾比對列夫和喬爾待遇差別的原因、湯米在劇中毫無徵兆的個性劇變正是行動前後不一的其中兩個批判點</span></li></ul></li>
+<li>遊戲中工具人要素最嚴重可算是傑西（Jesse），<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其存在純粹擔當艾莉和狄娜中間的第三者、<s>提供狄娜精子、</s>協助艾莉的助拳人、艾莉報仇過程的犧牲者；然而除以上場合外</span>他在遊戲中幾乎沒對故事發展造成實際影響<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，甚至死後僅僅在文件中稍稍提到，連作為艾莉最後再次尋找艾比的動機也不是</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「她懷孕了」成了</span>主導劇情中數度轉折的金句，然而缺乏足夠前置，淪為僅為反轉劇情而存在的笑話</li>
+<li>不少有名字的配角都毫無預警地出現在任何場景，然後就突然領<a href="/%E4%BE%BF%E7%95%B6" title="便當">便當</a>，但當中欠缺足夠訴說出現在該場景的因果，彷彿只是任由編劇隨意放置的用完即棄棋子
+<ul><li>甚至就結果而言這些角色位置互換也不會影響故事</li></ul></li>
+<li>艾莉和艾比在遊戲中的交集極少<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">（才三次，且最初兩次更是在其中一方的親人好友剛被對方殺死之後）</span>，以致<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兩人互相放過對方的動機完全不足，</span>難以說服玩家，二人向對方作出的決定</li></ul></li></ul><ul><li>劇情拼貼感重、過於強調對比性
+<ul><li>敍事手法濫用倒敘插敍，在回憶劇情中插入回憶劇情，使故事推進相當不流暢
+<ul><li>更甚是Neil更明言是故意為此，目的希望玩家不要介入任何一個角度觀看整個劇情</li></ul></li>
+<li>劇情間支離破碎和突兀感太重，不少內容似是修改情節後強行拼在一起</li>
+<li>艾莉和艾比的周遭人物和遭遇幾乎擁有一致的對比角色<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">（作為被犧牲的父親角色、身陷三角戀、有同性戀的伙伴、有懷孕的伙伴、有亞裔的伙伴被殺、被一個大組織追輯）</span>，然而這些元素是否符合角色的合理性考慮欠奉</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">有玩家甚至推測當初喬爾和傑西的角色應該是互換；要找艾比尋仇的是狄娜，艾莉和喬爾則是捲入這場復仇的第三者</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也有人懷疑原本部分艾比的橋段應該是由喬爾負責，但強行改劇本後又來不及重製角色，因此只用換角色模組來解決問題，所以才會有艾比異常壯健的身體</span></li></ul></li></ul></li></ul><ul><li>格局對比上作明顯大幅縮水
+<ul><li>雖然以末世為背景，但對末世導致人性撕裂著筆甚少
+<ul><li>因此有玩家直言就算故事背景換成現代也沒太大差別</li></ul></li>
+<li>作為末世源頭的感染者僅僅作為擋路的NPC存在，艾莉的免疫者身分也僅在交談帶過，劇情上完全沒有發揮</li></ul></li></ul><ul><li>除此以外官方為了平息流出劇情風波而故意拍出內容不實的預告片，讓不少看了最終預告片、滿心期待的玩家感到憤怒
+<ul><li>尤其官方強調流出的劇情不實但又丟出造假片段去欺騙玩家，予人詐欺之感</li></ul></li></ul><ul><li>遊戲在製作人表達想法和商業作品的取捨嚴重失衡
+<ul><li>為了表達自己的想法，劇情發展單純為了令玩家不舒服而存在</li>
+<li>製作人要求玩家站在自己的角度去看故事，某程度強迫玩家必須接受自己一套想法，顯得說教味太濃</li>
+<li>尤其艾莉參觀教堂的場景對遊戲推進近乎零作用，卻強迫玩家要聽完與遊戲背景無關的猶太教歷史</li></ul></li></ul><ul><li>縱然有著巨大的開放地圖，然而探索回報性過低
+<ul><li>遊戲早期給予了巨大的西雅圖場景供玩家探索，然而基於早期可收集道具有限，且敵人和資源變化甚少，容易造成探索的疲乏感</li>
+<li>但同時不少限量的升級道具散落在巨大地圖中，以致玩家又必須在各種配置近似的地圖全部搜尋一輪</li>
+<li>而巨大地圖存在不少不能回頭的檢查點，但幾乎沒有明確標示，導致玩家發現自己不小心越過全無提示、阻止玩家回頭走的檢查點時，往往需要讀檔回去確保所有地方已搜索</li></ul></li></ul><ul><li>遊戲以外，由於Neil過往支持<a href="/SJW" title="SJW">SJW</a>的言論及行動，有玩家認為他把自己的想法強加入劇本並把過去所建立的角色形象一手摧毀
+<ul><li>同時其訪談的內容被認為他是故意破壞第一集留下來的美好印象<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><ul><li>尤其第一代登場角色的行為和性格在今集嚴重崩壞且與普遍玩家想法事與願違<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>被認為是重要的證據</li></ul></li>
+<li>另外，發售遊戲後遭到眾多玩家斥責，不但沒有虛心接受或道歉，反而不斷挑釁討厭遊戲的玩家並標籤他們為討厭LGBT+的人，更惹來不少玩家不滿</li></ul></li></ul><ul><li>遊戲標榜政治正確但遊戲中卻帶有歧視人種的內容，實際是雙重標準
+<ul><li><a href="#.E6.9C.80.E5.BE.8C.E7.9A.84.E6.B4.A9.E6.BC.8F.E5.85.A7.E5.AE.B9">在因劇情洩漏炎上時Neil如上述般暗要政治不正確的人滾蛋</a>，但遊戲中卻拿有色人種來開玩笑</li>
+<li>遊戲裡對中年白人男性的形象描寫一面倒地糟糕，相反對女性的形象多番強調堅強自主<s>大著肚子都能上戰場</s>
+<ul><li><s>順帶一提，<a rel="nofollow" class="external text" href="https://forum.gamer.com.tw/C.php?bsn=21876&amp;snA=2669&amp;tnum=2">有網友考察</a>梅兒短短兩星期從懷孕3個月變成6個月，要不是時空扭曲就是菌絲突變</s></li></ul></li>
+<li>有玩家覺得製作人只是拿政治正確作為反擊酸民的擋箭牌
+<ul><li>在爭議爆發後<a rel="nofollow" class="external text" href="https://bit.ly/3dfSzOQ">Tumblr上有自稱LGBT+的網友炮轟</a>製作人消費他們，讓他們的形象變得更差</li>
+<li>甚至有網友認為Neil故意指責反對網友是歧視少數群族來轉移視線，讓SJW代替自己反擊酸民，而迴避公司內部嚴重加班、管理不善及辦公室政治等問題導致本作水準參差的情況</li></ul></li></ul></li></ul><ul><li>SONY對色情評審標準不一亦引起風波，被玩家質疑評審標準一或存在選擇性審查
+<ul><li>近年來<a href="/%E6%88%90%E5%8F%A5/%E7%B4%A2%E5%B0%BC%E7%BD%AA%E5%A4%A7%E6%BB%94%E5%A4%A9%EF%BC%8C%E6%90%9E%E5%88%B0%E7%99%BE%E5%A7%93%E6%80%A8%E8%81%B2%E8%BC%89%E9%81%93#.E5.A2.9E.E5.BC.B7.E7.B3.9F.E7.B3.95.E7.89.A9.E7.AE.A1.E5.88.B6.E5.8A.9B.E5.BA.A6" title="成句/索尼罪大滔天，搞到百姓怨聲載道">SONY經常要求在自家主機發行的遊戲女角不能穿著性感而要自主規制<s>打超厚聖光</s></a>，但卻允許自家獨佔遊戲可以出現性交場面還露出性徵</li>
+<li><s>正好</s>在本作發售前一日，<a rel="nofollow" class="external text" href="https://twitter.com/PQubeGames/status/1273539684946325504">預定在PS4發行的美少女遊戲《蒼の彼方のフォーリズム》才被SONY指因為尺度問題要對內容作修正及刪減</a></li></ul></li></ul><ul><li>也有不少網友不齒於傳媒和<a href="/%E7%B6%B2%E8%B7%AF%E8%A9%95%E8%AB%96%E5%90%8D%E4%BA%BA" title="網路評論名人">網路評論名人</a>把一款有明顯劇情缺陷的遊戲盲目捧為佳作
+<ul><li>作為第四權監督遊戲品質的遊戲媒體卻為了與廠商打好關係、獲得更好的利益而選擇欺瞞玩家，與廠商聯手粉飾太平，讓不少人和媒體因而失去粉絲信任
+<ul><li>尤其爭議爆發點發生於PS5公佈後，被質疑為了確保先行遊玩權而給予好評</li></ul></li>
+<li>不少玩家聯想起數年前曾發生的<ruby><span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E7%8E%A9%E5%AE%B6%E9%96%80?uselang=zh-tw">玩家門</a></span>事件<rp>（</rp><rt style="font-size:0.5em;">GamerGate</rt><rp>）</rp></ruby>，而<a rel="nofollow" class="external text" href="https://www.hitc.com/en-gb/2020/05/05/anita-sarkeesian-last-of-us-2-neil-druckmann/">作為相關事件當事人的Anita Sarkeesian更被發現擔任本作的研發顧問</a>
+<ul><li>也許Anita與本次事件無關，然而不論頑皮狗還是SONY偏向SJW的作風也讓玩家對SJW反感，同時更憂慮SJW的風氣進一步影響遊戲界</li>
+<li>尤其在11月中，有<a rel="nofollow" class="external text" href="https://www.4gamers.com.tw/news/detail/45613">駭客駭獲Capcom關於日後遊戲開發的指標文件</a>，當中更以本作作為<a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">政治正確</a>的標桿
+<ul><li>也有部份玩家認為或許是發售日前發生的BLM爭議，各媒體為了避免成為攻擊對象而自肅給予好評</li></ul></li></ul></li>
+<li><s>當然也有玩家認為純粹故事太多故弄玄虛，連評論人自己也不知道故事在說甚麼就只好裝作很有深度而給好評</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="最後的媒體評分"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E5.AA.92.E9.AB.94.E8.A9.95.E5.88.86">最後的媒體評分</span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:502px;"><a href="/%E6%AA%94%E6%A1%88:%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%85%E8%A9%95%E5%88%86.jpg" class="image"><noscript><img alt="" src="/images/thumb/d/d4/%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%85%E8%A9%95%E5%88%86.jpg/500px-%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%85%E8%A9%95%E5%88%86.jpg" width="500" height="564" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 500px;height: 564px;" data-src="/images/thumb/d/d4/%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%85%E8%A9%95%E5%88%86.jpg/500px-%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%85%E8%A9%95%E5%88%86.jpg" data-alt="" data-width="500" data-height="564" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%85%E8%A9%95%E5%88%86.jpg" class="internal" title="放大"></a></div><s>一眾戰犯</s></div></div></div></div>
+<ul><li>Metacritic評論評分：<b>93/100</b>
+<ul><li>Eurogamer：10/10</li>
+<li>GAMEXPLAIN：10/10</li>
+<li>Game Informer：10/10</li>
+<li>GamesRadar+：5/5</li>
+<li>Gaming Trend：10/10</li>
+<li>Hardcore Gamer：10/10</li>
+<li>IGN：10/10</li>
+<li>PlayStation Lifestyle：10/10</li>
+<li>VG247：5/5</li>
+<li>Metro：10/10</li>
+<li>Push Square：10/10</li>
+<li>Telegraph：10/10</li>
+<li>The Guardian：10/10</li>
+<li>法米通：39/40</li>
+<li>USgamer：4.5/5</li>
+<li>VentureBeat：95/100</li>
+<li>Destructoid：8.5/10</li>
+<li>GameSpot：8/10</li>
+<li>GameRevolution：3.5/5</li>
+<li>IGN日本：<b>7/10</b><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><ul><li>其中一句評價「本作是一段關於對與錯的故事，但說故事的人認為自己永遠是對的」更是一針見血指出本作的問題關鍵</li></ul></li></ul></li></ul><ul><li>Metacritic玩家評分：<b>5.7/10</b>（持續<s>被洗榜往上</s>變動中）
+<ul><li>自6月21日起有網友反映無法打低分，但給高分或給其他遊戲低分卻沒問題，疑似阻止玩家壓低本作評分
+<ul><li>甚至有人指分數會<b>強制翻倍</b></li>
+<li>有PTT鄉民<a rel="nofollow" class="external text" href="https://www.ptt.cc/bbs/C_Chat/M.1592979402.A.0BE.html">驗證上述說法</a>後得出的結論是<s>因為伺服器大概被狂轟濫炸的關係</s>不論高分還是低分評論都有機會順利發出或發不出去</li></ul></li>
+<li>另外也有人發現好一部分打10分的用戶只有評論本作或是額外給予極低分於某一兩部<a href="/%E4%BB%BB%E5%A4%A9%E5%A0%82" title="任天堂">任天堂</a>遊戲，疑似是刷分用的新建帳戶<s>，還有評價直接打亂碼的</s>
+<ul><li>當然也有部分給予本作低分的帳戶疑似是刷分用</li></ul></li></ul></li></ul><ul><li>巴哈姆特玩家評分：<b>4.2/10</b>
+<ul><li>6月24日，有會員發言指出<a rel="nofollow" class="external text" href="https://forum.gamer.com.tw/Co.php?bsn=21876&amp;sn=10061">在眾多會員投票後各項評分一直沒有變動</a>，一直維持在4.1分，同時不少會員表示已投了一星評價但該評分未有如實反映，懷疑站方有鎖分之嫌</li>
+<li>直到6月28日，分數突然上升至4.2</li>
+<li>站方隨後公布1-5星評價分別對應3.9、5.4、6.9、8.4，9.9分，加總後計算平均值最低3.9分而最高則9.9分</li></ul></li></ul><p><br></p>
+<ul><li><a rel="nofollow" class="external text" href="https://www.ptt.cc/bbs/C_Chat/M.1592634040.A.16A.html">部分中文媒體的評價<s>及發售日後被玩家幹譙</s>的討論</a></li>
+<li>遊戲發售後有<a href="/images/a/ae/TLOU2-NDALimit.png" class="internal" title="TLOU2-NDALimit.png">小道消息</a>指SONY是次對遊戲評測有嚴格的保密協議，只能對指定的場景評分，而那些令人不舒服的情節均在不能公開的範圍內，所以才導致嚴重落差的評分<s>意圖甩鍋給<a href="/%E6%88%90%E5%8F%A5/%E7%B4%A2%E5%B0%BC%E7%BD%AA%E5%A4%A7%E6%BB%94%E5%A4%A9%EF%BC%8C%E6%90%9E%E5%88%B0%E7%99%BE%E5%A7%93%E6%80%A8%E8%81%B2%E8%BC%89%E9%81%93" title="成句/索尼罪大滔天，搞到百姓怨聲載道">索尼</a></s>
+<ul><li>小道消息還指IGN日本的評論違反保密協議讓其他行家頭痛<s>試圖把對方也拖下水</s></li></ul></li></ul><ul><li>日本知名遊戲評測網站「ゲームカタログ@Wiki」對本作的<a rel="nofollow" class="external text" href="https://w.atwiki.jp/gcmatome/pages/8070.html">評價</a>是<b>贊否兩論</b>，未有評定良劣與否</li></ul><ul><li>因為場外爭議和劇本問題，本作「榮登」歐美的「糞GAME百科（Crappy Games Wiki）」</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="最後的MEME"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84MEME">最後的MEME</span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<h3 class="in-block"><span id="喬爾夫球"></span><span class="mw-headline" id=".E5.96.AC.E7.88.BE.E5.A4.AB.E7.90.83">喬爾夫球</span></h3>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">上述前作主角喬爾的死法：在劇情開頭被艾比為報仇用散彈槍轟腿，之後遭艾比以七號高爾夫鐵桿反覆虐打，最終在晚來一步的艾莉面前被砸爆頭殺害</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">和某團長相同，由於喬爾在過程中表現得幾無戒備、加上死法過於潦草且嚴重掉智商因此被批評是人設崩壞，也有網友為此<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=ldyIU9CX-jE">製作了配上希望之花BGM的片段</a></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為橋段過於智障，被球桿打死的喬爾就被嘲諷為喬爾夫球</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>艾比：「我們來打高爾夫球，喬爾你當球」</s></span></li></ul></li></ul></li></ul><ul><li>2022年9月2日，Neil在<a rel="nofollow" class="external text" href="https://twitter.com/Neil_Druckmann/status/1565530296141107200">推特</a>上傳了一張Troy站在室內高爾夫球館門外朝上張望的<s>地獄梗</s>照片，部分熟知此梗的玩家和網友不客氣回文斥責</li></ul><ul><li><s>官方推了一堆聯名周邊，居然獨漏了高爾夫球</s></li>
+<li><s>みんなの<ruby>G<rp>（</rp><rt style="font-size:0.5em;"><s>J</s></rt><rp>）</rp></ruby>OLF</s></li></ul><h3 class="in-block"><span id="金剛芭比"></span><span class="mw-headline" id=".E9.87.91.E5.89.9B.E8.8A.AD.E6.AF.94">金剛芭比</span></h3>
+<ul><li>由於<s>黑人（物理）</s>艾比身形粗獷以及性格暴躁而有的諷刺，甚至有網友直嗆她的人設像猩猩
+<ul><li><s><a href="/Abigail_Williams_(Fate)" title="Abigail Williams (Fate)">隔壁棚某位12歲小女孩</a>以及位名為Abby的角色或現實人物與她撞名，因此難逃<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a></s>
+<ul><li><s>台灣某知名飲料表示：</s></li></ul></li></ul></li></ul><ul><li>也有網友指其身形不可能是一般女性能鍛練的體格，必須大量攝取蛋白質<s>把阿比當水喝</s>及重訓才可能達到<s>，在末世糧食緊拙情況下哪來足夠營養和器材鍛鍊</s>
+<ul><li><s>雖然也有出現健身房和大型農場的場景就是了，不過還是被吐糟浪費資源</s></li>
+<li><s>也有網友認為是靠吞歐文的<a href="/%E7%99%BD%E6%9E%9C%E9%86%AC" title="白果醬">精子</a>來吸收蛋白質</s></li>
+<li>在當初流出的畫面中更一度被誤認為變性人，直到遊戲發售還有很多人誤會
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但艾比的伙伴的列夫真的是變性人<s>，被網友吐槽在末世之下居然能花得起緊拙的資源來變性</s></span></li></ul></li></ul></li></ul><h3 class="in-block"><span id="動物星球頻道、猩猩交配"></span><span class="mw-headline" id=".E5.8B.95.E7.89.A9.E6.98.9F.E7.90.83.E9.A0.BB.E9.81.93.E3.80.81.E7.8C.A9.E7.8C.A9.E4.BA.A4.E9.85.8D">動物星球頻道、猩猩交配</span></h3>
+<ul><li>指遊戲中艾比和她的伙伴「歐文（Owen）」<s>交配</s><a href="/H" title="H">做愛</a>的<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=QdpUdzfbYJQ">場景</a>
+<ul><li>因為角色<s>過於猩猩臉與及強壯的胸肌</s>造型使然，反而令不少網友看到這一幕倒胃
+<ul><li><s>據聞給不知道這遊戲的人看，會以為是<a href="/%E8%82%9B" title="肛">兩個男人在幹炮</a></s></li>
+<li><s>但令網友最氣憤的是艾莉和女友「狄娜（Dina）」的<a href="/GL" class="mw-redirect" title="GL">磨豆腐</a>場景被強制跳過，猩猩交配場景卻一刀不剪</s></li>
+<li>對此<a rel="nofollow" class="external text" href="https://tomo.komica.org/42a/src/1592727107681.jpg">有IGN編輯在推特上嘲諷不喜歡此場景的人都是<s>死</s>處男宅女</a>，但後來似乎因為被圍攻而刪推</li></ul></li>
+<li>歐美<a href="/%E9%84%89%E6%B0%91" title="鄉民">鄉民</a><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">繼艾比勒艾莉脖子、咬斷艾莉手指及<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=SRjO4wQ6fjI"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">列夫被蛇幫胖大叔打趴</span></a>後再</span>把這一幕做成meme模版，供各方鄉民改圖諷刺
+<ul><li>相關改圖數量之多甚至<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=1xKbVfP9dz8">可以串連起來重現該段影片</a><s>，<a href="/%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%98%8E%E6%98%9F%E5%A4%A7%E4%BA%82%E9%AC%A5" title="任天堂明星大亂鬥">Everyone is here!</a></s></li></ul></li></ul></li></ul><ul><li><a rel="nofollow" class="external text" href="https://twitter.com/neuroseraphim/status/1274711749397225472">有網友從參與開發的人員推文推測</a>本段中負責兩位角色動作捕捉的演員皆由Neil負責<s>，自攻自受</s>
+<ul><li>但後來根據網路上流出的動作捕捉圖片應該只有負責歐文的部分</li></ul></li></ul><ul><li>後來<a href="/%E6%AA%94%E6%A1%88:%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6-%E5%8B%95%E7%89%A9%E6%98%9F%E7%90%83%E5%B0%8F%E7%B7%A8.jpg" title="檔案:最後生還者2炎上事件-動物星球小編.jpg">動物星球頻道的台灣臉書粉專小編用猩猩圖片回覆PS台灣粉專</a>，因為後勁強大甚至一度被懷疑遭隱藏，後來證實該留言沒有被隱藏或刪除</li>
+<li>順帶一提因為日本的法規關係<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Y9IBLzAmgJg">日版遊戲裡該段被刪除</a><s>，但相關片段已經被日本網友得知</s></li></ul><h3 class="in-block"><span id="八指吉他"></span><span class="mw-headline" id=".E5.85.AB.E6.8C.87.E5.90.89.E4.BB.96"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">八指</span>吉他</span></h3>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">指結局中被艾比咬斷兩隻手指、無法再彈吉他的艾莉</span></li>
+<li>在遊戲發售日<a href="/Good_Smile_Company" title="Good Smile Company">Good Smile Company</a>公布了艾莉的<a href="/%E9%BB%8F%E5%9C%9F%E4%BA%BA" title="黏土人">黏土人</a><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，被知道遊戲結局的鄉民嘲笑手指數目不正確</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>不過網路上的確有人教授如何用八指彈吉他</s></span></li></ul><h3 class="in-block"><span id="10/10、GOTY"></span><span class="mw-headline" id="10.2F10.E3.80.81GOTY">10/10、GOTY</span></h3>
+<ul><li>分數為諷刺各遊戲媒體在遊戲有明顯缺陷（甚至在評論文裡也暗示）下，依然給予滿分評分的荒謬
+<ul><li><s>使用例：有猩猩幹炮畫面　10/10</s></li></ul></li></ul><ul><li>GOTY則是「G<s>olf</s>game of the Year」，同樣是指遊戲媒體吹捧本作為世紀大作
+<ul><li>亦有人用<ruby>GOTC<rp>（</rp><rt style="font-size:0.5em;">Game of the Century</rt><rp>）</rp></ruby>來嘲諷</li>
+<li><s>不過作為同屆競爭對手的另一黑馬《電馭叛客（Cyberpunk）2077》在本作發售前一日宣佈再次延期至11月發售，有網友擔心本作真的會拿GOTY</s>
+<ul><li><a href="/PS3%E5%A4%A7%E5%AD%B8%E9%95%B7#.E5.8D.B3.E5.B0.87.E7.95.A2.E6.A5.AD.E7.9A.84.E5.AD.B8.E9.95.B7" title="PS3大學長">到10月《電馭叛客2077》又宣佈延期到12月發售，改為競逐下屆GOTY</a>，結果因為種種原因爆死<s>或許一再延期發售是對的？</s></li></ul></li>
+<li>11月中旬TGA公布2020年GOTY名單，<s>果不其然</s>本作成功入圍包括GOTY內等多項奬項入選名單<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><ul><li>同月25日被稱為GOTY前哨戰的<a rel="nofollow" class="external text" href="https://www.4gamers.com.tw/news/detail/45696/">本年度「金搖桿獎」公佈得獎名單</a>，本作得到包括年度遊戲、PS年度遊戲、最佳劇情/視覺設計/音效及年度工作室6個獎項<s>可以改名金喬爾夫球桿獎了</s></li>
+<li><a rel="nofollow" class="external text" href="https://www.4gamers.com.tw/news/detail/45896/">最終</a>本作<s>毫不意外地</s>摘下當年GOTY寶座，並得到包括最佳動作/冒險遊戲、最佳劇情、最佳遊戲指導、最佳音效設計、最佳演出（演員），最佳無障礙創新共7個獎項<s>，TGA的公信力可以丟垃圾桶了</s>
+<ul><li>《對馬戰鬼》則僅<s>因為Neil在場外嘲諷反廚讓鄉民爆氣灌票而</s>得到「Player's Voice」玩家投票和最佳美術設計兩個獎項</li></ul></li></ul></li>
+<li>還得到2021年的日本遊戲大賞優秀賞，然而<a rel="nofollow" class="external text" href="https://awards.cesa.or.jp/prize/year/11.html">評選內容</a>對艾比關連的內容卻一字不提<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>，內文還寫喬爾是被<b>暴漢</b>打死的</s></span></li>
+<li>截至2022年本作總共獲得<b>300多項</b>獎項提名及獲獎，但獲玩家廣泛認同的僅有無障礙設計、以及畫面和音樂表現的相關獎項</li></ul></li></ul><ul><li><s>大概只能希望日本鄉民會送它一個<a href="/%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC" title="クソゲーオブザイヤー">KOTY</a>了</s>←但本作的遊戲性反而沒太大批評，與KOTY那些各種意義上都群魔亂舞的比起來完全不可能登上…</li></ul><h3 class="in-block"><span id="3天400萬"></span><span class="mw-headline" id="3.E5.A4.A9400.E8.90.AC">3天400萬</span></h3>
+<ul><li>官方於發售後首周公布的<a rel="nofollow" class="external text" href="https://twitter.com/PlayStation/status/1276485607955578882">銷售數字</a>，多篇媒體對於此作銷售量的<s>吹捧</s>報導也都引用<b>3天400萬</b>
+<ul><li>然而在於提及市場反應的文章<b>都沒有再提及後續銷售情況</b></li></ul></li></ul><ul><li>有玩家質疑所謂「銷售量」其實只是出貨量，同時PSN遊玩人數並沒考慮二手玩家
+<ul><li>根據統計公司「SuperData」在7月24日發表的<a rel="nofollow" class="external text" href="https://www.superdataresearch.com/blog/worldwide-digital-games-market">銷量調查報告</a>，本作在6月於全球賣出約280萬片<s>所以餘下的120萬到底跑哪去呢</s></li>
+<li>但到翌週<a rel="nofollow" class="external text" href="https://metro.co.uk/2020/06/29/last-us-2-almost-beaten-3ds-game-uk-top-10-games-charts-20-june-12916439/">在英國的銷量急瀉80%</a>，甚至打破了同公司的《秘境探險4》的次週下跌78%的記錄；<a rel="nofollow" class="external text" href="https://www.spieltimes.com/news/the-last-of-us-part-ii-sales-dropped-85-week-on-week-japan/">在日本次週銷量亦下跌85%</a></li></ul></li></ul><ul><li>但是SONY於2020年8月發表2020年第一季財務報表時依然只拿<b>3天400萬</b>銷量作數據，對累積銷量再三緘默
+<ul><li>至2020年11月的第二季、以至2021年2月的第三季報表仍然維持相同數據；同時公布數據的《對馬戰鬼》已由上一份報表的<b>3天240萬</b>更新為<b>118天500萬</b>
+<ul><li><s>大概2020年最後一季報表數字也不會改變了</s></li>
+<li><s>通常一款遊戲銷售量真的有大突破，遊戲公司一定會把突破新紀錄的銷售數字大幅宣傳，本作只維持相同數據的狀況不是銷售數字在膨風不敢更新、就是怕引起爭議不敢公布後續銷售量。</s></li></ul></li></ul></li></ul><ul><li>雖然沒有實際數字但<a rel="nofollow" class="external text" href="https://forum.gamer.com.tw/C.php?bsn=21876&amp;snA=3393">按網友</a>估算，截至2021年1月底，本作約銷售650萬套<s>連舊作的一半也沒有</s></li></ul><ul><li>截至2022年2月雖然<b>遊玩人數</b>突破600萬，但官方公佈<b>銷售數量</b>依然維持<b>3天400萬</b>
+<ul><li>順帶一提，<s>老是被本作射冷箭的</s>《對馬戰鬼》銷售量在Sony 2021第三季業績報表（2022年2月）正式確立已突破800萬（PS4+PS5版）</li>
+<li>期間連《死亡擱淺》與《對馬戰鬼》也出導演版，甚至《戰神》也已經在PC上市。<s>所以我說《血緣詛咒》和《對馬戰鬼》何時…</s></li></ul></li></ul><ul><li>到2022年6月索尼的夏季遊戲節正式宣佈本作銷量<b>在今年稍早<s>終於</s>已突破1000萬</b>；頑皮狗副總裁Arne Meyer也在<a rel="nofollow" class="external text" href="https://twitter.com/arnemeyer/status/1534984267477921792">推特</a>感謝全球粉絲的支持<s>（多重的意味）</s>
+<ul><li><s>新名詞「兩年1000萬」誕生。</s></li>
+<li>但是在公布前兩星期的2021年第四季索尼財務報表上依然標注3天400萬，使得某些人對頑皮狗上述聲稱的業績存疑。
+<ul><li>直到<a rel="nofollow" class="external text" href="https://www.sony.com/en/SonyInfo/IR/library/presen/er/pdf/22q1_supplement.pdf">2022年7月發表的第一季財務報表</a>依然標注3天400萬，尚未更新<s>，如果到第二季財務依然維持，那1000萬這數字很值得商榷了</s></li></ul></li>
+<li><s>有人懷疑是把綑綁PS5送出的量也算進去</s></li></ul></li></ul><h3 class="in-block"><span id="「你一定會原諒我，因為我已幫你選了」"></span><span class="mw-headline" id=".E3.80.8C.E4.BD.A0.E4.B8.80.E5.AE.9A.E6.9C.83.E5.8E.9F.E8.AB.92.E6.88.91.EF.BC.8C.E5.9B.A0.E7.82.BA.E6.88.91.E5.B7.B2.E5.B9.AB.E4.BD.A0.E9.81.B8.E4.BA.86.E3.80.8D">「你一定會原諒我，因為我已幫你選了」</span></h3>
+<ul><li>源自某位中國玩家在Bilibili上對對岸遊戲媒體「機核GAMECORES」的嘲諷（也有一說是源自歐美） <span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，諷刺結局中艾莉<s>被強制聖母發作</s>放過艾比的橋段</span>
+<ul><li>作為其中一家盛讚本作的媒體，機核在<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=gzquHxrtN3Q">評論</a>中稱本作為「屬於電子遊戲的奇跡」於是被對岸玩家和鄉民恥笑<s>，評論片下篇似乎也因此遲遲不出來</s></li>
+<li><s>然而本句其實是<a href="/%E8%B5%B7%E6%BA%90" title="起源">起源</a>自<a rel="nofollow" class="external text" href="https://www.bilibili.com/audio/au1659734">與本作無關的電台節目的留言區</a></s></li></ul></li></ul><ul><li>通常用於玩家責罵官方和護航者不是後，嘲笑他們會如遊戲中一樣會被強制要原諒玩家難聽的指罵</li></ul><h3 class="in-block"><span id="靈魂昇華"></span><span class="mw-headline" id=".E9.9D.88.E9.AD.82.E6.98.87.E8.8F.AF">靈魂昇華</span></h3>
+<ul><li><a href="#.E4.BA.9E.E6.B4.B2">桿菌無敵在上述玩後感影片中</a>多次<s>伴隨髒話</s>吐出的詞語，意指遊戲中角色各種無法以常理理解的<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">聖母</span>行為</li></ul><h3 class="in-block"><span id="教育玩家"></span><span class="mw-headline" id=".E6.95.99.E8.82.B2.E7.8E.A9.E5.AE.B6">教育玩家</span></h3>
+<ul><li>Neil在<a rel="nofollow" class="external text" href="https://hypebeast.com/2020/6/the-last-of-us-part-2-neil-druckmann-response">2021年6月30日的訪談</a>對批評者回覆自己在藉由遊戲教育玩家
+<ul><li>此一回覆導致進一步的炎上，遊玩此作自此被戲稱為接受教育，遊戲本身則被稱為「教育大作」</li></ul></li></ul><ul><li>2022年因為《跑車浪漫旅7》的1.07版本更新風波以及PS Plus強制升級事件，要求玩家課金的吃相太過難看，用法被擴及至索尼的鐵桿粉絲</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="番外篇：要怎麼救最後生還者2的劇情（可自由發揮）"></span><span class="mw-headline" id=".E7.95.AA.E5.A4.96.E7.AF.87.EF.BC.9A.E8.A6.81.E6.80.8E.E9.BA.BC.E6.95.91.E6.9C.80.E5.BE.8C.E7.94.9F.E9.82.84.E8.80.852.E7.9A.84.E5.8A.87.E6.83.85.EF.BC.88.E5.8F.AF.E8.87.AA.E7.94.B1.E7.99.BC.E6.8F.AE.EF.BC.89"><s>番外篇：要怎麼救最後生還者2的劇情（可自由發揮）</s></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="vote-block"><div class="vote-page" data-section="1" data-vote-page="最後生還者2炎上事件/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=1">編輯投票選項</a></span></div></div>
+<p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="最後的其他引發炎上事件的ACG作品及關連條目"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E5.85.B6.E4.BB.96.E5.BC.95.E7.99.BC.E7.82.8E.E4.B8.8A.E4.BA.8B.E4.BB.B6.E7.9A.84ACG.E4.BD.9C.E5.93.81.E5.8F.8A.E9.97.9C.E9.80.A3.E6.A2.9D.E7.9B.AE">最後的其他引發炎上事件的<a href="/ACG" title="ACG">ACG</a>作品及關連條目</span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><a href="/%E7%9C%9F%E3%81%AE%E4%BB%B2%E9%96%93" title="真の仲間">真の仲間</a></li></ul><ul><li>同樣有破壞前作（既有角色）問題的作品：
+<ul><li><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88_%E9%90%B5%E8%A1%80%E5%AD%A4%E5%85%92" title="機動戰士鋼彈 鐵血孤兒">機動戰士鋼彈 鐵<span style="color:red;background-color:;">血</span>孤兒</a>：第二期時為了強收劇情劣化角色，製作組事後還以訪談行炎上商法之實
+<ul><li><a href="/%E6%88%90%E5%8F%A5/%E4%B8%8D%E8%A6%81%E5%81%9C%E4%B8%8B%E4%BE%86%E5%95%8A" title="成句/不要停下來啊">成句/不要停下來啊</a></li>
+<li><a href="/%E7%A0%B4%E6%BB%85%E9%AD%94%E5%8A%8D" title="破滅魔劍">破滅魔劍</a></li></ul></li>
+<li>權力遊戲第八季：和樓上一樣為了強行在第八季收掉而<a href="/%E7%88%9B%E5%B0%BE" title="爛尾">爛尾</a>，導致長年追劇的粉絲們大崩潰</li>
+<li><a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_ARC-V" title="遊☆戯☆王 ARC-V">遊☆戯☆王 ARC-V</a>
+<ul><li>詳細可參閱<a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_ARC-V#.E8.BB.BC.E8.81.9E.EF.BC.9A.E6.96.BCNico.E4.B8.8A.E8.A2.AB.E5.85.AC.E8.AA.8D.E7.82.BA.E3.80.8C.E4.B8.8D.E6.96.B7.E8.B6.85.E8.B6.8A.E6.94.BE.E9.80.81.E4.BA.8B.E6.95.85.E7.9A.84.E5.AD.98.E5.9C.A8.E3.80.8D.EF.BC.88.E7.84.A1.E8.AA.A4.EF.BC.89" title="遊☆戯☆王 ARC-V">該條目的解說章節</a></li></ul></li>
+<li><a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="動物朋友2">動物朋友2</a>：被認為是為了報復<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B" title="動物朋友">原製作組</a>創造了另一個<a href="/%E5%92%95%E5%9A%95%E5%9A%95" title="咕嚕嚕">惡搞原主角設定的角色</a>、甚至改惡世界觀、扭曲台詞
+<ul><li><a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B/%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%A3%BD%E4%BD%9C%E5%9C%98%E9%9A%8A%E6%9B%B4%E6%8F%9B%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" class="mw-redirect" title="動物朋友/第二季製作團隊更換炎上事件">動物朋友/第二季製作團隊更換炎上事件</a></li></ul></li>
+<li><a href="/index.php?title=%E6%98%9F%E9%9A%9B%E5%A4%A7%E6%88%B0%E7%B3%BB%E5%88%97&amp;action=edit&amp;redlink=1" class="new" title="星際大戰系列（頁面不存在）">星際大戰</a>7-9部：SJW風潮的另一個受害者，系列舊作名角幾乎全領<a href="/%E4%BE%BF%E7%95%B6" title="便當">便當</a>甚至被否定</li>
+<li><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88SEED%E7%B3%BB%E5%88%97" title="機動戰士鋼彈SEED系列">機動戰士鋼彈SEED Destiny</a>：因為編劇惡搞等原因破壞前作人物形象</li>
+<li>太空超人：啟示錄</li>
+<li><a href="/LoveLive!_%E5%AD%B8%E5%9C%92%E5%81%B6%E5%83%8F%E7%A5%AD_ALL_STARS" title="LoveLive! 學園偶像祭 ALL STARS">LoveLive! 學園偶像祭 ALL STARS</a>：第二部劇情為洗白反方角色，以類似的手法令主角眾自我檢討</li></ul></li></ul><ul><li><a href="/%E5%B0%8D%E9%A6%AC%E6%88%B0%E9%AC%BC" title="對馬戰鬼">對馬戰鬼</a> — 同為PS4獨佔遊戲，<s>接二連三被本作背刺</s></li>
+<li><s><a href="/%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2" title="尼爾 自動人形">尼爾 自動人形</a> — 在講述復仇及雙線敘事方面比本作優秀得多的作品，還因為名字而風評被害</s></li>
+<li><s><a href="/%E3%82%B0%E3%83%AD%E3%83%86%E3%82%B9%E3%82%AF" title="グロテスク">グロテスク</a></s></li>
+<li><s><a href="/%E5%9C%B0%E9%9B%B7" title="地雷">地雷</a></s></li>
+<li><s><a href="/%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC" title="クソゲー">クソゲー</a></s></li>
+<li><s><a href="/%E6%88%90%E5%8F%A5/%E7%B4%A2%E5%B0%BC%E7%BD%AA%E5%A4%A7%E6%BB%94%E5%A4%A9%EF%BC%8C%E6%90%9E%E5%88%B0%E7%99%BE%E5%A7%93%E6%80%A8%E8%81%B2%E8%BC%89%E9%81%93" title="成句/索尼罪大滔天，搞到百姓怨聲載道">成句/索尼罪大滔天，搞到百姓怨聲載道</a></s></li>
+<li><s><a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">政治正確</a></s></li>
+<li><s><a href="/SJW" title="SJW">SJW</a></s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="最後的回應"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E5.9B.9E.E6.87.89">最後的回應</span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" title="討論:最後生還者2炎上事件">討論:最後生還者2炎上事件</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="最後的備註"></span><span class="mw-headline" id=".E6.9C.80.E5.BE.8C.E7.9A.84.E5.82.99.E8.A8.BB">最後的備註</span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">《機動戰士鋼彈 鐵<span style="color:red;background-color:;">血</span>孤兒》《<a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_ARC-V" title="遊☆戯☆王 ARC-V">遊☆戯☆王 ARC-V</a>》《<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="動物朋友2">動物朋友2</a>》以及本條目作品的合併tag，共通點為「高跳低開」「毀掉作品系列名聲的新作」</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">也有說法指影片內容早在4月初在4Chan流傳，但當時已被刪除，26-28是由其他人發佈</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">早於3月時已經<a rel="nofollow" class="external text" href="https://www.gcores.com/articles/123355">據聞</a>有員工對內部的加班文化不滿，亦有受訪員工表示希望遊戲失敗使管理層正視現時的管理制度</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">原文已被刪除，此為網友的備份</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">雖然冠有IGN名字，但IGN除本家（美國）、IGN英國和IGN澳洲外其他分部並非完全直營；IGN日本則是由日本產經新聞集團營運</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Neil<a rel="nofollow" class="external text" href="https://twitter.com/Neil_Druckmann/status/127460479299256320">後來發推</a>表示角色演員另有其人<s>，但還是趁機自讚帥氣一波</s></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">被刪除時該文章的BP（負評）量顯示為「X」（BP破千），而且是兩區的文章都是相同情況</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">由於上一代的劇情是聯合創作而非Neil全權操控，有流言指因為自己構思的劇情被大幅改動且獲得好評而懷恨在心，今集的劇情才是他原本構思的內容</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">例如一代最後艾莉是否知道喬爾為了自己的生命而放棄可以換取解救世界危機的解藥的爭議，普遍玩家認同艾莉是知情但為了維持與喬爾的關係而選擇緘默不言</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">眾多評論中極少數對劇情給出差評的媒體</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">最佳美術、最佳配樂、最佳聲效、最佳無障礙支援、最佳劇本、最佳冒險遊戲、最佳導演及GOTY</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=最後生還者2炎上事件&amp;oldid=409645">https://wiki.komica.org/index.php?title=最後生還者2炎上事件&amp;oldid=409645</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6"
+				data-user-name="Pixis"
+				data-user-gender="unknown"
+				data-timestamp="1662444749">
+				最後編輯於 2022年9月6日 (週二) 14:12
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.739","ppvisitednodes":{"value":2355,"limit":1000000},"ppgeneratednodes":{"value":6444,"limit":1000000},"postexpandincludesize":{"value":35789,"limit":2097152},"templateargumentsize":{"value":16457,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4386,"limit":5000000},"timingprofile":["100.00%  354.623      1 -total"," 22.60%   80.140     78 模板:Censored"," 13.08%   46.401      1 模板:H0"," 12.60%   44.690     10 模板:Ref"," 12.18%   43.203     16 模板:Youtube","  9.19%   32.591     22 模板:Twitter","  5.67%   20.109      7 模板:Ruby","  5.57%   19.747      2 模板:Size","  4.25%   15.075      3 模板:Hideh","  4.03%   14.305      6 模板:Color"]},"cachereport":{"timestamp":"20221106233149","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":213});});</script>		</body>
+		</html>
+		

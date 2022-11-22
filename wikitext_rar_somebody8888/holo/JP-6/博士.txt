@@ -1,0 +1,90 @@
+{{h0|博衣こより（はくいこより） / Hakui Koyori / 博衣小夜璃<ref>非官方譯名</ref> / 博士 / <s>色狼</s> }}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub|本條目[[:分類:需要擴充的條目|內容不足需要擴充]]，歡迎有興趣的助手くん們加以補完。}}
+|}
+
+[[File:博衣こより.jpeg|350px|right]]
+: {{size|24|{{color|#fe68ad||'''こんこよ〜！ホロライブ6期生、holoXの〜…頭脳〜！博衣こよりだよ〜！'''}}}}
+
+== 基本資料 ==
+* 所屬：[[hololive]]
+* 人設：{{twitter|momoco_haru|name=ももこ}}
+* 生日：3月15日（雙魚座）
+* 身高：153cm
+* 繪文字：🧪
+* 主題標籤：{{twitter|hashtag=こより実験中}}、{{twitter|hashtag=こよりすけっち}}
+* 粉絲稱呼：こよりの助手くん
+* 模型擔當：
+** Live2D：{{twitter|rariemonn765|name=rariemonn}}
+
+== 介紹 ==
+* 2021年11月28日在Youtube開始活動的女性虛擬Youtuber，hololive所屬六期生。
+* 設定上是《秘密結社holoX》的[[瘋狂科學家|研究員]]。一面照顧著結社成員、一面進行人類觀察。熱心研究、好奇心旺盛，有時會為了觀察他人反應而惡作劇。自稱是「holoX的大腦」，但實際上她的知識是有所偏差的。
+* 姓氏源自白大褂的日語「白衣」，名字則是英語郊狼「Coyote」的變字。
+** 其名字的漢字除了「小夜璃」之外，也可以譯作「紙縒」，「小依」，「心和」等。
+* 在與前輩們聯動Among Us時被[[櫻巫女]]相中而成為其舍弟（指黑幫組織裡的小弟）。
+** 後來她在發現巫女進行凸待ち卻無人上門時也是一馬當先主動突擊，真可謂舍弟之鑒（？）。
+
+== 個人資料 ==
+* 初配信時同接人數超過18萬，超越同期[[ラプラス・ダークネス|總帥]]的16萬紀錄。
+* 種族為「郊狼」，雖是狼的近親但頭腦相當聰明，自己的名字「こより」也是源自郊狼的英文「coyote」
+** <s>後來不意外的在聯動時被狼媽拿出來講。</s>
+* 六期中開台總時數最長也最頻繁，甚至現在(2022年1月時)放在全holo裡比較當月開台時數也是前幾名的那種。
+
+== 主要事紀 ==
+=== 2021年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 11月26日
+| hololive在Youtube、推特宣布六期生出道的消息。同日推特開始活動，但因為出現大量追隨，而導致帳號在活動後10分鐘就被推特凍結。同日YouTube平台10萬訂閱銀盾達成。
+|-
+! width="80px" | 11月28日
+| 於Youtube平台進行初配信。同日YouTube平台20萬訂閱達成。
+|-
+! width="80px" | 12月2日
+| YouTube平台30萬訂閱達成。
+|-
+! width="80px" | 12月8日
+| Youtube收益化通過。同日推特帳號成功解封。
+|-
+! width="80px" | 12月14日
+| YouTube平台40萬訂閱達成。
+|-
+! width="80px" | 12月23日
+| 聯動解禁，首位聯動對象為[[大神澪]]。同日開啟YouTube頻道會員。
+|}
+
+=== 2022年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月1日
+| 公佈新年正月造型。
+|-
+! width="80px" | 1月23日
+| YouTube平台50萬訂閱達成。
+|-
+! width="80px" | 5月14日
+| YouTube平台60萬訂閱達成。
+|}
+
+== 相關條目 ==
+*'''[[KomicaWiki]]條目'''
+** [[虛擬Youtuber]]
+** [[hololive]]
+*'''外部連結'''
+** [https://hololive.hololivepro.com/talents/hakui-koyori/ 官方介紹頁]
+** 影片頻道：{{youtube|c=UC6eWCld0KwmyHFbAqK3V-Rw|title=YouTube}}
+** 社交媒體：{{twitter|hakuikoyori|name=Twitter帳戶}}
+** 相關連結：[https://seesaawiki.jp/hololivetv/d/%c7%ee%b0%e1%a4%b3%a4%e8%a4%ea ホロライブ非公式wiki]、[https://dic.pixiv.net/a/%E5%8D%9A%E8%A1%A3%E3%81%93%E3%82%88%E3%82%8A pixiv百科]、[https://zh.moegirl.org.cn/%E5%8D%9A%E8%A1%A3%E5%B0%8F%E5%A4%9C%E7%92%83 萌娘百科]
+
+{{hololive production}}
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+
+[[Category:角色]]
+[[Category:虛擬YouTuber]]
+[[Category:hololive]]
+[[Category:網路文化]]

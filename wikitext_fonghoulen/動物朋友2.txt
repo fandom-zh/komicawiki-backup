@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>動物朋友2 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"動物朋友2","wgTitle":"動物朋友2","wgCurRevisionId":363119,"wgRevisionId":363119,"wgArticleId":32666,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"動物朋友2","wgRelevantArticleId":32666,"wgRequestId":"aa77aa0458c77080fccf7066","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-動物朋友2 rootpage-動物朋友2 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">動物朋友2</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">動物朋友2<s>/<ruby>偽物朋友<rp>（</rp><rt style="font-size:0.5em;">にせものフレンズ</rt><rp>）</rp></ruby>/<ruby>2<rp>（</rp><rt style="font-size:0.5em;">に</rt><rp>）</rp></ruby>せものフレンズ/盜墓朋友/動物沒朋友/動怒朋友/動<ruby>惡<rp>（</rp><rt style="font-size:0.5em;">ㄨˋ</rt><rp>）</rp></ruby>朋友/動物朋友<ruby>惡<rp>（</rp><rt style="font-size:0.5em;">ㄜˋ</rt><rp>）</rp></ruby>/動武朋友/動朋同人作/銅臭味朋友/<ruby>けものエネミーズ<rp>（</rp><rt style="font-size:0.5em;">Kemono Enemies</rt><rp>）</rp></ruby>/暴力團朋友/<a href="/%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D" title="人中之龍">人中之朋</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>/平成最後最糞最惡<a href="/%E6%B1%9F%E4%B9%8B%E5%B3%B6%E7%9B%BE%E5%AD%90" title="江之島盾子">絕望</a>動畫/動物朋友<span style="font-family:新細明體;">□</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></s></div>
+<table class="wikitable" style="margin:1.5em auto; text-align:center;"><tbody><tr><td><span style="color:red;background-color:;"><b>警告！本條目已發佈第一級<ruby>天藍怪<rp>（</rp><rt style="font-size:0.5em;"><span style="color:blue;background-color:;">KADOKAWA</span></rt><rp>）</rp></ruby>警報！</b></span>
+</td></tr><tr><td>由於世界觀設定與<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B" title="動物朋友">一期</a>出入甚大，因此獨立條目處理
+</td></tr><tr><td>本條目含有<span style="color:red;background-color:;"><b>令人胃痛的</b></span>故事劇透，沒看過一期又不想被傷害到的島民請不要繼續看下去。
+</td></tr><tr><td><span style="color:red;background-color:;"><s><b>一部「戲外」比起作品本身還要「精彩」的作品，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">背後內幕不只來自單純的忌妒而已，可能涉及<ruby><a href="/%E6%9E%95%E8%81%B2%E5%84%AA" title="枕聲優"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">聲優枕營業</span></a><rp>（</rp><rt style="font-size:0.5em;">小朋友們，長大後才知道意思比較好喔!</rt><rp>）</rp></ruby>未遂、推特恐嚇和黑道背景介入</span></b></s></span>
+</td></tr><tr><td><s>人民對動朋2的不滿已經化作「<span style="color:red;background-color:;"><b>紅樹</b></span>」(最差紀錄)和「<span style="color:red;background-color:;"><b>紅霧</b></span>」(彈幕)了</s>
+</td></tr><tr><td><s>能夠搞到合作商不合作了的超強動畫。SEGA的動朋三跟作品無關連，是衍生街機和手遊作品</s>
+</td></tr><tr><td><s>歡迎<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B/%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%A3%BD%E4%BD%9C%E5%9C%98%E9%9A%8A%E6%9B%B4%E6%8F%9B%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" class="mw-redirect" title="動物朋友/第二季製作團隊更換炎上事件">隨時幹角川</a>，但未加刪除線的</s>劇情記述部份請勿背離客觀事實
+</td></tr><tr><td><span style="color:red;background-color:;"><b>恭賀!!!本作終於打敗ARC-V，拿下平成真正最後最糞最惡動畫寶座。</b></span>
+</td></tr><tr><td><b>動物朋友的聲優是無辜的</b><s>除了山下まみ</s><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>，<b>請不要指責她們或對她們開罵。</b>該罵的是暗黑四巨頭<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>。
+</td></tr><tr><td><s>感謝動朋2的存在才能讓我們看到優秀的<span style="color:red;background-color:;"><b>煙草</b></span></s>。
+</td></tr></tbody></table><p>本條目介紹<s>仿冒品</s>動畫「動物朋友2」與其出場的Friends以及人類角色等。
+</p>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="概要"></span><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=1" title="編輯章節：概要" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li><s>雖然Friends們都不會想承認，不過既然都掛2了所以名義上姑且算是</s>系列第2作。<s>檔期故意安排於</s>2019年1月16日開始播映，預定全12話
+<ul><li>木村在接受歐美動畫代理「Crunchyroll」的<a rel="nofollow" class="external text" href="https://bit.ly/2uumPSg">訪談</a>時表明了本作非一期的延續，而是全新故事<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><s>藉此開脫他改惡舊角和破壞一期回憶</s></li></ul></li></ul><ul><li><s>完全不適合小孩收看，也完全不適合大人收看的子供向動畫</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原本想說是像幼兒等級的，但自第9話後確定是不要給孩子看比較好的動畫</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">日本的小孩子也有說想看的是背包醬，還有小孩子看完後不發一語</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第11話、12話的天藍怪拿給小孩看會讓他們做惡夢的。請勿殘害幼苗。</span></li>
+<li><s><a rel="nofollow" class="external text" href="https://dic.nicovideo.jp/b/a/%E3%81%91%E3%82%82%E3%81%AE%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA2%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6/841-">連跑完ARC-V的鐵打鄉民看完都會受致命傷的可怕存在</a></s></li></ul></li></ul><ul><li>故事通常都會出現<s>沒</s>有意義<s>拖時間用</s>的橋段，對於動物特徵或習性也是完全根本不嚴謹
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">撇開925事件爭議不談，本作就是連像人類跟狗狗的故事如此好發揮的題材也能寫成令人氣憤的作品</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>故事裡到處充滿了咕嚕嚕高高在上的人類心態、動物之間與咕嚕嚕和動物之間的冷暴力</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>到第11話時埋了大約20幾個伏筆，卻連一個也沒有打算解的意思，浪費了整整一話只為了表現「Friends們在飯店打怪」而已</s></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>然後次話（最終話）終於想到了解決伏筆的方法，那就是當作沒有伏筆就好了</s></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>說好的海底火山爆發？說好的全公園的危機？說好的尋家目的跟咕嚕嚕的身世？說好的Beast是怎麼一回事？<b>請將上面的通通當作不存在</b></s></span></li></ul></li></ul></li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>幾位重要聲優要動畫結束之後的五、六月間不是移社就是退出公司</s></span></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在此感謝本作讓我們能提前幾年的時間看到煙草動畫版。</span></li></ul><h3 class="in-block"><span id="軼事"></span><span class="mw-headline" id=".E8.BB.BC.E4.BA.8B">軼事</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=2" title="編輯章節：軼事" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>相關<s>不祥</s>事件可詳見<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B/%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%A3%BD%E4%BD%9C%E5%9C%98%E9%9A%8A%E6%9B%B4%E6%8F%9B%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6#.E5.8B.95.E7.89.A9.E6.9C.8B.E5.8F.8B2_.E6.B2.92.E6.9C.89.E9.80.99.E7.A8.AE.E6.9D.B1.E8.A5.BF" class="mw-redirect" title="動物朋友/第二季製作團隊更換炎上事件">此條目</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="故事"></span><span class="mw-headline" id=".E6.95.85.E4.BA.8B">故事</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=3" title="編輯章節：故事" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>藪貓與獰貓在森林中遇到了「人類」的小孩「咕嚕嚕」，並與<b>他</b>一同展開了旅程。</li>
+<li>她們在旅途中除了遇上各式各樣的朋友，還發現了Japari公園的秘密、更遇上了巨大的危機…<s>危機？哪來的危機啊？（看完12話的觀眾）</s></li></ul><h3 class="in-block"><span id="追加的世界觀設定"></span><span class="mw-headline" id=".E8.BF.BD.E5.8A.A0.E7.9A.84.E4.B8.96.E7.95.8C.E8.A7.80.E8.A8.AD.E5.AE.9A">追加的世界觀設定</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=4" title="編輯章節：追加的世界觀設定" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>根據官方說法，本作時間點是設定在一期的<b>2000年後</b><s>卻沒有講明中間發生了什麼事</s>
+<ul><li>追加了砂星有低機率將動物變成<a href="/Beast_(Fate)" title="Beast (Fate)">野獸（ビースト/Beast）</a>的設定
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其為生物朋友化過程中，在千分之一的機率下生成的失敗體，沒有任何朋友化的手段</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">意識仍然維持在動物狀態，壽命則只有朋友的五分之一到十分之一</span></li>
+<li>雖然有著與Friends相似的外形但具攻擊性，身上的鐐銬則是人類曾試圖操控她們的證據</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">漫畫中對野獸的解釋則是本質上跟一般的Friends沒什麼兩樣，但朋友化後卻長期處於野生解放狀態，而且無法控制自己的力量，導致會無法控制自己的四處破壞</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">漫畫中在家犬事件獰貓在面對巨大天藍怪時也有變成類似野獸的狀態，Boss也曾誤判這個狀態的獰貓是野獸，從這點來看在漫畫中一般的Friends似乎也有變成野獸的危險性…</span></li></ul></li>
+<li><s>二期中「野獸」的設定下有點多餘</s></li></ul></li></ul></li></ul><ul><li>2019年6月的展覽「動物朋友：<a href="/%E4%B8%96%E7%95%8C" title="世界">世界</a>（けものフレンズわーるど） <s>Za Warudo</s>」中還公開了吉崎寫下的、關於人類朋友的<s>吃書</s>設定：
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">人類朋友的生命因為不合朋友化定義並不穩定，且有五階段的成長</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">順帶一提本作中登場的背包桑是成長到第四階段</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>這樣看來，吉崎並不覺得人類是動物</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一旦拒絕成長或企圖自殺就會消失掉<s>，總之就是要卡邦死</s></span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">至於本作主角咕嚕嚕<s>咕嚕渣</s>是天藍怪女王消滅人類後，<b>複製某少年生成的第一位人類</b></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然而女王只有複製心靈，本體則與家人安然度過餘生</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">開場出現的結晶體則是女王化成的</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從以上設定得知他們想用大量矛盾設定把咕嚕嚕的地位高抬</span></li></ul></li></ul></li></ul><ul><li><s>以上設定充滿了鬱和糞要素，被認為是為了將一期的溫柔世界連根拔起而在事後追加的</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="角色列表"></span><span class="mw-headline" id=".E8.A7.92.E8.89.B2.E5.88.97.E8.A1.A8"><a href="/%E8%A7%92%E8%89%B2" class="mw-redirect" title="角色">角色</a>列表</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=5" title="編輯章節：角色列表" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><s>けもフレ2被害者の会</s></li>
+<li>演出上相比前作，更常表現出人類<s>負面</s>特質<s>或被馴化過</s>的一面
+<ul><li><s>相對下動物特質表現十分缺乏，比起動物擬人還比較像是人類在<a href="/Cosplay" title="Cosplay">Cosplay</a>動物</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對話時還都不望對方</span></li>
+<li><s>因為連結力薄弱，讓人印象深刻的Friends不多</s></li></ul></li></ul><h3 class="in-block"><span id="主角群"></span><span class="mw-headline" id=".E4.B8.BB.E8.A7.92.E7.BE.A4">主角群</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=6" title="編輯章節：主角群" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="咕嚕嚕（キュルル）"></span><span class="mw-headline" id=".E5.92.95.E5.9A.95.E5.9A.95.EF.BC.88.E3.82.AD.E3.83.A5.E3.83.AB.E3.83.AB.EF.BC.89"><a href="/%E5%92%95%E5%9A%95%E5%9A%95" title="咕嚕嚕">咕嚕嚕</a>（キュルル）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=7" title="編輯章節：咕嚕嚕（キュルル）" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：<a href="/%E7%9F%B3%E5%B7%9D%E7%94%B1%E4%BE%9D" title="石川由依">石川由依</a>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">性別：男</span><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>詳細請見其專屬條目。</li></ul></li>
+<li><s>靠自己的行為就可以引發眾人怒火，也是製作組喜歡的角色，時常造神，甚至強調他是真命天子</s></li></ul><h4 class="in-block"><span id="藪貓（サーバル/Serval_Cat）"></span><span class="mw-headline" id=".E8.97.AA.E8.B2.93.EF.BC.88.E3.82.B5.E3.83.BC.E3.83.90.E3.83.AB.2FServal_Cat.EF.BC.89">藪貓（サーバル/Serval Cat）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=8" title="編輯章節：藪貓（サーバル/Serval Cat）" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：尾崎由香</li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">官方說法為第三代，住在廁所（無誤）</span></li>
+<li>喊「すっごーい」的頻率較一期高出許多<s>，有事沒事都喊，化成了「すっごーい<a href="/%E6%A9%9F%E5%99%A8%E4%BA%BA" title="機器人">bot</a>」</s>
+<ul><li>第4話還有玩狩獵遊戲<s>只是原地繞圈</s></li>
+<li>到第9話<s>智商突然升高，也</s>首次發動<a href="/%E5%8B%95%E7%89%A9%E6%88%A6%E9%9A%8A%E3%82%B8%E3%83%A5%E3%82%A6%E3%82%AA%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%BC" title="動物戦隊ジュウオウジャー">野生解放</a></li>
+<li><s>其實那是爆種嚇退東北虎</s></li></ul></li></ul><ul><li>海上飯店裡有賣她的布偶</li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">就算把她排除掉也不會影響劇情</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">有第一季跟背包旅行的記憶，但現在記憶<s>被強制</s>模糊</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第12話裡出現的天藍怪帶有人類對本尊的懷戀感越強就會越強的設定，可是看不出來咕嚕嚕跟藪貓有到那種程度</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同話最後她依然<b>完全忘記過去與背包旅行之事</b><s>（怒）</s></span></li></ul></li></ul><h4 class="in-block"><span id="獰貓（カラカル/Caracal）"></span><span class="mw-headline" id=".E7.8D.B0.E8.B2.93.EF.BC.88.E3.82.AB.E3.83.A9.E3.82.AB.E3.83.AB.2FCaracal.EF.BC.89">獰貓（カラカル/Caracal）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=9" title="編輯章節：獰貓（カラカル/Caracal）" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：小池理子</li></ul><ul><li>藪貓的好夥伴，個性相對之下比較冷靜</li>
+<li>目前表現最聰明的朋友，行事也比較主動</li>
+<li><s>明明看不出來跟咕嚕嚕關係很好，卻在第9話耍<a href="/%E5%82%B2%E5%AC%8C" class="mw-redirect" title="傲嬌">傲嬌</a></s></li>
+<li>對認識時間短暫的家犬直接作了「實力很弱怎能守護咕嚕嚕」的狠評<s>，沒想到獰貓你居然說了這種話</s></li>
+<li>海上飯店的販賣部裡，她的布偶跟藪貓的被擺在一起賣。</li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第12話出現的天藍怪版獰貓與藪貓同樣強，但也同樣看不出來她與咕嚕嚕有到那種程度</span></li></ul><h4 class="in-block"><span id="幸運獸（ラッキービースト/Lucky_Beast）"></span><span class="mw-headline" id=".E5.B9.B8.E9.81.8B.E7.8D.B8.EF.BC.88.E3.83.A9.E3.83.83.E3.82.AD.E3.83.BC.E3.83.93.E3.83.BC.E3.82.B9.E3.83.88.2FLucky_Beast.EF.BC.89">幸運獸（ラッキービースト/Lucky Beast）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=10" title="編輯章節：幸運獸（ラッキービースト/Lucky Beast）" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：<a href="/%E5%85%A7%E7%94%B0%E5%BD%A9" title="內田彩">內田彩</a></li></ul><ul><li>嚮導，沒有再以<a href="/Big_Boss" title="Big Boss">Boss</a>稱呼<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，與上季相比似乎被砍至只剩下帶路功能</span></li></ul><ul><li>有多種亞種：
+<ul><li>綠色（第1-4話初）：最後<s>被扔</s>在輕軌上告別
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">頭部毀損而戴上海盜帽還有眼罩作為掩飾<s>不要問那麼一大塊缺陷是誰造成的</s></span></li></ul></li>
+<li>墨西哥風的黃色（第4話）：接棒帶去找房子一圈<s>，很吵</s>，最後在叢林入口告別</li>
+<li>揹雙刀的<s>桐人</s>灰色（第4話末-第6話）：接棒要帶主角們進入叢林，在背包趕走東北虎後<s>瞬移回到咕嚕嚕的包包裡跳出再</s>故障倒下、背包開車來載眾Friends後就被忽略了<s>，騙人的吧</s></li>
+<li>第12話時背包又帶了一隻幸運獸</li></ul></li></ul><ul><li>此後嚮導任務均由背包交托的幸運獸手錶擔任</li></ul><h4 class="in-block"><span id="大穿山甲（オオセンザンコウ/Giant_pangolin）"></span><span class="mw-headline" id=".E5.A4.A7.E7.A9.BF.E5.B1.B1.E7.94.B2.EF.BC.88.E3.82.AA.E3.82.AA.E3.82.BB.E3.83.B3.E3.82.B6.E3.83.B3.E3.82.B3.E3.82.A6.2FGiant_pangolin.EF.BC.89">大穿山甲（オオセンザンコウ/Giant pangolin）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=11" title="編輯章節：大穿山甲（オオセンザンコウ/Giant pangolin）" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：小野早稀</li></ul><ul><li>和下面的的大犰狳受家犬委託，一起追著主角一行人，本作的ばすてきコンビ役（只是為了有趣而已）</li>
+<li>個性比較嚴肅認真，但膽子小</li>
+<li>第4話追上後想強行帶走咕嚕嚕，結果被獰貓威嚇一下兩人就嚇到縮成一團，直接縮到天亮<s>主角團嚇完她們後一點想鳥她們的意思都沒有直接閃人</s></li>
+<li>第8話不只潛入後台以暴力擾亂PPP的演出，還趁亂綁走咕嚕嚕</li>
+<li><s>專業拉霸機玩家</s></li></ul><ul><li><s>浣熊</s></li></ul><h4 class="in-block"><span id="大犰狳（オオアルマジロ/Giant_Armadillo）"></span><span class="mw-headline" id=".E5.A4.A7.E7.8A.B0.E7.8B.B3.EF.BC.88.E3.82.AA.E3.82.AA.E3.82.A2.E3.83.AB.E3.83.9E.E3.82.B8.E3.83.AD.2FGiant_Armadillo.EF.BC.89">大犰狳（オオアルマジロ/Giant Armadillo）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=12" title="編輯章節：大犰狳（オオアルマジロ/Giant Armadillo）" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：本宮佳奈</li></ul><ul><li>與上面的大穿山甲一起追主角一行人(ry<s>你不是應該在城堡那裡嗎</s></li>
+<li>相當膽怯，受驚嚇時會縮成球狀，然而現實中大犰狳<b>不會這樣做</b>，縮成球狀是<a href="https://en.wikipedia.org/wiki/zh:%E4%B8%89%E5%B8%B6%E7%8A%B0%E7%8B%B3%E5%B1%AC" class="extiw" title="wikipedia:zh:三帶犰狳屬">三帶犰狳屬</a>的專利<s>少了たつき連考證都不行了</s></li>
+<li>身為PPP的鐵粉，潛入後台見到她們時卻以暴力相向，還伸手去抓公主的髮辮</li>
+<li><s>專業拉霸機被玩玩家</s></li></ul><ul><li><s>耳廓狐</s></li></ul><h3 class="in-block"><span id="第1話登場"></span><span class="mw-headline" id=".E7.AC.AC1.E8.A9.B1.E7.99.BB.E5.A0.B4">第1話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=13" title="編輯章節：第1話登場" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="驢子（ロバ/Donkey）"></span><span class="mw-headline" id=".E9.A9.A2.E5.AD.90.EF.BC.88.E3.83.AD.E3.83.90.2FDonkey.EF.BC.89">驢子（ロバ/Donkey）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=14" title="編輯章節：驢子（ロバ/Donkey）" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：石原夏織</li></ul><ul><li>開箱型車販售各種<s>角川德政下出品的黑心</s>工廠食品（如汽水、麵包）<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">那之後產生的垃圾要如何處理</span></li>
+<li>車輛原型是1970年式的本田Vamos</li></ul><h4 class="in-block"><span id="花斑鴨（カルガモ/Chinese_Spot-billed_Duck）"></span><span class="mw-headline" id=".E8.8A.B1.E6.96.91.E9.B4.A8.EF.BC.88.E3.82.AB.E3.83.AB.E3.82.AC.E3.83.A2.2FChinese_Spot-billed_Duck.EF.BC.89">花斑鴨（カルガモ/Chinese Spot-billed Duck）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=15" title="編輯章節：花斑鴨（カルガモ/Chinese Spot-billed Duck）" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：金子有希</li></ul><ul><li>愛操心，就是一個小縫隙也<s>為了拖戲</s>要求大家一定要在她後面跳過去</li>
+<li>進車站後使用護幼行為<s>假摔</s>假裝受傷拖延時間後就被<s>無良</s>放生了，但還是活了下來</li></ul><ul><li>人設採用2017版本，相較手遊版明顯大改，鴨頭形瀏海還不知怎的畫成雄性<b>綠頭鴨（マガモ）</b>的顏色<s>，足見角川髒手伸得多深</s>
+<ul><li>漫畫版裡瀏海則是塗<s>回</s>成花斑鴨的黑色</li></ul></li></ul><ul><li><s><a href="/%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%AB" class="mw-redirect" title="偶像大師">偶像組合「Positive Passion」的成員，2cost爐主</a></s></li></ul><h4 class="in-block"><span id="東北虎（アムールトラ/Siberian_Tiger）"></span><span class="mw-headline" id=".E6.9D.B1.E5.8C.97.E8.99.8E.EF.BC.88.E3.82.A2.E3.83.A0.E3.83.BC.E3.83.AB.E3.83.88.E3.83.A9.2FSiberian_Tiger.EF.BC.89">東北虎（アムールトラ/Siberian Tiger）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=16" title="編輯章節：東北虎（アムールトラ/Siberian Tiger）" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV:淺野真澄（！）</li>
+<li>在列車即將被追上時，從天而降一拳打倒天藍怪的Friends（？）
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為Friends化失敗而成的beast，因此只有野獸的直感而沒有理性</span></li></ul></li>
+<li>第5話正式登場，全身冒著黑氣，手腕上還戴著鐵鍊已斷的手銬，作勢要攻擊主角卻被燃燒的紙飛機轉移注意力</li>
+<li>第9話再次出場襲擊<s>出去送頭的</s>咕嚕嚕，造成保護他的家犬身受重傷，最後被藪貓以野生解放<s>爆種</s>嚇退</li>
+<li>第12話被引來飯店打天藍怪，最後與倒塌的飯店一同<s>陪葬</s>消失<s>，明明有四隻鳥（應該說3隻）可以救她的…</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">倒塌的飯店被PPP當成下場演唱會的舉辦地點，甚至還成了BD4的封面。<s>炎上商法無誤</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不但沒解釋身世，而且最後一話孤獨地被犧牲了。既走鵑、家犬之後本作第三位受害者</span></li>
+<li>不過至少在漫畫版有成功被大家接納並存活……</li></ul></li>
+<li>在Nico的動朋2問卷中沒有「アムールトラ」、只有「ビースト」的選項<s>惡意無極限</s></li></ul><h3 class="in-block"><span id="第2話登場"></span><span class="mw-headline" id=".E7.AC.AC2.E8.A9.B1.E7.99.BB.E5.A0.B4">第2話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=17" title="編輯章節：第2話登場" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="熊貓/大貓熊（ジャイアントパンダ/Giant_Panda）"></span><span class="mw-headline" id=".E7.86.8A.E8.B2.93.2F.E5.A4.A7.E8.B2.93.E7.86.8A.EF.BC.88.E3.82.B8.E3.83.A3.E3.82.A4.E3.82.A2.E3.83.B3.E3.83.88.E3.83.91.E3.83.B3.E3.83.80.2FGiant_Panda.EF.BC.89">熊貓/大貓熊（ジャイアントパンダ/Giant Panda）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=18" title="編輯章節：熊貓/大貓熊（ジャイアントパンダ/Giant Panda）" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：前田佳織理</li></ul><ul><li>動不動就睡著，而且聲音開0.5倍速<s>，慢到會抓狂，一期藪貓表示「你該不會是樹懶朋友吧？」</s></li>
+<li>尾巴顏色因為作畫失誤（？）變成黑色，而非正確的白色</li></ul><ul><li>一旦生氣戰鬥力也是不容小覷
+<ul><li>天藍怪破壞修好的遊樂設施時，發怒的大貓熊<a href="/%E9%96%8B%E7%84%A1%E9%9B%99" title="開無雙">開無雙</a>秒了它們</li>
+<li>第11話裡表現出她睡著時戰鬥力會飛躍地提升
+<ul><li><s>天藍怪：不可能，妳這傢伙，是熊貓吧。還是說不是？<br>熊貓：我現在…是超級熊貓！</s></li></ul></li>
+<li><s>不要拒絕熊貓起司，不然會被揍被砸</s>（<a rel="nofollow" class="external text" href="https://twitter.com/RV9bZf676SHOTgF/status/1091025400946319360">●</a> <a rel="nofollow" class="external text" href="https://twitter.com/RV9bZf676SHOTgF/status/1098255735866019840">■</a> <a rel="nofollow" class="external text" href="https://twitter.com/RV9bZf676SHOTgF/status/1106151890255929344">◆</a>）</li></ul></li></ul><ul><li><s><a href="/%E6%AB%BB%E5%9D%82%E9%9B%AB" title="櫻坂雫">出身演劇部的一年生學園偶像</a></s></li></ul><h4 class="in-block"><span id="小貓熊（レッサーパンダ/Lesser_Panda）"></span><span class="mw-headline" id=".E5.B0.8F.E8.B2.93.E7.86.8A.EF.BC.88.E3.83.AC.E3.83.83.E3.82.B5.E3.83.BC.E3.83.91.E3.83.B3.E3.83.80.2FLesser_Panda.EF.BC.89">小貓熊（レッサーパンダ/Lesser Panda）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=19" title="編輯章節：小貓熊（レッサーパンダ/Lesser Panda）" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：遠野ひかる
+<ul><li>題外話，同位聲優還在大觀園擔任幸運野獸3型的聲優</li></ul></li>
+<li>在不知道路的情況下，因為自卑心作祟所以欺騙主角們自己知道路然後亂帶路</li>
+<li>人設採用2019年新設計的EX版本</li>
+<li><s><a href="/%E7%A2%A7%E8%97%8D%E8%88%AA%E7%B7%9A" title="碧藍航線">在平行世界是德意志的輕巡艦船</a></s></li></ul><h3 class="in-block"><span id="第3話登場"></span><span class="mw-headline" id=".E7.AC.AC3.E8.A9.B1.E7.99.BB.E5.A0.B4">第3話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=20" title="編輯章節：第3話登場" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="寬吻海豚（バンドウイルカ/Bottlenose_Dolphin）"></span><span class="mw-headline" id=".E5.AF.AC.E5.90.BB.E6.B5.B7.E8.B1.9A.EF.BC.88.E3.83.90.E3.83.B3.E3.83.89.E3.82.A6.E3.82.A4.E3.83.AB.E3.82.AB.2FBottlenose_Dolphin.EF.BC.89">寬吻海豚（バンドウイルカ/Bottlenose Dolphin）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=21" title="編輯章節：寬吻海豚（バンドウイルカ/Bottlenose Dolphin）" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：木野日菜</li></ul><ul><li>曾經被人類圈養在海洋公園，所以會和別人討掌聲討獎品</li>
+<li><s>吃相難看，</s>後來主角群拿不出東西來甚至擺架子不幫助他們推船回港口
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後跟加州海獅一起被咕嚕嚕以自製的新表演器材當獎品給矇了過去</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第11話和海獅一起救了溺水的咕嚕嚕<s>還沒有索要獎勵</s>。<s>可不可以不要做這種多餘的事呢?</s></span></li></ul></li></ul><ul><li><s>家裡有個會用屁股發射光束的管家，<a href="/%E9%A1%8F%E8%97%9D" title="顏藝">顏藝</a>國一生</s></li></ul><h4 class="in-block"><span id="加州海獅（カリフォルニアアシカ/Californian_Sea_Lion）"></span><span class="mw-headline" id=".E5.8A.A0.E5.B7.9E.E6.B5.B7.E7.8D.85.EF.BC.88.E3.82.AB.E3.83.AA.E3.83.95.E3.82.A9.E3.83.AB.E3.83.8B.E3.82.A2.E3.82.A2.E3.82.B7.E3.82.AB.2FCalifornian_Sea_Lion.EF.BC.89">加州海獅（カリフォルニアアシカ/Californian Sea Lion）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=22" title="編輯章節：加州海獅（カリフォルニアアシカ/Californian Sea Lion）" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：吉岡茉祐</li>
+<li>角色特質同上</li>
+<li>人設是2018年8月為放置手遊《大觀園》新修的版本</li>
+<li><s><a href="/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%BB%E3%82%AB%E3%82%A4_%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8_feat._%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF#.E6.A1.90.E8.B0.B7_.E9.81.99.EF.BC.88.E3.81.8D.E3.82.8A.E3.81.9F.E3.81.AB_.E3.81.AF.E3.82.8B.E3.81.8B.EF.BC.89" class="mw-redirect" title="プロジェクトセカイ カラフルステージ feat. 初音ミク">喜歡企鵝的元學園偶像，現為「MORE MORE JUMP！」的一員</a></s></li></ul><h4 class="in-block"><span id="虎鯨（シャチ/Orca）"></span><span class="mw-headline" id=".E8.99.8E.E9.AF.A8.EF.BC.88.E3.82.B7.E3.83.A3.E3.83.81.2FOrca.EF.BC.89"><a href="/%E6%B5%B7%E8%99%8E#.E5.A5.A7.E5.8A.A0.EF.BC.88.E5.A4.96.E8.99.9F.EF.BC.9A.E6.AE.BA.E4.BA.BA.E9.AF.A8.EF.BC.89" title="海虎">虎鯨（シャチ/Orca）</a></span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=23" title="編輯章節：虎鯨（シャチ/Orca）" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>上面的海洋公園雙人組提到的夥伴，人設遲至2019年5月才公開，BD附贈的公式書封面即是她與瓶鼻海豚在一起的插畫</li>
+<li><s><a href="/M.U.G.E.N" title="M.U.G.E.N">M.U.G.E.N</a>狂級角色之一</s></li></ul><h3 class="in-block"><span id="第4話登場"></span><span class="mw-headline" id=".E7.AC.AC4.E8.A9.B1.E7.99.BB.E5.A0.B4">第4話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=24" title="編輯章節：第4話登場" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="草原撲鴷（アリツカゲラ/Campo_flicker）"></span><span class="mw-headline" id=".E8.8D.89.E5.8E.9F.E6.92.B2.E9.B4.B7.EF.BC.88.E3.82.A2.E3.83.AA.E3.83.84.E3.82.AB.E3.82.B2.E3.83.A9.2FCampo_flicker.EF.BC.89">草原撲鴷（アリツカゲラ/Campo flicker）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=25" title="編輯章節：草原撲鴷（アリツカゲラ/Campo flicker）" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：淺野真澄</li></ul><ul><li>在南美園區擔任<s>有巢氏房屋</s>房仲，替Friends尋找住處
+<ul><li>還是有經營小木屋，但是所在位置不明</li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">表示有看過人類只是記憶也<s>被強制變得</s>很模糊，和第一季可能是同一位</span></li>
+<li><s>恐怖的賢妻良母</s></li></ul><h4 class="in-block"><span id="土狼（アードウルフ/Aardwolf）"></span><span class="mw-headline" id=".E5.9C.9F.E7.8B.BC.EF.BC.88.E3.82.A2.E3.83.BC.E3.83.89.E3.82.A6.E3.83.AB.E3.83.95.2FAardwolf.EF.BC.89">土狼（アードウルフ/Aardwolf）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=26" title="編輯章節：土狼（アードウルフ/Aardwolf）" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：照井春佳<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li></ul><ul><li>草原撲鴷協助尋找住處的對象，最後以白蟻窩堆為住處<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>白蟻朋友快逃</s></span></li>
+<li>漫畫版因為曾被天藍怪吞噬，害怕自己會失去和朋友間的記憶，為此咕嚕嚕畫了幅朋友們的拼圖畫相贈</li></ul><h4 class="in-block"><span id="吸血蝠（ナミチスイコウモリ/Vampire_Bat）"></span><span class="mw-headline" id=".E5.90.B8.E8.A1.80.E8.9D.A0.EF.BC.88.E3.83.8A.E3.83.9F.E3.83.81.E3.82.B9.E3.82.A4.E3.82.B3.E3.82.A6.E3.83.A2.E3.83.AA.2FVampire_Bat.EF.BC.89">吸血蝠（ナミチスイコウモリ/Vampire Bat）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=27" title="編輯章節：吸血蝠（ナミチスイコウモリ/Vampire Bat）" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：みゆはん</li></ul><ul><li>在瀑布附近遭遇的Friends
+<ul><li><a rel="nofollow" class="external text" href="https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=72953826">恰巧也在クイック賄派的同人二期漫畫第四集出場，開場還咬了背包的手</a></li></ul></li></ul><ul><li><s>沙漠貓</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">連第一季沙漠貓的聲優都找過來了，猜測角川可能會將ヤオヨロズ以外的前季人員都找過去</span></li></ul></li></ul><h3 class="in-block"><span id="第5話登場"></span><span class="mw-headline" id=".E7.AC.AC5.E8.A9.B1.E7.99.BB.E5.A0.B4">第5話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=28" title="編輯章節：第5話登場" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="金剛猩猩（ゴリラ/Gorilla_King_Kong）"></span><span class="mw-headline" id=".E9.87.91.E5.89.9B.E7.8C.A9.E7.8C.A9.EF.BC.88.E3.82.B4.E3.83.AA.E3.83.A9.2FGorilla_King_Kong.EF.BC.89"><a href="/%E9%87%91%E5%89%9B" title="金剛">金剛</a>猩猩（ゴリラ/Gorilla <s>King Kong</s>）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=29" title="編輯章節：金剛猩猩（ゴリラ/Gorilla King Kong）" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：沼倉愛美</li></ul><ul><li>南美園一干Friends的首領，但無法擺平手下間的內鬥，所以請求咕嚕嚕的協助
+<ul><li><s>別問咕嚕嚕遇襲時為什麼沒有叫部下一齊向前進攻</s></li></ul></li></ul><ul><li><s><a href="/%E9%8B%BC%E5%BD%88Build_Divers" title="鋼彈Build Divers">菖蒲大人</a></s></li></ul><h4 class="in-block"><span id="眼鏡凱門鱷（メガネカイマン/Spectacled_Caiman）"></span><span class="mw-headline" id=".E7.9C.BC.E9.8F.A1.E5.87.B1.E9.96.80.E9.B1.B7.EF.BC.88.E3.83.A1.E3.82.AC.E3.83.8D.E3.82.AB.E3.82.A4.E3.83.9E.E3.83.B3.2FSpectacled_Caiman.EF.BC.89">眼鏡凱門鱷（メガネカイマン/Spectacled Caiman）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=30" title="編輯章節：眼鏡凱門鱷（メガネカイマン/Spectacled Caiman）" data-section="30" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：大和田仁美</li></ul><ul><li>金剛猩猩的手下之一，與灣鱷是朋友，和花豹姐妹關係惡劣</li>
+<li>為2018為海洋堂轉蛋特別設計的Friends<s>只是銷量不好說</s></li>
+<li><s>暗部的成員，在某小學共同出任班長</s></li></ul><h4 class="in-block"><span id="灣鱷（イリエワニ/Saltwater_Crocodile）"></span><span class="mw-headline" id=".E7.81.A3.E9.B1.B7.EF.BC.88.E3.82.A4.E3.83.AA.E3.82.A8.E3.83.AF.E3.83.8B.2FSaltwater_Crocodile.EF.BC.89">灣鱷（イリエワニ/Saltwater Crocodile）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=31" title="編輯章節：灣鱷（イリエワニ/Saltwater Crocodile）" data-section="31" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：五十嵐裕美</li></ul><ul><li>金剛猩猩的手下之一，與眼鏡凱門鱷是朋友，和花豹姐妹關係惡劣</li></ul><h4 class="in-block"><span id="花豹（ヒョウ/Panther）"></span><span class="mw-headline" id=".E8.8A.B1.E8.B1.B9.EF.BC.88.E3.83.92.E3.83.A7.E3.82.A6.2FPanther.EF.BC.89">花豹（ヒョウ/Panther）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=32" title="編輯章節：花豹（ヒョウ/Panther）" data-section="32" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：松田利冴</li></ul><ul><li>金剛猩猩的手下之一，和黑豹是姐妹，與鱷魚雙人組交惡</li>
+<li>人設是2019新修的EX版本</li></ul><ul><li>被現實中體型差很多的獰貓三兩下就打倒<s>，所以這個時代的公園Friends戰鬥力指標到底是什麼？</s></li></ul><h4 class="in-block"><span id="黑豹（クロヒョウ/Black_Panther）"></span><span class="mw-headline" id=".E9.BB.91.E8.B1.B9.EF.BC.88.E3.82.AF.E3.83.AD.E3.83.92.E3.83.A7.E3.82.A6.2FBlack_Panther.EF.BC.89">黑豹（クロヒョウ/Black Panther）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=33" title="編輯章節：黑豹（クロヒョウ/Black Panther）" data-section="33" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：松田颯水</li></ul><ul><li>金剛猩猩的手下之一，和花豹是姐妹，與鱷魚雙人組交惡</li>
+<li><a href="/%E9%9F%B3%E9%80%9F%E5%B0%8F%E5%AD%90%E7%B3%BB%E5%88%97" title="音速小子系列"><s>Do You Know De Wae?</s></a></li>
+<li><s>其實是<a href="/%E6%BC%AB%E5%A8%81%E6%BC%AB%E7%95%AB" title="漫威漫畫">某非洲小國的國王</a></s></li></ul><h3 class="in-block"><span id="第6話登場"></span><span class="mw-headline" id=".E7.AC.AC6.E8.A9.B1.E7.99.BB.E5.A0.B4">第6話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=34" title="編輯章節：第6話登場" data-section="34" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="白臉角鴞（アフリカオオコノハズク/Northern_White-face_Owl）"></span><span class="mw-headline" id=".E7.99.BD.E8.87.89.E8.A7.92.E9.B4.9E.EF.BC.88.E3.82.A2.E3.83.95.E3.83.AA.E3.82.AB.E3.82.AA.E3.82.AA.E3.82.B3.E3.83.8E.E3.83.8F.E3.82.BA.E3.82.AF.2FNorthern_White-face_Owl.EF.BC.89">白臉角鴞（アフリカオオコノハズク/Northern White-face Owl）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=35" title="編輯章節：白臉角鴞（アフリカオオコノハズク/Northern White-face Owl）" data-section="35" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：三上枝織</li></ul><ul><li><s>前博士，現在為</s>背包的助手
+<ul><li><s>和背包研究了半天，比不上做個夢就知道海底火山和天藍怪關係的咕嚕嚕</s></li>
+<li><s>會直接強拉</s>帶咕嚕嚕去海邊確認<s>海豚託夢的內容</s>準確性</li></ul></li>
+<li><s>因為料理吃太多而</s>身形比一期胖上許多<s>ずんぐりむっくり</s>
+<ul><li><s>頭上的翅膀中途消失了</s></li></ul></li></ul><h4 class="in-block"><span id="雕鴞（ワシミミズク/Eurasian_Eagle_Owl）"></span><span class="mw-headline" id=".E9.9B.95.E9.B4.9E.EF.BC.88.E3.83.AF.E3.82.B7.E3.83.9F.E3.83.9F.E3.82.BA.E3.82.AF.2FEurasian_Eagle_Owl.EF.BC.89">雕鴞（ワシミミズク/Eurasian Eagle Owl）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=36" title="編輯章節：雕鴞（ワシミミズク/Eurasian Eagle Owl）" data-section="36" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：上原明里</li></ul><ul><li><s>前博士的助手，現在為</s>背包的助手（的助手）</li>
+<li>角色特質同上</li></ul><h4 class="in-block"><span id="背包（かばん）"></span><span class="mw-headline" id=".E8.83.8C.E5.8C.85.EF.BC.88.E3.81.8B.E3.81.B0.E3.82.93.EF.BC.89">背包（かばん）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=37" title="編輯章節：背包（かばん）" data-section="37" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：<a href="/%E5%85%A7%E7%94%B0%E5%BD%A9" title="內田彩">內田彩</a></li></ul><ul><li><s>雖然Friends們大家都絕不想承認，但她的確</s>與上季的背包為同一人<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><ul><li>本作用的稱呼「かばん<b>さん</b>」在上季時是浣熊對她的稱謂<s>也是區分兩版背包的稱呼</s>
+<ul><li><s>さんをつけろよデコ助野郎</s></li></ul></li>
+<li>變長的頭髮髮色偏綠<s>戴綠帽</s>，多了一件黑色外套，性格與口吻較上季粗魯
+<ul><li>依然佩戴著手錶化的Boss，而且在開的車上還有一堆可以送人<s>怎麼來的？不要問很可怕</s></li>
+<li>忽略了倒在路旁的<s>桐人</s>幸運獸，並以「這個（これ）」指稱幸運獸手錶<s>，不再把幸運獸當做某種「生命」</s></li></ul></li></ul></li></ul><ul><li>第1話在藪貓的模糊記憶中以<a href="/%E9%99%B0%E5%BD%B1%E4%BA%BA" title="陰影人">陰影人</a>形式登場，到第5話末正式亮相
+<ul><li>為了找食材來到南美園，順道擲出<s>違反物理的</s>燃燒紙飛機拯救藪貓一行<s>，這是森林的大危機</s></li>
+<li>開著跟Japari Bus類似的車回到<s>基地</s>研究所<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但在片尾時牆壁不見了</span>
+<ul><li>角鴞和雕鴞（博士與助手）成為了她的助手</li>
+<li>當日晚餐用電磁爐煮香菇麻辣鍋<s>還順便消費了當年的考驗</s></li></ul></li></ul></li></ul><ul><li>人格變化相當大 <s>智商及情商也對折砍，根本已經是別人了</s>
+<ul><li>任意使喚博士和助手</li>
+<li>巴士天藍怪出現時居然只是眼睜睜在一旁看藪貓與獰貓應戰，完全沒有要幫忙的意思</li>
+<li>最後將Boss手錶直接送給主角一行人</li></ul></li></ul><ul><li>10話再次出場，將咕嚕嚕的畫作（畫有白臉角鴞的）部分剪下撒上黑砂星進行實驗，生成了白臉角鴞型的黑色天藍怪
+<ul><li>看到開始生成天藍怪的實驗裝置反應相當緩慢，而且當天藍怪衝出後居然讓博士和助手帶著她逃離<s>，你們當年的戰鬥力還在嗎？</s></li></ul></li>
+<li>第11話開<s>多那牛車</s>農耕車載著朋友們迎擊天藍怪，卻丟下了意外掉到車外的芙露露</li>
+<li>第12話<s>花一禮拜</s>找到船修理船淪為船夫救朋友</li>
+<li>跟藪貓暗示以前的旅行卻沒被想起來。<s>背包:哭...</s></li></ul><ul><li>原本是製作人員<s>想用來痛擊粉絲</s>拉抬本作滿意度的伏筆，但卻適得其反
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">背包出場的第5-6話都獲嚴重差評，當中第6話在Niconico的好評度中更打破了<a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_ARC-V" title="遊☆戯☆王 ARC-V"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">遊戯王ARC-V</span></a>「壟斷」首20名的記錄</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被藪貓徹底遺忘過去的真主角，甚至被最新設定<b>間接欽定必死無疑</b>。<s>繼走鵲、家犬、東北虎之後，第四位打算逃去煙草世界的角色</s></span></li></ul><h3 class="in-block"><span id="第7話登場"></span><span class="mw-headline" id=".E7.AC.AC7.E8.A9.B1.E7.99.BB.E5.A0.B4">第7話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=38" title="編輯章節：第7話登場" data-section="38" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="獵豹（チーター/Cheetah）"></span><span class="mw-headline" id=".E7.8D.B5.E8.B1.B9.EF.BC.88.E3.83.81.E3.83.BC.E3.82.BF.E3.83.BC.2FCheetah.EF.BC.89"><a href="/Action_52#Cheetahmen_.EF.BC.88.E3.83.81.E3.83.BC.E3.82.BF.E3.83.BC.E3.83.9E.E3.83.B3.EF.BC.8C.E6.9A.AB.E8.AD.AF:.E8.B1.B9.E4.BA.BA.E4.B8.89.E5.85.84.E5.BC.9F.EF.BC.89" title="Action 52">獵豹（チーター/Cheetah）</a></span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=39" title="編輯章節：獵豹（チーター/Cheetah）" data-section="39" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：水橋かおり</li>
+<li>對於速度十分自豪，最快可達120km/h以上，從靜止加速至100公里只要3秒
+<ul><li>但無法長期保持這種速度，因為會熱衰竭而死</li></ul></li></ul><ul><li>開場撞了主角組還不道歉的三寶</li>
+<li>前傳漫畫中是個好吃懶做的朋友，會像北狐ㄧ樣把飼育員菜菜當侍從看待，初次見面甚至稱之為「愚民」</li>
+<li>說自己對所處的環境很了解，卻不知道奔跑的路上有湖的存在</li>
+<li><a href="/%E5%B7%B4%E9%BA%BB%E7%BE%8E" title="巴麻美"><s>擅長使用火槍的魔法少女，還是個命名狂</s></a></li></ul><h4 class="in-block"><span id="叉角羚羊（プロングホーン/Pronghorn）"></span><span class="mw-headline" id=".E5.8F.89.E8.A7.92.E7.BE.9A.E7.BE.8A.EF.BC.88.E3.83.97.E3.83.AD.E3.83.B3.E3.82.B0.E3.83.9B.E3.83.BC.E3.83.B3.2FPronghorn.EF.BC.89">叉角羚羊（プロングホーン/Pronghorn）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=40" title="編輯章節：叉角羚羊（プロングホーン/Pronghorn）" data-section="40" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：高森奈津美</li>
+<li>獵豹的勁敵，最快時速近100km/h
+<ul><li>因為要應對獵豹的速度，所以速度也隨著演化而提升</li>
+<li>與獵豹不同的是她可以長期維持70km/h速度</li></ul></li></ul><ul><li>在受天藍怪追殺時慘遭地上樹枝絆倒，快要被吃掉時獵豹用公主抱的姿勢抱著她跑，在天藍怪因甩尾不及翻車遭藪貓補刀後兩人和好，但是兩人最終又開始比起速度來了</li>
+<li><s>紀政</s></li></ul><h4 class="in-block"><span id="走鵑（G・ロードランナー/Greater_roadrunner）"></span><span class="mw-headline" id=".E8.B5.B0.E9.B5.91.EF.BC.88G.E3.83.BB.E3.83.AD.E3.83.BC.E3.83.89.E3.83.A9.E3.83.B3.E3.83.8A.E3.83.BC.2FGreater_roadrunner.EF.BC.89">走鵑（G・ロードランナー/Greater roadrunner）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=41" title="編輯章節：走鵑（G・ロードランナー/Greater roadrunner）" data-section="41" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：高柳知葉</li>
+<li>叉角羚羊的跟班，尊稱她被「大人」<s>不時拍她馬屁</s>
+<ul><li>大概是因為與叉角羚羊同棲息在美西-墨西哥一帶關係</li></ul></li>
+<li>不擅飛行，但相當擅長奔跑，平均時速可達30-40公里
+<ul><li>明明在過場的動畫簡介中<s>被打臉</s>說「走鵑比較擅長用跑的」，即使如此在動畫中在與獰貓跑接力賽時仍用飛的作弊</li></ul></li>
+<li><s>揭穿</s>提出咕嚕嚕提議的接力賽有<s>不合理</s>問題<s>惹得咕嚕嚕不爽，於是不把她畫在畫裡</s>
+<ul><li><s>最後接到畫時一整副「咦我呢」的無言表情，還會張望看周遭Friends的反應但都被華麗無視，彷彿沒有人在意她沒被畫在上面一般</s></li>
+<li><s>咕嚕嚕不要欺負走鵑</s></li>
+<li><s>為了得到愛逃到了更克難的煙草棚和動朋1期避難、還成為了<a href="/%E6%B0%B8%E9%81%A0%E7%9A%84%E8%BC%B8%E5%AE%B6" title="永遠的輸家">赤犬</a>的手下</s></li></ul></li>
+<li>人設採用2017版本，放置式<a href="/%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%81%8A%E6%88%B2" title="智慧型手機遊戲">智慧型手機遊戲</a>《動物朋友大觀園》亦也是採用此版本
+<ul><li>大概因為原動物也是樂一通卡通系列的「<a rel="nofollow" class="external text" href="https://looneytunes.fandom.com/wiki/Road_Runner">BB鳥</a>」的原形，人設裡加入了不少BB鳥的梗（如上衣文字和叫聲）</li>
+<li><s>會戲弄郊狼（Coyote）</s></li></ul></li>
+<li>劇中呈現的<s>扭曲</s>個性一整個狐假虎威的小弟樣，前面對其他人一副高壓姿態又挑釁的態度與在劇末被狠婊和無視產生極大反差
+<ul><li>在<s>酸二期不留餘力的</s>二次創作者バッタ(@honey_burst)的四格漫畫中，被咕嚕嚕冠上<a rel="nofollow" class="external text" href="https://dic.nicovideo.jp/a/%E3%82%B4%E3%83%9E%E3%81%99%E3%82%8A%E3%82%AF%E3%82%BD%E3%83%90%E3%83%BC%E3%83%89">「馬屁精機掰鳥（ゴマすりクソバード）」</a>的諢名</li>
+<li>結果在日本雙葉網站上被不斷開串<s>嘲笑</s>，角色的迴響比動畫本身還更大</li>
+<li>「ゴマすりクソバード」的稱號後來被借用來嘲諷同樣馬屁同樣鳥的<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">《哥吉拉2怪獸之王》的<a href="/%E5%93%A5%E5%90%89%E6%8B%89#.E6.8B.89.E9.A0.93" class="mw-redirect" title="哥吉拉">拉頓</a></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">亦因為這個問題，部分MMD玩家雖然有做出走鵑的MMD模組，但為了顧及其形象及不想被二期的風波掃到，而採用私下公開</span></li></ul></li></ul><h3 class="in-block"><span id="第8話登場"></span><span class="mw-headline" id=".E7.AC.AC8.E8.A9.B1.E7.99.BB.E5.A0.B4">第8話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=42" title="編輯章節：第8話登場" data-section="42" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="長尾虎貓（マーゲイ/Margay）"></span><span class="mw-headline" id=".E9.95.B7.E5.B0.BE.E8.99.8E.E8.B2.93.EF.BC.88.E3.83.9E.E3.83.BC.E3.82.B2.E3.82.A4.2FMargay.EF.BC.89">長尾虎貓（マーゲイ/Margay）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=43" title="編輯章節：長尾虎貓（マーゲイ/Margay）" data-section="43" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：山下まみ</li>
+<li>背包在和主角一行人告別時提及想要知道公園的過去可以問她</li>
+<li>跟第一季一樣受到PPP鼓舞而成為PPP的經紀人</li>
+<li>為了演唱會前的小短劇找尋適合的演員
+<ul><li>貉、北極海鸚、朱鷺都是為了特殊口味加帕里鰻頭才來試鏡</li>
+<li>在試鏡了貉、北極海鸚、朱鷺後，決<s>內</s>定主角三人組出演短劇</li></ul></li></ul><h4 class="in-block"><span class="mw-headline" id="PPP">PPP</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=44" title="編輯章節：PPP" data-section="44" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><s>整個搬一期的設定</s></li>
+<li>主角三人組不知道PPP的存在
+<ul><li>名字還一直被獰貓和藪貓唸錯</li></ul></li>
+<li><s>會瞬間移動</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從遠景看跟近景的人物左右位置放相反，就連藪貓、咕嚕嚕、獰貓也一樣放相反了</span></li></ul></li>
+<li>跳舞橋段是用聲優本人動作捕捉技術製作</li></ul><h4 class="in-block"><span id="貉(タヌキ/Tanuki)"></span><span class="mw-headline" id=".E8.B2.89.28.E3.82.BF.E3.83.8C.E3.82.AD.2FTanuki.29">貉(タヌキ/Tanuki)</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=45" title="編輯章節：貉(タヌキ/Tanuki)" data-section="45" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：加藤里保菜</li>
+<li>在試鏡會上表演裝死</li>
+<li>跟北極海鸚吃著鰻頭在回去的路上，被大穿山甲跟犰狳訊問咕嚕嚕的下落</li>
+<li>在過去即是二創的人氣角，詳見一期專條</li>
+<li>聲優在2開播前即在第二部舞台劇出演貉，第三部也確定會繼續參演</li>
+<li><s><a href="/D4DJ" title="D4DJ">在DJ團體「燐武曲」擔任主唱</a></s></li></ul><h4 class="in-block"><span id="北極海鸚(ニシツノメドリ/Atlantic_puffin)"></span><span class="mw-headline" id=".E5.8C.97.E6.A5.B5.E6.B5.B7.E9.B8.9A.28.E3.83.8B.E3.82.B7.E3.83.84.E3.83.8E.E3.83.A1.E3.83.89.E3.83.AA.2FAtlantic_puffin.29">北極海鸚(ニシツノメドリ/Atlantic puffin)</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=46" title="編輯章節：北極海鸚(ニシツノメドリ/Atlantic puffin)" data-section="46" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：<a href="/%E8%99%9B%E6%93%ACYoutuber#.E3.82.A2.E3.82.BA.E3.83.9E.E3.83.AA.E3.83.A0" class="mw-redirect" title="虛擬Youtuber">アズマリム</a></li>
+<li>在試鏡會上表演叼著甲帕里鰻頭飛行
+<ul><li>但被長尾虎貓吐槽這樣怎麼講台詞</li></ul></li></ul><h4 class="in-block"><span id="朱鷺(トキ/Japanese_Crested_ibis)"></span><span class="mw-headline" id=".E6.9C.B1.E9.B7.BA.28.E3.83.88.E3.82.AD.2FJapanese_Crested_ibis.29">朱鷺(トキ/Japanese Crested ibis)</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=47" title="編輯章節：朱鷺(トキ/Japanese Crested ibis)" data-section="47" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：<a href="/%E9%87%91%E7%94%B0%E6%9C%8B%E5%AD%90" title="金田朋子">金田朋子</a></li>
+<li>在試鏡會上表演<a href="/%E6%AE%BA%E4%BA%BA%E6%AD%8C%E8%81%B2" title="殺人歌聲"><s>胖虎一般的</s>歌藝</a></li>
+<li>然而它？她？去表演只是為了參加賞</li>
+<li>認為自己表現失常是因為沒喝羊駝的茶</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>根據木村P的研究是「哺乳綱」（大噓），足以跌破眾多動物學者的眼鏡的研究成果</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不過這個漏洞在youtube版本已被修正，還是上傳後第二次修改的</span></li></ul><h4 class="in-block"><span id="客串被害擔當"></span><span class="mw-headline" id=".E5.AE.A2.E4.B8.B2.E8.A2.AB.E5.AE.B3.E6.93.94.E7.95.B6">客串<s>被害擔當</s></span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=48" title="編輯章節：客串被害擔當" data-section="48" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>演唱會<s>複製貼上的2D</s>觀眾：
+<ul><li>湯氏瞪羚（CV：梅原サエリ）
+<ul><li>有特別建模且有特別安排聲優的觀眾朋友</li>
+<li><s>依然是不動明王.png</s></li></ul></li>
+<li>斑紋角馬（CV：あま津うに）
+<ul><li>同上</li></ul></li>
+<li>水豚
+<ul><li><s>終於有身體了</s></li></ul></li>
+<li>大海雀
+<ul><li>最早被冠上企鵝之名的鳥類，但已在大航海時代因為濫捕濫殺而滅絕</li>
+<li>首次登場於舞台劇版第一部</li></ul></li>
+<li>阿拉伯劍羚
+<ul><li><s>你什麼時候擅離職守了</s></li></ul></li>
+<li>日本狼
+<ul><li>已在1900年代因為濫殺而滅絕的日本原生種</li>
+<li>二創與同樣滅絕的日本水獺時常結伴出現，《大觀園》為此有安排她們和朱鷺三個本土絕滅種的對話</li></ul></li>
+<li>美洲獅
+<ul><li>從加拿大的育空到安地斯山脈南段都可見其蹤跡的大貓</li>
+<li>多以埋伏跟蹤的方式捕捉獵物</li>
+<li><s>在電玩遊戲《碧血狂殺》裡總是偷襲玩家</s></li></ul></li>
+<li>西表山貓
+<ul><li>為西表島上的豹貓特有種，為加強保育日本政府嚴格限制西表島的開發</li>
+<li><s>動手術急救的層級比國會議員還要前面</s></li></ul></li>
+<li>原鴿</li>
+<li>鴨嘴獸
+<ul><li>是稀有的卵生<a href="/%E5%93%BA%E4%B9%B3%E9%A1%9E" title="哺乳類">哺乳類</a>動物</li>
+<li>也是少數本身具有毒性的哺乳類，腳踝處有毒針</li>
+<li>初代手遊中是網球高手</li>
+<li><s>真實身分是特務</s></li></ul></li>
+<li>喬氏貓
+<ul><li>南美常見的的大型貓科</li>
+<li>基因問題造成容易出現<a href="/%E9%BB%91%E5%8C%96" title="黑化">黑化</a>個體</li></ul></li>
+<li>赤狐
+<ul><li>就是未異變的銀狐</li>
+<li>同人創作中常和雪山三人組結伴出現，某些作品還具有偽裝能力</li></ul></li>
+<li>狐獴
+<ul><li>有很高的社會化傾向的動物，住在盤根錯節的地穴之中</li>
+<li>《獅子王》的丁滿就是一隻狐獴</li>
+<li>在《少年PI的奇幻漂流》裡有一座滿是狐獴的孤島<s>有一說那其實是PI母親屍身上的蛆</s></li></ul></li>
+<li>海獺</li>
+<li>果子狸
+<ul><li>因鼻樑正中的白紋，又稱「白鼻心」</li>
+<li>雖然跟鼬獾很像，但是跟果子狸不同的是他的鼻樑只有一個白點而非白紋</li>
+<li>因為SARS<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a></li></ul></li></ul></li></ul><h3 class="in-block"><span id="第9話登場"></span><span class="mw-headline" id=".E7.AC.AC9.E8.A9.B1.E7.99.BB.E5.A0.B4">第9話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=49" title="編輯章節：第9話登場" data-section="49" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="家犬（イエイヌ/Canis_lupus_familiaris）"></span><span class="mw-headline" id=".E5.AE.B6.E7.8A.AC.EF.BC.88.E3.82.A4.E3.82.A8.E3.82.A4.E3.83.8C.2FCanis_lupus_familiaris.EF.BC.89">家犬（イエイヌ/Canis lupus familiaris）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=50" title="編輯章節：家犬（イエイヌ/Canis lupus familiaris）" data-section="50" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：<a href="/%E4%BA%95%E5%8F%A3%E8%A3%95%E9%A6%99" title="井口裕香">井口裕香</a></li>
+<li>大犰狳跟大穿山甲的委託人，目的是要找人類排解自己等待主人的痛苦
+<ul><li>報酬是一盒加帕里Pocky</li></ul></li>
+<li>剪影初次登場於第3話末，第8話再次以背影出現
+<ul><li><s>從台詞看來以為與咕嚕嚕關係匪淺，但實際上一切都只是<a href="/%E6%88%90%E5%8F%A5/%E4%BD%A0%E5%BE%9E%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E9%96%8B%E5%A7%8B%E7%94%A2%E7%94%9F%E4%BA%86%E2%97%8B%E2%97%8B%E7%9A%84%E9%8C%AF%E8%A6%BA%EF%BC%9F" title="成句/你從什麼時候開始產生了○○的錯覺？">鏡花水月</a></s></li></ul></li>
+<li>居住在渡假小屋區中，可能被自己的主人遺留，之後才Friends化
+<ul><li>官方推特的<a rel="nofollow" class="external text" href="https://twitter.com/kemo_project/status/1105385497088602112">動物介紹</a>特地標明這隻家犬是<b>雜種狗</b><s>官方不是人是畜牲</s></li>
+<li>也帶出了人類可能已經逃往<a href="/%E6%9C%88%E7%90%83" title="月球">月球</a>軌道的衛星上</li>
+<li><s>從月球的陰影看來，本作的加帕里公園疑似不在地球上</s></li></ul></li>
+<li>努力泡的茶，咕嚕嚕卻因為想著藪貓二人組的行縱，而推到一旁一口也沒動。<s>咕嚕嚕：我不喝畜生泡的茶</s></li>
+<li>在藪貓、獰貓領著大犰狳跟大穿山甲來與她對質，但是獰貓看到和家犬嬉戲的咕嚕嚕吃醋，最終六人不歡而散，自己與咕嚕嚕留在渡假小屋區</li>
+<li>在告知咕嚕嚕Beast的消息後擔心藪貓二人組的咕嚕嚕追出去時遇上了東北虎，家犬獨力迎戰但不敵，在獰貓增援以及藪貓野生解放的<b>威嚇</b>下終將她擊退<s>，但就別吐槽第五話怎麼不解放了</s>
+<ul><li>看到稱讚藪貓的咕嚕嚕認知到自己無法介入她們之間的感情，於是要求咕嚕嚕命令自己回家
+<ul><li>咕嚕嚕<b>還真的照做了</b>，於是自己便含著淚回去繼續守著主人不知何時回去的家
+<ul><li><b>咕嚕嚕跟製作組不要欺負家犬！</b></li></ul></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">成功讓本作打入ARC-V紀錄群裡的第二/三名，差點就篡位成功了</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>木村：看吧，我說得沒錯吧，會有「怒」濤發展了</s></span></li></ul></li>
+<li>由於上述<s>毫無常識可言</s>的遭遇太過悲慘，網路上出現大量她的相關創作
+<ul><li>例： <a href="http://www.nicovideo.jp/watch/sm34768388" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm34768388">鐵華團版</a>、 <a href="http://www.nicovideo.jp/watch/sm34767564" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm34767564">Friends版</a></li>
+<li>在祝詞兄貴的二創作品「動物朋友R」中是和人類主角友繪一起旅行的夥伴</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>繼走鵑後第二位逃到動朋1、煙草棚避難的Friends</s></span></li></ul></li></ul><ul><li>明明是主線關連friends但在11-12話的主線朋友集會中完全被排除在外，12話片尾結束最後晚上最後自己一個人在屋子裡看著擬似是<b>公園關門前</b>主人留下的信和咕嚕嚕<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">疑似在素描簿上撕下</span>的畫。<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">圖畫標題是「公園的大哥哥大姐姐們」，內容是站在前傳漫畫的公園大門前的咕嚕嚕、藪貓、獰貓，還有導覽員未來、飼育員菜菜等人。<s>未來+菜菜表示：我不記得我有這麼混帳的同事</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這麼說來，這時間點是二期之前，而家犬跟咕嚕嚕根本早就有交流過，並不是隨便找個人類交流。<s>咕嚕嚕<b>你</b>這傢伙真夠渣</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後來官方也間接在前述的WORLD展覽表示家犬等了咕嚕嚕兩千年<s>，細谷你真的夠了</s></span></li></ul></li></ul><p><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">MMD方面跟走鵑一樣為了顧及其形象及不想被二期的風波掃到而採用私下公開</span>
+</p>
+<ul><li><s><a href="/%E6%88%A6%E5%A7%AB%E7%B5%B6%E5%94%B1%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%82%AE%E3%82%A2" class="mw-redirect" title="戦姫絶唱シンフォギア">曾經當過神獸鏡的裝者</a>，在<a href="/%E8%89%A6%E9%9A%8ACollection" title="艦隊Collection">另一個世界</a>則是擅長反潛戰的輕巡洋艦</s></li></ul><h4 class="in-block"><span class="mw-headline" id="GothicXLuck">GothicXLuck</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=51" title="編輯章節：GothicXLuck" data-section="51" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>華美鳳鳥（カタカケフウチョウ）【CV：八木ましろ】和西六線風鳥（カンザシフウチョウ） 【CV：菅まどか】組成的二人團體，首次登場於2018年11月的舞台劇第二部</li>
+<li>疑似跟蹤主角的二人組<s>，又一對ばすてきコンビ</s>
+<ul><li>在第5話有在背景亂入，第8話末也有隱約出現過</li></ul></li>
+<li>第10話找到咕嚕嚕的素描本，但是質疑咕嚕嚕找家的目的
+<ul><li>當話播出後<a rel="nofollow" class="external text" href="https://twitter.com/kemono_anime/status/1108423782497058816">官方推特</a>放出了兩位Friends在晚上的毫無一人（？）的草原上的圖<s>，但問題是極樂鳥並非夜行性鳥類，而且她們張開翅膀的動作很像在求偶的鳥</s></li></ul></li>
+<li>第11話託夢咕嚕嚕，再次交還素描本並對咕嚕嚕示警海底火山噴發的預兆
+<ul><li>但第12話又在船上質問咕嚕嚕「為何要畫那些畫來傷害夥伴」<s>，在本作定位完全不明</s></li></ul></li></ul><h3 class="in-block"><span id="第10話登場"></span><span class="mw-headline" id=".E7.AC.AC10.E8.A9.B1.E7.99.BB.E5.A0.B4">第10話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=52" title="編輯章節：第10話登場" data-section="52" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="旅鴿（リョコウバト/Passenger's_Pigeon）"></span><span class="mw-headline" id=".E6.97.85.E9.B4.BF.EF.BC.88.E3.83.AA.E3.83.A7.E3.82.B3.E3.82.A6.E3.83.90.E3.83.88.2FPassenger.27s_Pigeon.EF.BC.89">旅鴿（リョコウバト/Passenger's Pigeon）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=53" title="編輯章節：旅鴿（リョコウバト/Passenger's Pigeon）" data-section="53" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：<a href="/%E7%99%BD%E7%9F%B3%E6%B6%BC%E5%AD%90" title="白石涼子">白石涼子</a></li>
+<li>曾經是北美洲分布最廣泛的高社會性鳥類，卻因為基因庫缺陷而在人類一世紀的濫殺下從數十億到滅絕</li>
+<li>穿著空姐制服，暗指旅鴿的候鳥習性</li>
+<li>在將行李託給藪貓二人之後先行帶著咕嚕嚕前往飯店</li>
+<li>在得知旅鴿獨自旅行後，咕嚕嚕將所有路上遇到的朋友跟旅鴿畫在一起並將畫送給她
+<ul><li>這次終於有把走鵑、家犬也畫上去了（重點）</li>
+<li>連東北虎也畫上去了</li>
+<li>不過也導致了天藍怪朋友大鬧飯店，而自己也被天藍怪朋友襲擊下落不明。</li></ul></li>
+<li>不過咕嚕嚕也沒忘了家的事情，詢問她有關人類的線索，但她對此沒有印象
+<ul><li><s>竟然問被人類搞得絕種的旅鴿人類的事情，咕嚕嚕也真夠白目的</s></li></ul></li>
+<li>值得一提的是同人刊物「Friends Mind」的第三期主角就是她</li>
+<li>第11話最後自己一個人在飯店閒晃。</li>
+<li>第12話中遇上擬態成自己的天藍怪時因為太想念夥伴，差一點就要送死</li></ul><h4 class="in-block"><span id="浣熊（アライグマ/Common_Raccoon）"></span><span class="mw-headline" id=".E6.B5.A3.E7.86.8A.EF.BC.88.E3.82.A2.E3.83.A9.E3.82.A4.E3.82.B0.E3.83.9E.2FCommon_Raccoon.EF.BC.89">浣熊（アライグマ/Common Raccoon）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=54" title="編輯章節：浣熊（アライグマ/Common Raccoon）" data-section="54" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：小野早稀</li>
+<li><s>最後還是逃不過第2季的ばすてきコンビ</s></li>
+<li><s>自言自語</s></li>
+<li><s>明明畫裡壓根就沒有畫我們</s></li></ul><h4 class="in-block"><span id="耳廓狐（フェネック/Fennec）"></span><span class="mw-headline" id=".E8.80.B3.E5.BB.93.E7.8B.90.EF.BC.88.E3.83.95.E3.82.A7.E3.83.8D.E3.83.83.E3.82.AF.2FFennec.EF.BC.89">耳廓狐（フェネック/Fennec）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=55" title="編輯章節：耳廓狐（フェネック/Fennec）" data-section="55" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：本宮佳奈</li>
+<li>角色特質同浣熊</li>
+<li><s>對浣熊說:因為是"全公園的危機"嘛!</s></li></ul><h4 class="in-block"><span id="大耳狐（オオミミギツネ/_Bat-eared_Fox）"></span><span class="mw-headline" id=".E5.A4.A7.E8.80.B3.E7.8B.90.EF.BC.88.E3.82.AA.E3.82.AA.E3.83.9F.E3.83.9F.E3.82.AE.E3.83.84.E3.83.8D.2F_Bat-eared_Fox.EF.BC.89">大耳狐（オオミミギツネ/ Bat-eared Fox）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=56" title="編輯章節：大耳狐（オオミミギツネ/ Bat-eared Fox）" data-section="56" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：諏訪彩花</li>
+<li>海上<s>成人風</s>飯店門房經營者，正因飯店沒人光顧而傷腦筋
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>外觀的藍本出自於新加坡的金沙酒店</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>游泳池的藍本出自於Renaissance Seoul Hotel(首爾復興飯店)的游泳池</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>貝殼房的藍本出自於神戶ウインベルマジック(溫貝爾馬傑克酒店)的成人旅館，還是人氣最高的907號房</s></span></li></ul></li></ul><ul><li>不過即便如此還是努力於飯店的清潔和正常營運</li>
+<li>因為大耳朵所以聽力很強
+<ul><li>尤其是在電講壞話的黃綠龜殼花更有奇效</li>
+<li><s>飯店倒了...(哭)，咦?!妳說PPP會在停機坪上表演，yatta!</s>
+<ul><li><s>等等!!妳們是不是忘了下面壓了個...東北虎醬?!</s></li></ul></li></ul></li>
+<li><s><a href="/%E6%9A%97%E6%AE%BA%E6%95%99%E5%AE%A4" title="暗殺教室">3年E班的學生，身材超群</a></s></li></ul><h4 class="in-block"><span id="黃綠龜殼花（ハブ/Protobothrops_flavoviridis）"></span><span class="mw-headline" id=".E9.BB.83.E7.B6.A0.E9.BE.9C.E6.AE.BC.E8.8A.B1.EF.BC.88.E3.83.8F.E3.83.96.2FProtobothrops_flavoviridis.EF.BC.89">黃綠龜殼花（ハブ/Protobothrops flavoviridis）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=57" title="編輯章節：黃綠龜殼花（ハブ/Protobothrops flavoviridis）" data-section="57" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：<a href="/%E4%BC%8A%E7%80%A8%E8%8C%89%E8%8E%89%E4%B9%9F" title="伊瀨茉莉也">伊瀨茉莉也</a></li>
+<li>日本境內最大隻的毒蛇，2011年10月12日在沖繩島恩納村發現長242公分，重2.8公斤的屍體。</li>
+<li>害怕揮舞的棍狀物<s>打草驚蛇!?</s></li>
+<li>在飯店經營土產店，態度較為消極，認為飯店根本就不會有人上門</li>
+<li><s><a href="/%E6%AE%BA%E6%88%AE%E3%81%AE%E5%A4%A9%E4%BD%BF" title="殺戮の天使">Floor B3的層主</a>，同時也是<a href="/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A/%E8%A7%92%E8%89%B2%E4%BB%8B%E7%B4%B9#.E6.A1.91.E5.BE.B7.E6.96.AF.E5.A4.A7.E5.AD.B8.E9.99.84.E5.B1.AC.E9.AB.98.E6.A0.A1" title="少女與戰車/角色介紹">優秀的砲術家</a>和<a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88UC" title="機動戰士鋼彈UC">MA駕駛員</a></s></li></ul><h4 class="in-block"><span id="豬（ブタ/Sus_scrofa_domesticus）"></span><span class="mw-headline" id=".E8.B1.AC.EF.BC.88.E3.83.96.E3.82.BF.2FSus_scrofa_domesticus.EF.BC.89">豬（ブタ/Sus scrofa domesticus）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=58" title="編輯章節：豬（ブタ/Sus scrofa domesticus）" data-section="58" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CV：下地紫野</li>
+<li>出於豬愛乾淨天性，所以讓她擔任清潔婦的工作
+<ul><li>但是由於養殖環境髒亂以及為了散熱而在泥坑打滾的習性，所以讓人有骯髒的印象</li></ul></li>
+<li><s>今年（2019）的本命年</s></li>
+<li><s>美洲河狸</s></li>
+<li><s>就算她不出場故事也完全沒有影響</s></li></ul><h3 class="in-block"><span id="第11話登場"></span><span class="mw-headline" id=".E7.AC.AC11.E8.A9.B1.E7.99.BB.E5.A0.B4">第11話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=59" title="編輯章節：第11話登場" data-section="59" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>上述所有出場過<s>要被2期背包桑賣去成人風旅館，眼神死一片</s>的主要朋友（家犬與東北虎除外）以及他們的天藍怪複製體</li></ul><h3 class="in-block"><span id="第12話登場"></span><span class="mw-headline" id=".E7.AC.AC12.E8.A9.B1.E7.99.BB.E5.A0.B4">第12話登場</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=60" title="編輯章節：第12話登場" data-section="60" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>上述所有出場過<s>要被2期背包桑賣去成人風旅館，眼神死一片</s>的主要朋友以及他們的天藍怪複製體。還包括來救援<s>犧牲</s>的東北虎跟片尾後來出來<s>被虐</s>的家犬。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="話數、地點和時間"></span><span class="mw-headline" id=".E8.A9.B1.E6.95.B8.E3.80.81.E5.9C.B0.E9.BB.9E.E5.92.8C.E6.99.82.E9.96.93">話數、地點和時間</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=61" title="編輯章節：話數、地點和時間" data-section="61" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>第一季命名法則都是以場所為標題名，第二季似乎沒有，但第二季的標題都用平假名。</li></ul><table class="wikitable" style="margin:1.5em auto;"><tbody><tr><th>話數</th>
+<th>標題</th>
+<th>地點
+</th></tr><tr><td>1</td>
+<td>過去的記憶</td>
+<td>莽原地區
+</td></tr><tr><td>2</td>
+<td>熊貓與小貓熊</td>
+<td>阿傑園（竹林地區）
+</td></tr><tr><td>3</td>
+<td>海洋的動物</td>
+<td>海洋公園
+</td></tr><tr><td>4</td>
+<td>各式各樣的家</td>
+<td rowspan="2">南美園
+</td></tr><tr><td>5</td>
+<td>人類的力量
+</td></tr><tr><td>6</td>
+<td>全新的早晨</td>
+<td>背包的家（地點不明）
+</td></tr><tr><td>7</td>
+<td><a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_5D%27s" title="遊☆戯☆王 5D's">速度的彼方</a></td>
+<td>荒原
+</td></tr><tr><td>8</td>
+<td>新歌Live</td>
+<td>PPP的活動會場
+</td></tr><tr><td>9</td>
+<td>您回家去吧</td>
+<td>渡假小屋區
+</td></tr><tr><td>10</td>
+<td>Check-in</td>
+<td rowspan="3">海上飯店
+</td></tr><tr><td>11</td>
+<td>海洋的心情
+</td></tr><tr><td>12</td>
+<td>我回來了
+</td></tr></tbody></table><ul><li>第1-4話第一天<s>上季從莽原地區到叢林就已經花了一天</s></li>
+<li>第4-6話第二天</li>
+<li>第7-10話第三天</li>
+<li>第11話第四天</li>
+<li>第12話到第五天傍晚
+<ul><li><s>結論...根本沒過一個禮拜</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="過場動物介紹"></span><span class="mw-headline" id=".E9.81.8E.E5.A0.B4.E5.8B.95.E7.89.A9.E4.BB.8B.E7.B4.B9">過場動物介紹</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=62" title="編輯章節：過場動物介紹" data-section="62" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>跟前作一樣，在過場時有動物簡介
+<ul><li>主要由ミライ【CV：內田彩】作<a href="/%E8%A7%A3%E8%AA%AA%E5%93%A1" title="解說員">旁白</a>，但也有例外</li></ul></li></ul><ul><li>過場片段使用外購節目（詳見下表）的播出片，<a href="/%E6%88%90%E5%8F%A5/%E6%B5%B7%E5%A4%96%E7%84%A1%E4%BA%BA%E6%AC%8A" title="成句/海外無人權">因版權問題海外版會剪掉此部份</a>
+<ul><li>巴哈姆特動畫瘋第1-2話疑似因此而晚了上架</li></ul></li></ul><table class="wikitable" style="margin:1.5em auto;"><tbody><tr><th>話數</th>
+<th>介紹動物（使用片源，別註等）
+</th></tr><tr><td>1</td>
+<td>藪貓（國家地理頻道）<br>獰貓（國家地理頻道）
+</td></tr><tr><td>2</td>
+<td>大貓熊（どうぶつピース，坂本千夏旁白）<br>小貓熊（國家地理頻道）
+</td></tr><tr><td>3</td>
+<td>加州海獅（國家地理頻道）<br>寬吻海豚（ダーウィンが来た，中間ヒゲじい<a href="/%E4%BA%82%E5%85%A5" title="亂入">亂入</a>）
+</td></tr><tr><td>4</td>
+<td>土狼（國家地理頻道）<br>草原撲鴷（國家地理頻道）
+</td></tr><tr><td>5</td>
+<td>灣鱷（國家地理頻道）<br>花豹（國家地理頻道）
+</td></tr><tr><td>6</td>
+<td>白臉角鴞（どうぶつ図鑑2）<br>雕鴞（國家地理頻道）
+</td></tr><tr><td>7</td>
+<td>獵豹（國家地理頻道）<br>走鵑（國家地理頻道）
+</td></tr><tr><td>8</td>
+<td>貉（國家地理頻道）<br>長尾虎貓（國家地理頻道）
+</td></tr><tr><td>9</td>
+<td>大犰狳（ダーウィンが来た）<br>北極海鸚（國家地理頻道）
+</td></tr><tr><td>10</td>
+<td>華美鳳鳥（國家地理頻道）<br>西六線風鳥（國家地理頻道）
+</td></tr><tr><td>11</td>
+<td>黃綠龜殼花<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>（國家地理頻道）<br>豬（國家地理頻道）
+</td></tr><tr><td>12</td>
+<td>大耳狐（國家地理頻道）<br>旅鴿（わけあって絕滅しました）
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="主題曲"></span><span class="mw-headline" id=".E4.B8.BB.E9.A1.8C.E6.9B.B2">主題曲</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=63" title="編輯章節：主題曲" data-section="63" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<h3 class="in-block"><span id="片頭「乗ってけ！ジャパリビート」（1-11話）"></span><span class="mw-headline" id=".E7.89.87.E9.A0.AD.E3.80.8C.E4.B9.97.E3.81.A3.E3.81.A6.E3.81.91.EF.BC.81.E3.82.B8.E3.83.A3.E3.83.91.E3.83.AA.E3.83.93.E3.83.BC.E3.83.88.E3.80.8D.EF.BC.881-11.E8.A9.B1.EF.BC.89">片頭「乗ってけ！ジャパリビート」（1-11話）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=64" title="編輯章節：片頭「乗ってけ！ジャパリビート」（1-11話）" data-section="64" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>作詞、作曲、編曲：大石昌良 / 歌：動物餅乾×PPP
+<ul><li>收錄在專輯「乗ってけ！ジャパリビート」中</li>
+<li>片頭動畫在後半段話數有微修正</li></ul></li></ul><ul><li><s>歌曲還不錯，但是建議搭配 <a href="http://www.nicovideo.jp/watch/sm34492664" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm34492664">第一季時的影像</a>收看較好</s></li></ul><h3 class="in-block"><span id="片尾"></span><span class="mw-headline" id=".E7.89.87.E5.B0.BE">片尾</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=65" title="編輯章節：片尾" data-section="65" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="1-5話「星をつなげて」"></span><span class="mw-headline" id="1-5.E8.A9.B1.E3.80.8C.E6.98.9F.E3.82.92.E3.81.A4.E3.81.AA.E3.81.92.E3.81.A6.E3.80.8D">1-5話「星をつなげて」</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=66" title="編輯章節：1-5話「星をつなげて」" data-section="66" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>作詞、作曲：じん / 歌：Gothic×Luck
+<ul><li>收錄在專輯「Starry Story EP」中</li></ul></li></ul><ul><li><s>除片尾預告外唯二的可看之處</s></li></ul><h4 class="in-block"><span id="6-11話「きみは帰る場所」"></span><span class="mw-headline" id="6-11.E8.A9.B1.E3.80.8C.E3.81.8D.E3.81.BF.E3.81.AF.E5.B8.B0.E3.82.8B.E5.A0.B4.E6.89.80.E3.80.8D">6-11話「きみは帰る場所」</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=67" title="編輯章節：6-11話「きみは帰る場所」" data-section="67" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>作詞、作曲：佐藤純一 / 歌：Gothic×Luck</li></ul><h4 class="in-block"><span id="12話「ようこそジャパリパークへ」"></span><span class="mw-headline" id="12.E8.A9.B1.E3.80.8C.E3.82.88.E3.81.86.E3.81.93.E3.81.9D.E3.82.B8.E3.83.A3.E3.83.91.E3.83.AA.E3.83.91.E3.83.BC.E3.82.AF.E3.81.B8.E3.80.8D">12話「ようこそジャパリパークへ」</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=68" title="編輯章節：12話「ようこそジャパリパークへ」" data-section="68" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>歌：動物餅乾×PPP / 作詞、作曲、編曲：大石昌良
+<ul><li><b>大家沒看錯，就是一期國歌，翻唱者是うぃあーふれんず！(we're friends)<s>，其實應該就是二期演出者吧?</s></b></li>
+<li><s>更諷刺的是歌詞裡有「沒有外人」「真正的愛在這裡」等句子，完全打臉本作演出</s></li>
+<li><s>官方還想說2期CD如果賣不出去就賣了一張一期國歌20幾種版本的CD</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="預告"></span><span class="mw-headline" id=".E9.A0.90.E5.91.8A">預告</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=69" title="編輯章節：預告" data-section="69" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<h3 class="in-block"><span id="片頭預告（2-11話）"></span><span class="mw-headline" id=".E7.89.87.E9.A0.AD.E9.A0.90.E5.91.8A.EF.BC.882-11.E8.A9.B1.EF.BC.89">片頭預告（2-11話）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=70" title="編輯章節：片頭預告（2-11話）" data-section="70" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>在動畫開始前會有一分鐘左右的前話回顧
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">基本上你看完就等於看過了<s>體感1小時的</s>上一話了</span></li></ul></li></ul><h3 class="in-block"><span id="片尾預告（1-11話）"></span><span class="mw-headline" id=".E7.89.87.E5.B0.BE.E9.A0.90.E5.91.8A.EF.BC.881-11.E8.A9.B1.EF.BC.89">片尾預告（1-11話）</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=71" title="編輯章節：片尾預告（1-11話）" data-section="71" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><big><s>本作唯一的正片</s></big></li></ul><ul><li>由<a rel="nofollow" class="external text" href="https://twitter.com/kona_milo">キクチミロ</a>所製作的剪紙停格動畫
+<ul><li>作者為動物朋友的支持者，2018年底曾經幫動物餅乾的專輯製作封面</li></ul></li></ul><ul><li>場景在Japari Cafe，角色是蘇利羊駝【CV：藤井ゆきよ】以及其他<b>前作出現過的Friends</b>，也自然包含了前作的彩蛋
+<ul><li>順帶一提，漫畫版有提及羊駝仍在開設咖啡店</li>
+<li>第1話：PPP</li>
+<li>第2話：小爪水獺、美洲豹</li>
+<li>第3話：美洲河狸、黑尾土撥鼠</li>
+<li>第4話：獅子、駝鹿</li>
+<li>第5話：長尾虎貓、非洲野犬<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li>第6話：白臉角鴞、雕鴞、<s>以及淪為背景的</s>朱鷺</li>
+<li>第7話：朱鷺、槌子蛇<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>、沙漠貓</li>
+<li>第8話：灰狼、網紋長頸鹿</li>
+<li>第9話：銀狐、北狐</li>
+<li>第10話：金絲猴、棕熊、<s>再度淪為背景的</s>朱鷺</li>
+<li>第11話：<s>邊緣自演的</s>蘇利羊駝</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="漫畫版"></span><span class="mw-headline" id=".E6.BC.AB.E7.95.AB.E7.89.88">漫畫版</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=72" title="編輯章節：漫畫版" data-section="72" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li>作畫：內藤隆</li>
+<li><s>雖然</s>故事按照第二季的劇情大綱改編<s>，雖然不到<a href="/%E6%88%90%E5%8F%A5/%E7%9C%9F%E9%A6%99" title="成句/真香">真香</a>的程度，但漫畫版整體至少比起動畫合理且有趣多了</s>
+<ul><li>評價普遍&gt;&gt;&gt;...&gt;&gt;&gt;動畫版，刪掉了很多不必要或改惡性格的部分，對第四話後的劇情和人物描繪做出最大程度的修改</li>
+<li><s>這個世界的咕嚕嚕正常多了</s></li>
+<li><s>動畫後面內容越來越超越神的境界了，究竟漫畫版會如何接招呢？</s></li>
+<li><s>動朋死前最後的良心</s></li></ul></li>
+<li>活用了在動畫中被噴死的元素將劇情改造成包含了友情與成長的故事。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">漫畫中羊駝有提及和人類間的過往，然而其名字全部都以「茶杯」圖示代替</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>難道說真的講出來會被消失嗎？</s></span></li>
+<li>最後漫畫版以徹底排毒的溫暖結局告終，和動畫本篇可說是天差地遠</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span class="mw-headline" id="BD">BD</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=73" title="編輯章節：BD" data-section="73" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<ul><li>5月24日，第一卷BD發售，首週末賣出<i><b>458卷</b></i></li>
+<li>BD1銷量居然還有四百人(M屬性)買....<s>不知道銷量輸給動朋2 BD的動畫會作何感想...<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></s>...
+<ul><li>但猜想有一大部分是為了特典的設定集<s>，BD本體看是要拍賣掉還是什麼的隨便吧</s>。</li></ul></li>
+<li>第二卷的銷售量居然增加了<b>1卷</b>，然而第三卷的銷售量又下跌了13卷</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=74" title="編輯章節：連結" data-section="74" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-10 collapsible-block" id="mf-section-10">
+<ul><li><a rel="nofollow" class="external text" href="http://kemono-friends.jp/">官網</a></li>
+<li><s><a href="/%E7%85%99%E8%8D%89" title="煙草">煙草</a>：讓動朋2連車尾燈都看不到的優秀作品</s></li></ul><ul><li><a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B/%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%A3%BD%E4%BD%9C%E5%9C%98%E9%9A%8A%E6%9B%B4%E6%8F%9B%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" class="mw-redirect" title="動物朋友/第二季製作團隊更換炎上事件">動物朋友/第二季製作團隊更換炎上事件</a>
+<ul><li><a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B/%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%A3%BD%E4%BD%9C%E5%9C%98%E9%9A%8A%E6%9B%B4%E6%8F%9B%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6#.E3.83.8B.E3.82.B3.E3.83.8B.E3.82.B3.E7.94.9F.E6.94.BE.E9.80.81.E4.B8.8A.E7.9A.84.E8.A9.95.E5.83.B9.E8.AE.8A.E5.8C.96" class="mw-redirect" title="動物朋友/第二季製作團隊更換炎上事件">Nico評價</a>
+<ul><li><s>謝謝你木村監督，你讓動朋2成功<s style="text-decoration-style: double; text-decoration-color:red;">弒神</s>打敗ARC-V第148話拿下平成最後最差的寶座，成為動畫迷口中的「傳說」了</s></li></ul></li></ul></li></ul><p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(11)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=75" title="編輯章節：回應" data-section="75" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-11 collapsible-block" id="mf-section-11">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="討論:動物朋友2">討論:動物朋友2</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(12)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;action=edit&amp;section=76" title="編輯章節：備註" data-section="76" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-12 collapsible-block" id="mf-section-12">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">來自ptt</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">2019年栃視Anime Festa的出演公告上，「動物朋友2舞台」的「2」字被臨時用白色的方形貼紙蓋掉，<s>疑為逃避動物朋友2爆死的枷鎖，但欲蓋彌彰而反倒成為笑柄</s>（<a rel="nofollow" class="external text" href="https://togetter.com/li/1344840">證據</a>）</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">因為和細谷疑似有私通+在925事件爆發後發了疑似嘲諷たつき導演的推文而被列為攻擊目標，結果在2020年4月10日確診染上新型冠狀肺炎<s>妳看看妳</s></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">確定要被幹的是增本、細谷、<s>因為自己發狂所以變成被幹名單的</s>木村、寫出一堆合理化2期的莫名其妙設定的吉崎<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，因為他仍擔任總監督來看他一開始是有參與其中。</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">"Kemono Friends 2 is a new story. It features some of the same characters as the first series, but it’s not a continuation of it."</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">原因可看上面的<s>吃書</s>設定</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">與初代手遊版相同</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">在雜談節目「ミニけものフレンズアワー2」第5集裡內田提到她對背包過多的改變感到心情複雜，但上面的人要她把本作的背包視為「成長了的同一角色」讓她非常驚訝（<a rel="nofollow" class="external text" href="http://kemono-friendsch.com/archives/77465">相關整理</a>）</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">漫畫版家犬出場時就和咕嚕嚕等人表示此畫是她尋找主角三人的動機</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">影片中出現的卻是琉球紅斑蛇（アカタマ）的影像…？</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">前傳漫畫版中經營蛋糕店的朋友</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">前傳漫畫裡隱居深山的槌子蛇是唯一欣賞朱鷺歌聲的朋友</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">下列為同期BD銷售量落後本作的動畫：ブギーポップは笑わない(414),魔法少女特殊戦あすか (349),W’z《ウィズ》(156) ,エガオノダイカ(139), サークレット・プリンセス(98)</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=動物朋友2&amp;oldid=363119">https://wiki.komica.org/index.php?title=動物朋友2&amp;oldid=363119</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2"
+				data-user-name="Sakura"
+				data-user-gender="unknown"
+				data-timestamp="1641561901">
+				最後編輯於 2022年1月7日 (週五) 21:25
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.240","walltime":"0.730","ppvisitednodes":{"value":1623,"limit":1000000},"ppgeneratednodes":{"value":3532,"limit":1000000},"postexpandincludesize":{"value":24878,"limit":2097152},"templateargumentsize":{"value":9949,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4846,"limit":5000000},"timingprofile":["100.00%  177.906      1 -total"," 39.91%   70.999     67 模板:Censored"," 15.27%   27.174      1 模板:H0"," 14.64%   26.041      6 模板:Ref","  6.89%   12.265      1 模板:DoubleStrike","  5.11%    9.092      3 模板:Sm","  4.18%    7.431      8 模板:Color","  3.59%    6.385      7 模板:Ruby","  1.20%    2.136      1 模板:Pcomment"]},"cachereport":{"timestamp":"20221104232032","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":291});});</script>		</body>
+		</html>
+		

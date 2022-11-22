@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Warner Bros. Animation - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Warner_Bros._Animation","wgTitle":"Warner Bros. Animation","wgCurRevisionId":415303,"wgRevisionId":415303,"wgArticleId":47115,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"Warner_Bros._Animation","wgRelevantArticleId":47115,"wgRequestId":"c4391ca659775241f4dd09b9","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=Warner+Bros.+Animation\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=Warner+Bros.+Animation","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=Warner_Bros._Animation&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=Warner_Bros._Animation&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Warner_Bros_Animation rootpage-Warner_Bros_Animation stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=Warner+Bros.+Animation" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">Warner Bros. Animation</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">Warner Bros. Animation/華納兄弟動畫公司</div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>成立於1980年，華納媒體旗下的<a href="/%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="動畫工作室">動畫工作室</a>，主力是製作TV版動畫，特別是<a href="/DC%E6%BC%AB%E7%95%AB" title="DC漫畫">DC漫畫</a>的動畫化
+<ul><li>前身為華納兄弟卡通（Warner Bros. Cartoons），於1933年成立，華納兄弟公司的內部動畫部門</li>
+<li>1980年公司重組，成為現在的華納兄弟動畫公司</li>
+<li>除了著名動畫系列（包括「樂一通」、「史酷比」、「湯姆與傑利」）外，工作室還製作了其他著名動畫電影，如「魔劍奇兵」、「鐵巨人」、「捍胃戰士」、「樂高玩電影」等</li>
+<li>2013年為了分拆TV動畫和電影動畫，成立集中製作動畫電影的華納動畫集團（Warner Animation Group），華納兄弟動畫公司則保持動畫製作</li>
+<li>除了華納動畫集團和華納兄弟動畫公司外，<a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">Cartoon Network Studios</a>、Williams Street、以及Rooster Teeth也是屬於華納媒體旗下的<a href="/%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="動畫工作室">動畫工作室</a></li></ul></li>
+<li>動畫公司本身沒有直屬頻道
+<ul><li>作品多為外銷，在其他動畫頻道，在或網上推出</li>
+<li>其中播放率最高的為<a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">卡通頻道</a>，其播放率之高還直接影響<a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">卡通頻道自家的工作室</a></li></ul></li>
+<li>2022年4月，母公司「華納媒體」 (WarnerMedia)與「探索」(Discovery)合併為「華納兄弟探索」(Warner Bros Discovery)，為了<s>省錢</s>精簡架構而進行一連串改革
+<ul><li>強行終止大量動畫計劃，並把大量動畫作品從在各大頻道移除，被稱為「2022 The Great Cartoon Network Purge」</li>
+<li>Warner Bros. Animation、<a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">Cartoon Network Studios</a>和Hanna-Barbera Studios旗下的開發和製作團隊合併為一隊，三間工作室名義上會繼續存在，但開發、製作、演員、法務、公關團隊將會共享</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="動畫影集列表"></span><span class="mw-headline" id=".E5.8B.95.E7.95.AB.E5.BD.B1.E9.9B.86.E5.88.97.E8.A1.A8">動畫影集列表</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=2" title="編輯章節：動畫影集列表" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><td>以下列表僅列出部分作品
+</td></tr></tbody></table><h3 class="in-block"><span id="九十年代"></span><span class="mw-headline" id=".E4.B9.9D.E5.8D.81.E5.B9.B4.E4.BB.A3">九十年代</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=3" title="編輯章節：九十年代" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="Tiny_Toon_Adventures（迷你樂一通）"></span><span class="mw-headline" id="Tiny_Toon_Adventures.EF.BC.88.E8.BF.B7.E4.BD.A0.E6.A8.82.E4.B8.80.E9.80.9A.EF.BC.89">Tiny Toon Adventures（迷你樂一通）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=4" title="編輯章節：Tiny Toon Adventures（迷你樂一通）" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>繼續自華納兄弟卡通的成名作樂一通（Looney Toon）</li>
+<li>1990年把角色重設後以TV動畫推出</li>
+<li>之後每隔幾年就會不同的劇本重製</li></ul><h4 class="in-block"><span id="Animaniacs（狂歡三寶）"></span><span class="mw-headline" id="Animaniacs.EF.BC.88.E7.8B.82.E6.AD.A1.E4.B8.89.E5.AF.B6.EF.BC.89">Animaniacs（狂歡三寶）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=5" title="編輯章節：Animaniacs（狂歡三寶）" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>華納兄弟動畫公司的成名作，導演為史蒂芬·史匹柏（Steven Allan Spielberg）</li>
+<li>故事講述在華納水塔中，封印了工作室製作出最瘋狂的角色—娃克（Yakko）、雅克（Wakko）、小點（Dot），有一天，這個封印被解除了...
+<ul><li>每集由多個小故事組成，每個故事的主角都不同，類似現時的綜藝短篇</li>
+<li>除了三位主角外，故事中也出現其他角色，包括天才與傻傑（Pinky and the Brain）、絲洛培與奇培（Slappy and Skippy）、莉達與宏特（Rita and Runt）、三隻好白鴿（Goodfeathers）、巨型雞（Chicken Boo）等，有時候也會出現其他名人，包括美國總統</li>
+<li>內裡的歌曲到現在也極受歡迎，其中「Yakko's World」到現在也有人懂得唱<s>，不過以現時的標準來說這歌<a href="/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E7%9A%84%E5%AF%A9%E6%9F%A5%E5%88%B6%E5%BA%A6" title="中國大陸的審查制度">辱華</a>了</s> <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li></ul></li>
+<li>2020重啟，導演還是史蒂芬·史匹柏（Steven Allan Spielberg），於Hulu頻道中推出
+<ul><li>每集同樣是由多個小故事組成，但角色不是娃克/雅克/小點就是天才與傻傑
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原因是重啟合約中不包括人氣最低的巨型雞（Chicken Boo），因此巨型雞把所有角色幹掉</span></li></ul></li></ul></li></ul><h4 class="in-block"><span id="Pinky_and_the_Brain（天才與傻傑/小小老鼠征地球）"></span><span class="mw-headline" id="Pinky_and_the_Brain.EF.BC.88.E5.A4.A9.E6.89.8D.E8.88.87.E5.82.BB.E5.82.91.2F.E5.B0.8F.E5.B0.8F.E8.80.81.E9.BC.A0.E5.BE.81.E5.9C.B0.E7.90.83.EF.BC.89">Pinky and the Brain（天才與傻傑/小小老鼠征地球）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=6" title="編輯章節：Pinky and the Brain（天才與傻傑/小小老鼠征地球）" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>Animaniacs的衍生作</li>
+<li>故事講述於Acme實驗室中有著人類智慧白老鼠天才（The Brain）與傻傑（Pinky），兩人每晚都嘗試征服世界的故事</li>
+<li>1998年追加續集「Pinky, Elmyra &amp; the Brain」
+<ul><li>一次意外中Acme實驗室被炸毀，在尋找新的住所中被「寵物殺手」埃爾梅拉（Elmyra）收養</li>
+<li>自此他們每日的任務就是脫離埃爾梅拉的魔掌，以及征服世界</li></ul></li>
+<li>2020因Animaniacs重啟而同時重啟</li></ul><h4 class="in-block"><span id="Scooby-Doo,_Where_Are_You!（史酷比，你在哪裡！）"></span><span class="mw-headline" id="Scooby-Doo.2C_Where_Are_You.21.EF.BC.88.E5.8F.B2.E9.85.B7.E6.AF.94.EF.BC.8C.E4.BD.A0.E5.9C.A8.E5.93.AA.E8.A3.A1.EF.BC.81.EF.BC.89">Scooby-Doo, Where Are You!（史酷比，你在哪裡！）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=7" title="編輯章節：Scooby-Doo, Where Are You!（史酷比，你在哪裡！）" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>著名系列史酷比（Scooby-Doo）的第一作，於1969年播出
+<ul><li>之後每隔幾年就會重製一次</li>
+<li>現時(2022)除了TV動畫外還有四套電影版</li></ul></li>
+<li>故事講述神秘事件公司（The Mystery, Inc.）的成員們駕著他們的小箱型車Mystery Machine前往各地旅行，在過程中遇見和解開各種各樣的神秘事件</li></ul><h4 class="in-block"><span id="Tom_and_Jerry（湯姆與傑利）"></span><span class="mw-headline" id="Tom_and_Jerry.EF.BC.88.E6.B9.AF.E5.A7.86.E8.88.87.E5.82.91.E5.88.A9.EF.BC.89">Tom and Jerry（湯姆與傑利）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=8" title="編輯章節：Tom and Jerry（湯姆與傑利）" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>原本由MGM Cartoon Studio 制作，1986年轉手到華納兄弟公司，自此Tom and Jerry成為華納的熱門作</li>
+<li>故事每一集都以灰貓湯姆（Tom）為抓到褐鼠傑利（Jerry）為主題，但被隨之而來的是各式各樣的破壞，過程中也出現大量充滿破壞效果的過癮場面</li>
+<li>到現在熱度不減，還出現很多如傻眼湯姆與近前看其等歷久不衰的梗圖與迷因</li></ul><h3 class="in-block"><span id="DCAU（DC_Animated_Universe）"></span><span class="mw-headline" id="DCAU.EF.BC.88DC_Animated_Universe.EF.BC.89">DCAU（DC Animated Universe）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=9" title="編輯章節：DCAU（DC Animated Universe）" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>泛指在1992年至2005，由布鲁斯·蒂姆(Bruce Timm)和保羅·迪尼(Paul Dini)製作的DC動畫，當中動畫的設定甚至回流到漫畫正史</li>
+<li>由於所有故事都有連動並設定在同一世界，因此整個DCAU也包含在世界線「Earth-12」之中</li></ul><h4 class="in-block"><span id="Batman:_The_Animated_Series（蝙蝠俠：動畫系列）"></span><span class="mw-headline" id="Batman:_The_Animated_Series.EF.BC.88.E8.9D.99.E8.9D.A0.E4.BF.A0.EF.BC.9A.E5.8B.95.E7.95.AB.E7.B3.BB.E5.88.97.EF.BC.89">Batman: The Animated Series（蝙蝠俠：動畫系列）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=10" title="編輯章節：Batman: The Animated Series（蝙蝠俠：動畫系列）" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>動畫化中的著名系列，DCAU的起源，於1992年播出</li>
+<li>此作獨一無二的採用了「黑色底板」（Dark Deco）技術，使動畫完全秉承了漫畫蝙蝠俠黑暗幽深的配色風格</li>
+<li>此作當中設定甚至回留到漫畫，例如急凍人（Mr. Freeze）的悲劇背景，以及小丑的女同黨「小丑女」哈利·奎恩（Harley Quinn）</li></ul><h4 class="in-block"><span id="Superman:_The_Animated_Series（超人：動畫系列）"></span><span class="mw-headline" id="Superman:_The_Animated_Series.EF.BC.88.E8.B6.85.E4.BA.BA.EF.BC.9A.E5.8B.95.E7.95.AB.E7.B3.BB.E5.88.97.EF.BC.89">Superman: The Animated Series（超人：動畫系列）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=11" title="編輯章節：Superman: The Animated Series（超人：動畫系列）" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a href="/%E8%B6%85%E4%BA%BA" title="超人">超人</a>動畫化中的著名系列，於1996年播出</li>
+<li>比起漫畫中的搞笑情節，動畫使用更嚴肅的風格去處理英雄身邊的問題</li></ul><h4 class="in-block"><span id="The_New_Batman_Adventures（蝙蝠俠新冒險）"></span><span class="mw-headline" id="The_New_Batman_Adventures.EF.BC.88.E8.9D.99.E8.9D.A0.E4.BF.A0.E6.96.B0.E5.86.92.E9.9A.AA.EF.BC.89">The New Batman Adventures（蝙蝠俠新冒險）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=12" title="編輯章節：The New Batman Adventures（蝙蝠俠新冒險）" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>於1997年播出，是為「蝙蝠俠：動畫系列」的續集</li>
+<li>故事中，前作的迪克．格雷森(Richard John "Dick" Grayson)退出並自立，而提姆．德雷克（Tim Drake）也成為新羅賓</li></ul><h4 class="in-block"><span id="Batman_Beyond（未來蝙蝠俠）"></span><span class="mw-headline" id="Batman_Beyond.EF.BC.88.E6.9C.AA.E4.BE.86.E8.9D.99.E8.9D.A0.E4.BF.A0.EF.BC.89">Batman Beyond（未來蝙蝠俠）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=13" title="編輯章節：Batman Beyond（未來蝙蝠俠）" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>於1999年播出，<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>未來化系列</li>
+<li>故事發生在2040年，原「<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>」布魯斯·韋恩已經70多歲，為了繼續打擊罪案，把<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>之名交給泰瑞·麥金尼斯（Terry McGinnis）</li>
+<li>現時整個故事已回流到<a href="/DC%E6%BC%AB%E7%95%AB" title="DC漫畫">DC正史</a>，世界線名稱為「Earth-12」，作為原宇宙未來的其中一個可能性</li></ul><h4 class="in-block"><span id="Static_Shock（靜電俠）"></span><span class="mw-headline" id="Static_Shock.EF.BC.88.E9.9D.9C.E9.9B.BB.E4.BF.A0.EF.BC.89">Static Shock（靜電俠）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=14" title="編輯章節：Static Shock（靜電俠）" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>於2000年播出</li>
+<li>故事讀述主角維吉爾·奧維德·維吉爾(Virgil Ovid Hawkins)在一次意外中得到控制電力的能力，化身為英雄「靜電俠」對抗邪惡</li></ul><h4 class="in-block"><span id="The_Zeta_Project（澤塔計劃）"></span><span class="mw-headline" id="The_Zeta_Project.EF.BC.88.E6.BE.A4.E5.A1.94.E8.A8.88.E5.8A.83.EF.BC.89">The Zeta Project（澤塔計劃）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=15" title="編輯章節：The Zeta Project（澤塔計劃）" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>於2001年播出</li>
+<li>故事發生在未來，和Batman Beyond同一年代</li>
+<li>主角Infiltration Unit Zeta本為破壞機械人，但得到自我意志後卻不想繼續下去。為了自由而和女主角Rosalie "Ro" Rowan在軍方手中逃亡</li></ul><h4 class="in-block"><span id="Justice_League（正義聯盟）"></span><span class="mw-headline" id="Justice_League.EF.BC.88.E6.AD.A3.E7.BE.A9.E8.81.AF.E7.9B.9F.EF.BC.89">Justice League（正義聯盟）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=16" title="編輯章節：Justice League（正義聯盟）" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事講述超級英雄團隊「正義聯盟」（Justice League）等人的故事
+<ul><li>第一輯只集中描寫七個英雄，包括<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>，<a href="/%E8%B6%85%E4%BA%BA" title="超人">超人</a>，<a href="/%E7%A5%9E%E5%8A%9B%E5%A5%B3%E8%B6%85%E4%BA%BA" title="神力女超人">神力女超人</a>，<a href="/%E7%B6%A0%E5%85%89%E6%88%B0%E8%AD%A6#.E7.B4.84.E7.BF.B0.C2.B7.E5.8F.B2.E9.83.BD.E8.8F.AF.EF.BC.88John_Stewart.EF.BC.89" title="綠光戰警">綠光戰警/約翰·史都華</a>，<a href="/%E8%B2%9D%E7%91%9E%E2%80%A7%E8%89%BE%E5%80%AB" class="mw-redirect" title="貝瑞‧艾倫">閃電俠/貝瑞‧艾倫</a>，火星獵人/尚恩·瓊茲和鷹女</li>
+<li>第二輯「Unlimited」把世界觀擴大，加入其他<a href="/DC%E6%BC%AB%E7%95%AB" title="DC漫畫">DC系列</a>的英雄，包括綠箭俠、黑金絲雀、沙贊等</li></ul></li>
+<li>和「蝙蝠俠：動畫系列」、「超人：動畫系列」、「未來蝙蝠俠」為同一世界觀
+<ul><li>「Unlimited」其中一集也為「未來蝙蝠俠」加入「真正的結尾」，描寫泰瑞·麥金尼斯（Terry McGinnis）成年後的故事</li></ul></li></ul><h3 class="in-block"><span id="2000_年代"></span><span class="mw-headline" id="2000_.E5.B9.B4.E4.BB.A3">2000 年代</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=17" title="編輯章節：2000 年代" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="Teen_Titans（少年悍將）"></span><span class="mw-headline" id="Teen_Titans.EF.BC.88.E5.B0.91.E5.B9.B4.E6.82.8D.E5.B0.87.EF.BC.89">Teen Titans（少年悍將）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=18" title="編輯章節：Teen Titans（少年悍將）" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事講述超級英雄團隊「少年悍將」（Teen Titans）等人的故事，一切由羅賓離開<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>自立而到達雀躍城（Jump City）開始...
+<ul><li>採用類似1980年「The New Teen Titans」的成員體制，包括羅賓、星火、鋼骨、人皮獸、酷姬，自此這五人體制成為了「Teen Titans」最為人所認知的組合</li>
+<li>雖然是美製動畫，但劇本和畫風都帶著強烈的日式動畫風格</li>
+<li>故事帶有黑暗、打鬥，但又有一點幽默風趣感</li>
+<li>本作中不論英雄還是反派都沒有強調自己的真實身份
+<ul><li>例如羅賓、星火、鋼骨、人皮獸、酷姬五人組經常以自己的英雄身份去餐廳吃披薩</li>
+<li>雖然劇中沒有提及，但在劇中的線索確定羅賓應是第一代迪克．格雷森(Dick Grayson)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+<li>主要反派都沒有透露過自己的真正身份，包括喪鐘(Deathstoke)，但因為是兒童節目所以反派名稱修改為史萊德(Slade)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li></ul></li>
+<li>大部份都是正篇故事，但當該集的主題曲由英文變成日文時，就代表該集以搞笑居多</li></ul></li>
+<li>2006年結束，但其受歡迎程度仍然不減，最後2013年故事重啟，但...</li></ul><h4 class="in-block"><span id="Xiaolin_Showdown（決戰少林）"></span><span class="mw-headline" id="Xiaolin_Showdown.EF.BC.88.E6.B1.BA.E6.88.B0.E5.B0.91.E6.9E.97.EF.BC.89">Xiaolin Showdown（決戰少林）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=19" title="編輯章節：Xiaolin Showdown（決戰少林）" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事講述少林神龍的傳人走遍世界各地，為了尋找具有神聖力量的武器「聖功武」</li></ul><h4 class="in-block"><span id="The_Batman（新蝙蝠俠）"></span><span class="mw-headline" id="The_Batman.EF.BC.88.E6.96.B0.E8.9D.99.E8.9D.A0.E4.BF.A0.EF.BC.89">The Batman（新蝙蝠俠）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=20" title="編輯章節：The Batman（新蝙蝠俠）" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>脫離DCAU後的第一套重啟作，但畫風和劇情沿用黑暗風格</li>
+<li>受到「同名英雄不能同時出現在兩套動畫」的規則影響，迪克．格雷森推到「少年悍將」完結後才正式加入成為第一代羅賓，而且加入時間比蝙蝠女孩還要遲</li>
+<li>由此作開始，小丑女的原名易名為「哈琳·法蘭西斯·奎澤」（Harleen Frances Quinzel），而哈莉·奎茵（Harley Quinn）則變成罪犯代號</li>
+<li>此作的狂人小丑造型也讓人印象深刻</li></ul><h4 class="in-block"><span id="Batman:_The_Brave_and_the_Bold（蝙蝠俠：智勇悍將）"></span><span class="mw-headline" id="Batman:_The_Brave_and_the_Bold.EF.BC.88.E8.9D.99.E8.9D.A0.E4.BF.A0.EF.BC.9A.E6.99.BA.E5.8B.87.E6.82.8D.E5.B0.87.EF.BC.89">Batman: The Brave and the Bold（蝙蝠俠：智勇悍將）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=21" title="編輯章節：Batman: The Brave and the Bold（蝙蝠俠：智勇悍將）" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>第二套重啟作</li>
+<li>對比起DCAU，畫風彩用類似漫畫的風格，劇情也是正經中帶點搞笑</li>
+<li>雖然主線是<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>，但每集都會有其他英雄客串</li>
+<li>由此作開始，羅賓的戲份被大量壓縮，由主角跌為路人角</li></ul><h3 class="in-block"><span id="2010_年代"></span><span class="mw-headline" id="2010_.E5.B9.B4.E4.BB.A3">2010 年代</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=22" title="編輯章節：2010 年代" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="Teen_Titans_Go！（少年悍將_Go！）"></span><span class="mw-headline" id="Teen_Titans_Go.EF.BC.81.EF.BC.88.E5.B0.91.E5.B9.B4.E6.82.8D.E5.B0.87_Go.EF.BC.81.EF.BC.89">Teen Titans Go！（少年悍將 Go！）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=23" title="編輯章節：Teen Titans Go！（少年悍將 Go！）" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>「少年悍將」（Teen Titans）的重製版，簡稱「TTG」，以搞笑短篇為主
+<ul><li>第一、二期的故事還算正常，去到三期之後劇本開始放飛自我，甚至出現大暴走，<a href="/%E5%85%AC%E5%BC%8F%E3%81%8C%E7%97%85%E6%B0%97" title="公式が病気">官方有病</a>的著名例子
+<ul><li>每集都充滿各種顏藝和角色崩壞，尤以羅賓最可憐，由成功的領隊變成大變態</li>
+<li>第三期最後一集「The Cape」乾脆直接拿原版其中一集，由原版配音員重新配音而成</li>
+<li>第四期「Employee of the Month: Redux」也是直接拿同名原版劇本重制，因此算是少有正常(？)的一集</li>
+<li>故事中<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>只是個愛看電視的廢人，特力貢（Trigon）成為了寵愛女兒的傻老爸，其他英雄也不太理會壞人作惡，甚至魔王級如達克賽德（Darkseid）和毀滅日（Doomsday）也是以搞笑形象登場</li></ul></li>
+<li>反差之大連官方也經常自嘲一番，劇中人也自認原版好看
+<ul><li>第三期中的The Fourth Wall直接以控制狂（Control Freak）之口說出這套有多爛</li>
+<li>第201和202集「The Self-Indulgent 200th Episode Spectacular!」中，不但把整個製作組和配音員變成劇中角色，而編劇也描述自己寫到出現放棄念頭</li>
+<li>第七期中「Marv Wolfman and George Pérez」也描寫了編劇因沒題材而想出越來越爛的點子</li></ul></li>
+<li>雖然大部份都是爛，但偶有佳作
+<ul><li>其中最著名的是「The Night Begins to Shine」系列，而這系列也會以衍生作品獨立推出</li></ul></li></ul></li>
+<li>截至2022年還有新作，成為<b>卡通頻道最長壽的動畫</b>，亦都成為<b>粉絲公認卡通頻道最大的毒瘤</b>
+<ul><li>2017年甚至出現<a rel="nofollow" class="external text" href="https://cnschedulearchive.tumblr.com/post/168642440055/as-much-as-id-like-to-claim-this-is-a-practical">一整週由朝到晚都是播放TTG</a>，只有一個小時在播放<a href="/%E7%A5%9E%E8%87%8D%E5%B0%8F%E6%8D%B2%E6%AF%9B" title="神臍小捲毛">卡通頻道自家作品</a></li>
+<li>TTG也多次和其他作品的角色連動，其中包括：
+<ul><li>「少年正義聯盟」（Young Justice）：認為TTG不嚴肅，結果出現了「嚴肅少年悍將」（Serious Teen Titans）</li>
+<li>「忍者龜」（Teenage Mutant Ninja Turtles）：被更瘋狂的TTG打敗</li>
+<li>「<a href="/%E9%A3%9B%E5%A4%A9%E5%B0%8F%E5%A5%B3%E8%AD%A6" title="飛天小女警">飛天小女警</a>」（Powerpuff Girls）：TTG被三個小女孩完全打臉，飛天小女警的旁白也稱這時空為「英雄不理會壞人作惡的世界」，但諷刺的是該連動集的風格比2016年版還更像原版</li>
+<li>「史酷比」（Scooby-Doo）：最正常的連動...相對來說...</li>
+<li>「霹靂貓 轟」（ThunderCats Roar）：連同粉絲一同炎上，最後還要回嗆粉絲是老害</li>
+<li>「DC超級英雄女孩」（DC Super Hero Girls）：一共連動過三次，第三次還被黑是為了拿人氣才連動</li></ul></li></ul></li>
+<li>直到2022年，已有3.5套電影版(？)
+<ul><li>第一套是唯一一套登上電影院的電影版，而且讓「喪鐘」 (Deathstroke/Slade Wilson）當大魔王，為了征服世界而控制所有英雄</li>
+<li>第二套則是原版和TTG版連動，同時亦帶出平行世界「Teen Titans Universe」，原版和TTG版都只是所有平行世界的其中一員</li>
+<li>第三套是和「怪物奇兵」（Space Jam）連動，但劇情主要都是TTG觀看「怪物奇兵」而同時當彈幕，這次連動也是為了宣傳「怪物奇兵 全新世代」（Space Jam: A New Legacy）而製作</li>
+<li>第四套是TTG和「DC超級英雄女孩」連動，但整個故事都是和「DC超級英雄女孩」有關，TTG是多餘的</li></ul></li></ul><h4 class="in-block"><span id="Young_Justice（少年正義聯盟）"></span><span class="mw-headline" id="Young_Justice.EF.BC.88.E5.B0.91.E5.B9.B4.E6.AD.A3.E7.BE.A9.E8.81.AF.E7.9B.9F.EF.BC.89">Young Justice（少年正義聯盟）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=24" title="編輯章節：Young Justice（少年正義聯盟）" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事講述超級英雄團隊「少年正義聯盟」（Young Justice）的故事
+<ul><li>故事源自1966年「Teen Titans」漫畫，由於羅賓/迪克·格雷森(Robin/Dick Grayson)、閃電小子/華利·威斯特（Kid Flash/Wally West）、快手/羅伊·哈珀（Speedy/Roy Harpe）、和水少俠/卡德拉·漢姆（Aqualad/Kaldur'ahm）不滿自己的導師對他們的過度保護，因此自行組團並成立「少年正義聯盟」（Young Justice），成為「正義聯盟」（Justice League）的第二梯隊</li>
+<li>隨著時間流逝，「少年正義聯盟」的成員也有所加減</li></ul></li></ul><h4 class="in-block"><span id="Green_Lantern:_The_Animated_Series（綠燈俠：動畫系列）"></span><span class="mw-headline" id="Green_Lantern:_The_Animated_Series.EF.BC.88.E7.B6.A0.E7.87.88.E4.BF.A0.EF.BC.9A.E5.8B.95.E7.95.AB.E7.B3.BB.E5.88.97.EF.BC.89">Green Lantern: The Animated Series（綠燈俠：動畫系列）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=25" title="編輯章節：Green Lantern: The Animated Series（綠燈俠：動畫系列）" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事講述超級英雄團隊「<a href="/%E7%B6%A0%E5%85%89%E6%88%B0%E8%AD%A6" title="綠光戰警">綠光戰警</a>」（Green Lantern）的故事</li>
+<li>工作室首次的3D動畫，除了<a href="/%E7%B6%A0%E5%85%89%E6%88%B0%E8%AD%A6" title="綠光戰警">綠光戰警</a>外，其他<a href="/%E6%83%85%E6%84%9F%E5%85%89%E8%AD%9C" title="情感光譜">情感光譜</a>也有在故事中出現，其中藍燈軍團、星藍石軍團、橙燈軍團更首次在動畫中登場</li></ul><h4 class="in-block"><span id="ThunderCats（虎威戰士）"></span><span class="mw-headline" id="ThunderCats.EF.BC.88.E8.99.8E.E5.A8.81.E6.88.B0.E5.A3.AB.EF.BC.89">ThunderCats（虎威戰士）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=26" title="編輯章節：ThunderCats（虎威戰士）" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>同名日本動畫改篇，由華納兄弟動畫公司和日本的STUDIO 4℃連合製作</li>
+<li>原本計劃有52集，但在卡通頻道播出時收入太差而被腰斬至26集
+<ul><li>估計原因是劇情不適合6-12歲的小孩子，導致玩具滯銷</li></ul></li>
+<li>2020年再次重製，但...</li></ul><h4 class="in-block"><span id="Unikitty（獨角貓）"></span><span class="mw-headline" id="Unikitty.EF.BC.88.E7.8D.A8.E8.A7.92.E8.B2.93.EF.BC.89">Unikitty（獨角貓）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=27" title="編輯章節：Unikitty（獨角貓）" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>動畫電影「樂高玩電影」（The Lego Movie）的衍生作，主角為獨角貓（Unikitty）</li>
+<li>故事設定在「獨角王國」（Unikingdom），獨角貓（Unikitty）為王國的統治者</li>
+<li>每集都是圍繞在獨角貓與她的好朋友們在生活上發生的趣事</li></ul><h4 class="in-block"><span id="DC_Super_Hero_Girls（DC超級英雄女孩）"></span><span class="mw-headline" id="DC_Super_Hero_Girls.EF.BC.88DC.E8.B6.85.E7.B4.9A.E8.8B.B1.E9.9B.84.E5.A5.B3.E5.AD.A9.EF.BC.89">DC Super Hero Girls（DC超級英雄女孩）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=28" title="編輯章節：DC Super Hero Girls（DC超級英雄女孩）" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>以DC角色為主角的網絡動畫</li>
+<li>故事以超級英雄高中為主軸，所有DC英雄都就讀於此，在校園中，英雄們必須應對成長過程中的所有開題，以及面對擁有獨特超能力的壓力
+<ul><li>除了英雄外，其他高人氣的反派(如哈莉·奎茵和毒藤女)也以英雄身份在高中就讀</li>
+<li><a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>和<a href="/%E8%B6%85%E4%BA%BA" title="超人">超人</a>已於英雄高中畢業，<a href="/%E7%A5%9E%E5%8A%9B%E5%A5%B3%E8%B6%85%E4%BA%BA" title="神力女超人">神力女超人</a>則成為新一屆的入學生，和超少女、哈莉·奎茵同年入學</li>
+<li>其中羅賓也有在片中出現，但身份為達米安．韋恩(Damian Wayne)，年齡比蝙蝠女孩小</li></ul></li></ul><h4 class="in-block"><span id="DC_Super_Hero_Girls(TV_series)（DC超級英雄女孩(電視動畫)）"></span><span class="mw-headline" id="DC_Super_Hero_Girls.28TV_series.29.EF.BC.88DC.E8.B6.85.E7.B4.9A.E8.8B.B1.E9.9B.84.E5.A5.B3.E5.AD.A9.28.E9.9B.BB.E8.A6.96.E5.8B.95.E7.95.AB.29.EF.BC.89">DC Super Hero Girls(TV series)（DC超級英雄女孩(電視動畫)）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=29" title="編輯章節：DC Super Hero Girls(TV series)（DC超級英雄女孩(電視動畫)）" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>改篇自同名網絡動畫的電視動畫
+<ul><li>為方便分辨，網絡動畫通常稱為「G1」，而電視動畫稱為「G2」</li>
+<li>原創者為<a href="/My_Little_Pony:_Friendship_is_Magic" title="My Little Pony: Friendship is Magic">彩虹小馬：友情就是魔法</a>的創作者蘿倫·浮士德（Lauren Faust），因此不論畫風和人設都有著<a href="/My_Little_Pony:_Friendship_is_Magic" title="My Little Pony: Friendship is Magic">彩虹小馬</a>影子</li>
+<li>雖然說是同名，但電視動畫版是基於DC短片動畫系列「永遠的超級好朋友」（Super Best Friends Forever）
+<ul><li>「永遠的超級好朋友」也是由蘿倫·浮士德創作</li>
+<li>其先導宣傳短片「#TheLateBatsby」正是改篇自DC短片「Time Waits for No Girl」</li></ul></li></ul></li></ul><ul><li>故事由蝙蝠女孩/芭芭拉·高登(Batgirl/Barbara Gordon)轉校到大都會高中（Metropolis High School），並遇上超少女/卡菈·丹佛斯（Supergirl/Kara Zor-El）、<a href="/%E7%A5%9E%E5%8A%9B%E5%A5%B3%E8%B6%85%E4%BA%BA" title="神力女超人">神力女超人</a>/黛安娜·普林斯（Wonder Woman/Diana Prince）、<a href="/%E7%B6%A0%E5%85%89%E6%88%B0%E8%AD%A6" title="綠光戰警">綠光戰警</a>/潔西卡·克魯茲（Green Latern/Jessica Cruz）、黃蜂女/凱倫·比徹（Bumblebee/Kimberly Brooks）、扎坦娜/扎坦娜·扎塔拉（Zatanna/Zatanna Zatara），在一次戰鬥後組成同盟打擊罪惡
+<ul><li><s>剛巧六名主角的性格都對應一隻<a href="/My_Little_Pony:_Friendship_is_Magic/%E8%A7%92%E8%89%B2%E5%88%86%E9%A0%81" title="My Little Pony: Friendship is Magic/角色分頁">小馬</a></s></li>
+<li>以DC漫畫為背景，但大部份英雄和反派都設定為高中生，<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>和<a href="/%E8%B6%85%E4%BA%BA" title="超人">超人</a>因身份特殊而維持原有身份</li>
+<li>「Teen Titans」五名成員羅賓/迪克．格雷森、星火、鋼骨、人皮獸、酷姬則設定為幼稚園生，自稱「Tween Titans」</li>
+<li>六名主角和立位主要反派(哈莉·奎茵、貓女、毒藤女、星藍石、電女郎、巨化女)<b>都有自己的變身動畫</b><s>，DC英雄<a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3" title="魔法少女">魔法少女</a>化</s></li></ul></li>
+<li>經常和「少年悍將 Go！」合作
+<ul><li>由於其先導宣傳短片「#TheLateBatsby」是連同TTG第一套電影版同時推出，自此結下不解之緣...</li>
+<li>第三次連動是還被TTG黑是為了拿人氣才連動</li></ul></li>
+<li>2022年5月，其作者蘿倫·浮士德在推特上指<a rel="nofollow" class="external text" href="https://twitter.com/Fyre_flye/status/1555232679208947713">第二季後再無新片集</a>，間接宣佈此作品被腰斬的事實</li></ul><h4 class="in-block"><span id="Harley_Quinn（哈莉·奎茵）"></span><span class="mw-headline" id="Harley_Quinn.EF.BC.88.E5.93.88.E8.8E.89.C2.B7.E5.A5.8E.E8.8C.B5.EF.BC.89">Harley Quinn（哈莉·奎茵）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=30" title="編輯章節：Harley Quinn（哈莉·奎茵）" data-section="30" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>改篇自同名漫畫的電視動畫，以哈莉·奎茵（Harley Quinn）和毒藤女（Poison Ivy）為主角
+<ul><li>黑色喜劇成人動畫片，整套動畫充滿血腥</li>
+<li>以DC漫畫為背景，三巨頭（<a href="/%E8%9D%99%E8%9D%A0%E4%BF%A0" title="蝙蝠俠">蝙蝠俠</a>、<a href="/%E8%B6%85%E4%BA%BA" title="超人">超人</a>、<a href="/%E7%A5%9E%E5%8A%9B%E5%A5%B3%E8%B6%85%E4%BA%BA" title="神力女超人">神力女超人</a>）當然有出場，但只是作為配角</li>
+<li>唯一一套動畫認同哈莉·奎茵和毒藤女是天生一對，可喜可賀(！？)</li></ul></li></ul><h4 class="in-block"><span id="ThunderCats_Roar（霹靂貓_轟）"></span><span class="mw-headline" id="ThunderCats_Roar.EF.BC.88.E9.9C.B9.E9.9D.82.E8.B2.93_.E8.BD.9F.EF.BC.89">ThunderCats Roar（霹靂貓 轟）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=31" title="編輯章節：ThunderCats Roar（霹靂貓 轟）" data-section="31" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>同名動畫第三次改篇，但劇情以搞笑短篇為主</li>
+<li>還未播放就差評不斷，甚至引發「<a href="/CalArts" title="CalArts">加州學院風</a>」的反對浪潮
+<ul><li>由於內外爭議和口碑太差，結果被推遲一年，在2020年播出後同年底宣布沒有後續<s>，未上就見光死的悽慘例子</s></li></ul></li>
+<li>劇中有不少基於初版霹靂貓捏他的要素</li></ul><h4 class="in-block"><span id="Aquaman:_King_of_Atlantis（水行俠）"></span><span class="mw-headline" id="Aquaman:_King_of_Atlantis.EF.BC.88.E6.B0.B4.E8.A1.8C.E4.BF.A0.EF.BC.89">Aquaman: King of Atlantis（水行俠）</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=32" title="編輯章節：Aquaman: King of Atlantis（水行俠）" data-section="32" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>與樓上同製作組，為共三集（每集各45分鐘）的短篇動畫影集
+<ul><li><s>和樓上比起來評價比較好些，但開播前依舊被觀眾酸</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=33" title="編輯章節：連結" data-section="33" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>美國動畫頻道<a href="/%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="動畫工作室">動畫工作室</a><a href="/%E5%BE%A1%E4%B8%89%E5%AE%B6" title="御三家">御三家</a>
+<ul><li><a href="/Disney_Television_Animation" title="Disney Television Animation">Disney Television Animation</a></li>
+<li><a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">Cartoon Network Studios</a></li>
+<li><a href="/Nickelodeon_Animation_Studio" title="Nickelodeon Animation Studio">Nickelodeon Animation Studio</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=34" title="編輯章節：回應" data-section="34" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<p><a href="/%E8%A8%8E%E8%AB%96:Warner_Bros._Animation" title="討論:Warner Bros. Animation">討論:Warner Bros. Animation</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=Warner_Bros._Animation&amp;action=edit&amp;section=35" title="編輯章節：備註" data-section="35" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">此曲把台灣也當成國家</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">在其回憶中出現馬戲團，而未來羅賓會成為夜翼(Nightwing)，所以確定是一代</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">來自本名史萊德·威爾森(Slade Wilson)</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=Warner_Bros._Animation&amp;oldid=415303">https://wiki.komica.org/index.php?title=Warner_Bros._Animation&amp;oldid=415303</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/Warner_Bros._Animation"
+				data-user-name="Fong Houlen"
+				data-user-gender="unknown"
+				data-timestamp="1665895284">
+				最後編輯於 2022年10月16日 (週日) 12:41
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=Warner_Bros._Animation&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.060","walltime":"0.066","ppvisitednodes":{"value":207,"limit":1000000},"ppgeneratednodes":{"value":410,"limit":1000000},"postexpandincludesize":{"value":533,"limit":2097152},"templateargumentsize":{"value":160,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":886,"limit":5000000},"timingprofile":["100.00%   17.488      1 -total"," 12.79%    2.236      1 模板:黑幕","  7.86%    1.374      1 模板:H0"]},"cachereport":{"timestamp":"20221017203954","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":252});});</script>		</body>
+		</html>
+		

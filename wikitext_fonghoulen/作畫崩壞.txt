@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>作畫崩壞 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"作畫崩壞","wgTitle":"作畫崩壞","wgCurRevisionId":418205,"wgRevisionId":418205,"wgArticleId":4247,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"作畫崩壞","wgRelevantArticleId":4247,"wgRequestId":"deed468380c06a2b6ccaa7be","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-作畫崩壞 rootpage-作畫崩壞 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">作畫崩壞</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">作画崩壊（さくがほうかい）</div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>意為2D動畫作品和已公佈設定（如OP/ED或宣傳用片段、或放映前公佈角色設定圖）比較下，<b>作畫出現變形的現象</b>（如角色的<a href="/%E9%A1%8F%E8%97%9D" title="顏藝">臉型表情</a>部份），尤指和早前公開話數（或上一季度）相去太遠；或者變形得太過嚴重，觀眾完全不能接受者。
+<ul><li>在很要求直線線條的<a href="/%E6%A9%9F%E5%99%A8%E4%BA%BA" title="機器人">機器人</a>、船艦等各式機械上更容易因線條不直而發生作畫崩壞的問題<s>，因此現今動畫大部分的機械都已經改交由下面的3DCG處理</s>
+<ul><li>早期的機器人動畫因為是手繪的所以各種大小比例不對與作畫崩壞的問題相當嚴重，有興趣的只要看初代鋼彈應該就能意識到<b>每一集鋼彈都長的不一樣</b>。</li>
+<li>雖然用3DCG已經是常態，但鋼彈系列除了部分作品以外，只要是在電視上播放的動畫基本上仍然是以手繪為主，且因為近年的鋼彈作品常常是向多個機械設計師徵稿，因此還有專門負責將設計師設計的機體修改成好讓動畫師繪製的造型的機械設計師<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>。</li></ul></li></ul></li></ul><ul><li>順帶一提3DCG因為是固定的模組且是用電腦計算出來的，相對之下比較不容易崩壞。
+<ul><li>不過另一方面模擬2D的3D動畫卻多出了無法模擬較誇張的動作、表情以及特定角度下3D模型本身沒有問題但看上去就會有作畫崩壞的錯覺的問題。
+<ul><li>例如蒼藍鋼鐵戰艦本身就是全3D（部分不會重複出現的物件是2D手繪合成）製作，但是仰角與俯瞰視角拍攝就有下巴「看起來」變形崩壞的狀況，製作組選擇的解決方式是再做兩個專門用在這種角度的模型。</li>
+<li>不少3DCG動畫都有做這種為特定角度製作模型的舉動，只是這些模型你在別的角度看的話，絕對會認為這是作畫崩壞。</li></ul></li></ul></li></ul><ul><li>多是在播放中動畫作品中某話（通常是首話以外）突然出現，或者成一段時間的傾向。原因多數為動畫製作時作畫監督人事變換所引起。</li></ul><ul><li>此種現象在強調作畫唯美、逼真的日本動畫比較常見到，美式動畫的話由於因為風格比較偏向線條簡單、不強調精細和強調某些地方而扭曲的人物設計，因此被抓到作畫崩壞的機率較少。
+<ul><li>不過美式動畫偶爾也會有走日本動畫風的，此指的是一般<a href="/%E6%99%AE%E9%80%9A" title="普通">普遍</a>的美國動畫，如《飛天小女警》（Z是日本出的所以不算）《變形金剛進化版（Transformers: Animated）》和《麻辣女孩（Kim Possible）》一類。</li></ul></li></ul><ul><li>而崩壞的機率則以動畫的制作預算，名氣和受重視程度，動作場面的數量，以是制作公司的風格來決定，一般而是大制作又或者受重視的作品崩壞的機率較低，而動作越少畫質亦越安定，而制作公司有沒有崩壞傳統也是一個因素，不過只能作參考，實際上大制作卻崩到亂七八糟的例子亦不少。
+<ul><li>在動畫公司之中XEBEC是公認的崩壞名家，不管好壞都可以崩個亂七八糟，反而其母公司Production I.G卻以即使是爛作也能保持高質作畫聞名；SUNRISE作為生命線的TV鋼彈總是崩個不亦樂乎，反而舞女班<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>即使故事爆爛但作畫卻保持安定；GONZO則是大好大崩；BONES和MAPPA作畫精良中又極富個人特色；MADHOUSE和<s>只有劇情崩壞</s>J.C STAFF則以穩定見稱；而<a href="/%E4%BA%AC%E9%98%BF%E5%B0%BC" class="mw-redirect" title="京阿尼">京阿尼</a>則完全可算是作畫方面的絕對王者。</li>
+<li>而這部分又牽扯到另外一個問題，就是負責原畫的環節很有可能因為找錯人導致作畫崩壞，反而得讓第二原畫甚至是作畫監督來擦屁股，最後為了趕上時程來不及全部修完，就只能把作畫崩壞的畫面放出去了。
+<ul><li>但更悲劇的是因為動畫製作環境嚴峻，這些畫不好的原畫師的作品實際上被作畫團隊處理過反而看不出畫的很糟，業界對他們的印象就變成「畫得快又畫的好」，造成劣幣驅逐良幣的問題。</li>
+<li>詳細可以參考曾參與過忍者亂太郎動畫工作的葉摘田緒老師<a rel="nofollow" class="external text" href="https://twitter.com/hatsumidashiyo/status/1056195374430343168">這篇文章</a>。</li></ul></li></ul></li></ul><ul><li>也有一些作畫崩壞是刻意為之，原因可能是STAFF採用了實驗性的手法來製作動畫、監督或製作組本身的特定風格、或是單純的製造話題。
+<ul><li>這種情況在比起畫面合理性更注重長鏡頭動作流暢度以及演出效果的震撼性的原畫團隊中更易出現，比如崩壞重災區火影忍者疾風傳中主力原畫/作監松本憲生與山下清悟負責的片段，都屬於動作演出極其流暢且兼具力度感與節奏感，但截取單幀會顯得相當崩壞的「作畫優秀然而單幀崩壞」<s>簡單來說就是碰到「うつのみや系」「時間軸系」「Web系」原畫團隊負責的作畫不要截單幀來看</s>。</li></ul></li>
+<li>現時的廣義加指動畫外任何圖形二次媒體（如漫畫、小說插圖）出現上述情況的統稱：
+<ul><li>同一作者的作品作畫達不到該作者前有水平。</li>
+<li>媒體改編，如漫畫→動畫、小說（插畫）→漫畫等達不到被改編者的水平。</li></ul></li></ul><ul><li>需注意的是，上面提及的水平為「讓大多數讀者/觀眾同意為可接受」的群體定義居多。</li></ul><ul><li>也被引申為動畫泡沫（アニメバブル）的廣義解釋之一。
+<ul><li>有部分人士就學術理論；研究動畫的撥出時間與其品質之關係而發展出了「微笑曲線」理論。（圖待補完）</li></ul></li></ul><h3 class="in-block"><span id="比較聞名的作畫崩壞動畫"></span><span class="mw-headline" id=".E6.AF.94.E8.BC.83.E8.81.9E.E5.90.8D.E7.9A.84.E4.BD.9C.E7.95.AB.E5.B4.A9.E5.A3.9E.E5.8B.95.E7.95.AB">比較聞名的作畫崩壞動畫</span><span class="mw-editsection"><a href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit&amp;section=2" title="編輯章節：比較聞名的作畫崩壞動畫" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="wikitable" style="margin: 1.5em auto;"><tbody><tr><th>作品</th>
+<th>動畫公司</th>
+<th>播放期間</th>
+<th>備註
+</th></tr><tr><td>純情房東俏房客</td>
+<td rowspan="2">XEBEC</td>
+<td>2000年4月19日-9月27日</td>
+<td>著名崩壞作之一，赤松健作品動畫化崩壞之始。角色設定為《宇宙學園》之宇野真<br>但最後發行之OVA《純情房東悄房客Again》人設改為前田明壽，作畫穩定，沒有發生崩壞
+</td></tr><tr><td>魔法老師</td>
+<td>2005年1月5日-6月29日</td>
+<td>著名崩壞作之二，第一季崩壞程度與《純情房東悄房客》有過之而無不及，後期甚至撤換監督<s>問題是第二季換成了<a href="/%E6%96%B0%E6%88%BF%E6%98%AD%E4%B9%8B" title="新房昭之">新房</a><a href="/%E9%9B%BB%E6%B3%A2" title="電波">電波</a></s>
+</td></tr><tr><td>ながされて藍蘭島</td>
+<td rowspan="2">feel.</td>
+<td>2007年4月4日-9月26日</td>
+<td>畫風與原著相差甚遠
+</td></tr><tr><td>失われた未来を求めて</td>
+<td>2014年10月4日-12月20日</td>
+<td>與原作相比之下，動畫人設可謂完全崩壞，2.5D效果也做得非常差勁，被玩家<a href="/%E5%90%90%E6%A7%BD" title="吐槽">吐槽</a>為「尋找失去的畫風」<br>順帶一提本作動畫化的宣傳海報是沿用了原作的畫風，動畫推出後對原作玩家造成的心理創傷可想而知
+</td></tr><tr><td><a href="/GUN%E9%81%93" title="GUN道">GUN道</a></td>
+<td>ACCプロダクション</td>
+<td>2006年4月9日-10月29日</td>
+<td><b>（這有崩壞前的版本？）</b><br>原作<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>刻意將動畫製作成復古的風格<s>，因此整體水準倒退30年</s><br>真相是GUN道的全部原畫製作通通交給一家中國的外包公司-蘇州宏囡卡通責任有限公司(見GUN道ED製作人員名單)<br>也無法控管品質、加上人力與預算不夠才會造成過多作畫崩壞的主要原因
+</td></tr><tr><td>SPEED GRAPHER</td>
+<td>GONZO</td>
+<td>2005年4月7日-9月29日</td>
+<td>除前面與最後的1、2話以外，中間大部份話數人物變形的情況都很嚴重，只能看最後播放ED時的靜態圖片進行腦內補完…
+</td></tr><tr><td>夜明け前より瑠璃色な</td>
+<td>童夢<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
+<td>2006年10月4日-12月20日</td>
+<td>那個人氣急升的<a href="/%E9%AB%98%E9%BA%97%E8%8F%9C" title="高麗菜">高麗菜</a>
+</td></tr><tr><td>ロスト・ユニバース</td>
+<td>イージー・フィルム<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+<td>1998年4月3日-9月25日</td>
+<td>業界著名的<a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=JgICA9fc7a8">ヤシガニ</a>事件
+</td></tr><tr><td><a href="/%E5%93%86%E5%95%A6A%E5%A4%A2" title="哆啦A夢">哆啦A夢</a></td>
+<td>シンエイ動畫</td>
+<td>1979年10月1日-1981年9月26日</td>
+<td><s>其實和原作比起來幾乎每話都是崩壞</s>
+</td></tr><tr><td><a href="/.hack" class="mw-redirect" title=".hack">.hack</a></td>
+<td>BEE TRAIN</td>
+<td>2006年4月5日-9月27日</td>
+<td>人設與遊戲版有天壤之別，跟前作動畫《Sign》相比更凸顯問題所在
+</td></tr><tr><td><a href="/%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA" title="デジモンシリーズ">デジモンセイバーズ</a></td>
+<td rowspan="6">東映動畫</td>
+<td>2006年4月2日-2007年3月25日</td>
+<td>某幾話的線描的實在有夠離譜的粗
+</td></tr><tr><td>銀色のオリンシス</td>
+<td>2006年10月5日-12月21日</td>
+<td>根據某些<a href="/%E5%B3%B6%E6%B0%91" title="島民">島民</a>的說法，這部第一話不到一半就崩掉了
+</td></tr><tr><td>ONE PIECE THE MOVIE オマツリ男爵と秘密の島</td>
+<td>2005年3月5日</td>
+<td>因為跟其他幾部的作畫風格完全不同……所以被部分人稱為崩壞，但根本原因可能是因為該電影版的監督是細田守<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td></tr><tr><td>美少女戰士Crystal（第一、二季）</td>
+<td>2014年7月5日-2015年7月18日</td>
+<td>明明已是每兩週播放一話，怎麼一眾角色的臉還是崩到<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">無法直視</a>呢？<br><s>不過遵照武內直子原作畫風設定的角色們變得不好畫倒是真的，雖說全作可能唯一不崩壞的只有用3DCG製作的變身畫面…</s><br>第三季更改監督與人物設定<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>後，作畫質素大幅上升，雖然不是完全沒崩壞，但起碼還能看<br>第四季變為劇場版《美少女戰士Eternal》，整體風格有更偏向90's年代版本也得到不少好評
+</td></tr><tr><td>聖鬥士星矢-Soul of Gold<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></td>
+<td>2015年4月11日-9月26日</td>
+<td>跟美戰水晶同樣是兩周一集的網路版動畫，先前的冥王篇已經相當顏藝，新篇的SOG更是崩壞到簡直像剪貼、肢體僵硬比例怪異<br>甚至無視原本故事的規矩，把不能用的大禁招拿出來用<s>故意拿出來用才是大禁招的奧義</s><br>連OP片段都是剪上一集的內容來蒙混過關<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>…兩周有這麼忙不完？
+</td></tr><tr><td><a href="/%E4%B8%83%E9%BE%8D%E7%8F%A0" title="七龍珠">七龍珠超</a></td>
+<td>2015年7月5日-2018年3月25日</td>
+<td>第5話<a href="/%E5%AD%AB%E6%82%9F%E7%A9%BA_(%E4%B8%83%E9%BE%8D%E7%8F%A0)" title="孫悟空 (七龍珠)">孫悟空</a>與比魯斯戰鬥時的畫像質素大幅下滑，貝基塔有一個鏡頭雙手也被畫成左手<s>你是J.凱爾的親屬嗎</s><br>其後偶爾有話數會在戰鬥場面出現崩壞，直到<a href="/%E5%AE%87%E5%AE%99" title="宇宙">宇宙</a>生存戰篇才變得稍為穩定<br>事實上整作的作畫質素本身也被評為「沒隨著時代進步」<s>而且越後越變回Z時的風格</s><br>此次事件連鳥山明也看不下去<s>順便再把某真人電影版拉出來鞭</s>
+</td></tr><tr><td><a href="/%E5%A4%A9%E5%85%83%E7%AA%81%E7%A0%B4" class="mw-redirect" title="天元突破">天元突破グレンラガン</a></td>
+<td>GAINAX</td>
+<td>2007年4月1日-9月30日</td>
+<td>由於監督對作畫監督完全放任，擔任第4話分鏡與作畫監督的的小林治做出與其他集數完全不搭的風格而引起爭議<br>後來更由於時任GAINAX取締役（約同於董事）的赤井孝美不當發言批評觀眾，導致GAINAX對此事公開道歉
+</td></tr><tr><td><a href="/%E6%B5%B7%E8%B2%93%E6%82%B2%E9%B3%B4%E6%99%82" title="海貓悲鳴時">海貓悲鳴時</a></td>
+<td rowspan="2">Studio DEEN</td>
+<td>2009年7月2日-12月24日</td>
+<td>第21話，同一個人<a href="/%E4%BE%BF%E7%95%B6" title="便當">掛掉</a>了兩次，甚至還有台詞錯誤的情況
+</td></tr><tr><td><a href="/%E7%82%BA%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C%E7%8D%BB%E4%B8%8A%E7%A5%9D%E7%A6%8F%EF%BC%81" title="為美好的世界獻上祝福！">為美好的世界獻上祝福！</a></td>
+<td>2016年1月13日-2017年3月15日</td>
+<td>自播出後不斷傳出作畫崩壞的消息，但是崩壞的畫面卻與角色崩壞的形象十分契合，算是少數讚賞多於批評的個案
+</td></tr><tr><td>傳說的勇者的傳說</td>
+<td rowspan="2">ZEXCS</td>
+<td>2010年7月1日-12月16日</td>
+<td>第18話，畫風比起前幾集明顯像是小鬼作畫般
+</td></tr><tr><td>惡之華</td>
+<td>2013年4月5日-7月5日</td>
+<td>1857年出版的《惡之華》這本詩集帶給法國文壇「新的驚慄」，一百多年後的動畫版同樣地因為獨特的作畫<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>帶來另一次「新的驚慄」<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><s>這個乾脆演真人版《惡之華》吧</s><br>雖然背景描寫細膩、作畫品質甚高，但<a rel="nofollow" class="external text" href="http://wiki.komica.org/pix/img11288.jpg">人物造型與漫畫原作差異極大</a>，令許多期待已久的觀眾感到受騙而棄追<s>，有字幕組因而棄番（無誤）</s><br>但是有接受這種畫風的人認為動畫充分表現出原作的人性扭曲味道，並與反對者展開罵戰
+</td></tr><tr><td>火影忍者疾風傳</td>
+<td>Studio Pierrot</td>
+<td>2007年2月15日-2017年3月23日</td>
+<td>第167話，培因慘遭動畫製作組人員的毒手，原畫山下清悟
+</td></tr><tr><td>みなみけ〜おかわり〜</td>
+<td>asread</td>
+<td>2008年1月6日-3月30日</td>
+<td>夏奈的眼珠脫離了眼眶
+</td></tr><tr><td><a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B" title="遊☆戯☆王">遊☆戯☆王デュエルモンスターズ</a></td>
+<td>ぎゃろっぷ</td>
+<td>2000年4月18日-2004年9月29日</td>
+<td>200話，AGO井上威力全開！
+</td></tr><tr><td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88SEED%E7%B3%BB%E5%88%97" title="機動戰士鋼彈SEED系列">機動戰士鋼彈SEED DESTINY</a></td>
+<td rowspan="2">SUNRISE</td>
+<td>2004年10月9日-2005年10月1日</td>
+<td>後期因不明原因<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>→劇本拖太久→為了趕工使用兼用卡→出現作畫低劣、錯用兼用卡等離譜現象
+</td></tr><tr><td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88_%E9%90%B5%E8%A1%80%E5%AD%A4%E5%85%92" title="機動戰士鋼彈 鐵血孤兒">機動戰士鋼彈 鐵<span style="color:red;background-color:;">血</span>孤兒</a></td>
+<td>2015年10月4日-2016年3月27日<br>2016年10月2日-2017年4月2日</td>
+<td>可能因為作畫人力不夠，劇情分配上是一集武戲多集文戲，而在文戲的時候作畫崩壞就會比較嚴重，出名的第4話還搞得女主角之一的雅朵拉頓時變成惡搞素材…
+</td></tr><tr><td>家庭教師REBORN</td>
+<td>ARTLAND</td>
+<td>2006年10月7日-2010年9月25日</td>
+<td>拿TV版第5話跟其DVD版第五話比較，澤田綱吉以及獄寺隼人等、連山本武、雲雀恭彌、藍波完全性的作畫崩壞，由始至終沒崩的只有Reborn<br>這也是傳說中「五話寺」的由來
+</td></tr><tr><td><a href="/AQUARION" title="AQUARION">創聖機械天使</a></td>
+<td>SATELIGHT</td>
+<td>2005年4月5日-9月27日</td>
+<td><a rel="nofollow" class="external text" href="http://aquarion.blog.so-net.ne.jp/2005-08-06">第19話「無垢的惡作劇」</a>，衝擊的作畫，令人一生難忘<br>作畫監督由うつのみや理（宇都宮理/宇都宮智）擔當…
+</td></tr><tr><td>交響詩篇エウレカセブン</td>
+<td>Bones</td>
+<td>2005年4月17日-2006年4月2日</td>
+<td><a rel="nofollow" class="external text" href="http://tw.youtube.com/watch?v=xjZRYRPzj4s">OP3</a>，作畫監督同樣由うつのみや理擔當…こ　れ　は　ひ　ど　い（<s>開宗立派的泰斗級原畫這麼玩絕對是故意的</s>）
+</td></tr><tr><td>宇宙の騎士テッカマンブレード</td>
+<td>タツノコプロ</td>
+<td>1992年2月18日-1993年2月2日</td>
+<td><s>一個人有十幾張臉，女主角更是曾經被畫成座間翔臉</s><br>整部作品唯一的問題就是幾乎毎集都在崩，配上大張版OP動畫後造成更大對比<br>第48話<a href="/%E5%AD%90%E5%AE%89%E6%AD%A6%E4%BA%BA" title="子安武人">子安</a>的一句「撃てるのかい？兄さんと同じ顔の僕を」更因此成為了<a href="/%E5%95%8F%E9%A1%8C%E7%99%BC%E8%A8%80" title="問題發言">問題發言</a><br>作畫對比圖<a href="/%E6%AA%94%E6%A1%88:%E3%83%86%E3%83%83%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89aki.jpg" title="檔案:テッカマンブレードaki.jpg">1</a>、<a href="/%E6%AA%94%E6%A1%88:%E3%83%86%E3%83%83%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89aki2.jpg" title="檔案:テッカマンブレードaki2.jpg">2</a>、<a href="/%E6%AA%94%E6%A1%88:%E3%83%86%E3%83%83%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89aki3.jpg" title="檔案:テッカマンブレードaki3.jpg">3</a>、<a href="/%E6%AA%94%E6%A1%88:%E3%83%86%E3%83%83%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89f.jpg" title="檔案:テッカマンブレードf.jpg">4</a>、<a href="/%E6%AA%94%E6%A1%88:%E3%83%86%E3%83%83%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89f2.jpg" title="檔案:テッカマンブレードf2.jpg">5</a>
+</td></tr><tr><td>仰望半月的夜空</td>
+<td>グループ・タック<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></td>
+<td>2006年1月12日-2月23日</td>
+<td>其他人不管，里香（在小說）的<a href="/%E8%90%8C" title="萌">萌</a>點在動畫中通通消失，不論是嬌小可愛Mode的里香和殺氣騰騰Mode的里香，還是害臊、鬧彆扭、說「咿~」的模樣，動畫版統統做不出來，令<s>部份</s>人大感失望的動畫化
+</td></tr><tr><td><a href="/%E9%9D%A0%E5%B2%B8" title="靠岸">靠岸</a></td>
+<td>春水堂</td>
+<td>2010年3月5日</td>
+<td><s>少數以正常畫面為崩壞的動畫。</s>變形、扭曲與古怪的人物線條被視為作品風格。
+</td></tr><tr><td>咎狗之血</td>
+<td rowspan="6">A-1 Pictures</td>
+<td>2010年10月7日-12月23日</td>
+<td>作畫監督與製作小組不合，搞到作畫監督中途落跑
+</td></tr><tr><td>來自新世界</td>
+<td>2012年9月28日-2013年3月22日</td>
+<td>第5話分鏡和演出由業界著名風格<s>詭異</s>特殊的山内重保負責，配以作畫監督羽山淳一的<s>扭曲</s>作畫，播出時造成<a href="/2ch" title="2ch">2ch</a>及海外網站一時轟動，不下於當年《天元突破》第4話的盛況
+</td></tr><tr><td>偶像大師 灰姑娘女孩</td>
+<td>2015年1月9日-4月10日<br>2015年7月17日-10月16日</td>
+<td>似乎在LIVE前都會出現崩壞的情形
+</td></tr><tr><td>雙槍激鬥</td>
+<td>2015年4月4日-6月20日</td>
+<td>與原作PV相比之下，動畫版的人設和作畫可謂完全崩壞。
+</td></tr><tr><td>Qualidea Code</td>
+<td>2016年7月9日-9月24日</td>
+<td>劇情虐心，作畫虐眼，第7話的作畫更是慘不忍睹
+</td></tr><tr><td><a href="/Fate/Apocrypha" title="Fate/Apocrypha">Fate/Apocrypha</a></td>
+<td>2017年7月1日-12月30日</td>
+<td>22話迦爾納的畫風已經進化到阿周納都未必能一眼認出的程度<br><s>然後同期同公司製作的《SideM》卻鮮少傳出崩壞事件</s>
+</td></tr><tr><td>學園都市ヴァラノワール OVA</td>
+<td>IDEA FACTORY</td>
+<td>2002年10月23日<br>2002年11月27日</td>
+<td>OVA，共出了上、下兩卷。雖是OVA，但作畫與劇情對比原作遊戲完全劣化，人物崩壞不止，還大量出現兼用卡與靜態圖，劇情更是<a href="/%E9%9B%BB%E6%B3%A2" title="電波">電波</a>到另一個境界。<br>據說內部告發作畫張數1小時只准用600張。
+</td></tr><tr><td>R-15</td>
+<td>AIC</td>
+<td>2011年7月9日-9月24日</td>
+<td>對照小說插畫和動畫之後就會發現漫畫版完全是崩壞作品
+</td></tr><tr><td>蟲之歌</td>
+<td>BEAT FROG</td>
+<td>2007年7月5日-10月4日</td>
+<td>動畫版大崩壞…當作和原作完全不同作品看比較好。
+</td></tr><tr><td>メカクシティアクターズ</td>
+<td>SHAFT</td>
+<td>2014年4月13日-6月29日</td>
+<td>因為第9話的前後作畫質素差距太大，播送後還有觀眾想<a href="/%E6%96%B0%E6%88%BF%E6%98%AD%E4%B9%8B" title="新房昭之">新房昭之</a>是以特別畫風表達什麼什麼的，BD一出結果便真相大白<br>第9話的OP理論、最終話BOSS戰場面的大崩壞<s>，但整部動畫裡作畫最精美的一幕也同樣在最終話中<br>或許崩更大的是原作者寫的腳本</s>
+</td></tr><tr><td>火星異種</td>
+<td>LIDEN FILMS</td>
+<td>2014年9月27日-12月29日</td>
+<td>TV動畫修正得太過火，人類被<a href="/%E7%8D%B5%E5%A5%87" class="mw-redirect" title="獵奇">虐殺</a>的鏡頭大半部分被塗黑，最<s>搞笑</s>過分是把角色<a href="/%E6%88%90%E5%8F%A5/%E9%BA%BB%E7%BE%8E_(%E5%8B%95%E8%A9%9E)" title="成句/麻美 (動詞)">斷掉的頭部</a>直接以圓點蓋掉，引起觀眾極度不滿<br>最後製作人員自首，並在<a href="/Niconico" title="Niconico">NicoNico</a>放出首三話的無<a href="/%E4%BF%AE%E6%AD%A3" title="修正">修正</a>版本。
+</td></tr><tr><td><a href="/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0" title="約會大作戰">約會大作戰II</a></td>
+<td>Production IMS<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></td>
+<td>2014年4月11日-6月13日</td>
+<td>開播後不斷傳出作畫崩壞的消息，甚至在OVA中也出現了不同程度的崩壞<s>真正原因其實是人手不足</s>
+</td></tr><tr><td><a href="/%E7%B4%84%E6%9C%83%E5%A4%A7%E4%BD%9C%E6%88%B0" title="約會大作戰">約會大作戰III</a></td>
+<td>J.C. Staff</td>
+<td>2019年1月11日-3月29日</td>
+<td>連PV都已經作畫崩壞，第一話一如所料已經崩得和上一季的崩壞番我喜歡的妹妹不是妹妹可以爭一日之長短，相比Production IMS的第二季其實已經不算崩壞<br>有對岸觀眾乾脆稱之為<a href="/%E5%B4%A9%E5%A3%9E3rd" title="崩壞3rd">崩壞3</a><br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但隨後數集的作畫已沒崩得那麼慘，官方也釋出了第一話的修正版，因此有陰謀論認為整件事根本就是病毒行銷。</span>
+</td></tr><tr><td><a href="/%E6%88%91%EF%BC%8C%E8%A6%81%E6%88%90%E7%82%BA%E9%9B%99%E9%A6%AC%E5%B0%BE" title="我，要成為雙馬尾">我，要成為雙馬尾</a></td>
+<td>Production IMS</td>
+<td>2014年10月10日-12月26日</td>
+<td>傳聞是為了趕制約會大作戰的OVA將第9-10話外包給韓國公司導致<s>可是藍馬尾的下面…作畫監督你到底在幹什麼？！</s>
+</td></tr><tr><td><a href="/%E9%81%99%E9%81%A0%E6%99%82%E7%A9%BA" title="遙遠時空">遙かなる時空の中で3 終わりなき運命</a></td>
+<td>ゆめ太カンパニー</td>
+<td>2010年1月3日（特別番組）</td>
+<td>角色走形，劇情崩壞，只收錄在DVD的最後30分鐘劇情讓人無語
+</td></tr><tr><td>彈跳天國（《白箱》劇中作品）</td>
+<td>P.A. Works</td>
+<td>2014年10月9日-2015年3月26日</td>
+<td>為了表達劇情而<a rel="nofollow" class="external text" href="http://wiki.komica.org/pix/img21629.jpg">刻意崩壞</a>
+</td></tr><tr><td><a href="/K_(%E5%8B%95%E7%95%AB)" title="K (動畫)">K RETURN OF KINGS</a></td>
+<td>GoHands</td>
+<td>2015年10月2日-12月25日</td>
+<td>作畫崩壞，大量使用兼用卡，劇情不少很水，<a href="/%E4%BC%8A%E4%BD%90%E9%82%A3%E7%A4%BE" title="伊佐那社">主角</a>被<a href="/%E8%B7%AF%E4%BA%BA" title="路人">路人</a>化（最後一話才大活躍）
+</td></tr><tr><td>出包王女</td>
+<td>XEBEC</td>
+<td>2008年4月3日-9月25日</td>
+<td>部分畫面臉部扭曲<s>，崩壞到毫無賣肉番該有的實用性可言</s>
+</td></tr><tr><td>我喜歡的妹妹不是妹妹</td>
+<td>NAZ × Magia Doraglier</td>
+<td>2018年10月10日-2018年12月19日</td>
+<td>近年最作畫崩壞的動畫之一<br>OP人物作畫照搬劇中部分、第二話開始就崩得不成模樣，第三話多個鏡頭橫放<s>多名觀眾表示他們的長年頸痛因為這套作品治好了</s>，第四話出現空中飛嘴<br>倒放、人物直接放大縮小、大動作到小部分都有少畫、畫錯、畫崩，總之各種能想到的還是想不到的崩壞應有盡有，崩到懷疑角川幹嘛出錢拍這部的動畫<br>據傳是因為接案公司武遊直到緊迫時刻才收到角色設定，導致作畫時間被大幅度壓縮<s>讓某些網民看了片尾製作名單以為武遊不是公司而是人名</s>
+</td></tr><tr><td><a href="/%E9%BB%83%E9%87%91%E7%A5%9E%E5%A8%81" title="黃金神威">黃金神威</a></td>
+<td>GENO STUDIO INC</td>
+<td>2018年4月9日-6月25日（一期）<br>2018年10月8日-12月24日（二期）<br>2020年10月5日－12月21日（三期）</td>
+<td>與其說崩壞，不如說沒錢...<br><a rel="nofollow" class="external text" href="https://twihash.com/tweet/1020659703150346243">例子</a><br>動畫製作團隊甚至表明原作太優秀，要大家多看漫畫，連帶拉高原作銷量<br>到了三期疑似經費比較充足的緣故，已鮮少有崩壞場景
+</td></tr><tr><td><a href="/JOJO%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%9A%AA" title="JOJO的奇妙冒險">JOJO的奇妙冒險</a>　</td>
+<td>David Production</td>
+<td>2016年4月2日-12月24日（<a href="/JOJO%E7%AC%AC%E5%9B%9B%E9%83%A8%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD" title="JOJO第四部登場人物一覽">第四部</a>）<br>2018年10月6日-2019年7月28日（<a href="/JOJO%E7%AC%AC%E4%BA%94%E9%83%A8%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD" title="JOJO第五部登場人物一覽">第五部</a>）</td>
+<td>雖然在製作組私心加持之下JOJO的動畫版鮮少出現崩壞，不過在外包給韓國團隊製作的第四部21話還是出現了謎之作畫的<s>崩良崩影</s><a href="/%E5%90%89%E8%89%AF%E5%90%89%E5%BD%B1" title="吉良吉影">吉良吉影</a>。<br><s>然而第五部22話告訴我們，只要經費拮据，就算不給外包自己作還是會出現崩壞情況。</s><br><s>順帶一提的是第三部開播初期因為作畫失誤令阿布德爾成為<b><a rel="nofollow" class="external text" href="http://atmarkjojo.org/archives/13537.html">有兩隻右手的男人</a></b></s>
+</td></tr><tr><td>童話魔法使</td>
+<td>Hoods Entertainment</td>
+<td>2018年1月11日-3月29日（第10話）<br>2019年4月25日（第11、12話）</td>
+<td>出現大量作畫崩壞，且出現人手不足情況，第9、10話延期播放但並未改善，11、12話更是一延再延到...2019年4月25日才播放<br>BD版大部分崩壞都有修正
+</td></tr><tr><td><a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="動物朋友2">動物朋友2</a>　</td>
+<td>Tomason</td>
+<td>2019年1月15日-4月2日</td>
+<td>首先Tomason是製作公益動畫為主，已多年沒有製作番組動畫，甚至在2018年末還在官網上急募3D製作......<br><s>為了和<a href="/%E7%85%99%E8%8D%89" title="煙草">隔壁的動畫</a>打對台</s>製作時間相當倉促，作畫品質（或者說3D模組的調整上）自然大受影響，例如最為人詬病的崩壞點是角色對話時目線時常沒有對上彼此、動作幀數時快時慢，角色、場景物品各種出包，甚至原本作為兒童科普動畫都因為考據不認真而造成各種低級錯誤。<br>慘到後來Tomason索性在官網上撤掉這部作品。<s>官方承認的<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a>無誤</s>
+</td></tr><tr><td>原子小金剛</td>
+<td>虫プロダクション</td>
+<td>1963年1月1日-1966年12月31日</td>
+<td>日本動畫史上最早的作畫崩壞事件<br>當時手塚為了讓自家工作室的員工休息，把第34話整話外包給Studio Zero。儘管該公司有不少漫畫界的重量級人馬（像是石之森章太郎、藤子不二雄二人組），但他們大都沒接觸過動畫製作，結果各人交出來的原畫風格不一，手塚見狀嚇得臉都綠了，只修正了幾個分鏡便直接播出。<br>據說事後手塚把此話的原片銷毀了，直到2002年NHK製作《原子小金剛》紀念節目時，才把該話從美國回購至日本。
+</td></tr><tr><td>五等分の花嫁</td>
+<td>手塚プロダクション</td>
+<td>2019年1月10日-3月28日</td>
+<td>第三集起出現大量作畫崩壞，五姊妹該崩的都崩了，第十一集交由SHAFT代工才有改善，<s>經費都花到聲優上面了...</s>
+</td></tr><tr><td><a href="/%E5%A4%9A%E7%BE%85%E7%BE%85" title="多羅羅">多羅羅</a></td>
+<td>MAPPA<br>手塚プロダクション</td>
+<td>2019年1月7日-6月24日</td>
+<td>第15話找了上面提過的小林治來做，結果出現畫風完全不搭、多羅羅和路人被畫得極為簡陋、<a href="/images/5/5d/1556031018755.gif" class="internal" title="1556031018755.gif">疑似出錯背景不會動</a>、動作及人物比例整個變形等。<br>此外第15話還有一些沒交待前因後果的謎演出令整話觀感極差。<br><s>地獄変（物理）</s>
+</td></tr><tr><td>百煉霸王與聖約女武神</td>
+<td>EMT SQUARED</td>
+<td>2018年7月7日-9月22日</td>
+<td>OP便已出現作畫崩壞，正片還出現弓箭先射穿人再射穿盾牌的反物理操作。
+</td></tr><tr><td>ガンドレス</td>
+<td>日活<br>東亞輸出公司<br>イヨンズコーポレーション<br>スターフィッシュ</td>
+<td>1999年</td>
+<td>日本動畫史上最惡的未完成動畫<br>由於製作委員會管理不善，把項目外包給負債累累的スタジオジュニオ，結果製作進度嚴重落後，最終只能把<b>原畫崩壞、上色未完成、畫面跳格、聲畫對不上</b>的未完成作品拿去上映。<br>也許連自己也覺得這樣的「製成品」太過丟人，製作委員會只好在電影院張貼告示向觀眾致歉，並承諾向願意入場觀看的觀眾贈送該作的完成版，成為當時的社會話題。<br>後來本作發行DVD時，竟把未完成版本當成是賣點宣傳……
+</td></tr><tr><td>Twinkle NORA Rock Me</td>
+<td>Filmlink International</td>
+<td>1985年11月21日</td>
+<td><a rel="nofollow" class="external text" href="https://youtu.be/RuZ_pe5GFLA">懶人包</a>(<a rel="nofollow" class="external text" href="https://www.bilibili.com/video/av69828364">對岸中文翻譯</a>)<br>作畫崩壞連發就算了，開頭一分鐘後就是<b><a rel="nofollow" class="external text" href="https://youtu.be/1wAVpcvIrQM">流暢度連PPT簡報都不如的畫面......</a></b>
+</td></tr><tr><td><a href="/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA" title="七つの大罪シリーズ">七つの大罪</a> 戒めの復活</td>
+<td>STUDIO DEEN</td>
+<td>2019年10月9日-2020年3月25日</td>
+<td>製作公司從A-1 Pictures換成STUDIO DEEN，大量出現作畫崩壞，角色動作靠平移<br>雖然如此直到第12集觀眾萬眾期待的憤怒vs傲慢可以說是動畫最爛的打鬥之一<s>感受到觀眾的憤怒和製作組的傲慢</s>，第13集更出現MELIODAS<s>發福</s>崩壞畫面
+</td></tr><tr><td>DYNAMIC CHORD<br>ダイナミックコード</td>
+<td>studioぴえろ</td>
+<td>2017年10月6日-12月22日</td>
+<td>整部動畫構圖跟背景錯漏百出<br>製作群欠缺常識，不斷打破觀眾對生活常識甚至物理定律的認知（各種角度、位置、比例的失誤，馬路完全亂畫），作中背景因而被吐糟為「ダイナミックシティ」、「ダイナミックビル」，此外劇情跟演出都非常微妙，甚至BGM跟歌曲都存在不協和音與奇怪的歌詞<s>，不愧是DYNAMIC的動畫</s><br><s>觀眾:作畫監督是不是死了</s>
+</td></tr><tr><td>滿溢的水果塔</td>
+<td>feel.</td>
+<td>2020年10月12日-12月28日</td>
+<td>衣服上的花紋不因角色行動和衣服皺摺變化
+</td></tr><tr><td>EX-ARM</td>
+<td>ビジュアルフライト</td>
+<td>2021年1月10日-3月28日</td>
+<td>經過疫情延宕端出的成品卻是<a href="/MikuMikuDance" title="MikuMikuDance">MMD</a>等級的3D運用<br><s>令和3D版GUN道</s>
+</td></tr><tr><td>真·中華一番</td>
+<td>NAS<br> Production I.G(協助)</td>
+<td>2019年10月11日-12月27日(一期)<br>2021年1月12日-3月29日(二期)</td>
+<td>重製版，宣稱會照原作漫畫劇情走，但是畫質貧瘠不說，崩壞的程度讓老觀眾覺得1997年的舊版簡直是良心作，新觀眾之間評價也不高
+</td></tr><tr><td>飛輪少年</td>
+<td>東映動畫<br>Marvelous Entertainment</td>
+<td>2006年4月4日-9月26日</td>
+<td>不要說崩壞了，還有一堆瞎眼的色塊，在大作如雲的2006年4月番裡當時因為崩的太誇張而引起討論
+</td></tr><tr><td>再見了，我的克拉默</td>
+<td>ライデンフィルム</td>
+<td>2021年4月4日-6月27日</td>
+<td>第1集直接就出現頭穿過鐵絲網的詭異畫面，明明是運動番但踢球姿勢卻相當扭曲，很難想像跟神作《四月是你的謊言》是同一位作者的動畫化作品
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://youtu.be/4e-wuyjgDPQ">Rapsittie Street Kids: Believe in Santa</a></td>
+<td>J Rose Productions<br>Wolf Tracer Studios</td>
+<td>2002年12月</td>
+<td>有著前無古人後無來者，連PS1實時演算都比不上的糟糕CG動畫<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><br>神奇的是本作居然請到不少大牌聲優來出演<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>......
+</td></tr><tr><td>短漫（짤툰）絕大部分動畫</td>
+<td>JJALTOON</td>
+<td>2019年9月28日-</td>
+<td>大部分的動畫角色一貫都是橢圓臉或醜臉，不過也有部分角色有時會變漂亮或帥氣（例如：女漢子主角瘦身時期的朱貞妍、脫下眼鏡秒變帥哥的劉善宇），也有看似好看顏值實為醜崩的角色（例如：<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=SeCR59Og93Y">口罩騙子</a>裡一位長得像<a href="/%E5%BA%AB%E6%B4%9B%E9%AD%94%E6%B3%95%E4%BD%BF" title="庫洛魔法使">庫洛魔法使</a>雪兔的醜男角），動物方面（好比禽獸朋友們）幾乎都沒有崩，而高人氣的作品泡飯蟲有出作畫<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=oKSIzSErt18">重製版</a>，雖然男主角有變帥了（！？），但愛吃泡飯到死的智障性格依舊沒變
+</td></tr><tr><td>歡迎來到實力至上主義的教室 第2季</td>
+<td>Lerche</td>
+<td>2022年7月4日－</td>
+<td>第6話接力賽有圖層設定錯誤產生人踩在別人頭上的奇景<s>我的圖層在你之上</s>
+</td></tr></tbody></table><h3 class="in-block"><span id="漫畫家作畫崩壞代表人物"></span><span class="mw-headline" id=".E6.BC.AB.E7.95.AB.E5.AE.B6.E4.BD.9C.E7.95.AB.E5.B4.A9.E5.A3.9E.E4.BB.A3.E8.A1.A8.E4.BA.BA.E7.89.A9">漫畫家作畫崩壞代表人物</span><span class="mw-editsection"><a href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit&amp;section=3" title="編輯章節：漫畫家作畫崩壞代表人物" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>泛指一名漫畫家作畫愈畫愈退步。</li>
+<li>但多少是非戰之罪，畢竟人上了年紀眼力和體力都大不如前，作畫會崩可以理解。
+<ul><li>畢竟像井上雄彥、小畑健那種畫技沒隨著年紀退步反而還不停成長的例子真的算少數…</li>
+<li>而像安達充那種萬年如一日的畫風更是特例中的特例。</li></ul></li></ul><table class="wikitable" style="margin: 1.5em auto;"><tbody><tr><th>作者名</th>
+<th>代表作品</th>
+<th>備註
+</th></tr><tr><td>高橋陽一</td>
+<td>足球小將翼系列</td>
+<td>那精美的19頭身…現在被廣泛做成各種迷因
+</td></tr><tr><td>藤島康介</td>
+<td>幸運女神</td>
+<td>普遍覺得14集左右的畫風最好，之後愈來愈退步，眼睛愈來愈大，眼神愈來愈空洞…
+</td></tr><tr><td>松下容子</td>
+<td>闇之末裔</td>
+<td>謠言說是出車禍所以手傷換了畫風....但沒有確切證據
+</td></tr><tr><td>高屋奈月</td>
+<td>魔法水果籃/幻影天使</td>
+<td>同上，因為生病的關係所以換了畫風
+</td></tr><tr><td>高橋留美子</td>
+<td>亂馬1/2<br>犬夜叉</td>
+<td>犬夜叉後期線條就開始崩壞，境界整個回不去...<br><s>畢竟高橋年紀大了....</s>
+</td></tr><tr><td>冨樫義博</td>
+<td>獵人</td>
+<td>有些篇章幾乎是交草稿；休刊後重新連載時已經忘記團長怎麼畫了<br>當復出新一集的時候<a rel="nofollow" class="external text" href="https://img.ltn.com.tw/Upload/ent/page/800/2016/05/24/1706258_2.jpg">因角色太少女向風格</a>還被網友質疑是不是冨樫請老婆（<a href="/%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%A6%E5%A3%AB%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A0%E3%83%BC%E3%83%B3" title="美少女戦士セーラームーン">武內直子</a>）幫忙畫
+</td></tr><tr><td colspan="2">NovelAI</td>
+<td>儘管網友不斷丟圖<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">特別是灰色地帶的二創圖</span>給AI學習，仍然常有腹筋崩壞<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">甚至獵奇</span>的「名畫」：用手吃拉麵、六隻手指<s>祝枝山</s>、游泳的鮭魚<b>生魚片</b>、<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">和<b>馬桶或蛋糕</b>融為一體的少女</span>...各種意想不到的作品都有。
+</td></tr></tbody></table><h3 class="in-block"><span id="派生：逆作畫崩壞"></span><span class="mw-headline" id=".E6.B4.BE.E7.94.9F.EF.BC.9A.E9.80.86.E4.BD.9C.E7.95.AB.E5.B4.A9.E5.A3.9E">派生：逆作畫崩壞</span><span class="mw-editsection"><a href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit&amp;section=4" title="編輯章節：派生：逆作畫崩壞" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>不過也有所謂的逆作畫崩壞（另有「作畫解放」的稱呼）的例子：</li></ul><table class="wikitable" style="margin: 1.5em auto;"><tbody><tr><th>作品</th>
+<th>動畫公司</th>
+<th>備註
+</th></tr><tr><td><a href="/%E3%83%91%E3%83%B3%E3%83%86%E3%82%A3%EF%BC%86%E3%82%B9%E3%83%88%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0with%E3%82%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%99%E3%83%AB%E3%83%88" title="パンティ＆ストッキングwithガーターベルト">パンティ＆ストッキングwithガーターベルト</a></td>
+<td>GAINAX</td>
+<td>2010年秋番，由GAINAX製作的原創動畫，監督為今石洋之<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>。整體是類似《飛天小女警》的美式風格，但是<a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=gNy6-n5td7M">變身畫面</a>…<a href="/%E6%88%90%E5%8F%A5/%E3%81%9D%E3%82%93%E3%81%AA%E2%97%8B%E2%97%8B%E3%81%A7%E5%A4%A7%E4%B8%88%E5%A4%AB%E3%81%8B%EF%BC%9F" title="成句/そんな○○で大丈夫か？">そんなシーンで大丈夫か?</a>
+</td></tr><tr><td><a href="/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0" title="蠟筆小新">蠟筆小新</a>劇場版：風起雲湧 光榮燒肉之路</td>
+<td>新銳動畫</td>
+<td>一家四人+一犬逃亡心想為了能吃到晚上的燒肉大餐，即使再累也要不惜一切努力。
+</td></tr><tr><td>魔法少女奈葉（第一部）</td>
+<td>Seven Arcs</td>
+<td>在無印版第一集中，由吉成鋼負責的近一分鐘的內容極盡所能的用精細的線條來刻畫動作細節，其中奈葉在深夜的小巷中奔跑的那一段甚至會被誤認為是3D畫面（其實如果單獨把那一段列出來有種恐怖片的感覺）
+</td></tr><tr><td><a href="/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA" title="進擊的巨人">進擊的巨人</a></td>
+<td>WIT STUDIO （第一部~第三部）<br>MAPPA（第四部）</td>
+<td>動畫化（監督為荒木哲郎）時相當程度的改進了原作<s>線描不清不楚、角色長相男女不分容易混淆</s>作畫上的不足，加上協力（Production I.G）製作的高品質動作場面，令本作成為2013最受矚目的電視動畫之一 。<br>2020年底MAPPA接手第四部後依舊維持高水準的製作風格
+</td></tr><tr><td><a href="/%E9%98%BF%E7%94%98%E5%A6%99%E4%B8%96%E7%95%8C" title="阿甘妙世界">阿甘妙世界</a></td>
+<td>Cartoon Network</td>
+<td><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=IB2diWCfzGo">見此</a>
+</td></tr><tr><td><a href="/POP_TEAM_EPIC" title="POP TEAM EPIC">POP TEAM EPIC</a></td>
+<td>神風動畫</td>
+<td>第12話出現了等比例身材且大幅萌化的主角兩人。<br>第13話更找來大張正己擔任OP作畫，造就了如同機戰風格且作畫極為精緻的OP。
+</td></tr><tr><td>モブサイコ100</td>
+<td>BONES</td>
+<td><s>畢竟原作ONE老師的畫技還有很大的成長空間...</s>動畫沿用原作的人設風格，以絲毫不馬虎且精采流暢的動作打戲，伴隨著場面<s>跟角色長相</s>大幅升級，與平時線條簡單的畫風產生反差。第二季品質更是再向上提升，<s>十三個劇場版</s><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>。<a rel="nofollow" class="external text" href="https://youtu.be/USBa7dmgrZ8?t=122">100%勇氣的主角</a>...真的...您哪位?
+</td></tr><tr><td><a href="/%E8%92%BC%E7%A9%B9%E4%B9%8B%E6%88%B0%E7%A5%9E" title="蒼穹之戰神">蒼穹之戰神</a></td>
+<td>XEBEC</td>
+<td>親生子待遇就是不同(無誤)<br>無印時作畫仍不太穩定，但在劇場版HEAVEN AND EARTH後的EXODUS幾乎每集都是劇場版畫質，直到第二季的尾聲才開始有少許崩的情況。<s>有員工當時做到結晶化了</s><br>執筆時THE BEYOND即將上映，PV顯示作畫質素仍能維持。
+</td></tr><tr><td>JOJO的奇妙冒險 黃金之風</td>
+<td>David Production</td>
+<td>雖然之前22話出現了經費匱乏造成的作畫崩壞，但在31話上演<a href="/%E5%96%AC%E9%AD%AF%E8%AB%BE%E2%80%A7%E5%96%AC%E5%B7%B4%E6%8B%BF" title="喬魯諾‧喬巴拿">喬魯諾</a>以黃金體驗瘋狂毆打喬可拉特的一幕時卻如同解除限制般作出幾乎媲美原作的30秒<a href="/%E3%82%AA%E3%83%A9%E3%82%AA%E3%83%A9%E3%82%AA%E3%83%A9%E3%82%AA%E3%83%A9%E3%82%AA%E3%83%A9%E3%82%AA%E3%83%A9" title="オラオラオラオラオラオラ">無駄無駄連打</a>，除了聲優小野賢章的賣力演出<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>之外，為了把這一小段動畫做到最好，還找了六名作畫員工去製作這一幕的原畫，他們在ED裡被標上了「無駄無駄原画」。
+</td></tr><tr><td><a href="/%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83" class="mw-redirect" title="鬼滅の刃">鬼滅の刃</a></td>
+<td>ufotable</td>
+<td>原作漫畫<s>幾乎從頭到尾崩得慘不忍睹的臉孔骨架</s><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>各種作畫上的不足都在動畫中得到了大幅度的改進，加之精美流暢的特效天衣無縫的配合，原作靠著成功的動畫化順利翻紅甚至終結了海賊11年的紀錄登上年度銷售冠軍。<br>最經典的場面當屬<a rel="nofollow" class="external text" href="https://youtu.be/Qva036J_evc">第十九話的戰鬥</a>。
+</td></tr><tr><td><a href="/%E3%83%88%E3%83%AD%E3%83%94%E3%82%AB%E3%83%AB~%E3%82%B8%E3%83%A5!%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="トロピカル~ジュ!プリキュア">トロピカル~ジュ!プリキュア</a></td>
+<td>東映</td>
+<td>一直都是用幼女向常用的可愛型作畫，但在45話與大魔王的決戰時，畫風突然變成類似《<a href="/%E5%A4%A9%E5%85%83%E7%AA%81%E7%A0%B4_%E7%B4%85%E8%93%AE%E8%9E%BA%E5%B7%96" title="天元突破 紅蓮螺巖">天元突破 紅蓮螺巖</a>》或《<a href="/KILL_la_KILL" title="KILL la KILL">KILL la KILL</a>》的寫實型風格，反差之大連幾乎都沒在關注光美的新聞網和FB都有相關<a rel="nofollow" class="external text" href="https://www.toy-people.com/?p=68778">報導</a>
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="參見"></span><span class="mw-headline" id=".E5.8F.83.E8.A6.8B">參見</span><span class="mw-editsection"><a href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit&amp;section=5" title="編輯章節：參見" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li><a href="/%E9%82%AA%E7%A5%9E%E5%83%8F" title="邪神像">邪神像</a></li>
+<li><a href="/%E9%A1%8F%E8%97%9D" title="顏藝">顏藝</a></li>
+<li><a href="/%E5%A3%9E%E6%8E%89" title="壞掉">壞掉</a></li>
+<li><a href="/%E9%AB%98%E9%BA%97%E8%8F%9C" title="高麗菜">高麗菜</a></li>
+<li><a href="/%E3%82%B8%E3%82%A7%E3%83%AD%E3%83%8B%E3%83%A2%E7%8F%BE%E8%B1%A1" title="ジェロニモ現象">ジェロニモ現象</a></li>
+<li><a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a></li>
+<li><a href="/%E5%9C%B0%E9%9B%B7" title="地雷">地雷</a></li>
+<li><a href="/%E4%BF%AE%E6%AD%A3" title="修正">修正</a></li>
+<li><s><a href="/%E6%88%90%E5%8F%A5/%E6%8F%9B%E5%80%8B%E9%AB%AE%E5%9E%8B%E5%B0%B1%E6%98%AF%E6%96%B0%E4%BA%BA%E7%89%A9%E4%BA%86" title="成句/換個髮型就是新人物了">成句/換個髮型就是新人物了</a> - 另一種的極端</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="外部連結"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E9.80.A3.E7.B5.90">外部連結</span><span class="mw-editsection"><a href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit&amp;section=6" title="編輯章節：外部連結" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><a rel="nofollow" class="external text" href="http://home-aki.la.coocan.jp/lost4.htm">『ロスト・ユニバース』第4話は何故破綻したのか?</a>，內附非常良好的圖例</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit&amp;section=7" title="編輯章節：回應" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="pcomment-insert" data-number="" data-section="2" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="討論:作畫崩壞">討論:作畫崩壞</a>|number=|section=2}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;action=edit&amp;section=8" title="編輯章節：備註" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">例如鋼彈00就是這樣，你可能沒聽過同樣列在製作群機設名單上的中谷誠一老師在劇中負責哪一台機體的設計，因為他負責的是將其他機械設計師設計的機體修改為動畫用造型的工作<s>，換句話說00動畫版登場的<b>所有機體</b>全部都是中谷老師設計的</s>。</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Sunrise第八工作室的別稱，以<s>濫用</s><a href="/%E5%85%BC%E5%B7%AE" title="兼差">明星系統</a>聞名。</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">モンキー・パンチ（Monkey Punch），代表作為《魯邦三世》系列，於2019年4月11日罹患吸入性肺炎逝世</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">於2016年起停止製作動畫</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">於2003年倒閉</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">細田守的電影在畫面上多半都會有「無影子」特殊風格，代表作品之一就是數碼寶貝劇場版《我們的戰爭遊戲》</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">從佐光幸惠更改為負責過<a href="/%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97" title="光之美少女系列">光之美少女</a>音樂組與心跳組的高橋晃，設定上也從原本的武內直子原設風更改為偏向光美的簡易風格</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">其實比起某OMEGA已經算好了...</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">第二話，另外首個OP因為畫太崩(尤其是把撒加畫成米羅的樣子)之後重畫了部分鏡頭</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">人物描繪採用了<a rel="nofollow" class="external text" href="http://wiki.komica.org/pix/img11287.jpg">以真人演員作為作畫範本</a><a href="/%E6%AA%94%E6%A1%88:Img11287.jpg" class="image"><noscript><img alt="Img11287.jpg" src="/images/thumb/a/ae/Img11287.jpg/120px-Img11287.jpg" width="120" height="157"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 157px;" data-src="/images/thumb/a/ae/Img11287.jpg/120px-Img11287.jpg" data-alt="Img11287.jpg" data-width="120" data-height="157"> </span></a>的<a href="https://en.wikipedia.org/wiki/zh-tw:%E8%BD%AC%E6%8F%8F%E6%9C%BA%E6%8A%80%E6%9C%AF" class="extiw" title="wikipedia:zh-tw:转描机技术">轉描法</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">有傳言指出原作押見修造老師指示或默許了這樣的寫實表現手法</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">疑似笨呆<a href="/%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5" title="武力介入">武力介入</a>、兩澤患<a href="/%E7%96%BE%E7%97%85" title="疾病">病</a>趕不上進度，有各種說法</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">於2010年破產</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">於2018年破產</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">製作過程<a rel="nofollow" class="external text" href="https://www.polygon.com/2020/12/24/22196527/rapsittie-street-kids-believe-in-santa-cast-crew-making-of?fbclid=IwAR3sBVJTZncGdglJ9fcEVPtYOZZcLn5YdqUoIodOQYRJ3ZLiV0tgFD2vr8s">見此</a><s>，看起來用這種業餘人士做的3D動畫軟體來做商業動畫從一開始就不是好主意......</s></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Mark Hamil（代表角色為星際大戰的<a href="/%E8%B7%AF%E5%85%8B%E2%80%A7%E5%A4%A9%E8%A1%8C%E8%80%85" title="路克‧天行者">路克‧天行者</a>）、Jodi Benson (代表角色為小美人魚的愛莉兒)、Paige O'Hara（代表角色為美女與野獸的貝兒）、Nancy Cartwright (代表角色為辛普森家庭的霸子)、Grey DeLisle（代表角色為叔比狗系列的黛芬和降世神通的阿祖拉）、Walter Emanuel Jones（代表角色為金剛戰士系列的初代黑戰士）</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">今石洋之同時也是《天元突破》的監督，而且他在第十話時也同樣放任小林治（擔當分鏡及演出）亂搞了一回…</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">第二季由於檔期<s>跟製作組的生命值</s>有對原作劇情進行刪減其實未能完全發揮。</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">有網民調查過，該劇情中的喬魯諾合共喊了122次「無駄」</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">大多數是在搞笑或輕鬆時刻</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=作畫崩壞&amp;oldid=418205">https://wiki.komica.org/index.php?title=作畫崩壞&amp;oldid=418205</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="1667189743">
+				最後編輯於 2022年10月31日 (週一) 12:15
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.175","ppvisitednodes":{"value":416,"limit":1000000},"ppgeneratednodes":{"value":1395,"limit":1000000},"postexpandincludesize":{"value":1540,"limit":2097152},"templateargumentsize":{"value":362,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7199,"limit":5000000},"timingprofile":["100.00%   38.428      1 -total","  5.59%    2.148      1 模板:Ref","  5.27%    2.027      4 模板:Censored","  4.75%    1.825      1 模板:Color","  4.22%    1.620      1 模板:Pcomment","  3.89%    1.493      1 模板:H0"]},"cachereport":{"timestamp":"20221109213112","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108});});</script>		</body>
+		</html>
+		

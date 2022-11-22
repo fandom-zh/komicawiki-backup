@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>爛尾 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"爛尾","wgTitle":"爛尾","wgCurRevisionId":394751,"wgRevisionId":394751,"wgArticleId":31834,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"爛尾","wgRelevantArticleId":31834,"wgRequestId":"377099ef4cb87837e91fd560","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E7%88%9B%E5%B0%BE\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E7%88%9B%E5%B0%BE","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-爛尾 rootpage-爛尾 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E7%88%9B%E5%B0%BE" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">爛尾</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">爛尾</div> 
+<table class="wikitable" style="margin:1.5em auto;text-align:center;"><tbody><tr><td>本條目內容不足需要擴充，歡迎各位有 <s>怨念</s>興趣的<a href="/%E5%B3%B6%E6%B0%91" title="島民">島民</a>加以補完。
+</td></tr><tr><td style="">以下內容含有各種<s>難以言喻的怨念</s>作品結尾的劇透，沒看過原著請自行斟酌
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li><s>爛掉的<a href="/%E5%B0%BE%E5%B7%B4" title="尾巴">尾巴</a>或尾巴爛掉，簡稱「<b>爛尾</b>」（大誤）</s>
+<ul><li><s>常見於集體眷養的動物，因為打架啃咬尾巴而造成感染</s></li></ul></li>
+<li>形容停止施工而未完成的建築，<b>但是和本條目沒有關係</b></li>
+<li>指一套作品明明前中期都很正常，但作者卻畫了一個奇爛無比的結局，讓讀者錯愕。</li></ul><ul><li><a href="/ACG" title="ACG">ACG</a>界裡的「爛尾」，網絡上主要分兩種解釋：
+<ul><li>作品結構完整，有完整的結局，但結局情節不盡人意。</li>
+<li>也就是按照字面意思解釋：作品埋有大量或少量伏線的情況下沒解釋清楚就完結，且結局不完整、有頭無尾。（這種通常是<a href="/%E8%85%B0%E6%96%AC" title="腰斬">腰斬</a>）
+<ul><li>近年JUMP爛尾率愈來愈高，讓很多追作品的島民看JUMP連載的新漫畫都會倒吸一口氣。</li></ul></li>
+<li>有時會搭配<a href="/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="作畫崩壞">作畫崩壞</a>出現</li></ul></li></ul><ul><li>跟<a href="/%E8%85%B0%E6%96%AC" title="腰斬">腰斬</a>不同的地方在於，腰斬大部份的理由都是作品人氣不足，但爛尾不一定是作品人氣不足，而是作者擺爛畫出那種結局。
+<ul><li>腰斬通常會取消作者原定劇情，另草率創結局完結導致通常會爛尾。</li>
+<li>腰斬不一定爛尾，也有腰斬之下收的很好的作品（如《諾亞筆記》）。但爛尾作除非作者願意正式補一個新結局，不然就是爛。</li>
+<li>腰斬還可以怪<a href="/%E5%87%BA%E7%89%88%E7%A4%BE" title="出版社">出版社</a>不識貨，但作者因素的爛尾只能問作者，為何可以作出那種結局出來。</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="有名的爛尾漫畫作品"></span><span class="mw-headline" id=".E6.9C.89.E5.90.8D.E7.9A.84.E7.88.9B.E5.B0.BE.E6.BC.AB.E7.95.AB.E4.BD.9C.E5.93.81">有名的爛尾漫畫作品</span><span class="mw-editsection"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=2" title="編輯章節：有名的爛尾漫畫作品" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>原文
+</th>
+<th>作者
+</th>
+<th>理由
+</th>
+<th>備註
+</th></tr><tr><td><a href="/%E6%A0%A1%E5%9C%92%E8%BF%B7%E7%B3%8A%E5%A4%A7%E7%8E%8B" title="校園迷糊大王">校園迷糊大王</a>
+</td>
+<td>スクールランブル
+</td>
+<td>小林盡
+</td>
+<td>在播磨送天滿上飛機後，他摘下墨鏡，讀者原本都以為播磨要放下對天滿這段單戀，<br>替長久以來的旗派vs飯糰派之爭劃下一個句點之時，<br>最終回卻告訴讀者，放棄是假的啦，播磨還在喜歡天滿哦!
+</td>
+<td>出了一個School Rumble Z把正式結局補完。
+</td></tr><tr><td>不良仔與眼鏡妹
+</td>
+<td>ヤンキー君とメガネちゃん
+</td>
+<td>吉河美希
+</td>
+<td>中途被編輯部延長而進入了升學考試長篇，出現了人氣太高導致把原定的女主角足立花直接替換的女角八王子雫。
+<p>原本是劇情伏線相關的足立花身世沒有交代，後期甚至直接消失在作品中。等到男主角品川大地畢業當上老師後才以留級學生身分再度重逢。至於如何解決家庭問題完全沒有描寫。但作者只說「男主就算知道他什麼也不能做，所以不畫」。
+</p>
+</td>
+<td>作者經此教訓後，於新作山田君與七魔女重新塑造了從外型、個性到氣場全部都是女主角風範的女主角白石麗，因此結局評價有好轉。
+</td></tr><tr><td>境界之輪迴
+</td>
+<td>境界のRINNE
+</td>
+<td>高橋留美子
+</td>
+<td>結局讓男女主正式在一起後其他人都草草交待，鳳和翼到了結局還在談無望的單戀，有夠無言…
+</td>
+<td>高橋妳好歹也是出道多年的作者，為何一部作品的結局可以搞成這樣…? <s>高橋年紀大了</s>
+</td></tr><tr><td>死亡清掃人
+</td>
+<td>DEATH SWEEPER
+</td>
+<td>きたがわ翔
+</td>
+<td>整個一頭霧水的結局…
+</td>
+<td>不看結局還算一個好作品。
+</td></tr><tr><td>武器種族傳說
+</td>
+<td>エレメンタル ジェレイド
+</td>
+<td>東まゆみ
+</td>
+<td>潛入反派大本營，跟敵方幹部打到一半就直接莫名收尾。許多詳情都沒交代之下就宣告完結，給觀眾一股被耍弄的印象。<br>動畫版雖然多半部分為原創，至少還算有始有終。
+</td>
+<td>接續紅本劇情的藍本也因為作者在2015年青光眼發作而無限期<s>斷尾</s>休刊。
+</td></tr><tr><td>死亡筆記本
+</td>
+<td>DEATH NOTE（デスノート）
+</td>
+<td rowspan="2">原作：大場鶇<br>作畫：小畑健
+</td>
+<td>以L死後為分水嶺，劇情格調開始明顯下降<br>為了收掉<a href="/%E5%A4%9C%E7%A5%9E%E6%9C%88" title="夜神月">夜神月</a>而讓他開始明顯輕敵和露出比前期還多的破綻，對手各種秀下限的偵辦方式<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><s>，但最鬼扯的還是那<a href="/%E3%81%94%E9%83%BD%E5%90%88%E4%B8%BB%E7%BE%A9" class="mw-redirect" title="ご都合主義">御都合</a>般的人體印表機</s>，月也用極度遜炮的方式敗北作結（動畫版有稍作變更）<br><s>雖然後期不管在<a href="/%E9%A1%8F%E8%97%9D" title="顏藝">顏藝</a>還是素材度都有相當不錯的水準，但</s>對想看前期那緊湊的鬥智情節和高度的觀眾來說，無疑是有被戲耍的觀感<br>不過跟其他爛尾作品比，死筆可看性還是蠻高的。
+</td>
+<td><s>傳言真人版電影內容才是劇本原案，但為了銷量而加長劇情的下場就是(ry</s><br>另外在《爆漫王》裡影射死筆的劇中劇《REVERSI》也是採主角和惡魔一起死去的結局，所以大場可能真的當初想是讓月L一起死亡作結<br>動畫版則把男主角的死法給整個大改，甚至最後讓L顯靈，結果評價還比原作好多了。
+</td></tr><tr><td>Platinum End
+</td>
+<td>プラチナエンド
+</td>
+<td>貫徹大場的<a href="/%E4%B8%AD%E4%BA%8C%E7%97%85" title="中二病">中二</a>意識流，整部從開始的雙方人馬超能力對決，到後期兩方思想交流，至結局不明所以的滅世作為收場。
+</td>
+<td>然而漫畫還是有超過450萬本以上的銷量。
+</td></tr><tr><td>偽戀
+</td>
+<td>ニセコイ
+</td>
+<td>古味直志
+</td>
+<td>明明一條樂一直執著想找出當年和自己約定的女孩是誰，也知道自己和心上人小咲兩情相悅<br>到接近結局時卻說我才不管約定，現在的我要選真愛，那你之前是在執著什麼…<br>詳細而言從中後段奏倉羽登場、劇情步調開始停滯+鬼打牆時作品的評價就逐漸趨於負面，不過歸咎上依然是三個主要女角收得難看所致
+</td>
+<td><a href="/%E6%88%90%E5%8F%A5/%E5%B9%B9%E4%BD%A0OX" class="mw-redirect" title="成句/幹你OX">幹你古味</a>、我有了新想法
+</td></tr><tr><td>我們真的學不來！
+</td>
+<td>ぼくたちは勉強ができない！
+</td>
+<td>筒井大志
+</td>
+<td>本來是以主角唯我成幸輔助同學古橋文乃與緒方理珠各自考上她們興趣與專長截然不同的學校作為主題，但由於創造出了教師桐須真冬角色，在角色投票中獲得廣大人氣，讓故事主題徹底跑偏，架構崩壞。<br><p>動畫撥出的結局則是以與唯我成幸認識最久的武元潤香作為勝出<s>引發捏他版各角色擁護者間的大戰</s>，但是在漫畫演至武元告白結局後，作者宣稱接下來將會是走其他女角色的IF線<s>再度引發捏他版各角色擁護者間的大戰</s>。
+正當真冬老師故事線走到結局<s>讓真冬粉絲自以為她才是真命天女後</s>，作者卻在最終回宣布之前的五條路線一切都是女主角自己的<a href="/%E5%A4%A2%E7%B5%90%E5%B1%80" title="夢結局">夢結局</a>，實際上大家都還在準備考試。虎頭蛇尾的做法讓這部評價徹底暴死，無藥可救。
+</p>
+</td>
+<td>由於作者筒井大志曾經擔任<a href="/%E6%88%90%E5%8F%A5/%E5%B9%B9%E4%BD%A0OX" class="mw-redirect" title="成句/幹你OX">幹你古味</a>的偽戀糕點師外傳畫者，在連載早期就有不少島民指出筒井在劇情編排上的缺點，卻遭到狂熱支持者猛烈抨擊。
+<p>在宣布有IF線後讓大家認為以他的編劇功力恐怕無法駕馭，同樣也遭到狂熱支持者猛烈抨擊。最後證明島民的擔心才是對的。
+</p>
+</td></tr><tr><td>我妻同學是我的老婆
+</td>
+<td>我妻さんは俺のヨメ
+</td>
+<td>原作：蔵石ユウ<br>作畫：西木田景志
+</td>
+<td>爛尾就算了，連<a href="/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="作畫崩壞">作畫都崩到不知道該怎麼說</a>
+</td>
+<td>
+</td></tr><tr><td>詐欺遊戲
+</td>
+<td>Liar Game
+</td>
+<td><s>爛尾王</s>甲斐谷忍
+</td>
+<td>突然就沒了負債，女主爸居然有參加過詐欺遊戲，然後又跑出另一個黑幕
+</td>
+<td>
+</td></tr><tr><td>鬥雞／軍雞
+</td>
+<td>軍鶏
+</td>
+<td>原作：橋本以藏<br>作畫：田中亞希夫
+</td>
+<td>在一堆伏筆未解決的情況下主角很隨便就被打死了
+</td>
+<td>雖然從編劇出走就一直擺爛了…
+</td></tr><tr><td>烘焙王
+</td>
+<td>焼きたて!! ジャぱん
+</td>
+<td>橋口隆志
+</td>
+<td>自烘焙王25篇後就開始放飛自我，尤其是河內完全成為丑角，結局直接成為<a href="/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8#.E3.83.80.E3.83.AB.E3.82.B7.E3.83.A0.EF.BC.88Dhalsim.EF.BC.89.EF.BC.8D.E7.91.9C.E7.8F.88.E7.9A.84.E5.A5.87.E8.B9.9F.EF.BC.8D" title="快打旋風系列登場人物列表">某印度苦僧</a>，不知所云<br>試吃反應變成永久反應，成為超能力<s><a href="/%E3%82%B0%E3%83%AD%E3%83%86%E3%82%B9%E3%82%AF" title="グロテスク">獵奇恐怖</a></s>美食漫畫先驅之一<br>接近完結前篇章甚至出現了麵包+人的怪物，會有此結局某方面也在意料之中。<br><p>最慘的是女主角梓川月乃被作者剃成了光頭，更在之後成為了作者親筆描繪的薄本女主角。
+</p>
+</td>
+<td>不少人覺得把動畫版結局當成正史就好
+</td></tr><tr><td><a href="/%E6%AD%BB%E7%A5%9E" title="死神">死神</a>
+</td>
+<td>BLEACH
+</td>
+<td>久保帶人
+</td>
+<td>作者死拖爛拖最後卻畫不完（無誤）<br>最後大頭目友哈巴赫很隨便被打死了，一堆伏筆都沒交待就直接讓主角一護結婚生子END<s>其實打完藍染就這樣搞還比較合理</s>
+<p>之後出小說版把一堆伏筆給個交待<s>當然不是久保、而是其他作者寫的</s>
+</p>
+</td>
+<td>由於手遊周邊活動帶來的商業效益可觀，於2020年宣布出外傳BURN THE WITCH，動畫也將把千年血戰篇補完。
+</td></tr><tr><td>FAIRY TAIL魔導少年
+</td>
+<td>FAIRY TAIL
+</td>
+<td>真島浩
+</td>
+<td>跟冥府篇章後換上來的編輯有相當關係<br>劇情原定方案有些地方不是被壓縮就是遭刪減，終篇不少反派角色收得草率，以及會長被編輯要求強行吐便當以達到大團圓的收場，甚至部分伏筆還來不及解釋完。<br></td>
+<td>目前有出續集《百年任務篇》追加描寫後續，不過作畫更換為上田敦夫。
+</td></tr><tr><td><a href="/%E7%9B%A3%E7%8D%84%E5%AD%B8%E5%9C%92" title="監獄學園">監獄學園</a>
+</td>
+<td>監獄学園
+</td>
+<td>平本彰
+</td>
+<td>運動會篇結束後進入了又臭又長的騎馬戰，每個月看著三方視角的騎馬戰拖了不知道多久<br>倒數第二話還有純愛的感覺時突然殺出了最終話同時滿足了貴圈亂、人設崩壞、劇情暴走的特徵<br>女主角最後黑化成為裏學生會會長，怎麽想都不是好結局…
+</td>
+<td>
+</td></tr><tr><td>遊戲王ARC-V
+</td>
+<td><a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_ARC-V" title="遊☆戯☆王 ARC-V">遊☆戯☆王 ARC-V</a>
+</td>
+<td>吉田伸（劇本）<br>三好直人（作畫）
+</td>
+<td>與下面的動畫版為不同故事<br><s>先把<a href="/%E9%85%8D%E5%B0%8D" title="配對">CP</a>問題無視<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>，</s>主角和零兒最後一戰那些過份精美的燒血動作卡簡直令人「嘆為觀止」，更別說亞當所提到幕後黑手的問題完全被省略<br><s>但結局還是比一塌糊塗的場面中完結的動畫版已經好上不少</s>
+</td>
+<td>最大還是中後期伏筆整理不當就一口氣完結
+</td></tr><tr><td style="text-align:center;" colspan="2">烏龍院活寶
+</td>
+<td>敖幼祥
+</td>
+<td>以一個無厘頭搞笑為賣點的作品來說整體還算可以，但結尾收得有些隨便，最大的問題就是發給大魔王的便當實在是…
+</td>
+<td>另外作品裡有部分伏筆沒交待、設定前後矛盾等缺失，作者自己有承認
+</td></tr><tr><td><a href="/%E6%97%8B%E9%A2%A8%E7%AE%A1%E5%AE%B6" title="旋風管家">旋風管家</a>
+</td>
+<td>ハヤテのごとく！
+</td>
+<td>畑健二郎
+</td>
+<td>早期不論是畫風還是劇情都很棒，但後期改用電繪後畫風驟變且故事只剩下在賣人設，最後毫不意外地爛尾了
+</td>
+<td>
+</td></tr><tr><td style="text-align:center;" colspan="2">月詠
+</td>
+<td>有馬啟太郎
+</td>
+<td>最後大頭目就隨便打完，男主為了女主踏上旅途。留下什麼都沒交待的結局給讀者
+</td>
+<td>
+</td></tr><tr><td style="text-align:center;" colspan="2">女學館
+</td>
+<td>張博棋
+</td>
+<td>國漫。最後男主不要真愛學妹，選一個可以養自己一輩子的老師
+</td>
+<td>不如說一部劇情抄GTO，人設抄同級生系列的漫畫還能畫這麼久才奇蹟..
+</td></tr><tr><td>食戟之靈
+</td>
+<td>食戟のソーマ
+</td>
+<td>原作：附田祐斗<br>作畫：佐伯俊(TOSH)
+</td>
+<td>與其說爛尾，到不如說這部在鬼父出場後就開始爛了...<br><p>主打料理的作品卻連烹煮過程都相當省略，<s>因為料理不是重點，看評審的反應與女角色脫光衣服才是故事本體</s>。
+料理對決某種性質上也算是種競技，而這種類型最忌諱的就是主角輸不得的理由，因為這樣對決的勝負就會變的可預期而無趣。而鬼父登場後，創真就變成如論對手是誰都能越級打怪，到最後連十傑的威嚴也瞬間掉價。
+中期開始只剩TOSH的畫技在撐的一部作品，原本以為鬼父篇已經夠糟了，想不到後來的BLUE篇竟然變成了異能大對決，擔綱反派的才波朝陽目的更是相當薄弱，結局更是不知所云...
+</p>
+</td>
+<td><s>TOSH你還是回裡界吧</s>
+</td></tr><tr><td>銀之匙
+</td>
+<td>銀の匙
+</td>
+<td>荒川弘
+</td>
+<td>因作者家人健康問題不得不轉為不定期連載乃至長期休載<br>主角高一的部分就占了前面11卷，但出事後才過了1卷半主角們就已經要面對大學考試；2019年恢復連載後隨即由出版社方面單方面宣布5話完結，最後直接草草收尾。
+</td>
+<td><s>這還能算是非戰之罪</s><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td></tr><tr><td style="text-align:center;" colspan="2">20／21世紀少年
+</td>
+<td>浦澤直樹
+</td>
+<td>初代目朋友真身是個突然冒出來的路人，然後他很隨便就被弄死了，之後還有個和他屬性差不多的傢伙當二代目來搞風搞雨，只是，二代目你誰啊？
+</td>
+<td>同作者的Monster 還能算是「後味惡」的<a href="/%E9%96%8B%E6%94%BE%E5%BC%8F%E7%B5%90%E5%B1%80" title="開放式結局">開放式結局</a>⋯⋯但這套⋯⋯
+</td></tr><tr><td>光之風
+</td>
+<td>風光る
+</td>
+<td>渡邊多惠子
+</td>
+<td>沖田病死，土方以霸王硬上弓的方式讓小靜懷孕生子要她活下去，最後靜生了和沖田很相像的小孩和齋藤重逢
+</td>
+<td>1996年開始連載，2020年劃下句點，長達23年的連載居然是這種鬼結局???
+</td></tr><tr><td><a href="/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA" title="進擊的巨人">進擊的巨人</a>
+</td>
+<td>進撃の巨人
+</td>
+<td>諫山創
+</td>
+<td><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在一堆伏筆未交代下就以「始祖」尤米爾看到情殺後頓悟飛升使巨人之力消失，卻沒解釋怪誕蟲的後續，並強行以眾人和解作結。</span>
+</td>
+<td><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本來有著良好鋪陳的作品到最終回以及後日談反而毀了前面的角色刻畫。這種在各處「留一大白」的創作方式能不能算得上「好」？</span><a href="/%E6%88%90%E5%8F%A5/%E7%AA%A9%E4%B8%8D%E7%9F%A5%E9%81%93" title="成句/窩不知道">窩們真的不知道⋯⋯</a>
+</td></tr><tr><td style="text-align:center;" colspan="2">BEASTARS
+</td>
+<td>板垣巴留
+</td>
+<td>草食動物及肉食動物之間的矛盾及價值觀不是一朝一夕就能解決，另一個主因就是梅隆這個大頭目實在是塑造的很不夠力<br>然後一直在鋪陳的雷格西及路易會成為BEASTARS最後兩人也沒當，結果造成這部世界觀搞很大卻草草收尾..
+</td>
+<td>後期板垣之血整個暴走.....打完棕熊就當結局就好。
+</td></tr><tr><td style="text-align:center;" colspan="2"><a href="/%E4%B8%AD%E8%8F%AF%E4%B8%80%E7%95%AA%EF%BC%81" title="中華一番！">中華一番！</a>
+</td>
+<td>小川悅司
+</td>
+<td>因為<a href="/%E8%85%B0%E6%96%AC" title="腰斬">腰斬</a>的關係最終戰草草帶過，<s>燕青直接投降變成笑柄</s><br>八樣傳說廚具的最後兩項是功能不明的玉龍鍋X2，根本是湊數用的
+</td>
+<td>
+</td></tr><tr><td>Dr.stone 新石紀
+</td>
+<td>Dr.stone
+</td>
+<td>原作：稻垣理一郎<br>作畫：BOICHI
+</td>
+<td>與其說爛尾，不如說這部在南美決戰完後作者很明顯就掰不下去。結局就只剩造火箭及上月球打敵，成了最無聊也最無趣的一段...
+</td>
+<td>後期科技樹愈開愈大，作者也不可能講解多詳細。從一開始的土炮到後面完全像變魔法似的就把東西生出來了...<br>作者你後面掰不下去，真的還不如南美決戰復活千空那邊就乾脆劃下句點就好。
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="有名的爛尾小說作品"></span><span class="mw-headline" id=".E6.9C.89.E5.90.8D.E7.9A.84.E7.88.9B.E5.B0.BE.E5.B0.8F.E8.AA.AA.E4.BD.9C.E5.93.81">有名的爛尾小說作品</span><span class="mw-editsection"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=3" title="編輯章節：有名的爛尾小說作品" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>原文
+</th>
+<th>作者
+</th>
+<th>理由
+</th>
+<th>備註
+</th></tr><tr><td>亞爾斯蘭戰記
+</td>
+<td>アルスラーン戦記
+</td>
+<td>田中芳樹
+</td>
+<td>天涯無限<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">莫名其妙地全員死光光收場</span>
+</td>
+<td>等了多年出來竟然是這種結局，亞馬遜上的一片罵聲足以說明問題
+</td></tr><tr><td><a href="/%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%BE%88%E5%B0%91" title="我的朋友很少">我的朋友很少</a>
+</td>
+<td>私は友達が少ない
+</td>
+<td>平坂讀
+</td>
+<td>最後強行妹線，夜空居然跟星奈百合，超展開到讓人丟書
+</td>
+<td>本作曾是平坂讀享負盛名的名作，但同時使他臭名遠播<br>一堆讀者直接稱作者為「平坂毒」
+</td></tr><tr><td><a href="/%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E5%93%AA%E6%9C%89%E9%82%A3%E9%BA%BC%E5%8F%AF%E6%84%9B%EF%BC%81" class="mw-redirect" title="我的妹妹哪有那麼可愛！">我的妹妹哪有那麼可愛！</a>
+</td>
+<td>俺の妹がこんなに可愛いわけがない
+</td>
+<td>伏見司
+</td>
+<td>最後<a href="/%E9%AB%98%E5%9D%82%E4%BA%AC%E4%BB%8B" title="高坂京介">男主</a>甩了所有人，直衝<a href="/%E9%AB%98%E5%9D%82%E6%A1%90%E4%B9%83" title="高坂桐乃">妹線</a><br>具體原因是兩面不討好的「期間限定戀人」結局(想看禁斷結局的不買單，要看胃痛結局的也無法滿足)，加上男主被土妹子以告發威脅時的退縮表現，使不少讀者無法接受
+</td>
+<td>在<a href="/%E6%96%B0%E5%9E%A3%E7%B6%BE%E7%80%A8" title="新垣綾瀨">綾瀨</a>IF線出書之後，伏見於2020年6月宣佈加筆寫<a href="/%E4%BA%94%E6%9B%B4%E7%91%A0%E7%92%83" title="五更瑠璃">黑貓</a>IF線及加奈子IF線。<br><s>淦你伏見</s>
+</td></tr><tr><td style="text-align:center;" colspan="2">噩盡島
+</td>
+<td>莫仁
+</td>
+<td>一切只敗在決戰結束得太潦草。
+</td>
+<td>只看前面確實是佳作，至少比起樓下結尾算好了。
+</td></tr><tr><td style="text-align:center;" colspan="2">獵命師傳奇
+</td>
+<td>九把刀
+</td>
+<td>劇情進入中期後開始出現各種<a href="/%E8%B6%85%E5%B1%95%E9%96%8B" title="超展開">超展開</a>、時事梗，一堆像是混頁數的排版、疊字，加上作者想把架構設得龐大卻又無法駕馭，毀了初期的設定和氣氛。<br><s>每集的前言和後記似乎是書中最有價值的部分</s>
+</td>
+<td><s>讓九把刀失去大量書迷的神作</s><br>一度傳出想寫二部曲的消息<s><br>但多數讀者不買單原因其實是出自於作者九把刀感情不忠搞劈腿的問題，何況還有很多作品在排隊</s>
+</td></tr><tr><td><a href="/%E6%89%93%E5%B7%A5%E5%90%A7%EF%BC%81%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA" title="打工吧！魔王大人">打工吧！魔王大人</a>
+</td>
+<td>はたらく魔王さま!
+</td>
+<td>和原聰司
+</td>
+<td>千穗<a href="/%E7%91%AA%E9%BA%97%E8%98%87%E6%B8%AC%E8%A9%A6" title="瑪麗蘇測試">瑪莉蘇</a>化，從普通人配角變成異世界救世主
+</td>
+<td>由於繪師的精美插圖以及動畫中千穗的表現讓作者變成千穗<a href="/%E5%BB%9A" title="廚">廚</a><br><a rel="nofollow" class="external text" href="https://www.bilibili.com/video/BV1ys411f787">來自作者的訪談</a>
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="有名的爛尾動畫作品"></span><span class="mw-headline" id=".E6.9C.89.E5.90.8D.E7.9A.84.E7.88.9B.E5.B0.BE.E5.8B.95.E7.95.AB.E4.BD.9C.E5.93.81">有名的爛尾動畫作品</span><span class="mw-editsection"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=4" title="編輯章節：有名的爛尾動畫作品" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>原文
+</th>
+<th>理由
+</th>
+<th>備註
+</th></tr><tr><td><a href="/Angel_Beats!" title="Angel Beats!">Angel Beats!</a>
+</td>
+<td>エンジェルビーツ
+</td>
+<td>雖然故事觀設計在校園內但情節交代零碎，很多角色的過去與塑造都要看漫畫才了解。結尾時許多角色未及發揮便退場，最終話音無原本策劃了一場畢業典禮想要讓大家都能離開死後世界，轉生重新過活。
+<p>但在小百合和日向相繼離開只剩下音無與<a href="/%E7%AB%8B%E8%8F%AF%E5%A5%8F" title="立華奏">立華奏</a>後，音無卻打消了心意想要和奏一直留在死後世界，但奏卻<s>發卡</s>拒絕了音無，說出了自己的心臟其實是音無死後捐贈的真相，隨即轉生離開死後世界，留下音無一人在死後世界崩潰大哭。普遍觀眾認為此一描寫毀了音無生前捨己為人的塑造。
+</p>
+</td>
+<td>不看最後一話還算佳作<br>為麻枝准第一部編劇的TV動畫
+</td></tr><tr><td>Charlotte
+</td>
+<td>シャーロット
+</td>
+<td>後半段的劇情被大幅壓縮<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，突然多了個哥哥，然後回到過去救妹妹</span>，最終話更濃縮得只剩下風景片<s>和「在中國，有勇氣就是一種超能力」</s>
+</td>
+<td>只看首6話的話還算佳作<br>為麻枝准第二部編劇的TV動畫
+</td></tr><tr><td>成神之日
+</td>
+<td>神様になった日
+</td>
+<td>男主明明一直喜歡著女二，卻莫名其妙說喜歡上女一。結局更是上演低配版Air…<br><span style="color:red;background-color:;"><b>THIS IS BAD</b></span>
+</td>
+<td>為麻枝准第三部編劇的TV動畫<br>另外，在最終回播出之前麻枝本人還直接關推<br>上限成神，下限成神則成了一句新成句<br><s>他還是回電玩界吧....</s><br>該作近期已確定被選為2020秋番的糞作動畫
+</td></tr><tr><td>槍彈辯駁3 -The End of 希望峰學園-
+</td>
+<td>ダンガンロンパ3 -The End of 希望ヶ峰学園-
+</td>
+<td><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不論是希望峰學園與世界的毀滅還是七十七期生墜入絕望的理由都被推給洗腦影片，甚至還成為未來機關殘殺事件的核心詭計<s>，除了霧切吐便當好評以外都很糟糕</s></span>
+</td>
+<td><s>幹你小高、幹你海法，幹你小太刀</s>
+</td></tr><tr><td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88SEED%E7%B3%BB%E5%88%97" title="機動戰士鋼彈SEED系列">機動戰士鋼彈SEED DESTINY</a>
+</td>
+<td>機動戦士ガンダムSEED DESTINY
+</td>
+<td><a href="/%E7%9C%9F%E2%80%A7%E9%A3%9B%E9%B3%A5" title="真‧飛鳥">新主角</a>地位被<a href="/%E7%85%8C%E2%80%A7%E5%A4%A7%E5%92%8C" title="煌‧大和">前作的主角</a>搶走，變成後者的敵人後卻沒上演兩雄對決戲碼，最後還被<a href="/%E6%88%90%E5%8F%A5/%E9%98%BF%E6%96%AF%E8%98%AD%E6%89%8D%E4%B8%8D%E6%98%AF%E7%8E%A9%E5%85%B7%EF%BC%81/%E3%82%A2%E3%82%B9%E3%83%A9%E3%83%B3%E3%81%AF%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%9E!" class="mw-redirect" title="成句/阿斯蘭才不是玩具！/アスランはおもちゃじゃないんだぞ!">他的朋友</a>打爆。<s>主角機（笑）</s><br>結尾還<s>被迫</s>和對方握手言和<s>，<a href="/%E6%88%90%E5%8F%A5/%E2%97%8B%E2%97%8B%EF%BC%8C%E7%8F%BE%E5%9C%A8%E4%BD%A0%E6%84%9F%E8%A6%BA%E5%A6%82%E4%BD%95%E4%BA%86%EF%BC%9F%E6%84%9F%E8%A6%BA%E5%A6%82%E4%BD%95%E4%BA%86%EF%BC%81%EF%BC%9F" title="成句/○○，現在你感覺如何了？感覺如何了！？">你本來的氣勢到那裡去了？</a></s><br>整部作品本來就充滿問題<s>，有人將之視為種鋼的<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a></s>
+</td>
+<td>以爛尾而<s>名留青史</s>遺臭萬年的名糞作，<a href="/%E4%B8%BB%E4%BA%BA%E5%85%AC(%E7%AC%91)" title="主人公(笑)">原主角</a><a href="/%E8%B7%AF%E4%BA%BA" title="路人">路人</a>真只能等<a href="/%E8%B6%85%E7%B4%9A%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%B0" title="超級機器人大戰">機戰</a>寫手拯救<s>並且害聲優經常被拿去玩梗取笑</s>
+</td></tr><tr><td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88_%E9%90%B5%E8%A1%80%E5%AD%A4%E5%85%92" title="機動戰士鋼彈 鐵血孤兒">機動戰士鋼彈 鐵<span style="color:red;background-color:;">血</span>孤兒</a>
+</td>
+<td>機動戦士ガンダム 鉄血のオルフェンズ
+</td>
+<td>40回開始急轉直下，最後歐格到三日月等鐵華團主要角色都死光了<s>，因為破滅魔劍太強了</s><br>真要說的話並不是觀眾反對全滅END，而是第二季後段開始不少角色被強行降智引致很多不必要的犧牲，加上<a href="/%E7%A0%B4%E6%BB%85%E9%AD%94%E5%8A%8D" title="破滅魔劍">破滅魔劍</a>太OP導致結局顯得相當莫名其妙。<br>反之第1季鐵華團突破重圍到達地球結局評價還比較好。
+</td>
+<td><s>破滅魔劍，破滅魔劍破滅魔劍破滅魔劍破滅魔劍，破滅魔劍！</s><br><a href="/%E6%88%90%E5%8F%A5/%E4%B8%8D%E8%A6%81%E5%81%9C%E4%B8%8B%E4%BE%86%E5%95%8A" title="成句/不要停下來啊">不過倒是因為歐格讓作品知名度大幅提高了</a><br>把第1季的結局當正史就好。
+</td></tr><tr><td>熊巫女
+</td>
+<td>くまみこ
+</td>
+<td>主角小町的城市恐懼症還比一開始嚴重，本應是支助的良夫變得冷漠還說出了"所謂的巫女本來就是為了村子獻祭的存在"這樣的話，最後小町情緒徹底崩潰自暴自棄逃避現實
+</td>
+<td>負責本作劇本的ピエール杉浦（杉浦理史）在動畫炎上後關閉推特帳號，他的維基條目也刪除掉與熊巫女相關的經歷<s>大概是自刪</s><br>BD版雖然修改了結局，但仍不足以扭轉評價
+</td></tr><tr><td><a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="動物朋友2">動物朋友2</a>
+</td>
+<td>けものフレンズ2
+</td>
+<td>最終回無視所有埋下的伏筆並且塞了很多無意義的段落，主線也以咕嚕嚕的感想草草敷衍，<s>平成+令和最爛作當之無愧</s>
+</td>
+<td><s>你從什麼時候開始產生了這玩意有好過的錯覺？而且製作組還放話說要做120集呢</s>
+</td></tr><tr><td>甲鐵城的卡巴內里
+</td>
+<td>甲鉄城のカバネリ
+</td>
+<td>一個類似在怪物威脅下求生存的打<a href="/%E5%96%AA%E5%B1%8D" title="喪屍">喪屍</a>劇情，到了中後段突然變成反派中二王子復仇記，最後還用牽強的方式洗白王子的作為。<br>世界觀詳細設定（例如卡巴內的起源）都沒作清楚交代後就結束，虎頭蛇尾<br><s>畢竟編劇是大河內，有這結果不意外????</s>
+</td>
+<td>單純以作畫、音樂方面都是當季的前段班<br><s>疑似會有第二季</s><br>不過意外的是兩位主角的聲優<a href="/%E7%95%A0%E4%B8%AD%E7%A5%90" title="畠中祐">畠中祐</a>和<a href="/%E5%8D%83%E6%9C%AC%E6%9C%A8%E5%BD%A9%E8%8A%B1" title="千本木彩花">千本木彩花</a>也因這部的關係牽起了姻緣，於2019年12月29日雙方宣布結婚。
+</td></tr><tr><td style="text-align:center;" colspan="2">Just Because!
+</td>
+<td>最後一集毀了整部動畫
+</td>
+<td>
+</td></tr><tr><td>裝刀凱（第二季）
+</td>
+<td>ソードガイ The Animation
+</td>
+<td><s><a href="/%E3%81%94%E9%83%BD%E5%90%88%E4%B8%BB%E7%BE%A9" class="mw-redirect" title="ご都合主義">都合主義</a>的成品</s>
+</td>
+<td><a rel="nofollow" class="external text" href="https://disp.cc/b/21-aL26">詳見郷民的吐槽</a>
+</td></tr><tr><td>正確的卡多
+</td>
+<td>正解するカド
+</td>
+<td>有著令人耳目一新的SF設定，3D高畫質，漂亮的人設...<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然後突然説女主角不是人類，鬧出ホモ三角戀後男女主突然就<s>拆腐CP</s>生了個由未來回來的<a href="/IMBA" title="IMBA">IMBA</a>女兒打死札修尼那為前半話<s>白白送命</s>犧牲的男主角報仇</span>
+</td>
+<td><s>人稱「不正解的卡多」，<a href="/%E6%AA%94%E6%A1%88:%E6%AD%A3%E8%A7%A3%E3%81%99%E3%82%8B%E3%82%AB%E3%83%89_%E4%B8%8D%E6%AD%A3%E8%A7%A3.jpg" title="檔案:正解するカド 不正解.jpg">最終回札修尼那的顏藝完美表達出觀眾的感受</a></s><br><a rel="nofollow" class="external text" href="http://komicolle.org/c/26525">實況版最終話</a><br><s>這裡怎麼有車？</s>
+</td></tr><tr><td style="text-align:center;" colspan="2"><a href="/DARLING_in_the_FRANXX" title="DARLING in the FRANXX">DARLING in the FRANXX</a>
+</td>
+<td>製作陣容非常強大的機器人動畫，但大部分時間都花在孩子們的感情關係上，使不少期待戰鬥場面的觀眾失望。<br>後期劇情急轉直下<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，由討伐叫龍忽然變成聯手對抗外星生命體，主角機體的最終形態更是讓人啞口無言</span>
+</td>
+<td>漫畫版據說會走與動畫版不同的if路線
+</td></tr><tr><td>ALDNOAH.ZERO
+</td>
+<td>アルドノア・ゼロ
+</td>
+<td>第二季劇情水準開始走下坡，最後強行Good End不說，公主居然被一位登場不到十分鐘的<a href="/%E8%B7%AF%E4%BA%BA" title="路人">路人</a>直接搶走…<br>連負責配音兩位男主的聲優<a href="/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9" title="花江夏樹">花江夏樹</a>及<a href="/%E5%B0%8F%E9%87%8E%E8%B3%A2%E7%AB%A0" title="小野賢章">小野賢章</a>及女主聲優<a href="/%E9%9B%A8%E5%AE%AE%E5%A4%A9" title="雨宮天">雨宮天</a>和女主婭賽蘭的侍女愛德爾麗卓聲優<a href="/%E6%B0%B4%E7%80%A8%E7%A5%88" title="水瀨祈">水瀨祈</a>看了都覺得微妙<s>表示這是三小</s>
+</td>
+<td><s><a href="/%E8%99%9B%E6%B7%B5%E7%8E%84" title="虛淵玄">老虛</a>：只有首三集是我寫的，要算帳的請找高山</s><br><s>評價再多悲劇至少留下核爆神曲ALieZ</s>
+</td></tr><tr><td>遊戲王ARC-V
+</td>
+<td><a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_ARC-V" title="遊☆戯☆王 ARC-V">遊☆戯☆王 ARC-V</a>
+</td>
+<td>問題點請見條目<br>在<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="動物朋友2">動物朋友2</a>播放前曾「稱霸」Nico生放送評價好評率倒數/差評率最多的排名榜
+</td>
+<td>系列構成：<s>天才</s>上代務、監督：<s>私貨王</s>小野勝巳<br><s>VRAINS恐步其後塵</s>
+</td></tr><tr><td style="text-align:center;" colspan="2">舞-HIME
+</td>
+<td>前面打的天昏地暗，最後一集卻強行HE
+</td>
+<td>不少人看到最後一集的表情都跟夏樹一樣<br>本來打完大魔王就可以結束然後HE了，然而這劇情卻在預定播出的集數中途出現了，只好讓勇者她們打來打去拖台錢，不爛尾才有鬼。
+</td></tr><tr><td><a href="/%E6%98%9F%E4%B9%8B%E5%8D%A1%E6%AF%94_(%E5%8B%95%E7%95%AB)" title="星之卡比 (動畫)">星之卡比</a>
+</td>
+<td>星のカービィ
+</td>
+<td>最終話「飛べ！星のカービィ」的劇情到處充滿破綻，作畫錯處也明顯比以往的集數多
+</td>
+<td>動畫監督吉川惣司在撰寫本話劇本時得悉妻子病危，但他為免拖延製作進度而選擇對劇組人員隱暪妻子病情繼續工作（不幸中之大幸是吉川先生最後仍能趕及見妻子最後一面）<br>雖說爛尾，實際上這話也有標準以上、不負觀眾期待的水準<s>比起之後接檔真人版美戰好得多</s>，製作員與觀眾們知道了吉川先生的苦況下也很體諒他<br>然而若本話畫在10年後觀眾較挑剔的現代播出大概會大炎上<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>，故也可說是因為觀眾較寬容才獲得救贖
+</td></tr><tr><td>勇者鬥惡龍：Your Story
+</td>
+<td>ドラゴンクエスト ユア・ストーリー
+</td>
+<td><br>由DQ5為藍本改編的3DCG動畫電影<br>一切看起來都很美好，直到<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結局揭曉一切都是主角在玩VR版DQ5：<br>潛藏在遊戲裡的外來病毒在最終魔王戰中跳出來破壞遊戲，並嗆主角不要再沉迷這些虛構事物；但這時遊戲裡的防毒軟體跳出來叫主角相信自己熱愛的一切後，變出羅德之劍讓主角打爆病毒。<br>最後全劇以主角的一句「就算這一切都只是虛構，但你們對我來說是真實的。」作結。</span>
+</td>
+<td><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本身這個運用後設小說要素的轉折就有些突兀，想講的道理（玩遊戲很開心）又顯得有些老土。但關鍵的是<b>除了標題那個倒過來的R有暗示這點</b>以外，事前宣傳<b>根本沒提到這件事</b><br>結果引發日本玩家大炎上，許多玩家大罵導演山崎貴這個<b>沒玩過DQ5</b>的空氣玩家為何要這麼做</span><br>目前還因為無斷使用DQ5小說版的主角名字而被小說版作者告上法院<br>不過除了這點以外，其他地方都有相當水準<s>，讓人不禁吐槽SQEX為何會讓這種結局通過</s><br><s>但也有人表示沒這樣搞這電影就只是一部劇情嚴重刪減的DQ5劇場版</s>
+</td></tr><tr><td>我們真的學不來！
+</td>
+<td>ぼくたちは勉強ができない！
+</td>
+<td>第一季以穩定的品質斬獲高分，第二季乘著良好的口碑順勢下來本應是佳作，最終話卻原創結局……<br>將漫畫原作大量進度跳過，於第二季結局最後5分鐘原創，直轉連漫畫都沒畫到的結局篇，並且暗示主角與<s>動畫被削減大量戲份、漫畫中也才剛有強勢互動的</s>女三潤香走到最後<br>隨著劇終（即沒有第三季的計劃）的字幕打出來，已讓觀眾徹底崩盤
+</td>
+<td>值得一提的是動畫直到最終話5分鐘以前都在推文乃線甚至是連續五話文乃主場的壓倒性優勢，卻讓刻畫最少的角色成為最後贏家，被部分人認為是作者的授意<br>事後作者筒井大志在Twiter上也發表了自己很喜歡動畫結局的看法，而對於（當時還未完結的）漫畫劇情表示無可奉告<s>基本上已敲定是自己授意了</s>，不久後的漫畫宣佈則結局是IF線，結果爆死得更慘
+</td></tr><tr><td>最後流亡-銀翼的飛夢-
+</td>
+<td>ラストエグザイル-銀翼のファム-
+</td>
+<td>號稱GONZO二十周年的紀念作，前段劇情鋪陳上還算不錯，但中期開始逐漸變調，後半展開過於急促，戰爭演出方式亦太過簡化，<s>只會喊口號的</s>新主角的內心描述明顯不如前作主角等等。
+</td>
+<td>只論村田的人設以及音樂的品質依然是可圈可點。<br><s>對劇情有興趣的看一季的部分即可。</s>
+</td></tr><tr><td>聖戰士：傳奇護衛
+</td>
+<td>Voltron: Legendary Defender
+</td>
+<td><s>勸戒動畫公司不要因被<a href="/%E8%85%90%E5%A5%B3" title="腐女">油腐</a>恐嚇而<a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">強制主角出櫃</a>，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">卻與主角小隊外的人結婚</span>。</s>
+</td>
+<td>對西方老一輩來說，Power Ranger的遠親經典就被這群好色的粉絲糟蹋了
+</td></tr><tr><td><a href="/LoveLive!_Sunshine!!" title="LoveLive! Sunshine!!">LoveLive! Sunshine!!</a>
+</td>
+<td>ラブライブ！サンシャイン!!
+</td>
+<td>造就LL系列好評率最低的兩集:好端端的地區預賽怎麼會變成舞台劇?
+</td>
+<td>只有監督酒井作為戰犯下台，花田還是去操刀星團了。
+</td></tr><tr><td>元氣魔法光之美少女
+</td>
+<td><a href="/%E3%83%92%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A3%E3%81%A9%E2%99%A5%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="ヒーリングっど♥プリキュア">ヒーリングっど♥プリキュア</a>
+</td>
+<td>主角方面：中後期對主角該有的加深描寫明顯欠缺，例如：和香和下述的宿敵達瑞森之間的恩怨糾葛被草草帶過、日向的學業高考之路、以及可能該出現的過場角色都未能再出現、追加戰士的明日美若不是為搭檔拿鐵的話其他方面的劇中表現都太御都合主義，數來數去有描寫較多較妥善的應該算是知由，其個人回明顯比其他三人還要多。<br>敵人方面：身為主人公和香的宿敵達瑞森前期非常機車，可到後來自另一幹部古艾瓦爾被正式登場的本作大魔王病幻王殺死兼被吸收走殘餘能量後，達瑞森自己也成為病幻王吸收能量的目標以致達瑞森害怕並想逃出病幻王的追捕。<br>也就是此時他原先從前期一直秉持的冷酷高傲和時髦形象完全盡失<s>變成遜砲的喪家犬</s>，想向宿敵和香求助請她給自己回她體內但遭她拒絕，在最後絕望之際只好對自己使用巨病碎片強化自己卻反而變成了巨大病幻怪，最終被主角們草草收掉並且遺體還被病幻王抓去吸收走。<br>另外在跟大魔王病幻王的戰鬥和對嗆還有過短的問題。
+</td>
+<td>主因在於現實中的<ruby>病幻者<rp>（</rp><rt style="font-size:0.5em;">covid-19</rt><rp>）</rp></ruby>於全球大肆虐+日本疫情嚴峻關係，以致包含本作（當時播到12集）在內當時還在播映的多部動畫因動畫錄音工作室必須配合防疫而關閉並停播，影響配音作業而停滯，直到6月28日本作再度開播13集，也因為前述的停播關係，以致本作播出內容和彩蛋跟現實時間季節因素明顯對不上，而且為防疫而關閉錄音室和停播其效益不大，進入秋冬季節疫情又再度升溫確診和死亡人數居高不下。<br>不過這一部作品也是近五六年來極少數被得到島民大致好評的光美作品。
+</td></tr><tr><td><a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D" title="神奇寶貝">神奇寶貝</a>XY&amp;Z
+</td>
+<td>ポケットモンスターXY&amp;Z
+</td>
+<td>小智強大的陣容加上劇情暗示讓觀眾們期待能否首次奪冠，結果仍在冠軍賽落敗。<s>沒有登上顛峰，只有登上顛峰(物理)</s><br>而且冠軍<a href="/%E8%89%BE%E5%B5%90_(%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D)" title="艾嵐 (神奇寶貝)">艾嵐</a>的噴火龍像是靠鎖血硬撐一樣，無法感覺到他比小智還強。
+</td>
+<td><s>有傳言資方不滿監督作品前期未能讓艾嵐建立人氣，同時收視不見起色，因此在XY&amp;Z時期另外加入副監督企圖架空原監督職務，導致製作組跟資方貌合神離，結果在作品中後期搞出了各種異常的劇情展開（比如本該冷處理的女主角卻有十分搶眼的表現），甚至在結局暗諷續作等。然而上述說法只是都市傳說，未能證實。</s>
+</td></tr><tr><td>約定的夢幻島2
+</td>
+<td>約束のネバーランド（Season 2）
+</td>
+<td>改編自同名原作漫畫，前作憑藉優秀的製作和音樂表現坐擁良好的口碑，然而影碟銷量不行，加上原作高開低走，相信基於上述理由被企劃方要求在第二季内完結漫畫110話的内容<br>於是本作便開始大刀闊斧的刪改，一口氣砍掉50話以上的内容轉進結局篇，導致人物行爲缺乏鋪墊和轉變<br>最後兩話編劇和系列構成直接<a href="/%E9%AC%BC%E9%9A%B1" title="鬼隱"><s>跑路</s>懸空</a>，<s>最終話更是出現3分鐘PPT演完30話劇情的神級操作</s><br><a href="/%E6%88%90%E5%8F%A5/%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%99%82%E8%87%A3%E7%9A%84%E9%8C%AF" title="成句/一切都是時臣的錯">一切都是出資方的錯</a>
+</td>
+<td><s>約定的夢幻島有第二季？那不是原創番嗎</s><br>漫畫原作雖也有島民說有爛尾狀況，但跟第二季相比已算是神作等級了<br><s>只怪本作銷量不行，後段劇情也不易刪改，爛尾在商業社會是難以避免的悲劇</s>
+</td></tr><tr><td>全員惡玉
+</td>
+<td>アクダマドライブ
+</td>
+<td>由Studio Pierrot製作的原創動畫，曾给《槍彈辯駁》系列擔任编劇的小高和剛也有參與故事原案的設計<br>前期主打「惡人VS惡人」的劇作風格並配合優良的製作水平獲得大量人氣，各路島民開始紛紛預測劇情伏筆和人物的暗示<br>自第7話起（劇情過半）開始急轉直下，人物行爲邏輯越發崩壞，尤其是本作女主角爲了兩個素不相識的小孩不惜在網路發佈煽動言論使得全城的人成爲暴民，還引發更多傷亡（對此她表示「這些鄉民是無罪的」<s>←明明是她導致的</s>）<br>最後主角團全員死亡卻引發平民全都成爲犯罪者<s>，强行點題「全員惡玉」</s>
+</td>
+<td><s>放飛小高</s><br>與上面的《成神之日》成爲2020年10月原創番崩壞雙傑<br><s>「這不比成神之日催淚、這不比全員惡玉反轉」也成爲新的成句</s><br>雖然本作的結局使得小高和剛被大量觀衆口罰筆誅，但也有觀點是認爲僅作爲故事原案的小高不應該背全責，擔任總編劇的海法紀光和導演田口智久、笹原嘉文都脫不開關係<br>不過該作在歐美的評價聽說很不錯
+</td></tr><tr><td>奇蛋物語
+</td>
+<td>WONDER EGG PRIORITY
+</td>
+<td>CloverWorks製作的原創動畫，若林信監督、野島伸司擔任編劇<br>作品映射了校園暴力、霸凌現象以討論現實問題，加上出色的製作水準和<s><a href="/%E7%99%BE%E5%90%88" title="百合">百合</a>戲碼</s>諸多伏筆遞進而廣受好評<br>播映至第12話時因為之前工期不夠臨時插播了一集總集篇導致電視台檔期無法播放最後一集，而宣佈在同年6月29日兩集聯播結局篇，直到目前劇情還沒什麼問題<br>最終話播出後不僅<b>有一半時間都是總集篇</b>、諸多伏線沒解釋不說還挖了新坑、作畫崩壞問題層出不窮，被認為直接毀了前12集的優秀品質
+</td>
+<td><s>實際上把坑留在最後一集解釋就已經有潛在問題了</s>
+</td></tr><tr><td>宿命迴響
+</td>
+<td>takt op.Destiny
+</td>
+<td>MAPPA和MADHOUSE兩大製作公司聯手推出的手遊改編(前傳)動畫，以古典音樂對抗外星生物為故事主軸，人設和音樂都很精良，一開始被大家視為2021熱門大作，但最後兩集的BOSS戰，島民們看完都冏了
+</td>
+<td>特別是第十一集女二安娜突然親吻男主角磔人讓眾島民完全看不懂<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td></tr><tr><td style="text-align:center;" colspan="2">天晴爛漫！
+</td>
+<td>原本還以為是利用科學玩賽車的番，結果中途殺出大魔頭後劇情整個變調。尾巴更是淡如開水..
+</td>
+<td>
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="有名的爛尾影視劇作品"></span><span class="mw-headline" id=".E6.9C.89.E5.90.8D.E7.9A.84.E7.88.9B.E5.B0.BE.E5.BD.B1.E8.A6.96.E5.8A.87.E4.BD.9C.E5.93.81">有名的爛尾影視劇作品</span><span class="mw-editsection"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=5" title="編輯章節：有名的爛尾影視劇作品" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>原文
+</th>
+<th>理由
+</th>
+<th>備註
+</th></tr><tr><td>假面騎士Zi-O
+</td>
+<td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B8%E3%82%AA%E3%82%A6" title="仮面ライダージオウ">仮面ライダージオウ</a>
+</td>
+<td>主角鋒芒被前輩搶盡、戰力崩壞，更草率地以時間線重置作結，關於騎士力量的來源以及先前的許多伏筆全無下文；和同樣主打時空的Decade都要靠劇場版補充多數設定。
+</td>
+<td>後面的網路短篇後日談比起TV版更令觀眾嘔血。
+</td></tr><tr><td>假面騎士Revice
+</td>
+<td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%AA%E3%83%90%E3%82%A4%E3%82%B9" title="仮面ライダーリバイス">仮面ライダーリバイス</a>
+</td>
+<td>前30話的展開到夏木花強行<a href="/%E6%B4%97%E7%99%BD" title="洗白">洗白</a>後急轉直下，本來潛藏的角色設定矛盾一一浮現、第二男主角五十嵐大二的不遇也讓人叫屈...能崩的幾乎都崩了。
+</td>
+<td><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對岸甚至有配角牛島光的演員利用關係讓自己成為新任假面騎士Over Demons的傳言。</span>
+</td></tr><tr><td>權力遊戲（最終季）
+</td>
+<td>Game of Thrones (Season 8)
+</td>
+<td><s>星巴克杯的穿幫其實只是小問題</s><br>一大堆令長期觀眾們翻桌的劇情展開和角色崩壞，推倒了過去多季建立起來的世界觀，令這套曾被稱為「神劇」的作品不能完美收倌<br>數以十萬計觀眾在完結前已在網上聯署要求重拍
+</td>
+<td>雖然有人會認為崩壞是因為沒有原作可循，但相較已脫離原作進度的第六和第七季，最終季被觀眾罵得最慘<br>詭異的是居然還可以得到<b>艾美獎最佳劇集</b>…
+</td></tr><tr><td>輪到你了
+</td>
+<td>あなたの番です
+</td>
+<td>狼人殺題材的電視劇，從開播就被媒體唱衰無人看好，到後來成爲推特熱門話題，每集都能引發大批觀衆每星期自發討論和推理，猜測幕後黑手和犯案手法，結果苦等半年——竟然是這麽一個結局？<br>電視臺的投訴電話都被打爆了
+</td>
+<td>不少人怒斥<s>肥</s>秋元康為力捧自己旗下偶像不擇手段<br>這玩意居然計劃於2021年12月上映電影版！？
+</td></tr><tr><td>某某妻
+</td>
+<td>〇〇妻
+</td>
+<td>前面劇情相當沉重，在中後期時一切好不容易要好起來，但到了大結局的最後幾分鐘...
+</td>
+<td>該劇編劇遊川和彥所做出來的劇本，品質相當不穩定，可以寫出像《家政婦女王》、《女王的教室》等精彩且發人省思的作品，但也寫出了像<s>號稱史上最詭異的</s>晨間劇《純與愛》和《偽裝夫婦》等讓你看了頭皮發麻又讓你懷疑人生的作品
+</td></tr><tr><td style="text-align:center;" colspan="2">棋魂真人版
+</td>
+<td>褚嬴消失前很好看，褚嬴消失後很難看
+</td>
+<td>先不論<a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">政治正確</a>的香港劇情，至少在32集前都還遵照著原著改編，自行發揮的情節也的確算精彩，就那結局實在是...<br>編劇在宣傳時還把自己和故意賣腐的潮流區別開來，到頭來根本是為了湊光亮CP毫無下限，包括原作的伊角在內，褚嬴消失後全部慘遭邊緣化，為亮讓道<br>導演甚至還在社交媒體上與觀衆隔空對嗆
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="有名的爛尾遊戲（系列作）作品"></span><span class="mw-headline" id=".E6.9C.89.E5.90.8D.E7.9A.84.E7.88.9B.E5.B0.BE.E9.81.8A.E6.88.B2.EF.BC.88.E7.B3.BB.E5.88.97.E4.BD.9C.EF.BC.89.E4.BD.9C.E5.93.81">有名的爛尾遊戲（系列作）作品</span><span class="mw-editsection"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=6" title="編輯章節：有名的爛尾遊戲（系列作）作品" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>名稱
+</th>
+<th>原文
+</th>
+<th>理由
+</th>
+<th>備註
+</th></tr><tr><td><a href="/%E6%8B%B3%E7%9A%87" title="拳皇">拳皇</a>2001
+</td>
+<td>THE KING OF FIGHTERS 2001
+</td>
+<td>NESTS篇三步曲最終章，當時<a href="/SNK" title="SNK">SNK</a>瀕臨破產邊緣、在種種資源不足的情況下強行開發，結果畫面大幅簡陋化兼<a href="/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="作畫崩壞">作畫崩壞</a>、音樂脫離過往作品的風格、故事草草收場<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>、與及對戰的種種不平衡+各種極惡bug和無限段<br>此外新採用的插畫師ノナ的奇特畫風把各人物畫得不似原型也飽受批評<s>此代的雅典娜造型和立繪難看到讓大家大吐苦水，令<a href="/%E6%8B%B3%E7%9A%87%E7%B3%BB%E5%88%97%E4%B8%AD%E5%BE%9E%E5%85%B6%E4%BB%96%E9%81%8A%E6%88%B2%E8%80%8C%E4%BE%86%E7%9A%84%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8#.E9.BA.BB.E5.AE.AE.E9.9B.85.E5.85.B8.E5.A8.9C.28Athena_Asamiya.EF.BC.8C.E3.81.82.E3.81.95.E3.81.BF.E3.82.84.E3.82.A2.E3.83.86.E3.83.8A.29_.EF.BC.8D.E6.B0.B8.E9.81.A0.E7.9A.84.E8.B6.85.E8.83.BD.E5.8A.9B.E5.81.B6.E5.83.8F.EF.BC.8D" title="拳皇系列中從其他遊戲而來的人物列表">小雅</a>的粉絲傷心的一代</s><br>不過該作登場的Angel卻是相當有人氣的新角，甚至威脅到不知火舞性感女神的地位
+</td>
+<td>拳皇2000的高質素畫質及引人入勝的劇情讓不少玩家期待NESTS篇結局的發展，結果此作把抱著期望的玩家打入谷底<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td></tr><tr><td style="text-align:center;" colspan="2"><a href="/Metal_Slug" title="Metal Slug">Metal Slug</a> 5
+</td>
+<td>大量設定和情節未有進一步展開就匆匆通關
+</td>
+<td>在後來的Defense和Attack中有把沒來得及實裝的元素拿出來<s>騙錢</s>
+</td></tr><tr><td>極地戰嚎5
+</td>
+<td>Far Cry 5
+</td>
+<td>無論選哪一個結局都沒有救贖，結果都是聖父贏得勝利<br>其實每一代Far Cry的結局都是差不多的調性，不過5代是完全地只有反派勝利的結局
+</td>
+<td>不過Far Cry New Dawn最終還是讓聖父成為了時代的敗北者<br><s>由於Far Cry New Dawn是5代17年後發生的事，讓人懷疑New Dawn其實是5代的DLC，拿出來當作獨立新作來賣</s>
+</td></tr><tr><td>殺手13
+</td>
+<td>XIII
+</td>
+<td>原作是比利時同名五卷裝漫畫小說，講述一個失去記憶的殺手找尋記憶並阻止危害美國的陰謀。<br> 結局發現一號殺手的真實身分並被一號殺手和他的打手包圍後，就用TO BE CONTINUED作為結束
+</td>
+<td>結果重製板也是跟原版一樣的TO BE CONTINUED結局，更慘的是重製版在STEAM上因為優化問題而被評定為壓倒性負評。
+</td></tr><tr><td>新槍彈辯駁V3 大家的自相殘殺新學期
+</td>
+<td>ニューダンガンロンパV3 みんなのコロシアイ新学期
+</td>
+<td>第1章由<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">女主誤殺</span>變成了<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">女主枉死</span>，把過去兩作完全推翻還把所有人物推上來嘲笑玩家，不過小高的離社註定不能出續作了<s>SWITCH倒是再出了個歡樂圖板遊戲以多賺一筆</s>
+</td>
+<td><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不過也有人分析白銀的話有破錠(例如眾人被抓上車的記憶)，所以也有可能一切都是她的謊言，前兩作也是真有此事而沒有被推翻</span>
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span><span class="mw-editsection"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=7" title="編輯章節：相關連結" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><a href="/%E8%85%B0%E6%96%AC" title="腰斬">腰斬</a></li>
+<li><a href="/%E5%9C%B0%E9%9B%B7" title="地雷">地雷</a></li>
+<li><a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="注釋"></span><span class="mw-headline" id=".E6.B3.A8.E9.87.8B">注釋</span><span class="mw-editsection"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=8" title="編輯章節：注釋" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">例如身為L繼承者的兩人，梅洛使用綁架、勒索和殺人的犯罪手段搶奪筆記本，尼亞各種挑撥離間的分化手段等等…雖然L本人也說不上是很正派便是</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">其實CP問題大多都是CP廚自行腦補而已，吉田基佬劇本沒監督拘束的話有正常的CP才是不正常<s>，然而女主變親媽的操作還是讓不少人汗顏</s></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">網路流傳牛媽最初只想畫高一就結束，但小學館要她繼續畫下去，所以最後乾脆亂畫一氣，小學館也以半腰斬的方式回應，最後大結局刊登甚至還不通知牛媽。</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">例子可見《<a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D" title="神奇寶貝">神奇寶貝</a>XY&amp;Z》小智飲恨得亞軍那一集，雖然箇中原因更為複雜</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">因為前十集兩人怎麼看感覺都像姐弟般的親情，而且完全沒CP感</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">身為NESTS篇的元兇イグニス思想幼稚&amp;玻璃心、大量上集的伏線未回收等</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">結果大量伏線只能看官方出的小說補完</span>
+</li>
+</ol></div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E7%88%9B%E5%B0%BE&amp;action=edit&amp;section=9" title="編輯章節：回應" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<p><a href="/%E8%A8%8E%E8%AB%96:%E7%88%9B%E5%B0%BE" title="討論:爛尾">討論:爛尾</a>
+</p>
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=爛尾&amp;oldid=394751">https://wiki.komica.org/index.php?title=爛尾&amp;oldid=394751</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E7%88%9B%E5%B0%BE"
+				data-user-name="Fmnnnn"
+				data-user-gender="unknown"
+				data-timestamp="1655194306">
+				最後編輯於 2022年6月14日 (週二) 16:11
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E7%88%9B%E5%B0%BE&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.256","ppvisitednodes":{"value":388,"limit":1000000},"ppgeneratednodes":{"value":1277,"limit":1000000},"postexpandincludesize":{"value":5335,"limit":2097152},"templateargumentsize":{"value":2482,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2489,"limit":5000000},"timingprofile":["100.00%   90.260      1 -total"," 18.28%   16.502      4 模板:Ref","  6.78%    6.121      2 模板:Color","  5.77%    5.207     14 模板:Censored","  5.16%    4.655      1 模板:H0","  2.20%    1.982      1 模板:Ruby"]},"cachereport":{"timestamp":"20221112135050","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106});});</script>		</body>
+		</html>
+		

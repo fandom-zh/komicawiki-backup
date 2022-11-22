@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>CalArts - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"CalArts","wgTitle":"CalArts","wgCurRevisionId":330159,"wgRevisionId":330159,"wgArticleId":36736,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"CalArts","wgRelevantArticleId":36736,"wgRequestId":"96c18a804af92e1d996b6b2f","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=CalArts\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=CalArts","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.page.gallery.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=CalArts&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=CalArts&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-CalArts rootpage-CalArts stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=CalArts" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">CalArts</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">加州藝術學院風（CalArts Style）/細線風格（Thin-line Style）</div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td>本條目含有<b>可能令人無法接受的藝術風格</b>，無法接受該風格的話請不要繼續看下去
+</td></tr></tbody></table><div class="floatright"><a href="/%E6%AA%94%E6%A1%88:D5ZIdRAWkAACtcn.jpg" class="image"><img alt="D5ZIdRAWkAACtcn.jpg" src="/images/thumb/6/62/D5ZIdRAWkAACtcn.jpg/300px-D5ZIdRAWkAACtcn.jpg" width="300" height="225"></a></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說（CalArts）"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA.EF.BC.88CalArts.EF.BC.89">解說（CalArts）</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=1" title="編輯章節：解說（CalArts）" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>位於美國加利福尼亞州巴倫西亞的私立藝術學院，全名「California Institute of the Arts」，簡稱「CalArts」</li>
+<li>由迪士尼的創辦人華特·迪士尼創辦，是美國第一家同時開設表演藝術/視覺藝術學位的大學。
+<ul><li>主要成立目的是為了培養迪士尼的動畫師，為美國西海岸最具影響力、資源最優的藝術學院之一，也是錄取率最低的學府之一。</li></ul></li>
+<li>以實驗動畫及角色動畫的出色而聞名，為美國動畫行業提供了大量人才，影響力頗大。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說（CalArts_Style）"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA.EF.BC.88CalArts_Style.EF.BC.89">解說（CalArts Style）</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=2" title="編輯章節：解說（CalArts Style）" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>一種在2010年初開始流行的歐美動畫風格統稱。<b>本條目的重點</b>
+<ul><li>一般認為此動畫風格的源頭出自<a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">卡通頻道</a>旗下的動畫《<a href="/%E6%8E%A2%E9%9A%AA%E6%B4%BB%E5%AF%B6" title="探險活寶">探險活寶</a>》，因為製作組有不少出身自加州藝術學院，加上探險活寶獲得大量好評，使大量工作室開始爭相模仿其風格</li></ul></li></ul><ul><li>因為氾濫過度造成大眾審美疲勞而引發非議</li></ul><h3 class="in-block"><span id="主要特徵"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E7.89.B9.E5.BE.B5">主要特徵</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=3" title="編輯章節：主要特徵" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:252px;"><a href="/%E6%AA%94%E6%A1%88:Cbd.png" class="image"><noscript><img alt="" src="/images/thumb/d/d2/Cbd.png/250px-Cbd.png" width="250" height="310" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 310px;" data-src="/images/thumb/d/d2/Cbd.png/250px-Cbd.png" data-alt="" data-width="250" data-height="310" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Cbd.png" class="internal" title="放大"></a></div>CalArts主要特徵解說<br><s>又稱：浪費21000美金去學ToonBoom</s></div></div></div></div>
+<ul><li>沒有粗細變化的線條</li>
+<li>豆形臉部、有著長條<s>毛毛蟲</s>形的嘴部<s>和爛大街的笑容</s></li>
+<li>人物身上的細節偏少</li>
+<li>高彩度的主色調</li>
+<li>角色繪製角度平面</li></ul><h3 class="in-block"><span id="相關爭議"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E7.88.AD.E8.AD.B0">相關爭議</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=4" title="編輯章節：相關爭議" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>因為CalArts Style在2010年後的美國動畫裡實在過於泛濫，有聲音指其他畫風被排擠而非議
+<ul><li>雖然有人認為肇因是CalArts人才輩出，但也有非CalArts出身的動畫人主導的作品（如《<a href="/%E7%A5%9E%E8%87%8D%E5%B0%8F%E6%8D%B2%E6%AF%9B" title="神臍小捲毛">神臍小捲毛</a>》）採用CalArts Style</li>
+<li>更甚的是一些原本不是走CalArts Style的系列作品，在推出新作動畫時也往此風格靠攏</li></ul></li></ul><ul><li>2018年5月卡通頻道公佈了<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=afaithTQSaI">《霹靂貓》系列新作《霹靂貓轟》的動畫PV</a>
+<ul><li>畫風同樣採用CalArts Style，並改走兒童搞笑風的本作，終於引爆了網路<a href="/%E9%84%89%E6%B0%91" title="鄉民">鄉民</a>對於此風格氾濫的不滿</li>
+<li>「#CalArtsStyle」被洗上推特趨勢，大量鄉民與繪師把各方<a href="/ACG" title="ACG">ACG</a><a href="/%E8%A7%92%E8%89%B2" class="mw-redirect" title="角色">角色</a>以至真實人物都統統以CalArts Style重畫以作諷刺
+<ul><li>但也有人認為CalArts Style並不是真正惹人討厭的重心，大家真正討厭的其實是伴隨CalArts Style發展同時逐漸在社會發芽、並於近年「入侵」歐美ACG領域的政治正確風氣，於是藉嘲諷CalArts Style指桑罵槐</li></ul></li>
+<li>而《霹靂貓轟》因為以上反響導致播放時間從預定的2019年被整整推遲一年後才播放。連同台的節目《少年悍將GO!》都對這次風波<s>補刀</s>嘲諷了一番。
+<ul><li>然而《少年悍將GO!》的編劇還在雙方的連動回寫出了<b><a rel="nofollow" class="external text" href="https://youtu.be/1GSQCHYOeWM">嗆粉絲是老害</a></b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>的劇情，進一步把本作夠低的期望打入谷底。</li></ul></li>
+<li>而最後在本作在首播反響不好，後續收視乏力的狀態下，確認在播出聖誕特輯後就會完結<s>，並引來了觀眾的無數鞭屍和冷嘲熱諷</s>。
+<ul><li>實際上在2020年初就有部分相關製作人員退出的消息傳出，並且負責本作的主創和製作人也已轉移到和《水行俠》相關的新項目，所以……</li></ul></li></ul></li></ul><h3 class="in-block"><span id="戲仿創作一覽"></span><span class="mw-headline" id=".E6.88.B2.E4.BB.BF.E5.89.B5.E4.BD.9C.E4.B8.80.E8.A6.BD">戲仿創作一覽</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=5" title="編輯章節：戲仿創作一覽" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>專用圖庫：<a rel="nofollow" class="external free" href="https://calartedits.booru.org/">https://calartedits.booru.org/</a></li></ul><ul class="gallery mw-gallery-traditional"></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="其他引發非議的風格"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96.E5.BC.95.E7.99.BC.E9.9D.9E.E8.AD.B0.E7.9A.84.E9.A2.A8.E6.A0.BC">其他引發非議的風格</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=6" title="編輯章節：其他引發非議的風格" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="Tumblr/政治正確畫風（Fixed_Art）"></span><span class="mw-headline" id="Tumblr.2F.E6.94.BF.E6.B2.BB.E6.AD.A3.E7.A2.BA.E7.95.AB.E9.A2.A8.EF.BC.88Fixed_Art.EF.BC.89">Tumblr/政治正確畫風（Fixed Art）</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=7" title="編輯章節：Tumblr/政治正確畫風（Fixed Art）" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>一種在Tumblr上常見到的畫風總稱，以下是島民總結出來的特徵：
+<ul><li>上色不錯但骨架和比例較差</li>
+<li>筆觸較粗糙，有待練習</li>
+<li>不照原作風格和設定繪製，更甚者還會依自己喜好亂改角色
+<ul><li>有些繪師會把既有角色加入各種符合多元價值觀的特徵，例如：增胖、改醜、加皺紋、改成黑人/黃種人等</li>
+<li><s>由於繪師水準不一，常有改得醜到讓人髮指/美到完全看不出來原形的狀況發生</s></li></ul></li></ul></li>
+<li>另外一種則是以現在主流政治正確概念設定出來的角色模版，相關事件可參照<a href="/SJW" title="SJW">SJW</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=8" title="編輯章節：相關連結" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><a rel="nofollow" class="external text" href="http://komicolle.org/c/112883">K島相關討論</a>
+<ul><li><s>自從該討論串出現後，在K島上便開始出現了眼裡除了仇視別無其他，專門獵巫CalArts的廚</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=9" title="編輯章節：回應" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:CalArts" title="討論:CalArts">討論:CalArts</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=CalArts&amp;action=edit&amp;section=10" title="編輯章節：備註" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">該回是TTG的製作方看到本作的風波後<s>跳下來火上加油</s>寫出來的，在該回播出後本作的製作人立即發文表示並未參與該集的製作<s>，結果慘遭<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a></s></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=CalArts&amp;oldid=330159">https://wiki.komica.org/index.php?title=CalArts&amp;oldid=330159</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/CalArts"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="1630746365">
+				最後編輯於 2021年9月4日 (週六) 17:06
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=CalArts&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.060","walltime":"0.156","ppvisitednodes":{"value":134,"limit":1000000},"ppgeneratednodes":{"value":931,"limit":1000000},"postexpandincludesize":{"value":921,"limit":2097152},"templateargumentsize":{"value":154,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":596,"limit":5000000},"timingprofile":["100.00%   68.380      1 -total","  7.80%    5.335      1 模板:Pcomment","  3.02%    2.067      1 模板:Youtube","  2.82%    1.928      1 模板:H0","  2.56%    1.747      1 模板:Stub_row"]},"cachereport":{"timestamp":"20221014021114","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":252});});</script>		</body>
+		</html>
+		

@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>動畫工作室 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"動畫工作室","wgTitle":"動畫工作室","wgCurRevisionId":415789,"wgRevisionId":415789,"wgArticleId":1437,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"動畫工作室","wgRelevantArticleId":1437,"wgRequestId":"48690534a5e3e24eff969671","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-動畫工作室 rootpage-動畫工作室 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">動畫工作室</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">動畫工作室/アニメスタジオ/Animation studio</div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td>以下部分歡迎各位補完，已有者便請不要重複登錄，以最先登場的媒體為準。
+</td></tr><tr><td>本條目的公司、作品名稱等一概以原文為主，但亦可在一旁附上中文譯名。
+</td></tr><tr><td>工作室經營權在此僅列出大概狀況，牽扯到高層公司的交叉持股或集團經營會太過於複雜而不予敘述。
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="日本的工作室名單"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E7.9A.84.E5.B7.A5.E4.BD.9C.E5.AE.A4.E5.90.8D.E5.96.AE">日本的工作室名單</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4&amp;action=edit&amp;section=1" title="編輯章節：日本的工作室名單" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>工作室名</th>
+<th>成立</th>
+<th>代表作</th>
+<th>簡介</th>
+<th>備註
+</th></tr><tr><td>東映アニメーション</td>
+<td>1948年1月23日</td>
+<td>《<a href="/%E4%B8%83%E9%BE%8D%E7%8F%A0" title="七龍珠">七龍珠</a>》系列<br>《<a href="/%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%A6%E5%A3%AB%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A0%E3%83%BC%E3%83%B3" title="美少女戦士セーラームーン">美少女戰士</a>》系列<br>《<a href="/%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA" title="デジモンシリーズ">數碼寶貝</a>》系列<br>《<a href="/%E5%B0%8F%E9%AD%94%E5%A5%B3DoReMi" title="小魔女DoReMi">小魔女DoReMi</a>》系列<br><a href="/%E8%88%AA%E6%B5%B7%E7%8E%8B" title="航海王">航海王</a><br>《<a href="/%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97" title="光之美少女系列">光之美少女</a>》系列</td>
+<td>東映株式會社其中一個分部，初時成立是獨立公司，後來被東映買下才更名為東映動畫。<br>日本動畫界的老大哥，畢竟歷史悠久，所以在動畫界的地位舉足輕重。<br>不少動畫公司的創立人（如︰宮崎駿、芝山努、春田克典等）或名監督（如︰佐藤順一、幾原邦彦、細田守等）都曾經加入東映動畫，可說是近代日本動畫的起始。</td>
+<td>社內超多動畫高手，<s>由於經營部超級小氣，即使超人氣作都不會有多預算</s><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>，經常出現幾個原畫師就拍完一整話動畫的神技，代表首推光美的「一人原畫」青山充，他一個人畫一整話光美被戲稱「青山<a href="/%E9%96%8B%E7%84%A1%E9%9B%99" title="開無雙">無雙</a>」。<br>大部份作品都是漫畫改編動畫或跟玩具廠商合作的子供向動畫<s>，又很喜歡把本社的不同動畫作品（甚至另一棚的<a href="/%E5%81%87%E9%9D%A2%E9%A8%8E%E5%A3%AB%E7%B3%BB%E5%88%97" title="假面騎士系列">特攝</a><a href="/%E8%B6%85%E7%B4%9A%E6%88%B0%E9%9A%8A%E7%B3%BB%E5%88%97" title="超級戰隊系列">作品</a>）串連在一起</s>。
+</td></tr><tr><td>虫プロダクション/手塚プロダクション</td>
+<td>1961年（手塚動画プロダクション）<br>1962年-1974（株式会社虫プロダクション，改名）<br>1968年（株式会社手塚プロダクション，分拆並獨立管理手塚漫畫版權）<br>1977年11月26日（虫プロダクション株式会社，手塚離職並重組後，管理舊蟲製作原創動畫版權）</td>
+<td>手塚治蟲自家漫畫作品及其改編們<br>小拳王（第一作）<br>一千零一夜<br>埃及豔后</td>
+<td>動畫界老祖宗之一，幾位動畫大師起點，如富野由悠季、安彥良和、出<s>器桶</s>崎統等，舊虫製作解散後更衍生出不少長青工作室（如SUNRISE、MADHOUSE、小丑社、京阿尼等）。<br>手塚治虫大師於此奠定下日本動畫的主流製作方式<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>，直至今日仍為日本大多數的動畫公司採用。<br>從《原子小金剛》後，電視連載動畫一週一集成為日本大多數作品依循的播放速度。</td>
+<td>現時手塚製作和新蟲製作現時除了歷史淵源及部分版權持有權問題外已經沒有任何關係，而後者更在2021年退出動畫製作。
+</td></tr><tr><td>タツノコプロ（龍之子）</td>
+<td>1962年10月19日</td>
+<td>《科學小飛俠》系列<br>《再造人卡辛》系列<br>《タイムボカン》系列<br>《超時空》系列<br>無責任艦長<br><a href="/%E9%B4%89_-KARAS-" title="鴉 -KARAS-">鴉 -KARAS-</a></td>
+<td>動畫界老祖宗之一，與東映和蟲製作一樣孕育了不少動畫師及受其影響的工作室<br>2014年1月29日由日本電視台（日本テレビ放送網，簡稱「日視」）收購並納入成為子公司。</td>
+<td>日間動畫的<a href="/%E5%BE%A1%E4%B8%89%E5%AE%B6" title="御三家">搞笑反派三人組</a>模式的創始人<br>2005年憑著《鴉 -KARAS-》高水準的作畫闖出一片天，卻因此燒光了老本(無誤)。<br>其《超時空》系列成功引進歐美市場並強行將沒有任何劇情關係的三部曲的合一再<a href="/%E7%BF%BB%E8%AD%AF%E5%86%8D%E5%89%B5%E4%BD%9C" title="翻譯再創作">在地化</a>成《Robotech》並獲得一定商業成就，成爲西方最早能廣泛接觸日本動畫的作品之一，但因爲合約條款上的問題被捲入Harmony Gold與Big West之間的版權糾紛，並間接失去了往後《<a href="/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9%CE%94" title="マクロスΔ">超時空要塞</a>》系列的版權主導權。
+</td></tr><tr><td>トムス・エンタテインメント(TMS ENTERTAINMENT CO.,LTD./TMS娛樂)</td>
+<td>1964年8月19日</td>
+<td>麵包超人<br>《信長的忍者》系列<br>潔癖男子!青山君<br>《名偵探柯南》系列<br>凡爾賽玫瑰<br>阿基拉</td>
+<td>動畫界老祖宗之一，前身為旭一編織（旭一編織），以生產人造纖維為主要業務；1995年併購東京電影新社（東京ムービー新社）股權，2000年改名營運至今。<br>公司的英語記載「TMS」，為東京電影新社(Tokyo Movie Shinsha Co., Ltd.)使用著作權記載的簡稱，從舊·東京電影製作開始動畫片1964年（昭和39年）作為歷史起點。</td>
+<td>有許多該公司製作的動畫在海外版多半是以英文標註許多的工作人員列表、而且在片名的部分也會改成海外版樣式，只有少數的除外。
+</td></tr><tr><td>SUNRISE</td>
+<td>1972年9月</td>
+<td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88%E7%B3%BB%E5%88%97" title="機動戰士鋼彈系列">機動戰士鋼彈系列</a><br><a href="/%E9%AD%94%E7%A5%9E%E8%8B%B1%E9%9B%84%E5%82%B3%E7%B3%BB%E5%88%97" title="魔神英雄傳系列">魔神英雄傳系列</a><br><a href="/%E5%8B%87%E8%80%85%E7%B3%BB%E5%88%97" title="勇者系列">勇者系列</a><br>《<a href="/%E9%96%83%E9%9B%BB%E9%9C%B9%E9%9D%82%E8%BB%8A" title="閃電霹靂車">閃電霹靂車</a>》系列<br><a href="/%E8%97%8D%E5%85%89%E4%BA%BA%E7%B3%BB%E5%88%97" title="藍光人系列">藍光人系列</a><br>星際牛仔<br>Keroro軍曹<br><a href="/%E9%8A%80%E9%AD%82" title="銀魂">銀魂</a><br><a href="/Tiger_and_Bunny" title="Tiger and Bunny">Tiger and Bunny</a><br><a href="/%E9%9D%A9%E5%91%BD%E6%A9%9FVALVRAVE" class="mw-redirect" title="革命機VALVRAVE">革命機VALVRAVE</a><br>《Code Geass》系列<br>《<a href="/LoveLive!" title="LoveLive!">LoveLive!</a>》系列</td>
+<td>一開始為創映社，後來才改名為SUNRISE。而華文界常稱曙光社。</td>
+<td>以<a href="/%E6%A9%9F%E5%99%A8%E4%BA%BA" title="機器人">機器人</a>動畫著名，近年在偶像系動畫也有亮眼的成績。<br>擁有業界首屈一指的巨大製作群，少數可以同時應付多套高質動畫同時製作而不出問題的大公司。而且比起超小氣的東映，SUNRISE很豪爽，只要能賺錢的都不手軟，<s>不過因為大股東BANDAI&amp;NAMCO的干涉相當嚴重，因此常出現讓人翻桌的劇情展開。</s>
+</td></tr><tr><td>MADHOUSE</td>
+<td>1972年10月17日（有限公司）<br>1993年10月（股份有限公司）</td>
+<td>大部分的CLAMP作品<br><a href="/BLACK_LAGOON" title="BLACK LAGOON">BLACK LAGOON</a><br>死亡筆記本<br>電腦線圈<br>《<a href="/%E4%B8%80%E6%8B%B3%E8%B6%85%E4%BA%BA" title="一拳超人">一拳超人</a>》第一季<br><br>今敏導演的動畫電影：<br>千年女優<br>東京教父<br>盜夢偵探<br><br>細田守導演的動畫電影：<br>跳躍吧!時空少女<br><a href="/%E5%A4%8F%E6%97%A5%E5%A4%A7%E4%BD%9C%E6%88%B0" title="夏日大作戰">Summer Wars</a><br>狼的孩子雨和雪<br>怪物的孩子</td>
+<td>在當時蟲製作公司面臨經營問題而成立。<br>亦是名導演的集中營，如川尻善昭、今敏、細田守等等。</td>
+<td>愛稱瘋人院或瘋房子（瘋屋）。與美國合作過驚奇漫畫和《駭客任務》的動畫版。
+</td></tr><tr><td>STUDIO DEEN</td>
+<td>1975年3月14日</td>
+<td>《亂馬1/2》系列<br>《逮捕令》系列<br>神劍闖江湖<br>《瑪莉亞的凝望》系列<br>《<a href="/%E6%88%90%E5%8F%A5/%E6%83%B3%E6%AD%BB%E4%B8%80%E6%AC%A1%E7%9C%8B%E7%9C%8B%E5%97%8E%EF%BC%9F" title="成句/想死一次看看嗎？">地獄少女</a>》系列<br>《薄櫻鬼》系列<br>《寶石寵物》第七季<br><s><a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">Fate/Stay Night</a></s> <br>《七大罪》系列（第三季起）</td>
+<td></td>
+<td>作畫時而精細時而簡略，而最大的問題在劇情節奏的掌握能力，往往結局爛尾的中段表現優秀，而結局優秀者中段過程讓人不是很好接受。<br>作為老牌動畫製作公司，相當善於控制經費<s>也就是偷懶</s>，也因此誕生了不少製作貧窮的動畫，2019~2021年的七大罪的作畫有望成為又一大黑歷史
+</td></tr><tr><td>日本アニメーション</td>
+<td>1975年6月3日</td>
+<td>世界名作劇場系列<br>未來少年<s>名偵探</s>柯南<br>櫻桃小丸子</td>
+<td></td>
+<td>
+</td></tr><tr><td>シャフト（SHAFT）</td>
+<td>1975年9月1日</td>
+<td>《<a href="/%E5%8C%96%E7%89%A9%E8%AA%9E" title="化物語">物語</a>》系列<br>《<a href="/%E3%81%B2%E3%81%A0%E3%81%BE%E3%82%8A%E3%82%B9%E3%82%B1%E3%83%83%E3%83%81" title="ひだまりスケッチ">向陽素描</a>》系列<br>《<a href="/%E7%B5%95%E6%9C%9B%E5%85%88%E7%94%9F" title="絕望先生">絕望先生</a>》系列<br>《瑪莉亞狂熱》系列<br>《<a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%BE%E3%81%A9%E3%81%8B%E2%98%86%E3%83%9E%E3%82%AE%E3%82%AB" title="魔法少女まどか☆マギカ">魔法少女小圓</a>》系列（包括<a href="/%E3%83%9E%E3%82%AE%E3%82%A2%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89" title="マギアレコード">魔法紀錄</a>）<br>突擊莉莉Asult Lily</td>
+<td>在眾公司中，作畫是一眼就能判別的特色。</td>
+<td>目前的主要監督是<a href="/%E6%96%B0%E6%88%BF%E6%98%AD%E4%B9%8B" title="新房昭之">新房昭之</a>，基本上是SHAFT作品就有新房的程度。<br>有新房參與的作品都無一例外地獲得極高評價，而脫離了新房的作品卻漸漸變得微妙起來……
+</td></tr><tr><td>PRODUCTION REED</td>
+<td>1975年12月20日</td>
+<td>《甜甜仙子》<br>《マシンロボ》系列<br>《檸檬汽水&amp;40》系列<br>萬能文化貓娘<br>《百變金剛Second》系列</td>
+<td>即是葦製作公司，很老牌的動畫工作室</td>
+<td>
+</td></tr><tr><td>シンエイ動画</td>
+<td>1976年9月9日</td>
+<td>藤子不二雄的全作品<br><a href="/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0" title="蠟筆小新">蠟筆小新</a><br><a href="/%E6%88%91%E5%80%91%E9%80%99%E4%B8%80%E5%AE%B6" title="我們這一家">我們這一家</a><br>河童之夏<br><a href="/PUI_PUI_%E5%A4%A9%E7%AB%BA%E9%BC%A0%E8%BB%8A%E8%BB%8A" title="PUI PUI 天竺鼠車車">PUI PUI 天竺鼠車車</a></td>
+<td>雖然藝術水準不高，但主力是兒童番和家庭向番而在亞洲地區很出名。由於大多數時間都在製作萬年長壽番，所以很少參與季番或深夜番。</td>
+<td>其中芝山努導演過第4部至第25部哆啦A夢劇場版，並將宮崎駿視為自己的競爭對手。
+</td></tr><tr><td>亞細亞堂</td>
+<td>1978年10月4日</td>
+<td>忍者亂太郎<br>怪俠佐羅利<br>英國戀物語艾瑪 第二幕<br>《夢幻慶典》系列 <br>異世界魔王與召喚少女的奴隸魔術</td>
+<td>不論兒童番、家庭向番、季番或深夜番也難不倒他們的百變動畫工作室</td>
+<td>
+</td></tr><tr><td>株式會社GALLOP</td>
+<td>1978年12月13日</td>
+<td>緞帶魔法姬<br>小紅帽恰恰<br>守護天使莉莉佳<br>玩偶遊戲<br>頭文字D<br> 由《怪獸之決鬥》開始的《<a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B" title="遊☆戯☆王">遊戲王</a>》系列<br>動物小町</td>
+<td>90年代以製作少女漫畫雜誌《Ribon》改編動畫聞名，但現時主要業務偏向Konami爲主</td>
+<td>
+</td></tr><tr><td>ぴえろ<br>PIERROT</td>
+<td>1979年5月</td>
+<td>《ぴえろ魔法少女》系列<br>《福星小子》前期<br>幽遊白書<br><a href="/%E6%AD%BB%E7%A5%9E" title="死神">死神</a><br>十二國記<br>火影忍者<br>東京喰種<br>即使如此世界依然美麗</td>
+<td>偶爾會有神奇的崩壞，主要出現在打鬥密集的時候，出現的最多也最出名的是《火影忍者》。另外的特色就是原創長篇過多，尤其是《火影忍者》和《死神》，天馬行空的程度讓很多觀眾有中風的危險。<s>好戲拖成歹戲，歹戲拖成爛戲</s></td>
+<td>暱稱小丑社。已有觀眾做出火影崩壞一覽的圖集。
+</td></tr><tr><td>Anime International Company</td>
+<td>1982年7月15日</td>
+<td>《天地無用!》系列<br>《神秘的世界》系列<br>吹波糖危機<br>《幸運女神》全新系列<br>《女孩萬歲》系列</td>
+<td>簡稱AIC<br>少數會同時製作18禁動畫的公司(!)<br>2000年代一度壯大坐擁8條製作線，但因其母公司經營不善導致牽連其財政狀況出現問題，後被社長回購並重組成現時只作版權保護及有限度動畫製作的半空殼狀態</td>
+<td>
+</td></tr><tr><td>GAINAX</td>
+<td>1984年12月24日</td>
+<td>海底兩萬哩<br>《勇往直前》系列<br><a href="/%E6%96%B0%E4%B8%96%E7%B4%80%E7%A6%8F%E9%9F%B3%E6%88%B0%E5%A3%AB" title="新世紀福音戰士">新世紀福音戰士</a><br><a href="/%E5%A4%A9%E5%85%83%E7%AA%81%E7%A0%B4" class="mw-redirect" title="天元突破">天元突破</a><br><a href="/%E3%83%91%E3%83%B3%E3%83%86%E3%82%A3%EF%BC%86%E3%82%B9%E3%83%88%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0with%E3%82%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%99%E3%83%AB%E3%83%88" title="パンティ＆ストッキングwithガーターベルト">吊帶襪天使</a></td>
+<td>由岡田斗司夫、庵野秀明、赤井孝美、樋口真嗣創立的第一代御宅動畫工作室<br>另外也有開發過電腦遊戲，代表作為曾一度救起該公司財務困難令EVA得以問世的《<a href="/%E7%BE%8E%E5%B0%91%E5%A5%B3%E5%A4%A2%E5%B7%A5%E5%BB%A0" title="美少女夢工廠">美少女夢工廠</a>》</td>
+<td>由《王立宇宙軍》開始就和赤字脫不了關係的問題公司，作品個人風格強烈但卻不怎麼賺錢，直到EVA之後才回到正軌，但之後又陷入赤字死胡同之中。 <br>在2010年代開始主力工作人員接連出走，至2015年製作放學後的昴宿星團電視動畫版後已經等同沒在製作動畫，最後在2019年年末爆發社長性騷擾事件後，因為當時新聞報導把EVA又扯進來，作為版權持有者的庵野才抖出更多內幕讓不少粉絲瞠目結舌<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>。
+</td></tr><tr><td>STUDIO COMET</td>
+<td>1986年1月21日</td>
+<td>《<a href="/%E6%A0%A1%E5%9C%92%E8%BF%B7%E7%B3%8A%E5%A4%A7%E7%8E%8B" title="校園迷糊大王">校園迷糊大王</a>》系列<br>《我愛美樂蒂》系列<br>《寶石寵物》第一至第六季</td>
+<td>以製作sanrio角色改編動畫聞名，但現時主要業務偏向腐系動畫或協助其他製作組爲主。</td>
+<td>
+</td></tr><tr><td>カラー</td>
+<td>2006年5月</td>
+<td><a href="/%E6%96%B0%E4%B8%96%E7%B4%80%E7%A6%8F%E9%9F%B3%E6%88%B0%E5%A3%AB" title="新世紀福音戰士">福音戰士新劇場版</a><br><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88UC" title="機動戰士鋼彈UC">機動戰士鋼彈UC</a>（製作協力）</td>
+<td>幾乎可說是庵野秀明個人的公司，作品多半跟EVA有關，不過也有幫其他動畫公司製作動畫</td>
+<td>主要是庵野希望能夠改善待遇並培養新一代動畫人而創設的公司。<br>另外名字很常被誤以為是從英文的Color（顏色）而來，但實際上是身兼公司董事的庵野之妻安野モヨコ從希臘文的χαρα（Khara，歡喜之意）取的，順帶一提公司的LOGO也是她設計的。<br>目前EVA系列的版權由該公司持有。
+</td></tr><tr><td>TRIGGER</td>
+<td>2011年8月22日</td>
+<td><a href="/KILL_la_KILL" title="KILL la KILL">KILL la KILL</a><br><a href="/%E3%83%AA%E3%83%88%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2" title="リトルウィッチアカデミア">小魔女學園</a><br><a href="/%E5%BF%8D%E8%80%85%E6%AE%BA%E6%89%8B" class="mw-redirect" title="忍者殺手">NINJA SLAYER忍者殺手</a><br>《SSSS》系列（<a href="/SSSS.GRIDMAN" title="SSSS.GRIDMAN">SSSS.GRIDMAN</a>、<a href="/SSSS.DYNAZENON" title="SSSS.DYNAZENON">SSSS.DYNAZENON</a>）<br><a href="/PROMARE" title="PROMARE">PROMARE</a><br><a href="/%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2%EF%BC%9A%E9%82%8A%E7%B7%A3%E8%A1%8C%E8%80%85" title="電馭叛客：邊緣行者">電馭叛客：邊緣行者</a><br><a href="/%E8%BF%B7%E5%AE%AE%E9%A3%AF" title="迷宮飯">迷宮飯</a></td>
+<td>通稱「扳機社」，由《天元突破》的導演今石洋之帶領部分動畫工作人員從GAINAX獨立出去的公司。</td>
+<td>由於有GAINAX的經驗所以拍動畫比較小心，但還是保留GAINAX那種強烈的個人風格。
+</td></tr><tr><td>Gaina</td>
+<td>2014年11月</td>
+<td></td>
+<td></td>
+<td>原先是位於福島的GAINAX分社，之後獨立成子公司Gaina
+</td></tr><tr><td><a href="/%E5%90%89%E5%8D%9C%E5%8A%9B%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="吉卜力工作室">スタジオジブリ</a></td>
+<td>1985年6月</td>
+<td colspan="3">詳見條目
+</td></tr><tr><td><a href="/%E4%BA%AC%E9%98%BF%E5%B0%BC" class="mw-redirect" title="京阿尼">京都動畫</a></td>
+<td>1985年7月12日</td>
+<td colspan="3">詳見條目
+</td></tr><tr><td>STUDIO 4℃</td>
+<td>1986年<br>1999年12月24日（有限会社スタジオよんどしい）</td>
+<td>魔法少女隊<br>MEMORIES<br>轟天高校生<br>惡童</td>
+<td></td>
+<td>代表人物為森本晃司。
+</td></tr><tr><td>WHITE FOX</td>
+<td>2007年4月</td>
+<td><a href="/%E5%88%80%E8%AA%9E" title="刀語">刀語</a><br><a href="/Steins;Gate" title="Steins;Gate">命運石之門</a><br>軍火女王<br><a href="/%E6%89%93%E5%B7%A5%E5%90%A7%EF%BC%81%E9%AD%94%E7%8E%8B%E5%A4%A7%E4%BA%BA" title="打工吧！魔王大人">打工吧！魔王大人</a><br><a href="/%E8%AB%8B%E5%95%8F%E6%82%A8%E4%BB%8A%E5%A4%A9%E8%A6%81%E4%BE%86%E9%BB%9E%E5%85%94%E5%AD%90%E5%97%8E%EF%BC%9F" title="請問您今天要來點兔子嗎？">請問您今天要來點兔子嗎？</a><br>Re:從零開始的異世界生活</td>
+<td>由下面的OLM的一個製作團隊獨立出來<br>作畫品質直逼Production I.G，在3D以及背景方面極其出色。尤其是《命運石之門》中的機械，《軍火女王》中的刀槍，細緻得讓人陶醉。而所改編的動畫往往讓人氣高到逆流回原作，以《命運石之門》為代表。</td>
+<td>中文稱白狐社，一開始由於作品遲遲沒有在華語區播出或配音，導致對島民來說<a href="/%E7%A9%BA%E6%B0%A3%E7%8E%8B" title="空氣王">影薄</a>。加上作品數量不多，留下印象的機率更低了。直到點兔與Re:0撥出才在華語圈打出名氣。
+</td></tr><tr><td>J.C.STAFF</td>
+<td>1986年1月</td>
+<td>《魔術士歐菲》系列<br>《秀逗魔導士》系列<br>少女革命<br>笑園漫畫大王<br>《零之使魔》系列<br>《<a href="/%E7%81%BC%E7%9C%BC%E7%9A%84%E5%A4%8F%E5%A8%9C" title="灼眼的夏娜">灼眼的夏娜</a>》系列<br>《<a href="/%E3%81%A8%E3%81%82%E3%82%8B%E9%AD%94%E8%A1%93%E3%81%AE%E7%A6%81%E6%9B%B8%E7%9B%AE%E9%8C%B2" title="とある魔術の禁書目録">魔法禁書目錄</a>》、《<a href="/%E3%81%A8%E3%81%82%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%AE%E8%B6%85%E9%9B%BB%E7%A3%81%E7%A0%B2" title="とある科学の超電磁砲">科學超電磁砲</a>》系列<br><a href="/TIGER%C3%97DRAGON%EF%BC%81" class="mw-redirect" title="TIGER×DRAGON！">虎與龍</a><br>《一拳超人》第二季<br><s>《月姬》沒有動畫</s></td>
+<td>通稱「節操社」（JC的音譯），擁有多條流水線的廉價動畫工廠，業界富士康，產量非常高，經常一季多開<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>，以致很多作品制作資源緊張且劇情極度壓縮。<br>以<s>散播<a href="/%E9%87%98%E5%AE%AE%E7%97%85" title="釘宮病">釘宮病</a></s>改編輕小說著名。<br>經常<a href="/%E5%8E%9F%E5%89%B5%E9%A2%A8%E8%A1%8C" title="原創風行">原創風行</a><s>無視原作腳本</s>的動畫制作公司。</td>
+<td>其評價在島民中頗微妙，和其它動制作組不同，JC作畫比較穩定，很少<a href="/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="作畫崩壞">作畫崩壞</a>，但卻經常出現劇情崩壞<br>小至劇情刪剪、劣質分鏡<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>、節奏及劇情量錯配、以致殺傷力極大的劇情崩潰/原創劇情暴走往往直接影響到一部動畫的評價，使J.C.有「原作粉碎機」之稱，每當大熱門作品被JC選中動畫化時，網絡更無不哀嗚遍野。但有時卻又能生出優良的作品（通常都是由長井龍雪執導）<br>《虎與龍》便號稱是J.C.有史以來最大良心作。此外<s>雖然劇情很迷但</s>《少女革命》也被認為是J.C.少有的經典之作。<br>時而多開全員崩盤（魔法禁書目錄3、約會大作戰3、一拳超人2），時而多開表現出色（地下城尋求邂逅2、街角魔族），總體讓人感到是個水平飄忽不定的公司。
+</td></tr><tr><td>Production I.G</td>
+<td>1987年12月15日</td>
+<td>《攻殼機動隊》系列<br>《機動警察》劇場版<br>《BLOOD（血戰）》系列<br>東之伊甸<br>罪惡王冠<br>《<a href="/%E6%88%B0%E5%9C%8BBASARA" title="戰國BASARA">戰國BASARA</a>》舊系列<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><br><a href="/PSYCHO-PASS" title="PSYCHO-PASS">PSYCHO-PASS</a><br>排球少年<br>強風吹拂<br><a href="/%E5%BD%B1%E5%AD%90%E7%B1%83%E7%90%83%E5%93%A1" title="影子籃球員">影子籃球員</a><br>雙面騎士<br>《XXXHOLiC》系列<br>《<a href="/%E5%82%B3%E5%A5%87%E7%B3%BB%E5%88%97" title="傳奇系列">Tales</a>》系列作中的動畫<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td>
+<td>自龍之子Production分拆而成，最早的名字是IG龍之子（IGタツノコ）。<br>因為縮寫是PIG所以也有人稱呼這家公司是小豬公司。</td>
+<td>不論什麼樣<s>再爛</s>的作品都能保持穩定優秀的畫質，不過偶爾會做出讓人看得一頭霧水+不知所云的<a href="/%E7%A7%91%E5%B9%BB" title="科幻">科幻</a>片或是<a href="/%E5%A5%87%E5%B9%BB" title="奇幻">奇幻</a>片（代表作是罪惡王冠）。 擅長用金屬光澤表現出華麗蒼涼的感覺，例如《攻殼機動隊》中的網路世界、《罪惡王冠》中的病毒結晶。另外CG技術在業界首屈一指。
+</td></tr><tr><td>XEBEC</td>
+<td>1995年5月</td>
+<td>《機動戰艦》系列<br>《<a href="/%E8%92%BC%E7%A9%B9%E4%B9%8B%E6%88%B0%E7%A5%9E" title="蒼穹之戰神">蒼穹之戰神</a>》系列<br>英雄時代<br>《出包王女》系列<br>《輪迴的拉格朗日》系列</td>
+<td>Production I.G的全資子公司，目前已解散<br>其後期製作團隊被SUNRISE收編成Sunrise Beyond，未被收購的作品版權則回歸P.I.G，蒼穹之戰神系列則由練馬工作室獨立出來的品牌IGZwei<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>繼續製作。</td>
+<td>作畫超不穩，常崩得很誇張，但卻常有意外驚喜。
+</td></tr><tr><td>OLM</td>
+<td>1994年6月</td>
+<td>《<a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D" title="神奇寶貝">神奇寶貝</a>》系列<br>《<a href="/%E7%9B%B4%E6%93%8A%E5%BF%83%E8%87%9F" title="直擊心臟">To Heart</a>》系列<br>《塔麻可吉!》系列<br>《<a href="/%E9%96%83%E9%9B%BB%E5%8D%81%E4%B8%80%E4%BA%BA" title="閃電十一人">閃電十一人</a>》系列<br>《<a href="/%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E6%88%A6%E6%A9%9F" title="ダンボール戦機">紙箱戰機</a>》系列</td>
+<td>90年代業界進入全數碼化製作的領頭羊者之一<br>製作體制最大特色是製作團隊是以主導的製作人爲一個單位</td>
+<td>以專注製作大量日間兒童向長篇作品（多爲電玩/玩具/小學館作品改編）與穩定作畫著稱，與level5和神奇寶貝關係親密得成爲實際上的御用動畫製作公司。
+</td></tr><tr><td>ANIPLEX</td>
+<td>1995年9月</td>
+<td>《<a href="/%E6%88%91%E7%9A%84%E5%A6%B9%E5%A6%B9%E5%93%AA%E6%9C%89%E9%82%A3%E9%BA%BC%E5%8F%AF%E6%84%9B%EF%BC%81" class="mw-redirect" title="我的妹妹哪有那麼可愛！">我的妹妹哪有那麼可愛！</a>》系列<br>《動畫的力量》系列</td>
+<td></td>
+<td>現在動畫製作主要交給子公司A-1 Pictures負責。
+</td></tr><tr><td>SATELIGHT</td>
+<td>1995年12月</td>
+<td>《<a href="/AQUARION" title="AQUARION">創聖機械天使</a>》系列<br>《<a href="/%E5%AE%88%E8%AD%B7%E7%94%9C%E5%BF%83%EF%BC%81" title="守護甜心！">守護甜心</a>》系列<br>FAIRY TAIL<br>超時空要塞Frontier<br>《<a href="/%E6%88%B0%E5%A7%AC%E7%B5%95%E5%94%B1SYMPHOGEAR" title="戰姬絕唱SYMPHOGEAR">戰姬絕唱SYMPHOGEAR</a>》系列</td>
+<td></td>
+<td>暱稱「衛星社」。
+</td></tr><tr><td>BONES</td>
+<td>1998年10月</td>
+<td>天使領域<br>《翼神世音》系列<br>狼雨<br>《鋼之煉金術師》系列<br>《交響詩篇》系列<br>廢棄公主<br>《DARKER THAN BLACK》系列<br>獸王星<br>櫻蘭高校男公關部<br><a href="/%E7%B5%95%E5%9C%92%E7%9A%84%E6%9A%B4%E9%A2%A8%E9%9B%A8" title="絕園的暴風雨">絕園的暴風雨</a><br>我的英雄學院<br>路人超能100<br>《文豪Stray Dogs》系列<br>《<a href="/%E8%A1%80%E7%95%8C%E6%88%B0%E7%B7%9A" title="血界戰線">血界戰線</a>》系列 <br>卡羅爾與圖絲黛<br>SK8 the Infinity</td>
+<td>由Sunrise第二工作室獨立而成。酷愛機戰、格鬥戲，以戰鬥分鏡出色聞名。</td>
+<td>島民愛稱骨頭社（無誤，社長的確取其意為該公司命名），基本上作畫相當的精良，而且作品特色度也較其他工作室強烈，不論是漫改或是原創動畫幾乎都能得到不錯的評價。
+</td></tr><tr><td>GONZO</td>
+<td>2000年2月29日</td>
+<td><a href="/Hellsing" title="Hellsing">厄夜怪客</a><br>《最終流亡》系列<br>萬花筒之星<br>黑貓<br>羅密歐×茱麗葉<br>風之聖痕<br>地球防衛少年<br>最終兵器彼女<br>驚爆危機》<br>《<a href="/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA" title="ストライクウィッチーズ">強襲魔女</a>》系列</td>
+<td>畫質非好即崩，但佳作的動作戲都很優秀。<br><s>應該說佳作一切OK，崩作全部爛光。</s></td>
+<td><s>GONZO已死有事燒紙。</s>由於經營不善而在2009年以降一番波折，雖然最終家名不墮但是已經淪為外包公司。<br>同時也有不少人認為老GONZO真正的繼承人是Studio五組。<br>其實問題主要是GONZO還沒站穩腳步就先做了一大堆過度實驗性的原創動畫系列，但沒做好之餘商業成績又不佳，才導致自身經營陷入危機。
+</td></tr><tr><td>Studio五組</td>
+<td>2010年5月</td>
+<td>A Channel<br>《<a href="/%E5%92%B2-Saki-" title="咲-Saki-">咲-Saki-</a>》系列<br>織田信奈的野望（MADHOUSE共同製作）<br>斷裁分離的罪惡之剪<br>黃金拼圖<br><a href="/%E7%B5%90%E5%9F%8E%E5%8F%8B%E5%A5%88%E6%98%AF%E5%8B%87%E8%80%85" title="結城友奈是勇者">結城友奈是勇者</a></td>
+<td>原本是老GONZO的第五工作室。</td>
+<td>GONZO在遭遇經營危機後出走自立的團隊，也是GONZO製作《強襲魔女》和《咲-Saki-》的實際主力。
+</td></tr><tr><td>ufotable</td>
+<td>2000年10月</td>
+<td><a href="/Fate/Zero" title="Fate/Zero">Fate/Zero</a><br><a href="/Fate/stay_night" title="Fate/stay night">Fate/stay night</a><br>《空之境界》劇場版<br>《Tales of Xillia》開始的<a href="/%E5%82%B3%E5%A5%87%E7%B3%BB%E5%88%97" title="傳奇系列">傳奇系列</a><br><a href="/%E5%99%AC%E7%A5%9E%E8%80%85" title="噬神者">噬神戰士</a><br><a href="/%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83" title="鬼滅之刃">鬼滅之刃</a><br>活擊 <a href="/%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E" title="刀劍亂舞">刀劍亂舞</a></td>
+<td>從《空之境界》開始3D場景及特效、用色皆成為其特色之一。打鬥戲極其好看，不少觀眾奔著這點而來，而被剪輯下來的部分在Youtube上都有著驚人的點閱率。<s>但在2015，那位負責打鬥的畫師跳槽了的樣子</s><br>製作《鬼滅之刃》時結合了日本浮世繪風格的3D特效在日本動畫圈引起轟動</td>
+<td>通稱「幽浮桌」，纖細的作畫品質讓不少觀眾擔心他們燒光老本。<br><s>傳奇系列的人設更被傳奇玩家評為拯救藤島怪異人設的救世主。</s><br>很擅長利用電腦特效和光影去彌補動作處理及分鏡偏弱的問題，不過也因為其光影運用過頭，也有一部份負面評論認為ufotable的動畫根本處處<b>光汙染</b>。<br><a rel="nofollow" class="external text" href="http://news.livedoor.com/article/detail/16227876/">2019年發生懷疑逃税以及社長疑似私吞慈善拍賣所得利益的嫌疑風波。</a><br><a rel="nofollow" class="external text" href="https://www3.nhk.or.jp/news/html/20200603/k10012456161000.html">在上述事件後隔年2020年針對逃漏稅問題東京國稅局已於6月3日正式向檢方告發此案件。</a>
+</td></tr><tr><td>P.A. Works</td>
+<td>2000年11月10日</td>
+<td>CANAAN<br>麻枝准<s><a href="/%E7%88%9B%E5%B0%BE" title="爛尾">爛尾</a></s>三部曲（<a href="/Angel_Beats!" title="Angel Beats!">Angel Beats!</a>、Charlotte、成神之日）<br>花開物語<br><a href="/Another" title="Another">Another</a><br>有頂天家族<br>SHIROBAKO<br>來自風平浪靜的明天<br>來自繽紛世界的明天<br>櫻花任務<br>《<a href="/%E8%B3%BD%E9%A6%AC%E5%A8%98_Pretty_Derby" title="賽馬娘 Pretty Derby">賽馬娘 Pretty Derby</a>‎‎》‎第一季<br>天狼 Sirius the Jaeger<br>Faily Gone<br>《A3！》系列<br>天晴爛漫<br>白砂水族館<br><a href="/%E6%B4%BE%E5%B0%8D%E5%92%96%E5%AD%94%E6%98%8E" title="派對咖孔明">派對咖孔明</a><br><a href="/%E7%A7%8B%E8%91%89%E5%8E%9F%E5%86%A5%E9%80%94%E6%88%B0%E7%88%AD" title="秋葉原冥途戰爭">秋葉原冥途戰爭</a></td>
+<td>本社位於北陸富山市，由於處於偏遠地區所以有很大的工作室以及宿舍提供，亦有完整的動畫師訓練方案，是少數認真地為動畫界提供新力量動畫工作室。</td>
+<td>採用類似京阿尼的經營模式，產量慢但作畫品質相檔穩健，擅長處理<s>貴圈真亂</s>小品戀愛和職場女性題材。<br>近年開始涉足原創戰鬥題材，但評價相當微妙…<br>即使不涉及戰鬥題材也誕生了《成神之日》這樣微妙的作品<s>雖然基本上是麻枝准的問題就是了</s><br>自《春夏推理事件簿》以後銷量暴死的光環越來越重，但《賽馬娘》卻成為近年來少數大賣的例子<br>2022年的《派對咖孔明》是首次的漫改動畫。
+</td></tr><tr><td>NOMAD</td>
+<td>2003年7月</td>
+<td>《<a href="/%E8%96%94%E8%96%87%E5%B0%91%E5%A5%B3" title="薔薇少女">薔薇少女</a>》系列<br>《肯普法》系列</td>
+<td></td>
+<td>
+</td></tr><tr><td>A-1 Pictures</td>
+<td>2005年5月9日</td>
+<td>《王牌投手 振臂高揮》系列<br>《<a href="/WORKING!!%E8%BF%B7%E7%B3%8A%E9%A4%90%E5%BB%B3" title="WORKING!!迷糊餐廳">WORKING!!</a>》系列<br>我們仍未知道那天所看見的花的名字。<br>《歌之王子殿下》系列<br><a href="/%E5%8F%AC%E5%96%9A%E6%83%A1%E9%AD%94" title="召喚惡魔">召喚惡魔</a><br><a href="/%E5%AE%87%E5%AE%99" title="宇宙">宇宙</a>兄弟<br>《<a href="/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F" title="刀劍神域">刀劍神域</a>》系列<br>MAGI魔奇少年<br>《黑執事》系列<br>《<a href="/%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%AB" class="mw-redirect" title="偶像大師">偶像大師</a>》系列<br>輝夜姬想讓人告白<br><a href="/86-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-" title="86-不存在的戰區-">86-不存在的戰區-</a></td>
+<td>近年高速崛起的新公司（ANIPLEX+SONY的動畫事業部）。<s>少數不用為預算傷腦筋的公司</s><br>作品的品質<a href="/%E6%99%AE%E9%80%9A" title="普通">普遍</a>穩定並偶有佳作（像是未聞花名）<br>唯一在產量上能夠與JC STAFF比高下的流水線動畫工廠。</td>
+<td><s>業界有名的黑心企業</s>因快速崛起+大量採用傭兵制度製作動畫而造成某些作品（像是《刀劍神域》和《MAGI魔奇少年》）得到毀譽參半的評價。<br>甚至被某些島民稱為第2間J.C STAFF（原作粉碎機的意味）。<br><s>通常日常類沒有什麼問題，但劇情類就…</s>&lt;<br>實際上根據部分島民的研究，因為多產所以作畫品質會有「主力」與「非主力」的差別，非主力的狀況下作畫崩壞是家常便飯，但主力作品作畫可以從第一集穩到最後一集，而且偶有驚人表現，像<a href="/Fate/Apocrypha" title="Fate/Apocrypha">F/AP</a>雖然一整部都在崩壞，不過23話迦爾納和齊格飛的對決場面就讓無數島民甘拜下風，順帶一提同季播出的<a href="/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_SideM" title="アイドルマスター SideM">偶像大師SideM</a>雖使用很多2D繪製的Live畫面但幾乎沒什麼崩壞。
+</td></tr><tr><td>Brain's Base</td>
+<td>2005年10月5日</td>
+<td>神樣中學生<br>《夏目友人帳》系列<br><a href="/%E7%84%A1%E9%A0%AD%E9%A8%8E%E5%A3%AB%E7%95%B0%E8%81%9E%E9%8C%84_DuRaRaRa!!" title="無頭騎士異聞錄 DuRaRaRa!!">無頭騎士異聞錄 DuRaRaRa!!</a><br>神樣DOLLS<br>IXION SAGA DT<br>果然我的青春戀愛喜劇搞錯了</td>
+<td></td>
+<td>
+</td></tr><tr><td>ディオメディア（Diomedéa）</td>
+<td>2005年10月5日</td>
+<td>乃木坂春香的秘密<br><a href="/%E4%BE%B5%E7%95%A5%EF%BC%81%E3%82%A4%E3%82%AB%E5%A8%98" class="mw-redirect" title="侵略！イカ娘">侵略!花枝娘</a><br>問題兒童都來自異世界？<br><a href="/%E8%89%A6%E9%9A%8ACollection_(%E5%8B%95%E7%95%AB%E7%89%88)" title="艦隊Collection (動畫版)">艦隊Collection (動畫版)</a></td>
+<td></td>
+<td>作畫和經費都有保證，但自2015年起負責的作品大多口碑爆死，因此得到「暴死社」的稱呼。
+</td></tr><tr><td>David Production</td>
+<td>2007年9月</td>
+<td>《<a href="/JOJO%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%9A%AA" title="JOJO的奇妙冒險">JOJO的奇妙冒險</a>》TV動畫版<br><a href="/%E3%83%99%E3%83%B3%E3%83%BB%E3%83%88%E3%83%BC" class="mw-redirect" title="ベン・トー">便·當</a><br>妖狐×僕SS<br><a href="/%E5%B7%A5%E4%BD%9C%E7%B4%B0%E8%83%9E" title="工作細胞">工作細胞</a><br>炎炎消防隊</td>
+<td>通稱「大衛社」，由GONZO旗下兩間工作室獨立出來<br>現爲富士電視台旗下動畫工作室<br>獨立企劃不多，主要參與協力製作與改編動畫。</td>
+<td>在改編作品上有著相當高的還原度，其中JOJO動畫版「<a href="/%E5%85%AC%E5%BC%8F%E3%81%8C%E7%97%85%E6%B0%97" title="公式が病気">有病</a>」一般的還原度（稱讚的意味）而受到觀眾好評。
+</td></tr><tr><td>神風動畫</td>
+<td>2003年5月21日</td>
+<td>《JOJO的奇妙冒險》前三部與第六部TV動畫版OP<br><a href="/POP_TEAM_EPIC" title="POP TEAM EPIC">POP TEAM EPIC</a><br>忍者蝙蝠俠</td>
+<td>3D動畫工作室，原創多為短篇，另外也以協助其他工作室為主</td>
+<td>因為JOJO三部作的OP十分還原原作的畫風與劇情重點<s><a href="/%E4%B8%96%E7%95%8C" title="世界">世界</a>的<a href="/%E5%8A%9B%E9%87%8F" title="力量">力量</a>是連OP都能支配的力量啊！</s>，因而獲得不少好評。<br>POP TEAM EPIC則是糞到無需多述（褒義）
+</td></tr><tr><td>SILVER LINK.</td>
+<td>2007年12月</td>
+<td>《<a href="/%E7%AC%A8%E8%9B%8B%EF%BC%8C%E6%B8%AC%E9%A9%97%EF%BC%8C%E5%8F%AC%E5%96%9A%E7%8D%B8" title="笨蛋，測驗，召喚獸">笨蛋，測驗，召喚獸</a>》系列<br>《魔法少女伊莉雅》系列</td>
+<td></td>
+<td>通稱「銀鏈社」
+</td></tr><tr><td>GoHands</td>
+<td>2008年8月</td>
+<td><a href="/%E7%94%9F%E5%BE%92%E4%BC%9A%E5%BD%B9%E5%93%A1%E5%85%B1" title="生徒会役員共">妄想學生會</a><br><a href="/K_(%E5%8B%95%E7%95%AB)" title="K (動畫)">K</a><br>核爆末世錄<br>Hand Shakers</td>
+<td>以色彩極度鮮明<s>光污染</s>的作畫、背景與運鏡為特色。<s>病態的肢體表現</s></td>
+<td>基本上作畫和製作水準都相當高，只是除了光污染被島民們討論外，GoHands近期主要的批評都集中在劇中人物服裝和拍攝姿勢抄襲時裝雜誌抄的太過火，結果導致《東京巴比倫》新一季TV動畫被迫延後播出而成為該社的黑歷史汙點之一。<br>另一方面也有人認為GoHands除了《K》之外，近期幾乎沒有讓人耳目一新的大作，結果只能頻頻吃《K》的老本。
+</td></tr><tr><td>WIT STUDIO</td>
+<td>2012年6月1日</td>
+<td>《<a href="/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA" title="進擊的巨人">進擊的巨人</a>》前三季<br>鬼灯的冷徹<br>魔法使的新娘<br>Vinland Saga 海盜戰記<br>Vivy -Fluorite Eye's Song-<br>國王排名</td>
+<td>Production I.G六課的STAFF們獨立出去的IG子公司。</td>
+<td>通稱「霸權社」，目前轉和Netflix合作。
+</td></tr><tr><td>三次元</td>
+<td>2006年3月</td>
+<td>天元突破（製作協力）<br>KILL La KILL（製作協力）<br>黑岩射手（與Ordet合作）<br><a href="/%E8%92%BC%E3%81%8D%E9%8B%BC%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%9A%E3%82%B8%E3%82%AA" class="mw-redirect" title="蒼き鋼のアルペジオ">蒼藍鋼鐵戰艦 -Ars Nova-</a></td>
+<td>3D動畫工作室，一開始以協助其他工作室為主，後來在《黑岩射手》、《蒼藍鋼鐵戰艦》之後也開始自行製作動畫。</td>
+<td>因為就在Ordet與Trigger隔壁<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>，所以三家公司經常會互相委託（通常是Ordet與Trigger委託三次元做3DCG）
+</td></tr><tr><td>動畫工房</td>
+<td>1973年7月</td>
+<td>Myself ; Yourself<br>《<a href="/%E8%BC%95%E9%AC%86%E7%99%BE%E5%90%88" title="輕鬆百合">輕鬆百合</a>》系列<br>《戀姬無雙》系列<br><a href="/%E5%B9%B2%E7%89%A9%E5%A6%B9%EF%BC%81%E3%81%86%E3%81%BE%E3%82%8B%E3%81%A1%E3%82%83%E3%82%93" title="干物妹！うまるちゃん">干物妹小埋</a><br><a href="/NEW_GAME!" title="NEW GAME!">NEW GAME!</a><br><a href="/%E6%9C%88%E5%88%8A%E5%B0%91%E5%A5%B3%E9%87%8E%E5%B4%8E%E5%90%9B" title="月刊少女野崎君">月刊少女野崎君</a><br><a href="/%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E" title="刀劍亂舞">刀劍亂舞</a>-花丸-<br>天使降臨到我身邊！<br>流汗吧！健身少女<br>戀愛小行星</td>
+<td>原身為古澤日出夫在退出東映動畫後創立的「古澤動畫工房」，在過身後才更名為現在的名字。</td>
+<td>近年以製作百合<s>難民</s>番為主，且大部分都能坐擁高熱度而聞名，與芳文社漫畫的合作幾乎是家常便飯。<br><s>百合工房、蘿莉工房</s>
+</td></tr><tr><td>MAPPA</td>
+<td>2011年6月14日</td>
+<td>Yuri !!! on ICE<br><a href="/%E7%89%99%E7%8B%BC%E3%80%88GARO%E3%80%89#.E5.8B.95.E7.95.AB" class="mw-redirect" title="牙狼〈GARO〉">《牙狼〈GARO〉》動畫版</a><br><a href="/%E5%A4%9A%E7%BE%85%E7%BE%85" title="多羅羅">多羅羅</a><br>《巴哈姆特之怒》前2季<br>狂賭之淵<br><a href="/%E4%BD%90%E8%B3%80%E5%81%B6%E5%83%8F%E6%98%AF%E5%82%B3%E5%A5%87" title="佐賀偶像是傳奇">佐賀偶像是傳奇</a><br>高校之神<br>異獸魔都<br><a href="/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0" title="咒術迴戰">咒術迴戰</a><br>進擊的巨人（最終季）<br><a href="/%E9%8F%88%E9%8B%B8%E4%BA%BA" title="鏈鋸人">鏈鋸人</a></td>
+<td>傳奇製作人丸山正雄離開MADHOUSE後開的工作室。</td>
+<td>本著「有缺陷但充滿魅力」為原則，常拍出讓人驚艷的好作品。<br>製作上在業界是一流水平，打鬥作畫極盡流暢和高經費製作聞名，但在劇本的改編上被人詬病（如高校之神、巴哈姆特之怒第二季），剛成立初期也有獻祭同期番劇的製作花在另一部上而造就一堆作畫崩壞鏡頭（如牙狼、多羅羅）。<br>2020年憑藉高校之神、咒術迴戰、進擊的巨人最終季的優越表現而被大眾所熟知，但也爆出動畫師血汗低薪的醜聞。
+</td></tr><tr><td>ヤオヨロズ</td>
+<td>2013年8月</td>
+<td><a href="/%E3%81%A6%E3%81%95%E3%81%90%E3%82%8C%EF%BC%81%E9%83%A8%E6%B4%BB%E3%82%82%E3%81%AE" title="てさぐれ！部活もの">妄想探索社</a><br>《<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B" title="動物朋友">動物朋友</a>》第一季<br><a href="/%E7%85%99%E8%8D%89" title="煙草">煙草</a></td>
+<td>中文翻譯為八百萬，是由福原慶匡、石ダテコー太郎（之後退出）和たつき監督等人設立的動畫工作室。成員有不少是駝鹿監督在同人社團irodori時共事的同伴，基本上都是以3DCG動畫為主。</td>
+<td>在《妄想探索社》時已經小有名氣，之後憑藉著動物朋友成功闖出一片天。
+</td></tr><tr><td>オレンジ（Orange）</td>
+<td>2004年5月1日</td>
+<td><a href="/%E5%AF%B6%E7%9F%B3%E4%B9%8B%E5%9C%8B" title="寶石之國">寶石之國</a><br>Beastars</td>
+<td>為SATELIGHT的《創聖大天使》和Kinema Citrus的《.hack//Quantum》製作3DCG動畫的自由職業導演井野元英二作為代表人。<br>在2004年5月1日創辦了這家CG動畫公司。基本上都是以3DCG動畫為主。</td>
+<td>展現動作時不僅通過3DCG動畫的移動，也通過部分畫面的變形等誇張的手法來表現。
+</td></tr><tr><td>TROYCA</td>
+<td>2013年11月</td>
+<td>ALDNOAH.ZERO<br><a href="/%E7%B5%82%E5%B0%87%E6%88%90%E7%82%BA%E4%BD%A0" class="mw-redirect" title="終將成為你">終將成為你</a><br>艾梅洛閣下II世事件簿</td>
+<td>由AIC Classic的製作人長野敏之、攝影監督加藤友宜帶領一部分成員離開，聯同早年結束合作的青木英監督成立TROYCA。</td>
+<td>社名來自俄文「тройка」（三人行），有三位創始人將為了共同的理想而奮鬥之意。
+</td></tr><tr><td>Polygon Pictures</td>
+<td>1983年7月22日</td>
+<td>山賊的女兒羅妮婭<br>銀河騎士傳<br>亞人<br>BLAME!</td>
+<td>3D動畫工作室，原本只專作遊戲、電影的3DCG，後來接了一些動畫代工後，逐漸開始自主製作電視動畫。</td>
+<td>
+</td></tr><tr><td>雲雀工作室（スタジオ雲雀）</td>
+<td>1979年7月</td>
+<td>潔癖男子青山！<br>棒球大聯盟<br>魔法咪路咪路<br>外星人田中太郎</td>
+<td></td>
+<td>動畫公司Lerche為其子公司。
+</td></tr><tr><td>NAZ（アニマ&amp;カンパニー）</td>
+<td>2013年4月19日</td>
+<td>Angolmois元寇合戰記<br>辣妹與我的第一次<br>雛子的筆記<br>戲劇性謀殺</td>
+<td></td>
+<td>
+</td></tr><tr><td>CloverWorks</td>
+<td>2018年4月1日</td>
+<td>青春豬頭少年不會夢到兔女郎學姊<br>約定的夢幻島<br><a href="/Fate/Grand_Order" title="Fate/Grand Order">Fate/Grand Order</a> -絕對魔獸戰線巴比倫尼亞-<br>影宅<br>富豪刑事 <br>奇蛋物語<br><a href="/%E6%88%80%E4%B8%8A%E6%8F%9B%E8%A3%9D%E5%A8%83%E5%A8%83" title="戀上換裝娃娃">戀上換裝娃娃</a><br>明日同學的水手服<br>女忍者椿的心事</td>
+<td>原為A-1 Pictures位於東京都杉並區的高圓寺工作室。2018年4月1日，A-1 Pictures宣布為了加強工作室的獨立性，旗下的高圓寺工作室將會成為新品牌，並更名為「CloverWorks」</td>
+<td>2018年10月1日宣布從A-1 Pictures獨立，但仍然是Aniplex的子公司，基本上作畫很少出現崩壞，作品大致上好評不斷，但卻因為投資方的關係搞爛了約定的夢幻島第二季。<br>2022年因爲連續多開《戀上換裝娃娃》《明日同學的水手服》《女忍者椿的心事》等動畫并且全都展現出極高的作畫品質而再度走到大衆視野被認可。
+</td></tr><tr><td>Passione</td>
+<td>2011年1月26日</td>
+<td>六花的勇者<br><a href="/%E7%95%B0%E7%A8%AE%E6%97%8F%E9%A2%A8%E4%BF%97%E5%A8%98%E8%A9%95%E9%91%91%E6%8C%87%E5%8D%97" title="異種族風俗娘評鑑指南">異種族風俗娘評鑑指南</a><br><a href="/%E6%9A%AE%E8%9F%AC%E6%82%B2%E9%B3%B4%E6%99%82" title="暮蟬悲鳴時">暮蟬悲鳴時</a> 業</td>
+<td>通稱「熱情社」，因著早年取締役林瑛介來自SATELIGHT，因此成品上亦繼承了相關製作文化，包括更強調數碼效果與線畫融合，和採用更鮮明的顏色。不過因著人脈所限，公司接下的作品大多為挑戰尺度下限之作品，後來亦乾脆邀請該領域有豐富經驗的監督高橋丈夫加入管理層，以便公司能夠持續接下主要製作的業務。</td>
+<td><s>本業是<a href="/%E8%BF%AA%E4%BA%9E%E6%B3%A2%E7%BE%85" title="迪亞波羅">義大利黑幫</a>。</s>
+</td></tr><tr><td>CygamesPictures</td>
+<td>2016年4月5日</td>
+<td>巴哈姆特之怒-Manaria Friends-<br>《<a href="/%E8%B6%85%E7%95%B0%E5%9F%9F%E5%85%AC%E4%B8%BB%E9%80%A3%E7%B5%90%E2%98%86Re:Dive_(%E5%8B%95%E7%95%AB%E7%89%88)" title="超異域公主連結☆Re:Dive (動畫版)">超異域公主連結</a>》系列<br>偶像大師 灰姑娘女孩U149</td>
+<td><a href="/Cygames" title="Cygames">Cygames</a>旗下子公司，初期宣傳以制作高品質的動畫為目的而成立。<br><s>據傳是因為《巴哈姆特之怒》第2季開始評價有所下滑而不得已讓自己動畫部接手第3季開始的制作。</s></td>
+<td><s>由本就財大氣粗的遊戲動畫組制作，</s>前兩作均有著精良水準的高評價<s>，但公連動畫第二季評價變得微妙了起來</s>。
+</td></tr><tr><td>Bibury Animation Studios</td>
+<td>2017年5月1日</td>
+<td><a href="/%E7%A2%A7%E8%97%8D%E8%88%AA%E7%B7%9A_THE_ANIMATION" title="碧藍航線 THE ANIMATION">碧藍航線</a><br>五等分的新娘∬<br>黑岩射手DAWN FALL</td>
+<td>由知名監督天衝創立的動畫制作會社。<br>名字來源於英格蘭格洛斯特郡的拜伯里村，天衝執導過的《黃金拼圖》的取景地之一。</td>
+<td>除外包協力以外第一部獨立制作的TV動畫為《碧藍航線》，但由於品質太敷衍而被炎上（詳見內條目）。<br><s>被加進被詞條也只是編者想拿來<a href="/%E5%A9%8A" title="婊">婊</a>一頓</s><br>2022年的《黑岩射手DAWN FALL》同樣是天衝+BAS的陣容，劇情再度引起炎上。
+</td></tr><tr><td>project No.9</td>
+<td>2009年2月9日</td>
+<td>蘿球社（和Studio Blanc.Co.,Ltd.共同製作）<br>最近我的妹妹有點怪<br>天使的3P!<br>龍王的工作<br>我不是說了能力要平均值嗎<br>超人高中生即使在異世界也能從容生存<br>弩級戰隊H×EROS<br>弱勢同學友崎君<br>剃鬚，然後撿到女高中生</td>
+<td>早期多接手<s>蘿莉、</s>萌系題材的動畫番組，近年來逐漸開始轉校園、戰鬥類領域。</td>
+<td>作畫水較為穩定，很少有崩壞的畫面但最高上限的作畫精細度也有限。<br>每年動畫產量也保持到2-3部左右，但也有為了著力於重點動畫而將其他動畫經費成本降低<s>獻祭</s>的情況（如《我不是說了能力要平均值嗎》《弩級戰隊H×EROS》）。<br>近年來也能接手熱門輕小說的改編動畫了（比如《弱勢同學友崎君》《剃鬚，然後撿到女高中生》）。
+</td></tr><tr><td>C-Station</td>
+<td>2009年8月</td>
+<td>星刻龍騎士<br>高校星歌劇<br>《搖曳露營△》系列<br><a href="/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9%E4%BB%99%E7%95%8C%E5%82%B3" title="封神演義仙界傳">霸穹封神演義</a></td>
+<td>2009年BEE TRAIN將各部門分割為其轄下之子公司，在東京都國分寺市成立子公司C-station，直到2012年C-Station正式脫離BEE TRAIN資本並自主獨立營運。</td>
+<td>該工作室也有負責參與分包動畫協力製作（如：<a href="/%E6%96%AC%EF%BC%81%E8%B5%A4%E7%B4%85%E4%B9%8B%E7%9E%B3" title="斬！赤紅之瞳">斬！赤紅之瞳</a>、臨時女友），進行諸如中間幀、關鍵格和各種動畫協作，而該公司製作的高校星歌劇劇中角色進行的歌舞表演片段作畫也有高水準的表現。
+</td></tr><tr><td>スタジオブラン（Studio Blanc.Co.,Ltd.）</td>
+<td>2008年9月</td>
+<td>蘿球社（和project No.9共同製作）<br>我的女友是個過度認真的處女bitch（和Diomedéa共同製作）<br><a href="/%E9%99%B0%E6%99%B4%E4%B8%8D%E5%AE%9A%E7%9A%84%E9%AB%94%E6%93%8D%E5%93%A5%E5%93%A5" title="陰晴不定的體操哥哥">陰晴不定的體操哥哥</a></td>
+<td></td>
+<td>
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="歐美的工作室名單"></span><span class="mw-headline" id=".E6.AD.90.E7.BE.8E.E7.9A.84.E5.B7.A5.E4.BD.9C.E5.AE.A4.E5.90.8D.E5.96.AE">歐美的工作室名單</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4&amp;action=edit&amp;section=2" title="編輯章節：歐美的工作室名單" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>工作室名</th>
+<th>成立、結束營運</th>
+<th>代表作</th>
+<th>簡介</th>
+<th>備註
+</th></tr><tr><td>Terrytoons</td>
+<td>1916年<br>1968年（結束營運）</td>
+<td>太空飛鼠<br>Heckle and Jeckle</td>
+<td></td>
+<td>
+</td></tr><tr><td>Fleischer Studios</td>
+<td>1921年（Inkwell Studios）<br>1929年（Fleischer Studios）<br>1942年8月28日（結束營運）</td>
+<td>《大力水手》前期<br>貝蒂娃娃<br><a href="/%E8%B6%85%E4%BA%BA" title="超人">超人</a></td>
+<td></td>
+<td>
+</td></tr><tr><td>Walt Disney Animation Studios</td>
+<td>1923年10月16日</td>
+<td>無須多談</td>
+<td></td>
+<td>幾乎已經佔領<a href="/%E4%B8%96%E7%95%8C" title="世界">世界</a>的邪惡帝國。
+</td></tr><tr><td>MGM<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Cartoon Studio</td>
+<td>1929年</td>
+<td>Flip the Frog<br>《湯姆與傑利》前期<br>精怪松鼠<br>巴尼熊<br>杜皮狗</td>
+<td></td>
+<td>Hanna-Barbera的前身。
+</td></tr><tr><td><a href="/Warner_Bros._Animation" title="Warner Bros. Animation">Warner Bros. Animation</a></td>
+<td>1933年（Warner Bros. Cartoons）<br>1980年（Warner Bros. Animation）</td>
+<td colspan="2">詳見條目</td>
+<td></td>
+<td>
+</td></tr><tr><td>Famous Studios</td>
+<td>1942年</td>
+<td>《大力水手》後期<br>小露露<br>鬼馬小精靈</td>
+<td></td>
+<td>
+</td></tr><tr><td>UPA<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></td>
+<td>1943年<br>2000年（結束營運）</td>
+<td>脫線先生<br>淘氣ㄅㄥㄅㄥ</td>
+<td>從畢卡索、亨利·馬蒂斯、胡安·米羅、蒙德里安等著名現代藝術家獲得靈感而對動畫美術的革新稱著。背景簡化、極端風格的扁平造型角色、採取風格化處理的角色動態，使有別於當時的迪士尼的童話和華納、米高梅的暴力喜劇。</td>
+<td>
+</td></tr><tr><td>Jay Ward Productions</td>
+<td>1949年</td>
+<td>Crusader Rabbit<br>鹿兄鼠弟<br>森林泰山<br>天才眼镜狗<br>王牌騎警</td>
+<td></td>
+<td>美國電視動畫的先驅，有好幾部已搬上大銀幕
+</td></tr><tr><td>20th Century Fox Television</td>
+<td>1949年</td>
+<td>辛普森家庭<br>飛出個未來<br>蓋酷家庭<br>特工老爹<br>開心漢堡店</td>
+<td>以成人向的情境喜劇出名，而且大多都<a href="/%E6%AD%BB%E5%BE%8C%E8%A6%81%E5%AD%90%E5%AD%AB%E7%87%92%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9C%8B%E7%9A%84%E5%90%8D%E5%96%AE" title="死後要子孫燒給自己看的名單">長生不死</a>。</td>
+<td>
+</td></tr><tr><td>Hanna-Barbera</td>
+<td>1957年7月<br>2001年3月12日（結束營運）</td>
+<td>《湯姆與傑利》後期<br>《叔比狗》系列<br>瑜珈熊<br>摩登原始人<br>傑森一家<br>藍色小精靈</td>
+<td></td>
+<td>華納旗下子公司之一。<br>被台灣動畫視為基礎，而宏廣就是其代工廠商。
+</td></tr><tr><td>Filmation</td>
+<td>1962年<br>1989年（結束營運）</td>
+<td>The Archie Show<br>星際警長<br>捉鬼敢死隊<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><br>太空超人<br>神力女超人<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></td>
+<td></td>
+<td>亦負責<a href="/DC%E6%BC%AB%E7%95%AB" title="DC漫畫">DC漫畫</a>的動畫製作。
+</td></tr><tr><td>DFE Films<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></td>
+<td>1963年<br>1981年（結束營運）</td>
+<td>頑皮豹<br>蘇斯博士的繪本改編</td>
+<td></td>
+<td>負責過UPA和樂一通系列的動畫製作。
+</td></tr><tr><td>4Kids Entertainment<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></td>
+<td>1970年（Leisure Concepts, Inc.）<br>1992年（開始電視製作）</td>
+<td>外購居多</td>
+<td></td>
+<td>以代理諸多日本動畫並加以<a href="/%E6%B2%B3%E8%9F%B9" title="河蟹">河蟹</a>而惡名昭彰。
+</td></tr><tr><td>DIC Entertainment</td>
+<td>1971年<br>2008年（結束營運）</td>
+<td>G型神探<br>瑪德琳<br>《音速小子》系列<br>魔法少女莎賓娜<br>淘氣阿丹<br>魔鬼剋星<br>任天堂N隊長<br>鯊魚俠<br>神龍特攻隊<br>地球超人</td>
+<td></td>
+<td>曾與日本<a href="/%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E5%85%AC%E5%8F%B8" title="電子遊戲公司">電子遊戲公司</a>授權製作動畫版本。
+</td></tr><tr><td>Aardman Animations</td>
+<td>1972年</td>
+<td>《酷狗寶貝》系列<br>《落跑雞》<br>《笑笑羊》<br>《鼠國流浪記》<br>《海賊天團3D》</td>
+<td></td>
+<td>粘土定格動畫。
+</td></tr><tr><td>Sullivan Bluth Studios</td>
+<td>1977年（Don Bluth Productions）<br>1985年（Sullivan Bluth Studios）</td>
+<td>美國鼠譚<br>歷險小恐龍<br>真假公主－安娜塔西亞<br>冰凍星球<br>《龍穴歷險記》系列作中的動畫</td>
+<td></td>
+<td>
+</td></tr><tr><td>Film Roman</td>
+<td>1984年</td>
+<td>花生漫畫<br>加菲貓<br>辛普森家庭（1992年至第4季）<br>萬能麥斯<br>Q版大英雄<br>復仇者：蓋世英雄<br>阿丹槓上誰<br>癟四與大頭蛋（2011年）<br>終極蜘蛛人</td>
+<td></td>
+<td>Foxy的主要外購部門。
+</td></tr><tr><td><a href="/Disney_Television_Animation" title="Disney Television Animation">Disney Television Animation</a></td>
+<td>1984年12月</td>
+<td colspan="2">詳見條目</td>
+<td>美國動畫頻道<a href="/%E5%BE%A1%E4%B8%89%E5%AE%B6" title="御三家">御三家</a>之一。
+</td></tr><tr><td>Pixar</td>
+<td>1985年12月9日</td>
+<td>《玩具總動員》系列<br>《怪獸電力公司》系列<br>蟲蟲危機<br>《海底總動員》系列<br>《超人特攻隊》系列<br>《Cars》系列<br>料理鼠王<br>瓦力<br>天外奇蹟<br>勇敢傳說<br>恐龍當家<br>腦筋急轉彎<br>可可夜總會<br>靈魂急轉彎</td>
+<td>前身為導演喬治·盧卡斯所屬的電影公司的電腦動畫部門。<br>1985年，前蘋果公司執行總裁史提夫·賈伯斯花費1千萬美金買下該動畫部門並改名為Pixar。<br>2006年Walt Disney斥資74億美金買下Pixar成為Pixar母公司。<br>帶動電腦電影動畫風潮的公司，並為3D電腦動畫業界的翹楚者。</td>
+<td>幾乎每一款作品都入圍當年的奧斯卡最佳動畫<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></td></tr><tr><td>Blue Sky Studios</td>
+<td>1987年2月22日<br>2021年4月7日（結束營運）</td>
+<td>《冰原歷險記》系列<br>機器人歷險記<br>荷頓奇遇記<br>里約大冒險<br>森林戰士<br>《史努比》3D電影版</td>
+<td>1997年被20世紀福斯收購，之後2019年由於迪士尼收購20世紀福斯，間接成為旗下三個動畫工作室之一<br>因新冠疫情的虧損，於2021年關閉，大部分員工都整併到其他兩個動畫工作室。</td>
+<td>特點是冰原歷險記那個永遠吃不到橡果的松鼠，在工作室關閉後<a rel="nofollow" class="external text" href="https://twitter.com/DiscussingFilm/status/1514358487198928899">終於吃到了</a>
+</td></tr><tr><td><a href="/Nickelodeon_Animation_Studio" title="Nickelodeon Animation Studio">Nickelodeon Animation Studio</a></td>
+<td>1990年（Games Animation）<br>1998年（Nickelodeon Animation Studios）</td>
+<td colspan="2">詳見條目</td>
+<td>美國動畫頻道御三家之一。
+</td></tr><tr><td>Xilam</td>
+<td>1990年（Gaumont Multimédia）<br>1999年（Xilam）</td>
+<td>肥貓鬥小強<br>鯊魚哥</td>
+<td>法國動畫公司。</td>
+<td>其中《肥貓鬥小強》在台播放時一開始收視不佳，後來自己加上旁白配音結果卻收到不少好評。
+</td></tr><tr><td>Williams Street</td>
+<td>1994年（Ghost Planet Industries）<br>1999年（Williams Street Studios）</td>
+<td>飲料杯歷險記<br>冒險兄弟<br>機器雞<br>超級監獄/暴力監獄<br>金屬啟示錄<br>瑞克和莫蒂<br>酸黃瓜先生</td>
+<td>成人動畫的大本營。</td>
+<td>
+</td></tr><tr><td>DreamWorks Animation</td>
+<td>1994年10月12日</td>
+<td>《史瑞克》系列<br>《馬達加斯加》系列<br>《功夫熊貓》系列<br>《馴龍高手》系列<br>小蟻雄兵<br>埃及王子<br>勇闖黃金城<br>小馬王<br>鯊魚黑幫<br>怪獸大戰外星人<br>麥克邁：超能壞蛋<br>捍衛聯盟<br>古魯家族<br>渦輪方程式<br>皮巴弟先生與薛曼的時光冒險<br>好家在一起<br>壞壞萌雪怪</td>
+<td>由三位好萊塢重要人物大衛·葛芬、傑弗瑞·卡辛堡和史蒂芬·史匹柏創立。<br>在2005年12月三人決定把夢工廠賣給維亞康姆，於是歸到維亞康姆的子公司派拉蒙電影公司旗下。<br>交易於2006年完成，但夢工廠動畫部門於2004年獨立成為夢工廠動畫公司，現在並不屬於維亞康姆及派拉蒙電影公司。</td>
+<td>招牌畫面是一個坐在新月上<a href="/%E9%87%A3%E9%AD%9A" title="釣魚">釣魚</a>的人，偶爾會加些惡搞。<br>因為其動畫風格之走向，時常被國內外<a href="/%E9%84%89%E6%B0%91" title="鄉民">鄉民</a>揶揄「一群會說話的動物，做一般動物不會做的事。然後他們都有 <a rel="nofollow" class="external text" href="http://wiki.komica.org/pix/img12321.jpg">這個表情</a>」。<br>在90年代至2000年代初還有舊約聖經主題的動畫電影，可是由《降世神通：科拉傳奇》開始在電視或線上動畫漸漸靠攏LGBT粉絲（也就是油腐百合廚啦...）
+</td></tr><tr><td><a href="/Cartoon_Network_Studios" title="Cartoon Network Studios">Cartoon Network Studios</a></td>
+<td>1994年10月21日</td>
+<td colspan="2">詳見條目</td>
+<td>美國動畫頻道御三家之一。
+</td></tr><tr><td>Frederator Studios</td>
+<td>1997年</td>
+<td>米娜與伯爵<br><a href="/%E6%8E%A2%E9%9A%AA%E6%B4%BB%E5%AF%B6" title="探險活寶">探險活寶</a><br>趣怪守護仙/反斗家族<br>無懼勇士</td>
+<td></td>
+<td>CN和Nick的主要外購部門。
+</td></tr><tr><td>Augenblick Studios</td>
+<td>1999年</td>
+<td>醜陋的美國人<br>超級監獄/暴力監獄<br>The Adventures of Drunky</td>
+<td>成人動畫的大本營之一。</td>
+<td>
+</td></tr><tr><td>Sony Pictures Animation</td>
+<td>2002年5月</td>
+<td>《打獵季節》系列<br>《食破天驚》系列<br>《藍精靈》系列<br>衝浪季節<br>聖誕快遞<br>《尖叫旅社》系列<br>表情符號電影<br>《蜘蛛人：新宇宙》</td>
+<td></td>
+<td>
+</td></tr><tr><td>Rooster Teeth</td>
+<td>2003年4月1日</td>
+<td>《Red vs Blue》系列<br><a href="/RWBY" title="RWBY">RWBY</a></td>
+<td></td>
+<td>
+</td></tr><tr><td>LAIKA</td>
+<td>2005年</td>
+<td>第十四道門<br>派拉諾曼：靈動小子<br>怪怪箱<br>酷寶：魔弦傳說<br>大冒險家</td>
+<td></td>
+<td>
+</td></tr><tr><td>Illumination</td>
+<td>2007年</td>
+<td>《神偷奶爸》系列<br>開運兔<br>羅雷斯<br>鬼靈精</td>
+<td>環球所屬的工作室。</td>
+<td>
+</td></tr><tr><td>Marvel Animation</td>
+<td>2008年1月25日</td>
+<td>自家<a href="/%E6%BC%AB%E5%A8%81%E6%BC%AB%E7%95%AB" title="漫威漫畫">漫威漫畫</a>改編動畫</td>
+<td></td>
+<td>
+</td></tr><tr><td>Mondo Media</td>
+<td>2012年2月21日</td>
+<td><a href="/%E5%BF%AB%E6%A8%82%E6%A8%B9%E6%9C%8B%E5%8F%8B" title="快樂樹朋友">快樂樹朋友</a><br>Dick Figures<br>逗逗蟲（韓國共同製作）</td>
+<td></td>
+<td>
+</td></tr><tr><td>Marathon Media Group</td>
+<td></td>
+<td>校園嬌娃<br>校園神兵<br>銀河探險隊<br>小鬼大神探<br>搖滾蘿莉</td>
+<td>法國動畫公司。</td>
+<td>現已改名為Zodiak Kids，造型和作畫風格明顯受到日本<a href="/ACG" title="ACG">ACG</a>核心的荼毒。
+</td></tr><tr><td>Glitch Production</td>
+<td>2017年5月27日</td>
+<td>Meta Runner, Sunset Paradise</td>
+<td>來自澳洲的小型獨立網路動畫工作室，由之前製作過《超級瑪利歐64》惡搞動畫系列的YouTuber：Luke Lerdwichagul<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>與其兄長Kevin Lerdwichagul創立</td>
+<td><s>也變成了SMG4的原創角色變得相當活躍的主因</s>除了專門放惡搞動畫的SMG4頻道以及專門放原創網路動畫的Glitch頻道以外，還有Hobo Bros等衍生頻道，但因為後來事務繁忙而停止衍生頻道的一切活動
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="華人地區的工作室名單"></span><span class="mw-headline" id=".E8.8F.AF.E4.BA.BA.E5.9C.B0.E5.8D.80.E7.9A.84.E5.B7.A5.E4.BD.9C.E5.AE.A4.E5.90.8D.E5.96.AE">華人地區的工作室名單</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4&amp;action=edit&amp;section=3" title="編輯章節：華人地區的工作室名單" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<table class="wikitable" style="font-size:small;"><tbody><tr><th>工作室名</th>
+<th>成立</th>
+<th>代表作</th>
+<th>簡介</th>
+<th>備註
+</th></tr><tr><td>上海美術電影製片廠</td>
+<td>1957年</td>
+<td>電影：《三個和尚》、《小蝌蚪找媽媽》、《大鬧天宮》、《哪吒鬧海》、《天書奇譚》、《九色鹿》、《猴子撈月》、《鷸蚌相爭》、《寶蓮燈》<br>電視：《黑貓警長》、《葫蘆兄弟》、《邋遢大王》、《舒克和貝塔》、《特別車隊》、《魔方大廈》、《鴨子偵探》、《我為歌狂》、《大耳朵圖圖》、《帥狗黑皮》</td>
+<td>東亞動漫耆宿萬氏兄弟所創立，中華風美術片的代表工作室。<br>不拘泥於演出形式，從水墨畫風、江南年畫風、皮影戲風、布偶戲風、中國剪紙風，乃至日漫風都有出色的作品。<br>尤其以水墨畫風的《小蝌蚪找媽媽》和年畫風的《大鬧天宮》、《哪吒鬧海》贏得過國際的讚譽和好評。</td>
+<td>萬氏兄弟在抗戰時期製作的動畫《鐵扇公主》是亞洲第一部動畫片，也是手塚治虫成為<a href="/%E5%88%86%E9%A1%9E:%E6%BC%AB%E7%95%AB%E5%AE%B6" title="分類:漫畫家">漫畫家</a>和動畫製作人的契機。
+</td></tr><tr><td>西基電腦動畫</td>
+<td>1988年</td>
+<td>《<a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">Final Fantasy XI</a>》、《Final Fantasy VII-Dirge of Cerberus》、《Final Fantasy VII Crisis Core》、《星際大戰：複製人之戰》、《超限獵兵凱能》</td>
+<td>台灣的代工製作公司之一。</td>
+<td>
+</td></tr><tr><td>春水堂科技</td>
+<td>1999年</td>
+<td>《阿貴》、《<a href="/%E9%9D%A0%E5%B2%B8" title="靠岸">靠岸</a>》</td>
+<td></td>
+<td><s>不是自稱發明珍珠奶茶的茶館，</s>以Flash起家，曾靠著阿貴闖出一片天，但因為靠岸而被島民們列為<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a><br>現隸屬於中華電信
+</td></tr><tr><td>意馬（Imagi Animation Studios）</td>
+<td>2000年</td>
+<td>《DIGITAL MONSTER X-evolution》、《時空冒險記（ZENTRIX）》、《Highlander: The Search for Vengeance》、《原子小金剛》（CG電影版）</td>
+<td>香港動畫製作公司，以代工為主。<br><s>有著暑期工和新入職會被操很凶的八卦。</s></td>
+<td>意馬主要業務本為人造聖誕樹，後因創辦人兒子建議投身動畫業務，把聖誕樹業務賣掉籌集資金成立子公司Imagi Animation Studios，結果因為《原子小金剛》虧大本結果被母公司清盤結業，甚至連母公司都被逼拱手讓人，敗家子無誤。<s>其實據說其子也只是以玩票心態經營動畫製作業務，根本無意全心投入。</s>
+</td></tr><tr><td>大魔國<br>七靈石<br>震雷動畫</td>
+<td></td>
+<td>《弦月夢影》</td>
+<td>大陸的網路動畫工作室。</td>
+<td><s>只出PV，不出正片。</s><br>2018年後已有所改觀。
+</td></tr><tr><td>宏廣</td>
+<td><a rel="nofollow" class="external text" href="http://www.taiwancinema.com/ct_12688_40">1973年1月30日</a></td>
+<td>《紅孩兒：決戰火焰山》</td>
+<td>台灣的代工製作公司之一。</td>
+<td><s><a rel="nofollow" class="external text" href="http://castnet.nctu.edu.tw/castnet/article/1166?issueID=53">前述代表作品成為導致在台公司倒閉的遺作</a></s>
+</td></tr><tr><td>今日動畫</td>
+<td>1998年</td>
+<td>《馬丁的早晨》、《中華小子》</td>
+<td>大陸的電視動畫工作室。</td>
+<td>目前兩部代表作均是中法合作製作完成的<s>所以真的不是法國的動畫組麼</s>。
+</td></tr><tr><td>文瀾資訊</td>
+<td>2000年9月5日</td>
+<td>《POPA》、《夢見-mida》</td>
+<td></td>
+<td>近年新創的台灣動畫公司，本來是以平面出版與網站設計為主。<br><s>雖然不能說很好，但品質至少沒有近幾年那幾部黑歷史那麼可怕了...（稱讚的意思）</s>
+</td></tr><tr><td>原創動力</td>
+<td>2003年</td>
+<td>《喜羊羊與灰太狼》</td>
+<td>大陸的電視動畫工作室。</td>
+<td>靠著《喜羊羊與灰太狼》走紅，更讓《喜羊羊與灰太狼》成為大陸少見的長壽國民向動畫，同時引來許多輿論。
+</td></tr><tr><td>宏夢卡通</td>
+<td>2004年5月</td>
+<td>《虹貓藍兔》系列、《神廚小福貴》、《藍貓》</td>
+<td>大陸的電視動畫工作室。</td>
+<td>後者後半的致鬱展開是大陸地區觀眾的童年陰影之一，還導致《活著》的原作者余華<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>。<br>近年來由於放棄了正劇動畫的製作，人氣和知名度大降<s>，近十年幾乎再也沒什麼拿的出手的作品，令不少人（包括編者）惋惜…</s>
+</td></tr><tr><td>貳號資訊設計工作室</td>
+<td>2005年</td>
+<td>《小太陽》、《小貓巴克里》、《觀測站少年》</td>
+<td></td>
+<td>通稱Studio2，與文瀾同為新創的台灣動畫公司，以研究與開發各種原創、實驗性動畫為主。<br>其中《小貓巴克里》系列曾參與國際影展。
+</td></tr><tr><td>玄機科技</td>
+<td>2005年10月9日</td>
+<td>《秦時明月》系列、《天行九歌》系列</td>
+<td>大陸的電視動畫工作室。</td>
+<td>
+</td></tr><tr><td>視美影業</td>
+<td>2005年11月16日</td>
+<td>《愛神巧克力ING》、《女媧成長日記》、《巴啦啦小魔仙》系列（（第4季起）、《國民老公帶回家》、《全職高手》（僅第1季）、《魔道祖師》系列、《一人之下》（第2季起）</td>
+<td>大陸的電視動畫工作室。</td>
+<td>以精美、高幀數的日系作畫聞名，第一次打響知名度莫過於自他們接手的《巴啦啦小魔仙（動畫）》系列。
+</td></tr><tr><td>方特動漫</td>
+<td>2008年</td>
+<td>《熊出沒》</td>
+<td>大陸的電視動畫工作室。</td>
+<td>
+</td></tr><tr><td>有妖氣</td>
+<td>2009年10月15日</td>
+<td>《十萬個冷笑話》系列、《鎮魂街》、《雛蜂》</td>
+<td>大陸的網路動畫工作室，由同名漫畫網站衍生成立。</td>
+<td>
+</td></tr><tr><td>蘋果動新聞團隊</td>
+<td>2009年11月16日</td>
+<td>《Heavy Rangers》系列、各種動畫模擬新聞場景</td>
+<td>最早在台灣成立，其後於香港、美國等海外地區皆有成立部門。</td>
+<td>經常利用電腦動畫還原社會事件的過程。
+</td></tr><tr><td>追光動畫</td>
+<td>2013年3月12日</td>
+<td>《小門神》、《白蛇：緣起》、《哪吒重生》</td>
+<td>大陸的動畫電影工作室。</td>
+<td>製作水準在業界可謂上流，但往往<s>隨著暴死</s>而產量較低。<br>雖然成立較早但直到《白蛇：緣起》的出色表現才被不少觀眾數值。<br>在2021年上映的《哪吒重生》實際上跟下面彩條屋的《哪吒之魔童降世》是同一時間立項的，但因為製作進度較慢<s>還要靠《白蛇：緣起》的票房補平製作經費</s>而延遲兩年才推出<s>被不少不知情的觀眾以為是蹭熱度</s>。<br>而同樣預定推出的《楊戩》也要靠《哪吒重生》的最終收益來決定製作進度<s>，但同樣是彩條屋的楊戩已經製作完成，所以（RY</s>。
+</td></tr><tr><td>繪夢動畫</td>
+<td>2013年</td>
+<td>《王牌御史》、《我叫白小飛》、《狐妖小紅娘》、《妖怪名單》、《一人之下》（僅第1季）、《時空使徒》、《雛蜂》、《靈契》、《從前有座靈劍山》、《凸變英雄》系列</td>
+<td>大陸的網路動畫工作室。</td>
+<td>產量高，作畫水平也極高，畫風則偏向日系。<br>早年間由於能力有限動畫往往幀數低、經費不足。<br>近年來最具代表性的作品莫過於《狐妖小紅娘》憑藉製作上的提升單集作畫水準已經達到日系常規動畫的程度<s>只可惜被騰訊代理以後知名度明顯下降</s>，以及《凸變英雄》系列的良好口碑<s>（不考慮《LEAF》的最後一話的話）</s>。
+</td></tr><tr><td>霍爾果斯彩條屋影業</td>
+<td>2015年</td>
+<td>《大魚海棠》、《大聖歸來》、《哪吒之魔童降世》、《姜子牙》、《深海》</td>
+<td>大陸的動畫電影工作室。</td>
+<td>《大聖歸來》的意外爆紅給當時日薄西山的中國動畫產業注入一劑強心劑，後來有推出PS4改編遊戲<s>，但遊戲卻是個除了畫面以外其他方面完成度極差的<a href="/%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC" title="クソゲー">クソゲー</a>，不過跟動畫組沒啥關係就是了</s>。<br>而《大魚海棠》雖然作畫和世界觀不錯，卻因為劇情太薄弱無聊而飽受觀眾批評。<br>一直到《哪吒之魔童降世》才終於穩住了基礎的口碑，並收獲相當高的票房，隨後的《姜子牙》又因為劇情問題導致票房滑鐵盧……
+</td></tr><tr><td>藝畫開天</td>
+<td>2015年5月</td>
+<td>《靈籠:INCARNATION》、《三體》</td>
+<td>大陸的動畫電影工作室。</td>
+<td>
+</td></tr><tr><td>寒木春華動畫</td>
+<td>2012年</td>
+<td>《羅小黑戰記》（包括電影版）、《萬聖街》</td>
+<td>大陸的網路動畫工作室。</td>
+<td>以網路連載短篇動畫起家的新起之秀，其流暢的作畫和豐富的小彩蛋<s>例如催更者死</s>為其特色。<br>在2019年推出的電影版羅小黑戰記在日本有小規模上映，受到了當地動畫工作者一定的好評。在小規模上映長達一年後終於決定要推出日語配音版，引起相當的迴響。<br><s><a href="/%E6%AD%BB%E5%BE%8C%E8%A6%81%E5%AD%90%E5%AD%AB%E7%87%92%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9C%8B%E7%9A%84%E5%90%8D%E5%96%AE" title="死後要子孫燒給自己看的名單">不過作為本篇的網路動畫版更新速度超級慢，更到後來一年能更一集就是大幸了，現在導演還接了萬聖街改編動畫的案子……</a></s>
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4&amp;action=edit&amp;section=4" title="編輯章節：回應" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<div class="pcomment-insert" data-number="" data-section="2" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4" title="討論:動畫工作室">討論:動畫工作室</a>|number=|section=2}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4&amp;action=edit&amp;section=5" title="編輯章節：備註" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">社內曾經有3000枚動畫幀數限制的規則來控制工期和預算，令動畫師和演出家都要在這個資源下另覓方式尋找創意</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">既「貧乏動畫」，減少每秒所需的圖片數量，採用短鏡頭避免因圖片數量下降造成的不流暢性，兼用卡的創始，簡化人物肢體動作（例如：說話時嘴巴只需連續張合，不去校正嘴型跟發音的連動），使得動畫製作成本大幅降低，讓動畫產業得以蓬勃發展。但是缺點是難以發展出媲美好萊塢等級的高水準製作，直至吉卜力工作室出現後才突破。</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">簡單來講，就是到了2005年以後，庵野認為GAINAX已經沒辦法再製作他想創作的作品而離開並創設Khara，但在這之後發現GAINAX因為財政困窘，就刻意將包含EVA在內的各項資產在難以追查的情況下到處轉賣、成立子公司並讓渡，甚至因此造成EVA新劇場版製作上的問題(例如明日香來日該集的原畫被層層轉讓，使得《新劇場版：破》不得不完全重製該段落)，而更讓庵野詫異的是明明他已經離開GAINAX了，GAINAX新的經營陣卻還利用EVA的名義到處騙錢，最後他不得不在Q上映後開始跟GAINAX打官司來確保EVA以及相關資產不會流落各處，而到了後來，原本跟庵野借錢的前社長跑路，換上新的經營陣後，至此GAINAX已經完全跟當年那個第一代御宅工作室再也沒有關係了。<s>有一部分網友推測《新劇場版：Q》之後到完結篇正式開始製作為止拖了相當漫長的時間正是因為庵野忙著在跟GAINAX打官司。</s></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">最高紀錄為2012年春，同時出現六套JC番組：灼眼的夏娜F、零之使魔F、食夢者2、偵探歌劇2、在盛夏等待，和愛殺寶貝。</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">JC很多作品絕大多數場合都只有單一分鏡，打死不添。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">無印、2及劇場版</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">本傳系列只到Grace，Xillia開始由ufotable製作。不過IG近幾年在Tales系列上的成果被不少人抨擊「根本是故意省成本」（以TOG最甚，全長約2分鐘的片頭動畫幾乎都是靜畫，就算是動作畫面也顯得很沒誠意，下一部的TOX就被ufotable用3D開頭和激烈的動作場景打臉了）</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">原名XEBECZwei，後來在XEBEC解散，IG組織調整後改稱現名</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Ordet、Trigger和三次元本社都在同一棟大樓，不過Ordet在3樓，Trigger與三次元在17樓。</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Metro-Goldwyn-Mayer，暨米高梅</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">United Productions of America。</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">和DIC不同的是，主角組合為兩男加一隻大猩猩</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">英文原名She-Ra: Princess of Power，此神力女超人非彼<a href="/%E7%A5%9E%E5%8A%9B%E5%A5%B3%E8%B6%85%E4%BA%BA" title="神力女超人">神力女超人</a>。</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">DePatie-Freleng Enterprises，亦稱為Mirisch-Geoffrey-DePatie Freleng Productions</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">亦稱為4Licensing Corporation</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">至2013年為止唯一的例外是《Cars 2》</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">目前也同時以SMG4名義活躍</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">余華在本作製作人員名單上的職位為文學顧問，據本人而言自己只是給了劇組幾句建議，結果觀眾卻把他誤認為編劇……</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=動畫工作室&amp;oldid=415789">https://wiki.komica.org/index.php?title=動畫工作室&amp;oldid=415789</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4"
+				data-user-name="Cougar5"
+				data-user-gender="unknown"
+				data-timestamp="1666088380">
+				最後編輯於 2022年10月18日 (週二) 18:19
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%8B%95%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.275","ppvisitednodes":{"value":329,"limit":1000000},"ppgeneratednodes":{"value":1279,"limit":1000000},"postexpandincludesize":{"value":662,"limit":2097152},"templateargumentsize":{"value":137,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7002,"limit":5000000},"timingprofile":["100.00%   45.563      1 -total","  4.71%    2.145      1 模板:Twitter","  4.27%    1.946      1 模板:Pcomment","  2.92%    1.329      1 模板:H0"]},"cachereport":{"timestamp":"20221022131758","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":184});});</script>		</body>
+		</html>
+		

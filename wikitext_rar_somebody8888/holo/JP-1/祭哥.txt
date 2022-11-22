@@ -1,0 +1,205 @@
+{{h0|夏色まつり（なついろ まつり） / 夏色祭 / Natsuiro Matsuri / <s>馬自立</s> / <s>祭哥</s>}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub|本條目[[:分類:需要擴充的條目|內容不足需要擴充]]，歡迎有興趣的まつりす們加以補完。}}
+|}
+
+[[File:夏色祭.png|350px|right]]
+: {{size|24|{{color|#ff5606||'''わっしょ～い！ホロライブの清楚担当みんなのアイドル夏色まつりです！'''}}}}
+: {{size|24|{{color|#ff5606||'''<s>[[成句/俺がガンダムだ|オレがホロライブだ！]]</s>'''}}}}
+== 基本資料 ==
+* 所屬：[[hololive]]
+* 人設：{{twitter|halllki|name=皆村春樹}}
+* 生日：7月22日（巨蟹座）
+* 身高：152cm
+* 繪文字：🏮
+* 主題標籤：{{twitter|hashtag=夏まつch}}、{{twitter|hashtag=祭絵}}
+* 粉絲稱呼：まつりす
+* 模型擔當：
+** Live2D：{{twitter|tou_ilie|name=入江燈}}
+** 3D模型：{{twitter|paint002|name=ぽんぷ長}}
+
+== 介紹 ==
+* 2018年6月1日在Youtube開始活動的女性虛擬Youtuber，hololive所屬一期生。
+* 設定上是啦啦隊的新成員。性格開朗，精力充沛，對人友好，能很快和大家打成一片，有很多朋友。喜歡有趣的事情，例如祭典和活動。
+* <s>實際上不只討厭夏天也討厭祭典，結果剩下來的就只有色</s>
+
+== 個人資料 ==
+* 雖然自稱「清楚系」，實際上的表現卻相當混沌。
+** 在推特上發了一篇{{twitter|natsuiromatsuri|1048810611981701121|name=對吹雪發情的短片}}<s>，所以我說那個清楚系呢馬自立</s>。
+** 除了吹雪外後來還多次對其他同社的VTuber發情<s>，某種意義上這根本就是[[DD]]</s>。
+* 2019年末出現亞種「夏色松彥（夏色まつ彦）」，設定上是祭的性轉人格，甚至連聲音都變成イケボ。
+* 在[[Among Us]]相關連動中展現了相當出色的實力，甚至曾數度在冒充者陣營在完全沒有進入討論階段就以極短時間獲勝。
+
+=== 大喜利SC祭 ===
+* 出自於每當馬自立要抽APEX的轉蛋時常常會發生的大量觀眾投紅SC的橋段
+** 雖然投SC本身不是甚麼特別的行為，但這些SC裡的內容往往都非常的搞笑引來馬自立的各種吐槽
+*** 例1:故意透漏自己的主推是別人或者看起來推的是馬自立結果混入其他holo成員的梗如語尾加上peko一類
+**** <s>「不如說每次開這種直播時祭絲們就會通通消失了」 BY馬自立</s>
+*** 例2:宣稱自己不惜代價只為了投SC
+*** 例3:為了參加本次祭典特地跑來投SC然後馬上跑掉等著看精華
+
+== 主要事紀 ==
+=== 2018年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 5月2日
+| hololive開始一期生招募活動。
+|-
+! width="80px" | 5月16日
+| Twitter帳號開通。
+|-
+! width="80px" | 5月25日
+| YouTube帳號開通。
+|-
+! width="80px" | 5月31日
+| 發布第一條推文。
+|-
+! width="80px" | 6月1日
+| 正式開始活動，凌晨開始首次直播。
+|-
+! width="80px" | 7月上旬
+| YouTube收益化通過。
+|-
+! width="80px" | 11月2日
+| 發布新服裝。
+|}
+
+=== 2019年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 4月1日
+| 與皆守英雄和ぴろぱる參與秋葉原線下活動。
+|-
+! width="80px" | 4月13日
+| YouTube訂閱數突破5萬人。
+|-
+! width="80px" | 4月15日
+| 公布3D造型。
+|-
+! width="80px" | 6月1日
+| 進行出道一周年紀念直播。
+|-
+! width="80px" | 7月22日
+| 進行生日紀念直播。
+|-
+! width="80px" | 8月6日
+| 公布3D泳裝造型。
+|-
+! width="80px" | 8月11日
+| 進行首次24小時3D耐久直播。
+|-
+! width="80px" | 8月27日
+| YouTube訂閱數突破10萬人。
+|-
+! width="80px" | 10月15日
+| 在Twitter上表示將作為新成員參加《四月一日さん家の》電視劇。
+|-
+! width="80px" | 10月24日
+| 因身體原因暫時停止活動。
+|-
+! width="80px" | 10月31日
+| 宣布回歸。
+|-
+! width="80px" | 11月2日
+| 進行回歸直播。
+|}
+
+=== 2020年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月1日
+| 進行新年衣服披露直播。
+|-
+! width="80px" | 1月24日
+| 參加hololive第一次演唱會hololive 1st Fes. "NONSTOP STORY"。同日因為YouTube的自動化判定失誤而被剝奪收益化。
+|-
+! width="80px" | 1月31日
+| 收益化恢復正常。
+|-
+! width="80px" | 2月23日
+| 因身體原因暫時停止所有聯動。
+|-
+! width="80px" | 2月28日
+| 新立繪發布。
+|-
+! width="80px" | 3月2日
+| 直播公開幼化（6歲）形象。
+|-
+! width="80px" | 6月1日
+| 進行出道二周年紀念直播。
+|-
+! width="80px" | 6月20日
+| 進行出道二周年紀念3D LIVE。
+|-
+! width="80px" | 7月22日
+| 進行生日紀念直播。
+|-
+! width="80px" | 7月28日
+| 新live2D披露。
+|-
+! width="80px" | 8月14日，
+| YouTube訂閱數突破50萬人。
+|-
+! width="80px" | 9月3日
+| 作為聲優參演《Brown Dust》遊戲角色路里瑟亞，完成其中一個出道夢想。
+|-
+! width="80px" | 10月28日
+| 新衣服發布。
+|-
+! width="80px" | 12月22日
+| 作為hololive的一員參加hololive 2nd Fes. "Beyond the Stage"之第二天Stage2的演唱會活動。
+|}
+
+=== 2021年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月31日
+| 參加「Vtuber Fes Japan 2021」演唱會活動，於活動第二天參加出演。
+|-
+! width="80px" | 2月17日
+| 作為hololive的一員參加「Hololive_IDOL_PROJECT_1st_Live.『Bloom,』」之Hololive原創曲演唱會活動。
+|-
+! width="80px" | 3月27日
+| 參加了由VARK主辦的「Cinderella switch ～ふたりでみるホロライブ～」的VR演唱會活動。
+|-
+! width="80px" | 5月28日
+| 參加了hololive主辦的「Hololive 1st Generation 3rd Anniversary LIVE『from 1st』」一期生三週年紀念演唱會。
+|-
+! width="80px" | 6月1日
+| 三週年當天YouTube平台的訂閱數達到100萬，為Hololive旗下第17位達到金盾的Vtuber。
+|-
+! width="80px" | 7月22日
+| 生日當天，於YouTube平台上發表個人第一首原創曲「HiHiハイテンション!」
+|-
+! width="80px" | 8月17日
+| YouTube平台的訂閱數達到110萬。
+|-
+! width="80px" | 9月29日
+| 於日本電視台節目「プロジェクトV」中出演並放送。
+|}
+
+=== 2022年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月10日
+| YouTube訂閱數突破120萬人。
+|}
+
+== 相關條目 ==
+*'''[[KomicaWiki]]條目'''
+** [[虛擬Youtuber]]
+** [[hololive]]
+*'''外部連結'''
+** [https://hololive.hololivepro.com/talents/natsuiro-matsuri/ 官方介紹頁]
+** 影片頻道：{{youtube|c=UCQ0UDLQCjY0rmuxCDE38FGg|title=YouTube}}
+** 社交媒體：{{twitter|natsuiromatsuri|name=Twitter帳戶}}
+** 相關連結：[https://seesaawiki.jp/hololivetv/d/%B2%C6%BF%A7%A4%DE%A4%C4%A4%EA ホロライブ非公式wiki]、[https://dic.nicovideo.jp/a/%E5%A4%8F%E8%89%B2%E3%81%BE%E3%81%A4%E3%82%8A ニコニコ大百科]、[https://dic.pixiv.net/a/%E5%A4%8F%E8%89%B2%E3%81%BE%E3%81%A4%E3%82%8A pixiv百科]、[https://zh.moegirl.org.cn/zh-tw/%E5%A4%8F%E8%89%B2%E7%A5%AD 萌娘百科]
+
+{{hololive production}}
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+
+[[Category:角色]]
+[[Category:虛擬YouTuber]]
+[[Category:hololive]]
+[[Category:網路文化]]

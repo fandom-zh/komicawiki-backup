@@ -1,0 +1,577 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><base href="https://wiki.komica.org/PS3%E5%A4%A7%E5%AD%B8%E9%95%B7"><style>body{margin-left:0;margin-right:0;margin-top:0}#bN015htcoyT__google-cache-hdr{background:#f8f9fa;font:13px arial,sans-serif;text-align:left;color:#202124;border:0;margin:0;border-bottom:1px solid #dadce0;line-height:16px;padding:16px 28px 24px 28px}#bN015htcoyT__google-cache-hdr *{display:inline;font:inherit;text-align:inherit;color:inherit;line-height:inherit;background:none;border:0;margin:0;padding:0;letter-spacing:0}#bN015htcoyT__google-cache-hdr a{text-decoration:none;color:#1a0dab}#bN015htcoyT__google-cache-hdr a:hover{text-decoration:underline}#bN015htcoyT__google-cache-hdr a:visited{color:#681da8}#bN015htcoyT__google-cache-hdr div{display:block;margin-top:4px}#bN015htcoyT__google-cache-hdr b{font-weight:bold;display:inline-block;direction:ltr}</style><style>pre{word-wrap:break-word}</style><div id="bN015htcoyT__google-cache-hdr"><div><span>這是 Google 對 <a href="https://wiki.komica.org/PS3%E5%A4%A7%E5%AD%B8%E9%95%B7">https://wiki.komica.org/PS3%E5%A4%A7%E5%AD%B8%E9%95%B7</a> 的快取。</span>&nbsp;<span>這是該網頁於 2022年11月17日 13:50:43 GMT 顯示時的快照。</span>&nbsp;<span>在此期間，<a href="https://wiki.komica.org/PS3%E5%A4%A7%E5%AD%B8%E9%95%B7">目前網頁</a>可能已經變更。</span>&nbsp;<a href="http://support.google.com/websearch/bin/answer.py?hl=zh-TW&amp;p=cached&amp;answer=1687222"><span>瞭解更多資訊</span>.</a></div><div><span style="display:inline-block;margin-top:8px;margin-right:104px;white-space:nowrap"><span style="margin-right:28px"><a href="http://webcache.googleusercontent.com/search?q=cache:mfRXn2ytV18J:https://wiki.komica.org/PS3%25E5%25A4%25A7%25E5%25AD%25B8%25E9%2595%25B7&amp;lr=lang_en%7Clang_zh-TW&amp;hl=zh-TW&amp;gl=tw&amp;tbs=lr:lang_1en%7Clang_1zh-TW&amp;strip=0&amp;vwsrc=0"><span>完整版</span></a></span><span style="margin-right:28px"><a href="http://webcache.googleusercontent.com/search?q=cache:mfRXn2ytV18J:https://wiki.komica.org/PS3%25E5%25A4%25A7%25E5%25AD%25B8%25E9%2595%25B7&amp;lr=lang_en%7Clang_zh-TW&amp;hl=zh-TW&amp;gl=tw&amp;tbs=lr:lang_1en%7Clang_1zh-TW&amp;strip=1&amp;vwsrc=0"><span>純文字版</span></a></span><span style="margin-right:28px"><span style="font-weight:bold">檢視原始碼</span></span></span></div><span style="display:inline-block;margin-top:8px;color:#70757a"><span>提示：如要在這個網頁上快速尋找您所搜尋的字詞，請按下 <b>Ctrl+F</b> 鍵或 <b>⌘-F</b> 鍵 (Mac)，然後使用尋找列進行搜尋。</span></span></div><div style="position:relative; margin:8px;"><pre>&lt;!DOCTYPE html&gt;
+&lt;html class=&quot;client-nojs&quot; lang=&quot;zh-Hant-TW&quot; dir=&quot;ltr&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;/&gt;
+&lt;title&gt;PS3大學長 - Komica wiki&lt;/title&gt;
+&lt;script&gt;document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, &quot;$1client-js$2&quot; );&lt;/script&gt;
+&lt;script&gt;(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({&quot;wgCanonicalNamespace&quot;:&quot;&quot;,&quot;wgCanonicalSpecialPageName&quot;:false,&quot;wgNamespaceNumber&quot;:0,&quot;wgPageName&quot;:&quot;PS3大學長&quot;,&quot;wgTitle&quot;:&quot;PS3大學長&quot;,&quot;wgCurRevisionId&quot;:417373,&quot;wgRevisionId&quot;:417373,&quot;wgArticleId&quot;:2105,&quot;wgIsArticle&quot;:true,&quot;wgIsRedirect&quot;:false,&quot;wgAction&quot;:&quot;view&quot;,&quot;wgUserName&quot;:null,&quot;wgUserGroups&quot;:[&quot;*&quot;],&quot;wgBreakFrames&quot;:false,&quot;wgPageContentLanguage&quot;:&quot;zh-tw&quot;,&quot;wgPageContentModel&quot;:&quot;wikitext&quot;,&quot;wgSeparatorTransformTable&quot;:[&quot;&quot;,&quot;&quot;],&quot;wgDigitTransformTable&quot;:[&quot;&quot;,&quot;&quot;],&quot;wgDefaultDateFormat&quot;:&quot;zh&quot;,&quot;wgMonthNames&quot;:[&quot;&quot;,&quot;1月&quot;,&quot;2月&quot;,&quot;3月&quot;,&quot;4月&quot;,&quot;5月&quot;,&quot;6月&quot;,&quot;7月&quot;,&quot;8月&quot;,&quot;9月&quot;,&quot;10月&quot;,&quot;11月&quot;,&quot;12月&quot;],&quot;wgMonthNamesShort&quot;:[&quot;&quot;,&quot;1月&quot;,&quot;2月&quot;,&quot;3月&quot;,&quot;4月&quot;,&quot;5月&quot;,&quot;6月&quot;,&quot;7月&quot;,&quot;8月&quot;,&quot;9月&quot;,&quot;10月&quot;,&quot;11月&quot;,&quot;12月&quot;],&quot;wgRelevantPageName&quot;:&quot;PS3大學長&quot;,&quot;wgRelevantArticleId&quot;:2105,&quot;wgRequestId&quot;:&quot;b007dc203855e8134c802e40&quot;,&quot;wgCSPNonce&quot;:false,&quot;wgIsProbablyEditable&quot;:true,&quot;wgRelevantPageIsProbablyEditable&quot;:true,&quot;wgRestrictionEdit&quot;:[],&quot;wgRestrictionMove&quot;:[],&quot;wgWikiEditorEnabledModules&quot;:[],&quot;wgMFMode&quot;:&quot;stable&quot;,&quot;wgMFLazyLoadImages&quot;:true,&quot;wgMFLazyLoadReferences&quot;:false,&quot;wgMFExpandAllSectionsUserOption&quot;:true,&quot;wgMFEnableFontChanger&quot;:true,&quot;wgMFDisplayWikibaseDescriptions&quot;:{&quot;search&quot;:false,&quot;nearby&quot;:false,&quot;watchlist&quot;:false,&quot;tagline&quot;:false},&quot;wgMinervaFeatures&quot;:{&quot;beta&quot;:false,&quot;mobileOptionsLink&quot;:true,&quot;categories&quot;:false,&quot;backToTop&quot;:false,&quot;shareButton&quot;:false,&quot;toggling&quot;:true},&quot;wgMinervaDownloadNamespaces&quot;:[0],&quot;wgMinervaMenuData&quot;:{&quot;groups&quot;:[[{&quot;name&quot;:&quot;home&quot;,&quot;components&quot;:[{&quot;text&quot;:&quot;首頁&quot;,&quot;href&quot;:&quot;/%E9%A6%96%E9%A0%81&quot;,&quot;class&quot;:&quot;mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home &quot;,&quot;data-event-name&quot;:&quot;home&quot;}]},{&quot;name&quot;:&quot;random&quot;,&quot;components&quot;:[{&quot;text&quot;:&quot;隨機&quot;,&quot;href&quot;:&quot;/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random&quot;,&quot;class&quot;:&quot;mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random &quot;,&quot;id&quot;:&quot;randomButton&quot;,&quot;data-event-name&quot;:&quot;random&quot;}]}],[{&quot;name&quot;:&quot;auth&quot;,&quot;components&quot;:[{&quot;text&quot;:&quot;登入&quot;,&quot;href&quot;:&quot;/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7\u0026returntoquery=&quot;,&quot;class&quot;:&quot;mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login &quot;,&quot;data-event-name&quot;:&quot;login&quot;}]}],[{&quot;name&quot;:&quot;settings&quot;,&quot;components&quot;:[{&quot;text&quot;:&quot;設定&quot;,&quot;href&quot;:&quot;/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&quot;,&quot;class&quot;:&quot;mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings &quot;,&quot;data-event-name&quot;:&quot;settings&quot;}]}]],&quot;sitelinks&quot;:[{&quot;name&quot;:&quot;about&quot;,&quot;components&quot;:[{&quot;text&quot;:&quot;關於Komica wiki&quot;,&quot;href&quot;:&quot;/Komica_wiki:%E9%97%9C%E6%96%BC&quot;,&quot;class&quot;:&quot;&quot;}]},{&quot;name&quot;:&quot;disclaimers&quot;,&quot;components&quot;:[{&quot;text&quot;:&quot;免責聲明&quot;,&quot;href&quot;:&quot;/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E&quot;,&quot;class&quot;:&quot;&quot;}]}]},&quot;wgMFDescription&quot;:null});mw.loader.state({&quot;user.styles&quot;:&quot;ready&quot;,&quot;user&quot;:&quot;ready&quot;,&quot;user.options&quot;:&quot;loading&quot;,&quot;user.tokens&quot;:&quot;loading&quot;,&quot;ext.cite.styles&quot;:&quot;ready&quot;,&quot;skins.minerva.base.reset&quot;:&quot;ready&quot;,&quot;skins.minerva.base.styles&quot;:&quot;ready&quot;,&quot;skins.minerva.content.styles&quot;:&quot;ready&quot;,&quot;skins.minerva.content.styles.images&quot;:&quot;ready&quot;,&quot;mediawiki.hlist&quot;:&quot;ready&quot;,&quot;skins.minerva.tablet.styles&quot;:&quot;ready&quot;,&quot;mediawiki.ui.icon&quot;:&quot;ready&quot;,&quot;mediawiki.ui.button&quot;:&quot;ready&quot;,&quot;skins.minerva.icons.images&quot;:&quot;ready&quot;});mw.loader.implement(&quot;user.options@1pwtpze&quot;,function($,jQuery,require,module){/*@nomin*/mw.user.options.set({&quot;variant&quot;:&quot;zh-tw&quot;});
+});mw.loader.implement(&quot;user.tokens@0tffind&quot;,function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({&quot;editToken&quot;:&quot;+\\&quot;,&quot;patrolToken&quot;:&quot;+\\&quot;,&quot;watchToken&quot;:&quot;+\\&quot;,&quot;csrfToken&quot;:&quot;+\\&quot;});
+});RLPAGEMODULES=[&quot;mediawiki.page.startup&quot;,&quot;mediawiki.user&quot;,&quot;skins.minerva.watchstar&quot;,&quot;skins.minerva.editor&quot;,&quot;skins.minerva.options&quot;,&quot;skins.minerva.scripts.top&quot;,&quot;skins.minerva.scripts&quot;,&quot;skins.minerva.toggling&quot;,&quot;ext.gadget.webfont&quot;,&quot;ext.gadget.vote&quot;,&quot;ext.gadget.page-comment&quot;,&quot;mobile.site&quot;,&quot;mobile.init&quot;];mw.loader.load(RLPAGEMODULES);});&lt;/script&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/load.php?debug=false&amp;amp;lang=zh-tw&amp;amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;amp;only=styles&amp;amp;skin=minerva&quot;/&gt;
+&lt;script async=&quot;&quot; src=&quot;/load.php?debug=false&amp;amp;lang=zh-tw&amp;amp;modules=startup&amp;amp;only=scripts&amp;amp;skin=minerva&amp;amp;target=mobile&quot;&gt;&lt;/script&gt;
+&lt;meta name=&quot;ResourceLoaderDynamicStyles&quot; content=&quot;&quot;/&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;MediaWiki 1.32.0&quot;/&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width&quot;/&gt;
+&lt;meta name=&quot;theme-color&quot; content=&quot;#eaecf0&quot;/&gt;
+&lt;link rel=&quot;manifest&quot; href=&quot;/api.php?action=webapp-manifest&quot;/&gt;
+&lt;link rel=&quot;alternate&quot; type=&quot;application/x-wiki&quot; title=&quot;編輯&quot; href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&quot;/&gt;
+&lt;link rel=&quot;edit&quot; title=&quot;編輯&quot; href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&quot;/&gt;
+&lt;link rel=&quot;shortcut icon&quot; href=&quot;/favicon.ico&quot;/&gt;
+&lt;link rel=&quot;search&quot; type=&quot;application/opensearchdescription+xml&quot; href=&quot;/opensearch_desc.php&quot; title=&quot;Komica wiki (zh-tw)&quot;/&gt;
+&lt;link rel=&quot;EditURI&quot; type=&quot;application/rsd+xml&quot; href=&quot;https://wiki.komica.org/api.php?action=rsd&quot;/&gt;
+&lt;!--[if lt IE 9]&gt;&lt;script src=&quot;/load.php?debug=false&amp;amp;lang=zh-tw&amp;amp;modules=html5shiv&amp;amp;only=scripts&amp;amp;skin=vector&amp;amp;sync=1&quot;&gt;&lt;/script&gt;&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body class=&quot;mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-PS3大學長 rootpage-PS3大學長 stable skin-minerva action-view&quot;&gt;
+&lt;div id=&quot;mw-mf-viewport&quot;&gt;
+	&lt;nav id=&quot;mw-mf-page-left&quot; class=&quot;navigation-drawer view-border-box&quot;&gt;
+		
+	&lt;/nav&gt;
+	&lt;div id=&quot;mw-mf-page-center&quot;&gt;
+		&lt;div class=&quot;banner-container&quot;&gt;
+			&lt;div id=&quot;siteNotice&quot;&gt;&lt;/div&gt;
+
+		&lt;/div&gt;
+		&lt;header class=&quot;header-container header-chrome&quot;&gt;
+			&lt;form class=&quot;header&quot; action=&quot;/index.php&quot; method=&quot;get&quot;&gt;
+				&lt;div&gt;&lt;a title=&quot;開啟主選單&quot; href=&quot;/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button&quot; id=&quot;mw-mf-main-menu-button&quot;&gt;開啟主選單&lt;/a&gt;&lt;/div&gt;
+				&lt;div class=&quot;branding-box&quot;&gt;
+					&lt;a href=&quot;/%E9%A6%96%E9%A0%81&quot;&gt;
+						&lt;span&gt;Komica wiki&lt;/span&gt;
+						&lt;sup&gt;&amp;beta;&lt;/sup&gt;
+					&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;search-box&quot;&gt;
+					&lt;input class=&quot;search skin-minerva-search-trigger&quot; type=&quot;search&quot; name=&quot;search&quot; id=&quot;searchInput&quot;
+					   placeholder=&quot;搜尋 Komica wiki&quot;
+					   value=&quot;&quot;&gt;
+				&lt;/div&gt;
+				&lt;div&gt;&lt;button id=&quot;searchIcon&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger&quot; type=&quot;submit&quot;&gt;搜尋&lt;/button&gt;&lt;/div&gt;
+				
+			&lt;/form&gt;
+		&lt;/header&gt;
+		&lt;main id=&quot;content&quot; class=&quot;mw-body&quot;&gt;
+			&lt;div class=&quot;pre-content heading-holder&quot;&gt;&lt;ul id=&quot;page-actions&quot; class=&quot;hlist &quot;&gt;&lt;li id=&quot;ca-edit&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled&quot; title=&quot;編輯此頁面的導言章節&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=0&quot; class=&quot;edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;ca-watch&quot; class=&quot;mw-ui-icon mw-ui-icon-element watch-this-article&quot;&gt;&lt;a href=&quot;/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;amp;returnto=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&quot; title=&quot;將此頁面加入您的監視清單[w]&quot; accesskey=&quot;w&quot;&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled&quot; title=&quot;以其他語言閱讀&quot;&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h1 id=&quot;section_0&quot;&gt;PS3大學長&lt;/h1&gt;&lt;div class=&quot;tagline&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&quot;bodyContent&quot; class=&quot;content&quot;&gt;&lt;div id=&quot;mw-content-text&quot; lang=&quot;zh-Hant-TW&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;script&gt;function mfTempOpenSection(id){var block=document.getElementById(&quot;mf-section-&quot;+id);block.className+=&quot; open-block&quot;;block.previousSibling.className+=&quot; open-block&quot;;}&lt;/script&gt;&lt;div class=&quot;mw-parser-output&quot;&gt;&lt;div class=&quot;mf-section-0&quot; id=&quot;mf-section-0&quot;&gt;&lt;div style=&quot;font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;&quot;&gt; PS3大學長&lt;s&gt;/家機界三大傳說遊戲/Vaporware/&lt;a href=&quot;/%E6%AD%BB%E5%BE%8C%E8%A6%81%E5%AD%90%E5%AD%AB%E7%87%92%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9C%8B%E7%9A%84%E5%90%8D%E5%96%AE&quot; title=&quot;死後要子孫燒給自己看的名單&quot;&gt;死後要子孫燒給自己玩的遊戲&lt;/a&gt;&lt;/s&gt;&lt;/div&gt;
+&lt;table class=&quot;wikitable&quot; style=&quot;font-size:small; margin:1.5em auto; text-align:center;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;以下含有部分的劇情，沒玩過原作又不想被捏它到請不要繼續看下去。&lt;s&gt;不過學長好像也沒有什麼劇情可以捏。&lt;/s&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;3大學長目前為止都已成功畢業&lt;/b&gt;&lt;s&gt;，但新的傳說還在繼續&lt;br&gt;&lt;b&gt;醒醒，PS3、PSV和PS4都畢業了，PS5都出了！！&lt;/b&gt;&lt;/s&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;div id=&quot;toc&quot; class=&quot;toc-mobile&quot;&gt;&lt;h2&gt;目錄&lt;/h2&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(1)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;簡介&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E7.B0.A1.E4.BB.8B&quot;&gt;簡介&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=1&quot; title=&quot;編輯章節：簡介&quot; data-section=&quot;1&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-1 collapsible-block&quot; id=&quot;mf-section-1&quot;&gt;
+&lt;ul&gt;&lt;li&gt;為跳票多年仍然沒有發售的三款知名&lt;s&gt;衛星&lt;/s&gt;PlayStation相關家用機遊戲的總稱。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;通常是叫PS3大學長而不是PS3 3大學長&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;三款遊戲分別為《食人巨鷹TRICO/最後的守護者》《仁王》和《Final Fantasy Versus XⅢ》
+&lt;ul&gt;&lt;li&gt;按照&lt;s&gt;最早放衛星的&lt;/s&gt;時間編排依序：仁王→FFVXIII→TRICO&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;發售日期有志一同的訂在2016。&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;最終三作皆改在PS4上發行，FFVXⅢ後來更名為《Final Fantasy XV》
+&lt;ul&gt;&lt;li&gt;三作的最終&lt;s&gt;畢業&lt;/s&gt;發售日：
+&lt;ul&gt;&lt;li&gt;Final Fantasy XV：2016/11/29&lt;/li&gt;
+&lt;li&gt;食人大鷹TRICO/最後的守護者：2016/12/06&lt;/li&gt;
+&lt;li&gt;仁王：2017/02/09&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3 class=&quot;in-block&quot;&gt;&lt;span id=&quot;仁王&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E4.BB.81.E7.8E.8B&quot;&gt;&lt;a href=&quot;/%E4%BB%81%E7%8E%8B&quot; title=&quot;仁王&quot;&gt;仁王&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=2&quot; title=&quot;編輯章節：仁王&quot; data-section=&quot;2&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;div class=&quot;center&quot;&gt;&lt;div class=&quot;floatnone&quot;&gt;&lt;a href=&quot;/%E6%AA%94%E6%A1%88:%E4%BB%81%E7%8E%8B.jpg&quot; class=&quot;image&quot;&gt;&lt;noscript&gt;&lt;img alt=&quot;仁王.jpg&quot; src=&quot;/images/9/97/%E4%BB%81%E7%8E%8B.jpg&quot; width=&quot;580&quot; height=&quot;326&quot;&gt;&lt;/noscript&gt;&lt;span class=&quot;lazy-image-placeholder&quot; style=&quot;width: 580px;height: 326px;&quot; data-src=&quot;/images/9/97/%E4%BB%81%E7%8E%8B.jpg&quot; data-alt=&quot;仁王.jpg&quot; data-width=&quot;580&quot; data-height=&quot;326&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;シブサワ‧コウ（澀澤光）&lt;sup id=&quot;cite_ref-1&quot; class=&quot;reference&quot;&gt;&lt;a href=&quot;#cite_note-1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; 擔任製作，由&lt;a href=&quot;/KOEI_TECMO&quot; title=&quot;KOEI TECMO&quot;&gt;Koei&lt;/a&gt;擔任開發的動作角色扮演遊戲。最初公佈於2004年。
+&lt;ul&gt;&lt;li&gt;一開始的名稱是《鬼》，是由導演黑澤明於電影《亂》的劇本大綱中所遺留下來的手稿經由其子黑澤久雄大幅改編擴充而來。&lt;s&gt;然而黑澤家儼然放棄電影拍攝計畫&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;預計將推出電影和遊戲，但是後來都沒有消息。
+&lt;ul&gt;&lt;li&gt;雖然一度傳說將由Team NINJA來開發或是開發中止，但是&lt;a href=&quot;/KOEI_TECMO&quot; title=&quot;KOEI TECMO&quot;&gt;KOEI TECMO&lt;/a&gt;都沒有進一步的表示。
+&lt;ul&gt;&lt;li&gt;2014年年終襟川陽一跟早矢仕洋介都有釋出開發中的消息，事實上不知道開發到什麼程度。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;沒有在製作的東西一直都在開發中&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/%E6%88%90%E5%8F%A5/%E4%BD%A0%E5%BE%9E%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E9%96%8B%E5%A7%8B%E7%94%A2%E7%94%9F%E4%BA%86%E2%97%8B%E2%97%8B%E7%9A%84%E9%8C%AF%E8%A6%BA%EF%BC%9F&quot; title=&quot;成句/你從什麼時候開始產生了○○的錯覺？&quot;&gt;&lt;s&gt;你從什麼時候產生開發進度有在跑的錯覺？&lt;/s&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;株主：仁王還在開發嗎。&lt;br&gt;襟川：好調開發中&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;s&gt;《百年戰爭》和《刻命館》都有續作了，仁王學長你怎麼還沒有畢業&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;有一說是已轉學成《討鬼傳》&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;2015年襟川社長公開表示今年會發表仁王，遊戲系統也一改再改，演變成新類型動作遊戲。
+&lt;ul&gt;&lt;li&gt;開發初期時用《決戰》當模板做出試玩版，但是不有趣而廢案&lt;/li&gt;
+&lt;li&gt;2009年KT合併與TN合作，結果做得像《忍者外傳》再次廢案&lt;/li&gt;
+&lt;li&gt;近年&lt;s&gt;因為社長碰到《血痕詛咒》驚為天人&lt;/s&gt;重新開啟開發計畫&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;只是因為不想落單而已（因為2015年一堆學長都在補學分，就他沒反應）&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;2015年9月15日，在日本亞洲索尼電腦娛樂（SCEJA）舉辦的2015年媒體發表會中宣布《仁王》將回歸，並預計在2016年在PS4上獨佔推出&lt;s&gt;大學長你回來啦&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;絕對不要問為何男主角長的像隔壁棚的波蘭林正英&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://www.youtube.com/watch?v=KZhnMEDZ2os&quot;&gt;官方一直把卒業當梗&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;充滿了一海票的&lt;s&gt;&lt;a href=&quot;/%E5%81%B7%E5%AD%B8&quot; title=&quot;偷學&quot;&gt;偷學&lt;/a&gt;&lt;/s&gt;致敬要素，主要是致敬《黑暗靈魂》系列
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;戲稱《巫師3》的資料片&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;卡普空：這根本是《鬼武者》吧，我生氣了光榮!!&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;最終在2017年2月9日正式發售；起初為PS4獨占，到同年11月7日跨平台到&lt;a href=&quot;/Steam&quot; title=&quot;Steam&quot;&gt;Steam&lt;/a&gt;上
+&lt;ul&gt;&lt;li&gt;&lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://www.gamecity.ne.jp/nioh2/&quot;&gt;時至今日（2020年3月12日）連2代也出了&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;等待時間：13年&lt;/li&gt;&lt;/ul&gt;&lt;h3 class=&quot;in-block&quot;&gt;&lt;span id=&quot;食人巨鷹TRICO/最後的守護者[2]&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E9.A3.9F.E4.BA.BA.E5.B7.A8.E9.B7.B9TRICO.2F.E6.9C.80.E5.BE.8C.E7.9A.84.E5.AE.88.E8.AD.B7.E8.80.85.5B2.5D&quot;&gt;食人巨鷹TRICO/最後的守護者&lt;sup id=&quot;cite_ref-2&quot; class=&quot;reference&quot;&gt;&lt;a href=&quot;#cite_note-2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=3&quot; title=&quot;編輯章節：食人巨鷹TRICO/最後的守護者[2]&quot; data-section=&quot;3&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;div class=&quot;center&quot;&gt;&lt;div class=&quot;floatnone&quot;&gt;&lt;a href=&quot;/%E6%AA%94%E6%A1%88:%E9%A3%9F%E4%BA%BA%E5%B7%A8%E9%B7%B9TRICO.JPG&quot; class=&quot;image&quot;&gt;&lt;noscript&gt;&lt;img alt=&quot;食人巨鷹TRICO.JPG&quot; src=&quot;/images/f/ff/%E9%A3%9F%E4%BA%BA%E5%B7%A8%E9%B7%B9TRICO.JPG&quot; width=&quot;500&quot; height=&quot;281&quot;&gt;&lt;/noscript&gt;&lt;span class=&quot;lazy-image-placeholder&quot; style=&quot;width: 500px;height: 281px;&quot; data-src=&quot;/images/f/ff/%E9%A3%9F%E4%BA%BA%E5%B7%A8%E9%B7%B9TRICO.JPG&quot; data-alt=&quot;食人巨鷹TRICO.JPG&quot; data-width=&quot;500&quot; data-height=&quot;281&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;由SCE Japan Studio旗下的Team Ico&lt;sup id=&quot;cite_ref-3&quot; class=&quot;reference&quot;&gt;&lt;a href=&quot;#cite_note-3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt; 所開發的PS3遊戲。製作人為上田文人。
+&lt;ul&gt;&lt;li&gt;原先的是以「Project Trico」的名義被玩家所知&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;一開始預訂2010年發售但又因《ICO&amp;amp;旺達與巨像 合集》而延後，之後更變成發售日和平台未定&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;2011年12月，上田文人宣布從索尼辭職同時也辭去了在ICO小組的職位，不過仍然繼續以自由身份完成《食人大鷹TRICO/最後的守護者》的開發。
+&lt;ul&gt;&lt;li&gt;Sony總裁吉田修平在同年也表示遊戲正在重新設計的階段，明確表示遊戲沒被中止。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;但就算是這樣也好歹給個進度吧&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;想當年《ICO》也是因為技術問題才從PS改到PS2這次也一定是這樣&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;到2015年工作人員又忘記簽到了（商標忘記續約）
+&lt;ul&gt;&lt;li&gt;同年E3發佈正式消息，最終在2016年12月6日正式發售。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;等待時間：7年&lt;/li&gt;&lt;/ul&gt;&lt;h3 class=&quot;in-block&quot;&gt;&lt;span id=&quot;Final_Fantasy_Versus_XⅢ/Final_Fantasy_XV&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;Final_Fantasy_Versus_X.E2.85.A2.2FFinal_Fantasy_XV&quot;&gt;Final Fantasy Versus XⅢ/&lt;a href=&quot;/Final_Fantasy_XV&quot; title=&quot;Final Fantasy XV&quot;&gt;Final Fantasy XV&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=4&quot; title=&quot;編輯章節：Final Fantasy Versus XⅢ/Final Fantasy XV&quot; data-section=&quot;4&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;div class=&quot;center&quot;&gt;&lt;div class=&quot;floatnone&quot;&gt;&lt;a href=&quot;/%E6%AA%94%E6%A1%88:Final_Fantasy_XV_Logo.png&quot; class=&quot;image&quot;&gt;&lt;noscript&gt;&lt;img alt=&quot;Final Fantasy XV Logo.png&quot; src=&quot;/images/a/aa/Final_Fantasy_XV_Logo.png&quot; width=&quot;640&quot; height=&quot;410&quot;&gt;&lt;/noscript&gt;&lt;span class=&quot;lazy-image-placeholder&quot; style=&quot;width: 640px;height: 410px;&quot; data-src=&quot;/images/a/aa/Final_Fantasy_XV_Logo.png&quot; data-alt=&quot;Final Fantasy XV Logo.png&quot; data-width=&quot;640&quot; data-height=&quot;410&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;為「新的水晶故事」裡面的其中一分子。
+&lt;ul&gt;&lt;li&gt;團員分別為《Final Fantasy XⅢ》《&lt;a href=&quot;/Final_Fantasy_%E9%9B%B6%E5%BC%8F&quot; title=&quot;Final Fantasy 零式&quot;&gt;Final Fantasy 零式&lt;/a&gt;》《Final Fantasy XIII-2》《&lt;a href=&quot;/%E9%9B%B7%E5%85%89&quot; title=&quot;雷光&quot;&gt;雷光&lt;/a&gt;歸來：Final Fantasy XⅢ》
+&lt;ul&gt;&lt;li&gt;《Final Fantasy Agito》雖然採用零式的世界觀，但不屬於「新的水晶故事」一份子。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;在2006年5月公布不久後開始製作，但因為技術問題和某人的關係使得開發周期變得很長。&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;2013年的E3展上宣布改名為《Final Fantasy XV》&lt;s&gt;，雖然名字改了但發售日還是不清楚&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;由半路殺出的《Final Fantasy零式 HD》中提供試玩版。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;再幾個學分就可以畢業了&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;定義為「一個基於現實的幻想」。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;結果現實到跟服飾品牌和戶外用品推出合作&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;最現實的是試玩版內容就是主角一行人找辦法賺錢修車&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;遊戲界的異類&lt;s&gt;，預告片比FFXⅢ還要多是甚麼概念&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;最終在2016年11月29日正式發售，不過為人詬病的錯位Bug居多再加上偷跑劇情洩漏的負評，導致首日銷售量不及FFXⅢ的一半。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;牛郎&lt;a href=&quot;/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA&quot; title=&quot;魔物獵人&quot;&gt;魔物獵人&lt;/a&gt;，&lt;a href=&quot;/BL&quot; title=&quot;BL&quot;&gt;基情&lt;/a&gt;滿天下&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://www.youtube.com/watch?v=cOETCtlCTP4&quot;&gt;&lt;s&gt;其實是GTA的新作&lt;/s&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;&lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://www.ptt.cc/bbs/PlayStation/M.1441251452.A.3AE.html&quot;&gt;反正地圖大還不是娘泡遊戲…&lt;/a&gt;&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;等待時間：8年
+&lt;ul&gt;&lt;li&gt;事實上從改名開始才算是開發，FFVXⅢ的開發程度才0.1%上下。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(2)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;畢業無望的學長們&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E7.95.A2.E6.A5.AD.E7.84.A1.E6.9C.9B.E7.9A.84.E5.AD.B8.E9.95.B7.E5.80.91&quot;&gt;畢業無望的學長們&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=5&quot; title=&quot;編輯章節：畢業無望的學長們&quot; data-section=&quot;5&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-2 collapsible-block&quot; id=&quot;mf-section-2&quot;&gt;
+&lt;table class=&quot;wikitable&quot; style=&quot;margin: 1.5em auto;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;進入條件：&lt;b&gt;完全沒有消息。 &lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;&lt;li&gt;末期、少女病
+&lt;ul&gt;&lt;li&gt;延期了很久的PC遊戲+1&lt;/li&gt;
+&lt;li&gt;2003年宣佈停止製作；後來製作方轉移，2013年還有消息，之後就沒有了
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;Blasterhead出國深造不知何處…&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Deep Down
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/Capcom&quot; title=&quot;Capcom&quot;&gt;Capcom&lt;/a&gt;於2013年公佈、預定在PS4推出的ARPG遊戲&lt;/li&gt;
+&lt;li&gt;採用免費遊玩模式，遊戲系統基於同廠的《&lt;a href=&quot;/index.php?title=%E9%BE%8D%E6%97%8F%E6%95%99%E6%A2%9D&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;龍族教條（頁面不存在）&quot;&gt;龍族教條&lt;/a&gt;》，被視為精神上的續作&lt;/li&gt;
+&lt;li&gt;在2015年的&lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;http://www.4gamer.net/games/289/G028968/20150203066/&quot;&gt;訪問&lt;/a&gt;之後就沒有任何消息，期間只是不斷延長商標…
+&lt;ul&gt;&lt;li&gt;然而有消息指因為所屬遊戲引擎「Panta Rhei」開發進度不順導致遊戲嚴重停擺，在重心轉去新引擊「RE Engine」後該IP恐怕也石沉大海&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;炒冷飯賺回來的錢放了在這畫太大的餅上面了&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(3)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;莫名其妙畢業的學長&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E8.8E.AB.E5.90.8D.E5.85.B6.E5.A6.99.E7.95.A2.E6.A5.AD.E7.9A.84.E5.AD.B8.E9.95.B7&quot;&gt;莫名其妙畢業的學長&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=6&quot; title=&quot;編輯章節：莫名其妙畢業的學長&quot; data-section=&quot;6&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-3 collapsible-block&quot; id=&quot;mf-section-3&quot;&gt;
+&lt;table class=&quot;wikitable&quot; style=&quot;margin: 1.5em auto;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;進入條件：&lt;b&gt;沒有預告或是消息公布沒多久就發售的作品。 &lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;&lt;li&gt;影牢 闇影公主
+&lt;ul&gt;&lt;li&gt;KOEI TECMO製作的PS3/PS Vita遊戲，官方編號為「Kagero 3」，海外為「Deception 4」&lt;/li&gt;
+&lt;li&gt;一樣也是玩家們不期不待的遊戲系列，但在2014年春季發售。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;荷包君你死得好慘喔&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;作為系列特色的木馬一樣沒有缺席&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;但內容充滿試驗性，過場只有2D插圖沒有實機影片，分歧路線也非常的少&lt;s&gt;但玩家已經很感激了&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;新作&lt;/s&gt;加強版：影牢 惡夢公主已於2015年3月26日到來&lt;/li&gt;
+&lt;li&gt;等待時間：9年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E9%9B%B6%E7%B3%BB%E5%88%97&quot; title=&quot;零系列&quot;&gt;零～濡鴉之巫女～&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;KOEI TECMO於2014年在Wii U上推出的系列第五作
+&lt;ul&gt;&lt;li&gt;不過沒有海外版，所以算是畢業一半&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;系列作首次HD化，也是首次採用章節制的設定&lt;s&gt;，也是目前系列作當中男主角活得最好的&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;製作組突然變良善了&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;KT第一款搭配電影行銷的作品&lt;s&gt;（電影惡評的意味）&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：6年&lt;sup id=&quot;cite_ref-4&quot; class=&quot;reference&quot;&gt;&lt;a href=&quot;#cite_note-4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;長劍風暴：百年戰爭
+&lt;ul&gt;&lt;li&gt;KOEI TECMO於2007年推出系列作&lt;s&gt;怎麼又是KT&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;從傭兵對戰進化成共鬥遊戲了。&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：7年
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;其實根本沒人在等待&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;結果在2015年1月29日又推出加強版《長劍風暴 百年戰爭&amp;amp;夢魘》&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;魔物獵人&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A2%A8&quot; title=&quot;快打旋風&quot;&gt;快打旋風&lt;/a&gt;Ⅳ
+&lt;ul&gt;&lt;li&gt;Capcom於2008年於大型機台上推出的系列第4作，隔年移植至PS3、Xbox360及PC上&lt;/li&gt;
+&lt;li&gt;人物與背景完全3D化，但是主要系統仍然是2D格鬥，在畫面上大量使用水墨的薰染特效。&lt;/li&gt;
+&lt;li&gt;系統相較於三代較為簡易，新加入蓄力反擊（Saving Atrack）和終極連段（Ultra Combo）兩個基本系統。&lt;/li&gt;
+&lt;li&gt;故事設定在二代與三代的中間，登場角色以二代為主，並增添了數名原創新角。
+&lt;ul&gt;&lt;li&gt;之後發售的加強版《超級快打旋風Ⅳ》則是增添了來自ZERO、街頭快打、三代的角色，總共預計有35名角色參戰。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;時至今日不但V推出了，連Ⅵ也打了初期預告&lt;/li&gt;
+&lt;li&gt;等待時間：10年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;三國志&lt;s&gt;12&lt;/s&gt;13
+&lt;ul&gt;&lt;li&gt;2006年推出11後，&lt;s&gt;先不管2012年出了12，&lt;/s&gt;直到2015年5月配合《三國志》系列30周年企畫推出。&lt;/li&gt;
+&lt;li&gt;發售之前讓人期待花了6年開發能推出什麼成果。但最後卻推出成網路遊戲。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;根據天津光榮的工作人員爆料，12只開發一年而非大家認為的五年&lt;a href=&quot;/%E9%BB%91%E6%AD%B7%E5%8F%B2&quot; title=&quot;黑歷史&quot;&gt;所以12是不存在的&lt;/a&gt;&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;採用角色扮演制&lt;s&gt;讓三國志11的粉絲都憤怒了&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：&lt;s&gt;6→&lt;/s&gt;9年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;刺客&lt;s&gt;這就是斯巴達傭兵&lt;/s&gt;教條 奧德賽
+&lt;ul&gt;&lt;li&gt;早在2018五月底便有外國媒體收到希臘頭盔樣式的鑰匙圈，包裝上頭寫著「Assassin&#39;s Creed Odyssey」，被懷疑是新作名稱；之後&lt;a href=&quot;/Ubisoft&quot; title=&quot;Ubisoft&quot;&gt;Ubisoft&lt;/a&gt;於2018年E3展上正式公布&lt;/li&gt;
+&lt;li&gt;本代背景為BC.431年的伯羅奔尼薩戰爭時期，主角是游走於兩方勢力的雇傭兵。
+&lt;ul&gt;&lt;li&gt;男/女主角設定上是斯巴達人，因故漂流至凱法隆尼亞島上，為解開自己的身世之迷而出海。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;系統機制上更靠攏《巫師3》，有劇情選擇導向、更活潑的支線劇情，還有海戰系統的正式回歸及借鑑於中土世界系列的傭兵系統。
+&lt;ul&gt;&lt;li&gt;戰鬥系統更加細化，戰鬥傷害細分為刺客、戰士、獵人三項，裝備也針對這三樣去強化，也可以施展一些技能，比如可以把人踢下高處的斯巴達踢、類似飛雷神之術的瞬移刺殺等…&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：1年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Apex英雄
+&lt;ul&gt;&lt;li&gt;由&lt;s&gt;前COD系列開發商「Infinity Ward」成員跳槽至&lt;/s&gt;EA旗下&lt;s&gt;組成新&lt;/s&gt;工作室Respawn Entertainment製作的免費網路遊戲，2019年2月4日發售
+&lt;ul&gt;&lt;li&gt;由於正式上線前沒有任何宣傳，而免費的價格和刺激的玩法吸引了不少玩家，甚至拯救因《戰地風雲V》以及《冒險聖歌》而淪為壁紙的EA&lt;a href=&quot;/%E8%82%A1%E5%83%B9&quot; title=&quot;股價&quot;&gt;股價&lt;/a&gt;&lt;s&gt;，不過最近又回落了&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;遊戲採用《&lt;s&gt;&lt;a href=&quot;/%E6%88%90%E5%8F%A5/%E5%A4%AA%E5%A4%AA%E6%88%91%E5%96%9C%E6%AD%A1%E5%A6%B3%E5%91%80~&quot; class=&quot;mw-redirect&quot; title=&quot;成句/太太我喜歡妳呀~&quot;&gt;太太&lt;/a&gt;墮落&lt;/s&gt;&lt;a href=&quot;/TITANFALL&quot; title=&quot;TITANFALL&quot;&gt;泰坦降臨&lt;/a&gt;》的世界觀，玩法是近幾年大行其道的&lt;a href=&quot;/%E6%88%90%E5%8F%A5/%E5%A4%A7%E5%90%89%E5%A4%A7%E5%88%A9%EF%BC%8C%E6%99%9A%E4%B8%8A%E5%90%83%E9%9B%9E&quot; title=&quot;成句/大吉大利，晚上吃雞&quot;&gt;&lt;s&gt;吃雞&lt;/s&gt;&lt;/a&gt;&lt;a href=&quot;/%E5%A4%A7%E9%80%83%E6%AE%BA&quot; title=&quot;大逃殺&quot;&gt;大逃殺&lt;/a&gt;，不同的是玩家操控類似《&lt;a href=&quot;/Overwatch&quot; title=&quot;Overwatch&quot;&gt;Overwatch&lt;/a&gt;》的英雄組成三人小隊與其他隊伍廝殺（最多20隊=60人）並增加了可復活隊友的系統
+&lt;ul&gt;&lt;li&gt;由於中國玩家一向的「優良」品性，讓工作室大量封禁該地帳號，不過國外玩家認為應該直接封鎖中國玩家。&lt;/li&gt;
+&lt;li&gt;兩個月後因為更新頻率不高以及外掛猖獗的緣故而導致大量玩家退坑，8月更因為開箱外觀的收費問題讓製作人跟玩家起了衝突，讓前途不明的本作又潛藏了不穩的因子。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;雖如上所言，但是在BFV和冒險聖歌相繼被EA拔管的同時、獲眾多&lt;a href=&quot;/%E8%99%9B%E6%93%ACYouTuber&quot; title=&quot;虛擬YouTuber&quot;&gt;虛擬YouTuber&lt;/a&gt;及Steam玩家引流下本作依舊茁壯發展。&lt;/li&gt;
+&lt;li&gt;等待時間：3年（由《泰坦降臨2》發售時間起算）&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(4)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;連入學都是個問題的學長&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E9.80.A3.E5.85.A5.E5.AD.B8.E9.83.BD.E6.98.AF.E5.80.8B.E5.95.8F.E9.A1.8C.E7.9A.84.E5.AD.B8.E9.95.B7&quot;&gt;連入學都是個問題的學長&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=7&quot; title=&quot;編輯章節：連入學都是個問題的學長&quot; data-section=&quot;7&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-4 collapsible-block&quot; id=&quot;mf-section-4&quot;&gt;
+&lt;table class=&quot;wikitable&quot; style=&quot;margin: 1.5em auto;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;進入條件：&lt;b&gt;&lt;s&gt;斷尾&lt;/s&gt;沒有發布後續消息的系列作。&lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;&lt;li&gt;VR快打
+&lt;ul&gt;&lt;li&gt;Sega開發的格鬥遊戲，3D格鬥遊戲始祖，最後一款作品發表於2006年&lt;/li&gt;
+&lt;li&gt;Sega基板已經換了好幾個，但VF新作還是沒有消息
+&lt;ul&gt;&lt;li&gt;過了28周年跑出電子競技高畫質重製家機版「eスポーツ」…&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;倒是結城晶、布萊恩兄妹和陳佩跑去其他遊戲&lt;a href=&quot;/%E5%85%BC%E5%B7%AE&quot; title=&quot;兼差&quot;&gt;兼差&lt;/a&gt;&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：10年（若把最後一次更新「Final Showdown」算進去為4年）&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;戰慄時空3
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;連消息都沒有是要說什麼？&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;在《戰慄時空：艾莉克絲》的結局中&lt;span class=&quot;inline-text-censored&quot; title=&quot;你知道的太多了&quot; style=&quot;color:black !important; background-color:black; cursor:default;&quot;&gt;，G MAN的干涉改變了伊萊.凡斯博士的已死的事實，並帶走了艾莉克絲，而這也讓凡斯博士理解了「出乎意料的結果」的意涵，生氣的他自「狗狗」處拿過了鐵撬交給高登；也許&lt;/span&gt;表示或許HL3之類的新作大概不遠矣&lt;s&gt;前提是artifact必須先修好才行&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：10年
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;G胖他的手指比出三了，HL3果然在開發！&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E5%82%B3%E7%B3%BB%E5%88%97&quot; title=&quot;幻想水滸傳系列&quot;&gt;幻想水滸傳VI&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;PS3問世後不久，《幻想水滸伝VI》的標題突然毫無徵兆出現在法米通的PS3新作發售表內。
+&lt;ul&gt;&lt;li&gt;後來有人去問&lt;a href=&quot;/Konami&quot; class=&quot;mw-redirect&quot; title=&quot;Konami&quot;&gt;Konami&lt;/a&gt;官方推特，得到了隱晦但偏向於肯定的答覆&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;但是迄今為止&lt;b&gt;完全沒有任何可靠官方消息&lt;/b&gt;；雖然去年末有謠傳說幻水系列新作正在開發，但就算屬實也有可能是百萬世界的新作。
+&lt;ul&gt;&lt;li&gt;而且從Konami目前的動向看來，放棄單機遊戲市場已成必然趨勢&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;現在想想當初那個所謂的6很有可能是黃道十二宮的前身&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;目前IP還在Konami手上。但本作的創始人村山吉隆宣佈製作&lt;s&gt;精神續作&lt;/s&gt;《百英雄傳》
+&lt;ul&gt;&lt;li&gt;東京電玩展2022公開1+2的HD REMASTER......真的有復活跡象?&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：11年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;s&gt;&lt;a href=&quot;/%E6%98%8E%E6%98%9F%E5%BF%97%E9%A1%98%E7%B3%BB%E5%88%97&quot; title=&quot;明星志願系列&quot;&gt;明星志願4&lt;/a&gt;&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;雖然沒推出也沒任何官方消息，但姑且就放在這裡吧。&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;2019年大宇未將本作列入發售計劃中&lt;s&gt;，坊間有消息稱是因為換裝系統出了問題&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;2020年明星志願系列第一部智慧型手機遊戲宣佈停止營運，緊接著推出了第二部智慧型手機遊戲的公測&lt;s&gt;，看樣子是無望了&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;有小道消息表明還在開發中，2022年可能有正式消息&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：15年（從PC最新一作《甜蜜樂章》算起）&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(5)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;即將畢業的學長&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E5.8D.B3.E5.B0.87.E7.95.A2.E6.A5.AD.E7.9A.84.E5.AD.B8.E9.95.B7&quot;&gt;即將畢業的學長&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=8&quot; title=&quot;編輯章節：即將畢業的學長&quot; data-section=&quot;8&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-5 collapsible-block&quot; id=&quot;mf-section-5&quot;&gt;
+&lt;table class=&quot;wikitable&quot; style=&quot;margin: 1.5em auto;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;進入條件：&lt;b&gt;沉寂多年終於有發售消息的作品。&lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;&lt;li&gt;Six Days in Fallujah/法魯賈六日
+&lt;ul&gt;&lt;li&gt;原由Atomic Games製作、Konami發行的射擊遊戲，Atomic Games於2011年解散後由Highwire Games接手並於2021年內預定發售。
+&lt;ul&gt;&lt;li&gt;之所以會有如上情況，是因為該遊戲是改編自現實中2004年伊拉克戰爭中的第二次法魯賈戰役，就機密以及爭議性而言是其他射擊遊戲前所未有。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：10年。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;starfield/星空
+&lt;ul&gt;&lt;li&gt;在2018年E3展上和上古卷軸6一同公布。&lt;/li&gt;
+&lt;li&gt;在2021年的微軟貝賽斯達聯合發布會上作為開場正式公布的RPG。&lt;/li&gt;
+&lt;li&gt;於火箭面板展示了預計的發售日期為2022年11月11日&lt;s&gt;剛好是上古五的發售日期&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;然後就被黑曜石用《天外世界2》的預告嗆爆了&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：3年&lt;sup id=&quot;cite_ref-5&quot; class=&quot;reference&quot;&gt;&lt;a href=&quot;#cite_note-5&quot;&gt;[5]&lt;/a&gt;&lt;/sup&gt;或25年&lt;sup id=&quot;cite_ref-6&quot; class=&quot;reference&quot;&gt;&lt;a href=&quot;#cite_note-6&quot;&gt;[6]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;閃電十一人 英雄們的勝利之路
+&lt;ul&gt;&lt;li class=&quot;mw-empty-elt&quot;&gt;
+&lt;li&gt;等待時間：5年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E6%A5%B5%E9%99%90%E7%AB%B6%E9%80%9F%E7%B3%BB%E5%88%97&quot; title=&quot;極限競速系列&quot;&gt;極限競速/Forza Motorsport（第8代）&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;微軟於2020年公佈、預定於Xbox Series X|S、Windows 10+平台上推出的擬真系賽車遊戲新作。&lt;/li&gt;
+&lt;li&gt;初出時預定為主機護航作，但公佈之後很長時間依然無下文。 &lt;s&gt;甚至連作為外傳的地平線也已經出了兩代&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;在2022年6月Turn 10發佈預告片&lt;s&gt;和技術展示片段&lt;/s&gt;後，正式宣告該作預定於2023年春季發售。&lt;/li&gt;
+&lt;li&gt;等待時間：3年或6年（從正傳第7作發售時間算起）&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(6)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;穢土轉生新生報到的學長&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E7.A9.A2.E5.9C.9F.E8.BD.89.E7.94.9F.E6.96.B0.E7.94.9F.E5.A0.B1.E5.88.B0.E7.9A.84.E5.AD.B8.E9.95.B7&quot;&gt;&lt;s&gt;穢土轉生&lt;/s&gt;新生報到的學長&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=9&quot; title=&quot;編輯章節：穢土轉生新生報到的學長&quot; data-section=&quot;9&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-6 collapsible-block&quot; id=&quot;mf-section-6&quot;&gt;
+&lt;table class=&quot;wikitable&quot; style=&quot;margin: 1.5em auto;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;進入條件：&lt;b&gt;沉寂十多年系列最新作品。 &lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E4%B8%96%E7%B4%80%E5%B8%9D%E5%9C%8B&quot; title=&quot;世紀帝國&quot;&gt;世紀帝國4&lt;/a&gt;&lt;s&gt;世紀帝國決定高清重鑄導演ver.2.123456789...........&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;2017年8月21日公布預告片，宣布由RELIC工作室製作系列最新作。&lt;/li&gt;
+&lt;li&gt;到2019年公布實機預告，背景跟2代一樣是中世紀，不過根據訪談會比二代的背景時代涵蓋更廣。
+&lt;ul&gt;&lt;li&gt;和二代不同，這次每個陣營都有各自的獨立機制，且這次的戰役會配合真人紀錄片介紹歷史。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;在2021年4月10日正式公布實機預告並公布了二、三代決定版會有新的民族和機制。&lt;/li&gt;
+&lt;li&gt;2021年10月28日發售。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;真正的戰爭遊戲終於來了，世紀帝國2再戰十年&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：12年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;浩劫殺陣2：車諾比之心
+&lt;ul&gt;&lt;li&gt;最早由開發團隊GSC Game World於2018年放上僅寫著「S.T.A.L.K.E.R. 2」與「2.0.2.1.」網頁，隔年開始放一些桌布及遊戲音樂下載&lt;/li&gt;
+&lt;li&gt;到2020年3月終於釋出第一張遊戲畫面，並於7月24日的Xbox發表會上公布預告。&lt;s&gt;預定2022年4月28日→12月8日發售。&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;因為2022年俄烏戰爭讓開發被擱置，GSC表示遊戲將會在他們勝利之後繼續開發。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：12年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/The_Elder_Scrolls&quot; title=&quot;The Elder Scrolls&quot;&gt;上古卷軸6&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;2018年E3展上，Todd Howard宣布六代正在全力開發中。同時進行的還有上面的Starfield。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;於是為了填補空窗期，就把還是半成品的《異塵餘生76》強行上架&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;結果想當然爾罵聲不斷…撿來的孩子像根草&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;《Starfield》的預告中出現了落錘省、高岩省的圖樣&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：10年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E7%B4%94%E6%84%9B%E6%89%8B%E6%9C%ADGS&quot; title=&quot;純愛手札GS&quot;&gt;ときめきメモリアルGS4&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;日本玩家公認的平成年間最好的&lt;a href=&quot;/%E4%B9%99%E5%A5%B3%E9%81%8A%E6%88%B2&quot; title=&quot;乙女遊戲&quot;&gt;乙女遊戲&lt;/a&gt;系列之一。&lt;/li&gt;
+&lt;li&gt;2015年，系列製作人（同時也是Love Plus系列的製作人）內田明理從Konami離職。&lt;/li&gt;
+&lt;li&gt;沉寂8年後，2018年Konami突然開啟了一個GS相關的帳號，裡面是一些GIF和遊戲的背景圖配上文字介紹疑似GS新作的宣傳。&lt;/li&gt;
+&lt;li&gt;2019年的EVENT上正式宣布GS4製作，並公佈的角色和對應的聲優。&lt;/li&gt;
+&lt;li&gt;2021年年中宣布該遊戲的發售日為2021年10月28日。
+&lt;ul&gt;&lt;li&gt;之後的E3 2021上公開了本作的一些演示畫面。這也是難得的乙女遊戲在E3出現。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;正式發售後本作可謂是大受好評，銷量口碑雙豐收，可以說是成功讓系列復活。而GS也正好迎來了20週年紀念。
+&lt;ul&gt;&lt;li&gt;但老粉絲萬眾矚目的移植作卻毫無下文&lt;s&gt;任由舊作在二手市場上的價格一個比一個離譜&lt;/s&gt;。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：9年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;英雄連隊3
+&lt;ul&gt;&lt;li&gt;於2021年7月14日凌晨公布實機預告，預定2022年下半年推出。&lt;/li&gt;
+&lt;li&gt;本次背景集中在二戰地中海戰區，單機戰役和以往章節式的關卡不同，是以沙盒大地圖的方式讓玩家有更多運籌帷幄的空間
+&lt;ul&gt;&lt;li&gt;無論是鞏固補給路線、建立自己的游擊隊據點的同時率領三軍一體用以戰線推進，讓自己在戰場上取得更多優勢&lt;/li&gt;
+&lt;li&gt;更可以自訂單位組成，盟軍各級的專業單位以及戰鬥車輛都可以任你差遣。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：8年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;心靈殺手2
+&lt;ul&gt;&lt;li&gt;於2021年12月10日TGA公布預計2023年發售。&lt;/li&gt;
+&lt;li&gt;由於本次是由EPIC發行，所以PC版會由EPIC平台獨佔一段時間。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;主角絕對沒有Cos某個用鉛筆殺光一整團殺手的基哥。&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：13年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;戰錘 殺無雙2
+&lt;ul&gt;&lt;li&gt;於2021年12月10日TGA公布，預計2022年發售&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;結果沉冤得雪還當上原鑄的提圖斯這次要去打比1代歐克蠻人還可怕的泰倫蟲族，就不能直接把他調到閒職來個半退休嗎？&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;旁邊的通訊兵：天使降臨到我身邊！！&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：11年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;靈魂駭客2
+&lt;ul&gt;&lt;li&gt;於2022年2月21日公布，於同年8月25日發售&lt;/li&gt;
+&lt;li&gt;為&lt;a href=&quot;/%E5%A5%B3%E7%A5%9E%E8%BD%89%E7%94%9F%E7%B3%BB%E5%88%97&quot; title=&quot;女神轉生系列&quot;&gt;女神轉生系列&lt;/a&gt;下的旁支作品惡魔召喚師系列久違14年的新作&lt;/li&gt;
+&lt;li&gt;但是不僅風格和系統大改&lt;s&gt;（指仲魔直接當P1/P2的人格面具用）&lt;/s&gt;，作品標題更去掉了惡魔召喚師的前綴，在逐步公佈正式情報後引來不少系列老粉絲的不滿&lt;/li&gt;
+&lt;li&gt;結果發售後因為惡魔存在感薄弱、遊戲系統及難度過度簡易、迷宮單調、劇情轉折唐凸等問題招致許多玩家差評&lt;s&gt;，塞錢通38分但MC均分只有74（和前作3DS移植版同分）；還讓P5粉惡召粉和真女粉通通被惹惱的多面不討好的結果&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：14年（若只算前作靈魂駭客的話則為25年）&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(7)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;被退學領便當的學長&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E8.A2.AB.E9.80.80.E5.AD.B8.E9.A0.98.E4.BE.BF.E7.95.B6.E7.9A.84.E5.AD.B8.E9.95.B7&quot;&gt;被退學&lt;s&gt;領&lt;a href=&quot;/%E4%BE%BF%E7%95%B6&quot; title=&quot;便當&quot;&gt;便當&lt;/a&gt;&lt;/s&gt;的學長&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=10&quot; title=&quot;編輯章節：被退學領便當的學長&quot; data-section=&quot;10&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-7 collapsible-block&quot; id=&quot;mf-section-7&quot;&gt;
+&lt;table class=&quot;wikitable&quot; style=&quot;margin: 1.5em auto;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;進入條件：&lt;b&gt;終止開發，胎死腹中的遊戲作品。&lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;&lt;li&gt;洛克人DASH3
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E6%B4%9B%E5%85%8B%E4%BA%BA%E7%B3%BB%E5%88%97&quot; title=&quot;洛克人系列&quot;&gt;洛克人系列&lt;/a&gt;首款計畫在3DS上推出的作品&lt;/li&gt;
+&lt;li&gt;本作的男女主角設定完全是由玩家投稿至遊戲網站，並由玩家票選出結果。&lt;/li&gt;
+&lt;li&gt;沒多久就宣布開發中止，甚至連原先要推出的《洛克人DASH3 序章！》都沒有出現。
+&lt;ul&gt;&lt;li&gt;官方給出的終止原因是「關於本作的開發，現階段還滿足不了應有的條件，因此終止了進一步的開發工作」&lt;/li&gt;
+&lt;li&gt;雖然稻船敬二出面表示願意承接《洛克人DASH3》的後續開發工作，但…&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;另外洛克人DASH系列被不看好也是一大主因&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;ガン★ロコ
+&lt;ul&gt;&lt;li&gt;Square Enix原定預計在Xbox 360推出的動作射擊遊戲，但在2010年發表之後很快在隔年春天就宣布中止開發。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;不過一堆怪人在裡面怎麼想都覺得哪裡怪怪的&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Dirty Harry
+&lt;ul&gt;&lt;li&gt;以克林伊斯威特在1971年演出的電影《緊急追捕令》改編，原定在Xbox 360與PS3平台上推出，但在公布消息不久後便宣布開發中止&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;在這之前只有FC上的改編遊戲，是個糞Game&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;又是一個GTA&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Redwood Falls
+&lt;ul&gt;&lt;li&gt;在2006年宣布將在Xbox 360與PS3平台上發行的第一人稱恐怖射擊遊戲，後來因為資金短缺在2008年宣布停止開發&lt;/li&gt;
+&lt;li&gt;水的技術力意外得很高。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Cry On
+&lt;ul&gt;&lt;li&gt;由Mistwalker負責開發，在2005年公開消息的Xbox360獨佔遊戲。
+&lt;ul&gt;&lt;li&gt;因為前面幾款Xbox360獨佔遊戲都做得不錯，讓人對這款遊戲也寄予眾望。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;沒多久在2008年宣布開發終止。
+&lt;ul&gt;&lt;li&gt;但在2014年12月，坂口博信突然在發布youtube的預告片。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;結果海內外一片希望任天堂幫忙復活的聲音。話說應該是找微軟幫忙復活才對吧&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;海王
+&lt;ul&gt;&lt;li&gt;稻船敬二在Marvelous AQL新作發表會上發表的3DS動作冒險遊戲。&lt;/li&gt;
+&lt;li&gt;融合「海盜」與「&lt;a href=&quot;/%E4%B8%89%E5%9C%8B&quot; title=&quot;三國&quot;&gt;三國&lt;/a&gt;志」的概念製作，玩家將扮演動物擬人化的角色，在無邊無際的大海原上與各方群雄展開爭奪海上霸主「海王」地位的航海冒險；不刻意區分敵我雙方，而是以描寫人與人之間的友情與背叛為主軸。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;長得很像國產遊戲什麼的都是錯覺&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;預定2012年推出但之後音訊全無，到2015年3月宣布開發中止。&lt;s&gt;終於可以玩《&lt;a href=&quot;/Mighty_No.9&quot; title=&quot;Mighty No.9&quot;&gt;Mighty No.9&lt;/a&gt;》了&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;幻影沙塵/Phantom Dust
+&lt;ul&gt;&lt;li&gt;2004年曾在xbox上面登場的重啟作品，但在2015年宣布開發中止
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;不過聽說會換一個工作室重新開始&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;加奈～妹妹～（Xbox版）
+&lt;ul&gt;&lt;li&gt;當初由D.O.發售、劇本作者&lt;a href=&quot;/%E7%94%B0%E4%B8%AD%E7%BE%85%E5%AF%86%E6%AD%90&quot; title=&quot;田中羅密歐&quot;&gt;田中ロミオ（田中羅密歐）/山田一&lt;/a&gt;創作的泣系美少女遊戲名作的Xbox移植版
+&lt;ul&gt;&lt;li&gt;聲優大幅變更，男女主角CV分別換成&lt;a href=&quot;/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F&quot; title=&quot;櫻井孝宏&quot;&gt;櫻井孝宏&lt;/a&gt;與&lt;a href=&quot;/%E5%B7%9D%E6%BE%84%E7%B6%BE%E5%AD%90&quot; title=&quot;川澄綾子&quot;&gt;川澄綾子&lt;/a&gt;擔當。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;雖然當初有預約制但發售日一拖再拖，其間還退還了預約者的訂金和重製版的換購票，最終以「現今的Xbox的市場就是發售了也很難回本」為由宣佈開發中止。&lt;/li&gt;
+&lt;li&gt;後來於2010年由CyberFront發售PSP版，是以重製版《加奈～歡迎回來！》為藍本移植，聲優和PC重製版一樣。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Sadness
+&lt;ul&gt;&lt;li&gt;Nibris於2006年3月7日宣布在Wii平台推出的恐怖遊戲，以&lt;a href=&quot;/Cthulhu_Mythos&quot; class=&quot;mw-redirect&quot; title=&quot;Cthulhu Mythos&quot;&gt;克蘇魯神話&lt;/a&gt;為主題
+&lt;ul&gt;&lt;li&gt;因為在當時是Wii平台少有的遊戲類型，頗受玩家注目&lt;/li&gt;
+&lt;li&gt;但因為技術問題和沒有發行商代理，使得遊戲最後在2010年停止開發&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2014年任天堂&lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://gnn.gamer.com.tw/detail.php?sn=97542&quot;&gt;收購了相關智慧財產權，同時宣布預定於2016年在Wii U平台推出&lt;/a&gt;，但之後也沒有後續了&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;グラン・オダリスク
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E4%B9%99%E5%A5%B3%E9%81%8A%E6%88%B2&quot; title=&quot;乙女遊戲&quot;&gt;乙女遊戲&lt;/a&gt;品牌Kalmia8的計劃最新作品。2018年末開始宣傳。&lt;/li&gt;
+&lt;li&gt;和該品牌之前的輕喜劇作品風格截然不同，本作的舞臺發生在十九世紀的歐洲，是出場人物眾多，角色關係錯綜複雜，涉及宮廷政治愛恨情仇的雙女主正劇。
+&lt;ul&gt;&lt;li&gt;宣傳時劇本號稱有230萬字&lt;s&gt;所以部分玩家沒記住本作標題倒是記住了230w&lt;/s&gt;。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;最開始計劃2019年發售，而且定價比一般乙女遊戲要高出不少。&lt;/li&gt;
+&lt;li&gt;各銷售渠道已經接受產品預訂，但歷經整整六次跳票後，製作方終於在最後一個計劃發售日期的前一星期宣佈發售中止。
+&lt;ul&gt;&lt;li&gt;主劇本作者表示劇本2018年就已經寫完了，配音收錄工作也早已完成。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;疑似是製作方和品牌高層多方拉扯的結果。&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(8)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;終於畢業的學長&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E7.B5.82.E6.96.BC.E7.95.A2.E6.A5.AD.E7.9A.84.E5.AD.B8.E9.95.B7&quot;&gt;終於畢業的學長&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=11&quot; title=&quot;編輯章節：終於畢業的學長&quot; data-section=&quot;11&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-8 collapsible-block&quot; id=&quot;mf-section-8&quot;&gt;
+&lt;table class=&quot;wikitable&quot; style=&quot;margin: 1.5em auto;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;進入條件：&lt;b&gt;經歷漫長等待終於開發完成的遊戲作品&lt;s&gt;，但成品當初宣傳的是否一樣有待商榷&lt;/s&gt;。 &lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E4%BB%99%E5%8A%8D%E5%A5%87%E4%BF%A0%E5%82%B3%E7%B3%BB%E5%88%97&quot; title=&quot;仙劍奇俠傳系列&quot;&gt;仙劍奇俠傳2&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;大概是當初華語圈呼聲最高的續作之一。何時公佈消息目前暫時不可考。&lt;/li&gt;
+&lt;li&gt;但出現了之後讓很多玩家感到失望，成為經典的叫座不叫好之作。大概是目前為止討論最少的仙劍作品。&lt;/li&gt;
+&lt;li&gt;雖然號稱狂徒小組跟DOMO小組聯合開發，但其實是狂徒小組跑了一堆人搞到DOMO要犧牲軒四的開發時間來幫仙二擦屁股。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;其實以現在的眼光來看，作為遊戲仙2真的不算太糟，無奈大家的期待太高了&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：8年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97&quot; title=&quot;最終幻想系列&quot;&gt;最終幻想XⅢ&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;原先預計發售在PS2平台，然而因為技術原因把發售平台改為PS3。
+&lt;ul&gt;&lt;li&gt;因為FFⅦ的PS3演示版本獲得好評，因此改為在PS3上面開發。&lt;s&gt;結果又因為補足銷量宣布將在Xbox360&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;沒多久Xbox 360又被中文化和畫質等諸多原因給打臉。&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;在2004年開始進行初始作業，2006年的E3展宣布。
+&lt;ul&gt;&lt;li&gt;同時也公布了FFXV和《Final Fantasy 零式》的藝術概念。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;然而因為一連串的開發問題使得遊戲開發及為不順，開發人員直到試玩版推出之前都不知道要做什麼。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;所以真正有在進行作業的時間只有2年&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：3-4年&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;一個故事拆成三份&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;&lt;a href=&quot;/%E6%95%91%E6%A9%9F%E7%A5%9E%E4%BD%9C&quot; title=&quot;救機神作&quot;&gt;救機神作&lt;/a&gt;&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/Final_Fantasy_%E9%9B%B6%E5%BC%8F&quot; title=&quot;Final Fantasy 零式&quot;&gt;Final Fantasy 零式&lt;/a&gt;HD（海外版）
+&lt;ul&gt;&lt;li&gt;消息首次是出現在《Final Fantasy Agito》的預告片最後幾秒。
+&lt;ul&gt;&lt;li&gt;不過老外都沒有想到有生之年可以玩到英文版，還一次升級到PS4。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;沒多久就在TGS跟學長一起公布消息。&lt;s&gt;沒想到製作人也在一起了。&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：5年。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;永遠的毀滅公爵
+&lt;ul&gt;&lt;li&gt;FPS時代里程碑之一，與《DOOM》比肩的《毀滅公爵》系列最新作，原定於1998年發售，但由&lt;b&gt;1997年4月首次發表製作消息&lt;/b&gt;後直到&lt;b&gt;2011年6月&lt;/b&gt;才正式發售，開發時程之長堪稱遊戲界奇譚。
+&lt;ul&gt;&lt;li&gt;期間曾經歷過遊戲引擎&lt;a href=&quot;/%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4&quot; title=&quot;砍掉重練&quot;&gt;砍掉重練&lt;/a&gt;，開發陣解散，開發公司轉移（3D Realms→Gearbox Software）等&lt;/li&gt;
+&lt;li&gt;在1997、98、99，2007及08年均曾發佈過片斷消息&lt;s&gt;吊玩家的胃口&lt;/s&gt;，但從2001年起本作就被譏笑發售預定日期實為「When it&#39;s done」，甚至還因跳票而獲得過不少遊戲雜誌和網站的特別獎。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;遊戲據講是以「前所未有的互動性」為賣點，以「超越極限的遊戲體驗、創造嶄新的互動性、多樣性、遊戲性行業標準」為目標，結果最有名的卻是前所未有的極限跳票，被各方恥笑為「史上開發時間最長的遊戲」或「史上最浪費資金的遊戲」
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;永遠的跳票公爵，永遠的蛋蛋公爵&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;而到最後端上來的菜式更是讓一眾毀滅公爵粉絲無法接受的平庸品質，甚至能夠越洋「打入」日本&lt;a href=&quot;/2ch&quot; title=&quot;2ch&quot;&gt;2ch&lt;/a&gt;的&lt;a href=&quot;/%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC&quot; title=&quot;クソゲーオブザイヤー&quot;&gt;クソゲーオブザイヤー&lt;/a&gt;排行榜，足見其「盛」，甚至日版方面還被放生&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：14年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Devil Third
+&lt;ul&gt;&lt;li&gt;原Team Ninja組長板垣伴信加入Valhalla Game Studios所製作的第一款遊戲。&lt;/li&gt;
+&lt;li&gt;發表於2010年E3，之後毫無消息，歷經THQ破產風波直到2014閃電發表在WiiU上。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;根本是不同款遊戲了吧&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「設計兩年，開發六年，前所未有超大規模的遊戲」&lt;/li&gt;
+&lt;li&gt;任天堂表定發行時間是2015年。&lt;/li&gt;
+&lt;li&gt;等待時間：5年
+&lt;ul&gt;&lt;li&gt;結果因為Bug問題導致評價低落&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;法米通的銷售榜都沒有蹤跡，可見不是一般的糟&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;天空機士羅迪亞
+&lt;ul&gt;&lt;li&gt;原先為《音速小子》之父中裕司推出Wii/3DS飛行動作遊戲。&lt;/li&gt;
+&lt;li&gt;同時還有《&lt;a href=&quot;/%E5%82%B3%E5%A5%87%E7%B3%BB%E5%88%97&quot; title=&quot;傳奇系列&quot;&gt;傳奇系列&lt;/a&gt;》實彌島巧擔任編劇。&lt;/li&gt;
+&lt;li&gt;因為技術開發問題所以在最近宣布轉移到Wii U/N3DS推出&lt;s&gt;，順便連名字都一起改了。&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;同時Wii U版的特典贈送了Wii版的開發版本。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：4年。2015年4月2日發售。
+&lt;ul&gt;&lt;li&gt;但發售後因操縱感太爛，而一落千丈。反而是Wii版的評價比其他還高。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;受讚頌者 虛偽的假面
+&lt;ul&gt;&lt;li&gt;AQUAPLUS 20周年大作，於2015年9月24日在PS3/PS4/PSV平台上配合動畫播放同步發售&lt;/li&gt;
+&lt;li&gt;原先在2011發佈消息。當時的稱呼是《受讚頌者2（暫定）》
+&lt;ul&gt;&lt;li&gt;和《Tears to Tiara 2》一同公佈，不過後者比前者早畢業兩年。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：13年
+&lt;ul&gt;&lt;li&gt;時間是從CD-ROM無印版開始算，但就算是後來引發廣泛關注的的PS2版和TV版也是2006年的事了。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;讓人未曾預料到的是，第三部《受讚頌者 二人的白皇》馬上於2015年發布消息，翌年推出&lt;s&gt;差不多可以替代&lt;a href=&quot;/%E7%9B%B4%E6%93%8A%E5%BF%83%E8%87%9F&quot; title=&quot;直擊心臟&quot;&gt;直擊心臟&lt;/a&gt;成為AQUAPLUS的新搖錢樹了&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;就像是玩《&lt;a href=&quot;/White_Album_2&quot; class=&quot;mw-redirect&quot; title=&quot;White Album 2&quot;&gt;White Album 2&lt;/a&gt;》的玩家事先都不曾想到會有Coda一樣&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2017年AQUAPLUS宣布初代的移植作《受讚頌者 給逝者的搖籃曲》重製，預定2018年推出。&lt;s&gt;真的成為搖錢樹了&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;2019年公佈本系列最新作品，成功成為本社重點搖錢樹之一。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;サクラノ詩 -櫻の森の上を舞う-
+&lt;ul&gt;&lt;li&gt;延期了很久的PC遊戲，漫畫都出完了…&lt;/li&gt;
+&lt;li&gt;官網上目前的發售日是&lt;s&gt;2014年冬→2015年7月24日→2015年9月25日→&lt;/s&gt;2015年10月23日正式發售&lt;/li&gt;
+&lt;li&gt;等待時間：11年&lt;/li&gt;
+&lt;li&gt;還有續篇サクラノ刻繼續等…
+&lt;ul&gt;&lt;li&gt;官網上目前的發售日是&lt;s&gt;2022年11月25日→&lt;/s&gt;2023年1月27日發售預定&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;異塵餘生4
+&lt;ul&gt;&lt;li&gt;於2015年的E3展前公佈，2015年11月10日在Xbox One/PS4/Windows平台上發售&lt;/li&gt;
+&lt;li&gt;等待時間：4年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;ラッキードッグ1 +bad egg
+&lt;ul&gt;&lt;li&gt;無印作由良+菅沼恭司組合的高人氣&lt;a href=&quot;/BL&quot; title=&quot;BL&quot;&gt;BL&lt;/a&gt;遊戲，於2009年發售。&lt;/li&gt;
+&lt;li&gt;本作為Fan Disc，本定於2012年，但後來就一直跳票，跳到人們都以為胎死腹中了。&lt;/li&gt;
+&lt;li&gt;結果2018年8月3日宣布發售日期，然而聲優陣容基本全換。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;大概是做好了被罵的心理準備，&lt;/s&gt;官方還特地發了一篇道歉聲明，大致解釋了換聲優的原因。&lt;/li&gt;
+&lt;li&gt;期間官網都換了一次伺服器，以及本篇在年初PSV化了。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：6年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;絕體絕命都市4：夏日回憶
+&lt;ul&gt;&lt;li&gt;是由Irem開發的PS3遊戲，是罕見的天災類遊戲。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;有著神奇預知能力的遊戲。&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/%E6%88%90%E5%8F%A5/%E8%AA%AA%E5%A5%BD%E4%B8%8D%E6%8F%90%E2%97%8B%E2%97%8B%E7%9A%84%E2%80%A6&quot; title=&quot;成句/說好不提○○的…&quot;&gt;說好不提×××的…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;本來預定於2011年3月10日發售，但卻在沒多久宣布中止發售。
+&lt;ul&gt;&lt;li&gt;雖然沒有明確說明理由，但應該是受到同年3月11日發生的日本311大&lt;a href=&quot;/%E5%9C%B0%E9%9C%87&quot; title=&quot;地震&quot;&gt;地震&lt;/a&gt;的影響。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;在2014年12月，九条一馬自Irem取回絶体絶命都市版權，並由已招募原班人馬的新公司Granzella接續開發。&lt;/li&gt;
+&lt;li&gt;在2015年11月宣布平台改為PS4，並更名為《絕體絕命都市4 Plus：夏日回憶》，2016年底宣布支援VR。&lt;/li&gt;
+&lt;li&gt;在2018年10月11日宣布最後一次延期，並在同年11月22日正式發行。
+&lt;ul&gt;&lt;li&gt;但發售之後在亞馬遜上只有兩星，從劇情到操作都是罵聲一片，但這也可能是因為新團隊經驗不足以及預算不足得出來的結果&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：7年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;碧血狂殺2
+&lt;ul&gt;&lt;li&gt;於2018年10月26日於主機平台推出，2019年11月5日推出PC平台。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;順便連一代一起出PC同捆板豈不美哉。&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;為一代前傳，主角為亞瑟.摩根，背景是真實的廣袤大西部。
+&lt;ul&gt;&lt;li&gt;真實到連馬蛋蛋也會熱漲冷縮&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;過於真實讓這款遊戲在玩家之間產生褒貶不一的評價，但大致得到好評&lt;/li&gt;
+&lt;li&gt;等待時間：8年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;騎馬與砍殺2：龍旗之主
+&lt;ul&gt;&lt;li&gt;2020年3月30日在PC平台搶先體驗&lt;/li&gt;
+&lt;li&gt;一代在2008年推出，2012年宣布開發二代
+&lt;ul&gt;&lt;li&gt;被不耐煩的愛好者戲稱為「等待模擬器」&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;「騎砍2？願你長壽！」&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：8年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A22077&quot; title=&quot;電馭叛客2077&quot;&gt;電馭叛客2077&lt;/a&gt;&lt;s&gt;/&lt;a href=&quot;/%E5%9B%9B%E6%9C%88%E6%98%AF%E4%BD%A0%E7%9A%84%E8%AC%8A%E8%A8%80&quot; title=&quot;四月是你的謊言&quot;&gt;四月は君の嘘&lt;/a&gt;&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;由CD Projekt RED製作，改編自Mike Pondsmith製作的&lt;a href=&quot;/TRPG&quot; title=&quot;TRPG&quot;&gt;TRPG&lt;/a&gt;《Cyberpunk 2020》，2012年5月起確認開發
+&lt;ul&gt;&lt;li&gt;由於Mike Pondsmith本人就有在電玩界打滾的經驗，所以在本遊戲的開發上也提供不少意見供CDPR參考&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2013年1月公布第一個預告片後沉寂了五年，到2018年1月官方推特突然發出「beep」的訊息，同年6月11日在微軟發布會上以駭入的方式公布第二支預告片，並在該年的E3展開放試玩。
+&lt;ul&gt;&lt;li&gt;在科隆展後的2018年8月28日公布實機預告。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;因各種不可抗力讓發售日一改再改，最終&lt;/s&gt;於2020年12月10日發售
+&lt;ul&gt;&lt;li&gt;最早在2019 E3展上公布發售日期為2020年4月16日
+&lt;ul&gt;&lt;li&gt;同時確認同場嘉賓「基努·李維」將飾演遊戲中要角「Johnny Silverhand」讓台下粉絲十分鼓譟，其中一位在他介紹遊戲設定時&lt;a href=&quot;/%E4%BA%82%E5%85%A5&quot; title=&quot;亂入&quot;&gt;亂入&lt;/a&gt;的粉絲還獲CDPR贈送本作典藏版&lt;s&gt;但那位粉絲後來婉拒了&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span class=&quot;inline-text-censored&quot; title=&quot;你知道的太多了&quot; style=&quot;color:black !important; background-color:black; cursor:default;&quot;&gt;這個理應美事一樁的舉動就結果論看來反倒是遊戲一再延宕以及爛尾的遠因&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;崔尼蒂死了，尼歐裝了機械鎧&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;先後跳票至9月17日和11月19日，但是之後又跳到12月10日才發售（12月時開始有試片報告）。
+&lt;ul&gt;&lt;li&gt;已於10月6日進入壓片階段，&lt;s&gt;壓片了都可以跳票，真的是跳落去跳落去，大家歡喜&lt;/s&gt;。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;到2020年E3因受疫情影響而取消&lt;sup id=&quot;cite_ref-7&quot; class=&quot;reference&quot;&gt;&lt;a href=&quot;#cite_note-7&quot;&gt;[7]&lt;/a&gt;&lt;/sup&gt;，CDPR改在6月&lt;s&gt;11→&lt;/s&gt;25日的網路直播節目「Night City Wire」中介紹本作
+&lt;ul&gt;&lt;li&gt;同節目中還宣布將在2022年推出和Trigger合作的動畫&lt;a href=&quot;/%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2%EF%BC%9A%E9%82%8A%E7%B7%A3%E8%A1%8C%E8%80%85&quot; title=&quot;電馭叛客：邊緣行者&quot;&gt;《Cyberpunk: Edgerunners》&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;因為CDPR多次跳票，所以發表對外消息的黃底圖被其他遊戲廠商跟玩家惡搞嘲諷。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;雖然在12月10日正式推出，但大量的Bug還有PS4以及XB1上的差劣最佳化導致炎上，甚至&lt;s&gt;達成某10/10也沒達成的&lt;/s&gt;開放無償退費。
+&lt;ul&gt;&lt;li&gt;雖說一開放購買便有了超過八百萬套的銷量，並回復了宣傳及開發成本，但是正式遊玩的破圖、畫面模糊甚至黑屏BUG、閹割的遊戲機制，甚至在當今的主機平台上幾乎等於沒有的優化，直接把CDPR從巫師系列累積的好感度敗光。&lt;/li&gt;
+&lt;li&gt;同時爆出的內部炎上消息包含強改腳本、壓榨員工等陸續傳出，繼續重創此作的風評。&lt;/li&gt;
+&lt;li&gt;又加上後面GOG平台對於還願反覆的態度，對於CDPR目前的態勢來說更是雪上加霜。&lt;/li&gt;
+&lt;li&gt;2022年拜改編動畫《Edgerunners》好評所賜加上bug多半已修復，玩家數有回升跡象。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：7年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;s&gt;&lt;a href=&quot;/%E4%BF%A0%E9%9A%B1%E9%96%A3&quot; class=&quot;mw-redirect&quot; title=&quot;俠隱閣&quot;&gt;俠隱閣&lt;/a&gt;/俠之道&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;河洛工作室開發的養成武俠RPG&lt;/li&gt;
+&lt;li&gt;本作以EA形式推出，上架時只有第一年内容，然後持續小修改&lt;s&gt;補丁補丁補丁補丁&lt;/s&gt;，計劃於半年内推出第二年
+&lt;ul&gt;&lt;li&gt;但工作室放消息的速度很慢，差不多三個星期到一個半月才會放一次内容，到了説好的2020年11月也沒有第二年的消息，引得一陣抱怨&lt;/li&gt;
+&lt;li&gt;之後Steam差評率狂增，不少玩家把好評改成了差評，甚至有人說要投訴河洛詐欺&lt;s&gt;明明玩家購買時就承認自己接受這個模式的&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2020年末河洛終於宣佈將於2021年2月1日更新第二年内容
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;和許多跳票作不同的是&lt;/s&gt;第二年劇情基本受好評&lt;s&gt;但隊友好感度劇情基本只裝了個開頭，宣傳影片中的幾個特質更是沒有實裝&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;小組在開發日誌中表示將於2021年5月1日進行大更新，實裝新傳書和新隊友好感劇情的後續&lt;s&gt;EA中的EA&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;在沉寂了一年多之後2022年4月1日更新第三年，然而內容不盡人意+遊戲存在BUG&lt;s&gt;+結局兩心相隔+河洛自曝在開發多個項目&lt;/s&gt;引發罵聲和差評一片。&lt;/li&gt;
+&lt;li&gt;直至2022年7月20日再度更新一次才平息了部分怒火。&lt;/li&gt;
+&lt;li&gt;等待時間：2年3個月20天。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;沉浸式同步入學&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;s&gt;隱形守護者&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;真人影像互動冒險作，以分批次更新的形式上架&lt;/li&gt;
+&lt;li&gt;玩本作需要購買兩次，但卻是分三次更新，最後一章和下半部雖然算一部作品（交一份的錢），但要多等一次更新&lt;/li&gt;
+&lt;li&gt;2019年3月8日最終章更新前夕，該作宣佈在另一平臺上登陸
+&lt;ul&gt;&lt;li&gt;但原本Steam的最終章因為伺服器原因卡頓，造成玩家體驗極差；後來登陸的平台則無此問題&lt;/li&gt;
+&lt;li&gt;此事件引發了大量Steam玩家的怒火，有Steam玩家認為自己遭到了區別對待，導致該作差評率激增，一度成爲了話題&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;等待時間：1天&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;熾焰帝國2
+&lt;ul&gt;&lt;li&gt;由韓國公司Blueside開發，Xbox遊戲《熾焰帝國》的續作，於2019年11月14日發行。&lt;/li&gt;
+&lt;li&gt;每年穩定的釋出開發情報。&lt;s&gt;上市日期一再延期&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待&lt;s&gt;開發&lt;/s&gt;時間：12年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;最後的遺跡
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/Square_Enix&quot; title=&quot;Square Enix&quot;&gt;Square Enix&lt;/a&gt;原定於2008年在Xbox 360&lt;s&gt;、PS3&lt;/s&gt;和PC&lt;s&gt;等&lt;/s&gt;平台上推出的遊戲，但到現在還在Square Enix的PS3未發售遊戲列表裡面…
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;PS3已死，有事燒紙&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;最終在2018年12月6日於PS4上推出強化移植版（僅數位版）
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;PS3版已死+Steam版下架，有事燒紙&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：12年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;邊緣&lt;s&gt;人&lt;/s&gt;禁地3
+&lt;ul&gt;&lt;li&gt;由Gearbox Software製作、2K發行的打寶FPS系列第三作，2019年9月13日發售
+&lt;ul&gt;&lt;li&gt;2019年6月9日發行的2代限時免費劇情DLC「Commander Lilith &amp;amp; the Fight for Sanctuary」是為本作的前傳&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;因CEO把本作跳槽到Epic Games Store上架、還嘴臭Valve以及Steam平台導致前作被打上負評，也讓他因此遷怒Valve，即便V社阻斷了負評炸彈但也是覆水難收
+&lt;ul&gt;&lt;li&gt;之後在2020年3月13日在&lt;s&gt;重新回到&lt;/s&gt;Steam上架&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：5年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;莎木3
+&lt;ul&gt;&lt;li&gt;Sega在DC上發行的角色扮演遊戲，有著極為豐富的劇情和富有趣味的設定&lt;s&gt;不過仔細想想一個人搭船去香港也真是神奇&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;本來是打算當成&lt;a href=&quot;/%E6%8E%A8%E5%80%92&quot; title=&quot;推倒&quot;&gt;推倒&lt;/a&gt;PS的強兵利器，但因為叫好不叫座被Sega長期封印。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;全球最具影響力的遊戲第一名&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;製作人鈴木裕於2012年取回系列版權後於2015年E3上宣布在 &lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://www.kickstarter.com/projects/ysnet/shenmue-3&quot;&gt;KickStarter&lt;/a&gt;募資網站上展開眾籌。
+&lt;ul&gt;&lt;li&gt;不到9小時就達到兩百萬美元集資目標&lt;sup id=&quot;cite_ref-8&quot; class=&quot;reference&quot;&gt;&lt;a href=&quot;#cite_note-8&quot;&gt;[8]&lt;/a&gt;&lt;/sup&gt;，不過是否真的能撐起開發費用還是未知數。&lt;sup id=&quot;cite_ref-9&quot; class=&quot;reference&quot;&gt;&lt;a href=&quot;#cite_note-9&quot;&gt;[9]&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;7月18日早上9時50分結束集資，最終募得633萬美元&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2019年11月19日在PS4和Steam上發售&lt;s&gt;，但十年如一日般跟不上遊戲發展水準的畫面和玩法讓部分粉絲還寧願它不復活好了，甚至人氣還被同樣玩法的《人中之龍》比下去…也許把剩下的故事&lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://www.youtube.com/watch?v=ZglZdwRw3XA&quot;&gt;動畫化&lt;/a&gt;就是最好的解決辦法？&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：18年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Sa·Ga緋紅恩典
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/Sa%C2%B7Ga%E7%B3%BB%E5%88%97&quot; title=&quot;Sa·Ga系列&quot;&gt;《復活邪神》系列&lt;/a&gt;25周年紀念發表的新作，2016年12月15日發售
+&lt;ul&gt;&lt;li&gt;同步發表2款新作，包括PSV的本作及PC的《帝國Sa.Ga》&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;本作由系列老班底河津秋敏擔任製作人與編劇，小林智美擔任角色設計，伊藤賢治擔任配樂作曲
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;《復活邪神：吟遊詩人之歌》也一起穢土轉生到了PS3&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;松田社長你跟河津先生的關係是？&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：11年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E5%BF%83%E7%B3%BB%E5%88%97&quot; title=&quot;王國之心系列&quot;&gt;王國之心3&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;為&lt;a href=&quot;/Square_Enix&quot; title=&quot;Square Enix&quot;&gt;Square Enix&lt;/a&gt;和迪士尼合作的系列第3部整數作&lt;s&gt;，但真把所有劇情相關作都算進來其實是第十作才對&lt;/s&gt;；由野村哲也負責指導，2019年1月25日發售&lt;/li&gt;
+&lt;li&gt;在2013年的的E3展中與FFXV一起公布&lt;s&gt;，&lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://www.youtube.com/watch?v=73wUQSlEXI8&quot;&gt;讓粉絲都暴動了&lt;/a&gt;&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;比起FFXV玩家們更期待本作，但之後又來了一個2.8卡位&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;發售後因為劇情問題導致海內外玩家抱怨連連，日本版甚至不到一個月就值崩；不過後續更新和DLC劇情有補強這部分。&lt;/li&gt;
+&lt;li&gt;等待時間：8年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E7%94%9F%E6%AD%BB%E6%A0%BC%E9%AC%A5&quot; title=&quot;生死格鬥&quot;&gt;生死格鬥&lt;/a&gt;：沙灘排球3
+&lt;ul&gt;&lt;li&gt;KOEI TECMO製作的格鬥（？）遊戲，於2016年3月24日在亞洲地區發行&lt;s&gt;，一個要玩家扮演Zack的養成遊戲&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：10年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E5%A4%A9%E4%BD%BF%E5%B8%9D%E5%9C%8B%E7%B3%BB%E5%88%97&quot; title=&quot;天使帝國系列&quot;&gt;天使帝國4&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;3代沉寂了14年後突然宣布推出的新作，2016年6月30日發行。&lt;/li&gt;
+&lt;li&gt;世界觀不再用3代而是延續1、2代。主角仍是妮雅。&lt;/li&gt;
+&lt;li&gt;然而因為劇情莫名其妙，遊戲時間太短，角色沒性格，展開太吐血而受到砲轟。
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;結尾的展開明擺著會有續作，但能不能出現都是個問題&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：14年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;毀滅戰士（2016）
+&lt;ul&gt;&lt;li&gt;前身是於2008年5月7日公布《DOOM 4》，但因和市面上其他知名FPS系列太相似所以被母公司Bethesda廢棄，並要求重開機&lt;/li&gt;
+&lt;li&gt;重開機版在2014年QuakeCon正式公布，最後於2016年5月13日在PC、PS4、Xbos ONE平台上發售&lt;/li&gt;
+&lt;li&gt;等待時間：12年
+&lt;ul&gt;&lt;li&gt;如果算上任天堂平台（NS版2017年11月10日發售）的話大概是20年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;榮譽勳章：Above and Beyond
+&lt;ul&gt;&lt;li&gt;自《榮譽勳章：鐵血悍將》失利遭EA雪藏後睽違八年的系列新作，轉戰VR平台
+&lt;ul&gt;&lt;li&gt;2019年9月26日公佈預告片，由Respawn Entertainment製作，於2020年12月11日發行
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;現在你知道《APEX英雄》會更新這麼慢的原因了吧&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;背景為二戰，主角是OSS（CIA的前身）探員，在納粹統治的法國進行敵後破壞作戰
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;這算回到最初的起點嗎？&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：8年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;戰慄時空&lt;s&gt;1.5&lt;/s&gt;：艾莉克絲
+&lt;ul&gt;&lt;li&gt;由Valve製作的系列VR新作，2019年11月22日公佈預告片，2020年3月24日發售
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E6%88%90%E5%8F%A5/%E4%BB%A5%E7%82%BA%E6%98%AF%E2%97%8B%E2%97%8B%E5%97%8E%EF%BC%9F%E6%AE%98%E5%BF%B5%EF%BC%81%E6%98%AF%E2%97%8B%E2%97%8B%EF%BC%81&quot; class=&quot;mw-redirect&quot; title=&quot;成句/以為是○○嗎？殘念！是○○！&quot;&gt;&lt;s&gt;以為是H-Game嗎？殘念洗洗睡吧少年&lt;/s&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;推出本作的最主要目的是推廣VR，原本是要用《傳送門》為背景，但後來認為VR玩法更適合《戰慄時空》這種高度物理互動的射擊遊戲故改為HL系列背景
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;畢竟《傳送門》後期需要用傳送門跳上跳下，真用VR玩絕對會抓兔抓不完&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;主角是艾莉克絲.凡斯，時間點在1-2代之間
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;出在VR就算了，連劇情都要硬插在1-2代之間是多不喜歡數三啊G胖&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;推出後得到IGN的10分評價，且在各大遊戲評分網站斬獲高分&lt;/li&gt;
+&lt;li&gt;等待時間：13年
+&lt;ul&gt;&lt;li&gt;&lt;s&gt;等待時間尾數有3，HL3 Confirmed!&lt;/s&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;三國群英傳 8
+&lt;ul&gt;&lt;li&gt;2018年1月27日，宇峻奧汀在台北國際電玩展宣布開始開發。&lt;/li&gt;
+&lt;li&gt;在大約沉寂了年餘之後於2020年8月21日公布預約網站，並於兩個月後在STEAM平台上開放。&lt;/li&gt;
+&lt;li&gt;2021年1月12日發售，首月購入玩家贈送武將&lt;s&gt;魔&lt;/s&gt;神關羽。
+&lt;ul&gt;&lt;li&gt;2020年11月13日在Steam上架前七代遊戲，購買全套遊戲的話還可以在八代解鎖武將虞姬，不過要是在這之後退款一到七代其中一款的話也就不能繼續使用她。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：14年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E9%8A%80%E6%B2%B3%E6%88%B0%E5%A3%AB%E7%B3%BB%E5%88%97&quot; title=&quot;銀河戰士系列&quot;&gt;Metroid Dread/密特羅德 生存恐懼&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;在2021年E3展上公布，可能是銀河戰士的大結局。&lt;/li&gt;
+&lt;li&gt;首次有繁體中文版。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;支綫遊戲《Metroid Prime 3: Corruption》曾經在彩蛋吐糟過Dread開發失敗&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;衆多學長中極少數有幸入圍年度GOTY&lt;/li&gt;
+&lt;li&gt;等待時間：接近20年
+&lt;ul&gt;&lt;li&gt;本系列自四代Fusion發售後的作品在時間線上不是歸類到旁支作品就是重製作，定位為五代的本作可說是跳脫這個例子&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Elden Ring/&lt;a href=&quot;/%E8%89%BE%E7%88%BE%E7%99%BB%E6%B3%95%E7%92%B0&quot; title=&quot;艾爾登法環&quot;&gt;艾爾登法環&lt;/a&gt;&lt;s&gt;烙印靈魂&lt;/s&gt;
+&lt;ul&gt;&lt;li&gt;由FromSoftware製作，喬治·R·R·馬丁編寫劇情設定的宮崎式魂系遊戲。&lt;/li&gt;
+&lt;li&gt;於2019年E3公布之後沉寂了兩年，於2021年的Summer Game Fest開幕式中作為該場典禮的大作正式公布實機預告，將於2022年1月21日發售，後又跳票至2月25日。&lt;/li&gt;
+&lt;li&gt;除了魂系風格外，這次主體為有著日夜交替以及天氣變化的開放世界，在預告片中主角還可以騎馬，而且馬上戰鬥也成為了主要作戰方式之一。&lt;/li&gt;
+&lt;li&gt;&lt;s&gt;褪色者不只學會了跳，還學會了鬥氣化馬，把不死人跟亞瑟.摩根都給饞哭了&lt;/s&gt;&lt;/li&gt;
+&lt;li&gt;等待時間：3年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;數碼寶貝 絕境求生
+&lt;ul&gt;&lt;li&gt;萬代南夢宮於2018年7月30日公布的作品，最初預定在2019年發售。&lt;/li&gt;
+&lt;li&gt;歷經三度延期難產後在2022年4月21日宣佈將於2022年7月28日上市。&lt;/li&gt;
+&lt;li&gt;等待時間：4年&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(9)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;投票&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E6.8A.95.E7.A5.A8&quot;&gt;投票&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=12&quot; title=&quot;編輯章節：投票&quot; data-section=&quot;12&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-9 collapsible-block&quot; id=&quot;mf-section-9&quot;&gt;
+&lt;ul&gt;&lt;li&gt;你覺得下一個畢業的是誰？&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;vote-block&quot;&gt;&lt;div class=&quot;vote-page&quot; data-section=&quot;1&quot; data-vote-page=&quot;PS3大學長/投票&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;vote-link&quot; style=&quot;display: none;&quot;&gt;&lt;span class=&quot;plainlinks&quot;&gt;&lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://wiki.komica.org/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7/%E6%8A%95%E7%A5%A8&amp;amp;action=edit&amp;amp;section=1&quot;&gt;編輯投票選項&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(10)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;參見&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E5.8F.83.E8.A6.8B&quot;&gt;參見&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=13&quot; title=&quot;編輯章節：參見&quot; data-section=&quot;13&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-10 collapsible-block&quot; id=&quot;mf-section-10&quot;&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/%E6%AD%BB%E5%BE%8C%E8%A6%81%E5%AD%90%E5%AD%AB%E7%87%92%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9C%8B%E7%9A%84%E5%90%8D%E5%96%AE&quot; title=&quot;死後要子孫燒給自己看的名單&quot;&gt;死後要子孫燒給自己看的名單&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/%E6%88%90%E5%8F%A5/%E8%AA%AA%E5%A5%BD%E4%B8%8D%E6%8F%90%E2%97%8B%E2%97%8B%E7%9A%84%E2%80%A6&quot; title=&quot;成句/說好不提○○的…&quot;&gt;說好不提OOO的…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/%E6%95%91%E6%A9%9F%E7%A5%9E%E4%BD%9C&quot; title=&quot;救機神作&quot;&gt;救機神作&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/%E7%A8%B1%E8%99%9F&quot; class=&quot;mw-redirect&quot; title=&quot;稱號&quot;&gt;稱號&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(11)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;回應&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E5.9B.9E.E6.87.89&quot;&gt;回應&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=14&quot; title=&quot;編輯章節：回應&quot; data-section=&quot;14&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-11 collapsible-block&quot; id=&quot;mf-section-11&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;/%E8%A8%8E%E8%AB%96:PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&quot; title=&quot;討論:PS3大學長&quot;&gt;討論:PS3大學長&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;&lt;h2 class=&quot;section-heading&quot; onclick=&quot;javascript:mfTempOpenSection(12)&quot;&gt;&lt;div class=&quot;mw-ui-icon mw-ui-icon-element indicator&quot;&gt;&lt;/div&gt;&lt;span id=&quot;備註&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mw-headline&quot; id=&quot;.E5.82.99.E8.A8.BB&quot;&gt;備註&lt;/span&gt;&lt;span class=&quot;mw-editsection&quot;&gt;&lt;a href=&quot;/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;action=edit&amp;amp;section=15&quot; title=&quot;編輯章節：備註&quot; data-section=&quot;15&quot; class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page&quot;&gt;編輯&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;div class=&quot;mf-section-12 collapsible-block&quot; id=&quot;mf-section-12&quot;&gt;
+&lt;div class=&quot;mw-references-wrap&quot;&gt;&lt;ol class=&quot;references&quot;&gt;&lt;li id=&quot;cite_note-1&quot;&gt;&lt;span class=&quot;mw-cite-backlink&quot;&gt;&lt;a href=&quot;#cite_ref-1&quot;&gt;↑&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;reference-text&quot;&gt;光榮共同筆名，現為襟川陽一開發用的筆名&lt;/span&gt;
+&lt;/li&gt;
+&lt;li id=&quot;cite_note-2&quot;&gt;&lt;span class=&quot;mw-cite-backlink&quot;&gt;&lt;a href=&quot;#cite_ref-2&quot;&gt;↑&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;reference-text&quot;&gt;所以會有兩個名稱是因為其日文（人喰いの大鷲トリコ）和英文（The Last Guardian）不同&lt;/span&gt;
+&lt;/li&gt;
+&lt;li id=&quot;cite_note-3&quot;&gt;&lt;span class=&quot;mw-cite-backlink&quot;&gt;&lt;a href=&quot;#cite_ref-3&quot;&gt;↑&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;reference-text&quot;&gt;開發《ICO》《汪達與巨像》的遊戲小組&lt;/span&gt;
+&lt;/li&gt;
+&lt;li id=&quot;cite_note-4&quot;&gt;&lt;span class=&quot;mw-cite-backlink&quot;&gt;&lt;a href=&quot;#cite_ref-4&quot;&gt;↑&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;reference-text&quot;&gt;如果不把《紅之蝶》在2012年發售的重製版《真紅之蝶》算在內的話&lt;/span&gt;
+&lt;/li&gt;
+&lt;li id=&quot;cite_note-5&quot;&gt;&lt;span class=&quot;mw-cite-backlink&quot;&gt;&lt;a href=&quot;#cite_ref-5&quot;&gt;↑&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;reference-text&quot;&gt;以首次發布消息起算&lt;/span&gt;
+&lt;/li&gt;
+&lt;li id=&quot;cite_note-6&quot;&gt;&lt;span class=&quot;mw-cite-backlink&quot;&gt;&lt;a href=&quot;#cite_ref-6&quot;&gt;↑&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;reference-text&quot;&gt;因為這是貝賽斯達睽違25年發售的全新IP&lt;/span&gt;
+&lt;/li&gt;
+&lt;li id=&quot;cite_note-7&quot;&gt;&lt;span class=&quot;mw-cite-backlink&quot;&gt;&lt;a href=&quot;#cite_ref-7&quot;&gt;↑&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;reference-text&quot;&gt;取而代之的是由TGA主辦方舉辦的Summer Game Fest，時間由五月起至八月下旬的科隆電玩展開幕前夜，下述的Night City Wire便是其中一個特別節目&lt;/span&gt;
+&lt;/li&gt;
+&lt;li id=&quot;cite_note-8&quot;&gt;&lt;span class=&quot;mw-cite-backlink&quot;&gt;&lt;a href=&quot;#cite_ref-8&quot;&gt;↑&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;reference-text&quot;&gt;6月16日上午9時51分開始，到6月16日下午6時34分達標&lt;/span&gt;
+&lt;/li&gt;
+&lt;li id=&quot;cite_note-9&quot;&gt;&lt;span class=&quot;mw-cite-backlink&quot;&gt;&lt;a href=&quot;#cite_ref-9&quot;&gt;↑&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot;reference-text&quot;&gt;莎木2的開發經費達20億日元，莎木1更是當時空前絕後的70億（之後被《GTAⅣ》打破），在那麼長的空窗期、再加上3D模型建構複雜度增加等等因素，2.4億日元能不能開發出當時的震撼也是一個問題&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;
+
+
+
+
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;printfooter&quot;&gt;
+取自 &quot;&lt;a dir=&quot;ltr&quot; href=&quot;https://wiki.komica.org/index.php?title=PS3大學長&amp;amp;oldid=417373&quot;&gt;https://wiki.komica.org/index.php?title=PS3大學長&amp;amp;oldid=417373&lt;/a&gt;&quot;&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;post-content&quot; id=&quot;page-secondary-actions&quot;&gt;&lt;/div&gt;
+		&lt;/main&gt;
+		
+&lt;footer class=&quot;minerva-footer&quot;&gt;
+&lt;div class=&quot;last-modified-bar view-border-box footer-element&quot;&gt;
+	&lt;div class=&quot;content&quot;&gt;
+		&lt;div class=&quot;last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray &quot;&gt;
+			&lt;div class=&quot;mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator&quot;&gt;&lt;/div&gt;&lt;a href=&quot;/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&quot;
+				data-user-name=&quot;&quot;
+				data-user-gender=&quot;&quot;
+				data-timestamp=&quot;1666754262&quot;&gt;
+				最後編輯於 2022年10月26日 (週三) 11:17
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-content footer-content&quot;&gt;
+	&lt;h2&gt;Komica wiki&lt;/h2&gt;
+	&lt;div class=&quot;license&quot;&gt;&lt;/div&gt;
+	
+	&lt;ul class=&quot;footer-places hlist hlist-separated&quot;&gt;
+		
+		&lt;li id=&quot;footer-places-privacy&quot;&gt;&lt;a href=&quot;/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96&quot; title=&quot;Komica wiki:隱私政策&quot;&gt;隱私方針&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;footer-places-desktop-toggle&quot;&gt;&lt;a id=&quot;mw-mf-display-toggle&quot; href=&quot;https://wiki.komica.org/index.php?title=PS3%E5%A4%A7%E5%AD%B8%E9%95%B7&amp;amp;mobileaction=toggle_view_desktop&quot;&gt;桌面版&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	
+&lt;/div&gt;
+&lt;/footer&gt;
+
+
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;mw-notification-area&quot; data-mw=&quot;interface&quot;&gt;&lt;/div&gt;
+&lt;!-- v:8.1.2 --&gt;
+
+&lt;script&gt;(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({&quot;wgPageParseReport&quot;:{&quot;limitreport&quot;:{&quot;cputime&quot;:&quot;0.148&quot;,&quot;walltime&quot;:&quot;0.200&quot;,&quot;ppvisitednodes&quot;:{&quot;value&quot;:307,&quot;limit&quot;:1000000},&quot;ppgeneratednodes&quot;:{&quot;value&quot;:1270,&quot;limit&quot;:1000000},&quot;postexpandincludesize&quot;:{&quot;value&quot;:1716,&quot;limit&quot;:2097152},&quot;templateargumentsize&quot;:{&quot;value&quot;:616,&quot;limit&quot;:2097152},&quot;expansiondepth&quot;:{&quot;value&quot;:4,&quot;limit&quot;:40},&quot;expensivefunctioncount&quot;:{&quot;value&quot;:0,&quot;limit&quot;:100},&quot;unstrip-depth&quot;:{&quot;value&quot;:0,&quot;limit&quot;:20},&quot;unstrip-size&quot;:{&quot;value&quot;:2979,&quot;limit&quot;:5000000},&quot;timingprofile&quot;:[&quot;100.00%   40.940      1 -total&quot;,&quot;  7.79%    3.188      3 模板:Youtube&quot;,&quot;  4.85%    1.986      1 模板:Vote&quot;,&quot;  4.13%    1.691      2 模板:Censored&quot;,&quot;  3.63%    1.485      1 模板:H0&quot;]},&quot;cachereport&quot;:{&quot;timestamp&quot;:&quot;20221117135042&quot;,&quot;ttl&quot;:86400,&quot;transientcontent&quot;:false}}});});&lt;/script&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;//www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-114117-6&#39;, &#39;auto&#39;);
+  ga(&#39;set&#39;, &#39;anonymizeIp&#39;, true);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://analytics.example.com/tracking.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName(&#39;noscript&#39;);for(i=0;i&lt;ns.length;i++){p=ns[i].nextSibling;if(p&amp;&amp;p.className&amp;&amp;p.className.indexOf(&#39;lazy-image-placeholder&#39;)&gt;-1){img=document.createElement(&#39;img&#39;);img.setAttribute(&#39;src&#39;,p.getAttribute(&#39;data-src&#39;));img.setAttribute(&#39;width&#39;,p.getAttribute(&#39;data-width&#39;));img.setAttribute(&#39;height&#39;,p.getAttribute(&#39;data-height&#39;));img.setAttribute(&#39;alt&#39;,p.getAttribute(&#39;data-alt&#39;));p.parentNode.replaceChild(img,p);}}});&lt;/script&gt;
+&lt;script&gt;(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({&quot;wgBackendResponseTime&quot;:405});});&lt;/script&gt;		&lt;/body&gt;
+		&lt;/html&gt;
+		</pre>

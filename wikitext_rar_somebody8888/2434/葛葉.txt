@@ -1,0 +1,93 @@
+{{h0|{{ruby|葛葉|くずは}}}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub}}
+|}
+
+[[檔案:葛葉.png|right|300px]]
+{{size|24|{{color|#ACA7BB||'''やってんねぇ！'''}}}}
+
+== 基本資料 ==
+* にじさんじ所屬虛擬Liver，最早於2018年3月8日作為個人勢出道，同年7月30日加入にじさんじ作為GAMERS第3期追加成員。
+** 人設為{{twitter|v_loalo|name=本田ロアロ}}
+** 主題標籤有{{twitter|hashtag=KuzuVtuber}}、{{twitter|hashtag=くずなま}}、{{twitter|hashtag=KuzuArt}}、{{twitter|hashtag=葛コラ}}與{{twitter|hashtag=くずこえ}}
+* 形象色為{{color|#FFFFFF|#ACA7BB|3=#ACA7BB}}
+* 設定上是家裡蹲[[吸血鬼]]，真名為「アレクサンドル・ラグーザ」，有飼養一隻名為ブタ的豬。
+** 因為父親熱愛人類社會而全家搬過來，為了學習人類知識甚至一度變成小學生姿態重新學習。
+** 一族的能力可以藉由吸血變化姿態，更因此一度有女體化型態「サーニャ」。
+** 將來的願望是被有錢人包養。
+* 2021年9月2日其YouTube頻道獲得百萬訂閱金盾，為彩虹第一位獲得百萬訂閱的Liver，也是史上第一位獲得百萬訂閱的男性VTuber。
+
+== 人物特點 ==
+* 直播以[[遊戲實況]]為主，主要實況的遊戲有《絕地求生》《Getting Over It》《黑色沙漠》等。
+** 早期風格主要為狂犬式的嘲諷風格，後來似乎是燒怕了結果現在變成博美犬了。
+
+== 人際關係 ==
+* 乾伸一郎、歌衣メイカ
+** 個人勢時期的前輩暨恩人，三人組合為「くずメン」。
+* 叶
+** 在個人勢時期就結識，兩人組合為「ChroNoiR」。
+* 魔界ノりりむ、雪汝、[[椎名唯華]]
+** 同期出道的にじさんじGAMERS。
+* ドーラ、社築、本間ひまわり
+** 組合「ド葛本社」，三人在組合內分別對應母親、父親與姐姐。
+
+== 主要事紀 ==
+=== 2018年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 3月8日
+| 開始個人勢活動。
+|-
+! width="80px" | 7月30日
+| 加入にじさんじGAMERS。
+|-
+! width="80px" | 11月7日
+| 在L4D2連動中「ド葛本社」結成。
+|}
+
+=== 2019年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 7月2日
+| YouTube訂閱人數達到10萬銀盾。
+|-
+! width="80px" | 11月26日
+| 公布3D模型。
+|}
+
+=== 2020年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 7月26日
+| YouTube訂閱人數達到20萬。
+|-
+! width="80px" | 11月25日
+| YouTube訂閱人數達到50萬。
+|}
+
+=== 2021年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 9月2日
+| YouTube訂閱人數達到100萬金盾，為にじさんじ首名金盾。
+|}
+
+== 相關條目 ==
+* '''[[KomicaWiki]]條目'''
+** [[虛擬Youtuber]]
+** [[にじさんじ]]
+
+* '''外部連結'''
+** [https://www.nijisanji.jp/members/kuzuha 官方介紹頁]
+** 影片頻道：{{youtube|c=UCSFCh5NL4qXrAy9u-u2lX3g|title=YouTube}}
+** 社交媒體：{{twitter|Vamp_Kuzu|name=Twitter帳戶}}
+** 維基類連結：[https://wikiwiki.jp/nijisanji/%E8%91%9B%E8%91%89 にじさんじ非公式wiki]、[https://dic.nicovideo.jp/a/%E8%91%9B%E8%91%89(%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98) ニコニコ大百科]、[https://dic.pixiv.net/a/%E8%91%9B%E8%91%89%28%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98%E3%82%B2%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%BA%29 ピクシブ百科]、[https://zh.moegirl.org.cn/zh-tw/%E8%91%9B%E5%8F%B6(%E8%99%9A%E6%8B%9FUP%E4%B8%BB) 萌娘百科]
+
+{{虛擬YouTuber}}
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+
+[[分類:虛擬YouTuber]]
+[[分類:網路文化]]
+[[分類:にじさんじ]]

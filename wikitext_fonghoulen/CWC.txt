@@ -1,0 +1,1380 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>CWC - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"CWC","wgTitle":"CWC","wgCurRevisionId":416861,"wgRevisionId":416861,"wgArticleId":35166,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"CWC","wgRelevantArticleId":35166,"wgRequestId":"a2408cfec165d756f0ae3292","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=CWC\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=CWC","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=CWC&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=CWC&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-CWC rootpage-CWC stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=CWC&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=CWC" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">CWC</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">Christian Weston Chandler（克里斯蒂安·韋斯頓·錢德勒）/CWC/Chris-Chan/Christine Weston Chandler<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td><b>本條目記載的是現實人物，請各位島民/奇異農編輯時三思而後行</b>
+</td></tr><tr><td>本條目可能含有大量<b>令人精神不適</b>的內容，如沒有<s>自稱高功能自閉症</s>堅強之心又不想<b>被有心人士操控生活並挖出一切底細</b>話請立即退出。<br><span style="font-size:20px;"><span style="color:#ff0000;background-color:;"><b>此外本條目有部分為R-18<s>G</s>內容，不建議未成年人觀看</b></span></span><br><b><small>即使你已成年，在點撃部份連結前也請先好好考慮，以免你的心靈受到不可磨滅的創傷</small></b>
+</td></tr><tr><td>在此敬告各位父母：<b>心障孩童需要盡早受到治療與幫助，不要因為面子問題而耽誤了孩子的健康、人格、能力與未來。</b><br><s>除非你/妳打算培育出媲美CWC的頭號亂源，然後害自己得四處幫忙擦屁股</s>
+</td></tr><tr><td>2021年6月27日，<a rel="nofollow" class="external text" href="https://youtu.be/hNi-dGSvSJM">CWC終於找到了他理想中的單身女性</a>，<a rel="nofollow" class="external text" href="https://youtu.be/jXcxx8W-vgU">然而代價是</a>……
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>為歐美著名網路名人，因為其奇想天開<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">且令人SAN值直降</span>的一系列古怪行為而有名。
+<ul><li>代表作為自己的網絡漫畫「索尼丘」</li>
+<li>其在網路上留下的記錄之多據說可媲美美國總統，怪奇之程度令其形象聲名狼籍</li>
+<li>某種程度上可以說是網路次文化<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">無法無天程度，及心障者未受到正確幫助結果下</span>的一道縮影</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="個人資料"></span><span class="mw-headline" id=".E5.80.8B.E4.BA.BA.E8.B3.87.E6.96.99">個人資料</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=2" title="編輯章節：個人資料" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:352px;"><a href="/%E6%AA%94%E6%A1%88:CWCspread_cropped.jpg" class="image"><noscript><img alt="" src="/images/thumb/3/3b/CWCspread_cropped.jpg/350px-CWCspread_cropped.jpg" width="350" height="197" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 350px;height: 197px;" data-src="/images/thumb/3/3b/CWCspread_cropped.jpg/350px-CWCspread_cropped.jpg" data-alt="" data-width="350" data-height="197" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:CWCspread_cropped.jpg" class="internal" title="放大"></a></div>本人<s>玉</s>照<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「砍掉重練」前的模樣</span></div></div></div></div>
+<ul><li>全名：<b>Christian Weston Chandler</b>（克里斯蒂安·韋斯頓·錢德勒）。
+<ul><li>現時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「砍掉重練」後</span>：<b>Jesus Christine Weston Chandler Sonichu</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。</li>
+<li>初名Christopher，1992年全家在欣賞機關玩偶熊Leonard Bearstein的管弦樂團表演時被誤叫名稱於是改名至今（？？）。</li>
+<li>網路通稱：CWC、Chris-Chan。</li></ul></li>
+<li>出生年月日：1982年2月24日。</li>
+<li>高功能自閉症患者，美國維吉尼亞州人。
+<ul><li>但卻非常厭惡亞斯伯格症，拒絕將自己的症狀和亞斯伯格症混為一談（問題是這兩者的差別不大啊……）。
+<ul><li>甚至還認為亞斯伯格症搶走了像他這種自閉症患者的關注度<s>，慢著你自己行為引來的關注度就已經夠前無古人了不是嗎？</s></li>
+<li>這也是他對模仿者亞斯伯格丘發起對戰的原因。</li></ul></li>
+<li>由於父母拒絕承認他有自閉症，並沒有及時帶他進行相關治療；再加上管教不當與溺愛，就此走上不歸路……</li>
+<li>另外很討厭同性戀者<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，結果之後直接砍掉重練（笑）去試圖搞百合了</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">砍掉重練的方式是<b>直接用尖銳物品把自己的女性生殖器「製造」出來</b><s>，泰國的變性手術醫師表示看了快崩潰，</s>並用音樂催眠自己的身體，結果被奇異農提醒他<b>傷口感染</b>叫他去看醫生，從他沒死成來看似乎最後有去看醫生</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但就算以女同身分參與了LGBT平權遊行，他依舊歧視男同性戀者</span></li></ul></li></ul></li>
+<li>工作能力低下，還曾在自己家附近的遊戲店裡大鬧而被列為拒絕往來戶。
+<ul><li>曾在家附近的溫蒂漢堡打工，但不到一個月就被辭退；在刀具商Cutco的打工時間也很短暫。</li>
+<li>自稱唯一一次志工經驗是在<b>遊戲店裡擔任寶可夢TCG的代理館主</b><s>，到底是多無能才敢講這種話</s>
+<ul><li>還曾把玩寶可夢聯盟的經驗當成工作經驗，在面試上提出<s>，至於結果（ry</s></li></ul></li>
+<li>2016年起，隨著CWC家的整體經濟能力每況越下，其實有不少看不下去CWC用各種方式乞討的人嘗試提出工作上的建議，甚至還幫忙找了幫忙殘疾人士找工作的政府工作機構。
+<ul><li>但很遺憾的，由於CWC的懶惰和自私性等多重因素，這些建議和幫助全數失敗。CWC寧願逃避現實到底，當個永遠的8歲<a href="/%E6%AD%BB%E5%B0%8F%E5%AD%A9" title="死小孩">死小孩</a>也不想負起一個成年人應有的責任。</li>
+<li>CWC的不去工作的理由大多站不住腳，有一個理由是他在網路上的聲譽被巨魔毀了無法找尋工作，但根據CWCki表示就連一些在網路上頗有惡名的lolcow也找到了工作。</li>
+<li>此後因為迷信自創的「次元合併」理論<s>邪說</s>，連尋找工作的一點動力都沒了。</li></ul></li></ul></li>
+<li>主要唯二的收入來源是自己的Patreon和EBay商場（皆已被砍帳）。
+<ul><li>CWC在的Patreon收入都是來自同情他遭遇的普通人<s>（他們是閒錢太多了嗎？）</s>，會給他錢的奇異農反而是少數。而他的EBay上則是販賣自製的CWC紀念物，購買這些東西的人有部分為奇異農，還有其他真正的想支持他的粉絲。</li>
+<li>有時缺錢的CWC會在Ebay上販賣些售價極高的家當（如用$2000美金起標自己早期拍影片穿的條紋衣），也有人會起價，通常都是奇異農場的使用者（但不會真的買下<s>，因為會被起底來看到底誰那麼智障</s>）</li>
+<li>而CWC近幾年來由於以上的經濟危機，非常依靠Patreon和eBay作為經濟來源，但他常常在交易上發生各種問題且極端不負責任，甚至CWC很不爽的話會公開買家的個人資訊來對付批評他的買家。
+<ul><li>你絕對不會想讓一個在網路上被數以萬計的網路巨魔跟隨的人公開自己的個人資訊的。所以大部分的奇異農和CWCki都表示：最好不要嘗試在經濟上跟CWC有各種接觸。</li></ul></li>
+<li>2021年七月因為某起事件（見下）被下達緊急禁止令，不得進入家門。</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本人那話兒的樣子並非正常男性那樣，而是<b>朝下彎曲四十五度角的畸形</b>，因為形狀特殊被稱為彎鴨（bent duck），這件事會被廚得知的原因還是CWC不經意地透露給他們的</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在Ivy Saga，CWC為了取悅網路甜心Ivy而為繪製的許多漫畫中，有一篇內容為CWC自豪的掏出大屌準備跟Ivy滅茶苦茶的畫面</span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">CWC自稱自己的那話兒少說有6英吋（15.24公分）長，在Catherine Saga時還跟Collin宣稱自己的那話兒的話能夠溝著自己的後庭</span>
+<ul><li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但有奇異農按照CWC使用的標準紙張（8.5 x 11英吋）以及上述漫畫描出的那話兒在紙上進行測量；得到的結果是CWC那裡的實際大小可能只有他聲稱大小的一半（約7.5公分）左右…</span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">CWC曾宣稱他第一次破處的對象<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>是多麼喜歡他的「彎鴨」，並表示這是個相當美好的體驗</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但後來因為數十年糟糕的生活作息，以及為了自主變性而濫用雌二醇凝膠，早令CWC的「彎鴨」失去應有功能</span></li></ul></li>
+<li>在講到他不太喜歡的東西時習慣用特殊詞彙代替。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">例子：尿布→屁屁服裝（butt garment）；那話兒→醃黃瓜（pickle）、鴨（duck）、條子→蠢條（jerkop）</span></li></ul></li>
+<li>為<a href="/%E9%9F%B3%E9%80%9F%E5%B0%8F%E5%AD%90%E7%B3%BB%E5%88%97" title="音速小子系列">音速小子系列</a>、<a href="/%E8%AE%8A%E5%BD%A2%E9%87%91%E5%89%9B%E7%B3%BB%E5%88%97" title="變形金剛系列">變形金剛系列</a>和<a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D" title="神奇寶貝">神奇寶貝</a>的粉絲，也是<a href="/My_Little_Pony%EF%BC%9AFriendship_is_Magic" class="mw-redirect" title="My Little Pony：Friendship is Magic">Brony</a>+<a href="/%E7%A5%9E%E8%87%8D%E5%B0%8F%E6%8D%B2%E6%AF%9B" title="神臍小捲毛">SU</a>粉絲，2017年時還接觸了<a href="/%E8%B6%85%E6%AC%A1%E5%85%83%E3%82%B2%E3%82%A4%E3%83%A0_%E3%83%8D%E3%83%97%E3%83%86%E3%83%A5%E3%83%BC%E3%83%8C" title="超次元ゲイム ネプテューヌ">戰機少女系列</a>。
+<ul><li>對二次元的許多作品都有涉獵；從CWCki的內容推斷，連<a href="/%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97" title="光之美少女系列">光美</a>、<a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88%E7%B3%BB%E5%88%97" title="機動戰士鋼彈系列">鋼彈</a>、<a href="/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF" class="mw-redirect" title="初音ミク">初音ミク</a>、<a href="/Doki_Doki_Literature_Club" title="Doki Doki Literature Club">DDLC</a>和<a href="/%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83%E7%B3%BB%E5%88%97" title="動物森友會系列">動森</a>他都有接觸；甚至想過製作以自己為鋼彈駕駛員的遊戲。</li>
+<li><s>換言之他接觸過的東西<a href="/%E9%AB%98%E9%81%94%E5%85%AB%E6%88%90" title="高達八成">高達八成</a>都會進去CWC宇宙</s></li>
+<li>索尼丘這個種族就是把索尼克+皮卡丘發動超融合之後的奇怪產物（由來見後）。</li>
+<li>在入小馬坑後（因為遇到不少和他一樣的偏執狂）開始對粉絲圈產生歸屬感，還會發訊息去騷擾官方動畫<a href="/%E8%81%B2%E5%84%AA" title="聲優">聲優</a>，造成她們的困擾。</li>
+<li>曾表示自己最喜歡的SU角色是珍珠和石榴石。</li>
+<li>於2019年終曾在推特轉推《<a href="/%E7%A2%A7%E8%97%8D%E8%88%AA%E7%B7%9A" title="碧藍航線">碧藍航線</a>》的圖，被懷疑開始染指，瞬間讓島上的愛好者發出哀號<s>，看起來唯一的辦法只有讓大陸的鄉民知道CWC的惡劣事跡，來讓他們阻止他吧。不過現在也不用擔心了</s></li></ul></li>
+<li>對現實生活的知識相當缺乏，認知也嚴重異於常人<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，特別是性方面</span>
+<ul><li><a rel="nofollow" class="external text" href="https://youtu.be/UFQrhp84jDo">小時候</a>的言行舉止被網民評價：比現在的正常太多。</li>
+<li>重度臉盲症患者。</li>
+<li>認為所有幻想創作中的事物都真實存在於其他次元<s>，各位自由心證吧</s>
+<ul><li>也常把這當作逃離現實世界的藉口<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，結果就此被不肖人士與troll抓住玩弄他的把柄</span></li>
+<li>所以也可以從CWC宇宙中推敲到CWC現狀，尤其當CWC宇宙發生大異動，多半暗示他又惹上/製造甚麼麻煩。</li></ul></li>
+<li>而且還會<b>把清理自己房子的痛苦程度</b>，和<b>他人在戰爭中把朋友遺體帶回基地的痛苦來做比較</b><s>，看起來CWC的同理心都拿去喂狗了</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在聽說過女性一生中卵子數量有限後，認為這件事也會發生在男性身上；於是便幹出<b>把自己的白果醬裝進芬達橘子汽水再喝下去以回收再利用</b>的蠢事</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">就他自己在漫畫中表現的劇情<b>（提供自己的樣本來製造治療同性戀的疫苗）</b>來看，他似乎也不知道疫苗的製造原理<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>為何……</span></li>
+<li>其認知的怪異程度可從其繪製的索尼丘系列漫畫窺見一番。</li>
+<li><s>在次元合併的預言中透露其<a href="/%E6%9B%BF%E8%BA%AB_(JOJO)" title="替身 (JOJO)">替身</a>是「波西米亞狂想曲」</s></li></ul></li>
+<li>相信自己的天命是找到一個妻子，並會為他生下一位名為Crystal的女兒<s>說穿了就是找女人來一發</s>。這同時也成為一部分Saga的起因。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而CWC之後選擇砍掉重練，似乎也是因為這樣可以把到數量稀少的女同來搞百合<s>，但就結果看來最該砍掉重練的是他自己的性格與行為</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然而最近CWC宣布在自己的宇宙中找到另一半了：他宣布<b>自己認定和CWC宇宙裡的所有人物（包括自己的自創索尼丘們和超夢）都有「多邊戀/多重伴侶婚姻」</b><s>把在場的所有奇異農嚇死了</s></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">順帶一提CWC在這段關係中的定位是女性</span></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">雖然內容吐槽點實在太多，但還是恭喜CWC新婚快樂，至少目前沒有女生會被騷擾了</span></s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但恐怖的是，後來出現了一位有病程度與他不相上下的追求者Jacob Sockness；正準備往他如<s>泥石坑</s>處女般的後庭襲來……不過沒有成功破處</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而後在2021年7月底更被揭發<b>（疑似）對自己母親出手</b><s>，最扯的是這時候還真的出現了一個真心喜歡他的女粉Finoa，好好的真甜心降臨你卻直接選擇幹他娘……</s></span></li>
+<li>由於上述種種，2021年在美國被憎恨的百大人物中「排名」第89名。</li></ul></li>
+<li>和自己的母親<s>卡比獸</s>芭芭拉同居，是個無職尼特。</li>
+<li>有嚴重的屯物癖，因此在後來遭遇祝融拜訪時損失慘重；理財能力更是令人絕望的差勁。
+<ul><li>經常把自己領到的社福支票<s>每月拖船<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></s>和部分粉絲的資助（無誤）花在遊戲和周邊上，但從PS帳戶的資訊推斷<a href="/Sandbox" title="Sandbox">開放世界觀</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>的遊戲外都只玩幾次就丟在一旁<s>，真是好浪費</s></li>
+<li>順帶一提，其除了遊戲主機（以及遊戲片）外最大宗的收藏是樂高，他曾用以重現自己的高中以及拍攝定格動畫<s>，還有拆船過程</s></li>
+<li>也是精靈寶可夢TCG的老玩家，長久累積的收藏多半已拍賣<s>還被拿消毒手套開箱</s><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>。</li></ul></li>
+<li>身形嚴重癡肥且被推斷有多重健康問題。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="家庭成員"></span><span class="mw-headline" id=".E5.AE.B6.E5.BA.AD.E6.88.90.E5.93.A1">家庭成員</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=3" title="編輯章節：家庭成員" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="卡比獸芭芭拉"></span><span class="mw-headline" id=".E5.8D.A1.E6.AF.94.E7.8D.B8.E8.8A.AD.E8.8A.AD.E6.8B.89"><s>卡比獸</s>芭芭拉</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=4" title="編輯章節：卡比獸芭芭拉" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>全名Barbara Chandler（芭芭拉·錢德勒），CWC的母親，過去擔任會計</li>
+<li>就目前的資料而言，CWC的性格可說是絲毫不差遺傳自芭芭拉<s>讓人不禁懷疑鮑伯的審美和擇偶能力</s><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><ul><li>不只和CWC同樣都有嚴重的屯物癖及令人絕望的理財能力，芭芭拉還有重度購物癖</li>
+<li>身形和CWC同樣癡肥且衰老異常迅速<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>，很可能還被失智症所苦</li>
+<li>資料顯示她還會虐待自己的子女<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">特別是在樓下過世後變本加厲</span></li>
+<li><s>有島民表示自己看他們的經濟狀況看到尷尬症快爆發</s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於2021年7月<b>在身體失能的狀態下（疑似）被CWC強上</b>，被揭發後更因此登上推特趨勢</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">諷刺的是CWC曾在校園舞會因為找不到人拉她伴舞，結果數年後...</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從CWC的社交媒體上的照片來看，年屆八旬的芭芭拉的身材已經沒以往那麼痴肥，反而大為消瘦，已經成為一個白髮蒼蒼的老太婆</span></li></ul></li>
+<li>2021年11月確認因為駕車迴轉事故被送入醫療機構</li></ul><h3 class="in-block"><span id="網絡樵夫鮑伯"></span><span class="mw-headline" id=".E7.B6.B2.E7.B5.A1.E6.A8.B5.E5.A4.AB.E9.AE.91.E4.BC.AF"><s>網絡樵夫</s>鮑伯</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=5" title="編輯章節：網絡樵夫鮑伯" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>全名Robert Franklin Chandler Jr.（小羅伯特·富蘭克林·錢德勒），CWC的父親</li>
+<li>算是個正常人（退休工程師），基本上家裡的經濟來源全都在他身上<s><a href="/%E8%8B%A6%E5%91%BD%E4%BA%BA" title="苦命人">苦命人</a></s></li>
+<li>擁有七項專利，此外對於舊時代的爵士音樂甚有研究，其他方面的收藏也涉獵甚廣（譬如集郵、船模）
+<ul><li>曾經在信函中希望兒子好好保存自己的收藏品
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但經濟情況危急之下，他所收藏的黑膠唱片等等日後都被家人拋售了</span></li></ul></li>
+<li>也曾為他蓋過小型工作坊、替他進行模擬面試，可見他對兒子是有所期望的</li>
+<li>芭芭拉之所以會嫁他應該也是這個原因</li></ul></li>
+<li>與芭芭拉年老得子<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><ul><li>其實過去還有二子一女，但他們很早就因故離開（見下面Cole Smithey一項）</li></ul></li>
+<li>一度因為兒子的行為而做出了<b>要拿斧頭砍斷網路</b>的<a href="/%E5%95%8F%E9%A1%8C%E7%99%BC%E8%A8%80" title="問題發言">問題發言</a>
+<ul><li><b>Get away from the Internet! I'm cutting it down, right now.</b></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原因是當時CWC在網絡電愛，然後有人打電話（Clyde Cash和他愉快的夥伴）去他家説CWC想自殺</span></li>
+<li><s>從此便得了個<b>網路樵夫</b>的渾名</s></li></ul></li>
+<li>2011年因心臟衰竭等多重疾病與世長辭，R.I.P
+<ul><li>當日CWCwiki甚至宣布停更一週以示弔唁</li></ul></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">直到死都沒發現芭芭拉的G點</span></s></li></ul><h3 class="in-block"><span class="mw-headline" id="Cole_Smithey">Cole Smithey</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=6" title="編輯章節：Cole Smithey" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CWC同母異父的兄弟，是芭芭拉在與鮑伯相識之前，和一位職業魔術師Jerry Harmon所生的兒子。</li>
+<li>跟芭芭拉和鮑伯關係有如水火
+<ul><li>他宣稱芭芭拉與她的前夫是不負責任的家長會虐待自己<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">還險些意外射殺自己的兒子（所幸跳彈）</span>，希望除非芭芭拉掛了，不然CWC別跟他聯絡。</li></ul></li>
+<li><s>滿分好評破壞者，</s>自稱「全世界最聰明的電影影評」，影評點閱率極低但卻以其和主流唱反調臭名昭著
+<ul><li><s>在爛番茄中唯二給予玩具總動員3負評的其中一人，甚至在評論時還搞錯基礎設定。</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="早年"></span><span class="mw-headline" id=".E6.97.A9.E5.B9.B4">早年</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=7" title="編輯章節：早年" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>CWC在18個月大時，曾被一位受託擔任保母的鄰居關在暗室反覆施暴，導致他直到七歲幾乎都沒再開口說話，家人只能將他送至醫院接受口語相關的治療。</li>
+<li>由於自閉症狀CWC曾遭到鄰家女孩的欺負，不過他憶及此事時並未如此做想。</li>
+<li>11歲時在推廣音速小子漫畫舉辦的競賽獲勝，贏得1,000美金的購物金並<b>登上電視受訪</b>，此時可說是人生頂點（無誤）。</li>
+<li>小學時父母為了避免屢次闖禍的他被送入特教機構替他辦了休學，於是CWC在家自學了一年。
+<ul><li>儘管真相石沈大海，唯一可以確定的是CWC認為處罰他的校長是同性戀，自此對同性戀極為厭憎。</li>
+<li>初中認識了人生中少數願意相助的貴人—授勳年度教師的Virginia Sanford：她教導CWC如何保護自己以及待人接物。</li>
+<li>在高中的四年間過得相當愉快，還有去支援籃球隊一段時間。</li></ul></li>
+<li>1999年，為了迴避高中作業的版權角色使用限制，創造了<s>自認的</s>得意之作「索尼丘」，並在日後將其作為主要創作題材。</li>
+<li>此後於PVCC社區大學修習<s>之後看起來沒派上用場的</s>電腦輔助設計課程（CADD）。
+<ul><li>而在此時，CWC也開始追求異性伴侶而在學校以及麥當勞等地大打旗鼓徵女友，想當然槓上了學生事務長Mary Lee Walsh老師甚至警察而碰壁甚至被停學，Walsh老師也自此變成其不共戴天的仇人。
+<ul><li>就結果論而言要是Walsh老師選擇輔導而非一味禁止CWC的奇行，或許他日後的愛情觀不會偏差如此之大。</li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關事蹟"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E4.BA.8B.E8.B9.9F">相關事蹟</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=8" title="編輯章節：相關事蹟" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>老實說不勝枚舉，更詳細的介紹詳見CWCwiki<s>絕對不是因為太多了沒時間寫完</s></li>
+<li><a rel="nofollow" class="external text" href="https://wiki.komica.org/%E6%AA%94%E6%A1%88:Timeline.png">時間線一覽（截至2018年）</a></li></ul><table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td>以下內容<s><a href="/%E9%AB%98%E9%81%94%E5%85%AB%E6%88%90" title="高達八成">高達八成</a></s>節錄自K島四格版上由奇異農開的CWC串<s>因為條目編寫者看不懂太多英文資料</s>
+</td></tr><tr><td><span style="font-size:24px;"><span style="color:#ff0000;background-color:;">注意：以下的Saga可能含有大量<b>令人精神不適</b>的內容，請不要於吃飯時觀看。</span></span>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Megan_Saga">Megan Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=9" title="編輯章節：Megan Saga" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC把自己唯一女性朋友給氣跑的故事</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2005年夏季-2008年4月
+</pre>
+<ul><li>起初，CWC在GAMe PLACe（下述Game Place Saga的地點）認識了Megan
+<ul><li>因為受到Megan的影響，CWC跑去看<a href="/My_Little_Pony%EF%BC%9AFriendship_is_Magic" class="mw-redirect" title="My Little Pony：Friendship is Magic">小馬</a>而成為Brony。</li></ul></li>
+<li>然而過沒多久，CWC竟然開始把Megan腦補成自己女朋友
+<ul><li>多次試圖進行攻略（包括開始畫Megan和她喜歡的美少女戰士<s><a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a></s>，<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=cEmM4JKZK8I">參加rap大賽</a>試圖贏一台PSP討對方歡心<s>可想而知徒勞無功</s>等<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>），令對方相當困惑</li></ul></li>
+<li>後來有一次為了反撃<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/Encyclopedia_Dramatica?uselang=zh-tw">Encyclopedia Dramatica</a></span>的惡搞，<b>畫了一堆糟糕圖反擊</b>（意味不明）<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其中包括了<b>他自己和Megan的糟糕圖</b></span>
+<ul><li>東窗事發後Megan便和CWC進行完全切割，從此和CWC不再有任何聯絡，還刪了自己的FB帳號</li></ul></li></ul><pre>於是，CWC的一次真愛之旅就這麼以失敗收場。
+<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">事隔十年CWC又去拜訪了經營玩偶店的Megan。見到多年不見的老相識，對方的反應是「我有槍，敢接近我就開火」...</span>
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span id="Clyde_Cash和他愉快的夥伴"></span><span class="mw-headline" id="Clyde_Cash.E5.92.8C.E4.BB.96.E6.84.89.E5.BF.AB.E7.9A.84.E5.A4.A5.E4.BC.B4">Clyde Cash和他愉快的夥伴</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=10" title="編輯章節：Clyde Cash和他愉快的夥伴" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>並非單一Saga，比較接近單元性質。</li>
+<li>也是讓CWC的<s>惡名</s>名聲在網路上發揚光大原因之一</li>
+<li>這段時期為CWC黃金時期(起於2007年，終於2011年CWC父親過世前)所出現的廚</li>
+<li>有人甚至在Encyclopedia Dramatica(以下簡稱ED)版創立CWC條目，也成為CWCki的前身</li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC對抗在Encyclopedia Dramatica創立他的<s>惡行</s>條目的廚－Jason Kendrick Howell</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li>2007年10月，Something Awful(一個討論好笑事情與奇人軼事的網站)討論到CWC的事蹟，隨後在4chan的ED版上越來越多人討論，<s>起源</s></li>
+<li>2007年11月，Jason Kendrick Howell決定在ED版額外創立CWC條目，好讓網友可以集中討論
+<ul><li>Jason Kendrick Howell，在網路上自稱為Liquid Snake，原ED版CWC條目編輯者之一</li></ul></li></ul><div class="thumb tright"><div class="thumbinner" style="width:271px;"><a href="/%E6%AA%94%E6%A1%88:JasonHowell.jpg" class="image"><noscript><img alt="" src="/images/e/e3/JasonHowell.jpg" width="269" height="200" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 269px;height: 200px;" data-src="/images/e/e3/JasonHowell.jpg" data-alt="" data-width="269" data-height="200" data-class="thumbimage"> </span></a>  <div class="thumbcaption">Jason Kendrick Howell <s>穿得也太像Liquid Snake</s></div></div></div>
+<pre>這時...CWC發現到有人創立他的條目
+</pre>
+<ul><li>CWC發現自己條目被寫得很難堪，憤怒的他把矛頭指向Jason Kendrick Howell(以下簡稱Jason)
+<ul><li>而CWC決定要報復，他在ED版的CWC條目找到Jason的電子郵件，也順勢得到他的電話號碼以及My space<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li>在Jason的My space頁面上好友列發現一位未成年女性朋友，<s>武斷地</s>認定是Jason的女朋友，並有發生關係(啥？)</li>
+<li>隨後CWC<s>亂</s>指控Jason跟未成年少女發生性關係，應該要抓去關</li>
+<li><s>編者：Jason有夠衰小</s></li></ul></li></ul><ul><li>此外，為了報復Jason，他在索尼丘漫畫第8期中&lt;Rage Against the Garbage&gt;，把Jason繪製成敵役</li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;">CWC提醒您：索尼丘是<b>全年齡向</b>的健全漫畫<s>才怪</s>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/%E6%AA%94%E6%A1%88:BossJason.jpg" class="image"><noscript><img alt="" src="/images/thumb/5/50/BossJason.jpg/300px-BossJason.jpg" width="300" height="213" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 213px;" data-src="/images/thumb/5/50/BossJason.jpg/300px-BossJason.jpg" data-alt="" data-width="300" data-height="213" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:BossJason.jpg" class="internal" title="放大"></a></div>重傷的Jason<s>看起來也太開心了吧</s></div></div></div>
+<ul><li>故事中，Jason是4-cent garbage大樓的要員之一，負責散播假消息來侮辱CWC以及索尼丘們的名聲，是在索尼丘們突擊4-cent garbage大樓的中途遇到的，中boss程度的敵人
+<ul><li>”4-cent garbage” （四分錢垃圾）是索尼丘系列中一個類似出版社的建築物，為各種無良廚們聚集，編造、散播各種惡意謠言的地方<s>怎麼聽起來似乎沒什麼不對的樣子……</s>。</li>
+<li>外型是單眼且時常披著披風遮住臉龐的男人，披風拿下時他是個帶著眼罩與頭巾的棕髮鬍鬚男子<s>不就是Big boss</s></li></ul></li></ul><ul><li>他透過散播Rosechu<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">長出肉棒的扶他</span>圖片來侮辱索尼丘與Rosechu，而在拒絕索尼丘撤下ED頁面與Rosechu圖片的要求後與他們開戰。</li>
+<li>在戰鬥中，索尼丘很快的就被使用邪惡力量CQC(?)的Jason擊敗，而在打敗索尼丘後，Jason還有餘暇拿出了一條醃黃瓜丟到Rosechu面前進行挑釁。(??)</li>
+<li>被酸黃瓜擊中的Rosechu頓時被憤怒遮蔽了雙眼，而一股力量頓時<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從她的卵巢中</span>油然而生，散播到了全身。(???)</li>
+<li>這股力量讓她像<a href="/%E5%8C%97%E6%96%97%E7%A5%9E%E6%8B%B3" title="北斗神拳">拳四郎</a>般的爆衣，在三點全露(?X4)的情況下狂暴化，化身成為了Incredible Lioness，並且奮力一躍跳上了Jason，將他的臉夾在自己的兩腿間並將他面部<a href="/%E6%88%90%E5%8F%A5/%E6%AD%A3%E9%9D%A2%E4%B8%8A%E6%88%91%E5%95%8A%EF%BC%81" title="成句/正面上我啊！">騎乘</a>至重傷<s>奪魂剪刀腳</s></li>
+<li>雖然Jason因為有邪惡力量所以保住了一條命，但後來卻在被打敗並被逮捕之後莫名死於交通意外。</li></ul><ul><li><s>整段故事就只有丟醃黃瓜比較正常</s></li></ul></td></tr></tbody></table><ul><li>之後CWC發現自己官網被駭客駭入時，<s>遷怒</s>指是Jacob做的
+<ul><li>實際上是Clyde Cash做的</li></ul></li>
+<li>憤怒的CWC拍了影片，並講出<s>威脅</s>名言：<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=fyNiZpk9AsU&amp;ab_channel=Fondful_Memories">＂I'LL BREAK YOU DEAD!!＂</a></li>
+<li>以下是語音逐字稿</li></ul><pre>Jason Kendrick Howell...you BASTARD!
+BASTARD!
+You hacked into everything! You have driven me so beyond the wall, I can't even DESCRIBE it!
+YOU'RE LAUGHING NOW, BUT...
+I'LL BREAK YOU DEAD!
+Goodbye!
+</pre>
+<p><br></p>
+<pre>雖然沒有實質上的解決問題，但這也是CWC在網路上名聲的起源<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，也成為了日後各種<s>狗屎爛事的</s>故事開端</span>
+</pre>
+</td></tr></tbody></table><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC對抗偷他PSN帳號的基佬廚－Jack Thaddeus</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<div class="thumb tright"><div class="thumbinner" style="width:301px;"><a href="/%E6%AA%94%E6%A1%88:Jack_Thaddeus.png" class="image"><noscript><img alt="" src="/images/d/da/Jack_Thaddeus.png" width="299" height="276" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 299px;height: 276px;" data-src="/images/d/da/Jack_Thaddeus.png" data-alt="" data-width="299" data-height="276" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Jack_Thaddeus.png" class="internal" title="放大"></a></div>Jack Thaddeus</div></div></div>
+<ul><li>Jack Theaddeus(以下簡稱Jack)，CWC在網路上發紅之後，所遇到的第一位廚，也是Clyde Cash的夥伴之一
+<ul><li>因為自身是一名同性戀者，十分不滿CWC多次汙辱男同性戀者而開始整CWC</li></ul></li></ul><ul><li>2009年，在CWCki創立後，CWC透過"粉絲"<s>念作廚們</s>創立CWCipdeia，糾正CWCki錯誤訊息<s>並宣揚自己的Sonichu</s>
+<ul><li>CWCKi跟CWCipdeia是不同的Wiki頁面，前者是由ED版CWC條目編輯者共同創立，後者則是特別創立讓CWC別去CWCki破壞條目</li></ul></li>
+<li>某日，CWC發現CWCipdeia的頁面廣告變成宣揚同性戀權益廣告，而且內容還是十分針對CWC用醃黃瓜去宣傳(?)</li>
+<li>CWC氣得向Jack發出抗議郵件，並要求CWCipdeia撤除廣告，然而Jack是有用租金租頁面廣告欄，而且CWCipdeia也因為商業行為否決掉CWC的建議
+<ul><li><s>創立專屬自己的wiki網頁也是需要資金呀，雖然創立的都是看好戲的廚們</s></li></ul></li></ul><ul><li>Jack最著名的事蹟是：駭進CWC的PSN帳號</li>
+<li>當CWC發現自己帳號被駭，對Jack喊話：</li></ul>
+   <pre>       “Jack Thaddeus! Give me back my PlayStation Networks accounts, you expert hacker! 
+        You, you ir—rational expert! Motherfucking burning-in-Hell hacker!”
+       (Jack Thaddeus！把我的PSN帳號還來，你這職業駭客！你-你這不理性專家（意義不明）！
+        天殺的，活該下地獄的駭客！-Komica四格版的奇異農翻譯)
+</pre>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/%E6%AA%94%E6%A1%88:4chancwc.jpg" class="image"><noscript><img alt="" src="/images/thumb/5/52/4chancwc.jpg/300px-4chancwc.jpg" width="300" height="558" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 558px;" data-src="/images/thumb/5/52/4chancwc.jpg/300px-4chancwc.jpg" data-alt="" data-width="300" data-height="558" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:4chancwc.jpg" class="internal" title="放大"></a></div>4chan /v/版的反應<s>一致表示很怕</s></div></div></div>
+<ul><li>透過挾持PSN帳號，Jack逼CWC達到他的要求才能歸還他的PSN帳號，例如:
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=5NZw7tRNa2A&amp;feature=emb_logo">讓相當厭惡同性戀且自認為純直男CWC唱"It's okay to be gay"</a>，好讓CWC理解自己的罪惡(啥?wwwww)</li>
+<li>因為CWC唱得心不甘情不願，Jack接著<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?time_continue=1&amp;v=R2UHhyIBlmw&amp;feature=emb_logo">指使CWC去一邊交流(?)他的PS3一邊懇求歸還帳號</a><s>，PSVita的誕生</s></li>
+<li><s>有超無聊的奇異農數他在影片裡說了幾次髒話與交流了幾次</s></li>
+<li><s>說Damn次數：42<br>說Fuck次數：21<br>提出要求次數：23<br>說Jack Thaddeus次數：17<br>總共抽插次數：1173次<br>每秒平均抽插次數：2.23次/秒<br>綜合評價：Ｓ</s></li></ul></li></ul><ul><li>也因為上述原因，理所當然Jack也被畫進去索尼丘漫畫中擔任敵役
+<ul><li>索尼丘漫畫中，Jack跟Clyde Cash是同性戀情侶，且一同坐鎮於4-cent garbage大樓擔任總編與總編的婊子的位置</li>
+<li>而兩位最後結局可在下面Asperchu Saga參閱</li></ul></li></ul><ul><li>2011年，CWC自稱掌握到Jack的真實身分，要求他在近日道歉，否則要公布在網路上</li>
+<li>然而得不到任何回覆的CWC，決定要公布其身分，是一位名叫Ahuviya Rotem Harel的共產主義BDSM愛好者男轉女變性人
+<ul><li>雖然資訊完全不正確，但CWC還是確定Jack身分就是這位</li></ul></li></ul><pre> 之後CWC也沒再提過Jack的事情，雖然沒有實質上(ry，但CWC也因為PSN帳號資訊被公布在網路上，使得購物狂<s>還有遊戲通常只玩一次</s>的惡習逐漸為人所知...
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="JulieBlueSpike_Saga">Julie<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">BlueSpike</span> Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=11" title="編輯章節：JulieBlueSpike Saga" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC為了女友而犧牲色相結果自尊<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與菊花</span>受創的故事</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2009年2月-3月
+</pre>
+<ul><li>2008年，當時的CWC深信自己有著相當大量的忠實粉絲<s>（唸作鄉民與廚）</s>，其中包括了許多女性...也就是能幫CWC完成天命的候選人
+<ul><li>這時CWC經常收到粉絲們的<s>刺探</s>來信，詢問他關於索尼丘漫畫以及CWCville的資訊</li></ul></li>
+<li>其中一名來信的粉絲，自稱為來自莫瓦維亞/<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E8%8E%AB%E6%B3%95%E5%B0%BC%E4%BA%9E?uselang=zh-tw">莫法尼亞</a></span>（Molvania，一個位於東歐的神秘幻想國度）的年輕女子，Julie，她似乎對CWC有些意思
+<ul><li>當時還有另外一名叫做PandaHalo，來自澳洲的女性；她同樣對CWC有點好感</li>
+<li>此時CWC的宿敵之一，廚之王Clyde Cash出現了<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>，他不斷威脅要對兩位女性不利，使CWC被迫錄製了好些丟臉的影片</li>
+<li>後來在澳洲發生了一場史無前例的森林大火，CWC因為一段時間沒得到Panda音訊而認為Panda已於大火中喪生</li></ul></li>
+<li>此後，CWC收到了一封Julie親手寫的情書，二人的關係亦逐漸升温<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，還打算網路電愛</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">就在二人隔空「打得火熱」時，Clyde Cash讓其手下打電話到CWC家中，跟他爸鮑伯說CWC在Youtube上宣稱要自殺</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">心急如焚的鮑伯衝到CWC房間，想<b>用斧頭砍斷網路</b>，網路電愛也因而中止了</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了彌補Julie，在她的要求下CWC拍下了CWC史上最糟糕的影片:“For Julie's Eyes Only”，內容為<b>CWC示範他們將來的床事的性愛影片</b></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">CWC把他的「好夥伴」（一個名為Kimmi的充氣娃娃）當作Julie，他奮力地扭動著身軀，並且在呻吟聲中大聲呼喊著<b>「JULAYYYYYY!」</b>來<s>叫床</s>展現自己的熱情</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">有人認為短片中CWC的姿勢如此奇怪，推測主因在於他所有相關知識都來自黃片而非正規教育，所以只知道模仿在片中的動作</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">此後還有廚把影片截圖做成明信片寄到他家，雖然雙親的回應未知，不過他的PsEye攝影機從此被沒收</span></li></ul></li></ul></li>
+<li>然而在影片傳過去後不久，Julie卻忽然音訊全無，下落不明
+<ul><li>此時，有個叫作Max，自稱是Julie的弟弟的人打電話給CWC，説他和Clyde Cash將Julie囚禁在俄亥俄州的家中，叫CWC自己來俄亥俄州（一個位於克里夫蘭的地址）救她</li>
+<li>於是，心急的CWC不顧自己父母反對甚至威脅，在剛參加完一名長輩的喪事，聲稱得到祖靈的祝福後，一個人踏上了單程距離<b>長達400英里（643.5公里）</b>的旅途
+<ul><li>當日，CWC在一大早（5:30AM）偷走了車鑰，並在桌上留下<s>遺言</s>字條與自己旅途的地圖後出發了</li>
+<li>可是在開了將近12小時的車後，在目的地等待CWC的卻是一位住在當地，完全不知道一直問著Max與Julie的CWC到底是在幹三小的年邁黑人女性</li></ul></li></ul></li>
+<li>拯救至愛失敗的CWC，回家後不但受到父母的斥責，還被Max駭入了PSN帳號，要脅要把帳號賣到Ebay上
+<ul><li>Max先是要求CWC自認是個基佬，再要求CWC放棄自己CWCville市長的職務，讓位給美國電視推銷的超級名人比利・梅斯，又要求CWC讀出自己應該要被以濫用職權的罪名被丟入獄中，被無數個大隻黑佬輪○的話</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Max還脅迫CWC要他<b>對着自己珍貴的索尼丘獎章<a href="/OGC" title="OGC">OGC</a></b>，但由於緊張令CWC無法OGC；Max要他在<b>把獎章燒掉與塞入菊花</b>中二選一，結果CWC<b>選了後者</b></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">承受着巨大精神壓力的CWC在把獎章分解並塞入菊花途中<b>還脱了糞</b></span></li></ul></li>
+<li>這時候，Max終於讓Julie聽電話
+<ul><li>Julie説出了<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">自己與Max都是同一人：<b>一個13歲，名為Bluespike的<s>惡魔娼年</s>男孩</b></span></li>
+<li>殘忍的Bluespike説要向FBI與電視節目舉報CWC，並且沒有把PSN帳號還回去</li>
+<li>事後Bluespike還把自己與CWC的交流全數公佈</li></ul></li></ul></li>
+<li>這一連串極度離譜的行為導致Encyclopedia Dramatica附屬的CWC討論版（奇異農場前身）上出現了前所未見的動盪
+<ul><li>很多用戶，甚至連對事件半知半解的Clyde Cash都認為Bluespike已經遠遠超過廚人所可被允許的界線，對於他的殘忍感到相當不齒</li>
+<li>同時用戶們也對Bluespike（聲稱）的真實身份是一名13歲的男孩感到相當的錯愕，他們認為這個每晚用假音跟一個自閉者<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">電話性愛</span>的小孩比CWC更有問題，更可恨的是由於法律偏向保護兒童，加上Bluespike的行為並沒有真正的觸法，難以讓Bluespike為了他的所作所為付出代價</li>
+<li>而一些與Bluespike同樣殘忍的廚們則從此以後時不時會喊着「JULAYYYYYY!」地打電話給CWC</li></ul></li></ul><pre>於是，在惡魔少年Bluespike的戲弄下，CWC的一次真愛之旅就這麼失敗了。
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span id="Emily_事件"></span><span class="mw-headline" id="Emily_.E4.BA.8B.E4.BB.B6">Emily 事件</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=12" title="編輯章節：Emily 事件" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>嚴格來說並不是Saga，但因為過程太離奇所以特別記載。</li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC的約會對象被酸黃瓜人拐走的離奇事件</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2009年3月15日-19日
+</pre>
+<ul><li>在看到Bluespike是如何折磨CWC以後，網路上許多廚對於CWC都放軟態度了
+<ul><li>一位在網路上模仿CWC的<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">廚</span>粉絲Robert Simmons V也在一次禮拜日CWC一家做禮拜時親自拜訪了CWC本人，還和網路樵夫小聊了一會兒<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但這次拜訪其實只是為了要在幾天之後惡整CWC</span></li>
+<li>Robert Simmons V和其他幾位朋友打算用一位聲稱自己來自西維吉尼亞的女性成員Emily作為誘餌，以約會<s>惡整</s>的名義約CWC到附近的百貨商場逛街
+<ul><li>因為CWC對於男性陽具的厭惡，網路上的廚常常用醃黃瓜來代替下體來騷擾CWC</li></ul></li></ul></li>
+<li>原定的約會日期是16日，但是媽寶CWC被過度保護的母親芭芭拉阻止了這次約會，被放鴿子的Emily知道以後非常生氣，CWC只好答應第二次約會，不過條件是網路樵夫要陪同CWC。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">還好跟去的不是他媽</span></li>
+<li>於是在19日的時候，CWC便到了約定好的百貨商場和Emily見面了</li>
+<li>名義上是CWC和Emily的約會，但過程中大部分都是網路樵夫鮑勃在和Emily聊天，而且只要鮑勃一離開，CWC就會開始肢體觸碰Emily
+<ul><li>網路樵夫還說CWC從來沒有帶他出去過，還當場嗆CWC「我花了27年時間陪伴你，為什麼你就不能花個27年陪我？」</li></ul></li>
+<li>鮑勃讓他們倆人獨處以後，醃黃瓜人便出現了，他問Emily想不想和他一起去看電影
+<ul><li>路過的人看到醃黃瓜人還以為他是什麼企業吉祥物</li>
+<li>雖然醃黃瓜人一再否認，但CWC非常確定他的出現是針對他的<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但其實他也沒有錯</span>，並開始碎碎念自己在網路上如何被廚們騷擾，但一旁的人都直接無視他的喃喃自語</li>
+<li>Emily很快就答應了醃黃瓜人的邀約，並迅速地和醃黃瓜人<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">逃往</span>前往自己的車上</li></ul></li>
+<li>CWC在和Emily道別時還打算親她，但立刻被Emily避開，Emily表示當時看見CWC用他碩大的雙手壓住她的肩膀，眼角餘光隱約看見他的嘴唇漸漸靠近她的臉，她只能蹲下來迴避CWC的吻
+<ul><li>之後Emily便和醃黃瓜人快樂地<s>踏上鄉村小路</s>回去了西維吉尼亞了</li></ul></li>
+<li>因為CWC有嚴重的臉盲症，所以後來Emily又以Kim Wilson的身分和CWC重新連繫，但這次沒有再廚他，反而和他建立起友誼，多次帶他出來社交場合以改善他的人際關係，甚至介紹自己單身的朋友給他。
+<ul><li>雖然沒能成功讓CWC社會化，但Kim<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">愚公移山</span>的舉動依然令人敬佩</li></ul></li></ul><pre>這次事件不能算是Saga，但從CWC和Emily的互動之間可以看得出來他對兩性關係的概念有多麼偏差
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Ivy_Saga">Ivy Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=13" title="編輯章節：Ivy Saga" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC以為自己找到真命天女的故事</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2009年3月-2009年2月
+</pre>
+<ul><li>在Emily事件結束以後沒幾天後，一位叫做Ivy的粉絲要求CWC拍影片送給她的朋友
+<ul><li>結果CWC拍的影片品質都非常爛，所以多次被Ivy要求重錄。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這傢伙智障到可以把Ivy的名字唸錯</span></li></ul></li>
+<li>沒多久，CWC就和Ivy開始交往了
+<ul><li>因為Ivy的形象是紅髮，而CWC夢想中的女兒Crystal形象是金髮，CWC曾經表示自己不是那麼渴望Ivy，但為了<s>破處</s>還是接受了她</li></ul></li>
+<li>在這段期間，CWC畫了不少漫畫獻給<s>意淫</s>Ivy
+<ul><li>內容包含了他和Ivy的婚禮<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，還有他們倆的洞房之夜，Ivy甚至要求CWC描圖自己的老二，這樣她才能知道他的那邊有多大，而CWC真的照做了</span></li>
+<li>CWC認為美國高中教育應該要教育學生如何和異性約會<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，這樣就不會有人和他一樣孤獨終老到死了</span>，所以他把這個想法畫進漫畫裡
+<ul><li>還拍了一部<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=D7XrVgM5E6Y&amp;feature=emb_title">MV影片</a>獻給Ivy，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">出乎意料之外的是，這部影片以CWC的標準來看其實剪得不錯</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從這裡可以看的出來CWC為了幹炮能付出多大的努力</span></li></ul></li></ul></li>
+<li>在Ivy和CWC的熱戀期中，CWC以前的同學Joshua Martinez聯繫到了他
+<ul><li>Joshua告訴Chris Chan他現在是明星Vanessa Hudgens（歌舞青春的女主角）的保鑣，而他旁邊的Vanessa也想和CWC聊天</li>
+<li>於是CWC就和<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Joshua</span>Vanessa隔空網愛，事後CWC非常後悔自己出軌，跑去和Ivy懺悔，Ivy要求CWC錄下打自己屁股的影片給她作為懲罰</li>
+<li>Ivy也趁著這個機會開始要CWC拍一些莫名其妙的影片給她，證明自己對她的愛
+<ul><li>像是裸體咬著索尼丘項鍊的相片，還有CWC穿著西裝談論自己和Ivy見面以後要怎麼和她做愛的影片</li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也就是在這個時期，CWC透露了自己為了維持精蟲數量，會把自己的子孫混合橘子口味的芬達汽水一起喝下去回收</span>
+<ul><li>CWC回收自己<a href="/%E7%99%BD%E6%9E%9C%E9%86%AC" title="白果醬">白果醬</a>的影片不久後便被眾多網路媒體刊登，還被美國東西岸的數個大型廣播節目拿來當主題討論</li></ul></li>
+<li>雖然表面上是在和Ivy交往，但CWC還是沒有放棄追求<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Joshua</span>Vanessa
+<ul><li>Joshua也佔了CWC許多便宜，像是要CWC請他吃飯，或是把壞掉的PSP高額賣給CWC</li></ul></li>
+<li>CWC的狀況被CWC一家的教會朋友洛基老師知道以後，洛基老師便打算報警處理網路霸凌CWC的廚們，開始告勸他少碰網路，並且要CWC和Ivy斷絕關係
+<ul><li>CWC一家原本只想處裡Joshua，但在調查期間也發現CWC私底下一直在盜刷網路樵夫的信用卡，還從母親<s>卡比獸</s>芭芭拉的錢包拿走了不少的金額</li>
+<li>擔心CWC也會被警方波及，CWC一家打消了報警處理的念頭，但洛基老師依然堅持要CWC和Ivy一絕了斷</li>
+<li>Ivy知道以後憤而自殺</li></ul></li>
+<li>Ivy Saga結束以後沒有多久，CWC便發現到了Liquid Chris的存在，並轉而追求Liquid的女朋友Kacey，所以此次分手並沒有對CWC造成多大的影響，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">可見CWC真的是數一數二的渣男</span></li></ul><pre>Ivy Saga可以說是C史中許多經典<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">噁心</span>影片的泉源
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Liquid_Saga">Liquid Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=14" title="編輯章節：Liquid Saga" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC為了證明自己才是真正的CWC而進行決鬥的故事</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2009年6月21日-11月10日
+</pre>
+<ul><li>在CWC因為<b>公布他人個資</b>而令其youtube帳號<b>CChanSonichu</b><s><a href="/%E8%8E%8A%E5%9C%93%E5%A4%A7%E5%B8%AB" title="莊圓大師">七孔流血而亡</a></s>被Ban後，突然出現了一個名為<b>CChanSonichuCWC</b>的新頻道
+<ul><li>CChanSonichuCWC的頻道主自稱為「真正的CWC」，開始翻拍CWC的部份影片，並自稱自己才是索尼丘的創作者<s>，<b>而且他有女友</b></s>，憤怒的CWC為了反擊而弄了一個新頻道：<b>IBAChandler</b></li></ul></li>
+<li>為了區分兩者，大家開始把新的CWC稱為<b><a href="/%E6%BD%9B%E9%BE%8D%E8%AB%9C%E5%BD%B1%E7%B3%BB%E5%88%97" title="潛龍諜影系列">Liquid Chris</a></b>，本來那個<s>劣化版</s>CWC則稱為<b><a href="/Solid_Snake" title="Solid Snake">Solid Chris</a></b>
+<ul><li>為了證明誰才是真的CWC，兩人展開了<s>令人腹筋崩壞+一面倒壓殺的</s><a href="/%E6%88%90%E5%8F%A5/%E6%88%B0%E7%88%AD%E8%AE%8A%E4%BA%86" title="成句/戰爭變了">戰爭</a></li></ul></li>
+<li><b>「第一次CWC內戰」</b>
+<ul><li>Solid為了證明真正CWC那天才（？）的演奏能力，<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=9s-6RpYdQyc">錄製了一段自己玩Guitar Hero：More Than a Feeling的影片</a><s>玩的還是普通難度</s></li>
+<li>而Liquid的反撃方法竟然是<a rel="nofollow" class="external text" href="https://youtu.be/85OnCfAG4RI">拿出真正的吉他彈奏了More Than a Feeling</a></li>
+<li>Solid以他在高中學過<s>支離滅裂的</s><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Mm4CNpP5jeE">西班牙文向Liquid挑釁</a></li>
+<li>而Liquid以流利的西班牙文，法文，德文以及<s>奇怪的</s>日文<a rel="nofollow" class="external text" href="https://youtu.be/0t3MBa-3Ovw">回應了他的挑釁</a></li>
+<li>在兩連敗後，Solid向Liquid提議以唱歌決鬥，並讓第三方的幾位評審判定誰才是贏家
+<ul><li>Solid演唱<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Byz94fkwf6U">Virgin With Rage</a>、<a rel="nofollow" class="external text" href="https://youtu.be/HZKynkbabm0">Sonic BOO</a><s>M</s>等歌曲（下略），而Liquid唱了<a rel="nofollow" class="external text" href="https://youtu.be/zwyptvayWpQ">So Need a Cute Girl</a>等（下ry），結果<s>當然是</s>Liquid勝出</li></ul></li>
+<li>然而戰敗的Solid卻說這次決鬥<b>不具有決定誰才是真正CWC的效力</b>，因為「因為他跟Liquid只是鬧著玩」<s>說難聽點就是發現自己技不如人後直接反悔開溜</s>，因此Solid也堅持自己才是真正的CWC</li></ul></li></ul><ul><li>第一次內戰以後，Solid嫉妒Liquid有個真正的女友Kacey
+<ul><li>此時Liquid發佈了自己疑似遭到綁架的影片，並突然消聲匿跡</li></ul></li>
+<li>得知此事的Solid忽然靈光一閃，以<s>不知那裡得到的</s>電話假扮Liquid想要獲得Kacey的歡心<s>以達成自己幹炮的天命</s>
+<ul><li>接到電話的Kacey欣喜若狂<s>才怪</s>，Solid也認為自己非常成功，試圖將Kacey拐到自己家中
+<ul><li>就在快要成功時，Liquid忽然回來了，還拍片指自己在巴士站受到Solid綁架、下藥，並且在慘遭凌辱後被變態基佬Solid棄置於撒哈拉沙漠</li></ul></li>
+<li>幹炮大失敗的Solid惱羞成怒，反擊Kacey早已是他的gal pal，還畫了一篇自己射殺Liquid的漫畫，結果反而惹火了Kacey，於是Kacey決定讓她老爸Matthew（退役士官兼共和黨員）與Solid通通電話</li></ul></li></ul><ul><li><b>Father Call事件</b>
+<ul><li>Solid強調自己真摯又誠實，但卻一直在撒謊（例如聲稱自己舉了50磅啞鈴百餘次）</li>
+<li>Solid自稱在做義工，內容為「在遊戲店中擔任寶可夢卡牌遊戲的代理道館主」<s>直接被對方吐槽那不是小孩在玩的遊戲嗎</s></li>
+<li>Solid提起自己的<s>幹炮</s>天命，被質疑自閉症的小孩也會得自閉症
+<ul><li>Solid訴説自己夢到會有一個名為Crystal的女兒，被指Crystal聽起來像脫衣舞孃的藝名</li></ul></li>
+<li>Solid陳述自己人生中種種困難（做家事等）並且將這些事物跟Matt的經歷（上戰場）<b>作比較</b>
+<ul><li>最離譜的是Solid將<b>自己清理房子的付出等同於Matt把死去戰友從戰場上帶回基地</b>，以及<b>將自己死去狗兒的傷痛與Matt在9/11事件中失去母親的傷痛做比較</b></li></ul></li>
+<li>電話最後在Kacey爆罵Solid一頓後告終了</li></ul></li>
+<li>Liquid一邊抱得<s>肥</s>美人歸，一邊成為正牌的CWC，在宣佈與Kacey結婚後引退
+<ul><li>Solid則在多重失敗及自己的網站被強登基佬廣告的雙重打擊之下暫時消失了</li>
+<li>後來Solid原諒了Liquid<s>但又在YY漫畫把Liquid的靈魂拖入地獄，洗淨他的身份與記憶</s></li></ul></li></ul><pre><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">事後Liquid和Kacey被認為是真正的未婚夫妻，婚前拿CWC開玩笑<s>，比起其他糟糕的惡作劇算是非常温和</s></span>
+<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">此外Matthew跟Liquid其實是同一個人飾演的</span>
+<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">據知Liquid目前是一位進行癌症相關研究的醫師<s>因此被戲稱是平行世界重獲新生的Solid</s></span>
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Asperchu_Saga">Asperchu Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=15" title="編輯章節：Asperchu Saga" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC對模仿者亞斯伯格丘發起單方面對決的故事</b><br><s>換言之就是<a href="/%E5%92%95%E5%9A%95%E5%9A%95" title="咕嚕嚕">咕嚕嚕</a>VS友繪</s>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2009年11月-2012年1月10日
+</pre>
+<ul><li>某天，有人傳了一個創作給CWC：亞斯伯丘（Asperchu）系列
+<ul><li>亞斯伯丘是一個戴著粗框眼鏡，身材肥滿，身穿條紋衫，帶著索尼丘獎章的「電氣刺蝟寶可夢」（與CWC給索尼丘的定位一樣）。</li>
+<li>在故事中，主角（亞斯伯丘）是一個與自己年邁祖父母：阿茲海丘爺跟卡比獸嬤住在一起，時常在打XBox或是進行追尋摯愛的Love Quest，以及跟自己的兄弟：索尼丘一同冒險，面對邪惡的Ian Brandon Anderson。</li>
+<li>然而讓CWC難以接受的是，這個「角色」最大的賣點，竟然是主角有著<b>亞斯伯格症。</b><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><ul><li>CWC堅信亞斯伯格症跟自閉症截然不同，是個會影響記憶的疾病<s>看起來他似乎把亞斯伯格症與阿茲海默症搞混了</s></li>
+<li>而且他認為，亞斯伯格症患者就算有溝通等障礙，症狀也不會像高功能自閉症患者嚴重。</li>
+<li>並且他單方面認定，這些亞斯伯格症患者<b>分走了像他一樣的自閉症者應得的注目與同情</b><s>你是嫌自己的名聲還不夠差嗎</s>。</li></ul></li></ul></li>
+<li>就算許多人指出CWC他的看法完全錯誤，他依舊不為所動。
+<ul><li>CWC：「<b>無論那些所謂的“科學家”怎麼說，我都認為他們是錯的！我才不信那些聽起來像便宜肉部位的人有像我們自閉症者那樣“特別”，那樣值得特別關照！</b>」</li>
+<li><s>鄉民：皮諾可這個直接槍斃吧。</s></li></ul></li>
+<li>亞斯伯格丘的作者Alec Benson Leary，曾多次聯繫CWC以示善意，表示自己的創作絕對沒有侮辱CWC的意思。
+<ul><li>Alec甚至還向CWC寄出了幾幅專門繪製，關於亞斯伯丘與索尼丘兄弟愛的圖片，以及系列中索尼丘夢想---成為司法部長所使用的競選海報。但是CWC並不領情。</li></ul></li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="/%E6%AA%94%E6%A1%88:15675115048494.jpg" class="image"><noscript><img alt="" src="/images/thumb/d/db/15675115048494.jpg/400px-15675115048494.jpg" width="400" height="529" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 400px;height: 529px;" data-src="/images/thumb/d/db/15675115048494.jpg/400px-15675115048494.jpg" data-alt="" data-width="400" data-height="529" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:15675115048494.jpg" class="internal" title="放大"></a></div>競選海報</div></div></div></div>
+<ul><li>早對亞斯伯丘略有耳聞的CWC，在幾次的公開影片中表達過自己對亞斯伯丘影射自己，亞斯伯格症以及各種同性戀暗示等等內容的不滿。</li></ul><ul><li>將CWC視為靈感的Alec持續與CWC聯繫並解開誤會，但幾乎被CWC無視
+<ul><li>就算有回應時CWC仍憤怒的表示「<b>亞斯伯格症與自閉症沒有任何關聯！</b>」、「<b>你這個該死的蠢基佬！</b>」、「<b>那個肥滿又有男性巨乳的條紋衣索尼丘根本是衝著我來的！</b>」<s>你居然有表示自覺的時候？</s></li>
+<li>CWC指控Alec是出自於嫉妒才製作出這個系列來侮蔑他，而亞斯伯丘的存在也成為了CWC（單方面的）巨大壓力來源，大大的降低了他繪製索尼丘系列的效率<s><a href="/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB%E6%9C%88%E5%88%8A" title="台灣漫畫月刊">這種東西要畫這麼久？</a></s>。</li></ul></li></ul><ul><li>順帶一提，亞斯伯丘事件發生時CWC才剛在網路上成名；而這時的CWC還不知道網路與現實的微妙不同。
+<ul><li>其中一項他沒能理解的事物，便是自己的「知名度」</li>
+<li>在創造索尼丘之後，CWC<b>把自己當作如同史丹李級別的創作者</b>，是個在漫畫界舉足輕重的名人<s>美國手腫</s><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>，並且有著人數龐大，會對他言聽計從的鐵粉<s>（唸作鄉民與廚）</s>。</li>
+<li>面對亞斯伯丘的威脅，CWC試圖與「粉絲們」取暖，但毫不意外的失敗
+<ul><li>取暖失敗的CWC下令自己的粉絲不准向他提到亞斯伯丘，並禁止任何人去閱讀亞斯伯丘系列。</li></ul></li>
+<li>他給出的<s>瞎掰</s>理由為下：
+<ul><li>CWC表示亞斯伯丘中有兒童不宜的畫面（指背景中的肌肉男海報），而這些畫面都沒有被打上馬賽克<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li>
+<li>CWC表示亞斯伯丘是粗糙濫製的下等漫畫（但是作畫品質及劇情刻劃卻遠在索尼丘之上）</li></ul></li>
+<li><s>咕嚕嚕：原來CWC是我的前輩啊，還不快給我倒茶（威壓）。</s></li>
+<li><s>友繪：亞斯伯丘你一定很辛苦吧？我會試試看能不能幫你甚麼……</s></li></ul></li></ul><ul><li>在CWC大發脾氣導致索尼丘停擺的同時，Alec與他的夥伴們正以滿腔熱血創作著新的亞斯伯丘
+<ul><li>甚至創建了官網：亞斯伯百科（Asperpedia）</li>
+<li>亞斯伯百科不只有亞斯伯丘的合輯，還有一些亞斯伯丘世界觀的條目，跟作者聯繫用的email，甚至有推廣其他「類似作品」（索尼丘同人）的網頁連接。</li>
+<li>Alec不但沒有指責不斷攻擊自己的CWC，還特地繪製了為海地大地震災民而作的的慈善募資圖。</li>
+<li>這份正直與善良吸引了許多粉絲，還讓許多原本支持索尼丘的粉絲都紛紛轉而支持亞斯伯丘。</li></ul></li></ul><ul><li>當CWC在網路上得知由於索尼丘漫畫長期難產，再加上CWC本身各種耍脾氣早已導致大多粉絲的不滿，從而讓他們捨棄索尼丘，轉向支持亞斯伯丘時，他的怒氣直接衝上了臨界點。
+<ul><li>CWC除了對Alec的不滿，對於Asperpedia的創始者一眾也有十足的憎惡<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></li>
+<li>在亞斯伯丘火起來的同時，CWC之名也在Encyclopedia Dramatica以及4Chan上發揚光大，讓越來越多的廚加入了騷擾CWC的行列。</li></ul></li></ul><ul><li>心中懷著對亞斯伯丘一眾以及缺德網民們厭惡的CWC，總算繪製出了新一期的索尼丘：索尼丘10
+<ul><li>這期索尼丘可說是CWC將自己全部負面情緒投入到自己的創作中，內容數一數二黑暗的一期</li>
+<li class="mw-empty-elt"></ul></li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;">CWC提醒您：索尼丘是<b>全年齡向</b>的健全漫畫<s>才怪</s>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li>故事開頭為CWC來到了未來，遇見了將他帶來此的Magi-Chan<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><ul><li>Magi-Chan跟CWC解釋了未來，包括他遇到愛侶並結婚，目前正在製作男同性戀的解藥，以及那個世界中關於他仇敵們的一些近況。</li>
+<li>CWC在誓言要對自己的宿敵報復之後，開始了一連串的行動。</li></ul></li></ul><ul><li>首先CWC潛入了未來CWC的住所，趁未來CWC出門上班時假冒他的身份，隨後<b>上了前者的老婆</b><s>我綠我自己</s>。
+<ul><li>之後，他來到了正在研究男同性戀解藥的研究所。</li>
+<li>在那的研究員們表示自己幾乎要完成這個類似疫苗的解藥，只需要「純直的血」作為媒介就能將男同性戀永久抹除。而CWC樂意地提供了自己的血液來完成這項研究。</li>
+<li><s>一般而言疫苗需要有去除活性的病原體或是其抗原才能發揮作用，如果這疫苗需要使用到CWC的血作為媒介，那不就表示……</s></li></ul></li></ul><ul><li>在散播解藥完成之後，CWC來到了他的宿敵之一的所在地：代表著4Chan等網站，以及Clyde Cash和Jack Thaddeus等廚一眾的4-cent garbage大樓。
+<ul><li>面對著廚魔集散地，CWC想出的對抗模式是：<b>唱<a rel="nofollow" class="external text" href="https://wiki.komica.org/%E6%88%B0%E9%9A%8A#Power_Rangers.2F.E9.87.91.E5.89.9B.E6.88.B0.E5.A3.AB.E7.B3.BB.E5.88.97.2F.E8.B6.85.E8.83.BD.E6.88.B0.E9.9A.8A.E7.B3.BB.E5.88.97">金剛戰士</a>的歌曲。</b>
+<ul><li>CWC召喚出了自己的樂隊「索尼丘男孩」，唱起了一首關於過去的金剛戰士是如何的美好，現在的版本廢到笑之類的謎之<s>老害</s>樂曲。</li>
+<li>演唱這首歌的震波，居然<b>強勁到足以撼動眼前的四分錢垃圾大廈，讓建築物逐漸分崩離析。</b></li>
+<li><s>……………………（條目編輯者已經放棄吐槽）</s></li></ul></li>
+<li>在四分錢垃圾大廈分崩離析之時，裡頭的大多廚魔都沒能及時逃生。
+<ul><li>其中包括著Clyde以及Jack這兩個<b>不知為何被寫為基佬</b>的兩大廚魔。在頂樓的兩人看著大樓毀滅，在火勢即將衝上屋頂時，他們說道：</li></ul></li></ul></li></ul><pre>「親愛的，看來這就是我們的終點了」
+「但，我們不會死在他手裡」
+</pre>
+<ul><li>深知死期已到的兩人緊握著彼此的手，從高樓一躍而下...</li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:352px;"><a href="/%E6%AA%94%E6%A1%88:Clyde_Cash%E8%88%87Jack_Thaddeus%E6%B7%92%E7%BE%8E%E7%9A%84%E6%AE%89%E6%83%85.jpg" class="image"><noscript><img alt="" src="/images/thumb/e/ef/Clyde_Cash%E8%88%87Jack_Thaddeus%E6%B7%92%E7%BE%8E%E7%9A%84%E6%AE%89%E6%83%85.jpg/350px-Clyde_Cash%E8%88%87Jack_Thaddeus%E6%B7%92%E7%BE%8E%E7%9A%84%E6%AE%89%E6%83%85.jpg" width="350" height="393" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 350px;height: 393px;" data-src="/images/thumb/e/ef/Clyde_Cash%E8%88%87Jack_Thaddeus%E6%B7%92%E7%BE%8E%E7%9A%84%E6%AE%89%E6%83%85.jpg/350px-Clyde_Cash%E8%88%87Jack_Thaddeus%E6%B7%92%E7%BE%8E%E7%9A%84%E6%AE%89%E6%83%85.jpg" data-alt="" data-width="350" data-height="393" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Clyde_Cash%E8%88%87Jack_Thaddeus%E6%B7%92%E7%BE%8E%E7%9A%84%E6%AE%89%E6%83%85.jpg" class="internal" title="放大"></a></div>淒美的殉情（笑）<br>由無名繪師所繪製</div></div></div></div>
+<ul><li>在「四分錢垃圾大廈」倒蹋時內部總共有1,500人，並導致100-350人喪生。
+<ul><li>對此，CWC替在這場悲劇中喪生的人們流下了<s>鱷魚的</s>眼淚，並表示<b>要不是他們在網路上嘲笑自己這件事也不會發生</b><s>你居然還敢說這種話？</s>。</li></ul></li></ul><ul><li>在CWC擊倒了4Chan的廚魔後，他把下一個報復目標瞄準到亞斯伯丘一眾。
+<ul><li>CWC回到自己市長（獨裁者）的職務後，在CWCville展開了一場前所未見的審判。</li></ul></li></ul><ul><li>審判起因於Simonla Rosechu被<b>馬桶炸彈</b>殺害，而亞斯伯丘一眾因此被冠上罪名而被起訴。
+<ul><li>Simonla Rosechu為一個有著電鑽能力的橘色羅斯丘（母索尼丘）。</li>
+<li>這角色原為一名叫做Evan的粉絲（廚）給CWC的一張粉絲繪圖，以「天元突破紅蓮螺巖」中的西蒙作為靈感創造出來的角色，卻被CWC無斷改造性轉後拿去加進自己的索尼丘故事中。</li>
+<li>此事讓Evan不滿並多次與CWC交涉，要求他將此角色移除；但CWC毫不在乎得繼續使用這角色，導致最終Evan向Alec求助。最終以特殊手段封鎖了CWC當時由「粉絲們」替他架設的的官網CWCipedia。</li>
+<li>在CWCipedia被狹持的情況下，CWC答應將Simonla從故事中移除。結果……</li></ul></li></ul><ul><li>除了被控告殺害Simonla以外，在審判中法官控告亞斯伯丘一眾的罪名還有<b>抄襲、毀謗、暴力</b>以及<b>說髒話</b>。
+<ul><li>雖然亞斯伯丘一眾有被安排辯護律師，卻完全派不上用場（因為只是個毒蟲）。</li>
+<li>檢方中還有CWCville中萬能的Magi-Chan，讓亞斯伯丘一眾無法脫身。</li>
+<li>最終審判結果：<b>亞斯伯丘一眾因「亞斯伯丘」系列漫畫的存在全體被宣判有罪，並且由「被他們傷害的人們」來執行死刑定讞。</b></li></ul></li>
+<li>在這場毫無公義可言的審判結束後，亞斯伯丘一眾在眾目睽睽之下被公開處決。
+<ul><li>CWC甚至花了數頁詳細的畫出了亞斯伯丘一眾公開處刑的內容。</li></ul></li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>以下獵奇注意</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li>亞斯伯丘的作者Alec：<b>被電刑處死</b>
+<ul><li>Alec被押至一張由十個按鈕驅動的電椅上。</li>
+<li>這十個按鈕分別被交到CWC以及他認定肖像權被「亞斯伯丘」漫畫給侵犯的索尼丘角色們手上。</li>
+<li>十人一同回想亞斯伯丘是如何污衊他們的同時按下了按鈕，一起看著Alec被活活電成焦屍。</li></ul></li></ul><ul><li>Evan：<b>被活生生鑽孔無數次而死</b><div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/%E6%AA%94%E6%A1%88:%E8%A2%AB%E6%8C%87%E6%B4%BE%E7%82%BA%E5%8A%8A%E5%AD%90%E6%89%8B%E7%9A%84%E5%B9%BC%E5%A5%B3%E7%B4%A2%E5%B0%BC%E4%B8%98Sandy.jpg" class="image"><noscript><img alt="" src="/images/thumb/2/20/%E8%A2%AB%E6%8C%87%E6%B4%BE%E7%82%BA%E5%8A%8A%E5%AD%90%E6%89%8B%E7%9A%84%E5%B9%BC%E5%A5%B3%E7%B4%A2%E5%B0%BC%E4%B8%98Sandy.jpg/150px-%E8%A2%AB%E6%8C%87%E6%B4%BE%E7%82%BA%E5%8A%8A%E5%AD%90%E6%89%8B%E7%9A%84%E5%B9%BC%E5%A5%B3%E7%B4%A2%E5%B0%BC%E4%B8%98Sandy.jpg" width="150" height="156" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 156px;" data-src="/images/thumb/2/20/%E8%A2%AB%E6%8C%87%E6%B4%BE%E7%82%BA%E5%8A%8A%E5%AD%90%E6%89%8B%E7%9A%84%E5%B9%BC%E5%A5%B3%E7%B4%A2%E5%B0%BC%E4%B8%98Sandy.jpg/150px-%E8%A2%AB%E6%8C%87%E6%B4%BE%E7%82%BA%E5%8A%8A%E5%AD%90%E6%89%8B%E7%9A%84%E5%B9%BC%E5%A5%B3%E7%B4%A2%E5%B0%BC%E4%B8%98Sandy.jpg" data-alt="" data-width="150" data-height="156" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:%E8%A2%AB%E6%8C%87%E6%B4%BE%E7%82%BA%E5%8A%8A%E5%AD%90%E6%89%8B%E7%9A%84%E5%B9%BC%E5%A5%B3%E7%B4%A2%E5%B0%BC%E4%B8%98Sandy.jpg" class="internal" title="放大"></a></div>被指派為劊子手的幼女索尼丘Sandy</div></div></div>
+<ul><li>在處刑時Evan的四肢都被鏈在牆上。</li>
+<li>由於Evan是讓Simonla被移除的主因，所以他的處刑交給CWC硬給Simonla加上的伴侶Wild Sonichu以及他們年幼的女兒Sandy來執行。</li>
+<li>在Evan活著的情況下在他身上鑽了無數個洞之後，他們父女倆才總算讓Evan斃命。</li>
+<li>事後Sandy還保留了Evan的<a href="/%E7%9C%BC%E9%8F%A1" title="眼鏡">眼鏡</a>來做紀念。</li></ul></li></ul><ul><li>在亞斯伯百科上寫了條目以及同人文的Sean：<b>被多名索尼丘近距離槍決</b></li></ul><ul><li>架設亞斯伯百科的Mao：<b>在四肢被念力折碎的情況下被捏爆心臟而死</b>
+<ul><li>由於Asperpedia上有許多CWC不認同的條目和廣告，CWC決定要親自下手。</li>
+<li>CWC使用索尼丘故事中自己持有的念力能力，將Mao的四肢如樹枝般隨意凹彎曲折，最後毫不留情地讓他的心臟爆裂。</li></ul></li></ul></td></tr></tbody></table><pre>而索尼丘10就在這種極度暴虐的氣氛下告終了…
+</pre>
+</td></tr></tbody></table><ul><li>在索尼丘10漫畫發布後，CWC不知為何錄製了一段對亞斯伯丘一眾的「道歉口信」。
+<ul><li>內容包含：
+<ul><li>承認Alec是個有能的漫畫作者，就算他的漫畫是抄襲自己的</li>
+<li>表示自己並沒有未經Evan許可使用Simonchu的角色，但因為角色是他創造的，所以CWC把角色殺了還他</li></ul></li>
+<li>但實際上CWC所謂的道歉<b>只是「同意」對方是對的，完全沒提到自己的對錯</b>
+<ul><li>更別說在索尼丘10的故事裡完全看不到CWC的歉意與誠意。</li></ul></li></ul></li></ul><ul><li>此一價值觀顛三倒四的口信，終於導致Alec不再隱忍。<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/%E6%AA%94%E6%A1%88:%E5%A4%A7%E9%87%8F%E8%99%95%E6%B1%BA.jpg" class="image"><noscript><img alt="" src="/images/thumb/3/3d/%E5%A4%A7%E9%87%8F%E8%99%95%E6%B1%BA.jpg/250px-%E5%A4%A7%E9%87%8F%E8%99%95%E6%B1%BA.jpg" width="250" height="325" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 325px;" data-src="/images/thumb/3/3d/%E5%A4%A7%E9%87%8F%E8%99%95%E6%B1%BA.jpg/250px-%E5%A4%A7%E9%87%8F%E8%99%95%E6%B1%BA.jpg" data-alt="" data-width="250" data-height="325" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:%E5%A4%A7%E9%87%8F%E8%99%95%E6%B1%BA.jpg" class="internal" title="放大"></a></div>亞斯伯丘漫畫的其中一頁，內容為CWC大量處決索尼丘們</div></div></div>
+<ul><li>他在CWCpedia的網站上放了一系列漫畫，內容諷刺CWC的各種表裏不一
+<ul><li>內容包含CWC在自己的故事中隨心所欲大量放入色情，暴力，性等等內容，卻會自以為是的站在道德高點，理直氣壯的批評任何有類似內容的漫畫。</li>
+<li>在該漫畫中CWC表示：<b>「雖然我批評別人在作品中描繪暴力，但我可以這麼做，因為我不會犯任何錯。」</b></li>
+<li><s>所以說這個人渣的臉皮有多厚……</s></li></ul></li>
+<li>CWC當然對這漫畫表示不滿，但理由是Alec又擅自使用索尼丘和自己的肖像權。</li>
+<li>在Alec貼出這篇漫畫之後，CWC基本上就開始無視Alec為首的亞斯伯丘一眾，並且將精力放在同樣在當時進行的Game Place Saga上。</li></ul></li></ul><ul><li>在CWC處理其他破事的同時，亞斯伯丘逐漸被淡忘。
+<ul><li>但在2011年八月，CWC製作了一系列影片。內容為CWC表示自己掌握到了之前欺負過自己的「廚」們的真實身份，並威脅他們若是不達成他開出的條件，他就會把他們的真實身分向世界公開。</li>
+<li>而這名單其中也包括了Alec：CWC表示如果他沒在期限裡給CWC正式道歉，他的身份就會被公開。</li></ul></li></ul><ul><li>但由於Alec對此完全沒有回應，CWC公佈了（他認定的）Alec的真實身份：一位名叫Christopher Paul Whitney，通稱「Fatman（肥佬）」的youtuber。
+<ul><li>「肥佬」是一名嚴重過胖的白人男子，而他的影片基本上都是些他在食用垃圾食物，或是一些他示範各種降San值內容的影片。</li>
+<li>而CWC在影片中模仿肥佬的行徑：吃著垃圾食物、唱著意義不明的小調、一邊宣揚著Alec有多肥<s>還厚顏無恥的強調自己很苗條</s>。</li>
+<li>而為何CWC會下出「肥佬就是Alec」的定論，是因為他覺得肥佬影片中的聲音與CWC接到Alec電話中的聲音類似。
+<ul><li>不過Alec的聲音與肥佬不同，而肥佬本人也跟CWC完全沒有瓜葛。</li></ul></li></ul></li>
+<li>對此「肥佬」本人表示：「<b><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?time_continue=6&amp;v=xRTb8prczg8">CWC，你真是個他媽的蠢貨。</a></b>」</li></ul><pre>於是，Asperchu Saga大概就這麼結束了<s>可喜可賀</s>。
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Game_Place_Saga">Game Place Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=16" title="編輯章節：Game Place Saga" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC在故郷一間Hobby店GAMe PLACe鬧場，結果被永久Ban的故事</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2008年8月-2014年6月
+</pre>
+<ul><li>CWC早在2002年已在光顧GAMe PLACe（買東西以及參加TCG活動等），表現出的行為基本上就是一名奥客
+<ul><li>不僅毫無禮節和氣度，還會在輸牌的時候<b>辱罵或是嗆聲對手（即使對方只是孩子）</b></li>
+<li>非常討厭男性、<b>歧視同性戀者、有色人種</b></li>
+<li>還會長時間佔用店裡的設備，時常跟其他客人起衝突等；因此他早已被店員視為眼中釘。</li></ul></li>
+<li>在2008年，按目擊者所言，CWC與一位比他小了不少的黑人男孩起了爭執，而CWC則指店經理Mike Snyder制止他佔用電視機玩自己的Wii
+<ul><li>不滿的CWC<s>莫名奇妙的</s>在店中寫下了<b>「Mike想幹Mary Lee Walsh」</b>的迷言抗議，結果被氣炸的Mike列為永久拒絕往來戶</li>
+<li>CWC不僅認為自己沒做錯事，<b>還將年邁的父母親（當時芭芭拉67歲，鮑伯81歲）叫來幫忙抗議</b>，然後被Mike叫來的<a href="/%E6%88%90%E5%8F%A5/%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%EF%BC%8C%E5%B0%B1%E6%98%AF%E9%80%99%E5%80%8B%E4%BA%BA%EF%BC%81" title="成句/警察叔叔，就是這個人！">警察叔叔</a>勸離</li></ul></li>
+<li>事後CWC一直想重返GAMe PLACe，然而他的電郵與道歉影片都被對方所無視
+<ul><li>過了兩年後，CWC想請Mike收回永久Ban，但被拒絶了</li>
+<li>結果當年28歲的CWC不僅亂爆髒話，還把<b>偷錄的協商語音</b>發佈出來，並拍影片<b>要求他<s>不存在</s>的忠實粉絲們去騷擾Mike及他手下的店員們</b>，結果影片馬上就因內容被檢舉而被移除了</li></ul></li>
+<li>一陣子後，CWC再回到店裡想偷拍一張Mike的照片來當飛鏢的靶子；結果不但被Mike發現，還被認為他是要去偷拍店裡的小孩。
+<ul><li>開車逃跑的CWC差點碾到Mike，但最後還是被員工跟趕來的警察逮到，結果被要求刪掉照片及警告過後就放他回家了</li></ul></li>
+<li>從此以後CWC一家視Mike為歧視自閉症的<s>死基佬</s>敵人
+<ul><li>此外CWC父母其實不清楚CWC平日在GAMe PLACe的情況</li></ul></li>
+<li>CWC為了打擊GAMe PLACe的名聲，在google map的商家評估中留下了許多負評，又印製寫了負面評價的假折價券四處張貼</li>
+<li>然後到了2011年，CWC與他媽再次試圖拍攝Mike的照片
+<ul><li>被警察追捕而開車逃亡的CWC，竟然開車撞到了Mike，然後換位當駕駛的芭芭拉居然又再次撞到了Mike</li>
+<li>被拘捕時芭芭拉還襲擊了警察</li></ul></li>
+<li>在州議員的幫忙下，結果二人緩刑+社區服務了事
+<ul><li>被害的Mike因為同情CWC以及他年邁的母親，只要求他們負擔醫療費用</li>
+<li>然而CWC始終覺得一切都是Mike的錯，又説Mike是個肥滿的戀童癖，警察都是被他所收買過的</li></ul></li></ul><pre>最後在2014年，GAMe PLACe因為景氣關係結束營業，這個故事就此畫下了句點。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">日後的官司費用才是貽禍無窮</span>
+</pre>
+</td></tr></tbody></table><h4 class="in-block"><span class="mw-headline" id="Financhu_Crisis_Saga">Financhu Crisis Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=17" title="編輯章節：Financhu Crisis Saga" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>該事件起因於CWC與GAMe PLACe 之間的官司，而CWC一家的所作所為導致其後續影響一直持續到今天。</li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC一家陷入萬劫不復財務危機的過程</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li>CWC一家財務危機的開端，源自於Game Place Saga時與Mike的官司
+<ul><li>當時鮑伯才過世不久，CWC與芭芭拉用車撞傷Mike與一名巡警後肇事逃逸而被起訴。</li>
+<li>但造成他們負擔的並非給Mike的賠償，而是官司的費用本身：
+<ul><li>當時芭芭拉透過同教堂信徒的介紹，找了維吉尼亞州眾議會成員，前州立檢察官的Rob Bell擔任他們這起案子辯護律師。</li>
+<li>對於法律沒有概念的芭芭拉，以為只要請高名望律師就一定可以無罪釋放；但在罪證確鑿的情況下，只憑高名望律師的幫助怎麼可能順利脫身呢？</li>
+<li>最終兩人透過認罪協商得到了較輕的刑責，但是找了高名望律師出庭的費用嚴重的打擊了CWC一家的財務。</li></ul></li>
+<li>CWC曾在Catherine Saga時向Catherine揭露，鮑伯過世時有留下一筆數萬至數十萬美金的遺產，但這筆錢全數被拿來支付該起官司的律師費。</li></ul></li></ul><ul><li>在他們的經濟狀況告急時，CWC與芭芭拉的購物狂以及屯物癖，更是讓財務問題雪上加霜。
+<ul><li>憑每個月的社福支票與老人福利金，根本負擔不起兩人的支出；為了減緩困境，CWC與芭芭拉向當鋪/錢莊借錢。
+<ul><li>他們以每次還款只還利息的模式好維持自己的信用，好讓自己能夠借更多的錢；但最後借給CWC一家錢的財務公司，還是到他們家向他們請款了。</li></ul></li>
+<li>還不了錢（也不打算還）的CWC一家，在接下來的幾年間被無數的財務公司帶到了民事法院，不停地打了許多官司。
+<ul><li>到現在還有數個財務官司正在進行中。</li>
+<li>因為CWC的自閉症與芭芭拉的年紀，法院對他們十分寬容，至今也沒有財務公司成功的強制執行扣押CWC一家的資產。</li>
+<li>這些事件對CWC造成了莫大的壓力（不過他仍不打算還錢或解決問題）。</li></ul></li></ul></li></ul><ul><li>許多人建議CWC去找工作，但CWC回應：</li></ul><pre><b>「找工作？我已經有工作了！我的雇主是你老闆的老闆的老闆，這個世界的神Emanuelle以及CPU女神們，而我們被選上是因為我特殊又優異的天生能力！我們的工作就是讓這個世界按照命運的引導，這整個次元就是我們的辦公室！所以別再叫我去找工作了！」</b>
+</pre>
+<ul><li><s>編者表示：這個傢伙沒救了，直接拖出去斬了比較快。</s></li>
+<li>後來在Idea Guy以及TTS的洗禮下，完全相信幻想世界實質存在的CWC，在得知/發想「次元合併」之後，開始將錢的問題拋到腦後。
+<ul><li>CWC深信作為CWCville的市長兼守護世界的CPU女神之一的自己，在C-197有著相當驚人的財富。</li>
+<li>如果「次元合併」發生，那麼自己便能輕易兌現自己在CWCville的財富，解決這一切財務問題，還對此模仿總統競選演說發表了20分鐘的長篇大論。</li>
+<li>因此CWC搞起了一個變相的「奈及利亞王子詐騙」手法：他希望有人能在現實中給他錢，幫他解決掉家中財務問題，並且保證在「次元合併」之後用一比一百的倍率償還被資助的金額。
+<ul><li>某些直播中他甚至與芭芭拉一同販售家當，終究緩不濟急；有關救濟金的分配甚至導致母子衝突加深...</li></ul></li></ul></li></ul><pre>換言之，「次元合併」可說是CWC對逃避現實的終極型式。
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Jackie_Saga">Jackie Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=18" title="編輯章節：Jackie Saga" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC暫時離開網路的紛擾，遇到真命天女<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果被要求拍奇特影片</span>的故事</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2011年4月5日-11月26日
+</pre>
+<ul><li>因發生過太多重大<s>狗屎爛事與自己作死</s>事情之後，CWC決定暫時遠離網路一段時間，好讓自己在現實生活上好好整理自己。</li>
+<li>這段時期被稱做＂CWC黑暗時期＂，起於2011年Surfshack Tito Saga結束後，終於2014年Catherine Sage期間重新復出
+<ul><li>這段時間，CWC參加一系列的公眾活動（像是”Fridays After Five”的公眾表演會），讓自己活動一下<s>順便來找女人</s></li>
+<li>因為CWC仍不忘尋找他的愛人，於是他在參加公眾活動時，用一些<s>看起來很宅男的動作</s>手法來擄獲芳心，方法如下：
+<ul><li>明明是參加大眾向公眾活動，但穿著運動胸罩並在上面大辣辣寫著＂Want Woman＂（想要女人）</li>
+<li><s>恥力大開</s>地在廣場上跳著<a rel="nofollow" class="external text" href="https://sonichu.com/w/images/f/f1/Dancing.gif">舞蹈。</a></li>
+<li>拿著DSi或是用DSi畫圖</li></ul></li></ul></li>
+<li>當然上述行為無法幫忙他找到至愛，於是不久後利用家鄉小鎮Ruckersville刊行的報紙「The Hook」的網路服務，花費40美金刊登吸引女性的廣告90天
+<ul><li>不過這次他<s>學乖了，</s>無論圖片還是介紹都迴避過去的自己（不過還是因為背景露餡）
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而且他的用戶名有明確的性暗示</span></li></ul></li></ul></li>
+<li>另一方面，有個自稱Jacklyn “Jackie” Romy 的女性也在同一個服務上刊登了類似廣告，認為這不是Troll的作為的CWC不疑有他，欣喜若狂地與他聯繫。當然...
+<ul><li>Jackie開始要求CWC製作糟糕影片以及漫畫來討好她，當然CWC都照做了；另外還有cosplay的要求，不過主題由CWC自選
+<ul><li>於此時開始CWC更加接觸彩虹小馬，甚至將他們加入索尼丘宇宙；他甚至開始穿女裝而引發雙親反彈，也成了後面的Tomgirl Saga的起因之一</li></ul></li>
+<li>當中一個被要求「示範約會過程」的影片更透露了他的居家地址</li>
+<li>至於當中最為詭異的當屬用臀部破壞蛋糕的「Cakefarts（蛋糕屁）」影片：在Jackie將影片傳給他要求照做後，CWC依樣畫葫蘆去WalMart花11美元買了一個巧克力蛋糕，切了一片自己吃掉後一面發出放屁聲扭臀，一面把無辜的蛋糕壓得稀爛...
+<ul><li>而在之後，他<s>難得地</s>發出了感嘆：「我到底在幹嘛？」</li></ul></li>
+<li>就在CWC眼看馬上就一親Jackie芳澤時，忽然出現了一個不速之客：</li></ul></li></ul><pre><b>「誒誒誒Yo! 你就是他媽纏著我女人Jackie的混蛋嗎？」</b>
+</pre>
+<ul><li>Jackie的前男友---Lars McNulty出現了，他是一名有著奇怪黑人口音和大肌肌的無業黑人；他靠著政府給的社福支票以及Jackie的工資過著逍遙的日子，而且對模型船有著異樣的執著。
+<ul><li>甚至還會亂花自己社福支票購買大量自己根本不打算組/重複買兩三套同樣的模型，甚至還買了一堆自己根本沒有的模型用的配件。（與CWC對玩具以及電玩的散財與執著不謀而合）</li>
+<li>Lars本人還是個不折不扣的渣男：在和Jackie交往時基本只把她當肉O器對待，甚至還在她懷孕後<b>偷偷將墮胎藥放入她的飲料中導致她流產</b>。在兩人分手之後<b>更將她的裸照交給廚散播至網路上</b><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li></ul></li>
+<li>而CWC在Jackie的慫恿之下，決定給這個渣男一些教訓！他使用的方式為上傳一個<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=ytzOHArRUzA">自己將樂高船摧毀的影片</a>來向Lars展現自己的雄風，好威嚇Lars！</li></ul><ul><li>過了不久，CWC跟Lars在Jackie的協調之下進行了一次<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=sa0arS6afRw">電話溝通</a>，重點如下：</li></ul><ol><li>Lars總共花了超過35000美金在船的模型上，跟CWC當時累計亂花的錢相差不遠</li>
+<li>Lars對於自閉症的認知為「不就是亞斯伯格＋唐氏症嗎？」，這使的CWC相當不自在</li>
+<li>CWC和Lars兩人各自談到自己的犯罪記錄，其中CWC表示如果他能的話他真想一槍打在Michael Snyder身上</li>
+<li>Lars透露出了其實自己依舊和Jackie同居，實質上維持著跟以前差不多的關係，並叫Jackie不准把晚餐搞砸</li>
+<li>聲稱自己已經改過自新的Lars送給了Jackie一個用冰棒木棒組成的帆船模型（風帆的部分由保險套代替）</li>
+<li>為了證明自己的真心，Lars忍痛丟掉了自己珍藏的大量模型，並且決心要找個工作，好好過日子。同時，他也建議CWC向自己一樣把自己執著的玩具跟電玩都放棄掉，好好改善自己的生活作息，成為一個配得上Jackie的人。隨後他更表示如果CWC願意放棄自己的PS3，那Jackie就一定會願意跟他在一起；對此CWC的回應是嘆氣連連並且抱怨「這種改變太難了」</li>
+<li>Lars表示在通話結束之後就會好好和JackieOOXX一番。CWC似乎對此沒有很在意。</li>
+<li>這時CWC如同以前面臨Bluespike給予的Julie二選一時，做出相同的「他想要PS3也想要Jackie」的結論</li>
+<li><s>CWC在電話途中似乎意外的<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">脫糞</span>在褲裡</s></li></ol><ul><li>不知為何CWC跟Lars的交流在最後反而友善了起來，連CWC都開始操起了相當奇妙的黑人式英語（甚至稱呼Lars為他的Nigga）
+<ul><li>在和Lars通訊之後，CWC持續與Jackie聯繫，希望能夠透過她達成自己與真命天女生出女兒的天命。然而從2011年開始，兩人互通的email，訊息以及CWC錄製的「特別影片」忽然爆量的出現於網路上</li>
+<li>在這些資訊流出之後，CWC跟Jackie的聯繫停在了2012年4月；雖然CWC在5月試圖再度跟Jackie聯絡，但認為廚的身份已經被揭穿的Jackie再也沒有回信。</li></ul></li></ul><pre><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本Saga為Catherine Saga被討厭的理由之一，主因是因為兩者的發展過於雷同<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>。最大的差異就是Jackie叫CWC做了不少後來成為著名事蹟的蠢事，而Catherine Saga除了騙CWC一片純情搞他之外幾本上沒什麼特別之處（除了一些CWC當時已經邁入變性Saga的細節之外）。</span>
+<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Lars是由亞斯伯格丘創作者Alec飾演的，本Saga很有可能也是Alec跟他的同伴們攜手合作搞出來的</span>
+<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">CWC在Jackie Saga結束後數年都留著當時他收到的「Jackie的色圖」，後來在Idea　Guys Saga時CWC有將這些圖片給Idea Guys（他們回應說這個人來自戰機少女宇宙），而這讓CWC相信Jackie是真人並對與她斷交一事感到相當惋惜</span>
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Catherine_Saga">Catherine Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=19" title="編輯章節：Catherine Saga" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC砍掉重練（精神上）後試圖搞百合結果<s>毫不意外</s>大失敗的故事</b><br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">說穿了還是被惡質廚給釣上來玩弄了……</span>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2014年7月9日-12月14日
+</pre>
+<ul><li>2011年，在CWC經歷了多次的<s>幹炮</s>戀愛大失敗以後，開始<s>逃避現實</s>認為自己沒法交到女友的主因在於他必須跟其他男性競爭，而他遇到的女性好死不死就是會看上其他<s>醃黃瓜人</s>男性，因此他開始對於自己男性的身份感到厭惡</li>
+<li>CWC認為，如果他是女性而且想交女友的話，他的競爭對手就會從「所有直/雙性戀男」變成「蕾絲邊女性」，而「蕾絲邊女性」的數量遠遠少於前者
+<ul><li>再者，如果他是個美麗的女性（？），即使對像是男性的直/雙性戀女，他也有機會把到（？？？）</li>
+<li>於是，認為自己有個天大好主意的CWC開始留起了長髮，化妝（雖然他並沒有特地學習），甚至開始穿起了運動胸罩以及裙子</li></ul></li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:352px;"><a href="/%E6%AA%94%E6%A1%88:Cwc_bronycon_2017_1.jpg" class="image"><noscript><img alt="" src="/images/thumb/a/ac/Cwc_bronycon_2017_1.jpg/350px-Cwc_bronycon_2017_1.jpg" width="350" height="197" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 350px;height: 197px;" data-src="/images/thumb/a/ac/Cwc_bronycon_2017_1.jpg/350px-Cwc_bronycon_2017_1.jpg" data-alt="" data-width="350" data-height="197" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Cwc_bronycon_2017_1.jpg" class="internal" title="放大"></a></div><s><a href="/%E6%88%90%E5%8F%A5/%E7%9C%BC%E7%9D%9B%EF%BC%81%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%EF%BC%81" class="mw-redirect" title="成句/眼睛！我的眼睛！">鄕民：眼睛！我的眼睛！</a></s></div></div></div></div>
+<ul><li>此行為被CWC的父母極力反對<s>，氣到鮑伯心臟病發</s>，在鮑伯過世後，其變裝癖更變本加厲
+<ul><li>CWC更將自己的性向定位從「純直男」變成了「男性蕾絲邊」，在更後來甚至改變成了「尚未進行性別更動手術的變性人（<s><a href="/%E6%89%B6%E4%BB%96%E9%82%A3%E8%A3%A1" title="扶他那裡">扶他</a></s>女）」</li>
+<li>在使用約會網站<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>後，CWC找到了其真命天女:一個與他有着97%吻合率的女人，Catherine
+<ul><li>CWC馬上送了幾張自己的照片試圖魅惑<s>嚇死</s>她，還寄信給一些Ban過他的地點，希望他能被Unban好讓自己與自己的未來甜心能在這些地點相親相愛</li></ul></li>
+<li>約會當日，CWC穿着紅色T裇、<s>看來很像老太太穿的</s>灰色及膝裙搭配藍色緊身褲和球鞋，還有染髮失敗的枯草頭髮與<s>充滿萬聖節氣紛的</s>藍色眼影、紫色眼線與紅色口紅
+<ul><li>CWC多次盯著Catie的胸前看，又試圖進行擁抱、握手、桌下碰腳調情等，但是都被Catie給迴避掉了</li></ul></li>
+<li>CWC又邀請Catie與她表親到自己家<s>探險</s>參觀，他希望未來Catherine能搬進家中與自己和芭芭拉同住，並且認為芭芭拉會是個很好的幼兒<s>殺手</s>照護員
+<ul><li><s>也就是說，CWC理想的婚後狀況為以後由Catherine去工作養家，家裡則是由自己年邁的母親來照顧小孩，打理家居。至於他的職責，嗯…</s></li>
+<li>CWC向他們展示了他的房間:一間堆滿了CWC自己的玩具以及Lego組，另外還有一個黏著Catie照片的小櫃子，CWC聲稱他都用那張櫃子上的照片練習接吻</li>
+<li>其間CWC試圖將手搭在Catie的肩膀上，又想擁抱Catie並且給她一個吻，不過卻被Catie掙脫了</li></ul></li>
+<li>CWC還在分別前給了Catie一整袋的禮物:禮物大多都跟彩虹小馬有關，包括一個彩虹小馬手機殼，另外還有一張CWC自製的CD，以及兩張CWC特別為Catie畫的圖
+<ul><li><s>其中一張圖看起來像是Catie在乳首夾上電線給CWC的乳首放電</s></li></ul></li></ul></li>
+<li>之後，為了準備搞姬，CWC參加了同志遊行（不過他仍然反基佬）<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，又找刺青師替自己的會陰處穿孔（那個「挖個洞」事件的開端）</span>
+<ul><li>而Catie則決定測試CWC是不是真的照自己所說，成熟到可以應付一個「開放式關係」</li>
+<li>Catie告知CWC自己將要前往紐約參加一場婚禮（外加婚禮前夜替新娘辦的告別單身派對）時，CWC為了表示自己是成熟的大人而沒有反對
+<ul><li>但之後他又馬上試圖聯絡Catie，要求她做狀況回報來知道她的行蹤</li></ul></li></ul></li>
+<li>CWC從Catie女友人Shaina處得知，Catie被新娘選為伴娘，並結識了一位名為Colin的新郎伴郎（據Shaina所言，Colin是一名年輕有為，受過高等教育，來自相當有名望仕紳家族兼身材精壯的黑人男性）
+<ul><li>Colin在派對結束後邀請Catie與Shaina一同搭乘自家的遊艇出遊，並在晚上共進晚餐，但是由於Shaina身體不適所以回絕掉了，所以當天只有Catie與Colin二人在一起</li>
+<li>CWC因而醋勁大發，開始不停地試圖連絡上Catie，並且持續的向Shaina要求聯繫Catie（CWC甚至聲稱他需要監管Catie的社交生活）</li>
+<li>在Shaina的<s>故意</s>手誤下，CWC得到了Colin的電郵，並開始去煩Colin
+<ul><li>CWC在電郵中大談自己的經歷:索尼丘的創造者、廚的<s>玩具</s>受害者，他認為自己與Catie在過去的一個月內培養了深刻的感情，又認定在約會網站問卷上有95%吻合率的自己才是Catie命中注定的甜心</li>
+<li>他還指控Colin是個試圖用金錢迷惑Catie、沒血沒淚的有錢人，因此CWC要求Colin離Catie遠一點，並讓Catie回到「真正能扶持她感情」的人身邊<s>等等以下略</s></li></ul></li>
+<li>而站在Colin身邊的Catie看到了雙方來往的信件，見識到不少相當丟臉的爭執內容，例如:
+<ul><li>CWC與Colin大談男人的<a href="/%E4%B9%B3%E9%87%8F" title="乳量">奶子</a>，他表示自己每次看到打赤膊的男人都覺得自己受冒犯，所以要求所有男人都穿運動胸罩，甚至為此開了一個facebook專頁。Colin對此只能狂笑回應，表示Catie可不在意自己結實的大胸肌，並且質疑CWC會對這件事如此在意是為了掩飾自己軟趴趴的肥胸</li>
+<li>CWC跟Colin比<a href="/%E7%86%B1%E7%8B%97" title="熱狗">雞雞</a>，Colin說CWC會如此沒安全感而且想去當蕾絲邊是出自於他對自己「雄性象徵」的自卑，而CWC則是憤怒的堅持自己的雞雞一點都不小，甚至大到可以碰到自己的菊花（要的話甚至塞得進去）。Colin質疑CWC反應如此激烈是不是讓他說中了，同時也提醒了他：「你應該知道<a href="/GL" class="mw-redirect" title="GL">蕾絲邊</a>是不喜歡男性器的吧？」</li>
+<li>CWC說Colin的黑人額頭有夠禿，禿到會反光，發出便便色的光輝。對此，Colin表示「原來你種族歧視啊，我真是一點都不意外。」</li>
+<li>CWC還堅持他是個成熟的大人，甚至說欺負他的壞蛋有錢人Colin才是不成熟的那個</li></ul></li>
+<li>有見及此，Catie出面澄清她與Colin只是很普通的以朋友身份出去玩（+吃飯），並質疑CWC連她跟異性友人出去聚會就如此激烈，那他能怎樣處理一段真正的「開放式關係」
+<ul><li>因此，不滿的Catie表示自己打算待在她住在當地的父親那裡一段時間，短時間內不想與CWC聯絡了</li></ul></li></ul></li>
+<li>事後，CWC<s>竟然</s>因認為自己做錯事而感到懊悔
+<ul><li>然而他寄給Colin，想用來挽回自己的名聲的電郵，卻再次自暴其短
+<ul><li>CWC所提及的GAMe PLACe事件，完全是他自己的錯，他卻不斷堅稱自己是受害者</li>
+<li>而查閲法院資料得知了事情全貌的Colin，對於身為加害者還要人同情的CWC感到相當的不齒，並且表示他會把這個事件告訴Catie</li></ul></li>
+<li>眼見自己愈來愈不利的CWC，忽然對Colin表示「我媽不喜歡你」，還寄了芭芭拉指責Colin和叫他滾蛋的電郵給Colin
+<ul><li>於是Colin質問CWC是不是打算讓他媽罩他一輩子，而CWC叫Colin去死後又莫名其妙的寫了一首打油詩送他</li></ul></li></ul></li>
+<li>此時，Catie表示不想再與CWC談情了
+<ul><li>Catie<s>現在才</s>發現CWC連普通的交往甚至與女性交流上都有很大的問題，決心分手</li>
+<li>CWC對此極力反對，堅稱他們兩個是天生一對，並認為Catie沒良心
+<ul><li>CWC要求Catie跟彩虹熊熊（？）學習如何好好做人，又將自己的高血壓問題都怪罪到Catie身上，表示他會身體不適都是來自她給的壓力</li>
+<li>他還認為經過長年被廚騷擾與痛苦單身生活的自己，理應得到一個會無條件愛他的女友</li>
+<li>最後，CWC說「如果你還算是個有良心人，就給我到我家來找我！」，並留下了芭芭拉的電話，叫Catie到了的時候打電話給他<s>會聯絡才怪</s></li></ul></li></ul></li></ul><pre><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在之後，奇異農場上忽然出現大量Catie與CWC聯絡的資訊。</span>
+<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實打從一開始，Catie就是一群廚生成出來的角色（由一名真正的女人飾演）。</span>
+<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但由於CWC被「女人」騙已經是老梗了，這次事件因此被認為是僅次於Idea Guys和BlueSpike Saga的「最被討厭的Saga」。</span>
+</pre>
+</td></tr></tbody></table><h4 class="in-block"><span class="mw-headline" id="Tomgirl_Saga">Tomgirl Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=20" title="編輯章節：Tomgirl Saga" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>發生時間介於Catherine Saga之間。</li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC為了砍掉重練做出的駭人聽聞行為</b><br><span style="font-size:16px;"><span style="color:#ff0000;background-color:;">以下內容不建議未成年人觀賞，請做好心理準備再點開</span></span>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li>由於CWC討厭男人（因為其他男人把走了他想要的女人）所以起了想性轉去搞百合的念頭
+<ul><li>一開始的行為僅止於穿運動胸罩和留長髮，但他卻漸漸走上歧途</li>
+<li>因為經濟限制，他無法去進行正規的賀爾蒙療法/變性手術，這使他開始使用各種旁門左道，這其中包括：
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在胸部上擦他母親用來改善停經後症狀的雌二醇凝膠，好讓胸部變大</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">聽雙音節拍冥想/催眠，來讓他的腦波跟身體變得像女人</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在<b>會陰處穿孔然後說那是他的陰蒂</b></span></li></ul></li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一段時間後，會陰的穿孔因為CWC糟糕的生活習慣而開始紅腫，穿的洞旁邊也出現了破皮。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但CWC不認為那是傷口，反而覺得下面裂開的破皮是<b>因為聽了雙節拍冥想催眠，自己身體長出的陰道</b></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">甚至傳出CWC<b>為了讓新出現的洞「快快長大」，竟用刀子等尖銳物去挖傷口</b></span></li></ul></li></ul></li></ul><ul><li>許多人（包括奇異農們）都警告他要他快去看醫生，但基本都被CWC無視。
+<ul><li>但就他健在這點來看，他應該還是去進行過正規的治療了。<s>居然沒真的死掉……</s></li></ul></li></ul></td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Sonic_Boom_Saga">Sonic Boom Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=21" title="編輯章節：Sonic Boom Saga" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC為了捍衛自己所愛之物<s>耍廚</s>把相關銷售活動搞得亂七八糟的故事</b><br><s>雖然不用他鬧場Boom系列就自己爆炸了（除了TV動畫）</s>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2014年9月3日-2015年12月7日
+</pre>
+<ul><li>在Catherine Saga結束後，大多數奇異農都覺得CWC<s>自作自受</s>的遭遇已經到了讓人笑不出來，甚至令人同情的境界。
+<ul><li>因此奇異農們決定暫時不去關注CWC，讓他可以好好沈澱一下。</li></ul></li>
+<li>然而，在紛紛擾擾的2014年底，CWC再次現身於網路，宣告一個更<s>不</s>重要的議題---「<b>各位，聽我說！索尼克的手臂才不是藍的！</b>」
+<ul><li>CWC一直在關注2014年SEGA推出的索尼克<s>黑歷史</s>新作：Sonic Boom系列。
+<ul><li>該系列本身屬於平行宇宙/外傳性質，為一個由西方團隊專門為西方觀眾製作的索尼克系列。</li></ul></li>
+<li>因為是平行宇宙，世界觀與角色的設定和本傳不同也是理所當然的。
+<ul><li>但是CWC卻注意到一個他無法接受的新設計：索尼克的手臂顏色，竟然從<b>原先的皮膚色變成了藍色</b><s>其他角色都多了一堆配件（納克魯斯還變壯）你居然關注這種地方</s></li></ul></li>
+<li>這對鐵枝索尼克粉+索尼丘創造者的CWC而言，是無法接受的褻瀆</li></ul></li>
+<li>憤怒的CWC馬上寄email給SEGA的客服部門，藉此表達自己的不滿，並且再三強調改變手臂顏色會嚴重影響索尼克的名譽。
+<ul><li>不過在CWC好幾個月的email連發<s>騷擾</s>之下，SEGA仍然持續的推廣Sonic Boom系列。</li></ul></li>
+<li>失敗的CWC發現SEGA不理他後，決定親自動手。
+<ul><li>為了號招與自己想法相同的有志之士<s>（唸做看笑話的人）</s>，CWC開了一個反Sonic Boom的臉書頁面。</li>
+<li>他在上面放了許多自己用小畫家將手臂漆成肉色的Sonic Boom版索尼克的改圖。還開始了一連串試圖破壞Sonic Boom銷量的抗戰計劃。</li>
+<li><s>但事實上不用他亂搞這個系列就自己爆炸了</s></li></ul></li></ul><ul><li>CWC執行了一連串的作戰，包括：
+<ul><li>潛入Charlottesville（CWC居住的城鎮）各地的玩具店與電玩店，在沒人注意到的時候對Sonic Boom相關商品進行小規模的干擾。<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></li>
+<li><s>只帶一副紫色玩具眼鏡就高調</s>偽裝偷偷進入先前Ban過他的電玩店中，將Sonic Boom的遊戲片藏起來。</li>
+<li>在任何他目光所及的Sonic Boom立牌上張貼「索尼克的手臂是皮膚色，不是藍色！」的字條。</li></ul></li></ul><ul><li>在2014年十二月的某次作戰中，遊戲店人員認出了因為立牌破壞作戰而被盯上的CWC
+<ul><li>被認出的CWC不但不驚慌，反而擺出了<s>虛張聲勢</s>無畏的姿態：因為在他的眼中，自己是在修正這個把索尼克的手臂變成藍色的扭曲世界<s>才怪</s>。</li>
+<li>完全搞不懂他想表達什麼的店員，按照他過去在店裡作亂的紀錄準備叫來警察。</li>
+<li>被警告離開的CWC當然相當不滿，<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=EflHHVROiSs">在撤退時掏出了隨身攜帶的防身噴霧，隨意噴灑在離他最近的男性店員身上。</a></li>
+<li>離開店面前他還大聲警告：「別叫任何人！」<s>不叫人才奇怪吧</s></li></ul></li>
+<li>在從遊戲店撤離後，CWC開車回到了家。但隨後就被循線追查而來的警察逮捕。
+<ul><li>在襲擊事件發生後不久，遊戲店的人員就已經報警，但在警察趕到時CWC卻早已逃之夭夭。</li>
+<li>警察透過目擊者資訊找到<b>被CWC單獨丟下，還在賣場吃飯</b>的芭芭拉，並得到了CWC的車牌，住址等資料。</li>
+<li>CWC就這樣被逮捕到案拘留數夜，一直到芭芭拉湊到了$2500的保釋金才總算被放了出來。</li></ul></li>
+<li>在這之後，可說是GAMe PLACe 2.0的CWC法庭劇開演了：
+<ul><li>CWC被以<b>不法排放有害氣體</b><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>起訴。</li>
+<li>被多重債務纏身的CWC家無法像GAMe PLACe事件時那樣支付高昂的律師費，只好透過公設辯護人來訴請這個事件。</li>
+<li>最後法官認定，雖然CWC確實有不法使用防身噴霧，然而這事件並非出自惡意<s>（該死的身心障礙免死金牌）</s>，也沒有人受傷（噴霧只有噴到男店員的衣服上）
+<ul><li>因此法官裁定CWC緩刑，並且必須支付罰金，進行社區服務等等，讓CWC躲過了牢獄之災<s>居然沒入獄真可惜</s>。</li></ul></li>
+<li>但在民事方面，被他噴灑防身噴霧的男性對他提出賠償告訴。</li></ul></li></ul><ul><li>在這第二遭的法院事件後，CWC依舊死性不改，不斷的逃避現實。
+<ul><li>回到家的CWC上網Po文，指控遊戲店的店員歧視自閉症者以及女同<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>，接著宣示自己將持續與這個將索尼克的手臂改成藍色，不公不正的世界持續戰鬥下去</li>
+<li><s>……編者表示你的臉皮比城牆還厚</s></li>
+<li>接下來的一年裡，CWC繼續的反抗著Sonic Boom系列，這其中包含：
+<ul><li>購買Sonic Boom系列索尼克玩偶並且將玩偶的兩隻手扯下來</li>
+<li>持續寄信給SEGA抗議他們繼續發行藍手臂索尼克</li>
+<li>要求他們要為此發佈一個正式的道歉函，甚至在臉書上威脅要對Sonic Boom系列的幾位製作人不利。</li></ul></li></ul></li></ul><ul><li>這個抗議一直持續到2015年底，SEGA公布「瑪利歐＆索尼克 AT 里約熱內盧奧運」為止才止息
+<ul><li>CWC注意到在這款新遊戲裡出現的索尼克，是有著皮膚色手臂的原版索尼克，而非藍手臂的Sonic Boom索尼克。</li>
+<li>認為自己成功說服SEGA放棄更改索尼克手臂顏色的CWC，總算心滿意足的放下了這件事。</li></ul></li></ul><pre>本Saga算是CWC得到一個不差結局的Saga（笑）。
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Doopie_Saga">Doopie Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=22" title="編輯章節：Doopie Saga" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC與Youtube頻道Planet Dolan成員之間的故事</b>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2017年3月7日-9月26日
+</pre>
+<ul><li>Doopie是Planet Dolan成員中的一位女性繪師
+<ul><li>由於是名喜愛ACG的年輕女性繪師，她成為了CWC尋妻<s>幹砲</s>之旅的下一個目標。</li>
+<li>由於Doopie本身有經營Patreon，CWC便花錢請她為自己畫了張CWC的自繪，就此開啟了這起Saga的開端。</li></ul></li>
+<li>起初，Doopie（基於他是委託主）盡可能的友善的應付他。
+<ul><li>但是CWC搞不懂何謂委託人與畫師的界線，認定Doopie友善的回應代表她對自己有興趣，於是便開始用推特跟email不停地聯絡她。</li>
+<li>即便Doopie要求他不要私訊到她的工作用email，他仍不停歇的繼續聯絡她。</li>
+<li>在8/1號的女孩日時：CWC發佈了一篇推文：他稱Doopie為他的「女性友人」；這成了壓垮Doopie理性的最後一根稻草。</li>
+<li>Doopie馬上回應「你根本就不認識我」，接著就封鎖他了</li></ul></li></ul><pre>然而，事情不會如此簡單就結束的。
+</pre>
+<ul><li>被封鎖的CWC馬上將矛頭指向了網路上的Troll們，特別是奇異農場那些總是不安好心的惡棍<s>才怪</s>。
+<ul><li>他強烈抗議，並認為他被封鎖都是Troll們的錯，要他們不要騷擾Doopie，並開分身帳號繼續追蹤Doopie。</li>
+<li>發覺自己惹禍上身的Doopie試圖跟CWC劃清界線（還退了他在Patreon付的錢），但他仍然不停止騷擾。</li></ul></li>
+<li>無路可退的Doopie，只好求助於世上唯一可以讓CWC退避的地方：奇異農場。
+<ul><li>她在奇異農場上面創了一個帳號，將CWC傳給她的所有郵件跟訊息全數公佈了出來，也和奇異農們交流了不少訊息和看法。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其中包括CWC希望她畫的一些彩虹小馬百合R34內容，以及她在過程中對CWC的看法與解讀等。</span></li>
+<li>在Doopie得到了農場的支持後，總算是阻止了CWC
+<ul><li>他在推特上正式公布Doopie現在「暫時」站在Troll的那邊，在發了最後的道歉訊息後停止了與Doopie的聯繫。</li></ul></li></ul></li></ul><pre>然而，事情不會如此簡單就（ry
+</pre>
+<ul><li>一段時間的沈澱後，CWC參加了小馬集會BronyCon
+<ul><li>他在Bronycon中遇到了與他相似的自閉者們，參與的人們都在友情魔法中表現得格外友善，讓CWC過了愉悅的數日。</li>
+<li>事後CWC<s>病症復發</s>的心再次雀躍了起來，再次使用起了推特追蹤起了彩虹小馬的聲優們，以及Planet Dolan的其他女性成員。
+<ul><li>當然聲優們完全無視了他。</li></ul></li></ul></li>
+<li>8/25日，CWC回應了Planet Dolan成員LadyoftheCosmo的一篇推特。
+<ul><li>在推特中，CWC稱呼Lady為親愛的（dear）<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>。</li>
+<li>Lady不悅的表示：<b>我不是你「親愛的」誰，Planet Dolan的其他人也不是</b>。</li>
+<li>CWC馬上寫了封<s>文法和筆觸一蹋糊塗的</s>信，拍照上傳作為回應。
+<ul><li>在信中CWC指出所用的「親愛的」是表示友好的中立詞，而非某種親暱的稱呼<s>才怪</s>。</li></ul></li>
+<li>此舉激怒了Lady，接著便用一連串的推文中點出了CWC騷擾Doopie的點點滴滴；並評價他是個<b><a rel="nofollow" class="external text" href="https://sonichu.com/cwcki/LadyOfTheCosmo">屁話連篇、自私、不要臉、又不值得同情的渾球</a></b>。這讓CWC雀躍的心再次沉到了谷底...</li></ul></li></ul><pre>於是，故事就這麼結束了<s>可喜可賀</s>。
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Idea_Guys_Saga">Idea Guys Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=23" title="編輯章節：Idea Guys Saga" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>逃避現實的CWC遇上了惡質廚而異想天開兼失財的故事</b><br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也是CWC萬劫不復的關鍵</span>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2017年10月25日-2018年5月24日
+</pre>
+<ul><li>2017年，Doopie Saga以後，CWC發現自己並沒能長出鮑魚，於是開始往自己的幻想中逃避。</li>
+<li>CWC愈來愈相信自己腦海中索尼丘的<s><a href="/YY%E5%B0%8F%E8%AA%AA" title="YY小說">瑪麗蘇</a></s>世界CWCville，以及所有其他創造物的宇宙都是在其他次元中真實存在的。
+<ul><li>到後來，CWC甚至相信自己有著魔法，能夠透過類似靈魂出竅的方式去到索尼丘們的世界，跟他們進行實質的交流。</li>
+<li>在那段時間，CWC還接觸到了<a href="/%E8%B6%85%E6%AC%A1%E5%85%83%E3%82%B2%E3%82%A4%E3%83%A0_%E3%83%8D%E3%83%97%E3%83%86%E3%83%A5%E3%83%BC%E3%83%8C" title="超次元ゲイム ネプテューヌ">戰機少女系列</a>。</li></ul></li>
+<li>2017年的11月，CWC<s>精神病發</s>公佈CWCville與戰機少女的宇宙是相連的，他説某天CWCville的守護神Magi-chan告訴CWC說天王星うずめ沈睡在他的Sega Dreamcast中。
+<ul><li>為了解放天王星うずめ，CWC將自己的肉體作為媒介，將CPU女神的意志轉移到了自己身上，成為了她的化身（甚至到可以佔領並且直接操作CWC的身體）。
+<ul><li><s><a href="/%E6%88%90%E5%8F%A5/%E2%97%8B%E2%97%8B%E5%9C%A8%E4%BD%A0%E5%BE%8C%E9%9D%A2%EF%BC%8C%E4%BB%96%E9%9D%9E%E5%B8%B8%E7%81%AB" title="成句/○○在你後面，他非常火">一眾宅宅站在CWC後面，他們非常火</a></s></li></ul></li>
+<li>天王星うずめ告訴CWC有許多來自異世界的危機正緩緩的朝著CWCville以及戰機少女的世界逼近，令CWC開始了一場為了拯救兩個世界而發動的聖戰。<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></li></ul></li>
+<li>當時，觀測到這件事的奇異農們認為這只是CWC迷上某系列之後的正常發揮，並沒這件事放在心上<s>，可見CWC已白目到令大家習以為常</s></li>
+<li>CWC莫名的發佈了意味不明的<s><a href="/%E8%8E%8A%E5%9C%93%E5%A4%A7%E5%B8%AB" title="莊圓大師">佛舞</a></s>跳舞影片，並開始莫名地在戰爭中加入了一堆二戰梗。
+<ul><li>他説CWCville為了準備戰爭，將與自己宿敵之一的Count Graduon（少數在CWC完全原創的角色）合作，在CWCville興建許多配有淋浴間以及大烤箱的戰俘營，並且通過了一個<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E6%9C%80%E7%B5%82%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88?uselang=zh-tw">Fine Ol' Solution</a></span>：將所有邪惡戰俘送到集中營勞改。</li></ul></li>
+<li>對歷史多少有點理解的奇異農們馬上發現異狀，擔心CWC是否正在被居心不良的廚操弄，但是CWC卻否定了他們所有的問題（CWC為極左翼的希拉蕊支持者，自稱反納粹）。</li>
+<li>正當CWCville勢力（CWC，索尼丘們，博派金剛與戰機少女們）即將勝利時，CWCville內部忽然出現了反對CWC的LGBTQ立場的聲音，還襲擊了CWCville的賣場，於是CWC將過去組成的反廚特攻隊重新編制成了<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E8%93%8B%E4%B8%96%E5%A4%AA%E4%BF%9D?uselang=zh-tw">CWCstapo</a></span>來整治這些反動份子。
+<ul><li>CWC又從「一個同伴」那裡得知了一個驚人的事實：他以自己形象改造的彩虹小馬人形竟然是納粹的爪牙，而且他的力量泉源之一，由115號元素（《決勝時刻》系列中造成納粹殭屍的物質）做成的索尼丘吊飾，竟然遭到了穿越時空的<a href="/%E5%B8%8C%E7%89%B9%E5%8B%92" class="mw-redirect" title="希特勒">希特勒</a>所竊去。</li>
+<li>納粹透過索尼丘吊飾的力量，大舉入侵各個CWC珍惜的幻想世界，包含CWCville跟小馬國。</li>
+<li>於是憤怒的CWC親手粉碎了自己的小馬分身人偶，<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=-9IntyZap2U">還拍片咒罵納粹</a>。</li>
+<li>然而，這並不足以阻止穿越時空的希特勒:他不僅帶領納粹踐踏小馬國與CWCville，還用撒旦的力量將過去的CWC洗腦成邪惡的「納粹CWC」。
+<ul><li>納粹CWC用索尼丘的神奇力量幫助納粹德國打贏了二次世界大戰，又為了其幹炮的天命而壓迫女權。</li>
+<li>現代的偽娘CWC因而大怒，並且認定自己過去（在索尼丘漫畫系列中）幹過的那些壞事（包含不尊重女性、射殺Liquid、火燒4醬大廈、極度暴力的處決他認為是廚的人）都是納粹CWC搞的鬼<s>，曲線洗白自己</s></li>
+<li>最後，現代的CWC為了終結這一切，踢爆了過去的自己那個豬公的蛋蛋，並且用索尼丘的力量電爆了希特勒。</li>
+<li><s>媽的我看了什麼鬼</s></li></ul></li></ul></li>
+<li>奇異農們懷疑有人在暗中干涉，改變CWC對CWCville的看法與認知，並在調查後發現了一些其他CWC遭到外力影響的證據：
+<ul><li>CWC曾經忽然公布索尼丘的女友Rosechu告訴他自己並非天生就是女性，而是個曾經有著<a href="/%E6%88%90%E5%8F%A5/%E5%BE%88%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%A4%A7%E8%B1%A1%E5%85%88%E7%94%9F%E5%90%A7%EF%BC%9F" title="成句/很了不起的大象先生吧？">頂天立地</a><a href="/%E7%86%B1%E7%8B%97" title="熱狗">大醃黃瓜</a>的一名男轉女的變性人。</li>
+<li>一直專制統治CWCville的CWC忽然決定要進行選舉，候選人包含<a href="/%E6%99%AE%E4%BA%AC" title="普京">普京</a>、<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E5%B8%83%E8%98%AD%E7%99%BB%C2%B7%E8%B2%BB%E9%9B%AA?uselang=zh-tw">布蘭登·費雪</a></span>，以及《Payday 2》中的Bob McKendrick。
+<ul><li>最後布蘭登·費雪勝出選舉，不過似乎沒有對CWCville產生任何影響。</li></ul></li>
+<li>CWC又曾經說，Magi-Chan看到了一個關於天命的預言：<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">CWC必須與索尼丘交媾，Crystal才有可能出生</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">雖然CWC渴望成為女人，但是卻尚未打定是否該把老二去除掉；而索尼丘身為創造物、兒子兼好友，是對CWC絕對忠誠的</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於是CWC為了完成天命，畫了一張自己正在雞○索尼丘的圖</span></li></ul></li></ul></li>
+<li>之後有一天，CWC忽然宣布要放棄自己一直以來對耶穌與上帝的信仰，轉為信奉戰機少女中的CPU女神們。
+<ul><li>不久之後，CWC又從說自己的性向從他數十年來一直堅持的「純直」改變成了「雙性」。</li>
+<li>最誇張的是，他還忽然發文，說他願意以50美元的代價幫人吹喇叭。</li></ul></li></ul></li>
+<li>奇異農們給了影響CWC的新廚（們）一個統合的稱呼：Idea Guy(s)。
+<ul><li>在努力不懈之下，幾位奇異農終於說服CWC說出實情：</li>
+<li>原來Idea Guys用類似先前說服CWC將納粹、戰機少女加入CWCville的方式威脅CWC，說有一個月面兵器正對準CWCville，如果不照著他們的要求做他們將會摧毀掉CWC的心靈歸宿。</li>
+<li>CWC為了拯救其心靈歸宿，<b>將他與他年長的母親賴以為生的社福支票得到的金錢一點一點的交給了他們</b>。</li>
+<li>在奇異農們發現此事時，CWC已經將總計價值相當於6000美元的各樣物品交給了Idea Guy們，奇異農們還在CWC的通訊記錄中發現，其中一名Idea Guy正脅迫CWC交出20,000美元，不然他就要向FBI揭露CWC的惡行，讓他以戀童癖之名被逮捕。</li>
+<li>此事件讓農場主Null等一眾奇異農震怒，他們借助CWC的發票及資料作為證據，開始把Idea Guy們起底。</li>
+<li>Null從資料中起底出其中一名奇異農場用戶Joshua Wise，把他的個人資訊（名字、住所、網路資歷、家人情報等）全部公佈在奇異農場的CWC版中，強迫他認錯及供出事件經過。
+<ul><li>起初，一名Idea Guy裝作CWC粉絲，對CWCville的事物感到好奇。</li>
+<li>接著，身為角色扮演愛好者的Idea Guy，開始以戰機少女中的其中一個角色的身份開始向CWC進言，要他聽從CPU女神（自己）的話<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>。</li>
+<li>Idea Guy們發現CWC會對他們唯命是從後，他們開始用月面兵器狹持CWCville，脅迫CWC錄影自己做些糟糕的事（例如令他承認自己想性侵CPU女神的<a href="/%E8%98%BF%E8%8E%89" title="蘿莉">蘿莉</a>Blanc，或是打他年邁的母親），接著再用這些影片威脅CWC付錢。</li></ul></li>
+<li>Joshua Wise試圖以把與CWC的交流完整交出來，以換取自己家人的資料被從奇異農場中遮蔽，然而被Null以及管理者們否決。</li></ul></li>
+<li>事後被起底的Idea Guys們找得到的所有相關資訊仍然在奇異農場裡保存著，而Null一直替CWC過濾電郵。
+<ul><li>有為數不少的人對作為廚們所出生的農場主Null幫助CWC感到不滿，主要是因為幾乎所有有趣的Saga都是由廚所主導，若是Null將所有想廚CWC的人（甚至只是被他認定可能是廚的）都過濾掉的話，以後就沒戲唱了。</li></ul></li>
+<li>此事件亦令CWC開始不把奇異農場當作敵人，甚至還專程替農場主的Null畫了一張稱讚他的小馬圖。</li></ul><pre>於是，CWC和奇異農場之間短暫的和平到來了。但是美好的時光，總是難以延續——
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Teen_Troon_Squad_Saga">Teen Troon Squad Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=24" title="編輯章節：Teen Troon Squad Saga" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC又一次被惡質廚（青少年變性人組）玩弄的故事</b><br><s>Idea Guys Saga第二季</s>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2018年4月24日-2019年1月1日
+</pre>
+<ul><li>在Idea Guy Saga結束後，CWC不但沒有發憤圖強，更是陷入萬劫不復的深淵。
+<ul><li>不滿足於幻想被僅限於CWCville以及索尼丘一仲的CWC，在自己的幻想世界中加入了各種自己的興趣喜好。</li>
+<li>這其中包括被Idea Guys們操弄時編入的細節（包括戰機少女，小馬國等等），並且CWC表示這些人物「一直以來都存在」，而非是自己被Idea Guys操弄的產物<s>逃避現實</s>。</li>
+<li>由於這些東西已經超出了CWCville的範圍，CWC決定將自己的幻想世界擴張：從CWCville這個單一的城鎮，改為了名為C-197的次元。</li>
+<li>據CWC所言：在C-197之中，所有的創作物以及自創角色都是真實的存在<s>說穿了不就是那種跨界作品之類的東西嗎。</s></li>
+<li>這個世界還包含著已經逝世的寵物以及人們—包含CWC已故的父親，過去的寵物們等等-而他們都與OC們在CWCville中過著快樂的日子。</li>
+<li>換言之，C-197就是CWC心目中的理想鄉；而在那裡的自己，正是市長兼創世CPU女神之一的康懋達64女神。</li></ul></li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/%E6%AA%94%E6%A1%88:15750758696291.jpg" class="image"><noscript><img alt="" src="/images/thumb/6/65/15750758696291.jpg/200px-15750758696291.jpg" width="200" height="267" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 267px;" data-src="/images/thumb/6/65/15750758696291.jpg/200px-15750758696291.jpg" data-alt="" data-width="200" data-height="267" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:15750758696291.jpg" class="internal" title="放大"></a></div>化身為CPU女神「CPU Blue Heart」的CWC設定圖。</div></div></div></div>
+<ul><li>正當許多奇異農認為這只不過是CWC正常發揮的時候，他發佈了一道讓所有人震驚的消息。
+<ul><li>CWC宣布他的<s>約砲</s>天命已經被達成了。</li>
+<li>一開始得知這個消息的奇異農們，認為這次大概又是Bluespike Saga之類的翻版，但事實上CWC公佈的資訊卻不是這麼一回事。</li>
+<li>這道天命被達成的「形式」，超出了所有奇異農的想像…</li></ul></li></ul><ul><li>CWC表示自己有直接聯繫到C-197次元的能力，他透過這個連結找到了自己的真愛並且完成了天命。
+<ul><li>CWC天命達成的方式，<b>是一段包含了眾多索尼丘們以及其他生物的「多邊戀/多重伴侶婚姻」</b>
+<ul><li>簡要來說，CWC認定自己已經與某些角色結婚，而那些角色又有跟其他角色有婚姻關係，所以CWC跟那些其他角色也有連帶的婚姻關係……<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></li></ul></li>
+<li>此一「婚姻」的複雜程度遠遠超出正常認知下的<a href="/%E5%BE%8C%E5%AE%AE" title="後宮">後宮</a>，連許多奇異農都無法理解CWC為何想出一段如此難以理解的關係...但對CWC而言這一切都完全的合理</li>
+<li>他在一段與蘇格蘭老兄Count Dankula的採訪中坦言：<b>自己是命中注定會進入這段關係，而先前所談過的「感情」以及遇過的那些假扮成女人的廚都未能得逞成功的騙到自己，就是因為這段命運的婚姻</b>。</li>
+<li><s>說了那麼多不就是多次約砲失敗後和自己的妄想人物結婚了？</s></li>
+<li>就此，為期接近20年，被CWC認定是自己天命的Lovequest，就在他的幻想世界中得到了結束。<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></li></ul></li></ul><ul><li>正當奇異農們對CWC的宣言摸不著頭緒時，CWC竟然在不久之後發表了一個更加驚人的「事實」
+<ul><li>CWC宣稱從自己的丈夫之一，全能的Magi-Chan那兒得知了關於現實世界的末日宣言。</li></ul></li></ul><pre>迷途的羔羊們啊，在鬥爭之時，你們無一例外都看漏了真理！
+而那就是-我們處在的只不過是無盡平行宇宙裡的其中之一，被稱之為次元1218<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>的宇宙！
+而這個宇宙---次元1218的終結即將來臨！
+在不久的將來，這個宇宙將與鄰近的平行次元C-197---一個被CPU女神們以及超夢所守護的，任何自創角色都真實存在的靈魂回歸之處---合而為一！
+只有被CPU女神們選上的人們，才能毫髮無傷的經歷這個次元的合併
+雀躍吧，相信的人們！你們即將在索尼丘們的護送下與你們二次元的老婆們團聚！
+悔改吧，在網路上欺侮過他人的廚們！你們的惡形惡狀，都逃不過超夢的法眼！
+順帶一提，任何在次元合併前捐贈給CPU女神的金錢，在合併後將會以1:10的比例還款。
+------康懋達64的CPU女神，CWCS （Christine Weston Chandler Sonichu）
+</pre>
+<ul><li>CWC所表示的世界末日意思：<b>這個次元1218將在不久後的將來與C-197合而為一，讓所有人都變成自創角色，<a href="/JOJO%E7%AC%AC%E5%85%AD%E9%83%A8%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD#.E7.9B.8E.E6.A0.BC.E9.AD.AF" title="JOJO第六部登場人物一覽">而所有被創造的角色都將在這個世界上得到實體。</a></b>
+<ul><li>CWC稱此事件為「次元合併」：與其說是世界末日，更像是「我們已知的世界」的終結，邁入新世界的開端。
+<ul><li><s>也就是說在次元合併後我們會看到一海票的CWC宇宙角色滿街跑，其中很有可能包含自己以前的家人……（昏倒）</s></li></ul></li></ul></li></ul><ul><li>而這一切的起因於CWC遇到了一群在現實中接近他，並且願意跟他社交的一群LGBT群體青少年們（<b>均為未成年</b>）。
+<ul><li>奇異農場統稱他們為「青少年變性人組」（Teen Troon Squad，縮寫TTS）。</li>
+<li>這群人起初與CWC的相識，是透過買賣關係：他們一群人向CWC買了價值達美金$1000的圖畫，並且在交談中得到了他的信任。</li>
+<li>而他們的群聚地點十分剛好在離CWC住所不遠的地方。</li>
+<li>在2018年後半，他們持續地跟CWC接觸，時不時邀請他一起來聚會，聊天抽大麻等等。
+<ul><li>他們的動機當然不純正：因為TTS深知CWC的歷史，連Idea Guy Saga的事情經過都瞭若指掌。</li>
+<li>他們這些人接觸CWC的理由是為了尋找笑料；而讓奇異農場特別反感的是，雖然他們沒有向他詐取金錢，卻也在<b>利用CWC的信仰持續的玩弄、糟蹋他</b>。</li></ul></li>
+<li>TTS用著跟Idea Guys們類似的角色扮演手段，例如：
+<ul><li>在邀請CWC參與的呼麻聚會中表示自己被索尼丘之中的角色附身，藉此來入侵CWC腦袋裡的次元C-197</li>
+<li>事後於私人推特上大量發出CWC的私人資訊，以及露骨的批判。<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></li>
+<li>利用CWC幫他們買酒精類飲料。</li></ul></li></ul></li></ul><ul><li>換言之，TTS接下了Idea Guys的衣缽，進一步的將CWC拖入了他腦內的幻想世界，讓他對於C-197的信仰從幻想進入現實。
+<ul><li>TTS的一名成員Lucas，曾錄製過在呼麻之後表示自己能看到並且跟Cryzel Sonichu接觸，<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=CHO7-l6T4r4">表現得像是自己正在跟空氣親熱的CWC的影片…</a></li>
+<li>在TTS的角色扮演影響之下，CWC越走越偏，開始將幻想與現實視為一體
+<ul><li>不僅越來越常使用自己的推特子帳戶-Magi-Chan來發表CWCville以及次元C-197發生的各項事件，還會不時使用主帳戶發表自己與透過TTS附身的CWCville各個角色的互動等等（跟Idea Guy時發表的戰機少女內容雷同）。</li></ul></li>
+<li>在這些發表的內容中最為值得注目的，正是上面提及的末日預言。</li></ul></li></ul><ul><li>注意到事情的嚴重性的奇異農們（包括擔任CWC守門犬的農場主Null）開始做起了揭露TTS成員的準備。然而——
+<ul><li>TTS與Idea Guy們一樣熟知CWC個人歷史和奇異農場的危險性，在他們發現自己被盯上後，做出了一件讓奇異農們始料未及的事。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這群人取得了CWC的推特帳號以及子帳號Magi-chan的登入資訊，用其帳戶貼出了之前蒐集的CWC腥羶內容，其中包括一段CWC自慰的影片。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在其中一個推文之中，「Magi-Chan」表示自己十分感謝在次元1218中將肉體借給自己附身的Lucas，接著把Lucas的<b>所有個人資料</b>一併全數放在一個文件中發了出來。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">起初有奇異農懷疑這可能是CWC為了報復TTS操弄自己。但在仔細分析過推文之後，奇異農場一致認為文筆與CWC平時的貼文有落差，<s>更何況CWC的的智商讓他根本幹不出這種事</s>。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">TTS的目的便是趁這個機會轉移農場的焦點，同時銷毀掉與CWC任何關聯的證據。藉此「斷尾求生」</span></li></ul></li></ul><ul><li>當奇異農場發覺事件的全貌時，TTS已經停止了與CWC所有的互動。
+<ul><li>除了被犧牲的Lucas之外，TTS其他人的身份都已經石沉大海，無法追溯。</li>
+<li>被犧牲掉的Lucas為了讓自己不成為新的標靶，開始大量發布之前不曾公開的CWC互動資訊：<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其中有錄製的CWC奇行影片（包括先前CWC自慰影片的完整版）等等</span>，將這些影片與操弄CWC的責任都推給Idea Guy們。<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></li>
+<li>CWC強力的譴責Lucas以及TTS的行為，但同時又不願意相信自己認為是同伴的TTS會背叛自己。</li></ul></li></ul><pre>於是，CWC將責任都歸咎於Arfoire<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>，繼續自己對幻想世界以及「次元合併」的信仰…
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Jacob_Saga">Jacob Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=25" title="編輯章節：Jacob Saga" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>CWC被變態Jacob Sockness追求的故事</b><br><s>Idea Guys Saga第三季：同性相吸</s>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<pre>事發時間：2019年7月14日-11月28日
+</pre>
+<ul><li>在經歷TTS Saga後，CWC依舊堅持著他對次元合併的信仰。
+<ul><li>他不僅繼續的形容著合併，還開始進行起了合併發生的最後倒數。</li>
+<li>據他發言，合併會讓一些C-197的地區與次元1218重合：例如CWCville將會取代維吉尼亞州的一部分，高譚市會取代紐澤西，俄奎斯垂亞（小馬國）將會取代掉瑪里蘭州。
+<ul><li>而在合併的過程中，<b>這些重合的地區將會經歷大規模災害衝擊。</b></li></ul></li></ul></li></ul><ul><li>他在2018年12月多次表示自己經歷合併即將發生引起的「<s>高血壓</s>靈魂頭痛」，四肢能夠感受到<s>糖尿病前兆</s>索尼丘力量的電流在體內流竄，以及能直接與索尼丘接觸，交流等等。
+<ul><li>很快2018年的十二月底到來了，CWC在萬分期待下迎接著次元的合併，然而什麼都沒有發生。</li>
+<li>即便2019年一個月又一個月的過去了，CWC仍不放棄他對次元合併的信仰：他堅信「次元合併」一定會發生，只不過是被延遲了。</li>
+<li>同時，CWC對現實日漸扭曲的認知，讓更多的ween<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>想要介入他的幻想。</li>
+<li>但在這之中，混入了一個讓人驚愕的存在；他不像過去的廚們假扮女人來嘲弄CWC，或是利用CWC的自負來惡整他，他懷抱的是更加扭曲的欲望----。</li></ul></li></ul><pre>「<b>喔呵呵，CWC；你若是想要讓「次元合併」成功完成，就必須要跟我<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">交媾</span>呀！</b>」
+</pre>
+<ul><li>這時，Jacob Sockness出現了；他是一個過去不曾被農場關注，卻在出現不久之後深深烙印在奇異農們腦海中的一號人物。
+<ul><li>起初，一位奇異農在關注CWC推特時，注意到了一個格外支持CWC言論的帳戶。</li>
+<li>在對這帳戶使用者進行調查之後，他發現這個不停給CWC護航的人<b>有一個奇異農場帳戶</b>，而他在帳戶的個人頁面中透露出了自己的facebook資訊，使得奇異農場能夠名正言順的起底他。</li>
+<li>奇異農場統合出來的資料如下：
+<ul><li>Jacob Sockness是個身形肥滿，領著社福支票，年齡在三十歲後半的自閉症患者<s>而且長得有點像Bueno Excellente</s><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>。</li>
+<li>和CWC相同，Sockness相信自己是個有著神力的天之驕子，也有著一個以自己為中心的幻想世界：Kidasuna</li>
+<li>而Sockness接近CWC的目的並非為了整他或是看他笑話，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而是<b>CWC那尚未被任何東西開發<s>（除了索尼丘獎章以及剛剛珠）</s>過的肛門。</b></span><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></li>
+<li>更特別的是：Sockness和其他廚不同，<b>是以自己本人身分和照片</b>和CWC接觸的。</li>
+<li>於是，<b>Jacob Sockness開始了一連串的活動，來獲取CWC的芳心</b>。</li></ul></li></ul></li></ul><ul><li>Sockness與CWC最初的交流，是從前者在2018年尾購買CWC放在ebay上出售的家當開始的。
+<ul><li>Sockeness花了數百美元的社福支票資金，買了CWC使用過的鞋子；據他所言，<b>這是為了膜拜CWC所必需使用到的媒介物</b>。</li>
+<li>不過Sockness在當時與CWC的交流疑似怪異到連後者<s>難得的</s>也覺得對方有問題（這段交流並沒有出現在網路上）， CWC便在Sockness付款之後就將其封鎖了<s>難得智商上線一次</s>。</li>
+<li>在2019年時CWC想要湊錢<s>討乞</s>來訂飯店好參加Bronycon時，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一名廚向CWC透露說有一個「傢伙」會有興趣購買<b>CWC的洗澡水</b><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></span>。而急需資金的CWC便用推特去追蹤了這位可能的買主。</li>
+<li>這位廚說的「傢伙」，正是被CWC封鎖過的Sockness。
+<ul><li>實際上這一切都是Sockness為了得到CWC注意所設下的陷阱（Sockness當時因為社福支票的問題，處於身無分文的狀態）；<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">更糟糕的是，<b>他要的是含有CWC精華，受過CWC祝福的「特別」洗澡水</b>。</span></li></ul></li></ul></li></ul><pre>就此，CWC與Sockness展開了一段一言難盡的，追隨者與被追隨主的關係。
+</pre>
+<ul><li>Sockness接觸CWC的模式類似Idea Guys與TTS：藉由認同CWC對幻想世界的信仰，表示自己也有著一樣的能力，能夠觀測並接觸幻想世界的人事物，進而滲透進到CWC的世界中。
+<ul><li>舉例而言，Sockness成功的<a rel="nofollow" class="external text" href="https://sonichu.com/w/images/9/96/Sonichu14-2019draft-p15.jpg">將自己幻想世界Kidasuna中的終極邪惡---Jakoba</a>給編入了CWC腦海中，讓CWC畫出了這一號人物</li>
+<li>CWC在推特放出這張圖時，他被某些人質詢他是否又被誰控制；而CWC表示他並沒有被控制，而且自己支持Rokat以及仙女座星系的善人們（出自Sockness Kidasuna中的內容）。</li>
+<li>Sockness同時在推特上多方支援CWC，替他所有「幻想世界」推文護航，反駁所有要求CWC「面對現實」或是「有人在操弄你啊」的訊息。
+<ul><li>Sockness甚至跑去騷擾過去跟CWC打過官司的Michael Snyder，向他寄出了一封充滿惡言的email；Sockness在信中表示Mike竟敢斗膽冒犯身為掌管「次元合併」女神的CWC，而他的惡形惡狀一定會被世間之神Emanuelle給懲罰。</li>
+<li>此外Sockness在email的附件中<a rel="nofollow" class="external text" href="https://sonichu.com/w/images/5/5b/AlogSockness.jpg">附上了一張自己cosplay著「經典CWC」的照片</a>。</li></ul></li></ul></li></ul><ul><li>此後Sockness為了佔有CWC的注意，開始透過兩人日漸親近的精神關係，排除起了任何會與CWC長時間接觸的人。而Sockness要排除的第一個目標，就是奇異農場的農場主Null。
+<ul><li>在Idea Guys Saga後，奇異農場的農場主Null為了保護CWC不要再被Idea Guys類型的惡廚剝削嘲弄，自告奮勇跑去替CWC過濾email。</li>
+<li>而Sockness便開始不停的介入CWC與Null的關係，開始挑撥離間。</li>
+<li>Null與農場一眾要求Sockness別再鬧了（理由是他們很清楚這人的底細，八成又是要整CWC之類的），但Sockness不為所動。
+<ul><li>其中不只是因為他早已被農場清真，更因為他有著一個可以讓CWC與Null的關係徹底粉碎的手段：<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Sockness向CWC提起了「奇異農場惡意害死變性者」的消息。</span></li>
+<li>這一消息讓CWC對奇異農場的態度丕變<s>忘恩負義</s>；<b>CWC連向Null確認消息的來龍去脈都沒有，就全盤相信Sockness</b>，公開斥責農場。並且表示奇異農場的所有人都會在「次元合併」的過程中消逝。</li>
+<li>CWC斷絕了跟Null的所有關聯；對此，Null也宣示自己「<b>再也不他媽管CWC的死活了</b>」(但在事件結束後不計前嫌再次予以協助)。</li></ul></li></ul></li></ul><ul><li><ul><li>Sockness成功排除異己後，將計劃推進到了下一步：</li></ul></li></ul><pre>「CWC，你再不努力些的話，「次元合併」將會被無止境的被你耽誤下去！我跟Magi-chan談過了：他跟我說，我們必須在這個次元面對面接觸並且結為連理，才能確保「次元合併」的正確進行！」
+</pre>
+<ul><li>CWC雖然認證了這個訊息的準確性，但當Sockness要求CWC來到加州與他同在時，CWC並沒有足夠的錢（也要不到）前往。
+<ul><li>他向Sockness表示說自己的肉體雖然無法到達加州，但是他的精神透過Magi-Chan的力量到了Sockness身邊，所以自己「在精神上與Sockness同在」。</li>
+<li>這並不符合Sockness的本意，所以Sockness表示：「好，既然你無法來加州找我，那我就到維吉尼亞州去找你！」</li>
+<li>在發布這條消息的同時，Sockness還連帶發佈了一張照片：一張從加州出發到維吉尼亞州CWC所居住城鎮的火車<b>單程票</b>的照片。</li>
+<li>此外，Sockness還在（不是給CWC的）私人訊息中表示，自己前往維吉尼亞州的意圖，是充滿侵略性（性意味）的：他對CWC後庭的攻勢，將如同「<b>二戰時盟軍轟炸納粹德國</b>」那般猛烈……<s>編輯者表示媽的我看了三小</s></li></ul></li></ul><ul><li>在Sockness踏上前往維吉尼亞之旅時，一個關鍵變數出現了：
+<ul><li>如前所述，Sockness是使用了自己本人的身分與照片和CWC交流。</li>
+<li>在CWC意識到一個肥滿歐吉桑即將要跑到他家和他OOXX後，使他在Sockness旅途進行到一半時忽然<s>難得</s>智商上線。
+<ul><li>為了從麻煩脫身，CWC緊急發了一條給Sockness的訊息，表示Michiro大神<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup>告訴自己說Sockness已經墮入魔道，不應該跟身為良善女神的CWC見面。</li></ul></li>
+<li>CWC表示自己在這個次元的肉體狀況並不適合客人拜訪；如果Sockness堅持要到CWC住所的話，命運的導向會讓他倆的關係變成勢不兩立的仇敵。就如同CWC與他半兄弟的Cole Smithey一樣。</li>
+<li>於是CWC正式回絕了Sockness的拜訪，並且要求他回加州去；而被打槍的Sockness只好打退堂鼓。</li>
+<li><s>在此恭喜CWC難得使用了<b>正常手段</b>擊退廚魔。</s></li></ul></li></ul><ul><li>Sockness回家後，對自己介入「次元合併」一事宣告失敗，並且表示自己將開始膜拜以恐龍的姿態<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup>降臨於世上的撒旦，讓這位紫色救世主吞噬並摧毀一切。
+<ul><li>Sockness依舊持續的維持著跟CWC的聯繫，甚至在萬聖節接近時向CWC送了一個兩名Cosplayer在接吻的影片，並且表示自己會跟CWC這麼做。</li>
+<li>對此CWC只有淡淡的回應：「或許以後吧」。</li></ul></li>
+<li>但Sockness還是在不久之後再次得到了CWC的信任，成為了CWC Patreon頁面的管理者。
+<ul><li>Sockness利用這個機會，再次重啟了攻略CWC並排除阻礙的計畫。他製作了一個記載著他認定會對CWC「造成不好的影響」的推特民與奇異農們的列表，要求CWC將他們封鎖。</li>
+<li>但CWC發現Sockness列入名單的多半是跟Sockness本人有過節的對象，而非與CWC有害的對象。這件事成了兩人鬧翻的開端。</li>
+<li>而Sockness先前「惡魔崇拜」的行為讓CWC對他的印象大打折扣，並且讓CWC認定接觸Sockness對「次元合併」非但沒有幫助，更有可能讓推遲其之進展。</li>
+<li>於是在2019年的11月底，CWC對Sockness表示：</li></ul></li></ul><pre>「Jacob Sockness，我不想跟你談什麼感情了。」<s>Catie表示：</s>
+</pre>
+<ul><li>被拒絕的Sockness憤怒得給了CWC一道最後通牒：他會收回CWC最近因他的影響而編入自己幻想世界進行創作的Kidazuna的使用權，並且向CWC提出著作權申訴。
+<ul><li>他威脅CWC：<b>想要不讓這事發生，就得和他結為夫妻</b>。</li>
+<li>但這次CWC卻冷靜的對應了Sockness的脅迫：他同意不在自己的作品中使用Sockness的角色與世界<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>。</li>
+<li>同時CWC也表示自己親眼「見到」與「體驗到」的Kidazuna並不包括在他同意不使用的範圍內，因為那是他個人所感受到的世界，著作權是他自己的。</li></ul></li></ul><ul><li>之後，CWC發表了他對Sockness的一點看法：</li></ul><pre><b>「我是按照著Magi-chan的指示才持續與Jacob維持聯繫，但與他之間的感情則是在這幾個月的接觸中發展的。至於現在，我必須停止這段戀愛關係，因為我從一開始就知道這是不可行的，而Jacob對我也已經不再有用處了。」</b>
+</pre>
+<ul><li>CWC與Sockness之間的關係，就在雙方都不再與對方聯繫的沉默之下畫下了句點
+<ul><li>由於Sockness並沒有跟農場有善性的往來，他接觸CWC的動機與他真正的目的至今仍然是個謎。</li></ul></li></ul><pre>本Saga算是少見的CWC自己以<b>正常溝通手段</b>把廚魔給擊退的Saga。<s>讓一群想看CWC被肛的看熱鬧群眾很不開心</s>
+</pre>
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="Prison_Saga">Prison Saga</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=26" title="編輯章節：Prison Saga" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;"><b>慾火中燒的CWC終於做出禁斷之戀<s>並首次惡名遠播到海外</s><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup>的故事</b><br>又命名為Motherfucker Saga<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不用懷疑，名稱就是按照字面意思理解</span><br><s>Idea Guys Saga第四季：人類惡</s>
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<div class="center"><div class="floatnone"><a href="/%E6%AA%94%E6%A1%88:Ctz9qls8nle71.jpg" class="image"><noscript><img alt="Ctz9qls8nle71.jpg" src="/images/e/e4/Ctz9qls8nle71.jpg" width="618" height="116"></noscript><span class="lazy-image-placeholder" style="width: 618px;height: 116px;" data-src="/images/e/e4/Ctz9qls8nle71.jpg" data-alt="Ctz9qls8nle71.jpg" data-width="618" data-height="116"> </span></a></div></div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td><span style="font-size:20px;"><span style="color:#ff0000;background-color:;"><b>由於是此Saga是現時發生中的Saga，部份內容可能會有誤傳或錯誤，一切情報以最後更新為準</b></span></span>
+</td></tr></tbody></table><pre>事發時間：2021年6月27日至今
+</pre>
+<ul><li>CWC在Jacob Saga後又再次視Null為盟友。至於不計前嫌的Null除了答應在芭芭拉過世後協助他料理家事，也給予實質協助：經過CWC同意後在奇異農場販賣肖像並替他博取同情、以及開設委託帳戶「GoFundMe」。
+<ul><li>原本GoFundMe的目標是讓CWC去參加一個位於華盛頓州的小馬展會「Everfree Northwest」，而CWC為了參加活動，如實完成所有委託案。<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup></li>
+<li>當然讓CWC獨自前往遠至美國另一邊華盛頓州並非明智之舉，於是也有lolcow牧人成立了志願協助CWC的組織「Watchmen」，防範他遇到危險<s>主要是指還在對他菊花出手的Sockness</s>以及確保他不會出亂等等。</li>
+<li>另外亦有另一群自稱為「Praetor（執事者）」的善性組織向CWC伸手，讓CWC同意授權後製作索尼丘獎章在網路上販售，使雙方圖利。<s>雖然據說他們分給CWC的利潤是用麥當勞漢堡打發。</s></li></ul></li></ul><pre>然而某天...
+</pre>
+<ul><li>由於芭芭拉年事已高，CWC平常都會幫年邁的母親按摩來促進局部血液循環。</li>
+<li>在2021年6月27日，某次按摩芭芭拉下半身時，有戀母情結又許久沒有跟人有私密接觸的CWC忽然慾火中燒，終於對他<b>母親</b>做出<a href="/%E6%88%90%E5%8F%A5/H%E6%98%AF%E4%B8%8D%E8%A1%8C%E7%9A%84" title="成句/H是不行的">禁斷行為</a>──
+<ul><li>為保障各位閱讀者的身心健康，本文只以關鍵字簡單帶過情況，過程請自行想像：「<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">近親</span>」、「<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">母親X變性女（?）</span>」「<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">指尖</span>」「<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">抗拒</span>」「<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">舌頭</span>」「<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">G點</span>」「<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">摟抱</span>」「<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">靈魂刺激</span>」「<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">三天一次</span>」</li>
+<li>CWC為了測試「女性友人」的忠誠度而在2021年7月30日把上述事情轉告對方<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，還提到「Mr.C直到死都沒發現芭芭拉的G點」</span>。</li>
+<li>事發前日CWC在YouTube點閱了推薦動漫母親角色的影片，可見並非突發。</li></ul></li></ul><ul><li>理所當然，在CWC向「女性友人」表達相關言論之後迅速被放上網路，警察很快就有所察覺，翌日，CWC已被警方突襲拜訪。
+<ul><li>芭芭拉被送往醫院以進行長者照護，而警方也對CWC實施截至同年8月5號的緊急禁止令，內容如下：</li></ul></li></ul><dl><dd><dl><dd><dl><dd>禁止CWC接近甚至聯繫芭芭拉。</dd>
+<dd>禁止CWC接近芭芭拉的所有物及待在被調查的案發地點，也就是他自己家。</dd></dl></dd></dl></dd></dl><ul><li>順帶一提，在維吉尼亞州，他如被法院判決有罪，將按照嚴重性需監禁1至10年不等，或監禁12個月+罰款2500美元。
+<ul><li>然而，維州關於近親相交的條例僅適用於「兒子x母親」或「父親x女兒」等異性情況，如果是同性的情況則是不違法。</li>
+<li>由於CWC自我認知是女人而且已經正式登記，但沒有經過變性手術或賀爾蒙投藥。所以他在法律上應以「男人」還是「女人」的身分被起訴或許成了在近年<a href="/SJW" title="SJW">SJW</a>大鬧性別爭議的環境下，美國未來對所有性別相關法律的判定基準，本案因而變得相當引人注目。</li>
+<li><s>CWC對社會唯一的貢獻，雖然不知日後情形是好是壞</s></li>
+<li>然而沒有<s>也不會有</s>親戚願意收留CWC，身無分文的CWC只能成為街友，睡在自己車裡。</li></ul></li></ul><ul><li>Null了解到情況後，緊急終止CWC的GoFundMe委托，並調動當中原本予CWC緊急之用的資金。但此時Null卻從CWC的電郵中發現了異狀：芭芭拉的銀行帳戶成功轉帳750美元給CWC。
+<ul><li>CWC最初謊稱沒有收取任何金錢，但在Null一番文字加電郵截圖的質問下，最終還是被人贓俱獲：CWC知道芭芭拉的銀行帳戶密碼，並<b>私自將其銀行存款轉到自己戶口</b>以解決「緊急事態」。</li>
+<li>而且CWC還宣稱只要收到Null轉來的款項，他便會將拿走的錢轉回芭芭拉戶口中。</li></ul></li></ul><ul><li>由於禁制令內容「禁止CWC接近芭芭拉的所有物」的「所有物」包含銀行帳戶，所以CWC毫無疑問是觸犯了法律；更別說未經許可下擅自調動別人的銀行帳戶資金本身便是盜竊。
+<ul><li>不出所料，根據Null的報告，CWC為了支付各種費用，不到兩天就把750美元用到只剩下1.33美元。</li></ul></li></ul><ul><li>這次Null對CWC謊話連篇、死性不改的惡行實在感到忍無可忍，怒火中燒下立刻斷絕來往並揚言將CWC偷取母親資金一事通報警察；至於GoFundMe的收入，Null直言「就算燒掉也不會給他（CWC）一分錢」並全數退還給金主，更封鎖了CWC。
+<ul><li>此外，CWC的Patreon被官方砍除，Everfree Northwest的舉辦方也聲明禁止他參加。</li></ul></li></ul><ul><li>Reddit鄉民從車輛<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>推理出CWC在一家位於里奇蒙的二三星級旅館留宿，付款的錢自然也是他從芭芭拉帳戶拿來的。
+<ul><li>當然也有好事的<a href="/%E5%BB%9A" title="廚">廚</a>打爆了旅館櫃檯的電話，甚至敲遍旅館二樓的門。</li></ul></li>
+<li>美國的8月1日<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>傍晚6時，警察逮捕了CWC；根據錄影，被捕的當下他還向警察介紹<s>傳教</s>自己的得意之作索尼丘。</li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a href="/%E6%AA%94%E6%A1%88:Arrestchu.jpeg" class="image"><noscript><img alt="" src="/images/thumb/a/a5/Arrestchu.jpeg/300px-Arrestchu.jpeg" width="300" height="165" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 165px;" data-src="/images/thumb/a/a5/Arrestchu.jpeg/300px-Arrestchu.jpeg" data-alt="" data-width="300" data-height="165" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Arrestchu.jpeg" class="internal" title="放大"></a></div>先生女士們！我們抓到他了！</div></div></div></div>
+<ul><li>警方稍後發表聲明表示其罪名為上述的<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">亂倫罪</span>，並將他拘留在<b>女子監獄</b>，但稍後則更正為<b>男子監獄</b>。</li></ul><ul><li>在最初的審訊，檢察官以「憂慮社區安全和CWC的安全」為由，請求法官不要給予保釋，直到預定於9月16日上午10時的初審。
+<ul><li>其中一個原因是有人跟蹤CWC到旅館並拍下他被逮捕的樣子。</li>
+<li>審訊期間CWC中途打斷檢察官的話，自言「我在網路上很有名喔！」。直到律師叫他不要對法庭說話，除非法庭要求他說，CWC這才停止。</li>
+<li>CWC本來要按照程序發誓並總結他假釋後的行程，他卻要求法庭讓他回去拿個人物品，還表示如果能回去的話他什麼都會做。</li>
+<li>法官告訴CWC，他能否獲得保䆁有兩個考量：是否會再出現在法庭以及社區、被告家屬和「他」本人的安全問題。
+<ul><li>這時CWC打斷法官，說「她。」；而法官表示只是在讀維州法規的相關文件。</li></ul></li>
+<li>辯護律師要求法庭評估CWC的狀況時，CWC一邊跺腳<a href="/%E6%88%90%E5%8F%A5/%E4%BD%A0%E5%9C%A8%E5%A4%A7%E8%81%B2%E4%BB%80%E9%BA%BC%E5%95%A6%EF%BC%81" title="成句/你在大聲什麼啦！">一邊大聲說</a>：「我要回去拿家中的東西！直到拿到我的東西前我不會感到安心！」<s>←可以加個藐視法庭罪嗎法官</s></li></ul></li></ul><p><br></p>
+<ul><li>就在CWC受審訊的同時，奇異農場也正討論另一疑點：</li></ul><p><br></p>
+<pre><b>「到底CWC的對話的內容，是如何跑到網路上的呢？」</b>
+</pre>
+<p><br></p>
+<ul><li>因為就連Null也不知道此事<s>，而且如果Null知道也會罵CWC但還是會幫他私下解決鳥事...大概</s>，也因此大家都好奇到底是誰把事件內容洩漏出去；但在奇異農們在一番搜查後，發現事情並不單純。
+<ul><li>起初大家以為是上面所說的「CWC跟一名女性友人通話後流出」；
+<ul><li>但奇異農們搜查的結果，竟然連農場從來都前所未聞：一個由<b>「那個人」</b>領導，專門用來廚CWC的團體。</li></ul></li></ul></li></ul><ul><li>這個幾乎等於Idea Guys 3.0的團體，比起過去的兩者有著更強的結構性、更加周密的計畫，且意圖更加‥‥令人毛骨悚然。
+<ul><li>過去的Idea Guys想要的是金錢、Teen Troon Squad要的則是笑料，但現今正在被揭露的「這個人」與其黨羽，除了前述兩項，更要設計讓CWC傷害自己甚至是<b>拿下他跟他母親的性命</b>。</li>
+<li>有著周密的組織結構、多重身份的藏鏡人、一批隨時願意自我犧牲的棋子、<a href="/%E8%BF%AA%E4%BA%9E%E6%B3%A2%E7%BE%85" title="迪亞波羅">令人作嘔的邪惡</a>，連身份被揭露都是透過一個被其害死的生命留下的最後<a href="/%E6%B3%A2%E7%B4%8B" title="波紋">波紋</a>。</li>
+<li>就連曾經與農場為敵的某變性人lolcow(註1)，都願意為了揭穿這個邪惡組織而和農場站在同一陣線，將「這個人」的惡行公諸於世。
+<ul><li>以當時推測，「這個人」可能類似過去惡整CWC的人士之混合體，有著強烈的<a href="/S" title="S">施虐慾</a>，而且似乎與軍方或法務團體有關係。</li></ul></li></ul></li>
+<li><s>等等，這是什麼劇場版展開</s></li></ul><p><br></p>
+<ul><li>美國的8月7日淩晨，奇異農場突然斷線到上午11時30分才重新恢復運作。未知是Null自主關站或強制封站，還是農場被DDos攻擊。</li>
+<li>在斷線期間相關討論暫移師至Reddit的CWC版。在該處，奇異農們與網友也開始從錄音檔搜尋...</li></ul><ul><li>在尋找資訊的初期，已知的資訊實在相當有限：除了CWC的資訊是一個叫做「10anon」的帳號流出之外，幾乎沒有任何線索。最初的突破，是某位奇異農得到了10anon帳號的IP資訊...
+<ul><li>這位奇異農發現，這個帳戶的使用者位於北德州...更精確點是位置在德州理工大學（後簡稱TTU）的校園之中。但TTU是個有上千名師生的公立學校，要從其中過濾出一個人雖然不到大海撈針，卻也並非易事。</li></ul></li>
+<li>在搜尋之時，奇異農們在Reddit的TTU版上找到了一個有些可疑的貼文：雖然內容為「我撿到了狗狗」這種完全無害的內容，但是文的內容以及帳戶卻全都被刪除了。</li>
+<li>起疑的奇異農開始翻閱 發現發了這條文的帳戶為CarelessMetal423...而奇異農們更是發現，這帳戶的id正是「Tenthanonymous」---也可被簡稱為10anon！
+<ul><li>發現這個連接點的奇異農馬上著手調查起了此帳戶以及當初被刪除的「撿到狗狗」貼文，並且透過過往紀錄成功地還原了其內容。正是下述的狗狗MAX事件。</li></ul></li></ul><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/%E6%AA%94%E6%A1%88:Max_the_dog.png" class="image"><noscript><img alt="" src="/images/thumb/2/20/Max_the_dog.png/300px-Max_the_dog.png" width="300" height="352" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 352px;" data-src="/images/thumb/2/20/Max_the_dog.png/300px-Max_the_dog.png" data-alt="" data-width="300" data-height="352" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Max_the_dog.png" class="internal" title="放大"></a></div>Max狗狗</div></div></div>
+<ul><li>當時這個po出的文中為了展現被找到的狗狗，有著幾張Max的照片...以及一位女性握著Max的照片！</li>
+<li>因為Max而留下的影像紀錄，成為了將TTU，10anon帳戶，以及那位女性在照片裡出現的這張「臉」給連接了起來的重要關鍵
+<ul><li>在「臉」暴露之後，「那位女性」便警覺了起來，發動了先前敘述過的一系列擾亂作戰，甚至直接上到農場去進行資訊誤導</li></ul></li></ul><p><br></p>
+<pre> ---但這並不足以決定性的阻礙農場一眾那閃爍燃燒的自閉症！
+</pre>
+<p><br></p>
+<ul><li>奇異農們開始追朔CarelessMetal423的其他網路足跡，並發現其過去的貼文中曾經推廣過一位自己的「友人」---Kelly Osborn的Youtube頻道。</li>
+<li>而最重要的是：<b>Kelly Osborn的「聲音」，與流出錄音檔中與CWC對話的「女性朋友」」的聲音幾乎一模一樣</b></li>
+<li>這讓奇異農場對這位Kelly Osborn引起了極大的興趣，並且開始追查起了這個名字。好巧不巧，這個名字正好是其中一個自願以「Watchmen」身份接觸CWC的女性的名稱</li>
+<li>奇異農場調閱了Kelly Osborn與CWC的聯繫，發現其中”Kelly”有提到自己在2020年去參加巴爾的摩魔術方塊展會</li>
+<li>奇異農們馬上大舉開始搜查起了巴爾的摩魔術方塊展會的照片，並且在此展會的參與者大合照之中，找到了臉部特徵與Max照片裡出現的女人吻合的臉！</li>
+<li>這時的奇異農場幾乎確定自己在找的人就是這位Kelly Osborn，這也應該是她的本名。可是奇怪的是，平常善於調度公開文件尋找人身資訊的奇異農們，無法從這個名字找到任何更具體的資訊。</li>
+<li>於是乎奇異農重新展開調查，開始從網路上找到更多關於這個名字，上述帳號，以及照片的資訊...而在將近一天的努力下，他們找到了：就在Reddit的「嗆我」版(r/RoastMe)上！</li>
+<li>這次，奇異農們發現了一個被稱為nobodysbusiness77897的帳號，在Reddit的「嗆我」版上放上了張與先前Max與魔術方塊展會照片裡的人物特徵吻合的女性的自拍照。
+<ul><li>按照「嗆我」版的傳統，任何受批判討罵的人必須在照片中握著一個手寫的「r/嗆我」，好證明這張圖是po主自拍並且是以自己的意願上網討罵的
+<ul><li>這也間接表示，操著此帳戶的人，幾乎就是圖片中的<b>本人</b>無誤。</li></ul></li></ul></li></ul><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/%E6%AA%94%E6%A1%88:ILJ_roastme.png" class="image"><noscript><img alt="" src="/images/thumb/2/2a/ILJ_roastme.png/300px-ILJ_roastme.png" width="300" height="352" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 352px;" data-src="/images/thumb/2/2a/ILJ_roastme.png/300px-ILJ_roastme.png" data-alt="" data-width="300" data-height="352" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:ILJ_roastme.png" class="internal" title="放大"></a></div>某位女性的自拍照</div></div></div>
+<ul><li>眼尖的奇異農從照片中發現，她手上拿著的那個寫著「嗆我」的綠色紙張，似乎能從透光的背面隱約的看到<b>Gator Break Pass- March 6 2019</b> 這兩行字
+<ul><li>Break Pass/Hall Pass 為美國高中以及以下的年級對於防止學生胡亂翹課的管控機制。在有這個機制的學校，上課時間學校的走廊基本上是禁止學生隨便進出的。而這個Break Pass相當於允許學生在讓持有的學生規避此限制的通行證</li></ul></li>
+<li>其後其中一名奇異農察覺了Gator的意義：鱷魚其實是代表一個學校。更具體的說，是一個代表學校的吉祥物。不久後，奇異農們透過吉祥物，發現了吻合這個敘述的學校：<b>Reservoir高中</b></li></ul><pre>知道了通往終點的路的奇異農們，一鼓作氣的開始調閱起了此高中的校友紀錄
+</pre>
+<ul><li>最後，他們從該高中的歷屆畢業生影片中，找到了與上述所有照片中的女人吻合的人物的片段，也從中得知了這人真正的姓名：<b>Isabella Loretta Janke</b></li>
+<li>在得到就讀大學，本人照片，高中母校以及本名之後，取得剩下的資訊對於擅長翻閱公開紀錄的奇異農們而言簡直易如反掌。</li>
+<li>於是乎這個Idea Guys 3.0，就在奇異農場等一干燃燒著黃金自閉精神的志願者們的努力下，被完整揭露並且公諸於世！</li></ul><p><br></p>
+<ul><li>暫時推斷流出CWC錄音的是一位名為Isabella Loretta Janke的女性，又稱為Bella Janke（一般簡稱ILJ）。<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup></li>
+<li>據本人聲稱及網友發現，她是一位20歲德州理工大學(TTU)電腦工程系的同性戀女學生；平日出沒於4ch和Reddit，是典型的那種嘴上看不起現充心底又羨慕嫉妒的魯蛇妹。
+<ul><li><s>和4ch大部份鄉民一樣理所當然</s>有著特殊性癖，特別是獸系、戀糞、蘿莉正太。</li>
+<li>歧視有色人種（黑人為主）和變性者，還認為雙性戀都是博取關注的假貨。</li>
+<li>疑似有虐待動物行為。
+<ul><li>為了各位的身心健康，當中虐待部份請自行反白：<br><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">殺死不下於八隻的倉鼠，其中之一是丟進滾水裡燙死並留下照片。</span><br></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">強迫貓接受糟糕的飲食讓牠肥胖且腸胃不健康到會烙賽，而目的是只為了滿足她對<b>噁爛貓屎</b>的性癖。<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup></span><br></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">透過一個專門放血腥影片和內容的網站結識一些同樣以動物虐待為樂的人分享影片。</span><br></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">曾經拾到一頭棄犬Max來博取網路注意，但不成功便帶回去養。然而收養不到兩年Max得了不下於8種疾病，並且四肢傷口感染，不得不截肢。看著半死不活的Max，她決定把Max拿去安樂死並言道「<b>反正Max早就得肺炎快死了，沒差</b>」。</span><br></li>
+<li>能揪出元兇可以說是因為狗狗MAX，讓大家才能找出她的真正身份。大概所謂天網恢恢，也祝願狗狗MAX在天之靈得到安慰。(編者語)<br></li>
+<li>RIP for Max the doxhound<br></li>
+<li><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a href="/%E6%AA%94%E6%A1%88:RIPMax.jpg" class="image"><noscript><img alt="" src="/images/thumb/f/f1/RIPMax.jpg/300px-RIPMax.jpg" width="300" height="105" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 105px;" data-src="/images/thumb/f/f1/RIPMax.jpg/300px-RIPMax.jpg" data-alt="" data-width="300" data-height="105" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:RIPMax.jpg" class="internal" title="放大"></a></div>祝Max在狗狗天堂能安詳</div></div></div></div></li></ul></li></ul></li>
+<li>違法販賣管制用藥。</li>
+<li>在網路騷擾別人到對方需要心理諮商或是自殺。
+<ul><li>過去她偷拍自己室友及讓她的黨羽跟蹤和騷擾校裡變性者，迫使對方尋求心理諮商，甚至有一度差點走上絕路。而她也曾宣稱自己逼死社團中的變性人同學。
+<ul><li>不過由於這女人撒謊成性，因此部份鄉民對她的說詞有所保留。</li></ul></li>
+<li>有一點可以肯定的是她父親是名服役超過30年的退伍軍人，目前則在PMC工作。繼母則是一名前美國特勤局幹員。可說是出生於相當富裕的家庭。</li></ul></li></ul></li></ul><p><br></p>
+<ul><li>為了滿足自己的施虐慾，她便物色新玩物，而在網絡上極其著名的CWC便成了他的目標。
+<ul><li>她化名Kelly Osborn在CWC相關的群組裡表示自己願意加入Watchmen的行列，確保CWC能夠好好地參加那場小馬展會。在成功滲透後便頻頻向CWC示意友好，也讓CWC<s>再一次</s>認為對方可以信任，甚至願意以社福支票替對方購買一台全新的相機。</li>
+<li>透過連續幾個月聯繫，確定得到CWC的信任，她將CWC邀請到了自己與黨羽的Discord群組「Passione」中。
+<ul><li>在群組內，她和她的黨羽注意到CWC對芭芭拉有不太正常的思想與行為，也非常不滿意別人批判這件事。</li>
+<li>這也是CWC沒有跟Null揭露此事的主因：由於CWC非常不想被算是鄰家大哥哥的Null罵，當自己開始跟芭芭拉做些什麼的時候，CWC對Null撒謊說自己交了個「比自己年長且生過小孩的女友」而沒有澄清這個人是誰<s>，仔細想想如果當時據實以答，Null應該也會氣死並把CWC封鎖</s>。</li></ul></li>
+<li>注意到可以如何下手後，Isabella Loretta Janke和她的黨羽開始附和並且對CWC提出的任何想法表示完全支持的態度，從中鼓勵他透露更多的消息。</li>
+<li>由於獲得鼓勵和支持，很快便成為了CWC最為信任、親近的一群人，超越了Watchmen和Null。</li>
+<li>Isabella Loretta Janke甚至在Passione內部炫耀，自己成功用CWC對自己的信任駭入了他銀行帳戶，從中獲取金錢。</li></ul></li>
+<li>從Passione內部流出信息來判斷，Isabella Loretta Janke目的是獲得CWC的思考及行為的完全掌控。
+<ul><li>他們希望拿到手的「笑料」，是CWC錄製自己拉屎在地上的影片，甚至是CWC拍攝自己跟芭芭拉近親相交的影片。</li>
+<li>最終目的是想要靠著這些內容脅迫CWC來傷害自己與芭芭拉，甚至可以話想看到CWC被逼到自殺。</li></ul></li>
+<li>雖未知幹他娘的錄音影片是否刻意流出，但Isabella Loretta Janke似乎沒預料到會出現目前的情況，正試圖撇清關係。
+<ul><li>ILJ疑似在4Chan、Reddit和 Kiwi Farms等網站進行個人名聲上的損害控制，講述關於她的傳言大多是被抹黑或是被誇大的。
+<ul><li>例如聲言自己影片中的男聲是由男朋友用變聲器說出來，不過似乎一切已經太遲了。</li></ul></li></ul></li></ul><p><br></p>
+<ul><li>由於在奇異農場中在CWC版上討論Isabella Loretta Janke文章的數量實在是太多了，奇異農場決定替她開個專版。
+<ul><li>而開了專版沒多久之後，奇異農場就受到了嚴重的DDoS攻擊而停擺中，據官方推特表示要修理好需要數日時間。</li>
+<li>連帶被影響的還有紀錄CWC相關資訊的CWCki，不過奇異農場官方推特表示CWCki不屬於他們的管理範圍。
+<ul><li>目前兩者已經恢復正常瀏覽，但由於攻擊者不斷試圖針對奇異農場進行DDos攻擊，目前奇異農場要申請新帳號只能被既有的會員邀請。</li></ul></li>
+<li>雖然奇異農場不是第一次受到了DDoS攻擊，但不少奇異農認為這次的攻擊絕對跟Isabella Loretta Janke脫離不了關係。
+<ul><li>因為DDOS攻擊正是在奇異農場剛剛開設ILJ專版時發生的，而且這次的攻擊具有鎖定頻寬的高指定向，精密的程度是過去所有DDoS攻擊無法比擬的，因此嘛……</li></ul></li></ul></li></ul><p><br></p>
+<ul><li>網路上流傳關於ILJ的流言越來越誇張，除了上述確認過的消息，奇異農們等待CWC在9月16日開庭來得到進一步消息...
+<ul><li>然而律師大概是害怕廚從四面八方朝聖，在最後一刻請求把開庭日延後到11月18日，後已取消。</li>
+<li>有人從紐約千里迢迢來到維吉尼亞準備吃爆米花，就這麼白白花了車票錢。</li></ul></li>
+<li>芭芭拉與CWC的座車回到<s>很意外沒有被闖空門的</s>住所，還有人公開向芭芭拉問候的錄影；但在11月傳出車禍後狀況不明。</li>
+<li>這段期間CWC在獄中向null、辯護人以及支持者等發出了至少三封信，聲稱自己在監獄過得不錯外，還說在監獄內冥想過後發現<b>自己是基督</b>...</li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;">來自次元女神兼耶穌基督轉世的，CWC的三封信
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li>第一封信件是CWC寫給Null和他的律師David Heilberg的，提出了自己是耶穌基督的各種說法，其中包括但不限於：
+<ul><li>如果CWC不帶眼鏡並蓄長鬍鬚的話，會和耶穌的畫像十分神似<s>（笑）</s></li>
+<li>CWC對芭芭拉做的「事情」，是為了<b>治療、潔淨、清除芭芭拉過往所有的罪過和遺憾</b>，和耶穌在2000年前對使徒做的是一樣的（不過聖經只説<b>耶穌為門徒洗腳</b><s>，這種鳥事要是真的存在教會肯定會先一步毀滅證據好嗎，不如説你只是胡扯跟捏造聖經故事想把犯行「神聖化」</s>）</li>
+<li>CWC被警方通緝後，由於他被趕出聖殿（老家）而親戚也沒人要接濟，CWC只好從老媽的帳戶中「<ruby>借<rp>（</rp><rt style="font-size:0.5em;">偷</rt><rp>）</rp></ruby>」了650美元應急；原本在他收到來自Patreon的「香油錢」之後就可以還，但Null卻為了<ruby>看戲<rp>（</rp><rt style="font-size:0.5em;">伸張正義</rt><rp>）</rp></ruby>「背叛」了他（以CWC角度而言），並以CWC違反禁制令偷老母的錢為由報警。而CWC還敢把這件事<b>比喻成2000年前耶穌被猶大出賣</b>...</li>
+<li class="mw-empty-elt"></ul></li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="/%E6%AA%94%E6%A1%88:7yxBGazTu6j22BHI24eotq.jpg" class="image"><noscript><img alt="" src="/images/thumb/f/fb/7yxBGazTu6j22BHI24eotq.jpg/400px-7yxBGazTu6j22BHI24eotq.jpg" width="400" height="300" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 400px;height: 300px;" data-src="/images/thumb/f/fb/7yxBGazTu6j22BHI24eotq.jpg/400px-7yxBGazTu6j22BHI24eotq.jpg" data-alt="" data-width="400" data-height="300" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:7yxBGazTu6j22BHI24eotq.jpg" class="internal" title="放大"></a></div>CWC繪製的最後的晚餐（繪於2021年7月22日）<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">由此可見在本Saga爆發前，CWC就已經開始妄想自己是......</span></div></div></div></div>
+<ul><li>第二封信是CWC寫給摯友Kenneth Englehardt的，內容延續前一封信的主題：
+<ul><li>由於CWC自認是耶穌再世，所以認為他現在遭遇的不幸<b>是針對眾多鄉民的一場神聖測試</b>；然而大多數鄉民為了看戲背叛了他，更讓他深陷囹圉中</li>
+<li>CWC表示目前在監獄中除了伙食略差（像雞肉太乾等）<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup>外過得很好，同時請求眾「信徒」供奉香油錢、供品到他的聖殿，好讓芭芭拉能安穩度日並順便抵銷他的房貸。但同時他也警告：<b>任何人若想從聖殿中偷東西，必遭受<s><a href="/%E8%8E%8A%E5%9C%93%E5%A4%A7%E5%B8%AB" title="莊圓大師">謗CWC者死</a></s>神罰<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup></b></li>
+<li>在信的最後，CWC求摯友和信徒們，請求地方政府和美國總統拜登赦免他，好讓他能脫離牢獄並完成「次元革命」的天命。<s>這種等級的災厄果然還是封印起來比較好</s></li></ul></li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:191px;"><a href="/%E6%AA%94%E6%A1%88:OF1ulQyrRsBLlC4cmRDKRi03Tan_lg.jpg" class="image"><noscript><img alt="" src="/images/d/d9/OF1ulQyrRsBLlC4cmRDKRi03Tan_lg.jpg" width="189" height="194" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 189px;height: 194px;" data-src="/images/d/d9/OF1ulQyrRsBLlC4cmRDKRi03Tan_lg.jpg" data-alt="" data-width="189" data-height="194" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:OF1ulQyrRsBLlC4cmRDKRi03Tan_lg.jpg" class="internal" title="放大"></a></div>由CWC繪製的神聖女神十字<s>7歳的小孩都畫得比你好</s></div></div></div></div>
+<ul><li>第三封信是寄給其他鄉民的：
+<ul><li>CWC在信中提到了回教的主神-阿拉，並表示他與阿拉知道有4成的回教徒是____；還誇口說他能拯救包含阿拉在內的眾生，只要你願意敞開心胸，就能被他拯救......
+<ul><li>鄉民猜測可能有回教徒想讓CWC改宗回教，讓他心生不快才做出此發言。</li>
+<li><s>光是自稱耶穌就已經得罪一大票基督徒的CWC，他老家會不會在這封信問世之後慘遭<a href="/%E8%87%AA%E7%88%86" title="自爆">阿拉花瓜</a>呢......</s></li></ul></li></ul></li></ul></td></tr></tbody></table><ul><li>除了上述提到的三封信件也有幾封回應網友的短信流出，<b>甚至其中一些短信也將古蘭經和聖經分別比喻成蓋酷家庭和辛普森家庭</b><s>完了他的小命真的不保了</s>。
+<ul><li>他更在一封信件中魔改了十誡關於性和偶像崇拜的部分內容<s>自嗨</s>。</li></ul></li>
+<li>審判日期一延再延後，2022年2月底CWC被移送至醫療機關<s>也就是說他在獄中度過了四十大壽</s>直至五月，7月28日才再次出庭接受評估。
+<ul><li>移送回監獄後他又發了入獄兩年來的第十三封信，當中除了繼續爆Barb的黑料、持續表明自己是耶穌基督外，更警告收件者不要再為lowcow創建維基專頁。
+<ul><li><s>所以醫護是怎麼判定他回復正常，然後送回監獄的?</s></li></ul></li>
+<li>期間他還寄出數十張鉛筆畫給予Praetor，用以在他們架設的網路商店拍賣。</li></ul></li></ul><pre>歷經一年的監禁與醫療監護，法院終於宣布CWC將在2022年8月接受大審。
+</pre>
+<ul><li>(註1)的額外補充：
+<ul><li>在事件爆發當時，LGBTQ+的成員相當想要把CWC的所作所為禁聲，因為此事件對於他們族群的名聲相當糟糕，於是一邊試圖掩蓋CWC的所做的事情，另一邊在推特上攻擊農場的名聲</li>
+<li>然而，男跨女的變性人Lolcow－Laura Hobbs(網路舊稱Commiedickgurl)注意到這件事，當她深入理解事情之後，發現奇異農們雖然講幹話，但還算是有點良知的網路觀測者</li>
+<li>此外，就算是非善類的奇異農，眼前還有另一位比奇異農更惡劣對待變性者的Isabella Loretta Janke，於是她決定一件事：成為了農場的一員。
+<ul><li>在成為農場一員前，她跟Null聯繫，甚至將自己的資料交給了Null。</li></ul></li>
+<li>透過與農場的合作，Laura詳細討論，彙整串中ILJ的相關資訊並製成影片，<a rel="nofollow" class="external text" href="https://www.youtube.com/c/CommieDGurl/videos">頻道在此</a></li>
+<li>當然，受到了ILJ的Passione等人的言語攻擊，甚至因為與農場合作而被LGBTQ+一些成員視為叛徒，但她更加理解農場存在的理由，並且夥同自己的支持者一同繼續揭發ILJ的惡行
+<ul><li>為此，Laura甚至還特別去聯繫並且採訪了ILJ過去的關係人(前室友，前女友等)，與農場一同將ILJ的惡行惡狀公諸於世</li></ul></li>
+<li><s>真正的讓人敬佩的正義人士，而不是SJW</s></li></ul></li></ul></td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="萌（？）屬性能萌起來才有鬼"></span><span class="mw-headline" id=".E8.90.8C.EF.BC.88.EF.BC.9F.EF.BC.89.E5.B1.AC.E6.80.A7.E8.83.BD.E8.90.8C.E8.B5.B7.E4.BE.86.E6.89.8D.E6.9C.89.E9.AC.BC">萌（？）屬性<s>能萌起來才有鬼</s></span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=27" title="編輯章節：萌（？）屬性能萌起來才有鬼" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a href="/%E5%BB%9A" title="廚">廚</a></li>
+<li>自閉症</li>
+<li><a href="/%E4%B8%AD%E4%BA%8C%E7%97%85" title="中二病">中二病</a></li>
+<li>無職尼特</li>
+<li>胖</li>
+<li><a href="/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="作畫崩壞">作畫崩壞</a></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4" title="砍掉重練">砍掉重練</a>（精神上）</span></li>
+<li>鬧事</li>
+<li><a href="/SJW" title="SJW">SJW</a>（自稱）</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">亂倫</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">神(自稱)</span></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="奇異農場（Kiwi_Farms）"></span><span class="mw-headline" id=".E5.A5.87.E7.95.B0.E8.BE.B2.E5.A0.B4.EF.BC.88Kiwi_Farms.EF.BC.89">奇異農場（Kiwi Farms）</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=28" title="編輯章節：奇異農場（Kiwi Farms）" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="center"><div class="floatnone"><a href="/%E6%AA%94%E6%A1%88:KiwiFarmsLogo.svg.png" class="image"><noscript><img alt="KiwiFarmsLogo.svg.png" src="/images/8/84/KiwiFarmsLogo.svg.png" width="250" height="94"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 94px;" data-src="/images/8/84/KiwiFarmsLogo.svg.png" data-alt="KiwiFarmsLogo.svg.png" data-width="250" data-height="94"> </span></a></div></div>
+<ul><li><a rel="nofollow" class="external text" href="https://kiwifarms.net/">主要據點</a></li>
+<li>一個以專門發掘、記錄各種奇人異事為主的論壇，和知名匿名論壇4chan關係匪淺。
+<ul><li>前身為<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/Encyclopedia_Dramatica?uselang=zh-tw">Encyclopedia Dramatica</a></span>的附設CWC討論版</li>
+<li>使用者通稱為奇異農，而奇異農場的創建者名稱為Null
+<ul><li>農場主的本名為Joshua Conner Moon</li></ul></li>
+<li>最初CWC討論版中有著三派人馬<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup>：<br><b>白騎士</b>（Whiteknight）：希望幫助CWC的人，有時會變成過度護航<br><b>巨魔/廚</b>（Troll）：會去捉弄CWC的人，讓他出醜<br><b>網路鄉民</b>：就是為了看好戲+紀錄發生的事的人，為目前最大宗。</li>
+<li>隨著時間過去，各種值得觀察的奇人異士從網路的各個角落開始嶄頭露面，於是Null將該討論區轉型成奇人異士討論版。</li>
+<li>該討論區之所以會被稱為農場，是因為使用者會把那些產出各種笑料異聞的人士稱為lolcow，意為產出笑料的乳牛。
+<ul><li>但實際上，有不少奇異農本身的行為怪異程度可和lolcow一較高下，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也有奇異農變成lolcow的例子出現過。</span></li></ul></li>
+<li><s>說穿了就是一群以看奇人異事為樂，閒得發慌的傢伙。</s></li>
+<li>現今的奇異農場記載著上百名不同lolcow的資訊，其中有不少人氣可和CWC相抗衡。</li></ul></li></ul><ul><li>在奇異農場有一個規定：<b>奇異農們不能互相起底。唯一的例外是如果其中一方犯下大忌</b>（例如成為惡質廚）
+<ul><li>一旦發生且犯錯的一方不遵守規則或警告，那麼管理者們將會將他的帳戶標上Halal（清真），表示該用戶已經從應該是觀測者的奇異農變成了該被觀測的lolcow（通常會順便起底該用戶）。<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup></li>
+<li>另外還會在每年10月舉辦Halalween（清真節）
+<ul><li>在這時，奇異農場的管理者們會設立專門討論串，用來回顧過去一年來的種種奇聞軼事，<b>特別是討論在各串中言行舉止不當的奇異農們</b>。</li>
+<li>網站裡的眾奇異農會踴躍「提名」那些因為行為不正而被關注的同伴們，並列出他們種種不當行為。</li>
+<li>奇異農們會聚在串裡，由各方提名構成的名單中投票決定哪個（或是哪群）奇異農是活該被「清真（起底）」的對象，接著與管理者們進行資料搜集。</li>
+<li>在搜集足夠證據後，Lolcow板上就會出現這位新lolcow的串；在串頭會出現「清真」旗幟，象徵著這位奇異農近乎必然的腐化。</li></ul></li></ul></li>
+<li>吉祥物為奇異鳥，在二次創作中通常伴隨著奇異果出現。</li></ul><ul><li>曾在2013-14年關閉一陣子，原因是有反農場的人以騷擾為目的，將對於農場的指控寄至Null母親的職場；當時Null為了保障家人的安危暫時關閉了網站，但後來又復出。</li></ul><ul><li>該網站的網域由Cloudflare提供<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>，接到外來抱怨的處理方式為全部交給網域持有者處理（Null本人創立且營運的lolcow llc）
+<ul><li>Null會親自回應這些抱怨，順便把其中比較好笑的email分享出來</li>
+<li>著名案例：紐西蘭警方曾要求Null撤下耶穌城清真寺槍擊案的影片，並且警告Null他會有法律責任<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup>；Null對於紐西蘭官方的態度相當不滿，給出了很嗆的回應。結果導致目前奇異農場在紐西蘭本地被列為官方禁止造訪的違禁網站</li></ul></li>
+<li>2022年9月作為伺服端的Cloudfare更以「對人類造成威脅」為由斷絕對奇異農場的服務，使得論壇無法造訪；百科則在10月21日成功遷移至新伺服器重生。</li></ul><ul><li>雖然被CWC所厭惡，但大概也是唯一一群會在乎CWC安危的觀察者們<s>因為他死了就沒好戲看了</s>。
+<ul><li>有時在CWC遇到越線的惡質廚時，會挺身而出把廚給起底以阻止混亂進一步擴大。</li>
+<li>在Idea Guys Saga後雙方的關係一度轉好，但隨後就被Jacob Sockness給毀掉了……不過很快就又重新開始聯繫。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但在Motherfucker Saga爆發後……</span></li></ul></li></ul><ul><li>在K島上的奇異農則是專指一名向K島上使用者們講CWC故事的島民，常出沒於四格版；是讓CWC的名聲在K島裡聲名大噪的主因。
+<ul><li>而因為這位島民的緣故，出現了一名想效仿前者，自稱<a rel="nofollow" class="external text" href="https://www.plurk.com/internfarmer">見習農</a>的島民<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="索尼丘系列（Sonichu）"></span><span class="mw-headline" id=".E7.B4.A2.E5.B0.BC.E4.B8.98.E7.B3.BB.E5.88.97.EF.BC.88Sonichu.EF.BC.89">索尼丘系列（Sonichu）</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=29" title="編輯章節：索尼丘系列（Sonichu）" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td>本作可能含有大量<b>令人精神不適</b>的劇透，如果不想<b>看到自己（或喜歡的作品）被畫進去<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">或在次元合併中被OC奪舍而消失</span></b>的話請不要繼續看下去。
+</td></tr></tbody></table><ul><li>「索尼丘」是由CWC創作的同人漫畫，漫畫質素差劣而且經常反映著CWC的個人生活狀況。
+<ul><li>在該漫畫中「索尼丘」是<a href="/%E9%9F%B3%E9%80%9F%E5%B0%8F%E5%AD%90%E7%B3%BB%E5%88%97" title="音速小子系列">音速小子系列</a>的索尼克和<a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D" title="神奇寶貝">神奇寶貝</a>系列的皮卡丘的合體出來的種族。
+<ul><li>某日索尼克即將用混沌寶石變身成超級索尼克時，遭到對手Perfect Chaos Monster擊中而與路過的皮卡丘相撞，結果令吸收寶石能量的皮卡丘變身成了索尼丘。</li>
+<li>異變產生的彩虹還使得一位訓練家的雷丘變成女性索尼丘—羅絲丘（Rosechu）。</li>
+<li>之所以會融合是因為學校作業<a href="/%E5%8E%9F%E5%89%B5%E9%A2%A8%E8%A1%8C" title="原創風行">禁止使用版權角色</a>才有這樣的奇想，但通篇索尼丘內容卻往往山寨抄襲別人的版權創作。</li></ul></li>
+<li>CWC對自己創造出的這個形象頗為自豪；製作各種周邊外還用紙黏土作了一個索尼丘徽章當項鍊墜飾，甚至當成<b>自己的力量來源</b><s>精神年齡連小學生都不如</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但曾在不肖人士的教唆與威脅（以CWC莊的事物為人質<s>為什麼要拿這種鬼東西做人質啊</s>）下，一度幹出<b>把索尼丘徽章剪碎再塞進肛門</b>的危險行為</span></li></ul></li></ul></li>
+<li>連載到#16期，但畫風貫徹始終地崩壞。
+<ul><li>因為上述的各種原因，CWC並沒有定期更新索尼丘，在創造索尼丘之後的20年內CWC只確實地完成了15期，而CWC聲稱他在一生中要完成50~100期。但是16話原稿不過畫了三頁就遭到污損還出售了。</li>
+<li>CWC有修過美術相關課程，然而他討厭改變已經學到的東西，使用最便宜的工具(鋼筆/麥克筆)<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup>來完成作品，更從不修改作畫錯誤。
+<ul><li>其在幼年觀看的動畫電影《The Adventures of the American Rabbit》被認為和日後的創作問題有關：與劇情無關的過場人物、鮮明的用色、超自然力量皆在作品中有出現。</li>
+<li>由於他對人體的認識多半來自A片與裸體寫真，因此在性描寫上的作畫崩壞更為嚴重。</li></ul></li>
+<li>他聲稱過自己在作品中使用正版的PhotoShop（實際上是將近20年前的PhotoDeluxe），但據考證大概只有用於修圖。</li>
+<li>他甚至沒有習得正確的握筆姿勢，會戴著健身手套作畫。</li>
+<li>由於CWC本人沒有學習過正確的漫畫分鏡手法，索尼丘的文本經常如同輕小說密密麻麻佔了畫面的絕大篇幅<s>富奸是你</s>。</li></ul></li>
+<li>出場人物異常眾多，往往出一期就會多出十幾個新角色，而且二次元和三次元的人物都有。
+<ul><li>而這些人物高達九成都毫無原創性甚至提及過就沒下落，大多是出自於版權物或是CWC自己喜歡和討厭的東西。</li>
+<li>CWC其實也會臨摹並將臨摹物畫在漫畫中，但是臨摹技術的水準極低，低到看不出臨摹的原型。</li></ul></li>
+<li>雖然是漫畫卻常出現整整一頁被文字敘述填滿的情況<s>我明白了，原來後期富奸是抄CWC的</s>，排版也是槽點不斷，而且受到廚的影響每況愈下。</li>
+<li>號稱全年齡向，<b>性描寫</b>卻是家常便飯。</li>
+<li>分鏡和作畫糟糕（雙重意味）之餘，同時也包含許多正常人難以理解的劇情和內容。
+<ul><li>索尼丘只是名義上的主要角色，漫畫更多描寫的是反映CWC本人情緒和狀況的<a href="/%E7%91%AA%E9%BA%97%E8%98%87%E6%B8%AC%E8%A9%A6" title="瑪麗蘇測試">瑪麗蘇</a>故事。</li>
+<li>其實一開始的時候索尼丘是無可爭議的主角，CWC雖然把自己給畫了進去但也只是個配角而已。
+<ul><li>但CWC逐漸把索尼丘創作當作是他對現實情況的不滿，探索他墮落的性慾，和他對那些騷擾他的巨魔們幻想暴力復仇的出口。</li>
+<li>於是從#4期開始，CWC直接成為了該作的主角，而索尼丘在接下來的故事中大多只是個<a href="/%E6%8E%9B%E7%89%8C%E4%B8%BB%E8%A7%92" title="掛牌主角">掛牌主角</a>。</li></ul></li></ul></li>
+<li>故事的主舞台是名為CWC莊（CWCVile），以他為獨裁者的城鎮。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在他遭到廚的影響而迷信「次元合併」後變成了融合現實和幻想的地方（？？？？）</span></li>
+<li>閱讀索尼丘並了解CWC，無異進入了CWC的個人地獄：CWC莊中沒有歡樂，沒有樂趣——只有一層又一層的恐怖。</li></ul></li>
+<li>2017年，由於Idea Guys的影響<a href="/%E8%B6%85%E6%AC%A1%E5%85%83%E3%82%B2%E3%82%A4%E3%83%A0_%E3%83%8D%E3%83%97%E3%83%86%E3%83%A5%E3%83%BC%E3%83%8C" title="超次元ゲイム ネプテューヌ">CPU女神</a>正式被寫入「索尼丘」系列。<s>地雷社快來聯合玩家們用四女神的力量制裁他啊</s>
+<ul><li><s>而<a rel="nofollow" class="external text" href="https://wiki.komica.org/%E6%AA%94%E6%A1%88:CWC%E8%BD%89%E6%8E%A8%E8%89%A6B%E7%9B%B8%E9%97%9C%E6%B6%88%E6%81%AF.png">就目前他的推特看來</a>可能連<a href="/%E7%A2%A7%E8%97%8D%E8%88%AA%E7%B7%9A" title="碧藍航線">對岸來的艦船們</a>也會迎來被拖下水的一天，所幸現在等不到了</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="二次設定及其他"></span><span class="mw-headline" id=".E4.BA.8C.E6.AC.A1.E8.A8.AD.E5.AE.9A.E5.8F.8A.E5.85.B6.E4.BB.96">二次設定及其他</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=30" title="編輯章節：二次設定及其他" data-section="30" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=31" title="編輯章節：相關連結" data-section="31" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-10 collapsible-block" id="mf-section-10">
+<ul><li><a href="/%E5%BB%9A" title="廚">廚</a></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4" title="砍掉重練">砍掉重練</a></span>
+<ul><li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E5%81%BD%E5%A8%98" title="偽娘">偽娘</a></span></s></li></ul></li>
+<li><s><a href="/%E9%9F%B3%E9%80%9F%E5%B0%8F%E5%AD%90%E7%B3%BB%E5%88%97" title="音速小子系列">音速小子系列</a></s></li>
+<li><s><a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D" title="神奇寶貝">神奇寶貝</a></s></li>
+<li><s><a href="/%E7%9A%AE%E5%8D%A1%E4%B8%98" title="皮卡丘">皮卡丘</a></s></li>
+<li><s><a href="/My_Little_Pony%EF%BC%9AFriendship_is_Magic" class="mw-redirect" title="My Little Pony：Friendship is Magic">My Little Pony：Friendship is Magic</a></s></li>
+<li><s><a href="/%E8%B6%85%E6%AC%A1%E5%85%83%E3%82%B2%E3%82%A4%E3%83%A0_%E3%83%8D%E3%83%97%E3%83%86%E3%83%A5%E3%83%BC%E3%83%8C" title="超次元ゲイム ネプテューヌ">超次元ゲイム ネプテューヌ</a></s></li>
+<li><s><a href="/SJW" title="SJW">SJW</a></s></li>
+<li>在網路上被拿來惡搞的現實人物
+<ul><li><a href="/%E8%8E%8A%E5%9C%93%E5%A4%A7%E5%B8%AB" title="莊圓大師">莊圓大師</a></li>
+<li><a href="/%E7%BE%8E%E6%B1%9F%E7%89%A7%E5%B8%AB" title="美江牧師">美江牧師</a></li>
+<li><a href="/%E5%94%90%E6%BE%A4%E8%B2%B4%E6%B4%8B" title="唐澤貴洋">唐澤貴洋</a></li>
+<li>Syamu-game</li>
+<li>霸主、奧山光一(李龍輝)：台灣接近CWC的案例，前者還有人拿事蹟去K島講述過<s>結果被以為是反串</s></li></ul></li>
+<li><a href="/%E7%8D%B5%E5%A5%87" class="mw-redirect" title="獵奇">獵奇</a></li>
+<li><a rel="nofollow" class="external text" href="https://sonichu.com/cwcki/Main_Page">CWCki</a>
+<ul><li>記載CWC相關資料的百科<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但在CWC亂倫事件爆發後因為人流過大而一度斷訊</span></li></ul></li>
+<li><a rel="nofollow" class="external text" href="https://youtu.be/5IPtLvxO8hs">YouTube上的懶人包（截至2016年）</a>
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm">紀錄片形式的深入分析</a>
+<ul><li>該紀錄片作者Geno Samuel（本職為音樂家/YouTuber）坦言因為長期製作CWC紀錄片，對他的身心靈造成相當影響，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在Motherfucker Saga爆發後直接停更到2022年2月。</span></li>
+<li>名氣大到參訪的CWC本人表示自己看了紀錄片才得知被捉弄的情況。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/images/6/66/1627796916346.jpg" class="internal" title="1627796916346.jpg">Geno看到CWC亂倫後的表情：</a></span></li></ul></li></ul></li>
+<li><a rel="nofollow" class="external text" href="https://www.reddit.com/r/ChrisChanSonichu/">Reddit專版</a></li></ul><h3 class="in-block"><span id="Komica相關討論（CWC奇聞逸事串）其實這才是本條目的本體"></span><span class="mw-headline" id="Komica.E7.9B.B8.E9.97.9C.E8.A8.8E.E8.AB.96.EF.BC.88CWC.E5.A5.87.E8.81.9E.E9.80.B8.E4.BA.8B.E4.B8.B2.EF.BC.89.E5.85.B6.E5.AF.A6.E9.80.99.E6.89.8D.E6.98.AF.E6.9C.AC.E6.A2.9D.E7.9B.AE.E7.9A.84.E6.9C.AC.E9.AB.94">Komica相關討論（CWC奇聞逸事串）<s>其實這才是本條目的本體</s></span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=32" title="編輯章節：Komica相關討論（CWC奇聞逸事串）其實這才是本條目的本體" data-section="32" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<pre> <s>本條目的各式Saga都是取自這些串再做修改而成，十分推薦直接看這邊</s>
+</pre>
+<ul><li><a rel="nofollow" class="external text" href="https://drive.google.com/file/d/1Tdm_SQJxv78_cbdblfoFkYyCTj1PymJM/view">Part0（網頁備份）</a></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/49046">Part1（被網路深淵所選上的人們）</a>
+<ul><li>原本只是<a href="/%E5%BA%AB%E5%B7%B4%E5%85%AC%E4%B8%BB" title="庫巴公主">庫巴公主</a>的相關討論，直到有人開始講解音速小子粉絲圈的黑暗面……</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/49223">Part2</a>
+<ul><li>Idea Guy Saga；BlueSpike Saga；Clyde Cash相關瑣事</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/49701">Part3</a>
+<ul><li>BlueSpike Saga；GamePlace Saga</li>
+<li>EXTRA：「邊緣禁地：德州日常」；東尼老虎門；「西亞˙李畢福的搶旗大戰:一到七季」</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/49937">Part4</a>
+<ul><li>GAMe PLACe Saga；Catherine Saga</li>
+<li>EXTRA:<a rel="nofollow" class="external text" href="http://komicolle.org/c/35624">奇異農在別的串打的搶旗事件紀錄</a>；
+<ul><li>Mark Fischbach(苦命好人。一位人生坎坷，被打擊也會不斷重新站起來的、堅強的人，是位暖心的youtuber)</li></ul></li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/51088">Part5</a>
+<ul><li>Sonic Boom Saga；Asperchu Saga</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/73633">Part6</a>
+<ul><li>EXTRA：紫色阿奇的傳說；一個肥肥機會（錢思傳奇）；迪蘭奴隸島（有體像障礙的迪蘭大師與他的小狗）</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/84817">Part7</a>
+<ul><li>Asperchu Saga</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/95760">Part8</a>
+<ul><li>META Saga
+<ul><li>(CWC的腦內幻想世界對他本人已經是確實存在的另一個平行宇宙，CWC抱持著該宇宙會跟現實地球次元合併的信仰)；</li></ul></li>
+<li>TTS Saga；</li>
+<li>Financhu Crisis
+<ul><li>(財務丘危機，被認為是加重CWC對腦內世界妄想和次元合併妄想的背景因素)</li></ul></li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/98838">Part9</a>
+<ul><li>META Saga；Jacob Saga
+<ul><li><a rel="nofollow" class="external text" href="http://komicolle.org/c/103816">Part9.5</a></li></ul></li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/104809">Part10</a>
+<ul><li>Jacob Saga；CWC各時代簡介；Clyde Cash與他愉快的夥伴們</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/127630">Part11</a>
+<ul><li>Jackie Saga</li>
+<li>EXTRA:JustinRPG</li></ul></li>
+<li><a rel="nofollow" class="external text" href="https://komicolle.org/c/160502">Part12</a>
+<ul><li>Jackie Saga；MF(暫) Saga</li>
+<li>EXTRA：地毯樣本毛毛裝男；Panperchu；Buck Breaking；<a href="/%E7%A5%9E%E8%87%8D%E5%B0%8F%E6%8D%B2%E6%AF%9B#.E5.85.B6.E4.BB.96.E8.BB.BC.E4.BA.8B" title="神臍小捲毛">Steven Universe Sabotage</a><s>簡稱<a href="/Among_Us" title="Among Us">SUS</a></s></li></ul></li>
+<li>以下全為MF Saga後續及討論</li>
+<li><a rel="nofollow" class="external text" href="https://komicolle.org/c/160917">Part13</a></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/161476">Part14</a>
+<ul><li><a rel="nofollow" class="external text" href="https://imgur.com/a/rPn1GF7">Part14.5(EXTRA)</a>
+<ul><li>與CWC無關的獸控事件Zoosadist案(原串為四格重口味串，因充滿各種R18G奇怪性癖圖故不貼上原串備份)</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/184886">Part15</a>
+<ul><li>現況小總結+EXTRA：彌爾納阿姨的派對起司沙拉</li></ul></li></ul></li></ul><h3 class="in-block"><span id="見習農相關串整理"></span><span class="mw-headline" id=".E8.A6.8B.E7.BF.92.E8.BE.B2.E7.9B.B8.E9.97.9C.E4.B8.B2.E6.95.B4.E7.90.86">見習農相關串整理</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=33" title="編輯章節：見習農相關串整理" data-section="33" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://komicolle.org/c/107861">刺子</a></li>
+<li>阿飛米德（<a rel="nofollow" class="external text" href="https://komicolle.org/c/133067">Part1</a> <a rel="nofollow" class="external text" href="http://komicolle.org/c/141858">Part2</a>，見習農的<s>真愛</s>重點關注對象）</li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/138292">汰荒唐</a></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/143241">Sexy Vegan</a></li>
+<li><a rel="nofollow" class="external text" href="https://komicolle.org/c/149626">Nikocado</a></li>
+<li><a rel="nofollow" class="external text" href="https://komicolle.org/c/150630">圖奇婊子</a></li>
+<li><a rel="nofollow" class="external text" href="https://komicolle.org/c/153222">LYS</a></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/154400">祐燒</a></li>
+<li><a rel="nofollow" class="external text" href="https://komicolle.org/c/156239">伊恩瓊斯</a>（詳見<a href="/Pin2D%E5%8B%9E%E9%BC%A0%E7%B9%AA%E4%BA%8B%E4%BB%B6" title="Pin2D勞鼠繪事件">Pin2D勞鼠繪事件</a>）</li>
+<li><a href="/TRPG%E5%BB%9A" title="TRPG廚">TRPG廚</a>（見習農說書版<a rel="nofollow" class="external text" href="http://komicolle.org/c/158338">見此</a>）</li>
+<li><a rel="nofollow" class="external text" href="https://komicolle.org/c/159525">Oli London</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.plurk.com/p/oij1ex">霸凌獵手</a>(已刪串)</li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/163872">過敏奶瓶</a><s><a href="/%E8%99%9B%E6%93%ACYoutuber" class="mw-redirect" title="虛擬Youtuber">鳥羽樂奈</a></s></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/173952">吳某與他的雞巴人傳說</a></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/174325">5CN與她的Niceboat</a></li>
+<li><a rel="nofollow" class="external text" href="http://komicolle.org/c/183219">某甲與他的巧克力冒險工廠</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(11)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=34" title="編輯章節：回應" data-section="34" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-11 collapsible-block" id="mf-section-11">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:CWC" title="討論:CWC">討論:CWC</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(12)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=CWC&amp;action=edit&amp;section=35" title="編輯章節：備註" data-section="35" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-12 collapsible-block" id="mf-section-12">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">（自稱）<a href="/%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4" title="砍掉重練">砍掉重練</a>後使用的名字</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">2021年<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">入獄後</span>在信件上的署名</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://sonichu.com/w/images/9/94/SchuComicSP3P5.jpg">圖片連結（慎入）</a><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，該漫畫其中一格是在Ivy的要求之下，CWC將自己的「彎鴨」放在漫畫紙上，用筆描出輪廓之後再上色繪製出來的；此漫畫也因此被奇異農們暱稱為「巨屌漫畫（Giant Penis Comic）」</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://sonichu.com/cwcki/Nudes">CWCki相關頁面</a>，請自行按下Gallery of horrors欄位下的Expand，後果自負。</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">奇異農給她的代號是Mia Hamm（跟著名女性足球員撞名），是單親母親兼一小時$150的黑髮鐘點女郎，宣稱有一部分的切羅基血統。被奇異農稱為「Working Cherokian Lady」。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">利用免疫系統的運作原理，在接受者體內注入類似/弱化異物（抗原），而引發免疫反應（產生抗體）：以便於日後較具毒力的相似物質侵入體內時，能夠回憶起類似的狀況並加快對付病原的反應。</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Monthly Tugboat，本人對於每月大約千元的救濟金的稱呼。</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">他時常遊玩PS3的《ModNations》以及《小小大星球》，主要是拿來製作自己和其他角色的模組用的。</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">不過據買家表示，除了運送用的外盒保存狀況意外地良好</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">有一說是因為鮑伯要結婚時年紀過大找不到其他適合對象。</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">但在嫁給鮑伯時芭芭拉體型還算正常，到底……</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">二人相差14年</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">當年CWC慘敗後還仇視比賽冠軍（稱對方為「擋雞雞男/Cockblocker」），想讓自己的粉絲去霸凌對方，還發死亡威脅影片<s>但對方過了整年才得知此事</s></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">一家在FB上市之前，最早期的社群網站</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">據聞Clyde Cash的弟弟Ryan Cash因CWC宣佈停載Sonichu而自殺<s>想想也知假的</s>，Clyde自此立誓要替弟弟復仇<s>，從CWC的漫畫所見其形像有點像某<a href="/%E4%B8%80%E6%8B%B3%E8%B6%85%E4%BA%BA" title="一拳超人">禿頭披風俠</a></s></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">自閉症與亞斯伯格症都同屬於自閉症譜系的精神障礙，有許多雷同的症狀（重複行為、社交障礙、極度侷限的興趣、語言發展遲緩等）。而高功能自閉症者（智能中高的自閉症者）與亞斯伯格症者在症狀上幾乎無法分辨。</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">曾有人問過CWC他認為自己有幾名粉絲，他的回應為「少說十億人」</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">此時的CWC會在索尼丘漫畫中有裸露的故事橋段上打上馬賽克，因為這樣才是全年齡向<s>，但為甚麼全年齡向的故事中可以出現裸露，暴力以及性相關內容啊？</s></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">主要原因為他們在亞斯伯百科中編寫了許多與索尼丘本篇「衝突」的條目，如索尼丘是隱性基佬之類的東西</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">一隻紫色的索尼丘，有著<a href="/%E3%81%94%E9%83%BD%E5%90%88%E4%B8%BB%E7%BE%A9" class="mw-redirect" title="ご都合主義">念力、讀心、傳送</a>等各種CWC想要他有甚麼能力就有甚麼能力的<a href="/%E7%91%AA%E9%BA%97%E8%98%87%E6%B8%AC%E8%A9%A6" title="瑪麗蘇測試">瑪麗蘇角色</a>之一，目前為CWC推特上替自己護航的身份/CWC的丈夫之一。</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實「Lars散播Jackie裸照」這個細節是有戰略意義的：透過先釋出這消息給CWC，就能讓他認為在網路上找到那些跟「Jackie裸照」一模一樣的色情照是Lar流出的照片被其他人移花接木而非反過來</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">連該Saga中出現的勁敵Collin幾乎就只是一個比較不瘋狂的Lars翻版</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">不知為什麼，CWC在約會網站說他想要的交往模式是「開放式關係」<s>，大概他不知道那是什麼意思</s></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">例：把所有的Sonic Boom索尼克玩偶放到後排，用其他玩具擋在前排，防止消費者看到該產品。</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">公共危險罪的分支</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">這時他已自認為是一名「男性蕾絲邊」</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">出自彩虹小馬中Rarity的口癖</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">由於CWC是威探闖通關的粉絲，且對CWCville的存在深信不疑，CWC認為所有幻想世界都是真實存在的，即使他是其創作者，不在他控制內的事情還是會發生的（就像現實世界一樣）。</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text">由於CWC深信奇幻世界存在，真的以為自己正在跟貨真價實的CPU女神講話，而且相信身在其他次元的CPU女神比在現實的自己更清楚CWCville的真實情況。</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">這個「婚姻」包含的角色有Magi-chan Sonichu（CWC的全能自創角；紫色的索尼丘）、Cryzel Rosechu（粉紅色的Rosechu：由Idea Guys創造的未成年Rosechu，目的是要讓跟其發生關係的CWC背上戀童癖罪名，但不知為何CWC接受了這個設定）、Sylvana Rosechu（之前Idea Guy Saga中被綁架的那隻），以及<b>超夢</b>。</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">CWC在這段婚姻的定義中是女性，他稱Magi-chan與超夢為自己的老公，並會在推特上表示老公們對一些事情的看法。而就關係上而言，Magi-chan是Cryzel（未成年）的丈夫，Sylvana是超夢的妻子，然後超夢是Magi-chan的男人（？），而CWC與他們全都有關係（？？），但主要是跟超夢與Magi-chan有夫妻關係（？？？）。</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text">在不久之前，CWC從推特上聯繫Seanan McGuire（漫威漫畫作家之一），並且從那裡得知了（漫威漫畫世界觀中）現實世界的次元編號---次元（地球）1218。雖然Seanan強調那只是漫威漫畫世界中的編號，但一直相信有著一切創作物都真實存在的其他次元的CWC，<s>正常發揮</s>把這話當作了神諭。</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text">舉例而言，TTS之中的一人在推特中批判，CWC會時不時的表現過於親暱<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，像是對著未成年的TTS成員們親吻，擁抱，磨蹭等等，簡直像是個強暴犯似的。其他批判還包括聲稱CWC聞起來噁心的像貓尿，或是CWC向他們坦承自己想幹自己的母親芭芭拉等等。</span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=EJykA2XTmbc">其中一段影片是CWC發神經的對馬桶大吼</a></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text">又稱Magiquone，戰機少女中的敵對勢力</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">崇拜bluespike跟Idea Guys並且想讓CWC出醜的惡質廚</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text">DC宇宙中的性侵犯英雄</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">根據CWC在Bluespike Saga中向Julie透露的內容，他曾經買過一串剛剛珠給自己使用過；不過在頭一次使用之後發現此串珠子沾滿了自己的糞便，讓他十分噁心並馬上將其丟棄。而CWC在過去透露過自己曾經發生過幾次糞便失禁；還因為偷偷將因此被弄髒的內褲丟進洗衣桶中，受到了家人的責難。有人認為他的脱糞問題是因為其糟糕的飲食習慣導致。此外這件事是他自己在<b>沒人問他</b>的情況下向廚們透露的。</span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text">這件事發生時間跟「玩家女孩的洗澡水」事件上差不多</span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text">Sockness幻想世界Kidazuna中的神明</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text">指紫色小恐龍巴尼，一個幼兒向教育節目的<s>痴漢臉</s>主角。</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text">雖然這時CWC已經很長一段時間沒有認真畫漫畫了，幾乎沒使用這些內容。</span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text">此事有遭到蘋果日報報導</span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text">非正式名稱，為較多人使用的名稱之一。CWCki記載為Prison Saga。</span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text">另一件難得如實兌現的承諾是2013年的檸檬汁義賣，許多過往的廚像是Clyde Cash都有響應並給予稱讚。</span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text">他時常駕駛芭芭拉的Dodge Caravan活動<s>而且總是沒能在無障礙車位停好</s>。該車的車牌「SONICHU」其後兩面都在CWC被捕後遭竊，後來補回。</span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text">該日正好就是國際女朋友日，也是Doopie Saga轉折發生之日（Doopie回CWC「你根本就不認識我」）的週年紀念</span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><a href="#cite_ref-48">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">順帶一提，下述Janke家族的的Mike Janke和CloudFare的創辦人有過會晤，所以有可能農場的DDos攻擊事件是由...</span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><a href="#cite_ref-49">↑</a></span> <span class="reference-text">據本人所言，越噁爛越好。</span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><a href="#cite_ref-50">↑</a></span> <span class="reference-text">而後他提及被禁止使用休息空間與打籃球<s>，當然原因不好說</s></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><a href="#cite_ref-51">↑</a></span> <span class="reference-text">結果後來真的有鄉民跑到他老家錄下芭芭拉的談話，並放上奇異農場</span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><a href="#cite_ref-52">↑</a></span> <span class="reference-text">
+現今農場的大部分使用者對於lolcow的態度，依舊以觀察/紀錄/不干涉的立場為主（包含Null在內）。也因此無論是白騎士或是廚都是不太被歡迎的，Idea Guys便是惡質廚的一例。</span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><a href="#cite_ref-53">↑</a></span> <span class="reference-text">由於奇異農場是用於觀測及記錄的網站，用戶們在找資料起底人方面的能力頗強。</span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><a href="#cite_ref-54">↑</a></span> <span class="reference-text">Cloudflare同時也是4chan的網域提供者</span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><a href="#cite_ref-55">↑</a></span> <span class="reference-text">但實際上Null本人和奇異農場網站都位在美國，紐西蘭的法律根本拿他沒辦法</span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><a href="#cite_ref-56">↑</a></span> <span class="reference-text">最初主攻方向是以台灣當地奇人軼事為主，近期不時介紹國外較有名的lolcow的事蹟</span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><a href="#cite_ref-57">↑</a></span> <span class="reference-text">後來有入手一台用於電繪的iPad，但CWC嫌電繪難用，直至停止創作前都沒有正式啟用</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=CWC&amp;oldid=416861">https://wiki.komica.org/index.php?title=CWC&amp;oldid=416861</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/CWC"
+				data-user-name="Pixis"
+				data-user-gender="unknown"
+				data-timestamp="1666550076">
+				最後編輯於 2022年10月24日 (週一) 02:34
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=CWC&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.448","walltime":"0.884","ppvisitednodes":{"value":3141,"limit":1000000},"ppgeneratednodes":{"value":7688,"limit":1000000},"postexpandincludesize":{"value":53432,"limit":2097152},"templateargumentsize":{"value":18669,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":22440,"limit":5000000},"timingprofile":["100.00%  242.737      1 -total"," 28.04%   68.071    139 模板:Censored"," 10.43%   25.317      1 模板:H0","  8.61%   20.890     23 模板:Collapse_top","  5.36%   13.007      5 模板:Ref","  3.47%    8.427      4 模板:Size","  2.63%    6.379      2 模板:Youtube","  2.13%    5.171      6 模板:Wp","  1.62%    3.933      2 模板:Ruby","  1.54%    3.727      1 模板:Pcomment"]},"cachereport":{"timestamp":"20221025124331","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":545});});</script>		</body>
+		</html>
+		

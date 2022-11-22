@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>黑歷史 (見仁見智的) - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"黑歷史_(見仁見智的)","wgTitle":"黑歷史 (見仁見智的)","wgCurRevisionId":420940,"wgRevisionId":420940,"wgArticleId":43945,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"黑歷史_(見仁見智的)","wgRelevantArticleId":43945,"wgRequestId":"5d76e9db795b3f04b3c0cba4","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E9%BB%91%E6%AD%B7%E5%8F%B2+%28%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84%29\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E9%BB%91%E6%AD%B7%E5%8F%B2+%28%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84%29","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-黑歷史_見仁見智的 rootpage-黑歷史_見仁見智的 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E9%BB%91%E6%AD%B7%E5%8F%B2+%28%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84%29" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">黑歷史 (見仁見智的)</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td>此為<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a>主條目施工中的分支頁面，請不懼怕黑歷史的島民支援資料整頓新增。
+</td></tr><tr><td><span style="color:red;background-color:;">因為很重要，所以要說Ｎ次：本條目所記載的黑歷史<b>見仁見智</b>，若有持反對意見的島民也歡迎參與留言討論，<b>但請勿引發編輯戰</b>以免造成編輯管制。</span>
+</td></tr></tbody></table><ul><li>收錄條件：
+<ul><li><b>因為當地特有狀況（例如日本的自肅停播</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><b>）造成的黑歷史。</b>
+<ul><li>被分到此類型的黑歷史一般來說：
+<ul><li>為「初出國家限定」，海外版本就不會有相同黑歷史發生
+<ul><li>也有相反的情況，作品為了配合海外文化而進行內容變更。但這個類型的改動是否會被視為黑歷史可能要視作品而定。</li>
+<li>例如寶可夢因為人種歧視問題修正了寶可夢的設定、甚至停播集數，有被視為黑歷史；但航海王早年的海外版將涉及抽菸、武器、見血、露出度偏高等畫面全部修掉卻沒有被講話。</li></ul></li>
+<li>會透過更新（例如DVD作畫修正/發佈更新檔……等等）而消弭</li>
+<li>但<b>也有因為太知名而傳到海外，然後被視為真黑歷史</b>的狀況，這方面原則上已足以移至<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A2%AB%E5%A4%A7%E7%9C%BE%E6%89%80%E6%89%BF%E8%AA%8D%E7%9A%84)" title="黑歷史 (被大眾所承認的)">「被大眾所承認的」</a>。</li></ul></li>
+<li>總之就是<b>「當有人提到那件事是黑歷史的時候，他人會覺得『好像作品剛出來時有這回事』」</b>的感覺。</li></ul></li>
+<li><b>雖說是黑歷史，但認同情況變得複雜的狀況</b>
+<ul><li>可能是認同其為黑歷史者較為少眾（甚至僅編者認為）的狀況；也有可能是正反兩造之間發生了意見分歧，甚至因此引發編輯戰的狀況。</li>
+<li>總之就是<b>「對（編者）來說那件事是黑歷史，但持反對意見（甚至認為該黑歷史不值一提）的也有一定多數」</b>的狀況，請先加進此區域。</li>
+<li>各家編者可透過留言討論功能讓這方面的黑歷史接受檢驗，適者生存、不適者淘汰或封存。
+<ul><li>若真要淘汰，也並非整段刪除，而是把要淘汰的部分放進討論頁面中，以免不知情者又再補一次。</li></ul></li>
+<li><s><b>讓黑歷史條目必須進行拆分的最主要因素</b></s>
+<ul><li>畢竟因此被單方面套上黑歷史標籤的作品越來越多，若不進行拆分作業去蕪存菁，黑歷史便會龍蛇混雜<s>，最後自己成為黑歷史</s></li></ul></li></ul></li></ul></li></ul>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="區域限定的黑歷史"></span><span class="mw-headline" id=".E5.8D.80.E5.9F.9F.E9.99.90.E5.AE.9A.E7.9A.84.E9.BB.91.E6.AD.B7.E5.8F.B2">區域限定的黑歷史</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=1" title="編輯章節：區域限定的黑歷史" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<h2 class="in-block"><span id="日本自肅"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E8.87.AA.E8.82.85">日本自肅</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=2" title="編輯章節：日本自肅" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2>
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品</th>
+<th>自肅理由
+</th></tr><tr><td><a href="/%E6%9A%97%E6%AE%BA%E6%95%99%E5%AE%A4" title="暗殺教室">暗殺教室</a>
+</td>
+<td>第三話涉及細節和<a href="/ISIS%E5%A8%98" title="ISIS娘">ISIS</a>綁架日本人質事件正好不謀而合，推遲播放。
+</td></tr><tr><td><a href="/%E9%A9%9A%E7%88%86%E5%8D%B1%E6%A9%9F" title="驚爆危機">驚爆危機</a>（第一部）
+</td>
+<td>受911事件影響而推遲播放。
+</td></tr><tr><td>驚爆危機（校園篇）
+</td>
+<td><a href="/%E7%9B%B8%E8%89%AF%E5%AE%97%E4%BB%8B" title="相良宗介">相良宗介</a>綁架別人弟弟救援<a href="/%E5%8D%83%E9%B3%A5%E8%A6%81" title="千鳥要">千鳥要</a>的回數首播因日本綁架少年案而砍掉，DVD和重播才補回。
+</td></tr><tr><td>炎炎消防隊
+</td>
+<td>播出期間發生了<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%8B%95%E7%95%AB%E7%B8%B1%E7%81%AB%E6%A1%88?uselang=zh-tw">京阿尼縱火事件</a></span>，而遭到延遲撥出，間接導致動畫銷量暴死。<s>至於金主怎麼又投資二期就(ry</s>
+</td></tr><tr><td><a href="/%E6%9A%AE%E8%9F%AC%E6%82%B2%E9%B3%B4%E6%99%82" title="暮蟬悲鳴時">暮蟬悲鳴時</a>解
+</td>
+<td rowspan="2">受京都少女殺父事件影響，推遲播放。<br>後者成為了<b><a href="/Nice_Boat" title="Nice Boat">Nice Boat</a>.</b>的出處。
+</td></tr><tr><td><a href="/School_Days" title="School Days">School Days</a>
+</td></tr><tr><td><a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%BE%E3%81%A9%E3%81%8B%E2%98%86%E3%83%9E%E3%82%AE%E3%82%AB" title="魔法少女まどか☆マギカ">魔法少女まどか☆マギカ</a>
+</td>
+<td>受311影響而推遲播放。
+</td></tr><tr><td>舞-乙HiME
+</td>
+<td>當時發生了「北海道・東京連環少女監禁事件」。<br>受此影響，該作的原標題「舞☆MAiD（まいすたーめいど）」以及原設定的內容都大改。
+</td></tr><tr><td>我被綁架到貴族女校當「庶民樣本」
+</td>
+<td>宣布動畫化時剛好發生了ISIS綁架日本人質事件，原標題有關綁架的字眼改成「被抓」。
+</td></tr><tr><td><a href="/%E5%81%B5%E6%8E%A2%E6%AD%8C%E5%8A%87_%E5%B0%91%E5%A5%B3%E7%A6%8F%E7%88%BE%E6%91%A9%E6%96%AF" title="偵探歌劇 少女福爾摩斯">偵探歌劇 少女福爾摩斯</a> TD
+</td>
+<td>第五話播出前剛好發生了ISIS綁架日本人質事件<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>，推遲播放。
+</td></tr><tr><td>頂點!!!!!!!!!!!!!!!
+</td>
+<td>第二話預告涉及<a href="/%E5%A4%A7%E7%B8%BD%E7%B5%B1" title="大總統">大統領</a>暗殺計畫正好與日本前首相安倍晉三遇刺事件不謀而合，首播時段砍掉改重播第一話。<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><s>至於會不會在DVD/BD和重播才補回，天知道</s>←2022/8/22<a rel="nofollow" class="external text" href="https://teppen-anime.com/news/2022/0822/25/">宣布</a>9月10日第二話重新首播預定!
+</td></tr><tr><td>絕體絕命都市系列
+</td>
+<td>因為題材是劫後餘生（尤其是和日本常見的地震有關）而經常受到避嫌天災和成品質素要再度改良的雙重延期夾擊。
+</td></tr></tbody></table><h2 class="in-block"><span id="分類B"></span><span class="mw-headline" id=".E5.88.86.E9.A1.9EB">分類B</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=3" title="編輯章節：分類B" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2>
+<p>內容待搬運
+</p>
+</div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="需要商議的黑歷史"></span><span class="mw-headline" id=".E9.9C.80.E8.A6.81.E5.95.86.E8.AD.B0.E7.9A.84.E9.BB.91.E6.AD.B7.E5.8F.B2">需要商議的黑歷史</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=4" title="編輯章節：需要商議的黑歷史" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h2 class="in-block"><span id="動畫"></span><span class="mw-headline" id=".E5.8B.95.E7.95.AB">動畫</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=5" title="編輯章節：動畫" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2>
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品</th>
+<th>特定版本</th>
+<th>因素</th>
+<th>黑歷史緣由</th>
+<th>見仁見智緣由
+</th></tr><tr><td><a href="/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BCXenoglossia" title="アイドルマスターXenoglossia">アイドルマスターXenoglossia</a>
+</td>
+<td>日本初出播映
+</td>
+<td>設定出入
+</td>
+<td>由於包括聲優在內的設定大幅變更，加上劇情與<a href="/THE_IDOLM@STER" title="THE IDOLM@STER">原作</a>完全無關，官方定調首部動畫作品為2011年的作品而非本作。
+</td>
+<td>有不少觀眾認為把本作當成架空戰記系作品/和本家分開來看的話還算可以<s>，只是黑歷史派依然佔多數</s>
+</td></tr><tr><td><a href="/LoveLive!_Sunshine!!" title="LoveLive! Sunshine!!">LoveLive! Sunshine!!</a>
+</td>
+<td>第一季13話
+</td>
+<td>意識流演出、放送事故
+</td>
+<td>LL大會預賽硬插一個總集編舞台劇才開始LIVE，然後突然跳到結語<a href="/%E7%88%9B%E5%B0%BE" title="爛尾">爛尾</a>，毫無意外地在NicoNico創下系列最差的單回好評率（39.2%）
+</td>
+<td>扣掉最後的意識流演出前半段的節奏都算流暢；另外Aqours的1st LIVE有對上前述的舞台劇，因此反倒被部分粉絲視為加分點
+</td></tr><tr><td>RE:CREATORS
+</td>
+<td>TV版（日本初出播映）
+</td>
+<td>劇情、設定
+</td>
+<td>似乎製作群眼高手低的關係，劇情和設定上節奏拖沓、對話過多、戰鬥過少、衝突薄弱、故事劇情和人物刻畫缺乏說服力，且漏洞百出等多如牛毛的毛病，讓這部作品受到了褒貶不一的評價。
+</td>
+<td>以眾多二次元角色反穿越現實世界為主題，集結廣江禮威、青木英、澤野弘之等大人物攜手製作，整體而言應該是值得一看的神作。
+</td></tr><tr><td><a href="/%E5%AE%B6%E5%BA%AD%E6%95%99%E5%B8%AB%E3%83%92%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3REBORN!" title="家庭教師ヒットマンREBORN!">家庭教師HITMAN REBORN!</a>
+</td>
+<td>於台灣播映的電視版本
+</td>
+<td>小單元(下週的星座占卜,20-73話)被抽掉部分集數
+</td>
+<td>台灣電視播出時並未播出。附帶一提，該單元的<a href="/index.php?title=%E6%BD%98%E6%81%B5%E5%AD%90&amp;action=edit&amp;redlink=1" class="new" title="潘恵子（頁面不存在）">潘恵子</a>為現役聲優，也會占星。
+</td>
+<td>是否要信任星座占卜本身就是見仁見智的事，更何況星座占卜本身所占卜的是「占卜當下一定時間內的參考運勢」(一般來說為一周內)<br><s>就連日本要重播、這段占卜小單元也不適用，更何況海外</s>　<s>如果製作單位願意花時間請來占星師占卜之後把正確的運勢剪輯成符合時況的那就算了</s>
+</td></tr><tr><td rowspan="5">神奇寶貝
+</td>
+<td rowspan="2">太陽與月亮
+</td>
+<td>幾乎全部
+</td>
+<td>受到小智在卡洛斯聯盟決賽<s>因為大人的因素</s>憾敗的影響，有段時間、失望的PM粉見到官方所公布的任何日月動畫情報都能嘴一波(舉凡宣傳海報上小智的Z招式動作和詭異的笑容、劇情竟然安排旅行多個地區的小智要去上學)，甚至一度認為官方將要生出超越BW的糞作。
+</td>
+<td>本作的<a href="/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="作畫崩壞">作畫崩壞</a>其實是因為作畫和演出風格更換使得畫風產生改變；在劇情上有關逝者離別的正經回在觀眾之間有著良好的迴響（如日月21、79、108話）加上近尾聲時超乎觀眾期待的小智VS庫庫伊戰讓本作評價稍微上升。
+</td></tr><tr><td colspan="5">即便如前述說明所言本動畫系列好壞參半，但偏偏日月動畫的人氣下滑也是事實(皆詳下方隱藏部分)，也因此將其視為PM系列動畫黑歷史之一的人偏多，引來不這麼想的人不悅。
+<div class="NavFrame collapsed" style=""><div class="NavHead" style="">動畫風格問題／給小智冠軍的時機／動畫各類人氣問題</div><div class="NavContent" style="">由於這次畫風和劇情演出風格（日月動畫是走惡搞風格）與以往不同<s>簡單來講就是想學妖怪手錶那套動畫手法，但結果卻沒吸引到更多觀眾</s>，引發大量觀眾的不滿，同時對比XY，日月的小智更為孩子氣造成出現更換主角的聲音。<br>過度大量的惡搞回也導致劇情支離破碎及為搞笑而搞笑的批評，更不用說寶可夢動畫從一開始就不是以搞笑題材為主的動畫，這樣的改變導致不少人無法接受<s>考慮到其他奇行和表現，綜合來看恐怕是歷代形象最糟糕的小智</s><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>，至於梗的素材包羅萬象（機人番、運動番甚至還有光之美少女等）可以使觀眾會心一笑，但是因為一些梗玩的不自重和過頭，結果引發反感和失去動畫焦點的疑慮<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><p>雖然在本作中小智終於獲得冠軍，但本次聯盟的評價卻讚否兩論化。<s>不僅被觀眾嘲諷為里民大會，無論是出場陣容和對戰表現都讓人懷疑這個冠軍只是官方為了炒話題弄的（可有可無，為冠軍而冠軍），以前小智巔峰期(DP、XY)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>時為何不給冠軍，反而在上述理由導致根本沒多少人期待冠軍的時候給小智冠軍</s>。<br>日月動畫刷新了<b>歷代最低收視率紀錄</b>（1.1，也刷新了日月原本的歷代最低1.9，更再次刷新1.7的紀錄）及<b>連續榜外記錄</b>（2019年1月20日-3月3日連續7週，而2019年11月7日時點早已打破先前紀錄，最終達成2019年3月17日-10月27日連續33周出榜<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>）（不過主因是官方把撥放時間由周四18:55改為群魔亂舞的周日18:00<s>強行換時段帶來的後果</s>），同時也是是目前為止唯一<b>沒有劇場版的</b><s>真正的黑歷史</s>世代<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><br>片頭曲受歡迎排行也沒任一曲進入前10名過（BW及新無印也沒有任一曲進入前10名），證明了日月動畫的不人氣及方向錯誤的負面影響。
+</p>
+</div></div></td></tr><tr><td rowspan="3">新無印(旅途)
+</td>
+<td>人設/劇情問題
+</td>
+<td>說白了就是本作新增，小智之外的另一名男主角：<s>瑪莉蘇</s>小豪的性格設定問題。
+</td>
+<td>其實沒有爭議（至少在台灣是一致公認的黑歷史），問題關鍵點算是被『日月該不該被視為本動畫系列作的三大黑歷史』拖累<br><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">此爭曾引發兩次編輯戰，導致原條目被長期封鎖，也是此項目沒有被放到被大眾所承認那一項的最主要原因。</span>
+</td></tr><tr><td colspan="5"><s>小豪的問題多到我們目前還無法一言以蔽之(ry，只好另闢一段說明。</s>
+<div class="NavFrame collapsed" style=""><div class="NavHead" style="">小豪的問題點</div><div class="NavContent" style="">因為小豪的夢想是「完成全PM圖鑑」，故事裡捕捉PM的頻率非常高（初期甚至有一集內捕捉大量PM的情況，後來才減緩至1集最多2隻）而且想捉便立即投球，因此被封上「一球超人」封號，多數PM都寄放在櫻木研究所，與炎兔兒和淚眼蜥以外的PM缺乏互動關係，被觀眾評為濫捕、對PM缺乏關懷，也沒有對自己的PM進行適當的訓練，放任的結果導致自己的PM會做出一些讓別人受不了的行為，更噁心的是還會有PM無緣無故的來倒貼要小豪抓，小豪甚至會強奪別人的PM；雖然小豪是代表<a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9DGO" title="神奇寶貝GO">PMGO</a>的玩法，但直接把手遊的一套演出搬上動畫立刻造成極多問題。<br>而且傳說和幻之PM也是小豪的捕捉目標<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>，後來甚至<b>一球成功捕捉水君</b>，水君被送回櫻木研究所裡逗留了一會才自行離去，這個演出也被批評毀了傳說和幻之PM的威嚴和設定，水君被網子隨便抓到的畫面也變成了恥辱和素材<s>藍色野狗</s><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>。<br>小豪的過度自大加上許多問題發言甚至反社會行為也引起了不少反感的聲音，他甚至還會把自己的錯怪罪到別人身上，連自身的背景設定扭曲到讓人毛骨悚然，在同伴遇上困難時，小豪還只會優先執行與自己利益有關的事，還會搶走別人的功勞甚至搶同伴尾刀強行收服走同伴辛苦與其對戰的PM，可以說小豪已經把與人相處的禁忌都踩了一遍。<br>在一些要求證明自身能力的劇情上，小豪的表現也非常的差，很多都需要靠放水或抱大腿之類典型龍傲天手法才能混過關，小豪自身也沒針對自己的問題多加練習。<br>小豪的討人厭程度甚至連Google搜尋結果都出現小豪討人厭的結果，更<a href="/%E7%B3%9F%E7%B3%95" title="糟糕">糟糕</a>的是，動畫製作組完全無視這些爭議繼續捧小豪導致更多的炎上出現。<br>負責寫劇本的米村正二因此成為了PM動畫粉絲的眾矢之的不斷捱罵<s>當然米村正二被罵也不是一兩天的事了</s><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>。<br>也因為以上原因使得原先受不了日月畫風和劇情而期待旅途有新氣象的觀眾非常失望，收視率和人氣因為小豪的問題處於一種很微妙甚至不太好的狀態，甚至還得靠老角色甚至小智救場才避免動畫完全崩壞，本動畫糟糕的程度甚至出現了BW還比較好看的嘲諷，正式登上寶可夢第一黑歷史動畫寶座。<br>討厭程度現在只要是跟本作有關的文章，基本上一定會有留言<s>順便去</s>嘴小豪。<br></div></div>
+</td></tr><tr><td>人設/劇情問題(丹帝)
+</td>
+<td>世界排行第一角色「丹帝」於動畫後期世界大賽「八大師戰」所引發的炎上問題。(待補)
+</td>
+<td>待補
+</td></tr></tbody></table><h2 class="in-block"><span id="分類Ａ"></span><span class="mw-headline" id=".E5.88.86.E9.A1.9E.EF.BC.A1">分類Ａ</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=6" title="編輯章節：分類Ａ" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2>
+<p>內容待搬運
+</p>
+<h2 class="in-block"><span id="分類Ｂ"></span><span class="mw-headline" id=".E5.88.86.E9.A1.9E.EF.BC.A2">分類Ｂ</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=7" title="編輯章節：分類Ｂ" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2>
+<p>內容待搬運
+</p>
+<h2 class="in-block"><span id="分類Ｃ"></span><span class="mw-headline" id=".E5.88.86.E9.A1.9E.EF.BC.A3">分類Ｃ</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=8" title="編輯章節：分類Ｃ" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2>
+<p>內容待搬運
+</p>
+<h2 class="in-block"><span id="分類Ｄ"></span><span class="mw-headline" id=".E5.88.86.E9.A1.9E.EF.BC.A4">分類Ｄ</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=9" title="編輯章節：分類Ｄ" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2>
+<p>內容待搬運
+</p>
+<h2 class="in-block"><span id="分類Ｅ"></span><span class="mw-headline" id=".E5.88.86.E9.A1.9E.EF.BC.A5">分類Ｅ</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=10" title="編輯章節：分類Ｅ" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2>
+<p>內容待搬運
+</p>
+<h2 class="in-block"><span id="分類Ｆ"></span><span class="mw-headline" id=".E5.88.86.E9.A1.9E.EF.BC.A6">分類Ｆ</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=11" title="編輯章節：分類Ｆ" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2>
+<p>內容待搬運
+</p>
+</div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備用表格"></span><span class="mw-headline" id=".E5.82.99.E7.94.A8.E8.A1.A8.E6.A0.BC">備用表格</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=12" title="編輯章節：備用表格" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品</th>
+<th>特定版本</th>
+<th>理由</th>
+<th>備註
+</th></tr><tr><td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;action=edit&amp;section=13" title="編輯章節：備註" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-4 collapsible-block" id="mf-section-4"><div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">因突發事件與即將播出的作品內容高度相符，為避免爭議而臨時停播作品</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">本話標題「キャロルの身代金」出現了「贖金」的字眼</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://twitter.com/teppen_anime/status/1545317935333249024">官方推特公告</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">換成惡搞畫風的優點就是可以毫無包袱的<a href="/%E9%A1%8F%E8%97%9D" title="顏藝">顏藝</a>，但顏藝的部份有時顯得較為刻意引發批評，過度的顏藝也讓一些角色形象崩壞。</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">如日月64話小智為了模仿投擲猴而把臉塗黑的設定與美國劇場白人演員為了扮作非裔美國人而把臉塗黑（Blackface）相似，構成種族歧視的嫌疑，因此本集在歐美取消放映，此外還有不少的奇行演出，被批評迷走或是キチガイ（基地外，即瘋子的意思），阿羅拉更被觀眾改成アホーラ。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">DP和XY時期的小智是觀眾公認隊伍組成及對戰實力以及小智自身精神力表現最優秀的時代。</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">最後一話還要靠經常入榜的幾部動畫暫停播放才進入前十名。後被下一季打破。</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">官方的說法是要開創一個屬於劇場版的世界觀，用以跟動畫版區分開來，日後的劇場版都會在同樣的背景下製作，因此從第20部劇場版《就決定是你了！》在上映的同時，少了過往跟著劇場版同步發行於其他播放平台的特別短篇動畫。<s>但也可能是日月動畫的惡搞風格等因素導致沒辦法作成劇場版，之後官方會否食言又是另一個待觀察的點。</s></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">不過最後一集有一幕是小星雲把小智帶往究極之洞的另一邊冒險後在翌日把小智帶回阿羅拉，可能是劇場版的楔子也不定？<s>但到最後還是沒有任何的以日月為主題的劇場版。</s></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">最初的目標是要先捉到夢幻。</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">之前也有在伽勒爾地區成功捕捉無極汰那，但這次是為了與丹帝完成封印無極汰那的公事才捕捉的，捉到後也立即將之交給丹帝鎖在保險櫃。</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">本條目中的デジモンクロスウォーズ的後面集數也是他導的</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=黑歷史_(見仁見智的)&amp;oldid=420940">https://wiki.komica.org/index.php?title=黑歷史_(見仁見智的)&amp;oldid=420940</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)"
+				data-user-name="Leviaiz"
+				data-user-gender="unknown"
+				data-timestamp="1668266003">
+				最後編輯於 2022年11月12日 (週六) 23:13
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.106","ppvisitednodes":{"value":335,"limit":1000000},"ppgeneratednodes":{"value":1618,"limit":1000000},"postexpandincludesize":{"value":2008,"limit":2097152},"templateargumentsize":{"value":1195,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1005,"limit":5000000},"timingprofile":["100.00%   62.647      1 -total"," 13.08%    8.197      4 模板:Ref","  4.42%    2.771      1 模板:Wp","  3.94%    2.467      1 模板:Color","  3.94%    2.467      1 模板:Hidef","  3.83%    2.399      1 模板:Twitter","  2.57%    1.613      2 模板:Hideh","  2.07%    1.299      1 模板:Censored","  2.01%    1.258      1 模板:Plainlinks"]},"cachereport":{"timestamp":"20221118063921","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":247});});</script>		</body>
+		</html>
+		

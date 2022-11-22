@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>光之美少女系列 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"光之美少女系列","wgTitle":"光之美少女系列","wgCurRevisionId":418938,"wgRevisionId":418938,"wgArticleId":177,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"光之美少女系列","wgRelevantArticleId":177,"wgRequestId":"5754a35986647e6a67ccc6ac","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-光之美少女系列 rootpage-光之美少女系列 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">光之美少女系列</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">プリキュアシリーズ／プリキュア／光之美少女系列／Pretty Cure／Precure／PC</div>
+<table class="wikitable" style="margin: 0 auto; text-align: center"><tbody><tr><td>本條目可能含有部分劇情內容，沒看過原著又不想被<b>73 + α 個<a href="/%E6%9A%B4%E5%8A%9B%E5%A5%B3" title="暴力女">女暴徒</a>圍爐</b>的話請不要繼續看下去。
+</td></tr><tr><td>因單一段落內容繁多，本條目部分內容（劇組關連、光美人物列表、劇場版、手機遊戲）已經成為獨立條目，沒找到想要內容的話請移至本條目最下方之模板連結。
+</td></tr></tbody></table><div class="thumb tright"><div class="thumbinner" style="width:348px;"><a href="/%E6%AA%94%E6%A1%88:Img22073.jpg" class="image"><img alt="" src="/images/thumb/1/16/Img22073.jpg/346px-Img22073.jpg" width="346" height="195" class="thumbimage"></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Img22073.jpg" class="internal" title="放大"></a></div>紀念作奇蹟的魔法</div></div></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="作品簡介"></span><span class="mw-headline" id=".E4.BD.9C.E5.93.81.E7.B0.A1.E4.BB.8B">作品簡介</span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<div class="thumb tright"><div class="thumbinner" style="width:290px;"><a href="/%E6%AA%94%E6%A1%88:Img19310.jpg" class="image"><noscript><img alt="" src="/images/thumb/d/dd/Img19310.jpg/288px-Img19310.jpg" width="288" height="216" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 288px;height: 216px;" data-src="/images/thumb/d/dd/Img19310.jpg/288px-Img19310.jpg" data-alt="" data-width="288" data-height="216" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Img19310.jpg" class="internal" title="放大"></a></div>紀念作春之祭典</div></div></div>
+<ul><li>官譯《光之美少女》，亦稱《美麗祭師二人組》《俏麗拍檔》；英譯《Pretty Cure》或是《Precure》，可簡稱光美或PC
+<ul><li>聽說剛代理時差一點就要翻成「黑白俏皮」<s>，翻譯的水平之低由此可見一斑</s></li>
+<li>原文Precure（プリキュア）是pretty與cure組合成的生造詞，所以直翻會是「美麗的治療者」<s>，和其所作所為完全不合</s></li></ul></li>
+<li>作者是「東堂泉（東堂いづみ）」，即「東映動畫大泉製作室」</li>
+<li>2004年2月1日第一輯《光之美少女》（ふたりはプリキュア）於日本正式播出。因大受歡迎而不停追加，主角群也因此多次更換。
+<ul><li>主打觀眾群是幼稚園到中年級的小女生，卻意外吸引了大批<s>奇怪的大哥哥大姐姐</s>青年動漫迷<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><s>，甚至還包括<a href="/%E4%BE%8D%E6%88%A6%E9%9A%8A%E3%82%B7%E3%83%B3%E3%82%B1%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC" title="侍戦隊シンケンジャー">侍戰隊</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> 以及大叔級的<a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%89" title="仮面ライダーディケイド">鳴瀧</a></s></li>
+<li>自第一、二輯就有著極驚人的收視率（將近8%），即使是目前為止收視率最差的系列整年平均也是有4-5%以上，所以有著「<a href="/%E6%88%90%E5%8F%A5/%E2%97%8B%E2%97%8B%E9%82%84%E8%83%BD%E5%86%8D%E6%88%B0%E5%8D%81%E5%B9%B4" title="成句/○○還能再戰十年">光美可以再戰十年</a>」之說</li>
+<li>各輯<s>吸金能力</s>銷售額如下<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li></ul></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>公佈年份</th>
+<th>BANDAI玩具銷售額（億日圓）</th>
+<th>東映國內版權銷售額（百萬日圓）</th>
+<th>備註
+</th></tr><tr><td>2005
+</td>
+<td>101
+</td>
+<td>975
+</td>
+<td>《ふたりはプリキュア》
+</td></tr><tr><td>2006
+</td>
+<td>123
+</td>
+<td>1,153
+</td>
+<td>《ふたりはプリキュア Max Heart》
+</td></tr><tr><td>2007
+</td>
+<td>60
+</td>
+<td>617
+</td>
+<td>《ふたりはプリキュア Splash☆Star》，史上第二低<s>終於不是墊底了</s>，歷代第一部玩具銷售額少於100億日元
+</td></tr><tr><td>2008
+</td>
+<td>105
+</td>
+<td>1,051
+</td>
+<td>《Yes! プリキュア5》
+</td></tr><tr><td>2009
+</td>
+<td>105
+</td>
+<td>964
+</td>
+<td>《Yes! プリキュア5 GOGO!》，收視下跌，玩具銷售額沒有變
+</td></tr><tr><td>2010
+</td>
+<td>119
+</td>
+<td>1,195
+</td>
+<td>《フレッシュプリキュア！》
+</td></tr><tr><td>2011
+</td>
+<td>125
+</td>
+<td>1,252
+</td>
+<td>《ハートキャッチプリキュア!》，史上最高
+</td></tr><tr><td>2012
+</td>
+<td>107
+</td>
+<td>1,046
+</td>
+<td>《スイートプリキュア♪》，遭遇311海嘯
+</td></tr><tr><td>2013
+</td>
+<td>106
+</td>
+<td>1,061
+</td>
+<td>《スマイルプリキュア》，收視上升，玩具銷量下跌
+</td></tr><tr><td>2014
+</td>
+<td>98
+</td>
+<td>977
+</td>
+<td>《ドキドキ！プリキュア》第二部玩具銷售額少於100億日元的作品
+</td></tr><tr><td>2015
+</td>
+<td>65
+</td>
+<td>759
+</td>
+<td>《ハピネスチャージプリキュア！》第三部玩具銷售額少於100億日元，周邊收益倒數第三，收視率十年最低
+</td></tr><tr><td>2016
+</td>
+<td>66
+</td>
+<td>594
+</td>
+<td>《Go!プリンセスプリキュア》雖然劇情受好評，孩童收視率上升，但總收視率與玩具銷售額卻不樂觀<s>，繁花天使想跨越這樣的絕望非常艱難，但重播後才發現這絕望還真的能被跨越</s>
+</td></tr><tr><td>2017
+</td>
+<td>75
+</td>
+<td>643
+</td>
+<td>《魔法つかいプリキュア!》雖然劇情因為欠缺主線，日常如白開水般平淡，加上反派路人化和虛得不行的戰鬥而負評如潮，但玩具銷售額是自組曲組以來第二度回升
+</td></tr><tr><td>2018
+</td>
+<td>81
+</td>
+<td>735
+</td>
+<td>《キラキラ☆プリキュアアラモード》因為劇情編排關係，加上光美根本特色的肉戰消失，使得評價比幸充組和魔法組更糟……但銷售額繼續上升
+</td></tr><tr><td>2019
+</td>
+<td>101
+</td>
+<td>907
+</td>
+<td>《HUGっと!プリキュア》十五週年作品，自微笑組後玩具銷售額再次突破百億大關，劇情評價兩極，好評主要是前期鋪墊和勇於接觸敏感議題方面，負評集中在後期劇情編排問題
+</td></tr><tr><td>2020
+</td>
+<td>84（整體）/83（國內）
+</td>
+<td>801
+</td>
+<td>《スター☆トゥインクルプリキュア》緊接著15周年的結束，所以銷售額再度掉下去。不過扣除掉去年，銷售額還是一直上升
+</td></tr><tr><td>2021
+</td>
+<td>66
+</td>
+<td>635
+</td>
+<td>《ヒーリングっど♥プリキュア》，跟當期大部分動畫一樣，受到<ruby>武漢肺炎<rp>（</rp><rt style="font-size:0.5em;"><s>COVID-19</s></rt><rp>）</rp></ruby>影響停播<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，促成朝日電視重拍舊作之念頭。</span><br>受到疫情影響：<br>銷售額普遍下跌，但本作有在台灣代理而令海外銷售額有一定的成績<br>少數在K島中大致好評的光美作品，但島外的評價負評比較多，甚至被認為是<a href="/%E7%88%9B%E5%B0%BE" title="爛尾">爛尾</a>作<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td></tr><tr><td>2022
+</td>
+<td>57
+</td>
+<td>
+</td>
+<td>《トロピカル~ジュ!プリキュア》，史上最低<br>在疫情緩和的情況之下銷售額反而繼續下跌。除了因為遇到前一兩年爆紅的<a href="/%E9%AC%BC%E6%BB%85%E4%B9%8B%E5%88%83" title="鬼滅之刃">鬼滅之刃</a>之外，有分析是因為自2015年公主組時開始進入智能手機時代後隔壁的廠商開始著手於網絡推銷玩具，幼女萬代的注意力被搶走，銷售成績一落千丈。<br>而萬代在這一年（2021）亦開始在網絡上推銷玩具，但因為心思和力道比不上對手的關係，銷售成績還是比去年還低。
+</td></tr><tr><td>2023
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>《デリシャスパーティ♡プリキュア》
+</td></tr></tbody></table><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/%E6%AA%94%E6%A1%88:Img14426.jpg" class="image"><noscript><img alt="" src="/images/thumb/e/ea/Img14426.jpg/220px-Img14426.jpg" width="220" height="200" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 220px;height: 200px;" data-src="/images/thumb/e/ea/Img14426.jpg/220px-Img14426.jpg" data-alt="" data-width="220" data-height="200" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Img14426.jpg" class="internal" title="放大"></a></div>紀念作New Stage 3</div></div></div>
+<ul><li>平成年代的所有光美作品都是在二月第一個星期日播映第1話，翌年一月最後一個星期日播映最終話。
+<ul><li>每一代/季的集數不盡相同，目前最多50話；但每年固定會因為11月第一個周日的全日本大学駅伝対校選手権大会轉播、與歲末年初的日本新年假期停播兩次。
+<ul><li>又根據過往紀錄，如果六月的第三個周日有停播，絕大多數都是轉播美國高爾夫公開賽。</li></ul></li></ul></li>
+<li>未料進入令和年代後流年不利，前述規律陸續遭打破：
+<ul><li>治癒組因受到<ruby>武漢肺炎<rp>（</rp><rt style="font-size:0.5em;"><s>COVID-19</s></rt><rp>）</rp></ruby>疫情影響製作進度，於四月底起停播九週，為求順利完結而使最終回比往年慣例延後三周、但依舊創下系列最少播映回數(45)紀錄</li>
+<li>接棒的熱帶組連帶比慣例延後三周開播，但一樣延後舉行的東京奧運最後僅造成一週停播，即便加上前述的固定停播日、仍有46集的幅度<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>美食組雖恢復往例時段接棒，但動畫公司卻在三月初遇上駭客攻擊，動畫製作再度受影響，於三月中旬起停播五周……<s>挑戰治癒組的最少集數紀錄或讓下一作再度延後接棒選一個吧</s></li></ul></li>
+<li>系列播出集數創下幼女向節目的紀錄：就算只看前五代，高達341集的總集數也已突破了《美少女戰士》五輯的200集、同時段大前輩<a href="/%E5%B0%8F%E9%AD%94%E5%A5%B3Doremi/%E3%81%8A%E3%82%B8%E3%83%A3%E9%AD%94%E5%A5%B3%E3%81%A9%E3%82%8C%E3%81%BF" class="mw-redirect" title="小魔女Doremi/おジャ魔女どれみ">《小魔女Doremi》</a>四輯加OVA的214集</li>
+<li><s>人數持續以等差級數快速成長：</s>光是平成作的正規戰士累計人數就已經有60人，遠遠超越《真珠美人魚》的7+1人與《<a href="/%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%A6%E5%A3%AB%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A0%E3%83%BC%E3%83%B3" title="美少女戦士セーラームーン">美少女戰士</a>》動畫版廣義而言的14人<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><s>，還可加上退役助拳人2名（嘘）及已掛掉的後備助拳人1名（大噓）+1名，規模完全是軍團等級的了</s>
+<ul><li><s>十一區美少女暴力天團（超大誤）</s></li>
+<li>標準放寬一點的話初期幾年主角陣營每輯的人數都會比上輯多一人：MH加小光共三人、SS加滿薰共四人、Y5五人再加妙奇露絲共六人、FPC<s>加西南和薰叔共七人</s>才打破慣例<s>，否則HPC陣營期望值可上看八人</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="作品特色"></span><span class="mw-headline" id=".E4.BD.9C.E5.93.81.E7.89.B9.E8.89.B2">作品特色</span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span id="主要作風"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E4.BD.9C.E9.A2.A8">主要作風</span></h3>
+<ul><li>風格有別於傳統的<a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3" title="魔法少女">魔法少女</a>，官方設定為《傳說中的戰士》
+<ul><li>播放時段於周日<a href="/%E5%81%87%E9%9D%A2%E9%A8%8E%E5%A3%AB%E7%B3%BB%E5%88%97" title="假面騎士系列">假面騎士</a>與<a href="/%E8%B6%85%E7%B4%9A%E6%88%B0%E9%9A%8A%E7%B3%BB%E5%88%97" title="超級戰隊系列">戰隊</a>之前<sup id="cite_ref-time_7-0" class="reference"><a href="#cite_note-time-7">[7]</a></sup>，皆為東映作品，使光美定位偏幼女向的英雄戰隊</li>
+<li>有別於以往英雌作品經常出現男性助拳人幫忙扭轉戰局，光之美少女系列幾乎沒有男性助拳人，就算有也只是作為輔助，最後還是靠一眾女主角們親自擺平對手
+<ul><li>即使是再有能的男性助拳人，大多都會出現反過來要光之美少女拯救的一刻</li></ul></li></ul></li>
+<li>戰鬥力全都誇張到不行。第一次變身就能抓起鋼筋水泥等重物砸過去，不經意的跳一下最少幾米高以上差不多是指定動作。平時戰鬥導致地形毀壞是家常便飯<s>幸好反派都自帶撤退即復原，不用三天兩頭就重劃地圖</s>
+<ul><li>最終戰尤其可怕，幾乎都是以行星為單位在打架的，甚至存在堪比宇宙大霹靂等級的破壞力</li>
+<li>雖然說<b>光之美少女戰鬥力設定是總比敵人稍強一點，避免讓人有開無雙、恃強凌弱的感覺</b>。然而不同製作群在這規則理解上有很大的差距<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>，就會出現某些光美不斷被劇情打臉（如野乃花），有些光美卻一直爽爽過（如相田愛）。更別說各代光美敵方能力不同，全明星演出時各代戰鬥力差距十分明顯……
+<ul><li>於是不少同人向的比較陸續出現。但無論如何，大多數的愛好者都有著「初代黑白的強大無法被超越」的共識</li></ul></li></ul></li>
+<li>另外這部畢竟是商業幼女向動畫，主角方必勝的王道是基本，光美現役正規成員也沒有於作品中死亡<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><s>，但親人如果是敵方成員也有可能會領便當</s></li></ul><h3 class="in-block"><span id="角色描寫和互動"></span><span class="mw-headline" id=".E8.A7.92.E8.89.B2.E6.8F.8F.E5.AF.AB.E5.92.8C.E4.BA.92.E5.8B.95">角色描寫和互動</span></h3>
+<ul><li>放棄了以三角戀愛作主軸，取代的就是主角群之間的生活軼事<s>，以及濃濃的<a href="/GL" class="mw-redirect" title="GL">百合</a>愛情</s>
+<ul><li>第一主角仍保留部份傳統魔法少女主角的特質如純情或功課很差等等（有少數例外）</li>
+<li>為保留一般向魔法少女支持者仍然有普通戀愛要素，但<s>又礙於家長批轟</s>都沒豎旗過
+<ul><li><s>戰隊組是極少數的例外，粉主望差不多就是帕魯米王國的未來王后，小町也有很大機會修成正果</s></li></ul></li>
+<li><s>由於PTA多年來不斷投訴男女戀愛的描寫，</s>自水果以來百合味越來越重，充作煙霧彈的男角也越來越不起眼</li>
+<li>音樂組甚至貓都搞起百合，還搞出一個由反派洗白的正規戰士……</li>
+<li>心跳組百合玩更大，整部劇情主軸就是眾女角圍繞著粉主相田愛互相爭風吃醋的百合宮鬥劇</li>
+<li>到了幸充組卻上演八點檔劇情，粉主小惠的戀情不但沒有開花結果，還差點因為失戀被Boss黑化，是造成幸充負評的其中一個主因<s>，<a href="/%E6%88%90%E5%8F%A5/%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%99%82%E8%87%A3%E7%9A%84%E9%8C%AF" title="成句/一切都是時臣的錯">其實一切都是藍神的錯</a></s></li>
+<li><s>至於擁抱組更誇張，其實就是家庭失和造成世界毀滅，而且還是粉主的家庭（半誤</s></li></ul></li></ul><h4 class="in-block"><span id="跨代互動相關"></span><span class="mw-headline" id=".E8.B7.A8.E4.BB.A3.E4.BA.92.E5.8B.95.E7.9B.B8.E9.97.9C">跨代互動相關</span></h4>
+<ul><li>簡單來講就是大集合、新人研修或<a href="/%E5%89%8D%E8%BC%A9" title="前輩">前輩</a><a href="/%E4%BA%82%E5%85%A5" title="亂入">亂入</a></li>
+<li>從戰隊組第二季（555）的時候就已經有相關企劃</li>
+<li>當時的媒體主要為短篇電影和NDS的遊戲</li>
+<li>直到第四代春季正式開始大集合電影版</li>
+<li>直到甜點組起春季劇場版改為只有前兩代前輩亂八</li>
+<li>電視本篇直至擁抱組之前從來沒試過有其他代的光美在中間劇情亂入，到了魔法組起終盤都會有下一代的第一主角幫忙解圍<s>雖然有部分會亂入得很牽強</s>，直到擁抱組才有初代亂入，後來更是史無前例地讓前十二代光美一起圍毆幹部</li>
+<li>到了治癒組秋季電影版的時候正式開始代+一組遠古前輩的組合</li>
+<li>島民對於其他代的光美亂入別代作品這個作風普遍是怨聲載道
+<ul><li>標題只有那一代的光美就只能讓那一代的光美推進劇情，其他光美出現搶戲瓜分主線幅度根本就是喧賓奪主，噁心觀眾，以掛羊頭賣狗肉的方式污染獨立作品……</li>
+<li>但在美味組的劇場版就沒有前輩亂入的劇情了，可喜可賀</li></ul></li></ul><h3 class="in-block"><span id="戰鬥風格"></span><span class="mw-headline" id=".E6.88.B0.E9.AC.A5.E9.A2.A8.E6.A0.BC">戰鬥風格</span></h3>
+<ul><li>初期戰鬥上以硬朗的拳腳風格為主，後續作品就加以<s>魔法</s>必殺技（或稱為「大絕」）<s>攻擊</s>淨化為主軸。
+<ul><li>由於初代的監督正是負責《<a href="/%E4%B8%83%E9%BE%8D%E7%8F%A0" title="七龍珠">七龍珠</a>》系列的西尾大介，因此走上熱血格鬥的不歸路。</li>
+<li>另外當年企劃時主打的正是「就算是女孩子也想要大鬧一場！」的主題，因此初代的拳腳格鬥才會是歷代最明顯</li></ul></li>
+<li>其實初代靠大絕就能婊死所有雜兵和九成九的反派，早期甚至有完全省略戰鬥，直接一發大絕收工回家的劇情，但愈到後期肉彈戰就愈激烈
+<ul><li>戰鬥主力由不存在的魔法變成現實存在的肉體語言，<s>所以若<a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%A5%88%E8%91%89" title="魔法少女奈葉">魔法少女奈葉</a>被稱為「超級系」，那光美就是「真實系」</s></li></ul></li>
+<li>肉搏已經夠罕見了，在戰隊組之前竟然連大絕都是徒手施放而不用拿魔杖之類的小道具<s>（但還是會為了賣玩具加裝升級<a href="/%E5%A4%96%E6%8E%9B" title="外掛">外掛</a>）</s>
+<ul><li>雖然水果組還是肉搏戰，但風格正致力回歸正統<a href="/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3" title="魔法少女">魔法少女</a><s>，似乎有意致敬愛天使傳說</s></li>
+<li>抓心組則相反，雖然魔法少女風格強烈肉搏卻可望回復前輩水準
+<ul><li>以後的作品則是水果~抓心的中間</li></ul></li>
+<li>到甜點組官方更宣佈<b>肉彈戰封印</b>，改用手上道具變出<s>看下去很糟糕的</s>東西攻擊敵人<s>所以光之美少女已名存實亡（大誤）</s>，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實是因為敵人對肉彈戰有所免疫才不得不改變戰鬥方式</span></li>
+<li>到擁抱組肉彈戰才回歸<s>畢竟甜點連肉搏都沒有所以會谷底反彈也是很正常的</s></li>
+<li><s>星閃組除了綠色親女兒只會用頭上的觸手放電之外都不乏肉搏</s></li>
+<li>但治癒組因為戰鬥時都拿著作為變身器的魔法棒，因此消息剛釋出時有些人擔心會不會像三年前一樣<b>肉彈戰封印</b>……
+<ul><li>還好雖然拿著魔法棒戰鬥，但還是會肉搏</li></ul></li></ul></li></ul><h3 class="in-block"><span id="正規戰士的設定與人設"></span><span class="mw-headline" id=".E6.AD.A3.E8.A6.8F.E6.88.B0.E5.A3.AB.E7.9A.84.E8.A8.AD.E5.AE.9A.E8.88.87.E4.BA.BA.E8.A8.AD">正規戰士的設定與人設</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:347px;"><a href="/%E6%AA%94%E6%A1%88:Img6760.jpg" class="image"><noscript><img alt="" src="/images/thumb/c/c7/Img6760.jpg/345px-Img6760.jpg" width="345" height="218" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 345px;height: 218px;" data-src="/images/thumb/c/c7/Img6760.jpg/345px-Img6760.jpg" data-alt="" data-width="345" data-height="218" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Img6760.jpg" class="internal" title="放大"></a></div>紀念作New Stage 1</div></div></div>
+<h4 class="in-block"><span id="光美們的稱謂"></span><span class="mw-headline" id=".E5.85.89.E7.BE.8E.E5.80.91.E7.9A.84.E7.A8.B1.E8.AC.82">光美們的稱謂</span></h4>
+<ul><li>歷代戰士的稱號皆為「○○天使」（Cure ○○○，原文為「キュア○○○」），目前只有兩位例外
+<ul><li>兩位例外的同樣為非地球人的追加成員，且為該代第二部才加入</li>
+<li>原文中在稱呼該名戰士時都會省略「キュア」而直接稱作「○○○」，且並不會直接稱呼本名（隱藏身分）</li>
+<li>兩位例外的其變身稱號格式皆為「●●● ○○○」，原文中稱呼其時都是會省略「●●●」而直接稱作「○○○」</li></ul></li></ul><h4 class="in-block"><span id="成員配色相關"></span><span class="mw-headline" id=".E6.88.90.E5.93.A1.E9.85.8D.E8.89.B2.E7.9B.B8.E9.97.9C">成員配色相關</span></h4>
+<ul><li>初期主角的代表色不是魔法少女常用的紅色或粉紅色
+<ul><li>第一代是破天荒的黑白，二代則是華麗風的金銀（自稱，但花天使的服裝配色卻是以桃色為主+金色為輔）</li></ul></li>
+<li>不過由第三代開始的戰隊代表色角色設計系統，成為了日後光美主要角色設定規則。回歸以粉紅為首的傳統<s>，因為是正統魔法少女的道路所以也沒辦法</s></li>
+<li>另外每一代都會有 <a rel="nofollow" class="external text" href="http://wiki.komica.org/pix/img19576.jpg">藍/紫色長髮的角色</a>，而且都是走氣質路線的聰明人，但形象也往往崩得最慘（官方和同人皆是）
+<ul><li>到目前為止，藍色組光美直到第十七代的美味組才出現過短髮（髮長不及肩）的人間體，而紫色組目前的唯一短髮為劍崎真琴</li>
+<li>第五代一直線的來海則因為被官方定位為搞笑役（數不完的<a href="/%E9%A1%8F%E8%97%9D" title="顏藝">顏藝</a>，完全沒形象可言）、第九代的白雪姬也是偏向比較沒氣質的搞笑役、第十二代的立神葵走熱血性格路線，都有親女兒級待遇而成為例外</li>
+<li><s>魔法組除了有理子，藍寶石使得連原本作為粉紅的未來也中槍了，除了初登場buff以外甚至在開大絕之前大半時間都只有被虐打的份……</s></li>
+<li><s>近年在<a href="/%E8%B6%85%E7%B4%9A%E6%88%B0%E9%9A%8A%E7%B3%BB%E5%88%97" title="超級戰隊系列">隔壁棚</a>似乎有<a href="/%E6%9A%97%E5%A2%AE" title="暗墮">惡墮</a>現象</s></li></ul></li>
+<li>自第3代起，幾乎每代必有一位黃色系的角色<s>負責賣萌</s>，但因製作的寵愛<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> 有<a href="/%E9%BB%91%E5%8C%96" title="黑化">逐漸變黑</a>的傾向
+<ul><li>黃色極度受到製作寵愛，抓心組的日光天使在短短的變身戲中擁有被稱為神作畫超過五千張的高水準待遇</li>
+<li>不過隨著系列多年的發展，黃色也不一定影薄，同時也不一定有親女兒級作畫優待
+<ul><li>近年則有逐漸演變成紅色親女兒的趨勢（？）<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li><s>不過<a href="/%E3%82%B9%E3%82%BF%E3%83%BC%E2%98%86%E3%83%88%E3%82%A5%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="スター☆トゥインクルプリキュア">星閃組</a>和<a href="/%E3%83%87%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E2%99%A1%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="デリシャスパーティ♡プリキュア">美食組</a>沒有紅戰士，而且前者方面雖然有黃色可是不親就算了表現又路人，還出現史上第一位連追加戰士也望塵莫及的綠色親女兒</s></li>
+<li>到了平成末期（約公主組之後）到現在令和年代，黃色系光美幾乎都成為了同代的光美當中人氣墊底的那一位……</li></ul></li></ul></li>
+<li>魔法使就是睽違多年再次出現既沒有藍，又沒有黃的光美組合，這兩種顏色被分配為兩個主角的其中兩個亞型態，畢竟這代成員構成跟初代十分相近</li></ul><h4 class="in-block"><span id="變身器"></span><span class="mw-headline" id=".E8.AE.8A.E8.BA.AB.E5.99.A8">變身器</span></h4>
+<ul><li>變身器是光之美少女變身成戰士從而進行戰鬥必要物件，指的是「變身完成後會掛在身上顯眼處的道具」或是「變身用具組合中體積較大者」<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><ul><li>初代與二代的變身器是由妖精直接變成，並且有著雙人變身限制。目前存在雙人變身限制的光美當中，只有音樂組的變身器不是由妖精變成。</li>
+<li>三代以後的變身器就與妖精本身沒有直接聯繫，不過大部分還是需要妖精的力量來啟動變身器<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li>微笑組是歷代首次變身器與妖精完全沒關聯的一代</li>
+<li>到了心跳組的變身器都是由妖精直接變成，而追加戰士亦是由妖精的力量變化而成</li>
+<li>之後除了魔法組的未來與理子以及治癒組還是使用妖精本身來變身之外，其餘後輩們都不需要妖精也能變身了，頂多像擁抱組跟星閃組那樣需要妖精幫忙產生變身用具。</li></ul></li>
+<li>大部分世代的變身器在完成變身後會掛在腰上，只有少數例外的
+<ul><li>戰隊組第一年變身器是手錶，是目前唯一出現佩戴在手上的變身器。</li>
+<li>抓心組的月光天使和幸充組的命運天使原本跟隊友們一樣掛在腰上，但在換成新的變身器之後就改成收容在身上的飾品內<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>公主組的換裝鑰匙有出現收納畫面，但香水瓶則是突然消失，香水瓶在變二段型態時又會出現<s>跟武器收納問題一樣是光美系列的不解之謎</s></li>
+<li>音樂組和星閃組的變身器是在胸前，而兩組的人設擔當都是高橋晃</li>
+<li>魔法組的未來與理子是第一組沒有把變身器掛在身上的光美，莫夫倫在協助完成變身後會自己跑去躲起來
+<ul><li>順帶一提，她們也是唯一一組共用變身器的光美</li></ul></li>
+<li>治癒組才再次出現同樣沒把變身器掛在身上的光美，也是自魔法組以來睽違四年再次使用妖精作為變身器，更是首次以武器為原型設計並作為主要武器使用<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li></ul></li>
+<li>變身器的造型非常多樣化，以手機為最大宗，也有手錶、調色盤、香水瓶、陶笛、粉底盒、鏡子、口袋書、墨水瓶等
+<ul><li>其中以手機為設計基礎的變身器都自帶通訊功能</li></ul></li>
+<li>變身器的功能以變身為主，部分變身器會有其他功能，比如上述手機類的通訊，多數跟設計原型有關
+<ul><li>抓心組的香水瓶可以裝上心之種子噴灑不同的香氣</li>
+<li>音樂組光之陶笛可以裝上音調精靈吹出具有特殊力量的音調</li>
+<li>魔法組莫夫倫本身就是個被賦予生命的泰迪熊<s>功能多多</s>，小哈用的波紋智慧書曾經是她自己的棲身之所與餵養工具</li>
+<li>星閃組星彩掛墜上的輪盤可以感應公主星彩筆的位置</li>
+<li>治癒組治癒魔法棒兼具武器的功能</li></ul></li>
+<li>部分追加戰士的變身器與初期成員的變身器規格不同，但系統上還是一樣的
+<ul><li>樹用的閃耀香水與百合用的心靈之壺同樣可以裝入光之種子，亞久里用的愛之眼影同樣可以裝上變身飾物，伊緒奈用的命運鋼琴同樣可以放入光之卡，蘿拉的水之人魚粉底盒同樣是裝上愛心戒指來啟動</li>
+<li><s>至於小光跟胡桃的變身器本來就可以空手啟動所以沒有問題</s></li></ul></li>
+<li>目前所有初期成員只有兩人的世代都會有雙人變身畫面，而其中只有抓心組的蕾與繪理香可以單人變身
+<ul><li>另外，這之中也只有抓心組的蕾與繪理香、音樂組的響與奏擁有個人大絕，初代與二代甚至連單人招式都沒有</li>
+<li>有些人認為擁抱組的繪美瑠與露露可能也存在雙人變身限制<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>，是歷代首次出現有雙人變身限制的追加戰士，不過因為劇中並未直接提及此事<s>而且劇組可能覺得麻煩不想做新的變身動畫</s>所以不得而知</li></ul></li>
+<li>在《All Stars》系列電影多次強調沒有變身器和拍擋妖精在身邊的話光美們根本只是一群普通的女孩，搶奪變身器甚至為一部分反派攻略光美們的計謀</li></ul><h4 class="in-block"><span id="姓名相關"></span><span class="mw-headline" id=".E5.A7.93.E5.90.8D.E7.9B.B8.E9.97.9C">姓名相關</span></h4>
+<ul><li>主角的姓名基本上會呼應變身後的稱號（但三代只有夢原和水無月符合、夢原外四人為季節梗<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>），九條光和美美野胡桃是名字暗示真實身份
+<ul><li>但除了伊絲/東剎那則是沿用敵方方向時間梗</li>
+<li>不過組曲組的姓名梗被東映拿來對付太會猜的大友，導致本作光美成員名單攤牌時令很多人都不能接受……</li>
+<li>結果後續的微笑組就沒姓名梗可言了，但在這之後的心跳組與後續作品仍然使用了不少姓名梗。</li>
+<li>到了魔法使，這種呼應稱號的姓名梗幾乎看不到了，比較勉強的是「未來」的發音取自「miracle」和二人姓氏呼應「早」與「晚」，外加<s>女兒</s>小哈的化名來源是捏某些東西（回憶中的<b>花海</b>；<b>言葉</b>→ 讓人溫暖的說話→ 溫暖→ 幸福→ felice）而已</li>
+<li>另外，按照目前情況來看，主角們的<b>姓</b>和<b>名</b>沒有兩個是完全一樣，所以說親姊妹丼的正規光美理論上是不可能出現的<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li></ul></li></ul><ul><li>主角與同儕的名字表示
+<ul><li>奇數代：全員皆為假名</li>
+<li>偶數代：多為（或部分為）漢字，目前例外有桃園、相田、四葉等</li>
+<li>後來<s>可能因為怕幼女不會讀所以</s>幸充組開始至今一律為假名</li></ul></li></ul><h4 class="in-block"><span id="口頭禪"></span><span class="mw-headline" id=".E5.8F.A3.E9.A0.AD.E7.A6.AA"><a href="/%E5%8F%A3%E9%A0%AD%E7%A6%AA" title="口頭禪">口頭禪</a></span></h4>
+<ul><li>口頭禪為作品固定特色，特別是粉主
+<ul><li>前三代只有粉紅有官方口頭禪，四代為了玩梗從此開放全部主角口頭禪的設定</li>
+<li>抓心組的口頭禪為戰鬥台詞</li>
+<li>組曲組除了亞子其餘三人都有</li>
+<li>在微笑組開始又只有粉紅才有</li>
+<li>直到魔法使才再次每個人都有口頭禪（小哈是口癖）</li>
+<li>甜點組同樣為每個人都有，但這次是全都有兩個，是為首例<s>但似乎有被<a href="/%E5%90%83%E6%9B%B8" title="吃書">吃書</a>的傾向</s></li>
+<li>擁抱組是除了紗綾都有</li>
+<li>星閃組也是全員都有<s>不過也有<a href="/%E5%90%83%E6%9B%B8" title="吃書">吃書</a>嫌疑</s></li>
+<li>治癒組只有和香和日向才有</li>
+<li>熱帶組只有真夏才有</li>
+<li>派對組是小唯與洛茲馬利均有</li></ul></li></ul><h4 class="in-block"><span id="咒語、叫陣、隊呼相關"></span><span class="mw-headline" id=".E5.92.92.E8.AA.9E.E3.80.81.E5.8F.AB.E9.99.A3.E3.80.81.E9.9A.8A.E5.91.BC.E7.9B.B8.E9.97.9C">咒語、叫陣、隊呼相關</span></h4>
+<ul><li>一開始發動變身後的咒語、變身完成時的自介和叫陣（二人組）或口號（戰隊組）都是內建並自動執行的，因此<s>拖時間很好用</s>大部分成員都曾有「我在講啥鬼」的疑問<s>不過後來這種反應被<a href="/%E9%AC%BC%E9%9A%B1" title="鬼隱">鬼隱</a>了</s>
+<ul><li>第四代水果組一直到打完了才出現這個疑問，可見洗腦電波開得太強</li>
+<li>因為洗腦電波開得太強，因此第五代抓心組就取消了這個機制，咒語等資料改由精靈轉達，連名字也可以自定<s>，但後遺症是戰力低落</s></li>
+<li>六代以後變身咒語還是由精靈轉達，但洗腦電波下的自報名號復活</li>
+<li>部分世代的隊呼是光美們自定義的，最明顯的例子有微笑<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>和公主<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li></ul></li></ul><h4 class="in-block"><span id="變身前後人設、服裝造型變化"></span><span class="mw-headline" id=".E8.AE.8A.E8.BA.AB.E5.89.8D.E5.BE.8C.E4.BA.BA.E8.A8.AD.E3.80.81.E6.9C.8D.E8.A3.9D.E9.80.A0.E5.9E.8B.E8.AE.8A.E5.8C.96">變身前後人設、服裝造型變化</span></h4>
+<ul><li>變身後髮量增加是常態，出身異世界者更是異常爆增
+<ul><li>到了新鮮組後，連髮色也有明顯的改變
+<ul><li>尤其以心跳組的相田愛為甚，髮色由桃變金，是歷代變化最大</li></ul></li>
+<li>目前為止，只有琴爪緣在變身之後髮型接近完全不變，只是髮量變多<b>少許</b>，有栖川陽莉則是第一個變身後髮量反而減少的光美<s>，可能是因為頭髮束起來的緣故</s></li></ul></li></ul><ul><li>變身前人設造型似乎有著兩個定律
+<ul><li>頭髮長短：正規光美當中至少有一人一定是長髮（至少長及胸部一半）、至少有一人一定是短髮（把頭髮放下來後最多只長及肩部以下幾公分）
+<ul><li>可以只有追加成員是短髮</li></ul></li>
+<li>默認便服（春季跨界劇場版中以正規成員身分出場時的便服造型）：正規光美當中至少有一人一定是穿裙子、至少有一人一定是穿褲子（長短褲皆可）
+<ul><li>可以只有追加成員穿褲子</li>
+<li>注意魔法組的未來穿的其實也是褲子</li>
+<li>比較特別的有繪美瑠，在裙子裡面穿「布魯瑪（燈籠褲）」<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li>
+<li>直到治癒組才正式打破這一點，四人都是穿裙子</li></ul></li></ul></li></ul><div class="center"><div class="floatnone"><a href="/%E6%AA%94%E6%A1%88:Emirubloomer.png" class="image"><noscript><img alt="Emirubloomer.png" src="/images/thumb/5/55/Emirubloomer.png/150px-Emirubloomer.png" width="150" height="211"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 211px;" data-src="/images/thumb/5/55/Emirubloomer.png/150px-Emirubloomer.png" data-alt="Emirubloomer.png" data-width="150" data-height="211"> </span></a></div></div>
+<ul><li><s>如果變身後的服裝是二段式，就可以用肚臍交換第二部的製作</s>
+<ul><li>露出肚臍是光美製作群的<s>惡</s>個人趣味，但由於家長們投訴露出肚臍對身體不好（？），因此只能偶爾為之</li>
+<li>目前兩部連續作品的共同點，<a rel="nofollow" class="external text" href="http://wiki.komica.org/pix/img6775.jpg">至於旋律天使雖然變身後的服裝是二段式，但其實沒有露出肚臍</a><a href="/%E6%AA%94%E6%A1%88:Img6775.jpg" class="image"><noscript><img alt="Img6775.jpg" src="/images/thumb/9/92/Img6775.jpg/120px-Img6775.jpg" width="120" height="90"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 90px;" data-src="/images/thumb/9/92/Img6775.jpg/120px-Img6775.jpg" data-alt="Img6775.jpg" data-width="120" data-height="90"> </span></a></li>
+<li><s>另外奇蹟天使是在藍寶石型態才露肚臍而不是基本的鑽石型態所以也不算</s></li>
+<li><s>雖然歡呼天使基本型態終於有露出肚臍，不過因為服裝不是二段式所以也被排除掉</s></li></ul></li></ul><h4 class="in-block"><span id="出身"></span><span class="mw-headline" id=".E5.87.BA.E8.BA.AB">出身</span></h4>
+<ul><li>初期光美成員基本上都是普通的日本女孩
+<ul><li>但也有例外，如白雪姫（地球藍天王國的公主），十六夜理子（异世界魔法界出身）、羽衣拉拉（外星人），都是女二。</li></ul></li>
+<li>但追加戰士高達八成都不是正常人類
+<ul><li>是追加戰士且是日本人的有明堂院樹、月影百合、冰川伊緒奈、愛綺惠美瑠。</li></ul></li>
+<li>關於非一般人類出身的光美
+<ul><li>具體來說有妖精、敵幹部、异世界人、公主、機器人、人魚、女王的化身、外星人等等</li>
+<li>有鑑於此，一般都會有本名，但在需要在日本隱姓埋名的情况下大多會使用日本式的名字</li>
+<li>可能會有自己的居所，或是住在主角家，或是住在其他知情人士的家裡</li>
+<li>可能會轉學到主角的學校</li>
+<li>學習人類文化和適應人類生活基本是定番</li></ul></li></ul><h4 class="in-block"><span id="轉學生"></span><span class="mw-headline" id=".E8.BD.89.E5.AD.B8.E7.94.9F">轉學生</span></h4>
+<ul><li>從SS開始，每一代至少會有一位正規戰士是轉學生
+<ul><li>但<b>對劇情有重要性</b>的轉學生是每一代都有<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></li>
+<li>有時這些情節都促使了那一代一些情節或者故事的推動</li>
+<li>順帶一提，星閃組的尤妮是史上首位沒有在人類世界（地球）上學的正規光美</li></ul></li>
+<li>以下為重要角色轉學生名單（<span style="color:red;background-color:;">紅字</span>為正規光美以外的成員、<span style="color:green;background-color:;">綠字</span>為正規妖精成員）
+<ul><li>初代：<span style="color:red;background-color:;">入澤奇力亞</span></li>
+<li>SS：美翔舞、<span style="color:red;background-color:;">霧生滿</span>、<span style="color:red;background-color:;">霧生薰</span></li>
+<li>5（gogo）：美美野胡桃</li>
+<li>水果：東剎那</li>
+<li>抓心：花咲蕾</li>
+<li>組曲：黑川艾蓮</li>
+<li>微笑：星空幸、日野茜<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></li>
+<li>心跳：劍崎真琴、圓亞久里<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>、<span style="color:green;background-color:;">夏露露</span>、<span style="color:green;background-color:;">拉克爾</span>、<span style="color:green;background-color:;">蘭斯</span>（？）<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></li>
+<li>幸充：白雪姬</li>
+<li>公主：紅城永久</li>
+<li>魔法：朝日奈未來（轉學到魔法界）、十六夜理子（轉學到無魔法界）、花海言葉（兩地轉學生）</li>
+<li>甜點：<span style="color:red;background-color:;">黑樹利歐</span>、綺羅星雪兒</li>
+<li>擁抱：野乃花、露露．阿穆爾</li>
+<li>星閃：羽衣拉拉</li>
+<li>治癒：花寺和香</li>
+<li>熱帶：蘿拉</li></ul></li></ul><h4 class="in-block"><span id="年齡分佈"></span><span class="mw-headline" id=".E5.B9.B4.E9.BD.A1.E5.88.86.E4.BD.88">年齡分佈</span></h4>
+<ul><li>主角的平均年齡為13到14歲，即國中二年級生
+<ul><li>這樣是為了更貼近觀眾年齡層</li>
+<li>有部分為國一生和國三生，有少數是高中生或國小學生</li>
+<li>在平成年代的光美中，春野遙是唯一一個在主線開始時不是國二生的粉紅，而是國一生
+<ul><li>這可能是為了表達遙剛升上學校時不懂作為公主所具備的氣質和禮儀，以更有力的展示其大幅度的成長</li>
+<li>歷代第二位國一生粉主為熱帶組的夏海真夏<s>，而且人設還是同一個人</s></li></ul></li>
+<li>在平成年代的光美中，美墨渚和春野遙則是目前為止唯二個在主線中（曾經）不是國二生的粉紅組光美，其中美墨渚在MH時期是國三生</li>
+<li>目前為止所有國小生都是追加成員<s>而且都給人很裝迫很臭屁的感覺</s></li>
+<li>目前為止有國小生成員或高中生成員的一代，其餘的成員全都是國二生
+<ul><li>目前為止沒有一代同時存在國小生和高中生作為正規戰士成員</li>
+<li>目前為止有國小生或高中生正規戰士的光美當中，每一組其國中生成員全部都是國二生；反之，有國一生或國三生正規戰士的光美，那一年所有正規光美都是國中生</li></ul></li></ul></li></ul><h4 class="in-block"><span id="角色特質"></span><span class="mw-headline" id=".E8.A7.92.E8.89.B2.E7.89.B9.E8.B3.AA">角色特質</span></h4>
+<ul><li>在頭兩代，主角（二人）大致分為「運動少女（積極型）」和「女學霸（文靜型）」兩種，個性上是互補<s>，前者通常是<a href="/M" title="M">表攻實受</a>，後者通常是<a href="/S" title="S">表受實攻</a></s>
+<ul><li>到了第三代人數增加，亦新增了「文武全才」和「學習和體育都苦手」兩類型
+<ul><li>不過從大集合所有光美而言，每一位的光美的特質都是<b>獨一無二</b>的</li></ul></li>
+<li>當光美的女孩整體而言全部都是著重「<b>義</b>」、具備正義感的人！
+<ul><li><s>但當光美的女孩好像沒有一個是正常的（來歷和性格上都是）</s></li></ul></li>
+<li>粉紅組有<a href="/%E9%AB%98%E9%81%94%E5%85%AB%E6%88%90" title="高達八成">高達八成</a>是讀書苦手、設定上很<a href="/%E6%99%AE%E9%80%9A" title="普通">普通</a>的元氣少女<s>，而且大多都是笨蛋擔當</s>
+<ul><li><s>某內向花控眼鏡娘、某超人級學生會長和病弱少女佔掉剩下的兩成</s></li>
+<li>嚴格來說遙不算讀書苦手，只是她就讀的高貴學園屬於菁英教育水平，學業能力可能只比一般同年級學生稍微高一點的她進了高水平學校自然看起來不好。</li>
+<li>大多是隊伍領袖與精神核心，象徵著該代的重要價值觀
+<ul><li>雖然有些非粉紅組的角色擁有傳統第一主角的元氣活撥形象、或者經驗非常豐富又成熟穩重，卻往往缺乏身為隊長能第一個扶起別人、帶動大家勇往直前的精神特質
+<ul><li>其一例：來海繪里香。但她只有KY的形象</li>
+<li>其二例：平光日向。但她缺乏扶起大家的自信和膽量</li></ul></li></ul></li></ul></li></ul></li></ul><h3 class="in-block"><span id="敵役"></span><span class="mw-headline" id=".E6.95.B5.E5.BD.B9">敵役</span></h3>
+<ul><li>反派通常為一個組織，大致上分為首領、部下/幹部和敵兵三種角色
+<ul><li>在故事大部分時間都會派出部下或幹部來造出「敵兵」跟光美交手</li></ul></li></ul><h4 class="in-block"><span id="首領"></span><span class="mw-headline" id=".E9.A6.96.E9.A0.98">首領</span></h4>
+<ul><li>首領為該組織的領導人，通常是該作的<a href="/%E5%A4%A7%E9%AD%94%E7%8E%8B" title="大魔王">大魔王</a>
+<ul><li>首領大多都是絕對惡，大部分都是被幹掉</li>
+<li>有很少數會被光美洗白，有些甚至因而存活</li>
+<li>自甜點組起，幾乎大部分的反派都成功迴避領便當的命運，甚至連續出現敵役零便當的情況</li>
+<li>有時會出現「真正魔王從背後操縱其他角色，以該名作為傀儡的角色『領導』手下」的情況，即為偽首領
+<ul><li>初出作品為SS</li>
+<li>偽首領如果是被真正的魔王洗腦而<a href="/%E9%BB%91%E5%8C%96" title="黑化">黑化</a>，則最後都是洗白收場</li></ul></li></ul></li></ul><h4 class="in-block"><span id="幹部"></span><span class="mw-headline" id=".E5.B9.B9.E9.83.A8">幹部</span></h4>
+<ul><li>由首領指揮出去迎戰光美的角色，鷲尾天時期的話，跟光美直接交手大都會佔上風
+<ul><li>但在梅澤淳稔時期起大多都是會召喚敵兵來代勞親自交手，還會出現幹部基礎戰鬥力比敵兵弱、甚至根本不會戰鬥的情況（見下）</li>
+<li>一些幹部會在中到後期認真地跟光美直接交手<s>，插旗的表現</s>
+<ul><li>通常會附帶強化肉身或超獸化，下場通常是被主角以星矢式反殺而被發<a href="/%E4%BE%BF%E7%95%B6" title="便當">便當</a></li></ul></li></ul></li>
+<li>有少數幹部因為<a href="/%E4%B8%AD%E3%81%AE%E4%BA%BA" title="中の人">裡面的人</a>的表現而成為「<a href="/%E4%B8%8D%E6%AD%BB%E8%BA%AB" title="不死身">不死身</a>」，被<a href="/%E6%8E%A8%E5%80%92" title="推倒">推倒</a>之後卻能吐便當
+<ul><li>不過有些幹部在設定上本身就是不死之身</li>
+<li>亦有一部分幹部是被首領洗腦而成，下場大多都是洗白</li></ul></li>
+<li>跟主角年齡相近（或外表為國中生）的幹部本身就已經插滿洗白Flag，連下場幾乎是洗白，
+<ul><li>目前除了奇力亞以外這一類型的幹部其下場都一律為存活</li>
+<li>而達瑞沉因為那一代的敵方設定關係所以洗白不能，只能把其消滅</li>
+<li>有些女性幹部甚至會成為正規戰士，例如：伊絲、賽蓮、黛維萊德、露露阿穆爾和菓彩天音（珍托爾）。</li>
+<li>每一代的敵役洗白之後（不包括轉生）幾乎都有一個共通點：作為反派時期的記憶都會予以保留
+<ul><li>剛剛從敵役脫離的追加戰士都會有罪惡感/自責的演出，並因此而覺得自己沒有資格成為光之美少女，目前只有露露是例外<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></li></ul></li></ul></li></ul><p><br></p>
+<h4 class="in-block"><span id="敵兵"></span><span class="mw-headline" id=".E6.95.B5.E5.85.B5">敵兵</span></h4>
+<ul><li>幾乎每一代的敵人都會用到「刺客物質」，附身於一些物件上，甚至是生物，以形成一隻或多隻巨型<a href="/%E6%80%AA%E7%89%A9" title="怪物">怪物</a>。到了後來還會利用人類的負面能量作為怪物的<a href="/%E5%8A%9B%E9%87%8F" title="力量">能量</a>
+<ul><li>目前的例外有甜點組，這代沒有所謂刺客物質的出現，但還是有量產型的雜兵</li>
+<li>光美們跟怪物打一頓後需要使出「大絕」把其<b>淨化</b>以完全消滅</li>
+<li>在這隻/群巨型怪物被幹掉後該名幹部第一時間做的<a href="/%E9%AB%98%E9%81%94%E5%85%AB%E6%88%90" title="高達八成">高達八成</a>是逃跑</li>
+<li>有部分世代的敵組織或幹部身邊都會有一批雜魚<s>給主角<a href="/%E9%96%8B%E7%84%A1%E9%9B%99" title="開無雙">開無雙</a>用</s></li></ul></li></ul><h4 class="in-block"><span id="其他"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96">其他</span></h4>
+<ul><li>初代時敵我兩方人數還算平均，還有過敵眾我寡的情形，第二代後期漸漸走向圍毆路線，第三代由於人數眾多，圍毆更變成常態<s>，第四代甚至變成不圍毆就打不贏</s>，完全符合動畫裡常見的台詞「我們（多數）才不會輸給你（少數）的！」
+<ul><li><s>我方的男角大都是<a href="/%E6%AD%BB%E5%B0%8F%E5%AD%A9" title="死小孩">死小孩</a>性格的<a href="/%E6%B7%AB%E7%8D%B8" title="淫獸">淫獸</a>，而且一代比一代無能，從第一、二代的道具退化成第三、四代的<a href="/%E8%B7%AF%E4%BA%BA" title="路人">路人</a></s>
+<ul><li><s>到了第十四代，<a href="/%E8%B7%AF%E4%BA%BA" title="路人">路人</a>成了妖精的代名詞</s></li></ul></li>
+<li>敵方角色被感化是固定戲碼，尤其外表年齡與主角接近者（通常為臥底役）為高危險群
+<ul><li><s>洗腦後普遍有智商下降之情形，在此呼籲「不自由，毋寧死」之思想</s></li>
+<li>被洗白角色參見<a href="/%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97/%E5%90%84%E4%B8%96%E4%BB%A3%E4%B8%BB%E8%A6%81%E4%BA%BA%E7%89%A9%E7%B0%A1%E8%A1%A8" title="光之美少女系列/各世代主要人物簡表">光之美少女系列/各世代主要人物簡表</a>「歷代敵方首領幹部列表」</li></ul></li></ul></li>
+<li>敵人愈來愈傾向幽默搞笑風，與傳統的恐怖<s><a href="/%E8%AE%8A%E6%85%8B" title="變態">變態</a></s>反派相較之下可愛許多
+<ul><li>第一代整體氣氛偏向陰沉，偶爾才會出現插花的搞笑橋段，第二代的中頭目會互相吐槽，水靈夫人還會（帶領其他幹部）亂入鎮上活動，第三代有心酸小職員和胃痛時間（上司虐下屬），第四代初期三個中頭目有兩個比主角萌（咦）</li>
+<li>前三代的敵人較偏向怪物化，但第四代的俊美組合之後反派恐怖程度組合越見下降</li>
+<li><a href="/%E5%A4%A7%E9%AD%94%E7%8E%8B" title="大魔王">大魔王</a>基本上還是傳統的絕對惡（大概只有狄絲帕萊亞一個例外）</li>
+<li>到了公主組又回復恐怖陰沉的氣氛<s>不恐怖陰沉哪裡稱得上<b>絕望</b>？</s></li>
+<li><s>到了魔法使雖然又有些恐怖，但敵人明顯地被路人化，出來只是為了找碴……</s></li>
+<li><s>甜點組都播了一大半但敵人一就是一團謎</s>甜點組的每位敵人戰鬥方式完全不同，毫無標準可言</li>
+<li>之後幾代的設定就比較正經了</li></ul></li></ul><h3 class="in-block"><span id="主角們的結局"></span><span class="mw-headline" id=".E4.B8.BB.E8.A7.92.E5.80.91.E7.9A.84.E7.B5.90.E5.B1.80">主角們的結局</span></h3>
+<ul><li>在敵組織被完全瓦解之後，代表主角們光美的使命正式結束，而主角們的下場：
+<ul><li>變身能力：
+<ul><li>失去變身能力<s>，不過因為大人的因素全部都會再次得到變身的力量</s>
+<ul><li>目前包括：水果<sup id="cite_ref-novel_29-0" class="reference"><a href="#cite_note-novel-29">[29]</a></sup>、公主<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>、魔法</li></ul></li>
+<li>保留變身能力
+<ul><li>最明顯的例子有心跳、甜點</li></ul></li></ul></li>
+<li>主角群體：
+<ul><li>聚：除SS、水果以外，初代至幸充為止主角+妖精即使要分開，全都無一例外過了一會（？）就重聚而不再分開一段長時間</li>
+<li>離：SS、水果、以及自公主組開始的每一部光美其結局一律都是主角+妖精分開<s>，畢竟俗語有云：天下無不散之筵席！</s>
+<ul><li>SS是咲舞滿薰跟妖精們分別</li>
+<li>水果組是刹那和其他光美们分別</li>
+<li>公主組開始是完全解散，所有成員一律各奔東西</li>
+<li>但<s>因為大人旳理由，</s>魔法組和甜點組在最終回時為了迎接率先登場的下一代的粉紅而會再次聚在一起</li>
+<li>擁抱組是先跟小光見面才<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">永久（正常情況下）</span>解散的</li>
+<li>星閃組則是<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">小光的夢，實際上上一集就已經失去變身能力而解散了</span>
+<ul><li><s>但由于大集合系列(ry，你懂的</s></li></ul></li></ul></li></ul></li>
+<li>另一方面，自幸充開始，最終回時本代粉紅都會<s>效法隔壁戰隊棚</s>跟下一代粉紅出現交接畫面</li></ul></li></ul><h3 class="in-block"><span id="代表店面/屋子"></span><span class="mw-headline" id=".E4.BB.A3.E8.A1.A8.E5.BA.97.E9.9D.A2.2F.E5.B1.8B.E5.AD.90">代表店面/屋子</span></h3>
+<ul><li>每一季都有間經常出現的代表性店面（而且都有作成<s>昂貴的</s>娃娃屋與盒玩來販售<s>，根本就是東映的陰謀</s>）
+<ul><li>第一代是藤田茜所經營的章魚燒小舖</li>
+<li>第二代則是咲家的麵包店「PANPAKA」
+<ul><li>從這代之後搭配的人偶從洋娃娃變成中型的公仔</li></ul></li>
+<li>第三代是<s>魔法堂</s>Natts House
+<ul><li>光是Natts House就有兩種（無誤），到GOGO播出時還出了帕魯米埃王國的小提盒</li></ul></li>
+<li>第四代則是<s>怪叔叔</s>小薰的甜甜圈攤子</li>
+<li>第五代是來海家的流行服飾店「Fairy Drop」<s>，隔壁的花店淚目</s></li>
+<li>奇怪的是第六代依然製作人偶但沒娃娃屋（浪費蛋糕店素材？）但有紙片屋</li>
+<li>第七代是圖書館<s>，頗有為了出玩具而做的設定感</s></li>
+<li><s>自第八代起都是些雜七雜八的商店街、第九代又有蛋糕店醫院等地、第十代就是時裝店</s></li>
+<li>到了第十一代就是未來所吃的草莓蜜瓜包的包餅店攤子「MofuMofu Bakery」</li>
+<li>第十二代是主角們打工的糕點店「KiraKira Patisserie」</li>
+<li>第十三代是哈利在樹下建立的時裝店「Beauty Hari」</li>
+<li>第十四代是艾蓮娜家經營的花店「Sonrisa」，不過變成玩具的是拉拉的火箭</li>
+<li>第十五代有知由家的溫泉旅館、日向家的獸醫診所和果汁店，而變成玩具的則是果汁店</li>
+<li>第十六代<s>因為商品側重於化妝品上面所以</s>沒有推出玩具屋，目前連珊瑚家的「Pretty Holic」都沒有變成玩具，不過跟前代玩具屋同規格的換裝公仔反而有出</li></ul></li></ul><h3 class="in-block"><span id="活動/節日"></span><span class="mw-headline" id=".E6.B4.BB.E5.8B.95.2F.E7.AF.80.E6.97.A5">活動/節日</span></h3>
+<ul><li>夏日祭典
+<ul><li>通常一眾（正規）光美（和重要的朋友們）都會穿上浴衣一同參與夏日祭典</li>
+<li>目前只有抓心組和甜點組完全沒有在劇中參與過夏日祭典</li>
+<li>變體：浴衣回/和服回
+<ul><li>不過甜點組在阿緣家中作客時有穿過和服，新年祝詞都有穿上和服</li>
+<li>抓心組雖然沒有夏日祭典，不過有在訓練營中穿過浴衣</li></ul></li>
+<li>魔法組則是到魔法界慶祝夏日祭典，穿的是魔法學校的校服，是少數完全沒有穿過和服的一組</li></ul></li></ul><ul><li>睡在一起
+<ul><li>種類包括：集訓（初代）、學校旅行（初代、微笑等）、睡衣派對、借宿</li></ul></li></ul><ul><li>文化祭
+<ul><li>多見於較早期的光美作品中，用於加強描寫光美們的校園生活</li>
+<li>有時候光美會在文化祭得到某些體悟，形成戰鬥力成長的關鍵</li></ul></li></ul><ul><li>萬聖節</li></ul><ul><li><a href="/%E8%81%96%E8%AA%95%E7%AF%80" title="聖誕節">聖誕節</a>
+<ul><li>這時期因為是接近每一代（輯）光美的完結，往往象徵著該年光美即將迎來終結</li>
+<li>目前只有治癒組和熱帶組沒出現聖誕節劇情</li></ul></li></ul><ul><li>泳衣回
+<ul><li>初見於公主組，在此之前一度被視為幼女番的禁忌。
+<ul><li>在公主組之前即使到海灘玩耍，主角們都不會穿上泳衣<s>，跟海灘上其他身穿泳衣的路人相比顥得很突兀</s>。</li>
+<li>自公主打破這個禁忌起，如果把星閃組中變為人魚的情況撇除不算，每一年都會有一次泳衣回。</li></ul></li>
+<li>其實早在新鮮組中美希就有穿上過學校泳衣，不過又因為<s>才兩幕而且完全沒福利的</s>洗澡畫面而<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a>。</li></ul></li></ul><h3 class="in-block"><span id="與戰隊、假面騎士間的關聯捏他"></span><span class="mw-headline" id=".E8.88.87.E6.88.B0.E9.9A.8A.E3.80.81.E5.81.87.E9.9D.A2.E9.A8.8E.E5.A3.AB.E9.96.93.E7.9A.84.E9.97.9C.E8.81.AF.E6.8D.8F.E4.BB.96">與戰隊、假面騎士間的關聯<s><a href="/%E6%8D%8F%E4%BB%96" title="捏他">捏他</a></s></span></h3>
+<ul><li>由第四輯《Yes！光之美少女5》開始，經常和前面的戰隊和騎士一起做宣傳。
+<ul><li>其實只要看播放時間就明白：超級英雄時段的戰隊、騎士、光美，連續一個半小時都是東映的作品，不拉起來<a href="/%E9%85%8D%E5%B0%8D" title="配對">配對</a>宣傳才怪</li>
+<li>第一輯《ふたりはプリキュア》在選角時，已經無意間與《<a href="/%E5%81%87%E9%9D%A2%E9%A8%8E%E5%A3%AB%E7%B3%BB%E5%88%97" title="假面騎士系列">仮面ライダーBLACK</a>》拉上關係 <sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></li>
+<li>初代有出過 <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm10468296">與特搜戰隊共演的廣播劇CD</a>，MH則是 <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm1030604">與魔法戰隊共演</a>；不過兩者都是雜誌贈品，實物極難入手</li>
+<li>在第三代，夢原曾經和<a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%AD%E3%83%90" title="仮面ライダーキバ">假面騎士Kiva</a>一起在第五輯第十集（ep.59）OP中一起出現並作連合宣傳<s>，但最後的結果是兩者的收視低落…（幸好台版播出帶沒有出現此一景象）</s></li>
+<li>在那之後仍有「週日早上時段特別合演」的東西，多在ED出現，如第五輯某次ED就與<a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB" title="仮面ライダーダブル">假面騎士W</a>、侍戰隊真劍者<s>和不重要的Battle Spirits</s>作宣傳</li>
+<li>同人創作中也會將三者合稱為「日曜日の守護者」，在島上也有人合稱這三套為「東映御三家」</li>
+<li><s>不過在日本和單純只有光美的討論區以外的地方反而是完完全全的<a href="/%E9%99%B0%E5%BD%B1%E4%BA%BA" title="陰影人">陰影作</a></s></li></ul></li></ul><ul><li>其實在東映的定位<s>及實質內容</s>上，她們已經和特攝戰隊、假面騎士無異，也因此在還沒有專版時此系列經常<a href="/%E4%BA%82%E5%85%A5" title="亂入">亂入</a><a href="/%E7%B3%9F%E7%B3%95%E5%B3%B6" title="糟糕島">島上</a>的特攝版
+<ul><li>後來由於<s>有毁滅世界的Decade</s>騎士惡搞太有梗，各代假面騎士為題材的惡搞大為流行（從昭和的Black到當時的OOO都被拖下水），Pixiv隨便一找就是一大堆惡搞圖；甚至出現以「三十分鐘之前/之後的世界」互為稱呼的情形。</li>
+<li>東映也經常有意無意把假面騎士和光美放在一起宣傳。近期連推出SHF和Chibi-Art也是兩套在一起…</li>
+<li>微笑組的主角們也自稱「超級英雄」而不是「魔法少女」；無巧不成話，《<a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89" title="仮面ライダーウィザード">假面騎士Wizard</a>》的第二騎士於第24話也自稱「魔法少女」…</li></ul></li></ul><ul><li><b>到此為止的說明，係以播放順為「戰隊、騎士、光美」進行解說</b>。
+<ul><li>2020年的治癒組，是史上首次跟電影版戰隊互動，也是播放順更改為「光美、騎士、戰隊」後首見的大型合作。</li></ul></li></ul><ul><li>附帶一提，跟騎士和戰隊一樣，每年都會有該年作品的現場英雄秀給小友們觀看
+<ul><li><s>只是在看慣二次元面孔的大友看來因為現實皮套的面孔一直笑著很容易產生恐怖谷現象</s></li>
+<li>台灣也曾引進戰隊與騎士秀<s>但光美只是中場活動+拍照活動附屬品</s></li></ul></li></ul><ul><li>總括而言，幾乎所有特攝作品（如：戰隊、假面騎士、<a href="/%E5%93%A5%E5%90%89%E6%8B%89" class="mw-redirect" title="哥吉拉">哥吉拉</a>……）都被連上關係，甚至連賽亞人、聖鬥士星矢、<a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B" title="遊☆戯☆王">遊戲王</a>（特別是無印動畫）、<a href="/%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA" title="デジモンシリーズ">數碼寶貝</a><a href="/%E6%88%90%E5%8F%A5/%E8%BA%BA%E8%91%97%E4%B9%9F%E4%B8%AD%E6%A7%8D" title="成句/躺著也中槍">都中槍</a>，最正常被牽連的是《小魔女Doremi》<s>因為除了哥吉拉之外都是東映的作品</s></li>
+<li>除騎士和戰隊外，由於十年來所參與的聲優甚多，幾乎任何動畫都有機會被連上關係，常見的有：
+<ul><li><a rel="nofollow" class="external text" href="http://dic.pixiv.net/a/%E3%82%BF%E3%83%9E%E3%82%AD%E3%83%A5%E3%82%A2">タマキュア</a>：<a href="/%E9%8A%80%E9%AD%82" title="銀魂">銀魂</a> + 光美</li>
+<li><a rel="nofollow" class="external text" href="http://dic.pixiv.net/a/%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%82%AD%E3%83%A5%E3%82%A2">ジョジョキュア</a>：<a href="/JOJO" class="mw-redirect" title="JOJO">JOJO</a> + 光美</li>
+<li><a rel="nofollow" class="external text" href="http://dic.pixiv.net/a/%E3%82%BB%E3%82%A4%E3%83%B3%E3%83%88%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2">セイントプリキュア</a>：聖鬥士星矢 + 光美</li>
+<li><a rel="nofollow" class="external text" href="https://dic.pixiv.net/a/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A5">プリキュアンジュ</a>：<a href="/CROSSANGE_%E5%A4%A9%E4%BD%BF%E8%88%87%E9%BE%8D%E7%9A%84%E8%BC%AA%E8%88%9E" title="CROSSANGE 天使與龍的輪舞">CROSSANGE</a> + 光美</li>
+<li>其他請參考 <a rel="nofollow" class="external text" href="http://dic.pixiv.net/a/%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%BF%E3%82%B0%E4%B8%80%E8%A6%A7">Pixiv列表</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="在華人地區的播映狀況"></span><span class="mw-headline" id=".E5.9C.A8.E8.8F.AF.E4.BA.BA.E5.9C.B0.E5.8D.80.E7.9A.84.E6.92.AD.E6.98.A0.E7.8B.80.E6.B3.81">在華人地區的播映狀況</span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="台灣的播放"></span><span class="mw-headline" id=".E5.8F.B0.E7.81.A3.E7.9A.84.E6.92.AD.E6.94.BE">台灣的播放</span></h3>
+<ul><li>台版翻譯的人名和必殺深受東森幼幼台的<a href="/%E7%BF%BB%E8%AD%AF%E5%86%8D%E5%89%B5%E4%BD%9C" title="翻譯再創作">翻譯再創作</a>之害；特別是第三代與第四代，稱號愈改愈離譜，受害者迄今至少七人。
+<ul><li>光之美少女這個名稱，一般的猜測是由於第一代的光美們為光之園的使者，而Pretty Cure的Pretty本身是漂亮的意思，所以合併為光之美少女這個名詞<s>，順便致敬美少女戰士</s></li>
+<li>初代和二代也有不少微妙的「翻譯」（如亮晶晶和轉轉等字詞），但第三代因為嚴重無視原文，又被抱怨到維基百科上而最為人所知<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>。</li>
+<li>無視姓名翻譯，甚至和諧掉PC5第69集中解釋的主角姓名由來。</li>
+<li>四代播出名稱為「Fresh Pretty Cure幸福精靈」，似乎有意將「光之美少女」之譯名脫離。也導致主角們的稱號遭到<a href="/%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4" title="砍掉重練">砍掉重練</a>，完全無視過去翻譯原則。</li>
+<li>五代後又用回「光之美少女」，翻譯原則用回以往慣例，水準有明顯進步，只有少數意義不明的改名較為人詬病
+<ul><li>雖然抓心的副標題被翻成「甜蜜天使」，組曲變成「美樂（ㄌㄜˋ）天使」，微笑也被往後面挪並且硬塞「天使」兩個字進去，不過本來那些副標題直譯的話會變得很微妙，所以也不能說是翻譯人員亂搞就是了……</li></ul></li></ul></li></ul><ul><li>本系列直到《スマイルプリキュア》為止一直都是在東森幼幼台播送，未料《ドキドキ！プリキュア》竟然在前作結束放送的約四個多月後突襲式的移籍到同體系的電影台首播<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><ul><li>首播期間：2015/11/23～12/8，周一至周五每日於清晨開始，並連續放送四集
+<ul><li>放送開始時間落在5:20~7:15間（而且早上六點前被定位成午夜），另外12/8則是一次播完五集</li>
+<li>這種時段主客層與大友們不是還在睡就是要上學上班<s>，大家都看不到還<b>心動</b>什麼<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>，根本心碎了</s></li></ul></li>
+<li>重點是被分類為<b>保護級</b>。</li>
+<li>後來還是在東森幼幼台重播了，但沒賣玩具</li></ul></li>
+<li>2017年九月初中華電信MOD宣布開始播映《ドキドキ！プリキュア》，而且有<b>雙語版本</b>。
+<ul><li>十二年來終於出現非東森轄下頻道播映的光之美少女系列了，可喜可賀</li></ul></li></ul><ul><li>同年10/27，光美系列臉書官網公開甜點組在11月開設快閃甜點店的消息。
+<ul><li>同時，又宣布在專屬的Youtube頻道每周播出兩集。</li>
+<li><s>前輩的充電組、公主組與魔法組表示：看東森幼幼台怎麼交代有我們加入的電影版</s></li>
+<li><s>另外在甜點組的大結局裡後輩擁抱組提前登場的畫面以及結尾甜點組傳到擁抱組的世代交接儀式亦被東森幼幼台完美保留，但是否會引入擁抱組目前還是未知數</s></li>
+<li><s>還有就是甜點組第37話裡電影版角色讓=皮埃爾提前登場的畫面同樣亦被完美保留，是否會引入甜點組電影版目前也(ry</s></li>
+<li><s>而現在，擁抱組的劇情裡出現了13世代的所有光美……(ry</s></li></ul></li></ul><ul><li>在甜點組播放完兩年多之後，蝸牛台終於在2020年7月25日直接跳過擁抱組與星閃組播出治癒組，定名為【元氣魔法♥光之美少女】，逢星期六早上8:00~8:30播映（2020年10月10日開始改為逢星期六早上8:00~8:25播映），創下歷代最快代理紀錄<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup><ul><li>同年11/20，也在專屬的Youtube頻道每週更新一集。</li></ul></li>
+<li>治癒組結束後接著播出熱帶組，定名為【熱情閃耀♥光之美少女】，並且刷新最快代理紀錄<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>。</li></ul><h4 class="in-block"><span id="台版配音相關"></span><span class="mw-headline" id=".E5.8F.B0.E7.89.88.E9.85.8D.E9.9F.B3.E7.9B.B8.E9.97.9C">台版配音相關</span></h4>
+<ul><li><a href="/%E6%9E%97%E7%BE%8E%E7%A7%80(%E9%85%8D%E9%9F%B3%E5%93%A1)" title="林美秀(配音員)">林美秀</a>與<a href="/%E6%A5%8A%E5%87%B1%E5%87%B1" title="楊凱凱">楊凱凱</a>有擔任過第一、三代TV版的主要角色（林：雪城乃香、春日野麗；楊：九條光、夢原望、秋元小町），並且也在第二代劇場版擔任過兩位主角（林：美翔舞；楊：日向葵）；但真正的「三朝元老」則是香港的林元春。</li>
+<li>楊凱凱與<a href="/%E5%82%85%E5%85%B6%E6%85%A7" title="傅其慧">傅其慧</a>兩人都在第三代各飾演兩名主角（楊：夢原望、秋元小町；傅：夏木玲、美美野胡桃），<s>這種人力運用實在太操了吧</s>。</li>
+<li><s>如果台灣有播《All Stars》的話，那麼人力運用該怎麼辦？</s>
+<ul><li>不過台灣還是播了，甚至連DX2和DX3也播了</li></ul></li>
+<li><s>其實不只是光美，人力運用算是台灣配音界的老問題，這裡就不贅述了</s></li>
+<li>不過從心跳組開始，台版使用新人配音員的比例有明顯上升，甚至治癒組的主角們都是資歷較淺的配音員，算是個好現象……吧<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></li></ul><h4 class="in-block"><span id="主題曲的翻唱相關"></span><span class="mw-headline" id=".E4.B8.BB.E9.A1.8C.E6.9B.B2.E7.9A.84.E7.BF.BB.E5.94.B1.E7.9B.B8.E9.97.9C">主題曲的翻唱相關</span></h4>
+<ul><li>片頭曲和片尾曲翻唱也就算了，誠意卻每況愈下
+<ul><li>第一代：
+<ul><li>第一季片頭曲《DANZEN!ふたりはプリキュア》和片尾曲《ゲッチュウ!らぶらぶぅ?!》受到翻唱不過倒是頗受好評。</li>
+<li>第二季片頭曲原則上與上一季相同。片尾曲只有第一首《ムリムリ!?ありあり!!IN じゃあな～い?!》遭到翻唱，第二首《ワンダー☆ウインター☆ヤッター！！》則慘遭<a href="/%E9%AC%BC%E9%9A%B1" title="鬼隱">鬼隱</a>。此外ED1中原本會有每一集內容的小小回顧，但蝸牛台播的全都是同一個版本。</li></ul></li>
+<li>第二代：大概是片頭曲《まかせて★スプラッシュ☆スター★》曲調太難，所以重創一首新歌<s>，<a href="/%E6%88%90%E5%8F%A5/%E6%88%91%E7%9A%84%E2%97%8B%E2%97%8B%E5%A4%AA%E2%97%8F%E4%BA%86%E2%80%A6%E7%9C%9F%E7%9A%84%E9%9D%9E%E5%B8%B8%E7%9A%84%E2%97%8F%E2%80%A6%E8%80%8C%E4%B8%94%E2%97%8F%E5%88%B0%E4%B8%8D%E8%A1%8C%E2%80%A6" title="成句/我的○○太●了…真的非常的●…而且●到不行…">誇張到不行</a></s>。而片尾曲《「笑うが勝ち!」でGO!》和最受好評的《ガンバランスdeダンス》一樣慘遭鬼隱。</li>
+<li>第三代
+<ul><li>第一季片頭曲《プリキュア5、スマイルgo go!》除了翻唱，還增加了許多詭異的效果音，歌詞也寫得不太順暢；片尾曲《キラキラしちゃって My True Love!》也再度被鬼隱。<s>真是愈來愈差勁。</s></li>
+<li>更誇張的是在片頭曲上被插入某些無關動畫、不知道為什麼會出現的藝人，顯然是欺負小朋友不會抗議這種過份的商業化宣傳。</li>
+<li>不過第二季直接使用原版OP，<s>看來是蝸牛台沒錢請藝人翻唱</s>；前期片尾曲《手と手つないでハートもリンク!!》依舊是被鬼隱。另外蝸牛台的招牌大布偶與中文翻唱版ED已於2010年6月20日（ep.60）正式重出江湖，雖與原始ED曲調《ガンバランスdeダンス〜希望のリレー〜》相同，但似乎是重新改編原曲。</li></ul></li>
+<li>第四代
+<ul><li>前期片尾曲《You make me happy!》以中文翻唱，後期片尾曲照樣被鬼隱。</li></ul></li></ul></li>
+<li>之後其他幾代的光美OPED都乖乖播放日文原版的，但是到了2020年代理治癒組時……
+<ul><li>不但以中文翻唱前期片尾曲《ミラクルっと♥Link Ring！》，還把這首當成片頭曲在用，原先的片頭曲《ヒーリングっど♥プリキュア Touch!!》慘遭鬼隱<s>這誰提出的餿主意</s></li>
+<li><s>接下來就等著看陰森台要怎麼處理《エビバディ☆ヒーリングッデイ！》了，雖然沒意外應該也是翻唱當後期片頭曲</s></li></ul></li></ul><h3 class="in-block"><span id="香港的播放"></span><span class="mw-headline" id=".E9.A6.99.E6.B8.AF.E7.9A.84.E6.92.AD.E6.94.BE">香港的播放</span></h3>
+<table class="wikitable" style="margin: 0 auto; text-align: center"><tbody><tr><td>雖然歡迎香港島民協助補完，但請<b>不要將『連香港大友也不想深入了解的瑣碎內幕』給放進來</b>。
+</td></tr></tbody></table><ul><li>截至幸充組都是在無線電視（TVB）播放
+<ul><li><s>期間曾盛傳轉投有線或者Now台播放，但播放權需要於廉政公署、勞工處、通訊局審核。</s>後由ViuTV接手播放後面的作品。</li>
+<li>各代播放時間都比台灣晚，譯名基本上大都沿用台版，但後來有改善了。
+<ul><li>其實主要原因是電視台不是由東映直接賣入，而是經台灣代理賣入，後來改由東映北角分公司買入。</li></ul></li>
+<li>在第四輯中，雖然全名與台版不同，但暱稱還是有沿用。</li>
+<li>曾有消息指TVB會播第八代，直到2017年1月30日才開始播映（原定2016年2月3日），逢星期一至五下午4:15~4:45播映。這一代也用回日文OP，並兩度用曾秀清配反派，同時跟台灣一樣玩具也被<a href="/%E9%AC%BC%E9%9A%B1" title="鬼隱">鬼隱</a>了。</li>
+<li>在第八代完了將近三年之後，TVB終於在2020年1月21日開始播映第九代，逢星期二、三下午5:20~5:50播映，這一代繼續沿用日文OP，並三次採用曾佩儀替代者曾秀清配反派，而且第1至34話片頭初代至心跳光美的10周年賀詞外加本作4位光美的500集紀念賀詞亦被完美保留，但最終回結束後的可愛天使傳遞給繁花天使的世代交接畫面則不幸被TVB<a href="/%E9%AC%BC%E9%9A%B1" title="鬼隱">鬼隱</a>了<s>，其中原因可能是電盈管理層欲和無記爭《GPPC》播放權</s>。</li></ul></li>
+<li>至於自公主組起的本篇作品，只在兒童雜誌《Angel》和《Hello!》中以專題形式刊登
+<ul><li>此動畫也成為無線、香港開電視和Viu TV三家香港電視廣播公司之爭，幾年也沒有結果，結果之後幾代都是停留在漫畫連載</li>
+<li>到了魔法組，除了《Hello!》的標題直接沿用英文版的翻譯「Witchy Pretty Cure!」之外，亦<a href="/%E4%BF%AE%E6%AD%A3" title="修正">修正</a>回中文名「魔法使光之美少女！」</li></ul></li>
+<li>2021年，ViuTv宣佈於11月17日起播放治癒組，直接跳過公主~星閃組五代光美</li>
+<li>2022年，ViuTv宣佈於5月21日起播放美食組，直接跳過熱帶組
+<ul><li>現時東映御三家(戰隊、騎士、光美)，除了戰隊保留在TVB播放外，騎士和光美在香港的播放權均由ViuTv奪得</li>
+<li>另外超人力霸王新系列也是在ViuTv播出<s>，所以戰隊會轉到ViuTv播出的機會率...</s></li></ul></li></ul><h4 class="in-block"><span id="港版配音相關"></span><span class="mw-headline" id=".E6.B8.AF.E7.89.88.E9.85.8D.E9.9F.B3.E7.9B.B8.E9.97.9C">港版配音相關</span></h4>
+<ul><li>下表以配音員負責之角色人數排序。</li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>香港配音員</th>
+<th>配音角色</th>
+<th>人數</th>
+<th>備註(請盡可能僅補充與光美相關之內容)
+</th></tr><tr><td>林元春<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></td>
+<td>九條光、日向葵、夢原望
+</td>
+<td rowspan="4">3
+</td>
+<td>幾乎三代都是主要角色，另外她是《多啦A夢（亞洲）》的多啦美和《櫻桃小丸子》的穗波小玉配音。
+</td></tr><tr><td>鄭麗麗
+</td>
+<td>雪、月光、鑽石
+</td>
+<td>《櫻桃小丸子》領導者<br>另外也為美美野胡桃的本體米露的配音
+</td></tr><tr><td>陳皓宜
+</td>
+<td>鳳梨、節奏、幸運草
+</td>
+<td>她亦是白玉蜜柑配音
+</td></tr><tr><td>劉惠雲
+</td>
+<td>火、花蕾、旋律
+</td>
+<td>幾乎三代都是主要角色
+</td></tr><tr><td>梁少霞
+</td>
+<td>美翔舞、美美野胡桃<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></td>
+<td rowspan="8">2
+</td>
+<td>她亦在1991至93年間接替孫明貞配《魔法使莎莉》的夢野莎莉和《哆啦A夢（亞洲）》的源靜香
+</td></tr><tr><td>何寶珊
+</td>
+<td>快樂、公主
+</td>
+<td>現(2020/10)已辭職。
+</td></tr><tr><td>凌晞
+</td>
+<td>和平、可愛
+</td>
+<td>她是《星夢學園》領導人
+</td></tr><tr><td>成瑤瓔
+</td>
+<td>美麗、聖劍
+</td>
+<td>
+</td></tr><tr><td>羅孔柔
+</td>
+<td>旋風、蜂蜜
+</td>
+<td>她是《星光樂園》領導者
+</td></tr><tr><td>詹健兒
+</td>
+<td>謬思、命運
+</td>
+<td>
+</td></tr><tr><td>黃昕瑜
+</td>
+<td>陽光、愛心
+</td>
+<td>她在2015至7年接替病逝的林芷筠父親保全成為《多啦A夢（亞洲）》主角多啦A夢配音
+</td></tr><tr><td>何璐怡
+</td>
+<td>檸檬、皇牌
+</td>
+<td>她是《守護甜心》和《寶石寵物》領導者，現取代何守信。<s>因為有「港版<a href="/%E9%87%98%E5%AE%AE%E7%90%86%E6%83%A0" title="釘宮理惠">釘宮</a>」的稱號所以為皇牌天使配音也是理所當然的事</s>
+</td></tr></tbody></table><h4 class="in-block"><span id="主題曲的翻唱相關_2"></span><span class="mw-headline" id=".E4.B8.BB.E9.A1.8C.E6.9B.B2.E7.9A.84.E7.BF.BB.E5.94.B1.E7.9B.B8.E9.97.9C_2">主題曲的翻唱相關</span></h4>
+<ul><li>第一代由Twins演唱主題曲，雖然fans間的評價多為負面，但其「有你有我，一pair一伙，飛天穿梭」的歌詞可謂深入民心（？），連港版<a href="/%E9%8A%80%E9%AD%82" title="銀魂">銀魂</a>也惡搞過。</li>
+<li>第二代由於裸照事件引起全港市民關注而以日本原曲作OP，但第二個ED《ガンバランスdeダンス》就不幸地鬼隱了。</li>
+<li>第三代第一輯中文粵語OP再次出現，主唱者為當時TVB新進演員樂瞳，填詞和處理手法以近期來說已經算是不錯。到了第二輯曾經出現由陳慧敏主唱的中文粵語OP，但只用了約十集就再次使用日文OP。
+<ul><li>另外自GoGo的第11集起改用劉惠雲接手火天使，以接替退行的楊善諭。</li></ul></li>
+<li>第四代一開始就用回日文OP，而翻譯上有意無意避開台版中譯而直接用回英文。配音員則起用羅杏芝、陳皓宜等新人。</li>
+<li>第五代一開始也是用日文OP，幸好一些在台灣被更改的譯名有跟隨原文意思自己翻譯回來（如：花小蜜→花咲蕾、明堂院愛樹→明堂院樹），而劉惠雲成功擊敗林元春和楊善諭兩個競爭對手配花天使一角。</li>
+<li>可惜去到第六代又用回中文OP，用的是糖妹國語大碟中收錄的日語改編粵語作品，名字也直接使用台版中譯，劉惠雲則連續第二季配粉紅合共三次並成功擊敗林元春和楊善諭，並起用陳琴雲配節拍天使，同時這一部是唯一一部次回予告在TVB沒有被<a href="/%E9%AC%BC%E9%9A%B1" title="鬼隱">鬼隱</a>的一部
+<ul><li>同時自本代起以後的電影版不再會在TVB播出，改為推出對應的中文版漫畫本
+<ul><li>因此沒有像台灣一樣播出DX3及其之後的所有電影版</li></ul></li></ul></li>
+<li>而第七代則跟隨台灣大有進步的中譯，而且又用回日文OP</li></ul><h3 class="in-block"><span id="中國的播放"></span><span class="mw-headline" id=".E4.B8.AD.E5.9C.8B.E7.9A.84.E6.92.AD.E6.94.BE">中國的播放</span></h3>
+<ul><li>目前中國地區所有光美系列的網路播放管道都在愛奇藝手上
+<ul><li>不只光美系列，整個東映動畫的作品播放權都被愛奇藝獨佔</li>
+<li>人物名稱翻譯方面倒是中規中矩</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="系列作品條目列表"></span><span class="mw-headline" id=".E7.B3.BB.E5.88.97.E4.BD.9C.E5.93.81.E6.A2.9D.E7.9B.AE.E5.88.97.E8.A1.A8">系列作品條目列表</span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>第一代：<a href="/%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AF%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="ふたりはプリキュア">ふたりはプリキュア</a> - 俗稱黑白雙煞、初代組、Futari Wa</li>
+<li>第二代：<a href="/%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AF%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2Splash_Star" title="ふたりはプリキュアSplash Star">ふたりはプリキュアSplash Star</a> - 俗稱SS組、花鳥組</li>
+<li>第三代：<a href="/Yes!%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A25" title="Yes!プリキュア5">Yes!プリキュア5</a> - 俗稱戰隊組、Y5</li>
+<li>第四代：<a href="/%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2!" title="フレッシュプリキュア!">フレッシュプリキュア!</a> - 俗稱水果組、FPC、フレプリ</li>
+<li>第五代：<a href="/%E3%83%8F%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2!" title="ハートキャッチプリキュア!">ハートキャッチプリキュア!</a> - 俗稱抓心組、HCPC、HPC、ハトプリ</li>
+<li>第六代：<a href="/%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2%E2%99%AA" title="スイートプリキュア♪">スイートプリキュア♪</a> - 俗稱音樂組、組曲組、Suite、スイプリ</li>
+<li>第七代：<a href="/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2!" title="スマイルプリキュア!">スマイルプリキュア!</a> - 俗稱海產組、微笑組、Smile、スマプリ</li>
+<li>第八代：<a href="/%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD!%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="ドキドキ!プリキュア">ドキドキ!プリキュア</a> - 俗稱心跳組、Doki、ドキプリ</li>
+<li>第九代：<a href="/%E3%83%8F%E3%83%94%E3%83%8D%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2!" title="ハピネスチャージプリキュア!">ハピネスチャージプリキュア!</a> - 俗稱充電組、幸充組、茶几組、HaCha、ハピプリ、ハチャプリ</li>
+<li>第十代：<a href="/Go!%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="Go!プリンセスプリキュア">Go!プリンセスプリキュア</a> - 俗稱公主組、GoPri、Goプリ、プリプリ<s>、<a href="/Prpr" title="Prpr">prpr</a></s></li>
+<li>第十一代：<a href="/%E9%AD%94%E6%B3%95%E3%81%A4%E3%81%8B%E3%81%84%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2!" title="魔法つかいプリキュア!">魔法つかいプリキュア!</a> - 俗稱魔女組、魔法組、MPC、まほプリ</li>
+<li>第十二代：<a href="/%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E2%98%86%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%A2%E3%83%A9%E3%83%A2%E3%83%BC%E3%83%89" title="キラキラ☆プリキュアアラモード">キラキラ☆プリキュアアラモード</a> - 俗稱甜點組、閃耀組、獸耳組、KPC、<s>プリパラ</s>プリアラ、<s>キラ☆プリパラダイス</s>キラプリ</li>
+<li>第十三代：<a href="/HUG%E3%81%A3%E3%81%A8!%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="HUGっと!プリキュア">HUGっと!プリキュア</a> - 俗稱擁抱組、HugPC、ハグプリ</li>
+<li>第十四代：<a href="/%E3%82%B9%E3%82%BF%E3%83%BC%E2%98%86%E3%83%88%E3%82%A5%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="スター☆トゥインクルプリキュア">スター☆トゥインクルプリキュア</a> - 俗稱星閃組、宇宙組、スタプリ</li>
+<li>第十五代：<a href="/%E3%83%92%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A3%E3%81%A9%E2%99%A5%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="ヒーリングっど♥プリキュア">ヒーリングっど♥プリキュア</a> - 俗稱治癒組、<a href="/Florence_Nightingale_(Fate)" title="Florence Nightingale (Fate)">治療</a>組、醫療組、ヒープリ</li>
+<li>第十六代：<a href="/%E3%83%88%E3%83%AD%E3%83%94%E3%82%AB%E3%83%AB~%E3%82%B8%E3%83%A5!%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="トロピカル~ジュ!プリキュア">トロピカル~ジュ!プリキュア</a> - 俗稱熱帶組、口紅組、化妝組、トロプリ</li>
+<li>第十七代：<a href="/%E3%83%87%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E2%99%A1%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="デリシャスパーティ♡プリキュア">デリシャスパーティ♡プリキュア</a> - 俗稱美食組、美味組、派對組、デパプリ</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="最萌大賽相關"></span><span class="mw-headline" id=".E6.9C.80.E8.90.8C.E5.A4.A7.E8.B3.BD.E7.9B.B8.E9.97.9C"><a href="/%E6%9C%80%E8%90%8C%E5%A4%A7%E8%B3%BD" title="最萌大賽">最萌大賽</a>相關</span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>基本上跟長壽番組一樣，每年都會有角色參戰，但每年都沒什麼角色可以跨過預選。
+<ul><li>即使每一代基本上角色都會翻新，但前輩最近幾年也常透過DX電影取得參戰資格<s>，雖然基本上都是勉強闖過預賽就是最好成績</s></li></ul></li>
+<li>目前戰績最好的是初代的小渚，曾經得到2004年的最萌大賽八強。
+<ul><li>微笑組的黃瀨彌生一度有望挑戰此紀錄，無奈當年麻將軍太過強勢、惜敗16強。</li></ul></li>
+<li>後因<s>持續淪為麻將軍人氣展示賽</s>技術、人氣、規則等多方面問題，最萌大賽自2015年停辦，使得公主組之後的團隊皆無緣參賽。
+<ul><li>繁花天使：雖然擊敗了收視不振的絕望，但還有麻將軍帶給最萌大賽的絕望無法打敗嗎？</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="參見"></span><span class="mw-headline" id=".E5.8F.83.E8.A6.8B">參見</span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a href="/%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB" class="mw-redirect" title="美少女戰士">美少女戰士</a> - 同公司的戰鬥系魔法少女番代表作之一，可說是光美的老前輩。</li>
+<li><a href="/%E8%97%8D%E5%85%89%E4%BA%BA%E7%B3%BB%E5%88%97" title="藍光人系列">藍光人系列</a> - 架構設定上有不少雷同處（以日常生活為背景、主角都在上學、階層分明的反派等），差別在於這貨是日昇的機人番，更別提它是90年代的產物。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li><a rel="nofollow" class="external text" href="http://www.toei-anim.co.jp/ptr/precure/">花園</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.asahi.co.jp/precure/">朝日官網</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.precure-movie.com/">劇場版官網</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UCSsjL41NsyqSNNbanuI0htg">官方YouTube頻道</a></li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/tvanime_precure">官方推特</a></li>
+<li><span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97?uselang=zh-tw">系列維基百科條目（中文）</a></span></li>
+<li><a rel="nofollow" class="external text" href="https://prettycure.fandom.com/wiki/Pretty_Cure_Wiki">Pretty Cure Wiki（wikia上的英文資料庫）</a></li>
+<li><a rel="nofollow" class="external text" href="https://komica.yucie.net/prettycure/">專板（已加入Komica）</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="投票"></span><span class="mw-headline" id=".E6.8A.95.E7.A5.A8">投票</span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li>在<b>單人模式有外掛</b>的情況下進行無差別大混戰，誰存活率最高？</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最近發現有灌票的情況（你從什麼時候開始產生了○○的錯覺？）且都是同兩人所為，因此編輯者不排除會武力介入</span></li></ul><div class="vote-block"><div class="vote-page" data-section="1" data-vote-page="光之美少女系列/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=1">編輯投票選項</a></span></div></div>
+<p><br></p>
+<ul><li>第一回合獲勝的選手說句話吧<br><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:272px;"><a href="/%E6%AA%94%E6%A1%88:Img1927.jpg" class="image"><noscript><img alt="" src="/images/thumb/0/08/Img1927.jpg/270px-Img1927.jpg" width="270" height="378" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 270px;height: 378px;" data-src="/images/thumb/0/08/Img1927.jpg/270px-Img1927.jpg" data-alt="" data-width="270" data-height="378" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Img1927.jpg" class="internal" title="放大"></a></div>我只是路過的光之美少女，給我好好記著！</div></div></div></div></li>
+<li><a href="/%E6%88%90%E5%8F%A5/%E2%97%8B%E2%97%8B%E2%97%8B%EF%BC%8C%E7%8F%BE%E5%9C%A8%E4%BD%A0%E6%84%9F%E8%A6%BA%E5%A6%82%E4%BD%95%E4%BA%86%EF%BC%9F%E6%84%9F%E8%A6%BA%E5%A6%82%E4%BD%95%E4%BA%86%EF%BC%81%EF%BC%9F" class="mw-redirect" title="成句/○○○，現在你感覺如何了？感覺如何了！？">請問本家得票最高的參賽者，現在你感覺如何？感覺如何了！？</a><br><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:194px;"><a href="/%E6%AA%94%E6%A1%88:Img1921.jpg" class="image"><noscript><img alt="" src="/images/thumb/6/6b/Img1921.jpg/192px-Img1921.jpg" width="192" height="144" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 192px;height: 144px;" data-src="/images/thumb/6/6b/Img1921.jpg/192px-Img1921.jpg" data-alt="" data-width="192" data-height="144" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Img1921.jpg" class="internal" title="放大"></a></div>ありえな～い</div></div></div></div></li>
+<li>那麼請問上回合票數後來居上的這位參賽者，你還有信心保住小命嗎？</li></ul><div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:255px;"><a href="/%E6%AA%94%E6%A1%88:Img1930.jpg" class="image"><noscript><img alt="" src="/images/thumb/a/a1/Img1930.jpg/253px-Img1930.jpg" width="253" height="141" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 253px;height: 141px;" data-src="/images/thumb/a/a1/Img1930.jpg/253px-Img1930.jpg" data-alt="" data-width="253" data-height="141" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:Img1930.jpg" class="internal" title="放大"></a></div>ココ！！！</div></div></div></div>
+<p><br></p>
+<ul><li>請問哪一位光之美少女最深得你心？</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最近發現有灌票的情況（你從什麼時候開始產生了○○的錯覺？）且都是同兩人所為，因此編輯者不排除會武力介入</span></li></ul><div class="vote-block"><div class="vote-page" data-section="2" data-vote-page="光之美少女系列/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=2">編輯投票選項</a></span></div></div>
+<p><br></p>
+<h3 class="in-block"><span id="聲優投票"></span><span class="mw-headline" id=".E8.81.B2.E5.84.AA.E6.8A.95.E7.A5.A8">聲優投票</span></h3>
+<ul><li>此為從星閃組初期所加之投票
+<ul><li>已當選聲優請不要刪除，以作參考使用</li></ul></li></ul><ul><li>你們希望哪位女聲優參與光之美少女系列的角色，甚至正規戰士/正規妖精的演出？（歡迎追加選項：已成為正規軍者請<span style="color:red;background-color:;">塗紅</span>，曾參與配角演出者請註明）</li></ul><div class="vote-block"><div class="vote-page" data-section="3" data-vote-page="光之美少女系列/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=3">編輯投票選項</a></span></div></div>
+<p><br></p>
+<ul><li>你們希望哪位男聲優參與光之美少女系列的配角、反派、正規妖精，甚至是反串成為正規戰士的演出？（歡迎追加選項：在星閃組前曾參與配角演出者不能列在表內，在提名後正式參演者處理方法跟上方相同）</li></ul><div class="vote-block"><div class="vote-page" data-section="4" data-vote-page="光之美少女系列/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=4">編輯投票選項</a></span></div></div>
+<p><br></p>
+<ul><li>斜體字者代表參戰可能性等於或近乎零，單純給島民FF用
+<ul><li>註1：平野綾於2017年宣布自己從聲優部門轉移至演員部門，目前事業大多以舞台劇演員工作為主，現已很少在ACG動畫界做配音演出</li>
+<li>註2：2022年11月1日宣佈罹患先天性疾病「埃勒斯-當洛二氏症候群（關節型）」，但自2017年光美起如果轉正成光美聲優的話需要在年末進行光美演唱會表演，但也許可以有其他折衷方案或者當主角群妖精……</li>
+<li>註3：神田沙也加於2021年12月18日墜樓身亡 享年35歲</li>
+<li>註4：藤村步所屬事務所宣布本人自2019年4月1日起無限期停止聲優業</li>
+<li>註5：該角為微笑組的劇中劇動畫《機械戰士羅伯特》主角</li>
+<li>註6：長嶋陽香（長嶋はるか）於2021年5月30日病逝 享年33歲</li></ul></li>
+<li>灰色斜體字者代表該聲優已<a href="/%E4%BE%BF%E7%95%B6" title="便當">逝世</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wiki.komica.org/pix/img1969.jpg">官方收視群調查</a><a href="/%E6%AA%94%E6%A1%88:Img1969.jpg" class="image"><noscript><img alt="Img1969.jpg" src="/images/thumb/e/ea/Img1969.jpg/120px-Img1969.jpg" width="120" height="90"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 90px;" data-src="/images/thumb/e/ea/Img1969.jpg/120px-Img1969.jpg" data-alt="Img1969.jpg" data-width="120" data-height="90"> </span></a> 曾出現女性主要年齡層集中在4-9歲、男性卻是20-29歲的驚人落差</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">飾演真劍金的相馬圭祐曾經在公開場合說過自己喜歡光之美少女的發言，甚至還讓整個侍戰隊演員群都跟著中毒了；另、相馬自己是百香果天使的支持者，真劍者10周年紀念日當天除了表達對真劍者這部作品感想想法外，也表示出自己對百香果天使/東剎那的愛，自我化名成キュア梅盛</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">以公佈年份前一年4月至公佈年份3月計算</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">因為上述疫情因素的停播+延播+2021年2月底即將播出下一代的因素，致使後面劇情不得不草草收尾，本來部分劇情應該可以有更好的描寫（例如：日向的高考之路、和香與達瑞森之間的恩怨糾葛），但因為2021年的播出已經40多集了，劇情份量已無法再挪出幾集來做前述例子的深度刻畫劇情<s>，結果到頭來只有知由算是唯一有被劇組照顧，個人回明顯比另外三人還要來得多</s></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">包含系列首個短篇合輯，以及第二次置入總集篇</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">內部4+2人、外部3+1人、三光隊、小小</span>
+</li>
+<li id="cite_note-time-7"><span class="mw-cite-backlink"><a href="#cite_ref-time_7-0">↑</a></span> <span class="reference-text">注意：此為2017年10月起（當時為甜點組）施行的播放順。在此之前，播放順為「戰隊、騎士、光美」而且是由光美結尾（光美時段不變）</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">最諷刺的是，明明擁抱組第22話找回西尾大介當顧問並強調這原則，結果就是大部份觀眾都覺得初代在開無雙……</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">即使真的領便當了也一定會吐出來</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">嚴格來說只有<b>作畫</b>有優待，相對地普遍戲份較少，存在感往往是最薄弱的成員。<s>東映︰「<a href="/%E6%88%90%E5%8F%A5/%E2%97%8B%E2%97%8B%E5%A5%BD%E9%9B%A3%E7%95%AB%EF%BC%8C%E4%B8%8B%E4%B8%80%E9%9B%86%E8%AE%93%E4%BB%96%E6%AD%BB%E6%8E%89" title="成句/○○好難畫，下一集讓他死掉">黃色太難畫了，下集減少她的出埸時間！</a>」</s></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">看看魔法組紅寶石型態、甜點組巧克力天使和擁抱組追加雙人變身那精美的作畫幀數……</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">其實「紅色親女兒」早在水果組就出現過，不過本來追加成員的變身 動畫基本上都會比初期成員精美就是了<s>大概是因為作畫時間寬裕許多可以慢慢做吧</s></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">以微笑組為例，變身完成後我們可以明顯看到掛在腰際的微笑粉底盒，但是不會看到光之飾物的存在，所以我們在說微笑組的變身器時通常是指微笑粉底盒而非光之飾物。</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">比如水果組變身用的鑰匙就是妖精，抓心組需要妖精提供光之種子等等</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">月光天使放在左肩上的玫瑰徽章，命運天使放在髮飾</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">以往使用變身器放大絕的情節並不在少數，但還是會有另外的武器，這是第一次真正把變身器當常態武器</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">主要是根據第41話，繪美瑠失去未來水晶時，連帶也導致露露的未來水晶消失，所以猜測她們其實無法做到獨自變身</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">勉強來說夏木的夏天對應熱情，春日野的春天呼應活力，秋元的秋天則與平靜相對<s>，但繞這麼多似乎就沒什麼意義了</s></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">初代的九條光跟星閃組星奈光雖然名都翻譯成<b>光</b>，但前者叫做ひかり，後者叫做ひかる，所以實際上並沒有撞名。因此一些人會把九條光稱作「<b>小</b>光」，星奈光稱作「<b>阿</b>光」。</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">霧生姊妹不被承認為正規戰士。另外，擁抱組追加二人在原案中曾被設定成雙胞胎，不過後來成為了廢案。</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">第6話甚至都是在決定隊呼、站位和站姿</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">深紅天使登場第二回，四人齊聚一堂後邀請永久一起重新喊隊呼，可見隊呼完全是自行設計的。</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">其實在第9話初登場時就看得到了</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">初代的九條光是屬於新學年就入讀菲諾奈學院的一年級新生，所以不算是轉學生</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">主線開始前一學年</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">劇情說了亞久里在故事開始前一年才來到人類世界，所以至少也會是中途入學的轉學生身分</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">夏露露和拉結在劇中有明確表示有進入學校唸書，只有蘭斯沒有交代</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">露露駕駛<s>天威勇士</s>機器人在被野乃花打爆之後脫離黑暗明日社，並選擇把在黑暗明日社的記憶和經歷刪除，所以沒有罪惡感的演出機會</span>
+</li>
+<li id="cite_note-novel-29"><span class="mw-cite-backlink"><a href="#cite_ref-novel_29-0">↑</a></span> <span class="reference-text">TV動畫結局未明提，但小說一開頭交代光美們交回了變身器，但後來因為反派的出現當然再次獲得了變身的力量</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">根據小說推測</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">因為黑天使的CV本名陽子者曾經飾演《假面騎士BLACK》中南光太郎（假面騎士BLACK）的外甥女</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text">不過後來被人以不夠誇張為由和諧掉了。<s>不知道有沒有內幕</s></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text">後於2016年三月底回到東森幼幼台重播</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text">台版團體口號曾譯【心動！光之美少女】，很巧合地也是香港對這部的譯名</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text">相隔5個多月，進度只差了17集左右</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">這次只差16集左右</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text">也許配音品質方面會讓人擔心不穩定，但反過來說這也減輕了老手們的工作負擔，而且培育新人本來就是一個業界必須存在的機制，否則長期只有老手在工作，這業界就如同一攤死水，是非常不健康的現象。<br>尤其2019年9月時，長期擔任<a href="/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0" title="蠟筆小新">野原新之助</a>、江戶川柯南、<a href="/%E6%BC%A9%E6%B8%A6%E9%B3%B4%E4%BA%BA" title="漩渦鳴人">漩渦鳴人</a>等知名動畫角色配音員的<a href="/%E8%94%A3%E7%AF%A4%E6%85%A7" title="蔣篤慧">蔣篤慧</a>老師去世的消息，使得更多人注意到台灣配音業界的問題，曾引起許多討論。</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text">她的姊姊林丹鳳後來在2012至14年間接手《哆啦A夢（亞洲）》的骨川小夫和《櫻桃小丸子》和櫻小竹</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text">本體米露是由鄭麗麗負責配音</span>
+</li>
+</ol></div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="留言"></span><span class="mw-headline" id=".E7.95.99.E8.A8.80">留言</span></h2><div class="mf-section-10 collapsible-block" id="mf-section-10">
+<div class="pcomment-insert" data-number="" data-section="2" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97" title="討論:光之美少女系列">討論:光之美少女系列</a>|number=|section=2}}</div>
+<p class="mw-empty-elt">
+</p>
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=光之美少女系列&amp;oldid=418938">https://wiki.komica.org/index.php?title=光之美少女系列&amp;oldid=418938</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97"
+				data-user-name="Akenneth731"
+				data-user-gender="unknown"
+				data-timestamp="1667512534">
+				最後編輯於 2022年11月4日 (週五) 05:55
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.337","ppvisitednodes":{"value":3063,"limit":1000000},"ppgeneratednodes":{"value":12673,"limit":1000000},"postexpandincludesize":{"value":80073,"limit":2097152},"templateargumentsize":{"value":42893,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14198,"limit":5000000},"timingprofile":["100.00%  153.746      1 -total"," 52.84%   81.241      3 模板:Navbox"," 35.32%   54.305      1 模板:Precure"," 20.56%   31.610      2 模板:Navbox_subgroup"," 11.31%   17.395     16 模板:Ref","  3.25%    5.002      1 模板:Navbar","  2.48%    3.807     10 模板:Color","  2.00%    3.079      4 模板:Vote","  1.87%    2.870      1 模板:Wp","  1.60%    2.458      6 模板:Censored"]},"cachereport":{"timestamp":"20221104000209","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":230});});</script>		</body>
+		</html>
+		

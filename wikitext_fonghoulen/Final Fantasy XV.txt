@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Final Fantasy XV - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Final_Fantasy_XV","wgTitle":"Final Fantasy XV","wgCurRevisionId":409972,"wgRevisionId":409972,"wgArticleId":4292,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"Final_Fantasy_XV","wgRelevantArticleId":4292,"wgRequestId":"068455ec0dbc6800f50a8c98","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=Final+Fantasy+XV\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=Final+Fantasy+XV","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=Final_Fantasy_XV&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=Final_Fantasy_XV&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Final_Fantasy_XV rootpage-Final_Fantasy_XV stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=Final+Fantasy+XV" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">Final Fantasy XV</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;"> ファイナルファンタジーXV（Final Fantasy XV）/最終幻想15<s>/カップヌードルXV（Cup Noodle XV）<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>/跑車浪漫旅/釣魚王子復國記（笑）/VERUM REX<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></s> </div>
+<table class="wikitable" style="margin:1.5em auto;"><tbody><tr><td>以下含有部分的劇情，沒看過原著又不想被使骸啃食<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">或被拖進水晶整整<b>10</b>年的話</span>請不要繼續看下去。
+</td></tr></tbody></table><div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Final_Fantasy_XV_Logo.png" class="image"><img alt="Final Fantasy XV Logo.png" src="/images/thumb/a/aa/Final_Fantasy_XV_Logo.png/500px-Final_Fantasy_XV_Logo.png" width="500" height="320"></a></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=1" title="編輯章節：簡介" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>由<a href="/Square_Enix" title="Square Enix">Square Enix</a>開發與發行的JRPG遊戲。為其旗下的遊戲系列《<a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a>》的第15部正傳。
+<ul><li>主要由負責<a href="/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E5%BF%83%E7%B3%BB%E5%88%97" title="王國之心系列">王國之心系列</a>的大阪組製作，同時亦有HexaDrive、XPEC、Entertainment等公司協助開發。</li>
+<li><s>難怪《王國之心3》一直生不出來</s></li></ul></li>
+<li>發售平台為PS4、XBOX ONE和PC。
+<ul><li>在2006年5月以《Final Fantasy Versus XIII》之名與《Final Fantasy XⅢ》《<a href="/Final_Fantasy_%E9%9B%B6%E5%BC%8F" title="Final Fantasy 零式">Final Fantasy Agito XIII</a>》一起公佈。最初的名稱為且為PS3獨佔遊戲，為「新的水晶故事」裡面的其中一分子。</li></ul></li>
+<li>定義為「<b>一個基於</b><s>謊言</s><b>現實的幻想</b>」。
+<ul><li><s>結果現實到跟服飾品牌和戶外用品推出合作</s><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li><s>最現實的是試玩版的內容就是主角一行人找辦法賺錢修車</s></li></ul></li>
+<li><s>爹不疼娘不愛的孩子</s><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><ul><li><a href="/PS3%E5%A4%A7%E5%AD%B8%E9%95%B7" title="PS3大學長">PS3大學長</a>之一。</li>
+<li>雖然從《Final Fantasy XII》開始，正傳的開發速度開始變慢，但是長達8年的開發週期是系列作的首例。</li>
+<li>不過由於算是重啟，真正的作業是從PS4開始算起，《Final Fantasy Versus XIII》的開發進度僅0.1%左右。
+<ul><li><s>在宣布FFV13改成FF15時裡預告的東西，成品裡毫不意外沒半個做出來</s></li>
+<li><s><a rel="nofollow" class="external text" href="https://youtu.be/_RRefXawjnM">而原來的FFV13的一些元素疑似被野村回收再利用到KH系列了</a></s></li></ul></li></ul></li>
+<li>家機版原定2016年9月30日發售，後延至11月29號上市；一年多後於2018年3月6日登上PC。
+<ul><li>但是在歐洲地區大偷跑還被人劇透出來<s>連帶趕工半成品的事情也跟著曝光</s>，被SE的股東氣得要求提告妨礙銷售。</li></ul></li>
+<li>由於從公布到上市的時間跨度太長導致玩家的期待過大，結果遊戲正式發售時卻被玩家發現居然還是個<b>半成品</b>。
+<ul><li>劇情上不僅有不少和遊戲內容產生違和感的地方，不少東西還交代的不清不楚。</li>
+<li>雖然號稱是開放式世界但主線在進入水都後幾乎都是一本道的直線，許多後期的地區幾乎都只有一個迷宮甚至一小塊地區帶過去而已<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>雖然後面不斷推出各種免費或收費的更新內容逐漸改善，但依舊讓許多玩家對本作不滿。</li>
+<li><s>最大的不滿大概是玩家沒有可以操控的常駐女角</s></li></ul></li>
+<li>原定在2019年出第二波的四個DLC劇情，但隨著製作人的離職只剩下艾汀的DLC維持預定推出，剩下的則胎死腹中。
+<ul><li>事後則宣布包含艾汀的DLC在內的四個DLC劇情出成小說補完並已於2019/4/25發售。<s>內容成了玩家們的意難平，不禁大罵SE直接斷尾的不負責任行為</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="故事"></span><span class="mw-headline" id=".E6.95.85.E4.BA.8B">故事</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=2" title="編輯章節：故事" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span class="mw-headline" id="Final_Fantasy_XV_Episode_Duscae">Final Fantasy XV Episode Duscae</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=3" title="編輯章節：Final Fantasy XV Episode Duscae" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><s>一個王子和他的小伙伴賺錢修車子的故事</s></li></ul><h3 class="in-block"><span class="mw-headline" id="Final_Fantasy_XV">Final Fantasy XV</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=4" title="編輯章節：Final Fantasy XV" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><s>被滅國的王子和他的夥伴們置復國之重責大任（&amp;未婚妻）於不顧而沉迷釣魚做飯自拍、四處遊山玩水開車遛鳥的故事</s></li></ul><h3 class="in-block"><span id="PLATINUM_DEMO：FINAL_FANTASY_XV"></span><span class="mw-headline" id="PLATINUM_DEMO.EF.BC.9AFINAL_FANTASY_XV">PLATINUM DEMO：FINAL FANTASY XV</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=5" title="編輯章節：PLATINUM DEMO：FINAL FANTASY XV" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>王子年幼時的冒險故事。
+<ul><li><s>假的都是假的</s></li>
+<li><s>一切都是夢</s></li></ul></li></ul><h3 class="in-block"><span id="王者之劍_Final_Fantasy_XV"></span><span class="mw-headline" id=".E7.8E.8B.E8.80.85.E4.B9.8B.E5.8A.8D_Final_Fantasy_XV">王者之劍 Final Fantasy XV</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=6" title="編輯章節：王者之劍 Final Fantasy XV" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>前傳電影。
+<ul><li>數位版於8月30號發售，實體BD10月4號發售。</li>
+<li><s>被觀眾和玩家吐槽為什麼不把劇情做進去本篇</s></li></ul></li></ul><h3 class="in-block"><span id="兄弟情_Final_Fantasy_XV"></span><span class="mw-headline" id=".E5.85.84.E5.BC.9F.E6.83.85_Final_Fantasy_XV">兄弟情 Final Fantasy XV</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=7" title="編輯章節：兄弟情 Final Fantasy XV" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>額外短篇故事。
+<ul><li>共五話，目前已到第四集。</li>
+<li>台灣PlayStation目前推出第一集的<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=5lTvTiioR0M">翻譯</a>。</li></ul></li></ul><h3 class="in-block"><span class="mw-headline" id="Final_Fantasy_XV_-_The_Dawn_Of_The_Future">Final Fantasy XV - The Dawn Of The Future</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=8" title="編輯章節：Final Fantasy XV - The Dawn Of The Future" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>原本預計推出的第二季DLC中止開發後將其收入的小說，內容包含唯一沒被砍掉的艾汀篇外收入了艾拉妮亞、露娜以及諾克特的章節。
+<ul><li>主打著走向違抗眾神的道路與本篇不同的結局。
+<ul><li><s>結果評價好評到許多玩家都認為這才是原本的劇情</s></li>
+<li><s>本該是能夠扭轉FFXV悲劇結局與悲慘評價的關鍵部分就這麼被愚蠢地砍掉了</s></li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="登場角色"></span><span class="mw-headline" id=".E7.99.BB.E5.A0.B4.E8.A7.92.E8.89.B2">登場角色</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=9" title="編輯章節：登場角色" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="路希斯王國"></span><span class="mw-headline" id=".E8.B7.AF.E5.B8.8C.E6.96.AF.E7.8E.8B.E5.9C.8B">路希斯王國</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=10" title="編輯章節：路希斯王國" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>諾克提斯．路希斯．切拉姆/ノクティス・ルシス・チェラム/Noctis Lucis Caelum
+<ul><li>CV：<a href="/%E9%88%B4%E6%9C%A8%E9%81%94%E5%A4%AE" title="鈴木達央">鈴木達央</a>(日)、Ray Chase(美)</li>
+<li>本作的主角與玩家操作人物<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>。
+<ul><li>路希斯王國的王子，不過並沒有要成為王的覺悟。</li>
+<li>暱稱為諾克特（ノクト，Noct）。</li>
+<li>名字語源為拉丁文的「夜晚的/光的/天空」<s>延續了VII以後FF系列主角以天候相關詞語命名的傳統</s>。</li></ul></li>
+<li>天性嗜睡，只要能睡就一定可以睡。</li>
+<li>VS XIII時期的設定為在年幼時因為一場意外使他雙眼可以看見天空降下的「光」並可以預見他人的死亡。</li>
+<li>中文版的翻譯字幕使諾克特說話聽起來有點嗆。<s>都給他講就好了啊</s></li>
+<li><s>廢材</s>因為缺乏身為王的覺悟，時常被別人斥責；也因為太過軟弱而導致別人為了他犧牲，連戒指也是因為力量被封印不得已才戴上。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">伊格尼斯的IF劇情則是看到伊格尼斯為了自己犧牲，為了拯救伊格尼斯而有所覺悟才戴上戒指。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後期進入水晶中耗費漫長年月凝聚戒指的力量，十年後才重新現身在神影島上回去與同伴們會合返回王都討伐艾汀，最終犧牲生命消滅艾汀與黑暗，在疑似夢境中的王座上與露娜身穿結婚禮服相倚而眠。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">遊戲通關後LOGO會變成諾克提斯與露娜兩人沉睡的樣貌，標題畫面也會從深夜的星空變成黎明的魚肚白。</span></li>
+<li><s>然而這淒美的結局有可能會因為玩家的選擇變成花心或爆笑結局<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></s></li></ul></li>
+<li>擔任伊格尼斯DLC挑戰關卡中的頭目<s>為了不想吃蔬菜大餐所以動真格</s>。</li>
+<li>同時也擔任艾汀DLC挑戰關卡的頭目，以吸收了水晶之力的真王身分與艾汀對決<s>結果打不贏還是找了三基友出來助場</s>。</li>
+<li><s>最近去某個格鬥遊戲裡兼差賺外快<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>，貌似還賺不夠多所以理所當然地回自家公司的對戰遊戲中多兼一份差，而且做為工讀生態度還很差<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></s>
+<ul><li><s>除此之外還出了不少合作，故而有打工王子的稱號</s></li></ul></li>
+<li><s>雖然貴為主角但人物設定稿其實是回收再利用<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></s></li>
+<li><s><a rel="nofollow" class="external text" href="https://youtu.be/yRKXwtDTtew">在DLC開發終止後後疑似跑去王國之心3的DLC客串</a></s></li></ul></li>
+<li>普羅恩普特．阿傑費姆/プロンプト・アージェンタム/Prompto Argentum
+<ul><li>CV：<a href="/%E6%9F%BF%E5%8E%9F%E5%BE%B9%E4%B9%9F" title="柿原徹也">柿原徹也</a>(日)、Robbie Daymond(美)</li>
+<li>諾克特的親友。</li>
+<li>可裝備武器為槍和機械。</li>
+<li>玩家操控時可以使用三種槍械加手榴彈和小刀，敵人陷入BREAK狀態時可以發動高傷害的特殊攻擊，在DLC中除了基本款的槍之外都有彈藥限制，用完的話就必須撿或搶新的來補充彈藥，本篇時則是彈藥會隨著時間自然恢復，另外在DLC關卡中在敵人沒有發覺的情況下可以在敵人背後進行暗殺。
+<ul><li>不過路希斯王國卻是禁止槍枝。</li>
+<li>花招特別多。</li></ul></li>
+<li>擅長拍照，隊伍中的攝影師擔當，連戰鬥中都不忘拍照，DLC裡甚至還有跟敵人自拍的技能....</li>
+<li>主角群裡外型跟V13時比起來變化最多的。</li>
+<li>陸行鳥愛好者。</li>
+<li>喜歡希德妮，對艾拉妮亞也有好感<s>不過本命還是希德妮，只可惜過了十年還是沒追到</s>。</li>
+<li>兄弟情動畫中<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從肥宅變成帥哥</span>的經歷超級勵志(無誤)。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原本是尼弗海姆的研究所實驗品，後被路希斯的間諜救走並在王都由養父母扶養長大。手背上印著的條碼即使在多年後仍然能被研究所的掃瞄機辨識。</span></li>
+<li><s>個人DLC劇情根本是惡靈古堡<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">故事後期被中計的諾克特打下火車後一人迷失在雪山中被艾汀帶到尼弗海姆的研究所中，在裡面得知自己出生的真相後被艾拉妮亞所救，事後因知道真相的打擊而喪志被艾拉妮亞訓斥後重新振作。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與艾拉妮亞一起打倒了自己形式上的生父瓦薩戴爾後一人前往帝國首都，推測在這途中再度被艾汀所抓<s>你這時候的振作和氣勢到哪去了</s>。</span></li></ul></li>
+<li>格拉迪歐藍斯．亞米希提亞/グラディオラス・アミシティア/Gladiolus Amicitia
+<ul><li>CV：<a href="/index.php?title=%E4%B8%89%E5%AE%85%E5%81%A5%E5%A4%AA&amp;action=edit&amp;redlink=1" class="new" title="三宅健太（頁面不存在）">三宅健太</a>(日)、Chris Parson(美)</li>
+<li>諾克特的冒險夥伴之一。
+<ul><li>同時也是亞米希提亞家（代代負責保衛國王的家族）的現任家主及諾克特的訓練教官。</li></ul></li>
+<li>可裝備武器為巨劍和盾牌。</li>
+<li>玩家操控時戰鬥方式也以格擋為主，可透過格擋成功後累積的倍率增加傷害。
+<ul><li>武器是由諾克特召喚而來。</li></ul></li>
+<li>鞭子擔當，諾克特只要喪志或露出軟弱一面時就會嚴厲的斥責。</li>
+<li>喜歡吃杯麵<s>(X)日清派來宣傳杯麵的(O)</s><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>，遊戲中格拉迪歐歸隊後接近雷斯塔倫販賣杯麵的地方會觸發一個跟杯麵有關的任務<s>順便讓沒注意到賣杯麵的餐車的玩家發現</s>
+<ul><li>「因為平時吃太好才會覺得這種平民食物很好吃」（by普羅）</li></ul></li>
+<li>非常疼愛妹妹伊莉絲，也明白伊莉絲對諾克特的心意，雖然不會要求諾克特接受伊莉絲但還是會想辦法讓伊莉絲開心。</li>
+<li>中期為了讓自己更強暫時離開隊伍和柯爾進行特訓，由柯爾帶進試煉之道中特訓並且挑戰初代王之盾吉爾迦美什、在此戰中留下了新的傷疤，通過試煉後帶著吉爾迦美什所贈與的刀<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>回到諾克特一行人之中。</li>
+<li><s>被官方在情人節時惡搞</s><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li></ul></li>
+<li>伊格尼斯．斯圖皮歐．史基恩提亞/イグニス・ストゥペオ・スキエンティア/Ignis Stupeo Scientia
+<ul><li>CV：<a href="/%E5%AE%AE%E9%87%8E%E7%9C%9F%E5%AE%88" title="宮野真守">宮野真守</a>(日)、Adam Croasdell(美)</li>
+<li>諾克特的冒險夥伴之一，負責擔任廚師及駕駛雷格里亞，隊伍的參謀擔當。
+<ul><li>諾克特的保母，相較於擔任鞭子的格拉迪歐，他則是擔任糖果的角色，同時也是老媽子性格，時常會要求諾克特注意儀容，甚至常常會碎念諾克特早上賴床或是不愛吃蔬菜之類的事情。</li></ul></li>
+<li>非常喜歡喝名為埃波尼的飲料，如果沒有賣的話他會非常失望。</li>
+<li>視力其實沒有差到非要戴眼鏡不可的程度，只是覺得看不清楚的話就會覺得不自在，因此身上會帶備用的眼鏡以防萬一，不過除非原本的眼鏡已經全毀無法救回否則不會輕易拿備用的出來。</li>
+<li>可裝備武器為小刀和長槍。</li>
+<li>玩家操作時能使用能夠切換火冰雷三屬性的元素小刀，並在氣條滿時根據元素小刀的屬性發動不同屬性的搜索之眼攻擊敵人；相較於格拉迪歐的格擋，伊格尼斯則是受傷後的反擊，受到某些攻擊後只要在指令出來時馬上輸入就可以立刻回血，如果立刻在接下來反擊的指令出現時按下就能使出反擊，不過反擊是以長槍往前突刺因此不容易命中浮在空中的敵人，跟格拉迪歐一樣反擊會大幅增加倍率提升攻擊力；另外本篇時倍率最高只會到4，只有DLC中的最終戰才會到10甚至是35的誇張倍率。</li>
+<li>擅長烹飪，且<a href="/%E5%81%B7%E5%AD%B8" title="偷學">偷學</a>能力極強，看見路旁其他人吃飯就可以重現菜餚，連看到傳單或貌似毫無干係的通知單都能想到新食譜<s>DLC裡甚至進化到在戰鬥中也能做菜</s><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>。</li>
+<li>遊戲發售後發生過特別多奇怪的BUG，某方面而言在粉絲心目中已經成為冷面笑匠。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在水都一戰後失明，即使如此依然決心跟著諾克特一行人。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">失明原因是為了從艾汀手下救出諾克特，毅然戴上戒指犧牲視力以暫時獲得王之力與艾汀對抗<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>，雖然沒有打倒艾汀但也讓艾汀撤退成功的守護諾克特</span><s>，尼克斯表示:幹</s>。<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li></ul></li>
+<li><s>個人DLC裡的IF結局中儼然升格成了FFXV真主角</s>
+<ul><li><s>同時在DLC裡上演鋼彈00</s><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">IF路線裡選擇不和艾汀在祭壇對抗，並跟著艾汀來到帝國首都中，從謎之聲口中得知艾汀的過去以及諾克特的未來；最終為了改變諾克特犧牲的未來，拿出預藏的戒指戴上以不斷付出生命的方式得到戒指的力量成功重傷艾汀<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>，最後由趕來的諾克特戴上戒指以水晶和戒指的力量保住一命，10年後與得到水晶力量的諾克特與同伴們和存活下來的瑞布斯在沒有人犧牲的情況下消滅了艾汀與黑暗。</span></li>
+<li><s>情人節時完全被官方遺忘</s></li></ul></li>
+<li>柯爾．雷奧尼斯/コル・リオニス/Cor Leonis
+<ul><li>CV：<a href="/index.php?title=%E6%9D%B1%E5%9C%B0%E5%AE%8F%E6%A8%B9&amp;action=edit&amp;redlink=1" class="new" title="東地宏樹（頁面不存在）">東地宏樹</a>(日)、Matthew Mercer(美)</li>
+<li>路希斯王國親衛隊隊長暨守衛三大指揮官之一。
+<ul><li>實力為王國的三強之一，有著「不死身將軍」的外號。</li></ul></li>
+<li>劇情中會暫時的加入主角一行人。</li>
+<li>年輕時一人曾進入試煉之道，並成為第一個活著回來的人。</li>
+<li>諾克特進入水晶後帶領著其他人在黑夜中對抗使骸。</li>
+<li>擔任格拉迪歐藍斯DLC挑戰關卡中的頭目。</li>
+<li>皇家包追加劇情中諾克特回歸時正帶領著王者之劍在王都中與殘存的帝國軍和使骸戰鬥，如果先把他的支線任務解完在則打地獄三頭犬時他會在第二階段參戰，並在最後為了保護諾克特受重傷<s>但沒有辜負不死身將軍的稱號順利生還</s>。</li>
+<li><s><a href="/%E7%AB%A5%E8%B2%9E%E9%AD%94%E6%B3%95%E5%B8%AB" title="童貞魔法師">童貞魔法師</a></s></li></ul></li>
+<li>希德．索菲亞/シド・ソフィア/Cid Sophiar
+<ul><li>CV：<a href="/index.php?title=%E5%8B%9D%E9%83%A8%E6%BC%94%E4%B9%8B&amp;action=edit&amp;redlink=1" class="new" title="勝部演之（頁面不存在）">勝部演之</a></li>
+<li>位於路希斯領地內的裝備工廠「鎚頭鯊(HAMMER HEAD)」的店長。</li>
+<li>30年前與雷吉斯一起旅行的同伴之一，即使年事已高仍保有超一流的機械技術。
+<ul><li>旅行的最後跟雷吉斯起了爭執，雖然幾年後兩人和好但卻從此再也沒見過面，這點也讓希德在雷吉斯死後追悔莫及並用此告誡諾克特。</li></ul></li>
+<li>因為整備車子的工作交棒給孫女，所以負責幫諾克特改造武器，同時在戰友包DLC中也擔任幫玩家改造武器的人。</li>
+<li>諾克特不在的期間搬到了雷斯塔倫，原本想把修車廠整個搬過去但後來以不在那裡就不是鎚頭鯊為由堅持留下<s>把其他人都搞得人仰馬翻</s>，這段期間雖然身體出了點狀況不過諾克特回歸時仍健在。</li>
+<li>皇家包追加劇情中30年前曾經將雷格里亞的同型車改裝成TYPE-D並留下設計圖被希德妮發現，而該車在這之後一直就留在王都裡，主角一行人返回王都後由塔爾柯特代為轉交鑰匙給諾克特開。</li></ul></li>
+<li>希德妮．歐魯姆/シドニー・オールム/Cidney Aurum
+<ul><li>CV：<a href="/index.php?title=%E5%B6%8B%E6%9D%91%E4%BE%91&amp;action=edit&amp;redlink=1" class="new" title="嶋村侑（頁面不存在）">嶋村侑</a></li>
+<li>協助諾克特等人的機械技師女性，負責整備一行人座車的工作。
+<ul><li><s>只要一通電話無論在什麼鬼地方哪都能幫你把車拖走<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></s>
+<ul><li><s>然而她自己的拖車卻時常拋錨在路中間<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></s></li></ul></li></ul></li>
+<li>諾克特不在的期間時常往返雷斯塔倫和槌頭鯊並埋首在工作之中，皇家包的追加劇情中會在諾克特回歸後打電話給他，並告訴他自己正在為了研發對抗使骸的工具而努力。</li>
+<li>是系列作第一個女性<s>本體</s>希德。</li>
+<li>曾因身材太過惹火被玩家投訴。<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li></ul></li>
+<li>雷吉斯．路希斯．切拉姆/レギス・ルシス・チェラム/Regis Lucis Caelum CXIII
+<ul><li>CV：<a href="/index.php?title=%E7%A3%AF%E9%83%A8%E5%8B%89&amp;action=edit&amp;redlink=1" class="new" title="磯部勉（頁面不存在）">磯部勉</a>(日)、Jim Pirri(美)、Sean Bean(王者之劍英文版)</li>
+<li>路希斯王國今上國王。</li>
+<li>主角的父親，明白諾克特身為遴選之王的宿命，在諾克特要迎接這樣的宿命之前一直以一名普通的父親對待他。</li>
+<li>年輕時與希德、柯爾和韋斯卡姆一起旅行過。</li>
+<li><s>扣掉被換角的女主角外</s>跟初期設定比起來變化最多的角色，原本V13時看起來還是一位中年男性，到了15後變成了一位老人，至於會那麼蒼老的原因為雷吉斯必須要將生命轉換成維持王都障壁的魔力導致急速老化。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在艾汀的DLC中剛繼承王位沒多久時遇到艾汀襲擊並敗北，事後被艾汀不小心打死，可能在事後藉由戒指的力量和巴哈姆特而復活。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在王都叛亂時被格魯卡將軍一劍貫穿，不幸駕崩。</span></li></ul></li>
+<li>伊莉絲．亞米希提亞/イリス・アミシティア/Iris Amicitia
+<ul><li>CV：<a href="/%E6%BD%98%E6%83%A0%E7%BE%8E" title="潘惠美">潘惠美</a></li>
+<li>格拉迪歐藍斯的妹妹。</li>
+<li>劇情中會短暫加入隊伍<s>但是跟另外兩位客場相比戰力實在是跟沒有一樣</s>。
+<ul><li>極低的血量導致只有她在隊伍的時候玩家才會知道客場角色會鎖血這件事情，戰鬥中也只有幫忙丟藥這個工作。</li></ul></li>
+<li>戰友包中擔任在雷斯塔倫販賣玩家服裝的店員，根據本人的說法是自己也有戰力只是柯爾不讓她去戰鬥。</li></ul></li>
+<li>佩特拉．佛魯提斯/ペトラ・フォルティス/Petra Fortis
+<ul><li>CV：<a href="/index.php?title=%E8%90%BD%E5%90%88%E5%BC%98%E6%B2%BB&amp;action=edit&amp;redlink=1" class="new" title="落合弘治（頁面不存在）">落合弘治</a>（日）；Neil Newbon（英）</li>
+<li>在《王者之劍》中登場的王都大門侍衛。</li>
+<li>因為是王都人，所以對出身防護罩外村莊的尼克斯感到不屑，更以「不要在我的地盤逞英雄」對尼克斯下馬威。<s>死天龍人心態</s></li>
+<li>公私分明，在尼克斯與露娜試圖從<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">崔德等叛國劍隊隊員</span>的攻擊下逃脫時，同樣以「不要在我的地盤逞英雄」為由替尼克斯和露娜製造機會逃脫。<s>死天龍人瞬間洗白</s></li></ul></li>
+<li>索努斯．路希斯．切拉姆/ソムヌス・ルシス・チェラム/Sommus Lucis Caelum
+<ul><li>CV：<a href="/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94" title="浪川大輔">浪川大輔</a>（日）</li>
+<li>初代的路希斯王，有著夜叉王的稱號<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同時也是艾汀的親弟弟</span>。</li>
+<li>與理想派的哥哥不同，處理事情較為實際，在使骸病蔓延時毫不猶豫地派出軍隊將染病的國民抹殺，兩人也因此常為彼此的價值觀不同而爭吵<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，得知艾汀是遴選之王後誣陷其為怪物，在其被水晶拒絕後關進神影島並抹滅其存在。</span>
+<ul><li>雖然如此自己本人也對於自己沒有哥哥那樣的力量而感到自卑，並在之後對於自己所做的事情感到懺悔。</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">小說中艾汀向諾克特要求交出戒指時，與諾克特一起說服其他歷代王將力量借給艾汀，在艾汀集結歷代王力量時是最後一位進到戒指中的。</span></li>
+<li>長得和諾克特很像<s>雖然看不出來</s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，同時也與巴哈姆特面具下的面孔一樣，<s>大概是因為這樣才被巴哈選成是王的</s></span></li></ul></li></ul><h3 class="in-block"><span id="尼弗海姆帝國"></span><span class="mw-headline" id=".E5.B0.BC.E5.BC.97.E6.B5.B7.E5.A7.86.E5.B8.9D.E5.9C.8B">尼弗海姆帝國</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=11" title="編輯章節：尼弗海姆帝國" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>伊德拉．艾爾德卡托/イドラ・エルダーキャプト/Iedolas Aldercapt
+<ul><li>CV：<a href="/index.php?title=%E5%B0%8F%E5%B7%9D%E7%9C%9F%E5%8F%B8&amp;action=edit&amp;redlink=1" class="new" title="小川真司（頁面不存在）">小川真司</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>、<a href="/index.php?title=%E9%A3%AF%E5%A1%9A%E6%98%AD%E4%B8%89&amp;action=edit&amp;redlink=1" class="new" title="飯塚昭三（頁面不存在）">飯塚昭三</a>(日)</li>
+<li>尼弗海姆帝國的皇帝，原本是實施德政的明君，30年前發動戰爭後對力量產生執著。</li>
+<li>由於年事已高，在國政上已退居二線，實權大都交由宰相艾汀處理。</li>
+<li>最終使骸化被諾克特一行人消滅。</li>
+<li>小說中提到之所以會希望得到水晶與戒指的力量是因為老婆在35年前生下孩子後死去，而自己的兒子也在戰爭中死去，失去繼承人的海德拉因此希望能得到不老不死的力量而被艾汀利用。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但是在民間還藏有一名孫女，為了不讓艾汀發現而隱瞞其存在。</span></li></ul></li></ul></li>
+<li>艾汀．伊茲尼亞/アーデン・イズニア/Ardyn Izunia
+<ul><li>CV：<a href="/%E8%97%A4%E5%8E%9F%E5%95%9F%E6%B2%BB" title="藤原啟治">藤原啓治</a>(日)、Darin De Paul(美)</li>
+<li>尼弗海姆帝國的宰相，魔導兵團的提案人。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本作的最終BOSS。</span></li>
+<li>在諾克特等人一開始不知道其真實身分的情況下幫助諾克特等人，即使在身分曝光後仍然偶爾會出現幫助一行人。</li>
+<li>研發出了封印王之力的機械幫助尼弗海姆襲擊路希斯，並在諾克特等人抵達尼弗海姆時封印了其招喚武器的能力。</li>
+<li>可以將生物變成使骸並且在同時讀取受害者的記憶。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真實身分是以前的路希斯的遴選之王，本名為艾汀・路希斯・切拉姆，因能夠將使骸的病原蟲吸入體中被聖石所拒絕被親弟夜叉王所殺，卻因使骸的病原蟲而從此不死，從此之後為了復仇下定決心要殺死擁有聖石力量的真正之王，會在旅途中幫助諾克特的原因也是為了要讓他成為真正之王來達成復仇。最終在成為真正之王的諾克特犧牲下被徹底消滅。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">伊格尼斯的IF劇情中<s>動真格</s><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>和得到戒指力量的伊格尼斯對決並受到重創逃離，最終在多年後被成為真正之王的諾克特消滅。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在艾汀的DLC章節中提到在過去與最初的神巫艾拉是戀人，擁有治療使骸疾病的能力並希望能用此拯救更多人。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但卻在某天被自己的親弟所誣陷，艾拉也為了保護艾汀擋刀受到致命傷，艾汀原本想幫艾拉治療卻使艾拉逐漸變成了使骸，在親弟弟的強迫唆使下殺死艾拉，事後艾汀被關進了神影島長達2000年，事蹟也被抹去並以艾達基烏姆之名在路希斯王室中成了禁忌的名字。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被瓦薩戴爾救出後原本對於向路希斯復仇一事興致缺缺，但在研究所遭襲時不斷地聽到自己親弟嘲諷的聲音，將伊芙利特使骸化後再度看到了戀人死去的幻覺而決定幫助帝國來向路希斯復仇。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">雷吉斯繼位幾年後潛入王都與伊芙利特一起襲擊王都，並與雷吉斯對峙將其打倒後不斷地毆打雷吉斯逼迫他召喚夜叉王出來，雷吉斯被打到斷氣後光耀之戒中的夜叉王出現和艾汀對戰，在對戰途中夜叉王向艾汀懺悔的同時，卻也不斷指責艾汀是怪物，而自己所做的事情並沒有錯。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">夜叉王被艾汀召喚伊芙利特打倒後留下了希望艾汀能夠安息的話後消失，而怒氣未消的艾汀原打算再補雷吉斯一刀徹底殺死他卻被巴哈姆特阻止，並被告知艾汀真正的使命是要在世界中散布黑暗，等到集結了歷代之王的真王出現驅逐黑暗後被消滅，如果遵從這樣的命運的話也能夠徹底消滅王室的血脈達成復仇，且也只有到那時無法死去的艾汀才能獲得解脫。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這時會出現是否要接受命運的選項，接受的情況下是艾汀雖然當下接受了自己的命運，但事後他也發現只有自己對於自己的宿命是被蒙在鼓裡而崩潰拒絕接受這件事，並下定決心要徹底摧毀一切；拒絕的話巴哈會將艾汀抓住並召喚出艾拉出來用神巫逆矛刺向艾汀，艾拉同時也無情的告訴他無論是神還是歷代王都必須為了真王存在，違抗命運是沒有用的，之後的發展與接受命運相同。小說版則是建立在反抗命運的情況之下，這也使得巴哈姆特不得不選擇使用備案來達成計畫。</span></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">小說中補完之所以死不了需要靠真王消滅的原因是因為艾汀的靈魂在被水晶拒絕之後早已被封印在水晶之中（也就是結局諾克特在水晶裡遭遇的那一個），在現實世界中遭遇的都只是他的分身，但因為水晶內的世界中任何攻擊都是無效的，唯有真王集結歷代王的力量在戒指中脫離肉體以靈魂姿態進入水晶裡使用戒指召喚出幻影劍（也就是歷代王的靈魂）才能在水晶中徹底消滅艾汀，當真王犧牲生命消滅黑暗的存在的同時，水晶就會將一切黑暗吸收後自我毀滅並且消滅使骸的病原蟲。</span></li></ul></li>
+<li>艾拉妮亞．海溫德/アラネア・ハイウィンド/Aranea Highwind
+<ul><li>CV：<a href="/%E6%BE%A4%E5%9F%8E%E7%BE%8E%E9%9B%AA" title="澤城美雪">澤城美雪</a>(日)、Kari Wahlgren(美)</li>
+<li>尼弗海姆帝國軍空中機動師團准將，通稱「傭兵隊長」。
+<ul><li>系列作傳統龍騎士。</li>
+<li><s>只要下班時間一到即使戰鬥進行到一半仍然會毫不猶豫的撤退，理由是就算繼續打下去也連1 Gil的加班費都不會拿到</s></li></ul></li>
+<li>劇情中會暫時加入，之後在晚上遭遇使骸時有機會碰到她亂入幫助玩家。</li>
+<li><s>可以透過BUG半永久加入，在滿滿的男角戰鬥成員的本作中已成為眾玩家間每次更新後彼此詢問此BUG是否還有用的必問問題</s>
+<ul><li><s>可以用跑的追汽車<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></s></li></ul></li>
+<li>後期辭去帝國准將的身分後，帶領著舊部屬到處進行救援工作和清除使骸。</li>
+<li>普羅恩普特DLC中的挑戰關卡頭目。</li>
+<li>1.21更新後可在營地的訓練中挑戰她，如果輸給她的話她會蹲到諾克特的面前拍肩膀要他多加油。</li></ul></li>
+<li>瓦薩戴爾/ヴァーサタイル・ベスティア/Verstael Besithia
+<ul><li>CV：<a href="/index.php?title=%E6%B5%A6%E5%B1%B1%E8%BF%85&amp;action=edit&amp;redlink=1" class="new" title="浦山迅（頁面不存在）">浦山迅</a>(日)、Steve Blum(美)</li>
+<li>尼弗海姆帝國的科學家，負責進行使骸的研究和魔導兵的製造，30幾年前帶人偷偷潛入神影島找到了被關在島上的艾汀並成功救出，之後說服艾汀協助侵略路希斯，透過艾汀的協助發展出了用使骸製造魔導兵的技術。</li>
+<li>使用自己的基因大量培育了許多孩子製造成魔導兵。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">普羅就是其中一名，因此形式上來說他也是普羅的生父，年輕時也與普羅有些相似。</span></li>
+<li><s>本篇除了一開始有戲份外就莫名其妙的被鬼隱沒下文</s>
+<ul><li>普羅恩普特DLC中擔任最終頭目，利用使骸將自己變成巨大機械沙蟲追擊普羅和艾拉妮亞，被普羅以機車上的機槍擊敗。</li></ul></li></ul></li></ul><h3 class="in-block"><span id="特涅布拉耶"></span><span class="mw-headline" id=".E7.89.B9.E6.B6.85.E5.B8.83.E6.8B.89.E8.80.B6">特涅布拉耶</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=12" title="編輯章節：特涅布拉耶" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>露娜弗蕾亞．諾克斯．芙爾雷/ルナフレーナ・ノックス・フルーレ/Lunafreya Nox Fleuret
+<ul><li>CV：<a href="/index.php?title=%E5%8C%97%E5%B7%9D%E9%87%8C%E5%A5%88&amp;action=edit&amp;redlink=1" class="new" title="北川里奈（頁面不存在）">北川里奈</a>(日)、Amy Shiels(美)、忽那汐里(王者之劍日文版)</li>
+<li>特涅布拉耶王國的名門芙爾雷家的千金，諾克特的未婚妻。</li>
+<li>為能夠與傳說六神溝通的巫女「神巫」，有史以來最年輕得到神巫資格的人，擁有能替受到病痛所苦的人民治療的能力，由於時常接觸人民以及其親民的形象在一般民眾中受到不少支持。</li>
+<li>小時候因某次因緣際會而與諾克特認識。</li>
+<li>雷吉斯死後帶著光耀之戒逃出王都要交給諾克特，並在路途中向泰坦和拉姆溝通讓諾克特日後較容易獲得啟示，最終躲藏到兩人預計舉辦婚禮的水都中受到首相的庇護。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在召喚水神的儀式中被艾汀殺害。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">可能就是伊格尼斯DLC劇情中告知諾克特會犧牲的未來的人<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">皇家包的追加劇情中於王都裡顯靈，帶領著伊弗利特以外的其他六神一起幫助諾克特等人打破艾汀設在王宮外的結界。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>在本作砍掉重練後取代死亡女神艾特羅而成為</s>本作的LOGO擔當。</span></li>
+<li><s>FF系列最空氣女主角，不僅不會參加主角的任何一場戰鬥，明明是劇情關鍵人物出場時間總計卻連半小時都不到</s>
+<ul><li>但在小說版裡有著不少戲份甚至是主要人物之一<s>，可惜那些戲份原本該出的DLC已經全被砍掉了</s>。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">小說版接在在水都被艾汀殺害的10年後，被巴哈姆特復活並獲得與艾汀一樣能吸收使骸病原蟲的能力，在夢裡看到本篇的結局後得知巴哈姆特復活自己的理由是為了阻止艾汀和避免諾克特死去後決定放手一搏，但之後在另一場夢中夢到了肯緹亞娜告知巴哈姆特的真正目的是為了利用露娜消滅所有的生物和星球並將打倒巴哈姆特的方法告訴他。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其後露娜到了王城見到艾汀並向對方要求合作，艾汀起初並不相信露娜而召喚出伊弗利特想消滅他，但露娜將伊弗利特身上的使骸病原蟲全部吸到自己身上並將其淨化，其後與伊弗利特達成契約要求他幫助真王後因承受不了身上大量的使骸病原蟲而使骸化。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">巴哈姆特打算利用露娜毀滅星球的計畫被諾克特和艾汀等人聯手阻止失敗，在水晶淨化世界眾神即將消失之前肯緹亞娜用最後的力量治癒了露娜，最終露娜與諾克特兩人也順利的結為連理。</span></li></ul></li></ul></li></ul></li>
+<li>瑞布斯．諾克斯．芙爾雷/レイヴス・ノックス・フルーレ/Ravus Nox Fleuret
+<ul><li>CV：<a href="/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80" title="中村悠一">中村悠一</a>(日)、Trevor Devall(美)</li>
+<li>露娜弗蕾亞的兄長，雖然原本是特涅布拉耶王國的一員，但現在隸屬於尼弗海姆帝國軍，在格拉烏卡於王都侵略戰戰死後升為將軍。</li>
+<li>年幼時雷吉斯帶著諾克特拜訪特涅布拉耶時遭遇帝國軍的侵攻，其母親在攻擊中受重傷時向正帶著諾克特和露娜逃跑的雷吉斯求救，但沒被雷吉斯發現導致母親重傷身亡，從此非常憎恨雷吉斯並認為他是個只顧著逃跑的懦夫。</li>
+<li>左手是義肢。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原因是為了代替<s>不中用的</s>諾克特戴上戒指，被戒指的力量反噬而失去左手。</span></li>
+<li>水都戰時幫助伊格尼斯並與之前往祭壇，卻發現露娜弗蕾亞已經為了保護諾克特身亡，崩潰之下原欲殺死諾克特被伊格尼斯阻止。</li>
+<li>事後返回帝國後被帝國構陷當成背叛者處刑<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但實際上是被皇帝與使骸重傷後被偽裝成諾克特的艾汀所殺害</span>，諾克特抵達帝國後發現了他的屍體以及雷吉斯死後一直在其手上的父王之劍，在諾克特取回力量後化為使骸出現，但仍保有一點意識抵抗使得無法使出使骸化的全力，最後被諾克特一行人所消滅。</li>
+<li><s>傲嬌</s>嘴巴上一直不認為諾克特能成為真正的王，但其實也在等諾克特真正能夠成為王並且將雷吉斯的劍親自交給他。</li>
+<li>伊格尼斯的IF結局中存活，在伊格尼斯被帶走後幫助諾克特等人前往帝國拯救伊格尼斯，並在幾年後諾克特成為真正的王回歸後如願親自將劍交給了他。</li></ul></li>
+<li><s>史黛拉．諾克斯．芙爾雷/ステラ・ノックス・フルーレ/Stella Nox Fleuret</s>
+<ul><li><s>CV：<a href="/index.php?title=%E6%B8%85%E6%B0%B4%E7%90%86%E6%B2%99&amp;action=edit&amp;redlink=1" class="new" title="清水理沙（頁面不存在）">清水理沙</a>(日)</s></li>
+<li><s>特涅布拉耶王國的名門芙雷家的千金</s></li>
+<li><s>隨著《Versus XIII》改為《XV》後因原本的背景不符合修改後的劇本而慘遭取消<b>就此消失</b>的原訂女主角</s></li>
+<li><s>之後似乎轉戰平面模特兒界<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>，<a rel="nofollow" class="external text" href="https://youtu.be/S2Deu9mNbHc">還疑似跑到隔壁棚對索拉大吐苦水</a></s></li></ul></li></ul><h3 class="in-block"><span id="亞柯爾德"></span><span class="mw-headline" id=".E4.BA.9E.E6.9F.AF.E7.88.BE.E5.BE.B7">亞柯爾德</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=13" title="編輯章節：亞柯爾德" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>韋斯卡姆/ウィスカム・アルマ/Weskham Armaugh
+<ul><li>CV：<a href="/index.php?title=%E9%BB%92%E7%94%B0%E5%B4%87%E7%9F%A2&amp;action=edit&amp;redlink=1" class="new" title="黒田崇矢（頁面不存在）">黒田崇矢</a>(日)、Dave Fennoy(美)</li>
+<li>雷吉斯年輕時旅行的同伴，擅長槍術與劍術，與雷吉斯一同拜訪水都後因傷退出並從此定居在水都，現在水都經營餐廳【瑪戈】。
+<ul><li><s>大概是玩家最常光顧也是最貴的餐廳</s><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></li></ul></li>
+<li>跟亞柯爾德的首相卡梅莉亞熟識，卡梅莉亞決定幫助諾克特一行人時寫了一封感謝信給他。</li>
+<li>戰友包中在收復卡宴後，待在此處負責照顧各國難民。</li></ul></li></ul><ul><li>卡梅莉亞．克勞史特拉/カメリア・クラウストラ/Camelia Claustra
+<ul><li>CV：<a href="/index.php?title=%E5%94%90%E6%B2%A2%E6%BD%A4&amp;action=edit&amp;redlink=1" class="new" title="唐沢潤（頁面不存在）">唐沢潤</a>(日)、Judith Flanagan(美)</li>
+<li>亞柯爾德的首相，是一名具有相當手腕的政治家，在露娜抵達水都時提供庇護並為了保護人民與來到此地的諾克特進行首腦會談，以讓露娜進行儀式為條件要求諾克特協力疏散市民。</li>
+<li>與雷吉斯是舊識，時常會到其以前的同伴韋斯卡姆開的餐廳光顧。</li></ul></li></ul><h3 class="in-block"><span id="特務部隊「王者之劍」"></span><span class="mw-headline" id=".E7.89.B9.E5.8B.99.E9.83.A8.E9.9A.8A.E3.80.8C.E7.8E.8B.E8.80.85.E4.B9.8B.E5.8A.8D.E3.80.8D">特務部隊「王者之劍」</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=14" title="編輯章節：特務部隊「王者之劍」" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>尼克斯．歐瑞克/ニックス・ウリック/Nyx Ulric
+<ul><li>CV：<a href="/index.php?title=%E7%B6%BE%E9%87%8E%E5%89%9B&amp;action=edit&amp;redlink=1" class="new" title="綾野剛（頁面不存在）">綾野剛</a>(日)、Aaron Paul(美)</li>
+<li>前傳電影「王者之劍」主角，劍隊成員之一，與里貝提斯同樣出身於葛拉哈德。</li>
+<li>戰爭時期尚年幼時被雷吉斯所救，因而願意對雷吉斯國王忠誠。</li>
+<li>戰鬥能力優秀，與王家賦予的魔法有著高度親和力。</li>
+<li>開頭的守城戰有著十分傑出的表現，甚至被隊員們稱為「英雄」。但因為違抗撤退命令前往拯救摯友里貝提斯，因而遭到罰守城門的處分。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">發現克勞殉職後留下來的訊息而奮不顧身前往城堡求見雷吉斯國王要求其部署王者之劍前往尼弗海姆船艦上拯救露娜，不料卻中了圈套而落得被叛國的劍隊成員追殺。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">有一個妹妹，在戰爭時期死亡，尼克斯對於無法讓妹妹看見她所「期盼的未來」一事相當介懷。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為雷吉斯的死亡在後期與所有劍隊成員都失去了魔法，為了從格魯卡將軍手下保護露娜而戴上光耀之戒。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原先被歷代諸王否定，幸虧得到了剛去世不久的雷吉斯遊說加上自己有了捨身取義也要保護未來的覺悟，歷代諸王才允許尼克斯以自己的生命為代價暫時重新獲得魔法。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在打倒格魯卡將軍後隨著太陽升起，帶著滿足的微笑化成灰消散。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>遊戲最終戰時與露娜、雷吉斯和伊德拉皇帝參加宰相撿屍趴</s></span></li>
+<li>在王都達成條件可在打倒隱藏敵人後撿到他的小刀。</li>
+<li>姓名原文是希臘文 Nyx，轉成拉丁文後是 Nix，意思是「黑夜」，而諾克特的本名原意是 Nix 這個字的所有格，某種程度上也暗示著兩個人的經歷有著可以對照或是相對的地方。</li></ul></li>
+<li>里貝提斯．奧斯汀/リべルト・オスティウム/Libertus Ostium
+<ul><li>CV：<a href="/index.php?title=%E9%B9%BF%E7%B3%A0%E5%85%89%E6%98%8E&amp;action=edit&amp;redlink=1" class="new" title="鹿糠光明（頁面不存在）">鹿糠光明</a>(日)、Liam Mulvey(美)</li>
+<li>劍隊成員之一，與尼克斯出身同鄉。</li>
+<li>豪爽的性情中人，能從其強烈的責任感與感情感受到他頑固的一面。</li>
+<li>開頭守城戰撤退的時候被大石壓住身軀，幸虧尼克斯違命前往救援才得以脫困。</li>
+<li>與尼克斯私交甚篤，將其視為兄弟。</li>
+<li>把自幼便孤身一人的克勞視為自己的妹妹看待。<s>克勞表示里貝提斯擔心她的話語已經聽到她耳朵長繭</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在克勞殉職之後憤而退出王者之劍加入路希斯王國反抗軍。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">加入反抗軍之後和尼克斯其實有擦身而過，但尼克斯由於急著前往城堡報信而沒注意到他。<s>里貝提斯你看看你連你拜把兄弟都把你當空氣</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">發現反抗軍和尼弗海姆帝國有勾結後便駕車前營救尼克斯，受尼克斯託付保護露娜的職責之前將自己的彎刀交給了尼克斯，間接成為幫助尼克斯擊殺格魯卡將軍的助力。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原本打算繼續尼克斯未完的職責一路保護露娜，但露娜卻堅持獨自一人繼續前進，在露娜臨走前允諾一切結束後自己和尼克斯會歡迎她來到自己的家鄉。<s>明明露娜一路上都被尼克斯保護著，里貝提斯接手後卻堅持要離開，里貝提斯你看看你</s></span></li>
+<li>戰友包中撿到失去記憶的玩家，最終與玩家一起駐守在神影島直到諾克特歸來，但也已經精疲力盡，可能在諾克特離去後便身亡。</li></ul></li>
+<li>克勞．阿爾媞斯/クロウ・アルティウス/Crowe Altius
+<ul><li>CV：<a href="/index.php?title=%E8%97%A4%E6%9D%91%E6%AD%A5&amp;action=edit&amp;redlink=1" class="new" title="藤村步（頁面不存在）">藤村步</a>(日)、Alexa Kahn(美)</li>
+<li>劍隊成員之一，隊員中少見的女性。</li>
+<li>在劍隊成員之中是罕見地可以使用高級魔法的一人。</li>
+<li>因為自幼即是孤兒，所以將劍隊成員們視為自己的家人。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在路希斯王國接受投降後受提圖斯徵召進行護送露娜的機密任務，然而這次機密任務卻是提圖斯等叛國的劍隊成員一手主導，連露娜都尚未見到就當場被慘殺<s>被自己當成家人的一群人陰了</s></span></li></ul></li>
+<li>提圖斯．德拉特/タイタス・ドラットー/Titus Drautos
+<ul><li>CV：<a href="/%E5%B1%B1%E5%AF%BA%E5%AE%8F%E4%B8%80" title="山寺宏一">山寺宏一</a>(日)、Adrian Bouchet(美)</li>
+<li>劍隊的最高指揮官。</li>
+<li>對待他人與對待自己都非常地嚴格，憑著對自身的要求而得到現在的實力與地位。</li>
+<li>同時也是指導尼克斯戰鬥的師傅。</li>
+<li>在遊戲本篇開頭短暫出現，諾克特離去前拜託他保護好雷吉斯國王。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>結果沒想到之後變成諾克特的殺父仇人，諾克特你看看你</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真身就是格魯卡將軍，因為防護罩外的家鄉淪陷之故，對雷吉斯國王也抱持恨意，在王都混戰中與尼克斯相互纏鬥最後被尼克斯一刀捅死</span></li></ul></li>
+<li>魯契．拉瑟羅/ルーチェ・ラザロ/Luche Lazarus
+<ul><li>CV：<a href="/%E9%97%9C%E6%99%BA%E4%B8%80" title="關智一">關智一</a>(日)、Todd Haberkorn(美)</li>
+<li>劍隊成員之一，因為其知性與沉穩冷靜而備受隊員信賴。</li>
+<li>在提圖斯不在的時候擔任領導整個劍隊的角色，本人也被提圖斯將軍視為心腹。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與尼弗海姆帝國勾結背叛國家的成員之一，似乎有參與暗殺克勞的計畫</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">劇情後期攔截了尼克斯並給予重創，雖然成功搶到戒指但因為露娜的挑發而企圖戴上戒指獲得王族之力，最後全身被焚盡，死亡。<s>魯契你的沉穩跟冷靜去哪了？</s></span></li></ul></li>
+<li>潘納．卡拉/ベルナ・カーラ/Pelna Khara
+<ul><li>CV：<a href="/index.php?title=%E9%AB%98%E6%9C%A8%E6%B8%89&amp;action=edit&amp;redlink=1" class="new" title="高木渉（頁面不存在）">高木渉</a>(日)、Ben Diskin(美)</li>
+<li>劍隊成員之一，聰明且擁有敏銳的洞察力。</li>
+<li>在一開始對帝國軍的守城戰被尼克斯救了一命。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在前往營救露娜的行動中成功救出露娜，但隨即被艦內的魔獸觸手抓住重拋，全身骨折戰死<s>潘納，說好的洞察力呢？</s></span></li></ul></li>
+<li>崔德‧福里亞/トレッド・フュリア/Tredd Furia
+<ul><li>CV：<a href="/index.php?title=%E5%B0%8F%E6%9D%BE%E5%8F%B2%E6%B3%95&amp;action=edit&amp;redlink=1" class="new" title="小松史法（頁面不存在）">小松史法</a>(日)、Max Mittelman(美)</li>
+<li>劍隊成員之一，有著高度職業精神的隊員。</li>
+<li>因為反覆的訓練，在劍隊中的戰鬥水準是數一數二的。</li>
+<li>似乎對尼克斯有所不滿，在王都宣布投降之後更主動用惡意的玩笑挑釁尼克斯和里貝提斯。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與尼弗海姆帝國勾結背叛國家的成員之一<s>崔德你的敬業精神去哪了？</s></span></li>
+<li><a href="/J%E2%80%A7P%E2%80%A7%E6%B3%A2%E9%AD%AF%E7%B4%8D%E9%9B%B7%E5%A4%AB" title="J‧P‧波魯納雷夫"><s>其實本人是替身使者，為了替妹妹復仇而尋找著兩隻手都是右手的替身使者，每次上廁所都會出事</s></a></li></ul></li>
+<li>阿克西斯．亞拉/アクシス・アーラ/Axis Arra
+<ul><li>CV：Shaun Mckee(美)</li>
+<li>劍隊成員之一，含蓄且沉默寡言的人。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也是與尼弗海姆帝國勾結背叛國家的成員之一</span></li>
+<li><s>劍隊邊緣人，其之一。明明沒什麼戰績也沒說話卻頻繁出現在每個場面刷存在</s></li></ul></li>
+<li>索尼圖斯．貝拉姆/ソニト・ベラム/Sonitus Bellum
+<ul><li>CV：Shaun Mckee(美)</li>
+<li>劍隊成員之一，是個重視紀律的武器使用的專家。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也是與尼弗海姆帝國勾結背叛國家的成員之一</span></li>
+<li><s>劍隊邊緣人，其之二，唯一的戰績是<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">背刺自己人。說好的重視紀律呢</span> </s></li></ul></li></ul><ul><li>玩家
+<ul><li>CV：自訂</li>
+<li>戰友包DLC的主角，姓名、性別和外貌可自訂。</li>
+<li>初期失去記憶被其他王者之劍成員撿回雷斯塔倫<s>開始了到處撿隕石送電和刷素材強化武器的日子</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後期恢復記憶想起了手機的密碼，從裡面的簡訊發現自己也是當初叛國的劍隊成員之一，</span>受到某種指引和其他受到指引的劍隊成員開著王家之船到神影島遭遇到伊芙利特以外的其他六神，並由劍神巴哈姆特<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了叛國一事</span>進行審判，最終得到劍神的認可<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">洗去了逆臣之名</span>並被託付守護神影島的工作直到諾克特回歸，等到諾克特回歸後已精疲力盡，在皇家包王都裡的其中一個追加任務中會擔任客座角色加入隊伍但是沒有台詞，主角群對他的感想也只有似乎以前看過類似的人，因此也不能確定是否為本人，從其他劍隊成員口中轉達可得知自己很榮幸能夠與諾克特一起戰鬥並想起了10年前的戰友們。</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="魔法"></span><span class="mw-headline" id=".E9.AD.94.E6.B3.95">魔法</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=15" title="編輯章節：魔法" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<h3 class="in-block"><span id="六神與召喚獸"></span><span class="mw-headline" id=".E5.85.AD.E7.A5.9E.E8.88.87.E5.8F.AC.E5.96.9A.E7.8D.B8">六神與召喚獸</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=16" title="編輯章節：六神與召喚獸" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>泰坦/タイタン
+<ul><li>土神，外型是男性光頭巨人。</li>
+<li>沉睡在隕石坑中，與諾克特戰鬥後給予了啟示。</li>
+<li>在水都戰中出現，保護和利維坦戰鬥後力盡的諾克特免於利維坦和帝國軍的襲擊。</li>
+<li>召喚條件是我方需有人戰鬥不能才有機會被召喚，戰鬥不能的人越多越容易被召喚<s>但也很容易因為戰鬥時間拖長被樓下的搶走出場機會</s>。
+<ul><li>在堅鋼玳瑁龜戰中被召喚出來時有特殊的召喚動畫。</li></ul></li></ul></li>
+<li>拉姆/ラムウ
+<ul><li>雷神，外型是一名身穿長袍、手執權杖、白髮長髯的智者。</li>
+<li><s>雷系神奇寶貝</s></li>
+<li>召喚條件是六神中最簡單<s>所以也最常出來刷存在感</s>，只要拖長戰鬥時間就有機會出現。</li></ul></li>
+<li>利維坦/Leviathan
+<ul><li>水神，外型是身長一公里出頭、有魚鰭的巨大海蛇。</li>
+<li>討厭人類，拒絕給予諾克特啟示，之後被覺醒的諾克特擊敗。</li>
+<li>水都歐爾提謝的守護神。</li>
+<li><s>水系神奇寶貝</s></li>
+<li>召喚條件需諾克特進入危機狀態並在水邊才有機會出現，危機狀態越久出現機率越高。</li></ul></li>
+<li>肯提亞娜 <span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">濕婆</span>/ゲンティアナ <span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">シヴァ</span>
+<ul><li>CV：<a href="/index.php?title=%E6%9C%A8%E4%B8%8B%E7%B4%97%E8%8F%AF&amp;action=edit&amp;redlink=1" class="new" title="木下紗華（頁面不存在）">木下紗華</a>(日)、Renee Faia(美)</li>
+<li>六神24使中的其中一人，擔任與六神溝通的橋樑。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同時也是冰神濕婆的分身，本體被帝國所擊破只留下遺骸，但仍然持續影響當地氣候導致一片天寒地凍。</span></li>
+<li><s>靈異照片的原因之一</s><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原本討厭人類，但是因為愛人伊弗利特喜愛人類而選擇相信人類，儘管在伊弗利特改變立場痛恨人類後依舊深愛著人類。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">進入沉眠時感受到伊弗利特被使骸化，原本想醒來幫助伊弗利特卻被帝國軍擊破，知道已經拯救不了伊弗利特的濕婆只能請求諾克特讓伊弗利特能夠安息。</span></li>
+<li>在露娜年幼時就與其相識，了解到其想要再一次見到諾克特的心願，決定以友人的身分幫助她並再次相信人類，在露娜死後將其心意轉述給諾克特。</li>
+<li>召喚條件是所有召喚獸中最麻煩的，需同時達成拖長戰鬥時間、諾克特陷入危機狀態與我方有人戰鬥不能的條件外還不能在室內或迷宮內。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">王都的伊弗利特戰中一定會被召喚出來。</span></li></ul></li>
+<li>戰友包中的人物資料提到在玩家駐守在神影島的期間一直在遠方看著他們戰鬥。</li></ul></li>
+<li>巴哈姆特/バハムート
+<ul><li>劍神，與歷代龍的形象不同，是穿著盔甲背著多把大劍的人形，雖然頭盔是經典的龍首形狀但面甲當中可看到像是人類的眼睛。</li>
+<li>在水晶中給予諾克特啟示，並告知他必須迎向的命運與艾汀的真實身分。</li>
+<li>只會在伊弗利特戰中被召喚<s>殺敵數0<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></s>。</li>
+<li><s>大概是被玩家笑憤而</s>擔任DLC戰友包的最終頭目，為了給予曾經背叛過王的王者之劍們審判與抵達神影島的玩家們戰鬥，事後將駐守神影島的工作託付給王者之劍後離去。</li>
+<li>30幾年前艾汀欲給雷吉斯致命一擊時出現阻止艾汀，並告知艾汀真正的使命為何。
+<ul><li><s>真．機掰人<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一切悲劇的罪魁禍首。身為六神中唯一的上位神地位相當於世界的管理者，為了消滅使骸賦予了王家光耀之戒和使命，更為了需要有人擔任世界的黑暗導致了艾汀的悲劇；小說的IF劇情中當他發現艾汀不願意照他的劇本走時，決定使用第二備案──即使用究極召喚テラフレア將使骸病原蟲連同所有生物全部消滅。</span><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></li></ul></li>
+<li>伊弗利特/イフリート
+<ul><li>炎神，外型是長著雙角拿著大劍的男性人形。</li>
+<li>六神中唯一完全與我方敵對，故就算擊敗他也不能召喚他。</li>
+<li>原本深愛著人類，給與人類能夠發展文明的火，卻因人類忘恩負義轉而震怒欲消滅人類，引發了魔大戰和其他的六神為敵，之後被其他六神所擊敗並一起進入沉眠，但被使骸化擋在來到王宮的諾克特一行人之前，最終被諾克特擊敗後徹底消滅。
+<ul><li>為了因應追加劇情於1.21的更新中修改外型，身體有一半使骸化。</li></ul></li>
+<li>戰友包第二輪的最終頭目，玩家們送電回王都後欲取得雷吉斯的加護時遭遇到了艾汀與其操控的伊弗利特，戰勝後雖取回雷吉斯的加護但玩家們也被艾汀打昏趕了出去，<s>如果敗北的話就會看到艾汀一臉機掰的嘲諷玩家</s></li>
+<li>遊戲中的文件創星紀封面上的人物正是他<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">和濕婆。</span></li>
+<li>魔大戰後沉眠在火山裡，被帝國找到並帶入研究所中，在路希斯的軍隊為了除掉艾汀攻擊研究所時甦醒過來，但被艾汀使骸化後從此淪為艾汀的傀儡。</li></ul></li>
+<li>卡邦庫爾/カーバンクル
+<ul><li>外型為頭上有紅色寶石的白色小狐狸。</li>
+<li>召喚獸中唯一不是六神的，僅會在簡單難度中被召喚，效果是在諾克特戰鬥不能時復活並給予強化效果，但某些戰鬥中無法被召喚。</li>
+<li>於《PLATINUM DEMO：FINAL FANTASY XV》登場。
+<ul><li>本篇跟肯提亞娜一樣會隨機在照片中亂入出現。</li></ul></li>
+<li>取得方式
+<ul><li>下載《PLATINUM DEMO：FINAL FANTASY XV》之後等遊戲發售就可以下載取得。</li></ul></li></ul></li>
+<li>迦樓羅
+<ul><li>外型是鳥人。</li>
+<li>FF14的合作劇情出現，24使之一，因原本的名字已被遺忘故用了從FF14跑來的荒神迦樓羅作為自己的名字。</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="武器"></span><span class="mw-headline" id=".E6.AD.A6.E5.99.A8">武器</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=17" title="編輯章節：武器" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<h3 class="in-block"><span class="mw-headline" id="Final_Fantasy_XV_2">Final Fantasy XV</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=18" title="編輯章節：Final Fantasy XV" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>普通武器一共有單手劍、巨劍、小刀、槍械、盾牌、長槍、機械和魔法瓶七種，除了主角諾克特可以使用所有武器<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>以及魔法瓶所有人都能使用外，每個角色都有武器種類的裝備限制。
+<ul><li>部分武器可以透過席德的支線任務進行改造。</li>
+<li>本作魔法需要在各地收集元素後進行調配，可在調配時加入道具並根據道具種類與數量以及元素量變成有附加額外效果的魔法。
+<ul><li>此外本作魔法會造成場地效果，如果使用不慎可能會害同伴或自己一起遭殃<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></li></ul></li></ul></li>
+<li>除了上述武器外還有諾克特才能使用的歷代先王武器「幻影劍」和十三章起可使用的「光耀之戒」。
+<ul><li>王武大多有自己的獨立攻擊模組和強力的裝備效果，但使用時有消耗血量的副作用。</li>
+<li>收集一定量的王武可以在計量表滿時開啟幻影劍，在短時間內不會陷入危機狀態使用幻影劍攻擊並可以使用和同伴的幻影劍連結。
+<ul><li>特定戰鬥會開啟永久幻影劍型態，在該型態可以進行永久浮空，有些玩家會利用BUG讓自己永久呈現此狀態來探索一部分正常遊玩無法抵達的地方。</li></ul></li>
+<li>皇家包追加真．幻影劍的型態，要開啟這型態就必須要先收集完13把王武後到拿到第一把王武附近的雕像調查後獲得的真王之證，裝備後使用幻影劍就會變成真幻影劍。
+<ul><li>與一般的幻影劍型態差異在於維持時間比較久，並且有獨立的攻擊模組和技能，但是無法和一般幻影劍一樣鎖血，如果進入危機狀態就會強制解除幻影劍但計量表不會歸零，在此型態時隊友會盡量遠離諾克特，也無法使用夥伴技能。</li></ul></li>
+<li>光耀之戒裝備後可以使用三種魔法，分別為致死一擊、神聖和吸引，致死一擊如字面上所說可以直接將沒有即死耐性的單體敵人秒殺並且吸收大量的HP，就算有耐性只要持續發動還是能對敵人造成持續性的傷害；神聖則是迴避時會自動發動聖屬性攻擊並且能夠回復MP，如果達成精準迴避的話傷害會非常大甚至可以讓敵人進入WEAK狀態；而吸引需在MP滿的情況下才能使用，一次炸光全部MP消滅複數敵人，不過當然還是有部分敵人是有抗性的。
+<ul><li><s>運氣夠好或者願意一直反覆嘗試的話連三鐘經甚至堅鋼玳瑁龜都能夠秒掉</s></li>
+<li>遊戲剛發售時性能很差，劇情上又有一章強制只能使用光耀之戒，再加上該章流程漫長又枯燥沉悶導致該章評價極差<s><a rel="nofollow" class="external text" href="https://www.pttweb.cc/bbs/C_Chat/M.1481165719.A.B47">連聲優都看不下去</a></s>，於某次更新提升性能後已有大幅的改善。<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></li></ul></li></ul></li></ul><h3 class="in-block"><span id="Final_Fantasy_XV_戰友包"></span><span class="mw-headline" id="Final_Fantasy_XV_.E6.88.B0.E5.8F.8B.E5.8C.85">Final Fantasy XV 戰友包</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=19" title="編輯章節：Final Fantasy XV 戰友包" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>可使用武器有武士刀、小刀、長槍、十字弓、盾牌、錘和大型手裡劍，每一把武器都需要透過素材來鑲嵌能力和強化武器等級提升性能，同時戰友包裡玩家的裝備素質是看裝備在身上的四把武器的總和。</li>
+<li>與本篇不同不能使用道具也沒有魔法瓶的設定，取而代之的是玩家可以消耗魔力使用護盾、回復和攻擊三種魔法，每種魔法可能會因為裝備的王之加護不同而有所變化，回復和攻擊魔法會根據鑲在裝備武器上的能力不同變成不同種類的魔法，此外如果沒有特別鑲攻擊魔法的能力的話玩家只能使用無屬性的衝擊波魔法。</li>
+<li>可透過送電解開路線的方式運送各地歷代先王的遺體回來並獲得其加護，一次只能裝備一種加護。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="交通工具"></span><span class="mw-headline" id=".E4.BA.A4.E9.80.9A.E5.B7.A5.E5.85.B7">交通工具</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=20" title="編輯章節：交通工具" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<h3 class="in-block"><span id="雷格里亞/レガリア"></span><span class="mw-headline" id=".E9.9B.B7.E6.A0.BC.E9.87.8C.E4.BA.9E.2F.E3.83.AC.E3.82.AC.E3.83.AA.E3.82.A2">雷格里亞/レガリア</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=21" title="編輯章節：雷格里亞/レガリア" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>雷吉斯年輕時的座車，同時在進入水都前主角們在地圖上移動主要的代步工具。
+<ul><li>自動駕駛時由伊格尼斯駕駛，手動時會換成諾克特，另外在隊伍到一定強度前夜晚如果要開車會強制變手動，不過快速移動不在此限。</li>
+<li>車頂為可收納式，沒有下雨且在非飛行狀態時會打開。</li>
+<li><s>不知道為什麼可以直接在車上網購還能就地取貨</s></li>
+<li>沒油的話就必須要自己推車或花錢請希德妮幫你拖回槌頭鯊。
+<ul><li>尚未加裝超強力頭燈前晚上開車時會隨機遭遇使骸並下車強制戰鬥，另外無論何時開車時都有機會因為遭遇魔導兵而強制下車戰鬥，如果是使用快速旅行的話則是直接到達目的地不會遭遇任何戰鬥。</li></ul></li></ul></li>
+<li>可藉由希德妮來進行加裝零件或修改樣式，並可依照遊戲進度進行改裝另外兩種型態。
+<ul><li>雷格里亞TYPE-F
+<ul><li>可變成飛車，需全破後才能改裝，相當於本作飛空艇擔當<s>大概也是系列中最脆弱的飛空艇</s><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>，可以飛到一部份一般步行無法前往的地區，但只能在道路上降落。在此型態時會強制改裝上不耗油料的零件，另外如果要變成飛行模式就一定要由諾克特來手動駕駛。</li></ul></li>
+<li>雷格里亞TYPE-D
+<ul><li>大型越野車，可以在非道路上的原野移動也能使用跳躍跳過一些障礙物，不過因為體型過大如果沒油的話只能叫希德妮拖回去不能自己推車。</li></ul></li></ul></li>
+<li>在諾克特一行人搭乘火車要進入帝國時火車遭襲，由諾克特駕駛逃離火車一路衝往帝國，並在一路上承受帝國的炮火攻擊，最終在抵達目的地後報廢。</li>
+<li>皇家包裡可在10年後的王都搭乘改裝成TYPE-D的同型車在王都中探索。</li></ul><h3 class="in-block"><span id="遊艇"></span><span class="mw-headline" id=".E9.81.8A.E8.89.87">遊艇</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=22" title="編輯章節：遊艇" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>諾克特一行人前往水都的交通工具，原版只有劇情上自動駕駛，皇家包的追加內容裡確認可以由玩家自行駕駛到新釣場或在支線中遇到水都的另一個海神畢斯麥。
+<ul><li>此船為雷吉斯年輕時開過的船，一般人稱之為王家之船，戰友包的DLC中不知為何在賈迪納港口外漂流被發現，隨後由里貝爾德等王者之劍的成員進行回收和修復，修復完成後由里貝爾德和玩家以及其他劍隊成員一起搭乘前往神影島，之後此船也成為10年後諾克特從神影島回歸後返回本土的交通工具。</li></ul></li>
+<li>另外伊格尼斯的DLC劇情中有一段需由玩家駕駛快艇。</li></ul><h3 class="in-block"><span id="雪上摩托車"></span><span class="mw-headline" id=".E9.9B.AA.E4.B8.8A.E6.91.A9.E6.89.98.E8.BB.8A">雪上摩托車</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=23" title="編輯章節：雪上摩托車" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>於普羅的DLC中出現，為該劇情中自由探索時玩家主要的交通工具。
+<ul><li>車上有機槍可以射擊，騎乘時被攻擊還是會受到傷害、遭遇到某些強力攻擊時甚至會摔下車，並可透過使用點數來改造車的能力。</li></ul></li></ul><h3 class="in-block"><span id="陸行鳥"></span><span class="mw-headline" id=".E9.99.B8.E8.A1.8C.E9.B3.A5">陸行鳥</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=24" title="編輯章節：陸行鳥" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>系列的吉祥物，除了迷宮和一部份地區外都可以搭乘通行，需透過各地的出租券發售機承租，一次最多租七天，另外在出租期間如果前往水都或王都則會強制退租<s>還不會退錢給你</s>。
+<ul><li>可以自由更改陸行鳥的顏色，露營時也可以透過不同的蔬菜暫時提升陸行鳥的能力。</li></ul></li>
+<li>戰友包中雖然玩家不能騎乘（也不能更改顏色），但是在改版後可於進入第二輪時透過培育陸行鳥在原本沒有電塔的地方協助建設電塔來進行供電，並可在卡宴派出最多4隻自己培育的陸行鳥進行鬥技場競技來獲得道具或裝備。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="製作人員"></span><span class="mw-headline" id=".E8.A3.BD.E4.BD.9C.E4.BA.BA.E5.93.A1">製作人員</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=25" title="編輯章節：製作人員" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li>製作人
+<ul><li>橋本真司</li></ul></li>
+<li>總監
+<ul><li>野村哲也(前)、田畑端(現)</li></ul></li>
+<li>故事原案
+<ul><li>野島一成</li></ul></li>
+<li>原案、角色設定
+<ul><li>野村哲也</li></ul></li>
+<li>人物設計
+<ul><li>Ferrari Roberto</li></ul></li>
+<li>服裝設計
+<ul><li>高原啓<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></li></ul></li>
+<li>音樂
+<ul><li>下村陽子</li></ul></li>
+<li>導演
+<ul><li>野末武志</li></ul></li>
+<li>美術設計
+<ul><li>長谷川朋広、直良有祐、上囯料勇</li></ul></li>
+<li>地圖設計
+<ul><li>松浪保之</li></ul></li>
+<li>3D圖形導演
+<ul><li>岩田亮</li></ul></li>
+<li>首席工程師
+<ul><li>荒牧岳志、岩﨑浩</li></ul></li>
+<li>首席遊戲設計師
+<ul><li>佐藤雅則、瀧澤雅史、木村邦彥、湯地健一郎、Prasertvithyakarn Prasert</li></ul></li>
+<li>首席敵人設定
+<ul><li>兼森雄一、神林孝幸</li></ul></li>
+<li>首席等級設定
+<ul><li>寺田武史</li></ul></li>
+<li>首席劇本設定
+<ul><li>板室紗織 <sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></li></ul></li>
+<li>首席技術美工
+<ul><li>七瀨清司</li></ul></li>
+<li>首席場景美工
+<ul><li>廣田俊明</li></ul></li>
+<li>首席技術動畫師
+<ul><li>青野孝悠 領銜</li></ul></li>
+<li>3DCG動畫師
+<ul><li>志田健一、田中雄介</li></ul></li>
+<li>首席環境美工
+<ul><li>上野功士</li></ul></li>
+<li>首席3D角色美工
+<ul><li>黒坂一隆</li></ul></li>
+<li>首席視覺特效美工
+<ul><li>栗田直樹</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="投票"></span><span class="mw-headline" id=".E6.8A.95.E7.A5.A8">投票</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=26" title="編輯章節：投票" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li>你喜歡哪個角色？</li></ul><div class="vote-block"><div class="vote-page" data-section="1" data-vote-page="Final Fantasy XV/投票">
+</div>
+<div class="vote-link" style="display: none;"><span class="plainlinks"><a rel="nofollow" class="external text" href="https://wiki.komica.org/index.php?title=Final_Fantasy_XV/%E6%8A%95%E7%A5%A8&amp;action=edit&amp;section=1">編輯投票選項</a></span></div></div>
+<p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="參見"></span><span class="mw-headline" id=".E5.8F.83.E8.A6.8B">參見</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=27" title="編輯章節：參見" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<ul><li><a href="/Square_Enix" title="Square Enix">Square Enix</a></li>
+<li><a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a></li>
+<li><a href="/RPG" title="RPG">RPG</a></li>
+<li><a href="/PS3%E5%A4%A7%E5%AD%B8%E9%95%B7" title="PS3大學長">PS3大學長</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=28" title="編輯章節：回應" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-10 collapsible-block" id="mf-section-10">
+<div class="pcomment-insert" data-number="" data-section="2" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:Final_Fantasy_XV" title="討論:Final Fantasy XV">討論:Final Fantasy XV</a>|number=|section=2}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(11)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=Final_Fantasy_XV&amp;action=edit&amp;section=29" title="編輯章節：備註" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-11 collapsible-block" id="mf-section-11">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">因為和日清泡麵的連動+<a rel="nofollow" class="external text" href="https://youtu.be/cRh4MZ8nhhY">廣告</a>而產生的戲稱。<s>如果結局選泡麵照片整個遊戲就會變成史上耗資最大製作時間最長的泡麵廣告</s></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">王國之心3中出現的虛構遊戲，疑似就是捏他本作的前身Versus XIII</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.roen.jp/BIOGRAPHY/">在2008年與知名服飾品牌Roen合作</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">開發進度是「新的水晶故事」裡面最慢，而且這期間還推出不少遊戲。</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">有傳聞是開發到水都時基於上層的壓力後面的章節才會草草收尾。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">於1.20更新後已經可以透過點天賦樹後在戰鬥中更換操作人物</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">在打艾汀之前諾克特會找普羅拿一張已保存的照片帶在身上，並在最後和露娜兩人一起看這張照片，如果選了和其他女角的合照或杯麵之類的照片的話，雖然不影響結局但會馬上將結局的美感破壞殆盡...</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">於鐵拳七裡擔任DLC角色。</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">DFF AC以及其家機版，在DFFNT中女神瑪提莉雅向大家解釋事情原委時，只有他第一個舉手問「可不可以告訴我回家的路」<s>完全就是一副沒打算要跟你們瞎攪和的態度，不過至少還會舉手發言而不是直接插話可見教養姑且算是還不錯</s>。</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">FF13在早期開發階段時，野村畫好了一版主角<a href="/%E9%9B%B7%E5%85%89" title="雷光">雷光</a>的設定稿之後才得知雷光是女性，結果後來這個男版雷光的設定就挪去給諾克提斯用了</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">除了個人武器是槍械外，艾拉妮亞加入前關卡風格跟惡靈古堡差不多<s>就連BOSS展開都很惡靈古堡</s></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">遊戲中的杯麵為現實中日本速食麵公司日清的產品。</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">此刀是柯爾年輕時挑戰吉爾迦美什斬斷對方一隻手後留下的，只要通關格拉迪歐篇後本篇的記錄就會自動出現可以裝備的源式之刀。</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">扣掉沒出現的伊格尼斯，其他兩人都是跟著妹子開車，只有他是一臉結屎面和柯爾在水都兩人一起搭貢多拉...（<a rel="nofollow" class="external text" href="https://twitter.com/FFXVJP/status/963684373701767169">見此</a>）</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">需破完一次DLC劇情後會在DLC中的某間商店裡開放廚具，全部購買後就能學到神速烹飪，效果是隨機獲得正面或負面BUFF。</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">不過這段DLC劇情跟本篇還是有衝突的，本篇的11章伊格尼斯提到在他眼睛失明前最後看到艾汀的船飛往神殿，但是自己隨後失去意識無法阻止；DLC中並無此情節，而是與瑞布斯抵達神殿後才遇到偽裝成格拉迪歐的艾汀，並發生後續的事件。</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">官方公式書裡提到沒像尼克斯一樣死掉的原因是因為要拯救諾克特的性命與戒指中的歷代王利益一致，且只需要將艾汀趕跑即可所以並沒有給予太多的力量；IF路線時伊格尼斯試圖要改變諾克特的未來需要打倒艾汀，對歷代王來說則是一個可以大幅削弱艾汀的機會所以給予了非常接近王的力量給他，但代價就是必須付出生命。</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">聲優梗，伊格尼斯、瑞布斯和艾汀三人的聲優分別在00裡配剎那、葛拉漢以及沙瑟斯，同時在00中剎那都有和葛拉漢以及沙瑟斯交手過</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">如果在這裡敗北或者是放棄會BE。</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">遊戲中除了某些時候無法使用車子或者是劇情後期外只要付一點錢就可以讓席德妮幫玩家把車連人拖回鎚頭鯊，就算是必須用飛車才能抵達的地方也能幫你拖回去。</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">戰友包中的護衛任務是要護衛她的拖車，但是該任務常常會因為連線的問題發生車不會動或者是怪不出現導致關卡卡死的狀況。</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=VBKDHlC-ua8">https://www.youtube.com/watch?v=VBKDHlC-ua8</a></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">於2015年3月7日，因肺炎不幸去世，享年74歲。</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">這裡的艾汀比起本篇時強上許多，並且擁有很多本篇所沒有的攻擊方式。<s>所以本篇根本在放水</s></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">利用BUG加入後搭車時艾拉妮亞並不會跟著坐上車，而是在車後面追著車跑。</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">謎之聲的聲優與其相同，且伊格尼斯也是在看到普萊娜後才開始看見未來。</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">在王者之劍的街景中史黛拉有在街頭廣告上出現。</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">有販賣全餐廳中最貴的料理，同時也有販賣經驗+100%和免疫火冰雷三屬BUFF的料理，因此許多要練等或挑戰迷宮的人如果不自己做就會跑來這裡吃。</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text">見過肯提亞娜的劇情後，在結算檢視照片時有機會拍到她的身影，然而在遊戲中是不會看到她的，普羅也會表示拍照片的當下她確實不在場。</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">他只負責牽制住炎神，尾刀是諾克特撿走的</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">從頭到尾都叫別人要遵循命運，跟諾克特說必須要奉獻生命消滅黑暗，也告訴艾汀必須負責當壞人這樣就能達成復仇，不答應還會用強迫的，整個就是都給他講就好了......</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text">類似於北歐神話中奧丁的行為，不過奧丁至少連自己都搭進去了，這邊巴哈姆特就只是惡劣。</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text">操作普羅時的槍械類除外</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text">例如在水上施展強力的冰法術時，如果這時我方包含施術者也站在水上就會因為水面結凍的緣故無法行動一段時間。</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text">主要輸出致死一擊需耗時詠唱，能快速發動的只有神聖但必須要迴避才能使用，加上該章不少敵人攻擊速度算快造成該章難度過高；更新後致死一擊對沒耐性的敵人取消了詠唱時間、有耐性的敵人也有持續傷害，有些無法立刻秒掉的敵人也有可能在持續發動一段時間後即死；另外該章也在更新後加入了流程大幅縮短的格拉迪歐路線供玩家選擇。</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">起飛或降落時如果撞到東西就會GAME OVER。</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text">Roen創意總監，<a rel="nofollow" class="external text" href="http://www.roen.jp/BIOGRAPHY/">http://www.roen.jp/BIOGRAPHY/</a></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text">寫《Dissidia Final Fantasy》劇本的那位</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=Final_Fantasy_XV&amp;oldid=409972">https://wiki.komica.org/index.php?title=Final_Fantasy_XV&amp;oldid=409972</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/Final_Fantasy_XV"
+				data-user-name="Sonata990"
+				data-user-gender="unknown"
+				data-timestamp="1662558645">
+				最後編輯於 2022年9月7日 (週三) 21:50
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=Final_Fantasy_XV&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.266","ppvisitednodes":{"value":1670,"limit":1000000},"ppgeneratednodes":{"value":3276,"limit":1000000},"postexpandincludesize":{"value":27809,"limit":2097152},"templateargumentsize":{"value":17658,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14333,"limit":5000000},"timingprofile":["100.00%  101.791      1 -total"," 40.36%   41.078     35 模板:Ref"," 24.03%   24.463     70 模板:Censored"," 22.21%   22.612      1 模板:H0","  1.95%    1.987      1 模板:Vote","  1.94%    1.977      1 模板:Pcomment"]},"cachereport":{"timestamp":"20221118202845","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103});});</script>		</body>
+		</html>
+		

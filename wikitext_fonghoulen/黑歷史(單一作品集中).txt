@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>黑歷史 (單一作品集中) - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"黑歷史_(單一作品集中)","wgTitle":"黑歷史 (單一作品集中)","wgCurRevisionId":417558,"wgRevisionId":417558,"wgArticleId":43942,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"黑歷史_(單一作品集中)","wgRelevantArticleId":43942,"wgRequestId":"0532dea8573b6690e49a6340","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E9%BB%91%E6%AD%B7%E5%8F%B2+%28%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD%29\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E9%BB%91%E6%AD%B7%E5%8F%B2+%28%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD%29","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-黑歷史_單一作品集中 rootpage-黑歷史_單一作品集中 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E9%BB%91%E6%AD%B7%E5%8F%B2+%28%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD%29" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">黑歷史 (單一作品集中)</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td>此為<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a>主條目施工中的分支頁面，請不懼怕黑歷史的島民支援資料整頓新增。
+</td></tr><tr><td><span style="color:red;background-color:;">因為很重要，所以要說Ｎ次：本條目所記載的黑歷史<b>見仁見智</b>，若有持反對意見的島民也歡迎參與留言討論，<b>但請勿引發編輯戰</b>以免造成編輯管制。</span>
+</td></tr></tbody></table><hr><ul><li>收錄條件：單一作品IP若在多重領域皆有黑歷史，或單一領域的黑歷史篇幅過長者。
+<ul><li>若是特定內容或批判點其實應屬見仁見智的範疇，請在對應表格中以★記號註明。有需要的話可討論黑歷史存廢。
+<ul><li>不過如果相關項目引發編輯戰，仍然要移動到<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)" title="黑歷史 (見仁見智的)"><b>見仁見智區域</b></a>去討論黑歷史存廢。</li></ul></li></ul></li></ul>
+
+<h3 class="in-block"><span id="寶可夢系列"></span><span class="mw-headline" id=".E5.AF.B6.E5.8F.AF.E5.A4.A2.E7.B3.BB.E5.88.97">寶可夢系列</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=1" title="編輯章節：寶可夢系列" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>因為這個子項是先被分類出來的，所以收錄時請直接將<a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D" title="神奇寶貝">精靈寶可夢</a>相關的部分加進本子項（不用按前兩個子項的方式分類）。
+<ul><li>但是『太陽&amp;月亮』、『<ruby>旅途<rp>（</rp><rt style="font-size:0.5em;"><s><a href="/%E4%B8%80%E6%8B%B3%E8%B6%85%E4%BA%BA" title="一拳超人">One-Ball Man</a></s></rt><rp>）</rp></ruby>』系列造成嚴重的編輯爭議，必須先移駕到<b><a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E8%A6%8B%E4%BB%81%E8%A6%8B%E6%99%BA%E7%9A%84)" title="黑歷史 (見仁見智的)">「黑歷史 (見仁見智的)」</a></b>討論。</li></ul></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>版本
+</th>
+<th>特定內容
+</th>
+<th>理由
+</th>
+<th>備註
+</th></tr><tr><td rowspan="12">動畫版
+</td>
+<td>（原）38話
+</td>
+<td>畫面
+</td>
+<td>俗稱多邊獸事件，因畫面閃爍使觀眾產生光敏感性癲癇症，造成多數兒童昏倒送醫成為國際話題。之後此集被日本官方封印，本集主角多邊獸（3D龍）及其後來的進化型也從此被動畫<a href="/%E9%AC%BC%E9%9A%B1" title="鬼隱">鬼隱</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>。
+</td></tr><tr><td>第251話之後
+</td>
+<td>作畫
+</td>
+<td>由於迷唇姊黑色的臉<a href="/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A2%BA" title="政治正確">遭到海外抗議</a>在嘲諷黑人，從此將迷唇姊的臉改成深紫色（包含電玩）。<br>無印時期的迷唇姊因尚未進行海外播映，所以仍保持黑色，但隨著改成紫色後，無印時期內含迷唇姊的集數也就此在海外封印。
+</td></tr><tr><td>（原）AG101話
+</td>
+<td>劇情
+</td>
+<td>因播出時期日本剛好發生大<a href="/%E5%9C%B0%E9%9C%87" title="地震">地震</a>，本集的內容正好與地震有關故停播，從此除名。<br>同時日後凡是跟地震有關的PM跟招式（鯰魚王、地震、地裂、震級）也不再於動畫中出現。
+</td></tr><tr><td><s>平行裡設定</s>
+</td>
+<td><s>黑歷史</s>
+</td>
+<td>由動畫劇本作家首藤剛志所撰寫的初期的一些設定，內容提及了大量影射現實及不符合現在世界觀的設定<s>標準的黑歷史</s>。
+</td></tr><tr><td>勇基拉
+</td>
+<td>設定
+</td>
+<td>勇基拉設定為超能力少年一覺醒來變成寶可夢，結果遭到勇基拉（ユンゲラー）名稱原梗的海外魔術師<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E5%B0%A4%E9%87%8C%C2%B7%E8%93%8B%E5%8B%92?uselang=zh-tw">尤里·蓋勒（Uri Geller／ユリ・ゲラー）</a></span>抗議，甚至槓上官司，勇基拉因此不再於動畫版甚至TCG中出現，最後一次在動畫露面已經是2005年。<br>鑽石&amp;珍珠篇登場的角色小麥在遊戲中是以勇基拉為拍檔，但動畫中就被換成未進化的凱西。<br>此事件後來被戲稱「勇基拉禁令」，順帶一提，勇基拉在第四世代和第五世代遊戲中是唯一無法用不變之石阻止進化的寶可夢。<br><a rel="nofollow" class="external text" href="https://twitter.com/TheUriGeller/status/1332794451727691777">直至2020年，尤里·蓋勒終於在推特上為此事向任天堂及所有寶可夢粉絲公開道歉，並且宣布解除勇基拉禁令</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><td>水都的守護神
+</td>
+<td>票房
+</td>
+<td>本部電影雖各項設定皆可說佳，然而因其上映時段為城都聯盟後期，冗長的劇情導致收視率分散，進而影響電影票房。<br>並被當年柯南的電影版《貝克街的亡靈》超越，成為目前為止神奇寶貝最低的電影票房紀錄。<br>雖然其後《蒼海的王子》也受到劇情末期影響，票房不佳，但仍比水都高。<br>順帶一提這是第一次有傳說神奇寶貝死亡的紀錄，而引發事件的元凶雖然在結局入獄但仍繼續策畫犯罪<s>何等鬱悶</s>。
+</td></tr><tr><td>鑽石&amp;珍珠
+</td>
+<td>劇情
+</td>
+<td>因為黑/白版突然宣布要推出的關係，導致動畫進度加快，變得有點緊湊，其實也說不上是黑歷史就是。
+</td></tr><tr><td rowspan="3">BW篇
+</td>
+<td>譯名
+</td>
+<td>原先「Best Wishes」翻成「超級願望」就已經令很多人不滿<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>，沒想到之後竟然公佈<a href="/%E5%BE%A1%E4%B8%89%E5%AE%B6" title="御三家">御三家</a>叫藤藤蛇、暖暖豬、水水獺，キバゴ叫牙牙，アララギ博士叫紅豆杉博士，<a href="/%E4%B8%B9%E7%89%B9" title="丹特">デント</a>叫天桐…等，令眾多人頓時傻眼加噴茶，堪稱歷代最經典翻譯。<br>只能說不曉得是日方那裡的要求還是翻譯人員的陰謀<s>不過目前有洗腦逐漸成功的跡象</s>…<br>之後的XY雖然換了代理商，仍承接了黑歷史譯名，<s>只不過大家在經歷了上一代之後，已經沒什麼好怕的了…代理商堅稱這是日方審核過的結果，</s>雖然老任自家的港台分公司自從XY開始專有名詞並都使用英文<s>殖民待遇</s>。<br>結果官方中文版出來之後這一代的經典翻譯幾乎沒變，甚至有原本譯名沒疊字的跑出疊字來了……<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><s>看樣子代理商的宣稱是真的</s>。<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><s>
+</s></td></tr><tr><td>YOYO台片頭
+</td>
+<td>明明先行播出的MOD辦的到「播送日本片頭曲」這件事，為什麼後來也買到版權的YOYO台會說「因為未取得版權」而自製片頭曲啊…<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>好消息是：最後還是改回原版OP了。
+</td></tr><tr><td rowspan="2">劇情
+</td>
+<td>明明<a href="/%E5%B0%8F%E6%99%BA_(%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D)" title="小智 (神奇寶貝)">小智</a>上一部實力已大增，卻在這一部又再度砍掉歸零，就連許多常識性的東東也忘光光，甚至還在一開始搬出了多年未提集的十歲設定。<br>而在其他角色方面則是採用了乍看之下非走<a href="/%E8%90%8C" title="萌">萌</a>系路線的<a href="/%E8%89%BE%E8%8E%89%E7%B5%B2_(%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D)" title="艾莉絲 (神奇寶貝)">艾莉絲</a>，以及換掉了<a href="/%E5%B0%8F%E5%89%9B" title="小剛">小剛</a>採用了男性觀眾「可能」較不能接受的天桐<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>，就連火箭隊也被砍掉大多數的戲份來換取轉型認真反派，加上該系列的原作黑/白版的主線反派電漿隊+N在經歷了311大地震之後一直遲遲未出現，<s>也因此被不少看熱鬧或寄予厚望的人視為黑歷史，</s>直至2012年12月6日才公布有關發展，不過其演出令不少觀眾大為失望，反而之後的純單元劇DA好多了。<br>但由於本作劇情因為受到地震影響而自肅，某方面來講也是世事無常的受害者，但在之後制作組沒有認真拯救劇情，導致一連串的慘劇，製作組還是得負不少責任。
+</td></tr><tr><td>（原）BW23-24、26話
+</td>
+<td>因播出時期日本剛好發生大地震並且引發海嘯，23-24話正好劇情有大量的城市破壞，而26話則是含有大量水的劇情，故暫時停播<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>。<br>之後BW26話有復播，但因劇情關係被重新列為39話<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>，而23-24話則永久封印。
+</td></tr><tr><td>XY&amp;Z38話
+</td>
+<td>劇情、標題詐欺
+</td>
+<td>鋪陳了三年的劇情和小智隊伍陣容，場內場外不停強調小智優勝的可能性，卻在聯盟賽給觀眾一個傻眼的結局<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>小智慘敗給了艾嵐，被喻為浪費了前129集的作畫。<br>此話一播出後全球不分國界大炎上，<a href="/2ch" title="2ch">2ch</a>、Reddit和PM相關討論區罵翻，<a rel="nofollow" class="external text" href="https://twitter.com/Pokemon_cojp/status/766210541555634176">官方推特更充滿了憤怒的觀眾</a>。<br>XY動畫評價更直摔到BW等級，Youtube的下集預告更是滿滿負評（約為讚好的10倍以上），炎上程度甚至跟A/Z熊巫女等近年黑歷史作品有得拼，能把高評價動畫在短短一集變成黑歷史乃前所未見。直到XY最終回，瑟蕾娜離別前親了小智一下讓觀眾紛紛表示大興奮、神救援<s>，但問題是最終收視率出來竟比BW還慘</s>。<br>該話的編劇藤田伸三也成為所有觀眾的眾矢之的，除了被罵，他的維基百科條目還曾遭憤怒的網友竄改亂寫他於自家暴斃死亡，而且主因也是因為高層介入的關係，這個編劇真的是被推出來當擋箭牌用的活標靶。<br><s>剛巧<a href="/%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%91" class="mw-redirect" title="ダンガンロンパ">隔壁棚</a>同一天裡絕望搭上動畫制作師，這邊就示範了如何用動畫使人瞬間絕望，真是有夠絕望的神同步。</s>
+</td></tr><tr><td rowspan="5">遊戲
+</td>
+<td>歐米加紅寶石‧阿爾法紅寶石</td>
+<td>劇情<br>遊戲內容</td>
+<td>本作不知何解出現很多<a href="/%E9%BB%91%E8%89%B2%E5%B9%BD%E9%BB%98" title="黑色幽默">黑色幽默</a>，特別是宿敵滿充<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">忽然變成追求完美PM個體的孵蛋廢人（跑步王子）</span>，以及使用沙漠蜻蜒卻送出烈咬陸鯊進化石的路人訓練家<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>。<br>不過德爾塔之章裡的希嘉娜做出各種問題言行才是氣壞玩家的重點。<s>（プレイヤーの）想像力が　足りないよ</s><br>此外本作更刪除了不少原作內容，相較於心金魂銀的高誠意度本作誠意度明顯不足。<br>當鑽石‧珍珠可能要重製的消息傳出時，本作也意外的上了推特熱門，但內容幾乎都是抱怨批評本作的失敗及刪減沒之處，還擔心鑽石‧珍珠重製會惡夢重演。<s>結果是比惡夢重演更加糟糕的重製。</s>
+</td></tr><tr><td rowspan="2">太陽‧月亮
+</td>
+<td>譯名
+</td>
+<td>官方因應太陽‧月亮版加入中文而更動了遊戲標題及部份PM的中譯，引起了不少的反對和筆戰，原本熟悉的神奇寶貝/寵物小精靈被迫在主系列更名為精靈寶可夢（簡稱寶可夢）。<br>當中尤以香港為重災區<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>，港任FB充滿了大量謾罵和髒話，甚至有人發起拒買及抗議活動，還造成當時的官方比賽被迫延後，動畫播放延遲了約一年<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>。<br>不過台灣由於不明原因<s>對譯名感到不滿的粉絲都跑去潛水</s>，再加上後續推出的PMGO媒體大量跟風宣傳<s>老任付了多少錢</s>及遊戲中文化，導致不明所以的跟風玩家瞬間就接受了寶可夢一詞<s>除了部分神奇寶貝派的粉絲感到很無奈之外</s>，而動漫部分直到引進太陽&amp;月亮動畫也跟進更名<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>。<br><s>話分兩頭，究竟本wiki何時才會更改譯名？</s>
+</td></tr><tr><td>電玩偷跑
+</td>
+<td>本世代遊戲因仍在3DS上運行，已有一定程度破解技術。早在日月情報發布中期，就已有御三家最終型態的破解圖文，十月中旬發布之體驗版更遭破解，「正式」洩漏御三家最終型態、全圖鑑與色違圖鑑。但這邊官方也得負一些責任，例如在推特上誤將卡片遊戲情報公開。<br>不過真正嚴重的是歐洲，竟然再度發生偷跑行為<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>，甚至連下載版的盜版遊戲也已出現蹤影<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>。<br>究極日月的偷跑情報理所當然更嚴重了（ry，舊事重演
+</td></tr><tr><td>究極之日‧究極之月
+</td>
+<td rowspan="2">商法&amp;宣傳手法
+</td>
+<td>身為《太陽·月亮》的加強版作品的此作在宣傳上指出「這並非大家過往所知的阿羅拉」令不少玩過前作的玩家充滿期待，卻在玩過USUM後發現遊戲內容與日月相差不太，認為新要素的價值只等於一個數百Yen的<a href="/%E8%BF%BD%E5%8A%A0%E4%B8%8B%E8%BC%89%E5%85%A7%E5%AE%B9" title="追加下載內容">DLC</a>，結果引發網路炎上。不過遊戲內容與過去的加強版差不多，商法也幾乎一致（就只差今回是分兩版推出），資深的系列作粉絲均對此見慣不怪<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>，他們也確認了此作的內容確實比起日月優化了少許，但還是有一些重要的問題沒有解決，更糟的是還塞了一些更煩人的新要素在裡面。唯一可以確定GF要負的責任是：把推出不久的遊戲作個小修改就當成全新遊戲出售的「完全商品法」，在能透過網路更新遊戲內容的今天經已過時。<s>十年前遊戲迷都比較冷靜和會體諒製作商，但是到了今時今日出現這種一有不妥就大罵一番的網路文化，算GF<a href="/%E4%B8%8D%E5%B9%B8" title="不幸">不幸</a>了。</s><br>注意的是這次炎上僅限華人及亞洲地區，歐美地區坊間對USUM評價都甚佳；此作在<a href="/images/b/bd/USUM_Amazon_rating.PNG" class="internal" title="USUM Amazon rating.PNG">美日Amazon評價</a>簡直是天與地的對比。
+</td></tr><tr><td>劍‧盾
+</td>
+<td>E3任天堂樹屋直播時增田宣布因為PM數量太多加上作不完，劍盾只能上傳該作圖鑑有收錄的PM，往後的作品也將會這樣，也就是說只要該做沒收錄在圖鑑的PM只能留在名為HOME的監獄。<br>結果該發言引發全球玩家炎上，增田更被稱為<a href="/%E8%96%A9%E8%AB%BE%E6%96%AF" title="薩諾斯">增田諾斯</a>，官方影片評價和留言都是壓倒性的負評，而接下來玩家更抓包號稱要品質的劍盾卻出現N64等級貼圖的樹、<a href="/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3" title="クローン">複製</a>貼上的雲、根本沒怎麼變的模組和動作，說沒時間弄模組卻又弄了超極巨化改造型，明明說作不完還有膽量一年一作，人力不足還有膽量去開發另一款作品（還說優先度比PM高）<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>，因此Game Freak被玩家公認為只會偷懶的廠商。<br>此外增田為了安撫玩家說的為了對戰平衡、新地區天氣太冷PM不想去、為了品質等各種理由也被罵翻。<br>而增田推特在裝死不發言兩周後突然發了一封給玩家的信，但還是堅持砍怪，更開始在推特取暖。<br>本作也移除了超級進化、Z招式及不少招式（過往對戰裡常用的招式「報恩」「覺醒力量」等也遭到刪除），但新增的極巨化也被批評為模組放大偷懶沒新意等批評。<br><s>此外更有人在埋怨期間爆出了一句「PM模組不是每隻只花5分鐘就能作好嗎？」的無意義言論，創造了一波<a rel="nofollow" class="external text" href="https://news.gamme.com.tw/1649763">5分鐘挑戰的熱潮</a>。<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> </s>
+<p><br>擴充票推出後雖然補了一些PM進來，但還是有不少PM沒有加入產生遺憾，此外本作抓捕前作神獸的方式是玩「<ruby>極巨大冒險<rp>（</rp><rt style="font-size:0.5em;">對戰工廠</rt><rp>）</rp></ruby>」，不但有工廠隨機性的難度，不是跟其他玩家憶起完就要準備被一堆地雷NPC雷，導致此模式產生不少抱怨。
+</p>
+</td></tr><tr><td rowspan='3"'>漫畫版
+</td>
+<td rowspan='2"'><a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D%E7%89%B9%E5%88%A5%E7%AF%87" title="神奇寶貝特別篇">神奇寶貝特別篇</a>
+</td>
+<td>米拉特的出現
+</td>
+<td>其實談不上是黑歷史，就雜誌連載時預定要成為圖鑑持有者的小光/小充於單行本突然撤下<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>…只是小光/小充這個角色設定太成功了。<br>後面登場的米拉特因為外型而讓一部份的人不滿，進而拿他跟小光/小充比，就這樣成了特別篇的不解<a href="/%E5%9C%B0%E9%9B%B7" title="地雷">地雷</a>之一。
+</td></tr><tr><td>作畫
+</td>
+<td>由於原作畫真斗身體問題（具體沒詳細說明），由10卷起改由山本智作畫，實際上兩者各有支持者，亦有不少希望真斗再次執筆的聲音。<br>真斗擅長比較柔和的少女風線條跟Q版人物，山本人物跟背景畫得比較仔細，不過初期很多表情跟人物崩壞<s>還有不少明顯為滿足自己怨念而畫的女生跟場景</s>。<br>特別篇的不解地雷之一，只能說各有長處。
+</td></tr><tr><td>ReBURST
+</td>
+<td>ALL
+</td>
+<td>內容過於衝擊、設定問題、劇情矛盾、<a href="/%E8%A7%92%E8%89%B2%E5%AE%9A%E4%BD%8D" title="角色定位">角色定位</a>過於飄忽…最重要的是本作把以往作品中人和神奇寶貝的共存關係給徹底粉碎掉。<br>途中因為出現原作者變更，讓讀者覺得原作把責任推給漫畫家也是本作被炎上的原因之一。
+</td></tr></tbody></table><div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="數碼寶貝系列"></span><span class="mw-headline" id=".E6.95.B8.E7.A2.BC.E5.AF.B6.E8.B2.9D.E7.B3.BB.E5.88.97">數碼寶貝系列</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=2" title="編輯章節：數碼寶貝系列" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品世代</th>
+<th>特定版本</th>
+<th>理由</th>
+<th>備註
+</th></tr><tr><td rowspan="2"><a href="/%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA" title="デジモンシリーズ">デジモンシリーズ</a>
+</td>
+<td>
+</td>
+<td>世界觀設定
+</td>
+<td>不像《數碼寶貝V訓練師01》，特攝成份和<a href="/%E5%A5%87%E5%B9%BB" title="奇幻">奇幻</a>要素使原作中的培養要素被忽略，低齡向考量也失去「弱肉強食、要生存必須戰鬥」的本質，使早期玩家難以接受，直到《數碼寶貝訓獸師》推出才打破僵局<s>，不過這個設定反而在從動畫入門的粉絲間褒貶不一</s>史。<br>詳細可以看看專門評論數碼獸的陽神的解說。
+</td></tr><tr><td>
+</td>
+<td>角色設定
+</td>
+<td>曾在攜帶機擔任招牌的巨龍獸及豆豆獸等招牌，拜動畫所賜被暴龍獸等主打取代淪為<a href="/%E9%99%B0%E5%BD%B1%E4%BA%BA" title="陰影人">陰影人</a>。<br>曾在遊戲中擔當最終<a href="/%E5%A4%A7%E9%AD%94%E7%8E%8B" title="大魔王">大魔王</a>的基米拉獸、無限龍獸和千年獸也在動畫中徹底弱化，數碼迷真的快要絕望了。
+</td></tr><tr><td>數碼寶貝大冒險
+</td>
+<td>東森版(2009年播出)
+</td>
+<td>OP
+</td>
+<td>把片頭換成自家的YOYO幼教節目歌曲<s>試圖自我宣傳，但觀看者多半已成年所以完全反效果</s>，比其他翻唱OP等還要過份<br>但以現在眼光來看真的很有可能是當時電視台預算不足的結果，後來在同一電視台播出的《Savers》也是後來才把原版OP加回去
+</td></tr><tr><td>數碼寶貝大冒險02
+</td>
+<td>
+</td>
+<td>設定、劇情
+</td>
+<td>後半段劇情到結局把一堆無印延續到02的「公認<a href="/%E9%85%8D%E5%B0%8D" title="配對">配對</a>」通通拆掉（像太一和素娜（空）），導致群眾翻桌，到現在已成了數碼萬年文。
+</td></tr><tr><td rowspan="2">數碼寶貝最前線
+</td>
+<td>
+</td>
+<td>設定
+</td>
+<td>日本首播時當電視機前的孩子們看到主角群進化成數碼獸時全都囧了（雖然可看出製作組想給數碼獸系列走特攝英雄風路線），除此之外主角屢次戰敗的劇情也受到不少粉絲詬病。<br>外加有不少人對於DT後半段主角和搭檔合體進化的設定反感。<br>不過這部在數碼獸的設定上算是最接近原作的（無視某個跑去當武器店老闆的皇家騎士的話）。
+</td></tr><tr><td>青文彩色漫畫
+</td>
+<td>
+</td>
+<td>只出了八本（一本約四話）就完結，一整個斷尾
+</td></tr><tr><td rowspan="2"><a href="/%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA" title="デジモンクロスウォーズ">デジモンクロスウォーズ</a>
+</td>
+<td>
+</td>
+<td>第三季
+</td>
+<td>大致上看完前兩季+第三季的開頭，然後再看最後兩話就好了，中間都是浪費時間。<br><s>另有一說這一部整個就是黑歷史。</s>
+</td></tr><tr><td>
+</td>
+<td>設定
+</td>
+<td>拿掉等級制和進化已頗令忠實觀眾不爽了，竟然連過去的強弱設定也亂作一團：<br>前作頭目淪為跑腿案例多不勝數，如悟空獸、木偶獸、六翅獸等，還有理論上比四聖獸還強結果卻跑去給反派當超小坐騎的黃龍獸。<br>作為最終進化出現的高吼獸DX7上位形態是以所有數碼獸合體為一的形態，讓各種頂點設定的，諸如皇家騎士團、七大魔王、四聖獸等數碼獸地位尷尬。<br><s>（光明獸撒旦形態：黃口小兒！合體後體積還沒老子當初整個行星般的大！）</s><br>。
+<p>不過最冏的大概還要算最後被拿去量產還被打爆的吸血魔獸及其進化系列，大概把無印和二代擔當Boss所培養的名聲都給一次賠光了。<br><s>不過也有觀眾笑言「畢竟是大門獸嘛」</s>
+</p>
+</td></tr><tr><td>數碼寶貝大冒險tri
+</td>
+<td>
+</td>
+<td>畫風、設定、劇情
+</td>
+<td>情報初出時畫風令部分舊作支持者無法接受，總導演元永慶太郎更是以「沒有看相關作品」為前提製作此等作品。<br>雖然暗示與02有關，但02追加的四人在第一章一開始就遭不明勢力擊敗而失蹤，初代八人還毫無感覺。<br>第五章出來後，大多數人都覺得連當時結束不久的第八季應用<a href="/%E3%82%B1%E3%83%A2%E3%83%8E" title="ケモノ">怪獸</a>都比較好。<br>第六章更是罵聲連連，甚至有導演決定離開製作團隊。<br>新主角芽心整部戲雖然戲份多卻沒有幫忙，其一期的主角群卻把她捧的跟神一樣。<br>各種跌宕不堪的因素可謂數碼寶貝系列最大的黑歷史。<br>全系列作唯二看點（？）是「初代究極進化補完」、「和田光司的遺作」。
+</td></tr><tr><td><a href="/%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC" title="デジモンアドベンチャー">數碼寶貝大冒險 Adventure：</a>
+</td>
+<td>2020重啟版
+</td>
+<td>★劇情(角色表現)
+</td>
+<td>戰鬥作畫上有滿滿誠意，新進化型態的表現也讓人為之一亮。但就劇情來說，既然為重啟版本、孩子們的人際關係與冒險心境應該也要重新刻劃摸索再有所成長。<br>但實際播出時、角色幾乎沒有經過什麼摸索就知道下一步該怎麼做，人物刻劃也不足；而且相較1999年版中、孩子們的表現平均，2020年版卻著重於太一，就連男二阿和也只是佔了奧米加獸的光而戲份較多。<br>原本想靠著舊有角色的新冒險同時抓住新舊觀眾世代的心，結果因為刻劃不當反而在後期觀感逐漸下滑。
+</td></tr><tr><td>數碼寶貝系列
+</td>
+<td>香港版漫畫
+</td>
+<td>設定、劇情
+</td>
+<td>除了角色造型畫得不錯以外，完全沒有劇情。
+</td></tr></tbody></table></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="光之美少女系列"></span><span class="mw-headline" id=".E5.85.89.E4.B9.8B.E7.BE.8E.E5.B0.91.E5.A5.B3.E7.B3.BB.E5.88.97">光之美少女系列</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=3" title="編輯章節：光之美少女系列" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品世代</th>
+<th>特定版本</th>
+<th>理由</th>
+<th>備註
+</th></tr><tr><td><a href="/%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AF%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="ふたりはプリキュア">ふたりはプリキュア</a>
+</td>
+<td>台灣蝸牛台播出的劇場版第二部
+</td>
+<td rowspan="2">剪輯、配音
+</td>
+<td rowspan="2">劇場版的中配與TV版中配全部不同之外，蝸牛台還將原本70分鐘的片長剪至不到一個小時（含廣告）
+</td></tr><tr><td rowspan="2"><a href="/%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AF%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2Splash_Star" title="ふたりはプリキュアSplash Star">ふたりはプリキュアSplash Star</a>
+</td>
+<td>劇場版（台灣）
+</td></tr><tr><td>日本初出問題
+</td>
+<td>銷量、設定和前作太相似、前期劇情
+</td>
+<td>銷量是歷代最低，人設與前作相似度太高、前半部劇情不佳導致預計兩部的本作被縮減成一部，是歷代唯一<a href="/%E8%85%B0%E6%96%AC" title="腰斬">腰斬</a>作<s>，也是系列最強<a href="/%E9%96%83%E5%85%89%E5%BD%88" title="閃光彈">閃光彈</a></s><br>雖然近年有平反聲音出現，但依舊無法擺脫影薄的困境。
+</td></tr><tr><td><a href="/Yes!%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A25" title="Yes!プリキュア5">Yes!プリキュア5</a>
+</td>
+<td rowspan="2">東森幼幼台版本
+</td>
+<td>歌曲翻唱問題、台灣翻譯問題
+</td>
+<td>片頭曲被翻唱就算了還加入自家藝人的舞蹈...？翻譯也是悲劇，更誇張的是全名老被砍短，詳細請見系列條目
+</td></tr><tr><td rowspan="2"><a href="/%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2!" title="フレッシュプリキュア!">フレッシュプリキュア!</a>
+</td>
+<td>翻譯
+</td>
+<td>以「幸福精靈」名義播出，因此造成翻譯問題百出，觀眾也滿腔怒火<br>主角的稱號從原本的「天使」字尾變成「精靈」字尾，四位主角的<a href="/%E5%B1%AC%E6%80%A7" title="屬性">屬性</a>也被亂改（例如主角的稱號從「桃天使」變成「愛情精靈」，其餘三人依此類推）
+</td></tr><tr><td rowspan="4">日本初出問題
+</td>
+<td>作畫、OP
+</td>
+<td><a href="/%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97" title="光之美少女系列">光之美少女系列</a>的第4代，不管作畫還是劇情都與前作毫無相同之處，可說是打著光美名號內容卻毫無關係的新作品（製作群大更新應該是元兇）。<br>不過因為<s>Decade</s>反派夠萌而意外的受歡迎。<br>因為下一年換了主角<s>還成為公認的傑作</s>，一度被認為是繼SS之後的黑歷史。但是自新鮮組起，光美成為和騎士、戰隊一樣的年番，每年都換主角，所以現在以這一點為由把本作視作黑歷史已經不太說得通了。
+</td></tr><tr><td><a href="/%E3%83%89%E3%82%AD%E3%83%89%E3%82%AD!%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="ドキドキ!プリキュア">ドキドキ!プリキュア</a>
+</td>
+<td rowspan="2">銷量、劇情、人物設定
+</td>
+<td rowspan="2">左加右插導致後期劇情大混亂、以及有著微妙的「<a href="/%E6%84%9B" title="愛">愛</a>」的描寫（各種意義上）…<br>心跳組的主角強大到根本不是人類，能文能武又能組<a href="/%E5%BE%8C%E5%AE%AE" title="後宮">後宮</a>，除了有<a href="/%E6%AE%BA%E4%BA%BA%E6%AD%8C%E8%81%B2" title="殺人歌聲">殺人歌聲</a>和暈動病。<br>幸充組不只把<s>嚴重破壞系列傳統的</s>BG戀寫得又亂又虎頭蛇尾，更出現了歷代最<a href="/%E4%BA%BA%E6%B8%A3" title="人渣">人渣</a>的男角色。但劇場版因為演出甚佳而獲得不少好評<s>，TV版一開始比照辦理不就好了？</s><br>幸充組在《妖怪手表》和《偶像活動》的夾擊下，銷量慘不忍睹，為歷代倒數第二，一度導致整個光美企劃都被停掉的危機。<br>這兩作的制片人柴田宏明也因此被罵的狗血噴頭<s>不過受少數扭曲的大友喜愛</s>，至下一代的公主組開場時已被架空，到了夏季更是被直接踢出制作組。
+</td></tr><tr><td><a href="/%E3%83%8F%E3%83%94%E3%83%8D%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2!" title="ハピネスチャージプリキュア!">ハピネスチャージプリキュア!</a>
+</td></tr><tr><td><a href="/%E9%AD%94%E6%B3%95%E3%81%A4%E3%81%8B%E3%81%84%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2!" title="魔法つかいプリキュア!">魔法つかいプリキュア!</a>
+</td>
+<td>劇情<br>（49話以外）
+</td>
+<td>白開水一般的劇情（下刪100字），負評比幸充組更慘烈<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但到了第49話（倒數2話）的高水準演出讓評價回升了一些</span><br>不過整體說起來，這部成功的話數大概一手就能算出，而多半集數欠缺吸引觀眾的特色是差評之處，浪費了精美的人設。
+</td></tr><tr><td><a href="/%E3%83%92%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A3%E3%81%A9%E2%99%A5%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="ヒーリングっど♥プリキュア">ヒーリングっど♥プリキュア</a><br><a href="/%E3%83%88%E3%83%AD%E3%83%94%E3%82%AB%E3%83%AB~%E3%82%B8%E3%83%A5!%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="トロピカル~ジュ!プリキュア">トロピカル~ジュ!プリキュア</a>
+</td>
+<td>★東森幼幼台版本
+</td>
+<td>★歌曲翻唱問題
+</td>
+<td>基本上翻唱問題已經是在台放映的約定俗成，回不去了。只要翻譯品質別讓大友們吐槽太嚴重就好。<br>唯一要特別提起的是治癒組的片頭曲翻唱其選曲是ED1。
+</td></tr></tbody></table></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="遊戲王系列"></span><span class="mw-headline" id=".E9.81.8A.E6.88.B2.E7.8E.8B.E7.B3.BB.E5.88.97">遊戲王系列</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=4" title="編輯章節：遊戲王系列" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品世代</th>
+<th>特定版本</th>
+<th>理由</th>
+<th>備註
+</th></tr><tr><td rowspan="3"><a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B" title="遊☆戯☆王">遊☆戯☆王</a>デュエルモンスターズ
+</td>
+<td>乃亞篇、杜馬篇
+</td>
+<td>★劇情
+</td>
+<td>由於此時動畫快追上漫畫的進度，被迫加入原創劇情，幾近破壞了原作設定。<br>但是此時期的作畫相當優秀，尤其加々美高浩最後的作畫話數、與高橋和德競演的177話極受好評，井上作畫話數亦沒有後期差劣，可說是將劇情上的缺點打消，故算不算黑歷史見仁見智。
+</td></tr><tr><td>王之記憶篇
+</td>
+<td>作畫
+</td>
+<td>由於加々美高浩、高橋和德等公認神作監所屬的ゆめ太カンパニー在杜馬篇後不再參與製作，預算亦大幅削減導致作畫質素急劇下滑，井上善勝擔任作畫的回數成為不少觀眾的惡夢。<br>尤其200話井上大神大發威，此AGO（下巴）回已成為傳說。<br>不過亦有說法指由於預算問題，作畫外包才會如此。
+</td></tr><tr><td>美國原創動畫
+</td>
+<td>劇情
+</td>
+<td>只要有看過就會發現杜馬篇和《光之金字塔》的收尾暴走根本不算什麼了…
+</td></tr><tr><td rowspan="2"><a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_ARC-V" title="遊☆戯☆王 ARC-V">遊☆戯☆王 ARC-V</a>
+</td>
+<td>動畫版
+</td>
+<td rowspan="2">劇情
+</td>
+<td>描述四個次元的故事在離開了基準次元後開始走下坡，演了整整一年的同步次元篇主線卻幾乎毫無進展，再加上那差勁的決鬥構成，過去作品角色登場後的行為和原作相差太遠讓觀眾們徹底傻眼。<br>全劇共148集，卻在【NICO公式生放送終了後アンケート】上史無前例的完成<b>獨佔好評最低（選1）/差評最高（選5）排行榜首二十二名</b>之「偉業」。<br>就算將放送事故列入排名、也足以獨佔第十一名。<br>當時人人都覺得ARC-V糞度無人能及，但沒有人想到其「王者地位」在短短兩年後便被<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="動物朋友2">另一部「同人」作品</a>取代…
+</td></tr><tr><td>漫畫版
+</td>
+<td><s>提案的原編者只希望可清除記憶</s><br><s><a rel="nofollow" class="external text" href="https://twitter.com/RANK10YGO/status/1152747897081028608">七月的小短篇更是惹來一片嘩然</a></s>
+</td></tr><tr><td><a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_VRAINS" title="遊☆戯☆王 VRAINS">遊☆戯☆王 VRAINS</a>
+</td>
+<td>電視動畫
+</td>
+<td>★劇情、人物描寫
+</td>
+<td>漢諾塔篇之後劇情開始急轉直下，不論是劇情和人物描寫都有爭議。這情況第二季最明顯，角色工具人化，豪的黑化之路，鬼扯新風暴後設等等，鮑曼也成功成為了史上最丟臉又鳥的頭目。作哥到最後並無任何成長，依舊跟開播時一樣，甚至比第一集前更慘，最後劇情終於在二季末期失控而開始用背鍋摧毀核心，再加上同期ARC-V漫畫不盡人意，吉田伸的名聲開始一落千丈。最後不知為何，10月2日將以新節目取代本作播出時間，正式宣告被腰斬的命運。
+</td></tr><tr><td><a href="/%E9%81%8A%E6%88%B2%E7%8E%8B%E9%9B%86%E6%8F%9B%E7%B4%99%E7%89%8C%E9%81%8A%E6%88%B2" title="遊戲王集換紙牌遊戲">遊☆戯☆王OCG</a>(實體卡片)
+</td>
+<td>SD24
+</td>
+<td>紙質
+</td>
+<td>不但是卡的紙質差(且容易產生初期卡傷)，連包裝也是<br>原因是Konami一直拖欠中國印刷費，所以SD24改由美國印刷<br><s><a rel="nofollow" class="external text" href="http://video.sina.com.cn/v/b/91888764-1621093341.html">更有人將之前印刷的卡和SD24作化學實驗比較</a></s>
+</td></tr></tbody></table></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="機動戰士鋼彈系列"></span><span class="mw-headline" id=".E6.A9.9F.E5.8B.95.E6.88.B0.E5.A3.AB.E9.8B.BC.E5.BD.88.E7.B3.BB.E5.88.97">機動戰士鋼彈系列</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=5" title="編輯章節：機動戰士鋼彈系列" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品世代</th>
+<th>特定版本</th>
+<th>理由</th>
+<th>備註
+</th></tr><tr><td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABZ%E9%8B%BC%E5%BD%88" title="機動戰士Z鋼彈">機動戰士Z鋼彈</a>
+</td>
+<td>華視版
+</td>
+<td>片頭曲
+</td>
+<td>引進當時稱「鋼彈勇士」<br><s><a href="/%E9%84%89%E6%B0%91" title="鄉民">鄉民</a>：這作詞者肯定沒看過原作</s><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td></tr><tr><td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88ZZ" title="機動戰士鋼彈ZZ">機動戰士鋼彈ZZ</a>
+</td>
+<td rowspan="2">日本初出播放
+</td>
+<td rowspan="2">劇情
+</td>
+<td>富野與金主萬代意見交錯，前半硬走子供向變成四不像，後半才回到接近前作（Z鋼彈）的步調，但為時已晚。<br><p>此後富野在發表會上說再也不做《ZZ》相關劇情，以致《<a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABZ%E9%8B%BC%E5%BD%88" title="機動戰士Z鋼彈">機動戰士Z鋼彈</a>》的劇場版把結局改到不能接續ZZ，但是與劇場版Z同期（以小說版開始計算）製作的獨角獸卻是繼承大量ZZ的設定，所以比較接近富野自己的黑歷史多一點，應為見仁見智類。<br>官方設定上，Z也是以能跟ZZ連結的TV版為正史。
+</p>
+</td></tr><tr><td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABV%E9%8B%BC%E5%BD%88" title="機動戰士V鋼彈">機動戰士V鋼彈</a>
+</td>
+<td>人類總是要重複的錯誤...本來意指的娛樂活劇被扳成動畫史上數一數二的鬱劇。<br>用比基尼姐姐們打鋼彈，女性小隊全員陣亡，反派目睹鋼彈中跑出來的居然是小孩子氣憤又絕望地自盡等情節至今再看仍然是令人反感且詭異又獵奇。<br>導致日後被富野痛罵的《<a href="/%E6%96%B0%E4%B8%96%E7%B4%80%E7%A6%8F%E9%9F%B3%E6%88%B0%E5%A3%AB" title="新世紀福音戰士">新世紀福音戰士</a>》<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>誕生。<br>富野本人在製作本作期間搞出心理病，後年自己也在DVD Boxset的小冊子裡呼籲觀眾不要觀看本作<s>，但買了才能看到這句話到底是什麼意思</s><br><p>不過此作的失敗也令SUNRISE轉往開發新的鋼彈世界線，而有了日後的平成三部曲。
+</p>
+</td></tr><tr><td><a href="/%E6%96%B0%E6%A9%9F%E5%8B%95%E6%88%B0%E8%A8%98%E9%8B%BC%E5%BD%88W" title="新機動戰記鋼彈W">新機動戰記鋼彈W</a>
+</td>
+<td>台灣東森版
+</td>
+<td>OPED
+</td>
+<td>把片頭片尾換成不相干的英文歌曲<s>試圖宣傳，但觀看者多半不喜歡，完全是反效果到只會引起滔天怒火</s>，比其他翻唱OP等還要過份
+</td></tr><tr><td rowspan="2"><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88SEED%E7%B3%BB%E5%88%97" title="機動戰士鋼彈SEED系列">機動戰士鋼彈SEED DESTINY</a>
+</td>
+<td>日本初出播放
+</td>
+<td>設定、劇情
+</td>
+<td>模型周邊銷量雖好，動畫本作卻罵聲連連：抄前作劇情、<a href="/%E7%9C%9F%E2%80%A7%E9%A3%9B%E9%B3%A5" title="真‧飛鳥">主角</a>被貶成<a href="/%E8%B7%AF%E4%BA%BA" title="路人">路人</a>、兼用卡濫用、破壞既有角色的形象和設定…<s>要不是有後輩墊底</s>一度是「最差鋼彈作品」的候選，至今仍爭論不休。
+</td></tr><tr><td>香港TVB版
+</td>
+<td>ALL
+</td>
+<td>惡質的配音、剪接及翻譯，使部份內容變得斷斷續續
+</td></tr><tr><td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88AGE" title="機動戰士鋼彈AGE">機動戰士鋼彈AGE</a>
+</td>
+<td>TV動畫（日本初出播放）
+</td>
+<td>劇情、人設
+</td>
+<td>原想創造新收視群，結果不僅因初期人設太過低齡化導致老鋼彈迷罵翻，從收視率調查來看連目標族群的小孩子也不買單。<br>為了將長達66年的劇情在一年內結束壓縮太多劇情，更使得劇情進行看來過度一廂情願。<br>因為以上問題，本作還締造了<a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88%E7%B3%BB%E5%88%97" title="機動戰士鋼彈系列">機動戰士鋼彈系列</a>在《<a href="/%E9%8B%BC%E5%BD%88Build_Fighters" title="鋼彈Build Fighters">鋼彈Build Fighters</a>》播放前的最低平均收視率2.56%<s>，機動戰士鋼彈SAGE</s><br><p>遺憾的是此系列的<a href="/%E9%8B%BC%E6%99%AE%E6%8B%89" title="鋼普拉">鋼普拉</a>以品質精良著外也導入許多新技術，可惜銷量被動畫牽累。<br>後續的重製OVA《MEMORY OF EDEN》以及小說版評價回升不少。
+</p>
+</td></tr><tr><td><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%88_%E9%90%B5%E8%A1%80%E5%AD%A4%E5%85%92" title="機動戰士鋼彈 鐵血孤兒">機動戰士鋼彈 鐵<span style="color:red;background-color:;">血</span>孤兒</a>
+</td>
+<td>TV動畫第二季（日本初出播放）
+</td>
+<td>劇情
+</td>
+<td>大家看完第一季之後感覺還有希望，然而第二季劇情讓觀眾傻眼到底。<br>西諾神風式突襲失敗飲恨<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>，<a href="/%E6%88%90%E5%8F%A5/%E4%B8%8D%E8%A6%81%E5%81%9C%E4%B8%8B%E4%BE%86%E5%95%8A" title="成句/不要停下來啊">歐格非正常的死亡退場</a>，獵魔智魔等機體被<a href="/%E7%A0%B4%E6%BB%85%E9%AD%94%E5%8A%8D" title="破滅魔劍">破滅魔劍</a>打殘後<a href="/%E6%83%85%E7%AF%80%E6%8E%A8%E9%80%B2%E5%99%A8" title="情節推進器">強行回收</a>，都是處理不當的好例子。<br>監督、編劇及製作人甚至在訪談中火上加油，不認為自己做了一部爛作品<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>。
+</td></tr></tbody></table></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="日本特攝系列"></span><span class="mw-headline" id=".E6.97.A5.E6.9C.AC.E7.89.B9.E6.94.9D.E7.B3.BB.E5.88.97">日本特攝系列</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=6" title="編輯章節：日本特攝系列" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品世代</th>
+<th>理由</th>
+<th>備註
+</th></tr><tr><td><a href="/%E8%B6%85%E4%BA%BA%E5%8A%9B%E9%9C%B8%E7%8E%8B%E7%B3%BB%E5%88%97#.E8.B6.85.E4.BA.BA.E5.8A.9B.E9.9C.B8.E7.8E.8B.E4.B8.83.E8.99.9F" title="超人力霸王系列">超人七號</a>
+</td>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%AB%E6%98%9F%E4%BA%BA?uselang=zh-tw">第12話</a></span>
+</td>
+<td>因為內容擬似捏他日本原爆而遭禁播（詳見維基相關條目），連帶設定和相關資料亦遭<a href="/%E9%AC%BC%E9%9A%B1" title="鬼隱">鬼隱</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></td></tr><tr><td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E9%BE%8D%E9%A8%8E" title="仮面ライダー龍騎">仮面ライダー龍騎</a>
+</td>
+<td>後傳《<a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B8%E3%82%AA%E3%82%A6" title="仮面ライダージオウ">RIDER TIME 龍騎</a>》
+</td>
+<td>以網路劇呈現的官方續作，然而編劇強行<a href="/BL" title="BL">BL</a><s>融合降臨</s><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>與反派塑造薄弱這幾點讓部分觀眾把這部當作黑歷史
+</td></tr><tr><td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%89" title="仮面ライダーディケイド">仮面ライダーディケイド</a>
+</td>
+<td rowspan="12">日本初出劇情
+</td>
+<td>東映和原編劇會川失和導致主線支離破碎，結局到了劇場版也沒能真正補完。
+</td></tr><tr><td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89" title="仮面ライダーウィザード">仮面ライダーウィザード</a>
+</td>
+<td>白開水一般的劇情（下略100個字）<s>，最後還要靠<a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%89" title="仮面ライダーディケイド">前輩</a>救場</s>
+</td></tr><tr><td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88" title="仮面ライダーゴースト">仮面ライダーゴースト</a>
+</td>
+<td>前面擁有不錯的故事設定，但編劇突然跑路，導致劇情後期不只流水帳還超詭異，劣評較上面兩部更甚，而且幾乎沒有沒被罵過的地方<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><br><s>Drive之後不是<a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%82%BA" title="仮面ライダーアマゾンズ">Amazons</a>嗎？</s><br>不過外傳的Specter倒是評價頗好而且有補充部分劇情，小說的前半<s>能搬出來拍的話</s>水準也很好
+</td></tr><tr><td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B8%E3%82%AA%E3%82%A6" title="仮面ライダージオウ">仮面ライダージオウ</a>
+</td>
+<td>前期關於前輩的設定被胡亂處置，而且把前輩的歷史aka整個有關騎士的存在抹消變成錶盤讓許多觀眾一時間無法接受<br>中期劇情一度有好轉，但後期超展開加上最終型態Grand Zi-o創新低的戰績aka官方迫害的行為再次讓觀眾罵聲連連<br><s>其實是<a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B1%E3%82%A4%E3%83%89" title="仮面ライダーディケイド">Decade</a>第二季</s><br>之後的《RIDER TIME ZI-O VS DECADE/DECADE VS ZI-O》劇情更是讓本就黑歷史的本篇後續變得更加意義不明，連在本篇大出風頭的<a href="/%E9%96%80%E7%9F%A2%E5%A3%AB" title="門矢士"><s>帝騎哥</s>Decade</a>都慘遭迫害而一拿出強化形態就被一拳送去滾地板<s>讓人感覺在看三小</s>…
+</td></tr><tr><td>超力戦隊オーレンジャー
+</td>
+<td>由於1995年初日本發生兩件大事(分別是阪神大地震和地下鐵毒氣)，導致原先嚴肅的劇情方向大改，反派和主角方的行動也變得滑稽。加上角色戲份分配不均(尤其是王綠的個人回只有2話)，使得王連者的評價比較微妙。
+</td></tr><tr><td><a href="/%E5%A4%A9%E8%A3%85%E6%88%A6%E9%9A%8A%E3%82%B4%E3%82%BB%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BC" title="天装戦隊ゴセイジャー">天装戦隊ゴセイジャー</a>
+</td>
+<td>由於前作和後作都是高評價的作品，夾在中間的天裝表現相較普通，這大概和天裝在台灣和香港都沒有播放有關係。<br>加上連續對抗三個反派組織的設定，亦為人詬病。<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></td></tr><tr><td><a href="/%E6%89%8B%E8%A3%8F%E5%89%A3%E6%88%A6%E9%9A%8A%E3%83%8B%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC" title="手裏剣戦隊ニンニンジャー">手裏剣戦隊ニンニンジャー</a>
+</td>
+<td>紅戰士被設定成極端熱血的自燃紅個性，引起觀眾不滿。日常無聊單元太多，加上客串前輩眾多，使其主題不明。
+</td></tr><tr><td><a href="/%E5%8B%95%E7%89%A9%E6%88%A6%E9%9A%8A%E3%82%B8%E3%83%A5%E3%82%A6%E3%82%AA%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%BC" title="動物戦隊ジュウオウジャー">動物戦隊ジュウオウジャー</a>
+</td>
+<td>前期路線中規中矩乃至王道，但中間巨獸獵人出場後以再生怪人翻用皮套來歹戲拖棚，後期逐漸以獸王鷹<s>假面騎士大和</s>無雙為主，過於削弱其餘隊員的實力而引起批評。
+</td></tr><tr><td><a href="/%E5%BF%AB%E7%9B%97%E6%88%A6%E9%9A%8A%E3%83%AB%E3%83%91%E3%83%B3%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BCvs%E8%AD%A6%E5%AF%9F%E6%88%A6%E9%9A%8A%E3%83%91%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC" title="快盗戦隊ルパンレンジャーvs警察戦隊パトレンジャー">快盗戦隊ルパンレンジャーvs警察戦隊パトレンジャー</a>
+</td>
+<td>後半劇情重心偏向魯邦連者，加上因為高層武力介入後把巡邏連者的裝備硬塞魯邦連者的演出異常粗糙，讓不少巡邏連者派的觀眾大怒，導致評價下跌，玩具也賣得糟。
+</td></tr><tr><td><a href="/%E9%A8%8E%E5%A3%AB%E7%AB%9C%E6%88%A6%E9%9A%8A%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%BD%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%BC" title="騎士竜戦隊リュウソウジャー">騎士竜戦隊リュウソウジャー</a>
+</td>
+<td><s>強龍者劇情沈重版</s><br>有些設定放在一起有點違和(像是主角身穿類似中世紀禮服的服裝，卻以恐龍為主題)，而且更多設定都無法補回。
+</td></tr><tr><td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%82%BB%E3%82%A4%E3%83%90%E3%83%BC" title="仮面ライダーセイバー">仮面ライダーセイバー</a>
+</td>
+<td>皮套以及道具設計獲得好評，然而主角演技以及劇情比前作01還慘...
+</td></tr><tr><td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%AA%E3%83%90%E3%82%A4%E3%82%B9" title="仮面ライダーリバイス">仮面ライダーリバイス</a>
+</td>
+<td>前期節奏緊湊獲得好評，但敵對組織Deadmans被消滅後就逐漸下坡到接近爛尾：<br><p>最終魔王Giff的格調不足，草草收掉Giff後作為主角一行夥伴的<a href="/George%E7%8B%A9%E5%B4%8E" title="George狩崎">George狩崎</a>又<a href="/%E9%BB%91%E5%8C%96" title="黑化">黑化</a>成為假面騎士Juuga，造型與道具把玩性獲得好評，但黑化前因得觀看（當時基本上只有日本能看的）劇場版、再次洗白的過程也難以說服觀眾<br>
+女主角五十嵐さくら演員獲得不少人喜愛，然而人設、演技甚至和夏木花間被戲稱為百合營業的關係刻畫也受到非議<br>
+二騎<a href="/%E4%BA%94%E5%8D%81%E5%B5%90%E5%A4%A7%E4%BA%8C" title="五十嵐大二">五十嵐大二</a>中期開始不僅沒有得到角色成長，強化型態Holy Live戰績也極為慘淡，甚至有<b>一秒被赤石打到解除變身</b>的慘事，所幸カゲロウ回歸後獲得強化稍微扳回一城<br>全無鋪陳下讓路人牛島光成為Over Demons，甚至讓他將作為準Boss的赤石解決<br>
+結局<a href="/%E4%BA%94%E5%8D%81%E5%B5%90%E4%B8%80%E8%BC%9D" title="五十嵐一輝">五十嵐一輝</a>與Vice間的契約解法有些強硬<br>
+由於中國的有許多Zero-One的anti眾捧抬聖刃，連帶導致本作評價被株連；縱使夏木花（前期）、<a href="/%E9%96%80%E7%94%B0%E3%83%92%E3%83%AD%E3%83%9F" title="門田ヒロミ">門田ヒロミ</a>、赤石英雄等角色的演出獲得好評，仍然難以挽救危局
+</p>
+</td></tr><tr><td><a href="/%E4%BE%8D%E6%88%A6%E9%9A%8A%E3%82%B7%E3%83%B3%E3%82%B1%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC" title="侍戦隊シンケンジャー">侍戦隊シンケンジャー</a>
+</td>
+<td rowspan="3">東森幼幼台版本
+</td>
+<td>因為OP被<s>○他×的</s>東森改成很脫力的中文翻唱版和ED被剪掉，讓所有的特攝迷（非兒童）囧了<br>但是第二集之後OP就改回來了
+</td></tr><tr><td><a href="/%E3%83%88%E3%83%9F%E3%82%AB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC_%E3%83%AC%E3%82%B9%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC" title="トミカヒーロー レスキューファイアー">トミカヒーロー レスキューファイアー</a>
+</td>
+<td>同上，但是差異點是OP到現在沒有改回原版OP
+</td></tr><tr><td><a href="/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BCOOO" title="仮面ライダーOOO">仮面ライダーOOO</a>
+</td>
+<td>將第1話&amp;第二話的劇情剪在一起，讓所有的特攝迷（非兒童）翻桌<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><br>因為是次剪片實在太離譜而引發了觀眾向電視台集體抗議的事件，最終東森讓步重播了一刀未剪版，此後東森變得比較不敢剪片（不是不敢只是沒那麼凶），但相對的就會跑出「本畫面為特效拍攝」「戲劇效果請勿模仿」等<s>謎之</s>字幕<s>台灣的小孩子是有那麼容易受影響嗎</s><br>Fourze時又因為亂剪劇情再次引發抗議。
+</td></tr></tbody></table></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="電玩遊戲《最終幻想》系列"></span><span class="mw-headline" id=".E9.9B.BB.E7.8E.A9.E9.81.8A.E6.88.B2.E3.80.8A.E6.9C.80.E7.B5.82.E5.B9.BB.E6.83.B3.E3.80.8B.E7.B3.BB.E5.88.97">電玩遊戲《最終幻想》系列</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=7" title="編輯章節：電玩遊戲《最終幻想》系列" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品
+</th>
+<th>特定版本
+</th>
+<th>理由
+</th>
+<th>備註
+</th></tr><tr><td><a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">Final Fantasy: The Spirits Within</a>
+</td>
+<td>ＣＧ電影
+</td>
+<td>ALL
+</td>
+<td>讓Squaresoft日後被迫與Enix合併的元兇之一，掛FF名字但高達99%內容賣好萊塢科幻的電影<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>，但劇本晦澀又致鬱，導致觀眾評價普普。<br>此外全片採用全CG製作，圖像質素雖是當年頂尖等級（還大大增強了Squaresoft後續的CG技術），但也因此造成恐怖谷效果<s>，於是評價又被多扣了幾分<br>能做好遊戲劇情不代表就能做好電影導演啊坂口先生<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></s>
+</td></tr><tr><td>FF:U〜最終幻想:Unlimited〜
+</td>
+<td>TV動畫
+</td>
+<td>被樓上拖累而腰斬
+</td>
+<td>掛著FF之名卻<b>與FF系列遊戲完全無關</b>的原創TV動畫，原定播放52話，其後因Squaresoft終止贊助（原因見上）而腰斬至25話。<br>不過本作在觀眾之間的評價其實不差。
+</td></tr><tr><td>最終幻想X-2
+</td>
+<td>PS2
+</td>
+<td>整體風格、遊戲系統等
+</td>
+<td>FFX本傳其實在系列中算是難得的神作，結果續作X-2的整體風格將前作的淒美幾乎完全破壞殆盡<s>，一看到開頭CG當場傻眼+折片的人不在少數</s>。此外戰鬥系統的設計被批太娘也是個問題<s>，總而言之就是幹你鳥山</s><br>不過本作在收集要素達到100%後開啟的完美結局滿足了部分前作玩家對結局的怨念。<br>然而在這兩作發售HD版後，附帶的廣播劇和官方小說X-2.5因為再一次毀了這個完美結局而差評如潮。
+</td></tr><tr><td>最終幻想XⅢ
+</td>
+<td rowspan="2">PS3<br>Xbox360<br>PC
+</td>
+<td><b>毫無自由度的一本道</b>、劇情描寫、遊戲系統等
+</td>
+<td>宣傳動畫剛出來時震撼整個遊戲界，結果後來主導的鳥山求發現他跟開發團隊對於目標根本沒達成共識，導致最後延期好幾次做出來的東西卻仍相當微妙<br>最明顯的問題在於<b>到11章以前完全一本道只能往前走</b>的設計，爽快但設計不夠完善的戰鬥系統，和劇情描寫令人困惑<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup><br><s>讓幹你鳥山一詞真正在FF玩家中發揚光大的起源</s>
+</td></tr><tr><td>最終幻想XⅢ-2
+</td>
+<td>劇情（最大問題在結局）、DLC
+</td>
+<td>前作評價本來就很微妙，而這款的劇情是開頭直接吃書、中間的時空穿越理論讓玩家昏頭腦漲、但真正重要的是結尾令人翻桌<br>號稱多結局結果玩家玩了半天卻發現自己努力的全是白費，結尾那個To Be Continued更是擺明了DLC補完結局<s>，然後繼續幹你鳥山</s><br>宣傳大打<a href="/%E9%9B%B7%E5%85%89" title="雷光">雷光</a>牌結果推出後卻發現雷光只有在序章跟一個短短的DLC篇章裡能使用也是問題點之一<br>雖然系統和一本道問題大幅改善，但因為劇情問題和前作評價，導致這款一度創下了FF邁入PS時代以來最悲慘的銷量<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><br>至於來救火的LRFF13雖然把劇情交代完整，並給了個能接受的好結局，系統也大幅調整創新而收到不少好評，但受到前作影響，銷量更加（ry
+</td></tr><tr><td><a href="/Final_Fantasy_XIV" title="Final Fantasy XIV">最終幻想XIV</a>（1.0版本）
+</td>
+<td>PC（1.0版本）
+</td>
+<td>畫面、音樂以外ALL
+</td>
+<td><div class="NavFrame collapsed" style=""><div class="NavHead" style="">收納的內容</div><div class="NavContent" style="">其對整個公司的負面效應被玩家稱為<b>FF電影版的再來（虧損意味）</b><br><br>大量重複利用（花式複製粘貼）的地圖素材和糟糕透頂的地圖結構設計<br>對遊戲內<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>的美工效果過於吹毛求疵，大多數電腦的配置難以負擔<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup><br>在無關緊要的角落塞許多精細度無關緊要地高的細節裝飾<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>加劇遊戲負擔，讓上述卡頓問題也影響到正常遊戲過程<br>為追求畫面表現使用為XⅢ開發的水晶引擎，但這引擎完全不符合XIV的需要導致底層代碼架構一團混亂<br>雖然是即時戰鬥系統卻沒有自動攻擊的功能，連最普通的攻擊都要原地發呆等CD轉好<br>沒有跳躍功能，原因是當時的製作人認為<b>對這個遊戲來說跳躍不是必要功能</b><br>測試期間官方論壇的日文翻譯去英文時時常出錯，製作組卻沒有處理翻譯問題，而是乾脆在正式運營時把官方論壇取消掉，導致玩家即使想向官方反應問題也只能去粉絲運營的網站反應。<br>其餘問題族繁不及備載。<br><br>因為遊戲實在太爛，導致製作組大換血後決定全部砍掉重練，最終1.0版本在2012年12月31日以<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=YgEg8kXmifo">最轟轟烈烈的結局</a>畫下句點<br>後來出的新版FF14於2013年8月27日開始正式營運，評價還越做越好甚至超越身為模仿對象的《魔獸世界》，現在已經變成SE的新一代搖錢樹<s>，因此被玩家稱為FF系列的最後良心</s></div></div>
+</td></tr><tr><td><a href="/Final_Fantasy_XV" title="Final Fantasy XV">最終幻想XV</a>
+</td>
+<td>PS4<br>XBoxOne<br>PC
+</td>
+<td>劇情不完整、遊戲設計、整體完成度、DLC斷尾
+</td>
+<td>從FFV13砍掉重練成FF15，斷斷續續整整10年的開發出來的結果居然是個半成品…<br>讓所有期待萬分的玩家們都崩潰了，還導致大部分人跑到以前釋出的預告大吐苦水<br>雖然後來陸續釋出各種DLC和補完更新但玩家依舊不滿意，結果最後製作人跑路，導致後續的劇情補完DLC直接斷尾
+</td></tr></tbody></table></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備用表格"></span><span class="mw-headline" id=".E5.82.99.E7.94.A8.E8.A1.A8.E6.A0.BC">備用表格</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=8" title="編輯章節：備用表格" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<table class="wikitable" style="margin:auto;"><tbody><tr><th>作品世代</th>
+<th>特定版本</th>
+<th>理由</th>
+<th>備註
+</th></tr><tr><td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table></div><h1 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;action=edit&amp;section=9" title="編輯章節：備註" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h1><div class="mf-section-8 collapsible-block" id="mf-section-8"><div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">然而出事的元兇是皮卡丘，所以說多邊獸家族是<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a>。</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">題外話：現今尤里·蓋勒已經宣布引退娛樂圈並且轉向小型表演發展</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Best Wish意為「祝你旅途愉快」。</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">滑頭小子→滑滑小子</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">但實際上，遊戲在考慮中文化的時候譯名是從頭開始敲定，只是後來日方要求寶可夢的中文名不能和先前動畫版的譯名差太多，因而大部分動畫翻譯的譯名都被保留（雖然BW這代的疊字譯名槽點很大但其實意思上都沒什麼問題因此就都沒怎麼改）。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">中華電信MOD於2011年一月底先行放送BW，YOYO台於七月中跟進。</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">幸而兩者的故事表現還是有加分<s>，但這反而令小智…</s></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">因該三集有兩集牽扯到重要劇情（火箭隊對電漿隊），故為暫時停播。</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">該集原本配角白露會暫時加入小智等人，復播後該劇情取消<s>，原27、28話白露的劇情成了黑歷史</s>。</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">該話的標題為《卡洛斯聯盟優勝！小智的巔峰對戰!!》，只看標題有誰會猜到優勝的不是小智……</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">直到此作為止沙漠蜻蜒屬性和烈咬陸鯊相同，性能卻是後者完勝前者，第六世代追加了Mega進化系統後卻只有後者可以Mega進化，因此許多玩家都覺得其行為是間接諷刺沙漠蜻蜒<s>「ねえ、してよ！メガシンカしなさいよ！」</s></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">基於粵語發音與國語有分別、港區翻譯方針等原因，令香港地區首151隻的譯名與中台地區的大部份相異，特別是比卡超（皮卡丘）。</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">因為無線電視台收到粉絲抗議而沒有購買《太陽&amp;月亮》播放，約1年後才在開台不久的<s>影薄</s>免費頻道「奇妙電視（現「香港開電視」）」首播。</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">只剩青文繼續使用「神奇寶貝」一詞，雖然到了太陽‧月亮（ry</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">第六世代遊戲歐洲都有發售前偷跑行為，XY是12天前、ORAS是10天前。而日月版全球發售日為2016年11月18日，歐洲發售日應為2016年11月23日，但卻在七號就已偷跑。</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">照理說就算是偷跑遊戲，也應只有實體卡帶偷跑，下載版當時應屬於僅能先預約下載、發售日才能遊玩之狀態。</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">畢竟從第一世代起，各世代的每個版本都是這個狀況，要有顯著的差異只能等新世代對舊世代的復刻版。</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">指在劍盾發售前發售的Little Town Hero，其實這部作品是Game Freak的《齒輪計劃》產物，只要有三個人以上提案就可以去開發獨立遊戲，是GF用於鍛鍊新人的想法和遊戲開發能力而準備的企劃，該遊戲的開發人員幾乎都是新人，也和寶可夢系列開發沒有衝突。</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">然而後來事實證明建模並沒有那麼簡單，尤其是建完模型以後還要貼材質拉骨架保證它們能正常運動起來，寶可夢系列有幾百隻不重復的模組要一一對應新的高清平台遊戲引擎（從3DS的240p分辨率直接進化到BS的720p/1080p）也是不小的工程，最後事情向著傻屌的方向演化了</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">可能是因為小光/小充這名字和綠寶石實在扯不上什麼關係，加上小光/小充在電玩裡的設定非首要勁敵，作者大概也苦思許久，最後決定撤下小光/小充，超連結到第三章完結，創出米拉特（Emerald）這個角色。</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">題外話，韓國版的0083原創片頭也有類似的魔改<s>，雖然大家會記得的是香港<a href="/%E7%A9%BA%E8%80%B3" title="空耳">空耳</a>版</s></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">庵野監督直言EVA是受V鋼感銘而作<s>←富野：「EVA要砸掉！」「庵野甚麼的最討厭了！死掉就好！」</s></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">當時是三日月在跟茱莉亞對打，結果是三日月把對方送到西諾面前讓突襲失敗，論情況三日月完全是戰犯。</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">長井龍雪：「鐵華團只會招致混亂，所以該被團滅」<s>，雖然自從比司吉死掉後真的剎不了車但是從來沒看過如此三觀不正的劇組</s></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">2012年美國發行的官方授權套裝DVD和2014年日本發行的BD都沒有收錄此話</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">當中在原作是少數的純粹好人的手塚不但被掰成同性戀，性格更大幅改惡，也是令人憤怒的一點</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">連平成後期普遍的「賣玩具」都被用「不必要且同質性過高的商品太多」的理由罵了</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">打敗一個反派組織後還要打下一隊。</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text">原因恐怕只是因為這兩集都有很多<a href="/index.php?title=Ankh&amp;action=edit&amp;redlink=1" class="new" title="Ankh（頁面不存在）">Ankh</a>的右手單獨出現或是主角<a href="/%E7%81%AB%E9%87%8E%E6%98%A0%E5%8F%B8" title="火野映司">火野映司</a>只穿<a href="/%E5%85%A7%E8%A4%B2" title="內褲">內褲</a>的畫面，而電視台小題大做的認為前者會嚇到小朋友<s>過去CN播出的龍騎表示</s>，後者對小孩子教育有不良影響而如此剪輯</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">雖然劇中的蓋亞理論（整個星球有著自己的生命）可說是出自FF7/FF9的世界觀設定就是了……</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">沒錯，本作的導演和編劇真的就是由FF系列之父坂口博信擔任。</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text">把該解釋的設定和劇情全塞到記事本<s>，但是就算全看過一次也還是黑人問號，而且有故弄玄虛之嫌</s></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text">360萬套，只有在此之前最差的FFX-2的521萬套的3/5而已</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text">可能是少數可圈可點的地方，1.0的過場動畫全都是用真人動作捕捉的，連口型都能和配音完全對上，貼圖與建模精細度也甩新版幾條街</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text">如上所述，1.0時期的建模精細度非常高，高到其中一段<b>實時渲染的</b>開場動畫裡出場的海怪身上<b>每一片魚鰭</b>都是<b>獨立計算的動畫</b>，足以卡死當初大多數電腦不說，現在的電腦跑1.0時期的Benchmark分數也不會高</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">1.0時期的建模精細度非常高，高到主城路邊隨處可見的花桶每個都有堪比人物角色建模的面數和材質編碼</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=黑歷史_(單一作品集中)&amp;oldid=417558">https://wiki.komica.org/index.php?title=黑歷史_(單一作品集中)&amp;oldid=417558</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="1666857940">
+				最後編輯於 2022年10月27日 (週四) 16:05
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E9%BB%91%E6%AD%B7%E5%8F%B2_(%E5%96%AE%E4%B8%80%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%AD)&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.188","walltime":"0.304","ppvisitednodes":{"value":867,"limit":1000000},"ppgeneratednodes":{"value":3149,"limit":1000000},"postexpandincludesize":{"value":5316,"limit":2097152},"templateargumentsize":{"value":4549,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3069,"limit":5000000},"timingprofile":["100.00%   85.582      1 -total"," 61.52%   52.650     22 模板:Ref","  3.55%    3.037      2 模板:Wp","  3.52%    3.013      2 模板:Ruby","  3.12%    2.673      1 模板:Hidef","  2.75%    2.351      2 模板:Color","  2.47%    2.112      1 模板:Twitter","  2.35%    2.008      1 模板:Youtube","  1.80%    1.544      2 模板:Censored","  1.65%    1.410      2 模板:Plainlinks"]},"cachereport":{"timestamp":"20221105121948","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":606});});</script>		</body>
+		</html>
+		

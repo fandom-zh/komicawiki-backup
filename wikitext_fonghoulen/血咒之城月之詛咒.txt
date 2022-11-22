@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>血咒之城：月之詛咒 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"血咒之城：月之詛咒","wgTitle":"血咒之城：月之詛咒","wgCurRevisionId":233366,"wgRevisionId":233366,"wgArticleId":37194,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"血咒之城：月之詛咒","wgRelevantArticleId":37194,"wgRequestId":"09557db8f367e490c65827ef","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-血咒之城：月之詛咒 rootpage-血咒之城：月之詛咒 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">血咒之城：月之詛咒</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;"> Bloodstained: Curse of the Moon / 血咒之城：月之詛咒<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> / 血污（赤痕）：月之詛咒<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></div>
+<table class="wikitable" style="margin:auto;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td>本條目內含劇透，沒玩過遊戲又不想<b><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被斬月砍死</span></b>的話請不要反白。
+</td></tr></tbody></table><p><br></p>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=1" title="編輯章節：簡介" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>本作(月之詛咒無印)為《<a href="/%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9A%97%E5%A4%9C%E5%84%80%E5%BC%8F" title="血咒之城：暗夜儀式">血咒之城：暗夜儀式</a>》的外傳，為於2018年推出的2D動作遊戲，畫面走FC時期的8bit風格
+<ul><li>主角為斬月，<b>米莉安</b>、<b>阿爾弗雷德</b>與<b>吉貝爾</b>則作為同伴人物出現</li>
+<li>整體風格類似<a href="/%E6%83%A1%E9%AD%94%E5%9F%8E%E7%B3%BB%E5%88%97" title="惡魔城系列">《惡魔城傳說》</a>，除關卡有大量分支路線之外，還能藉由切換同伴以通過部分機關地形</li>
+<li><s>明明是外傳，推出時間卻比本傳早上一年</s></li>
+<li><s>據玩家普遍評價，本作的BOSS各方面演出明顯比本傳好</s></li></ul></li></ul><ul><li>由於銷量優良和風評良好，在2020年暑假檔期販售月之詛咒2代，一樣是維持8bit風格
+<ul><li>主角還是斬月，但是同伴變成了教會人員多明妮克、退役軍人羅伯特與魔導機甲小八（機甲裡面是隻柯基犬）</li>
+<li>可以選擇原本一代的陣容，但是須完成特定進度才能解鎖此功能</li>
+<li>其中<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">身為本篇黑幕的</span>多明妮克參戰在玩過暗夜儀式的玩家間引發了話題
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對此製作組作出的回應是該作品是和本篇暗夜儀式相同世界觀但走向不同的平行世界</span></li></ul></li>
+<li>Boss有做更動，部分來自暗夜儀式，也新增其他Boss成為玩家的挑戰；之後新增的Boss是否回流到暗夜儀式則有待商確</li>
+<li>在各關卡間追加過場事件，可以看到主角一行人在各關卡中間的有趣互動</li></ul></li></ul><ul><li>二代依照通關進度，可以分為四個主要章節與一個額外模式：
+<ul><li><b>EPISODE 1 -The Demon`s Crown-</b>
+<ul><li>最初可選的章節，可使用斬月、多明妮克、羅伯特與小八</li></ul></li>
+<li><b>EPISODE 2 -Unbreakable Bonds-</b>
+<ul><li>EPISODE 1過關後可選擇<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，可操作人物為除多明妮克以外的三人</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">按照關卡中途有否獲得<b>斬魔刀</b>會影響結局是否將多明妮克救出</span></li></ul></li>
+<li><b>EPISODE EX -Oath of Reunion-</b>
+<ul><li>EPISODE 2<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">未獲得斬魔刀</span>過關後可選擇</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">接續EPISODE 2的壞結局，因為羅伯特與小八負傷退場的緣故，<b>斬月、米莉安、阿爾弗雷德與吉貝爾四人再度集結</b>重啟多明妮克救出計畫；此章一開始斬月就會得到<b>斬魔刀</b></span></li></ul></li>
+<li><b>FINAL EPISODE -月を斬る者-</b>
+<ul><li>EPISODE 2<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">獲得斬魔刀下</span>過關後可選擇</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">接續EPISODE 2的好結局，被救出的多明妮克察覺到惡魔的根據地在月球上，七人為了登上月球而著手開發登月魔導機甲</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本處可以自由選擇關卡收集零件及讓同伴加入，收集完後可以搭乘機甲登上月球<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>突入最終關卡</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">如果不找任何同伴、僅收集零件就突入最後關卡的話，斬月會拿到由鍊金術鍛造的<b>大斬月刀</b>，但是就只能用斬月破關</span></li></ul></li>
+<li><b>SINGLE MODE</b>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在FINAL EPISODE不找任何同伴破關後可選擇，為操控任一可用角色破關的特殊模式</span></li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="系統"></span><span class="mw-headline" id=".E7.B3.BB.E7.B5.B1">系統</span><span class="mw-editsection"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=2" title="編輯章節：系統" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>一代同伴出現後可以決定要收留、殺掉或<a href="/%E6%94%BE%E7%BD%AEPLAY" title="放置PLAY">無視</a>，這些選項會左右最後的結局
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">全收留結局：打倒格莫瑞後所有人都乏力，而黑暗力量要襲擊眾人的當下，斬月自己一人擋下攻擊而被黑暗力量詛咒，三人決定要救他而開啟Nightmare模式</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Nightmare模式特殊結局：魔化的斬月被其他三位夥伴解救其靈魂後，於疑似未來的另一個世界重生（場面惡搞洛克人2的片頭）</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">全殺光結局：打倒格莫瑞後斬月吸收了黑暗力量而魔化</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">全無視結局：打倒格莫瑞後斬月乏力，黑暗力量要襲擊他，最終其他三人犧牲性命把黑暗力量給擊破</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真正好一點的結局反而是<b>既不能全殺、也不能全收和全無視</b></span></li></ul></li></ul><ul><li>二代的同伴<b>強制全部收留</b>，製作組笑稱是斬月也成長了<s>，都幾歲的大叔了還要到二代才不會亂殺人…</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">EPISODE 1結局：打倒巴力西卜後所有人都乏力，而黑暗力量要襲擊眾人的當下，多明妮克自己一人擋下攻擊而被黑暗力量詛咒，三人決定要救她而開啟EPISODE 2劇情</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">EPISODE 2壞結局：打倒梅菲斯特後斬月因迷惘而無法將其完全斬斷，斬月以外的同伴被黑暗力量給打重傷必須休養，這時前代同伴三人組就會加入並開啟EPISODE EX -Oath of Reunion-劇情</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">EPISODE 2好結局+EPISODE EX：打倒梅菲斯特後斬月成功救走被黑暗力量吸收的多明妮克，隨後從對話中得知詛咒之月那邊仍有魔物大軍，這時前代同伴三人組就會加入一行人</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">FINAL EPISODE結局：製作完可以上太空的魔導機甲後眾人飛到月球，並在此地終結掉墮天使沙利葉</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">FINAL EPISODE Single結局：製作完可以上太空的魔導機甲後眾人飛到月球，斬月連同月球本體一併把墮天使沙利葉給砍成兩半（如果是兩人遊玩的話月球會被砍成四塊）</span></li></ul></li></ul><ul><li>幾乎所有的Boss<b>會有死亡前的最終攻擊</b><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><ul><li>二代<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第一章的前三關會由該關登場同伴處理掉，但</span>仍然有此攻擊存在</li>
+<li>一般模式下即使被打中也能以剩一格血存活，但在Boss Rush模式下被打死就死了、而且會判定失敗要重打</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="主要角色"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E8.A7.92.E8.89.B2">主要角色</span><span class="mw-editsection"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=3" title="編輯章節：主要角色" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>斬月（Zangetsu）
+<ul><li>本作主角，來自東洋的退魔士</li>
+<li>武器為斬月刀<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，一代藉由血祭其他同伴可以獲得強化</span></li>
+<li>二代基本動作不變，但強化後攻擊花招變的更多
+<ul><li>在性格上也有所成長<s>，然而卻從此脫離常識人範疇，像是沉迷吸狗，把狗取名的像忍犬，不在意有女性在場就把衣服脫掉之類的</s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">二代第一章第四關後可以拿到<b>噬魂者之刀</b>，攻擊招式大強化。但是此武器無法徹底斬殺第二章的最終Boss</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第二章必須要在前三關找齊關鍵刀劍道具，才能在第四關某處拿到能斬殺最終Boss的<b>斬魔刀</b></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">須注意在第二章一拿到斬魔刀<b>能力招式就會回到初期狀態</b></span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">終章在不帶任何同伴的情況下收集登月魔導機甲的零件登月的話，可以獲得<b>大斬月刀</b>；此時最終關卡的標題，最終Boss的攻擊方式與結局演出都會改變</span></li>
+<li>滿足特定條件破關後可以選擇究極模式的斬月，除了習得所有招式外另外還追加一招儲氣斬，<s>跑RTA必備要角</s></li></ul></li></ul><ul><li>米莉安（ミリアム / Miriam）
+<ul><li>本篇《暗夜儀式》的主角，被植入惡魔結晶的少女，一代於STAGE 1破關時出現
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">斬月殺死她後會得到跳斬，攻擊判定增加<b>甚至有機會一刀有兩下攻擊判定</b></span></li></ul></li>
+<li>以聖鞭為武器，擁有滑行與跳高能力（與多明尼克都是三格高度，其他人只有兩格），還可以在蹲下時進行移動
+<ul><li>還會運用各種實體副武器協助戰鬥</li></ul></li>
+<li>性格與原作一樣<a href="/%E5%A4%A9%E7%84%B6%E5%91%86" title="天然呆">天然呆</a>，根據二代最終章的陣地對話，甚至相信月球上有月兔存在
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">還真的被她應驗，但是月兔在此為<b>沙利葉的守護者</b>而且明顯比人還要大</span></li></ul></li></ul></li></ul><ul><li>阿爾弗雷德（アルフレッド / Alfred）
+<ul><li>鍊金術師，一代於STAGE 2破關時出現
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">斬月殺死他後會取得二段跳能力</span></li></ul></li>
+<li>主打多花樣的鍊金術<s><a href="/%E6%88%90%E5%8F%A5/%E5%AF%AB%E4%BD%9C%E2%97%8B%E2%97%8B%EF%BC%8C%E5%94%B8%E5%81%9A%E2%97%8F%E2%97%8F" title="成句/寫作○○，唸做●●">從效果上看已經是魔法了</a></s>，雖然火力強大但血量非常低
+<ul><li>二代此技能有作調整，主要是將一代被評為不好用的分身技調整；普攻可以回復魔力值</li></ul></li>
+<li>二代最終章負責主持登月魔導機甲的開發<s>，卻也因此成為唯一一個完全沒有日常對話的同伴</s></li></ul></li></ul><ul><li>吉貝爾（ジーベル / Gebel）
+<ul><li>被植入惡魔結晶的青年，一代於STAGE 3破關時出現
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">斬月殺死他後會取得衝刺能力<s>，唯一可以用跑的角色</s></span></li></ul></li>
+<li>一般攻擊為向斜上方發射的蝙蝠（無法打到貼地或離地面僅一格高度的怪物），自己也可以變成蝙蝠短暫飛行
+<ul><li>二代在變成蝙蝠攻擊怪物時會回復HP</li>
+<li>二代最終章的陣地對話甚至會羨慕可以攻擊貼地怪物的小八<s>，<a href="/%E5%85%AC%E5%BC%8F%E3%81%8C%E7%97%85%E6%B0%97" title="公式が病気">公式が病気</a>（蓋章）</s></li></ul></li></ul></li></ul><ul><li>多明妮克（ドミニク / Dominique）
+<ul><li>教會所屬的驅魔人，二代於STAGE 1破關時出現
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>因為在本篇是幕後黑手的關係，在本作出場時也一度被認為會在背後搞鬼⋯結果這回除了白到發光之外還幫主角群揭穿黑幕底細</s></span></li></ul></li>
+<li>手持長槍且與米莉安一樣的高跳躍能力和多樣式攻擊，而且擁有少數直接回血甚至復活我方的手段，但是血量比起米莉安還要少一些</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第一章結局為了完成父母討伐梅菲斯特的遺願而做好自願被附身並與其同歸於盡的覺悟，在後續章節被獲得斬魔刀的斬月救出</span></li></ul></li></ul><ul><li>羅伯特（ロバート / Robert）
+<ul><li>退役軍人，二代於STAGE 2破關時出現</li>
+<li>手持火槍所以是遠距攻擊，只有他可以攀爬在牆上與匍匐在地，當然血量為所有角色中最低（官方曰抗魔能力太低）</li>
+<li>因為家人死於惡魔的緣故非常憎恨惡魔與鍊金術，更因為教會對自己家人見死不救而對教會沒有好感
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原本對多明妮克與小八完全沒有好臉色，隨著一路上的旅程而逐漸改觀</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第二章甚至因為多明妮克的犧牲而暗自垂淚然後被小八安慰<s>，取代一代斬月成為本作傲嬌擔當（蓋章）</s></span></li></ul></li></ul></li></ul><ul><li>小八（ハチ / Hachi）
+<ul><li>操控魔導機甲的柯基犬，二代於STAGE 3破關時出現</li>
+<li>可以漂浮且可以開啟無敵狀態，本身具備破壞尖刺地形功能，同時血量極高，是個很強力的血坦</li>
+<li>根據最終章的陣地對話，原本差點被斬月取名為「斬月丸」，被羅伯特駁回後才取名為小八</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span class="mw-headline" id="Boss">Boss</span><span class="mw-editsection"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=4" title="編輯章節：Boss" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<h3 class="in-block"><span id="一代"></span><span class="mw-headline" id=".E4.B8.80.E4.BB.A3">一代</span><span class="mw-editsection"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=5" title="編輯章節：一代" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>暴食火車（グラットントレイン / Glutton Train）
+<ul><li>STAGE 1「月光に誘われて」的Boss</li>
+<li>與火車頭融為一體的惡魔</li></ul></li></ul><ul><li>佛卡洛（フォカロル / Focalor）
+<ul><li>STAGE 2「冷獄に潜むもの」的Boss</li>
+<li>第41柱魔神，擅長控制水的惡魔</li>
+<li>第一個沒有在暗夜儀式本篇出現的Boss</li></ul></li></ul><ul><li>華利弗（ヴァルファール / Valefar）
+<ul><li>STAGE 3「絢爛たる虚無」的Boss</li>
+<li>第6柱魔神，從硬幣中汲取能量的惡魔</li></ul></li></ul><ul><li>華列克（ウァラク / Valac）
+<ul><li>STAGE 4「天を穿つ冒涜の証」的Boss</li>
+<li>第62柱魔神，雙頭魔龍</li>
+<li>最終攻擊由第二型態取代，此時身軀部分會上升將低處的地面佔據使立足點減少</li></ul></li></ul><ul><li>安德雷斐斯（アンドレアルフス / Andrealphus）
+<ul><li>STAGE 5「暗夜裂く銀影」的Boss</li>
+<li>第65柱魔神，擁有漂亮羽毛的孔雀惡魔</li>
+<li>場景沿用了《血之輪迴》的死神地形，巨大桅杆兩邊都是無底洞，本身也會使用吹飛攻擊將人吹進洞中</li></ul></li></ul><ul><li>無血（ブラッドレス / Bloodless）
+<ul><li>STAGE 6「殺戮劇に幕引きを」的Boss</li>
+<li>操縱血液的吸血鬼</li></ul></li></ul><ul><li>巴欽（バティン / Bathin）
+<ul><li>STAGE 7「禁忌嘲う悪魔の手」的Boss</li>
+<li>第18柱魔神，擁有光速移動能力的惡魔</li>
+<li>最終攻擊會極限加速至超越時間產生分身</li></ul></li></ul><ul><li>格莫瑞（グレモリー / Gremory）
+<ul><li>STAGE 8「惨月<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"> / 斬月</span>」的Boss</li>
+<li>第56柱魔神，擁有預知能力的惡魔，斬月的死對頭</li>
+<li>二代STAGE 7「静寂と鳴音の狭間 / 心一つに、斬れ / 何度立ち塞がろうとも」亦有登場</li>
+<li>二代攻擊方式與一代第一型態變化不大，且因為不是最終BOSS這次只有一個型態，且會施展最終攻擊</li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">魔化斬月</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Nightmare模式STAGE 8「逆月の鎮魂歌」的BOSS</span></li></ul></li></ul><h3 class="in-block"><span id="二代"></span><span class="mw-headline" id=".E4.BA.8C.E4.BB.A3">二代</span><span class="mw-editsection"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=6" title="編輯章節：二代" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>龍共生體（ドラゴシンビオート / Drago-symbiote）
+<ul><li>STAGE 1「竜影、月に踊る / 絆を胸に / 最後の希望」的Boss</li>
+<li>與擁有降雷能力的惡魔形成共生體的巨龍</li>
+<li>少數最終攻擊可中斷的BOSS，斬月可使用蓄力斬時在衝過來時使用，會被切成兩半，不過前面的閃電還是要躲就是了</li></ul></li></ul><ul><li>薩流比絲（サリュビス / Lubius）
+<ul><li>STAGE 2「欺き夢繰る妖女 / 幻夢斬り断つ紅蓮剣 / 蒼き薔薇の姫闘士」的Boss</li>
+<li>本體是蘑菇型態的魔物，因主角一行人在開打前吸入過多胞子（粉紅色粉末）使得斬月見到其變成遊女的外型<s>，所以說斬月你喜歡這種的啊？</s></li>
+<li>不同人所見到的形象都不一樣，例如羅伯特所見到的是死去的家人</li>
+<li>EX章在破完該關後由於胞子的作用還沒有退去，導致主角一行人被彼此看作成各種魔物</li></ul></li></ul><ul><li>角鬥士戰車（グラディアトルドーザー / Gladiator Dozer）
+<ul><li>STAGE 3「飛瀑裂く<ruby>凶戦車<rp>（</rp><rt style="font-size:0.5em;">チャリオット</rt><rp>）</rp></ruby> / 轟鎧撃ち抜く銀弾主 / 錬金術と共にあれ」的Boss</li>
+<li>被角鬥士的亡魂支配的水生魔物</li>
+<li>少數最終攻擊可中斷的BOSS，斬月可使用蓄力斬時在撞過來時使用，會以切成兩半的狀態掉進河裡</li></ul></li></ul><ul><li>威沛（ウェパル / Vepar）
+<ul><li>STAGE 4「女王の剣の<ruby>葬送曲<rp>（</rp><rt style="font-size:0.5em;">フューネラルマーチ</rt><rp>）</rp></ruby> / 海割る鋼の破壊王 / 悲しき<ruby>運命<rp>（</rp><rt style="font-size:0.5em;">さだめ</rt><rp>）</rp></ruby>の男」的Boss</li>
+<li>第42柱魔神，支配水的惡魔</li>
+<li>在本篇是第一個打到的Boss，這裡則較晚登場</li>
+<li>最終攻擊由第二型態取代，斬殺上面的頭部後還有下半部的頭要打</li></ul></li></ul><ul><li>熔岩曼陀（ラバマンドラ / Lavamandra）
+<ul><li>STAGE 5「天地貫く緋骨の鎖 / 火よりも熱き血潮で / 止められる者は、ない」的Boss</li>
+<li>由火山亡魂聚集而成的巨蛇</li></ul></li></ul><ul><li>泰坦卡門（ティタンカーメン / Titankhamun）
+<ul><li>STAGE 6「巨なる棺は誰が為に / 遺物に構う暇はない / 棺を踏み割りその先へ」的Boss</li>
+<li>宿有古代國王靈魂的巨大棺木，名稱故意致敬現實擁有<b>詛咒</b>傳說的圖坦卡門</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最終攻擊會讓滿滿的蟲子從棺木爆出來，密集恐懼症患者慎入</span></li></ul></li></ul><ul><li>巴力西卜（ベルゼブブ / Beelzebub）
+<ul><li>第一章STAGE 8「悪魔の王冠」的Boss</li>
+<li>即為蒼蠅王，有兩個型態，被打倒後會巨大化</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">戰敗後被寄宿其身上的梅菲斯特背刺而死</span></li></ul></li></ul><ul><li>梅菲斯特（メフィスト / Mephisto）
+<ul><li>第二章與EX章STAGE 8「熱き絆は砕けない！ / 再会の誓い」的Boss</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">須藉由附身其他生物才能實體化的惡魔，造型基本上就是本篇《暗夜儀式》存檔點的惡魔像</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第一章結局出現，殺死原本的宿主巴力西卜後轉而附身多明妮克</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">會與附身對象形成共生關係，必須獲得<b>斬魔刀</b>才能在給予致命一擊的同時救出多明妮克</span></li></ul></li></ul><ul><li>墮天使沙利葉（堕天使サリエル / Sariel）
+<ul><li>最終章FINAL STAGE「月の涙<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"> / 大・斬・月</span>」的Boss</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">以月球為根據地的墮天使，一切事端的元兇</span></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span><span class="mw-editsection"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=7" title="編輯章節：連結" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a rel="nofollow" class="external text" href="http://curseofthemoon.com/jp/">系列官網</a>
+<ul><li><a rel="nofollow" class="external text" href="http://curseofthemoon.com/jp/1/">一代</a></li>
+<li><a rel="nofollow" class="external text" href="http://curseofthemoon.com/jp/2/">二代</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=8" title="編輯章節：回應" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92" title="討論:血咒之城：月之詛咒">討論:血咒之城：月之詛咒</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;action=edit&amp;section=9" title="編輯章節：備註" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">港台譯名</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">中國大陸譯名</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">疑似致敬了經典遊戲《コナミワイワイワールド》最終關前半的飛機關卡，該關完全變成射擊遊戲</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一代與二代除了第四關與最終Boss以外</span></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=血咒之城：月之詛咒&amp;oldid=233366">https://wiki.komica.org/index.php?title=血咒之城：月之詛咒&amp;oldid=233366</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="1595259826">
+				最後編輯於 2020年7月20日 (週一) 23:43
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E8%A1%80%E5%92%92%E4%B9%8B%E5%9F%8E%EF%BC%9A%E6%9C%88%E4%B9%8B%E8%A9%9B%E5%92%92&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.414","ppvisitednodes":{"value":733,"limit":1000000},"ppgeneratednodes":{"value":1682,"limit":1000000},"postexpandincludesize":{"value":13841,"limit":2097152},"templateargumentsize":{"value":5355,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1458,"limit":5000000},"timingprofile":["100.00%  258.674      1 -total"," 53.93%  139.491      1 模板:H0"," 18.94%   49.005     48 模板:Censored"," 11.06%   28.620      3 模板:Ruby","  3.96%   10.254      1 模板:Pcomment","  2.11%    5.447      1 模板:Stub_row"]},"cachereport":{"timestamp":"20221106054301","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":742});});</script>		</body>
+		</html>
+		

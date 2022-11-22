@@ -1,0 +1,80 @@
+<noinclude>{{documentation}}</noinclude><includeonly>[[Category:Hololive]]</includeonly>{{Navbox
+|listclass=hlist
+|name       = hololive production
+|title      = [[hololive production]]
+|group1     = hololive
+|list1      = 
+{{Navbox subgroup
+|name       = hololive藝人
+|groupstyle = width:13%;
+|group1     = 所屬藝人(無印) 
+|list1      = [[時乃空|🐻💿時乃空]]・[[蘿蔔子|🤖蘿蔔子]]・[[櫻巫女|🌸櫻巫女]]・[[星街彗星|☄️星街彗星]]・[[AZKi|⚒️AZKi]]
+|group2     = 一期生
+|list2      = [[夜空梅露|🌟夜空梅露]]・[[亞綺·羅森塔爾|🍎亞綺·羅森塔爾]]・[[赤井心|❣️赤井心]]・[[白上吹雪|🌽白上吹雪]]・[[夏色祭|🏮夏色祭]]
+|group3     = 二期生
+|list3      = [[湊阿庫婭|⚓️湊阿庫婭]]・[[紫咲詩音|🌙紫咲詩音]]・[[百鬼綾目|😈百鬼綾目]]・[[癒月巧可|💋癒月巧可]]・[[大空昴|🚑大空昴]]
+|group4     = Gamers
+|list4      = [[白上吹雪|🌽白上吹雪]]・[[大神澪|🌲大神澪]]・[[貓又小粥|🍙貓又小粥]]・[[戌神沁音|🥐戌神沁音]]
+|group5     = 三期生<br>Hololive Fantasy
+|list5      = [[兔田佩克拉|👯兔田佩克拉]]・[[不知火芙蕾雅|🔥不知火芙蕾雅]]・[[白銀諾艾爾|⚔️白銀諾艾爾]]・[[寶鐘瑪琳|🏴寶鐘瑪琳]]
+|group6     = 四期生<br>Holofourth
+|list6      = [[天音彼方|💫天音彼方]]・[[角卷綿芽|🐏角卷綿芽]]・[[常暗永遠|👾常暗永遠]]・[[姬森璐娜|🍬姬森璐娜]]
+|group7     = 五期生<br>Holofive
+|list7      = [[雪花菈米|☃️雪花菈米]]・[[桃鈴音音|🥟桃鈴音音]]・[[獅白牡丹|♌獅白牡丹]]・[[尾丸波爾卡|🎪尾丸波爾卡]]
+|group8     = 六期生<br>HoloX
+|list8      = [[ラプラス・ダークネス|🛸💜ラプラス・ダークネス]]・[[鷹嶺ルイ|🥀鷹嶺ルイ]]・[[博衣こより|🧪博衣こより]]・[[沙花叉クロヱ|🎣沙花叉クロヱ]]・[[風真いろは|🍃風真いろは]]
+}}
+|group2     =  hololive ID
+|list2      = 
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = 一期生<br>Area 15
+|list1      = [[Ayunda Risu|🐿️Ayunda Risu]]・[[Moona Hoshinova|🔮Moona Hoshinova]]・[[Airani Iofifteen|🎨Airani Iofifteen]]
+|group2     = 二期生<br>Holoro
+|list2      = [[Kureiji Ollie|🧟Kureiji Ollie]]・[[Anya Melfissa|🍂Anya Melfissa]]・[[Pavolia Reine|🦚Pavolia Reine]]
+}}
+|group3     = hololive EN
+|list3      =
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = holoMyth<br>（一期生）
+|list1      = [[Mori Calliope|💀Mori Calliope]]・[[Takanashi Kiara|🐔Takanashi Kiara]]・[[Ninomae Ina'nis|🐙Ninomae Ina'nis]]・[[Gawr Gura|🔱Gawr Gura]]・[[Watson Amelia|🔎Watson Amelia]]
+|group2     = Project:HOPE
+|list2      = [[IRyS|💎IRyS]]
+|group3     = holoCouncil<br>（二期生）
+|list3      = [[Ceres Fauna|🌿Ceres Fauna]]・[[Ouro Kronii|⏳Ouro Kronii]]・[[Nanashi Mumei|🦉Nanashi Mumei]]・[[Hakos Baelz|🎲Hakos Baelz]]
+}}
+|group4     = holostars
+|list4      =
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = 一期生
+|list1      = [[花咲雅|🌺 花咲雅]]・[[奏手一弦|🎸奏手一弦]]・[[阿爾蘭蒂斯|🍕阿爾蘭蒂斯]]・[[律可|⚙律可]]
+|group2     = 二期生<br>Suntempo
+|list2      = [[阿斯特爾・瑞達|🎭阿斯特爾・瑞達]]・[[岸堂天真|🦔💨岸堂天真]]・[[夕刻羅貝爾|🍷夕刻羅貝爾]]
+|group3     = 三期生<br>TriNero
+|list3      = [[影山紫炎|🟣影山紫炎]]・[[荒咬皇牙|🐃荒咬皇牙]]
+|group4     = 四期生<br>UPROAR
+|list4      = [[夜十神封魔|🦝夜十神封魔]]・[[羽継烏有|🃏羽継烏有]]・[[緋崎ガンマ|🖌緋崎ガンマ]]・[[水無世燐央|🕯水無世燐央]]
+}}
+|group5     = holostars EN
+|list5      =
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = holoTEMPUS<br>（一期生）
+|list1      = [[Regis Altare|🎇Regis Altare]]・[[Magni Dezmond|🧤Magni Dezmond]]・[[Axel Syrios|⛓️Axel Syrios]]・[[Noir Vesper|📗Noir Vesper]]
+}}
+|group6     = 前成員
+|list6      = 
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = hololive
+|list1      =[[人見クリス|🌰人見クリス]]・[[魔乃阿蘿耶|👅魔乃阿蘿耶]]・[[桐生可可|🐉桐生可可]]・[[潤羽露西婭|🦋潤羽露西婭]]
+|group2     = hololive EN
+|list2      =[[Tsukumo Sana|🪐Tsukumo Sana]]
+|group3     = holostars
+|list3      =[[薬師寺朱雀|💊薬師寺朱雀]]・[[月下薰|💅月下薰]]・[[鏡見吉良|💙鏡見吉良]]
+|group4     = hololive CN
+|list4      =[[希薇婭|🦄🌙希薇婭]]・[[黑桃影|🍑黑桃影]]・[[阿媂婭|❄阿媂婭]]・[[夜霧|🍼🎸夜霧]]・[[朵莉絲|🐟朵莉絲]]・[[羅莎琳|📖羅莎琳]]
+}}
+}}

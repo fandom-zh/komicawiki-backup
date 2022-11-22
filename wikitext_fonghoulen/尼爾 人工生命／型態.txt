@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>尼爾 人工生命／型態 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"尼爾_人工生命／型態","wgTitle":"尼爾 人工生命／型態","wgCurRevisionId":406794,"wgRevisionId":406794,"wgArticleId":4107,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"尼爾_人工生命／型態","wgRelevantArticleId":4107,"wgRequestId":"52efa6ffa0f2fe17ddd722b7","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%B0%BC%E7%88%BE+%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%B0%BC%E7%88%BE+%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-尼爾_人工生命／型態 rootpage-尼爾_人工生命／型態 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%B0%BC%E7%88%BE+%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">尼爾 人工生命／型態</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">尼爾 人工生命（NieR RepliCant）/尼爾 型態（NieR Gestalt）<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>/<s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">妹控（鬼父）滅世傳</span></s></div>
+<table class="wikitable" style="font-size:small; margin:0px auto; text-align:center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td>以下含有部分的劇情，沒玩過原作又不想被魔物殺死/霸佔身體<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">/因為黑文病而痛苦至死</span>請不要繼續看下去。
+</td></tr><tr><td>白之書再次提醒正在觀看的你，<span style="font-size:25px;"><b>以下條目內容含有對遊戲劇情十分重要的內容</b></span>，還沒/在遊玩中的小鬼頭請自行考慮要不要看下去。
+</td></tr><tr><td>黑之書也再次提醒正在觀看的你，<span style="font-size:25px;"><b>以下條目內容含有對遊戲劇情十分重要的內容</b></span>，還沒/在遊玩中的你請<span style="font-size:25px;"><b>考慮要/不要反黑本條目</b></span>。
+</td></tr></tbody></table><p><br></p>
+<div class="center"><div class="floatnone"><a href="/%E6%AA%94%E6%A1%88:Maxresdefault.jpg" class="image"><img alt="Maxresdefault.jpg" src="/images/thumb/e/e5/Maxresdefault.jpg/650px-Maxresdefault.jpg" width="650" height="366"></a></div></div>
+<p><br></p>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=1" title="編輯章節：簡介" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Nier_HeroShot_2.jpg" class="image"><noscript><img alt="Nier HeroShot 2.jpg" src="/images/thumb/c/c4/Nier_HeroShot_2.jpg/300px-Nier_HeroShot_2.jpg" width="300" height="400"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 400px;" data-src="/images/thumb/c/c4/Nier_HeroShot_2.jpg/300px-Nier_HeroShot_2.jpg" data-alt="Nier HeroShot 2.jpg" data-width="300" data-height="400"> </span></a></div>
+<ul><li>由cavia開發，<a href="/Square_Enix" title="Square Enix">Square Enix</a>發行的ARPG遊戲，為同社作品《<a href="/%E5%BE%A9%E4%BB%87%E9%BE%8D%E9%A8%8E%E5%A3%AB%E6%AD%A6%E5%99%A8%E6%95%85%E4%BA%8B" title="復仇龍騎士武器故事">誓血龍騎士</a>》系列作的外傳。
+<ul><li>也是cavia所開發的最後一款遊戲，之後開發隊伍回歸母公司AQ Interactive。</li>
+<li>承襲了《DOD》的特色，本作一樣是歪曲世界觀和扭曲人格的作品，沒有完美結局只有更悲傷的結局。</li>
+<li><s>這小組的作品都是虐自己主角不手軟的</s>，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">雖然玩的時候玩家會覺得他們都幸福的活下來，但其實還是死了……</span>
+<ul><li><s>一如前作，畫面和遊戲性一樣很（ry</s></li>
+<li>從二週目開啟敵方視點後，更是完全顛覆一週目遊戲玩家建立起的善惡概念<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">惡人都不是惡人，好人都不是好人 </span></li></ul></li></ul></li>
+<li>本作擁有兩個版本，分別為PS3版本的《尼爾 人工生命(NieR Replicant)》和Xbox 360版本的《尼爾 型態(NieR Gestalt)》
+<ul><li>差別在於在日本地區PS3版本的主角是傑尼斯系的哥哥，Xbox 360則是粗曠<s>醜到老外都看不下去</s>的大叔<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。不過主要劇情並沒有差別。
+<ul><li>在DLC「15nightmares」中可以讓玩家暫時操控另一版本的尼爾</li></ul></li>
+<li>但也因此使本作的一些劇情及台詞會因為版本而有不同的改動，帶來不同的<s>違和感</s>感受。</li>
+<li><a rel="nofollow" class="external text" href="https://game.watch.impress.co.jp/docs/interview/370231.html">相關製作訪談</a></li></ul></li>
+<li>於2010年4月22日雙平台發售，特典是嚴選遊戲樂曲的原聲配樂迷你專輯CD。</li>
+<li><a href="/%E5%85%AC%E5%BC%8F%E3%81%8C%E7%97%85%E6%B0%97" title="公式が病気">公式が病気</a>、<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a></li>
+<li>雖然遊戲銷量非常一般，但相關OST和設定集卻賣的很好（後者更創下加印18次的紀錄）
+<ul><li>原本還預定在PSV上推出本作兩個版本的移植合集，但因為SE將開發人力放在DQ10上而作罷。</li></ul></li>
+<li>於2017年2月23日推出了續作《<a href="/%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2" title="尼爾 自動人形">尼爾 自動人形</a>》</li>
+<li>因為樓上的聲名大噪，於2020年3月28日宣布將在PS4、Xbox One、PC上推出基於Replicant版製作的升級版《NieR Replicant ver.1.22474487139……<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>》，開發商改為Toylogic
+<ul><li>PS4版確定於2021年4月22日發售，特典為徽章組、鐵盒以及兩片特別原聲帶CD。</li>
+<li>和原版差別除了戰鬥系統和畫面重做，還有全語音化及重錄BGM，並新增部分劇情、DLC武器和服裝</li>
+<li><s>結果老爸尼爾就這麼被遺忘了</s>←還是有在迷宮「15nightmares」作為可使用角色登場，也有新立繪和建模<s>整形大成功</s>
+<ul><li>兩個尼爾都追加了各自的日/美版聲優</li></ul></li></ul></li></ul><div class="center"><div class="floatnone"><a href="/%E6%AA%94%E6%A1%88:%E5%B0%BC%E7%88%BE-%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD-ver.1.22-%E6%94%BB%E7%95%A5%E5%8C%AF%E9%9B%86-1024x576-1024x576.jpg" class="image"><noscript><img alt="尼爾-人工生命-ver.1.22-攻略匯集-1024x576-1024x576.jpg" src="/images/thumb/f/f0/%E5%B0%BC%E7%88%BE-%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD-ver.1.22-%E6%94%BB%E7%95%A5%E5%8C%AF%E9%9B%86-1024x576-1024x576.jpg/500px-%E5%B0%BC%E7%88%BE-%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD-ver.1.22-%E6%94%BB%E7%95%A5%E5%8C%AF%E9%9B%86-1024x576-1024x576.jpg" width="500" height="281"></noscript><span class="lazy-image-placeholder" style="width: 500px;height: 281px;" data-src="/images/thumb/f/f0/%E5%B0%BC%E7%88%BE-%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD-ver.1.22-%E6%94%BB%E7%95%A5%E5%8C%AF%E9%9B%86-1024x576-1024x576.jpg/500px-%E5%B0%BC%E7%88%BE-%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD-ver.1.22-%E6%94%BB%E7%95%A5%E5%8C%AF%E9%9B%86-1024x576-1024x576.jpg" data-alt="尼爾-人工生命-ver.1.22-攻略匯集-1024x576-1024x576.jpg" data-width="500" data-height="281"> </span></a></div></div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="製作人員"></span><span class="mw-headline" id=".E8.A3.BD.E4.BD.9C.E4.BA.BA.E5.93.A1">製作人員</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=2" title="編輯章節：製作人員" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>製作人
+<ul><li>齊藤洋介</li></ul></li>
+<li>導演
+<ul><li>横尾太郎</li></ul></li>
+<li>腳本
+<ul><li>名取佐和子、菊地はな</li></ul></li>
+<li>人物設定、立繪
+<ul><li>D.K（原版）、吉田明彥（ver1.22）</li></ul></li>
+<li>音楽
+<ul><li>岡部啓一、Emi Evans</li></ul></li>
+<li>美術
+<ul><li>岩崎拓矢</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="故事"></span><span class="mw-headline" id=".E6.95.85.E4.BA.8B">故事</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=3" title="編輯章節：故事" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>遊戲的舞台是設定在《復仇龍騎士》的「E結局」(又稱為「新宿結局」)千年後的現實世界，世界因為該事件的影響開始荒廢，並出現危害人類的神秘怪病「白鹽化症候群」以及魔物。
+<ul><li><s>跟女神轉生真的沒有關係啊！</s></li></ul></li>
+<li>是以人類邁向滅亡的未來末日世界為舞台的動作角色<s><a rel="nofollow" class="external text" href="https://youtu.be/NvYbVEqzZro">慢活</a></s>扮演遊戲，本作的主角尼爾(Nier)為了拯救罹患絕症的親人(哥哥版是妹妹，爸爸版是女兒)，而展開揮舞大劍對抗魔物尋求療方的冒險旅程。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="主要角色"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E8.A7.92.E8.89.B2">主要角色</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=4" title="編輯章節：主要角色" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<h3 class="in-block"><span id="尼爾/ニーア/Nier[4]"></span><span class="mw-headline" id=".E5.B0.BC.E7.88.BE.2F.E3.83.8B.E3.83.BC.E3.82.A2.2FNier.5B4.5D">尼爾/ニーア/Nier<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=5" title="編輯章節：尼爾/ニーア/Nier[4]" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：
+<ul><li>[Gestalt版（爸爸）、ver1.22]Jamieson Price/松田健一郎</li></ul></li></ul><p><a href="/%E6%AA%94%E6%A1%88:NieR_Replicant_ver.1.22474487139..._Papa_Nier.png" class="image" title="round"><noscript><img alt="round" src="/images/thumb/b/b6/NieR_Replicant_ver.1.22474487139..._Papa_Nier.png/300px-NieR_Replicant_ver.1.22474487139..._Papa_Nier.png" width="300" height="389"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 389px;" data-src="/images/thumb/b/b6/NieR_Replicant_ver.1.22474487139..._Papa_Nier.png/300px-NieR_Replicant_ver.1.22474487139..._Papa_Nier.png" data-alt="round" data-width="300" data-height="389"> </span></a>
+</p>
+<dl><dd><ul><li>[RepliCant版（哥哥）、ver1.22]Zach Aguilar/<a href="/%E5%B2%A1%E6%9C%AC%E4%BF%A1%E5%BD%A6" class="mw-redirect" title="岡本信彦">岡本信彦</a>(少年期)、Ray Chase/<a href="/%E9%81%8A%E4%BD%90%E6%B5%A9%E4%BA%8C" title="遊佐浩二">遊佐浩二</a>(青年期)</li></ul></dd></dl><p><a href="/%E6%AA%94%E6%A1%88:NR2020_Nier_Young.png" class="image" title="round"><noscript><img alt="round" src="/images/thumb/b/b6/NR2020_Nier_Young.png/200px-NR2020_Nier_Young.png" width="200" height="290"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 290px;" data-src="/images/thumb/b/b6/NR2020_Nier_Young.png/200px-NR2020_Nier_Young.png" data-alt="round" data-width="200" data-height="290"> </span></a><a href="/%E6%AA%94%E6%A1%88:NR2020_Nier_Old.png" class="image" title="round"><noscript><img alt="round" src="/images/thumb/a/a0/NR2020_Nier_Old.png/280px-NR2020_Nier_Old.png" width="280" height="314"></noscript><span class="lazy-image-placeholder" style="width: 280px;height: 314px;" data-src="/images/thumb/a/a0/NR2020_Nier_Old.png/280px-NR2020_Nier_Old.png" data-alt="round" data-width="280" data-height="314"> </span></a>
+</p>
+<ul><li>本作的主角，孤身一人扛起照顧自己唯一血親優娜的責任</li>
+<li>RepliCant的尼爾和Gestalt的尼爾是不一樣的<s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但都不是處男（哥哥不是處的原因見下）</span></s>。
+<ul><li>RepliCant的尼爾生日是6月6日，剛好是所謂的『兄之日』<s>也是橫尾太郎的生日</s>。
+<ul><li>父母早逝，和優娜的關係是兄妹</li>
+<li><s>PS3版少年時期那突兀的刺蝟髮型令人無法吐槽（1.22版被大幅修正）</s></li>
+<li>DOD系列主角中唯一使用虛幻武器的人<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li></ul></li>
+<li>Gestalt版的尼爾生日是9月11日<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>。在美版漫畫裡畫得比女（？）主角凱寧還要好，背部肌肉令人不敢直視。
+<ul><li>喪妻，和優娜的關係是父女</li>
+<li><s>五年後的差異只多了一條套在頭上的黑色胸罩（誤）<br>凱寧：Wow, You looks like a shit.</s></li></ul></li></ul></li>
+<li>名字是取英文「Near」的發音，姑且是在暗諷本應十分相近的靈魂和肉體，卻被分離和對立。不過製作人表示其實當初並沒有想太多就訂了這個名字。</li>
+<li>雖然有美日兩版的主角，但後來出的官方設定集和其他周邊作品是將RepliCant版當作正式設定，而1.22版也直接用這個版本為基礎製作（不過老爸版有在追加迷宮15nightmares出場）。
+<ul><li>也因此以下介紹會以RepliCant版為主</li>
+<li>不過續作自動人形中出現的兩把黑白長槍（白之矜持、黑之倨傲）及鐵管<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>的武器故事分別捏它了兩個版本的尼爾</li></ul></li>
+<li><s>納豆</s><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">事實上將妹妹當作異性喜歡著。</span></li>
+<li>遊戲序章——2054年東京——夏天、大雪<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實是鹽</span>，與妹妹逃難到新宿的超市，兩人分著剩下來的餅乾，然而哥哥騙妹妹自己已經吃過了，把自己的份都給了妹妹。
+<ul><li>哥哥雖然叮囑她不要碰那手邊不詳的魔法書，但在妹妹快被魔物襲擊時主動跟魔法書契約，以強大的魔法從魔物手中保護妹妹；在戰鬥後卻發現妹妹也碰到了魔法書，無助的哥哥看著妹妹身上開始發黑，一點一點的虛弱……</li></ul></li>
+<li>遊戲第一章——3465年
+<ul><li>父母雙亡的尼爾，與病弱的妹妹優娜相依為命，每天為了她的藥品支出而到處接下危險的工作。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Replicant版尼爾甚至在十多歲時多次賣春給海邊的富有大叔；此後頭髮碰到後頸都會令他想起當時噁心的觸感，於是把頭髮束起來。此事也成為雙胞胎多次給他介紹工作委託的原因之一<s>，跑去打魔物總比賣屁股好</s>。</span></li></ul></li>
+<li>一次委託後突然發現妹妹失蹤，在石之神殿中發現她被「魔物」的「封印」禁錮起來。他以力量強行打破封印，吵醒了守衛的鎧甲型魔物；於危急之際與在封印之中突然飛出來的「白之書」結下契約，透過白之書使出魔法擊敗來襲的敵人。</li>
+<li>此後與白之書展開冒險、認識女劍士凱寧、石化之眼埃米爾，一同收集「遠古的語言」找尋救助妹妹的方法。</li>
+<li>在巨大魔物的襲擊中被突然出現的魔王搶走妹妹，而且凱寧也為了封印魔物而被石化。此後花了五年鍛錬自己，並想辦法攻入魔王城救回妹妹。
+<ul><li>在波波菈口中得知進入魔王城需要四個紋章，遊戲後半部就是圍繞持有這四個紋章的大魔物身上。</li>
+<li>五年後的性格變得嫉惡如仇，斬殺魔物毫不手軟；<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">甚至對方其實前一刻是人類，因為被感染才成為魔物後也一樣。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">所以在D結局願意犠牲自己救回魔物化的凱寧，是因為對方已經成為比自己還重要的人了。</span></li></ul></li></ul><h3 class="in-block"><span id="破書白之書/白の書/Grimoire_Weiss[9]"></span><span class="mw-headline" id=".E7.A0.B4.E6.9B.B8.E7.99.BD.E4.B9.8B.E6.9B.B8.2F.E7.99.BD.E3.81.AE.E6.9B.B8.2FGrimoire_Weiss.5B9.5D"><s>破書</s>白之書/白の書/Grimoire Weiss<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=6" title="編輯章節：破書白之書/白の書/Grimoire Weiss[9]" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Nier_Shiro.jpg" class="image"><noscript><img alt="Nier Shiro.jpg" src="/images/thumb/d/da/Nier_Shiro.jpg/200px-Nier_Shiro.jpg" width="200" height="256"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 256px;" data-src="/images/thumb/d/da/Nier_Shiro.jpg/200px-Nier_Shiro.jpg" data-alt="Nier Shiro.jpg" data-width="200" data-height="256"> </span></a></div>
+<ul><li>CV：Liam O'Brien(Gestalt)、ピーター(RepliCant)→安元洋貴(ver1.22)</li></ul><ul><li>擁有人格的書籍。又稱為小白。</li>
+<li>被封印在石之神殿，但被過來救妹妹的尼爾順道解放。剛解開封印時表示沒有記憶。
+<ul><li>尼爾使用的強大魔法就是源自白之書的力量。</li></ul></li>
+<li>一開始語氣老成自重<s>自以為是</s>，之後作為隊伍中唯一的常識人會動不動就<s>賣萌</s>吐槽其他人脫線的行為。
+<ul><li>大慨是因為吐槽多了，後來越來越有人性。
+<ul><li>叫凱寧做內衣女、尼爾做小鬼頭。</li></ul></li></ul></li>
+<li>按波波菈表示，只要收集齊全「遠古的語言」，就可以用白之書的力量治好黑文病<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">才怪</span>。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">內存人格是一千年前的過去，身為人類的少年士兵，為對抗怪物Region的主力部隊成員，有強大的生存能力。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被組織安排與13個國籍不同的少年男女前往秘密實驗，最後全員被殺且製成13本魔法書。其中以黑之書及白之書力量最強。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其中在洋館消滅的「紅之書」是其舊識的少年女兵，兩人曾在任務中互相幫助。是當時在13人中唯一會以對方語言對話的人。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">故事本篇因為時間的磨損，加上尼爾強行解封，已經完全沒有過去的記憶，甚至不知道自己是Gestalt計劃的關鍵。</span></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後為了幫助尼爾打敗魔王使盡所有力量，失去了形體而消失；在消失之前提示了尼爾喚醒優娜的辦法。</span></li></ul><h3 class="in-block"><span id="優娜/ヨナ/Yonah"></span><span class="mw-headline" id=".E5.84.AA.E5.A8.9C.2F.E3.83.A8.E3.83.8A.2FYonah">優娜/ヨナ/Yonah</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=7" title="編輯章節：優娜/ヨナ/Yonah" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:NR2021_Yonah_Young.png" class="image" title="round"><noscript><img alt="round" src="/images/thumb/c/ce/NR2021_Yonah_Young.png/80px-NR2021_Yonah_Young.png" width="80" height="261"></noscript><span class="lazy-image-placeholder" style="width: 80px;height: 261px;" data-src="/images/thumb/c/ce/NR2021_Yonah_Young.png/80px-NR2021_Yonah_Young.png" data-alt="round" data-width="80" data-height="261"> </span></a>
+<a href="/%E6%AA%94%E6%A1%88:NR2021_Yonah_Old.png" class="image" title="round"><noscript><img alt="round" src="/images/thumb/5/59/NR2021_Yonah_Old.png/120px-NR2021_Yonah_Old.png" width="120" height="264"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 264px;" data-src="/images/thumb/5/59/NR2021_Yonah_Old.png/120px-NR2021_Yonah_Old.png" data-alt="round" data-width="120" data-height="264"> </span></a>
+</p>
+<ul><li>CV：Heather Hogan(Gestalt)、<a href="/%E9%87%8E%E4%B8%AD%E8%97%8D" title="野中藍">野中藍</a>(RepliCant)</li></ul><ul><li>在Nier Replicant是妹妹，在Nier Gestalt以女兒身分登場，主人公唯一的血親。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">事實上將哥哥當作異性喜歡著。</span></li>
+<li>本篇前在序章與哥哥逃到新宿的超市，因為被魔物襲擊而不慎與魔法書接觸。
+<ul><li>　其實知道哥哥騙自己已經吃了餅乾的事，所以偷偷留下了一半給哥哥。</li></ul></li>
+<li>一千年後的本篇，外表名字一樣的優娜與哥哥相依為命，同住在山邊的小村中，也分享著彼此不多的食物。</li>
+<li>染上一種名為黑文病的絕症。
+<ul><li>黑文病會使患者相當痛苦，為了減少優娜的痛苦，尼爾常常出外賺錢。</li>
+<li>目前黑文病是絕對的絕症，藥物只能夠減輕患者的痛楚。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為靈魂本體一開始就崩壞化，複製體的優娜「一定」會患上黑文病。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從續作得知，Gestalt計劃委員會一開始就知道即使千年之後優娜的病基本上也無法治好，對尼爾的千年之說只是為了騙他成為Original Gestalt的手段。</span></li></ul></li></ul></li>
+<li>因為哥哥常常為了自己辛苦在外面賺錢，有時會寫一些感謝信給主角（但是都沒有送到）。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">序章的妹妹是其一千年前的本體。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">之後被魔王強行把靈魂注入RepliCant優娜，與哥哥幸福地在魔王城生活了五年。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後選擇把身體還給RepliCant優娜，自行走到陽光處自殺。</span></li></ul></li>
+<li><s>腹黑<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>，不認尼爾為哥哥而走向魔王的一幕超有NTR感的</s></li>
+<li><s>會不自覺地做出殺人料理，讓尼爾有些困擾。</s></li></ul><h3 class="in-block"><span id="凱寧/カイネ/Kainé"></span><span class="mw-headline" id=".E5.87.B1.E5.AF.A7.2F.E3.82.AB.E3.82.A4.E3.83.8D.2FKain.C3.A9">凱寧/カイネ/Kainé</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=8" title="編輯章節：凱寧/カイネ/Kainé" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:NR2020_Kaine.png" class="image"><noscript><img alt="NR2020 Kaine.png" src="/images/thumb/4/4b/NR2020_Kaine.png/150px-NR2020_Kaine.png" width="150" height="384"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 384px;" data-src="/images/thumb/4/4b/NR2020_Kaine.png/150px-NR2020_Kaine.png" data-alt="NR2020 Kaine.png" data-width="150" data-height="384"> </span></a>
+</p>
+<ul><li>CV：Laura Dawn Bailey(Gestalt)、<a href="/%E7%94%B0%E4%B8%AD%E6%95%A6%E5%AD%90" title="田中敦子">田中敦子</a>(RepliCant)</li></ul><ul><li>本作的女（？）主角。<s>母猩猩</s><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s><a href="/%E5%81%BD%E5%A8%98" title="偽娘">偽娘</a></s><a href="/%E6%89%B6%E4%BB%96%E9%82%A3%E8%A3%A1" title="扶他那裡">扶他</a>。</span><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><ul><li>名字是由日語「<ruby>壞<rp>（</rp><rt style="font-size:0.5em;">カイ</rt><rp>）</rp></ruby><ruby>音<rp>（</rp><rt style="font-size:0.5em;">ネ</rt><rp>）</rp></ruby>」拼湊出來的。背景設定可說是集製作組惡意之大成<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>在<s>居民非常陰陽怪氣的</s>崖之村附近的山谷突然出現在主角面前，以強大的力量<s>推倒</s>襲擊主角。<s>大車騎小孩</s>卻在魔物出現時亳不遲疑把主角丟在一旁先砍過去除魔。</li></ul></li>
+<li>身上所穿的衣服異常地暴露，但是性格和態度卻很粗野。
+<ul><li>滿口糟話，每次說話內容差不多有一半要消音。<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>但是美版配音卻全部公開（比日版還要傳神）。<s><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=OvyvQfn30uE">甚至遊戲還沒有開始就已經……</a></s></li></ul></li></ul><pre><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Weiss, you dumbass!
+Start making sense, you rotten book, or you're gonna be sorry!
+Maybe I'll rip your pages out, one-by-one! Or maybe I'll put you in the goddamn furnace!
+How can someone with a big, smart brain get hypnotized like a little bitch? Huh?
+Oh, Shadowlord! I love you, Shadowlord! Come over here and give Weiss a big sloppy kiss, Shadowlord!
+<b>Now pull your head out of your goddamn ass and START FUCKING HELPING US!</b></span>
+</pre>
+<ul><li>要在第二次來到崖之村合戰巨大魔物後才會正式加入。
+<ul><li>追擊崖之村的巨大魔物是因為它在數年前殺死了她唯一的親人：給予她活著的意志與自我肯定的婆婆。</li>
+<li>血仇被主角搶走之後一度失去生存意志，直到被白之書教訓後才決定作為隨行主角的劍士活下去。</li></ul></li>
+<li>因為身為雙性人的關係，從小遭到排擠，因此小時候過的相當辛苦。
+<ul><li>當時在崖之村生活，不論是小孩還是大人都對凱寧予以白眼，甚至差點就被同齡的一群小孩性侵；直至婆婆滿口糟話的趕來救援才第一次有了真正的家人。</li></ul></li>
+<li>崖之村一戰後一直跟著主角登山入海，直到蛇型的巨大魔物襲擊主角及妹妹所住的村落。
+<ul><li>強大的魔物力壓眼前所有反抗自己的人，主角一行費盡所有力氣才好不容易將魔物的真正實力迫出來。</li>
+<li>陷入絕路的一行人用殘存的力量把魔物打進圖書館的地下倉庫，凱寧把握機會壓著入口，並要求埃米爾用石化之眼將自己連同入口石化封印魔物。</li>
+<li>最後被埃米爾石化，直至五年後才被能力完整的埃米爾解封。<s>洋館裡被石化的人們表示：還有我們未解除石化啊！</s></li></ul></li>
+<li>五年後被長得比自己還高的成年尼爾嚇呆了。當時還不知道自己早已其實喜歡上對方了。
+<ul><li>一直跟著尼爾，作為他的刀刃作戰到最後，在結尾時留下意味深長的道別離去。</li></ul></li>
+<li>一周目主要是尼爾視點的故事，有關凱寧的事玩家要在二周目時才真正有機會完全了解。
+<ul><li>二周目開始可以透過凱寧聽到魔物的心聲。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">婆婆被殺時為了復仇接受了魔物的附身，身體能力大幅增強，也可以透過附身的魔物聽到其他魔物的心聲。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">只穿內衣是因為魔物不能接觸陽光，可以有效阻止全身魔物化。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">魔物的名稱是杜蘭（デュラン），身為人類時名為由良正義。性格殘忍嗜血，想在凱寧完全魔物化後接管她的身體盡情殺戮。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在故事最後，杜蘭對凱寧產生了絕不下於尼爾對她的愛意，願意用盡所有的一切救回她。</span></li></ul></li>
+<li>因為揍了尼爾一拳才發現喜歡他這件事。
+<ul><li>原來那就是XDDDDDDDDDD<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>「啊，說起來我好像喜歡這傢伙來著。」←動手後才突然想到這事的樣子。</li></ul></li>
+<li>由於體質因素跟埃米爾一樣被所有人害怕著，除了假面之國之外其實不能（也不會）進入任何村落。
+<ul><li>平日就跟埃米爾野營，盡管言行粗魯但對埃米爾很照顧。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">並知道埃米爾喜歡尼爾的事。不過粗枝大葉的都沒多在意。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從續作中埃米爾重建了她的舊居可得知，其實埃米爾非常珍惜這位視自己有如親弟弟一樣的人。</span></li></ul></li>
+<li>DLC的裝扮充滿了濃濃的戰國風。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Gestalt體是真正的女性。中上流階層的大小姐，有婚約在身。</span></li></ul><h3 class="in-block"><span id="埃米爾/エミール/Emil"></span><span class="mw-headline" id=".E5.9F.83.E7.B1.B3.E7.88.BE.2F.E3.82.A8.E3.83.9F.E3.83.BC.E3.83.AB.2FEmil">埃米爾/エミール/Emil</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=9" title="編輯章節：埃米爾/エミール/Emil" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：Julie Ann Taylor(Gestalt)、<a href="/%E9%96%80%E8%84%87%E8%88%9E%E4%BB%A5" title="門脇舞以">門脇舞以</a>(RepliCant)</li></ul><p><a href="/%E6%AA%94%E6%A1%88:NR2021_Emil.png" class="image" title="‎"><noscript><img alt="‎" src="/images/thumb/1/11/NR2021_Emil.png/150px-NR2021_Emil.png" width="150" height="265"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 265px;" data-src="/images/thumb/1/11/NR2021_Emil.png/150px-NR2021_Emil.png" data-alt="‎" data-width="150" data-height="265"> </span></a><a href="/%E6%AA%94%E6%A1%88:NR2021_Emil_Weapon.png" class="image"><noscript><img alt="NR2021 Emil Weapon.png" src="/images/thumb/b/bd/NR2021_Emil_Weapon.png/200px-NR2021_Emil_Weapon.png" width="200" height="195"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 195px;" data-src="/images/thumb/b/bd/NR2021_Emil_Weapon.png/200px-NR2021_Emil_Weapon.png" data-alt="NR2021 Emil Weapon.png" data-width="200" data-height="195"> </span></a>
+</p>
+<ul><li>主角一行人在<a href="/%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" title="惡靈古堡">洋館</a>相遇的神祕美少年，具有讓眼見之物變成石頭之能力
+<ul><li>因為具備了這種危險的能力，只能在遠離村莊的洋房裡與管家一起平靜的生活。
+<ul><li>就算全世界人都死光光，Emil還是不會死的。<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真正的同性戀者，喜歡尼爾。希望可以成為對方的新娘。</span></li>
+<li>取自格林兄弟最小的一個弟弟Ludwig Emil Grimm。
+<ul><li>初期曾經被內部人員叫作「Snow」。</li>
+<li>可能隱喻法國哲學家盧梭(Rousseau)的《愛彌兒》(Émile)：個人如何在不可避免趨於墮落的社會中保持天性中的善良。並希望教育孩子一技之長能夠自食其力以在社會立足<s>，然後在自動人形就成了移動商店車神</s>。</li>
+<li><s>剛好跟同期的某作品主角一樣是怎麼回事。</s></li></ul></li>
+<li>個性內向溫和、乖巧有禮，基本上對所有事都無甚主見，小白還要不斷提醒他千萬不要多接觸看起來就對小孩教育不好的凱寧。
+<ul><li>向主角一行人求助，希望幫忙解封被石化的人們。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">事實上在遠古之前就把洋館的所有人都石化了，但自己並無這件事的記憶。</span></li></ul></li>
+<li>最後在洋館深處發現了與小白非常相似的「紅之書」，打敗紅之書之後在其中散落的一頁找到了解封石化的線索。與管家留在洋館繼續找方法對付石化之眼。
+<ul><li>離別前難得的受到同為半非人之物的凱寧鼓勵。</li></ul></li></ul></li>
+<li>然而不久之後全身重傷的出現在主角所住的村落，帶來了巨大魔物來襲的消息。
+<ul><li>把凱寧石化後在五年間不斷尋找解封的方法，最後發現了洋館地底的秘密實驗室，約主角一同前往探索神秘的地下實驗室。</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在實驗室的盡頭發現了被石化且全身插滿石柱的怪物——自己的親姊姊，實驗兵器6號。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">見到對方時立即想起了所有往事，自己其實是一千年前人類為了對抗Region而以人類小孩改造的實驗兵器7號。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">改造實驗以來最強的實驗兵器6號因為受不住太強的魔素而完全暴走，實驗室組員緊急將自己製成石化兵器封印對方。姊姊在最後取回了稀薄的理性主動接受石化。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了解封石化，需要最強的實驗兵器6號的力量，最後在戰鬥後與之融合，在迷糊的意識中也跟姊姊進行了遲來一千年的道別。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後6、7號成功融合，但外表成為了只有骨骼，基本上跟怪物一樣的形狀。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">融合後成為了最強的兵器，魔力大幅提升但失去石化能力。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">力量暴走時足夠把崖之村連同整個山谷完全化為煙塵。</span></li></ul></li></ul></li>
+<li><s> 在聲優訪談中被<a href="/%E9%96%80%E8%84%87%E8%88%9E%E4%BB%A5" title="門脇舞以">門脇舞以</a>玩弄著。 </s></li></ul><h3 class="in-block"><span id="波波菈/ポポル/Popola"></span><span class="mw-headline" id=".E6.B3.A2.E6.B3.A2.E8.8F.88.2F.E3.83.9D.E3.83.9D.E3.83.AB.2FPopola">波波菈/ポポル/Popola</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=10" title="編輯章節：波波菈/ポポル/Popola" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：Danielle Judovits(Gestalt)、<a href="/%E7%99%BD%E7%9F%B3%E6%B6%BC%E5%AD%90" title="白石涼子">白石涼子</a>(RepliCant)</li></ul><p><a href="/%E6%AA%94%E6%A1%88:NR2021_Popola.png" class="image"><noscript><img alt="NR2021 Popola.png" src="/images/thumb/b/b1/NR2021_Popola.png/200px-NR2021_Popola.png" width="200" height="368"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 368px;" data-src="/images/thumb/b/b1/NR2021_Popola.png/200px-NR2021_Popola.png" data-alt="NR2021 Popola.png" data-width="200" data-height="368"> </span></a>
+</p>
+<ul><li>與主角同村的鄰家大姐姐，平日對主角兩兄妹照顧有加。
+<ul><li>圖書館館長，平時會委託主角任務拜託主角幫忙；同時也擔當著村長的職務，相當受到人們信賴。</li>
+<li>介紹的工作是主角的主要收入來源；主線劇情基本上都由她的委託觸發，可說是最重要的NPC。</li>
+<li>將「遠古的語言」收集齊全之後就可以治好黑文病的情報交給尼爾。將主角帶上人生中最重要的旅程。</li></ul></li>
+<li>與迪波菈是雙胞胎姊妹，因此對兩人相依為命過活的尼爾與優娜特別關照著。</li>
+<li>個性安靜溫和。有著不輸給妹妹迪波菈的美聲。
+<ul><li>但是發起飆來要比平時性格活潑的迪波菈可怕的多……</li>
+<li>另外相對於不怎麼會喝酒的的迪波菈，波波菈的酒量非常了得。</li></ul></li>
+<li>名字是取自《DOD》裡其中一把刀的名字「デボルポポル」。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">知道主角Nier賣春的事(妹妹的藥錢很貴，正常收入無法購買)，此後把高風險高回報的魔物討伐委託都盡可能交給主角，因為即使威脅著生命都比那種事好多了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">黑幕之一。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在魔王城的入口突然出現並爆出整個型態計畫的真相，完全把尼爾等人及玩家的精神打成短路；隨後複製並使用白之書的魔法，並表示白之書的魔法本來就是她們兩姊妹的力量。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「遠古的語言」可以治好黑文病的事其實是騙尼爾的，實際上「遠古的語言」、黑之書、白之書三者有其他關係。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兩次戰鬥之後，迪菠爾被尼爾殺死，波波菈徹底崩潰，陷入了深深的悲傷及憤怒。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">波波菈：Stop? Stop? You want me to stop? You think I have the luxury to stop? You cut down my sister like an animal and you tell me to stop!? No one stops! It's way too late to stop! No one STOPS!</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">波波菈在力量跟精神完全失控下暴走選擇自爆要將主角一行全滅，但埃米爾犠牲救了尼爾及凱寧。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">以為自己必死的埃米爾蜷縮在自爆中心喃喃自語我不想死啊，但在B結局顯示埃米爾僥倖未死，頭被炸飛到沙漠。</span></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">戰鬥前後玩家會斷斷續續的接觸到「白塩化症後群」、「Gestalt計劃」、「崩壞化」之類的情報，直到遊戲攻略本設定集發售，甚至續作Automata後玩家才可以完全了解兩人在本作的真正角色。</span></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a rel="nofollow" class="external text" href="https://youtu.be/Cxd44MselZc">很會尬舞，在戰鬥中大部分時間都在一邊尬舞一邊給樓下放增援，拖太久的話兩個還會一起上來跳</a></span></s></li></ul><h3 class="in-block"><span id="迪波菈/デボル/Devola"></span><span class="mw-headline" id=".E8.BF.AA.E6.B3.A2.E8.8F.88.2F.E3.83.87.E3.83.9C.E3.83.AB.2FDevola">迪波菈/デボル/Devola</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=11" title="編輯章節：迪波菈/デボル/Devola" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：Danielle Judovits(Gestalt)、<a href="/%E7%99%BD%E7%9F%B3%E6%B6%BC%E5%AD%90" title="白石涼子">白石涼子</a>(RepliCant)</li></ul><p><a href="/%E6%AA%94%E6%A1%88:NR2021_Devola.png" class="image"><noscript><img alt="NR2021 Devola.png" src="/images/thumb/7/73/NR2021_Devola.png/120px-NR2021_Devola.png" width="120" height="368"></noscript><span class="lazy-image-placeholder" style="width: 120px;height: 368px;" data-src="/images/thumb/7/73/NR2021_Devola.png/120px-NR2021_Devola.png" data-alt="NR2021 Devola.png" data-width="120" data-height="368"> </span></a>
+</p>
+<ul><li>波波菈的妹妹，有著與對方一樣的美貌。</li>
+<li>用著很男孩子氣的口調說話，個性活潑。深愛唱歌，也很會彈奏弦樂器，平常都在噴泉旁或酒館裡唱歌彈奏，有時會跟主角介紹新委託。
+<ul><li>但不是很會喝酒。</li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=OUBvYYsM-lo">也有人就這樣聽了一個小時...</a></li></ul></li>
+<li>名字是取自《DOD》裡其中一把刀的名字「デボルポポル」。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">黑幕之一。但與其說是黑幕，兩人更像是貫穿全作的關鍵人物，其影響力直到幾乎萬年後的續作——<a href="/%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2" title="尼爾 自動人形">Automata</a>。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">千年前由人類製作用以監督「Gestalt計劃」的機械人，直到迪波菈死後波波菈才明白兩人成對製作的理由。因為這重擔一個人根本就承受不來。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">大量生產同型的機體，全世界都配備用作監督遂區域的Gestalt計劃。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兩人引導尼爾收集「遠古的語言」是為了實現魔王的目的。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">直到遊戲攻略本設定集發售玩家才可以完全了解兩人在本作的真正目的。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">2003年，＜DOD＞的新宿結局。在東京新宿上空出現了「白之巨人」及「赤龍」。兩者戰鬥後「白之巨人」死亡，「赤龍」被自衛隊擊殺，屍體插在東京鐵塔上。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">隨後「白鹽化症後群」因為巨人死後的粒子而擴散。最後規模擴散至全世界，患者會鹽化或變成怪物Region。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">序章新宿的白雪其實是人鹽化後的屍體。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">以赤龍的身體為材料研究後發現了「魔素」，隨之帶來了魔法技術。最後以魔法開發了分離身體及靈魂(Gestalt)的方法，並製作了13本魔法書，以姊妹機「デボルポポル」監督「Gestalt計劃／型態計劃」——將全人類的靈魂(Gestalt)分離出來為Gestalt體，躲過白鹽化症後群。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同時以Gestalt體的數據製作作為將來供靈魂回歸用的肉身——RepliCant體／人工生命體。此外也發現Gestalt體能夠使用魔法攻擊，開始實驗性的投入對Region戰。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">待帶來白鹽化的魔素及怪物Region消失之後，計劃最後將以力量最強的黑之書及白之書融合，以其能量將所有Gestalt體帶回RepliCant肉體融合，令人類復活。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然而所有Gestalt體大致上一定時間後就會「崩壞化」，肉身的RepliCant體也會同時染上黑文病——患者身上出現大量天使文字且在痛苦中死去。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後發現能夠供給特殊魔素的Original Gestalt體／原型型態。後以其魔素定時供給所有Gestalt，停止崩壞化。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後全人類Gestalt化，千年後在機械人及RepliCant體的合力下，怪物Region及白鹽化症完全消滅。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然而，RepliCant體在這千年間出現了感情及文化，最後達成了中世左右的文明程度。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">此外，RepliCant體沒有生殖能力，繁殖的任務都交給姊妹機用機械複製Gestalt體的靈魂情報。因此千年後因為情報劣化而開始出現如凱寧一般的雙性人。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">姊妹機及其他機械人也在相同時期產生感情，對象包括作為複製的RepliCant體。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">千年後Gestalt體開始自然蘇甦，部分本能地襲擊RepliCant體以圖回歸人類化，也出現失去理性且怪物化的個體。具有完全理性的就聽從兩姊妹的安排、或自行群聚生活。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也說是說，本篇玩家殺死的魔物就是Gestalt體，全都是真正的人類，主角才是複製的RepliCant體。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">遊戲本篇開始時，其實已認定魔王——即Original Gestalt體為救世主，引導主角尼爾收集「遠古的語言」，令白之書取回足夠的力量跟黑之書融合。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兩人卻對RepliCant體產生了感情，引致最後「Gestalt計劃」在收尾失敗，被RepliCant尼爾打破。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後死在尼爾手下，感嘆著會流血流淚、會哭會笑的自己反而是沒有真正靈魂的機械人，在姊姊的懷中死去。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兩姊妹的同型機在續作Nier:Automata也有戲份。</span></li></ul><h3 class="in-block"><span id="菲雅/フィーア/Fyra"></span><span class="mw-headline" id=".E8.8F.B2.E9.9B.85.2F.E3.83.95.E3.82.A3.E3.83.BC.E3.82.A2.2FFyra">菲雅/フィーア/Fyra</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=12" title="編輯章節：菲雅/フィーア/Fyra" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Neir_Fiya.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/d/dc/Neir_Fiya.jpg/125px-Neir_Fiya.jpg" width="125" height="390"></noscript><span class="lazy-image-placeholder" style="width: 125px;height: 390px;" data-src="/images/thumb/d/dc/Neir_Fiya.jpg/125px-Neir_Fiya.jpg" data-alt="round" data-width="125" data-height="390"> </span></a>
+</p>
+<ul><li>在沙漠區域相遇的白衣少女。</li>
+<li>無法開口說話。
+<ul><li>　其實並不是啞巴，只是假面之國的規則不容許她這身份的人在本國說話。</li></ul></li>
+<li>很小的時候就開始工作，一直生活在面具小鎮上。</li>
+<li>因為燙傷緣故，她的右頰長了一個赤紅色的大瘤。</li>
+<li>Fyra出生在富裕之家，父母是十分愛面子的商人。
+<ul><li>因為燒傷臉孔，醜陋的女兒令他們在人前抬不起頭，好不容易等到女兒八歲，硬把Fyra送到假面之街當學徒。</li>
+<li>卻意外的跟假面之王的王儲成為青梅竹馬。</li></ul></li>
+<li>　本篇的5年後嫁給現為假面之王的青梅竹馬。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在婚禮那天，假面之國被狼王魔物襲擊，死在狼王的利牙之下。</span></li>
+<li>名字和德語「四」(Vier)同音。</li></ul><h3 class="in-block"><span id="假面之王/仮面の王/King_of_Façade"></span><span class="mw-headline" id=".E5.81.87.E9.9D.A2.E4.B9.8B.E7.8E.8B.2F.E4.BB.AE.E9.9D.A2.E3.81.AE.E7.8E.8B.2FKing_of_Fa.C3.A7ade">假面之王/仮面の王/King of Façade</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=13" title="編輯章節：假面之王/仮面の王/King of Façade" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Neir_MaskedKing.JPG" class="image" title="round"><noscript><img alt="round" src="/images/thumb/5/57/Neir_MaskedKing.JPG/250px-Neir_MaskedKing.JPG" width="250" height="114"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 114px;" data-src="/images/thumb/5/57/Neir_MaskedKing.JPG/250px-Neir_MaskedKing.JPG" data-alt="round" data-width="250" data-height="114"> </span></a>
+</p>
+<ul><li>CV：綾里まる(少年期)、重松洋祐(RepliCant)、榎木淳弥(ver1.22)</li>
+<li>「面具小鎮」的年輕的王。
+<ul><li>是為了人民可以在危險面前挺身而出的行動派，受到人民的信賴</li></ul></li>
+<li>認為規則可以適度的打破，有明辦是非的能力。也有為朋友及國民挺身而出的勇氣。</li>
+<li>應該是本作內心最健康的正常人。</li>
+<li>本名是德語的「Sechs」，解作「六」。</li></ul><h3 class="in-block"><span id="魔王/魔王/Shadow_Lord"></span><span class="mw-headline" id=".E9.AD.94.E7.8E.8B.2F.E9.AD.94.E7.8E.8B.2FShadow_Lord">魔王/魔王/Shadow Lord</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=14" title="編輯章節：魔王/魔王/Shadow Lord" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Neir_ShadowLord.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/2/25/Neir_ShadowLord.jpg/250px-Neir_ShadowLord.jpg" width="250" height="141"></noscript><span class="lazy-image-placeholder" style="width: 250px;height: 141px;" data-src="/images/thumb/2/25/Neir_ShadowLord.jpg/250px-Neir_ShadowLord.jpg" data-alt="round" data-width="250" data-height="141"> </span></a>
+</p>
+<ul><li>統御所有魔物的魔王。與蛇型巨大魔物一同出現，在尼爾面前強行搶走當時躲在圖書館的優娜。
+<ul><li>手持與白之書成對的「黑之書」。使用跟尼爾相似且更強的魔法，實力比尼爾一行人加起來還要強。</li></ul></li>
+<li>此後五年一直與優娜生活在魔王城。這時尼爾一直在找尋解封石化凱寧的方法及攻入魔王城解救優娜的路。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實是序章的哥哥，一千年前的尼爾本體。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在新宿為了食物而接觸了黑之書的實驗，察覺實驗的危險後帶著妹妹展開逃亡。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在妹妹面臨崩壞化之際接觸了Gestalt委員會。因為與黑之書契約而沒有崩壞化而被判定為Original Gestalt，以妹妹的冷凍保存及治療研究為交換，作為特殊魔素的供給源成為Gestalt計劃的關鍵。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一千年後「白鹽化症後群」及Region完全消失，開始實現取回妹妹的計劃，但發現即使一千年後也找不到治好她的方法。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後出現在主角面前強行帶走優娜，並把妹妹的靈魂注入RepliCant優娜。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">5年間與妹妹幸福地生活在魔王城，直至他們的「魔王」，RepliCant尼爾的到來。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">妹妹自殺、把身體還給RepliCant優娜，之後失去生存意志，全力與RepliCant尼爾戰鬥後死亡。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為Original Gestalt死亡，所有Gestalt體將不可避免成為崩壞體，RepliCant體側必然患上黑文病。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">也就是說，Replicant尼爾因為妹妹，事實上把人類全滅了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從續作得知，人類最後也滅亡了。</span></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="主要敵人"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E6.95.B5.E4.BA.BA">主要敵人</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=15" title="編輯章節：主要敵人" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<h3 class="in-block"><span id="魔物"></span><span class="mw-headline" id=".E9.AD.94.E7.89.A9">魔物</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=16" title="編輯章節：魔物" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Mamono.jpg" class="image" title="round"><noscript><img alt="round" src="/images/f/fe/Nier_Mamono.jpg" width="175" height="268"></noscript><span class="lazy-image-placeholder" style="width: 175px;height: 268px;" data-src="/images/f/fe/Nier_Mamono.jpg" data-alt="round" data-width="175" data-height="268"> </span></a>
+</p>
+<ul><li>本作的主要敵人，是全身圍繞著黑氣的神秘生物，基本上在所有地區都會出現，會襲擊接近的所有人類。
+<ul><li>個體差異相當大，由球型到超巨大人型都有，後期還會出現會拿鎧甲劍弓之類的武器來用，甚至合體巨大化的個體</li></ul></li>
+<li>最大的弱點是不能直接照射到陽光。會在接觸時一點點被陽光分解
+<ul><li>值得一提的是，本作全地圖是沒有黑夜的。這不是設計BUG而是這世界已經沒有黑夜了，但就算如此魔物還是對人類做成非常大的威脅。</li></ul></li>
+<li>似乎會有保有理性的個體，還會用魔物的叫聲進行類似溝通的行為。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">雖然對玩家來說只是吵鬧的叫聲，直至二周目才發現都有跟人類一樣的情感。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際上是人類的Gestalt體，是貨真價實的人類。反倒玩家控制的種族才是複製人。<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">襲擊人類是因為本能地想得到人工生命（Replicant）的身體，回歸正常人類的狀態。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在本篇以外、姊妹機控制較好的地區有成功回歸人型的個案。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同時還有完全人類理性的個體。從本質上來看，這種個體比較接近定義上的人類。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">RepliCant體是用Gestalt體的情報製作出來的，也就是理論上基本上每個「人類」都有對應的「魔物」。就像尼爾跟魔王的關係一樣。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本作的魔物名稱大部分都捏它自<a href="/%E7%AB%A5%E8%A9%B1" title="童話">童話</a>故事</span></li></ul><h3 class="in-block"><span class="mw-headline" id="P-33">P-33</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=17" title="編輯章節：P-33" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:504d416f-1.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/4/4c/504d416f-1.jpg/315px-504d416f-1.jpg" width="315" height="177"></noscript><span class="lazy-image-placeholder" style="width: 315px;height: 177px;" data-src="/images/thumb/4/4c/504d416f-1.jpg/315px-504d416f-1.jpg" data-alt="round" data-width="315" data-height="177"> </span></a>
+</p>
+<ul><li>五大紋章的持有者之一，持有機械の理的紋章。</li>
+<li>頭上載著小型魔物，似乎受到魔物的控制。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">小型魔物其實是小孩，在一次被人類追捕的過程中失去母親。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">失去親人的他與P-33相遇，此後兩人朋友相稱，相依為命。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">戰鬥尾聲中P-33的跳躍攻擊其實是在全力打破天頂，希望製造機會給魔物小孩逃生，但他並不想放下自己的朋友一人離開。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後兩人都在保護對方的過程中被尼爾殺死。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">幾百年後，P-33被工廠修復，成功復活為四個個體。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後主體實現了跟魔物小孩的約定，離開機械之山，踏上宇宙「看看這個世界」。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但此行意外的引來了外星人對地球的興趣，引致了後作Nier:Automata的外星人事件。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">另外Automata的一部分機械人會跳進溶岩自殺是因為他們在模仿「投火自殺的P-33」個體。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Automata的機械生體會出現意識是因為其中一個P-33個體給予他們智慧。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">P-33的復活事件記載在DOD的周年記念讀本「普羅米修斯之火」，因為限量限時發行，連網上資料也少見，甚至連官方的事件日期也在不同記載中出現不同的設定，更詳細請等待官方的進一步設定。</span></li></ul></li></ul></li></ul><h3 class="in-block"><span id="狼型魔物(狼王)/洛克"></span><span class="mw-headline" id=".E7.8B.BC.E5.9E.8B.E9.AD.94.E7.89.A9.28.E7.8B.BC.E7.8E.8B.29.2F.E6.B4.9B.E5.85.8B">狼型魔物(狼王)/<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">洛克</span></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=18" title="編輯章節：狼型魔物(狼王)/洛克" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>五大紋章的持有者之一，持有忠誠のケルベロス的紋章。</li>
+<li>生活在沙漠地區的魔物，統御著狼群（為普通生物的狼群，而非魔物）。　</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">千年前是一隻由老人飼養的名為洛克的狗，Gestalt計畫進行時飼主將Gestalt化的名額讓給了牠。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原本過著遠離人群的生活，但隨著棲息地逐漸被RepliCant體們奪走、同伴遭到圍捕獵殺，領悟到雙方無法共存後率領狼群襲擊面具鎮。</span></li></ul><h3 class="in-block"><span id="鎧甲型魔物/漢賽爾與格雷特"></span><span class="mw-headline" id=".E9.8E.A7.E7.94.B2.E5.9E.8B.E9.AD.94.E7.89.A9.2F.E6.BC.A2.E8.B3.BD.E7.88.BE.E8.88.87.E6.A0.BC.E9.9B.B7.E7.89.B9">鎧甲型魔物/<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">漢賽爾與格雷特</span></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=19" title="編輯章節：鎧甲型魔物/漢賽爾與格雷特" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>五大紋章的持有者之一，持有石の守護神的紋章。</li>
+<li>在石之神殿看守著小白跟優娜的兩名魔物守衛。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">名稱為漢賽爾與格雷特</span></li>
+<li>被尼爾殺死同伴的另一位石之守衛之後，獨自看守著石之神殿。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在守衛同伴死後很長一段時間陷入自棄狀態，期間受到自己原本輕視的小型魔物們鼓勵，自省後決定為了守護這群新的同伴而戰。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後連同小型魔物們一起被尼爾殺死。</span></li></ul><h3 class="in-block"><span id="魔物集合體(崖之村)/溫蒂"></span><span class="mw-headline" id=".E9.AD.94.E7.89.A9.E9.9B.86.E5.90.88.E9.AB.94.28.E5.B4.96.E4.B9.8B.E6.9D.91.29.2F.E6.BA.AB.E8.92.82">魔物集合體(崖之村)/<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">溫蒂</span></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=20" title="編輯章節：魔物集合體(崖之村)/溫蒂" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Mamono_Fusion.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/6/6c/Nier_Mamono_Fusion.jpg/315px-Nier_Mamono_Fusion.jpg" width="315" height="177"></noscript><span class="lazy-image-placeholder" style="width: 315px;height: 177px;" data-src="/images/thumb/6/6c/Nier_Mamono_Fusion.jpg/315px-Nier_Mamono_Fusion.jpg" data-alt="round" data-width="315" data-height="177"> </span></a>
+</p>
+<ul><li>五大紋章的持有者之一，持有贄的紋章。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">是崖之村內魔物和村民在恐懼之下形成的集合體</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後在艾米爾和尼爾的合力攻擊下被打倒。</span></li></ul><h3 class="in-block"><span id="魔物集合體(魔豬)/古斯"></span><span class="mw-headline" id=".E9.AD.94.E7.89.A9.E9.9B.86.E5.90.88.E9.AB.94.28.E9.AD.94.E8.B1.AC.29.2F.E5.8F.A4.E6.96.AF">魔物集合體(魔豬)/<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">古斯</span></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=21" title="編輯章節：魔物集合體(魔豬)/古斯" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Mamono_FinalFusion.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/9/9a/Nier_Mamono_FinalFusion.jpg/315px-Nier_Mamono_FinalFusion.jpg" width="315" height="177"></noscript><span class="lazy-image-placeholder" style="width: 315px;height: 177px;" data-src="/images/thumb/9/9a/Nier_Mamono_FinalFusion.jpg/315px-Nier_Mamono_FinalFusion.jpg" data-alt="round" data-width="315" data-height="177"> </span></a>
+</p>
+<ul><li>守衛魔王城的魔物之一，由球型魔物和飛行型魔物合體而成。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第一隻是由Gestalt體母親和嬰兒們組成，為了向殺死諸多同胞的尼爾反擊而戰。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第二隻會不斷復活和主角們打消耗戰，途中面具國的援軍會加入戰鬥拖住牠。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後在面具之王的捨身攻擊下喪命。</span></li></ul></li></ul><h3 class="in-block"><span id="巨大魔物(蛇型)"></span><span class="mw-headline" id=".E5.B7.A8.E5.A4.A7.E9.AD.94.E7.89.A9.28.E8.9B.87.E5.9E.8B.29">巨大魔物(蛇型)</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=22" title="編輯章節：巨大魔物(蛇型)" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:4e7f6ccd.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/0/0f/4e7f6ccd.jpg/315px-4e7f6ccd.jpg" width="315" height="177"></noscript><span class="lazy-image-placeholder" style="width: 315px;height: 177px;" data-src="/images/thumb/0/0f/4e7f6ccd.jpg/315px-4e7f6ccd.jpg" data-alt="round" data-width="315" data-height="177"> </span></a>
+<a href="/%E6%AA%94%E6%A1%88:Nier_Mamono_Snake_1.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/8/8d/Nier_Mamono_Snake_1.jpg/315px-Nier_Mamono_Snake_1.jpg" width="315" height="177"></noscript><span class="lazy-image-placeholder" style="width: 315px;height: 177px;" data-src="/images/thumb/8/8d/Nier_Mamono_Snake_1.jpg/315px-Nier_Mamono_Snake_1.jpg" data-alt="round" data-width="315" data-height="177"> </span></a>
+</p>
+<ul><li>在少年篇最後襲擊村子的魔物。</li></ul><h3 class="in-block"><span id="巨大魔物(崖之村)/虎克"></span><span class="mw-headline" id=".E5.B7.A8.E5.A4.A7.E9.AD.94.E7.89.A9.28.E5.B4.96.E4.B9.8B.E6.9D.91.29.2F.E8.99.8E.E5.85.8B">巨大魔物(崖之村)/<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">虎克</span></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=23" title="編輯章節：巨大魔物(崖之村)/虎克" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Mamono_Rift.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/6/68/Nier_Mamono_Rift.jpg/315px-Nier_Mamono_Rift.jpg" width="315" height="177"></noscript><span class="lazy-image-placeholder" style="width: 315px;height: 177px;" data-src="/images/thumb/6/68/Nier_Mamono_Rift.jpg/315px-Nier_Mamono_Rift.jpg" data-alt="round" data-width="315" data-height="177"> </span></a>
+</p>
+<ul><li>殺死凱寧祖母的仇敵。</li></ul><h3 class="in-block"><span id="羊"></span><span class="mw-headline" id=".E7.BE.8A"><s>羊</s></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=24" title="編輯章節：羊" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><s>本作的素材來源之一</s></li>
+<li><s>遊戲中某人的妻子被羊踢死後會要主角開著野豬去撞死羊</s></li>
+<li><s>打死100隻會引來動物保護團體抗議</s></li></ul><h3 class="in-block"><span id="神樹/睡美人"></span><span class="mw-headline" id=".E7.A5.9E.E6.A8.B9.2F.E7.9D.A1.E7.BE.8E.E4.BA.BA">神樹/<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">睡美人</span></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=25" title="編輯章節：神樹/睡美人" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>五大紋章的持有者之一，持有記憶する樹的紋章。</li>
+<li>本身是儲存了許多記憶的巨大裝置，藉由樹葉接收記憶。</li>
+<li>遊戲中得到神樹紋章的過程是以<b>文字冒險遊戲</b>展現。</li></ul><h3 class="in-block"><span id="海怪型魔物/露易絲"></span><span class="mw-headline" id=".E6.B5.B7.E6.80.AA.E5.9E.8B.E9.AD.94.E7.89.A9.2F.E9.9C.B2.E6.98.93.E7.B5.B2">海怪型魔物/<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">露易絲</span></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=26" title="編輯章節：海怪型魔物/露易絲" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>ver1.22版追加BOSS，原為設定集短篇小說《人魚姫》中的角色，偽裝成小女孩躲在海岸鎮的漂流船上。</li>
+<li>真身十分巨大，有著比魔王更加強大的戰鬥力，就算全身暴露在陽光下也能快速再生行動自如。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">襲擊船隻後跟著殘骸一起漂流到海岸上，被郵差當成流浪兒照顧並替她取名為露易絲（ルイーゼ）</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">希望成為真正的人類待在溫柔對待自己的郵差身邊，而不斷吃掉海岸鎮上的居民。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與追查居民下落而來的尼爾交戰時，被郵差看見真身，見到郵差表露厭惡和拒絕的反應後，最後放棄防禦和再生消失在陽光下。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">三周目單純被尼爾打倒的路線中，戰鬥後凱寧會將撿到的露易絲的信交給郵差。</span><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="天使文字"></span><span class="mw-headline" id=".E5.A4.A9.E4.BD.BF.E6.96.87.E5.AD.97">天使文字</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=27" title="編輯章節：天使文字" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Wording.gif" class="image" title="round"><noscript><img alt="round" src="/images/thumb/3/30/Nier_Wording.gif/300px-Nier_Wording.gif" width="300" height="550"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 550px;" data-src="/images/thumb/3/30/Nier_Wording.gif/300px-Nier_Wording.gif" data-alt="round" data-width="300" data-height="550"> </span></a>
+</p>
+<ul><li>NIER和DOD都有出現的天使文字。</li>
+<li>是16世紀實際存在的文字，有「Celestial Alphabet」和「Angelic Script」這兩種稱呼。</li>
+<li>已希伯來文和希臘文為基礎的一種密碼文字。</li>
+<li>由Heinrich Cornelius Agrippa 創造而來。
+<ul><li>是當時的魔法師用來暗號化自己的筆記時用的文字，至於為何要叫做天使文字則沒有說明。<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></li></ul></li>
+<li>而遊戲中的天使文字和現實中的天使文字也有些許出入</li>
+<li>普遍的想法都是經費問題。
+<ul><li><s>光是武器有一大半是用第一代的模組就知道經費真的不多。</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="魔法"></span><span class="mw-headline" id=".E9.AD.94.E6.B3.95">魔法</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=28" title="編輯章節：魔法" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<ul><li>主角從被稱為「白之書」得到的力量</li>
+<li>除非是難度較高的關卡，不然常常靠著武器就可以通關。</li>
+<li>基本上每種魔法都可以蓄力，威力跟效能都會提升</li>
+<li>隨著「遠古的語言」的收集，自白之書引出的魔法種類也會越來越多。</li></ul><h3 class="in-block"><span id="黒の弾/Dark_Blast"></span><span class="mw-headline" id=".E9.BB.92.E3.81.AE.E5.BC.BE.2FDark_Blast">黒の弾/Dark Blast</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=29" title="編輯章節：黒の弾/Dark Blast" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Dark_Blast_Missles.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/8/81/Nier_Dark_Blast_Missles.jpg/300px-Nier_Dark_Blast_Missles.jpg" width="300" height="169"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 169px;" data-src="/images/thumb/8/81/Nier_Dark_Blast_Missles.jpg/300px-Nier_Dark_Blast_Missles.jpg" data-alt="round" data-width="300" data-height="169"> </span></a>
+</p>
+<ul><li>基本招式。</li>
+<li>速度很快，只會消耗少量的MP。</li></ul><h3 class="in-block"><span id="黒の幻影/Dark_Phantasm"></span><span class="mw-headline" id=".E9.BB.92.E3.81.AE.E5.B9.BB.E5.BD.B1.2FDark_Phantasm">黒の幻影/Dark Phantasm</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=30" title="編輯章節：黒の幻影/Dark Phantasm" data-section="30" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>由魔法所形成的另一個分身。</li>
+<li>以直線貫穿的方式攻擊敵人。</li></ul><h3 class="in-block"><span id="黒の手/Dark_Hand"></span><span class="mw-headline" id=".E9.BB.92.E3.81.AE.E6.89.8B.2FDark_Hand">黒の手/Dark Hand</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=31" title="編輯章節：黒の手/Dark Hand" data-section="31" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Dark_Hand.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/4/49/Nier_Dark_Hand.jpg/300px-Nier_Dark_Hand.jpg" width="300" height="169"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 169px;" data-src="/images/thumb/4/49/Nier_Dark_Hand.jpg/300px-Nier_Dark_Hand.jpg" data-alt="round" data-width="300" data-height="169"> </span></a>
+</p>
+<ul><li>巨大化的魔法之手可以對有盔甲的魔物造成破防效果。</li></ul><h3 class="in-block"><span id="黒の槍/Dark_Lance"></span><span class="mw-headline" id=".E9.BB.92.E3.81.AE.E6.A7.8D.2FDark_Lance">黒の槍/Dark Lance</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=32" title="編輯章節：黒の槍/Dark Lance" data-section="32" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Dark_Lance_-_fully_charged.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/f/f3/Dark_Lance_-_fully_charged.jpg/300px-Dark_Lance_-_fully_charged.jpg" width="300" height="169"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 169px;" data-src="/images/thumb/f/f3/Dark_Lance_-_fully_charged.jpg/300px-Dark_Lance_-_fully_charged.jpg" data-alt="round" data-width="300" data-height="169"> </span></a>
+</p>
+<ul><li>由白之書的魔法所形成的形成神奇的槍，並朝著敵人的方向高速射擊。</li>
+<li>使用技能的同時會有準心幫助瞄準(上圖的怪獸)。</li>
+<li>最多可以有8個長矛同時出現。</li></ul><h3 class="in-block"><span id="黒の旋舞/Dark_Whirlwind"></span><span class="mw-headline" id=".E9.BB.92.E3.81.AE.E6.97.8B.E8.88.9E.2FDark_Whirlwind">黒の旋舞/Dark Whirlwind</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=33" title="編輯章節：黒の旋舞/Dark Whirlwind" data-section="33" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Dark_Whirlwind.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/f/f1/Nier_Dark_Whirlwind.jpg/300px-Nier_Dark_Whirlwind.jpg" width="300" height="169"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 169px;" data-src="/images/thumb/f/f1/Nier_Dark_Whirlwind.jpg/300px-Nier_Dark_Whirlwind.jpg" data-alt="round" data-width="300" data-height="169"> </span></a>
+</p>
+<ul><li>徘徊在主角身旁的魔法能量。</li>
+<li>有長矛和球型態。</li></ul><h3 class="in-block"><span id="黒の暴食/Dark_Gluttony"></span><span class="mw-headline" id=".E9.BB.92.E3.81.AE.E6.9A.B4.E9.A3.9F.2FDark_Gluttony">黒の暴食/Dark Gluttony</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=34" title="編輯章節：黒の暴食/Dark Gluttony" data-section="34" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Dark_Gluttony.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/4/48/Nier_Dark_Gluttony.jpg/300px-Nier_Dark_Gluttony.jpg" width="300" height="169"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 169px;" data-src="/images/thumb/4/48/Nier_Dark_Gluttony.jpg/300px-Nier_Dark_Gluttony.jpg" data-alt="round" data-width="300" data-height="169"> </span></a>
+</p>
+<ul><li>將敵人魔法加以吸收的能力。</li></ul><p><a href="/%E6%AA%94%E6%A1%88:Nier_Dark_Gluttony_Orb.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/9/92/Nier_Dark_Gluttony_Orb.jpg/300px-Nier_Dark_Gluttony_Orb.jpg" width="300" height="169"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 169px;" data-src="/images/thumb/9/92/Nier_Dark_Gluttony_Orb.jpg/300px-Nier_Dark_Gluttony_Orb.jpg" data-alt="round" data-width="300" data-height="169"> </span></a>
+</p>
+<ul><li>吸收之後可以變成一格巨大魔法球向對方攻擊。</li></ul><h3 class="in-block"><span id="黒の轟壁/Dark_Wall"></span><span class="mw-headline" id=".E9.BB.92.E3.81.AE.E8.BD.9F.E5.A3.81.2FDark_Wall">黒の轟壁/Dark Wall</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=35" title="編輯章節：黒の轟壁/Dark Wall" data-section="35" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Dark_Wall_1.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/d/d2/Nier_Dark_Wall_1.jpg/300px-Nier_Dark_Wall_1.jpg" width="300" height="169"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 169px;" data-src="/images/thumb/d/d2/Nier_Dark_Wall_1.jpg/300px-Nier_Dark_Wall_1.jpg" data-alt="round" data-width="300" data-height="169"> </span></a>
+<a href="/%E6%AA%94%E6%A1%88:Nier_Dark_Wall_2.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/8/83/Nier_Dark_Wall_2.jpg/300px-Nier_Dark_Wall_2.jpg" width="300" height="169"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 169px;" data-src="/images/thumb/8/83/Nier_Dark_Wall_2.jpg/300px-Nier_Dark_Wall_2.jpg" data-alt="round" data-width="300" data-height="169"> </span></a>
+</p>
+<ul><li>設置行的防禦魔法。</li>
+<li>巨大的黑牆可以阻擋敵人的攻勢。</li>
+<li>有一定機率可以反擊。</li></ul><h3 class="in-block"><span id="黒の処刑/Dark_Execution"></span><span class="mw-headline" id=".E9.BB.92.E3.81.AE.E5.87.A6.E5.88.91.2FDark_Execution">黒の処刑/Dark Execution</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=36" title="編輯章節：黒の処刑/Dark Execution" data-section="36" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Nier_Dark_Exsecut.jpg" class="image" title="round"><noscript><img alt="round" src="/images/thumb/5/54/Nier_Dark_Exsecut.jpg/300px-Nier_Dark_Exsecut.jpg" width="300" height="169"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 169px;" data-src="/images/thumb/5/54/Nier_Dark_Exsecut.jpg/300px-Nier_Dark_Exsecut.jpg" data-alt="round" data-width="300" data-height="169"> </span></a>
+</p>
+<ul><li>從地底往上竄出的大量的長矛。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="武器"></span><span class="mw-headline" id=".E6.AD.A6.E5.99.A8">武器</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=37" title="編輯章節：武器" data-section="37" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<ul><li><a href="/%E5%BE%A9%E4%BB%87%E9%BE%8D%E9%A8%8E%E5%A3%AB%E6%AD%A6%E5%99%A8%E6%95%85%E4%BA%8B" title="復仇龍騎士武器故事">復仇龍騎士武器故事</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="支線任務"></span><span class="mw-headline" id=".E6.94.AF.E7.B7.9A.E4.BB.BB.E5.8B.99">支線任務</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=38" title="編輯章節：支線任務" data-section="38" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<h3 class="in-block"><span id="圖書室的魔物"></span><span class="mw-headline" id=".E5.9C.96.E6.9B.B8.E5.AE.A4.E7.9A.84.E9.AD.94.E7.89.A9">圖書室的魔物</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=39" title="編輯章節：圖書室的魔物" data-section="39" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>洋館裡黑執事的委託，請求主角打倒圖書室裡的魔物。執事先生一直強調，魔物只是看書，沒有襲擊人類……</li>
+<li>對魔物恨之入骨的尼爾回應「雖然目前沒有襲擊人類，但將來就難說。」，衝入圖書室趕盡殺絕。
+<ul><li><s>執事先生你跟我們玩家有仇嗎？</s></li></ul></li></ul><h3 class="in-block"><span id="酒能亂性"></span><span class="mw-headline" id=".E9.85.92.E8.83.BD.E4.BA.82.E6.80.A7">酒能亂性　</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=40" title="編輯章節：酒能亂性　" data-section="40" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>根據尼爾所說，ポポルデボル兩姐妹喝酒後都會性情大變。ポポル會大吵大鬧，搗亂酒館；デボル的說話方式則變得可愛異常，例如「たのしいニャー」。</li></ul><h3 class="in-block"><span id="離家出走的兒子"></span><span class="mw-headline" id=".E9.9B.A2.E5.AE.B6.E5.87.BA.E8.B5.B0.E7.9A.84.E5.85.92.E5.AD.90">離家出走的兒子</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=41" title="編輯章節：離家出走的兒子" data-section="41" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>村裡的老伯請求男主尋找離家出走的兒子。由海岸之街一直追到假面之街，兒子終於說出離家的真相：他不想繼承父業──當騙子。</li>
+<li>尼爾回到村裡報告，發現老伯一家已經潛逃。</li>
+<li>這任務並不會得到報酬，得到的只有教訓。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="結局"></span><span class="mw-headline" id=".E7.B5.90.E5.B1.80">結局</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=42" title="編輯章節：結局" data-section="42" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-10 collapsible-block" id="mf-section-10">
+<h3 class="in-block"><span id="A結局"></span><span class="mw-headline" id="A.E7.B5.90.E5.B1.80">A結局</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=43" title="編輯章節：A結局" data-section="43" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>與凱寧對話，然後白之書的聲音告訴尼爾自己身體已毀，聲音也快消失了，但是叫他別放棄，呼喚優娜用他們倆之間的羈絆，輸入自己角色創建時的名字。</li>
+<li>優娜甦醒後，凱寧準備離開，尼爾打算挽留，但是凱寧以自己還有不得不去解決的個人問題為由拒絕了。此時優娜被窗外的天空吸引，並叫尼爾一起來看。</li>
+<li>鏡頭切換到少年時期哥哥採了朵花給優娜，倆人仰望天空。</li></ul><h3 class="in-block"><span id="B結局"></span><span class="mw-headline" id="B.E7.B5.90.E5.B1.80">B結局</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=44" title="編輯章節：B結局" data-section="44" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>在天堂，少年時期的『魔王』在哭泣。<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li>突然優娜跑過來遞給他餅乾，說著一人一半，我們約定好的。</li>
+<li>他抬起頭笑了，和心愛的妹妹終於能夠再在一起了，接著背後浮現曾經被殺害的無辜的『魔物』。</li>
+<li>再次切回到倆人在廢棄都市給餅乾那段，哥哥為了讓妹妹多吃點，自己餓了一天也沒說出來，優娜其實知道，要求哥哥這次一定要吃下這一半餅乾…這是約定…</li>
+<li><s>片尾曲結束之後，埃米爾頭掉在沙漠裡，因為其姐姐能力的關係，沒死成，打算先把自己身體給弄好後，再尋找尼爾們會合。</s></li></ul><h3 class="in-block"><span id="C路線"></span><span class="mw-headline" id="C.E8.B7.AF.E7.B7.9A">C路線</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=45" title="編輯章節：C路線" data-section="45" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>跟D結局一樣同是三週目關卡，但是請先選擇C，不然你會後悔一輩子。<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li>
+<li>魔王死後，凱寧身體的魔物化已經到了極限，無法繼續壓制，テュラン雖然如願以償可以吞噬凱寧身體開始肆意屠殺，但是它只感覺到空虛和悲傷，它跟凱寧相處的太久了，它就算不想承認，但內心確實慢慢的有了良知，有了愛。</li>
+<li>凱寧在身體完全魔物化前告訴尼爾實情，不過即使テュラン不想也來不及了，因為Gestalt化除非靠埃米爾那樣強大魔力壓制是無法阻止的，只能眼睜睜的看著凱寧黑化，而且黑化後會狂暴化並且喪失凱寧和テュラン的意志。</li>
+<li>此刻凱寧最後的願望是能在自己沒完全黑化時，做出傷害自己重要的人前，讓尼爾殺了自己。</li>
+<li>尼爾始終還是想救凱寧，並反駁：「如果救不了愛的人，就算得救也沒任何意義！」</li>
+<li>黑化凱寧停止了攻擊，テュラン拚命維持意志跟尼爾說有方法可以拯救凱寧，但是這是個痛苦的選擇，首先尋找時機先把凱寧打到虛弱，而我則尋找時機封鎖住凱寧行動。</li>
+<li>BOSS戰戰鬥結束後，テュラン說拯救凱寧的方法有兩種，尼爾會質問它為何幫他，它回答：「我跟你理由是一樣的…」
+<ul><li>從這裡可以看出凱寧已經成為他們心中重要的人。</li></ul></li>
+<li>這時會出現兩種選項供玩家選擇。<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+<li>第一種方法：結束凱寧的生命，讓她從惡業之苦中解放；第二種方法：用自己的存在來交換，讓凱寧變回人類。</li></ul><h4 class="in-block"><span id="C結局（第一種方法）"></span><span class="mw-headline" id="C.E7.B5.90.E5.B1.80.EF.BC.88.E7.AC.AC.E4.B8.80.E7.A8.AE.E6.96.B9.E6.B3.95.EF.BC.89">C結局（第一種方法）</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=46" title="編輯章節：C結局（第一種方法）" data-section="46" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>尼爾抱著凱寧，用劍刺穿了她，在凱寧消失前吻了她，他自己覺得這麼做很內疚。</li>
+<li>此時テュラン的聲音說：「自己是以前隨著凱寧的痛苦而來，一直和她在一起，她的痛苦，它也感同身受，現在的凱寧並不痛苦，反而因為尼爾的做法讓她被救贖，最後為凱寧傳達給你：「謝謝」</li>
+<li>尼爾撿起凱寧消失後掉在地上的月之淚說：「永遠…一起…」</li></ul><h4 class="in-block"><span id="D結局（第二種方法）[23]"></span><span class="mw-headline" id="D.E7.B5.90.E5.B1.80.EF.BC.88.E7.AC.AC.E4.BA.8C.E7.A8.AE.E6.96.B9.E6.B3.95.EF.BC.89.5B23.5D">D結局（第二種方法）<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=47" title="編輯章節：D結局（第二種方法）[23]" data-section="47" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>凱寧甦醒過來，發覺自己恢復，看了一下四周，優娜過來問凱寧：是你救了我對嗎？</li>
+<li>凱寧再次望了一下並無他人的四周沒有回答。</li>
+<li>優娜向凱寧道謝，當凱寧看著優娜時，腦海閃現出了尼爾的身影，臉上頓時浮現出了悲傷。</li>
+<li>優娜對她的反應感到困惑，明明打倒魔王了，但凱寧看起來似乎一點都不開心。</li>
+<li>凱寧愣住了，此時月之淚落到地上，優娜將花撿起，抬起頭來卻看到凱寧流下了眼淚，但凱寧自己也不知道為何流淚。</li>
+<li>凱寧擦了擦眼淚接過花，倆人不約而同的望向天空，凱寧說：「感覺有人給了我……很珍貴的東西。非常珍貴的某樣東西……」</li></ul><h3 class="in-block"><span id="E結局《失落的世界》"></span><span class="mw-headline" id="E.E7.B5.90.E5.B1.80.E3.80.8A.E5.A4.B1.E8.90.BD.E7.9A.84.E4.B8.96.E7.95.8C.E3.80.8B">E結局<a rel="nofollow" class="external text" href="http://home.gamer.com.tw/creationDetail.php?sn=748241/">《失落的世界》</a></span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=48" title="編輯章節：E結局《失落的世界》" data-section="48" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>接至D結局的設定結局，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於ver.1.22474487139實裝，凱寧為主角/操控角色，整體不變但一些細節稍微變化</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>操縱凱寧期間可以像跟續作自動人型一樣看2B裙底一樣觸發特殊動畫，不過相比2B只是把鏡頭甩開，凱寧會直接開罵然後一腳踹開鏡頭，然後連續十次還會…w</s></span></li></ul></li></ul><table class="mw-collapsible mw-collapsed" style="box-sizing: border-box; border: 1px solid #a2a9b1; width: 100%;clear: both;text-align: center; padding: 1px;margin: 0.2em auto 0;font-size:100%;"><tbody><tr><th style="font-family:verdana, arial, helvetica, Sans-Serif; font-weight:bold; font-size:16px; padding: 0.25em 1em;line-height: 1.5em;text-align: center;background:#DDEEFF;">e8a898e686b6e382b5e383bce38390e383bc
+</th></tr><tr><td style="font-style:italic;">
+</td></tr><tr><td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">自從Nier消失後，凱寧老是做惡夢，總覺得自己好像失去了甚麼重要的東西。凱寧記得自己在魔王之城救了一個叫優娜的女孩子，然後寄生的魔物Tyrann不知為何消失，每次拼命回憶當時的情景，總會有些甚麼在迷霧中閃過，但卻一瞬即逝。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這令凱寧十分鬱悶，只想殺魔物洩憤，所以一聽說有魔物在神話森林出沒便立即前往。到達後發現神話森林變得面目全非，不像是個森林，而是森林和機械的混合體，傳輸電纜彷如樹根般鋪滿地上，每步踩下去都是滑溜溜的綠色機油或樹汁。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">凱寧好不容易走到最當眼的大樹前，忽然，一些不知是「像電線的蔓藤」還是像「蔓藤的電線」纏繞成一個少年的模樣。 </span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">（實際上遊戲內實裝的版本是出現兩個人，一男一女。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兩人的造型神似自動人型中的2B與9S）</span></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「嗨！我…」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">凱寧不等少年說完，馬上把他的頭砍下來。少年的身體隨即四散，但轉頭又在另一個方位重新組合。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「你真是粗暴啊。讓我介紹自己，我是這個森林的管理人κλΚ?Σ?χΗ?」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「κλΚ?Σ?χΗ?…」凱寧聽完呆住。少年續道：「嗯，我想你們聽不懂，所以隨便你怎樣稱呼，叫我管理人好，叫我少年也可以。你們應該有很多不解的事。那麼，你有甚麼想知道的？①關於這個森林、②關於我、③未來的事情，選一個吧。」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不等凱寧的回答，少年便開始順序地解說起來。第一點，關於神話森林。簡單來說，神話森林就是管理凱寧所在地區的終端電腦，是以前人類研究魔素和量子力學的究極成果。少年說這一區已經走到盡頭，終結程序已經開始啟動。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">就在少年解說的期間，無數盒形機械人湧出襲擊凱寧。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第二點，關於這個謎般的少年。少年自稱類似「白之書」般的存在，終結程序便是由他負責的。他不但能控制全部的魔素，掌握Gestalt和Replicant的生死，而且對這個地區的所有事情都瞭若指掌，包括凱寧心裡所想的一切。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這時盒形機械人被凱寧打得七七八八，人型的機械人接著出現。凱寧記起以前在機械山裡見過的P-33，當時的她，曾經和某人並肩作戰……但，某人到底是誰？</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「那個就是你重要的人？如果你能打倒這些孩子，我便告訴你為甚麼在這裡，和一直想不起來的人是甚麼。」少年看透凱寧的想法，大笑著召喚出和凱寧一模一樣的機械人。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">少年冷淡地說：「第三點，關於未來的事情。正如剛才所說，這個世界已告失敗，不再需要人類和機械人，我也失去了存在的意義。」少年的語氣十分寂寞，似乎在期待凱寧能做些出乎意料的行動。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">正當凱寧和「自己」打得手忙腳亂，不知為何長了兩對手的埃米爾突然出現加入戰團。不久，埃米爾察覺大樹的中心才是魔力的泉源，於是兩人撇開那些沒完沒了的雜魚，全力攻擊敵人的核心。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">四周的景象開始溶解，樹木、地面、人類的輪廓等等，混成一片汪洋。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「利用魔法把機械、人和植物結合一起，這就是這個世界的本來面目。厲害！厲害！身為Replicant的你竟能來到這個層次，真厲害！」少年興奮得胡言亂語，不久消失於混沌中。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">四周捲起電纜的風暴，埃米爾拼命地掩護凱寧，一步一步地接近魔力的中心。凱寧被一片無窮無盡的白光包圍，只知道不停地揮劍，不停地破壞，然後……然後呢？</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一切安靜下來，所有的聲音都消失了，彷彿來到現實和幻想的邊界。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">凱寧覺得前方好像有些甚麼重要的東西，不自覺地伸出手摸索，隱約似是個人影。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">有個聲音對她說：「……ine……不……要……」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">凱寧流下眼淚。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「……回去……不……要來……」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「……不要……」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">像是抓住了但還是抓不緊，那個重要的東西，似乎又要再一次消失。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真煩！真煩！真煩！我的生存方式，由我自己決定！不用別人指使！是我自己決定，要成為你……成為你的兵刃去死的！</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">凱寧因為害怕再次失去而哭泣。因為厭惡自己的無能而憤怒。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">絕對、絕對、絕對要找回來！拿甚麼去換也要找回來！</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">這時，有人輕輕從背後推了凱寧一下。凱寧借著這一下推動力，繼續向前走。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「別愚弄人了！隨便讓自己消失算甚麼！我的生存的意義由自己決定！這條命我要怎樣就怎樣！所以！」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「給我快點回來啊！％＠＋＆＃＠＄＊％的臭傢伙！」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">白光逐漸消退，慢慢地能看到天空，廣闊的藍色天空。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">神話森林完全地消失了，取而代之的是一朵由機械和植物而成的巨大花朵，從遠處看的話，形狀就像稀有的「月之淚」。凱寧身處在其中的雄蕊上，雙手緊抱著一個對她別具意義的人。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">那個看慣了……又親切無比的人，正在安穩地沉睡著。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不遠處的埃米爾浮呀浮地飄近來看。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">凱寧仰望天空，想起剛才在白光中被某人輕推的時候，確切地聽到一把聲音：「那傢伙就拜託你了，內衣女──」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">再次和他們重逢。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">跟以前相比，身體形狀稍微不同的埃米爾、稍微長大了的凱寧，還有稍微變成孩子的他。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對……他的名字就是…… </span></li></ul></td></tr></tbody></table><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">ver.1.22474487139實裝版完成後可以將D結局消除的記錄復原。</span></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(11)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="音樂"></span><span class="mw-headline" id=".E9.9F.B3.E6.A8.82">音樂</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=49" title="編輯章節：音樂" data-section="49" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-11 collapsible-block" id="mf-section-11">
+<ul><li>本作的音樂是由岡部啓一和Emi Evans<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>共同創作。</li>
+<li>裡面除了「Ashes of Dreams」之外其他都是不存在的人造語言
+<ul><li>該曲也是Emi Evans向Square Enix爭取唯一一首實存語言的歌。歌詞的部分是由Emi與她的爸爸合力完成。</li>
+<li>呈報時還被退稿說"抱歉，歌詞不夠悲傷，希望妳可以重寫然後明天再交"，這首「Ashes of Dreams」就是Emi在從英國飛日本的時差痛苦下熬夜修改歌詞的成果。</li></ul></li>
+<li>音樂一致獲得多家評論媒體和玩家的喜愛，在cavia收掉之後仍然推出原聲帶<s>廢話因為是外包的啊。</s>
+<ul><li>IGN的評比之所以可以比系列作高都是音樂的加分關係。</li>
+<li><a rel="nofollow" class="external text" href="http://www.originalsoundversion.com/2nd-annual-osvostoty-2010-awards-winners-and-runners-up-announced/">ORIGINAL SOUND VERSION年度音樂冠軍。</a>
+<ul><li><s>讓尼爾出更多音樂專輯的罪魁禍首。</s></li></ul></li></ul></li></ul><h3 class="in-block"><span id="NieR_Gestalt_&amp;_Replicant_Original_Soundtrack"></span><span class="mw-headline" id="NieR_Gestalt_.26_Replicant_Original_Soundtrack">NieR Gestalt &amp; Replicant Original Soundtrack</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=50" title="編輯章節：NieR Gestalt &amp; Replicant Original Soundtrack" data-section="50" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:NieR_Gestalt_%26_Replicant_Original_Soundtrack_-_Cover.jpg" class="image"><noscript><img alt="NieR Gestalt &amp; Replicant Original Soundtrack - Cover.jpg" src="/images/5/52/NieR_Gestalt_%26_Replicant_Original_Soundtrack_-_Cover.jpg" width="500" height="496"></noscript><span class="lazy-image-placeholder" style="width: 500px;height: 496px;" data-src="/images/5/52/NieR_Gestalt_%26_Replicant_Original_Soundtrack_-_Cover.jpg" data-alt="NieR Gestalt &amp; Replicant Original Soundtrack - Cover.jpg" data-width="500" data-height="496"> </span></a>
+</p>
+<ul><li>專輯的封面是白之書</li></ul><table class="wikitable" style=""><tbody><tr><th>日文名稱
+</th>
+<th>英文名稱
+</th></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/SFasIg-MapY?list=PL56F5F6D62C0E7744">夏ノ雪</a>
+</td>
+<td>Snow In Summer
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/kMCokJ_dv9c?list=PL56F5F6D62C0E7744">光ノ風吹ク丘</a>
+</td>
+<td>Hills Of Radiant
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/J-SxkHTly3c?list=PL56F5F6D62C0E7744">不完全ナ石</a>
+</td>
+<td>The Incomplete
+</td></tr><tr><td>青イ鳥
+</td>
+<td>Blu-Bird
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/2hP5lMqxurk?list=PL56F5F6D62C0E7744">心閉ザセシ鉄棺</a>
+</td>
+<td>Cold Steel Coffin
+</td></tr><tr><td>オバアチャン
+</td>
+<td>Grandma
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/OibR3qWzn8c?list=PL56F5F6D62C0E7744">イニシエノウタ／デボル</a>
+</td>
+<td>Song Of The Ancients ~ Devola
+</td></tr><tr><td>愚カシイ機械
+</td>
+<td>The Wretched
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/FyOsLmnp4-8?list=PL56F5F6D62C0E7744">売買ノ街</a>
+</td>
+<td>City Of Commerce
+</td></tr><tr><td>イニシエノウタ／ポポル
+</td>
+<td>Song Of The Ancients ~ Popola
+</td></tr><tr><td>仮面ノ譽
+</td>
+<td>The Prestigious Mask
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/U1m2lLciTLs?list=PL56F5F6D62C0E7744">流砂ノ神殿</a>
+</td>
+<td>Temple Of The Drifting Sands
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/Cwab4HefNyg?list=PL56F5F6D62C0E7744">掟ニ囚ワレシ神</a>
+</td>
+<td>Gods Bound By Rules
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/fHJmwtddVvE?list=PL56F5F6D62C0E7744">最終兵器</a>
+</td>
+<td>The Ultimate Weapon
+</td></tr><tr><td>深紅ノ敵
+</td>
+<td>Deep Crimson Foe
+</td></tr><tr><td>喪失／Ver.ピアノ
+</td>
+<td>Dispossession(Piano Version)
+</td></tr><tr><td>喪失／Ver.重奏
+</td>
+<td>Dispossession(Strings Version)
+</td></tr><tr><td>喪失／Ver.弦
+</td>
+<td>Dispossession(Pluck Version)
+</td></tr><tr><td>喪失／Ver.オルゴール
+</td>
+<td>Dispossession(Music Box Version)
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/uen4M4381s4?list=PL56F5F6D62C0E7744">ヨナ／Ver.ピアノ</a>
+</td>
+<td>Yonah(Piano Version)
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/KAo5CkvY0DY?list=PL56F5F6D62C0E7744">ヨナ／Ver.重奏</a>
+</td>
+<td>Yonah(Strings Version)
+</td></tr><tr><td>ヨナ／Ver.弦その1
+</td>
+<td>Yonah(Pluck Version 1)
+</td></tr><tr><td>ヨナ／Ver.弦その2
+</td>
+<td>Yonah(Pluck Version 2)
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/CY8Yd2RVU2g?list=PL56F5F6D62C0E7744">全テヲ破壊スル黒キ巨人</a>
+</td>
+<td>The Dark Colossus Destroys All
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/xQxQmEdDXt0?list=PL56F5F6D62C0E7744">イニシエノウタ／虛ロナ夢</a>
+</td>
+<td>Song Of The Ancients ~ Hollow Dreams
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/VUUp0DgLXCQ?list=PL56F5F6D62C0E7744">カイネ／救済</a>
+</td>
+<td>Kaine ~ Salvation
+</td></tr><tr><td>カイネ／逃避
+</td>
+<td>Kaine ~ Escape
+</td></tr><tr><td>彼ノ夢
+</td>
+<td>His Dream
+</td></tr><tr><td>此ノ夢
+</td>
+<td>This Dream
+</td></tr><tr><td>休息
+</td>
+<td>Repose
+</td></tr><tr><td>失ワレタ森
+</td>
+<td>The Lost Forest
+</td></tr><tr><td>イニシエノウタ／運命
+</td>
+<td>Song Of The Ancients ~ Fate
+</td></tr><tr><td>魔王ノ城／記憶
+</td>
+<td>Shadowlord's Castle Memory
+</td></tr><tr><td>儚キ者達ノ舞踏
+</td>
+<td>Dance Of The Evanescent
+</td></tr><tr><td>魔王ノ城／咆吼
+</td>
+<td>Shadowlord's Castle Roar
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/QgHWZB9nTYA?list=PL56F5F6D62C0E7744">エミール／業苦</a>
+</td>
+<td>Emil ~ Karma
+</td></tr><tr><td>エミール／犠牲
+</td>
+<td>Emil ~ Sacrifice
+</td></tr><tr><td>魔王
+</td>
+<td>Shadowlord
+</td></tr><tr><td>Ashes of Dreams／English Version
+</td>
+<td>Ashes Of Dreams ~ New
+</td></tr><tr><td>Ashes of Dreams／Nouveau-FR Version
+</td>
+<td>Ashes Of Dreams ~ Nouveau
+</td></tr><tr><td>Ashes of Dreams／Nuadhaich-GER Version
+</td>
+<td>Ashes Of Dreams ~ Nuadhaich
+</td></tr><tr><td>Ashes of Dreams／Aratanaru-JP Version
+</td>
+<td>Ashes Of Dreams ~ Aratanaru
+</td></tr><tr><td>魔王-White-note remix
+</td>
+<td>Shadowlord(White-note Remix)
+</td></tr></tbody></table><h3 class="in-block"><span id="NieR_Gestalt_&amp;_Replicant_15_Nightmares_&amp;_Arrange_Tracks"></span><span class="mw-headline" id="NieR_Gestalt_.26_Replicant_15_Nightmares_.26_Arrange_Tracks">NieR Gestalt &amp; Replicant 15 Nightmares &amp; Arrange Tracks</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=51" title="編輯章節：NieR Gestalt &amp; Replicant 15 Nightmares &amp; Arrange Tracks" data-section="51" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:NieR_Gestalt_%26_Replicant_15_Nightmares_%26_Arrange_Tracks_-_Cover.jpg" class="image"><noscript><img alt="NieR Gestalt &amp; Replicant 15 Nightmares &amp; Arrange Tracks - Cover.jpg" src="/images/9/9d/NieR_Gestalt_%26_Replicant_15_Nightmares_%26_Arrange_Tracks_-_Cover.jpg" width="500" height="496"></noscript><span class="lazy-image-placeholder" style="width: 500px;height: 496px;" data-src="/images/9/9d/NieR_Gestalt_%26_Replicant_15_Nightmares_%26_Arrange_Tracks_-_Cover.jpg" data-alt="NieR Gestalt &amp; Replicant 15 Nightmares &amp; Arrange Tracks - Cover.jpg" data-width="500" data-height="496"> </span></a>
+</p>
+<ul><li>專輯的封面是黑之書</li>
+<li>收錄的是在DLC裡面所出現曲子</li></ul><table class="wikitable" style=""><tbody><tr><th>日文名稱
+</th>
+<th>英文名稱
+</th></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/fttRPGDc8RM?list=PL310CD7A59924F4D6">イニシエノウタ-Lost Androids Mixuxux</a>
+</td>
+<td>Song of the Ancients-Lost Androids Mixuxux
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/IHVUgvu8tVg?list=PL310CD7A59924F4D6">青イ鳥-Hansel und Gretel</a>
+</td>
+<td>Blu-bird-Hansel und Gretel
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/VQO_ZYBpewo?list=PL310CD7A59924F4D6">魔王ノ城-Iron Fist mix feat.DJ-BKO</a>
+</td>
+<td>Shadowlord's Castle-Iron Fist mix feat.DJ-BKO
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/3K5ocJIupSo?list=PL310CD7A59924F4D6">エミール-Ultimate Weapon No.7</a>
+</td>
+<td>Emil - Ultimate Weapon No.7
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/RxpIHTfT0bI?list=PL310CD7A59924F4D6">魔王-Crying Yonah Version</a>
+</td>
+<td>Shadowlord - Crying Yonah Version
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/qkmoaGxt0t8?list=PL310CD7A59924F4D6">エミール/Ver.ピアノ</a>
+</td>
+<td>Emil/Piano Ver
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/NHC-vCjT_3Y?list=PL310CD7A59924F4D6">カイネ/Ver.重奏</a>
+</td>
+<td>Kainé/Duet Ver
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/5LQA5h7YE2M?list=PL310CD7A59924F4D6">愚カシイ機械/Ver.アカペラ</a>
+</td>
+<td>The Wretched Automatons/A Cappella
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/ZiHT2ZFJ79k?list=PL310CD7A59924F4D6">イニシエノウタ/Ver.ピアノ</a>
+</td>
+<td>Song of the Ancients/Piano Ver
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/1x9AP5f8tcY?list=PL310CD7A59924F4D6">魔王/Ver.オルゴール</a>
+</td>
+<td>Shadowlord/Music Box Ver
+</td></tr><tr><td><a rel="nofollow" class="external text" href="http://youtu.be/RsAFJzJFhGQ?list=PL310CD7A59924F4D6">ニーアの伝説～8ビットの勇者たち～</a>
+</td>
+<td>The Legend of Nier:8-bit Heroes
+</td></tr></tbody></table><h3 class="in-block"><span class="mw-headline" id="NieR_Tribute_Album_-echo-">NieR Tribute Album -echo-</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=52" title="編輯章節：NieR Tribute Album -echo-" data-section="52" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:NieR_Tribute_Album_-echo-_-_Cover.jpg" class="image"><noscript><img alt="NieR Tribute Album -echo- - Cover.jpg" src="/images/7/7b/NieR_Tribute_Album_-echo-_-_Cover.jpg" width="500" height="495"></noscript><span class="lazy-image-placeholder" style="width: 500px;height: 495px;" data-src="/images/7/7b/NieR_Tribute_Album_-echo-_-_Cover.jpg" data-alt="NieR Tribute Album -echo- - Cover.jpg" data-width="500" data-height="495"> </span></a>
+</p>
+<ul><li><s>cavia倒閉之後才發售的第一個作品。</s></li>
+<li>是各路好手一同創作的成果。
+<ul><li>所以不是岡部啓一負責。</li>
+<li>其中sasakure.UK就把自己混音過的版本收到自己的專輯裡。</li></ul></li></ul><table class="wikitable" style=""><tbody><tr><th>日文名稱
+</th>
+<th>英文名稱
+</th></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=HgQDsDJJ5Q8">-echo-: NieR 休息／SEXY-SYNTHESIZER</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=FTl5I0OlTkU&amp;list=PLDA4B519940A134C5&amp;index=3">-echo-: NieR カイネ／救済 〜 カイネ／逃避 ／matryoshka</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=cXmDaOzbE7E">-echo-: NieR 流砂ノ神殿／millstones</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=v_KmZm5-8vg">-echo-: NieR Suite Of Nier (Restructuring-夏ノ雪,最終兵器,Ashes of Dreams)／Go-qualia</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=ZCGYqgw16bY&amp;index=7&amp;list=PLDA4B519940A134C5">-echo-: NieR 魔王ノ城／咆吼／RÄFVEN</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=ra08VbkPyxo">-echo-: NieR 不完全ナ石／Nobu44</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=E0G3HFUWDRM">-echo-: NieR イニシエノウタ／デボル～イニシエノウタ／ポポル／sasakure.UK</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=1zYqyE_gO18">-echo-: NieR 愚カシイ機械／KanouKaoru</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=uw5Ahk9WhjE">-echo-: NieR オバアチャン／シュローダーヘッズ</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=4CCEH5-Qh8Q">-echo-: NieR 失ワレタ森／NO‐NO₂</a>
+</td></tr><tr><td><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=x4Ka1ALoLi8&amp;list=PLDA4B519940A134C5">-echo-: NieR 夏ノ雪～全テヲ破壊スル黒キ巨人／world's end girlfriend</a>
+</td></tr></tbody></table><h3 class="in-block"><span id="Piano_Collections_Nier_Gestalt_&amp;_Replicant"></span><span class="mw-headline" id="Piano_Collections_Nier_Gestalt_.26_Replicant">Piano Collections Nier Gestalt &amp; Replicant</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=53" title="編輯章節：Piano Collections Nier Gestalt &amp; Replicant" data-section="53" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<p><a href="/%E6%AA%94%E6%A1%88:Piano_Collections_Nier_Gestalt_%26_Replicant_-_Cover.jpg" class="image"><noscript><img alt="Piano Collections Nier Gestalt &amp; Replicant - Cover.jpg" src="/images/0/0d/Piano_Collections_Nier_Gestalt_%26_Replicant_-_Cover.jpg" width="500" height="496"></noscript><span class="lazy-image-placeholder" style="width: 500px;height: 496px;" data-src="/images/0/0d/Piano_Collections_Nier_Gestalt_%26_Replicant_-_Cover.jpg" data-alt="Piano Collections Nier Gestalt &amp; Replicant - Cover.jpg" data-width="500" data-height="496"> </span></a>
+</p>
+<ul><li>書籍的封面是紅之書</li>
+<li><s>cavia倒閉之後才發售的第二個作品。</s></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th>日文名稱
+</th>
+<th>英文名稱
+</th></tr><tr><td>イニシエノウタ
+</td>
+<td>Song of the Ancients
+</td></tr><tr><td>カイネ
+</td>
+<td>Kainé
+</td></tr><tr><td>光ノ風吹ク丘
+</td>
+<td>Hills of Radiant Wind
+</td></tr><tr><td>夏ノ雪
+</td>
+<td>Snow in Summer
+</td></tr><tr><td>エミール
+</td>
+<td>Emil
+</td></tr><tr><td>オバアチャン
+</td>
+<td>Grandma
+</td></tr><tr><td>休息
+</td>
+<td>Repose
+</td></tr><tr><td>掟ニ囚ワレシ神
+</td>
+<td>Gods Bound By Rules
+</td></tr><tr><td>魔王
+</td>
+<td>Shadowlord
+</td></tr><tr><td>愚カシイ機械
+</td>
+<td>The Wretched Automatons
+</td></tr><tr><td>Ashes of Dreams
+</td>
+<td>Ashes of Dreams
+</td></tr></tbody></table><h3 class="in-block"><span id="NieR_Gestalt_&amp;_Replicant:_Jazz_Arrange_Version"></span><span class="mw-headline" id="NieR_Gestalt_.26_Replicant:_Jazz_Arrange_Version">NieR Gestalt &amp; Replicant: Jazz Arrange Version</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=54" title="編輯章節：NieR Gestalt &amp; Replicant: Jazz Arrange Version" data-section="54" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>將先前發售的曲目重新編曲而成。</li>
+<li>不過並不是岡部啓一負責。</li>
+<li><s>cavia倒閉之後才發售的第三個作品。</s></li></ul><table class="wikitable" style=""><tbody><tr><th>標題
+</th>
+<th>原標題
+</th></tr><tr><td>Sunshower
+</td>
+<td>Snow in Summer
+</td></tr><tr><td>Pale Moonlight
+</td>
+<td>Shadowlord's Castle/Roar
+</td></tr><tr><td>Nightengale
+</td>
+<td>Kainé/Duet Ver.
+</td></tr><tr><td>Memories
+</td>
+<td>Song Of The Ancients/Devola
+</td></tr><tr><td>A Heart Not Forgotten
+</td>
+<td>Emil/Karma
+</td></tr><tr><td>Steam Powered Trouble
+</td>
+<td>The Wretched Automatons
+</td></tr><tr><td>Old Timer
+</td>
+<td>Grandma
+</td></tr><tr><td>Flower
+</td>
+<td>Yonah
+</td></tr><tr><td>Veil
+</td>
+<td>The Prestigious Mask
+</td></tr><tr><td>Rule Breaker
+</td>
+<td>Gods Bound by Rules
+</td></tr><tr><td>Heavy Heart
+</td>
+<td>Emil-Piano Ver
+</td></tr><tr><td>Penumbra
+</td>
+<td>Shadowlord
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(12)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="評價"></span><span class="mw-headline" id=".E8.A9.95.E5.83.B9">評價</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=55" title="編輯章節：評價" data-section="55" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-12 collapsible-block" id="mf-section-12">
+<ul><li>FAMI通評價：34分
+<ul><li>畫面方面因為有如PS 2一般的品質所以分數給得不多，但是運鏡方面卻讚許不少（尤其是橫向的部分，讓你感覺像是在玩惡魔城）。</li>
+<li>音樂方面不解釋，只要聽過就能理解為何是不解釋了。
+<ul><li><s>音樂神到現在還在SE社的播放清單裡面。</s></li></ul></li>
+<li>戰鬥方面則認為手感很微妙，打擊感有種無力的感覺，不過可以續力攻擊所以這方面幾乎是可以省略。
+<ul><li>不過遊玩的時候戰鬥節奏很快，這個定格的確很麻煩。<s>通常玩家都是在定格瞬間來個黒の槍打怪獸。</s></li></ul></li>
+<li>劇情是賣點，雖然有許多捏他和沒有說清楚的部分，不過基本上可以忽略。</li>
+<li>總結的地方都焦點在尼爾推箱子……，當然結局也嚇壞了評審。</li></ul></li>
+<li>而海外媒體評價因為撞上當年眾多大作和上述的手感及畫面問題，分數十分難看。
+<ul><li>但玩家評價對劇情同樣也是好評居多。</li></ul></li>
+<li>ver1.22版本在重作畫面和動作系統並額外增加新內容後，得到了算不錯的評價
+<ul><li>然而PC版因為優化問題而在推出頭幾天就遭到負評轟炸<s>SE果然還是沒學乖</s></li></ul></li></ul><p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(13)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="參見"></span><span class="mw-headline" id=".E5.8F.83.E8.A6.8B">參見</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=56" title="編輯章節：參見" data-section="56" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-13 collapsible-block" id="mf-section-13">
+<ul><li><a href="/Square_Enix" title="Square Enix">Square Enix</a></li>
+<li><a href="/RPG" title="RPG">RPG</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.square-enix.co.jp/nier/">日版網站</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.niergame.com/">美版網站</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(14)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=57" title="編輯章節：回應" data-section="57" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-14 collapsible-block" id="mf-section-14">
+<div class="pcomment-insert" data-number="" data-section="2" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B" title="討論:尼爾 人工生命／型態">討論:尼爾 人工生命／型態</a>|number=|section=2}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(15)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;action=edit&amp;section=58" title="編輯章節：備註" data-section="58" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-15 collapsible-block" id="mf-section-15">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">歐美版的標題為NIER</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">會如此改動的原因是高層認為美少年系的主角不合歐美玩家胃口，也因此本作的歐美版不論哪個平台都是以Gestalt版為主<s>，但就銷量和市場反應來看還是哥哥版比較吃香<br>至於1.22版主要劇情沒收錄老爸版本讓一堆先接觸Gestalt版的海外粉絲該該叫這點……</s></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">後面的一長串<s>像是報名牌的</s>數字是1.5開根號，表示本遊戲不單純是人工生命重製版而是加強版，但橫尾本人其實也記不清後面那段數字只以更新版稱呼這款遊戲。</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">其實並沒有正式名稱（在ver1.22的介紹上的稱呼是主人公），需要玩家自己取名；但為了方便在公式設定集還是以尼爾這個名字稱呼</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">一般來說，歷代DOD主角設定海報中所持的武器，在遊戲中都確實有相對應的裝備，然後唯獨青年期的日版尼爾使用的巨大矛劍僅存在於設定中，並沒有在遊戲裡正式出現</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">就是DOD一代的發售日期；另外原來設定上兩個尼爾都應該是9月11日，但有某位職員把自己的生日填上去忘了改正過來。</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">中日文版文本中優娜傾訴的對象是是哥哥版，歐美版文本則是爸爸版</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">出自電玩快打</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">「Grimoire」即「魔法書」。「Weiss」為德語的白色。</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">在結局中一臉微笑的打斷尼爾和凱寧的對<s>情</s>話，老爸就算了但是哥哥卻……</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Laura Dawn Bailey後來在<a href="/%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%852%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" title="最後生還者2炎上事件">最後生還者2</a>出演艾比，田中敦子則是在攻殼機動隊系列裡出演<a href="/%E8%8D%89%E8%96%99%E7%B4%A0%E5%AD%90" title="草薙素子">草薙素子</a>。</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">主因是因為當時製作組內的女性成員希望遊戲中能有一個<a href="/BL" title="BL">男性女主角</a>，結果橫尾就故意曲解了這個要求創造出這個角色</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">除了扶他屬性外，凱寧還有戰鬥後會極度性興奮經常忍不住自慰的設定，製作組甚至專門出了一篇外傳小說描述這點</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">有一說是因為日文中的糟話不夠多樣於是只好消音讓玩家自行想像。</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">製作人訪談時，其他對於真相的反應</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">出自製作人訪談。</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">其中一個暗示：從魔物身上掉落的道具有相當一部份是課本、辭典、繪本、手錶之類的人類日常用品</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">內容是露易絲模仿郵差教的範本寫下的『謝謝』。</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">主要是用來與天使溝通。</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">因為覺得再也見不到妹妹</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">D結局會把你<b>所有的遊戲存檔刪除</b>，而且還不是單純的刪除檔案：會一邊回顧所有物品一邊把你蒐集到的道具一個個刪除、再把你的遊戲支線紀錄等一個個刪除、最後把你的人物資料等一個個刪除，近乎凌虐式的手法……此後如果要用同一個名字開新檔，還會提示不能使用這個被刪除的名字。</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">實際上第一次玩到這也只能選第一種方法，第二種方法(D結局)在過C結局之前是無法選擇的。</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">Delete END</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">本名Emiko Rebecca Evans，在幫<a href="/%E4%B8%96%E7%95%8C%E6%A8%B9%E7%9A%84%E8%BF%B7%E5%AE%AE" title="世界樹的迷宮">世界樹的迷宮</a>配樂歌曲使用的名稱是Rebecca Evans<s>難怪東京又被毀了一次。</s></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">官方列為私人影片</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">SE的youtube影片名稱有錯誤</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=尼爾_人工生命／型態&amp;oldid=406794">https://wiki.komica.org/index.php?title=尼爾_人工生命／型態&amp;oldid=406794</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B"
+				data-user-name="17Million"
+				data-user-gender="unknown"
+				data-timestamp="1660884575">
+				最後編輯於 2022年8月19日 (週五) 12:49
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.372","walltime":"1.238","ppvisitednodes":{"value":2639,"limit":1000000},"ppgeneratednodes":{"value":5408,"limit":1000000},"postexpandincludesize":{"value":48410,"limit":2097152},"templateargumentsize":{"value":22102,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9192,"limit":5000000},"timingprofile":["100.00%  505.309      1 -total"," 41.33%  208.867    166 模板:Censored"," 25.40%  128.333     16 模板:Ref"," 15.18%   76.687      1 模板:H0","  6.13%   30.997      1 模板:Collapse_top","  3.80%   19.217      2 模板:Ruby","  2.76%   13.936      1 模板:Collapse_bottom","  1.94%    9.795      3 模板:Size","  1.34%    6.769      1 模板:Stub_row","  1.22%    6.162      1 模板:Pcomment"]},"cachereport":{"timestamp":"20221030010239","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":249});});</script>		</body>
+		</html>
+		

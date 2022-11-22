@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>GUN道 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"GUN道","wgTitle":"GUN道","wgCurRevisionId":400125,"wgRevisionId":400125,"wgArticleId":1908,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"GUN道","wgRelevantArticleId":1908,"wgRequestId":"14f854f60851a452ab73deb3","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=GUN%E9%81%93\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=GUN%E9%81%93","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=GUN%E9%81%93&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=GUN%E9%81%93&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-GUN道 rootpage-GUN道 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=GUN%E9%81%93&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=GUN%E9%81%93" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">GUN道</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;"> <a rel="nofollow" class="external text" href="https://w.atwiki.jp/gundo/">MUSASHI GUN道</a>/<s>肛</s>GUN道 </div> 
+<table class="wikitable" style="margin: 0 auto;"><tbody><tr><td>這是一個編輯中的詞條，歡迎有興趣的朋友加以補完。
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA"><a rel="nofollow" class="external text" href="https://youtu.be/rYyK3blqecw">解說</a></span><span class="mw-editsection"><a href="/index.php?title=GUN%E9%81%93&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>2006年播放，原作為《魯邦三世》的Monkey Punch的原創動畫作品《Musashi -Gun道-》的簡稱。</li></ul><ul><li>這是一套號稱花了<b>十二年構思製作</b>，質素卻及不上<b>二十年前的東西</b>的作品。<a href="/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="作畫崩壞">作畫崩壞</a>是其特色。但是，卻因其非常差劣的品質，讓其變得非常有名。
+<ul><li><s>或許是製作完成後花了十二年的時間思考是否應該推出</s></li>
+<li><s>也可能是因為大人的理由把十二年前的計劃拖出來匆匆做完</s></li>
+<li><s>更可能是花了十二年的時間構思怎樣做出一套前無古人的差劣作品<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></s></li></ul></li></ul><ul><li>2006糞アニメ大賞得主之一（另外兩部是<a href="/%E9%AB%98%E9%BA%97%E8%8F%9C" title="高麗菜">夜明け前より瑠璃色な</a>和銀河天使2）</li></ul><ul><li>真相是GUN道的全部原畫製作通通交給一家中國的外包公司-蘇州宏囡卡通責任有限公司（見GUN道ED製作人員名單）<br>也無法控管品質、加上人力與預算不夠才會造成過多作畫崩壞的主要原因
+<ul><li><s>但無論如何一套講戰國時代末的作品卻出現王八盒子和霰彈槍，然後還要拿著槍跳舞，這種蠢到掉渣的劇本老實講也不會好看到那兒去，反而令人覺得上述真相是個推卸責任的說法</s></li></ul></li>
+<li>不過幾乎崩壞到底的表現卻也讓本作產生了一種邪典作品的另類喜感與魅力，也算是另類的留名動畫史</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="沒人在乎的人物介紹"></span><span class="mw-headline" id=".E6.B2.92.E4.BA.BA.E5.9C.A8.E4.B9.8E.E7.9A.84.E4.BA.BA.E7.89.A9.E4.BB.8B.E7.B4.B9"><s>沒人在乎的</s>人物介紹</span><span class="mw-editsection"><a href="/index.php?title=GUN%E9%81%93&amp;action=edit&amp;section=2" title="編輯章節：沒人在乎的人物介紹" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>宮本武藏(ミヤモトムサシ)
+<ul><li>CV：<a href="/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94" title="浪川大輔">浪川大輔</a></li>
+<li>本作主角，使用雙槍的少年。</li>
+<li>不殺主義者，戰鬥也不常傷害別人。</li>
+<li>很討厭佐佐木小次郎。</li></ul></li></ul><ul><li>浪人(ロウニン)
+<ul><li>CV：堀川仁</li>
+<li>本名不詳的第二男主角，以前是武藏的對手，之後變成同伴。</li>
+<li>有說だな的口癖。</li>
+<li><s>眼睛常常不見</s></li></ul></li></ul><ul><li><a href="/%E8%93%AC%E8%90%8A%E5%B1%B1%E8%BC%9D%E5%A4%9C" title="蓬萊山輝夜">輝夜</a>(カグヤ)
+<ul><li>CV：河原木志穂</li>
+<li>女主角之一，豐臣秀吉的養女。</li></ul></li></ul><ul><li>澤庵和尚(タクアン和尚)
+<ul><li>CV：田中總一郎</li>
+<li>GUN道的創始人。</li>
+<li>著名的「賢者之舞」就是他跳的，但實際是：「顯邪之舞」才是正確名稱，可缺乏設定集等其他資料書本作為佐證，這答案就無人得知了。</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="有名字辭"></span><span class="mw-headline" id=".E6.9C.89.E5.90.8D.E5.AD.97.E8.BE.AD">有名字辭</span><span class="mw-editsection"><a href="/index.php?title=GUN%E9%81%93&amp;action=edit&amp;section=3" title="編輯章節：有名字辭" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><a href="/%E9%A6%AC%E5%B8%83%E5%B8%8C" title="馬布希">「嗚呀！好閃！」（うおっ！まぶしっ！）</a></li>
+<li>賢者之舞（賢者の舞）
+<ul><li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=5EohpXyhe5o">映片</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="二次創作"></span><span class="mw-headline" id=".E4.BA.8C.E6.AC.A1.E5.89.B5.E4.BD.9C">二次創作</span><span class="mw-editsection"><a href="/index.php?title=GUN%E9%81%93&amp;action=edit&amp;section=4" title="編輯章節：二次創作" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<h3 class="in-block"><span id="畫像"></span><span class="mw-headline" id=".E7.95.AB.E5.83.8F">畫像</span><span class="mw-editsection"><a href="/index.php?title=GUN%E9%81%93&amp;action=edit&amp;section=5" title="編輯章節：畫像" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://asame4.web.infoseek.co.jp/garuhi.html">涼宮MUSASHIの憂鬱なGUN道特集（朝目新聞）</a></li></ul><h3 class="in-block"><span id="映片"></span><span class="mw-headline" id=".E6.98.A0.E7.89.87">映片</span><span class="mw-editsection"><a href="/index.php?title=GUN%E9%81%93&amp;action=edit&amp;section=6" title="編輯章節：映片" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>在Youtube上，可以找到不少《GUN道》的同人製作。</li></ul><ul><li>好些比原版本來得要好的OP：</li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=Pio8lSuj4VE">ブラクラMUSASHI（《Black Lagoon》版本）</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=Ssog3fF1cU4">Cowboy Musashi（《Cowboy Bebop》版本）</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=iWTwqsfYNgw">ヤンマーニ MUSASHI（《MADLAX》版本）</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=rlhAUsKsLEg">TriGUN道（《Trigun》版本）</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=6t66bQddbjs">Gun道殲鬼ヤシャゴニア（《吸血殲鬼》版本）</a></li></ul><p>其他的映片：
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=9Rt0EfPeFAk">MISTY作画BREAK</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=GmITwuEGIu8">閃光GUNDOH PV -A Tribute to MUSASHI- やや高画質版</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=W1BCZKFoKVg">MUSASHI うたわれるもの</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=S4a75r--Whk">おねがいマイムサシィ～くるくるGUN道～</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=Mx9f8QebqOs">GA_MUSASHI MAD（《Galaxy Angels》版本）</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=GUN%E9%81%93&amp;action=edit&amp;section=7" title="編輯章節：回應" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="pcomment-insert" data-number="" data-section="2" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:GUN%E9%81%93" title="討論:GUN道">討論:GUN道</a>|number=|section=2}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=GUN%E9%81%93&amp;action=edit&amp;section=8" title="編輯章節：備註" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://format-acg.org/anime/forum/gun_musashi.html">於方墨山的評論見此</a></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=GUN道&amp;oldid=400125">https://wiki.komica.org/index.php?title=GUN道&amp;oldid=400125</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/GUN%E9%81%93"
+				data-user-name="Hcxcf"
+				data-user-gender="unknown"
+				data-timestamp="1657620330">
+				最後編輯於 2022年7月12日 (週二) 18:05
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=GUN%E9%81%93&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.045","ppvisitednodes":{"value":82,"limit":1000000},"ppgeneratednodes":{"value":261,"limit":1000000},"postexpandincludesize":{"value":505,"limit":2097152},"templateargumentsize":{"value":64,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":446,"limit":5000000},"timingprofile":["100.00%   28.948      1 -total","  7.02%    2.032      1 模板:Pcomment","  3.62%    1.047      1 模板:H0"]},"cachereport":{"timestamp":"20220911201944","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75});});</script>		</body>
+		</html>
+		

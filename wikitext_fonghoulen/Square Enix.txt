@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Square Enix - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Square_Enix","wgTitle":"Square Enix","wgCurRevisionId":411981,"wgRevisionId":411981,"wgArticleId":4082,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"Square_Enix","wgRelevantArticleId":4082,"wgRequestId":"8333c4bfcf9742bbb5b66de0","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=Square+Enix\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=Square+Enix","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=Square_Enix&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=Square_Enix&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Square_Enix rootpage-Square_Enix stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=Square+Enix" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">Square Enix</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">Square Enix/SQEX/史克威爾艾尼克斯/方塊社<s>/SEX/手游天尊</s> </div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=1" title="編輯章節：簡介" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>Square Enix為日本遊戲開發廠商，主力遊戲類型為<s>手機遊戲與SNS</s>角色扮演遊戲，以最終幻想與勇者鬥惡龍聞名。
+<ul><li><s>特技是把舊作的遊戲源代碼搞丟、項目管理不當、把經費花在奇怪的地方、讓人不禁懷疑他們怎麼撐到現在</s></li></ul></li>
+<li>前身為Square社與Enix社，在2003年合併成立Square Enix，以Enix為存續公司<s>不是史克威爾吃掉Enix嗎</s>。2008年改組成立控股公司Square Enix Holdings，Square Enix為其子公司。
+<ul><li>2005年以交換股票方式收購Taito以此進軍大型電玩市場<s>所以ZUN和小夜現在算是SE社的員工</s><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>，2008年意圖收購特庫摩被攔截，2009年收購古墓奇兵系列的製作公司Eidos。
+<ul><li>因此歐美原產遊戲角色中最知名的<a href="/%E8%98%BF%E6%8B%89%E2%80%A7%E5%8D%A1%E8%8A%99%E7%89%B9" title="蘿拉‧卡芙特">蘿拉‧卡芙特</a>也被納入SE社名下<s>，因殺人如麻而進入<a href="/%E5%8F%B2%E5%85%8B%E5%A8%81%E7%88%BE%E4%B8%89%E5%A4%A7%E6%83%A1%E5%A5%B3" title="史克威爾三大惡女">三大惡女</a>候選</s></li></ul></li></ul></li>
+<li>Square創社於1983年，在1986年改名為Square，創社人宮本雅史<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>。在1987年於FC上推出最終幻想成名。
+<ul><li>在2001年因最終幻想電影版導致虧損，尋求諸位金主救援。Sony於此時入股。</li>
+<li>2003年與同樣碰到財務危機的Enix合併。</li></ul></li>
+<li>Enix為1982年由福嶋康博成立<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>。於1986年發售勇者鬥惡龍聞名。
+<ul><li>1991年以《月刊少年ガンガン》加入漫畫市場。</li>
+<li>2001年遭逢エニックスお家騒動，出版事業分割<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>。
+<ul><li>兩方一度對簿公堂，後於2003年達成和解。</li>
+<li>不過後來新連載的《鋼之鍊金術師》大受好評，危機解除。</li></ul></li>
+<li>另一方面因為遊戲經營不善。在2003年與Square合併。</li></ul></li></ul><ul><li>因為是發行廠商，導致很多遊戲讓人以為都是Square Enix製作的。
+<ul><li>像是Cavia的<a href="/%E5%BE%A9%E4%BB%87%E9%BE%8D%E9%A8%8E%E5%A3%AB%E6%AD%A6%E5%99%A8%E6%95%85%E4%BA%8B" title="復仇龍騎士武器故事">誓血龍騎士</a>。</li>
+<li>不過也有像是tri-Ace的女神戰記和銀河遊俠這樣的案例。</li></ul></li></ul><ul><li>除了遊戲之外，還設有出版部門，其中以上述的《鋼之鍊金術師》最為知名。
+<ul><li>2014年發生高分少女事件。<s>安定的出版部</s></li>
+<li><s>《月刊少年ガンガン》是一切罪惡的根源</s></li></ul></li></ul><ul><li>於2004設立了SQUARE-ENIX小說大賞，現在改名為SQUARE-ENIX<a href="/%E8%BC%95%E5%B0%8F%E8%AA%AA" title="輕小說">輕小說</a>大賞
+<ul><li>也有發行不少<a href="/%E8%BC%95%E5%B0%8F%E8%AA%AA" title="輕小說">輕小說</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="遊戲列表"></span><span class="mw-headline" id=".E9.81.8A.E6.88.B2.E5.88.97.E8.A1.A8">遊戲列表</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=2" title="編輯章節：遊戲列表" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span id="Square作品"></span><span class="mw-headline" id="Square.E4.BD.9C.E5.93.81">Square作品</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=3" title="編輯章節：Square作品" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a>
+<ul><li>詳細見條目</li></ul></li>
+<li><a href="/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E5%BF%83%E7%B3%BB%E5%88%97/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%84" class="mw-redirect" title="王國之心系列/キングダムハーツ">王國之心系列</a>
+<ul><li>與迪士尼合作的ARPG，在各方都獲得不錯的迴響。<s>至於那剪不斷理還亂的劇情關係圖還是……</s></li></ul></li>
+<li><a href="/%E8%81%96%E5%8A%8D%E5%82%B3%E8%AA%AA%E7%B3%BB%E5%88%97" title="聖劍傳說系列">聖劍傳說系列</a>
+<ul><li><s>你什麼時候產生它有續作的錯覺</s></li></ul></li>
+<li><a href="/Sa%C2%B7Ga%E7%B3%BB%E5%88%97" title="Sa·Ga系列">Sa·Ga系列</a>
+<ul><li>主打源自FF2的熟練度與非線性的自由劇本</li>
+<li>部分作品甚至有機械等科幻要素<s>不過系列最廣為人知的Romancing Sa·Ga系列是中世背景</s></li>
+<li>因為手遊《Romancing SaGa Re;universe》的推出，意外有拉回一點知名度</li></ul></li></ul><h3 class="in-block"><span id="Enix作品"></span><span class="mw-headline" id="Enix.E4.BD.9C.E5.93.81">Enix作品</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=4" title="編輯章節：Enix作品" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><a href="/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%E7%B3%BB%E5%88%97" title="勇者鬥惡龍系列">勇者鬥惡龍系列</a>
+<ul><li>詳細見條目</li></ul></li>
+<li><a href="/%E6%98%9F%E6%B5%B7%E9%81%8A%E4%BF%A0%E7%B3%BB%E5%88%97" title="星海遊俠系列">星海遊俠系列</a>
+<ul><li>詳細見條目</li></ul></li></ul><h3 class="in-block"><span id="Square_Enix作品"></span><span class="mw-headline" id="Square_Enix.E4.BD.9C.E5.93.81">Square Enix作品</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=5" title="編輯章節：Square Enix作品" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><a href="/Chrono_Trigger" title="Chrono Trigger">超時空之鑰</a>
+<ul><li>嚴格來說是合併之前的合作遊戲，<s>但是卻意外比樓上幾位還有人氣</s></li></ul></li>
+<li>誓血龍騎士系列
+<ul><li>由橫尾太郎領銜製作的ARPG。</li>
+<li><s>除了畫面和遊戲性其他都很好（尤其是音樂）的遊戲，不管哪一代都是虐主角及玩家不手軟的</s>
+<ul><li>雖然有多週目劇情及分歧結局，不過下一個結局基本上只會更<a href="/%E9%AC%B1%E3%82%B2%E3%83%BC" title="鬱ゲー">致鬱</a>，甚至連<a href="/%E5%BE%A9%E4%BB%87%E9%BE%8D%E9%A8%8E%E5%A3%AB%E6%AD%A6%E5%99%A8%E6%95%85%E4%BA%8B" title="復仇龍騎士武器故事">武器的背景故事</a>都很惡趣味。</li>
+<li>而其精神續作《<a href="/%E5%B0%BC%E7%88%BE_%E4%BA%BA%E5%B7%A5%E7%94%9F%E5%91%BD%EF%BC%8F%E5%9E%8B%E6%85%8B" title="尼爾 人工生命／型態">尼爾</a>》依舊繼承了這種虐主角不手軟的風格。</li></ul></li></ul></li>
+<li>最後的遺跡
+<ul><li>即使到了現在，還放在PS3未發售名單上...</li>
+<li><s>仁王，食人大鷲:你要代替你的學長嗎</s></li></ul></li>
+<li><a href="/%E6%B7%B7%E6%B2%8C%E4%B9%8B%E7%92%B0" title="混沌之環">混沌之環</a>
+<ul><li>以手機為出發點的RPG，特殊的風格廣受玩家好評。</li></ul></li>
+<li>人生街道
+<ul><li>主打DQ與FF共演的雙六遊戲</li></ul></li>
+<li>百萬亞瑟王
+<ul><li>包括<a href="/%E6%93%B4%E6%95%A3%E6%80%A7%E7%99%BE%E8%90%AC%E4%BA%9E%E7%91%9F%E7%8E%8B" title="擴散性百萬亞瑟王">擴散性百萬亞瑟王</a>和<a href="/%E4%B9%96%E9%9B%A2%E6%80%A7%E7%99%BE%E8%90%AC%E4%BA%9E%E7%91%9F%E7%8E%8B" title="乖離性百萬亞瑟王">乖離性百萬亞瑟王</a><s>等</s></li>
+<li><s>然後被玩死了</s></li></ul></li>
+<li><a href="/BRAVELY_DEFAULT" title="BRAVELY DEFAULT">勇氣默示錄</a>
+<ul><li>主打傳統FF系列的模式，詳見主條目</li></ul></li>
+<li><a href="/OCTOPATH_TRAVELER" title="OCTOPATH TRAVELER">歧路旅人</a>
+<ul><li>採用HD-2D的點陣風格呈現懷舊遊戲的美術畫面，詳見主條目</li></ul></li></ul><h3 class="in-block"><span id="Taito作品"></span><span class="mw-headline" id="Taito.E4.BD.9C.E5.93.81">Taito作品</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=6" title="編輯章節：Taito作品" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>太空侵略者</li>
+<li>電車GO!系列</li>
+<li>泡泡龍系列</li></ul><h3 class="in-block"><span id="Eidos作品(已售出)"></span><span class="mw-headline" id="Eidos.E4.BD.9C.E5.93.81.28.E5.B7.B2.E5.94.AE.E5.87.BA.29">Eidos作品(已售出)</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=7" title="編輯章節：Eidos作品(已售出)" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>古墓奇兵系列
+<ul><li>以古文明探險為主題的動作冒險遊戲。全3D場景與女性唯一主角等頗具突破性的要素在問世當時造成了不小的轟動。</li>
+<li>新古墓2013中蘿拉的五官變得比較接近東方人，多被認為是SE併購後的影響。</li></ul></li>
+<li>刺客任務系列
+<ul><li><s>雖然是刺客任務，但沒有一個人是刺客</s></li></ul></li>
+<li>俠盜系列
+<ul><li><s>存在感很微弱</s></li></ul></li>
+<li>2022年5月時以上IP連同相關的公司與開發團隊<s>為了籌錢玩NFT</s>已經全數出售給瑞典的Embracer集團。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關工作人員"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E5.B7.A5.E4.BD.9C.E4.BA.BA.E5.93.A1">相關工作人員</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=8" title="編輯章節：相關工作人員" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="製作人/導演/編劇/主要開發人員"></span><span class="mw-headline" id=".E8.A3.BD.E4.BD.9C.E4.BA.BA.2F.E5.B0.8E.E6.BC.94.2F.E7.B7.A8.E5.8A.87.2F.E4.B8.BB.E8.A6.81.E9.96.8B.E7.99.BC.E4.BA.BA.E5.93.A1">製作人/導演/編劇/主要開發人員</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=9" title="編輯章節：製作人/導演/編劇/主要開發人員" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>坂口博信（前員工）
+<ul><li><a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a>的生父。</li>
+<li>但因為電影事業的失敗，離開Square Enix。</li>
+<li>現在在Mistwalker擔任總裁<s>做手遊，結果手遊新作就炎上了</s>。
+<ul><li><s>雖然已經離開，但是常常跟SE社借人</s></li></ul></li></ul></li></ul><ul><li>北瀨佳範
+<ul><li>主要從事導演和編劇工作。
+<ul><li>意外的很會回應粉絲。<s>所以FF10後面才會這樣</s></li>
+<li><s>爛好人</s></li></ul></li></ul></li></ul><ul><li>田畑端（前員工）
+<ul><li>手上所執導的作品<s>除了沒做完的FF15</s>基本上都有品質保證。
+<ul><li><s>專業級PSP遊戲製作人。雖然第三次生日因為某人的關係獲得差評，不過大家不會介意</s></li></ul></li>
+<li><s>據傳接下工作後正在想辦法幫FF15增加女性角色的出場機會</s>
+<ul><li><s>結果FF15還是爆炸了，為了逃離憤怒粉絲的追殺選擇跑路，還讓DLC斷尾</s></li></ul></li></ul></li></ul><ul><li>野島一成
+<ul><li>工作是遊戲編劇</li>
+<li>FF7開始的正傳有不少劇情都是出自他的手筆，尤以FF10為最高峰。
+<ul><li>結果後來由他主筆的FF10-2.5小說和FF10/10-2HD版附送廣播劇，因劇情把10-2的完美結局給破壞殆盡+所有角色全部崩壞而差評如潮，完全淪為黑歷史。</li></ul></li></ul></li></ul><ul><li>伊藤裕之
+<ul><li>ATB系統的開發者。<s>專業除錯專家</s></li>
+<li>通常經手的作品戰鬥系統都很不錯，但也造成沒有他戰鬥系統會崩壞的情形。</li>
+<li>比起劇情方面，更注重在遊戲性。</li></ul></li></ul><ul><li>松野泰己（前員工）
+<ul><li>手上持有兩個被Fami通評為滿分40分的遊戲。<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>因為生病的關係，離開了Square Enix。<s>結果搞得太十二變成了莫名其妙的遊戲</s></li>
+<li>劇本風格比較嚴肅晦澀，即使是<s>莫名其妙的</s>FF12也能明顯感到與其他系列作的區別。</li>
+<li>在SE社經手的幾作<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>均使用大致相同的世界觀，之後被統合為“Ivalice Alliance”。</li>
+<li>非常喜歡皇后樂隊。
+<ul><li>甚至將兩首皇后樂隊作品的曲名當作副標題加進自己開發的皇家騎士團遊戲上。</li></ul></li>
+<li>後來被吉田直樹請回來為FF14的支線寫劇情</li></ul></li></ul><ul><li>鳥山<s>球</s>求<s>めない</s>
+<ul><li>工作是遊戲監督和遊戲編劇。但他作為主編劇的作品劇情都非常不忍說。
+<ul><li>出道作為《神龍奇兵》，其中<a href="/%E5%8F%B2%E5%85%8B%E5%A8%81%E7%88%BE%E4%B8%89%E5%A4%A7%E6%83%A1%E5%A5%B3" title="史克威爾三大惡女">女主角</a>的劇情給玩家留下了嚴重的心理創傷。</li>
+<li>導致FF13系列做到爆炸和《第三次生日》劇情差評的頭號元兇。</li>
+<li>雖然經常被婊，但一直都在SE社活躍。<s>看起來只是需要有人管住他</s></li>
+<li><s>因為他的關係，導致部分作品的開發時間一延再延</s></li>
+<li>近年其主導的FF7 REMAKE第9章部分的劇情改編大獲好評<s>或許稍微有讓評價回升了那麼一點點</s>。</li></ul></li>
+<li><s>自我感覺良好的中二病，</s>在FF13系列的製作期間發表了不少問題發言，例如：
+<ul><li><b><a rel="nofollow" class="external text" href="https://dic.nicovideo.jp/a/%E3%81%9F%E3%81%A0%E3%81%AE%E7%9F%B3">ただの石</a></b></li>
+<li>科幻電影《阿凡達》是受到FF13系列的<b>影響</b>而生<s>人家詹導醞釀這個電影都花了14年你居敢說這種大話</s></li>
+<li>在<s>曬老婆現場</s><a rel="nofollow" class="external text" href="https://youtu.be/3L8mp1ewALk">LRFF的公佈影片</a>內說系列女主角<a href="/%E9%9B%B7%E5%85%89" title="雷光">雷光</a>是整個SE以至日本遊戲界的<b>牌面</b><s>某個<a href="/%E4%BB%BB%E5%A4%A9%E5%A0%82" title="任天堂">花牌製造商</a>表示：</s></li></ul></li>
+<li><s>無可救藥的雷光廚，LRFF時不僅逼她玩換裝play+大放殺必死，還用一眠大一吋的理由給她加乳量</s></li></ul></li></ul><ul><li>吉田直樹
+<ul><li>原屬ENIX側，參與過DQ10的製作。</li>
+<li>為了收拾FF14 1.0的爛攤子而被拉來，結果卻創造了MMORPG史上最大的奇蹟：不僅在短短兩年內把整個遊戲打掉重做，還利用一連串內外鋪陳為無藥可救的舊版本寫下了最轟轟烈烈的結局。</li>
+<li>後來更把FF14一步一步經營成史上最成功的MMORPG之一，可說是進年來SE最令玩家信賴的製作人。</li>
+<li>本人是網遊廢人，對玩家的反響很熱烈。</li>
+<li>現在是FF16的製作人。</li></ul></li></ul><h3 class="in-block"><span id="美術設計"></span><span class="mw-headline" id=".E7.BE.8E.E8.A1.93.E8.A8.AD.E8.A8.88">美術設計</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=10" title="編輯章節：美術設計" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>天野喜孝
+<ul><li>著名插畫家，最早在龍之子製作公司參與人物設計。</li>
+<li>後來轉為插畫家，在FF系列早期擔任人物設計，從FF4開始亦擔當每部FF正傳的LOGO設計。</li>
+<li>現在已經是個在國際上享有盛譽的藝術家。
+<ul><li>風格以<s>獵奇</s>強烈的幻想氣氛為特徵。</li></ul></li>
+<li>此外也經常被邀請畫插畫，但實際成品狀況有好有壞。
+<ul><li>2019年和FGO連動推出畫冊，結果除了黑貞和嚴窟王以外的角色都……</li></ul></li></ul></li></ul><ul><li>野村哲也
+<ul><li>工作是角色設計和遊戲總監。
+<ul><li>因為天野喜孝的風格在當時無法用3D技術忠實呈現，所以在FF7之後開始接手人物設計。</li>
+<li>實際上FF7最初的故事梗概就是由當時還尚未擔當要職的他創作出來的。</li></ul></li>
+<li>遊戲的戰鬥設計很合男性玩家的胃口，但角色設計方面卻是女性玩家。<s>所以FF15有一堆男生是很正常的事</s></li>
+<li><s>SE社的最後良心，但卻有挖坑不填繼續節外生枝的傳統藝能</s></li>
+<li><s>中二病患者，後來凡是有他的作品都有各種造語+難解的劇情設定+拉練皮帶+刺蝟頭</s>
+<ul><li><s>導致王國之心系列劇情理解困難的元兇，還因此衍生出了一個專有名詞：Nomlish（ノムリッシュ）</s></li>
+<li><s>迪士尼粉絲：我就只是想玩迪士尼世界旅行，為什麼會有一堆黑漆漆的中二來亂啊？</s></li></ul></li>
+<li><s>因為以上因素外加KH3劇情後期的收尾問題，經常被不滿SE近年作風的玩家帶頭開幹</s></li>
+<li>目前未婚，還被宇多田光調侃過。</li></ul></li></ul><ul><li>上国料勇（前員工）
+<ul><li>雖然名字看起來像是上国 料勇，但應該是要念成「上国料 勇」才是正確的。<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li><a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a>的美術設計。
+<ul><li>一張圖畫需要畫好幾個禮拜是正常的事情。</li></ul></li>
+<li>現在已經從SE獨立。</li></ul></li></ul><ul><li>吉田明彥
+<ul><li>角色設計。</li>
+<li>基本上參與的FF作品都與松野泰己或“Ivalice Alliance”有關。</li></ul></li></ul><h3 class="in-block"><span id="作曲家"></span><span class="mw-headline" id=".E4.BD.9C.E6.9B.B2.E5.AE.B6">作曲家</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=11" title="編輯章節：作曲家" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>植松伸夫（前員工）
+<ul><li><a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a>的音樂製作人。在其手中誕生了無數的經典名曲，可謂<b>遊戲音樂界的一代巨匠</b>。
+<ul><li>到了十代之後開始採取跟其他作曲家合作的方式。</li>
+<li>有自己的樂隊「The Black Mages」，不過已經解散。</li>
+<li>2020年NHK的節目【全ファイナルファンタジー大投票】的音樂部門中從多達3,000首曲子中票選出的前20名，除了第5名的【閃光】（由浜渦所作）以外<b>其他19首曲子全部都是他的作品</b>，可見其作品人氣之旺。</li></ul></li>
+<li><s>很常被人邀請作曲</s></li></ul></li></ul><ul><li>下村陽子（前員工）
+<ul><li><a href="/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E5%BF%83%E7%B3%BB%E5%88%97" title="王國之心系列">王國之心系列</a>的音樂製作人，也是《寄生前夜》、《<a href="/LIVE_A_LIVE" title="LIVE A LIVE">LIVE A LIVE</a>》、《超級瑪利歐RPG》的編曲者。
+<ul><li>負責<a href="/Final_Fantasy_XV" title="Final Fantasy XV">FF15</a>的作曲。為此遊戲中還放了一個以她為原型的NPC<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>。</li></ul></li>
+<li>以前曾在卡普空工作過，並參與了快打旋風2的音樂製作。現在為自由作曲家。</li>
+<li><s>小提琴愛好者，也很常被人邀請作曲</s></li></ul></li></ul><ul><li>崎元仁
+<ul><li>音樂作曲家。</li>
+<li>基本上參與的FF作品都與松野泰己（ry</li>
+<li>以管弦交響樂為主。
+<ul><li><s>在Final Fantasy XII之後參與的作品配樂風格都差不多</s></li></ul></li></ul></li></ul><ul><li>浜渦正志（前員工）
+<ul><li><a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a>後期的音樂作曲家。
+<ul><li><s>因為太愛最終幻想，所以從德國跑到日本</s></li></ul></li>
+<li>原為聲樂科出身，擅長合唱的調性拿捏。</li>
+<li>現在在自己成立的工作室工作。</li></ul></li></ul><ul><li>石元丈晴（前員工）
+<ul><li>音樂作曲及編曲家。
+<ul><li>雖然DFF系列的原曲改編評價有點兩極，但由其全權作曲的<a href="/Final_Fantasy_%E9%9B%B6%E5%BC%8F" title="Final Fantasy 零式">FF零式</a>音樂就十分好評。</li></ul></li>
+<li>擅長重低音強烈的搖滾風。</li>
+<li>於2017年離職。</li></ul></li></ul><h3 class="in-block"><span id="ENIX側人員/其他相關"></span><span class="mw-headline" id="ENIX.E5.81.B4.E4.BA.BA.E5.93.A1.2F.E5.85.B6.E4.BB.96.E7.9B.B8.E9.97.9C">ENIX側人員/其他相關</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=12" title="編輯章節：ENIX側人員/其他相關" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>鳥山明
+<ul><li><a href="/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%E7%B3%BB%E5%88%97" title="勇者鬥惡龍系列">勇者鬥惡龍系列</a>的人設。</li>
+<li><s><a href="/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%E7%B3%BB%E5%88%97" title="勇者鬥惡龍系列">勇者鬥惡龍系列</a>的本體一號</s></li>
+<li><s>因為跟Enix的關係不是一般的好，所以把它加進來</s></li></ul></li></ul><ul><li>堀井雄二
+<ul><li><s>想當律師卻轉職成遊戲製作人</s></li>
+<li><s><a href="/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%E7%B3%BB%E5%88%97" title="勇者鬥惡龍系列">勇者鬥惡龍系列</a>的本體二號</s></li>
+<li>雖然是以<a href="/%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%E7%B3%BB%E5%88%97" title="勇者鬥惡龍系列">勇者鬥惡龍系列</a>聞名，但是也有製做過《港口鎮連續殺人事件》這類型的解謎遊戲。
+<ul><li><s>人生街道根本就是做好玩的嘛！</s></li></ul></li></ul></li></ul><ul><li>櫻庭統
+<ul><li>業界知名的遊戲音樂製作人。</li>
+<li>原些都是接狼組的單子，但是狼組跟南夢宮鬧翻之後也一起出走。</li>
+<li><s>但狼組期間也沒做多少遊戲，所以只好接動畫音樂的單子</s></li></ul></li></ul><ul><li>五反田義治
+<ul><li>tri-Ace的老大。
+<ul><li>亦是狼組的領導者。</li></ul></li>
+<li>作品都是Enix發行，合併之後遊戲很自然由Square Enix發行。
+<ul><li><s>連CG都給他們做了</s></li></ul></li>
+<li>雖作品皆是Square Enix發行發行，但實際版權還是在tri-Ace的手上。</li></ul></li></ul><ul><li>高橋哲哉（前員工）
+<ul><li>早期<a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a>的開發人員。
+<ul><li>現在是Monolith Soft董事。</li>
+<li>即使離開Square，還是保持一定的聯繫。</li></ul></li>
+<li>對於地圖和機器人有著異樣的執著，其後的作品也都好有大量的機械要素。</li>
+<li>玩家們一輩子的遺憾。
+<ul><li>因為《<a href="/%E7%95%B0%E5%9F%9F%E7%B3%BB%E5%88%97#.E7.95.B0.E5.9F.9F.E7.A5.9E.E5.85.B5.EF.BC.88.E3.82.BC.E3.83.8E.E3.82.AE.E3.82.A2.E3.82.B9.EF.BC.89" title="異域系列">異域神兵</a>》遊戲版權在老東家手裡，想出正統續作/重製都難。</li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="逸聞"></span><span class="mw-headline" id=".E9.80.B8.E8.81.9E">逸聞</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=13" title="編輯章節：逸聞" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>由於1996年1月時當時的Square社，宣布在PlayStation上開發《Final Fantasy VII》。為了報復Square社，時任「任天堂」的社長山內溥決定把由Square社開發的遊戲《神龍奇兵》一次性全部出貨到中下游的遊戲販賣商家，使得《神龍奇兵》在市場上的價格大跌，造成Square的重大損失。</li>
+<li><s>真有你們的啊史克威爾艾尼克斯.gif</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="參見"></span><span class="mw-headline" id=".E5.8F.83.E8.A6.8B">參見</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=14" title="編輯章節：參見" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a rel="nofollow" class="external text" href="http://www.jp.square-enix.com/">官方網站</a></li>
+<li><a href="/%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E5%85%AC%E5%8F%B8" title="電子遊戲公司">電子遊戲公司</a></li>
+<li><a href="/%E5%87%BA%E7%89%88%E7%A4%BE" title="出版社">出版社</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=15" title="編輯章節：回應" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<p><a href="/%E8%A8%8E%E8%AB%96:Square_Enix" title="討論:Square Enix">討論:Square Enix</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=Square_Enix&amp;action=edit&amp;section=16" title="編輯章節：備註" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">不過ZUN已經在Taito被併購前離職，並將所有精力投入到<a href="/%E6%9D%B1%E6%96%B9Project" title="東方Project">東方Project</a>上</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">已離職，持有SQEX 6%股份</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">SQEX榮譽會長，持有20%的股份</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">2001年ENIX出版部門的高層與一部分老經驗的員工出走，創立Mag Garden（マッグガーデン），還帶走ENIX旗下多數主力作家如桜野みねね、木下さくら、天野こずえ、黒乃奈々絵、東まゆみ等人，在ENIX的連載作品則草草結束（如Star Ocean secend story）或是換個名字到Comic BLADE連載（Ex：AQUA➝ARIA、魔偵探洛基➝魔偵探洛基RAGNAROK、守護月天➝守護月天再逢、etc，有買中文版的話看封底的授權公司就知道了）。另外一批人跑去建了<s><a href="/%E7%99%BE%E5%90%88" title="百合">百合</a>社</s>一迅社，逃出升天。</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Final Fantasy XII和流浪者之歌</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">包括與<a href="/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97" title="最終幻想系列">最終幻想系列</a>無關的流浪者之歌</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">上国料（Kamikokuryou）勇（Isamu）。順帶一提，在上國料勇出身的鹿兒島，「上國料」這個姓似乎不算特別罕見。另外一個同姓的知名人還有アンジュルム的上國料萌衣。</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">就是在雷斯塔倫觀景台附近吃親子丼的女子，從旁邊看就可以讓伊格尼斯學會這道料理，總共會出現兩次。捏他來自製作人田畑端問她拿手菜是什麼的時候回答了親子丼。</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=Square_Enix&amp;oldid=411981">https://wiki.komica.org/index.php?title=Square_Enix&amp;oldid=411981</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/Square_Enix"
+				data-user-name="Sonata990"
+				data-user-gender="unknown"
+				data-timestamp="1663771387">
+				最後編輯於 2022年9月21日 (週三) 22:43
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=Square_Enix&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.076","walltime":"0.136","ppvisitednodes":{"value":220,"limit":1000000},"ppgeneratednodes":{"value":671,"limit":1000000},"postexpandincludesize":{"value":914,"limit":2097152},"templateargumentsize":{"value":455,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3086,"limit":5000000},"timingprofile":["100.00%   26.976      1 -total"," 28.06%    7.571      5 模板:Ref","  6.09%    1.642      1 模板:H0"]},"cachereport":{"timestamp":"20221109070646","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":469});});</script>		</body>
+		</html>
+		

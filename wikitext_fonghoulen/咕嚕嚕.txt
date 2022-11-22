@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>咕嚕嚕 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"咕嚕嚕","wgTitle":"咕嚕嚕","wgCurRevisionId":337576,"wgRevisionId":337576,"wgArticleId":36587,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"咕嚕嚕","wgRelevantArticleId":36587,"wgRequestId":"745a0d57e166e70d2ed2559a","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E5%92%95%E5%9A%95%E5%9A%95\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E5%92%95%E5%9A%95%E5%9A%95","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-咕嚕嚕 rootpage-咕嚕嚕 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E5%92%95%E5%9A%95%E5%9A%95" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">咕嚕嚕</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">咕嚕嚕（キュルル）</div>
+<table class="wikitable" style="margin:1.5em auto; text-align:center;"><tbody><tr><td><span style="color:red;background-color:;"><b>警告！本條目已發佈第一級<ruby>天藍怪<rp>（</rp><rt style="font-size:0.5em;"><span style="color:blue;background-color:;">KADOKAWA</span></rt><rp>）</rp></ruby>警報！</b></span>
+</td></tr><tr><td><b>以下內容含有故事劇透，沒看過動畫又不想被傳染<span style="color:red;background-color:;">人類惡</span>的請不要繼續看下去。</b>
+</td></tr><tr><td><b><span style="color:red;background-color:;">什麼?有這個人存在嗎?</span></b>
+</td></tr><tr><td><b>聲優是無辜的，請勿對她開罵。</b>
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="簡介"></span><span class="mw-headline" id=".E7.B0.A1.E4.BB.8B">簡介</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=1" title="編輯章節：簡介" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li><s>仿冒品</s>動畫「<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="動物朋友2">動物朋友2</a> 」的人類<s>惡</s>主角
+<ul><li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">製作人細谷的化身</span></s></li>
+<li><s><a href="/%E5%B0%BC%E7%88%BE_%E8%87%AA%E5%8B%95%E4%BA%BA%E5%BD%A2" title="尼爾 自動人形">出身於寄葉部隊</a>，<a href="/%E9%80%B2%E6%93%8A%E7%9A%84%E5%B7%A8%E4%BA%BA" title="進擊的巨人">待過調查兵團</a>，<a href="/%E9%8B%BC%E5%BD%88Build_Fighters" title="鋼彈Build Fighters">還是某個盛行作鋼彈模型的高中校花</a>，因傷退伍後在郵局擔任自動手記人偶，<a href="/%E3%83%88%E3%83%AD%E3%83%94%E3%82%AB%E3%83%AB~%E3%82%B8%E3%83%A5!%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2" title="トロピカル~ジュ!プリキュア">之後還當上光美了</a></s></li></ul></li></ul><ul><li><a href="/%E8%81%B2%E5%84%AA" title="聲優">CV</a>：<a href="/%E7%9F%B3%E5%B7%9D%E7%94%B1%E4%BE%9D" title="石川由依">石川由依</a>
+<ul><li><s>石川小姐真是<a href="/%E4%B8%8D%E5%B9%B8" title="不幸">倒楣</a>，居然配到這個角色（無誤）</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="個人資料"></span><span class="mw-headline" id=".E5.80.8B.E4.BA.BA.E8.B3.87.E6.96.99">個人資料</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=2" title="編輯章節：個人資料" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/%E6%AA%94%E6%A1%88:NotKaban.png.jpg" class="image"><noscript><img alt="NotKaban.png.jpg" src="/images/thumb/2/25/NotKaban.png.jpg/300px-NotKaban.png.jpg" width="300" height="400" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 400px;" data-src="/images/thumb/2/25/NotKaban.png.jpg/300px-NotKaban.png.jpg" data-alt="NotKaban.png.jpg" data-width="300" data-height="400" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:NotKaban.png.jpg" class="internal" title="放大"></a></div></div></div></div>
+<ul><li>出生在廢棄研究所的人類，為了回家<s>角川本部</s>而踏上旅程
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><b>性別:男</b></span></li>
+<li>身世背景完全不明，在動畫中隻字未提
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在2019年6月的設定中有提到他是天藍怪女王產下的第一個人類</span></li></ul></li></ul></li></ul><ul><li>名字來自肚子<s>烙賽</s>餓時的響音擬聲
+<ul><li><s>又稱為脫糞醬（プリュリュ）</s></li>
+<li><s>也有島民蔑稱其為「卡撐」</s><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><s>實際上就只是某隻天藍怪拉出來的屎</s></li></ul></li></ul><ul><li><s>偽物背包<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，在日本還有劣化版醬（れっかばんちゃん）的蔑稱</span></s></li>
+<li><s>日本有網友懷疑其實<b>他</b>是批著人皮的<a href="/%E6%A9%9F%E5%99%A8%E4%BA%BA" title="機器人">機器人</a></s></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實是某位製作人細谷的化身。</span></s></li></ul><h3 class="in-block"><span id="性格與形象"></span><span class="mw-headline" id=".E6.80.A7.E6.A0.BC.E8.88.87.E5.BD.A2.E8.B1.A1">性格與形象</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=3" title="編輯章節：性格與形象" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>外觀為有著一頭藍綠色頭髮，穿著藍外套黑襯衫和灰七分褲的人類
+<ul><li>戴著帽子並留著<a href="/%E9%A6%AC%E5%B0%BE" title="馬尾">馬尾</a></li></ul></li></ul><ul><li>動畫中個性令人相當不爽，在劇中種種行為被觀眾認為<b>表現出人類與動物的上下階級的對等關係</b>
+<ul><li>對第一次見面的人都不使用敬語也不加「さん（女士、小姐）」</li>
+<li>不斷向其他朋友強調自己是人類</li>
+<li>態度威壓</li>
+<li>不主動自我介紹自己</li>
+<li>曾讓藪貓掉進水中</li>
+<li>瞪著背包桑</li>
+<li>提出不公平的比賽被揭穿後無視</li>
+<li>怪罪救<b>他</b>命的獰猫跟無視奮不顧身的家犬醬…等</li></ul></li>
+<li>在漫畫版被徹底<a href="/%E6%8E%92%E6%AF%92" title="排毒">排毒</a>成正常的有禮貌<b>少年</b></li></ul><h3 class="in-block"><span id="能力"></span><span class="mw-headline" id=".E8.83.BD.E5.8A.9B">能力</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=4" title="編輯章節：能力" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>繪圖
+<ul><li>隨身攜帶一本<s>每次只能看一幅畫的</s>素描本<s>，解決問題有時都用那一本素描本做的東西完成</s>
+<ul><li><a href="/%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E4%B8%AD%E7%9A%84%E5%8A%A3%E7%AD%89%E7%94%9F" title="魔法科高中的劣等生"><s>さすキュル</s></a></li></ul></li>
+<li>每話最後會畫大家一起旅行的畫贈送給相助的朋友作為答謝<s>，最短16秒可以畫好一張（第1話目測）</s>
+<ul><li>第4話還不知道從哪裡拿出了剪刀</li></ul></li></ul></li>
+<li><b>製造天藍怪</b>
+<ul><li>從第10話發現天藍怪會對<b>他</b>的畫產生反應、並變化成與畫中Friends相應的外形<s>，與及Beast的目標是攻擊<b>他</b>來判斷，其真身可能不單純是人類，而是天藍怪甚至是天藍怪使者</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而後來的設定證明他和天藍怪的確有相當的關係。</span></li></ul></li>
+<li><s>表面上</s>會盡力完成Friends們<s>自己搞出</s>的問題<s>，但<a href="/%E7%B1%B3%E6%96%AF%E7%89%B9%E2%80%A7%E9%9B%B7%E5%85%8B%E6%96%AF" title="米斯特‧雷克斯">其實根本沒解決</a></s></li>
+<li><s>只憑自身行為就能引起眾人恨意的能力</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="萌屬性三小這角色有萌屬性？"></span><span class="mw-headline" id=".E8.90.8C.E5.B1.AC.E6.80.A7.E4.B8.89.E5.B0.8F.E9.80.99.E8.A7.92.E8.89.B2.E6.9C.89.E8.90.8C.E5.B1.AC.E6.80.A7.EF.BC.9F"><a href="/%E8%90%8C%E5%B1%AC%E6%80%A7" title="萌屬性">萌屬性</a><s>三小這角色有萌屬性？</s></span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=5" title="編輯章節：萌屬性三小這角色有萌屬性？" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><s>成為K島上完全沒萌屬性的人物...好啦勉強寫幾個</s></li>
+<li>馬尾<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">少年</span></li>
+<li>圓臉</li>
+<li><s><a href="/%E5%81%BD%E5%A8%98" title="偽娘">偽娘</a></s></li>
+<li><a href="/%E6%AD%BB%E5%B0%8F%E5%AD%A9" title="死小孩">死小孩</a>
+<ul><li>長相差+性格差，只會讓人萌生想把他揍一頓的慾望</li>
+<li><a href="/%E6%88%90%E5%8F%A5/%E4%BD%A0%E5%BE%9E%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E9%96%8B%E5%A7%8B%E7%94%A2%E7%94%9F%E4%BA%86%E2%97%8B%E2%97%8B%E7%9A%84%E9%8C%AF%E8%A6%BA%EF%BC%9F" title="成句/你從什麼時候開始產生了○○的錯覺？">你從什麼時候開始產生了這傢伙人品好的錯覺？</a></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">人類惡</span></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="經歷"></span><span class="mw-headline" id=".E7.B6.93.E6.AD.B7">經歷</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=6" title="編輯章節：經歷" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<h3 class="in-block"><span id="動畫版"></span><span class="mw-headline" id=".E5.8B.95.E7.95.AB.E7.89.88">動畫版</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=7" title="編輯章節：動畫版" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>起初對於角色本身的爭議不多，但在第7話<b>提出不公平的接力賽制被走鵑質疑，於是就不將她畫在回送的畫裡</b>的<s>疑似</s>報復行為引起網友不滿</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">第9話不但連熱心招待的家犬泡的茶動都沒動無視掉、不聽家犬的勸告擅自衝出去、看到為自己跟東北虎對抗而傷痕累累的家犬卻只關心了一下完全沒幫忙（連道歉都沒有），危機解除後只顧著稱讚藪貓、沒給受重傷的家犬治療（或讓同行者救助治療）、完全沒有慰留家犬就真的在她的要求下命令她一個人回家等行為，讓第9話突破了惡評新紀錄</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">至此<b>他</b>與《南家三姊妹》<s>黑歷史</s>第二季動畫的冬木、《<a href="/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B_ARC-V" title="遊☆戯☆王 ARC-V"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">遊戲王ARC-V</span></a>》的<a href="/%E6%A6%8A%E9%81%8A%E7%9F%A2" title="榊遊矢"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">遊矢</span></a>、《<a href="/School_Days" title="School Days"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">School Days</span></a>》的<a href="/%E4%BC%8A%E8%97%A4%E8%AA%A0" title="伊藤誠"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">伊藤誠</span></a>並列令人討厭的主角之列</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>然後次話就現世報失足墮海，可喜可賀</s></span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">11話掉進海裡<s>可惜沒溺死</s>，然後還知道<b>他</b>的畫就是罪魁禍首，<s>果然主角就是最終BOSS製造機</s></span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">花了一整季說自己找的家就是加帕里公園。然後12話還<s>大言不慚地</s>說自己最愛動物朋友了。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">12話片尾之後家犬一個人看的畫中居然出現<b>他</b>和未來、漫畫版主角奈奈、藪貓獰貓在一起的畫像</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在上述的WORLD展中售賣的明信片其中一張更是<b>他</b>和藪貓同床共<b>枕</b>的畫面</span></li></ul></li></ul><h3 class="in-block"><span id="漫畫版"></span><span class="mw-headline" id=".E6.BC.AB.E7.95.AB.E7.89.88">漫畫版</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=8" title="編輯章節：漫畫版" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>基本上大綱與動畫版差不多，但在動畫第四話開始的劇情呈現及細節上出現非常多的差異，本人性格上也跟動畫版相差很多<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><ul><li>值得注意的是，漫畫版中<b>他</b>與藪貓沒有太多的互動，跟咕嚕嚕比較多互動的只有獰貓。</li>
+<li>漫畫版還十分強調藪貓跟背包的羈絆，而且藪貓在跟背包相處時似乎還有回想起過去跟背包的回憶的傾向。
+<ul><li>以家犬事件為例，動畫版咕嚕嚕是被穿山甲和犰狳直接擄走，漫畫版則是穿山甲跟犰狳跟咕嚕嚕、藪貓以及獰貓溝通後，咕嚕嚕才選擇跟穿山甲她們一起去見家犬。
+<ul><li>在與家犬生活了一段時間後，藪貓跟獰貓才跟咕嚕嚕分開。</li></ul></li>
+<li>漫畫裡家犬泡的茶咕嚕嚕有喝下去（藪貓和獰貓也有一起喝），然後全員都吐了出來，因為實在太難喝了，因此咕嚕嚕和獰貓使用從背包那得到的茶葉，並利用從背包那學來的泡茶技巧泡了一壺茶招待了家犬和藪貓。
+<ul><li>家犬因為覺得泡了差勁的茶讓咕嚕嚕不滿意於是下跪磕頭道歉，不過咕嚕嚕並不在意。</li></ul></li>
+<li>在藪貓和獰貓離開後發現自己所要的家必須要有藪貓和獰貓在才可以的咕嚕嚕，在家犬的鼓勵下決定去把她們追回來；但在這時東北虎來襲並攻擊了咕嚕嚕的畫冊，卻被突然出現的巨大天藍怪吸進了體內。
+<ul><li>為了救出東北虎咕嚕嚕向穿山甲和犰狳提出委托，以加帕里饅頭為報酬請她們救出東北虎；但即使如此還是不敵天藍怪，穿山甲和犰狳以及家犬被天藍怪吸收只剩下咕嚕嚕。</li>
+<li>這時獰貓以類似野獸的姿態出現並打倒了天藍怪，在打倒天藍怪後獰貓也陷入了昏迷。</li></ul></li>
+<li>事後咕嚕嚕為了不讓朋友受傷、也因為認為獰貓是比家還重要的<ruby>朋友<rp>（</rp><rt style="font-size:0.5em;">Friends</rt><rp>）</rp></ruby>，於是便決定要回到莽原。
+<ul><li>覺得自己虧待家犬的咕嚕嚕向家犬道歉，因為自己不能就這樣跟她一起生活下去，但家犬也表示為了自己真正重要的人她願意繼續等待。</li>
+<li>咕嚕嚕向願意原諒自己的家犬道謝，家犬也表示要道謝的是自己才對，之後藪貓模仿咕嚕嚕和獰貓泡了一壺茶但卻被穿山甲和犰狳坐的椅子絆倒，結果茶撒到獰貓身上把她燙醒，就在咕嚕嚕要跟獰貓說些什麼的時候，背包透過Boss要咕嚕嚕一行人去賓館，並表示加帕利公園有危機發生…</li></ul></li></ul></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="其他"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96">其他</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=9" title="編輯章節：其他" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>因為劇情後半的各種白目表現，被觀眾冠上了「咕嚕渣（キュルカス）」的<s><a href="/%E6%AD%BB%E5%B0%8F%E5%AD%A9" title="死小孩">死小孩</a></s>外號
+<ul><li>大概是因為容易引起筆戰、本身是負面蔑稱<s>以及會打到真フレ臉</s>關係等原因，於<a rel="nofollow" class="external text" href="https://dic.nicovideo.jp/a/%E3%82%AD%E3%83%A5%E3%83%AB%E3%82%AB%E3%82%B9">NICO</a>及<a rel="nofollow" class="external text" href="https://dic.pixiv.net/a/%E3%82%AD%E3%83%A5%E3%83%AB%E3%82%AB%E3%82%B9">Pixiv百科</a>建立的キュルカス條目曾經被一時刪除<s>雖然只要估狗一下就能找到頁面庫存</s><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li>在第7話的嘲諷性笑容也成為了惡搞素材</li>
+<li><s>然而<a rel="nofollow" class="external text" href="https://www.bilibili.com/video/av62452423/">有人以NICO上的彈幕為藍本將<b>他</b>給整形</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>，反而整形後的模樣卻得到不少正面評價（影片最後部份），果然同一份材料給不同人做結果也會不同</s></li>
+<li>之後祝詞兄貴也將之設定大改成「友繪」，結果人氣凌駕於本尊之上，詳見<a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2%E8%A3%BD%E4%BD%9C%E5%9C%98%E9%9A%8A%E6%9B%B4%E6%8F%9B%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6#.E5.8B.95.E7.89.A9.E6.9C.8B.E5.8F.8B2.E4.B9.8B.E5.BE.8C" title="動物朋友2製作團隊更換炎上事件">炎上事件專條</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=10" title="編輯章節：相關連結" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li><a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B2" title="動物朋友2">動物朋友2</a></li>
+<li><a href="/%E5%8B%95%E7%89%A9%E6%9C%8B%E5%8F%8B/%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%A3%BD%E4%BD%9C%E5%9C%98%E9%9A%8A%E6%9B%B4%E6%8F%9B%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6" class="mw-redirect" title="動物朋友/第二季製作團隊更換炎上事件">動物朋友/第二季製作團隊更換炎上事件</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=11" title="編輯章節：回應" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="pcomment-insert" data-number="" data-section="1" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:%E5%92%95%E5%9A%95%E5%9A%95" title="討論:咕嚕嚕">討論:咕嚕嚕</a>|number=|section=1}}</div>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;action=edit&amp;section=12" title="編輯章節：備註" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://i.imgur.com/uXs2Pk4.jpg">由來見此</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">表現得比較體貼Friends，在得知野獸朋友的真相後留下「東北虎想必很孤獨」的感嘆</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">19年4月8日時點P百條目因爭議問題而被暫時白紙化</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">主要調整點包括延長前髮以蓋過額頭、稍微調整雙眼間隔、修改服裝顏色<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">還有性轉</span></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=咕嚕嚕&amp;oldid=337576">https://wiki.komica.org/index.php?title=咕嚕嚕&amp;oldid=337576</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E5%92%95%E5%9A%95%E5%9A%95"
+				data-user-name="蘭斯特"
+				data-user-gender="female"
+				data-timestamp="1632839209">
+				最後編輯於 2021年9月28日 (週二) 22:26
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E5%92%95%E5%9A%95%E5%9A%95&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.166","ppvisitednodes":{"value":462,"limit":1000000},"ppgeneratednodes":{"value":1263,"limit":1000000},"postexpandincludesize":{"value":7136,"limit":2097152},"templateargumentsize":{"value":2556,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1482,"limit":5000000},"timingprofile":["100.00%   61.129      1 -total"," 19.04%   11.636     20 模板:Censored"," 10.75%    6.572      2 模板:Ruby"," 10.65%    6.513      4 模板:Color","  8.44%    5.157      1 模板:Pcomment","  1.85%    1.130      1 模板:H0"]},"cachereport":{"timestamp":"20221001101051","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":330});});</script>		</body>
+		</html>
+		

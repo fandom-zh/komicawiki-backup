@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>CAVE射擊遊戲 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"CAVE射擊遊戲","wgTitle":"CAVE射擊遊戲","wgCurRevisionId":421428,"wgRevisionId":421428,"wgArticleId":5525,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"CAVE射擊遊戲","wgRelevantArticleId":5525,"wgRequestId":"ee5b098895b38e4fa986031b","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-CAVE射擊遊戲 rootpage-CAVE射擊遊戲 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">CAVE射擊遊戲</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">CAVE（ケイブ）射擊遊戲系列/凱樂數位<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><s>/人類畢業考核機構/人類之敵/首領蜂隊本部/EVAC Industry/手遊大廠EVAC</s> </div>
+<div class="floatright"><a href="/%E6%AA%94%E6%A1%88:Img5030.jpg" class="image"><img alt="Img5030.jpg" src="/images/thumb/7/7e/Img5030.jpg/150px-Img5030.jpg" width="150" height="169"></a></div>
+
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>日本<a href="/%E9%9B%BB%E5%AD%90%E9%81%8A%E6%88%B2%E5%85%AC%E5%8F%B8" title="電子遊戲公司">電子遊戲公司</a>之一，開創了以彈速慢但子彈頻密的「<a href="/%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2#.E5.BD.88.E5.B9.95.E7.B3.BB.2FDanmaku_Shooters" title="射擊遊戲">彈幕STG</a>」先河的廠商，通常被稱為「洞窟社」
+<ul><li>有關彈幕STG的詳細介紹可見上面連結或<a href="https://en.wikipedia.org/wiki/ja:%E5%BC%BE%E5%B9%95%E7%B3%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0" class="extiw" title="wikipedia:ja:弾幕系シューティング">維基條目</a>，此處不另作介紹</li>
+<li><a rel="nofollow" class="external text" href="http://www.cave.co.jp/">官網</a></li></ul></li></ul><ul><li>除業務機台外，也有製作手機遊戲、<a href="/RPG" title="RPG">RPG</a>（如協力製作真女神轉生Imagine）、AVG等，也有做流行宣傳和販賣首飾等遊戲外的工作
+<ul><li>大部分STG部門員工為前「東亞PLAN」的職員，曾與Atlus、IGS、ARIKA、5pb.等廠商合作</li></ul></li></ul><ul><li><s>不時在遊戲裡（如Boss警告、暫停畫面、版權宣示等）拼錯英文字，例子如ケツイExtra的「Repaly」</s></li>
+<li><s>擅長製作公式MAD、糟糕影片、奇妙周邊和表演， <a href="http://www.nicovideo.jp/watch/sm1058967" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm1058967">會在宣傳女郎載歌載舞時丟一個大叔（墮天使）進場贈興</a>，<a href="/%E5%85%AC%E5%BC%8F%E3%81%8C%E7%97%85%E6%B0%97" title="公式が病気">整家公司都是走惡趣味路線</a>（無誤）</s>
+<ul><li>PV專用tag：ケイブPVシリーズ</li></ul></li></ul><ul><li>每年都會舉辦一至兩次「CAVE祭」，以售賣專售品及舉行開發人員講座/簽名會為主
+<ul><li>後來的專賣品也會在CAVE祭期間提供網上訂購（現在則常時開放）</li>
+<li><s>CAVE祭第一天便沽清商品，網上商店頁面變成error頁面可謂司空見慣</s></li>
+<li>一度停辦，但後來在魔法乙女的成功下再次開始舉辦</li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">可以在現場買到各種<a href="/images/9/9a/Cave%E5%91%A8%E9%82%8Asmall2.jpg" class="internal" title="Cave周邊small2.jpg">奇妙周邊</a>，例如布魯馬圖案的糖果、角色砧板、以及<b>妹汁和白果醬</b></span></s></li></ul></li></ul><ul><li>2011年2月被金氏世界紀錄認定為世界製作出最多彈幕射擊遊戲的遊戲製作商、並列入金氏世界紀錄大全之中<br><div class="center"><div class="floatnone"><a href="/%E6%AA%94%E6%A1%88:Img5029.jpg" class="image"><noscript><img alt="Img5029.jpg" src="/images/thumb/b/b3/Img5029.jpg/150px-Img5029.jpg" width="150" height="212"></noscript><span class="lazy-image-placeholder" style="width: 150px;height: 212px;" data-src="/images/thumb/b/b3/Img5029.jpg/150px-Img5029.jpg" data-alt="Img5029.jpg" data-width="150" data-height="212"> </span></a></div></div></li></ul><ul><li>早期作品中在前幾面出現的雜魚到後來就會被強化，而部份作品的前幾面中頭目到後面會在道中出現弱化版（大多是血量減少、沒有第二階段）</li>
+<li>由《怒首領蜂》開始，旗下STG不少隱藏（大部分是二周目）的最終Boss會有對應玩家放Bomb時作出對應的防禦行為（如張開護罩）的特質，強調玩家需要利用自己的技術取勝。這種Boss都被Cave迷們稱為「真Boss」
+<ul><li>通常真Boss在出場一定時間後就會<a href="/%E8%87%AA%E7%88%86" title="自爆">自我毀滅</a><s>，所以不會有真Boss一直玩弄玩家的情形</s></li></ul></li></ul><ul><li><s>公司的真Boss：内藤那津子</s>
+<ul><li>愛稱：那津子おねえさん</li>
+<li>CAVE社內的強力作曲家，但是也會作出歌詞有病的遊戲宣傳歌，例如 <a href="http://www.nicovideo.jp/watch/sm18111313" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm18111313">レコde唱歌</a>（パズル！虫姫たま）、 <a href="http://www.nicovideo.jp/watch/sm32983" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm32983">むちぽーきゅ！</a>（むちむちポーク！）、 <a href="http://www.nicovideo.jp/watch/sm2391972" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm2391972">どどんぱち大音頭</a>（怒首領蜂 大復活）<s>30秒後就變成流行曲的盆踊</s>、 <a href="http://www.nicovideo.jp/watch/sm6213631" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm6213631">Death X'mailes</a>（デススマイルズII 魔界のメリークリスマス）</li>
+<li>也有擔任官方某些有病解說影片的<a href="/%E8%A7%A3%E8%AA%AA%E5%93%A1" title="解說員">解說員</a>（影片裡只出現雙手）</li>
+<li>似乎已經離職了<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li></ul></li></ul><ul><li>《大往生》之前的遊戲，官網大部分都已經無法查詢（或根本沒有架設），所以敵人名稱沒人清楚
+<ul><li>《怒首領蜂》則是例外，因為《大復活》官網有提到它們的名稱</li></ul></li></ul><ul><li><s>手遊大廠EVAC</s>
+<ul><li>早在智慧型手機出現之前，CAVE就已經在傳統手機裡製作和移植自家STG了<s>，究竟他們是怎樣把彈幕塞進小手機裡的？</s></li>
+<li>在《最大往生》後宣布<s>不再製作STG遊戲…才怪</s>（池田恒基有表示過「必定會回來」）退出家機及街機市場，現轉為主力研發<a href="/%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%81%8A%E6%88%B2" title="智慧型手機遊戲">智慧型手機遊戲</a>及線上占卜<s>，然而轉型後推出的手遊除了魔法乙女這個STG以外沒一個能盈利的</s></li>
+<li>同時也與Degica、exA、LiveWire等廠商合作，把過去的STG作品移植到<a href="/Steam" title="Steam">Steam</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>及PS4<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>、Switch<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>等新世代遊戲平台上</li>
+<li>2021年4月16日開設台灣分公司，7月13日確認要開發<b><a href="/%E6%9D%B1%E6%96%B9Project" title="東方Project">東方Project</a>的授權二創新作</b>，預定於2022年推出。<s>但從聲明書來看，這個新作怎麼看都是要做成STG手遊來接魔法乙女的位置的……而同年八月下旬開設的調查不僅完全針對東方眾更疑似有做成非STG的跡象……</s>
+<ul><li>2022年4月的財務報告中提到目前已經完成初步企劃階段，並開始集中到<b>射擊部分</b>的基幹，7月宣布將與ナダHD合作以手機遊戲的形式推出</li>
+<li>順帶一提其公告還<b>稱呼東方Project為STG界的金字塔</b><s>讓人不勝唏噓</s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">此外在轉型到手遊研發後，旗下的主力員工（淺見隼一<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>、木村浩之<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>、田中周幸<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>、松本大輔<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>）除了<s>吉祥物</s>IKD外都紛紛出走......</span></li>
+<li>2021年原本預定還要再和其他公司合作推出一款手遊作品，然而該企劃於2022年4月中正式宣告胎死腹中。而台灣分公司也預計於同年7月收攤。</li></ul></li></ul><ul><li><s>反人類組織的代名詞</s>
+<ul><li><s>源自中國戰國時代秦國的一位名為荊武的暗殺高手，擅使名為<b>斷間狗</b>的毒針</s></li></ul></li></ul><pre>斷間狗…古代中國戰國時期、秦國的密探荊武所創的暗殺術。
+
+荊武在身上設置了塗上劇毒的飛針發射器，在他潛伏敵國盜取重要軍情的期間無
+論男女老少只要有敵國的人發現他的偵察行為，就立刻無情的發射出毒針來暗殺
+該人，絲毫不講任何情面。
+
+由於發射器會在瞬間射出無法計算的毒針，針也可以按照敵方氣息來準確射入體
+中，難以閃躲的程度可說是百發百中的令人防不勝防。
+
+而射入體內後針上的劇毒即刻發作，令對方除了不【斷】發出如同見到無【間】
+地獄中鬼魔般無與倫比的悲鳴，並且全身會扭曲的和【狗】一樣的悽慘死法，因
+此荊武的毒針被江湖 稱為「斷間狗」，為武林中人所懼。
+
+時至今日，會在一瞬間發出大量子彈的一種被稱作「CAVE」射擊遊戲，就是源
+自於荊武名字的轉音；而他聞名天下的獨門暗器「斷間狗」也被認為是「彈幕」
+的起源…似乎也有人這麼認為。
+
+　　　　　　　　本文引用自<a href="/%E6%B0%91%E6%98%8E%E6%9B%B8%E6%88%BF" title="民明書房">民明書房</a>出版刊物《中國暗殺術與射擊遊戲的淵源》
+</pre>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="有名作品"></span><span class="mw-headline" id=".E6.9C.89.E5.90.8D.E4.BD.9C.E5.93.81">有名作品</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=2" title="編輯章節：有名作品" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span id="首領蜂系列"></span><span class="mw-headline" id=".E9.A6.96.E9.A0.98.E8.9C.82.E7.B3.BB.E5.88.97">首領蜂系列</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=3" title="編輯章節：首領蜂系列" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>為CAVE的當家系列，系列第二作《怒首領蜂》創立了彈幕STG的基本形式。</li>
+<li>主要特徵：連擊系統、以蜜蜂為主題設計的部分敵人和道具、充滿威嚴的大佐、加強自身火力的Hyper系統、美少女機娘、名字讀音為Hibachi的真Boss<s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">、自家人互相殘殺</span></s>等……</li>
+<li><b>死ぬがよい</b></li></ul><h4 class="in-block"><span id="首領蜂"></span><span class="mw-headline" id=".E9.A6.96.E9.A0.98.E8.9C.82">首領蜂</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=4" title="編輯章節：首領蜂" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CAVE第一個射擊作品，尚未出現日後成為CAVE代名詞的濃厚彈幕特質</li>
+<li>劇情：</li></ul><pre>為了打造出最強的軍隊，聯邦軍隊進行了一場大規模軍事演習：其內容為設立一群偽裝成敵對外星人軍團的假想敵，再讓不知道敵人真身的我方向他們進攻，換言之其就是藉由自相殘殺來篩選出最強悍的軍人。
+而收到首領命令的玩家，以假想敵身份駕駛戰鬥機，執行將己方軍隊全力殲滅的殘酷任務……
+</pre>
+<ul><li>有三種機體可選擇，都可以將子機放到前方做集中攻擊<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><ul><li>紅色機體的攻擊為直線，子機在前方</li>
+<li>綠色機體的攻擊為直線，子機在兩側，會隨移動改變攻擊方向</li>
+<li>藍色機體的攻擊為散射，子機在兩側</li></ul></li></ul><ul><li>Bomb效果會隨目前攻擊狀態改變
+<ul><li>不攻擊/散射時為全螢幕消彈且攻擊力小</li>
+<li>用雷射時為強化版的雷射，火力強大但僅限雷射和身旁能量接觸到的子彈會被消去</li>
+<li>本作上限為7個</li></ul></li></ul><ul><li>道中有特殊的收集道具「蜂」，用散射會閃爍標示位置，用雷射頭或散射Bomb（僅限此作可以）才可取得</li></ul><ul><li><s>旁白以及Boss戰提示文字充滿各種粗口，外加旁白口音獨特的激勵式口吻使遊玩過程中充滿趣味</s><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li></ul><ul><li>最終Boss：Doomsday Machine<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li>有二周目及專用最終Boss，沒有進入條件
+<ul><li>二周目敵人沒有強化，但擊破後會出現大量的擊返彈攻擊玩家<s>，理所當然會出現打倒最終Boss卻被擊返彈打死、導致見不到真Boss和結局的悲歌</s></li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結局表示了首領蜂隊就是在這場持續長達七年的戰爭中勝利的菁英所建立的</span></li></ul><h4 class="in-block"><span id="怒首領蜂"></span><span class="mw-headline" id=".E6.80.92.E9.A6.96.E9.A0.98.E8.9C.82">怒首領蜂</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=5" title="編輯章節：怒首領蜂" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>史上第一個擁有「彈幕遊戲」四大特徵的遊戲，通常在系列作討論中簡稱「無印」
+<ul><li>據IKD的說法，由於受到《Battle Garegga》二面BOSS攻擊的影響而決定製作一款子彈滿天飛的遊戲</li></ul></li></ul><ul><li><ul><li>從本作起《首領蜂》系列一、二周目的結局各有不同
+<ul><li>在一周目完成後向玩家宣言<b>「死ぬがよい」</b><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>的「シュバルリッツ・ロンゲーナ大佐」<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>可謂是系列名物</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">同時シュバルリッツ・ロンゲーナ大佐為何會執行這個詭異的計畫，連主角也無法理解<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></span></li></ul></li></ul></li></ul><ul><li>一樣有三種機體，不過這次新增個別的武器強化（分別為Shot和Laser）</li>
+<li>初始Bomb為3個，每被擊墜一次增加一個
+<ul><li>若在Bomb全滿或是Bomb槽缺一個的情況下取得Bomb道具，會進入「MAXIMUM」狀態，在道中時會進行加分，但此狀態不算是一個Bomb</li></ul></li>
+<li>第四、五、六面的BGM個別使用第一、二、三面</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">一開始的領航機在大復活再次登場，最後在二周目被敵人打爆。結局是由大往生的母艦回收</span></li></ul><ul><li>有另一種<a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=Jzg9S64B14k">「青版」</a>，為當時射擊遊戲大賽冠軍的獎品
+<ul><li>相較於原版更改了不少關卡配置及提升難度，還出現了《大往生》的EX強化以及Hyper系統</li></ul></li></ul><ul><li>二周目條件（僅限一幣通一周目，達成其中一項即可）：
+<ol><li>5000萬分以上</li>
+<li>Miss兩次以內</li>
+<li>全收四個關卡以上的「蜂」標誌</li>
+<li>各機體最大連擊數：
+<ul><li>TYPE-A：270Hit以上</li>
+<li>TYPE-B：300Hit以上</li>
+<li>TYPE-C：330Hit以上</li></ul></li></ol></li></ul><ul><li>各關卡Boss：
+<ul><li>Stage 1：試作大型制空戰鬥機 凄驅08<s>名稱不合群</s></li>
+<li>Stage 2：據點防衛用巨大戰車 閃光</li>
+<li>Stage 3：大型驅逐艦 火光</li>
+<li>Stage 4：大型戰鬥艦 雷光</li>
+<li>Stage 5：大型爆擊艦 嵐光</li>
+<li>Stage 6：大型重機動艦 龍光</li>
+<li>Stage 7：最終鬼畜兵器 蜂
+<ul><li>開創「最終鬼畜」名號在<a href="/ACG" title="ACG">ACG</a>上的開始</li></ul></li></ul></li></ul><ul><li>真Boss：<b>火蜂</b>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">戰場其實與一面是同一個地方</span></li>
+<li>本作之後系列的真Boss皆以「HIBACHI」命名</li></ul></li></ul><ul><li>在同社的AVG《Instant Brain》裡有收錄本作，而且<b>可以使用Kinect（體感裝置）遊玩</b>⋯…
+<ul><li> <a href="http://www.nicovideo.jp/watch/sm18619836" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm18619836">百聞不如一見</a></li>
+<li><s>怒首領蜂才是遊戲的<a href="/%E6%9C%AC%E9%AB%94" title="本體">本體</a></s></li>
+<li><s>（腕が）死ぬがよい</s></li></ul></li></ul><h4 class="in-block"><span id="怒首領蜂II/蜂暴"></span><span class="mw-headline" id=".E6.80.92.E9.A6.96.E9.A0.98.E8.9C.82II.2F.E8.9C.82.E6.9A.B4"><a rel="nofollow" class="external text" href="http://www.igs.com.tw/chinese/product/bee/index.htm"><s>怒首領蜂II/蜂暴</s></a></span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=6" title="編輯章節：怒首領蜂II/蜂暴" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>由台灣的IGS製作<s>的（玩家公認的）<a href="/%E9%BB%91%E6%AD%B7%E5%8F%B2" title="黑歷史">黑歷史</a>外判作</s>
+<ul><li>使用基板也是由IGS開發的PGM基板</li>
+<li>日版的在地化翻譯略差，因此部分玩家也戲稱其為IGS語</li></ul></li></ul><ul><li>唯一（？）有開頭動畫的一作，少數沒有二周目的系列作品</li>
+<li>首次出現難易度選擇（簡單模式只能遊玩前4關）</li>
+<li>本作Laser Bomb改以能量模式使出
+<ul><li>必須以擦彈來增加量表，也是系列作少有的擦彈系統</li></ul></li>
+<li>在遊戲途中按Start鍵，可像《Battle Garegga》一樣切換子機的攻擊模式</li></ul><ul><li>與原系列作相比，一般難度的彈幕密度確實薄了很多（雖然困難（網路排名）模式的彈幕密度仍相當於原系列作水準），每面關底Boss的血量卻是異常的厚，唯一討好的地方就只有BGM…
+<ul><li>而且若仔細看的話會發現有些物件是從《怒首領蜂》搬過來<s>分明偷懶</s><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>，當然也有自創物件<s>像是STG史上最強金屬網</s></li></ul></li></ul><ul><li>一面<s>（其實應該叫Prologue）</s>Boss「首領蜂」是前作的「最終鬼畜兵器 蜂」，但<s>因劇情因素</s>被弱化了許多<s>，所以放心不會有火蜂</s></li></ul><ul><li>真Boss：<b>未知祕蜂</b><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><ul><li>突入條件：玩家分數達到4億分（可在機台調整成2-5億或8億）</li>
+<li>沒有對Bomb對策，另外只要穩穩地待在Boss上方的安地持續攻擊即可輕鬆過關</li></ul></li></ul><ul><li>過關後沒有顯示Result，只顯示以下文字，之後再進入下一關：<br><div style="text-align:center;">淨化<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></div><div style="text-align:center;"><br>-KO-<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></div><div style="text-align:center;">完勝<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></div><div style="text-align:center;">PERFECT</div>
+<ul><li><s>未知祕蜂被擊破時<a href="/Niconico" title="Niconico">Niconico</a>上<a href="/%E9%AB%98%E9%81%94%E5%85%AB%E6%88%90" title="高達八成">高達八成</a>會出現的彈幕</s></li></ul></li></ul><ul><li>雖然是（玩家公認的）系列黑歷史，但因為本作的熱門導致CAVE當時的街機事業得以繼續經營，甚至本作的部分要素也沿用至後期作品並加以改良。
+<ul><li>其實CAVE有認定它為蜂系列<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li></ul></li></ul><h4 class="in-block"><span id="怒首領蜂_大往生"></span><span class="mw-headline" id=".E6.80.92.E9.A6.96.E9.A0.98.E8.9C.82_.E5.A4.A7.E5.BE.80.E7.94.9F">怒首領蜂 大往生</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=7" title="編輯章節：怒首領蜂 大往生" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><s>第一部加入萌要素的首領蜂系列作</s></li>
+<li>劇情：</li></ul><pre>在一千年前……上古的文明國家創造出了能夠自主戰鬥的機械軍團，開始了不流一滴人血、只產出機器硝煙的無人世界大戰；但最終這場戰爭演變成了無人能控制的自相殘殺。
+因為此事失去了一切的人類為了不讓悲劇重演，用盡一切手段將機械軍團封印在了月球上。
+
+千年時光在彈指之間匆匆飛逝，到了現在，科技發展已經達到了可以把一切人類無法勝任的困難工作，交給機器人來做的程度。
+但這時有報告指出月球出現了異常情況：被封印在月球上的機械軍團開始蠢蠢欲動了。
+是有人故意解開它們的封印嗎？還是機械軍團本身的自我意志造成的？
+掌握情報後，聯合國軍隊得知甦醒的機械軍團已經開始整頓部隊，以地球為目標出擊；為了先發制人，軍隊便決定對月球的首都月華橋（Lunar Polis）進行先制攻擊。
+
+在參加這次戰爭的戰鬥員中，包括了一些能夠強化戰鬥機，直接連結在機體下方的女性機械領航員「元素人偶」。
+元素人偶的型號、形象和性格各有差異，她們的存在使戰鬥機的強化變得容易，是實戰中不可缺少的戰鬥機的領航員。
+但是一個矛盾就此產生了。
+
+人類再一次重演了以機械對抗機械的錯誤……
+</pre>
+<ul><li>自機只剩下兩種可選：TYPE-A/TYPE-B （TYPE-B為《怒首領蜂》的TYPE-C）
+<ul><li>TYPE-A的攻擊比較偏集中，移動速度快</li>
+<li>TYPE-B的攻擊比較偏散射，移動速度慢</li></ul></li></ul><ul><li>子機的配置由裝在自機上的<s>老婆</s>元素人偶決定，一共有三種強化模式：
+<ul><li>SHOTIA強化子機在兩側偏後，強化<s>炸彈</s><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>散射；初始Bomb有3個，最大6個</li>
+<li>LEINYAN強化的子機在前方環繞自機，強化雷射；初始Bomb有2個，最大4個</li>
+<li>EXY強化的子機在兩側，散射、雷射都有強化<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>；初始Bomb有1個，最大2個</li></ul></li></ul><ul><li>追加Hyper系統，每當集積Combo或吃下蜂item時便會累積Hyper計，滿1條後便會有Hyper Item從畫面上方緩慢下降，拾取後按B會由Hyper模式代替原本的Bomb
+<ul><li>開啟Hyper後會有全畫面消彈及極短的無敵時間</li>
+<li>使用後敵人彈速會加快，被彈後會恢復原本彈速</li>
+<li>雖然不明顯，但Hyper Item的數量越多Hyper模式的火力會越強（第一個提高100%，之後每個再提高25%）</li></ul></li></ul><ul><li>有「白標（無印）」和「黑標（Black Label）」兩種版本，白標彈速較快、自機火力較高，而黑標的彈幕量較多
+<ul><li>白標在進入二周目後會沒收所有殘機，每過一關提供一個，無法接關
+<ul><li>黑標就是因為白標實在太刁難人而衍生出來</li></ul></li></ul></li></ul><ul><li>仔細觀察可以發現不少場景都在《怒首領蜂》裡出現過
+<ul><li>像是《怒首領蜂》的一面中Boss和Boss均以被擊墜的模樣出現在五面背景，而嵐光戰時的背景則是「最終鬼畜兵器」的戰場</li>
+<li>淒驅登場時的跑道是《怒首領蜂》四面的背景</li></ul></li></ul><ul><li>BGM的名字全都是向STG同行致敬
+<ul><li>選擇自機畫面：「<ruby>霧警<rp>（</rp><rt style="font-size:0.5em;">NMK</rt><rp>）</rp></ruby>」<br>關卡名：「<ruby>東亞<rp>（</rp><rt style="font-size:0.5em;">東亞Plan</rt><rp>）</rp></ruby>」、「<ruby>彩虹<rp>（</rp><rt style="font-size:0.5em;">彩京</rt><rp>）</rp></ruby>」、「<ruby>凄舞<rp>（</rp><rt style="font-size:0.5em;">SEIBU開發</rt><rp>）</rp></ruby>」、「<ruby>錯節<rp>（</rp><rt style="font-size:0.5em;">SUCCESS</rt><rp>）</rp></ruby>」、「<ruby>胎慟<rp>（</rp><rt style="font-size:0.5em;">TAITO</rt><rp>）</rp></ruby>」<br>Boss戰：「<ruby>焚身<rp>（</rp><rt style="font-size:0.5em;">Takumi</rt><rp>）</rp></ruby>」<br>過關結算：「<ruby>獲者<rp>（</rp><rt style="font-size:0.5em;">Treasure</rt><rp>）</rp></ruby>」<br>Game Over：「<ruby>頼尽<rp>（</rp><rt style="font-size:0.5em;">Raizing</rt><rp>）</rp></ruby>」<br>名字輸入畫面：「<ruby>哀夢<rp>（</rp><rt style="font-size:0.5em;">IREM</rt><rp>）</rp></ruby>」</li>
+<li>「黃流」、「緋蜂」、「大往生」這三首除外</li></ul></li></ul><ul><li>二周目條件（僅限一幣通一周目，達成其中一項即可）：
+<ol><li>Miss兩次以內</li>
+<li>Bomb使用三次以下</li>
+<li>全收三個關卡以上的「蜂」標誌</li></ol></li></ul><ul><li>各關卡Boss：
+<ul><li>Stage 1「月・首都 <ruby>月華僑<rp>（</rp><rt style="font-size:0.5em;">ルナポリス</rt><rp>）</rp></ruby>」：大型制空戰鬥機  凄驅</li>
+<li>Stage 2「濕地帶」：局地用浮揚戦車  百虎</li>
+<li>Stage 3「月上空（衛星軌道上）」：軌道衛星防衛艦  嚴武
+<ul><li><s>人類畢業測驗考官（二週目起）</s></li></ul></li>
+<li>Stage 4「坑道」：局地用浮揚戰艦  逝流</li>
+<li>Stage 5「蜂の巢」<s>真Boss的前座的前座</s>：最終鬼畜兵器  黃流
+<ul><li>與《怒首領蜂》七面Boss的<a href="/%E7%A8%B1%E8%99%9F" class="mw-redirect" title="稱號">稱號</a>相同，有人認為黃流就是正在修復的「蜂」</li></ul></li>
+<li>Stage 5（二週目追加<s>真Boss的前座</s>）：黃流第二型態</li>
+<li>名稱都由中國五行聖獸（朱雀、白虎、玄武、青龍、黃龍）的日文發音演變而來</li></ul></li></ul><ul><li>真Boss：<b>極殺兵器 緋蜂</b>
+<ul><li>PS2移植版「Death Label」裡有變成兩隻的升級版：<b>緋蜂改</b>及<b>真緋蜂改</b></li>
+<li>Xbox360版「Black Label Extra」裡在最後會「真正發狂」，射出無法藉由HYPER消彈的彈幕（同樣是洗衣機）</li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">劇情上雖然最後藉由元素人偶的強行駭入，讓玩家得以擊破黃流或緋蜂，但是那些元素人偶的下場都一個比一個慘：被病毒搞到報廢（Shotia、Piper）、將自己的主人殺死（Exy）等等</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而Leinyan雖然因為得知機密資料被強行與自己的主人分離，但在玩家的努力駭入下，最後Leinyan得以進入網路世界與自己的愛人團聚；和其他元素人偶比起來算是沒那麼慘的一個。</span></li></ul></li></ul><ul><li>PS2移植版新增實為<a href="/Boss_rush/%E9%AD%94%E7%8E%8B%E5%BE%A9%E6%B4%BB%E6%88%B0/%E3%83%9C%E3%82%B9%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5" class="mw-redirect" title="Boss rush/魔王復活戰/ボスラッシュ">Boss Rush</a>的「Death Label Mode」，雖然如此但難度比一般模式更難，由於難度之高，自遊戲發售後足足2718日<a rel="nofollow" class="external text" href="http://moon.ap.teacup.com/qwertyuiop/1244.html">才有人成功全破</a>
+<ul><li>一周目就相當於黑標版二周目的難度，只是在開幕前會提供5個HYPER Item，而且每通一關提供一殘機</li>
+<li>二周目開始才是真正的難點所在：
+<ol><li>移除所有殘機，過關亦不會提供殘機</li>
+<li>使用Bomb會使敵人回血（回復量和殺傷力相同）</li>
+<li>移除開場時的HYPER Item補給</li>
+<li>敵人固定在最高彈速</li>
+<li><b>真緋蜂改部分彈幕的彈數加倍</b></li></ol></li></ul></li></ul><ul><li><s>5pb.偷Death Label資料搞移植的</s>Black Label Extra新增「X Mode」，新增一名機娘「PIPER」（初始為1HYPER強化，只能在這模式選擇）
+<ul><li>可藉由Hyper開啟消彈攻擊（與《大復活》類似，但不限定散射或是集中模式），但仍有消不掉的子彈（如神顎和雷光的雷射、嵐光的炸彈）</li>
+<li>SHOT、LASER和HYPER的強化模式只需一個HYPER Item（EXY則需要兩個）就可直接進入消彈攻擊模式</li>
+<li>剛推出時因讀取速度過慢、雙人遊玩有時會沒有子機等Bug，現在只需要用XBOX LIVE進行遊戲就可自動下載修正檔
+<ul><li>因為Bug太過嚴重而幾乎使CAVE跟5pb.決裂</li></ul></li></ul></li></ul><ul><li>智慧型手機版為白標，自動Bomb會將炸彈槽清空</li></ul><ul><li>有翻譯成簡體中文版本的「魂」版，採用黑標版本
+<ul><li>只有一周目，不過能選擇難度</li></ul></li></ul><h4 class="in-block"><span id="怒首領蜂_大復活"></span><span class="mw-headline" id=".E6.80.92.E9.A6.96.E9.A0.98.E8.9C.82_.E5.A4.A7.E5.BE.A9.E6.B4.BB">怒首領蜂 大復活</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=8" title="編輯章節：怒首領蜂 大復活" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><s>封面捏碎的是Type-C，請不要搞錯成<a href="/%E9%9B%B7%E9%9B%BB%E7%B3%BB%E5%88%97" title="雷電系列">雷電系列</a>的<a href="/2P" title="2P">2P</a></s></li>
+<li>目前移植至其他平台較頻繁的作品
+<ul><li>原先只有移植至X360，後來更移植至智慧型手機、Steam及Switch</li></ul></li>
+<li>劇情：</li></ul><pre>「大往生」這種蠢事是哪個白痴搞出來的？
+
+那場在月華橋上爆發的大規模戰爭終於結束。但在戰爭六年後的某一天，位駐在月球的首領蜂部隊探知到了細微的時空錯亂。
+那是在啟動能夠穿越時空的躍遷門時發生的微小時空錯亂，那一點細小的誤差所隱藏著的不協調感，並沒有逃過大佐的鷹眼。
+在經歷調查之後發現了一件事：有人在往過去運送大量物資。
+原來，那個不斷輸送物資的人原是在龐大的數據庫海洋中殘留著的類似病毒一般的少量程序，然而經過漫長的歲月，它開始自我繁殖並不斷進化。最終產生了元素之女（Element Daughter）和一支強大的機器兵團。
+首領蜂隊進一步解析了此程序，查明了該個人代碼的出處——正是元素人偶EXY的數據。
+
+得知此事的大佐無法掩飾自己的不悅：「改寫歷史什麼的根本不可能！為了守護人類——不，為了我等無敵軍隊的尊嚴，絕對不能讓那些在我們追求完美的過程中所產生的殘渣組成的人偶幹出如此傲慢自大的事情來！」
+但在同時，他也私下想著：「從過去重新來過，也不錯啊。」。
+首領蜂隊緊急出動，陸續穿過躍遷門飛到過去追尋EXY；但是EXY帶領的敵人也預料到了我方的追擊，從穿過躍遷門的那一刻戰鬥就開始了。
+敵人的突襲激烈到了無法預料的程度，最後首領蜂隊在抵達目標時只倖存了一艘母艦和數架戰鬥機；穿越的時間地點，是2008年5月的日本東京。
+
+為了遏制戰火而再次挑起戰火。蜂的振翅聲從來不會停歇。 ​
+</pre>
+<ul><li>系統方面取消POWER Item、HYPER Item及Laser Bomb</li>
+<li>Hyper改由D鈕發動，和用作放Bomb的B鈕作出分野
+<ul><li>Hyper系統改為計量條集滿直接取得</li>
+<li>Hyper發動期間可以用通常射擊消彈（部份子彈無法以此方法消去。</li></ul></li></ul><ul><li>強化方面改成 Normal、Boost及Strong
+<ul><li>Normal為無強化模式、可放BOMB</li>
+<li>Boost則是自機可切換火力強弱，但也會影響自機速度，無法手動放BOMB</li>
+<li>Strong則是完全強化，若黑標選擇此模式為上級者向難度</li></ul></li></ul><ul><li>敵方也會放出雷射砲，自機發出雷射砲「對掌」可以推回去，某些地方需要推開敵方雷射砲方能通過
+<ul><li>雷射分兩種，細雷射只需要雷射就可擋下回推，粗雷射只有BOOST/STRONG MODE的雷射可擋下，BOMB MODE必須使用HYPER或烈怒才可推回去</li></ul></li></ul><ul><li>幾乎可說是蜂系列的大回顧，包括BGM、敵人、攻擊方式、登場機體
+<ul><li>發行前最初公開，讓不少人認為是支援角色的元素之女（エレメントドーター）竟然全部都是敵方的Stage Boss（<b>身高48m可變型巨大少女機器人</b>）讓不少系列粉絲吃驚<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><ul><li>人形狀態可以看到身體上有不少空缺，被擊破時還會<b>爆衣</b>：身上的衣物會化為道具，然後在赤身裸體的狀態留下遺言後爆發四散</li>
+<li>Stage 1：エレメント・ドーター　アイ
+<ul><li>由原型機元素人偶的數據構成的元素之女，可以說是本作的代表形象角色<s>雖然還是很影薄，而且弱得誰都可以阻止她</s></li>
+<li><s>同時又是在《DODONPACHI MAXIMUM》中擔當第一個被挨槍的（沒誤，雖然是模擬戰鬥）</s></li>
+<li><s><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=qWFa7u16cjA">裙下有內褲組件</a></s></li>
+<li><s>CAVE還曾經打算開發<a rel="nofollow" class="external text" href="https://www.nicovideo.jp/watch/so30262691">讓玩家操作A.I去破壞城市的VR遊戲（推出日無期）</a></s></li></ul></li>
+<li>Stage 2：エレメント・ドーター　ネクスィ
+<ul><li>如同劇情所言，即是前作的EXY化身為元素之女的型態<s>，但卻只是個在二面就被推倒的黑幕（笑）</s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為看了大往生事件所導致的未來，決定回到過去阻止其發生，結果其行為正好導致了大往生事件的發生，就此形成了一個無限循環。</span></li></ul></li>
+<li>Stage 3：エレメント・ドーター　ぱふぇ☆<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><ul><li>作為原型的元素人偶是大往生戰爭後期開發的最強元素人偶，但並沒有投入實戰使用；在被ネクスィ再構成時出了問題導致她的性格變得高昂激動，有時會作出超乎常理的行為。潛能是五名元素之女中最強。</li></ul></li>
+<li>Stage 4：エレメント・ドーター　レイン</li>
+<li>Stage 5：エレメント・ドーター　シューティ
+<ul><li>攻擊方式大玩了原型Shotia的ボム子自虐捏他</li></ul></li></ul></li>
+<li>首5關達成一定條件會令中Boss變成《怒首領蜂》的Boss</li></ul></li></ul><ul><li>本作登場的大佐為「ゴットヴィーン・ロンゲーナ大佐」，立繪擔當為井上淳哉
+<ul><li>「涙と鼻水の覚悟はよろしいか？」（達成裡二周條件時的台詞）</li>
+<li>2015年11月27日，在本作與ゴ魔乙的連動活動中<b>以使魔身份實裝</b>，在以眾多美少女使魔為賣點的《ゴ魔乙》中是<b>第一個可用男性使魔</b><s>，因為自帶（當時）強悍又稀有的DDP雷射，讓無數真少年自願獻出聖靈石換取和大佐LOVE MAX的稀有機會（大誤）</s>
+<ul><li>而後更追加正太版本和5色大佐版本，2021年的最大往生連動更追加了裝備《大復活》Hyper激光的音頭版本（設置在主界面會播放本作主題曲：どどんぱち 大音頭）</li></ul></li></ul></li>
+<li>另外在結局中出現了另一位想著「改變歷史果然不可能」的將軍</li></ul><ul><li>Black Label系統大幅度修改：
+<ul><li>追加「烈怒」系統
+<ul><li>同時按一般射擊+自動連射不放時烈怒條會自動上升，若烈怒條到達臨界點或全滿時，敵我雙方的攻擊將會更猛烈（同時HYPER的儲氣速度會變快）</li>
+<li>若中途放開其中一個按鍵時，烈怒條會慢慢下降<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></li>
+<li>HYPER結束（或手動解除），烈怒條會直接減半（以烈怒MAX的情況下）</li>
+<li>自機被彈、放Bomb時<b>直接清空烈怒條</b></li></ul></li>
+<li>本次的蜂徽章也有一定效果：
+<ul><li>綠蜂：未開HYPER時增加1/4，開啟時則增加1/2</li>
+<li>金蜂：消彈，同時子彈會變成小星星</li>
+<li>白蜂：上兩者皆有，但星星變成大星星同時會跟HIT數疊加</li></ul></li>
+<li>Hyper系統也做更改，戰機選擇時可選擇自動Bomb是否開啟
+<ul><li>若選擇關閉時，Bomb會與Hyper共用</li>
+<li>Hyper可在施放途中直接關閉</li>
+<li>Hyper持續時間變短，並且以Hyper消彈時不會增加HIT數</li>
+<li>在位開啟自動Bomb的情況下，MAXIMUM狀態下在獲得Bomb會再增加上限（X2、X3）</li></ul></li></ul></li></ul><p><br></p>
+<ul><li>家用版白標與黑標各追加各自的Arrange Mode，同時白標追加1.51模式
+<ul><li>白標Arrange A：以《大往生》為基準，自機固定為《大往生》的A機並且強化固定為BOOST，Hyper系統同樣比照《大往生》</li>
+<li>白標Arrange B：<s>有點微妙的</s>養成模式，可自由配置自機模式</li>
+<li>白標1.51：CAVE祭時公開的特別版，有Rank系統，只有1周目（達到條件即可突入真Boss）</li>
+<li>黑標Arrange：以《ケツイ》為基準的模式，與白標Arrange A一樣固定為《ケツイ》的A機</li></ul></li></ul><ul><li>智慧型手機版專屬模式系統大改
+<ul><li>追加SM氣條
+<ul><li>擊破敵機時會增加S氣條，全滿後火力強化（此時若有倍率的話，倍率會下降）</li>
+<li>擦彈時會增加<a href="/M" title="M">M</a>氣條，同時Hyper氣條、倍率也會隨之增加</li>
+<li>在本模式發動Hyper模式時，自機會停留在原地，此時可調整射擊方向，若在此時猛力旋轉直到Hyper結束後會發動Hyper雷射炮（旋轉越猛，放出的雷射砲會愈大）</li></ul></li></ul></li></ul><ul><li>表二周目進入條件（只須完成其中一項即可）：
+<ol><li>收集35個「蜂」徽章</li>
+<li>Bomb六次以內（包含自動Bomb）</li>
+<li>Miss一次以內</li></ol></li></ul><ul><li>裡二周目進入條件（必須全部達成、真Boss出現關鍵）：
+<ol><li>收集45個「蜂」徽章
+<ul><li>其中幾個「蜂」徽章是<b>一定要達成裡中Boss的突入條件</b>才能繼續蒐集</li></ul></li>
+<li>Bomb兩次以內（包含自動Bomb）</li>
+<li>Miss一次以內
+<ul><li>另外裡二周目<b>必定突入裡路線和裡中Boss</b></li></ul></li></ol></li></ul><ul><li>真Boss：<br><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/%E6%AA%94%E6%A1%88:%E7%81%AB%E8%9C%82%E5%A8%98%E8%A8%AD%E5%AE%9A%E5%9C%96.jpg" class="image"><noscript><img alt="" src="/images/thumb/1/17/%E7%81%AB%E8%9C%82%E5%A8%98%E8%A8%AD%E5%AE%9A%E5%9C%96.jpg/200px-%E7%81%AB%E8%9C%82%E5%A8%98%E8%A8%AD%E5%AE%9A%E5%9C%96.jpg" width="200" height="290" class="thumbimage"></noscript><span class="lazy-image-placeholder" style="width: 200px;height: 290px;" data-src="/images/thumb/1/17/%E7%81%AB%E8%9C%82%E5%A8%98%E8%A8%AD%E5%AE%9A%E5%9C%96.jpg/200px-%E7%81%AB%E8%9C%82%E5%A8%98%E8%A8%AD%E5%AE%9A%E5%9C%96.jpg" data-alt="" data-width="200" data-height="290" data-class="thumbimage"> </span></a>  <div class="thumbcaption"><div class="magnify"><a href="/%E6%AA%94%E6%A1%88:%E7%81%AB%E8%9C%82%E5%A8%98%E8%A8%AD%E5%AE%9A%E5%9C%96.jpg" class="internal" title="放大"></a></div>真BOSS設定圖</div></div></div>
+<ul><li>無印：<b>]-[|/34&lt;#!</b>
+<ul><li><b>第一個被機娘化的首領蜂系列真BOSS</b>，<s>但因為沒CV+太小隻+彈幕太誇張+詳細樣貌只在設定集出現而沒人知道</s>
+<ul><li>在魔法乙女裡實裝的型態和原版比起來更加被萌化，外裝也從類似全副武裝的武士變得更加裸露</li></ul></li>
+<li>名字為以<a href="https://en.wikipedia.org/wiki/en:Leet" class="extiw" title="wikipedia:en:Leet">Leet語法</a>寫成的「HIBACHI」</li>
+<li>白標被發現安置，升級到1.5亡羊補牢後於黑標再度被發現安地，最後 <a href="http://www.nicovideo.jp/watch/sm12862911" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm12862911">在白標1.51帶著滿溢的盛怒回敬玩家</a></li>
+<li>在手機版的原創模式裡作為通關裡二周目的解鎖自機登場，高速射擊時的刺身彈攻擊方向是根據手機重心擺放的角度而定，低速射擊的雷射攻擊力是所有機體中最強</li></ul></li>
+<li>Black Label：<b><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="306f701d4a46">[email&#160;protected]</a><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c49b84">[email&#160;protected]</a></b>
+<ul><li>名字「ZATSUZA」為以<a href="https://en.wikipedia.org/wiki/en:Caesar_cipher" class="extiw" title="wikipedia:en:Caesar cipher">凱薩加密法</a>把HIBACHI移前8位</li>
+<li>與]-[|/34&lt;#!的分別 <a href="http://www.nicovideo.jp/watch/sm14376310" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm14376310">僅在BGM和彈幕</a></li>
+<li>因為烈怒系統的存在，讓它的出現條件比]-[|/34&lt;#!更鬼畜（明明就只是加上大佐蜂無損擊破…Strong Type限定）</li>
+<li>因發狂時開啟HYPER會導致螢幕上出現過多效果，處理延遲會變得極為誇張</li>
+<li><s>有人可以無損擊破它，倒是無損過]-[|/34&lt;#!的神人還沒見到</s></li></ul></li>
+<li>Switch版練習模式更可直接挑戰<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0d524d20777b">[email&#160;protected]</a><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="613e21">[email&#160;protected]</a></li>
+<li>Black Label Arrange：<b> <a href="http://www.nicovideo.jp/watch/sm13525506" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm13525506">光翼型殘酷戰鬥機 Hi-…VA…C…（全名不詳）</a></b>
+<ul><li>可說是エヴァッカニア・ドゥーム的強化版，但與原版的關係不詳</li>
+<li>除了攻擊模式與原版相同以外，火力和彈幕更比原版猛烈（多了雷射…）</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因此有人推測ケツイ和首領蜂系列是同一世界觀，從EI和首領蜂隊的相似處到雙方主角機類似的攻擊模式（散射和集中攻擊，Bomb會張開防護罩等），有人認為EI被摧毀後就改組成首領蜂隊<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></span></li></ul></li></ul></li></ul><h4 class="in-block"><span class="mw-headline" id="DODONPACHI_MAXIMUM">DODONPACHI MAXIMUM</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=9" title="編輯章節：DODONPACHI MAXIMUM" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>智慧型手機遊戲，原為Windows Phone限定的遊戲，後來也在iOS上推出</li></ul><ul><li>主題為模擬戰鬥
+<ul><li>關卡收錄了大往生、大復活、ケツイ
+<ul><li>也因為是模擬戰的關係，關卡也有做一些相當程度的還原</li>
+<li>同時有關卡分歧，系統會依玩家有無達成以下條件來判定下一關的去向；
+<ul><li>無失誤</li>
+<li>不使用炸彈</li>
+<li>擊破率100%</li></ul></li></ul></li>
+<li>自機則有大往生、大復活、ケツイ、赤い刀、弾銃フィーバロン</li></ul></li></ul><ul><li>本作負責模擬戰鬥的單位為EVAC Industry，至於本作與《ケツイ》和《怒首領蜂》本傳的關聯似乎不明</li></ul><h4 class="in-block"><span id="怒首領蜂_最大往生_完"></span><span class="mw-headline" id=".E6.80.92.E9.A6.96.E9.A0.98.E8.9C.82_.E6.9C.80.E5.A4.A7.E5.BE.80.E7.94.9F_.E5.AE.8C">怒首領蜂 最大往生 <span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">完</span></span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=10" title="編輯章節：怒首領蜂 最大往生 完" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>專屬主題曲： <a href="http://www.nicovideo.jp/watch/sm18116210" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm18116210">大往生→大復活→最大往生！</a></li>
+<li><s>首領蜂系列歷代人設最媚宅的一作</s></li>
+<li>劇情：</li></ul><pre>元素人偶的職責，是為他們的<ruby>Master<rp>（</rp><rt style="font-size:0.5em;">主人</rt><rp>）</rp></ruby>提供最大的支援。
+
+首領蜂隊接收到了新的命令：摧毀由人工智慧構建的「理想之街」，使其完全沉默。
+由人工智慧系統統治的「理想之街」，是人類能與自然和諧共處的城市，就如同名稱那樣的美好。
+
+攻擊原因：排除妄圖統治星球的「機械化惑星人」。
+「機械化惑星人」是對地球有著威脅的存在，正因如此首領蜂隊被組織了起來。 
+
+...
+我問Master：只要破壞這條街使其停止運作，就能消滅機械化惑星人了嗎？
+Master這麼回答：「我們是首領蜂隊，來自長官的命令是絕對的；我們只需要服從命令完成任務就可以了。」
+
+戰鬥明天就要開始了。
+Master，請你一定要活下來。
+</pre>
+<ul><li>有三台機體、三個Element Doll和三種服裝（強化方式）
+<ul><li>TYPE-A＆<s>納克魯斯</s>朱理（しゅり）【CV：<a href="/%E9%87%8E%E4%B8%8A%E5%B0%A4%E5%8A%A0%E5%A5%88" title="野上尤加奈">ゆかな</a>】</li>
+<li>TYPE-B＆<s>暴龍</s>光（ひかり）【CV：<a href="/%E5%96%9C%E5%A4%9A%E6%9D%91%E8%8B%B1%E6%A2%A8" title="喜多村英梨">喜多村英梨</a>】</li>
+<li>TYPE-C＆<s>凱蒂貓</s>真璃亞（まりあ）【CV：<a href="/%E8%83%BD%E7%99%BB%E9%BA%BB%E7%BE%8E%E5%AD%90" title="能登麻美子">能登麻美子</a>】</li>
+<li>強化/Element Doll服裝變更：
+<ul><li>SHOT：戰鬥服<br>LASER強化：私服<br>EX強化：泳裝</li></ul></li>
+<li>順帶一題本作為系列首次有終於有<s>加菲貓</s>駕駛員和通信員的人物介紹了</li></ul></li></ul><ul><li>取消二周目，但選擇EX強化的難易度為歷代的二周目水準</li>
+<li>同《大復活》一樣取消POWER Item、Hyper Item及Laser Bomb
+<ul><li>自動Bomb發動時會將炸彈槽全部清空</li>
+<li>HYPER不會消彈，但開啟HYPER的一瞬間仍然會全畫面消彈</li></ul></li></ul><ul><li>各關卡：
+<ul><li>Stage 1：商業地エリア「理想の街」</li>
+<li>Stage 2：住宅地エリア「平和で安定した生活」</li>
+<li>Stage 3：水源地エリア「豊富な生命の源」</li>
+<li>Stage 4：郊外エリア～地下通路～中央部へ「バックヤード」</li>
+<li>Stage 5：郊外エリア～地下通路～中央部へ「機械化惑星人？」</li>
+<li>從一面到三面的試玩已經可以推敲出不少線索（例如Boss皆為《大往生》的頭目強化版、戰鬥場景是在《大復活》之後等）</li></ul></li></ul><ul><li>真Boss：
+<ul><li>表：<s>Sans</s><b><a rel="nofollow" class="external text" href="http://dic.nicovideo.jp/a/%E9%99%BD%E8%9C%82">陽蜂</a></b>【CV：<a href="/%E6%82%A0%E6%9C%A8%E7%A2%A7" title="悠木碧">悠木碧</a>】
+<ul><li> <a href="http://www.nicovideo.jp/watch/sm17725955" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm17725955">彈幕</a>主要是回顧歷代真Boss</li>
+<li>很愛說話<s>精神攻擊</s>（玩家被彈時會笑），故被戲稱為「ｳｪﾋﾋ蜂」</li></ul></li>
+<li>裡：<b> <a href="http://www.nicovideo.jp/watch/sm18781091" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm18781091">陰蜂</a></b>【CV同上】
+<ul><li>出現條件（by官方部落格）：
+<ol><li>No Miss No Bomb</li>
+<li>回收所有蜂item</li>
+<li>另外兩個條件（？）
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">估計的另外兩個條件：MAX HIT數超過30000，同時RANK（相當於實時難度）也要達到30以上<s>，這遊戲能玩？</s></span></li></ul></li></ol></li>
+<li>最早解禁的玩家曾經無損擊破陽蜂，但打陰蜂卻<s>上納</s>續關了7次（單最終發狂就續關6次）才能擊破，直到2018年才首次出現<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=edPxHrZeiEk">無損擊破報告</a>（非正規突入條件）</li>
+<li>不過應該是顧慮到難度過高，陰蜂在後來的360模式裡強度被下修（特別是最終階段的發狂彈幕整個改掉），<a rel="nofollow" class="external text" href="https://twitter.com/rmy_stg/status/1307902010562232321">EXA版更在測試期間就傳出被一幣擊破的新聞。</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=wqlQDHL8F8I">一直到2021年12月17日</a>，無印版陰蜂才首次在某玩家持續不懈的努力下，在練習模式中以默認設定被一幣擊落</li></ul></li></ul></li></ul><ul><li>推出一年後於XBox360推出移植版，新增了HD化畫面、得分系統調整的1.5版、故事模式、線上合作模式、任務模式等新內容
+<ul><li>可以藉由完成任務取得遊戲內貨幣以解鎖輔助外掛和壁紙，還能購買在一般模式使用Type-X的功能</li>
+<li>故事模式「360 Mode」，為系列作中唯一走全語音劇情的模式
+<ul><li>自機改為HP制，被彈會扣能量（道中有回復的道具）</li>
+<li>同時按自動連射和一般射擊可放出更強的雷射，但使用時也會扣能量</li>
+<li>能量耗盡時被彈就直接<a href="/GAME_OVER" title="GAME OVER">GAME OVER</a></li>
+<li>新增一名Element Doll「櫻夜【CV：<a href="/%E5%B9%B3%E9%87%8E%E7%B6%BE" title="平野綾">平野綾</a>】」，機體為<s>像R-Type</s>的專用機Type-X，可在商店購買並解禁在一般模式使用
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與陽蜂是同一個計劃下的產物，在陽蜂暴走摧毀實驗室後收到擊墜陽蜂的命令</span></li></ul></li></ul></li></ul></li></ul><ul><li>原本應是內容誠意滿滿的移植，但是因為各種原因，讓身為CAVE自己推出的最後一部家機移植的本作留下了個不盡人意的句號。
+<ul><li>最致命的當數<b>移植還原度不佳</b>這問題，和原版比起來處理落過多</li>
+<li>劇情模式中有太多櫻夜和導航員之間插科打諢的內容，導致玩家觀感微妙。</li>
+<li>製作組的發言問題<s>，例如360版主題曲作曲者直接自爆自己是雲玩家</s></li>
+<li>線上合作分配可以用特殊方法讓自己一直被分配到同一個組合，形成固定一個隊伍反覆虐菜的場面</li>
+<li><b>排行榜在登記分數時不會附註是否使用內購功能</b></li></ul></li></ul><ul><li>後來決定於EXA基板推出移植版，並加上副標「EXA Label」，新增模式並改動部分系統。同時提供了讓玩家直接挑戰陰蜂的模式。
+<ul><li>EXA版中更換服裝只會影響ED外觀，不會影響自機性能</li>
+<li>劇情模式的系統在稍作改動後以「X ARRANGE」為名在該版本登場</li></ul></li></ul><h3 class="in-block"><span id="エスプ系列"></span><span class="mw-headline" id=".E3.82.A8.E3.82.B9.E3.83.97.E7.B3.BB.E5.88.97">エスプ系列</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=11" title="編輯章節：エスプ系列" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>主要特點是人形自機、難度較低（ガルーダ2除外）、蓄力式護盾攻擊、最後Boss前的複製人大軍及最終Boss會展開巨大的翅膀</li>
+<li>エスプレイド和ガルーダ1代過關時沒有結算畫面，取而代之的是會顯示角色插畫與一段配合當下劇情的文字
+<ul><li>此外這兩作的最終關皆是分割為前後兩部分</li></ul></li>
+<li>每一代的角色設計擔當都不同</li></ul><h4 class="in-block"><span id="エスプレイド"></span><span class="mw-headline" id=".E3.82.A8.E3.82.B9.E3.83.97.E3.83.AC.E3.82.A4.E3.83.89">エスプレイド</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=12" title="編輯章節：エスプレイド" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>CAVE開發，ALTUS發行
+<ul><li>計畫原名為「「ESP DRIVE」，但發售前臨時改變名稱，原因是因為有一產品已先申請此商標，於是從「ESP DRIVE」改變成「ESP RA.DE」
+<ul><li>「RA.DE」在日文的發音類似「RIDE」，而且「RA.DE」同時也是Boss戰BGM「Raging Deicide」的縮寫</li></ul></li></ul></li></ul><ul><li>本作為CAVE首次使用人形自機的作品
+<ul><li>可能是CAVE首次製作有真人替角色配音的遊戲</li>
+<li><s>判定點在脖子這點非常奇怪</s></li></ul></li></ul><ul><li>由於版權複雜的關係（IP完全屬於ALTUS）長年只有機台版，一直到2019年12月19日才以《エスプレイドΨ》名義在PS4和NS兩家機平台上推出
+<ul><li>此版本不只收錄原機台版本，並追加了一些挑戰模式：
+<ul><li>重新配音並作微調整的加強版「Arcade Plus」模式</li>
+<li>新手向的「Super Easy」模式</li>
+<li>可自行調整遊戲設定的「Custom」模式</li>
+<li>任務養成模式「小百合的房間（いろりの部屋/Esper's room）」<s>雖然叫這個名字，但其實能讓佑介、J-B 5th和亞莉水住進來</s></li></ul></li></ul></li></ul><ul><li>不同角色各有不同的第一關，其餘兩人的關卡則會在二/三面隨機出現
+<ul><li>可以透過按B或C選角色來固定初期三關的出現次序；以下以鳳凰高校（相模的第一關）為A，大型商場的晚上（J-B 5th的第一關）為B<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>，海濱地帶（美作的第一關）為C：
+<ul><li>相模佑介：A-B-C（按B）、A-C-B（按C）</li>
+<li>J-B 5th：B-C-A（按B）、B-A-C（按C）</li>
+<li>美作小百合：C-A-B（按B）、C-B-A（按C）</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">亞莉水（Ψ追加，需解禁（下述））：自由選擇</span></li></ul></li></ul></li></ul><ul><li>擔任人設的井上淳哉後來在自己的漫畫《靈幻使者》中沿用了一些此作的人設，同時也是本作中鳳凰高校Boss「近江覚」的CV
+<ul><li>本作也是少數對於所有登場人物乃至部分雜兵之間的關係都有詳細描述的作品</li></ul></li></ul><ul><li>複製人大軍：<b>アリスクローン</b>
+<ul><li>於五面後半登場的女僕陣<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>由於演出以及高難度對於玩家相當衝擊，成了系列作的定番</li></ul></li></ul><ul><li>射擊分成範圍固定的主射擊（A）及可調節角度而不能不斷使用的高威力副射擊（B），bomb改由Guard Barrier代替，按得越久無敵時間和威力越大，但消耗的Barrier計量就越多
+<ul><li>3<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">+1</span>個角色的主射和副射的性能都不一樣</li>
+<li>佑介：主射擊為高威力直線彈，副射擊威力低但是最多可傾斜90度，唯一可以同時發動兩種射擊的角色，中級者機體</li>
+<li>J-B 5th：主射擊為5-way擴散彈，副射擊不能傾斜，容易使用而難賺分，新手向機體</li>
+<li>小百合：主射擊為闊向直線彈（不適合打人型boss），副射擊最多可傾斜30度，為整體火力較差（但也最適合打分）的高手向機體</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">亞莉水：主射擊和副射擊性能與J-B 5th相似，差別在亞莉水的主射擊為逐漸展開型，整體火力為全角色之冠<s>隱藏角色優遇</s></span></li>
+<li>使用副射擊擊破敵人時，敵人的爆風會使敵人自己發出的子彈轉為item，分為POWER、BONUS（POWER全滿時）或ENERGY（達成分數獎勵時，可以回復Barrier計量）</li>
+<li>副射擊的量最高為16，取得BONUS時會乘上該次副射擊的量</li>
+<li>在Guard Barrier集氣時身旁放出的能量圈可以將子彈轉換成ITEM，但是不會出現ENERGY</li></ul></li></ul><ul><li>真Boss：
+<ul><li>無印：<b>ガラ婦人</b>
+<ul><li>不須達成任何條件就可以見到她</li>
+<li>表面是一個<a href="/BBA" class="mw-redirect" title="BBA">老婦人</a>，事實上年齡只有40歲<s>很微妙的數字</s>，因為過度使用超能力而令身體加速老化
+<ul><li><s>之後《赤ノ刀》還有一個更誇張的BBA（<a href="/17%E6%AD%B2" class="mw-redirect" title="17歲">17歲</a>）</s></li></ul></li>
+<li>原本並非超能力者，在年輕時因為其未婚夫被不明超能力罪犯殺死，且警方也無法處理之；在受到極大的心理創傷的同時，無意間覺醒了其超能力，並召來全世界的超能力罪犯成立「夜叉」組織
+<ul><li>同時佑介的朋友「近江覚」覺醒成為暴走超能力者、並向佑介他們發動攻擊等現象，正是夜叉的傑作</li></ul></li>
+<li><s>因為她的緣故，導致後來CAVE系的老太婆都是狠角色</s></li>
+<li>發狂時放出的張り手堪稱本作名物<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></li>
+<li>與其他遊戲真Boss面對Bomb的反應不同，使用的是放出Bomb後會暫時離開戰場的<s>下流</s>招數（在離場前還是有攻擊效果，而且集氣時仍會待在場上）</li>
+<li><s><a href="/%E5%B0%8F%E6%9E%97%E5%B9%B8%E5%AD%90" title="小林幸子">小林幸子</a></s><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Ψ Arcade Plus：小野亞莉水 ~prelude~ / ALICE MASTER小野亞莉水</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Arcade Plus模式中一開始會待在ガラ婦人旁邊，擊倒ガラ婦人之後會把她救走並與玩家對峙，這時如果Miss總次數少於兩次就會出現後者</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">正常狀態下攻擊模式與ガラ婦人和《エスプガルーダ》的ジャコウ相似（火力不如前兩者），最終階段會召喚女僕部隊攻擊玩家</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">ALICE MASTER型態的攻擊模式徹底改變，不僅有各種封位彈和追擊，還實裝了BOMB護盾</span></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">更新前被玩家稱為CAVE史上最弱真BOSS，不過更新後增加的加強型態算是擺脫了這個渾名</span></s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">ガラ婦人的女兒，雖然ガラ婦人對外宣稱她已死亡，但實際上ガラ婦人把她以最高機密為由隱藏其身分，ガラ婦人的愛麗絲女僕部隊就是以她為素材做出來的複製人，且各自都以姐妹般互相對待（包括亞莉水本尊和完美複製的亞莉水）</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本尊（包括完美複製的本尊）和複製品主要差異在頭髮、衣服的顏色、個性和<b>眼睛的有無</b></span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">若玩家不接關（同時不能即時存/讀檔）全破「Arcade Plus」下的任意一種模式<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>便能解禁成為玩家角色</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但用亞莉水打到最後一關後會發現玩家操作的亞莉水也是複製人，而且是唯一一個與本尊相像且保有本尊意識的複製人<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></span></li></ul></li></ul></li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在三人解決夜叉事件之後，祐介帶著覚的遺體在公園的某處放置著，此時覚的靈魂顯靈，看著自己的朋友將其安置在公園後升天…</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">另一方面，J-B 5th則隨即被警方埋伏，此時他的超能力開始失控而在包圍之下自爆…</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而小百合因為用盡了所有的力量，在公園的某處降落之後隨即倒下，在這沈默的時刻之後，那位被小百合救過的婦女看到她倒在地上時的樣子嚇了一跳…</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">若在該結局按著1P、2P的開始鍵不放直到動畫出來為止，會變成那位婦女直接在小百合旁經過…</span></li></ul></li></ul><ul><li>某種程度上算是<a href="/%E6%9D%B1%E6%96%B9Project" title="東方Project">東方Project</a>和<a href="/%E8%A5%BF%E6%96%B9Project" title="西方Project">西方Project</a>的參考原型
+<ul><li>《東方怪綺談》中神綺和其製造的魔界人的原型就是ガラ婦人和Alice Clone，而開翼演出和四階的彈幕<s>深紅射擊</s>更被Windows整數作的六面<s>A走</s>借鑑<s>也就是說幽幽子、大小姐和聖白蓮都是夜叉的成員</s></li>
+<li>羽魔理沙的動作參考自近江覚、主角造型參考自《エスプガルーダ》的複製ALICE、恰巧也有老人的女兒本尊（還會開翼）</li></ul></li></ul><h4 class="in-block"><span id="エスプガルーダ"></span><span class="mw-headline" id=".E3.82.A8.E3.82.B9.E3.83.97.E3.82.AC.E3.83.AB.E3.83.BC.E3.83.80">エスプガルーダ</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=13" title="編輯章節：エスプガルーダ" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>雖然宣傳上打著為エスプ系列的續作，但除了一部分系統和要素外，劇情和世界觀基本上沒有任何關連</li>
+<li>本作為CAVE首次開始起用專業聲優配音的作品<s>，並開始往賣角色和有病設定一去不回頭</s></li></ul><ul><li>本作的自機名字都取自蝴蝶種類，飛行時會在身後展開類似蝴蝶的翅膀</li>
+<li>主角為由聖靈與人類結合而製造出來的生物兵器兄妹「エスプガルーダ」，哥哥「揚羽（アゲハ）」和妹妹「立羽（タテハ）」</li></ul><ul><li>原本的B鈕改為「覺聖」系統，特點如下：
+<ul><li>能透過消耗聖靈石計量表令畫面的子彈速度變慢
+<ul><li>覺聖中擊破敵機更能令該機體射出的子彈化為金塊（鍊金），而且得分會隨該次覺聖的消彈數出現倍率加成，最大倍率為100倍，然而發生鍊金時聖靈石會額外減少</li>
+<li>聖靈石計量為零時發動覺聖會反過來令子彈加速，這個狀態會自動集另一個分三階段的覺聖計量表（自機身邊的深藍色光圈），每儲滿一階段會令通常狀態能取得的聖靈石、覺聖取得的金塊增加，但也會使彈速更快</li></ul></li>
+<li>自機其中一種射擊強化（アゲハ是低速射擊強化，タテハ則是高速射擊強化）</li>
+<li>覺聖中被彈時會消耗一半能量自動使出護罩攻擊（Bomb）</li>
+<li><b>自機會<a href="/%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4" title="砍掉重練">性轉換</a></b>（無誤）<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>，衣服、人格和體型也會改變</li>
+<li>此系統令本作為初心者（利用覺聖輕易避子彈）和高手（以覺聖賺分、故意全程赤覺聖等）均能樂在其中的作品</li></ul></li></ul><ul><li>本作的<s>IKD親女兒</s>一面&amp;五面前半BOSS「弄蝶（セセリ）」因為其悲劇設定成為本作的人氣角色，在續作也有不小的優遇，<s>甚至出過抱枕</s>
+<ul><li><b>「貴様らの存在を消してやる！」</b></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">アゲハ與タテハ的同父異母妹妹，從小被當成王子養大的她一直以來都想獲得父親ジャコウ的愛，但由於ジャコウ的注意力完全放在アゲハ和タテハ兄妹倆上，使セセリ對他們心生怨恨和嫉妒。因此形成了傲慢充滿攻擊性但又渴望父親的愛的扭曲性格。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了證明自己才是シンラ唯一的王子親自帶隊前往前線去消滅主角群，但卻被擊敗並因此四肢全廢；求復仇心切的她拒絕了父親提供的普通義肢，轉而裝備上最具攻擊性的武裝義肢再次向主角群發動襲擊。然而…</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">「ああ…消えてゆく…」（從高空被擊落後摔的粉身碎骨，還流了一地鮮血）</span></li></ul></li></ul><ul><li>複製人大軍：<ruby><b>亜璃主</b><rp>（</rp><rt style="font-size:0.5em;">アリス</rt><rp>）</rp></ruby><b>クローン</b>
+<ul><li>藉由亞璃主力量ガルーダ化的士兵們，平時職務是服侍皇家，必要時也能戰鬥</li>
+<li>由於ガルーダ化調整時導致虹膜掉色，因此配戴面具</li></ul></li></ul><ul><li>真Boss：<b>ジャコウ</b>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">アゲハ、タテハ、セセリ的<b>親生父親</b>，シンラ帝國的皇帝，為了支配世界而執行了「プロジェクト　エスプガルーダ」並製造出他們</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">就在ジャコウ的野心即將達成之際，其搭檔ヒオドシ得知其野心而帶著兄妹倆展開逃亡並在某村落隱居，直到16年後シンラ軍侵略該村並將ヒオドシ殺死，倆兄妹也開始對シンラ帝國展開反抗</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">就在倆兄妹開始反抗ジャコウ時，ジャコウ也啟動フェザーガルーダ吸收其妻子（也就是兄妹倆的親生母親）<ruby>亞璃主<rp>（</rp><rt style="font-size:0.5em;">アリス</rt><rp>）</rp></ruby>的聖靈石的力量覺醒</span>
+<ul><li>該階段時身後會展開和主角們相同的翅膀，覺聖時會變成亞璃主的樣貌</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但就算ジャコウ覺醒也不敵正在反抗自己的兒女，於是也不甘示弱地吸收更多的力量，只見ジャコウ力量吸收的愈來愈多，力量也開始無法控制，自己也開始巨變並暴走，最後被倆兄妹聯手解決，アゲハ在結局中將ジャコウ的力量吸收，ジャコウ就這樣化成蝴蝶消失在世界上，而タテハ則是將亞璃主救回</span>
+<ul><li>在暴走時第四階段以Barrier攻擊會回復血量，自機發動覺聖時是幾乎無法對ジャコウ造成傷害的</li>
+<li>因為是エスプ系列，所以這時候會張開類似ガラ婦人的翅膀也是正常的<s>才怪</s></li></ul></li></ul></li></ul><h4 class="in-block"><span id="エスプガルーダII_～覚聖せよ。生まれし第三の輝石～"></span><span class="mw-headline" id=".E3.82.A8.E3.82.B9.E3.83.97.E3.82.AC.E3.83.AB.E3.83.BC.E3.83.80II_.EF.BD.9E.E8.A6.9A.E8.81.96.E3.81.9B.E3.82.88.E3.80.82.E7.94.9F.E3.81.BE.E3.82.8C.E3.81.97.E7.AC.AC.E4.B8.89.E3.81.AE.E8.BC.9D.E7.9F.B3.EF.BD.9E">エスプガルーダII ～覚聖せよ。生まれし第三の輝石～</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=14" title="編輯章節：エスプガルーダII ～覚聖せよ。生まれし第三の輝石～" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li> <a href="http://www.nicovideo.jp/watch/sm6722685" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm6722685">（STGのPVです）</a></li>
+<li>劇情發生在前作三年後，繼シンラ後又出現一個意圖研究聖靈機關來征服世界的國家ソーマ；為了阻止該國的野心，身為前作主角的兄妹倆，和出身自ソーマ的第三名ガルーダ共同踏上戰鬥之路。</li>
+<li>以前作為基準，難度提昇及追加新系統「覺聖絕死界」
+<ul><li>與普通覺聖不同，擊破敵機後會令該機射出的子彈化為擊返彈，而擊反彈會隨著玩家每次擊破敵人而化為分數＆再生成一次，成為本遊戲賺分的關鍵</li>
+<li>因為擊破敵人不會發生鍊金的關係，聖靈石不會因擊破敵人而額外減少，不過金塊計也會慢慢減少</li>
+<li>擊破敵人消彈的最大倍率增加至500倍</li>
+<li>絕死狀態中被彈時會消耗<b>全部</b>能量發動自動護罩</li></ul></li>
+<li>雖然玩法更有個性，但是難度也提升了不少，評價反而不如上集</li></ul><ul><li>追加新自機角色「朝霧（アサギ）」，一名12歲的巨乳眼鏡娘
+<ul><li>為ソーマ國的聖靈機關研究下誕生的唯一一名真正的ガルーダ；原本在該國生活的她某夜聽到了身上聖靈的聲音，在聖靈引導下發現ソーマ為了製造ガルーダ而出現的各個實驗品。發現大事不妙的她直接選擇發難，在ソーマ王冊封她稱號的時候，直接當場覺醒殺死ソーマ王後逃走。隨後遇見了アゲハ和タテハ。
+<ul><li>本人性格看似開朗，但也有殘酷的一面。手上的<a href="/%E5%AD%97%E5%85%B8%E6%94%BB%E6%93%8A" title="字典攻擊">書</a>用途是用來砸人的鈍器（無誤）</li>
+<li>覺聖後的形象是弱氣眼鏡正太，手上拿著兔子玩偶</li></ul></li>
+<li>低速射擊是召喚自動鎖定敵人攻擊的分身
+<ul><li>通常狀態下火力低，但是覺聖中火力和分身數目會增加，若能全部分身都集中鎖定同一對象火力會非常高，高手向角色</li>
+<li>資源管控得當的話可以藉由覺聖火力無壓力收掉最終BOSS，但赤走狀態下火力會大幅降低</li></ul></li>
+<li>若使用アサギ通關，部分BOSS角色的台詞會變</li>
+<li><s>Xbox360的黑版因為製作組親女兒要當自機的緣故，被直接放置<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">成功迴避自爆END</span></s></li></ul></li></ul><ul><li>家用版（X360、Switch）追加黑標（為單人模式）和Arrange模式（任意模式全破可解禁Omake模式，跟黑標同樣是單人模式）
+<ul><li>黑標的新自機為系列人氣角色「弄蝶（セセリ）」，取代樓上成為第三人
+<ul><li>和5面セセリ之間的關係不明（只提到5面セセリ是自機セセリ的「姐姐」）</li>
+<li>由於裝備了新型機甲羽根的緣故，也能使用覺聖</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本身因為失憶而不記得自己在前作家破人亡的事情，在個人結局中回復記憶後揚言要復興自己的國家並向兄妹倆復仇</span></li></ul></li>
+<li>除此之外，黑標的系統有做些改動：
+<ul><li>在沒有開啟覺聖時擊破敵機後敵彈也會變成金塊</li>
+<li>追加了倍率量表（設置在上方），蒐集到金塊時倍率量表會提升（然後隨時間下降），量表愈多倍率愈高（最高1000倍）</li>
+<li>在覺聖時擊破敵機時會出現擊返彈，若此時解除再擊破任一敵機可獲得更多金塊</li>
+<li>開啟覺聖絕死界時倍率量表會鎖定</li>
+<li>新增「絕世眼」系統：為被動技能，在敵彈更接近自機的時候，敵彈會<s>煞車</s>減速，發動的同時，「絕世眼」的能量條（右下角）也會消耗，若蒐集到金塊即可回復，另外發動絕世眼時也會倒扣些微分數</li></ul></li>
+<li>Arrange模式跟原版差不多以外敵彈有分紅、藍色，1P機的一般射擊可抵銷藍彈，雷射則是抵銷紅彈（2P則相反）</li>
+<li>Omake模式中，敵彈接近自機時會變成紅色，只要在敵彈變成紅色時擊破任一敵機或是切換至覺聖型態時可抵銷
+<ul><li>Barrier在該模式變成被動技能，無論覺聖開啟與否，只要被彈就會自動發動；此外該模式補充Barrier的方式除了吃e道具以外，只要金塊蒐集至1000並進入覺聖模式後會自動補充半條</li></ul></li></ul></li></ul><ul><li>真Boss：<s>增</s><b>憎惡に滿ちたセセリ</b>
+<ul><li><b>ずっとこの時を待っていた…必ず死なす！</b></li>
+<li>在到達五面關底前No Miss和覺聖等級到達LV3時，其攻擊會大幅強化，成為真Boss家族中唯一非遊戲最終Boss的稀有品</li>
+<li>沒有Bomb對策，但血量異常的厚
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">前作中被兄妹倆擊倒後，奄奄一息的她後來被ソーマ軍救回一命，亦因此也開始對主角滿懷恨意；之後接受了全身機械兵器化並成長為成人體格的手術，並在五面關底等待主角群的到來</span></li>
+<li><s>其實是IKD對セセリ偏愛之下的產物，</s>，被擊破時不僅有專屬動畫，在黑標更是有專屬BGM</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">お父さま…ごめんなさい（爆發四散）</span></li></ul></li></ul></li></ul><ul><li>複製人大軍：<b>アサギクローン</b>
+<ul><li>由聖靈機關中的孩子們改造而成，一直都閉著眼睛，右手則被改造</li>
+<li><b>巨乳</b></li></ul></li></ul><ul><li>最終Boss：真ガルーダ・クジャク
+<ul><li>一面BOSSツバメ與三面BOSSジャノメ在生命維持裝置ガッデスガルーダ擊破後同心合體後的型態</li>
+<li>雖然跟前作的最終Boss一樣最終階段會用護盾抵擋護罩攻擊，但不會回血，同時魄力也不及上者</li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">アゲハ與タテハ的結局可得知兄妹倆看到那些被ソーマ帝國當作實驗品的孩子一一死去而相當痛心。其中タテハ在結局中釋放了自身的力量將那些孩子復活，失去實驗樣品的聖靈機關就此覆滅。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而アサギ在看到ツバメ與ジャノメ的下場後陷入了悲傷，認定自己這樣的人還是永遠消失的好，隨後直接使盡全身力量和生命毀滅整個聖靈機關。在朦朧的狀態下，アサギ和她身上的聖靈及無數的孩子都化為了群星……</span></li></ul><h3 class="in-block"><span id="虫姫さま系列"></span><span class="mw-headline" id=".E8.99.AB.E5.A7.AB.E3.81.95.E3.81.BE.E7.B3.BB.E5.88.97">虫姫さま系列</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=15" title="編輯章節：虫姫さま系列" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>主要特徵：三種難度選擇（選最高難度會有警告）、以CAVE而言頗為罕見的純奇幻世界觀、作為自機和敵人登場的巨大有毒甲蟲「甲獸」和巨大爬蟲類「恐獸」</li></ul><ul><li>系列主角「レコ」在初代推出之後大受歡迎，成為CAVE社的<a href="/%E9%81%8A%E6%88%B2%E5%85%AC%E5%8F%B8%E4%BB%A3%E8%A1%A8%E8%A7%92%E8%89%B2" title="遊戲公司代表角色">看板角色</a>之一
+<ul><li>不過在遊戲中玩家操控的是載著她的甲獸キンイロ<s>，她只負責丟炸彈和當判定點</s></li>
+<li>以她為主角的作品除了下面的續作之外還有一個派生益智遊戲《パズル！虫姫たま》<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>與及智能手機遊戲《虫姫さまBUGPANIC》，此外也有在不少CAVE的作品裡登場</li>
+<li>CV：CAVE的社員吉井唯，語音都是帶鼻音的棒讀<s>，即使面對鬼畜彈幕也絲毫不驚的少女</s><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">沒有穿內褲</span></li></ul></li></ul><h4 class="in-block"><span id="虫姫さま"></span><span class="mw-headline" id=".E8.99.AB.E5.A7.AB.E3.81.95.E3.81.BE">虫姫さま</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=16" title="編輯章節：虫姫さま" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>為Cave更換新基板後推出的首發作品
+<ul><li>根據訪談，本作最早是要做成一部充滿坦克和飛機的現代STG，但後來為了避免撞路線而改成如今的樣貌</li>
+<li><s>部分早期設定畫看起來根本就是<a href="/%E5%90%89%E5%8D%9C%E5%8A%9B" class="mw-redirect" title="吉卜力">某動畫工作室</a>的某作品</s></li></ul></li></ul><ul><li>遊戲模式分成三種；非彈幕的Original Mode、素來的彈幕風格的Maniac Mode及超強彈幕的Ultra Mode
+<ul><li>不同模式的賺分方式也有不同</li></ul></li></ul><ul><li>自機射擊分三種，除了擴散度不同外也會影響自機的速度
+<ul><li>M-Power：擴散率一般的射擊，速度中等<s>請無視這個</s></li>
+<li>W-Power：擴敵率大，速度較慢<s>唯一能好好打Ultra的機體</s></li>
+<li>S-Power：直線型高威力射擊，速度最快<s>但密著C按A連的火力是三種主射擊裡最弱的</s></li>
+<li>有俗稱「C押A連」的射擊方式來提高火力<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></li></ul></li></ul><ul><li>另有小型子機（道中逐個獲得），分為固定陣型的Formation和跟隨自機移動的Trace兩種
+<ul><li>按住A能令子機靠近自機（只有Formation會在放開A鈕後回歸原位）</li></ul></li>
+<li>射擊強化道具和子機道具也有不同種類，每過一定時間會變化，自機會根據取得的強化道具的內容改變主射搫或子機的種類</li></ul><ul><li>真Boss：<b>アキ ＆ アッカ</b>
+<ul><li>為甲獸森林的神明，外貌是個十來歲的少年，在兩百年前被選中成為負責控制甲獸的人
+<ul><li>由於甲獸身上會散發出充滿毒性的Levi-Sense，需要有一個人主動成為甲獸們的神明來控制這些毒素</li>
+<li>主角レコ在小時候就曾遇到過アキ，由於中毒陷入昏迷的她被アキ所救，身上的毒素被提取出來做成了手鍊，作為兩人之間相遇的證明。</li></ul></li>
+<li>他的攻擊<a href="/%E6%88%90%E5%8F%A5/%E4%B8%8D%E6%98%AF%E2%97%8B%E2%97%8B%EF%BC%8C%E6%98%AF%E2%97%8F%E2%97%8F%EF%BC%81" title="成句/不是○○，是●●！">不是彈幕，是<b>彈瀧</b></a>
+<ul><li>當時的基板極限只能顯示最多約2000發子彈，但該144way彈幕在系統上卻仍要求畫面顯示出比畫面上能顯示的更多的子彈，結果就是 <a href="http://www.nicovideo.jp/watch/sm6416116" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm6416116">這個模樣</a></li>
+<li>無視選擇難度，只要出場<b>必定是最高難度</b></li></ul></li>
+<li>發動Bomb（炸裂果實）會被アキ的子機給接走，同時產生Bomb護盾，如果攻擊護盾的話不但無效還會產生<b>144way的自機狙擊彈</b></li>
+<li>「君ならできるよ。ほら、しっかり（笑）」</li></ul></li></ul><h4 class="in-block"><span id="虫姫さま_ふたり"></span><span class="mw-headline" id=".E8.99.AB.E5.A7.AB.E3.81.95.E3.81.BE_.E3.81.B5.E3.81.9F.E3.82.8A">虫姫さま ふたり</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=17" title="編輯章節：虫姫さま ふたり" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><s>請不要吐槽為什麼劇情和前作有一些兜不上來的矛盾</s></li></ul><ul><li>主角（自機）為レコ&amp;キンイロ和パルム&amp;ハイロー，兩組自機再分成「Normal」和「Abnormal」兩種射擊型態，變相有四種自機選擇，然而性能差也……
+<ul><li><b>Normalパルム的火力極其貧弱</b>，別的機體能一下子處理掉的敵人這台要花兩倍甚至三倍以上的時間應付<s>，讓你看到其他人看不到的東西（彈幕樣式）程度的能力</s>
+<ul><li>在遊戲推出後<b>整整9年</b>才有玩家<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=jXus8svt7ds">成功在<b>默認機台設置</b>下用這台機體ALL掉最高難度</a></li></ul></li>
+<li><b>Abnormalレコ使用集中攻擊時並不會進入低速模式，而是加速</b></li></ul></li></ul><ul><li>賺分方式改變，但同樣隨模式不同而有所改變
+<ul><li>Original Mode：會記下琥珀總獲得數以及本關卡的琥珀獲得數，前者每增加500點就會改變一次顏色，會根據顏色不同決定哪種射擊擊破敵人後會出現大琥珀（綠色時為通常射擊，藍色時則是鐳射），後者則代表取得琥珀時的得分</li>
+<li>Maniac Mode：設有一個琥珀計量表，用通常射擊擊破敵人會增加少許，隨時間經過慢慢減少。計量表有計量時擊破敵人會出現小琥珀，達到有盡頭閃光的位置時則會出現大琥珀。
+<ul><li>另外有一個琥珀倍率計，取得琥珀後會增加數值，墜機後會減一半，數值最高能達到9999</li>
+<li>琥珀計量表為零時以鐳射擊破敵人後出現的琥珀會變成藍色，得分與琥珀倍率計掛勾，但是取得後會令琥珀倍率計的數值減少</li></ul></li>
+<li>Ultra Mode：採用Original的模式，但是琥珀總獲得數的顏色改為每增加2000點改變一次顏色</li></ul></li></ul><ul><li>Black Label的自機角色再沒有表裡型態，改為集以往兩型態於大成的混成型態
+<ul><li>以「極弩Mode（God Mode）」取代Ultra Mode，賺分模式採用Maniac Mode的系統</li></ul></li></ul><ul><li>真Boss：
+<ul><li>無印：<b>ラーサ</b>
+<ul><li>前作真Bossアキ的母親，恐獸國的女王，超肥胖的女性</li>
+<li>因為等不到去鎮壓甲獸的兒子回來而派遣使者去探查，卻收到了アキ的死訊
+<ul><li><s>先不說前作アキ的設定明明是在甲獸森林附近村莊出身的居民，妳居然可以等200年才叫別人去看自己兒子到底在幹嘛…</s></li></ul></li>
+<li>因此大怒想要殺掉害死アキ的兇手レコ<s>但玩家操控的是載著她的甲獸キンイロ，她只負責丟炸彈和當判定點</s>，並派出自己眾多兒子的其中一名パルム，去把她引過來</li>
+<li>但因為レコ不在的關係，而導致甲獸森林的甲獸們全都失控，並摧毀了整個恐獸國；而這一切的發生只因為她自己一心只想著為アキ報仇</li>
+<li>最後被自機兩人+一蟲一龍（被迫）聯手解決了<s>，所以就不能坐下來好好談談嗎…</s></li></ul></li>
+<li>Black Label：スピリチュア・ラーサ
+<ul><li>God Mode限定，變得纖瘦美麗，同時配音也變得輕柔起來的型態</li>
+<li>攻擊方式和對Bomb行動和原版有所不同</li>
+<li><s>那個超色氣的BGM是怎麼回事</s></li></ul></li></ul></li></ul><h3 class="in-block"><span id="YGW（矢川忍）相關系列"></span><span class="mw-headline" id="YGW.EF.BC.88.E7.9F.A2.E5.B7.9D.E5.BF.8D.EF.BC.89.E7.9B.B8.E9.97.9C.E7.B3.BB.E5.88.97">YGW（矢川忍）相關系列</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=18" title="編輯章節：YGW（矢川忍）相關系列" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>主程序員為以製作過《Summer Carnival 92’ 烈火》、《Gun Frontier》、<a href="/RAIZING%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2" title="RAIZING射擊遊戲">《Battle Garegga》、《蝙蝠騎警（Armed Police BATRIDER）》</a>而著名的矢川忍。作風和CAVE一貫的設計風格頗為不同。
+<ul><li>其開發作品特徵：極其複雜且容易上升的Rank系統（同時分數會隨之加成）、以規劃自殺降低難度為前提設計的玩法、在落出畫面前拾取就能不斷累積到最高10000分的獎章、鼓勵使用Bomb來炸掉物件以獲取高分、各式各樣可拆除的BOSS部件、隨機性很強、EVERY EXTEND獎命制、隱藏指令、有著特殊軌跡的爆炸特效、和背景糊在一起看不清楚的子彈等……</li>
+<li>但來到CAVE開發的主導作品除了鋳薔薇以外，另外兩部的機設和人設風格分別都走向了奇怪的方向……</li>
+<li><s>而大概是因為YGW主導開發的作品評價和人氣都不如其他CAVE作品的緣故，後來轉為開發家用機改編模式為主。</s>
+<ul><li>其中《怒首領蜂大復活》的1.51版的部分要素（RANK系統）也是出自其手</li></ul></li>
+<li>目前推出的最新作《怒首領蜂 一面番長/Unlimited》是回收《最大往生》素材做出來的iOS平台手遊<s>，但改名字並在Android平台上架一年就直接收攤下架了</s></li></ul></li></ul><h4 class="in-block"><span id="鋳薔薇"></span><span class="mw-headline" id=".E9.8B.B3.E8.96.94.E8.96.87">鋳薔薇</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=19" title="編輯章節：鋳薔薇" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>YGW在CAVE主導的第一作，風格與《Battle Garegga》相似度高達八成</li>
+<li>跟《Battle Garegga》系列一樣有導入RANK系統，關卡難度會隨著玩家的技術以及火力增強道具的取得與否做升降<s>，所以為了破台而故意自爆或放Bomb是例行工事</s>
+<ul><li>武器及炸彈系統可算是《Battle Garegga》的變體：除了炸彈一樣以外，子機武器為自由組合</li></ul></li></ul><ul><li>有7種不同的子機，最多可裝備3個</li>
+<li>Bomb分兩種，分別為輕按B發射的擴散Bomb，與及按住B進入起手式，放開後射出的高威力炸彈「波動Gun」
+<ul><li>只有前者能夠在未湊夠一個大Bomb時發動（效果會依小bomb數量打折）</li></ul></li></ul><ul><li><s>讓不少遊樂店老闆蝕錢蝕到哭的作品</s>
+<ul><li>受到採用新基板的《虫姬2》大豐收影響，部份遊樂店大量購入本作的基板（與虫姬2的基板規格相同），結果因為遊戲評價不佳令投幣率遠不及預期而賠本</li></ul></li></ul><ul><li>Black Label版改自家用版的改編模式
+<ul><li>按住A能作出強射擊，自機會減速，子機會自動追縱敵人攻擊</li>
+<li>RANK變成可視化而且會急升急降</li>
+<li>玫瑰（以Bomb擊破敵機出現的道具）取得後會降RANK，分數與RANK掛勾</li>
+<li>子機可以按特定按鈕任意切換</li></ul></li></ul><h4 class="in-block"><span id="ピンクスゥイーツ_～鋳薔薇それから～"></span><span class="mw-headline" id=".E3.83.94.E3.83.B3.E3.82.AF.E3.82.B9.E3.82.A5.E3.82.A4.E3.83.BC.E3.83.84_.EF.BD.9E.E9.8B.B3.E8.96.94.E8.96.87.E3.81.9D.E3.82.8C.E3.81.8B.E3.82.89.EF.BD.9E">ピンクスゥイーツ ～鋳薔薇それから～</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=20" title="編輯章節：ピンクスゥイーツ ～鋳薔薇それから～" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li> <a href="http://www.nicovideo.jp/watch/sm12797554" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm12797554">（STGのPVです）</a></li></ul><ul><li>放棄使用Bomb，取而代之是可打消子彈的集氣砲「Rose Cracker」</li>
+<li>Option系統改以「Rose Hip」代替，最多可裝備2個，可按特定按鈕變更其設置方式
+<ul><li>簡單來講就是《Summer Carnival 92’ 烈火》和《Battle Garegga》的折衷</li></ul></li></ul><ul><li>前作1-5面的Boss反過來成為自機駕駛員（Midi<s>因為只懂駕駛戰車的關係</s>與Meidi共乘一機，因此自機只有4台），戰鬥目的是為了救回軟禁於孤島期間被ビッグ=バーン逼婚的媽媽
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從官網的劇情可以得知，ビッグ＝バーン會向テレサ逼婚的其中一個原因疑似是為了讓她替自己的兩位姐姐治療身體的不便。</span></li></ul></li></ul><ul><li>頭目除了最終的ビッグ=バーン之外就是他的姐姐和侍女們，又是全女班…<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">才怪，六面的スーパー＝ノヴァ是ビッグ＝バーン的<b><a href="/%E5%81%BD%E5%A8%98" title="偽娘"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兒子</span></a></b></span>
+<ul><li>敵方駕駛的敵機清一色都是<b>兒童風的彩色鐵皮玩具風格</b><s>，這系列時間點不是19世紀時期的工業時代嗎？</s></li></ul></li></ul><ul><li>不論敵我雙方的語音都會有<s>煞有其事的</s>日英雙語字幕。</li></ul><ul><li>因為RANK系統太容易上升而且RANK變高時的彈幕會變得異常地密，遊戲變得非常鬼畜<s>對話框出現時也會慢慢增加RANK是哪招？</s>
+<ul><li><s>要與之一拼就只有使用<b>無限殘機Bug</b>（家用版被修正）</s></li></ul></li></ul><ul><li>真boss：<b>ビッグ=バーン</b>
+<ul><li>會使用前作的玩家自機的Bomb和波動Gun</li>
+<li>和陽蜂一樣非常吵 \BOMBER! BOMBER! BOMBER!.../ <s>←快點使出波動Gun啊兄台！</s></li></ul></li></ul><h4 class="in-block"><span id="むちむちポーク！"></span><span class="mw-headline" id=".E3.82.80.E3.81.A1.E3.82.80.E3.81.A1.E3.83.9D.E3.83.BC.E3.82.AF.EF.BC.81">むちむちポーク！</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=21" title="編輯章節：むちむちポーク！" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>和鋳薔薇系列同樣走《Battle Garegga》風格，但故事改為惡趣風格
+<ul><li>據說是員工聚餐時想到的靈感<s>CAVE果然有病</s></li>
+<li>連<a rel="nofollow" class="external text" href="https://www.cave.co.jp/gameonline/muchimuchi/index.html">官網</a>都相當有病</li></ul></li></ul><ul><li>由於前作ピンクスゥイーツ太過鬼畜，本作Rank系統<s>被IKD武力介入</s>有好好調整，敵人的耐力不會因Rank升而強化</li></ul><ul><li>機體要<b>按住B</b>才會減速</li>
+<li>特殊計量表「豬油計」能夠以按B消耗發出強力攻擊「豬油攻擊」，豬油計空掉時按B則可發出威力極低的貫通彈
+<ul><li>以豬油攻擊擊破敵人會出現徽章，停止豬油攻擊或改用A鈕射擊就會自動回收</li></ul></li>
+<li><s>自機擦到子彈（不是被彈擊墮）時駕駛員的叫聲相當糟糕</s></li></ul><ul><li>進入二週目的條件是<b>不墜機破一週目</b><s>在要墜機分數才會高的遊戲裡搞這種條件有夠矛盾的</s>
+<ul><li>注意本作有進入二週目後直到關機為止只會在1000萬分出現一次殘機獎勵的bug</li></ul></li>
+<li>使用秘技可以進入會出現擊返彈的「MANPUKU MODE」和直接從二週目開始的「HARAHARA MODE」</li></ul><ul><li>家用版原創模式可以和ピンクスゥイーツ的頭目對戰</li></ul><ul><li>真Boss：<b>ポークフィレ将軍</b>
+<ul><li>對戰的地點就有如在<b>烤肉網</b>上…</li></ul></li></ul><h3 class="in-block"><span id="デススマイルズ相關系列"></span><span class="mw-headline" id=".E3.83.87.E3.82.B9.E3.82.B9.E3.83.9E.E3.82.A4.E3.83.AB.E3.82.BA.E7.9B.B8.E9.97.9C.E7.B3.BB.E5.88.97">デススマイルズ相關系列</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=22" title="編輯章節：デススマイルズ相關系列" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><s>新類型「異世界穿越哥德蘿莉動作STG」</s></li>
+<li>全系列發生地皆位於異世界ジルバラード，所有穿越到此地的人都會帶有強大的魔力，被稱為「ロストチルドレン」
+<ul><li>兩作的主角群皆是由現世穿越到ジルバラード的少女們</li></ul></li></ul><ul><li>2021年12月16日於XBox One、Switch及PS4推出1、2合集，同時推出《ゴシックは魔法乙女》的五乙女DLC角色包</li></ul><h4 class="in-block"><span id="デススマイルズ"></span><span class="mw-headline" id=".E3.83.87.E3.82.B9.E3.82.B9.E3.83.9E.E3.82.A4.E3.83.AB.E3.82.BA">デススマイルズ</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=23" title="編輯章節：デススマイルズ" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>西洋風驚悚射擊遊戲<s>實際上是以賣哥德蘿莉萌娘為主</s></li></ul><ul><li>橫向射擊，但遊戲的捲軸前後左右也有敵人，自機可以向左（A鈕）或右（B鈕）射擊，C鈕用作施放召還魔法（炸彈）
+<ul><li>雖然自機角色會飛行，但是和ぐわんげ一樣行動和攻擊會受地型限制</li></ul></li></ul><ul><li>採用體力制，被彈時扣一格體力（相等於墜機），撞到敵人時扣半格
+<ul><li>Black Label根據基板設定可以改成被彈只扣半格體力</li></ul></li></ul><ul><li>自機射擊分三種：連按A或B的通常射搫，按住A或B的強力射擊，同時按住A和B的鎖定射擊（發動時道具計計量會慢慢減少）
+<ul><li>部份敵人使用特定的射擊擊倒會獲得較多道具來增加道具計</li>
+<li>道具掉落地面前分數會較高，此外高分的道具掉落地面時會分裂成多個小道具</li>
+<li>道具計計量集滿1000後可以同時按住A和B發動強化，除了令射擊強化及不會因撞到敵人而扣體力外，更可以大幅提昇取得道具的效率（發動開始時的消彈也會把子彈化為道具）
+<ul><li>Black Label版可以在道具計計量達500或以上時發動起手時不會把子彈變成道具（依然會消彈）的強化</li></ul></li></ul></li></ul><ul><li>使魔：圍繞角色身邊的子機，可以移動，會和自機同時攻擊，根據角色不同有「通常射擊時固定」和「強力射擊時固定」兩種位置固定法
+<ul><li>Sakura有兩隻使魔</li></ul></li></ul><ul><li><s>有四女角入浴的結局，且此結局是家用版中唯一彩色化的結局圖片</s></li></ul><ul><li>初期6面的難度可以由Level 1-3自由選擇
+<ul><li>Level 1和2各自只能選兩次</li>
+<li>Level 3選擇4次以上或進入EX關卡會進入死亡模式，會出現擊返彈，但擊返彈能夠以自機的使魔吸收</li></ul></li></ul><ul><li>後來發行的改版「Mega Black Label」追加新的海底神殿關卡及可使用Sakura，強化可以在計量儲到一半時發動（但能力較弱），另外還有第四難度「Level999」（選擇後會立即出現擊返彈）給玩家選擇</li></ul><ul><li>XBox360移植版除同時收錄無印和Black Label之外更追加了「ver.1.1」，改變點為使魔改以右類比桿操作，道具計達100或以上時即可發動強化，增加難度（主要為追加擊返彈）
+<ul><li>也可以選擇提升畫質</li></ul></li></ul><ul><li>真Boss：
+<ul><li>無印：<b>ティラノサタン</b></li>
+<li>Mega Black Label：<b>ブラッディージルバ</b>
+<ul><li>Cave史上最弱真Boss</li>
+<li><a href="/%E9%99%B0%E5%BD%B1%E4%BA%BA" title="陰影人">影薄</a>
+<ul><li>過度鬼畜的突入條件<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>讓人難以拜見，結果在MBL發售後三星期才有人注意到<s>，被發現的玩家無損擊破又是另一回事了</s></li></ul></li></ul></li></ul></li></ul><h4 class="in-block"><span id="デススマイルズⅡ_魔界のメリークリスマス"></span><span class="mw-headline" id=".E3.83.87.E3.82.B9.E3.82.B9.E3.83.9E.E3.82.A4.E3.83.AB.E3.82.BA.E2.85.A1_.E9.AD.94.E7.95.8C.E3.81.AE.E3.83.A1.E3.83.AA.E3.83.BC.E3.82.AF.E3.83.AA.E3.82.B9.E3.83.9E.E3.82.B9">デススマイルズⅡ 魔界のメリー<a href="/%E8%81%96%E8%AA%95%E7%AF%80" title="聖誕節">クリスマス</a></span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=24" title="編輯章節：デススマイルズⅡ 魔界のメリークリスマス" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><s>這集完全變成賣萌</s></li></ul><ul><li>CAVE目前唯一一部3D畫面大型機台STG，以自家的3D基板開發，系統稍微改動，而且機台版的關卡為定期更新模式
+<ul><li>不過因為連最後一關也要遊戲推出5個月後才出現（加上發現了無限賺分點和一些bug）而遭到抨擊</li></ul></li>
+<li>CAVE有為本作提供出租式銷售，店家能透過購買基板後一定時期內把遊戲收益與CAVE分帳以獲得較便宜的售價<s>結果同樣觸礁而回收所有出租式基板</s></li></ul><ul><li>鎖定射擊改為結界鐳射，開啟結界時消耗的計量改為專屬的結界計量，結界計量表會隨時間及取得加分道具回復</li>
+<li>道具計量達1000時敵人會射出使魔反應彈，可以透過用使魔或發動強化將之變成加分道具</li>
+<li>強化加進了用作賺分的新點子
+<ul><li>不使用結界鐳射擊破敵人後會出現藍色的擊返彈（強化反應彈），能透過開啟結界將之變成加分道具</li>
+<li>使用結界鐳射擊破敵人後會出現黃色的擊返彈（結界反應彈），收起結界就會變成加分道具</li>
+<li>使用得宜的話能夠在強化完結後立即回收大量道具立刻再度發動強化，是今集賺分的主要手段</li></ul></li></ul><ul><li>賺分上更為爽快，卻同時增加了上手門檻；加上地型要素比上集少、刪除了等級選擇制以及其他各種問題，整體評價反而不如前作</li></ul><ul><li>終於出現男性角色可供使用<s>，不過是一名偽娘</s>
+<ul><li>AC版刪除了上集的フォレット、ローザ和サキュラ，家用版補回前兩者（サキュラ因為官方不想遊戲延期發售而沒有製作）</li>
+<li><s>繼前作入浴結局後，本作家用版再接再厲地出現一男五女齊齊泡溫泉的結局</s></li></ul></li></ul><ul><li><s> <a href="http://www.nicovideo.jp/watch/sm6201818" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm6201818">風使いウィンディア 精霊のいたずらでいやぁん！</a></s></li></ul><ul><li>真boss：
+<ul><li>無印：<b>サタンクロウズ</b>
+<ul><li>因為關卡逐步更新，直到遊戲推出5個月後才出現</li>
+<li><a href="/%E6%AD%A3%E5%A4%AA" title="正太">正太</a>+偽娘控（無誤），與レイ之間的對白會令玩家笑破肚皮</li>
+<li>此人似乎是模仿某怪誕城的某角色而來？</li></ul></li>
+<li>X（Xbox360移植版）：<b>ピジョンブラッドジルバ</b>
+<ul><li>彈幕有所改變，仍然沒有任何對Bomb防禦機能</li></ul></li></ul></li></ul><h4 class="in-block"><span id="ゴシックは魔法乙女〜さっさと契約しなさい!〜[39]"></span><span class="mw-headline" id=".E3.82.B4.E3.82.B7.E3.83.83.E3.82.AF.E3.81.AF.E9.AD.94.E6.B3.95.E4.B9.99.E5.A5.B3.E3.80.9C.E3.81.95.E3.81.A3.E3.81.95.E3.81.A8.E5.A5.91.E7.B4.84.E3.81.97.E3.81.AA.E3.81.95.E3.81.84.21.E3.80.9C.5B39.5D">ゴシックは魔法乙女〜<a href="/%E3%82%AD%E3%83%A5%E3%82%A5%E3%81%B9%E3%81%88" title="キュゥべえ">さっさと契約しなさい!</a>〜<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=25" title="編輯章節：ゴシックは魔法乙女〜さっさと契約しなさい!〜[39]" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>智慧型手機遊戲，2015年4月1日開始營運；官方簡稱為「ゴ魔乙」或「ごまおつ」。
+<ul><li>中文版由<s>黑橘</s>遊戲橘子集團旗下的「江湖桔子」代理，中文譯名為《發射吧！少女！》，但已於2019年4月停止營運<s>只撐了一年就島了</s></li>
+<li>與デススマイルズ同一世界觀</li></ul></li></ul><ul><li>主角為帶有魔力，獨自生活在廢棄教會的<ruby>真<rp>（</rp><rt style="font-size:0.5em;">魔</rt><rp>）</rp></ruby>少年，為了拯救遭到魔物侵犯的ジルバラード，與各式各樣的少女相遇並簽下契約，踏上了戰鬥之路。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">主角真身其實是死笑1黑幕ジルバ的兒子</span></li>
+<li><s>雖然是叫魔法乙女，但其實也可以和BBA、兄貴、偽娘、イケメン、小怪等玩意簽約，連擊反彈和[5]箱都可以</s></li>
+<li>3周年時作為紀念使魔實裝<s>我契約我自己</s>，進化到最終階段還會直接<b>性轉換</b></li></ul></li>
+<li>不少CAVE自社作品都有穿越到此作<s>任何CAVE作品世界都有光閘通往ジルバラード</s>，而且不只少女和機娘（包括擬人化的雷光和ゴールデンディザスター），<b>連《大復活》的大佐（還另設正太版本）和《ケツイ》的美少年們</b>都來了</li></ul><ul><li>CAVE系STG中少數關卡以地形特化而不是彈幕的作品，分數系統則類似大往生+ケツイ的連擊+近戰特化混合體
+<ul><li>近戰判定為自機周圍的圓圈，只要持續連擊便可以擴大圈圈，在圈圈內擊破的敵人分數和連擊會加倍並掉落分數道具
+<ul><li>本作用來育成自機性能的道具「祈禱石」便是透過這方式取得，每關最高上限為1000個</li></ul></li>
+<li>自機在達到100連擊時會進入類似Hyper的強化模式，在本作稱為「LOVE MAX」</li>
+<li>自機的<b>火力與當前稀有度及魔力（分數倍率）無關，只和使魔持有的射擊方式相關</b></li>
+<li>在最高難度下（Death、弩Death）打倒敵人會飛出可以打爆的擊返彈，如何利用擊返彈和手上的彈種來獲取高分是一大關鍵</li></ul></li></ul><ul><li><s>因為其他旗下手遊作品都暴死的緣故</s>一度成為CAVE最大的經濟來源+救廠神作，也是目前同類型廠商中極少數能靠STG手遊吃飯的。
+<ul><li>還成為2017年法米通STG總選舉的<b>榜首</b>，把許多經典STG名作（包括CAVE自家的作品）都甩到後頭去<s>，讓許多玩家吐槽又一個塞錢通買榜的例子</s></li>
+<li><s>然而近日來CAVE的財務赤字越發嚴重，目前已經度過7周年的本作能否活到那個東方二創出來都還是未知數</s></li></ul></li>
+<li><s>卡池和運營非常坑：前者有時會在短時間開10個以上的卡池，後者經常動不動就出包（還有過更新新模式導致整個遊戲出問題的紀錄）</s></li></ul><ul><li><s>真Boss：スフレ、<a href="/%E5%B0%8F%E6%9E%97%E5%B9%B8%E5%AD%90" title="小林幸子">小林幸子</a></s></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">擔任本作人設的插畫家壱にいち於2018年6月2日猝逝，震驚了許多玩家，R.I.P</span></li></ul><h3 class="in-block"><span id="單發作品"></span><span class="mw-headline" id=".E5.96.AE.E7.99.BC.E4.BD.9C.E5.93.81">單發作品</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=26" title="編輯章節：單發作品" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="弾銃フィーバロン（Fever_SOS）"></span><span class="mw-headline" id=".E5.BC.BE.E9.8A.83.E3.83.95.E3.82.A3.E3.83.BC.E3.83.90.E3.83.AD.E3.83.B3.EF.BC.88Fever_SOS.EF.BC.89">弾銃フィーバロン（Fever SOS）</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=27" title="編輯章節：弾銃フィーバロン（Fever SOS）" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>一反常態地以高速子彈為主的射擊遊戲
+<ul><li>故事走惡趣味風格，畫面特效充滿Disco風味，背景樂更是首首名曲
+<ul><li><s>所以<a href="/%E6%88%90%E5%8F%A5/%E4%B8%8D%E6%98%AFOO%EF%BC%8C%E6%98%AFXX!" class="mw-redirect" title="成句/不是OO，是XX!">不是射擊遊戲，是迪斯可遊戲</a></s></li>
+<li><b>\FEVER!/ \YES!/ \OH!YEAH!/ \GOTCHA!/ \OH!MY.../ \NOOOOOO!/</b></li></ul></li></ul></li></ul><ul><li>自機有三種，只有主射擊的擴散度不同
+<ul><li>另外副武器（追尾彈、慢速大型飛彈和回旋砲）和機體速度（4階段）也可以在遊戲開始前自由設定</li>
+<li><b>機體速度不同，被彈判定也會不同（愈慢判定愈小，反之越大），請注意</b></li>
+<li>使用密技可以使用同社某方塊遊戲的主角「魚太郎（一頭貓）<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup>」，主射擊威力極強，沒有Bomb和副射擊，被彈判定超大，但速度超快（比一般機體的4速還要快）及可以按B鈕自由調整射擊擴散度
+<ul><li>官方聲稱魚太郎的性能沒可能會破關，結果還是 <a href="http://www.nicovideo.jp/watch/sm11803319" rel="nofollow"><noscript><img alt="Ext nico.png" src="/images/b/b4/Ext_nico.png" width="10" height="10" style="vertical-align: middle"></noscript><span class="lazy-image-placeholder" style="width: 10px;height: 10px;" data-src="/images/b/b4/Ext_nico.png" data-alt="Ext nico.png" data-width="10" data-height="10"> </span></a> <a rel="nofollow" class="external text" href="http://www.nicovideo.jp/watch/sm11803319">有高手做到了</a><s>還順便更新了最高分數紀錄（到2017年被B-BOMB-3超越）</s></li></ul></li></ul></li></ul><ul><li>賺分系統為接住擊破敵人後出現的小人，敵人越早被擊破出現的小人就越多，連續取得時獲得的分數會不斷增加，一旦有小人飛出畫面分數會重新計算</li>
+<li>同時按住A和B開始遊戲會進入Time Attack模式，3分鐘之內挑戰最高分數，殘機數無限</li></ul><ul><li>真Boss：<b>グラッチェ提督</b>
+<ul><li>之所以會對フィーバー行星發動攻擊是因為向<a href="/%E5%A4%AA%E9%99%BD%E7%B3%BB" title="太陽系">太陽系</a><a href="/%E5%9C%B0%E7%90%83" title="地球">第三行星</a>進軍途中與老婆通電話時被怪電波干擾，又因為主角們打擾到他的下午茶時間而親自對付他們…</li>
+<li>但因為<a href="/%E7%84%A1%E6%95%B5%E7%8B%80%E6%85%8B" title="無敵狀態">玩家的「舞蹈力量高達極限」</a><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup>的關係，最終關的隱藏Boss的彈幕之強勁也是徒然
+<ul><li>海外版修正了此Bug，但PS4移植版可在設定選項裡<b>開啟「グラッチェ提督戦でのダンスエナジー」功能重現此戰裡的極限狀態</b></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結局就是以提督為第一身視點來描述</span></li></ul></li></ul><h4 class="in-block"><span id="プロギアの嵐"></span><span class="mw-headline" id=".E3.83.97.E3.83.AD.E3.82.AE.E3.82.A2.E3.81.AE.E5.B5.90">プロギアの嵐</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=28" title="編輯章節：プロギアの嵐" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>由<a href="/Capcom" title="Capcom">Capcom</a>發行，使用的基板為Capcom自家開發的CPS-2</li>
+<li>蒸氣龐克風格的橫向射擊</li></ul><ul><li>按住A使用的Gunner會自動轉向敵人的方位攻擊</li>
+<li>自機有兩種（擴散射擊型的慢速機「ギャンブラー」和前方集中攻擊型的快速機「ミリタント」），可選擇的Gun Flare（Gunner/副射擊）則有三種（能製造爆風的α式，旋回速度快的β式和射出追尾導彈<s>但威力弱得只能安胎去</s>的γ式）
+<ul><li>以特定指令選擇Gunner能夠決定Gunner通常時的位置</li></ul></li></ul><ul><li>因為故事為講述一群得到<a href="/%E4%B8%8D%E6%AD%BB%E8%BA%AB" title="不死身">不老不死</a>技術的老人企圖佂服世界的關係，Boss們不是老頭子就是老婆婆，自機則全是少年少女
+<ul><li><s>泡妞遊戲，</s>玩家的表現能提昇操控Gunner的女伴的好感度，一周目中達至等級5或以上會令結局改變<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>（二週目必定會改變）</li></ul></li></ul><ul><li>擊破敵機的爆風可以把子彈抵消並化為戒指（以Shot射爆）或寶石（以Gunner射爆），一次消越多越名貴
+<ul><li>要用相反的攻擊方式才能自動將寶石和戒指吸收</li>
+<li>取得珠寶後會增加珠寶計，計量越多攻擊著彈時獲得的分數就越多</li>
+<li>也會記下珠寶的名貴度，然而吃下寶石後名貴度會重置（因此寶石的分數比同名貴度的戒指高）</li>
+<li>Bomb的威力與珠寶計的計量有依存</li></ul></li></ul><ul><li>達成一定條件（一週目完成時墜機不超過1次 or Bomb使用次數不超過2次）即可進入二週目
+<ul><li>二週目道中被擊墜要從頭開始
+<ul><li><s>二週目五面道中才是真正的真Boss（無誤）</s></li></ul></li>
+<li>頭目被擊破時的台詞會改變</li></ul></li></ul><ul><li>真Boss：<b>球形要塞ボルボックス</b>（駕駛員：レオナルド=ドリル元老大元帥<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup>）
+<ul><li>沒有對應Bomb行動<s>所以道中才是真正的真Boss</s>
+<ul><li>其實某程度上仍有Bomb對策<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup></li></ul></li>
+<li>二週目時大元帥會脫下獅子面具</li>
+<li><s>發狂時的彈幕是<a href="/%E8%8A%B1%E4%BA%AC%E9%99%A2%E5%85%B8%E6%98%8E" title="花京院典明">綠寶石水花</a></s></li>
+<li><s>其實二週目的4面Boss才是最強，<a href="/%E6%88%90%E5%8F%A5/%E9%82%8A%E5%A2%83%E7%9A%84%E5%A5%B3%E4%BA%BA%E9%83%BD%E5%BE%88%E5%BC%B7%E6%82%8D" title="成句/邊境的女人都很強悍">CAVE的老婆婆果然都很強悍</a></s></li></ul></li></ul><ul><li>也是一個沒有移植過的作品，除了版權歸Capcom USA所有之外<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup>，CPS-2基板的實際畫面比例比較扁身<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>也令到移植上會難以原作再現<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup><ul><li>需求少也是原因之一</li>
+<li>在Capcom的<s><ruby>月光寶盒<rp>（</rp><rt style="font-size:0.5em;">Pandora's Box</rt><rp>）</rp></ruby></s>大搖桿型懷舊向遊戲機「Capcom Home Arcade」裡收錄了此作品，之後在各主機平台推出的《Capcom Arcade Stadium》也有收錄此作</li></ul></li></ul><h4 class="in-block"><span id="ぐわんげ"></span><span class="mw-headline" id=".E3.81.90.E3.82.8F.E3.82.93.E3.81.92">ぐわんげ</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=29" title="編輯章節：ぐわんげ" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>故事發生在日本室町時代的和風驚悚射擊遊戲<s>精神<a href="/%E7%8D%B5%E5%A5%87" class="mw-redirect" title="獵奇">獵奇</a></s></li></ul><ul><li>和《エスプレイド》一樣以人來當自機，但這次是在地上走
+<ul><li>只能走平路（有高低差、障礙等就無法跨過），通常射擊也會被障礙物擋住</li>
+<li>沒有因拉版而被地型夾死的設定，取而代之會強制把自機擠出來</li></ul></li></ul><ul><li>按住A則是式神攻擊，式神可以無視地形移動，且和敵人重疊時就會對該敵人進行空爆，後面的關卡要對付從四方八面而來的敵人時超重要
+<ul><li>被式神觸到的敵彈會短時間速度減慢，敵彈減慢期間打倒射出該敵彈的敵人則可把子彈消掉並化為錢（加分物）並自動吸取</li>
+<li>XBLA版的新模式中，式神改為以右類比桿操作</li></ul></li>
+<li>八相彈（Bomb）能以搖桿控制射擊方向</li></ul><ul><li>採用體力制，體力計分為三大格，通常狀態下被彈直接扣一格並墜機，開啟式神時被彈則只扣少許體力（+極短無敵時間），直到扣盡一格才算墜機
+<ul><li>部份關卡會出現體力回復道具</li></ul></li></ul><ul><li>賺分系統：
+<ul><li>骷髏計：擊倒敵人或式神與敵人重叠時上升，隨時間經過或以普通攻擊打倒敵人時下降，扣盡時會令錢計歸零</li>
+<li>錢計：骷髏計仍有計量時取得錢就會一直增加的連鎖系統
+<ul><li>錢計達1000以上+骷髏計計量達一半以上時，以通常射擊打中敵人也會出現錢</li></ul></li></ul></li></ul><ul><li>真boss：<b>尼魏主→ぐわんげ樣→命→尼魏主（式神狀態）</b>
+<ul><li><s>老人虐待，嬰兒虐待，小孩虐待</s></li></ul></li></ul><h4 class="in-block"><span id="ケツイ～絆地獄たち～"></span><span class="mw-headline" id=".E3.82.B1.E3.83.84.E3.82.A4.EF.BD.9E.E7.B5.86.E5.9C.B0.E7.8D.84.E3.81.9F.E3.81.A1.EF.BD.9E">ケツイ～絆地獄たち～</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=30" title="編輯章節：ケツイ～絆地獄たち～" data-section="30" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>華人圈<s>因為分不出正副標題的關係</s>通常以副題的漢字「絆地獄」稱之</li></ul><ul><li>與首領蜂系列同為CAVE成功作之一
+<ul><li><s>新題材「悲壯<a href="/BL" title="BL">薔薇</a>彈幕STG」</s></li>
+<li>與以往的風格不同，主要以軌道變化彈、分裂彈和變速彈為主</li></ul></li></ul><ul><li>任務目標是「軍火公司：EVAC社」<s>其實就是Cave在遊戲中的化身</s>
+<ul><li><s><a rel="nofollow" class="external text" href="http://www.evac.com/">原本是從真空浴廁設備、廢水收集/處理/回收工程製作起家</a></s></li></ul></li></ul><ul><li>射擊分成普通射擊及Lock on射擊（低速模式）兩種
+<ul><li>使用Lock on射擊時，自機雷射的攻擊距離會依照子機Lock on的數量決定：Lock on的數量越多、雷射越短；而自機越靠近敵人、雷射攻擊力越高、Lock on速度也越快</li>
+<li>切換到Lock on射擊時子機會維持普通射擊，由於TYPE-B的子機配置較窄，所以可以透過切換攻擊模式來擴大普通射擊的攻擊範圍</li></ul></li></ul><ul><li>隨擊破敵機得到的加分物的數字晶片會根據自機與敵人之間的距離而變化，越接近越大（1-5）
+<ul><li>密著狀態擊破而產生「5」時更加會令一定時間內加分全部無條件變成「5」</li>
+<li>二周目時加分物固定為5，取得方式則改成擊返彈的彈量</li></ul></li></ul><ul><li>二周目分表裡兩種，主要以擊返彈作為重點
+<ul><li>裡版進入條件非常嚴格，難度當然比起表版更加鬼畜</li>
+<li>為了遊戲平衡，只要在非常近的距離擊破敵人就不會有擊返彈
+<ul><li><s>可是某些敵人跟頭目被打爆就有消彈效果，所以有沒有擊返彈都沒差</s><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup></li></ul></li>
+<li>網路消息：聽說是發售前一天才製作表二週目，所以原本只打算出裡二週目</li></ul></li></ul><ul><li>此遊戲和其他Cave遊戲的殘機獎勵相比較多，總共有四個（含二周目，含分數獎勵共六個），分別為：
+<ul><li>三面中Boss全部部件擊破，最後的本體砲口擊破就會出現，途中<b>No Miss No Bomb</b></li>
+<li>五面道中第一架A型自機後繼機出場<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup>到擊破之間，還有第二架B型自機後繼機出場到擊破之間達成<b> No Bomb</b>後，在第二架後繼機擊破時出現</li></ul></li></ul><ul><li>Bomb是從子機上發射，所以Bomb會朝向Lock on射擊時的敵人，但也因此有機會引發下述的Bug
+<ul><li>某些情況下會出現血很厚或打不死的敵人（但必須沒有Bomb的攻擊判定），讓子機在Lock on時呈現水平或朝下射擊並在發射Bomb同時擊破該敵人，會使Bomb在畫面下方無限左右來回，同時自機的防護罩也不會消除</li>
+<li>當然只要畫面上的Bomb碰到敵人就會解除，但若是一路打到真Boss，真Boss根本不會到畫面下方，且發狂時會展開護盾，此時只能等真Boss自爆才能通關</li></ul></li></ul><ul><li>NDS移植版「Death Label」改以斬件式關卡設計，讓玩家能反覆挑戰不同的特定關卡段落和Boss<s>洗設定資料</s>
+<ul><li>由於畫面較小，因此彈幕和操作手感上有所修正</li></ul></li></ul><ul><li>XBox360移植版「Extra」新增X Mode，擊破敵人會產生緩慢的紅色小型子彈，可以用Lock on時主機的雷射消除，而擊破特定的紅色敵人會全畫面消彈並轉換為加分物
+<ul><li>此模式加分物的設定如一周目，沒有改變</li></ul></li></ul><ul><li>二周目條件：
+<ul><li>表：Miss次數+Bomb次數少於6</li>
+<li>裡：
+<ol><li>No Miss、No Bomb</li>
+<li>一周目得分超過1.2億</li></ol></li>
+<li>進入表二周目是直接從頭開始，裡二周目則會出現「Welcome to special round」這句話後再從頭開始</li></ul></li></ul><ul><li>各關卡Boss：
+<ul><li>Stage 1「喧騷の街」：大型制空戰鬥機 ブルフロッグ</li>
+<li>Stage 2「機甲の綠」：XM177 スフィンクス 多履帯戰車</li>
+<li>Stage 3「夕暮の艦隊」：V/STOL 大型輸送攻撃機 ジャマダハル
+<ul><li><s>艦隊的Boss是大型戰鬥機？</s></li></ul></li>
+<li>Stage 4「闇に潛む」：特殊換裝車輛 シンデレラアンバー</li>
+<li>Stage 5「審判の日」：試作型重機動戦闘要塞 エヴァッカニア
+<ul><li><s>由於外型、攻擊方式、光翼戰鬥機的出場方式而被戲稱<a href="/%E5%A4%A7%E5%90%8C%E9%9B%BB%E9%8D%8B" title="大同電鍋">炊飯器</a></s></li></ul></li></ul></li></ul><ul><li>真Boss：<b>光翼型近接支援殘酷戰鬥機 エヴァッカニア・ドゥーム</b>
+<ul><li>突入時2P或1P處的insert coin會變成Please wait（不能有兩個玩家同時進行）</li>
+<li>會丟出Bomb和玩家的Bomb相殺，而且BGM會在發狂時達到高潮，演出感滿載
+<ul><li>第一、第二階段時使用Bomb不會開啟防護罩，繞過光翼的Bomb還是可以攻擊到</li></ul></li>
+<li>在Death Label中有<a rel="nofollow" class="external text" href="http://dic.nicovideo.jp/a/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%83%E3%82%AB%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BC%E3%83%A0">多個亞種</a><s>ドゥーム樣大家族</s></li>
+<li>在《怒首領蜂大復活》黑標Arrange中以「Hi-…VA…C…」名義登場（見大復活子項）</li></ul></li></ul><h4 class="in-block"><span id="赤い刀"></span><span class="mw-headline" id=".E8.B5.A4.E3.81.84.E5.88.80">赤い刀</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=31" title="編輯章節：赤い刀" data-section="31" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>設定在近現代的日本，年號「大照」，由於發現了「祈導石」這項新物質而使科技高度發展，使用祈導石製成的紅刀則稱為「血晶刀」
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然而要發揮血晶刀的潛力必須以人命作為代價，必須透過殺人來取得更多力量。反抗軍（主角方）舉行儀式，使被殺死的人成為幻忍，持有者則稱作祈導人</span></li></ul></li>
+<li><s>予言<a href="/%E8%89%A6%E9%9A%8ACollection" title="艦隊Collection">艦娘</a>和<a href="/%E5%88%80%E5%8A%8D%E4%BA%82%E8%88%9E" title="刀劍亂舞">刀郎</a>會大熱的遊戲</s></li>
+<li>繼最大往生後又一部被移植到exA基板的作品，並新增了獨有的「EXA Label」模式，而在選擇自機時按下可以進入高難度模式</li>
+<li><s>プロギアの嵐2</s>
+<ul><li>本作的部分設定和プロギアの嵐有對應之處，而EXA Label更直接沿用了相同的寶石/戒指消彈系統</li></ul></li></ul><ul><li>無印版共六面，Xbox360移植版「真」則增加了一關
+<ul><li>「真」增加了在近距離攻擊時出現的累積物「鋼」和「刀」，作用下述</li></ul></li></ul><ul><li>自機移動速度由按射擊鍵的方式決定，基本上和首領蜂系列相同，並且透過攻擊可以累積「祈導值」
+<ul><li>殘機以多格HP槽計算，受到雷射攻擊時HP會快速下降，扣至零時則算墜機，遭一般彈命中時則直接墜機</li></ul></li></ul><ul><li>自機分成戰鬥機和幻忍<s>跟飛機一樣大的人在天空飛</s>，幻忍型態（念身）時會消耗祈導值，並且可以擋下雷射
+<ul><li>念身又分為「攻擊」和「防禦（不攻擊時）」兩種模式
+<ul><li>攻擊模式下擊破敵人會產生擊返彈，被彈會清空祈導值並切換回戰鬥機</li>
+<li>防禦模式則不會被彈而且可以彈開敵彈，敵彈會用微追蹤的方式環繞自機</li>
+<li>解除念身時在會震開在自機周遭的敵彈</li></ul></li>
+<li>「真」改為「念身（真）」，移除防禦模式，分兩個階段
+<ul><li>第一階段透過獲得累積物「鋼」一定數量後「鋼陣」會出現在自機周遭，可以消去接觸到鋼陣的彈幕</li>
+<li>使用低速模式放出鋼陣後進入第二階段，累積物變為「刀」，同樣獲得一定數量後會變成「刀陣」出現在自機身邊，同時低速模式的攻擊會被強化，擊破敵人會產生擊返彈
+<ul><li>主動解除念身（真）時刀陣會射出並且有極高的攻擊力，可以消除彈幕，命中敵人時會產生加分的金塊，念身（真）期間的獲取的「刀」數量越高刀陣的攻擊力越高</li></ul></li>
+<li>鋼陣和刀陣最多能產生16個
+<ul><li>戰鬥機型態只能獲得鋼，切換念身（真）時可以直接在自機身旁產生鋼陣</li></ul></li></ul></li></ul></li></ul><ul><li>真Boss：
+<ul><li>無印：<b>西園寺芭蕉</b></li>
+<li>真：<b>西園寺芭蕉・紅蓮</b>（「真」裡持不墜機直到打倒第六關boss為止就會出現）
+<ul><li>打倒表最終boss會根據角色不同而有不同結局<s>每個都很鬱</s>，打倒隱藏最終boss則會進入<s>きれいな鈴蘭ルート</s>全角色共通的隱藏結局</li></ul></li>
+<li><s>特別協力：トレジャー</s><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup></li></ul></li></ul><ul><li>名作曲家梅本竜的遺作，R.I.P</li></ul><h4 class="in-block"><span id="三極ジャスティス"></span><span class="mw-headline" id=".E4.B8.89.E6.A5.B5.E3.82.B8.E3.83.A3.E3.82.B9.E3.83.86.E3.82.A3.E3.82.B9">三極ジャスティス</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=32" title="編輯章節：三極ジャスティス" data-section="32" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>由CAVE開發的智慧型手機遊戲，人設擔當為井上淳哉</li>
+<li><s>已倒閉，有事請燒紙</s></li></ul><h4 class="in-block"><span id="ワールドウィッチーズ_UNITED_FRONT"></span><span class="mw-headline" id=".E3.83.AF.E3.83.BC.E3.83.AB.E3.83.89.E3.82.A6.E3.82.A3.E3.83.83.E3.83.81.E3.83.BC.E3.82.BA_UNITED_FRONT"><a href="/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA" title="ストライクウィッチーズ">ワールドウィッチーズ</a> UNITED FRONT</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=33" title="編輯章節：ワールドウィッチーズ UNITED FRONT" data-section="33" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>由CAVE／KADOKAWA／ForwardWorks共同開發的智慧型手機遊戲，官方簡稱為「ユナフロ」
+<ul><li>2021/6/28營運更換成株式会社フレンズライト</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=34" title="編輯章節：相關連結" data-section="34" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li><a href="/%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2" title="射擊遊戲">射擊遊戲</a>
+<ul><li><a href="/2D%E6%8D%B2%E8%BB%B8%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8" title="2D捲軸射擊遊戲系列作品列表">2D捲軸射擊遊戲系列作品列表</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=35" title="編輯章節：回應" data-section="35" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<p><a href="/%E8%A8%8E%E8%AB%96:CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2" title="討論:CAVE射擊遊戲">討論:CAVE射擊遊戲</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;action=edit&amp;section=36" title="編輯章節：備註" data-section="36" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">台灣分公司使用名稱</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.4gamer.net/games/379/G037921/20181204046/">這段訪問裡</a>被松本大輔稱為「当時のケイブスタッフ」</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">已上架：虫姬さま、DEATHSMILES、怒首領蜂大復活</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">已上架：弾銃フィーバロン、絆地獄、エスプレイド</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">已上架：G-Mode Archives的CAVE作品傳統手機移植版、エスプレイド、虫姫さま、エスプガルーダII</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">原CAVE的家用機和手機移植業務與運營負責人，現為LiveWire的CEO</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">原最大往生、赤刃、DODONPACHI MAXIMUM的製作人。後來開設自家公司タノシマス，並推出智慧型手機STG（後來移植到街機）アカとブルー</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">CAVE旗下STG的御用機設和背景設計，早在80年代開始就在一家遊戲圖像外包公司負責給Taito、Konami、Hudson等知名遊戲公司做外包；1995年開始藉由首領蜂一作開始常駐CAVE，2021年6月從CAVE離職。</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">CAVE旗下作品的作曲家和音效設計師、魔法乙女的BGM作曲擔當；現已跳槽到CityConnection。</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">此外身旁放出的能量跟雷射攻擊力一樣</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">應該說那年代的美式太空科幻設定上都是這樣</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">根據旁白的說法，官方資料暫缺</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">意為「乖乖受死吧」，這句話很常被STG眾使用，所以在《怒首領蜂》以後的彈幕遊戲上，只要是很困難、誇張的彈幕都很常出現這句話；另外在《怒首領蜂》系列裡大佐向玩家宣戰時最後一句必然是此句話</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">大佐的身世不明，在《大往生Death Label》和《大復活》登場的大佐也不知道是不是同一人</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結局中主角也推測近年地球的種種議題：全球暖化、地球人口膨脹、環境破壞…等也可能是大佐執行這個計畫的原因</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">尤其第四關以前的BOSS分明是拿前作的BOSS複製貼上</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">「陰霾」是關卡、同時也是BGM名稱</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">根據官網解釋這是任務代號，另外，每一關出現的文字會不一樣</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">指的是Boss超過時間而自滅時會改為顯示「NO BREAK」</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">同原作的No Miss</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">《大往生》的其中一張畫中寫著DODONPACHI 4，不過最大往生的官方PV歷代回顧中沒有蜂2<s>所以依舊是黑歷史，倒是出現了致敬IGS的Boss</s></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">Shotia的鐳射威力弱而且移動力低，遇到高耐力的敵人都會陷入苦戰，要保命到破關就要多次使用Bomb（不過也要算好使用時機）。結果到了大復活時以她為原型而生的Element Daughter Shooty的其中一種攻擊方式就是狂丟炸彈<s>，被擊破時還會特意提醒自己周圍半徑一公里內是爆炸範圍，請儘速（ry</s></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">但強化程度比上述兩者的強化較弱一點點，可以在攻擊範圍以及切換速度上看出</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">此外]-[|/34&lt;#!／<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5d021d70272b">[email&#160;protected]</a><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="015e41">[email&#160;protected]</a>及續作的陽蜂／陰蜂也是エレメントドーター的一種</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">Perfect的簡寫</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">下降速度大致為：不射擊&gt;一般射擊&gt;雷射</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從黑標Arrange結局中可得知《ケツイ》跟《怒首領蜂》系列是在同一世界觀，該模式也算是定位在《ケツイ》與《大復活》之間的時間線，順便一提「Hi-…VA…C…」從名稱到來歷都極度神祕到<b>連《ケツイ》兩位主角都完全無法得知</b></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">此關卡若在三面出現會非常難打，重視破關的務必安排這關在二面</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">那些女僕其實是ガラ婦人利用亜莉水製造出來的複製人</span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">敵方西裝ESP能力者放出的彈幕也是這種樣式，但與ガラ婦人<s>的百烈張り手</s>相較之下稀薄很多</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">本作發行前幾年的小林幸子就是穿了一對大翅膀在紅白登場…後來小林幸子在《ゴ魔乙》成為某關底的Boss</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text">即「Arcade Plus」「Super Easy」及「Custom」</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從最終關卡的對話中可得知</span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text">因為是將本體性別相反的聖靈結合的緣故</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text">遊戲系統改自同社作品《魚ポコ》</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">在《ゴ魔乙》裡改由專業聲優配音，但後來有推出請回吉井唯配音的版本</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text">A鍵為單射一發，C鍵為自動連射，由於本作沒有設計射速上限，在按住C鍵時可以連打A鍵讓自機射速再提升<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，理論上可以瞬殺任何敵人的神技，但實際上只會用來快速解決強敵而已</span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text">所有關卡都選擇Level999，而且4-6面必須No Miss通關</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text">遊戲檔案的英文名為「DeathGaluda」（遊戲中進行關卡時放開螢幕能夠讓畫面速度變慢，並且課金抽卡用的道具是聖靈石）<s>難怪主角也能性轉</s></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text">2P時則為雌貓「保子」，性能不變</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text">因為Bug導致打倒最終Boss前的副Boss時產生的無敵護罩沒有因為進入最終戰而解除，只要玩家使用Bomb就能解除</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text">好感度不足時男女角會各自發展，足夠的話則是兩人一起發展的結局</span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text">遊戲裡登場時字幕會將其軍階寫錯成「元老大元<b>師</b>」</span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text">對岸有人測試，發狂時被放了十次以上Bomb也炸不死，必須靠自機攻擊或者待他自爆</span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text">本作的ギャンブラー（配α式）成為《ダライアスバースト クロニクルセイバーズ》的DLC機體時是屬於Capcom陣容<s>「太好了！CAVE社變相有4機參戰！」</s></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text">當時的電視機採用12:9的畫面比例，而CPS基板系列的畫面比例是12:7，大家看到的畫面都是被拉高過的。不止本作，所有採用CPS-2基板的STG（《19XX》、《グレート魔法大作戦》等）都沒有移植往家用機。</span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text">真的把畫面拉高的話每一個像素就會變成大約1:1.3的縱長方形，對於攻擊判定和被彈判定都是以像素作計算的彈幕射擊來說會難以再現</span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><a href="#cite_ref-48">↑</a></span> <span class="reference-text">如上述，實際上並不是沒差就是</span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><a href="#cite_ref-49">↑</a></span> <span class="reference-text">這裡的「出場」指的是<b>在背景出現</b>，下述的B型自機後繼機亦同</span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><a href="#cite_ref-50">↑</a></span> <span class="reference-text">中途召喚的「修羅血晶」讓不少玩家<a href="/%E6%88%90%E5%8F%A5/%E6%88%91%E6%83%B3%E8%B5%B7%E4%BE%86%E4%BA%86" title="成句/我想起來了">回想起</a>《閃耀銀槍》的石頭</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=CAVE射擊遊戲&amp;oldid=421428">https://wiki.komica.org/index.php?title=CAVE射擊遊戲&amp;oldid=421428</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="1668440953">
+				最後編輯於 2022年11月14日 (週一) 23:49
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=CAVE%E5%B0%84%E6%93%8A%E9%81%8A%E6%88%B2&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.336","walltime":"0.900","ppvisitednodes":{"value":2388,"limit":1000000},"ppgeneratednodes":{"value":5633,"limit":1000000},"postexpandincludesize":{"value":30721,"limit":2097152},"templateargumentsize":{"value":14066,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17668,"limit":5000000},"timingprofile":["100.00%  163.167      1 -total"," 29.04%   47.384     32 模板:Ref"," 12.32%   20.103     56 模板:Censored"," 11.88%   19.378      1 模板:H0","  7.44%   12.140     16 模板:Ruby","  3.16%    5.159     17 模板:Sm","  2.15%    3.503      4 模板:Youtube","  1.52%    2.480      1 模板:Twitter"]},"cachereport":{"timestamp":"20221114155334","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141});});</script>		</body>
+		</html>
+		

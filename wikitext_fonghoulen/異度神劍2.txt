@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>異度神劍2 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"異度神劍2","wgTitle":"異度神劍2","wgCurRevisionId":418481,"wgRevisionId":418481,"wgArticleId":34171,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"異度神劍2","wgRelevantArticleId":34171,"wgRequestId":"8b1687d0bc703742edf5b8c0","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-異度神劍2 rootpage-異度神劍2 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit" title="編輯此頁面的導言章節"><a href="/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">異度神劍2</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;"> 異度神劍2（ゼノブレイド2 / Xenoblade Chronicles 2）<s>/印度神劍2<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>/奶子神劍/Waifublade Chronicles</s> </div>
+<table class="wikitable" style="margin:auto;text-align: center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td colspan="2" align="center">本條目近日遭到得了妄想症的認真廚襲撃，請有心人準備隨時恢復。奉勸<a href="/%E5%9C%A8%E5%B3%B6%E4%B8%8A%E7%9F%A5%E5%90%8D%E7%9A%84%E5%BB%9A#.E8.AA.8D.E7.9C.9F.E5.BB.9A_.2F_.E6.9B.A6_.2F_.E6.BA.A2.E6.9B.A6.E5.B0.8F.E6.9C.8B.E5.8F.8B_.2F_LYH" title="在島上知名的廚">溢曦小朋友</a>：mediawiki反破壞能力極強，勿白費心機！
+</td></tr><tr><td>於是，少年與少女邂逅了
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li><a href="/%E4%BB%BB%E5%A4%A9%E5%A0%82" title="任天堂">任天堂</a>在NS平台推出的<a href="/RPG" title="RPG">RPG</a>，為同系列作品的續作
+<ul><li>雖然是續作，但故事內容除了結尾以外與前作《<a href="/%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D" title="異度神劍">異度神劍</a>》沒有明顯關聯</li></ul></li>
+<li>製作人與前作同為Monolith Soft製作，高橋哲哉擔任製作總監
+<ul><li>劇本由負責過去系列作的竹田裕一郎和兵頭一步擔任</li>
+<li>配樂與前作同樣由光田康典，ACE，平松建治<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>和清田愛未擔任</li>
+<li>人設主要由齋藤將嗣（主角陣營）與野村哲也（反派陣營）擔任，部分稀有神劍則另外安排畫師擔任人設</li></ul></li>
+<li>初推出時因為地圖標示不清、UI問題和抽神劍設計而招致不少批評<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>，但後來靠著優秀的遊戲性<s>和天之罩杯</s>扳回一城。成功成為系列首部銷售量突破百萬的作品
+<ul><li>除了遊戲本篇外另有資料片《黃金之國伊拉》為本篇發生以前的前傳，該資料片亦有包含在本篇DLC季票之中</li>
+<li>不少遊戲初期的問題點也隨著更新改善<s>，然而地圖和UI還是（ry</s></li></ul></li>
+<li><s>英配表現和前作比起來退步較大的一作，再加上歐美地區的河蟹下讓部分對話和設定被變動。神奇的是有的改了比沒改還更詭異。</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="世界觀"></span><span class="mw-headline" id=".E4.B8.96.E7.95.8C.E8.A7.80">世界觀</span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span id="乙太（エーテル）"></span><span class="mw-headline" id=".E4.B9.99.E5.A4.AA.EF.BC.88.E3.82.A8.E3.83.BC.E3.83.86.E3.83.AB.EF.BC.89">乙太（エーテル）</span></h3>
+<ul><li>作為本作中能源的物質，也是神劍活動所需的力量之源</li>
+<li>同時也作為本作屬性的概念，神劍在克制自己的環境中會無法發揮戰鬥力</li></ul><h3 class="in-block"><span id="神劍（ブレイド）"></span><span class="mw-headline" id=".E7.A5.9E.E5.8A.8D.EF.BC.88.E3.83.96.E3.83.AC.E3.82.A4.E3.83.89.EF.BC.89">神劍（ブレイド）</span></h3>
+<ul><li>藉由核心水晶誕生的人造生命體，觸摸水晶召喚神劍的人統稱為劍主（ドライバー）
+<ul><li>只有擁有劍主資質的人才能召喚，沒有資質的人觸摸到水晶時會受到傷害</li></ul></li>
+<li>神劍的生命基本上與劍主共通，一旦劍主死亡時神劍也會消失並回復成核心水晶
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對神劍而言只要核心水晶還在就能夠再次藉由同調而復活並失去先前的所有記憶，只有核心水晶毀壞才會使神劍徹底消滅</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">神劍在吸收人類細胞後可轉為噬人者（マンイーター），可以不須劍主也能生存</span></li></ul></li>
+<li>本作除稀有神劍有專屬人設外，其他的一般神劍都是統一的機械人<s>黑臉</s>設計</li></ul><h3 class="in-block"><span id="巨神獸（アルス）"></span><span class="mw-headline" id=".E5.B7.A8.E7.A5.9E.E7.8D.B8.EF.BC.88.E3.82.A2.E3.83.AB.E3.82.B9.EF.BC.89">巨神獸（アルス）</span></h3>
+<ul><li>生存在雲海中，構成大陸的巨型生命</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實由神劍經由長時間演化成為巨神獸之胎後孕育而成的，巨神獸誕生後也會生產孕育神劍的核心水晶形成生命的循環</span></li></ul><h3 class="in-block"><span id="天之罩杯聖杯（天の聖杯）"></span><span class="mw-headline" id=".E5.A4.A9.E4.B9.8B.E7.BD.A9.E6.9D.AF.E8.81.96.E6.9D.AF.EF.BC.88.E5.A4.A9.E3.81.AE.E8.81.96.E6.9D.AF.EF.BC.89">天之<s>罩杯</s>聖杯（天の聖杯）</span></h3>
+<ul><li>傳說級的神劍，相傳只要能夠成為其劍主就能支配世界</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為克勞斯為了管理世界而創造的三元處理器（トリニティ・プロセッサー），分別為本質（ウーシア）、理性（ロゴス）與靈魂（プネウマ）</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然而在空間轉移時「本質(疑似一代的阿爾維斯)」消失，因此克勞斯便讓「理性（滅）」與「靈魂（光 ∕ 焰）」擔任神劍的管理人</span></li></ul><h3 class="in-block"><span id="火雞人（ターキン）"></span><span class="mw-headline" id=".E7.81.AB.E9.9B.9E.E4.BA.BA.EF.BC.88.E3.82.BF.E3.83.BC.E3.82.AD.E3.83.B3.EF.BC.89">火雞人（ターキン）</span></h3>
+<ul><li>本作<s>風評被害</s>雜兵役，有好幾個支線任務會和他們戰鬥</li>
+<li>頭腦基本上非常不靈光甚至很健忘<s>不過有一些火雞人可以當廚師甚至藝術家</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="登場人物"></span><span class="mw-headline" id=".E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9">登場人物</span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<h3 class="in-block"><span id="雷克斯陣營"></span><span class="mw-headline" id=".E9.9B.B7.E5.85.8B.E6.96.AF.E9.99.A3.E7.87.9F">雷克斯陣營</span></h3>
+<ul><li>雷克斯（レックス/Rex）【CV：<a href="/%E4%B8%8B%E9%87%8E%E7%B4%98" title="下野紘">下野紘</a>】
+<ul><li>男主角，在阿伐利緹亞商會經營打撈業的15歲少年，年僅九歲就開始工作，並且持續寄錢給老家
+<ul><li>開朗、溫柔、善良，總是會先為其他人著想，從小相信「樂園」是存在的，會成為打撈員也是為了找前往樂園的線索。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">喜歡單馬尾的髮型。</span></li>
+<li>故鄉為位於利貝拉里塔斯群島的彌先村<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但其實並非當地人，而是隨著父母逃難到那裡，並且很快成為孤兒，被村裡的其他人養大</span>。</li></ul></li>
+<li>在一次任務中被真殺害滅口，但在夢境中與「天之聖杯」焰同調以後，為了帶焰前往樂園而遭到伊拉追捕，甚至因此陷入各國間的混戰中</li>
+<li><s>身上的潛水服由於其絕妙的設計而令許多正太控想入非非</s></li>
+<li><s>和修爾克一樣吃飯時都不會真的把食物吃下去</s></li>
+<li><s>Aaaaaiyah!（棒讀）<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></s></li>
+<li><s>I like your attitude!</s></li>
+<li><s>因為製作週期的緣故導致無法參戰大亂鬥（只有Mii服裝），然後後續的鬥士DLC名額又被……</s>
+<ul><li>話雖如此，他的命魂在此次更新後成為第一個剛開始不能超化、在更新後變得可超化的命魂<s>，但我們都知道認真打是沒有人會用命魂的</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">超化後的狀態為劇情終盤的無上劍主型態</span></li></ul></li></ul></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">系列作中唯一一個真正<b>開後宮</b>的主角</span></s></li>
+<li>雖然在遊戲推出初期有部分玩家認為他太過年幼不適合當主角，但隨著劇情<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">特別是黃金之國伊拉</span>演進，雷克斯<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不同於光的前一位劍主阿戴爾</span>以純潔的內心包容、信任並解開焰和光多年來的心結，還是讓不少不滿的玩家認同他是最適合天之聖杯的人。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">雖然遊戲初期疑似有阿戴爾後代的設定，但後來官方表示雷克斯並非天之驕子，單純只是一個普通人。</span></li></ul></li></ul></li></ul><ul><li>焰（ホムラ/Pyra）【CV：下地紫野】
+<ul><li>女主角，被稱為「天之<s>罩杯</s>聖杯」的神劍少女
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在遊戲初期在即將被偷走之際，在自己的記憶世界中和剛被殺死的雷克斯約好帶自己前往「樂園」並締結契約，把自己一半的壽命分給他。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">締結契約主動要求雷克斯把手放在自己的胸部上，讓還只有十四歲的小男孩驚慌失措。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">前往樂園的真正目的是要請創造出自己的「神」將自己消除。</span></li></ul></li>
+<li>性格溫柔婉約且擅長料理</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在劇情中盤會覺醒<a href="/%E5%A4%9A%E9%87%8D%E4%BA%BA%E6%A0%BC" title="多重人格"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本來的人格</span></a>光（ヒカリ），並覺醒預測未來的因果律能力</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">和光一樣，害怕天之聖杯的力量會讓雷克斯對自己感到害怕，因此在那之前都不敢使出全力。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">不過雷克斯完全沒有那種想法，反而還相當感謝她們保護了在場的其他人，讓她開始坦然和雷克斯交流。</span></li></ul></li></ul></li>
+<li>長時間和雷克斯一起戰鬥之下變得相當有默契，戰鬥什麼時候該放水都知道。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被雷克斯家鄉的長輩認定為是雷克斯的老婆，而且跟雷克斯母親有點像。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>戀母情結確定（誤）</s></span></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">終盤揭曉其為克勞斯所製造三元處理器之一，掌管了「靈魂」的部分</span></li>
+<li><s>其傲人的胸部是令本作的銷量大增的主因之一，正可謂「乳不巨何以聚人心」，也讓三代人設圖出來後被不少人抱怨胸太小</s></li>
+<li>於2021年2月18日確認和樓下一起參戰大亂鬥<s>樓上表示</s>，也穿上了絲襪</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最終戰後原本打算犧牲自己摧毀世界樹，但最後從雷克斯持有的核心水晶中復活，還跟光分離成兩個實體<s>雙份的快樂</s>。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在三代的結局中透露她和光、妮雅都和雷克斯結婚並各自育有孩子<s>，而且還是大老婆</s>。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為二周目後遊戲的初始介面中會出現她招呼妮雅過來加入自己和光以及雷克斯互相牽手的隊伍中，被認為是她在結局後幫雷克斯和妮雅牽線的。</span></li></ul></li></ul></li></ul><ul><li>光（ヒカリ/Mythra）【CV：下地紫野】
+<ul><li>同樣被稱為「天之聖杯」的神劍少女<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，為焰本來的人格</span>。</li>
+<li>性格與焰幾乎相反，待人強勢<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，但其實內心很溫柔</span>。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">或者應該說當初光就是以自己希望的樣子製造出焰的人格。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">戰鬥中如果雷克斯瀕死的話，還會低機率主動從焰變成光來協助戰鬥，聲稱自己「看不下去」，實際上就是擔心他的安危。</span></li></ul></li>
+<li>五百年前阿戴爾所持有的神劍<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，雖然在戰鬥中成功阻止滅的野心，但因為波及自己的同伴而開始害怕使用自己的力量，為此製造出焰處理後事並陷入沉睡</span>。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">故事中盤因為一行人陷入危機，為了保護雷克斯而覺醒，戰鬥結束後便譴責雷克斯讓自己不得不使用討厭的力量。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">結果被雷克斯反過來以「我想保護妳」的發言惹得很害羞。</span></li></ul></li>
+<li>在五百年前的聖杯大戰中就因為因果律暴走而預見自己未來會和命運對象雷克斯相遇，並且等了他五百年。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">疑似從那時開始就喜歡雷克斯，只是在登場初期還沒完全敞開心扉，所以經常帶著強硬的態度面對他。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在協助別人求婚的支線任務中還主動問雷克斯什麼時候準備好求婚的禮物，結果被雷克斯含混帶過。</span></li></ul></li></ul></li>
+<li>初登場時使用了因果律計算敵人的攻擊模式輔助主角。<s>不過沒前作的未來視那麼猛</s></li>
+<li>患有夢遊症<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，曾經在不知不覺爬上雷克斯的床</span>。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">相同的情況在五百年前也發生過。</span></li></ul></li>
+<li><s>會製作比起斯培爾比亞料理還難吃的<a href="/%E6%AE%BA%E4%BA%BA%E6%96%99%E7%90%86" title="殺人料理">創意料理</a>（無誤）</s>
+<ul><li><s>遊戲中有給不會做飯的斯培爾比亞帝國人做「家鄉味料理」的任務，必須由她來做才可以通關。</s></li></ul></li>
+<li><s>因為人設同為齋藤將嗣，一度被玩家認為是某個保安官<a href="/%E5%85%BC%E5%B7%AE" title="兼差">兼差</a>上場</s><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li><s>服裝露出的程度比焰大很多，還因此被青龍和白虎吐槽過。</s>
+<ul><li>在大亂鬥SP因為分級的緣故，其服裝（不論遊戲模組和登場命魂）穿上了黑絲襪以減少露出度，本作DLC也配信了這套有黑絲的服裝。
+<ul><li><s>明明是河蟹，但大眾普遍認為穿上黑絲的光比以往更性感了</s></li></ul></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最終戰後原本打算犧牲自己摧毀世界樹，但最後從雷克斯持有的核心水晶中復活，還跟焰分離成兩個實體<s>雙份的快樂</s>。</span></li></ul></li></ul><ul><li>妮雅<s>還有大家</s>（ニア/Nia）【CV：大和田仁美】
+<ul><li>原為秘密組織「伊拉」所屬的<s>威爾士藉</s><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>貓耳少女，與雷克斯結識後脫離組織，並且在之後逐漸喜歡上他。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本身是擁有治癒能力的神劍，在劍主（古拉某名門千金）死亡之際吸收其細胞成為了噬人者，後其劍主父親亦死後爲了逃避法王廳追捕而投靠伊拉</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其治癒的能力強到甚至可以讓瀕死或剛死的人滿血復活，但劇情前期因為害怕洩露自己的身分而幾乎沒有展現出來，也因此才會眼睜睜看著雷克斯和范達美死掉。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">范達美：「幫復。」</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在光和焰被伊拉組織帶走而雷克斯開始自怨自艾後鼓舞他重新振作，並且向他表明自己的神劍身分，和雷克斯締結契約。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">過程中還主動告白：「我最喜歡你了，雷克斯！」，並且得到雷克斯的回覆：「我喜歡妮雅，還有大家！」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在某些粉絲圈中甚至還被戲稱全名叫「妮雅．還有大家」。</span></li></ul></li></ul></li>
+<li><s>本作的敗犬擔當，M社對灰髮亞人娘屬性的女二號真是不友善<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">...才怪</span></s>
+<ul><li><s>在雷克斯和光、焰之間的感情逐漸穩定下來後打算退讓<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，在結局兩人重生後還推了一下愣在原地不敢相信的雷克斯，讓他主動向前迎接她們</span>，但是...</s></li>
+<li><s>梅莉亞：我懂妳的感受（拍肩），不過妳比我好運太...<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">妳說妳生下了雷克斯的孩子是什麼意思？！</span></s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於三代中登場<s>，所以三代劇情就是前兩代敗犬的互毆</s></span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">三代的結局中可得知她及光焰都生下了雷克斯的孩子，女主彌央則很有可能就是她的女兒或後代</span></li></ul></li></ul></li></ul><ul><li>白虎（ビャッコ/Dromarch）【CV：稻田徹】
+<ul><li>妮雅的搭檔神劍，對妮雅的稱呼是「大小姐」</li>
+<li>雖然外表如同猛獸，其實是個性格穩重，完全使用敬語和人對談的職事役，另外他也是除了青龍之外隊伍的智囊擔當<s>，但後半卻影薄化了</s></li>
+<li>本作獸型神劍裡唯一有標明性別（男性）的特例</li></ul></li></ul><ul><li>寅（トラ/Tora）【CV：<a href="/%E9%87%8E%E4%B8%AD%E8%97%8D" title="野中藍">野中藍</a>】
+<ul><li>居住在古拉的諾彭族少年，將雷克斯視為大哥般尊敬</li>
+<li>對成為劍主一事相當憧憬，因為自己缺乏劍主資質而開發人造神劍
+<ul><li>曾經試圖同調時流了三天三夜的鼻血</li>
+<li>因為不是真正的劍主，和其他人的戰鬥方式（由神劍供應能量給劍主戰鬥）不同，在戰鬥時完全是憑自己的力量來打</li></ul></li>
+<li>全家都擁有相當程度的宅知識，因此在開發華的時候也是以「萌」為第一要素</li></ul></li></ul><ul><li>華（ハナ/Poppi）【CV：久野美咲】
+<ul><li>寅的搭檔神劍，對寅的稱呼是「主人」</li>
+<li>由寅的祖父起頭，歷經三代終於完成的人造神劍</li>
+<li>因為是人造神劍，主要依賴用以太結晶製造的零件改造進行強化，但也因此沒有一般神劍有的種種限制
+<ul><li>但是要獲得以太結晶需要不斷玩<s><a href="/%E3%82%AF%E3%82%BD%E3%82%B2%E3%83%BC" title="クソゲー">垃圾遊戲嗼</a></s>小遊戲Tiger Tiger取得，不過二周目有可將經驗值兌換成以太結晶的救濟手段</li></ul></li>
+<li>最初版本為JS（<ruby>噴射火花<rp>（</rp><rt style="font-size:0.5em;"><s>女子小學生</s></rt><rp>）</rp></ruby>），隨劇情經過依序會出現JK（<ruby>正義騎士<rp>（</rp><rt style="font-size:0.5em;"><s>女子中學生</s></rt><rp>）</rp></ruby>）與JD（<ruby>審判日<rp>（</rp><rt style="font-size:0.5em;"><s>女子大學生/宅之聖杯</s></rt><rp>）</rp></ruby>）兩種強化型</li>
+<li><s>歐美版在地化河蟹的受害者之一，雖然外觀沒變但是被魔改的對話令她的功能更詭異了……誰會在正妹機器人裝狗叫聲和遛狗模式啊？</s></li></ul></li></ul><ul><li>梅蕾芙（メレフ/Morag）【CV：<a href="/%E9%BD%8B%E8%B3%80%E5%85%89%E5%B8%8C" title="齋賀光希">齋賀光希</a>】
+<ul><li>斯培爾比亞帝國特別執政官，身著軍服的<a href="/%E7%94%B7%E8%A3%9D%E9%BA%97%E4%BA%BA" title="男裝麗人">男裝麗人</a>，別名「炎之輝公子」
+<ul><li>不過並沒有刻意隱藏自身性別，隊友中只有不同種族的寅沒認出其性別</li></ul></li>
+<li>基本上是個全才的美女，不過也有<a href="/%E6%AE%BA%E4%BA%BA%E6%96%99%E7%90%86" title="殺人料理">不擅長料理</a>或逞強好勝等<a href="/%E6%AE%98%E5%BF%B5%E7%BE%8E%E5%A5%B3" title="殘念美女">殘念</a>的一面</li>
+<li><s>影薄</s></li></ul></li></ul><ul><li>迦具土（カグツチ/Brighid）【CV：<a href="/%E4%BC%8A%E8%97%A4%E9%9D%9C" title="伊藤靜">伊藤靜</a>】
+<ul><li>梅蕾芙的搭檔神劍，對梅蕾芙的稱呼是「梅蕾芙大人」</li>
+<li>有「斯培爾比亞的寶珠」之稱，五百年間都作為帝國皇室的神劍活躍
+<ul><li>因為再同調會清除記憶的緣故，在甦醒期間都會寫日記，而所寫的日記也會被保管於帝都的圖書館供自己檢閱</li></ul></li></ul></li></ul><ul><li>齊格（ジーク/Zeke）【CV：<a href="/%E6%B4%A5%E7%94%B0%E5%81%A5%E6%AC%A1%E9%83%8E" title="津田健次郎">津田健次郎</a>】
+<ul><li>盧克斯利亞王國王子，另一個身分為教皇廳底下的特使，別名「雷轟之齊格」
+<ul><li>前面會為了測試雷克斯實力而隱藏身分和他多次交手，不過總因為自己的<a href="/%E4%B8%8D%E5%B9%B8" title="不幸">不幸</a>體質而墜崖退場</li></ul></li>
+<li>言詞有點<a href="/%E4%B8%AD%E4%BA%8C%E7%97%85" title="中二病">中二</a>，其實性格相當認真
+<ul><li>自稱其名為「齊格·B·極·玄武（ジーク・B・極・玄武）」<s>，<a href="/%E6%88%90%E5%8F%A5/%E5%AF%AB%E4%BD%9C%E2%97%8B%E2%97%8B%EF%BC%8C%E5%94%B8%E5%81%9A%E2%97%8F%E2%97%8F" title="成句/寫作○○，唸做●●">寫作「極」，唸作「ultimate」</a></s></li>
+<li>因為這個自稱再加上本人行為，而被妮雅取了個小烏龜的綽號。
+<ul><li><s>妮雅：不要囂張了你這<b><a href="/%E9%99%B0%E8%8E%96" title="陰莖">烏龜腦袋</a></b>！</s></li></ul></li>
+<li>宣稱擁有霸王之心眼而用眼罩遮住左眼<s>，其實是近視又買不起隱形眼鏡</s>←結果二周目真的實裝霸王之心眼了</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">曾經因為盜賊襲擊而重傷瀕死，因為馬爾貝尼給他移植彩歌的核心水晶而得以存活並成為成為噬劍者（ブレイドイーター）</span></li></ul></li></ul><ul><li>彩歌（サイカ/Pandoria）【CV：<a href="/%E5%BB%A3%E6%A9%8B%E6%B6%BC" title="廣橋涼">廣橋涼</a>】
+<ul><li>齊格的搭檔神劍，對齊格的稱呼是「王子」</li>
+<li>眼鏡娘，與齊格的相處如同老夫老妻一般</li>
+<li>初登場時眼鏡下是看不出來眼神變化的，直到<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">透露樓上噬劍者的身份後</span>才能看到鏡片下的目光</li></ul></li></ul><ul><li>青龍（セイリュウ/Azurda）【CV：千葉繁】
+<ul><li>提供雷克斯居所，與其相依為命的巨神獸</li>
+<li>在序章與伊拉一戰後因為力量耗盡而變小</li>
+<li><s>變成大亂鬥場地的受害者，受到的傷害可能是劇情開頭千倍以上</s></li></ul></li></ul><h3 class="in-block"><span id="弗雷斯貝古（フレースヴェルグ）"></span><span class="mw-headline" id=".E5.BC.97.E9.9B.B7.E6.96.AF.E8.B2.9D.E5.8F.A4.EF.BC.88.E3.83.95.E3.83.AC.E3.83.BC.E3.82.B9.E3.83.B4.E3.82.A7.E3.83.AB.E3.82.B0.EF.BC.89">弗雷斯貝古（フレースヴェルグ）</span></h3>
+<ul><li>由范達美成立，位於因維迪亞烈王國的傭兵團
+<ul><li>設立目的為收容戰爭孤兒並給予其訓練使其具有維生能力</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">范達美死後由雷克斯繼任團長，並開啟傭兵團任務</span></li></ul></li></ul><ul><li>范達美（ヴァンダム/Vandham）【CV：<a href="/%E7%8E%84%E7%94%B0%E5%93%B2%E7%AB%A0" title="玄田哲章">玄田哲章</a>】
+<ul><li>弗雷斯貝古傭兵團團長，性格豪放磊落</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>只是個用來送神劍給主角的工具人。</s>最後在卡拉姆遺跡一戰中戰死，其後雷克斯繼承了他的傭兵團</span></li></ul></li></ul><ul><li>朱雀（スザク/Roc）【CV：藤本たかひろ】
+<ul><li>范達美的搭檔神劍，武器為雙鎌</li>
+<li>外型是鳥型獸人，雖然在遊戲代碼中被分類到無性別<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>，但主角群對朱雀是使用男性化的代詞
+<ul><li>身上掛著兩個<s>像巨乳</s>的風袋，而<a href="/images/c/cd/Roc_Bodyshape.jpg" class="internal" title="Roc Bodyshape.jpg">設定集</a>裡有提到他的體型其實是拿<b>女性</b>來設計的</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">范達美死後回復成核心水晶，之後<s>為了用來清除瘴氣</s>接受雷克斯同調而被召喚現身，<s>然後就被鬼隱了，過場動畫中還出現了雷克斯拿著朱雀的雙鎌戰鬥卻完全沒看到朱雀的詭異狀況</s></span>
+<ul><li><s>畢竟玩這遊戲的人都是被天之罩杯拉進來的，妹子還是比獸人好賣</s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>猛擊放置器，</s>作為我方神劍時羈絆環等級與傭兵團等級綁定，也是雷克斯在沒有DLC神劍時唯一能用猛擊的手段</span></li></ul></li></ul><h3 class="in-block"><span id="伊拉（イーラ）"></span><span class="mw-headline" id=".E4.BC.8A.E6.8B.89.EF.BC.88.E3.82.A4.E3.83.BC.E3.83.A9.EF.BC.89">伊拉（イーラ）</span></h3>
+<ul><li>名稱取自七宗罪的「憤怒（ira）」
+<ul><li>由真組成的秘密組織，以獨角鯨號（マルサネス）為根據地活躍於各勢力</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">前身為五百年前聖杯大戰中被馬爾貝尼滅絕的伊拉王國</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">基本上大多數劍主成員是神劍吸收前劍主細胞成為的噬人者</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">除了部分成員外可以在二周目作為稀有神劍召喚</span></li>
+<li>人設擔當：野村哲也</li></ul></li></ul><ul><li>真（シン）【CV：<a href="/%E6%AB%BB%E4%BA%95%E5%AD%9D%E5%AE%8F" title="櫻井孝宏">櫻井孝宏</a>】
+<ul><li>伊拉的首領，戴著面具的神祕白髮男子</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原為伊拉王國的最強神劍，因為馬爾貝尼的緣故導致劍主勞拉喪命，為了復仇而成立伊拉組織</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為保有與勞拉間的記憶而成為噬人者，並將其遺骸保存在獨角鯨號，成立了伊拉組織計劃向馬爾貝尼復仇</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後與雷克斯聯手對抗馬爾貝尼，在將馬爾貝尼討伐後力盡而死</span></li></ul></li></ul><ul><li>滅（メツ）【CV：<a href="/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80" title="中村悠一">中村悠一</a>】
+<ul><li>伊拉的第二把交椅<s>，同志<a href="/%E5%85%84%E8%B2%B4" title="兄貴">兄貴</a>擔當</s>
+<ul><li><s>本篇與真的相處<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">以及最終戰與雷克斯的對話</span>都頗有這般風格</s></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本作最後BOSS，真實身分是與焰 / 光同等級的另一座「天之聖杯」，掌管三元處理器的「理性」</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">與馬爾貝尼同調後接收了他的絕望而打算毀滅世界</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後在樂園啟動古代兵器「劫波（アイオーン）」打算毀滅世界，被雷克斯與「靈魂」擊敗後死去</span></li></ul></li></ul><ul><li>斬鐵（ザンテツ）【CV：勝杏里】
+<ul><li>滅的搭檔神劍</li>
+<li>一匹狼性格，喜歡自由的生活</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在卡拉姆遺跡一戰中被覺醒能力的光討伐</span></li></ul></li></ul><ul><li>義經（ヨシツネ）【CV：<a href="/%E5%B3%B6%E5%B4%8E%E4%BF%A1%E9%95%B7" title="島崎信長">島崎信長</a>】
+<ul><li>伊拉成員之一，性格冷靜的參謀役</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">成為噬人者前的劍主與弁慶劍主是兄妹，二周目和弁慶的牽絆對話會妹控力全開</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">獨角鯨號墜落之後，跟隨真在世界樹討伐馬爾貝尼時戰死</span></li></ul></li></ul><ul><li>神威（カムイ）【CV：山岡ゆり】
+<ul><li>義經的搭檔神劍</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在卡拉姆遺跡一戰中被覺醒能力的光討伐</span></li></ul></li></ul><ul><li>弁慶（ベンケイ）【CV：のぐちゆり】
+<ul><li>伊拉成員之一，性格衝動</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">成為噬人者前的劍主與義經劍主是兄妹</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">獨角鯨號墜落之後，跟隨真在世界樹討伐馬爾貝尼時戰死</span></li></ul></li></ul><ul><li>羅侯（ラゴウ）【CV：平井啓二】
+<ul><li>弁慶的搭檔神劍</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於帝都廢工廠一戰中戰死</span></li></ul></li></ul><ul><li>佐田彥（サタヒコ）【CV：<a href="/%E6%B5%AA%E5%B7%9D%E5%A4%A7%E8%BC%94" title="浪川大輔">浪川大輔</a>】
+<ul><li>伊拉成員之一，獨角鯨號的舵手</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">五百年失去故鄉後曾跟隨勞拉與真一行人，在戰爭結束後被馬爾貝尼抓去進行人體改造而成為噬劍者</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後為保護雷克斯而駕駛獨角鯨號對阿凱迪亞的巨神獸發動特攻，最後消逝在雲海中</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">二周目在獨角鯨號墜落之後會確認生還，可以在墜落地點附近找到他加入隊伍</span></li></ul></li></ul><ul><li>大槌（オオツチ）【CV：利根健太朗】
+<ul><li>佐田彥的搭檔神劍</li>
+<li>表面粗獷其實性格纖細，另外也很擅長精密工作</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於帝都廢工廠一戰中戰死</span></li></ul></li></ul><h3 class="in-block"><span id="阿伐利緹亞商會（アヴァリティア商会）"></span><span class="mw-headline" id=".E9.98.BF.E4.BC.90.E5.88.A9.E7.B7.B9.E4.BA.9E.E5.95.86.E6.9C.83.EF.BC.88.E3.82.A2.E3.83.B4.E3.82.A1.E3.83.AA.E3.83.86.E3.82.A3.E3.82.A2.E5.95.86.E4.BC.9A.EF.BC.89">阿伐利緹亞商會（アヴァリティア商会）</span></h3>
+<ul><li>名稱來自七宗罪的「強欲（avaritia）」
+<ul><li>由諾彭族創立，於各地經營軍火的巨大商會</li></ul></li></ul><ul><li>巴恩（バーン）【CV：<a href="/%E5%A4%A7%E5%A1%9A%E6%98%8E%E5%A4%AB" title="大塚明夫">大塚明夫</a>】
+<ul><li>阿伐利緹亞商會會長，性格自私自利</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了發戰爭財而與伊拉聯手在斯培爾比亞帝國境內的廢工廠挾持建造幫自己開發神劍，之後還搭乘人造神劍「<s>魔神Z</s>櫻」親自與主角群交戰，卻不敵改造後的華JK而敗陣</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">之後更利用櫻的強化改造版「<s>大魔神</s>GREAT櫻」襲擊菈格爾特女王，企圖在斯培爾比亞與因維迪亞兩國之間引爆戰爭</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後被逮捕後被罰在商會內跑滾輪<s>，正好與一代同名反派諾彭的下場一模一樣</s></span></li></ul></li></ul><ul><li>姆伊姆伊（ムイムイ）【CV：三ツ矢雄二】
+<ul><li>巴恩的屬下</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為了幫助商會獨佔人造神劍的生產和乙太爐而襲擊千造父子的實行犯</span></li></ul></li></ul><ul><li>尼爾尼（ニルニー）【CV：増谷康紀】
+<ul><li>商會諜報局所屬成員</li></ul></li></ul><ul><li>普寧（プニン）
+<ul><li>商會成員，看中雷克斯的能力並推薦其參加巴恩委託挖掘天之聖杯的任務</li></ul></li></ul><ul><li>多恩（ドーン）
+<ul><li>巴恩的父親，性格與他同樣卑劣</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在利貝拉里塔斯群島組織了反帝國組織企圖推翻斯培爾比亞帝國</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後被逮捕後，與巴恩一同受跑滾輪的懲罰</span></li></ul></li></ul><h3 class="in-block"><span id="古拉（グーラ）"></span><span class="mw-headline" id=".E5.8F.A4.E6.8B.89.EF.BC.88.E3.82.B0.E3.83.BC.E3.83.A9.EF.BC.89">古拉（グーラ）</span></h3>
+<ul><li>名稱來自七宗罪的「暴食（gula）」
+<ul><li>資源豐富的大陸，主要城市托里格鎮（トリゴの街）目前已成為斯培爾比亞帝國殖民地</li></ul></li></ul><ul><li>莫夫（モーフ）【CV：平井啓二】
+<ul><li>帝國屬古拉的領事</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">企圖使用天之聖杯為惡而挾持妮雅引誘雷克斯上鉤，計畫失敗後被梅蕾芙發現其野心而被革職</span></li></ul></li></ul><ul><li>烏蒙（ウモン）【CV：諏訪部順一】
+<ul><li>和寅熟識的造船業者</li></ul></li></ul><h3 class="in-block"><span id="因維迪亞烈王國（インヴィディア烈王国）"></span><span class="mw-headline" id=".E5.9B.A0.E7.B6.AD.E8.BF.AA.E4.BA.9E.E7.83.88.E7.8E.8B.E5.9C.8B.EF.BC.88.E3.82.A4.E3.83.B3.E3.83.B4.E3.82.A3.E3.83.87.E3.82.A3.E3.82.A2.E7.83.88.E7.8E.8B.E5.9B.BD.EF.BC.89">因維迪亞烈王國（インヴィディア烈王国）</span></h3>
+<ul><li>名稱來自七宗罪的「嫉妒（invidia）」
+<ul><li>以巨神獸體內為國土，主打自然技術的國家，首都為馮斯麥姆（フォンス・マイム）</li></ul></li></ul><ul><li>菈格爾特（ラゲルト）【CV：小山茉美】
+<ul><li>因維迪亞烈王國女王</li></ul></li></ul><ul><li>柯爾（コール）【CV：龍田直樹（本篇）、三木真一郎（前傳）】
+<ul><li>舞台劇場的經營人</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">本名米諾提（ミノチ），是在五百年前參加聖杯大戰的噬人者</span></li></ul></li></ul><ul><li>倚音（イオン）
+<ul><li>居住在王國首都馮斯麥姆的少女</li></ul></li></ul><h3 class="in-block"><span id="斯培爾比亞帝國（スペルビア帝国）"></span><span class="mw-headline" id=".E6.96.AF.E5.9F.B9.E7.88.BE.E6.AF.94.E4.BA.9E.E5.B8.9D.E5.9C.8B.EF.BC.88.E3.82.B9.E3.83.9A.E3.83.AB.E3.83.93.E3.82.A2.E5.B8.9D.E5.9B.BD.EF.BC.89">斯培爾比亞帝國（スペルビア帝国）</span></h3>
+<ul><li>名稱來自七宗罪的「傲慢（superbia）」
+<ul><li>歷史悠久的國家，首都為阿魯巴馬格（アルバ・マーゲン）</li>
+<li>因為過度開發和巨神獸的高熱體質而導致領土沙漠化，也因此造成國內主戰派打算對外國侵略奪取資源</li>
+<li>當地的飲食環境相當惡劣<s>，其居民的舌頭和胃都是受其<a href="/%E6%AE%BA%E4%BA%BA%E6%96%99%E7%90%86" title="殺人料理">料理</a>鍛鍊過的</s></li></ul></li></ul><ul><li>涅菲爾（ネフェル）【CV：<a href="/%E7%9F%B3%E7%94%B0%E5%BD%B0" title="石田彰">石田彰</a>】
+<ul><li>斯培爾比亞帝國皇帝，梅蕾芙的堂弟</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>又一個送神劍的，</s>在巴恩襲擊菈格爾特女王的行動中，為保護眾人而擋下其自爆攻擊重傷瀕死，之後被妮雅所救而存活</span></li></ul></li></ul><ul><li>綿津見（ワダツミ）【CV：<a href="/%E6%B1%A0%E7%94%B0%E7%A7%80%E4%B8%80" title="池田秀一">池田秀一</a>】
+<ul><li>涅菲爾的搭檔神劍，與迦具土同為帝國歷代皇族的專屬神劍</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在涅菲爾擋下巴恩的自爆攻擊後化為核心水晶，之後被梅蕾芙同調成為其搭檔神劍</span></li></ul></li></ul><ul><li>羅德里希（ローデリッヒ）
+<ul><li>斯培爾比亞帝國元老院議員</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">國內主戰派的代表，為擴增國內軍武而資助巴恩開發人造神劍，並私下派人挖掘檀佩蘭提亞的巨神獸兵器</span></li></ul></li></ul><h3 class="in-block"><span id="盧克斯利亞王國（ルクスリア王国）"></span><span class="mw-headline" id=".E7.9B.A7.E5.85.8B.E6.96.AF.E5.88.A9.E4.BA.9E.E7.8E.8B.E5.9C.8B.EF.BC.88.E3.83.AB.E3.82.AF.E3.82.B9.E3.83.AA.E3.82.A2.E7.8E.8B.E5.9B.BD.EF.BC.89">盧克斯利亞王國（ルクスリア王国）</span></h3>
+<ul><li>名稱來自七宗罪的「色欲（luxuria）」
+<ul><li>英雄阿戴爾的後裔建立的國家，首都為特奧斯奧萊（テオスアウレ）</li>
+<li>因為長年鎖國政策導致黑市盛行</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際上並非阿戴爾後裔建立的國家，而是反阿戴爾派假其名建立的國家，為了保守秘密而持續鎖國</span></li></ul></li></ul><ul><li>塞利格（ゼーリッヒ）【CV：牛山茂】
+<ul><li>盧克斯利亞王國國王，齊格的父親</li>
+<li>表面上性格保守，其實在年輕時與兒子一樣喜歡在外闖蕩</li></ul></li></ul><ul><li>弗提斯（フォーティス）
+<ul><li>盧克斯利亞王國宰相</li></ul></li></ul><h3 class="in-block"><span id="阿凱迪亞教皇領（アーケディア法王庁）"></span><span class="mw-headline" id=".E9.98.BF.E5.87.B1.E8.BF.AA.E4.BA.9E.E6.95.99.E7.9A.87.E9.A0.98.EF.BC.88.E3.82.A2.E3.83.BC.E3.82.B1.E3.83.87.E3.82.A3.E3.82.A2.E6.B3.95.E7.8E.8B.E5.BA.81.EF.BC.89">阿凱迪亞教皇領（アーケディア法王庁）</span></h3>
+<ul><li>名稱來自七宗罪的「怠惰（acedia）」
+<ul><li>以巨神獸為信仰，教皇統治的宗教國</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">阿凱迪亞起源自位於檀佩蘭提亞（テンペランティア）的古代都市悠迪楚門（ユーディキウム），擁有極為先進的生物技術</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">劇情終盤會因為巨神獸沉沒而無法前往</span></li></ul></li></ul><ul><li>馬爾貝尼（マルベーニ）【CV：<a href="/%E8%AB%8F%E8%A8%AA%E9%83%A8%E9%A0%86%E4%B8%80" title="諏訪部順一">諏訪部順一</a>】
+<ul><li>阿凱迪亞教皇</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於五百年前於樂園盜走了天之聖杯，造成聖杯大戰的罪魁禍首</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後在世界樹以神鎧姿態與雷克斯一行人交戰，雖然一度取得優勢最終仍不敵真的捨身攻擊而戰敗身死</span></li></ul></li></ul><ul><li>芳·雷·諾倫（ファン・レ・ノルン）【CV：<a href="/%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94" title="早見沙織">早見沙織</a>】
+<ul><li>馬爾貝尼的搭檔神劍</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在五百年前是勞拉的神劍「霞（カスミ）」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後在檀佩蘭提亞被真破壞核心水晶而死，死後由教廷為其舉行國葬</span></li></ul></li></ul><h3 class="in-block"><span id="聖杯大戰"></span><span class="mw-headline" id=".E8.81.96.E6.9D.AF.E5.A4.A7.E6.88.B0">聖杯大戰</span></h3>
+<ul><li>勞拉（ラウラ）【CV：早見沙織】
+<ul><li>五百年前終結聖杯大戰的英雄<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，真與霞的劍主</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">於聖杯大戰終結後遭馬爾貝尼討伐而死，遺骸被真保存在獨角鯨號</span></li></ul></li></ul><ul><li>阿戴爾（アデル）【CV：半田裕典】
+<ul><li>五百年前終結聖杯大戰的英雄<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，光的劍主暨伊拉王國王子</span></li></ul></li></ul><ul><li>尤格（ユーゴ）【CV：石田彰】
+<ul><li>五百年前參加聖杯大戰的斯培爾比亞帝國皇帝</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在光與滅的最後決戰中為了幫阿戴爾擋下爆炸而喪命<s>，果然幫隊友擋爆炸是帝國傳統藝能</s></span></li></ul></li></ul><h3 class="in-block"><span id="其他"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96">其他</span></h3>
+<ul><li>建造（タテゾー）
+<ul><li>寅的父親，與兒子同樣是人造神劍的研究者</li>
+<li>在故事開始前就失蹤
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實為遭到巴恩挾持，被迫協助其開發人造神劍</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被救出後會回到在古拉的住家繼續研究，完成其支線任務可以使華進化成JD型</span></li></ul></li></ul><ul><li>菊（キク）
+<ul><li>千造最初開發的人工神劍，算是華的前身</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後期出現其強化版「櫻（サクラ）」</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在巴恩勢力垮台後回歸成為建造的搭檔神劍協助建造的研究</span></li></ul></li></ul><ul><li>千造（センゾー）
+<ul><li>寅的祖父，建造的父親</li>
+<li>於DLC出場並要求主角協助自己開發華巴斯達</li></ul></li></ul><ul><li>克勞斯（クラウス）【CV：<a href="/%E6%B7%BA%E6%B2%BC%E6%99%89%E5%A4%AA%E9%83%8E" title="淺沼晉太郎">淺沼晉太郎</a>】
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">新世界的創造主，焰與滅的生父</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原本是舊世界的最後倖存者，因為當時人們爭奪資源導致世界滅亡，因而利用自己發現的閘門之力進行相轉移實驗來重新創造世界</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">自己的左半身因為相轉移實驗的原因而飛到了另一個世界成為了巨神</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">然而他發現自己鑄下大錯之後，為了懲罰自己和贖罪重新構築了整個新世界的生命循環系統，也引進了神劍與巨神獸的系統以免資源耗竭</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但創造出來的生命還是繼續互相鬥爭使他大失所望，因此就這樣把整個世界放置不管</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">直到遇到雷克斯一行後再度對未來燃起了希望，要求雷克斯阻止世界被滅毀滅</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">當雷克斯阻止滅後，同時也感覺到了自己的半身及將要被消滅，半身被消滅後自己也將消滅，他將雷克斯認定為能背負接下來世界未來的擔當者，並將雲海下的世界給完全開放後消失</span></li></ul></li></ul><h3 class="in-block"><span id="稀有神劍"></span><span class="mw-headline" id=".E7.A8.80.E6.9C.89.E7.A5.9E.E5.8A.8D">稀有神劍</span></h3>
+<ul><li>藉由同調獲得的稀有神劍
+<ul><li>原則上是隨機抽選，一部分稀有神劍則是在事件中自動獲得</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">部分敵方NPC在進入二週目後也可以加入抽選</span></li></ul></li></ul><ul><li>紅蓮（グレン）【CV：<a href="/%E5%8F%A4%E8%B0%B7%E5%BE%B9" title="古谷徹">古谷徹</a>】
+<ul><li>類型：防禦</li>
+<li>屬性：冰</li>
+<li>武器：戰鎚</li>
+<li>人設：岩本稔</li>
+<li>正義感十足的熱血漢<s>，因此對自己屬性為冰相當不滿</s></li></ul></li></ul><ul><li>力男（ヂカラオ）【CV：<a href="/%E6%AD%A6%E5%85%A7%E9%A7%BF%E8%BC%94" title="武內駿輔">武內駿輔</a>】
+<ul><li>類型：攻擊</li>
+<li>屬性：地</li>
+<li>武器：長槍</li>
+<li>人設：相場良祐</li>
+<li>最初作為魔物操控的神劍出場，魔物被討伐後留下核心水晶</li>
+<li>基本上是個面惡心善但不擅言辭的<s><a href="/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA" title="アイドルマスター シンデレラガールズ">武內P</a></s>老好人</li></ul></li></ul><ul><li>婆裟羅（ヴァサラ）【CV：KENN】
+<ul><li>類型：防禦</li>
+<li>屬性：闇</li>
+<li>武器：刀</li>
+<li>人設：鈴木康士</li>
+<li>過去的劍主為殺手，在其底下殺生無數</li>
+<li>與主角群同調後雖然沒有過去記憶卻從此放下屠刀以「不殺」為信條</li></ul></li></ul><ul><li>鳴（メイ）【CV：千本木彩花】
+<ul><li>類型：攻擊</li>
+<li>屬性：闇</li>
+<li>武器：長槍</li>
+<li>人設：梅津泰臣</li>
+<li>自稱夜之眷屬的哥德風少女，討厭曬太陽因而有賴床習慣</li></ul></li></ul><ul><li>瑪瑙（メノウ）【CV：種崎敦美】
+<ul><li>類型：攻擊</li>
+<li>屬性：地</li>
+<li>武器：戰斧</li>
+<li>人設：コザキユースケ</li>
+<li>熱衷於尋找寶石，討厭蟲子
+<ul><li>個人支線劇情也是要前往世界各地開採寶石</li></ul></li></ul></li></ul><ul><li>雄黃（ユウオウ）【CV：<a href="/%E5%89%8D%E9%87%8E%E6%99%BA%E6%98%AD" title="前野智昭">前野智昭</a>】
+<ul><li>類型：攻擊</li>
+<li>屬性：水</li>
+<li>武器：戰斧</li>
+<li>人設：嵯峨空哉<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li>雖然是個<s>如同<a href="/JOJO" class="mw-redirect" title="JOJO">JOJO</a>風格的</s>硬漢，不過也有喜歡甜點的纖細一面</li>
+<li>在個人支線劇情因為幫助了料理店的老闆而得以完成開店夢想</li></ul></li></ul><ul><li>韋馱天（イダテン）【CV：<a href="/%E5%B9%B3%E9%87%8E%E7%B6%BE" title="平野綾">平野綾</a>】
+<ul><li>類型：回復</li>
+<li>屬性：風</li>
+<li>武器：彈擊球</li>
+<li>人設：I-IV</li>
+<li><a href="/%E5%A4%A7%E9%A3%9F%E3%81%84" title="大食い">大食</a>屬性，在個人支線劇情中為了食物與怪盜諾彭對決並產生亦敵亦友的情感</li></ul></li></ul><ul><li>宮毘羅（クビラ）【CV：<a href="/%E5%AE%AE%E9%87%8E%E7%9C%9F%E5%AE%88" title="宮野真守">宮野真守</a>】
+<ul><li>類型：攻擊</li>
+<li>屬性：火</li>
+<li>武器：戰斧</li>
+<li>人設：hakus</li>
+<li>以古代國王自居，性格高傲</li>
+<li>解完個人支線劇情後羈絆環會砍掉重練</li></ul></li></ul><ul><li>重音（カサネ）【CV：水瀨祈】
+<ul><li>類型：防禦</li>
+<li>屬性：闇</li>
+<li>武器：戰鎚</li>
+<li>人設：しらび</li>
+<li>核心水晶在帝國境內擊敗某個出現率極低的大魚怪物時獲得
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對應重音的能力與買來的情報，重音的前劍主死因極有可能是…</span></li></ul></li>
+<li>自稱<a href="/%E5%B9%B8%E9%81%8B" title="幸運">幸運</a>少女，不過總是在不自覺中給周圍帶來不幸</li>
+<li>也因此她在古拉一帶可說是惡名昭彰，不過當事人到最後都沒有自覺</li></ul></li></ul><ul><li>水分（ミクマリ）【CV：<a href="/%E4%BD%90%E5%80%89%E7%B6%BE%E9%9F%B3" title="佐倉綾音">佐倉綾音</a>】
+<ul><li>類型：攻擊</li>
+<li>屬性：水</li>
+<li>武器：長槍</li>
+<li>人設：CHOCO<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li>星織的姐姐，過去曾隸屬於一個搶奪核心水晶的盜賊團</li>
+<li>因為原劍主死亡而化為核心水晶，並因此失去身為盜賊團時期的記憶，之後在個人支線劇情為了贖罪而投入公益活動</li>
+<li><s>要求星織叫自己姐姐的牽絆對話根本<a href="/%E4%BF%9D%E7%99%BB%E5%BF%83%E6%84%9B" title="保登心愛">心愛</a>上身</s></li></ul></li></ul><ul><li>星織（セオリ）【CV：<a href="/%E5%B7%9D%E6%BE%84%E7%B6%BE%E5%AD%90" title="川澄綾子">川澄綾子</a>】
+<ul><li>類型：防禦</li>
+<li>屬性：冰</li>
+<li>武器：刀</li>
+<li>人設：CHOCO</li>
+<li>水分的妹妹，過去曾隸屬於一個搶奪核心水晶的盜賊團</li>
+<li>因為原劍主死亡而化為核心水晶，並因此失去身為盜賊團時期的記憶，之後在個人支線劇情為了贖罪而投入公益活動</li>
+<li><s>在盜賊團之前也曾作為<a href="/Artoria_Pendragon_(Fate)" title="Artoria Pendragon (Fate)">劍之從者</a>活躍</s></li></ul></li></ul><ul><li>時葉（トキハ）【CV：<a href="/%E5%B0%8F%E6%B8%85%E6%B0%B4%E4%BA%9E%E7%BE%8E" title="小清水亞美">小清水亞美</a>】
+<ul><li>類型：攻擊</li>
+<li>屬性：冰</li>
+<li>武器：長槍</li>
+<li>人設：木村貴宏</li>
+<li>崇尚正義的女騎士，個人支線劇情也是從人蛇集團中拯救小孩子</li></ul></li></ul><ul><li>石榴（ザクロ）【CV：赤崎千夏】
+<ul><li>類型：回復</li>
+<li>屬性：雷</li>
+<li>武器：鉤爪拳套</li>
+<li>人設：山下しゅんや</li>
+<li>喜好時尚的辣妹性格，在個人支線劇情會為了與光爭執而徹夜打擾眾人最後遭懲罰</li></ul></li></ul><ul><li>薊（アザミ）【CV：<a href="/%E9%BD%8B%E8%97%A4%E5%8D%83%E5%92%8C" title="齋藤千和">齋藤千和</a>】
+<ul><li>類型：攻擊</li>
+<li>屬性：闇</li>
+<li>武器：乙太加農砲</li>
+<li>人設：hakus</li>
+<li>病嬌女，擁有千里眼能力</li></ul></li></ul><ul><li>七冰（ナナコオリ）【CV：日高里菜】
+<ul><li>類型：回復</li>
+<li>屬性：冰</li>
+<li>武器：鉤爪拳套</li>
+<li>人設：江端里沙</li>
+<li>性格害羞的雪女</li>
+<li>擁有音樂方面的才華，在個人支線劇情會作為偶像出道
+<ul><li>由於需要完成多次傭兵團任務提升偶像資質，被部分玩家認為是最耗時的支線任務</li></ul></li></ul></li></ul><ul><li>紐茲（ニューツ）【CV：<a href="/%E6%97%A5%E7%AC%A0%E9%99%BD%E5%AD%90" title="日笠陽子">日笠陽子</a>】
+<ul><li>類型：防禦</li>
+<li>屬性：火</li>
+<li>武器：刀</li>
+<li>人設：野上武志</li>
+<li>軍武愛好者</li></ul></li></ul><ul><li>宇迦（ウカ）【CV：<a href="/M%C2%B7A%C2%B7O" title="M·A·O">M·A·O</a>】
+<ul><li>類型：回復</li>
+<li>屬性：地</li>
+<li>武器：鉤爪拳套</li>
+<li>人設：日暮央</li>
+<li>獸人少女，擁有與芙涅克斯溝通的能力</li></ul></li></ul><ul><li>凜音（リンネ）【CV：小澤亞李】
+<ul><li>類型：攻擊</li>
+<li>屬性：水</li>
+<li>武器：乙太加農砲</li>
+<li>人設：パセリ</li>
+<li>在古拉的雜貨店花五十萬可以購買其核心水晶</li>
+<li>重度百合淑女，相關傭兵團任務也幾乎是女性限定</li></ul></li></ul><ul><li>結（ムスビ）【CV：高橋美紀】
+<ul><li>類型：回復</li>
+<li>屬性：雷</li>
+<li>武器：彈擊球</li>
+<li>人設：麻宮騎亜</li>
+<li>原本的劍主是居住在古拉地區的老人，結則負責照顧他的起居；但後來老人<s>吃到有毒巧克力</s>因病逝世，結因此回復成核心水晶並失去與老人間的記憶</li>
+<li>擅長做好吃的<s>水餃</s><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>飯糰</li>
+<li><s>聲優和形象違和感最大的角色（負面意味）</s></li></ul></li></ul><ul><li>式（シキ）【CV：<a href="/%E8%83%BD%E7%99%BB%E9%BA%BB%E7%BE%8E%E5%AD%90" title="能登麻美子">能登麻美子</a>】
+<ul><li>類型：回復</li>
+<li>屬性：風</li>
+<li>武器：鉤爪拳套</li>
+<li>人設：緒方剛志</li>
+<li>求知欲旺盛，在個人支線劇情會為了探索世界樹的資料庫而險些遇難</li></ul></li></ul><ul><li>雷鼓（ライコ）【CV：茜屋日海夏】
+<ul><li>類型：防禦</li>
+<li>屬性：雷</li>
+<li>武器：戰鎚</li>
+<li>人設：水あさと</li>
+<li>情緒激動時會在周圍施放雷電，在個人支線劇情會為了控制其能力而四處協助群眾用電</li></ul></li></ul><ul><li>八重切（ヤエギリ）【CV：<a href="/%E7%AB%B9%E9%81%94%E5%BD%A9%E5%A5%88" title="竹達彩奈">竹達彩奈</a>】
+<ul><li>類型：攻擊</li>
+<li>屬性：風</li>
+<li>武器：戰斧</li>
+<li>人設：岩本稔</li>
+<li>戰鬥狂少女，牽絆環與個人支線劇情都是與強敵戰鬥</li></ul></li></ul><ul><li>伊吹（イブキ）【CV：<a href="/%E6%82%A0%E6%9C%A8%E7%A2%A7" title="悠木碧">悠木碧</a>】
+<ul><li>類型：防禦</li>
+<li>屬性：風</li>
+<li>武器：戰鎚</li>
+<li>人設：田中久仁彦<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li>健忘屬性的鳥人少女</li>
+<li>因為各種原因一度被當成火雞人公主，就算完成個人支線劇情找回真正公主後誤會仍未解開甚至更加惡化…</li></ul></li></ul><ul><li>螢（ホタル）【CV：石原夏織】
+<ul><li>類型：回復</li>
+<li>屬性：地</li>
+<li>武器：彈擊球</li>
+<li>人設：タイキ</li>
+<li>腹黑偽娘</li></ul></li></ul><ul><li>天威（テンイ）【CV：<a href="/%E9%81%A0%E8%97%A4%E7%B6%BE" title="遠藤綾">遠藤綾</a>】
+<ul><li>類型：攻擊</li>
+<li>屬性：雷</li>
+<li>武器：乙太加農砲</li>
+<li>人設：皆葉英夫</li>
+<li>過去因為造成盧克斯利亞王國的神殿毀壞而被封印在祭壇的神劍，在祭壇貢獻特定道具後可以召喚現世</li></ul></li></ul><ul><li>月（ツキ）【CV：近藤尚美】
+<ul><li>類型：回復</li>
+<li>屬性：冰</li>
+<li>武器：彈擊球</li>
+<li>人設：江端里沙</li>
+<li>講話帶有京都腔，全身被雪花包覆的性感美女</li>
+<li>完成個人支線劇情後可以習得製作冰雕的能力</li></ul></li></ul><ul><li>華巴斯達（ハナバスター）【CV：加瀨康之】
+<ul><li>類型：防禦</li>
+<li>屬性：光</li>
+<li>武器：戰鎚</li>
+<li>人設：齋藤将嗣</li>
+<li>DLC第一彈配信神劍，完成任務後獲得</li>
+<li>本體為由華遠端遙控的機體「華Mk-Ⅱ（ハナMk-Ⅱ）」</li></ul></li></ul><ul><li>火花（ヒバナ）【CV：高森奈津美】
+<ul><li>類型：回復</li>
+<li>屬性：火</li>
+<li>武器：彈擊球</li>
+<li>人設：あっと</li>
+<li>DLC第二彈配信神劍</li>
+<li>和焰同樣擅長料理，不過她做的料理超級辣…</li></ul></li></ul><ul><li>神八（カムヤ）【CV：村瀬歩】
+<ul><li>類型：防禦</li>
+<li>屬性：光</li>
+<li>武器：打刀</li>
+<li>人設：足立慎吾</li>
+<li>DLC第三彈配信神劍</li></ul></li></ul><h3 class="in-block"><span id="聯動人物"></span><span class="mw-headline" id=".E8.81.AF.E5.8B.95.E4.BA.BA.E7.89.A9">聯動人物</span></h3>
+<ul><li>修爾克（シュルク）【CV：淺沼晉太郎】
+<ul><li>類型：攻擊</li>
+<li>屬性：光</li>
+<li>武器：蒙納多</li>
+<li>人設：田中久仁彦</li>
+<li>《異度神劍》跨界人物，該作男主角，於挑戰模式出場</li></ul></li></ul><ul><li>菲奧倫（フィオルン）【CV：中尾衣里】
+<ul><li>類型：回復</li>
+<li>屬性：風</li>
+<li>武器：小刀</li>
+<li>人設：田中久仁彦</li>
+<li>《異度神劍》跨界人物，該作女主角，於挑戰模式出場
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為傳送過來的時間點為本篇完結之後，因而模樣並非機械而是人類樣貌</span></li></ul></li></ul></li></ul><ul><li>艾爾瑪（エルマ）【CV：<a href="/%E6%A1%91%E5%B3%B6%E6%B3%95%E5%AD%90" title="桑島法子">桑島法子</a>】
+<ul><li>類型：攻擊</li>
+<li>屬性：闇</li>
+<li>武器：雙劍</li>
+<li>人設：田中久仁彦</li>
+<li>《異度神劍X》跨界人物，於挑戰模式出場</li></ul></li></ul><ul><li><a href="/KOS-MOS" title="KOS-MOS">KOS-MOS Re：</a>【CV：鈴木麻里子】
+<ul><li>類型：攻擊</li>
+<li>屬性：光</li>
+<li>武器：乙太加農砲</li>
+<li>人設：田中久仁彦</li>
+<li>《異域傳說》跨界人物，抽選稀有神劍時隨機取得</li></ul></li></ul><ul><li>T-elos Re：【CV：鈴木麻里子】
+<ul><li>類型：攻擊</li>
+<li>屬性：闇</li>
+<li>武器：戰斧</li>
+<li>人設：CHOCO</li>
+<li>《異域傳說》跨界人物，抽選稀有神劍時隨機取得</li></ul></li></ul><h3 class="in-block"><span id="冠名者"></span><span class="mw-headline" id=".E5.86.A0.E5.90.8D.E8.80.85">冠名者</span></h3>
+<ul><li>延續一代的設定，本作在地圖上存在著擁有BOSS級別實力的特殊怪物冠名者
+<ul><li>擊敗冠名者後會出現冠名者之墓，可以與冠名者再戰以及記錄擊破時間</li></ul></li></ul><ul><li>大胃王尖角龍魚（大食らいのマーリン）
+<ul><li>位於斯培爾比亞</li>
+<li>擊敗後可以獲得同調重音的<s><a href="/%E4%B8%8D%E5%B9%B8" title="不幸">不幸</a></s><a href="/%E5%B9%B8%E9%81%8B" title="幸運">幸運</a>的核心水晶</li></ul></li></ul><ul><li>守護地盤的巴爾巴羅沙（縄張りバルバロッサ）
+<ul><li>位於古拉</li>
+<li>本作的<b>猩</b>人殺手擔當，一上來的81級足以讓不少新人玩家飲恨</li></ul></li></ul><ul><li>不動的岡扎雷斯（不動のゴンザレス）
+<ul><li>位於古拉，初代就有登場的珍稀種怪物</li>
+<li>不過一上來等級就是可怕的90級，造成不少玩家的心理陰影</li></ul></li></ul><ul><li>猛進的公甲獸王（猛進のアルドラン）
+<ul><li>位於古拉的托里格鎮，本作少數必須自己養大的冠名</li>
+<li><s>不小心在把牠養肥之前就誤殺的劍主們也大有人在</s></li></ul></li></ul><ul><li>櫻花一刀流的丹（桜花一刀流のダン）
+<ul><li>位於莫爾斯斷崖</li>
+<li><s>疑似捏他了前代的丹邦</s></li></ul></li></ul><ul><li>惡臭獸班柏（悪臭獣ベンハー）
+<ul><li>位於古拉</li></ul></li></ul><ul><li>惡魔王班特（悪魔王ベント）
+<ul><li>位於檀佩蘭提亞</li></ul></li></ul><ul><li>雲海大王可洛沙（雲海大王コロッサル）
+<ul><li>位於盧克斯利亞，暴雪天氣限定</li></ul></li></ul><ul><li>第七世代神秘者（第七世代のアレイスター）
+<ul><li>位於世界樹</li></ul></li></ul><ul><li>海蛇裝置（サーペント・デバイス）
+<ul><li>位於莫爾斯斷崖</li>
+<li>掉落的記憶終端可以打開位於世界樹某地的寶箱，可以拿到包含伸縮子晶片的各種強力道具</li></ul></li></ul><ul><li>逃亡戰士達克羅德（逃亡戦士ダークロッド）
+<ul><li>位於斯培爾比亞</li></ul></li></ul><ul><li>暴虐巨神獸克洛達爾（暴虐巨神獣クロダイル）
+<ul><li>位於檀佩蘭提亞的褻瀆之地</li>
+<li>必須使用神劍技能突破多重結界後才能挑戰</li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="參見"></span><span class="mw-headline" id=".E5.8F.83.E8.A6.8B">參見</span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li><a href="/%E4%BB%BB%E5%A4%A9%E5%A0%82" title="任天堂">任天堂</a></li>
+<li><a href="/%E7%95%B0%E5%9F%9F%E7%B3%BB%E5%88%97" title="異域系列">異域系列</a>
+<ul><li><a href="/%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D" title="異度神劍">異度神劍</a></li>
+<li><a href="/%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D3" title="異度神劍3">異度神劍3</a></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="連結"></span><span class="mw-headline" id=".E9.80.A3.E7.B5.90">連結</span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li><a rel="nofollow" class="external text" href="https://www.nintendo.co.jp/switch/adena/index.html">官網</a>
+<ul><li class="mw-empty-elt"></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<p><a href="/%E8%A8%8E%E8%AB%96:%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2" title="討論:異度神劍2">討論:異度神劍2</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">諧音哏</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">ACE臨時成員，在異度神劍時以ACE+名義參與製作，本作以個人身份參與</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">其中一個原因是因為M社的大部分人手都被抓到<a href="/%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA" title="薩爾達傳說">隔壁棚</a>幫忙</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">英配裡雷克斯在初次使用神劍應戰時的喊叫聲，被海外玩家吐槽像汽車引擎聲</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">此處指《樂園追放》的主人公安潔拉·巴爾札克</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">英配是威爾士腔</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">遊戲中神劍有四個分類代碼：1（男性）、2（女性）、3（獸型）、4（其他），而朱雀是唯一一個被分類到4的神劍</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">本名田中香，遊戲製作監督高橋哲哉的妻子，也曾擔任異域神兵與異域傳說的劇本原案</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">異域系列元老之一，曾參與異域傳說系列的人物與機械設計</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">歐美版本地化後的文本限定</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">異域系列元老之一，曾參與異域神兵、異域傳說第一章與異度神劍X的人物設計</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=異度神劍2&amp;oldid=418481">https://wiki.komica.org/index.php?title=異度神劍2&amp;oldid=418481</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2"
+				data-user-name="Somebody8888"
+				data-user-gender="unknown"
+				data-timestamp="1667290065">
+				最後編輯於 2022年11月1日 (週二) 16:07
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E7%95%B0%E5%BA%A6%E7%A5%9E%E5%8A%8D2&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.403","ppvisitednodes":{"value":1576,"limit":1000000},"ppgeneratednodes":{"value":3127,"limit":1000000},"postexpandincludesize":{"value":29188,"limit":2097152},"templateargumentsize":{"value":11800,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3313,"limit":5000000},"timingprofile":["100.00%  201.337      1 -total"," 43.97%   88.524    111 模板:Censored"," 32.72%   65.886      1 模板:H0","  2.69%    5.418      3 模板:Ruby","  1.73%    3.493      1 模板:Stub_row"]},"cachereport":{"timestamp":"20221103070505","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134});});</script>		</body>
+		</html>
+		

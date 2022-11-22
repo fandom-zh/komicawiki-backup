@@ -1,0 +1,1170 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>美少女戰士登場角色一覽-主角群 - Komica wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"美少女戰士登場角色一覽-主角群","wgTitle":"美少女戰士登場角色一覽-主角群","wgCurRevisionId":408398,"wgRevisionId":408398,"wgArticleId":39912,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"美少女戰士登場角色一覽-主角群","wgRelevantArticleId":39912,"wgRequestId":"bc034ac2b4902108f977ac1a","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-美少女戰士登場角色一覽-主角群 rootpage-美少女戰士登場角色一覽-主角群 stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">美少女戰士登場角色一覽-主角群</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;"><a href="/%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%A6%E5%A3%AB%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A0%E3%83%BC%E3%83%B3" title="美少女戦士セーラームーン">美少女戰士</a>登場角色一覽-主角群</div>
+<table class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"><tbody><tr><td style="">本條目<a href="/%E5%88%86%E9%A1%9E:%E9%9C%80%E8%A6%81%E6%93%B4%E5%85%85%E7%9A%84%E6%A2%9D%E7%9B%AE" title="分類:需要擴充的條目">內容不足需要擴充</a>，歡迎有興趣的朋友加以補完。
+</td></tr><tr><td>本條目含有劇透，如果沒看過原作漫畫/舊版動畫/真人版/新版動畫/音樂劇又不想被變成妖怪而被月亮懲罰淨化的話請不要繼續看下去。
+</td></tr><tr><td><i><b>月の光は愛のメッセージ</b></i>
+</td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=1" title="編輯章節：解說" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li>此條目為<a href="/%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%A6%E5%A3%AB%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A0%E3%83%BC%E3%83%B3" title="美少女戦士セーラームーン">美少女戦士セーラームーン</a>的分支條目，專門介紹主角群。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="主角群"></span><span class="mw-headline" id=".E4.B8.BB.E8.A7.92.E7.BE.A4">主角群</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=2" title="編輯章節：主角群" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<h3 class="in-block"><span id="月野兔/水手月亮（月野うさぎ/セーラームーン）"></span><span class="mw-headline" id=".E6.9C.88.E9.87.8E.E5.85.94.2F.E6.B0.B4.E6.89.8B.E6.9C.88.E4.BA.AE.EF.BC.88.E6.9C.88.E9.87.8E.E3.81.86.E3.81.95.E3.81.8E.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.83.A0.E3.83.BC.E3.83.B3.EF.BC.89">月野兔/水手月亮（月野うさぎ/セーラームーン）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=3" title="編輯章節：月野兔/水手月亮（月野うさぎ/セーラームーン）" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><a href="/%E8%81%B2%E5%84%AA" title="聲優">CV</a>：<a href="/%E4%B8%89%E7%9F%B3%E7%90%B4%E4%B9%83" title="三石琴乃">三石琴乃</a>（舊版和新版皆勤）、荒木香惠（現名：荒木香衣，44話-50話<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>）<br>演員：澤井美優</li>
+<li>本作的主角，平凡愛哭成績又差的中學二年生，特徵是綁著像團子+長辮一般的長髮型
+<ul><li>匿稱「包子頭」or「肉丸子頭」（限男主地場衛和星野光）</li>
+<li>在現世家庭成員有爸爸謙之、媽媽育子、弟弟進悟以及作為長女姐姐的小兔四人組成的小康<a href="/%E6%99%AE%E9%80%9A" title="普通">普通</a>家庭</li>
+<li>在漫畫四期後和下面內四成員一起成為高一生，除了小麗外其他四人就讀於十番高中（舊版動畫變為第五期才升高一）</li></ul></li>
+<li>在一次偶然幫助黑貓露娜後，得到了神奇的胸針，得到了變身為愛與正義的水手服美少女戰士的能力，就此展開和妖魔戰鬥的<s>不歸路</s>旅程。</li>
+<li>前世為銀千年王國的希蕾妮蒂公主，和樓下的前世有著禁忌的戀情，卻也同時成為導致銀千年滅亡的導火索
+<ul><li>在30世紀時已成為新銀千年王國的女王，但<a href="/%E6%AE%98%E5%BF%B5%E7%BE%8E%E5%A5%B3" title="殘念美女">氣質和威嚴和以往判若兩人</a>。<s>但還是會故意因病翹班的，不僅寫字依然很醜，舊版動畫裡連日文漢字都不會寫</s></li></ul></li>
+<li><s>永恆型態雖然很強大，然而不僅沒了月冕能用，背後的裝飾大翅膀還非常的礙事<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>，再加上那個粉色泡泡袖和過於鮮艷的配色導致被評為還不如超級型態。</s></li>
+<li><s>雖然是主角，但在戰鬥時永遠是用來吸引敵方炮火+讓其他隊友幫坦幫打，當陷入劣勢時再召喚樓下老公射玫瑰後重振我方士氣最後自己再跳出來補最後一刀的</s></li>
+<li><s>因為是主角再加上月亮在各國文化上的重要地位，所以區區一個衛星的水手戰士會有這麼多<a href="/%E4%B8%BB%E8%A7%92%E5%A8%81%E8%83%BD" title="主角威能">主角威能</a>加持也是理所當然的</s></li>
+<li>登場台詞是「愛與正義的水手服美少女戰士！水手月亮！」（愛と正義のセーラー服美少女戦士、セーラームーン！）<br>代表名號台詞：<b>我要代替月亮懲罰你們！（月にかわっておしおきよ！）</b>
+<ul><li><s>拜這句台詞所賜，<a href="/%E4%B8%AD%E4%B9%8B%E4%BA%BA" class="mw-redirect" title="中之人">中之人</a>往後配音的作品角色連續數年<a href="/%E9%AB%98%E9%81%94%E5%85%AB%E6%88%90" title="高達八成">高達八成</a>幾乎都會被代入這個台詞和手勢，熱潮過後才逐漸好轉，因此曾在其他棚的作品中抗議過</s></li></ul></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Q33JJlQ6fpA">舊版變身及招式畫面</a></li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>出身地</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的<a href="/%E5%AF%B6%E7%9F%B3" title="寶石">寶石</a></th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>14～16歲，最終22歲（原作）<br>14～16歲（動畫版）<br>14歲，最終18歲（真人版）</td>
+<td>東京都・麻布十番</td>
+<td>6月30日（巨蟹座）</td>
+<td>珍珠<br>月長石</td>
+<td>O型</td>
+<td>白色<br>粉紅色</td>
+<td>家政課</td>
+<td>數學<br>英文</td>
+<td><a href="/%E5%A4%A7%E9%A3%9F%E3%81%84" title="大食い">吃喝</a><br>睡覺<br>邊走邊吃蛋糕</td>
+<td>阿諛奉承<br>哭<br>撒嬌</td>
+<td>鑽石</td>
+<td>蛋糕<br>冰淇淋</td>
+<td>紅蘿蔔<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+<td>看牙醫<br>打針<br><a href="/%E6%80%AA%E7%89%A9" title="怪物">妖怪</a><br>鬼故事<br>喝<a href="/%E9%85%92" title="酒">酒</a><br>打<a href="/%E9%9B%B7" title="雷">雷</a><s>木星表示：？</s></td>
+<td>當<a href="/%E7%B5%90%E5%A9%9A" title="結婚">新娘</a>
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="4">裝備及招式<sup id="cite_ref-skill_4-0" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th></tr><tr><th>季度</th>
+<th>裝備</th>
+<th>招式</th>
+<th>備註+中招敵人的反應
+</th></tr><tr><td rowspan="6">無印<br>Crystal第一季
+</td>
+<td>變身胸針
+</td>
+<td>
+</td>
+<td>「<b>月亮三棱鏡力量，變身！</b>」<br>變身為水手月亮的必備道具，原作漫畫和舊版動畫裡的胸針樣式設計不同。
+</td></tr><tr><td>頭上團子的紅色裝飾
+</td>
+<td>超音波
+</td>
+<td>只在水手月亮大哭時觸發，能夠把水手月亮的哭聲高分貝<a href="/%E6%88%90%E5%8F%A5/%E4%BD%A0%E5%9C%A8%E5%A4%A7%E8%81%B2%E4%BB%80%E9%BA%BC%E5%95%A6%EF%BC%81" title="成句/你在大聲什麼啦！">大聲</a>化的刺耳干擾敵人
+</td></tr><tr><td rowspan="2">月冕
+</td>
+<td>ムーン・ティアラ・アクション<br>月冕飛擊
+</td>
+<td>攻擊系的飛行道具，能將初期的妖魔一擊必殺，但在入手彎月神杖後這招就開始影薄化……<br>R最初依然有使用，但後來<s>為了賣新權杖</s>不明原因弱化，至此便幾乎沒有再使用<br><s>第五季升級成永恆型態後因額頭不再有月冕的關係，改成用披薩丟（無誤）</s>
+</td></tr><tr><td>ムーン・ティアラ・スターダスト<br>月冕星塵
+</td>
+<td>非攻擊系的淨化招式，只對被妖魔控制的弟弟進悟和他的同學們使用了一次此招
+</td></tr><tr><td>變身筆
+</td>
+<td>
+</td>
+<td>「<b>月光力量！讓我變成OOO吧！</b>」<br>只在無印和R初期使用過，可以給使用者變出各種<a href="/Cosplay" title="Cosplay">Cosplay</a>職業造型打扮，原作裡甚至還能<b><a href="/images/3/33/Genderbendsailormoon.png" class="internal" title="Genderbendsailormoon.png">性轉換</a></b><br>第三季被美奈子A走打扮成水手月亮給面臨身份暴露危機的小兔解圍
+</td></tr><tr><td>ムーン・スティック<br>彎月神杖<br>新月棒<br><s>鈍器一號</s>
+</td>
+<td>ムーン・ヒーリング・エスカレーション<br>月亮療癒進化<br>月光昇華洗禮
+</td>
+<td>淨化招式，搭配銀水晶使用可讓武器本身變加長版並進一步提升效能<br><s>另外也可以拿這把來敲碎小豬撲滿，所以是鈍器（無誤）</s><br><b>\\Refresh!//</b><br>因為彎月神杖的熱賣，使風評很好但周邊玩具銷量不理想的舊版動畫擺脫<a href="/%E8%85%B0%E6%96%AC" title="腰斬">腰斬</a>的命運<s>，也導致主角變成每集固定出來收人頭的補刀仔</s><br>在遊戲版超任主機的RPG《ANOTHER STORY》中此技能變為為我方角色回復體力用的補血技
+</td></tr><tr><td rowspan="2">R<br>Crystal第二季
+</td>
+<td>クリスタル・スター
+</td>
+<td>
+</td>
+<td>「<b>月亮水晶力量，變身！</b>」<br>第二季的變身道具
+</td></tr><tr><td>キューティ・ムーン・ロッド<br>粉紅月亮權杖<br>粉紅月亮權杖<br><s>鈍器二號</s>
+</td>
+<td>ムーン・プリンセス・ハレーション<br>月亮公主光暈<br>月公主華光
+</td>
+<td>使用此招時杖上的皇冠會發光<br><b>\\Cleansing!//</b>
+</td></tr><tr><td rowspan="6">Super<br>Crystal第三季
+</td>
+<td>コズミック・ハート・コンパクト
+</td>
+<td>
+</td>
+<td>「<b>月亮宇宙力量，變身！</b>」<br>第三季的變身道具，從本作開始胸針形狀變為心形。
+</td></tr><tr><td>レインボー・ムーン・カリス
+</td>
+<td>
+</td>
+<td>「<b>緊急變身！</b>」<br>水手月亮可藉此二段變身成超級型態。
+</td></tr><tr><td rowspan="3">スパイラル・ハート・ムーン・ロッド<br>螺旋月亮愛心神杖<br>螺旋月光愛心神杖<br><s>鈍器三號</s>
+</td>
+<td>ムーン・スパイラル・ハート・アタック<br>月光螺旋愛心攻擊
+</td>
+<td>從權杖射出無數愛心後，直接一個巨大愛心甩到敵人身上（無誤）<s>，水手月亮妳轉圈轉到都快變成直升機了……</s><br><b>\\Lovely!//</b>
+</td></tr><tr><td>レインボー・ムーン・ハート・エイク<br>彩虹月亮心悸<br>彩虹月光愛心攻擊
+</td>
+<td>在使用<a href="/Fate/stay_night" title="Fate/stay night">聖杯</a>變身成為超級型態後可使用，從權杖射出愛心緞帶後，先閃現一道彩虹後還是一個巨大愛心（ry<br><b>\\Love-Lovely!//</b>
+</td></tr><tr><td>レインボー・ダブルムーン・ハート・エイク<br>虹色雙月心悸
+</td>
+<td>原作第三期和Crystal出現的必殺技，取得聖杯後與超級水手小月亮共同使出的合體技
+</td></tr><tr><td><s>維納斯戀愛鎖鏈（ヴィーナス・ラブ・ミー・チェーン）</s>
+</td>
+<td><s>ラブミー・ムーン・チェーン</s>
+</td>
+<td><s>小兔：（一臉傻眼得看著喬裝成她的美奈子）……我有用過這招嗎？</s>
+</td></tr><tr><td rowspan="2">SuperS<br>Eternal
+</td>
+<td>クライシス・ムーン・コンパクト
+</td>
+<td>
+</td>
+<td>「<b>月亮緊急變身！</b>」<br>第四季在天馬之力下升級的變身道具，能變身為<s>弱化版</s>超級型態，服裝設計與前季有微妙不同。
+</td></tr><tr><td>カレイド・ムーン・スコープ<br>月亮萬花筒神杖<br>幻彩星光棒<br><s>萬花筒刺劍</s>
+</td>
+<td>ムーン・ゴージャス・メディテイション<br>月亮華麗冥想<br>月光華麗魅影
+</td>
+<td>原作可以和小月亮共同使出，但舊版動畫改成需要在小月亮召喚天馬後才能使用<br>演出歷代最潮最異質的bank：帥氣如使劍般的動作+模擬萬花筒的分割畫面+大量的炫目光效，最後從神杖頂端噴出大量鏡子碎片<br><b>\\STAGE OUT!//</b>
+</td></tr><tr><td rowspan="4">Sailor Stars<br>Eternal
+</td>
+<td>エターナル・ムーン・アーティクル
+</td>
+<td>
+</td>
+<td>「<b>月亮永恆變身！</b>」<br>舊版動畫第五季的（ry。集太陽系所有水手戰士之力而成
+</td></tr><tr><td>ホーリー・ムーン・カリス
+</td>
+<td>
+</td>
+<td>由聖杯升級而成，原作第五期和劇場版Eternal裡永恆水手月亮的變身道具。和樓上一樣都是集太陽系所有（ry<br>舊版動畫中為水手小小提供的外掛。
+</td></tr><tr><td rowspan="2">エターナル・ティアル<br>永恆月光神杖<br>永恆月光棒<br><s>可伸縮鈍器四號</s>
+</td>
+<td>スターライト・ハネムーン・セラピー・キッス<br>星光蜜月療癒之吻<br>甜蜜月影星暉復原華光
+</td>
+<td><s>大概是因為之前體操做過頭了，本次改用大量羽毛特效+佛光普照</s><br><b>\\Beautiful!//</b>
+</td></tr><tr><td>シルバー・ムーン・クリスタルパワー・キッス<br>銀色月光水晶力量之吻<br>銀白之月水晶力量華光
+</td>
+<td>樓上和小小<s>提供的<a href="/%E5%A4%96%E6%8E%9B" title="外掛">外掛</a></s>合力之後的升級版<s>羽毛特效更多了，佛光也更刺眼了</s><br><b>\\Beautiful!//</b>
+</td></tr></tbody></table><h3 class="in-block"><span id="地場衛[5]/變態假面燕尾服蒙面俠/水手地球（地場衛／タキシード仮面）"></span><span class="mw-headline" id=".E5.9C.B0.E5.A0.B4.E8.A1.9B.5B5.5D.2F.E8.AE.8A.E6.85.8B.E5.81.87.E9.9D.A2.E7.87.95.E5.B0.BE.E6.9C.8D.E8.92.99.E9.9D.A2.E4.BF.A0.2F.E6.B0.B4.E6.89.8B.E5.9C.B0.E7.90.83.EF.BC.88.E5.9C.B0.E5.A0.B4.E8.A1.9B.EF.BC.8F.E3.82.BF.E3.82.AD.E3.82.B7.E3.83.BC.E3.83.89.E4.BB.AE.E9.9D.A2.EF.BC.89">地場衛<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>/<s><a href="/%E8%AE%8A%E6%85%8B%E5%81%87%E9%9D%A2" title="變態假面">變態假面</a></s>燕尾服<a href="/%E5%81%87%E9%9D%A2" title="假面">蒙面</a>俠<s>/水手地球</s>（地場衛／タキシード仮面）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=4" title="編輯章節：地場衛[5]/變態假面燕尾服蒙面俠/水手地球（地場衛／タキシード仮面）" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E5%8F%A4%E8%B0%B7%E5%BE%B9" title="古谷徹">古谷徹</a>、緒方惠美（少年時期）（舊版）/野島健兒、<a href="/%E7%94%B0%E6%9D%91%E7%9D%A6%E5%BF%83" title="田村睦心">田村睦心</a>（少年時期）（Crystal）<br>演員：澀江讓二</li>
+<li>本作的男主角<s>（笑）</s>，小兔的戀人</li>
+<li>前世為地球王國的王子安迪米歐，因為和樓上（ry</li>
+<li>黃金水晶的持有者，有著<a href="/%E5%9C%B0%E7%90%83" title="地球">地球</a>的星球種子</li>
+<li>舊版無印多次和小兔邂逅並成為朋友，到了中期看到小兔變身水手月亮後也自曝自己身分變身成燕尾服蒙面俠，後來為了保護她而受傷又被俘虜抓走<s>從這此開始了地場衛的「無駄男主角」傳說</s>，之後被貝爾女王洗腦成為自己的奴僕攻擊小兔，在幾經折騰下雖然地場衛脫離洗腦了但為了保護小兔又被攻擊而死，最後在打倒了真最終頭目美達莉亞女王後跟著其他人一同復活</li>
+<li>到了第二季一度<a href="/%E8%A8%98%E6%86%B6%E5%96%AA%E5%A4%B1" title="記憶喪失">記憶喪失</a>不認得小兔，但部份意識卻變化成阿拉伯服裝造型的月影騎士（月影のナイト）這<a href="/%E5%8F%A6%E4%B8%80%E5%80%8B%E6%88%91" title="另一個我">另一種身分</a>協助水手戰士，後來<a href="/%E6%88%90%E5%8F%A5/%E6%88%91%E6%83%B3%E8%B5%B7%E4%BE%86%E4%BA%86" title="成句/我想起來了">想起來</a>跟小兔的各種點點滴滴才兩者融合正式回歸並正式跟小兔交往</li>
+<li>然而，隨後由於在持續的夢境中見到和自己在一起的小兔死亡的畫面，雖然依然愛著小兔但選擇與她分手。經常數次掙扎和小兔的遇險，小衛最後即使遇上任何危險，依然堅定與小兔重燃愛火
+<ul><li>事後得知那一連串惡夢是安迪米歐給予小衛對小兔的愛的試煉<s>，自己坑自己</s></li></ul></li>
+<li>R劇場版有提到小衛年幼時父母於一場交通事故中身亡，自己一個人在醫院孤苦無依無助時被年幼的小兔送花束加油鼓勵，而自己也一直在找那時候的那位女孩，同一時也在那認識了菲歐雷成為朋友</li>
+<li>特技是射出由能量製成的玫瑰、體術、會走路的生命維持裝置（無誤）</li>
+<li>原作和新版動畫是高校二年級生之後再升上大學成為大學生，舊版動畫則是一開始就是大學生</li>
+<li>真人版則同時擁有<a href="/%E6%80%AA%E7%9B%9C" title="怪盜">怪盜</a>的身分</li>
+<li><s>雖然不是水手戰士，但也有專屬的變身畫面<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></s></li>
+<li><s>戰鬥力每況愈下，到Sailor Star先是成了人質，後面更被強制退場</s></li>
+<li><s>低所<a href="/%E6%81%90%E6%87%BC%E7%97%87" title="恐懼症">恐懼症</a>，因此出場多半站在高處</s></li>
+<li><s>跟蹤狂，經常可以在水手月亮陷入危機後適時現身解圍</s></li>
+<li><s>迷台詞製造機，登場時<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=UdWiY6zJzaA">會唸一堆意味不明的台詞</a>，偶爾配搭謎之鏡頭和動作，成了網民的素材</s></li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>代表寶石</th>
+<th>生日（星座）</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td><a href="/%E5%8D%81%E4%B8%83%E6%AD%B2" title="十七歲">17</a>～20歲，最終25歲（原作）<br>18～21歲（動畫版）<br>18歲，最終21歲（真人版）</td>
+<td>黃金</td>
+<td>8月3日（獅子座）</td>
+<td>A型</td>
+<td>黑色</td>
+<td>物理學</td>
+<td>無</td>
+<td>閱讀</td>
+<td>田徑</td>
+<td>巧克力</td>
+<td>碗豆、青椒</td>
+<td>小兔的哭泣</td>
+<td>當醫師
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="3">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>招式<sup id="cite_ref-skill_4-1" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th>
+<th>備註
+</th></tr><tr><td>無印全五季<br>Crystal
+</td>
+<td>紅玫瑰射擊
+</td>
+<td>在水手戰士陷入劣勢時丟一株紅玫瑰去重振水手戰士的士氣，有時紅玫瑰還能把該集的刺客敵人給打傷<br>無印和R代的戰鬥遊戲出現的紅玫瑰玩家使用後擁有完全回復體力的功能<br>在月影騎士時期有丟出白玫瑰的版本
+</td></tr><tr><td>原作漫畫<br>Crystal二期以後
+</td>
+<td>タキシード・ラ・スモーキング・ボンバー<br>燕尾服煙霧轟炸
+</td>
+<td>在新安迪米歐國王的引導下成功讓燕尾服蒙面俠創造出自己的個人招式，從手中發射出強烈的白色光束砲攻擊敵人
+</td></tr><tr><td>Super劇場版《竹取公主的戀人》
+</td>
+<td>ピンクシュガー・タキシード・アタック<br>粉紅砂糖燕尾服攻擊
+</td>
+<td>和水手小月亮的<a href="/%E5%90%88%E9%AB%94%E6%8A%80" title="合體技">合體技</a>
+</td></tr></tbody></table><h3 class="in-block"><span id="小小兔[7]/水手小月亮（ちびうさ/セーラーちびムーン）"></span><span class="mw-headline" id=".E5.B0.8F.E5.B0.8F.E5.85.94.5B7.5D.2F.E6.B0.B4.E6.89.8B.E5.B0.8F.E6.9C.88.E4.BA.AE.EF.BC.88.E3.81.A1.E3.81.B3.E3.81.86.E3.81.95.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.81.A1.E3.81.B3.E3.83.A0.E3.83.BC.E3.83.B3.EF.BC.89">小小兔<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>/水手小月亮（ちびうさ/セーラーちびムーン）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=5" title="編輯章節：小小兔[7]/水手小月亮（ちびうさ/セーラーちびムーン）" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：荒木香惠（現名：荒木香衣）（舊版）/<a href="/%E7%A6%8F%E5%9C%93%E7%BE%8E%E9%87%8C" title="福圓美里">福圓美里</a>（Crystal）</li>
+<li>R登場的新<a href="/%E8%98%BF%E8%8E%89" title="蘿莉">蘿莉</a>角色，來自30世紀，是那時已登基成為新銀千年王國統治者的樓上兩人的獨生女。</li>
+<li>全名為うさぎ·スモールレディ·セレニティ，在現代的名字也叫月野兔（⋯⋯）</li>
+<li>被剎那和黛安娜稱呼「小淑女/Small Lady/スモール・レディ」</li>
+<li>因為大眾受到銀水晶力量而長生不老的緣故，<a href="/%E5%90%88%E6%B3%95%E8%98%BF%E8%8E%89" title="合法蘿莉">在原作年齡為<b>900多歲</b>；舊版動畫則是和外貌一致的小學生年紀</a></li>
+<li><a href="/%E6%AD%BB%E5%B0%8F%E5%AD%A9" title="死小孩">死小孩</a><a href="/%E8%90%8C%E5%B1%AC%E6%80%A7" title="萌屬性">屬性</a>，不過原作後期成熟不少</li>
+<li>R代後期被敵方的華茲曼洗腦操控<a href="/%E6%9A%97%E5%A2%AE" title="暗墮">暗墮</a>變成了「黑暗淑女/Black Lady/ブラック・レディ」以致跟主角方敵對，原作漫畫跟新版動畫在目睹冥王星之死而崩潰落淚變回來（舊版動畫冥王星在未領便當，而是讓小小兔透過重溫父母的親情之愛以及其他人的關懷下感動回復回來）</li>
+<li>在原作二期末、動畫第三季成為水手戰士見習生</li>
+<li>代表名號台詞：<b>代替未來的月亮懲罰你們！（未来の月に代わっておしおきよ！）</b></li>
+<li>原作到第五期末還有注意到過去的異常而特地從30世紀搬救兵去援助水手月亮的劇情，但舊版動畫第五季卻在妮赫蕾妮雅復活篇結束後直接回到30世紀，此後便再也沒出現過（在和蓋拉克西亞決戰時有出現在小兔的<a href="/%E5%A4%A2%E7%B5%90%E5%B1%80" title="夢結局">夢境</a>中）。<s>大概是因為她做主演的SuperS就不人氣吧</s></li>
+<li>希望可以在同齡層交到知心好友，在認識桃原桃子和更科九助這些同班同學做朋友前都沒什麼機會，變成<a href="/%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%BE%88%E5%B0%91" title="我的朋友很少">朋友很少</a><s>而且還有過遇到了一個長得帥但很變態的死小孩的性騷擾<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></s></li>
+<li><s>守備範圍意外的廣：不只戀父還和一匹馬搞上</s></li>
+<li><s><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><a href="/%E5%A4%A9%E7%85%9E%E5%AD%A4%E6%98%9F" title="天煞孤星">天煞孤星</a>，和她有關係的人都會出事：剋死了冥王星、讓小螢吃了自己的純真之心變成女王9、天馬為了她而數次自殘，和她做朋友的人或馬都會很倒楣（誤）</span></s></li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的寶石</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>900～902歲（原作，外表看起來7～10歲）</td>
+<td>6月30日（巨蟹座）</td>
+<td>珍珠<br>月長石</td>
+<td>O型</td>
+<td>紅色<br>粉紅色</td>
+<td>製圖</td>
+<td><a href="/%E8%AA%9E%E8%A8%80" title="語言">語文</a></td>
+<td><a href="/%E6%94%B6%E9%9B%86" title="收集">收集</a>兔子周邊物</td>
+<td>撒嬌</td>
+<td>鑽石</td>
+<td>布丁</td>
+<td>紅蘿蔔<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><br><a href="/%E9%AD%9A" title="魚">魚</a>肉<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></td>
+<td>一個人看家</td>
+<td>成為像媽媽一樣優秀的淑女
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="4">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>裝備</th>
+<th>招式</th>
+<th>備註
+</th></tr><tr><td rowspan="2">R<br>Crystal第二季
+</td>
+<td>露娜P（ルナP・ボール）
+</td>
+<td>
+</td>
+<td>能夠變出各式各樣的道具，平時可以做為小小兔的類<a href="/%E7%B1%83%E7%90%83" title="籃球">籃球</a>來玩<br>偶爾也能拿來攻擊（如：爆炸或到處暴跳一番，遊戲版的R代戰鬥遊戲和S代的格鬥遊戲是小月亮的超必殺技）<br>原作和Crystal第三季裡後來變成了粉紅愛心神杖。<br>在遊戲版超任主機的RPG《ANOTHER STORY》中的露娜P是存檔點
+</td></tr><tr><td>時空之鑰（時空のカギ）
+</td>
+<td>
+</td>
+<td>可以用來<a href="/%E7%A9%BF%E8%B6%8A%E4%BD%9C%E5%93%81" title="穿越作品">穿越</a><a href="/%E6%99%82%E9%96%93%E6%97%85%E8%A1%8C" title="時間旅行">時空</a>去時空之門水手冥王星那裡的道具
+</td></tr><tr><td>Super<br>Crystal第三季
+</td>
+<td rowspan="2">粉紅愛心神杖（ピンク・ムーン・スティック）
+</td>
+<td>粉紅砂糖愛心攻擊（ピンクシュガー・ハート・アタック）
+</td>
+<td>原作和新版動畫的輸出還算不錯，但在舊版動畫直接變成有發射延遲、只能干擾敵人，射程低下（還自帶拋物線）的廢招<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">而且反而還會助長敵人變強<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></span>……不過似乎具有足以粉碎玻璃的威力，也有過火力大爆發的時刻
+</td></tr><tr><td>Crystal第三季
+</td>
+<td>虹色雙月心悸（レインボー・ダブルムーン・ハート・エイク）
+</td>
+<td>取得聖杯後與超級水手月亮共同使出的合體技
+</td></tr><tr><td>SuperS
+</td>
+<td>水晶聖鈴（クリスタル・カリヨン）
+</td>
+<td>Twinkle Bell
+</td>
+<td>「<b>求求你，天馬，守護大家的夢想！</b>」<br>毫無反應就是個天馬召喚器（無誤），也有召喚不出天馬失敗的情形<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><br>雖然鈴鐺本身有附帶光束攻擊性能，但威力和粉紅砂糖愛心攻擊差不了多少
+</td></tr><tr><td>SuperS劇場版<br>Eternal
+</td>
+<td>ちびムーン・カレイド・スコープ
+</td>
+<td>月亮華麗冥想（ムーン・ゴージャス・メディテイション）
+</td>
+<td>原作和水手月亮能共同使用，舊版動畫中只在劇場版使用過
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="內部太陽系四戰士"></span><span class="mw-headline" id=".E5.85.A7.E9.83.A8.E5.A4.AA.E9.99.BD.E7.B3.BB.E5.9B.9B.E6.88.B0.E5.A3.AB">內部太陽系四戰士</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=6" title="編輯章節：內部太陽系四戰士" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<ul><li>為守護月亮公主的四名貼身護衛。漫畫和舊版動畫中小兔和她們的關係描寫有相當不同
+<ul><li>原作漫畫中比較像是前世因緣的主僕關係，舊版動畫則是以共患難的好友+戰友這方面來描寫</li>
+<li><s>因為種種因素從舊版第三季戰力開始跟不上，就算升級成超級/永恆型態戰績依舊微妙。</s>
+<ul><li>原作第五期在前幾回就被全滅；舊作動畫第五期後面說好要一起打倒蓋拉克西亞，結果剛到沒多久就被擊倒，且四人皆在未出手攻擊的情況下替小兔與星光三人組擋下攻擊而陣亡。</li></ul></li></ul></li></ul><h3 class="in-block"><span id="水野亞美/水手水星（水野亜美/セーラーマーキュリー）"></span><span class="mw-headline" id=".E6.B0.B4.E9.87.8E.E4.BA.9E.E7.BE.8E.2F.E6.B0.B4.E6.89.8B.E6.B0.B4.E6.98.9F.EF.BC.88.E6.B0.B4.E9.87.8E.E4.BA.9C.E7.BE.8E.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.83.9E.E3.83.BC.E3.82.AD.E3.83.A5.E3.83.AA.E3.83.BC.EF.BC.89">水野亞美/水手水星（水野亜美/セーラーマーキュリー）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=7" title="編輯章節：水野亞美/水手水星（水野亜美/セーラーマーキュリー）" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E4%B9%85%E5%B7%9D%E7%B6%BE" title="久川綾">久川綾</a>（舊版）/<a href="/%E9%87%91%E5%85%83%E5%A3%BD%E5%AD%90" title="金元壽子">金元壽子</a>（Crystal）<br>演員：濱千咲<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>IQ300的天才少女，學業成績總是名列前矛榜首第一名，本人個性溫和內斂，同時也很擅長街機遊戲，天敵弱點是情書</li>
+<li>父親是一位畫家，母親則是一位醫師，雙親離婚後亞美就跟母親一起生活，並夢想成為跟母親一樣的醫師</li>
+<li>在戰鬥時為制定策略並分析情報的<a href="/%E5%AD%94%E6%98%8E" title="孔明">軍師</a>屬性，也因此露娜還特別給了亞美一台小型電腦可搭配HMD護目鏡分析敵人情報
+<ul><li>雖與水手海王星同樣是水屬性，但兩人的能力性質有差異，水星是淡水系+冰屬性的攻擊，而海王星則以海水跟水壓的攻擊為主。</li>
+<li>舊版動畫無印中基本沒有多少獨自戰鬥能力，後期則追加了不少攻擊系招式</li></ul></li>
+<li>在舊版動畫中是內部四人裡人氣最高的，甚至壓過作為主角的小兔</li>
+<li>舊版動畫無印篇曾跟成績超越自己的優等生浦和良互有好感，可惜後來浦和良<a href="/%E6%88%90%E5%8F%A5/%E4%BB%96%E2%80%A7%E8%BD%89%E2%80%A7%E5%AD%B8%E2%80%A7%E4%BA%86" title="成句/他‧轉‧學‧了">轉學</a>離開了亞美，這段感情也無疾而終
+<ul><li>小兔的弟弟進悟其實也對亞美這溫柔補教大姐姐頗有好感</li></ul></li>
+<li><s>同性戀偵測雷達，一下子就注意到R劇場版的菲歐雷與小衛以及S代裡遙滿的傾向不單純</s></li>
+<li><s>舊版中之人<a href="/%E4%B9%85%E5%B7%9D%E7%B6%BE" title="久川綾">久川綾</a>曾當眾吐槽過跑來參加幼女動畫活動的大量<a href="/%E5%AE%85%E7%94%B7" title="宅男">死宅</a>們，並稱呼他們為大朋友（大きなお友達）。是大友一詞的由來。</s></li>
+<li><s>後來轉職成和上司一樣<a href="/%E3%83%8F%E3%83%BC%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2!#.E4.B8.BB.E8.A7.92" title="ハートキャッチプリキュア!">代表著月亮的傳說戰士</a>，武力值大增的同時還得了<a href="/%E5%A4%A9%E7%85%9E%E5%AD%A4%E6%98%9F" title="天煞孤星">天煞孤星</a>屬性</s></li>
+<li>登場台詞是「水之星！水星為守護星，<s>痴</s>知性的戰士！水手水星！」（水の星！水星を守護にもつ知の戦士！セーラーマーキュリー！）<br>代表名號台詞：<b><a href="/%E6%88%90%E5%8F%A5/%E9%A0%AD%E8%85%A6%E7%A8%8D%E5%BE%AE%E5%86%B7%E9%9D%9C%E4%B8%80%E4%B8%8B%E5%90%A7%E2%80%A6" title="成句/頭腦稍微冷靜一下吧…">對你潑點水，好好反省吧！</a>（水でもかぶって反省しなさい！）</b></li>
+<li><s>本作的親女兒二號</s>，縱使自己沒有特別突出強大的力量，但憑藉自己溫柔如水般的個性和謙遜穩重的態度<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>，還是搏得大批讀者的喜愛。
+<ul><li>甚至還有以自己為主角的短篇外傳劇場版《亞美的初戀》。</li></ul></li>
+<li>真人版對亞美的設定有些不同，除了智慧聰明以外，對主角小兔依賴感比較強，而且很會為朋友抱不平，但看到小兔跟大阪奈留感情好時會嫉妒不滿，也因這點而後一度被敵方<a href="/%E6%9A%97%E5%A2%AE" title="暗墮">洗腦控制</a>變成暗黑水星，後來回脫離洗腦回歸</li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的寶石</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>14～16歲，最終22歲（原作）<br>14～16歲（動畫版）<br>14歲，最終21歲（真人版）</td>
+<td>9月10日（處女座）</td>
+<td>藍寶石</td>
+<td>A型</td>
+<td>水藍色</td>
+<td>數學</td>
+<td>無</td>
+<td>閱讀<br><a href="/SLG" title="SLG">西洋棋</a><br>游泳</td>
+<td>計算</td>
+<td>藍寶石</td>
+<td>三明治<br>餡蜜</td>
+<td>鰤魚<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></td>
+<td>情書</td>
+<td>當醫師
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="3">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>招式<sup id="cite_ref-skill_4-2" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th>
+<th>備註
+</th></tr><tr><td>無印
+</td>
+<td>シャボン・スプレー<br>泡泡噴霧<br>皂泡紛飛
+</td>
+<td>製造大量皂泡、水氣煙幕來擾亂敵人視線，因為是妨礙擾亂敵人用的招式，所以威力普遍貧弱<br>45話顯示出可以用來冷卻使用者自己身體來耐高溫進入高溫火球裡面<br>在遊戲版超任主機的RPG《ANOTHER STORY》中此招式傷害跟動畫一樣薄弱，但可以降低敵人的攻擊力
+</td></tr><tr><td>Crystal第一季
+</td>
+<td>マーキュリー・アクア・ミスト<br>水星水色薄霧<br>水星水色煙霞
+</td>
+<td>效果與泡泡噴霧相近，但攻擊力更強
+</td></tr><tr><td rowspan="3">R<br>Super
+</td>
+<td>シャボン・スプレー・フリージング<br>泡泡冰凍噴霧<br>皂泡紛飛Freezing
+</td>
+<td>泡泡噴霧強化版，能使敵人凍結
+</td></tr><tr><td>シャイン・アクア・イリュージョン<br>波光幻影<br>皂泡幻影
+</td>
+<td>以水珠形成冷凍的激流沖刷敵人，具有瞬間冰凍效果
+</td></tr><tr><td>ダブル・シャボン・スプレー・フリージング<br>雙重泡泡冰凍噴霧<br>雙重皂泡紛飛Freezing
+</td>
+<td>泡泡冰凍噴霧強化版，能使更多敵人被凍結，但消耗能量劇烈
+</td></tr><tr><td>Crystal第二季
+</td>
+<td>シャイン・スノー・イリュージョン<br>波光幻影<br>閃雪幻影
+</td>
+<td>範圍技，和樓上幾招一樣能夠凍結敵人
+</td></tr><tr><td>SuperS<br>Sailor Stars<br>Eternal
+</td>
+<td>マーキュリー・アクア・ラプソディー<br>水星水漾狂想曲<br>水星幻影狂想曲
+</td>
+<td>彈奏用水形成的竪琴，豎琴彈奏出的音波以流水從四面八方飛出，再形成巨大的漩渦攻擊敵人
+</td></tr><tr><td>SuperS劇場版外傳《亞美的初戀》<br>Crystal第三季
+</td>
+<td><ruby>水蜃気楼<rp>（</rp><rt style="font-size:0.5em;">マーキュリー・アクア・ミラージュ</rt><rp>）</rp></ruby><br>水星水流幻象<br>星幻影波
+</td>
+<td>先是用出水星的符號形成一個水球，水球迸發出的水流形成一道道尖銳閃亮的水柱快速追擊敵人。並將命中的敵人封鎖在巨大的水球中將其給分解。<br>此招在原作和新版動畫第三季為常駐必殺技，但是舊版動畫只在在SuperS劇場版外傳《亞美的初戀》有使用過<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></td></tr></tbody></table><h3 class="in-block"><span id="火野麗[17]/水手火星（火野レイ/セーラーマーズ）"></span><span class="mw-headline" id=".E7.81.AB.E9.87.8E.E9.BA.97.5B17.5D.2F.E6.B0.B4.E6.89.8B.E7.81.AB.E6.98.9F.EF.BC.88.E7.81.AB.E9.87.8E.E3.83.AC.E3.82.A4.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.83.9E.E3.83.BC.E3.82.BA.EF.BC.89">火野麗<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>/水手火星（火野レイ/セーラーマーズ）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=8" title="編輯章節：火野麗[17]/水手火星（火野レイ/セーラーマーズ）" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：富澤美智惠（舊版）/<a href="/%E4%BD%90%E8%97%A4%E5%88%A9%E5%A5%88" title="佐藤利奈">佐藤利奈</a>（Crystal）<br>演員：北川景子 <s>/幾原邦彥<sup id="cite_ref-ref1_18-0" class="reference"><a href="#cite_note-ref1-18">[18]</a></sup></s></li>
+<li>火野神社的<a href="/%E9%BB%92%E9%AB%AA%E3%83%AD%E3%83%B3%E3%82%B0" title="黒髪ロング">黑長直</a><a href="/%E5%B7%AB%E5%A5%B3" title="巫女">巫女</a>，有著強烈的靈能力
+<ul><li>即使沒有變身，其靈能力依然有一定的抗敵能力</li></ul></li>
+<li>父親是一位政治家，母親早逝，而因為在母親逝世後父親都沒有來見母親一面以致小麗和自己父親關係惡化不合
+<ul><li>劇中與祖父火野宮司居住於火川神社
+<ul><li>神社內有飼養兩隻名叫福波斯（フォボス）和迪摩斯（ディモス）的雌性<a href="/%E9%B3%A5" title="鳥">烏鴉</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>，必要的時候兩隻會現身協助主人，原作和新版動畫兩隻還能以人類姿態登場</li></ul></li></ul></li>
+<li>原作和舊版動畫中性格相差最大的人物<s>然而兩個版本的人氣在內四裡都是墊底</s>
+<ul><li>原作漫畫裡是冷艷的大小姐性格，偶有毒舌表現，不喜歡電視與流行文化。
+<ul><li>一度喜歡上父親身邊的助手海堂，但此人不得不遵從家族搞了政治聯姻，所以麗跟他也沒有在一起</li></ul></li>
+<li>舊版動畫裡性格和樓上完全相反，是個脾氣火爆常和小兔吵架但本人又<a href="/%E3%83%84%E3%83%B3%E3%83%87%E3%83%AC" title="ツンデレ">刀子嘴豆腐心</a>的八婆，同時一改上面的孤芳自賞冷艷性格，不僅喜愛流行文化也擅長音樂演奏和唱歌。
+<ul><li>但某種程度上她和小兔之間的感情也是最深厚的<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>。</li>
+<li>無印前期還追求過男主小衛，不過在知道小兔跟小衛的情感深重後認知自己不可能，所以後面未再繼續追求。</li>
+<li>後來喜歡上在神社打工還保護過自己的熊田雄一郎，但感情也沒有結果。</li></ul></li>
+<li>和其他四人不同，就讀於由修女營辦的天主教學院—T.A私立女子中學，上高中時讀T.A女子高校，並選擇弓道部學射箭<s>為必殺技「火星烈焰狙擊手」的前置學習</s></li></ul></li>
+<li>幾原邦彥的本命（無誤）</li>
+<li><s>長大後成為雙葉幼稚園玫瑰班<a href="/%E8%80%81%E5%B8%AB" title="老師">老師</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></s></li>
+<li>登場台詞是「火之星！火星為守護星，戰鬥的戰士！水手火星！」（火の星！火星を守護にもつ戦いの戦士！セーラーマーズ！）<br>代表名號台詞：<b>我要代替火星制裁你！（火星に代わって折檻よ！）</b></li>
+<li><s>新版動畫（前兩季）最容易被<a href="/%E4%BD%9C%E7%95%AB%E5%B4%A9%E5%A3%9E" title="作畫崩壞">作畫崩壞</a>的<a rel="nofollow" class="external text" href="https://disp.cc/b/21-8xbi">主要被害擔當</a></s></li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的寶石</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>14～16歲，最終21歲（原作）<br>14～16歲（動畫版）<br>14歲，最終18歲（真人版）</td>
+<td>4月17日（牡羊座）</td>
+<td>鑽石</td>
+<td>AB型</td>
+<td>紅色<br>黑色</td>
+<td>古文</td>
+<td>現代社會</td>
+<td>占卜</td>
+<td>坐禪</td>
+<td>紅寶石</td>
+<td>河豚</td>
+<td>蘆筍罐頭</td>
+<td>電視</td>
+<td>當神社宮司
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="3">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>招式<sup id="cite_ref-skill_4-3" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th>
+<th>備註
+</th></tr><tr><td rowspan="2">無印
+</td>
+<td>悪霊退散<br>惡靈退散
+</td>
+<td>手夾惡靈退散符，念讀九字真言<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>，將符投擲出去或貼付在敵人身上，具有一定程度封鎖敵人的能力。<br>亦是麗不變身時常用的招式
+</td></tr><tr><td>ファイヤー・ソウル<br>火焰聖靈<br>火焰飛散
+</td>
+<td>兩手組成手印，在食指上集中火，以螺旋狀飛射攻擊敵人<br><s>也有口中噴火的版本</s>
+</td></tr><tr><td rowspan="2">R
+</td>
+<td>ファイヤー・ソウル・バード<br>火焰鳳凰聖靈<br>火焰飛散Firebird
+</td>
+<td>火焰聖靈強化版，擲出已施唸驅魔唸的惡靈退散符，並以火焰聖靈焚燒，化成火焰鳳凰飛向敵人，火焰鳳凰具有自主迴避招式的能力
+</td></tr><tr><td>バーニング・マンダラー<br>火舞曼陀羅
+</td>
+<td>以左手食指帶著火焰圍繞自身劃出一個火圈，火圈形成八個燃燒的曼陀羅圖像向兩手集中，同時射出八個火圈<br><s>不能在密閉窄小的空間發招，不然會有被反彈波及到的危險</s>
+</td></tr><tr><td>Crystal第三季
+</td>
+<td><ruby>火星蛇火炎<rp>（</rp><rt style="font-size:0.5em;">マーズ・スネイク・ファイヤー</rt><rp>）</rp></ruby><br>火星蛇火炎<br>火舞烈焰吞噬
+</td>
+<td>在冥想中將指尖點亮火光，隨即召喚出來的火焰蛇神依附在自己身上，隨後一轉身單手釋放出巨大的蛇形火焰將敵人吞噬。
+</td></tr><tr><td>SuperS<br>Sailor Stars
+</td>
+<td>マーズ・フレイム・スナイパー<br>火星烈焰狙擊手<br>火星烈焰飛箭
+</td>
+<td>於右手形成的烈焰，凝縮成一支赤紅的光之箭矢和火焰之弓，瞄準目標後射出箭矢。敵人命中後會被烈火焚燒<br>缺點是當風逆向吹返的時候，施招者自己反而會被箭矢的烈火燒焦。
+</td></tr></tbody></table><h3 class="in-block"><span id="木野真琴/水手木星（木野まこと/セーラージュピター）"></span><span class="mw-headline" id=".E6.9C.A8.E9.87.8E.E7.9C.9F.E7.90.B4.2F.E6.B0.B4.E6.89.8B.E6.9C.A8.E6.98.9F.EF.BC.88.E6.9C.A8.E9.87.8E.E3.81.BE.E3.81.93.E3.81.A8.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.82.B8.E3.83.A5.E3.83.94.E3.82.BF.E3.83.BC.EF.BC.89">木野真琴/水手木星（木野まこと/セーラージュピター）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=9" title="編輯章節：木野真琴/水手木星（木野まこと/セーラージュピター）" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E7%AF%A0%E5%8E%9F%E6%83%A0%E7%BE%8E" title="篠原惠美">篠原惠美</a>（舊版）/<a href="/%E5%B0%8F%E6%B8%85%E6%B0%B4%E4%BA%9E%E7%BE%8E" title="小清水亞美">小清水亞美</a>（Crystal）<br>演員：安座間美優</li>
+<li>身材高挑擁有怪力的高個子少女，<a href="/%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E8%90%8C%E3%81%88" title="ギャップ萌え">雖然行為舉止有些男孩子氣概，實際上真琴是個粗中帶細很會做菜料理內心充滿少女情懷的女生</a>，通稱「小真」（まこちゃん）
+<ul><li>每當看到哪位<a href="/%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3" title="イケメン">帥哥</a>時都會犯花痴，然後會說對方長得像甩了自己的學長（縱使長得不像也一樣）</li></ul></li>
+<li>初期轉學來到小兔和亞美所讀的十番中學，因為十番中學沒有像真琴這種身材的女學生制服，所以中學校方特別允許她穿之前學校的制服，後來和小兔、亞美、美奈子一起上十番高中</li>
+<li>雙親於一場飛機事故遇難身亡，所以從小就便學會自己自立自足的生活，也因此會各種才藝技能
+<ul><li>公式設定提到真琴很怕飛機，但舊版動畫Stars中真琴還是跟大家一起搭上了星光三人的飛機包廂，而且沒有特別反應<s>畢竟當時是緊要關頭</s>，顯然這設定被<a href="/%E5%90%83%E6%9B%B8" title="吃書">吃書</a></li></ul></li>
+<li>雖然學業成績跟小兔一樣不理想，但運動能力和打架方面的武術均高，尤其部分的招式動作就有包含運動成分<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li>
+<li>自己的玫瑰耳飾在舊版第五季妮赫蕾妮雅篇時發揮作用，讓被迷惑的小兔看到時瞬間<a href="/%E6%88%90%E5%8F%A5/%E6%88%91%E6%83%B3%E8%B5%B7%E4%BE%86%E4%BA%86" title="成句/我想起來了">想起</a>地場衛，而甦醒脫離妮赫蕾妮雅的<a href="/%E5%B9%BB%E8%A1%93" title="幻術">幻術</a>誘惑，這部分可算是動畫製作組的巧思。
+<ul><li><s>結果被部分觀眾吐槽小兔眼裡只有小衛對一旁重傷的真琴鳥都不鳥（畢竟中幻術了），不過事後小兔有把耳環還回去並向她道謝就是了</s></li></ul></li>
+<li><s>長大後嫁入<a href="/%E6%B5%B7%E8%B2%93%E6%82%B2%E9%B3%B4%E6%99%82" title="海貓悲鳴時">右代宮家</a>，被女兒發現是水手木星的身分並且相當崇拜，原本還預定是黃金魔女會發出沒品的笑聲</s><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></li>
+<li>登場台詞是「雷之星！木星為守護星，防護的戰士！水手木星！」（雷の星！木星を守護にもつ保護の戦士！セーラージュピター！）<br>代表名號台詞：<b>在戰慄的雷雨中後悔吧！（しびれるくらい、後悔させるよ！）</b>←可惜這句在舊版動畫只出現一次而已，直到新版動畫才成為常駐的報名號台詞</li>
+<li><s>以現實天文學的分類來看，其實她應該是外部第五人才對。。</s></li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的寶石</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>14～16歲，最終22歲（原作）<br>14～16歲（動畫版）<br>14歲，最終18歲（真人版）</td>
+<td>12月8日（射手座）</td>
+<td>綠松石</td>
+<td>O型</td>
+<td>粉紅色</td>
+<td>家政課</td>
+<td>物理學</td>
+<td>買特價商品</td>
+<td>料理等家務工作<br>開車<br>花式滑冰</td>
+<td>祖母綠</td>
+<td>櫻桃派<br>美式肉卷</td>
+<td>無（真人版討厭馬鈴薯）</td>
+<td>飛機</td>
+<td>當新娘<br>開花店或蛋糕店
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="3">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>招式<sup id="cite_ref-skill_4-4" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th>
+<th>備註
+</th></tr><tr><td>無印<br>Crystal第一季
+</td>
+<td>シュープリーム・サンダー<br>至尊聖雷<br>超霸雷霆
+</td>
+<td>兩手呈蘭花指交叉相疊放在臉前，頭冠的寶石向上伸出一根避雷針，避雷針開始放電從上空引來強力的天雷後對著敵人放出去<br>動畫初期使用時會唸出：<br>「<b>我が守護木星よ！嵐を起こせ、雲を呼べ、雷を降らせよ！！</b>」（原版）<br>「<b>我的守護星木星啊！颳起風暴，喚出烏雲，降下雷電吧！</b>」（台灣翻譯）<br>「<b>我的守護星木星，令天下風起雲湧、地動山搖，產生雷電轟擊</b>」（香港翻譯）
+</td></tr><tr><td rowspan="2">Crystal第一季
+</td>
+<td>フラワー・ハリケーン<br>花舞颶風<br>旋風花舞
+</td>
+<td>手掌上的桃紅色玫瑰花化為花瓣散開，玫瑰耳環發光後雙臂呈一字型，無數的花瓣在空中快速飛舞，擾亂敵人的視線並使敵人動彈不得。鋒利的花瓣還具帶切割效果。
+</td></tr><tr><td>ジュピター・サンダーボルト<br>木星霹靂雷擊<br>木星電光襲
+</td>
+<td>跟至尊聖雷的性質差不多
+</td></tr><tr><td rowspan="2">R
+</td>
+<td>シュープリーム・サンダー・ドラゴン<br>至尊飛龍聖雷<br>超霸雷霆Dragon
+</td>
+<td>至尊聖雷強化版，釋出的電擊化作巨大的雷龍攻擊敵人
+</td></tr><tr><td>スパークリング・ワイド・プレッシャー<br>霹靂猛烈電壓<br>霹靂狂野雷波
+</td>
+<td>玫瑰耳環和頭冠的避雷針共同放電，在雙手壓縮放出的電流，形成一個電漿球，投向敵人
+</td></tr><tr><td>Super
+</td>
+<td>スーパー・シュープリーム・サンダー<br>超級至尊聖雷<br>Super超霸雷霆
+</td>
+<td>空氣中的靜電向一點集中後轉換為猛烈的電擊，分散式襲向敵人
+</td></tr><tr><td>Crystal第三季
+</td>
+<td>ジュピター・ココナッツ・サイクロン<br>木星椰子氣旋
+</td>
+<td>將冠冕的避雷針吸取大氣中的靜電，隨即雙手高舉著電光球使木星的身體高速旋轉起來製造出旋風，然後兩手合握成的拳頭將纏繞著旋風的電光球叩打出去攻擊敵人。
+</td></tr><tr><td>SuperS<br>Sailor Stars<br>Eternal
+</td>
+<td>ジュピター・オーク・エボリューション<br>木星橡樹進化波<br>木星進化電光波
+</td>
+<td>雷電化作頭冠避雷針閃爍的綠光，與圍繞身邊飛舞的綠葉旋轉起來，身體以高速旋轉，使避雷針從四面八方發射出綠光電擊彈
+</td></tr></tbody></table><h3 class="in-block"><span id="愛野美奈子/水手金星（愛野美奈子/セーラーヴィーナス）"></span><span class="mw-headline" id=".E6.84.9B.E9.87.8E.E7.BE.8E.E5.A5.88.E5.AD.90.2F.E6.B0.B4.E6.89.8B.E9.87.91.E6.98.9F.EF.BC.88.E6.84.9B.E9.87.8E.E7.BE.8E.E5.A5.88.E5.AD.90.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.83.B4.E3.82.A3.E3.83.BC.E3.83.8A.E3.82.B9.EF.BC.89">愛野美奈子/水手金星（愛野美奈子/セーラーヴィーナス）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=10" title="編輯章節：愛野美奈子/水手金星（愛野美奈子/セーラーヴィーナス）" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：深見梨加、住友七繪（第163集<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>）（舊版）/<a href="/%E4%BC%8A%E8%97%A4%E9%9D%9C" title="伊藤靜">伊藤靜</a>（Crystal）<br>演員：小松彩夏 <s>/永野護<sup id="cite_ref-ref1_18-1" class="reference"><a href="#cite_note-ref1-18">[18]</a></sup></s></li>
+<li>內四裡中最早覺醒水手戰士使命的少女，在其他幾位戰士尚未覺醒水手戰士時已經在作戰，當時用的自稱是水手戰士V
+<ul><li>也就是本作前身《水手戰士V》的劇情</li></ul></li>
+<li>水手戰士V的裝束後來追加設定為偽裝水手月亮作為<a href="/%E5%BD%B1%E6%AD%A6%E8%80%85" title="影武者">影武者</a>的緣故
+<ul><li>最初以影武者形式替水手月亮等人解圍，而後也有幾次一樣以水手月亮的影武者形式登場。也因此美奈子跟小兔彼此有諸多相似處，除了體育外美奈子連學業成績一樣很糟，舊版動畫也很有愛的經常把這兩人湊一起如姐妹一樣的一起行動<s>犯傻</s>
+<ul><li>精神力旺盛，捐完血後被尤吉雅狙擊打中了自己的純真之心後面臨瀕死的危險，卻還能抱著自己的純真之心跑長途的路再倒下</li></ul></li>
+<li>舊版動畫第一季還有著成熟的隊長氣質，但後來二季以後美奈子的角色定位卻如上所述變成搞笑笨蛋，而且時不時也會講迷言冷笑話</li>
+<li>S和SS代被當成反派目標的事後反應也只有她和其他受害者不同。</li>
+<li>運動神經驚人（漫畫版及兩版動畫版的共通設定），在劇場版裡還沒變身時被抓住還是能<a href="/%E8%B6%B3%E6%8A%80" title="足技">踢飛</a>對手。</li></ul></li>
+<li><b>以上種種皆是因為她是內部太陽系四戰士中的首領。</b>
+<ul><li>在漫畫版與新版動畫第一季無印的變身筆跟另外三人是不同款式，美奈子使用的是水手V時期就有的變身筆，此變身筆可給美奈子變成水手V或水手金星兩種型態，但在舊版動畫則是跟另外三人同一款式
+<ul><li>爾後不論哪版美奈子的變身道具都跟另外三人同一款式</li></ul></li>
+<li>漫畫版與新版動畫持有守護月公主的聖劍。聖劍雖然是由四戰士一起拔出來的，但只有她能用其發動攻擊。
+<ul><li>聖劍看似老舊，但是用劍的頂端輕輕刺鑽石還是可以一次刺爆<s>，（漫畫）亞美表示：我家還有一堆鑽石，美奈子不用在意</s><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></li></ul></li></ul></li>
+<li>內四成員裡唯一一位沒有交代清楚家世背景的一位，但從前傳《水手V》的設定應能確定的是美奈子的家庭背景成員裡有父親、母親以及作為女兒的美奈子本人3人在一起生活著</li>
+<li>雖然是愛的戰士，然而情感路卻很坎坷，單是在Sailor V就有一堆敗蹟<s>直迫<a href="/%E7%81%8C%E7%B1%83%E9%AB%98%E6%89%8B" title="灌籃高手">櫻木花道</a></s>
+<ul><li>舊版動畫第一季在英國遇上一位叫艾倫的男生並喜歡上他，然而他喜歡的竟是自己當時最親近的姐妹卡塔莉娜（卡塔莉娜後來還被變成妖魔）
+<ul><li>再加上美奈子跟卡塔莉娜為追捕一名罪犯卻遭對方丟手榴彈攻擊而受傷，卡塔莉娜誤以為美奈子死於這恐怖攻擊中而在艾倫面前崩潰痛哭。</li>
+<li>這一幕讓未死待在暗處的美奈子看到後意識到了自己跟艾倫不會有結果，之後美奈子回憶過後拿出自己跟艾倫的合照讓它任風吹走。</li></ul></li>
+<li>到了第三季某集對一位叫淺井努同是排球部的男生有好感，然而當知道他早已有女友時心裡受到打擊，後來美奈子在貓搭檔阿提密斯的鼓勵下還是很快又振作起來</li>
+<li>第五季Stars裡跟夜天光多次出現在一起有曖昧關係，但如同星野和小兔那樣子的原理，美奈子跟夜天後來也沒有結果</li>
+<li>Sailor V的漫畫版更有明確點出美奈子的前世和小衛的近侍四天王的首領昆采特相戀，但結果就如大家所知道的一樣⋯<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><ul><li><s>然而就算交了男朋友面對愛情也會<a href="/%E4%B8%89%E8%A7%92%E9%97%9C%E4%BF%82" title="三角關係">用情不專搞劈腿</a>，第四季美奈子就跟虎眼和鷹眼這兩人同時劈腿交往，結果最後（ry</s></li></ul></li></ul></li>
+<li>初期本就讀港區立芝公園中學，後來和小兔、亞美、真琴一起上十番高中</li>
+<li>真人版中是一位人氣<a href="/%E5%81%B6%E5%83%8F" title="偶像">偶像</a>歌手，同時也以水手V的身份過著雙重身分的生活，還有個人專屬特別回故事集。
+<ul><li>與小兔等人重聚後也一直與小兔等人保持著距離，不願意特別親近，也以至於美奈子跟麗初期關係不合。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後面揭露美奈子其實罹患了<a href="/%E7%96%BE%E7%97%85" title="疾病">絕症</a>末期，也因為這原因不敢跟小兔等人親近就是怕大家擔心，最後親自指名麗成為內四的領導並在最終決戰前夕<ruby>領便當<rp>（</rp><rt style="font-size:0.5em;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">病逝</span></rt><rp>）</rp></ruby>，在最終話得到銀水晶力量影響下而<ruby>吐便當<rp>（</rp><rt style="font-size:0.5em;"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">復活</span></rt><rp>）</rp></ruby></span></li></ul></li>
+<li>登場台詞是「美之星！金星為守護星，<a href="/%E8%99%9B%E6%B7%B5%E7%8E%84" title="虛淵玄">愛的戰士</a>！水手金星！」（美の星！金星を守護にもつ愛の戦士！セーラーヴィーナス！）<br>代表名號台詞：<b>將愛的天罰降臨到你頭上！（愛の天罰、落とさせて頂きます！）</b>
+<ul><li>新版動畫初次變身故意不喊變身咒語口號<s>但還是有強迫症的網友會故意在此段弄舊版變身語音來補齊</s>+最後額頭沒有出現冠冕而是彎月印，象徵持續以月光公主影武者身分繼續活躍著
+<ul><li>直到第11集再次變身後的報名號中的背景由彎月轉變成金星，這一段也象徵水手金星已完成自己做為影武者的使命並正式回歸到自己的母星的意思。</li></ul></li></ul></li>
+<li><s>本作的親女兒一號（兩版動畫都一樣）</s>
+<ul><li>如同<a href="/%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%B3%BB%E5%88%97" title="光之美少女系列">隔壁</a>某幾代某幾位角色那樣，變身動畫或招式<s>（有沒有打中敵人另算）</s>的漂亮華麗度都享有高規格待遇，尤其變身動畫或是報名號的各種動作的細緻度更是全水手戰士首屈一指。</li>
+<li>新版動畫中更是唯一一位有三次變身兼用卡設計的水手戰士</li></ul></li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的寶石</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>13（水手戰士V）<br>14～16歲，最終21歲（原作）<br>14～16歲（動畫版）<br>14歲，最終18歲（真人版）</td>
+<td>10月22日（天秤座）</td>
+<td>蛋白石</td>
+<td>B型</td>
+<td>紅色<br>黃色</td>
+<td>體育</td>
+<td>數學<br>英語</td>
+<td>追星</td>
+<td>玩耍<br>排球<br>阿諛奉承<br>諺語（舊動畫版）</td>
+<td>黃玉</td>
+<td>冰淇淋<br>咖哩<br>拉麵<br>餃子</td>
+<td>香菇（真人版討厭生奶油）</td>
+<td>媽媽<br>巡警<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup><br>保安</td>
+<td>當偶像明星
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="3">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>招式<sup id="cite_ref-skill_4-5" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th>
+<th>備註
+</th></tr><tr><td>無印
+</td>
+<td>クレッセント・ビーム<br>新月光束<br>新月光線
+</td>
+<td>兩枚新月組合成的光集中在右手的食指上，指向敵人，發射貫穿敵人的金色光線
+</td></tr><tr><td rowspan="2">Crystal第一季
+</td>
+<td>クレッセント・ブーメラン<br>新月迴旋鏢
+</td>
+<td>單手將散發出橘黃色光輝的月牙形迴旋鏢向敵人投射出去。
+</td></tr><tr><td>ローリング・ハート・バイブレーション<br>旋轉心震動<br>心動震激
+</td>
+<td>將旋轉的金色愛心光環從兩手間發射出去攻擊敵人，除了部分遊戲版和真人版有出現外，舊版動畫不曾出現過此招。<br>然而這招算屬於<s>華而不實的</s>物理性攻擊招式，對沒有實體的敵人完全無效<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></td></tr><tr><td rowspan="2">R
+</td>
+<td>クレッセント・ビーム・シャワー<br>新月光線<br>新月光線Shower
+</td>
+<td>新月光束的強化版。將新月光束向上空發射，熱光線隨後如雨般擴散落下
+</td></tr><tr><td>ヴィーナス・ラブ・ミー・チェーン<br>維納斯戀愛鎖鏈<br>愛神維納斯鎖鏈
+</td>
+<td>新月光束的能量變成金色愛心環串連成的鎖鏈，以螺旋狀包圍著自身，再指向敵人射出攻擊<br>除了攻擊外，也可用作捆綁敵人或拖動重物<br>新版動畫可以直接用於配戴在金星腰上的鏈珠環來直接發招，而且還自帶電擊效果<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>，但是那鏈珠環造型被某些人認為很像○塞的○珠環，搞得金星被<a href="/%E9%A2%A8%E8%A9%95%E8%A2%AB%E5%AE%B3" title="風評被害">風評被害</a></s></span>
+</td></tr><tr><td>Crystal第三季
+</td>
+<td>ヴィーナス・ウインク・チェーン・ソード<br>金星眨眼鏈之劍<br>維納斯光速連鎖劍
+</td>
+<td>金星眨眼變出的金色愛心化作聖劍，並揮舞著聖劍轉圈後將兩手握著的聖劍猛地投擲出去，隨後從腰間飛射出四條腰鏈穿過聖劍化作的大量愛心泡沫後直擊敵人，將敵人貫穿。<br><s>新版動畫很偷懶，很喜歡把這招跟木星的「木星椰子氣旋」加乘在一起做特效攻擊敵人</s><br>新版金星此招弄出的聖劍就是在銀千年王國遺跡拿到的那把劍
+</td></tr><tr><td>SuperS<br>Sailor Stars<br>Eternal
+</td>
+<td>ヴィーナス・ラブ・アンド・ビューティ・ショック<br>金星愛與美大衝擊<br>金星愛美神彈衝擊
+</td>
+<td>將集中在右手金色星光能量集中在嘴唇上，然後用飛吻創造出一個金色愛心光彈，圍繞自身一圈後，重新集中成一個金色愛心光彈發射出去
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="外部太陽系四戰士"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E5.A4.AA.E9.99.BD.E7.B3.BB.E5.9B.9B.E6.88.B0.E5.A3.AB">外部太陽系四戰士</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=11" title="編輯章節：外部太陽系四戰士" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>除了冥王剎那於R先行登場外，其他三人皆是到S才正式登場</li>
+<li>特徵是外部太陽系戰士皆持有<s>方便騙錢的</s>武器</li>
+<li>主要任務是排除來自太陽系以外的入侵者<s>但沒一次成功</s>，因此他們（尤其天王遙和海王滿）往往會對非太陽系的外來者抱有戒心
+<ul><li><s>原作第五期說要去自己守護星去建起防衛陣線但沒兩三下就被蓋拉克西亞秒殺，果然在防衛太陽系這件事上總是成事不足</s></li>
+<li><s>而且最外圍那一個更只是負責守門</s></li></ul></li>
+<li>原作四人皆不需道具就可以直接變身，舊版動畫<s>為了賣玩具則</s>加上了變身魔法棒，而且不只有淒美動聽的變身音樂，連變身畫面的特效也都做得非常華麗
+<ul><li>不過是四人共用同一個變身bgm，不像內部四人有個人專屬的變身bgm，且變身畫面也比內部四人簡短。</li></ul></li>
+<li>三人在依序報完各自的登場台詞後會加上「外部太陽系三戰士，受到新時代危機的邀請，在這裡登場！」（外部太陽系三戦士、新たな危険に誘われて、ここに参上!!）（舊版SuperS劇場版，Sailor Stars）</li></ul><h3 class="in-block"><span id="天王遙/水手天王星（天王はるか/セーラーウラヌス）"></span><span class="mw-headline" id=".E5.A4.A9.E7.8E.8B.E9.81.99.2F.E6.B0.B4.E6.89.8B.E5.A4.A9.E7.8E.8B.E6.98.9F.EF.BC.88.E5.A4.A9.E7.8E.8B.E3.81.AF.E3.82.8B.E3.81.8B.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.82.A6.E3.83.A9.E3.83.8C.E3.82.B9.EF.BC.89">天王遙/水手天王星（天王はるか/セーラーウラヌス）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=12" title="編輯章節：天王遙/水手天王星（天王はるか/セーラーウラヌス）" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E7%B7%92%E6%96%B9%E6%83%A0%E7%BE%8E" title="緒方惠美">緒方惠美</a>（舊版）/<a href="/%E7%9A%86%E5%B7%9D%E7%B4%94%E5%AD%90" title="皆川純子">皆川純子</a>（Crystal）</li>
+<li>天王星的守護戰士，追求華麗帥氣的<a href="/%E7%94%B7%E8%A3%9D%E9%BA%97%E4%BA%BA" title="男裝麗人">男裝麗人</a>賽車手
+<ul><li>原作和動畫中對他的設定有所不同，動畫是徹底的男裝麗人，而原作由於武內直子希望遙同時擁有兩種特質：變身前為男性、變身後是女性，這點可以從漫畫的骨架看出來<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><s>，結果這設定被舊版動畫製作組拿去給星光戰士使用了</s></li></ul></li>
+<li>持有武器為三魔具之一的「宇宙劍」</li>
+<li>和樓下是<a href="/%E7%99%BE%E5%90%88" title="百合">百合</a><s>表親</s><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>關係，所以主要和滿一同行動</li>
+<li>舊版動畫有提及在遙成為水手戰士的過程
+<ul><li>某次遙被心魔襲擊時滿出現出手救她隨後滿也身陷危機，在不知該如何是好時遙得到了變身魔法棒。</li>
+<li>在遙去拿變身魔法棒時，滿有警告遙<a href="/%E6%88%90%E5%8F%A5/%E3%81%8A%E3%82%8C%E3%81%AF%E4%BA%BA%E9%96%93%E3%82%92%E3%82%84%E3%82%81%E3%82%8B%E3%81%9E%EF%BC%81" title="成句/おれは人間をやめるぞ！">不要去拿否則妳會踏上不歸路回不了一般人生活</a>；但遙為了救滿仍毅然決然的拿下變身魔法棒變身成為水手天王星打倒心魔，此後兩人就這樣開始一起戰鬥。</li></ul></li>
+<li>舊版動畫也把遙滿兩人的感情戲發揮的淋漓盡致，Stars篇被蓋拉克西亞沒收手鐲後兩人面臨消失死亡的命運，但兩人仍堅持手牽手一起消失死去
+<ul><li>不過原作和新版動畫有講述遙又喜歡著主角小兔，而且還會直接去吻了她</li>
+<li><s>以對應的星體來說，地場衛其實才是她的...</s><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></li>
+<li><s>所以<a href="/%E8%B6%85%E4%BA%BA%E5%8A%9B%E9%9C%B8%E7%8E%8B%E7%B3%BB%E5%88%97#.E8.B6.85.E4.BA.BA.E5.8A.9B.E9.9C.B8.E7.8E.8B.E8.93.8B.E4.BA.9E.EF.BC.88.E3.82.A6.E3.83.AB.E3.83.88.E3.83.A9.E3.83.9E.E3.83.B3.E3.82.AC.E3.82.A4.E3.82.A2.EF.BC.89" title="超人力霸王系列">超人力霸王蓋亞</a>也是她的...</s></li></ul></li>
+<li>雖說變身前大部分都是穿著男裝到處行動，不過偶爾也會變換穿起女裝（詳見新版動畫）</li>
+<li>登場台詞是「天空之星！天王星為守護星，飛翔的戰士！水手天王星！」（天空の星、天王星を守護に持つ、飛翔の戦士セーラーウラヌス）（舊版SuperS劇場版，Sailor Stars，Eternal​），「風之星！守護天王星的天空的戰士！水手天王星！」（風の星！天王星を守護にもつ天空の戦士！セーラーウラヌス！）（Crystal）</li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的寶石</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>15～17歲，最終23歲（原作）</td>
+<td>1月27日（水瓶座）</td>
+<td>石榴石</td>
+<td>B型</td>
+<td>金色</td>
+<td>體育</td>
+<td>現代文</td>
+<td>駕駛</td>
+<td>田徑<br><a href="/%E9%96%83%E9%9B%BB%E9%9C%B9%E9%9D%82%E8%BB%8A" title="閃電霹靂車">賽車</a></td>
+<td>琥珀</td>
+<td>沙拉</td>
+<td>納豆</td>
+<td>示愛<br>受歡迎的男性（舊動畫版）</td>
+<td>當賽車手
+</td></tr></tbody></table><ul><li>代表名號台詞：受到新時代的邀請，水手天王星，華麗的活躍！（天王星の風騒ぐ、新たな時代に誘われて、セーラーウラヌス、華麗に活躍）（舊版Super​）</li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="3">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>招式<sup id="cite_ref-skill_4-6" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th>
+<th>備註
+</th></tr><tr><td>Super<br>Crystal第三季
+</td>
+<td><ruby>天界震<rp>（</rp><rt style="font-size:0.5em;">ワールド・シェイキング</rt><rp>）</rp></ruby><br>宇宙震盪<br>萬有震盪
+</td>
+<td>在高舉的右手集中光的能量，形成一個橘黃色帶有圓環的<s><a href="/%E4%B8%83%E9%BE%8D%E7%8F%A0" title="七龍珠">元氣彈</a></s>超高壓能量光球。將右拳猛地叩向地面，摩擦地面吸取地震的能量攻擊敵人。受到攻擊的敵人會猛烈抽搐抖動並瞬間崩裂。
+</td></tr><tr><td>SuperS<br>Eternal
+</td>
+<td><ruby>宇宙剣乱風<rp>（</rp><rt style="font-size:0.5em;">スペース・ソード・ブラスター</rt><rp>）</rp></ruby><br>宇宙劍亂風
+</td>
+<td>以發出光芒的宇宙之劍進行斬擊，宇宙之劍放出光刃劈向敵人<br>新版動畫則會跟上面的招式一起搭配使用
+</td></tr></tbody></table><h3 class="in-block"><span id="海王滿[33]/水手海王星（海王みちる/セーラーネプチューン）"></span><span class="mw-headline" id=".E6.B5.B7.E7.8E.8B.E6.BB.BF.5B33.5D.2F.E6.B0.B4.E6.89.8B.E6.B5.B7.E7.8E.8B.E6.98.9F.EF.BC.88.E6.B5.B7.E7.8E.8B.E3.81.BF.E3.81.A1.E3.82.8B.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.83.8D.E3.83.97.E3.83.81.E3.83.A5.E3.83.BC.E3.83.B3.EF.BC.89">海王滿<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>/水手海王星（海王みちる/セーラーネプチューン）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=13" title="編輯章節：海王滿[33]/水手海王星（海王みちる/セーラーネプチューン）" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：勝生真沙子（舊版）/<a href="/%E5%A4%A7%E5%8E%9F%E6%B2%99%E8%80%B6%E9%A6%99" title="大原沙耶香">大原沙耶香</a>（Crystal）</li>
+<li>海王星的守護戰士，和樓上是<s>（ry</s>，優雅又多才多藝的才女千金大小<a href="/%E5%A7%90" title="姐">姐</a>，擅長拉奏小提琴
+<ul><li>因為是<a href="/%E9%88%94%E8%83%BD%E5%8A%9B" title="鈔能力">富家千金</a>理所當然很有錢，擁有名為「海之聖堂」市值約500萬美元的小提琴以及一台名為「海王丸」的私人專屬直升機</li>
+<li>另外新版動畫有敘述滿跟遙是一同租住在每月100萬的高級公寓<s>所以被敵人襲擊導致家裡亂七八糟遙一副不在乎但滿卻很苦惱</s></li></ul></li>
+<li>持有武器為三魔具之一的「深海鏡」</li>
+<li>主要和遙一同行動
+<ul><li>原作未清楚交代滿是如何覺醒成為水手戰士，且在遙覺醒前曾一段時間獨自行動</li></ul></li>
+<li>登場台詞是「深海之星！海王星為守護星，擁抱的戰士！水手海王星！」（深海の星、海王星を守護に持つ、抱擁の戦士セーラーネプチューン）（舊版SuperS劇場版，Sailor Stars，Eternal​），「海之星！守護海王星的深海的戰士！水手海王星！」（海の星！海王星を守護にもつ深海の戦士！セーラーネプチューン！）（Crystal）</li>
+<li>代表名號台詞：受到新時代的邀請，水手海王星，優雅的活躍！（海王星の潮騒ぐ、新たな時代に誘われて、セーラーネプチューン、優雅に活躍）（舊版Super​）</li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的寶石</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>16～18歲，最終23歲（原作）<br>16～17歲（舊動畫版）</td>
+<td>3月6日（雙魚座）</td>
+<td>海藍寶石</td>
+<td>O型</td>
+<td>海藍色</td>
+<td>音樂</td>
+<td>無</td>
+<td>收集化妝品</td>
+<td>游泳<br><a href="/%E9%87%91%E8%89%B2%E7%90%B4%E5%BC%A6" title="金色琴弦">小提琴</a><br>繪畫</td>
+<td>海藍寶石</td>
+<td>生魚片</td>
+<td>木耳</td>
+<td>海參</td>
+<td>當小提琴音樂家
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="3">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>招式<sup id="cite_ref-skill_4-7" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th>
+<th>備註
+</th></tr><tr><td>Super<br>Crystal第三季
+</td>
+<td><ruby>深水没<rp>（</rp><rt style="font-size:0.5em;">ディープ・サブマージ</rt><rp>）</rp></ruby><br>深海狂潮<br>深海寒波
+</td>
+<td>於高舉的雙手集結來自深海的海水壓縮成一個巨大的青綠色水球，推向敵人，使敵人淹沒在水球中
+</td></tr><tr><td>SuperS<br>Crystal第三季<br>Eternal
+</td>
+<td><ruby>深海鏡射<rp>（</rp><rt style="font-size:0.5em;">サブマリン・リフレクション</rt><rp>）</rp></ruby><br>深海鏡射
+</td>
+<td>把深海之鏡對準敵人，射出青綠色洪水攻擊敵人，新版動畫可以用這招把復活的幻影魔女五<s>+1</s>人組給瞬間解決<br>另外把深海之鏡鏡面對著敵人射出球體光波，能使敵人的弱點瞬間曝露<s>照妖鏡</s>。
+</td></tr></tbody></table><h3 class="in-block"><span id="冥王剎那[34]/水手冥王星（冥王せつな/セーラープルート）"></span><span class="mw-headline" id=".E5.86.A5.E7.8E.8B.E5.89.8E.E9.82.A3.5B34.5D.2F.E6.B0.B4.E6.89.8B.E5.86.A5.E7.8E.8B.E6.98.9F.EF.BC.88.E5.86.A5.E7.8E.8B.E3.81.9B.E3.81.A4.E3.81.AA.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.83.97.E3.83.AB.E3.83.BC.E3.83.88.EF.BC.89"><a href="/%E5%86%A5%E7%8E%8B" title="冥王">冥王</a><a href="/%E5%89%8E%E9%82%A3" title="剎那">剎那</a><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>/水手冥王星（冥王せつな/セーラープルート）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=14" title="編輯章節：冥王剎那[34]/水手冥王星（冥王せつな/セーラープルート）" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：川島千代子（舊版）/前田愛（AiM）<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>（Crystal）</li>
+<li>R便登場的外部太陽系戰士，為守護時空之門的戰士，<s>不人氣<a href="/BBA" class="mw-redirect" title="BBA">BBA</a></s>黑肉<a href="/%E5%BE%A1%E5%A7%90" title="御姐">御姐</a>屬性
+<ul><li>但上場戰鬥是S以後的事<s>，提早登場的代價是與其他外部太陽系戰士自我介紹畫面中活像亂入的邊緣人</s></li></ul></li>
+<li>持有武器為「冥空鑰」，頂端有著三魔具之一的「石榴寶珠」</li>
+<li>和小小兔的關係相當要好，被小小兔暱稱「Puu/プー」
+<ul><li><s>但S代以後互動卻非常少</s></li></ul></li>
+<li>在現代的身分是一名大學生，但劇中並沒有描述剎那是現代人還是30世紀的人類</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">從小就被<s>血汗老闆</s>新希蕾妮蒂女王（也就是未來的月野兔）任命擔任作為守護時空之門的守護者，剎那也一直一個人盡忠職守的保護時空之門</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">對30世紀的安迪米歐國王（也就是未來的地場衛）抱持著好感，但礙於各種因素，這份心意終究只能埋藏在剎那自己的心裡</span></li></ul></li>
+<li><s>因為冥王星被開除行星籍、被歸類為矮行星，出現了被遷職到四重奏那的相關惡搞</s></li>
+<li>登場台詞是「時空之星！冥王星為守護星，變革的戰士！水手冥王星！」（時空の星、冥王星を守護に持つ、変革の戦士セーラープルート）（舊版SuperS劇場版，Sailor Stars，Eternal​​），「冥界之星！守護冥王星的時空的戰士！水手冥王星！」（冥界の星！冥王星を守護にもつ時空の戦士！セーラープルート！）（Crystal）</li>
+<li>代表名號台詞：掌管時間的水手冥王星，絕不會讓你對這顆愛的地球為所欲為！（時を司るセーラープルート、この愛すべき地球を、貴方の思い通りにはさせません）（舊版Super​劇場版）</li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的寶石</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>不明</td>
+<td>10月29日（天蠍座）</td>
+<td>黃玉</td>
+<td>A型</td>
+<td>胭脂紅色</td>
+<td>物理</td>
+<td>音樂</td>
+<td>購物</td>
+<td>裁縫</td>
+<td>石榴石</td>
+<td>茶</td>
+<td>茄子</td>
+<td>蟑螂</td>
+<td>當設計師
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="3">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>招式<sup id="cite_ref-skill_4-8" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th>
+<th>備註
+</th></tr><tr><td rowspan="2">Super<br>Crystal第二季
+</td>
+<td><ruby>時間よ止まれ<rp>（</rp><rt style="font-size:0.5em;">タイム・ストップ</rt><rp>）</rp></ruby><br>時間暫停
+</td>
+<td>身為時空之門守衛的水手冥王星最強禁忌招式，權杖頂端石榴寶珠放出光芒，能使一定範圍內指定對象以外的時間暫停，但代價是需要犧牲自己的生命<br>在遊戲版超任主機的RPG《ANOTHER STORY》中此招式需消耗全部EP來換取敵人2回合無法行動
+</td></tr><tr><td><ruby>破滅喘鳴<rp>（</rp><rt style="font-size:0.5em;">デッド・スクリーム</rt><rp>）</rp></ruby><br>死亡驚叫<br>破滅鑼鳴
+</td>
+<td>使用冥空鑰頂端的石榴寶珠發出鳴響、放射耀眼光芒後，集中風暴的能量，形成一個帶有紫紅色光環的紫色能量球。<br>隨後揮動冥空鑰把能量球射向敵人。受到攻擊的敵人會瞬間被紫光籠罩，尖叫並化為灰燼。<br><s>其實也有用冥空鑰亂砍的簡化版本或是大型光柱的強化版本</s>
+</td></tr><tr><td rowspan="3">Crystal第三季
+</td>
+<td><ruby>時空嵐撃<rp>（</rp><rt style="font-size:0.5em;">クロノス・タイフーン</rt><rp>）</rp></ruby><br>時空嵐擊
+</td>
+<td>範圍技，舉起冥空鑰颳起巨大的龍捲風。
+</td></tr><tr><td><ruby>時空球<rp>（</rp><rt style="font-size:0.5em;">ガーネット・ボール</rt><rp>）</rp></ruby><br>時空球
+</td>
+<td>使權杖頂端的石榴寶珠鳴響後，召喚出一個球型結界將我方人員帶往任何地方。也可用來防禦敵人攻擊。
+</td></tr><tr><td><ruby>冥空封印<rp>（</rp><rt style="font-size:0.5em;">ダーク・ドーム・クローズ</rt><rp>）</rp></ruby><br>冥空封印
+</td>
+<td>「<b>偉大なる時空の守護神われらが父クロノスよ われに力を 裂かれた禁忌の扉を閉じよ!</b>」<br>詠唱上述咒文後召喚出時空之門，將通往異界的道路永久封印。
+</td></tr></tbody></table><h3 class="in-block"><span id="土萌螢/水手土星（土萠ほたる/セーラーサターン）"></span><span class="mw-headline" id=".E5.9C.9F.E8.90.8C.E8.9E.A2.2F.E6.B0.B4.E6.89.8B.E5.9C.9F.E6.98.9F.EF.BC.88.E5.9C.9F.E8.90.A0.E3.81.BB.E3.81.9F.E3.82.8B.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.82.B5.E3.82.BF.E3.83.BC.E3.83.B3.EF.BC.89">土萌螢/水手土星（土萠ほたる/セーラーサターン）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=15" title="編輯章節：土萌螢/水手土星（土萠ほたる/セーラーサターン）" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E7%9A%86%E5%8F%A3%E8%A3%95%E5%AD%90" title="皆口裕子">皆口裕子</a>（舊版）/藤井幸代（Crystal）</li>
+<li>代表著沉默、毀滅與再生的戰士
+<ul><li>當水手土星覺醒時，便是世界走向毀滅的預兆</li>
+<li>倘若銀水晶消滅，水手土星便會毀滅一切，但代價是<a href="/%E8%87%AA%E7%88%86" title="自爆">犧牲自己的性命</a></li></ul></li>
+<li>持有武器為「沈默之鎌」</li>
+<li>於S時曾領便當，後來被水手月亮救回而重生，轉生為嬰兒，由外部太陽系戰士的三位撫養，後來迅速成長成了蘿莉
+<ul><li><s>這個家庭成員是由一個男裝麗人偽郎當小螢的爸爸跟兩個熟女御姐當小螢的媽媽而組成的多元家庭</s></li></ul></li>
+<li>雖然人氣極高，但變身為水手戰士的畫面僅出現在少量的遊戲中（演出長度也比較簡短），漫畫與舊版動畫皆未出現過變身畫面
+<ul><li>直到Crystal第三季和劇場版Eternal才分別補完了覺醒和完整變身畫面
+<ul><li>Eternal中變身畫面是新構思關係<s>其實就只是轉了個身（不過畫面異常流暢）</s>，和其他外部戰士的變身方式<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>不一致<s>，結果演出還沒第三季的覺醒霸氣</s></li></ul></li></ul></li>
+<li>舊版動畫Stars篇一度想用禁忌招式「沉默鐮刀奇襲」來解決掉妮赫蕾妮亞，但被<s>雷隊友</s>小小兔阻止，也因而露出破綻遭到妮赫蕾妮亞攻擊封入鏡子裡</li>
+<li>登場台詞是「沉默之星！土星為守護星，毀滅與重生的戰士！水手土星！」（沈黙の星、土星を守護に持つ、破滅と誕生の戦士セーラーサターン）（舊版，Eternal​），「毀滅之星！守護土星的沉默的戰士！水手土星！」（破滅の星！土星を守護にもつ沈黙の戦士！セーラーサターン！）（Crystal）</li></ul><table class="wikitable"><tbody><tr><th>年齢</th>
+<th>生日（星座）</th>
+<th>誕生寶石</th>
+<th>血型</th>
+<th>喜歡的顏色</th>
+<th>喜歡的科目</th>
+<th>討厭的科目</th>
+<th>興趣</th>
+<th>特技</th>
+<th>喜歡的寶石</th>
+<th>喜歡的食物</th>
+<th>討厭的食物</th>
+<th>討厭的事</th>
+<th>夢想
+</th></tr><tr><td>12歲（初登場）<br>0～8歲（重生後）</td>
+<td>1月6日（魔羯座）</td>
+<td>石榴石</td>
+<td>AB型</td>
+<td>紫色</td>
+<td>世界史</td>
+<td>體育</td>
+<td>閱讀<br>收集燈飾</td>
+<td>療傷</td>
+<td>螢石</td>
+<td>蕎麥麵</td>
+<td>牛奶</td>
+<td>馬拉松</td>
+<td>當護士
+</td></tr></tbody></table><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="3">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>招式<sup id="cite_ref-skill_4-9" class="reference"><a href="#cite_note-skill-4">[4]</a></sup></th>
+<th>備註
+</th></tr><tr><td rowspan="2">Sailor Stars<br>Eternal
+</td>
+<td><ruby>不動城壁<rp>（</rp><rt style="font-size:0.5em;">サイレント・ウォール</rt><rp>）</rp></ruby><br>不動城壁<br>靜默屏障
+</td>
+<td>防禦技，以沈默之鐮作支柱撐起一道透明的屏障，其作用是來保護自己及身邊的同伴免受敵人的攻擊
+</td></tr><tr><td><ruby>沈黙鎌奇襲<rp>（</rp><rt style="font-size:0.5em;">サイレンス・グレイブ・サプライズ</rt><rp>）</rp></ruby><br>沉默鐮刀奇襲<br>靜默變革
+</td>
+<td>在原作中只是普通的電擊攻擊，舊版動畫卻是將這招做為自爆技使用
+</td></tr><tr><td>Crystal第三季
+</td>
+<td><ruby>死世界変革<rp>（</rp><rt style="font-size:0.5em;">デス・リボーン・レボリューション</rt><rp>）</rp></ruby><br>死世界變革
+</td>
+<td>土星的究極必殺技，其威力足以將一切毀滅，但代價是自爆<br>舊版動畫中其定位被樓上取代<br>在遊戲版超任主機的RPG《ANOTHER STORY》中此招式為普通的全體攻擊技
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="亞瑪遜四重奏"></span><span class="mw-headline" id=".E4.BA.9E.E7.91.AA.E9.81.9C.E5.9B.9B.E9.87.8D.E5.A5.8F">亞瑪遜四重奏</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=16" title="編輯章節：亞瑪遜四重奏" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<ul><li>漫畫中後期成為守護小小兔的水手戰士，在水手月亮以外水手戰士皆死亡時保護水手月亮；舊版動畫倒是戰敗後便退場
+<ul><li>共通的造型特徵是有著數量不一的球形髮辮<s>和額頭有顆觀音<a href="/%E7%97%A3" title="痣">痣</a></s></li>
+<li>追隨死亡之月的理由為首領賜予她們魔力，但那些其實是她們本身的力量（新舊版共通）</li>
+<li><s>雖然四人都還是小女生，卻有著與年紀不相符的<a href="/%E5%B7%A8%E4%B9%B3" title="巨乳">巨乳</a></s></li></ul></li></ul><h3 class="in-block"><span id="瑟蕾瑟蕾/水手瑟蕾絲（セレセレ/セーラーセレス）"></span><span class="mw-headline" id=".E7.91.9F.E8.95.BE.E7.91.9F.E8.95.BE.2F.E6.B0.B4.E6.89.8B.E7.91.9F.E8.95.BE.E7.B5.B2.EF.BC.88.E3.82.BB.E3.83.AC.E3.82.BB.E3.83.AC.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.82.BB.E3.83.AC.E3.82.B9.EF.BC.89">瑟蕾瑟蕾/水手瑟蕾絲（セレセレ/セーラーセレス）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=17" title="編輯章節：瑟蕾瑟蕾/水手瑟蕾絲（セレセレ/セーラーセレス）" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：天野由梨（舊版）/<a href="/%E4%B8%8A%E7%94%B0%E9%BA%97%E5%A5%88" title="上田麗奈">上田麗奈</a>（Eternal）</li>
+<li>對應的太陽系天體是矮行星/小行星「穀神星（Ceres）」，粉紅髮<br>動畫版是四人中的老二，而原作漫畫則是四人中的老大，擅長花草植物的魔術師</li></ul><h3 class="in-block"><span id="帕拉帕拉/水手帕拉絲（パラパラ/セーラーパラス）"></span><span class="mw-headline" id=".E5.B8.95.E6.8B.89.E5.B8.95.E6.8B.89.2F.E6.B0.B4.E6.89.8B.E5.B8.95.E6.8B.89.E7.B5.B2.EF.BC.88.E3.83.91.E3.83.A9.E3.83.91.E3.83.A9.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.83.91.E3.83.A9.E3.82.B9.EF.BC.89">帕拉帕拉/水手帕拉絲（パラパラ/セーラーパラス）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=18" title="編輯章節：帕拉帕拉/水手帕拉絲（パラパラ/セーラーパラス）" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：豐嶋真千子（舊版）/諸星堇（Eternal）</li>
+<li>對應的太陽系天體是矮行星/小行星「智神星（Pallas）」，青藍髮<br>動畫版是四人中的老么，而原作漫畫則是四人中的老二，擅長玩球表演的魔術師</li></ul><h3 class="in-block"><span id="祖茵祖茵/水手朱諾（ジュンジュン/セーラージュノー）"></span><span class="mw-headline" id=".E7.A5.96.E8.8C.B5.E7.A5.96.E8.8C.B5.2F.E6.B0.B4.E6.89.8B.E6.9C.B1.E8.AB.BE.EF.BC.88.E3.82.B8.E3.83.A5.E3.83.B3.E3.82.B8.E3.83.A5.E3.83.B3.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.82.B8.E3.83.A5.E3.83.8E.E3.83.BC.EF.BC.89">祖茵祖茵/水手朱諾（ジュンジュン/セーラージュノー）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=19" title="編輯章節：祖茵祖茵/水手朱諾（ジュンジュン/セーラージュノー）" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E6%B8%A1%E9%82%8A%E4%B9%85%E7%BE%8E%E5%AD%90" title="渡邊久美子">渡邊久美子</a>（舊版）/原優子（Eternal）</li>
+<li>對應的太陽系天體是矮行星/小行星「婚神星（Juno）」，草綠髮<br>動畫版和原作漫畫均為四人中的老三，擅長雜技表演</li>
+<li><s>以對應的星體來說，他才是水手木星的妻子</s><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></li></ul><h3 class="in-block"><span id="貝絲貝絲/水手貝絲塔（ベスベス/_セーラーベスタ）"></span><span class="mw-headline" id=".E8.B2.9D.E7.B5.B2.E8.B2.9D.E7.B5.B2.2F.E6.B0.B4.E6.89.8B.E8.B2.9D.E7.B5.B2.E5.A1.94.EF.BC.88.E3.83.99.E3.82.B9.E3.83.99.E3.82.B9.2F_.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.83.99.E3.82.B9.E3.82.BF.EF.BC.89">貝絲貝絲/水手貝絲塔（ベスベス/ セーラーベスタ）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=20" title="編輯章節：貝絲貝絲/水手貝絲塔（ベスベス/ セーラーベスタ）" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：萩森侚子（舊版）/<a href="/%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D" title="高橋李依">高橋李依</a>（Eternal）</li>
+<li>對應的太陽系天體是矮行星/小行星「灶神星（Vesta）」，紅髮<br>動畫版是四人中的老大，而原作漫畫則是四人中的老么，手持鞭子擅長訓育動物的訓獸師</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="星光戰士"></span><span class="mw-headline" id=".E6.98.9F.E5.85.89.E6.88.B0.E5.A3.AB">星光戰士</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=21" title="編輯章節：星光戰士" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<ul><li>來自金木樨星系的水手戰士，在地球偽裝成男子三人組偶像
+<ul><li>來地球的目的是為了尋覓逃離受蓋拉克西亞攻擊其星球而受傷並失散的公主：火球公主</li>
+<li>三位星光戰士在漫畫的設定上跟天王遙一樣是男裝麗人，但動畫卻改成平時是男生，<a href="/%E5%A5%B3%E9%AB%94%E5%8C%96" title="女體化">變身後成為女生</a></li>
+<li>原作中三人皆在第五期劇情中途就領便當退場，舊版動畫卻<s>像頑強不死的小強</s>活到最後還參與最終決戰，待遇完全就是主角級別</li></ul></li>
+<li>原本設計上這三人都是短髮，但因為玩具商的要求而加上了馬尾</li></ul><h3 class="in-block"><span id="星野光/水手星光戰鬥者（星野光／セーラースターファイター）"></span><span class="mw-headline" id=".E6.98.9F.E9.87.8E.E5.85.89.2F.E6.B0.B4.E6.89.8B.E6.98.9F.E5.85.89.E6.88.B0.E9.AC.A5.E8.80.85.EF.BC.88.E6.98.9F.E9.87.8E.E5.85.89.EF.BC.8F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.82.B9.E3.82.BF.E3.83.BC.E3.83.95.E3.82.A1.E3.82.A4.E3.82.BF.E3.83.BC.EF.BC.89">星野光/水手星光戰鬥者（星野光／セーラースターファイター）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=22" title="編輯章節：星野光/水手星光戰鬥者（星野光／セーラースターファイター）" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：新山志保<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></li>
+<li>「星光戰士」的主唱歌手，也是三人中的首領。</li>
+<li>個性比較自負，對自我能力有信心，在十番高中是美式足球隊的明日之星球員。</li>
+<li>對小兔有好感
+<ul><li>原作中是身份懸殊的單戀，描寫不多；但舊版動畫卻大幅加戲小兔和星野之間的互動描寫<s>，讓許多觀眾感嘆要不是前世因緣和劇情限制這兩個絕對會成為戀人</s>。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在舊版動畫中也會使用紅玫瑰射擊，並用這招救下了被水手錫貓襲擊的水手月亮，但在戰鬥後小兔也因為這朵玫瑰導致她對阿衛的思念徹底潰堤。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">星野：<b>我難道……就不行嗎？（俺じゃ……ダメが？）</b></span></li></ul></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="4">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>裝備</th>
+<th>招式</th>
+<th>備註
+</th></tr><tr><td>Sailor Stars
+</td>
+<td>セーラースターエール<br>水手星光聲納器
+</td>
+<td>スター・シリアス・レイザー<br>星光莊重雷射
+</td>
+<td>使用武器水手星光聲納器發出雷射光束攻擊敵人。
+</td></tr></tbody></table><h3 class="in-block"><span id="大氣光/水手星光創造者（大気光／セーラースターメイカー）"></span><span class="mw-headline" id=".E5.A4.A7.E6.B0.A3.E5.85.89.2F.E6.B0.B4.E6.89.8B.E6.98.9F.E5.85.89.E5.89.B5.E9.80.A0.E8.80.85.EF.BC.88.E5.A4.A7.E6.B0.97.E5.85.89.EF.BC.8F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.82.B9.E3.82.BF.E3.83.BC.E3.83.A1.E3.82.A4.E3.82.AB.E3.83.BC.EF.BC.89">大氣光/水手星光創造者（大気光／セーラースターメイカー）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=23" title="編輯章節：大氣光/水手星光創造者（大気光／セーラースターメイカー）" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：津野田成美</li>
+<li>「星光戰士」的吉他手兼作曲作詞者，三人中身高最高的一位。</li>
+<li>個性冷靜理性，頭腦優秀的資優生，在學校裡學業成績與亞美不分上下。
+<ul><li>也因此跟亞美的互動對手戲劇情也不少。</li></ul></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="4">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>裝備</th>
+<th>招式</th>
+<th>備註
+</th></tr><tr><td>Sailor Stars
+</td>
+<td>セーラースターエール<br>水手星光聲納器
+</td>
+<td>スター・ジェントル・ユーテラス<br>星光柔和波動
+</td>
+<td>使用武器水手星光聲納器發出光球攻擊敵人。
+</td></tr></tbody></table><h3 class="in-block"><span id="夜天光/水手星光療癒者（夜天光／セーラースターヒーラー）"></span><span class="mw-headline" id=".E5.A4.9C.E5.A4.A9.E5.85.89.2F.E6.B0.B4.E6.89.8B.E6.98.9F.E5.85.89.E7.99.82.E7.99.92.E8.80.85.EF.BC.88.E5.A4.9C.E5.A4.A9.E5.85.89.EF.BC.8F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.82.B9.E3.82.BF.E3.83.BC.E3.83.92.E3.83.BC.E3.83.A9.E3.83.BC.EF.BC.89">夜天光/水手星光療癒者（夜天光／セーラースターヒーラー）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=24" title="編輯章節：夜天光/水手星光療癒者（夜天光／セーラースターヒーラー）" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：坂本千夏</li>
+<li>「星光戰士」的鍵盤手，三人中身高最矮的一位。</li>
+<li>個性充滿鄰家男孩孩子氣，講話言行比較尖銳，且對社交和體育都不在行。</li>
+<li>因有著一張清秀臉蛋的關係，常常接受攝影並上雜誌封面，對此也具備著相當的專業度。
+<ul><li>因此被露娜<s>移情別戀的</s>喜歡上<s>阿提密斯表示淚目</s></li></ul></li>
+<li>似乎對美奈子有意思，然而跟上面星野小兔配一樣也是<s>（ry</s></li></ul><table class="wikitable" style="margin:auto;"><tbody><tr><th colspan="4">裝備及招式
+</th></tr><tr><th>季度</th>
+<th>裝備</th>
+<th>招式</th>
+<th>備註
+</th></tr><tr><td>Sailor Stars
+</td>
+<td>セーラースターエール<br>水手星光聲納器
+</td>
+<td>スター・センシティブ・インフェルノ<br>星光敏銳地獄電波
+</td>
+<td>使用武器水手星光聲納器發出一道電擊狀光球攻擊敵人。
+</td></tr></tbody></table><h3 class="in-block"><span id="火球公主/水手火球（火球皇女/セーラー火球）"></span><span class="mw-headline" id=".E7.81.AB.E7.90.83.E5.85.AC.E4.B8.BB.2F.E6.B0.B4.E6.89.8B.E7.81.AB.E7.90.83.EF.BC.88.E7.81.AB.E7.90.83.E7.9A.87.E5.A5.B3.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E7.81.AB.E7.90.83.EF.BC.89">火球公主/水手火球（火球皇女/セーラー火球）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=25" title="編輯章節：火球公主/水手火球（火球皇女/セーラー火球）" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：玉川紗己子</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="貓咪夥伴"></span><span class="mw-headline" id=".E8.B2.93.E5.92.AA.E5.A4.A5.E4.BC.B4"><a href="/%E8%B2%93" title="貓">貓咪</a>夥伴</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=26" title="編輯章節：貓咪夥伴" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<h3 class="in-block"><span id="露娜（ルナ）"></span><span class="mw-headline" id=".E9.9C.B2.E5.A8.9C.EF.BC.88.E3.83.AB.E3.83.8A.EF.BC.89">露娜（ルナ）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=27" title="編輯章節：露娜（ルナ）" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：潘惠子（舊版、真人版配音）/<a href="/%E5%BB%A3%E6%A9%8B%E6%B6%BC" title="廣橋涼">廣橋涼</a>（Crystal）<br>演員：小池里奈（<a href="/%E8%90%8C%E3%81%88%E6%93%AC%E4%BA%BA%E5%8C%96" class="mw-redirect" title="萌え擬人化">人化</a>的水手露娜/セーラールナ）</li></ul><h3 class="in-block"><span id="阿提密斯（アルテミス）"></span><span class="mw-headline" id=".E9.98.BF.E6.8F.90.E5.AF.86.E6.96.AF.EF.BC.88.E3.82.A2.E3.83.AB.E3.83.86.E3.83.9F.E3.82.B9.EF.BC.89">阿提密斯（アルテミス）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=28" title="編輯章節：阿提密斯（アルテミス）" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：高戶靖廣（舊版）/大林洋平（Crystal）→村田太志（劇場版《Eternal》）/<a href="/%E5%B1%B1%E5%8F%A3%E5%8B%9D%E5%B9%B3" title="山口勝平">山口勝平</a>（真人版配音）</li></ul><h3 class="in-block"><span id="黛安娜（ダイアナ）"></span><span class="mw-headline" id=".E9.BB.9B.E5.AE.89.E5.A8.9C.EF.BC.88.E3.83.80.E3.82.A4.E3.82.A2.E3.83.8A.EF.BC.89">黛安娜（ダイアナ）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=29" title="編輯章節：黛安娜（ダイアナ）" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：西原久美子（舊版）/中川翔子（Crystal）</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="主要配角"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E9.85.8D.E8.A7.92">主要配角</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=30" title="編輯章節：主要配角" data-section="30" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<h3 class="in-block"><span id="希蕾妮蒂女王（クイーン・セレニティ）"></span><span class="mw-headline" id=".E5.B8.8C.E8.95.BE.E5.A6.AE.E8.92.82.E5.A5.B3.E7.8E.8B.EF.BC.88.E3.82.AF.E3.82.A4.E3.83.BC.E3.83.B3.E3.83.BB.E3.82.BB.E3.83.AC.E3.83.8B.E3.83.86.E3.82.A3.EF.BC.89">希蕾妮蒂女王（クイーン・セレニティ）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=31" title="編輯章節：希蕾妮蒂女王（クイーン・セレニティ）" data-section="31" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：土井美加（舊版）/小山茉美（Crystal）</li></ul><h3 class="in-block"><span id="天馬艾里歐斯（祭司エリオス）"></span><span class="mw-headline" id=".E5.A4.A9.E9.A6.AC.E8.89.BE.E9.87.8C.E6.AD.90.E6.96.AF.EF.BC.88.E7.A5.AD.E5.8F.B8.E3.82.A8.E3.83.AA.E3.82.AA.E3.82.B9.EF.BC.89">天馬艾里歐斯（祭司エリオス）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=32" title="編輯章節：天馬艾里歐斯（祭司エリオス）" data-section="32" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：松野太紀（舊版）/<a href="/%E6%9D%BE%E5%B2%A1%E7%A6%8E%E4%B8%9E" title="松岡禎丞">松岡禎丞</a>（Crystal）</li></ul><h3 class="in-block"><span id="小小/水手小小（ちびちび/セーラーちびちび）"></span><span class="mw-headline" id=".E5.B0.8F.E5.B0.8F.2F.E6.B0.B4.E6.89.8B.E5.B0.8F.E5.B0.8F.EF.BC.88.E3.81.A1.E3.81.B3.E3.81.A1.E3.81.B3.2F.E3.82.BB.E3.83.BC.E3.83.A9.E3.83.BC.E3.81.A1.E3.81.B3.E3.81.A1.E3.81.B3.EF.BC.89">小小/水手小小（ちびちび/セーラーちびちび）</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=33" title="編輯章節：小小/水手小小（ちびちび/セーラーちびちび）" data-section="33" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：三石琴乃</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="家人及朋友"></span><span class="mw-headline" id=".E5.AE.B6.E4.BA.BA.E5.8F.8A.E6.9C.8B.E5.8F.8B">家人及朋友</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=34" title="編輯章節：家人及朋友" data-section="34" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<h3 class="in-block"><span id="月野家"></span><span class="mw-headline" id=".E6.9C.88.E9.87.8E.E5.AE.B6">月野家</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=35" title="編輯章節：月野家" data-section="35" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>月野謙之
+<ul><li>CV：真地勇志（舊版）/真殿光昭（Crystal）<br>演員：田﨑竜太</li>
+<li>育子之夫，小兔和進悟的父親<s>兼小衛未來的岳父</s>，職業為雜誌記者<s>，不論哪版本都是影薄到變成可有可無的存在</s></li></ul></li>
+<li>月野育子
+<ul><li>CV：高木早苗（舊版）/水谷優子<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>（Crystal）<br>演員：森若香織</li>
+<li>謙之之妻，小兔和進悟的母親<s>兼小衛未來的岳母</s>，為全職家庭主婦<s><a href="/%E6%88%90%E5%8F%A5/%E5%A4%AA%E5%A4%AA%E6%88%91%E5%96%9C%E6%AD%A1%E5%A6%B3%E5%91%80%EF%BD%9E" title="成句/太太我喜歡妳呀～">太太我喜歡妳呀</a></s>，面對女兒小兔考試成績的紅點低分會很生氣</li>
+<li>舊版SuperS曾被鷹眼當成目標取出夢之鏡，後被<ruby>水手月亮<rp>（</rp><rt style="font-size:0.5em;">自己女兒</rt><rp>）</rp></ruby>及其同伴們救回</li></ul></li>
+<li>月野進悟
+<ul><li>CV：川島千代子（舊版）/劉婧犖（Crystal）<br>演員：武子直輝</li>
+<li>謙之和育子夫妻倆的兒子，小兔的<a href="/%E6%AD%A3%E5%A4%AA" title="正太">弟弟</a><s>兼小衛未來的小舅</s>，十番小學的小學生，十分能幹而且成績優異，但是是個很喜歡捉弄姐姐小兔非常屁的<a href="/%E6%AD%BB%E5%B0%8F%E5%AD%A9" title="死小孩">死小孩</a>，然而在姐姐心情低落時也會去主動關心姐姐<s>簡單講就是<a href="/%E3%83%84%E3%83%B3%E3%83%87%E3%83%AC" title="ツンデレ">傲嬌</a>弟弟</s></li>
+<li>在嬰兒時期有過被貓咬傷鼻子的經歷而很討厭貓並在期初反對姐姐養露娜在家裡，後來也願意接受露娜<s>甚至小小兔來月野家也是欣然接受</s></li>
+<li>非常崇拜水手月亮和水手V，然而都還不知道水手月亮和水手V真實身分就是他姐小兔跟其朋友美奈子</li>
+<li><a href="/%E6%83%85%E7%B5%90" title="情結">年上姐控</a>，喜歡亞美</li></ul></li></ul><h3 class="in-block"><span id="其他非戰士的人類親友"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96.E9.9D.9E.E6.88.B0.E5.A3.AB.E7.9A.84.E4.BA.BA.E9.A1.9E.E8.A6.AA.E5.8F.8B">其他非戰士的人類親友</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=36" title="編輯章節：其他非戰士的人類親友" data-section="36" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>大阪奈留</li>
+<li>海野栗雄</li>
+<li>熊田雄一郎</li>
+<li>桃原桃子</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(10)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="相關連結"></span><span class="mw-headline" id=".E7.9B.B8.E9.97.9C.E9.80.A3.E7.B5.90">相關連結</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=37" title="編輯章節：相關連結" data-section="37" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-10 collapsible-block" id="mf-section-10">
+<ul><li><a href="/%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%A6%E5%A3%AB%E3%82%BB%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%A0%E3%83%BC%E3%83%B3" title="美少女戦士セーラームーン">美少女戦士セーラームーン</a></li>
+<li><a href="/%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E6%95%B5%E4%BA%BA%E7%B5%84%E7%B9%94" title="美少女戰士登場角色一覽-敵人組織">美少女戰士登場角色一覽-敵人組織</a></li>
+<li><a href="/%E5%A4%AA%E9%99%BD%E7%B3%BB" title="太陽系">太陽系</a></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(11)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=38" title="編輯章節：回應" data-section="38" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-11 collapsible-block" id="mf-section-11">
+<p><a href="/%E8%A8%8E%E8%AB%96:%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4" title="討論:美少女戰士登場角色一覽-主角群">討論:美少女戰士登場角色一覽-主角群</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(12)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;action=edit&amp;section=39" title="編輯章節：備註" data-section="39" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-12 collapsible-block" id="mf-section-12">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">因原聲優三石琴乃在這幾話期間生病入院治療的關係，而由荒木香衣代配月野兔，而後荒木也成為小小兔固定班底的聲優</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">舊版動畫184集就在<a href="/%E5%A9%8A" title="婊">婊</a>這點：當水手月亮正要嘴砲敵人時身後的翅膀不斷打翻桌上的碗盤。不過這個翅膀在原作漫畫其實是能用來飛行的...</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">在舊版動畫64集成功克服</span>
+</li>
+<li id="cite_note-skill-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-skill_4-0">4.0</a></sup> <sup><a href="#cite_ref-skill_4-1">4.1</a></sup> <sup><a href="#cite_ref-skill_4-2">4.2</a></sup> <sup><a href="#cite_ref-skill_4-3">4.3</a></sup> <sup><a href="#cite_ref-skill_4-4">4.4</a></sup> <sup><a href="#cite_ref-skill_4-5">4.5</a></sup> <sup><a href="#cite_ref-skill_4-6">4.6</a></sup> <sup><a href="#cite_ref-skill_4-7">4.7</a></sup> <sup><a href="#cite_ref-skill_4-8">4.8</a></sup> <sup><a href="#cite_ref-skill_4-9">4.9</a></sup></span> <span class="reference-text">招式以日文、台灣常見翻譯、香港常見翻譯為次序，如港台翻譯一樣則不會標示港譯</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">姓氏「地場」日語唸法跟「千葉」這日本縣市名兼日本人常見的姓氏同音</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">舊版動畫第一季無印衛兔雙方身分曝光那一集衛有拿出自己的玫瑰水晶做短時間的變身，至於真人版的變身....請參見<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Qvlcf1WgpK4">影片</a>（4:06處開始）</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">香港播出譯名譯作豆釘兔</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">S代有一集小小兔自以為遇到了一位是自己的夢中情人美少年慎之介，然而言行舉止讓小小兔整個傻眼甚至當著小小兔的面脫褲子露「大象」，直到他媽把他帶走才結束這鬧劇，順帶一提這是《<a href="/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0" title="蠟筆小新">蠟筆小新</a>》的<a href="/%E8%B7%A8%E7%95%8C%E4%BD%9C%E5%93%81" title="跨界作品">客串</a>，慎之介的聲優跟蠟筆小新主角野原新之助同聲優為<a href="/%E7%9F%A2%E5%B3%B6%E6%99%B6%E5%AD%90" title="矢島晶子">矢島晶子</a>（慎之介跟新之助發音相同），媽媽聲優剛好也是野原美冴的聲優楢橋美紀</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">和小兔一樣，兩人在舊版動畫64集成功克服</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">舊版動畫67集被麗得知，但也導致兩人起衝突意見，後來小小兔也對魚肉成功克服</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">詳見原作和新版第三季，小小兔用這招去打敵方死亡毀滅者的蒂露露，卻被她吸收必殺技的力量助長對方強化變強</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">詳見月亮母女年齡肉體互換的那一集，小小兔變成大人但卻無法召喚出天馬<s>可見不是蘿莉天馬就不爽出來，天馬果然是<a href="/%E6%88%90%E5%8F%A5/%E8%98%BF%E8%8E%89%E6%8E%A7%E4%B8%8D%E6%98%AF%E4%BA%BA%EF%BC%8C%E6%98%AF%E7%A6%BD%E7%8D%B8" title="成句/蘿莉控不是人，是禽獸">蘿莉控</a></s></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">後來數度更換藝名，目前使用本名「泉里香」</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">而且中之人用自己的溫柔聲線成功帶動水野亞美這角色人氣，久川綾的優秀詮釋也是功不可沒。</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">鰤魚的日文「はまち」可以延伸閱讀成「はまちっ子」，此日文是日本俗語的一種，意思是在男生面前裝可愛的女生</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">有傳出是動畫製作組當時作畫功力不夠，難以把內四在第三季的常駐必殺技畫出來，如：火星的「火星蛇火炎」、木星的「木星椰子氣旋」、金星的「金星眨眼鏈之劍」在舊版動畫都沒有出現過</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">漫畫版譯作「火野蕾依」</span>
+</li>
+<li id="cite_note-ref1-18"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ref1_18-0">18.0</a></sup> <sup><a href="#cite_ref-ref1_18-1">18.1</a></sup></span> <span class="reference-text"><a href="/images/b/b5/SailorMoonMagazineCosplay.jpeg" class="internal" title="SailorMoonMagazineCosplay.jpeg">訪問雜誌照</a>左邊永野護，右邊幾原邦彥</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">兩隻烏鴉名字均是取自火星的兩個衛星名字</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">尤其在無印終盤面臨強敵<a href="/DD" title="DD"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">DD</span></a>少女組，就算經歷內四的前三位隊友的犧牲死去，麗一人決定去對付DD少女組的最後兩隻前，向小兔表露出溫柔的語氣希望她堅強活下去，並裝作輕鬆得<s>插旗</s>表示「看我怎麼輕鬆得把她們打的落花流水」。<br>在與這兩隻應戰時就算自己被困在冰窟+打倒在地，也能盡全力用火焰聖靈解決這兩隻妖魔成功保護住小兔。</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">富澤美智惠代表作之一的《<a href="/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0" title="蠟筆小新">蠟筆小新</a>》劇中的松坂梅老師跟本作的麗（舊動畫版）有很多相似點常被網友拿來相提惡搞，另外《蠟筆小新》劇中的上尾義美老師跟本作的小兔同為三石琴乃配音</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">臨兵斗者皆陣列在前</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">「霹靂猛烈電壓」拋出電漿球手勢動作以壘球形式拋出去，「木星橡樹進化波」以冰上芭蕾轉圈舞姿來發招</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">中之人和角色髮型使然，官方的MAD惡搞更是把這梗發揚光大</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">因原聲優深見梨加當時生病無法出聲講話需就診治療的關係，而由住友七繪代配美奈子，所以該集美奈子配音台詞量極少，且在<a rel="nofollow" class="external text" href="https://chie-pctr.c.yimg.jp/dk/iwiz-chie/ans-227608463?w=320&amp;h=320&amp;up=0">該集ED的角色聲優名單</a>還特別列出美奈子的兩個配音聲優</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text">參見新版動畫第一季11話</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text">原作有表明內四成員和四天王成員是一人配一位（尤其作者的某張原畫中可看出來），亞美配佐伊賽特、麗配傑戴特、真琴配涅夫萊特、美奈子配昆采特</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text">曾有過對警察惡作劇並被警察教訓的壞事，而後導致美奈子對警察很棘手</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text">參見金星vs妖影四姊妹卡拉貝拉斯召喚出來的另外三姐妹的亡靈</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text">天王遙初期草圖比後來的正式出版形象更柔和及女性化；後因武內直子要強化遙的雙重特質，所以才利用骨架的差異讓遙在平時看起來更像男性，用來表現變身前後的氣質差距。<br>至於遙的性別設定，武內直子表示遙要表現的是「寶塚歌舞團中的男性角色」（寶塚歌舞團一定是由女性擔當演員，但是在舞台上要將性別認同與角色一致，所以演出時從心到身都是男性，連觀眾最好都要當作是男性演員），所以連初稿都將遙設定成在寶塚歌舞團擔任男性演員的水手戰士，因此與其要說是男是女，不如就說他是「性別：天王遙」</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text">早期海外發行時為規避LGBT議題而額外修改加上的設定，後來換代理商後才修回去</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text">地球的名稱在希臘文與拉丁文上正好對應著古希臘/羅馬神話的蓋亞（Γαία）/泰拉（Terra）</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text">部份常見譯名還有海王美智留</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text">部份常見譯名還有冥王雪奈</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text">這位是聲優前田愛，並不是《奇諾之旅》中為<a href="/%E5%A5%87%E8%AB%BE" title="奇諾">奇諾</a>配音的那位「演員前田愛」，詳見<span class="plainlinks"><a rel="nofollow" class="external text" href="https://zh.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E6%84%9B_(%E8%81%B2%E5%84%AA)?uselang=zh-tw">維基</a></span>。</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text">以變身器/手杖圍繞自身自轉一圈產生氣場</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text">木星的名稱是Jupiter也就是宙斯（Jupiter是宙斯的羅馬名），而朱諾（Juno）是天后赫拉的羅馬名</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text">該聲優於2000年2月病逝，得年29歲，生前和天王遙的舊版聲優緒方惠美是好友</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text">該聲優於2016年5月因乳癌病逝，享年51歳，且水谷小姐在離世之前仍還有繼續為新版育子媽媽配音，<b>為水谷小姐致上最大的敬意</b></span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=美少女戰士登場角色一覽-主角群&amp;oldid=408398">https://wiki.komica.org/index.php?title=美少女戰士登場角色一覽-主角群&amp;oldid=408398</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4"
+				data-user-name="日記"
+				data-user-gender="male"
+				data-timestamp="1661693688">
+				最後編輯於 2022年8月28日 (週日) 21:34
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=%E7%BE%8E%E5%B0%91%E5%A5%B3%E6%88%B0%E5%A3%AB%E7%99%BB%E5%A0%B4%E8%A7%92%E8%89%B2%E4%B8%80%E8%A6%BD-%E4%B8%BB%E8%A7%92%E7%BE%A4&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.865","ppvisitednodes":{"value":1602,"limit":1000000},"ppgeneratednodes":{"value":3775,"limit":1000000},"postexpandincludesize":{"value":14890,"limit":2097152},"templateargumentsize":{"value":4553,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17086,"limit":5000000},"timingprofile":["100.00%  344.116      1 -total"," 26.07%   89.698     18 模板:Ref","  7.78%   26.778     13 模板:Censored","  7.77%   26.753     17 模板:Ruby","  4.42%   15.223      2 模板:Youtube","  3.82%   13.129      1 模板:Wp","  1.81%    6.212      1 模板:Plainlinks","  1.26%    4.320      1 模板:Stub_row","  0.65%    2.236      1 模板:H0"]},"cachereport":{"timestamp":"20221104162621","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135});});</script>		</body>
+		</html>
+		
