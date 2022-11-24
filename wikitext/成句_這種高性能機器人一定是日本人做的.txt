@@ -1,0 +1,41 @@
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| 給惡意破壞者的話：此頁早已被無數島民備份，奉勸當事人無謂白費心機！ 
+|}
+
+[[File:img281.jpg|center|400px|thumb|<div style="text-align: center; ">山姆：「這種高性能機器人一定是日本人做的。」</div>]]
+
+== 解說==
+* 原文：“It's a robot...for like a...I can't tell the difference, you know, '''like a super advanced robot. It's from Japanese.''' Yeah, I still find Japanese.”
+** 翻譯：「這是個機器人......應該是......啊，我說不出有什麼不一樣啦，你知道嘛，這種超級高性能機器人一定是日本人做的。對啦，怎麼想都是日本人做的。」
+** S.C. Wilkens的小說版「The Junior Novel」中此句刪除。
+** Alan Dean Foster的小說版改成“Looks like a robot. Moves like a robot. If it could talk, I have this feeling it would talk like a robot. So I think it's a robot. But like-super advanced. Way beyond the stuff they used to assemble cars or sellin Radio Shack. Probably Japanese. Gotta be Japanese. They love the things.”
+*** 上面這句的翻譯：「看起來像機器人、動作也像機器人，如果這東西能說話的話，我覺得說起來一定像機器人，這應該就是台機器人沒錯，不過這台也太──高性能了。比那些用來製造汽車或是在電器店買到的更高性能耶，把這傢伙組起來的人應該是日本人吧。不，絕對是日本人做的，他們可愛死這種東西了。」
+* 語出：《Transformers(變形金剛)》的真人電影版，男主角山姆‧魏瓦奇(席亞‧里畢夫飾演)和蜜琪‧班斯(梅根‧福克斯飾演)在看到Bumblebee(大黃蜂)變形成機器人型態時，山姆對蜜琪的解釋。
+** 不光是因為日本的機器人工業技術領先世界，同時也因為日本作品對於巨大機器人的嚮往，導致許多人只要看到非常誇張的機器人就會立刻跟日本聯想在一起。這段台詞基本上就是在諷刺這件事。
+** 由於很有笑點，在電影院放映之時，一群觀影人便跟著一起大笑。
+** 事實上最早的變形金剛的造型都是由日本的TAKARA公司負責設計的，所以某種意義上這句話說的也沒錯。
+** {{censored|<s>但在日本311強震後爆發的福島核災，卻傳出日本沒有專門的機器人能夠進入受損的核電廠進行搶修，只能依靠人力來從事這項高風險的工作，甚至更傳出日本向法國求助所謂的核能電廠機器人</s>}}
+* 「高性能機器人」、「日本人」可以用各種專有名詞代入使用。
+* 於挑戰者月刊(已休刊)連載的漫畫「滄胄神機」第一回中也有惡搞這句台詞。
+
+* 這種可以推倒的PC“Chobits”一定是日本人做的<br>[[File:img1182.jpg|center|680px]]
+
+* <s>SEGA出品的游戲《二元領域》故事中也是由於日本做了超高性能超像真人{{censored|'''甚至還能懷孕'''}}的機器人，聯合國才派遣主角一行潛入日本調查。</s>
+
+== 投票==
+* 到底有什麼高性能東西是日本人做的？
+{{vote|section=1}}
+
+* 你認為什麼東西最能擁有「高性能」的稱呼？
+{{vote|section=2}}
+
+* 你對高性能機械人的感想
+{{vote|section=3}}
+
+== 參見==
+* [[成句/我在打仗耶！這太荒謬了！]]
+== 回應==
+{{pcomment|section=2}}
+
+[[category:成句|這種高性能機器人一定是日本人做的]]
