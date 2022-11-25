@@ -1,0 +1,55 @@
+{{h0|成句/目が！目が！/眼睛！我的眼睛！/[https://allthetropes.org/wiki/Category:Eye_Scream Eye Scream]}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+{{stub row|本條目創立者遭到バルス閃瞎，需要其他島民協助補完。}}
+|}
+[[File:img4095.png|center]]
+== 出處 ==
+
+* 出自天空之城的穆斯卡大佐的遺言。
+** 遭到男女主角以巴魯斯咒文啟動拉比達自毀機制時發出的強光直擊眼睛而發出的慘叫
+*** 話說你明明戴著墨鏡啊...
+** 他實際上說的是'''目が！目が！'''（眼睛！眼睛啊！），與中文區常用的語法「眼睛！我的眼睛！」不同
+
+==解說==
+* 以視覺為主的世界來說，眼睛是最重要的感覺器官，故一但眼部受創，等於是暫時性地無法移動。
+** 承上，受到攻擊的角色多半都有'''我可能會永遠看不見'''的恐懼。
+
+==著名的對眼部攻擊場景==
+{| class="wikitable" style="margin:1.5eem auto;"
+!受害角色
+!攻擊者
+!出處
+!解說
+!備註
+|-
+|獨眼巨人{{ref|角色名為波利菲摩斯Polyphemus、種族名為賽克勞布斯Cyclops}}
+|削尖的橄欖樹幹
+|希臘[[神話]]史詩《奧德賽》
+|[[Odysseus (Fate)|奧德賽]]與船員們被捲到獨眼巨人族所在的島上，且被吃掉數人又囚禁於山谷，奧德賽決定送烈酒向巨人示好，並自稱&lt;b&gt;[[成句/你叫破喉嚨也沒有人來的|沒有人]]&lt;/b&gt;，當巨人醉倒後，眾人便以橄欖樹尖插瞎獨眼巨人，當獨眼巨人痛得呼天搶地時，同族在附近問事，卻得到&lt;b&gt;『沒有人害我』&lt;/b&gt;的回答而回洞休息，隔天早上趁獨眼巨人放羊出山谷時，奧德賽與船員們抱在綿羊肚下，逃出生天
+|&lt;s&gt;因為劇情需要&lt;/s&gt;，離開時的奧德賽一時[[腦殘]]，喊出了『[[成句/以為是○○嗎？殘念！是○○！|不是沒有人害你，是我奧德賽害你]]』，得知名字的獨眼巨人向父神－海皇波賽頓告上一狀，於是奧德賽與船員又遇上了船難而被吹走…
+|-
+|}
+
+== 用法 ==
+* 眼睛被攻擊後慘叫。
+** 《[[海貓悲鳴時|うみねこのなく頃に]]》第10話預告中鄉田疑似被辣椒油弄傷眼睛時說過這句。
+
+== 例圖 ==
+[[File:img1291.jpg|center|thumb|&lt;div style="text-align: center; "&gt;慘遭&lt;s&gt;[[Clannad|糰子大家族]]&lt;/s&gt;丸子攻擊眼睛的神樂。&lt;/div&gt;]]
+[[File:img1782.jpg|center|thumb|&lt;div style="text-align: center; "&gt;動畫版。&lt;/div&gt;]]
+[[File:img21090.jpg|center|thumb|&lt;div style="text-align: center; "&gt;[[Gilgamesh (Fate)|閃閃]]，[[成句/高義，你他媽雜碎!!!|你他媽雜碎]]！！！&lt;/div&gt;]]
+[[File:img1783.jpg|center|thumb|&lt;div style="text-align: center; "&gt;瞎了我的[[可魯|狗]]眼！&lt;/div&gt;]]
+[[File:img6965.jpg|500px|center|thumb|&lt;div style="text-align: center; "&gt;保護眼睛的方式。&lt;/div&gt;]]
+
+== &lt;s&gt;不知道為什麼但是覺得有填字會有很有趣的&lt;/s&gt;投票 ==
+* ○○!我的○○!
+
+{{vote|section=1}}
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+==備註==
+&lt;references/&gt;
+[[category:成句|目が！目が！]]
