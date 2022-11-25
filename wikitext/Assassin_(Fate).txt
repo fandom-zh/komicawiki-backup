@@ -1,0 +1,132 @@
+{{h0| Assassin（暗殺者/アサシン）}}
+[[File:Assassin.jpg|250px|right]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+| style = "text-align: center; "  |'''[[刺客教條|無物為真・諸行皆可！]]'''
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|[[Extra Class (Fate) | 特殊額外職階]]：Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner
+|}
+
+== 簡介 ==
+* 聖杯戰爭所能召喚的基礎七種職階之一，專長於隱密行動與暗殺技巧。執行過暗殺的殺手、造成大量被害者的殺人犯，或是進行諜報活動的間諜等，在事蹟上專長於'''殺人技術'''或'''隱密行動'''的英靈，都可以以這個職位被召喚。
+** 由於Assassin的語源是來自中東的阿薩辛教派，所以沒有特別準備聖遺物的話，通常會招喚出阿薩辛教派的頭目，即歷代哈桑。
+*** 在[[Fate/Apocrypha]]的世界中，由於大量的亞種聖杯戰爭，導致歷代哈桑都已被召喚過，也使得各哈桑都已被找出對應方法了。
+
+* 由於暗殺這一行為都是專注於偷襲無防備的目標，而不是以武力直搗黃龍。所以符合這一職階的英靈，通常在正面戰鬥上會比其他Servant還弱勢。因此這個職階的戰法通常為迴避與其他Servant交手的風險，專注於對其他Master進行暗殺。
+** 說是這樣說，但史實上作為Assassin語源的阿薩辛教派在執行任務時其實都是採用「[[成句/正面上我啊！|正面突破]]」一路殺進去的……說穿了，就是現代的恐怖分子那種做法；藉由這種手段使敵人對其畏懼
+** 由於與解決Servant比起，解決Master實在容易得多，而且由於能力較為弱小，Assassin在魔力的消耗上也比其他Servant低。所以只要妥善的運用，Assassin就會成為聖杯戰爭中最恐怖的Servant&lt;s&gt;，但是除了愛歌外，幾乎沒什麼Master懂得利用這點……&lt;/s&gt;。
+** 在F/AP的各式亞種聖杯戰爭中，因為最初總是Assassin大殺四方，史稱「暗殺者之春」。後來由於此戰法對其他Master來說實在太頭痛，所以之後每當有Master召喚出暗殺者時，其他Master會先集中針對Assassin後才繼續進行戰爭。
+* {{Censored|是唯一一個沒有候補冠位的職階，因為Grand Assassin一職被抑制力指定只有「山中老人」能夠出任；因此自「山中老人」歸還冠位後，Grand Assassin一直處於懸空狀態。}}
+
+=== 職階固有技能 ===
+* 氣配遮斷：將自身的氣息隱藏，使旁人不容易發現的狀態。但轉入攻擊狀態時，效果會大幅下降。
+** 雖說Servant在非實體的靈體狀態存在感也會下降，但就算瞞得過作為魔術師的Master也瞞不過同為英靈的Servant。一般而言除非兩者分隔兩地，要不然要成功直襲Master是很困難的。而持有氣配遮斷技能的英靈可以將自己的存在感壓低到連Servant都難以發現，讓暗殺更為容易。
+** 但因為在發動攻擊的瞬間效果會大幅下降，若是反應快或直覺強的Servant仍是有機會立刻察覺並進行迎擊。
+** FGO中的效果為&lt;s&gt;非常微妙的&lt;/s&gt;提高暴擊星產生機率。
+
+=== 基本能力 ===
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 筋力 !! 耐久 !! 敏捷 !! 魔力 !! 幸運
+|-
+| D || D || B || E || B
+|}
+
+== 列表 ==
+
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! Assassin適性 !! 備考
+|-
+| [[Assassin (Fate/stay night)|佐佐木小次郎]] || [[Fate/stay night]] || 日本：戰國時代 || 消除自身氣息的習武者技藝 || 在TYPE-MOON世界觀中設定為在聖杯戰爭系統的召喚下以佐佐木小次郎的名號現身的亡靈，另外在平行世界中似乎真有其人。
+|-
+| [[Hassan-i Sabbah (Fate・咒腕)|咒腕的哈桑]] || Fate/stay night || 中東：阿薩辛教派 || Assassin的語源 ||
+|-
+| [[Hassan-i Sabbah (Fate・百貌)|百貌的哈桑]] || [[Fate/Zero]] || 中東：阿薩辛教派 || Assassin的語源 ||
+|-
+| [[李書文 (Fate)|李書文]] || [[Fate/EXTRA]] || 中國：清末民初|| 能讓自己的「存在」消失的殺人拳高手&lt;ref&gt;八極拳本身應該不算是殺人拳法，但李書文史實上用他打死了不少人……&lt;/ref&gt; || F/GO 在2019年亦有實裝 Assassin 的李書文。只是F/E的 Assassin 李書文是青年版；FGO則是老年版。&lt;br/&gt;[[Lancer (Fate)|Lancer]]的李書文則是相反
+|-
+| [[Jack the Ripper (Fate/Apocrypha)|開膛手傑克]] || [[Fate/Apocrypha]] || 英國：工業革命時期 || [[連環殺手]] || 由於開膛手傑克的身分並未明確，每次招喚的傑克也不一定是同一人，皆是因符合開膛手傳說而被冠上此名號的存在。&lt;br&gt;這個「傑克」的真身則是一個由無數個被墮胎的嬰兒怨靈組成的聚合體。 
+|-
+| [[Semiramis (Fate)|賽米拉米斯]] || Fate/Apocrypha || 中東：亞述 || 毒殺君王者 || 擁有稀少的「二重召喚」技能，可以同時具有Assassin和Caster職階的能力。 
+|-
+| [[Hassan-i Sabbah (Fate・靜謐)|靜謐的哈桑]] || Fate/Prototype 蒼銀的碎片 || 中東：阿薩辛教派 || Assassin的語源 ||
+|-
+| [[岡田以蔵 (Fate)|岡田以藏]] || 琥珀ACE EX Fate/KOHA-ACE || 日本：幕末 || 僱傭殺手 || 同時擁有Assassin和Saber職階的能力，因而能完整再現Saber（沖田總司）與Rider（坂本龍馬）的劍技。&lt;br&gt;&lt;s&gt;不過依然會被斷槍的李書文轟殺&lt;/s&gt;
+|-
+| [[無名的Assassin (Fate)|無名的Assassin]]|| [[Fate/strange Fake]] || 中東：阿薩辛教派 || 刺客 || 擁有歷代十八位頭目偉業的阿薩辛教派成員。讀者間通稱「狂信子」。&lt;br&gt;為繼任哈桑之名而捨棄原本的姓名，但最後仍沒有被選上，所以至死都沒有名字。
+|-
+| 哈桑‧薩巴赫 || Fate/strange Fake || 中東：阿薩辛教派 || Assassin的語源 ||氣配遮斷的等級高達EX。{{Censored|疑為初代哈桑}}
+|-
+| [[Stheno (Fate)|絲西娜]] || [[Fate/Grand Order]]&lt;ref&gt;角色本身的初登場是在Fate/hollow ataraxia，作為Assassin的從者初登場則是在F/GO&lt;/ref&gt; || 希臘：希臘神話 || 男性殺手&lt;ref&gt;稱號。實際上指的不是物理上的殺害，而是她擄獲男性心靈的強大吸引力。而且絲忒諾不會親自動手，都是交由妹妹美杜莎去殺的&lt;/ref&gt;&lt;s&gt;沒有適合她的職階所以挑了一個符合她個性的&lt;/s&gt; || 身為神靈的她不知為何作為Servant回應召喚，還以此職階現界
+|-
+| [[荊軻 (Fate)|荊軻]] || Fate/Grand Order || 東亞：春秋戰國後期 || 刺客 ||刺殺[[嬴政 (Fate)|秦始皇]]的刺客
+|-
+| [[Charles-Henri Sanson (Fate)|夏爾-亨利·桑松]] || Fate/Grand Order || 法國：大革命時期 || 處刑人 || 一生處決人數超過2700人
+|-
+| [[Phantom of the Opera (Fate)|歌劇魅影]] || Fate/Grand Order || 小說：《歌劇魅影》 || 躲藏在劇院中作怪+[[連環殺手]] ||
+|-
+| [[Mata Hari (Fate)|瑪塔·哈里]] || Fate/Grand Order || 荷蘭：一次大戰時期 || 間諜 ||
+|-
+| [[Carmilla (Fate)|卡蜜拉]] || Fate/Grand Order || 匈牙利 || [[連環殺手]] ||為伊莉莎白‧巴托里的事跡妖魔化而成
+|-
+| [[Henry Jekyll &amp; Hyde (Fate)|亨利·傑奇]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是在Fate/Prototype 蒼銀的碎片，作為Assassin的從者初登場則是在F/GO&lt;/ref&gt; || 小說：《化身博士》 || 殺人犯（海德） || 在原先的《蒼銀》中是Berserker
+|-
+| [[謎之女主角X]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是在小巷子五月・女主角十二宮篇，作為Assassin的從者初登場則是在F/GO&lt;/ref&gt; || TYPE-MOON原創 || Saber殺手 || 
+|-
+| [[兩儀式]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是在空之境界，作為Assassin的從者初登場則是在F/GO&lt;/ref&gt; || TYPE-MOON原創 || {{Censored|殺人鬼（[[風評被害]]）}} ||
+|-
+| [[衛宮切嗣|Emiya]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是在Fate/Zero，作為Assassin的從者初登場則是在F/GO&lt;/ref&gt; || TYPE-MOON原創 || 魔術師殺手 || 為與Fate/Zero不同世界線，與抑止力簽約成為守護者的衛宮切嗣
+|-
+| [[酒吞童子 (Fate)|酒吞童子]] || Fate/Grand Order || 日本：平安時代 || 被安倍晴明認為是暗殺京都的公家子弟與公主的真兇 ||
+|-
+| [[第五代風魔小太郎 (Fate)|風魔小太郎]] || Fate/Grand Order || 日本：戰國時代 || 忍者 ||
+|-
+| [[Cleopatra (Fate)|克麗奧佩脫拉]] || Fate/Grand Order || 埃及：希臘化後期&lt;br /&gt;&lt;s&gt;[[刺客教條#巫師刺客教條：起源（The Caster Assassin's Creed: Origins）|巫師教條·起源]]&lt;/s&gt; || 被認為唆使暗殺了托勒密十四世等政敵 || 有將自己裹在毛毯中送到[[Gaius Julius Caesar (Fate)‎|凱撒]]面前的隱匿行動（?）事蹟
+|-
+| [[山中老人 (Fate)|「山中老人」]] || Fate/Grand Order || 中東：阿薩辛教派|| Assassin的語源 || 初代哈桑。{{Censored|原為冠位從者之一}}
+|-
+| [[燕青 (Fate)|燕青]] || Fate/Grand Order || 中國：《水滸傳》 ||有偽裝與諜報活動的事蹟||
+|-
+| [[武則天 (Fate)|武則天]] || Fate/Grand Order || 中國：大唐&lt;ref&gt;武則天在位時改元為周&lt;/ref&gt; || 唆使殺害許多政敵 ||
+|-
+| [[望月千代女 (Fate)|望月千代女]] || Fate/Grand Order || 日本：戰國時代 || 忍者 ||
+|-
+| [[加藤段蔵 (Fate)|加藤段藏]] || Fate/Grand Order || 日本：戰國時代 || 忍者 || 戰國、安土桃山時代傳奇忍者
+|-
+| [[刑部姫 (Fate)|刑部姫]] || Fate/Grand Order || 日本：逸話 || 躲藏在姬路城中 ||
+|-
+| [[芥雛子|虞美人]] || Fate/Grand Order || 中國：秦末楚漢相爭時期 || 秘匿者 || 依跟真祖相似的設定,應該跟Extra的愛爾奎特一樣為狂職才對...可能和擅長偽裝有關係或是其擅長的舞劍在現代會聯想到暗殺
+|-
+| [[Kamadeva (Fate)|伽摩]] || Fate/Grand Order || 印度：印度[[神話]] ||無形體者 ||
+|-
+| [[Gray (TYPE-MOON)|格蕾]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是在艾梅洛閣下II世事件簿，作為Assassin的從者初登場則是在F/GO&lt;/ref&gt; || TYPE-MOON 原創 || 隱藏了武器 || 由於亞德平時的模樣很難被發現它其實是武器，因此被認定具有Assassin適性
+|-
+| [[Charlotte Corday (Fate)|夏綠蒂·科黛]] || Fate/Grand Order || 法國：史實 || 刺客 || 刺殺了讓-保爾·馬拉的刺客
+|-
+| [[鬼一法眼 (Fate)|鬼一法眼]] || Fate/Grand Order || 日本：平安時代 ||  || 
+|-
+| [[Scathach (Fate)|斯卡薩哈]] || Fate/Grand Order || 凱爾特神話 || || 夏季泳裝式樣
+|-
+| [[Nitocris (Fate)|尼托克莉斯]] || Fate/Grand Order || 埃及：古王國時期 || 暗殺兄弟們的仇敵 || 夏季泳裝式樣
+|-
+| [[牛若丸 (Fate)|牛若丸]] || Fate/Grand Order || 日本：平安時代 || 隱居山中向天狗學習 || 夏季泳裝式樣
+|-
+| [[沖田総司 (Fate)|沖田總司]] || Fate/Grand Order || 日本：史實 || 劊子手 || 夏季泳裝式樣
+|-
+| [[T·V·柯楊斯卡雅|光之柯楊斯卡雅]]|| Fate/Extra CCC || 特殊&lt;ref&gt;為玉藻前九尾分裂而成的分身之一&lt;/ref&gt; || 間諜 || 
+|-
+| [[John Edgar Hoover (Fate)|用漫畫了解的Assassin]]&lt;br&gt;{{censored|約翰·埃德加·胡佛}}|| 用漫畫了解FGO！ || 美國：史實 || FBI || 檯面下偷偷摸摸地用非法手段打壓異己的特務頭子
+|-
+| [[Cesare Borgia &amp; Lucrezia Borgia (Fate)|切薩雷·波吉亞&amp;盧克雷齊亞·波吉亞]]|| Fate/Requiem || 義大利：史實 || 唆使殺害許多政敵 || 傳聞中妹妹盧克雷齊亞曾親手毒殺數人
+|}
+
+* 除了上述這些成員以外，曾明確提及具有Assassin適性的還有[[Hēraklēs (Fate)|赫拉克勒斯]]、[[呂布奉先 (Fate)|呂布奉先]]和[[舌切り雀の紅閻魔 (Fate)|剪舌麻雀的紅閻魔]]，但都未曾登場。
+** 此外[[Nerō Claudius (Fate)|尼祿]]雖然沒有明說但也曾多次暗示具有Assassin適性。
+
+== 備註 ==
+&lt;references /&gt;
+[[分類:TYPE-MOON]]
+[[分類:Fate系列]]
+[[分類:Assassin (Fate)|*]]

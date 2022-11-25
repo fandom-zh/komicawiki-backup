@@ -1,0 +1,82 @@
+{{h0|另一個零/アナザーゼロ/Another Zero}}
+{| class="wikitable" style="margin: 1.5em auto;text-align:center;" 
+|-
+| 本條目歡迎有興趣的朋友加以補完。 
+|}
+[[File:AnotherZero.jpg|right]]
+
+==概要==
+*由Ryo氏開發的縱STG
+
+==系統==
+*初期可選的自機有三架,皆有下列共通的系統:
+
+*通常攻撃
+**連射
+
+*強力攻擊
+**能消彈,在不用通常攻撃時會回復能量
+
+*盾牌/シールド
+**被敵彈擊中時減少、取得大星能回復
+
+==故事==
+ 舞台是發展尋找居住行星中的星際聯邦
+ 遠征艦隊回來時卻帶了奇怪的戰機,還無法聯繫
+
+ 最高議會決定若有敵意則對此反擊
+ 結果軍隊打不過該艦隊
+ 只能尋找能對抗的人...
+
+===登場人物===
+====自機====
+*李拜(リハイド/Lihide)
+**為了戰鬥才能滿足的龍騎士
+*座機:藍龍(ブルードラゴン/Blue Dragon)
+**強:龍音波/ドラゴソニック
+**為了討伐宇宙海賊而開發的戰機
+
+*法拉(ファラ/Fhala)
+**財團的特務隊員
+*座機:黃蛇(イエロースネーク/Yellow Snake)
+**強:蛇吻/スネークキッス
+**由財團研發的機體
+
+*比滋(ヴィズ/Viz)
+**傭兵
+**座機:紅虎(レッドタイガー/Red Tiger)
+***強:虎火/タイガーヒート
+
+===Stage ===
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Stage''' !! '''Boss'''
+|-
+| 01 || Deep Space/深空
+|-
+| 02 || Fly Across/飛過
+|-
+| 03 || Another.../另一個...
+|}
+
+==隱藏要素==
+*隱藏機體:黑暗不死鳥(ダークフェニックス/Dark Phoenix)
+**須押著F1選李拜的自機
+
+*隱藏難度:另類/Another
+**選Hard下方,不能消彈的模式
+
+==參考資料 ==
+*[http://web.archive.org/web/20010418075914/http://www.geocities.co.jp/SiliconValley-Bay/6404/g_az.html Ryo]
+**[http://web.archive.org/web/20010802082733/http://www.geocities.co.jp/SiliconValley-Bay/6404/ 官網]
+* [[同人STG系列作品列表]]
+
+==低調==
+*[https://www.freem.ne.jp/game/rev/51.html Freem!]
+
+==回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+&lt;references/&gt;
+[[Category:射擊遊戲]]

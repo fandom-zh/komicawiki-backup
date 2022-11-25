@@ -1,0 +1,138 @@
+{{h0| Archer（弓兵/アーチャー）}}
+[[File:Archer.jpg|250px|right]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|[[Extra Class (Fate) | 特殊額外職階]]：Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner
+|}
+
+== 簡介 ==
+* 聖杯戰爭所能召喚的基礎七種職階之一，具有射擊能力的英靈能以此職階進行召喚。除了擅使弓或以射擊的技術聞名者外，近代善用槍械射擊的人也算符合條件。&lt;s&gt;……原本是這樣的&lt;/s&gt;
+** &lt;s&gt;但一開始登場的弓兵，一個使用雙刀的時間比使用弓次數還多，另一個只是把各式各樣的寶具丟出去而已……因此造就了弓兵=不務正業的印象&lt;/s&gt;
+** &lt;s&gt;隨著有超大量英靈登場的手機遊戲FGO問世後更是變本加厲，一堆不務正業，所作所為跟自身職階印象完全不合的英靈如雨後春筍般不斷冒出來&lt;ref&gt;不拿長槍的[[Enkidu (Fate)|槍兵]]，用物理攻擊打人的[[Merlin (Fate)|魔]][[Charles Babbage (Fate)|術]][[玄奘三藏 (Fate)|師]]，沒有騎乘物甚至'''本身被人騎乘'''的[[赤兔馬 (Fate)|騎兵]]，穿盔甲拿盾牌+大劍搞正面突擊的[[山中老人 (Fate)|暗殺者]]，能跟人正常對話的[[玉藻前 (Fate)|狂]][[Vlad al III-lea (Fate/Apocrypha)|戰]][[清姬 (Fate)|士]]，然後終於出現了[[Karna (Fate)|不拿劍的聖誕劍兵]]&lt;/ref&gt;，現在看下來反而是弓兵這邊正常點&lt;/s&gt;
+** 不過弓兵不用弓還是Fate系列很有名的梗，連冠位弓最有名的竟是用棍棒攻擊，讓只用弓甚至只用射擊系武器的弓兵反而成了異類。
+* 由於以此職階召喚之從者能力值通常都有一定水準，是聖杯戰爭中未召喚Saber的第二選擇&lt;s&gt;相當於SR&lt;/s&gt;。 與劍兵、槍兵並稱三騎士
+* 擔任此職階的英靈皆具有知名的射擊武裝或技能，所以通常會以該從者所持有之名弓做為寶具或是基本武裝。
+* 在蘑菇還是高中生的舊Fate時期，名稱是「Hunter」，和Saber、Lancer一樣是來自蘑菇當時很迷的遊戲《サンダーフォースIII》。
+* 在FGO中也是強者輩出的職階，雖然職階本身的傷害補正略低於正常水平（0.95），但擁有僅次於Rider的全遊戲第二高的集星權重，並且幾乎從一星到五星每個星級中都有著該星級中名列前茅的強力角色，因此也被視為是FGO競爭最激烈的職階之一。
+
+=== 職階固有技能 ===
+* 對魔力：對魔術的抵抗力。能削減魔術所造成的傷害，甚至能將一定程度的魔術無效化。
+** FGO中的效果為降低敵方施加異常狀態的成功率。
+* 單獨行動：降低對御主依賴程度的技能。即便御主一時不給予魔力供應與支援也能保持存在。
+** 御主可以利用這項特質，將原本要用來維持Servant的魔力移用在行使魔術上。甚至若御主處在無法及時供應魔力的危急狀態，Archer也能保有行動能力來保護御主。
+** 但反面來講，對Servant而言此技能的等級越高，御主的必要性也就越低。因為即便現任的御主死去，Archer也能有更多的緩衝時間去找尋新的御主。所以要是御主與擁有此技能的英靈相處不好，會有比其他英靈更高的風險（[[遠坂時臣|時臣]]跟[[Gilgamesh (Fate)|閃閃]]就是最典型的例子）。
+** FGO中的效果為增加自己的爆擊傷害。因為遊戲設定上弓職比其他職來的容易吸星（僅次於騎職），算是相當實用的技能。
+
+=== 基本能力 ===
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 筋力 !! 耐久 !! 敏捷 !! 魔力 !! 幸運
+|-
+| C || C || C || E || E
+|}
+
+== 列表 ==
+
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! width="10%"| 名稱 !! width="15%"| 初登場作品 !! width="10%"| 原出處 !! width="15%"| 持有弓/投射器具 !! width="50%"| 備考
+|-
+| [[Emiya (Fate/stay night)|Emiya]] || [[Fate/stay night]] || TYPE-MOON原創 || 未來合金鑄造的弓（投影） || Fate系列的第一位弓兵，不好好用弓的先驅，雖然自己的射擊技術相當高。&lt;br&gt;&lt;s&gt;所以後面作品會有一堆不務正業的弓兵也是理所當然的事&lt;/s&gt;
+|-
+| [[Gilgamesh (Fate)|吉爾伽美什]] || Fate/stay night ||  rowspan="2"|西亞：吉爾伽美什史詩 ||  rowspan="2"|王之財寶（弓？） || Fate系列中最不務正業的弓兵，別說截至目前為止的作品裡從沒看過他用弓，投擲之類的也沒用過&lt;ref&gt;除非把刀劍之類的扔出去也算使用飛行武器&lt;/ref&gt;
+|-
+| [[Gilgamesh (Fate)|子吉爾]] || Fate/hollow ataraxia || 跟長大的一樣不務正業。&lt;br&gt;不過在[[Fate/kaleid liner 魔法少女☆伊莉雅|魔法少女伊莉雅]]中以黑化狀態出場時，曾經使用過原屬[[Hēraklēs (Fate)|赫拉克勒斯]]的弓箭－「真·射殺百頭」對付過[[伊莉亞絲菲爾‧馮‧艾因茲貝倫|伊莉雅]]
+|-
+| [[Robin Hood (Fate)|羅賓漢]] || [[Fate/EXTRA]] || 英國：民間傳說 || 單手弩 || Fate系列中第一個名符其實的弓兵&lt;s&gt;不過在漫畫版還是有用過短刀二刀流&lt;/s&gt;
+|-
+| [[Atalanta (Fate)|阿塔蘭塔]] || [[Fate/Apocrypha]] || 希臘：希臘神話 || Tauropolos || 
+|-
+| [[Chiron (Fate)|凱隆]] || Fate/Apocrypha || 希臘：希臘神話 || 弓 || 
+|-
+| [[David (Fate)|大衛]] || Fate/Apocrypha（廢案） || 舊約聖經 || 投石索（弓？） || 拿拐杖打人的弓兵
+|-
+| [[Gilgamesh (Fate/Prototype)|吉爾伽美什（Prototype）]] || Fate/Prototype || 西亞：吉爾伽美什史詩 || 王之財寶（弓？） || 
+|-
+| [[Arash (Fate)|阿拉什]] || Fate/Prototype 蒼銀的碎片 || 西亞：波斯神話 || &lt;s&gt;流星一條&lt;/s&gt;弓 || '''ステラァァァァァ！！！！'''
+|-
+| [[織田信長 (Fate)|織田信長]] || Fate/KOHA-ACE帝都聖杯奇譚 || 日本：戰國時代 || 三千把火繩槍（弓？） || 用火槍的弓兵
+|-
+| [[Hēraklēs (Fate)|阿爾喀德斯]] || [[Fate/strange Fake]] || 希臘：希臘神話 || 真·射殺百頭 || 只當了一下子的純Archer就被主人[[魔改造]]了……
+|-
+| [[Euryale (Fate)|尤瑞艾莉]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是Fate/hollow ataraxia，作為Archer的從者初登場則是F/GO&lt;/ref&gt; || 希臘：希臘神話 || 弓 || &lt;s&gt;FGO三星弓魔境區第一危險人物&lt;/s&gt;&lt;br&gt;&lt;s&gt;真の女神は目で男殺し&lt;/s&gt;
+|-
+| [[Orion (Fate)|俄里翁]] || Fate/Grand Order || 希臘：希臘神話 || 弓 ||遊戲中有兩位版本，分別為一般版（和月神阿耳忒彌斯一起被召喚）和超人版（單獨召喚俄里翁的版本）&lt;br&gt;{{Censored|原為冠位從者}}
+|-
+| [[Nikola Tesla (Fate)|尼古拉·特斯拉]] || Fate/Grand Order || 美國：二十世紀 || 特斯拉線圈（弓？） || 磁暴弓兵？！
+|-
+| [[Arjuna (Fate)|阿周那]] || Fate/Grand Order || 印度：《摩訶婆羅多》 || Gandiva || 寶具不是弓，除此之外還算正常
+|-
+| [[Billy the Kid (Fate)|比利小子]] || Fate/Grand Order || 美國：西部拓荒時期 || [https://zh.wikipedia.org/zh-tw/柯爾特M1877左輪手槍 Colt M1877]（弓？） || &lt;s&gt;いいセンスだ&lt;/s&gt;一般而言，應該以Gunner一職被召喚，但因FGO系統上問題，所以改為Archer
+|-
+| [[Sītā (Fate)|悉多]] || Fate/Grand Order&lt;ref&gt;初登場作品為Fate/Grand Order，在F/GO Arcade中確定職階&lt;/ref&gt; || 印度：《羅摩衍那》 || Haradanu || 
+|-
+| [[Sir Tristan (Fate)|崔斯坦]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是Garden of Avalon，作為Archer的從者初登場則是F/GO&lt;/ref&gt; || 大不列顛：[[亞瑟王傳說]] || Failnaught（弓？）  || '''啊啊…真令人悲傷'''
+|-
+| [[俵藤太 (Fate)|俵藤太]] || Fate/Grand Order || 日本：平安時代 || 弓、米俵 || &lt;s&gt;[[Overwatch#d6e985ba|竜が我が敵を喰らおう]]、玩食物的弓兵&lt;/s&gt;
+|-
+| [[克洛伊‧馮‧艾因茲貝倫]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是[[Fate/kaleid liner 魔法少女☆伊莉雅]]，作為Archer的從者初登場則是F/GO&lt;/ref&gt; ||TYPE-MOON原創 || 未來合金鑄造的弓（投影） || 因為是拷貝那位不好好用弓的前輩變成的，所以理所當然的也不怎麼用弓
+|-
+| [[Ishtar (Fate)|伊絲塔]] || Fate/Grand Order || 西亞:吉爾伽美什史詩 || 天舟馬安娜 || 凜被美索不達米亞女神伊絲塔附身而成的擬似Servant
+|-
+| [[James Moriarty (Fate)|詹姆斯·莫里亞蒂]] || Fate/Grand Order || 文學：《福爾摩斯系列》 || {{Censored|萊辛巴赫}}一把超過剩武裝的多功能鐵棺材（弓？） || {{Censored|因為與幻靈「魔彈射手」融合而成為Archer}}&lt;s&gt;パパ、くさい&lt;/s&gt;
+|-
+| [[Emiya (Fate/stay night)|Emiya〔Alter〕]] || Fate/Grand Order || TYPE-MOON原創 || 干將&amp;莫邪（手槍，弓？） || エミヤ的Alter版本，依舊不務正業
+|-
+| [[巴御前 (Fate)|巴御前]] || Fate/Grand Order || 日本：平安時代 || 弓 || 
+|-
+| [[淺上藤乃]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是空之境界，作為Archer的從者初登場則是F/GO&lt;/ref&gt; || TYPE-MOON原創 || 扭曲之魔眼（弓？） || 作為合作角色在FGO登場，配合遊戲系統套上Archer階職。&lt;br&gt;&lt;S&gt;因為沒有拿弓，所以是Archer沒錯！雖說怎麼看都該是Caster吧&lt;/S&gt;
+|-
+| [[Napoleon Bonaparte (Fate)|拿破崙]] || Fate/Grand Order || 法國：十九世紀 || 大砲（弓？） || 
+|-
+| [[William Tell (Fate)|威廉·泰爾]] || Fate/Grand Order || 瑞士：傳說 || 弩弓 || 雖然說是弩弓，但已經被他改裝的跟自動步槍沒兩樣了……
+|-
+| [[Aśvatthāman (Fate)|馬嘶]] || Fate/Grand Order || 印度：《摩訶婆羅多》 || 妙見飛輪（弓？） || 本身是神射手，但卻拿了個生前沒用過的寶物當武器
+|-
+| [[Paris (Fate)|帕里斯]] || Fate/Grand Order || 希臘：特洛伊 || 弩弓 || 
+|-
+| [[Calamity Jane (Fate)|災星簡]]|| Fate/Grand Order || 美國：西部拓荒時期 || 手槍（弓？） || 
+|-
+| [[清少納言 (Fate)|清少納言]] || Fate/Grand Order || 日本：平安時期 || 蹴鞠、文具（弓？） ||
+|-
+| [[織田信勝 (Fate)|織田信勝]] || Fate/Grand Order ||日本：戰國時代 || 手槍、炸彈（弓？） ||
+|-
+| [[Baobhan sith (Fate)|妖精騎士崔斯坦]]&lt;br&gt;{{censored|芭班・希}} || Fate/Grand Order || 大不列顛：[[亞瑟王傳說]]&lt;br&gt;{{censored|蘇格蘭：民間傳說}} || Failnaught（弓？） ||&lt;s&gt;其實是弓職的龍娘(極大誤&lt;/s&gt;
+|-
+| [[Artoria Pendragon (Fate)|阿爾托莉亞·潘德拉貢]] || Fate/Grand Order || 英格蘭：亞瑟王傳說 || 水槍（弓？） || 夏季泳裝式樣
+|-
+| [[Anne Bonny &amp; Mary Read (Fate)|安·伯妮&amp;瑪莉·瑞德]] || Fate/Grand Order || 加勒比海：十八世紀 || 滑膛槍（弓？） || 夏季泳裝式樣。戰鬥時以安妮為主，瑪莉為輔
+|-
+| [[Helena Blavatsky (Fate)|海倫娜·布拉瓦茨基]] || Fate/Grand Order || 歐洲：十九世紀 || 水槍、光束（弓？） || 夏季泳裝式樣
+|-
+| [[Jeanne d'Arc (Fate)|貞德]] || Fate/Grand Order || 歐洲：英法百年戰爭 || {{ruby|光之輪|Halo}}&lt;ref&gt;就是在宗教人物畫像中，人物背後的那個神聖的光暈&lt;/ref&gt;（弓？） || 夏季泳裝式樣。將主的守護化作光之輪，成了無法無天的高機動型射撃聖女
+|-
+| [[刑部姫 (Fate)|刑部姫]] || Fate/Grand Order || 日本：逸話 ||突擊步槍、狙擊槍、火箭砲（弓？） || 夏季泳裝式樣
+|-
+| [[伊莉亞絲菲爾‧馮‧艾因茲貝倫]] || Fate/Grand Order || TYPE-MOON原創 ||紅寶石之星（弓？） || 夏季泳裝式樣
+|-
+| [[Grand Duchess Anastasia Nikolaevna of Russia (Fate)|安娜塔西亞]] || Fate/Grand Order || 俄羅斯：羅曼諾夫王朝末期 || 雪球、西瓜、球棒（弓？） || 夏季泳裝式樣
+|-
+| [[Altera (Fate)|阿蒂拉 the 聖〔誕〕]] || Fate/Grand Order || 東歐：匈人 || 軍神之枴杖（光束劍，弓？）、綿羊 || 聖誕式樣
+|-
+| [[Florence Nightingale (Fate)|南丁格爾]] || Fate/Grand Order || 英國：史實 || 由機槍、注射器、陽傘組成的複合武器（弓？） || 聖誕式樣
+|-
+| [[Pecos Bill (Fate)|用漫畫瞭解的Archer]]&lt;br&gt;{{censored|佩柯斯．比爾}}  || 用漫畫了解F/GO！ || 美國：民間傳說 || 套索（弓？） ||
+|}
+* 除了上述這些成員以外，曾明確提及具有Archer適性的還有[[呂布奉先 (Fate)|呂布奉先]]、[[Karna (Fate)|迦爾納]]、[[Rāma (Fate)|羅摩]]、[[Penthesilea (Fate)|彭忒西勒亞]]、[[Sherlock Holmes (Fate)|夏洛克·福爾摩斯]]、[[明智光秀 (Fate)|明智光秀]]、[[Kamadeva (Fate)|伽摩]]，但都未曾登場。
+** 此外，[[燕青 (Fate)|燕青]]在FGOM中有提到過「若是以其他職階出現會使用弩弓」，有很高的機率具有Archer適性。
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+&lt;references /&gt;
+[[分類:TYPE-MOON]]
+[[分類:Fate系列]]
+[[分類:Archer (Fate)|*]]

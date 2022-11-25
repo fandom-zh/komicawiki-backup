@@ -1,0 +1,77 @@
+{{h0|新宿幻靈事件}}
+[[File:新宿幻靈事件Banner.png|500px|center]]
+== 概要 ==
+[[File:新宿幻靈事件headline.png|500px|center]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 特異點編號
+| 亞種特異點 I
+|-
+! 時代
+| A.D. 1999
+|-
+! 人理定礎值
+| ??
+|-
+! 地點
+| 新宿
+|-
+! 導航角色
+| [[James Moriarty (Fate)|{{ruby|正義の味方|邪惡的人}}]]
+|-
+! 通關後贈送角色
+| (無)
+|-
+! 劇本作者
+| 東出祐一郎&lt;ref&gt;因為本篇的題材是櫻井光比較擅長的題材&lt;s&gt;外加當時櫻井評價很糟&lt;/s&gt;，另外部部寫作特徵和第一部第二、四章相似，華人圈大多認為這篇是櫻井執筆；但就一些用詞與文筆的寫法來看又很像是東出，日方多半據此認定是東出所寫。而在FGO設定集5出版後，已確定該章的劇本為東出負責撰寫&lt;/ref&gt;
+|}
+
+* Fate/Grand Order斷章Epic of Remnant、第一章的故事。通常簡稱為『新宿』或是『1.5.1章』
+* 目前為止都是範圍最小的主線特異點&lt;ref&gt;經查《異端的塞勒姆》故事舞台的美國麻州賽勒姆鎮面積約為42平方公里，而本章舞台為日本東京都新宿區面積僅有18平方公里，因此這個記錄應該可以保持到第二部正式上線。&lt;/ref&gt;。
+
+== 故事 ==
+[[File:新宿幻靈事件Prologue.png|500px|center]]
+
+== 本節登場主要角色 ==
+
+=== 我方勢力 ===
+
+* [[James Moriarty (Fate)|新宿的Archer（善）]]
+** 自稱是被惡所分離出來的僅少一部份
+
+* [[Artoria_Pendragon_(Fate)|阿爾托莉亞‧潘德拉貢（Alter）]]
+
+* [[Jeanne d'Arc (Fate)|貞德（Alter）]]
+
+=== 幻影魔人同盟 ===
+
+* 新宿的Archer（惡）
+** {{censored|實為[[魔神柱_(Fate)#.E7.AC.AC.E4.B8.80.E6.9F.B1_.E5.B7.B4.E5.8A.9B|{{color|black||魔神柱第一柱 &lt;s&gt;主魔&lt;/s&gt;巴力}}]]變化而成}}
+
+* [[Hessian Lobo (Fate)|新宿的Rider]]
+
+* [[燕青 (Fate)|新宿的Assassin]]
+
+* [[Emiya_(Fate/stay_night)|衛宮（Alter）]]
+
+* [[Phantom of the Opera (Fate)|新宿的Berserker]]
+
+* [[Phantom of the Opera (Fate)|人偶的女帝]]
+
+=== 中立勢力 ===
+
+* [[Sherlock Holmes (Fate)|夏洛克‧福爾摩斯]]
+** 最初化身為愛德蒙‧唐泰斯，與主人公溝通
+
+* [[William Shakespeare (Fate)|莎士比亞]]
+
+* [[Hans Christian Andersen (Fate)|安徒生]]
+
+* [[Monte Cristo (Fate)|愛德蒙‧唐泰斯]]
+
+== 關聯條目 ==
+{{Fate/Grand Order章節}}
+
+== 備註 ==
+&lt;references /&gt;
+[[Category:Fate/Grand Order劇情]]

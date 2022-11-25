@@ -1,0 +1,1216 @@
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; "  | 本條目介紹範圍包含但不限於布袋戲，亦歡迎補充其他影劇內的案例 
+|-
+| style = "text-align: center; "  | 本條目的所屬作品以各原文+中文譯名為主，如不確定曲名可先留空白或片段
+|-
+| style = "text-align: center; "  | 出現複數使用情形請列於人物、場景一欄，並換行以利閱讀。 
+|-
+| style = "text-align: center; "  | 引用方式如：全曲✉️&lt;ref&gt;'''原封不動照搬整曲'''✉️，將已發行音樂曲目或片段作為素材使用&lt;/ref&gt;、剪輯✂️&lt;ref&gt;將已發行音樂曲目'''剪為較短的版本✂️'''再使用&lt;/ref&gt;、採譜❏&lt;ref&gt;從'''既存樂曲曲譜複製❏'''其曲調，但使用不同樂器演奏或另外演奏作為素材，與既存原曲之音色不同，或'''原人聲歌曲採用其無人聲伴唱樂曲的音源'''為素材&lt;/ref&gt;、翻唱☄&lt;ref&gt;將既存樂曲'''改詞後配唱成歌曲'''☄，由於歌壇的翻唱發片行為普遍不受追究，建議&lt;b&gt;優先記入翻唱歌曲使用在影劇配樂&lt;/b&gt;的情況，只有歌手發行翻唱曲則移至[[原創風行]]條目&lt;/ref&gt;、改編✎&lt;ref&gt;曲調的'''部分音符、音程升降經過改動'''✎，但可辨認出與原曲相似的同一音程結構&lt;/ref&gt;、混成✾&lt;ref&gt;以兩首以上可辨識的原曲'''混合而成'''✾或另外編曲，因案例絕少故另列一類&lt;/ref&gt;等，可於備註欄詳述情況。 
+|}
+[[檔案:Musicpiracy.jpg|右|200px|thumb|劇伴泥棒犯科帳]]
+
+== 懸案待考區  ==
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; "  | 此欄歡迎提問不明來源出處的曲目，請提供該片段或音樂連結。 
+|-
+|}
+{| class="wikitable" style="margin: 1.5em auto;" 
+! 《編入劇集名》人物、場景 !! 其他資訊 !! 備註 
+|-
+| 《霹靂》[https://www.youtube.com/watch?v=5JS0DLgNVqw 大雪原] || [http://mymedia.yam.com/m/1243699 同旋律] ||  
+|-
+|}
+
+== 特例：混成✾  ==
+{| class="wikitable sortable" style="margin:auto;"
+|-
+! 原所屬作品 !! 曲名 !! 使用方式《編入劇集名》人物、場景 !!  備註 
+|-
+| 《[[北斗の拳]]》 || [https://www.youtube.com/watch?v=b1BN4R-4SSE TV版OST]-[https://www.youtube.com/watch?v=dj2VIDaYN3o 伝説の男] ||rowspan = "2"  | 《霹靂》[https://www.youtube.com/watch?v=cqpSnSDmatM&amp;t=46s 紫脈線OP]、&lt;br&gt;RPG《霹靂幽靈箭》大地圖配樂 || 前奏
+|-
+|| 1964 Ennio Morricone&lt;br&gt;《Bullets Don't Argue》  ||[https://www.youtube.com/watch?v=dy26BC65U-8 Bullets Don't Argue] ||  間奏
+|-
+| [[暴坊將軍]] || [https://www.youtube.com/watch?v=FCb3tahZZv8 殺陣のテーマ] || rowspan = "2"  | 《霹靂》[https://www.youtube.com/watch?v=IgiDDRTd3a0 王朝OP] || 混成主體
+|-
+| 1976港劇《射鵰英雄傳》 || [https://www.youtube.com/watch?v=2FbA0xI20Pg 誰是大英雄] || 只占間奏部分 
+|-
+| 《[[魔神英雄傳系列|魔神英雄傳]]3CDシネマ３摩天楼激闘篇》 || [https://www.youtube.com/watch?v=rdJZwOWoFlA 旅][https://youtu.be/Z9EGu0A1xls?t=847 立ち] || rowspan = "2"  | 《霹靂》[https://www.youtube.com/watch?v=xeV9vLQ-rNQ 海殤君] || 
+|-
+|(佛曲) ||斯理《[https://www.youtube.com/watch?v=sV4yijP7ZDQ 古老的輪迴]》|| 
+|-
+|}
+
+== 來自電影 ==
+{| class="wikitable sortable" style="margin:auto;"
+|-
+! 原所屬作品 !! 曲名 !! 《編入劇集名》使用方式、人物、場景!! 備註 
+|-
+||  1960 Ernest Gold《Exodus》出埃及記 || [https://www.youtube.com/watch?v=wEPZ1ef2g_A 主旋律]&lt;br&gt;[https://www.youtube.com/watch?v=QEYmomUuveU The Exodus Song] || 《金光》✉️[https://www.youtube.com/watch?v=IBK0nAGwX-0 史艷文]/☄[https://www.youtube.com/watch?v=IWAn1jBjL_Y 大地英雄]☄[https://www.youtube.com/watch?v=reAmA7X2PH8 異國英雄]、✎[https://www.youtube.com/watch?v=dbIg1iMrN7Y 天地儒俠]  || 由於日本政府皇民化運動打壓漢文化樂師樂曲，劇團被迫改用唱片播放配樂&lt;br&gt;在歸還台灣後的布袋戲團發展至以特效特技為特色的金光戲形態時，&lt;br&gt;原有的南北管樂師變為以音響唱片播送以節省人力，&lt;br&gt;黃俊雄在購得電影原聲帶後便以此曲搭配主角使用，成為近代電視布袋戲的[https://www.youtube.com/watch?v=vpEbpObotxc&amp;t=1m0s 經典演出]
+|-
+|| 1964 Ennio Morricone&lt;br&gt;  《The Good, The Bad &amp; The Ugly》  ||[https://www.youtube.com/watch?v=dy26BC65U-8 The Ecstasy Of Gold ] || 《霹靂》✉暗流君、花信風 || 
+|-
+|| 1964 Ennio Morricone&lt;br&gt;《Bullets Don't Argue》  ||[https://www.youtube.com/watch?v=dy26BC65U-8 Bullets Don't Argue] || 《天宇》✉追風劍郎 || 
+|-
+|| 1967 Ennio Morricone&lt;br&gt;《Death Rides a Horse》 || [https://www.youtube.com/watch?v=Ff-kQ-UmflA From Man to Man] || 《霹靂》✎[https://www.youtube.com/watch?v=hRBKoXzYxOo 幽靈箭OP] || 《追殺比爾》使用[https://www.youtube.com/watch?v=KJaWupFpvoY 同曲] 
+|-
+|| 1975 Ennio Morricone&lt;br&gt;《A Genius, Two Friends, and an Idiot》 ||  [https://www.youtube.com/watch?v=zekHLOsHojU Cavalcata... Per Elisa] || 《天宇》✉東方孤行 || 西部版&lt;s&gt;垃圾車=《給愛麗絲》&lt;/s&gt;
+|-
+|| 1973 Ennio Morricone&lt;br&gt;《My name is nobody》  ||[https://www.youtube.com/watch?v=K18G5kIv-A8 The Wild Horde] || 《霹靂》✉龍王魛 ||  有摻入華格納名曲《[https://www.youtube.com/watch?v=GGU1P6lBW6Q 女武神的飛騎]》
+|-
+|| 1966 Carlo Savina&lt;br&gt;《Few Dollars for Django》 || [https://www.youtube.com/watch?v=OLN8EusoGr4 A Deadly Morning] ||《金光》✉獨眼龍 || 
+|-
+|| 1959 Miklos Rozsa&lt;br&gt; 《Ben hur/賓漢》|| [https://www.youtube.com/watch?v=6iOh8LBb6Hs Naval Battle] || ✉《霹靂》早期追殺場面曲 ||
+|-
+|| 1968 Dominic Frontiere&lt;br&gt; 《Hang 'Em High》||[https://www.youtube.com/watch?v=XF6_XwE96hw 主旋律] ||✉《霹靂》[https://www.youtube.com/watch?v=_nN2zsw7nKM 一劍萬生/一刀萬殺]、萬殺秦附體、&lt;br&gt;✉《天宇》[https://youtu.be/zdcx2oN5-50?t=130s  奔雷少年] ||
+|-
+| 1957石原裕次郎&lt;ref&gt;前東京都知事石原慎太郎之弟&lt;/ref&gt;&lt;br&gt;《嵐を呼ぶ男》 || [https://www.youtube.com/watch?v=ZQxh9BmV-oQ 嵐を呼ぶ男] || 《金光》☄[https://www.youtube.com/watch?v=-2OQSvq190U 男子漢中的男子漢] ||  1957年同名電影主題曲，&lt;s&gt;不要吐嘈歌詞裡有叫罵聲、摔角梗&lt;/s&gt;，&lt;br&gt;也是台語童謠『[https://www.youtube.com/watch?v=b-oOFg90ZE8 排骨隊]/[http://www.nicovideo.jp/watch/sm24208880 排骨仔隊]』的原曲&lt;br&gt;更知名的印象是[https://www.youtube.com/watch?v=TCkFj7WVEQE 斯斯感冒膠囊]的廣告歌 
+|-
+| Hans Zimmer《Muppet Treasure Island》&lt;br&gt;布偶金銀島尋寶記 || [https://www.youtube.com/watch?v=8WWdOjxoQro&amp;t=33s Shiver My Timbers] || 《霹靂》❏[https://www.youtube.com/watch?v=tDleeHcrdR0 烽火錄OP] ||  同曲翻唱為中華職棒統一獅隊歌《[https://www.youtube.com/watch?v=YNAiRQTzOtw 獅吼歌]》 
+|-
+| rowspan = "2" | 1983《新蜀山劍俠》 || | 開幕曲 || 《霹靂》✂[https://www.youtube.com/watch?v=xoNiZ6xLJcA&amp;t=22s 早期OP] || 直接剪影片音軌而非源聲曲，因此連影片中的『哇！』聲都留下來了
+|-
+||鄭少秋《[https://www.youtube.com/watch?v=7CBZAiOfx64 黃帝子孫]》 || 《天宇》❏秋八月 || 
+|-
+| 《Kill Bill追殺比爾》 || 《[https://www.youtube.com/watch?v=VTR5AT1QwXw Don't Let Me Be Misunderstood]》 || 《霹靂》✎[https://mymedia.yam.com/m/2763224 絕情書武戲] ||  只取前奏部分 
+|-
+| rowspan = "7" |  1993陳勳奇《東邪西毒》 || [https://www.youtube.com/watch?v=nLly6Naru1U 摯愛] || 《天宇》✉水煙蘆&lt;br&gt;《霹靂》✉[https://www.youtube.com/watch?v=LhyZh4rVwcY 淚痕]、 || 由全才電影人陳勛奇譜曲 
+|-
+|  [https://www.youtube.com/watch?v=Ud0LiQerZ9c 又愛又恨] || 《天宇》✂花中人&lt;br&gt; || 
+|-
+| [https://www.youtube.com/watch?v=O97O3ZFv-l4 天地孤影任我行] || [[星爺]]電影《大話西遊》 ||
+|-
+| [https://www.youtube.com/watch?v=uKnjitV7JXI 殺手生涯] || 《霹靂》✉️無人座 || 疑似取樣自橘夢樂團《[https://www.youtube.com/watch?v=SVKfia2cpEU Afternoon In The Desert]》
+|-
+| [https://www.youtube.com/watch?v=ZWcjsLCytxU 真相] || 《霹靂》✉️青陽子 ||
+|-
+| [https://www.youtube.com/watch?v=0utm57UBah0 情慾流轉] || 《霹靂》✉️歐陽勝天 ||
+|-
+| [https://www.youtube.com/watch?v=tixzI1Xwgvc 世事蒼茫成雲煙] ||《霹靂》泣花魂訃文&lt;br&gt;《天宇》舞劍塵 || 
+|-
+| 坂本龍一《Merry Christmas Mr. Lawrence》俘虜 || [https://www.youtube.com/watch?v=LF9_9MZyQGo 主旋律] || 《霹靂》✂夜慧白庸 || 宇多田ヒカル翻唱的版本在[[空耳]]後成為[https://www.youtube.com/watch?v=yDQQBEfqJJg 笑談] 
+|-
+| 《RoboCop》機器戰警 || [https://www.youtube.com/watch?v=OoOBd7g4Mac Rock Shop]&lt;br&gt;[https://www.youtube.com/watch?v=h-gcYrlFp88 Across The Board] || 《霹靂》✂怒火燒盡九重天 ||  
+|-
+| 《GhostBusters》魔鬼剋星 || 主旋律 || 《霹靂》✉秦假仙（衰尾道人時期） || 
+|-
+| rowspan = "2" | 1978《蛇鶴八步》&lt;br&gt;日版 林哲司《蛇鶴八拳》 || 小清水ミツル[https://www.youtube.com/watch?v=m8LWZoZimKo Dangerous Eye] || ❏《霹靂》[https://youtu.be/wBHeiiVoDYE?t=244 燈蝶修萬年]&lt;br&gt;《天宇》❏燈劍一盞孤 || 另有[https://www.youtube.com/watch?v=P9kI4WX7Yug 金屬版]
+|-
+|| &lt;s&gt;[https://www.youtube.com/watch?v=0lmfy9AXvus Arts of Shaolin]&lt;/s&gt;&lt;br&gt;[https://www.nicovideo.jp/watch/sm2038187 MoonLess Night] || ❏《霹靂》[https://www.youtube.com/watch?v=7_j2JAqIKWE 玉超群(流星臂時期)]&lt;br&gt;《天宇》[https://www.youtube.com/watch?v=I8epDhZwk6I 太陽角] ||
+|-
+| 1979《龍拳》 || 小清水ミツル[https://www.youtube.com/watch?v=TYhPHU9UJSQ Dragon Fist] || 《天宇》❏[https://www.youtube.com/watch?v=z8mLbGjAWfI 藍霞] || 
+|-
+| 1983《A計畫》|| 成龍[https://www.youtube.com/watch?v=0er6W2qsdpE 東方的威風] || 《霹靂》✉早期電視OP ||
+|-
+| 1992《警察故事3》||成龍 [https://www.youtube.com/watch?v=NQxm5-4qDzk 謎] || 《天宇》✉[https://www.youtube.com/watch?v=7MH6xolZe-M 缺角] || 較少用
+|-
+|| 1994 《醉拳2》|| [https://www.youtube.com/watch?v=Lhz16cs0S70 溫馨時刻] || 《霹靂》✉友情之家 ||
+|-
+| 《七劍》|| [https://youtu.be/igzMnLsYooM 七劍戰歌]&lt;br&gt;[https://www.youtube.com/watch?v=aCG_Umx1Kxk 劍如山氣如虹] || 《天宇》✂[https://www.youtube.com/watch?v=tQIAGi21org 秋八月殺滅天論] || 戰鬥橋段穿插引用
+|-
+|| 2001黃英華《[[少林足球]]》 || [https://www.youtube.com/watch?v=ckgF2dNK1fc 少林足球主題曲] || 《霹靂》✎[https://www.youtube.com/watch?v=JQ3FF4CiRYU 欲蒼穹武戲貳]、✎[https://www.youtube.com/watch?v=Va9uNDVR7-o 日出峨眉]&lt;br&gt;✂《天宇》波月之刀武曲 || 僅使用前奏，因使用嗩吶與北管曲風，&lt;br&gt;常在台灣的廟會與迎鑾活動播放，由於與原曲的關係，也有人編出[https://www.youtube.com/watch?v=XcIMsXmaI2U 組曲]版
+|-
+|| 1984 蠻王柯南II毀天滅地《Conan the Destoryer》 || [https://www.youtube.com/watch?v=qSqc5Gg0spM Approach To Shadizaar] || 《天宇》✉神蝶進軍 || 
+|-
+|| 1988  Bat 21 || [https://www.youtube.com/watch?v=uYr1mHDqlc8 The Swanee] || 《天宇》✉千少一白髮 || 
+|-
+|| 1992 Vangelis 征服天堂《Conquest of paradise》 || [https://www.youtube.com/watch?v=WYeDsa4Tw0c 主旋律] || 《天宇》✉六官門主&lt;br&gt;✎《霹靂》[https://www.youtube.com/watch?v=nUvvivoMhtQ 馴刀者] || 
+|-
+|| 1982 Vangelis 銀翼殺手《Blade Runner》 || [https://www.youtube.com/watch?v=OP63BRzKmB0 End Theme] || 《霹靂》✂五尖珠 || 
+|-
+| rowspan = "5" | 1993《青蛇》 || [https://www.youtube.com/watch?v=Fl5xP_FfSd0 流水浮燈] || 《天宇》✉花紗、造雲麒麟 || 
+|-
+| [https://www.youtube.com/watch?v=2TWRC_ozbsE 治水] || 《天宇》✉真佛動殺 || 
+|-
+| [https://www.youtube.com/watch?v=KZ9wSM52ZMk 心如明鏡] || 《天宇》✉真佛動殺 || 
+|-
+| [https://www.youtube.com/watch?v=tI_qy0oQ610 柳腰細裙兒蕩] ||  《霹靂》✉玄真君離愁谷 ||
+|-
+| [https://www.youtube.com/watch?v=Du2VL5BKZrQ 相知相惜] || 《天宇》✉火鳳凰鑾轎 || 
+|-
+| 1967《Days Of Anger）》 || [https://www.youtube.com/watch?v=qYMt4LnUZ0M  Giorni Dell'ira] || 《霹靂》❏劍扣無二客 || 
+|-
+|| 1973 《Shanghai Joe》 || [https://www.youtube.com/watch?v=WTuOlZqe7D4 主旋律] || 《霹靂》✂一錢一命、✎[https://www.youtube.com/watch?v=N5fYKiDVJWM 一劍萬生武戲] || 
+|-
+|| 1990 《天と地と》 || 小室哲哉 [https://www.youtube.com/watch?v=g_RKwdeVKvY 主旋律]、 [https://www.youtube.com/watch?v=aepm4nBJQ9M 演唱版] || 《霹靂》✉[https://www.youtube.com/watch?v=g_RKwdeVKvY 劍魂TV片尾] || 
+|-
+| rowspan = "3" | 1993 《天與地》 || 喜多郎 [https://www.youtube.com/watch?v=TXldyt1mmT0 Saigon Reunion] || 《霹靂》《天宇》✉[https://www.youtube.com/watch?v=voGZTewqQYU&amp;t=34s 重大死亡場面曲] ||  一頁書、海殤君、兩卷書死亡均為同曲
+|-
+|[https://www.youtube.com/watch?v=uUtZ2v1CFik Land Theme] || 《霹靂》✉狂刀思嬋 || 
+|-
+| 喜多郎 [https://www.youtube.com/watch?v=VpDbDxNtx04 Return To Vietnam] || 《天宇》✂紅雲吐血渡天臺&lt;br&gt;台視✂《神鵰俠侶》[https://www.youtube.com/watch?v=-7RQqhRVpjk&amp;t=22m38s 廣告間奏] || 
+|-
+| rowspan = "3" | 1995《人造人間ハカイダー》|| 太田浩一[https://www.youtube.com/watch?v=O3EmutDig_w&amp;2m51s 電影版][https://www.youtube.com/watch?v=kKuR5OebdTw ED] ||  《天宇》✉殺機電視/VCD版片尾 || 原曲改編自渡邊宙明 《人造人間キカイダー》系列"[https://www.youtube.com/watch?v=Tns9ATOGlUQ ハカイダーのうた]"&lt;br&gt;&gt;收錄於《高福順影集配樂大全二-CD1》-"15.最佳片頭曲"
+|-
+|| [https://www.youtube.com/watch?v=-7GRtuHY9U4 ハカイダー出陣] || 《霹靂》✉ [https://www.youtube.com/watch?v=s0JtCIlvSas 聖法者武曲] || 
+|-
+||  春慶舞曲 || 《霹靂》 ✉滄海老鳥 || 
+|-
+| 2000上海交響樂團《聖石傳說》 || [https://www.youtube.com/watch?v=DE3G4OeYXz8 正邪之戰] || TBS《SASUKE/極限體能王》✂ [https://www.youtube.com/watch?v=fdF-WEroj54&amp;t=1m8s OP10][https://www.youtube.com/watch?v=7aI7HBXUDfA&amp;t=1m7s 12][https://www.youtube.com/watch?v=NwKETUCi06g&amp;t=1m 14]、[https://www.youtube.com/watch?v=h1XoxTGSVuY&amp;t=01m04s 16] || &lt;s&gt;盜用日本影視多年終於有被日本用回去的紀錄&lt;/s&gt;
+|-
+|| 魔鬼終結者2 || [https://www.youtube.com/watch?v=pVZ2NShfCE8 主題曲] || 《天宇》✉[https://www.youtube.com/watch?v=Exf7UZEk_ds 時空五虎] || 
+|-
+|| 1982 《Cat People》 || Giorgio Moroder[https://www.youtube.com/watch?v=FJ05Z_ATP0I The Myth] || 《霹靂》✂[https://www.youtube.com/watch?v=7xPpAM9Sw70 白骨靈車]&lt;br&gt;《天宇》✂[https://www.youtube.com/watch?v=HBluhLOupd4 峭壁人狼伏擊曲] || 早期怪物場面常用
+|-
+|| 1995《The Quick and the Dead》致命快感|| [https://www.youtube.com/watch?v=JrMmFv6UkMs 主旋律] ||《天宇》✂[https://www.youtube.com/watch?v=Qz7bP8iYi2Q 冷殺刀客]&lt;br&gt;《霹靂》✎[https://www.youtube.com/watch?v=GMXgM4RuO5g 風起雲湧1OP] || 
+|-
+| rowspan = "2" | 1977 Tangerine Dream《Sorcerer》千驚萬險 || [https://www.youtube.com/watch?v=BGvTh0B7RoE  Vengeance] ||《天宇》✉️刻魂石雕刀 ||
+|-
+ || [https://www.youtube.com/watch?v=Q4AMJjMyHR8  Impressions Of Sorcerer] ||《霹靂》✉️[https://www.youtube.com/watch?v=9pqWoKte43k 鬼王棺初期] ||
+|-
+|| 1992胡偉立《[[星爺|新鹿鼎記]]》 ||《[https://www.youtube.com/watch?v=hKwf4JI0hII 慈寧宮森嚴]》 ||《霹靂》✎[https://www.youtube.com/watch?v=3GIQ0pCzhmo 宇宙神知] ||
+|-
+|1965西鄉輝彥《淚をありがとう》||西鄉輝彥《[https://www.youtube.com/watch?v=TS1W6RTD-_s 淚をありがとう]》 ||《金光》三缺浪人－☄黃俊雄[https://www.youtube.com/watch?v=C0WtuNxmvnM 旅人的眼淚]、&lt;br&gt;☄郭金發[https://www.youtube.com/watch?v=hmi5D-ORmFY 現實的人生] 、[https://www.youtube.com/watch?v=JTjbbc3jz6Q 七逃人的目屎]/[https://www.youtube.com/watch?v=jal1lS1wagk 迫迌人的目屎]&lt;br&gt;民視《飛龍在天》☄ED[https://www.youtube.com/watch?v=sgNhEwyvqNw 七逃人的目屎]|| 三缺浪人專用角色曲，每一版都使用同一旋律
+|-
+|1973Lalo Schifirm《Magnum Force/緊急搜捕令》|| [https://www.youtube.com/watch?v=rkas-NHQnsI 主旋律]|| 《霹靂》✂️[https://www.youtube.com/watch?v=WTLeL0SbiAY&amp;t=3m47s 白閃電雷英]、✂️[https://www.youtube.com/watch?v=NUms7OeifIA 天鏡刑者] || 早期二線角色常用
+|-
+|1966《大忍術映画 ワタリ》|| [https://www.youtube.com/watch?v=TRVRnNDpvKQ 主題曲] ||《金光》☄[https://www.youtube.com/watch?v=a2CS8vOZet0 金剛風雲記]|| 
+|-
+|-
+| rowspan = "4" |1983 Tangerine Dream橘夢樂團《Flashpoint》 ||《[https://www.youtube.com/watch?v=UAXMxDhW3NI Highway Patrol]》||《霹靂》✉️銀弓血飛狐、[https://www.youtube.com/watch?v=2dqsOraHY_0 綠峰連環洞]||
+|-
+|《[https://www.youtube.com/watch?v=DOVZ8r6mOtw Going West]》&lt;br&gt;[https://www.youtube.com/watch?v=womEGC5SOjI Lost In The Dunes] ||《霹靂》✉️霹靂魔球縮骨人 || 
+|-
+|《[https://www.youtube.com/watch?v=uERi8ghi-3s Mad Cap Story]》||《霹靂》✉️銀弓戰二龍 ||
+|-
+|《[https://www.youtube.com/watch?v=SVKfia2cpEU Afternoon In The Desert]》||《霹靂》✉️[https://www.youtube.com/watch?v=aLTOmv4eE-w 阿修羅主宰] || 
+|-
+|《007情報員》系列 || 主旋律 ||《霹靂》✉️追風圓刀血雙鱗 ||
+|-
+|1980池辺晉一郎《影武者》 || [https://www.youtube.com/watch?v=dlrH000sd78 進軍] ||《霹靂》✉️閃電霹靂車 ||
+|-
+|rowspan = "5" |1989 Lalo Schifrin&amp;Kevin Bassinson&lt;br&gt;《Cyborg/尖峰戰士/天雷地火》 || [https://www.youtube.com/watch?v=mkL3HLRV8H8&amp;t=290s Nostaglic FlashBack]&lt;br&gt;[https://www.youtube.com/watch?v=mkL3HLRV8H8&amp;t=1721s Flashbacks From The Cross] ||rowspan = "5"| (不及備載) || 早年影劇爭論/哀傷場面常用
+|-
+|| [https://www.youtube.com/watch?v=mkL3HLRV8H8&amp;t=598s Road to Charleston] ||  早年影劇陰森場面常用
+|-
+|| [https://www.youtube.com/watch?v=mkL3HLRV8H8&amp;t=727s Pearl Gets A Brain]&lt;br&gt;[https://www.youtube.com/watch?v=mkL3HLRV8H8&amp;t=2066s Entering Atlanta] || 早年影劇突發危機轉場用
+|-
+|| [https://www.youtube.com/watch?v=mkL3HLRV8H8&amp;t=802s False Victory]&lt;br&gt;[https://www.youtube.com/watch?v=mkL3HLRV8H8&amp;t=2193s Atlanta Rumble] ||  早年影劇突發危機轉場用
+|-
+|| [https://www.youtube.com/watch?v=mkL3HLRV8H8&amp;t=1229s Marsh Fight]&lt;br&gt;[https://www.youtube.com/watch?v=mkL3HLRV8H8&amp;t=1564s Fighting The Big Guy] ||  早年影劇搏鬥危機轉場用
+|-
+|1984 Mike Oldfield《The Killing Fields/殺戮戰場》 || [https://www.youtube.com/watch?v=l9XpDo-HxMI Evacuation] ||《霹靂》✉️生死轉輪盤&lt;br&gt;《天宇》✉️[https://youtu.be/gAqhg19fX5o?t=116 三裁公(影子帝國軍師)] ||
+|-
+|rowspan = "3" |1990 何國傑《異域》||血戰||《霹靂》武皇半尺劍||全曲
+|-
+|| [https://www.youtube.com/watch?v=2PSkukvTUoo 長路] ||《霹靂》[https://youtu.be/oR0TX5IRLqg?t=53 素還真悲曲]||全曲
+|-
+|| ||《霹靂》心弦|| 全曲
+|-
+|rowspan = "2" |1995 何國傑《中國龍》||醉在笑談間 ||《霹靂》✉[https://www.youtube.com/watch?v=YnHYpgMbitg 銀座飆手]、✎[https://www.youtube.com/watch?v=SSzfOPc7qs0 晏君臨] ||
+|-
+||序曲 ||《霹靂》✉金小開登基 ||
+|-
+|1996 Craig Armstrong&lt;br&gt;《羅密歐與茱麗葉》  ||[https://www.youtube.com/watch?v=Nz59iqoDfB8 Gas Station Scene]||《天宇》醉刀大決戰&lt;br&gt;《聖俠》[https://www.youtube.com/watch?v=DvjJMBi5bY8 OP] ||剪輯
+|-
+| 1977 Vince DiCola《Rocky/洛基》|| [https://www.youtube.com/watch?v=77EJZ4r4xZI war] ||《金光》[[https://youtu.be/4ZnXlvLsJxA?t=520 早期震撼場面曲]] || 剪輯
+|-
+|| 1983 Lalo Schifrin《Sudden Impact 》||[https://www.youtube.com/watch?v=nhDzcWsuI0E Robbery Suspect] ||《霹靂》早期轉場曲 || 剪輯
+|-
+|rowspan = "2" | 1990 Eric Serra《Nikita /霹靂煞》||[https://www.youtube.com/watch?v=P_Ew_w4QbXAE Npokmop] ||《天宇》織網人 || 剪輯
+|-
+||[https://www.youtube.com/watch?v=jJPJBHcvrh8 I Am On Duty !]||《天宇》五方君 || 剪輯
+|-
+|| 1993王邦《仙鶴神針》||葉麗儀《[https://www.youtube.com/watch?v=gRw18ZeX7-w 莫問我是誰]》||《聖俠》失明女|| 採譜
+|-
+|| 1993胡偉立、袁卓凡《笑傲江湖之東方不敗》||《[https://www.youtube.com/watch?v=K-ECrv9b9vI 濃情]》||《霹靂》鬼王棺武戲|| 全曲
+|-
+|rowspan = "3" | 1981 Rick Wakeman《The Burning/煉獄》||[https://www.youtube.com/watch?v=BMxUbbGX4NQ The Chase]||早期險境常用||全曲
+|-
+||[https://www.youtube.com/watch?v=TQ8KcPrnuM4 Devil's Creek Breakdown]||滑稽場面常用||氾用度高的美式牧場曲風
+|-
+||[https://www.youtube.com/watch?v=CXcsixNT8zo Theme From The Burning]||||&lt;s&gt;總覺得在惡魔城系列聽過&lt;/s&gt;
+|-
+||1990 Jerry Goldsmith《Total Recall》|| [https://www.youtube.com/watch?v=kQsLmEwozGM The Dream]||《霹靂》異數OP、[https://www.youtube.com/watch?v=yv0hNZaVmPY 半邪郎]||剪輯
+|-
+||1987坂本龍一《末代皇帝》||[https://www.youtube.com/watch?v=MI5DyZXcHVI 主題曲]||《霹靂》萬教武尊、[https://www.youtube.com/watch?v=4tvveM0eJIM 蘅佛子]||剪輯、改編
+|-
+||1994 阿德、周志華、江建誼《單打雙不打》|| [https://www.youtube.com/watch?v=N6EeG1kxDw8 八二三砲戰]||《天宇》✉聖蓮&lt;br&gt;《金光》✉青海巫上師|| 專輯名《燈》
+|-
+||1994 Richard Gibbs《Blind Justice》||[https://www.youtube.com/watch?v=BHbRW62lOmk 主旋律] ||《霹靂》[https://www.youtube.com/watch?v=8PrI7f2Fa6I 雪鴉]|| 剪輯||
+|-
+|}
+
+== 來自電視劇 ==
+{| class="wikitable sortable" style="margin:auto;"
+|-
+! 原所屬作品 !! 曲名 !! 《編入劇集名》人物、場景 !! 改編方式 !! 備註 
+|-
+|| 1982Ennio Morricone&lt;br&gt;《Marco Polo》馬可波羅東遊記 || [https://www.youtube.com/watch?v=SJWwacmjbRg La grande marcia di Kublai] || 《金光》[[黑白郎君]]、[https://www.youtube.com/watch?v=RKgHpOmWSlI 兩極無罡]  || 剪輯、改編 ||RPG《霹靂奇俠傳》收錄改編版 
+|-
+| 1978 顧嘉輝《倚天屠龍記》 || 鄭少秋《[https://www.youtube.com/watch?v=nlDV8KqFP-w 倚天屠龍記]》主題曲 || 《金光》[https://www.youtube.com/watch?v=V5VzeSnsEOA 藏鏡人]&lt;br&gt;《天宇》一條龍&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=M0t1-HfeMfM 幽靈箭ED]、[https://www.youtube.com/watch?v=5588Fs0UMX0 認吾師] || 採譜、改編 || 在金光接續至霹靂的銜接期使用&lt;br&gt; RPG《霹靂奇俠傳》收錄三曲，但沒有使用到
+|-
+| rowspan = "2"  | 1980 顧嘉輝《上海灘》 || 葉麗儀《[https://www.youtube.com/watch?v=4tNg5N6hi1k 上海灘]》主題曲 || 《霹靂》紫錦囊 || 採譜 || 另有編入演奏版《中國的浪漫》專輯內，此處列出最早出處 
+|-
+| 葉麗儀《[https://www.youtube.com/watch?v=-455qgg63LU 萬般情]》 || 《霹靂》史菁菁 || 採譜 ||  
+|-
+|| 1976 顧嘉輝《書劍恩仇錄》 || 鄭少秋《[https://www.youtube.com/watch?v=ia0uuxJVNWs 書劍恩仇錄]》 || 《金光》[https://www.youtube.com/watch?v=Gtvs6L_GxMs  九九劍王]&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=DXlNj8xg6tw 殺生佛]、&lt;br&gt;《天宇》悟刀生 || 採譜 ||
+|-
+|| 1976 顧嘉輝《陸小鳳》 || 鄭少秋《[https://www.youtube.com/watch?v=K12J7z-Z6po 陸小鳳]》 || 《聖俠》凌霄星闕OP&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=y_A6xglhhuM 獨情古風一絕色] || 採譜、改編 ||
+|-
+|| 1976 顧嘉輝《陸小鳳之武當之戰》 || 鄭少秋《[https://www.youtube.com/watch?v=K12J7z-Z6po 誓要入刀山]》 || 《霹靂》天下第一素續緣 || 採譜 ||
+|-
+|| 1977 顧嘉輝《翡翠劇場》 || 羅文《[https://www.youtube.com/watch?v=XnVUmrq2t84 家變]》 || 《霹靂》史菁菁家庭悲情片段 || 全曲 ||
+|-
+|| 1977 顧嘉輝《網中人》 || 張德蘭《[https://www.youtube.com/watch?v=ZOaM1uZRfGo 網中人]》 || 《霹靂》史菁菁、&lt;br&gt;《天宇》龍之尊|| 採譜 ||使用《中國的浪漫》配樂曲源
+|-
+|| 1980 顧嘉輝《千王之王》 || 《[https://www.youtube.com/watch?v=Hg4ZB0MGfzE 千王之王]》 || 《霹靂》諸葛貫日 || 全曲 ||
+|-
+|| 1981 顧嘉輝《烽火飛花》 || 鄭少秋《[https://www.youtube.com/watch?v=8ou4dU5GFn0 烽火飛花主題曲]》 || 《霹靂》[https://www.youtube.com/watch?v=E7BFsdwAo7g 左連心]、[https://www.youtube.com/watch?v=vtPRE-VH4wE&amp;t=1m07s 葉小釵現身] || 採譜 ||
+|-
+|| 1983 顧嘉輝《射鵰英雄傳》 || 羅文、甄妮《[https://www.youtube.com/watch?v=1PCBWNMajKk 鐵血丹心]》||《霹靂》早期過場伴奏、&lt;br&gt;《聖章》[https://www.youtube.com/watch?v=93VNphas9l0 鋒雲界ED] || 採譜 ||
+|-
+|| 1984 顧嘉輝《決戰玄武門》 || 鮑翠薇《[https://www.youtube.com/watch?v=Psbh8M8XOTo 夢裡幾番哀]》 || 《霹靂》雲路天宮&lt;br&gt;《天宇》馡雲、牧雲 || 採譜 ||
+|-
+|| 1985 顧嘉輝《碧血劍》 ||  蔡楓華、陳秀雯《[https://www.youtube.com/watch?v=By_HPep7-KA 情冷情熱]》 || 《霹靂》[https://www.youtube.com/watch?v=rbK5cIWJAg4 燕渡關1]、[https://www.youtube.com/watch?v=DD4ZbIJwvKI 2] || 採譜 ||
+|-
+|| 于舞1978《浣花洗劍錄》 || 張國榮《[https://www.youtube.com/watch?v=uVBSyz4tVaw 浣花洗劍錄]》 || 《霹靂》[https://www.youtube.com/watch?v=S1g96yt_Lfo 斯文客] || 採譜 || 
+|-
+|| 1984亞視《武則天》 || 張南雁《[https://www.youtube.com/watch?v=nn6FUmcjvY8 知我無情有情]》 || [https://www.youtube.com/watch?v=cX1fhu-KgDg&amp;t=6m55s 常用壯烈悲情曲] || 採譜 ||
+|-
+|| 1978 黎小田《天蠶變》 || 關正傑《[https://www.youtube.com/watch?v=upt6THj4ry8 天蠶變]》|| 《金光》天羅影、[https://www.youtube.com/watch?v=gU0pw80Iefc 網中人]、&lt;br&gt;[https://www.youtube.com/watch?v=TjlrkEwOWC4 入世邪郎]、[https://www.youtube.com/watch?v=7LYoCE0tShc 妖神羅網]、 || 採譜、改編 || [https://www.youtube.com/watch?v=a7Z0_MapHSA 羅網邪郎]僅保留前奏
+|-
+|| 1979 黎小田《天龍訣》 || 關正傑《[https://www.youtube.com/watch?v=72vEWKBlBkE 天龍訣]》|| 《霹靂》[https://www.youtube.com/watch?v=vml8nMik7DM 綵劍竹水琉] || 改編 || 
+|-
+|| 1980 黎小田《人在江湖》 || 關正傑、雷安娜《[https://www.youtube.com/watch?v=Y2IbY4LREOM 人在旅途灑淚時]》|| 《霹靂》史菁菁與獨眼龍、蓋定天罡正傳 || 採譜 || 使用《醉心集》曲源，陳進興重新編曲
+|-
+|| 1979 黎小田《怒劍鳴》 || 李龍基《[https://www.youtube.com/watch?v=5kSm7IWb8yU 怒劍鳴]》 || 《霹靂》《天宇》常用轉折曲 || 採譜 || 只使用前奏
+|-
+||1980 黎小田《太極張三豐》||葉振棠《[https://www.youtube.com/watch?v=6qVkiJbwLg8 太極張三豐]》||《金光》[https://www.youtube.com/watch?v=HmnJxyBDlxc 九五至尊劍OP]||採譜||
+|-
+|| 1980 黎小田《大地恩情》 || 關正傑《[https://www.youtube.com/watch?v=UMT3-7FdjrE 大地恩情]》|| 《霹靂》太黃君&lt;br&gt;《天宇》黃傘金夕雨 || 採譜 || 
+|-
+|| 1985 黎小田《武林世家》 || 張國榮《[https://www.youtube.com/watch?v=SfWmLBXO28U 浮生若夢]》 || 《霹靂》夢幻奇女 || 採譜 || 
+|-
+| rowspan = "2"  | 1992 黎小田《仙鶴神針》 || 葉麗儀《[https://www.youtube.com/watch?v=WiSfCElivGc 仙鶴情緣]》&lt;br&gt;思念、[https://www.youtube.com/watch?v=sAWF8i0Z5Zw 浪漫的旋律] || 《聖俠》待天時與雪瑩子&lt;br&gt;《神魔》孤存 || 採譜 || 
+|-
+||葉麗儀《[https://www.youtube.com/watch?v=WM62G5G79G0 一生只有這天]》||《霹靂》[https://www.youtube.com/watch?v=Umlfp07_u2M 千層雪萬縷絲]||採譜||
+|-
+| 1976 黄霑 佳視《射鵰英雄傳》 || 林穆[https://www.youtube.com/watch?v=2FbA0xI20Pg 誰是大英雄] || 《霹靂》[https://www.youtube.com/watch?v=6JzC41ee-sI 談無欲/素還真]、[https://www.youtube.com/watch?v=Vrhu7fGWunU 霹靂會主題曲]、[https://www.youtube.com/watch?v=2dxHJoABIv4 白無垢]&lt;br&gt;RPG《霹靂奇俠傳》[https://www.youtube.com/watch?v=Cg-njxWCV1M&amp;8m 開場][https://www.youtube.com/watch?v=OH0ufNkVXmU 翠環山鋼琴曲]、無欲天場景曲 || 全曲、採譜、改編 || [https://www.youtube.com/watch?v=U3LGGFGCg4U 確實是談無欲先用]的沒錯…&lt;br&gt;原曲亦有許冠傑[[麻將]]改編版[https://www.youtube.com/watch?v=Kqjn8jFJ3pI 《打雀英雄傳》]與變奏版[https://www.youtube.com/watch?v=wRKOOFBEp_I 徐小鳳《神鵰與射鵰》]&lt;br&gt;張學友演唱[https://www.youtube.com/watch?v=ZGif3AwJh2M 《東成西就》版]&lt;br&gt;後改編入白無垢的尾聲、至[https://www.youtube.com/watch?v=8qZdf-deMGo 爭王記版]只保留前奏的2個音符
+|-
+| rowspan = "4"  | 1993 黃霑、鮑比達《情定少林寺》 || [https://www.youtube.com/watch?v=EZsMjqoJQX4 少林雄風]&lt;br&gt;[https://www.youtube.com/watch?v=PMk52-57Zyo 對峙]&lt;br&gt; || 《天宇》銀河行&lt;br&gt; || 全曲 || 幾乎整套CD都包給銀河行了 
+|-
+| [https://www.youtube.com/watch?v=sFn7GSE4WWI 斷情殤] || 《天宇》銀河行清白湖 || 全曲 ||  
+|-
+| 菩提樹 || 《天宇》銀河行上天&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=bbbvhP6028E 嵐月偃雲溪] || 全曲、改編 ||  
+|-
+| 定情 || TVB《神鵰俠侶》[https://www.youtube.com/watch?v=cVEDGC4Q6YI 場景曲]] || 全曲 ||  
+|-
+| 羅文《名劍風流》 || [https://www.youtube.com/watch?v=Txo8HS3Ji9Q 名劍風流] || 《霹靂》[https://www.youtube.com/watch?v=VZ6IOueAF4A 冷劍白狐]/[https://www.youtube.com/watch?v=vZ0xMfojvTU 天禍妖狐] || 採譜 ||  
+|-
+| 1988徐日勤《八月桂花香》 || 羅文[https://www.youtube.com/watch?v=78SNRnHEPJA 塵緣] || 《天宇》太陽的故鄉 || 採譜 ||  
+|-
+| 1991徐嘉良《蜀山奇俠之仙侶奇緣》 || 温兆倫 /陳松齡《[https://www.youtube.com/watch?v=E09fThBlW8k 正義柔情永在]》 || 《霹靂》[https://www.youtube.com/watch?v=zFF9T0s1NrA 傲笑紅塵]、[https://www.youtube.com/watch?v=-LySEqxK8Hg 晏定邦]  || 全曲、採譜 || 後改編為[https://www.youtube.com/watch?v=dgFQaZROyHI 傲笑紅塵新版]
+|-
+| 《X檔案》 || [https://www.youtube.com/watch?v=HQoRXhS7vlU 主旋律] || 《天宇》[https://www.youtube.com/watch?v=D8jBvKJU7us 劍苗小雙] || 全曲 ||  
+|-
+| rowspan = "3"  | 《必殺》系列 || 《必殺仕事人》[https://www.youtube.com/watch?v=HtGi2BKIf2o 仕置のテーマ]&lt;br&gt;山下雄三[https://www.youtube.com/watch?v=KaBTj80nJbc 葵三音子]、[https://www.youtube.com/watch?v=j9gUWwioRPo 荒野の果てに] || 《霹靂》黑夜奔雷、射日必殺組&lt;br&gt;《金光》金刀法王 || 全曲 ||  
+|-
+| |《必殺仕置人》三井由美子《[https://www.youtube.com/watch?v=pJ7tQ6TD0pc やがて愛の日が]》 || 《黑河戰記》浪子丹異鄉失意 || 全曲 ||
+|-
+||[https://www.youtube.com/watch?v=SOCDlieuz4Y 浜の真砂は尽きるとも] || 《霹靂》[https://youtu.be/q50sWm-UUS8?t=72 亡命之花] || 全曲 ||
+|-
+| 《[[超人力霸王系列|ウルトラマン]]ダイナ》 || [https://www.youtube.com/watch?v=puEntiY5Wkc 対決！怪獣対スーパーGUTS] || 《霹靂》晏君臨初登場 || 採譜 ||  
+|-
+| 1994央視版《[[三國]]演義》香港版 || 葉振棠－[https://www.youtube.com/watch?v=trai-HM8z04 粵語版主題曲] || 《聖俠傳奇》凌霄星訣OP&lt;br&gt;《天宇》[https://www.youtube.com/watch?v=gCbfTgYln08 秋八月] || 採譜 ||
+|-  
+| 《恐竜戦隊ジュウレンジャー》 || [https://www.youtube.com/watch?v=uwA_tPWYqkI 主旋律] || [https://www.youtube.com/watch?v=mCQrHzVZyCs 《美味天王》]|| 剪輯 ||  
+|-
+| 2001《青蛇與白蛇》 || 主旋律－[https://www.youtube.com/watch?v=adjooK1ZPds 人間情] || 《天宇》吊天壁場景曲]&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=pPS8XawPBRA 浮華塵世如雲煙]&lt;br&gt;電視劇版《風雲雄霸天下》[https://www.youtube.com/watch?v=E4y3qaVKm38 孤星獨吟] || 全曲、改編 ||  
+|-
+| 1976NHK大河ドラマ《風と雲と虹と》 || [https://www.youtube.com/watch?v=NDsp0j8rBmE 主旋律]&lt;br&gt;加藤剛[https://www.youtube.com/watch?v=1PRt9qfGaOk 主題曲] || 《霹靂》[https://www.youtube.com/watch?v=s3kXQJ_fMMI 無忌天子] || 採譜 ||
+|-
+| 1982NHK大河ドラマ《峠の群像》 || [https://www.youtube.com/watch?v=LlDwY5zJdfM&amp;t=76s 主旋律] || 《霹靂》金陽聖帝&lt;br&gt;《天宇》半截至尊 || 全曲 ||
+|-
+| 1988NHK大河ドラマ《武田信玄》 || [https://www.youtube.com/watch?v=9cE66aYruX8 主旋律] || 《霹靂》血戰南霸天 || 全曲 ||
+|-
+| 1987NHK大河ドラマ《獨眼龍政宗》 || [https://www.youtube.com/watch?v=8HAcV32npio 主旋律] || 《霹靂》冰鋒箭無形 || 全曲 ||
+|-
+| 1991NHK大河ドラマ《太平記》 || [https://www.youtube.com/watch?v=6X2LtNMzq3s 主旋律] || 《霹靂》[https://www.youtube.com/watch?v=QL0qGqd_Tu4 傲笑紅塵八陣灘開殺] || 剪輯 ||
+|-
+|| 《服部半蔵 影の軍団》 ||[https://www.youtube.com/watch?v=dHE0KmUKbN4 影の軍団Ⅳ（幕末編）OP] || 《霹靂》英雄榜錄影帶版ED || 剪輯 ||
+|-
+|| 1979 菊池俊輔《長七郎天下御免》 || [https://www.youtube.com/watch?v=c7u77TMpV-8 OP] || 《金光》金王子、小金剛、[https://www.youtube.com/watch?v=jR_NF3YPGzk&amp;t=1m52s 三缺浪人武戲]&lt;br&gt;《霹靂》白髮小金剛武打曲 || 剪輯 || 早期童星常用
+|-
+| 1972 《荒野の素浪人》 || [https://www.youtube.com/watch?v=za6V5LulNiw 主旋律] || 《金光》神劍魔刀六合魂OP&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=B7fz9M9BpCc 史貞忠]、[https://www.youtube.com/watch?v=UCkzWMOttzA 黑面亂世狂刀]&lt;br&gt;《天宇》鬼嚎銅盾 || 全曲 ||
+|-
+| 渡邊宙明1980《電子戦隊デンジマン》 || [https://www.youtube.com/watch?v=3AWrAFUsqmw 主旋律] || 《霹靂》霹靂劫TV版OP || 全曲 || 收錄於《高福順影集配樂大全四-CD1]》"19.霹靂劫片頭曲-衛視"
+|-
+|| 1995港劇《刀馬旦》 || 《[https://www.youtube.com/watch?v=nP_j3VRG-v4 紅伶怨]》 || 《天宇》[https://www.youtube.com/watch?v=VvIWahnUcHI 怒雨飛龍-飛雲覆月時期] || 採譜 ||
+|-
+|| 冨田勲 NHKスペシャル《大モンゴル》||蒼き狼~[https://www.youtube.com/watch?v=q6cGseGTf1A メイン・テーマ] || 《霹靂》大汗之野 || 剪輯 ||
+|-
+| rowspan = "3" | 1991小蟲、鮑比達、李宗盛《碧海情天》 || [https://www.youtube.com/watch?v=RnQIjSUI2hM 獨領風騷] || 《天宇》[https://www.youtube.com/watch?v=RnQIjSUI2hM 賭命天九] || 全曲 ||
+|-
+| [https://www.youtube.com/watch?v=m3ju783QVH0 凡心大動] ||《霹靂》小霸王 || 全曲 ||
+|-
+| [https://www.youtube.com/watch?v=IzAq6kEVzeA 天網恢恢] || 《神魔》太子劍指學千秋 || 剪輯 ||
+|-
+|| 暴坊將軍系列 || 北島三郎《[https://www.youtube.com/watch?v=XEyBTt8xST8 炎の男]》 || 《霹靂》[https://www.youtube.com/watch?v=FAXr3nBoKH0 吐氣的男性]、[https://www.youtube.com/watch?v=Pv2iUsnjS2A 海至海枯地亦荒][ || 翻唱、採譜 ||
+|-
+| rowspan = "2" | 1979 高橋達也《西部警察》||[https://www.youtube.com/watch?v=pQSgG914M0s ダーティー・ヒーロー] ||《霹靂》劍藏玄、PC幽靈箭－大汗之野BGM&lt;br&gt;《天宇》一好漢|| 剪輯 ||
+|-
+|| [https://www.youtube.com/watch?v=HdCmM0rIfgQ サラブレッド] ||《霹靂》九霄鐵籠帆 || 全曲 ||
+|-
+|1979 SHOGUN《俺たちは天使だ》||《ヤバイ仕事もメシのタネ[M-12]》||《金光》[[https://www.youtube.com/watch?v=Fyy9NzjudDU  閻王使]]||全曲||
+|-
+|1983 京建輔《科学戦隊ダイナマン》||[https://www.youtube.com/watch?v=9Xq7FuiuFks 主題曲] ||《霹靂》[https://youtu.be/61fWPSdMVOM?t=177 小金剛武戲] || 採譜 ||
+|-
+| rowspan = "2" | 1990 鈴木けんじ《地球戦隊ファイブマン》||影山ヒロノブ《[https://www.youtube.com/watch?v=_RBoM_IdhqQ 五つの心でファイブロボ]》 ||《天宇》[https://www.youtube.com/watch?v=Uay1lDIEX5o 結尾用配樂]|| 採譜 || 台灣職棒桃猿隊[https://www.youtube.com/watch?v=LLVuhW6lgaA 朱育賢應援曲]
+|-
+||スターキャリア出撃 ||《霹靂》[https://www.youtube.com/watch?v=0EFN3eUKTzI 天命OP] || 全曲 ||
+|-
+|1989NHKスペシャル杉本竜一《北極圈II》|| || 《天宇》[https://www.youtube.com/watch?v=tPVq8fgGWzY 夢幻畫者]&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=21DBSmHI9bE 百丈逃禪] || 全曲、改編 ||  
+|-
+|MECO《Star Trek》|| [https://www.youtube.com/watch?v=rehK7aIa7jc Star Trek Medley, Part 1] || 《金光》《霹靂》[https://youtu.be/pgmsZZu-0zs?t=110 早期戰鬥曲]|| 改編 ||  
+|-
+|| 1959 Dimitri Tiomkin《Rawhide》|| [https://www.youtube.com/watch?v=Uw_w-L9SdIM Themesong] || 《霹靂》[[https://www.youtube.com/watch?v=KXMIGUCQLpo 秦假仙（劍魂~異數時期）]] || 採譜 ||   
+|-
+|| 1991左宏元《太陽雨》||高勝美《[https://www.youtube.com/watch?v=KRf0wUdTNBg 太陽雨]》||《天宇》[https://www.youtube.com/watch?v=dKoyLjy8hzs 驚天九龍OP1][https://www.youtube.com/watch?v=xjqP4Q7PCNs 2] ||採譜 ||使用《醉心集》[https://www.youtube.com/watch?v=3KejUVEUNIM 曲源]，陳進興重新編曲
+|-
+|| 1975橋幸夫《[https://www.youtube.com/watch?v=p0nMo1U5VRI 子連れ狼]》||鄭少秋《[https://www.youtube.com/watch?v=6lkXYA-bRds 天涯孤客]》||《殭屍道長》||翻唱、採譜||
+|-
+|}
+
+== 來自歌曲 ==
+{| class="wikitable sortable" style="margin:auto;"
+|-
+! 原所屬作者/首唱 !! 曲名 !! 《編入劇集名》人物、場景 !! 改編方式 !! 備註 
+|-
+| rowspan = "2"  | 森進一 || 《[https://www.youtube.com/watch?v=1nUbIWKwEDA 港町ブルース]》 || 《金光》[https://www.youtube.com/watch?v=9yOq7aYnC_0 苦海女神龍] || 翻唱 || [https://www.youtube.com/watch?v=d0Zdar4SPhA 港町ブルース]在日語、華語圈中各有不少翻唱、換詞的版本，最有名的即是《苦海女神龍》 
+|-
+|| 《[https://www.youtube.com/watch?v=4MlA1gx5rVM 男の真情]》|| 《霹靂》 [https://youtu.be/cj_jmp0QsJ4?t=224 金少爺初期]&lt;br&gt;《天宇》一好漢初期 || 採譜 ||
+|-
+||George Gershwin&lt;br&gt; 1927《Porgy &amp; Bess》 ||Bessie Griffin&lt;br&gt;[https://www.youtube.com/watch?v=2NDwW8onaoA Sometimes I Feel Like A Motherless Child] &lt;br&gt;[https://www.youtube.com/watch?v=O7-Qa92Rzbk Summertime]  || 《金光》[https://www.youtube.com/watch?v=Q0xkhl8pEDE 孝女白瓊1台日混編版] /[https://youtu.be/mR1WFvqWKcQ?t=68 白蔥蔥] || 翻唱 ||原歌改編自東歐民謠《 [https://www.youtube.com/watch?v=kMG9K9YDGFA Ой ходить сон коло вікон]》&lt;br&gt;黃俊雄[https://www.sim.org.tw/festival79.html 隨台灣殯葬業的排場盛況塑造]的角色，本曲也是告別式/哭墓場面常見的播放曲  
+|-
+|| 1970 Tony Olando||《[https://www.youtube.com/watch?v=KjGhO4B923Y Knock Three Times]》||《金光》[https://www.youtube.com/watch?v=8uqs3abyGpU 怪俠鐵烟斗]||翻唱||
+|-
+||三橋美智也  ||中野忠晴《[https://www.youtube.com/watch?v=G4dDWvHJNko 達者でナ]》||華視《保鑣》[https://www.youtube.com/watch?v=BwYDxxvyUtc 主題曲1]、[https://www.youtube.com/watch?v=tk-3orEUYtk 2]、[https://www.youtube.com/watch?v=vI3gmUjn7mM 粵語版]、&lt;br&gt;中視《保鑣》[https://www.youtube.com/watch?v=mQGNecodG2I 主題曲]|| 改編||翻唱台語版《[https://www.youtube.com/watch?v=zG8zOvAlXEM 可愛的馬]》、國語版《[https://www.youtube.com/watch?v=8Zl0NorS9Ng 心愛的馬]》
+|-
+| 北島三郎 || 《[https://www.youtube.com/watch?v=upLJIuS3W70 盃－さかづき]》 || 《金光》[https://www.youtube.com/watch?v=HSAISlrcj7Q 冷霜子] || 翻唱 || &lt;s&gt;原曲進入黑社會而翻唱是金盆洗手轉正途的異例&lt;/s&gt;，自首唱葉啟田後有多位歌手重新翻唱，&lt;br&gt;竟然也在霹靂[https://www.youtube.com/watch?v=lrSW1StVzv0 編入插曲宣傳] 
+|-
+| 北原謙二 || 《[https://www.youtube.com/watch?v=ukwTAxOvlq4 夢で泣け]》 || 《金光》[https://www.youtube.com/watch?v=-5t6ywpGXjg 恨世生] || 翻唱 || 另名"愛與恨"、國語版"昨夜夢醒時"、[https://www.youtube.com/watch?v=b5Ni7bnu_1o 總集版] 
+|-
+| rowspan = "2"  | 美空ひばり || 《[https://www.youtube.com/watch?v=BckQRA-7HGU この道を行く]》 || 《金光》[https://www.youtube.com/watch?v=40pne9CzCy0 命運青紅燈] || 翻唱 ||  
+|-
+||《[https://www.youtube.com/watch?v=5GCF59tekYw 芸道一代]》|| 《金光》錢鼠海棠紅－[https://www.youtube.com/watch?v=FRgwbKLGPSI 為錢賭性命] || 翻唱 ||  
+|-
+| 島倉千代子 || 《[https://www.youtube.com/watch?v=PVvLv5DyUGw 鳳仙花]》 || 《霹靂》[https://www.youtube.com/watch?v=xFQIrE1suvE 燈下的人] || 翻唱 || 與上者同為史菁菁初期配樂
+|-
+| 菊池章子 || 《[https://www.youtube.com/watch?v=HkOADlo1f9U 支那むすめ]》 || 《金光》[https://www.youtube.com/watch?v=8emHn_8A1CU 廣東花] || 翻唱 ||  
+|-
+| 菅原都々子 || 《[https://www.youtube.com/watch?v=M3Ebkzoipnk 北上夜曲]》 || 《霹靂》[https://www.youtube.com/watch?v=uj4by0qw_ao 紅扇子] || 翻唱 ||  
+|-
+| 藤圭子 || 《[https://www.youtube.com/watch?v=clODHcd8VNk 可愛い女]》 || 《霹靂》[https://www.youtube.com/watch?v=fyVBXp0Vp_s 枯葉]、[https://www.youtube.com/watch?v=CLqFww9cETA 霹靂劫OP]、[https://www.youtube.com/watch?v=7uZeiYbmCKA 天闕ED2] || 採譜 ||  
+|-
+| rowspan = "2"  | 小林幸子||   《[https://www.youtube.com/watch?v=SSPq4eoZj54 別れ]》 || 《霹靂》普九年 || 採譜 ||
+|-
+|| [https://www.youtube.com/watch?v=wTZBMcmdqSc ひと晩泊めてね] || 《金光》[https://www.youtube.com/watch?v=wN-MQPS6DWs 野流星1]、[https://www.youtube.com/watch?v=0GCIOO9nJ-g 野流星2（火金姑）] || 翻唱 ||
+|-
+| Animals動物合唱團 || [https://www.youtube.com/watch?v=wDlrRQ6Yzis House Of The Rising Sun] || 《六合三俠傳》[https://www.youtube.com/watch?v=ee5FMfN20GE 大節女] || 翻唱 || 較少數的西洋音樂採樣 
+|-
+| Micheal Jackson || 《[https://www.youtube.com/watch?v=sOnqjkJTMaA Thriller]》 || 《霹靂》飄行屍 || 剪輯 || 電視版《霹靂真象》使用
+|-
+| Paul Hardcastle || 《[https://www.youtube.com/watch?v=gQ6mdLwWn_M 19]》 || 《霹靂》海外飛飛摩天客 || 採譜 || 電視版《霹靂俠蹤》使用
+|-
+| 陳小雲 || 《[https://www.youtube.com/watch?v=zdogmznNF24 杯中影]》|| 《美猴王》[https://www.youtube.com/watch?v=vFy2lbOfKCk 靈霄美人杯中影]&lt;br&gt;印度電影《Premaloka》插曲[https://www.youtube.com/watch?v=7eHhkJPoOmY Premalokadinda] || &lt;center&gt;&lt;b&gt;特例&lt;/b&gt;&lt;/center&gt; || &lt;b&gt;先有台語歌曲後被翻譯為日文版《[https://www.youtube.com/results?search_query=%E3%82%B0%E3%83%A9%E3%82%B9%E3%81%AE%E9%9D%A2%E5%BD%B1 グラスの面影 ]》，後續被改編為印度語版，&lt;br&gt;在以吸收+翻唱日本演歌為尚的台語歌界可說絕無僅有的逆向輸出異例&lt;/b&gt;
+|-
+| rowspan = "2"  | 橋幸夫 || 1965《あの娘と僕》電影主題曲&lt;br&gt;《[https://www.youtube.com/watch?v=yudKXdAtMfc スイムスイムスイム]》 || 《美猴王》[https://www.youtube.com/watch?v=n-qEMKaGRds 美噴噴]、&lt;br&gt;《金光》[https://www.youtube.com/watch?v=ah3CSKfIru4 爍爍俊]&lt;br&gt;民視《西遊記2011版》－[https://www.youtube.com/watch?v=P57_nkETk6k 水噴噴] || 採譜、翻唱 ||  
+|-
+| [https://www.youtube.com/watch?v=O7HwYGLsycc 《今夜は離さない》] || 《霹靂》無不愛 || 採譜 ||  
+|-
+| rowspan = "4"  | 八代亜紀 || 《[https://www.youtube.com/watch?v=snuDYIvYMW0 あなたに逢いたい]》 || 《金光》武瑤琴－[https://www.youtube.com/watch?v=yaFDnaEOnJA 愛情的鎖鍊] || 翻唱 ||  曲調略有差異
+|-
+|| 《[https://www.youtube.com/watch?v=VzuSYO-gSwk 女心は港の灯]》 || 《金光》玉芙蓉[https://www.youtube.com/watch?v=2skIy_M6XsQ 粉紅色的腰帶] || 翻唱 ||  
+|-
+| 《[https://www.youtube.com/watch?v=MtN6Bh1Wm3A うみねこ]》[[海貓悲鳴時|海貓]] || 《霹靂》[https://www.youtube.com/watch?v=wxvgeSpgLVw 照世明燈]、[https://www.youtube.com/watch?v=VzprCEfGWRk 盼夢圓]、[https://www.youtube.com/watch?v=e4E_8ivmIrk 風塵續曲] || 採譜、配唱 || 後期亦改編入照世明燈[https://www.youtube.com/watch?v=9Ztq81k53vw "爭王記"]、[https://www.youtube.com/watch?v=wxlDKkK3_rQ "轟霆劍海錄"]新版&lt;br&gt;另有洪榮宏翻唱《[https://www.youtube.com/watch?v=5hkOvh_cNC4 我的真情感動你]》
+|-
+| 《[https://www.youtube.com/watch?v=nFPRKHLOhRY かもめの歌]》 || 《霹靂》[https://www.youtube.com/watch?v=ibZNHaBYs1E 非凡公子]、[https://www.youtube.com/watch?v=yf2tWaxQsHw 非凡公子江湖血路版]&lt;br&gt;RPG《霹靂幽靈箭》血道天宮 || 採譜 ||  
+|-
+| 坂本冬美 || 《[https://www.youtube.com/watch?v=5JpcCTIcg4c 祝い酒]》 || 《金光》[https://www.youtube.com/watch?v=k7MarwShhdE 酷行郎]&lt;br&gt;《霹靂》天行奇俠 || 翻唱、&lt;br&gt;全曲 ||  
+|-
+| 森昌子 || 《[https://www.youtube.com/watch?v=a4LiCDjfIkE 北寒港]》 || 《霹靂》[https://www.youtube.com/watch?v=ZNKPfWFYMV0 非常女] || 翻唱 ||  
+|-
+| 天童よしみ || 《[https://www.youtube.com/watch?v=hOHASoSMbLo 積丹半島]》 || 《霹靂》神秘女郎 [https://www.youtube.com/watch?v=I6vxUnCzyGk 笑看人生] || 翻唱 ||  
+|-
+| Steve McDonald（史提夫．麥唐納） || 《[https://www.youtube.com/watch?v=cDrNQcG_RS4 Sons of Somerled （征服四海）]》 || 《金光》[https://www.youtube.com/watch?v=w6T3AufeeCw 純純的男子漢] || 翻唱 ||  
+|-
+| 宇多田 ヒカル || 《[https://www.youtube.com/watch?v=QPMRawP8ItM time will tell]》 || 《金光》[https://www.youtube.com/watch?v=2VZ2mL2JDis 你敢知] || 翻唱 ||  
+|-
+| 邰正宵 || 《[https://www.youtube.com/watch?v=HhxlPwBfmho 九百九十九朵玫瑰]》 || 《天宇》[https://www.youtube.com/watch?v=k-NSuCiVGYA 千少一] || 全曲、採譜 || 幾乎是以此曲發想而創作出的角色，另外《九'》該歌也有採譜自《彛族舞曲》與B'Z《月光》的原創爭議 
+|-
+| 《Carmina Burana》布蘭詩歌 || &lt;s&gt;[[成句/哥哥你好英俊|哥哥你好英俊]]&lt;/s&gt;&lt;br&gt;《O Fortuna》 || 《天宇》[https://www.youtube.com/watch?v=73t-LLIma2Q&amp;t=2m57s 神蝶]、&lt;br&gt;《金光》[https://www.youtube.com/watch?v=0NXrIhwXK0E 九天盤片頭] || 剪輯 ||  
+|-
+| rowspan = "2"  | 施孝榮 || 《[https://www.youtube.com/watch?v=87Al_Hn3UxM 赤壁賦]》 || 《美猴王》彎刀魔斬&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=uR3QGbpI2zY 女超人] || 採譜 ||  
+|-
+|| 《[https://www.youtube.com/watch?v=rCRVpRDcygc 俠客]》 || 《霹靂》玉超群 || 採譜 ||  
+|-
+| 山川豐 || 《[https://www.youtube.com/watch?v=mpVIz_zuIxA  流氷子守歌]》 || 《金光》[https://www.youtube.com/watch?v=OCwdGUPmCFs 西北風]/[https://www.youtube.com/watch?v=albSo99dgQM 哲無書]&lt;br&gt;《天宇》[https://www.youtube.com/watch?v=XlERv7mKctc&amp;t=1m44s 盲三少]&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=p5EWzu7C8qA 珠婆婆] || 翻唱、採譜、改編 || 少數能橫跨三家系列的逸曲
+|-
+| 姜育恆 || 《[https://www.youtube.com/watch?v=ehd29b9f3KY 多年以後]》 || 《霹靂》葉小釵 || 全曲、翻唱 || [https://www.youtube.com/watch?v=HpCfpXHvYqE 年輕時四處拜師的過場曲]，&lt;s&gt;當初應該沒有授權&lt;/s&gt;，後來拍攝[https://www.youtube.com/watch?v=6YlKMIm4Ngw 專屬的紀念MV]作為交代 
+|-
+| &lt;s&gt;費玉清&lt;/s&gt;細川たかし || &lt;s&gt;《[https://www.youtube.com/watch?v=u6sDBgj3Ljo 今夜擱再想你]》&lt;/s&gt;&lt;br&gt;《[https://www.youtube.com/watch?v=-nt3HfszjB4 望郷じょんから]》 || 《天宇》缺角[https://www.youtube.com/watch?v=u6sDBgj3Ljo "今夜擱再想你"]&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=0f26syPHNGE 雅瑟風流初登場] || 翻唱、改編 ||  
+|-
+| 費玉清 || 《大阪城的姑娘》 || 《霹靂》金少爺 || 全曲 || 毀容治好後換造型重出是最後一次唱 
+|-
+| 費玉清 || 《[https://www.youtube.com/watch?v=w6tCoQeTv2Q 夢駝鈴]》 || 《天宇》[https://www.youtube.com/watch?v=dXxw6dywS4o 杜鳳兒初現] || 改編 || 
+|-
+| rowspan = "2"  | 千昌夫|| [https://www.youtube.com/watch?v=GtTMrxmWQvY 望郷酒場]|| 《霹靂》[https://youtu.be/js7lbKJTW0M?t=268 孤獨愁] ||採譜 ||
+|-
+|| [https://www.youtube.com/watch?v=yyc1hjjzvA8 夕焼け雲] || 《霹靂》宋餘暉 || 採譜 || [https://www.youtube.com/watch?v=q0qSZYaIcXE 新版前奏不同] 
+|-
+| 江音 || 《風塵淚》 || 《霹靂》風采鈴 || 全曲 || &lt;s&gt;後來無忌天子跟傲笑紅塵還重拍過當時歌曲畫面&lt;/s&gt; 
+|-
+| 葉璦菱 || 《我心已打烊》 || 《霹靂》彎月 || 全曲 ||  
+|-
+| 葉蒨文 || 《瀟灑走一回》 || 《霹靂》釵頭鳳 || 全曲 ||  
+|-
+| Chyna || [https://www.youtube.com/watch?v=fE29KOSSxYw Within You'll Remain] || 《天宇》數理命皇 || 全曲 ||  
+|-
+| （美國原住民民謠） || 《The River is Flowing》&lt;br&gt;[https://www.youtube.com/watch?v=yE12JThdPpo Gila Antara版]  || 《霹靂》[https://www.youtube.com/watch?v=-0_92QbNjjk 掠食者] || 採譜 ||  另有《[https://www.youtube.com/watch?v=nnAa4utvMdA The River She Is Flowing]》、&lt;br&gt;《Fly Like an Eagle/Flight of the Hawk/鷹姿翱翔》是專輯名稱，&lt;br&gt;而不是曲名《The River is Flowing/滾滾河水》
+|-
+| Blue Murder|| [https://www.youtube.com/watch?v=hfsZ4EzSn80 Valley Of The Kings] || 《霹靂》[https://www.youtube.com/watch?v=alSuQYuCmPE 五暴魂] || 剪輯 ||  僅使用前奏&lt;s&gt;原聲帶版本不小心把刷弦剪進去了&lt;/s&gt;
+|-
+| 張明敏|| [https://www.youtube.com/watch?v=KzRV97M9Ywg 我的中國心] || &lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=YgE0qrw8cbA 神兵開幕詞]&lt;br&gt;《神魔》雙刀四劍齊現馬鳴飛峰 || 採譜|| 唱片曲源[https://www.youtube.com/watch?v=r9ofWm2fWi0 中視收幕樂]
+|-
+||Enigma || [https://www.youtube.com/watch?v=Xqb18bqNtEw The Rivers Of Belief] ||《天宇》翎劍少狂 || 剪輯 || 
+|-
+| 1957松山恵子||《[https://www.youtube.com/watch?v=fTbiH0twTeg 未練の波止場]》|| 《金光》[https://www.youtube.com/watch?v=hO50XcDmAug 愛奴]|| 配唱||
+|-
+|| 1985 高中正義||	[https://www.youtube.com/watch?v=e-aviN1PllI China]||《霹靂》[https://youtu.be/mPe8-9lKNs4?t=1207 早期武戲曲] || 改編 || 1985[[成句/完了完了，要變殭屍了|殭屍]]電影《殭屍先生/霊幻道士》[https://www.youtube.com/watch?v=MP0R4WmIlk8 日版宣傳主題曲]
+|-
+|| Rolling Rock滾石樂團 || [https://www.youtube.com/watch?v=O4irXQhgMqg Paint it black] || 《金光》[https://www.youtube.com/watch?v=aD46vKbcD2w 常用交戰曲] || 改編 ||
+|-
+|| 1967布施明 || [https://www.youtube.com/watch?v=sEzdmcOusBg 恋] ||《金光》[https://www.youtube.com/watch?v=ob0jgLiuLIU 六合原曲] || 採譜 ||
+|-
+|| 1975 Rick Wakeman《[[亞瑟王傳說|Arthur]]》||《[https://youtu.be/VExLG8E6tMA?t=418 Arthur]》||《金光》[https://www.youtube.com/watch?v=ns2Rhi7btXc 黃俊雄影視HV美地塢商標曲]、&lt;br&gt;《霹靂》霹靂門教主場面|| 採譜 ||
+|-
+|| (中世紀英國民歌)||《Scarborough Fair》[[https://www.youtube.com/watch?v=-BakWVXHSug 1]]||《天宇》胭脂龍|| 採譜 
+|-
+| rowspan = "2"  | 蕭玉芬＆方順吉＆方宥心||《[https://www.youtube.com/watch?v=wbuvuSi5Ptg 翹腳髯嘴鬚]》||《天宇》[https://www.youtube.com/watch?v=ScZaAeLuHik 小星(上官星)初期] || 全曲、採譜 || 算是三立影視的官方資源合理運用&lt;ref&gt;三立有經營綜藝歌唱比賽節目與發行歌手音樂帶，故直接向母公司三立取用歌手新歌做為宣傳並兼做為角色曲也是天宇一段時期的優勢&lt;/ref&gt;
+|-
+||《[https://www.youtube.com/watch?v=E9BjHQOM98E 強強滾]》||《天宇》 小星(上官星)初期 || 全曲、採譜 ||
+|-
+||1983關正傑||盧冠廷《[https://www.youtube.com/watch?v=yYNGMsaRczA 星河傳說]》||《霹靂》[https://youtu.be/4pVrj_ithpY?t=57 仇傘風雨生]||採譜 ||
+|-
+||The Doors||《[https://www.youtube.com/watch?v=VScSEXRwUqQ The End]》||《霹靂》[https://youtu.be/5noAh-_Wtz0?t=142 今生一劍]||採譜||
+|-
+||1966永六輔、いずみたく&lt;br&gt;《[https://www.youtube.com/watch?v=UcqfxF-cJOo いい湯だな]》||ザ・ドリフターズ《[https://youtu.be/AD2H3na9VwE?t=65 いい湯だな]》&lt;br&gt;《[https://www.youtube.com/watch?v=q-eTET8gX6A ドリフのビバノン音頭]》||《金光》黃西田[https://www.youtube.com/watch?v=OrDIOEp33pk 小兩齒三兄弟之歌]、林美莉[https://www.youtube.com/watch?v=tWvkCQPO82A 重唱版]||翻唱||知名喜劇節目《8時だョ!全員集合/全員大爆笑》[https://www.youtube.com/watch?v=R-qd-9QzNgA 謝幕曲]&lt;br&gt;另有鳳飛飛翻唱《[https://www.youtube.com/watch?v=yJg6X9Ptse8 愛人頂呱呱]》、郭大誠《[https://www.youtube.com/watch?v=nMxyNFyuDgw 愛人種西瓜]》、葉啟田《[https://www.youtube.com/watch?v=1gA-5k_3ZHw 誤會]》
+|-
+||鄧雨賢||《[https://www.youtube.com/watch?v=lUEVo1UfXWw 四季紅]》||《金光》[https://www.youtube.com/watch?v=TR34rqaQDVs 大頭和尚盤古公](三俠老和尚)||翻唱||
+|-
+|| Ozzy Osbourne||《[https://www.youtube.com/watch?v=USQGrE8JtY0 Centre of Eternity]》||《霹靂》慈航渡敲鐘||剪輯||
+|-
+|| 平尾昌晃||《[https://www.youtube.com/watch?v=EH52VsFaJ60 星は何でも知っている]》||《西遊記》[https://www.youtube.com/watch?v=RXXf-pDYDy8&amp;t=157s 三藏取經]|| 翻唱 ||台版翻唱為《[https://www.youtube.com/watch?v=AMgco1WDJIQ 星星知我心]》
+|-
+|}
+
+== 來自純音樂 ==
+{| class="wikitable sortable" style="margin:auto;"
+|-
+! 原所屬作品 !! 曲名 !! 《編入劇集名》人物、場景 !! 改編方式 !! 備註 
+|-
+|| （傳統北管戲曲） || 陰調 || 《金光》[https://www.youtube.com/watch?v=6ivMZEYkD4s 女暴君]&lt;br&gt;《大唐五虎將》[https://www.youtube.com/watch?v=YJujEY2A16w 梅君子]&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=8XBY24xsuqU 路光明] || 採譜 || 據傳因為曲調容易招陰，在傳統戲班視為禁忌，不輕易傳授 
+|-
+| rowspan = "2"  | （傳統民謠） ||《歡樂中國節》－[https://www.youtube.com/watch?v=X7ftc_Vdqx4 草螟弄雞公]|| 1983TVB《神鵰俠侶》[https://youtu.be/bUO0sLFmF5w?t=887 老頑童場景]、[https://youtu.be/bsyehs-lvAs?t=545 洪七公場景] || 全曲 || 難得有港劇取材台灣曲源的案例
+|-
+|《歡樂中國節》－[https://www.youtube.com/watch?v=7j3yqDfuTpw 小河淌水]|| 《隋唐演義》[[https://youtu.be/sBscOmgnSWY?t=634 程咬金主題曲]] || 全曲 || 原曲為雲南民謠《田梗調/大田栽秧》
+|-
+||（琵琶古曲） || 《十面埋伏/淮陰平楚》|| 1991《黃飛鴻之壯志凌雲》夜襲寶芝林&lt;br&gt;1993《射鵰英雄傳之東成西就》周伯通夜襲|| 採譜 ||
+|-
+| 1961 Edmundo Ros&lt;br&gt;《The new rhythms of the South》 || [https://www.youtube.com/watch?v=VBH12No-4Yg What a difference a day made ] ||《金光》[https://www.youtube.com/watch?v=7I1ctok3foA&amp;t=17m12s 藏鏡人舊版] || 剪輯 || 僅使用前奏
+|-
+| Los Bravos || 《[https://www.youtube.com/watch?v=QkwmSzPdVnY Black is Black]》||《金光》 [https://www.youtube.com/watch?v=MhjavQFjLyo 早期武戲曲] || 採譜
+|-
+| 斉藤英美《幻想組曲·地平天成組曲》 || 第6章－錦繡 || 《霹靂》崎路人 || 全曲 ||  
+|-
+| rowspan = "3"  | 陳雲山《[https://www.youtube.com/watch?v=eWvIcK8DR5g 封神榜琵琶協奏曲]》 || 01 Overtune序詩 || 《霹靂》[https://www.youtube.com/watch?v=CvsvH01T4zA 一頁書]&lt;br&gt;RPG《霹靂幽靈箭》齊天殿場景曲&lt;br&gt;《天宇》文冠天、天光堡一 || 剪輯、全曲、改編 || 
+|-
+| 03炮烙 || 《霹靂》玄真君 || 全曲 ||  
+|-
+| 12鄧嬋玉 || 《天宇》怒龍盤星、水中荷 || 全曲 ||  
+|-
+|| 陳雲山《中國音樂交響詩》 || 《[https://www.youtube.com/watch?v=Sep687YU-6g 龍之海]》 || 《霹靂》孔雀令錄影帶版OP、&lt;br&gt; 《天宇》[https://www.youtube.com/watch?v=xMygh5Ww6BA&amp;t=1m8s 怒雨飛龍現身] || 全曲 ||
+|-
+| 宗次郎《大黃河》 || 序曲 || 《天宇》兩卷書 || 全曲 ||  
+|-
+| rowspan = "18"  | SENS神思者 ||《茶之圓舞曲》 [https://www.youtube.com/watch?v=Q607M7XBR_4 Jambia Dance] || 《霹靂》六聰天乞 || 全曲 || "盛香珍瓜子"廣告曲&lt;br&gt;亦常見於其他描寫鄉村民情場面 
+|-
+| 《茶之圓舞曲》 [https://www.youtube.com/watch?v=_JHdjYJ0mV0 Happy Arabia] || 《霹靂》紫髮西施白文采、織夢師之夢仙谷&lt;br&gt;RPG《霹靂幽靈箭》南隱場景曲&lt;br&gt;《天宇》回音井 || 全曲 || &lt;s&gt;黃安[https://www.youtube.com/watch?v=lDkKHtaBGaY 《新鴛鴦蝴蝶夢》]參考此曲&lt;/s&gt;&lt;br&gt; 另有草蜢的《[https://www.youtube.com/watch?v=4dLE2uQMIJA 花雨飄]》重編
+|-
+| 《海上絲路三部曲－迦羅》[https://www.youtube.com/watch?v=g_TXkW-o86c&amp;t Anton] || 《霹靂》靈心異佛、玉天璣、[https://www.youtube.com/watch?v=zb62tHQ4Bn8 未來之宰]&lt;br&gt;《天宇》柳藏智 || 全曲、改編 || 
+|-
+| 《海上絲路三部曲－迦羅》[https://www.youtube.com/watch?v=6CZ41KREDvc 波亞之夜] || 《霹靂》血吻蝶&lt;br&gt;《天宇》搖命森羅扇 || 全曲 || 
+|-
+| 《海上絲路三部曲－迦羅》[https://www.youtube.com/watch?v=zQ-2-QDUoB8 妙音鳥] || 《霹靂》[https://www.youtube.com/watch?v=5kEPKIXBFnU 楓橋傳說] || 改編 || 常見於瓊瑤劇及港台劇柔情場面
+|-
+| 《海上絲路三部曲－迦羅》[https://www.youtube.com/watch?v=oUJ1EhHCGrM 迦羅] || 《霹靂》花影人&lt;br&gt;《天宇》千道寒 || 全曲 || 
+|-
+| 《海上絲路三部曲－海神》[https://www.youtube.com/watch?v=lmhqtkKxpvQ FELUCCA] || 《霹靂》[https://www.youtube.com/watch?v=vuTeI7n0d5Q&amp;t=1m46s 沙漠五僧]、觸念來&lt;br&gt;《天宇》算萬年 || 全曲 ||  
+|-
+| 《海上絲路三部曲－海神》[https://www.youtube.com/watch?v=i7rREBwN0v8 Aphrodite] || 《霹靂》織夢師、狄鳳君&lt;br&gt;《天宇》地獄花 || 全曲 ||  
+|-
+| 《海上絲路三部曲－海神》[https://www.youtube.com/watch?v=HL4yiJr2dAA Olympus] || 《霹靂》天蝶盟、血吻蝶、修萬年 || 全曲 ||  
+|-
+| 《海上絲路三部曲－海神》[https://www.youtube.com/watch?v=JQxkLiNAn8E Sigiriya Lady] ||  常用悲愴曲 || 剪輯 ||  
+|-
+| 《海上絲路三部曲－海神》[https://www.youtube.com/watch?v=m6AhHu_pHIU The God Of The Sea] || 常用悲愴曲 || 全曲 ||  
+|-
+| 《故宮的記憶》[https://www.youtube.com/watch?v=0JQnRmkKmJ0 The Dragon] || 《霹靂》忘年、[https://www.youtube.com/watch?v=0QdGqOgX7QU 歲月如夢]、[https://www.youtube.com/watch?v=tasu9Y1K8Js 大悲懺慧之貳]&lt;br&gt;《天宇》六禪靜 || 剪輯、改編 || 
+|-
+| 《TOKYOITE》[https://www.youtube.com/watch?v=i61MdKdysD0 Sense of Tokyo] || 《霹靂》真田龍政（舊版） || 全曲 || 
+|-
+| 《月之石、地球之水》[https://www.youtube.com/watch?v=QG9M6IcULs8 River] || 《霹靂》病蘭花 || 全曲 || 
+|-
+| 《月之石、地球之水》[https://www.youtube.com/watch?v=DvY1DSqR7ls Against the Wind] || 《天宇》海派浪子 || 全曲 || 
+|-
+| 《悲情城市》[https://www.youtube.com/watch?v=bA6nBCm5Sd8 A CITY OF SADNESS] || 《霹靂》道境、三世道君 || 全曲 || 
+|-
+| 《Asian Blue》[https://www.youtube.com/watch?v=E8SB2FDqD5g Sican] || 《天宇》胭脂龍&lt;br&gt;《神魔》三教一家 || 全曲 || 
+|-
+| 《Asian Blue》[https://www.youtube.com/watch?v=aaUXlZvwpfE Tin Field] || 《天宇》疾鶴牧雲 || 全曲 || 
+|-
+| rowspan = "11"  | 姬神 || [https://www.youtube.com/watch?v=TSNgXWS-53k 十三の春] || 《霹靂》一花香 || 全曲 ||  
+|-
+| 遠い唄 || 《霹靂》梵天變&lt;br&gt;《天宇》[https://www.youtube.com/watch?v=uKS5pwNWhAo 離凡星主] || 全曲、改編 ||  
+|-
+| [https://www.youtube.com/watch?v=kIP0_NC5_YA 春風祭] || 《霹靂》香扇文柔&lt;br&gt; 《天宇》紅傘火鳳凰 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=jQPqcOFx1S0 中野ばやしの夜~のこり火] || 《霹靂》[https://www.youtube.com/watch?v=QUWRee466-c 銀羽飛燕] || 剪輯 ||  
+|-
+| [https://www.youtube.com/watch?v=E3tnRuaHyvg 白い川] || 《霹靂》百字央 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=OkCXCTwn3SI 火振り神事] || 《天宇》靜海仙龍、臨海石屋 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=YoM_G5KvHyQ 北の海道] || 《天宇》月吟風/玉中笑 || 全曲 ||  收錄於《高福順影集配樂大全四》標識為"十彩皇衣玉中笑"
+|-
+| [https://www.youtube.com/watch?v=ZTzi-XM4hg4 うたげ] || 《聖俠》移星換斗萬古仙 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=T8Z3AVyNVd4 遠い日・風はあおあお] || 《天宇》金品香 || 剪輯 ||  
+|-
+| 時をみつめて ||《霹靂》白文采 || 全曲 ||
+|-
+| [https://www.youtube.com/watch?v=_G49WSb-3u0 Shrine Arch] ||《霹靂》徹悟人生與修龍客 || 全曲 ||
+|-
+| Kamal || [https://www.youtube.com/watch?v=1dsTMsAVb_w On My Wings] || 《天宇》造天筆、詩海石硯台&lt;br&gt;《霹靂》[https://youtu.be/zBGTKGZQtsg?t=201 素續緣（初期）] || 全曲 || 曾被盜版商託名BANDARI在中華區發行混合專輯&lt;br&gt;&lt;s&gt;大概因為新世紀樂派的曲風不是那麼好分辨&lt;/s&gt; 
+|-
+| 陸崑崙《中國十大美人》 || [https://www.youtube.com/watch?v=s-70QVHNN6k 花木蘭] || 《天宇》晏小丹&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=uhLWlsrorGM 臥江子] || 全曲、採譜 ||  
+|-
+| rowspan = "2"  | Karunesh || [https://www.youtube.com/watch?v=hfUKNhL_xLE Hidden Places] || 《天宇》飛龍坪 || 全曲 || &lt;s&gt;俗稱養雞曲&lt;/s&gt; 
+|-
+| [https://www.youtube.com/watch?v=4kcgh9W-lqc Japanese Spring] || 《天宇》殺機ED || 全曲 || 古裝劇踏青場景常用
+|-
+| 賈鵬芳《Pacific Moon》和平之月 || 《睡蓮》 || 《天宇》冉七 || 全曲 ||  
+|-
+| rowspan = "4"  | Roger Calverley &lt;br&gt;《[https://www.youtube.com/watch?v=uZGjKR7eta0 Celtic Mysteries]/神秘居爾特》 || [https://www.youtube.com/watch?v=7-AM5cq06MU Dreamweaver] || 《霹靂》[https://www.youtube.com/watch?v=5zctLf6AKHI 莫召奴]、[https://www.youtube.com/watch?v=6AFSb19GKxI 爭王記版] || 改編 || [https://www.youtube.com/watch?v=opsrOR8kIiY 角色商品廣告]使用原曲、角色再出時使用原創曲[https://www.youtube.com/watch?v=uHgF5iTaLLc 情繫江湖] 
+|-
+| [https://www.youtube.com/watch?v=RTc1X5WgxDw GreenWood] || 《霹靂》傲笑紅塵之異鄉情懷1 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=mWh5R2eLZ6o Elfland] || 《霹靂》傲笑紅塵之異鄉情懷2|| 全曲 ||
+|-
+|  Before the Time || 《霹靂》[https://www.youtube.com/watch?v=UBMJEVpGhu8 袁冬曲] || 全曲 ||  
+|-
+| 《紅樓夢》 || [https://www.youtube.com/watch?v=m-xj5zxUreM 花月吻] || 《天宇》橫雲小築 || 全曲 ||  
+|-
+| Anugama || 《Kokopelli's Ritual || 《天宇》[https://www.youtube.com/watch?v=I66vhCiBTpQ&amp;t=189s 冷傲真] || 全曲 || &lt;s&gt;嘿~嘿~雞仔毛、[https://www.youtube.com/watch?v=L6jLL223n90 雞仔毛]…&lt;/s&gt; 
+|-
+| 范上娥、格桑達吉 || 《[https://www.youtube.com/watch?v=7Sr0z-vQBa4 雪山春曉]》 || 《霹靂》[https://www.youtube.com/watch?v=eZqmYDzHv7k 紫華弦箏] ||  || [http://blog.yam.com/DionysusChen/article/10950519 事件]，另外[https://tw.answers.yahoo.com/question/index?qid=20080731000016KK08921 此改編曲開頭旋律]疑似出自《彩雲國物語》 
+|-
+| 盤古2001 || [https://www.youtube.com/watch?v=L-OaQOXL414 異人回廊] || 《天宇》[https://www.youtube.com/watch?v=kPTlNZGyRac 慕花影] || 全曲 ||
+|-
+| rowspan = "2"  | 梅德溫Medwyn Goodall || [[https://www.youtube.com/watch?v=C6srtF_8cGI Invocation]] || 《天宇》千少一玫瑰凋零&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=hJB-WGVzh60 普雨] || 全曲、改編 ||
+|-
+|Spirit Dancer-[[https://www.youtube.com/watch?v=5hvHZRQHiy8 Great Spirit]] || 《天宇》天涯舞劍塵 || 全曲 ||
+|-
+| Ginkgo Garden || -[[https://www.youtube.com/watch?v=Dfdk9l9zTf4 Blossoms from India]] || 《霹靂》八趾麒麟 || 全曲 ||
+|-
+| Jamie Harrington || -[[https://www.youtube.com/watch?v=kH8Y0zPqdFk Shannon's Song 1]] || 《霹靂》魔界聖母 || 全曲 ||
+|-
+| rowspan = "5"  | 亞倫派森合唱團&lt;br&gt;The Alan Parsons Project || 《Eye in The Sky》[https://www.youtube.com/watch?v=MyfnWPiYCRo In the Lap of the Gods] || 《霹靂》葉小釵天涯求師&lt;br&gt;《天宇》[https://www.youtube.com/watch?v=wSXbMdD8yVE 孤獨鷹雄初登場]&lt;br&gt;《金光》[https://www.youtube.com/watch?v=dRsdT0LQDn8&amp;t=1m03s 暗凶劍殘殘]/闇凶 || 剪輯 ||
+|-
+|| 《Eye in The Sky》[https://www.youtube.com/watch?v=5S-q_3NFFzs Mammagamma] || 《天宇》[https://www.youtube.com/watch?v=EpG9KVgNIGs&amp;t=2m15s 移日酷] || 全曲 || 同專輯另有芝加哥公牛隊代表曲[https://www.youtube.com/watch?v=QKJGvRiFqFE Sirius] &lt;s&gt;沒有選到這首真是可惜&lt;/s&gt;
+|-
+|| 《Eve》[https://www.youtube.com/watch?v=fLZPj-dJfJQ Lucifer] || 《霹靂》[https://www.youtube.com/watch?v=oxFZu-q6ybI 黑鋼刀鐵無敵]、[https://www.youtube.com/watch?v=nl-lMb59ROo&amp;t=55s 誅魔神光火流星] || 剪輯 || 
+|-
+|| [https://www.youtube.com/watch?v=0R_XMQTOcg8 Pipeline] || 《天宇》獨眼狂人 || 剪輯 || 
+|-
+|| [https://www.youtube.com/watch?v=lXznDZBneMw  Where's the Walrus?] || 《天宇》淚狼脊椎刀 || 剪輯 || 
+|-
+| rowspan = "2" | Vangelis || [https://www.youtube.com/watch?v=3kK_HGNOo9A Alpha] || 《霹靂》[https://www.youtube.com/watch?v=1R3y6rZxMWU&amp;t=1m 籃中怪]（悲情場面用）&lt;br&gt;《天宇》凝華台 || 剪輯 || 
+|-
+|| [https://www.youtube.com/watch?v=KX9XyddZTtA Theme From Antarctica] || 《天宇》臨海石屋 || 剪輯 || 
+|-
+|| Jean Michel Jarre || 《Oxygene》[https://www.youtube.com/watch?v=6Q00HQwO2Sg Pt 2-14893] || 成龍電影《蛇形刁手》[https://www.youtube.com/watch?v=JbFmE3rwcPA&amp;t=50m50s 練功場面曲] || 剪輯 ||
+|-
+|| Space || 《the Best of Space》[https://www.youtube.com/watch?v=P_ukfGAd8T4 Magic Fly] || 成龍電影《蛇形刁手》[https://www.youtube.com/watch?v=JbFmE3rwcPA&amp;t=13s 開場曲] || 剪輯 ||
+|-
+| rowspan = "4" | 喜多郎 || [https://www.youtube.com/watch?v=OBW6zHqHxmo Orochi] || 《天宇》[https://www.youtube.com/watch?v=CkOD5ZUh7Hw 驚天九龍片尾]、[https://www.youtube.com/watch?v=r7-Nl8rIhe4 砍命瘋馬武曲] || 全曲 ||
+|-
+|| [https://www.youtube.com/watch?v=wFXcn2G291w Dance Of Sarasvati] || 《霹靂》雲廬劍僧&lt;br&gt;亞視《尋找他鄉的故事》[https://www.youtube.com/watch?v=_JoFP7Hq554&amp;t=20 背景曲] || 全曲、剪輯 ||
+|-
+|| [https://www.youtube.com/watch?v=n11q9LIDCLM 宇宙エネルギー]||《霹靂》風月幽樓 ||剪輯 ||
+|-
+|| [https://www.youtube.com/watch?v=K9kIWERULZ0 Space II]||《天宇》花中人武曲 ||剪輯 ||
+|-
+|| Paul Mauriat || 《[https://www.youtube.com/watch?v=LY_53lrU5Jw Los Gitanos]》 ||《霹靂》[https://www.youtube.com/watch?v=wO0X7YHkfwA 劍君十二恨] || 剪輯 ||
+|-
+| rowspan = "3" | Tangerine Dream 橘夢樂團 ||《[https://www.youtube.com/watch?v=im2ScCfkcA4 Doctor Destructo]》||《霹靂》奇妙大棺王 || 全曲||
+|-
+||《[https://www.youtube.com/watch?v=OFBGXgnCFmY Choronzon]》||《霹靂》[https://www.youtube.com/watch?v=uNUZn1EqUNw 剝袈將]、&lt;br&gt;《天宇》必死刀藍斬 || 剪輯||
+|-
+||《[https://www.youtube.com/watch?v=lwHhFb3p3Sw galley slave's horizon]》||《神魔》祆冥祭師 || 剪輯||
+|-
+|| Enya ||《[https://www.youtube.com/watch?v=JKQwgpaLR6o Boadicea]》||《天宇》一劍忘齡 || 全曲 ||
+|-
+|| Robert Haig Coxon &lt;br&gt;《[https://www.youtube.com/watch?v=UAOulyvLNq0 Crystal New Age Stories]》 || ||《霹靂》無情絲 ||  剪輯 ||
+|-
+|| 1943 Rafael Hernandez&lt;br&gt;《El cumbanchero 》||Daniel Santos《[https://www.youtube.com/watch?v=guY4jnTouEU El cumbanchero]》||《金光》黃俊雄－秦古鱉[https://www.youtube.com/watch?v=IoOhsIpSwwI 爽快之歌] || 配唱 || 唱片曲名[https://www.youtube.com/watch?v=3VvQJVi3QG4 劍舞]
+|-
+|| 1943 Jurgen Schlachter &amp; Andreas Mock&lt;br&gt;《The power of mocement : Roots of life 》||《Eagle Spirit》||《天宇》[https://www.youtube.com/watch?v=RSL9MMbV2F8 二二八] || 全曲 ||
+|-
+| rowspan = "2" | 1999 Uttara Kuru|||《侍》[https://www.youtube.com/watch?v=kXdDKyOOjkA 根雪] ||《天宇》秋莘嵐&lt;br&gt;《聖俠》欲傳奇 || 剪輯 ||
+|-
+|《風》[https://www.youtube.com/watch?v=1MU27PkiIx0 木舟] ||《聖俠》欲傳奇悲傷曲&lt;br&gt;《金光》月牙嵐憶愛靈靈 || 全曲 ||
+|-
+|| 1990 Scott Fitzgerald || [https://www.youtube.com/watch?v=jviEfW8eNh8 Thunderdrum] 天雷神鼓 ||《天宇》[https://www.youtube.com/watch?v=Eoghj3a9gqs 謎塵OP] ||剪輯 ||
+|-
+|| 1981 高中正義 || [https://www.youtube.com/watch?v=SFsOgPnOQxE Jumping Take Off] ||《霹靂》早期武戲曲 || 改編 ||
+|-
+|| Brule 'N Airo ||[https://www.youtube.com/watch?v=46YvTkGTcSE Brave Hearts"]|| 《天宇》白日飛昇 || 全曲 ||
+|-
+|| Terry Oldfield || [https://www.youtube.com/watch?v=MyioLmpeUmo Treading the Path] ||《天宇》劍牒op || 全曲 ||
+|-
+|| Jeff Ball ||《Back to Balance》 [https://www.youtube.com/watch?v=MCbqzsC2fYk Flight of the Blue Raven] ||《天宇》愁潭獨釣月&lt;br&gt;《神魔》醫魔生不救 || 全曲 ||
+|-
+|| 中國廣播樂團國樂 || 洛神 5 [https://youtu.be/RzugvkjqeNM?t=55 暴君] ||《金光》[https://youtu.be/iRWvUV85gPA?t=14 秦假仙衰尾歌] || 全曲 ||
+|-
+|| 1995亀山耕一郎《炎之蜃氣樓》系列 ||概念曲CD&lt;br&gt;《わだつみの楊貴妃》－海ゆかば||《天宇》[https://www.youtube.com/watch?v=RXy_LMJhlq4 千少一白髮飄殺]、[https://www.youtube.com/watch?v=hOnyjEC17EE 天宇殺機宣傳前導]|| 全曲||
+|-
+|| 1994Jeff Danna《Kung Fu: The Legend Continues》||《[https://www.youtube.com/watch?v=7iaWtp-r5dY Posse]》||《天宇》[https://www.youtube.com/watch?v=oEcvI4xipGc 刀劍談]OP|| 全曲||
+|-
+|| 海棠樂集||《跳躍禪》||《霹靂》[https://www.youtube.com/watch?v=5KIiZlVGGpw 笑情山鄉]|| 全曲|| 收錄於《霹靂王朝劇集原聲帶》標示為《海殤君(一)》
+|-
+||Venice Angel ||《[https://www.youtube.com/watch?v=148M05c7p-w China Moon]》||《霹靂》談無欲||剪輯||
+|-
+||Frank Steiner Junior||《I Ging Symphony》－[https://www.youtube.com/watch?v=6rtKvKNfirk Chen/震]||《天宇》餵青圖變身||剪輯||
+|-
+||Blue Chip Orchestra ||《[https://www.youtube.com/watch?v=1458TJoSK_g Ate Heye Lo!]》||《天宇》假隻眼蒼狐||剪輯||
+|-
+| rowspan = "3" |黃石||《[https://www.youtube.com/watch?v=C5kbdiFFPHw 墟里煙]》||《霹靂》眾天慈航渡||全曲||
+|-
+||《[https://www.youtube.com/watch?v=J4C95h3dRoo 遙相望]》||《霹靂》慕容嬋與藏劍生||剪輯||
+|-
+||《[https://www.youtube.com/watch?v=DLZgWaaqfvQ 四季情]》||《天宇》左慧右智||剪輯||
+|-
+||Chris Hinze《T'ai Chi In Balance》||[https://www.youtube.com/watch?v=fjacHnwWHuU The Yellow Emperor and the Pope (Part 2)]||《天宇》魚讀月|| 剪輯 ||
+|-
+|| 1977 Jean Philippe Audin||《[https://www.youtube.com/watch?v=7jamxZl78VI Toute Une Vie]/只此一生》||《天宇》[https://youtu.be/wPoH3hAt4Jc?t=15 玉鯨牙]||全曲||
+|-
+| rowspan = "4" | Cusco||《Apurimac/聖河》[https://www.youtube.com/watch?v=KfVKcpF67Ww Apurimac]||《霹靂》仇魂怨女&lt;br&gt;《天宇》孤獨鷹雄||全曲||另有金屬版[https://youtu.be/KfVKcpF67Ww?t=2283 ApurimacII]
+|-
+||《ApurimacIII》||《天宇》天皇戰抽魂傀儡||全曲||
+|-
+||《ApurimacIII》||《天宇》三裁公悼念天皇||全曲||
+|-
+||《ApurimacIII》||《天宇》大陵星宗||全曲||
+|-
+||Manuel Vasquez ||[https://www.youtube.com/watch?v=USHqI8PWiTc Well-Balanced]||《天宇》[https://www.youtube.com/watch?v=WoPrs0QCoV4 論道無常口含珠]||全曲||
+|-
+||Oliver Shanti ||[https://www.youtube.com/watch?v=K7WW43RxufU Axtú Leman Sumix Sacred Mountain] ||《天宇》金眼識天體 ||全曲||
+|}
+
+== 來自動畫 ==
+{| class="wikitable sortable" style="margin:auto;"
+|-
+! 原所屬作品 !! 曲名 !! 《編入劇集名》人物、場景 !! 改編方式 !! 備註 
+|-
+| rowspan = "10"  | 渡辺宙明《戦え！[[伊庫薩(生身單位)|イクサー1]]》 || [https://www.youtube.com/watch?v=Lq7yu6xMF0g&amp;t=6454s 別れ] || 《戲說乾隆》[https://www.youtube.com/watch?v=aLrNy2F6Y_c&amp;t=16m46s 廣告間奏]、乾隆皇帝登場&lt;br&gt;《天宇》[http://mymedia.yam.com/m/676500 造天筆戰印曲] || 剪輯 || 因曲內獨具的皇家氣派而成為華人影劇中&lt;b&gt;皇帝駕臨&lt;/b&gt;時的定番曲&lt;br&gt;其影響力之遍布，就連不看動畫的一般影劇迷也有印象，&lt;br&gt;在[[逆流]]之後的原作與引用之情境反差也常令新一代宅眾大吃一驚，&lt;br&gt;堪稱取材自動畫配樂系列的'''王中之王'''。
+|-
+| 破壊の要塞 || 《霹靂》[https://www.youtube.com/watch?v=EG-h2atJMIQ 肢殘智殘] || 全曲 ||  
+|-
+| コバルト鎮魂 || 港劇《圓月彎刀》 || 剪輯 || 0
+|-
+| ひとときの安らぎ || 港劇《圓月彎刀》 || 剪輯 || 
+|-
+| 渚と小夜子 ||港劇《圓月彎刀》 || 剪輯 || 
+|-
+| [https://www.youtube.com/watch?v=X4qcIv3Ilww 無敵イクサー２] || 港劇《圓月彎刀》 || 剪輯 ||  同曲另包含"ハカイダーのうた"旋律
+|-
+| 甦るイクサー２] || 《天宇》跛駝 || 剪輯 || 
+|-
+| 放浪の民 クトゥルフ || 《霹靂》骨董 || 剪輯 || 
+|-
+| サーバイオレットの悲劇 || 《霹靂》分不開 || 剪輯 || 
+|-
+| ヌグゥエンデルツェ || 《霹靂》歐陽世家 || 剪輯 ||
+|-
+| 渡辺宙明&lt;br&gt;《破邪大星彈劾凰ダンガイオー》 || [https://www.youtube.com/watch?v=kNoDvxpmJWU 龍船…宇宙海賊のテーマ] || 《霹靂》[https://www.youtube.com/watch?v=aQv7aSrI_cc&amp;t=36s 何三色] || 全曲 ||  [https://www.youtube.com/watch?v=-WAPQVsSq6A 疑似霹靂衛星電視台台徽片段曲]
+|-
+| rowspan = "6"  | 渡辺宙明《&lt;s&gt;マシンロボ クロノスの大逆襲&lt;/s&gt;&lt;br&gt;レイナ剣狼伝説》 || [https://www.youtube.com/watch?v=URfn0563sN0 タイラント舞う] &lt;br&gt;刻の魔のささやき|| 《霹靂》少爺刀、金少爺、金小開 || 全曲 ||  
+|-
+|| 決意のレイナ、&lt;br&gt;まちうける宿命 ||《霹靂》至尊OP 、ED|| 全曲 ||  《霹靂紫脈線配樂原聲帶》標示為《[https://www.youtube.com/watch?v=SfYq8IOTzPs 武戲配樂三]》
+|-
+| [https://www.youtube.com/watch?v=bzWVWAWFkEk メイロの中のレイナ] || 《霹靂》葉小釵與蕭竹盈 || 全曲 ||  
+|-
+|| [https://www.nicovideo.jp/watch/sm30859087 襲撃！闇の魔神]&lt;br&gt;追いつめられた兄妹 || 《霹靂》PC幽靈箭[https://www.youtube.com/watch?v=iPHHceiuCfo 一般戰鬥曲]、&lt;br&gt;《天宇》[https://www.youtube.com/watch?v=gsdU8uSMHvM&amp;t=1m15s 造天筆戰黑夜怨靈]|| 全曲 ||早期《霹靂布袋戲配樂原聲帶》收錄標示為《[https://www.youtube.com/watch?v=Uu6zhQZ9V9s 武戲配樂一]》
+|-
+|| [https://www.youtube.com/watch?v=P7mKNIVgqXM 策謀の闇] ||《天宇》天宇麟池 || 剪輯 ||
+|-
+|| [https://www.youtube.com/watch?v=P7mKNIVgqXM 洗脳の記憶] ||《霹靂》寒劍月飄霜 || 剪輯 ||
+|-
+| 渡辺宙明《[[蓋特機器人]]號/GO》 || [https://www.nicovideo.jp/watch/sm26315163 バトルヘリ発進] || 《霹靂》[https://www.youtube.com/watch?v=s6sBfBATu8k 電視台片段未收錄曲]、[https://www.youtube.com/watch?v=Hh0LPKWkiHs 電視台早期音樂] || 全曲 || 連高福順系列原聲帶也沒有收錄、只在Youtube上放流過
+|-
+| rowspan = "7"  | 川村栄二《[https://www.nicovideo.jp/watch/sm661932 冥王計畫ゼオライマー]》 || rowspan = "2"  | [https://www.youtube.com/watch?v=4FYVeX6et5Q 覚醒、ゼオライマー] || 《霹靂》機械紫霹靂&lt;br&gt;(雜用 [https://www.youtube.com/watch?v=923_PIA4Lw0 暗殺指令]) || 剪輯 || 原曲CD就是這樣把多段曲風壓入一曲，因此偶而會造成記載混亂
+|-
+| rowspan = "3"  | 《霹靂》[https://www.youtube.com/watch?v=oqHMx4rTxrQ 葉小釵]&lt;br&gt;RPG《幽靈箭》南隱、乾中盒場景&lt;br&gt;RPG《聖石傳說》[[https://www.youtube.com/watch?v=-0O20J7dnrM 鐘乳石洞]]場景 || 剪輯 || ＜&lt;big&gt;{{Color|yellow||⦿}}《{{Color|red||'''天'''}}》{{Color|yellow||⦿}}＞&lt;/big&gt;&lt;/p&gt;&lt;br&gt;原作演出的霸道威能深入人心，&lt;br&gt;日本二創也有不少引用此曲所成的二創[[冥王]]角色，&lt;br&gt;但最早用例仍是&lt;b&gt;冥王計畫葉小釵&lt;/b&gt;&lt;br&gt;
+|-
+| [https://www.nicovideo.jp/watch/sm24503271 ゼオライマー、暁に出撃す] || 全曲 || 後改編為"再見痴狂"，與戰鬥曲合編為"[https://www.youtube.com/watch?v=ZFL8K2uQcRQ 力挽狂瀾]" 
+|-
+| マサトとマサキ|| 剪輯、採譜 || 另有收錄於官方CD霹靂幽靈箭2《葉小釵4》、《[https://www.youtube.com/watch?v=Tm_u6eNFW4Q 江湖血路版葉小釵]》
+|-
+| 悪魔の血脈 || 《霹靂》[https://www.youtube.com/watch?v=_6PaJZ__BtI 蔭屍人(初期)]、[https://www.youtube.com/watch?v=dgsYQ7QS0v0 天下第一棺] || 剪輯 ||  
+|-
+| [https://www.youtube.com/watch?v=sdrs5YMs2AI 月のロースセラヴィー] || 《霹靂》[https://www.youtube.com/watch?v=a4B9EO0DLg0 雷霆谷] || 剪輯 ||  緊急場面曲常用
+|-
+| [https://www.nicovideo.jp/watch/sm661932?from=210 鉄甲龍] || 《霹靂》黃山八珠聯、&lt;br&gt;&lt;s&gt;《木曜スペシャル[https://www.youtube.com/results?search_query=+%E7%9F%A2%E8%BF%BD%E7%B4%94%E4%B8%80 矢追純一] [[外星人|UFO]]スペシャル 》&lt;/s&gt; || 剪輯 ||  懸疑曲風與同作者《[[假面騎士系列|假面騎士Black]]》的《[https://www.nicovideo.jp/watch/sm8808562?from=170 忌まわしい記憶]》等曲相似，&lt;br&gt;有時會在討論到使用上曲的《矢追純一 ＵＦＯスペシャル 》被提及或誤記
+|-
+| rowspan = "2"  |  三井誠1989&lt;br&gt;《変幻退魔夜行 カルラ舞う! 奈良怨霊絵巻》 || [https://www.youtube.com/watch?v=TOo-pzHWd_s&amp;t=0m34s OPENING THEME] || 台視《唐太宗李世民》[https://www.youtube.com/watch?v=4yfg2fO0lv4&amp;t=39m18s 登基場景]、&lt;br&gt;台視《雪山飛狐》[https://www.youtube.com/watch?v=ATsLHmhfjgo&amp;t=30m30s 闖王場景]、&lt;br&gt;台視《神鵰俠侶》[https://www.youtube.com/watch?v=35lt6WQMmZs&amp;t=46m22s 重陽宮場景]、&lt;br&gt;中視《戲說慈禧》[https://www.youtube.com/watch?v=7atO9bv5T2A&amp;t=35m17s 場景曲]&lt;br&gt;華視《施公奇案》[https://www.youtube.com/watch?v=vSQNmfF_o5I&amp;t=2m09s 考場怪談]&lt;br&gt;《金光》地教使者&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=9xgdOdMHiXA 白雲驕霜]&lt;br&gt;RPG《霹靂英雄榜》天外方界 || 全曲、改編 || 音色嚴正的日本雅樂，&lt;br&gt;用於華人古裝劇的莊嚴場面卻也不顯突兀，因此在早年廣受引用，&lt;br&gt;但仍要到定用於&lt;b&gt;白雲驕霜&lt;/b&gt;一角之後才叫得出名字。
+|-
+|| HANGMAN IN THE DARK || 《霹靂》星河殿（舊版） || 全曲 || 
+|-
+| rowspan = "8"  | 橫山菁兒《聖鬥士星矢》 || [https://www.youtube.com/watch?v=MfC0kiZA9Vc ペガサス流星拳] || 《霹靂》[https://www.youtube.com/watch?v=VOad1hYv3xY 早期OP] || 採譜 ||  
+|-
+| [https://www.youtube.com/watch?v=7gqg3iwMxog 聖闘士神話] || 《霹靂》[https://www.youtube.com/watch?v=PveXK2YpsZI 烽雲片頭] || 採譜 ||  
+|-
+| [https://www.youtube.com/watch?v=aX9fT6yt8kI 追憶～哀しみ] || 《霹靂》獨眼龍與史菁菁 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=MkpLaNC1wT0 決戦前夜] || 《霹靂》艱苦場景曲 || 全曲 ||
+|-
+| [https://www.youtube.com/watch?v=gRhNfyUNnfU キグナス～氷原の戦士] || 《霹靂》秋末悲歌 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=AHXWU8bGTh4 焦躁～忍びよる影] || 《霹靂》早期幻境場景曲 || 全曲 ||
+|-
+| [https://www.youtube.com/watch?v=30lxkHqB-Pw 激突!サンクチュアリ] || 《霹靂》早期危機場景曲 || 剪輯 ||
+|-
+| [https://www.youtube.com/watch?v=R3TaG_Xzilw 刺客の群れ] || 《霹靂》早期對峙、進軍場景曲 || 剪輯 ||
+|-
+|| 芹澤廣明《Megazone 23》 || [https://www.youtube.com/watch?v=hbXzQOrhV_0 RockCafe] || 《天宇》[https://www.youtube.com/watch?v=U6YiFMROG5w&amp;t=9s 常用武打曲] || 全曲 || 本作另一知名疑似[[原創風行]]案例為插入歌：&lt;br&gt;宮里久美《[https://www.youtube.com/watch?v=vzYMJ9uiZlg 背中ごしにセンチメンタル]》與譚詠麟成名曲《[https://www.youtube.com/watch?v=V-MJZbgff-0 愛情陷阱]》&lt;ref&gt;同為芹澤廣明作曲，且只做些許修改便分開賣得版權，因此其實不是抄襲&lt;/ref&gt;
+|-
+|| 橫山菁兒《三国志》OVA系列 ||《英雄たちの夜明け》-[https://www.youtube.com/watch?v=o-IW1uIbrAM 兄弟~亮と瑾] || 《天宇》落葉人飄舟 || 剪輯 || 本作主題曲《[https://www.youtube.com/watch?v=DLT_KjfZg_Q 風姿花傳]》被改編為閩南語歌曲《[https://www.youtube.com/watch?v=BmsoYP-9nfo 今生愛過的人]》
+|-
+| rowspan = "2"  | 久石譲《[[吉卜力工作室|天空の城ラピュタ]]》 || [https://www.youtube.com/watch?v=4eyy-kAfeoE 主旋律] || 《霹靂》[https://www.youtube.com/watch?v=DWsoIsdXPuE 天闕OP][https://www.youtube.com/watch?v=WLobKxYb6yk ED]、[http://www.tudou.com/programs/view/Fsp_gFfsbCs/ 真神仙素續緣] || 採譜 || 相當露骨的改編，也許是因為'''天闕≒天空之城'''的發想?所幸素續緣在復出後已不再使用 
+|-
+| ラピュタの崩壊 || 《霹靂》不知名與三聖佛 || 全曲 || &lt;s&gt;但沒說化身時期不可以用&lt;/s&gt; 
+|-
+| rowspan = "8"  | 津野剛司《鬼神童子 ZENKI》 || [http://www.youtube.com/watch?v=BYVTT9VMTYk 終りなき護法 ～メインテーマ～] || 《霹靂》蒼龍一吼破雲關、&lt;br&gt;《金光》十八龍OP || 全曲、改編 || 疑似改編成[https://www.youtube.com/watch?v=eEvGc9-63bs 雷霆OP] 、[https://www.youtube.com/watch?v=f8pAdcHU7ak 九九登天台]&lt;br&gt;《SASUKE極限體能王》選手－[[https://www.youtube.com/watch?v=l9u0rPdl8dE&amp;t=4s 山田勝己代表曲]]
+|-
+| [https://www.youtube.com/watch?v=GeyPEzcGy-I 静かなる迷路～闘いの結末に] || 《天宇》飛心 || 全曲 || 
+|-
+| [https://www.youtube.com/watch?v=5kVL0gA2ej8 三邪導師の章 ～カルマの子供たち～] || 《霹靂》魔魁 || 剪輯 ||  
+|-
+| [https://www.youtube.com/watch?v=mzHXN_0FPVk カルマの章 ～邪悪の光～] || 《霹靂》[http://www.youtube.com/watch?v=Wvj2252syk8 五濁惡世妖溺天] || 採譜 || 只取前奏部分作改編 
+|-
+|[https://www.youtube.com/watch?v=ogOu2ONxX0o 鬼神・闘いの章~恐るべし鬼神]  || 《霹靂》[https://www.youtube.com/watch?v=Eynsv0wGgZo 血烙三教主]、[https://www.youtube.com/watch?v=Gue5tftO67o 野性之刀] || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=PygnL--uRpg 密なる聖炎] || 《霹靂》五邪合一 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=h4TFDpOz2v8 実の章～闇の力] || 《天宇》風海自知命 || 全曲 ||  
+|-
+| ||《霹靂》百朝臣 || ||
+|-
+||津野剛司《真拳伝説》|| [https://www.youtube.com/watch?v=mOK56duANGY 戦闘開始] ||《霹靂》末情天 || 全曲 || [https://www.youtube.com/watch?v=6LSGw4PbJ6A 同旋律換曲風]
+|-
+| rowspan = "9"  | 川井憲次《機動警察パトレイバー》系列 || [https://www.youtube.com/watch?v=HKHV-W1LtMM Riot] || 《霹靂》[https://www.youtube.com/watch?v=XrBC3mzHZMw 亂世狂刀] || 改編 || 僅收錄於劇場版先行推出的[https://www.nicovideo.jp/watch/sm4414209 原聲帶]，&lt;br&gt;在該動畫公開版本中卻沒使用，是為'''沒曲'''，反而成為亂世狂刀角色曲的不二之選
+|-
+| [https://www.youtube.com/watch?v=Un1hYnV8fl8 Indication]&lt;br&gt;[https://www.youtube.com/watch?v=J-hw0nGiwCM Wyvern] || 《霹靂》靈魅殿&lt;br&gt;《天宇》[https://www.youtube.com/watch?v=1yTzeRpot4I 武尺軍] || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=JMaWAk8FW_A Ixtl] || 《天宇》[https://www.youtube.com/watch?v=lBicDL8cz4g 山川之父] || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=DSx_eeX-Z7w 朝陽の中へ] || 《天宇》[https://www.youtube.com/watch?v=UAQK9rRO7C8&amp;t=3m35s 六手魔像VS掛刀沙鯛]&lt;br&gt;三立《五虎將金牌點唱秀》[https://www.youtube.com/watch?v=92nxKOZm4gM 廣告片段] || 全曲 || [https://www.youtube.com/watch?v=hJQl5PHpXas 後續重製版]&lt;br&gt;三立錄影帶節目廣告片常用
+|-
+| [https://www.youtube.com/watch?v=N5Feh10oCwM Runaway incident] || 《天宇》常用收幕曲&lt;br&gt;三立《21世紀新人歌唱排行榜》[https://www.youtube.com/watch?v=lIprDW9iGbY OP] || 剪輯 ||
+|-
+| [https://www.youtube.com/watch?v=NpeLlwQzFgc 頑張れ後藤隊長] || 《霹靂》[https://www.youtube.com/watch?v=XfnizEL1jtU 崎路人與金少爺] || 剪輯 ||
+|-
+| [https://www.youtube.com/watch?v=3hIhUfgoCVs Revolution] || 《霹靂》[https://youtu.be/52Cmwu1qJcc?t=90 黑白郎君中期版]、《天宇》銀面劍帝武曲 || 剪輯 ||
+|-
+| [https://www.youtube.com/watch?v=_pb5z6Kz5jU 鉄の矢] || 《霹靂》[https://www.youtube.com/watch?v=s5U-Ph64oas&amp;t=5m45s 早期戰鬥場面曲] || 剪輯 ||
+|-
+| [https://www.youtube.com/watch?v=gpvvFycI8IA Hallucination] || 《霹靂》[https://www.youtube.com/watch?v=3Or9oIHJznQ 金蛾人]&lt;br&gt;《天宇》白傘管天雷 || 全曲 ||
+|-
+| rowspan = "19"  | 川井憲次《BLUE SEED》碧奇魂 || [[林原惠]]《[http://www.nicovideo.jp/watch/sm9709853 祭りの歌]》 ||《霹靂》[[https://youtu.be/BV9RmFkjFHA?t=176 瀟湘子]]&lt;br&gt;《[[成句/完了完了，要變殭屍了|殭屍]]道長》[https://youtu.be/JCIU8oZASqU?t=2372 瀟湘子] || 全曲、混成 || &lt;s&gt;為什麼台港都選了[[https://www.youtube.com/watch?v=HhkqPluC43M 同樣的角色名]]呢?&lt;/s&gt;&lt;br&gt;原歌曲在2000年由日本教育出版社&lt;b&gt;編入小學四年級音樂課本&lt;/b&gt;，殊堪記載。
+|-
+| 闇の跳梁者 || 《霹靂》[https://www.youtube.com/watch?v=JXMMsSmuEGU&amp;t=2m19s 海殤君闖是非小徑]、&lt;br&gt;孫能者追冷思路 || 全曲、剪輯 ||  
+|-
+| スサノオ誕生 || 《天宇》[https://www.youtube.com/watch?v=AhWnxSvW4xw&amp;t=23s 活木五號] || 全曲 ||  
+|-
+| 謀略 || 《天宇》玉中笑 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=Q0dWxvW8VlU 青き魂] || 《霹靂》落煙霞與渡鶴影 || 全曲 ||
+|-
+| [https://www.youtube.com/watch?v=zlIhWoL0jBE 小さな決意]|| 《霹靂 》宇文冰心 || 全曲 ||
+|-
+| 愛はさだめ、さだめは死|| 《霹靂 》宇文弄月 || 全曲 ||
+|-
+| 荒神の気配 || 《霹靂 》場景曲 || 全曲 ||
+|-
+| 焦燥 || 《霹靂 》場景曲 || 全曲 ||
+|-
+| 死刑台の少女 || 《霹靂 》萬惡鬼樓 || 全曲 ||
+|-
+| 八つの魂を持つ男 || 《霹靂 》易利金 || 全曲 ||
+|-
+| 我が祖國の大地はSM-365 || 《霹靂 》覺惟心 || 全曲 ||
+|-
+| 荒らぶる神々 || 《霹靂 》曼陀追殺假名伶 || 全曲 ||
+|-
+| 悪鬼の召喚 || 《霹靂 》帥輕皇戰左非無相 || 全曲 ||
+|-
+| 逆転！桜、只今參上 || 《霹靂 》三口組逃亡 || 全曲 ||
+|-
+| COMIC MOOD IN“BLUE SEED” || 《霹靂 》秦假仙 || 全曲 ||
+|-
+| 皆既日食~運命の時 || 《霹靂 》影中林第五戰前 || 全曲 ||
+|-
+| 儀式 || 《霹靂 》通往輪迴簸魂車 || 全曲 ||
+|-
+| 首都は燃えているか || 《天宇》活木三號&lt;br&gt;《霹靂 》刑老刑我敵 || 全曲 ||
+|-
+| rowspan = "7"  | 《吸血姬美夕》 ||  [https://www.youtube.com/watch?v=3Pyu9XZJyqI 神魔出現] || 《霹靂》鬼帝壽誕、RPG《霹靂幽靈箭》[https://youtu.be/M9QglrAmug8?t=69 寶迷洞、盤天洞]場景曲 || 改編 ||  只改一個重音
+|-
+| [https://www.youtube.com/watch?v=U4pZekbyrSY 愴] || 《霹靂》靈魅殿 || 全曲 ||  
+|-
+| 追跡 || 《霹靂》[https://www.youtube.com/watch?v=iTAT2NczgRQ 機械紫霹靂武戲] || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=pXSPcz865s8 終結の時] || 《天宇》花紗 || 全曲 ||  
+|-
+| 倭 || 《霹靂》蟠龍邪尊 ||  ||  
+|-
+| 寺嶋民哉、林朝美《[https://www.youtube.com/watch?v=kV1uHwNpMdw 輪舞の森～美夕のテーマ]》 || 《霹靂》赫瑤、[https://www.youtube.com/watch?v=VLvcgMfa0bM 大漠兒女] || 全曲、改編 ||  
+|-
+| 《[https://www.youtube.com/watch?v=Y0WfBAzeIJ0 決意]》||《聖俠》[https://www.youtube.com/watch?v=juR7AT4DPgE 海宮仙女冷蝴蝶] || 全曲 ||音程頗像惡魔城的《[https://www.youtube.com/watch?v=a9ZcmQwH01o The Destiny Stage]》
+|-
+| rowspan = "4" | 川井憲次《[https://www.youtube.com/watch?v=jtveidAck5c 御先祖様萬々歳]》 || 《不純血縁交遊》 || 《天宇》砍命瘋馬&lt;br&gt;《霹靂》暴風君 || 全曲 ||
+|-
+| 《一家離散のテーマ－一蓮托生」より》 || 《天宇》三裁公真身 || 全曲 ||
+|-
+| 《麿子追想Ⅰ》 || 《天宇》悲傷場景曲 || 全曲 ||
+|-
+|《惡婦破家》||《霹靂》治病之劍|| 剪輯 ||
+|-
+| 和田 薰《疾風!アイアンリーガー》疾風戰士 || [https://www.youtube.com/watch?v=JVLTNdkB6mo 主旋律] || 《霹靂》命隨刀&lt;br&gt;《天宇》靳朔遠&lt;br&gt;民視《移山倒海樊梨花》收幕曲 || 採譜 || [http://www.nicovideo.jp/watch/sm27346724 共改編五曲] 
+|-
+| rowspan = "2"| 和田薰《銀河戦国群雄伝ライ》 || OP《[https://www.youtube.com/watch?v=jxe-xoBYmRw 雷伝説]》 || 《天宇》神蝶 || 全曲 || 神蝶專屬配樂專輯 
+|-
+| 《[https://www.youtube.com/watch?v=C4OzxDQLZW8 狼刃の最期]》 || 《天宇》 || 剪輯 || 
+|-
+| 和田薰《サイレントメビウス外伝幕末闇婦始末記》 || 闇婦、出陣 || 《霹靂》神秘劍客&lt;br&gt;《天宇》中嶽天皇 || 全曲 || 後有改編新版[https://www.youtube.com/watch?v=WGpWX8LPT5E 神秘劍客] 
+|-
+| 由比正雪、湯川徹《卒業－聖羅V》 || [https://www.youtube.com/watch?v=RpcHaDzN6Qc 花吹雪の乱]、[https://www.nicovideo.jp/watch/sm13261268 聖羅Victory(偽)OP] || 《霹靂》創世狂人TV版OP1、[https://www.youtube.com/watch?v=g8OWcU6K8RQ 孔雀令TV版OP] || 全曲 || 
+|-
+| 増田隆宣《[[灌籃高手]]》 || [https://www.youtube.com/watch?v=nQygOaCvIMQ 赤木的不安] || 《霹靂》魔魁之女&lt;br&gt;《天宇》黑傘風帆 || 全曲 || 古風到反而令人錯愕會出現在現代情境的曲子 
+|-
+| 太田美知彦《[[中華一番]]》 || [https://www.youtube.com/watch?v=A3I4nnoDb3Y 万里の長城] || 《霹靂》鐘靈神嶽、[https://www.youtube.com/watch?v=2gazx5zkA3o 汗青編御主]&lt;br&gt;《天宇》楓林夫人 || 全曲、改編 || &lt;s&gt;因為有被檢舉後來改編一曲頂著用&lt;/s&gt;&lt;br&gt; &lt;s&gt;令人懷疑悅蘭芳與經天子是否休息時都在準備特級廚師考試&lt;/s&gt;
+|-
+| 鷺巣詩郎《[[新世紀福音戰士]]》 || [https://www.youtube.com/watch?v=ONqygJEJIhs Decisive Battle] || 《霹靂》一頁書戰半緣君 || 全曲 ||  
+|-
+| rowspan = "5"  | 羽野誠司《戰國奇譚－妖刀伝》 || [https://www.youtube.com/watch?v=y8QEc8NLk_U&amp;t=01h08m18s 古昔の巨神] || 《霹靂》[https://www.youtube.com/watch?v=LDo6QnpN3SY 八面狼姬]&lt;br&gt;RPG《霹靂幽靈箭》BOSS戰配樂 || 全曲 ||  同片另有[https://www.youtube.com/watch?v=uD2KHGsD42M&amp;t=1m32s 早期常用斬殺特效]
+|-
+| [https://www.youtube.com/watch?v=hdZoKAiep-0 魔人信長] || 《天宇》烏心陀 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=82yIY_Rv874 本能寺] || 《天宇》龍現江湖錄影帶版ED、[https://www.youtube.com/watch?v=z7c8smbTii4 九天狂龍VCD版ED] || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=Kvrkh0qHctI&amp;t=20s 焦土殺戮の日] ||《天宇》黑蟒 || 剪輯 ||
+|-
+| ||《霹靂》天鏡刑者|| 剪輯||
+|-
+| 《おたくのビデオ》 || [https://www.youtube.com/watch?v=XnnWUpbw478 主旋律] || 《霹靂》TV版天命OP || 全曲 || 頗有戰隊風 
+|-
+| ウルトラマン超闘士激伝 || [https://www.youtube.com/watch?v=qE0a8Glwvhw OP] || 《霹靂》TV版英雄榜廣告間奏 || 剪輯 ||
+|-
+| rowspan = "3"| 渡辺博也《妖魔》OVA || [https://www.youtube.com/watch?v=AgJoRcp0FgU 歩みよる凶兆] ||《霹靂》（早期雜用戰鬥曲）&lt;br&gt;《金光》[https://www.youtube.com/watch?v=2YQuPTheysw 明險戰暗兇] || 全曲 ||
+|-
+| [https://www.youtube.com/watch?v=QrmLutkzXTo 迫る魔軍] ||《霹靂》（早期追殺場景曲） || 全曲 ||
+|-
+| [https://www.youtube.com/watch?v=lv2iPUMAOKw 流離] ||《霹靂》毒王毒千手 || 全曲 ||
+|-
+| rowspan = "7"| 渡辺博也《天空戰記》|| [https://www.youtube.com/watch?v=chX9Tqz4orA 黃金光流]&lt;br&gt;OVA《創世への暗闘》調合神スクリミール || 《霹靂》千層雪 || 剪輯 || 
+|-
+| [https://www.youtube.com/watch?v=8mqXU0v6T7g 天上麗人] || 《天宇》[https://www.youtube.com/watch?v=rAf8gtmTxzU&amp;t=2m50s 藏神秘歡樂場面] || 剪輯 || 加勒比海風格
+|-
+| [https://www.youtube.com/watch?v=rqZ_V9B8UqU&amp;t=02m13s 覺醒] || 《新白娘子傳奇》[https://www.youtube.com/watch?v=wExj-JQAgiE&amp;t=33m20s 鬥法片段] || 剪輯 || 
+|-
+| [https://www.youtube.com/watch?v=bJ9Ya7M3vIo 天空樹] || 《霹靂》天堂之樹 || 全曲 || 
+|-
+| [https://www.youtube.com/watch?v=iLIFB5cN51E シャクティバスト] ||《天宇》[https://youtu.be/UthZAfOFhbI?t=82 早期追殺場面曲]、&lt;br&gt;台灣版《新七龍珠》 樂平襲擊 || 剪輯|| 
+|-
+|　OVA《創世への暗闘》-&lt;br&gt;  [https://www.youtube.com/watch?v=14G6KqNyYvY&amp;t=3m27s 幻夢] ||《霹靂》一刀起程、惡影左非 || 全曲 ||
+|-
+|　OVA《創世への暗闘》-&lt;br&gt;[https://www.youtube.com/watch?v=14G6KqNyYvY&amp;t=19m11s 創世紀] || 《天宇》常用尾聲高潮曲 || 剪輯 ||
+|-
+| rowspan = "7"| [[機動戰士鋼彈系列]] || 《0083:星塵回憶》荻田光雄&lt;br&gt;《[https://www.youtube.com/watch?v=JpXG833R8L0 強襲揚陸波]》 || 《霹靂》《天宇》[[https://www.youtube.com/watch?v=XisspCivFlo 常用戰鬥曲]]&lt;br&gt;華視《包青天》[https://www.youtube.com/watch?v=YSricJPjnL4&amp;t=54s 狄青戰鬥曲] || 剪輯 ||
+|-
+|《0083:星塵回憶》荻田光雄&lt;br&gt;《[https://www.youtube.com/watch?v=TqzdWc7uxJw Hidden Moon]》 || 《霹靂》 宇宙至尊棺 || 全曲 ||
+|-
+|《0083:星塵回憶》荻田光雄&lt;br&gt;《[https://www.youtube.com/watch?v=HwIKB_rTq9s 炎上]》 || 《天宇》 [https://www.youtube.com/watch?v=EQAbjFZ_TIY&amp;t=50s 三裁公/昊雄帝國場景曲] || 全曲 ||
+|-
+|《逆襲的夏亞》-[https://www.youtube.com/watch?v=-pcukxBkrv8 νガンダム] || 《天宇》[https://www.youtube.com/watch?v=A2eeFRP1Mps&amp;t=2m24s 千少一戰九世長青]、殘珠OP、戰印OP || 全曲 ||
+|-
+| 大谷幸《新機動戰記-鋼彈W》 [https://www.youtube.com/watch?v=1V_F2YutykU 不安から焦燥へ] || 《霹靂》方界老童、&lt;br&gt;《月唐演義》TV版OP、&lt;br&gt;《世界名鴿大賽》廣告間奏 || 剪輯 || 只使用前奏
+|-
+| 田中公平《08MS小隊》[https://www.youtube.com/watch?v=ra-br4SmgRk 戰士] || 《霹靂》[https://www.youtube.com/watch?v=838bfmk1d-I 武林大局]、[https://www.youtube.com/watch?v=M0Y4lbIfUCw 素還真的夢魘1]、[https://www.youtube.com/watch?v=deymijMrFwA 2]、[https://www.youtube.com/watch?v=ZaGt5RKl_AE 古微生蓮] || 改編 || 風起雲湧1主旋律
+|-
+|樋口康雄《機動新世紀ガンダムX》&lt;br&gt;[https://www.youtube.com/watch?v=sDTqSovrRRk 出擊]||《天宇》九天狂龍OP || 剪輯||
+|-
+| rowspan = "2"| 難波弘之《巴歐來訪者/[[荒木飛呂彥|バオー来訪者]]》 ||[https://www.youtube.com/watch?v=zm_-tKR5VcU 第一の武装現象] || 《天宇》[https://www.youtube.com/watch?v=L_BjJNrAK4E 毒咒頭顱]|| 全曲 ||
+|-
+|| [https://www.youtube.com/watch?v=cEhf5Sgrk-o 死闘] || 《天宇》[https://www.youtube.com/watch?v=Sr24WuLc1FI 劍諜ED]、[https://www.youtube.com/watch?v=f1rbqpmqBoc 星令ED] || 剪輯 ||
+|-
+| rowspan = "4"  | 長岡成貢《鴉天狗カブト》|| [https://www.youtube.com/watch?v=ZC1VXizFBdA&amp;t=19m13s 玄武] || 《天宇》[https://www.youtube.com/watch?v=tqzCWrTN7eQ 異流道ED]、[https://www.youtube.com/watch?v=bm46PuhMzTI 五傘現身]、青傘勒光藏 || 剪輯 ||
+|-
+|| ||《天宇》地毛圓 ||  剪輯 || 
+|-
+|| 背景音楽集I||《霹靂》[https://www.youtube.com/watch?v=yTGuIPbKUoo 魔域三教宗] ||  剪輯 || 
+|-
+||破者の道 ||《霹靂》至尊擂台 ||  剪輯 || 
+|-
+|| 手塚理 《スレイヤーズ　えとせとら（２）》||《聖なる魔法で》||《天宇》[https://www.youtube.com/watch?v=DTBQDJaZDy8 神蝶育繭島] || 剪輯 ||
+|- 
+|1988 菊池俊輔《魁!男塾》 || [https://www.youtube.com/watch?v=jMgrJISzKuI 鳴呼 我らが男塾] || 《天宇》[https://www.youtube.com/watch?v=zdcx2oN5-50&amp;t=1m11s 絕命三天]|| 剪輯 ||
+|-
+|1980 中國動畫《[https://www.youtube.com/watch?v=fNB3ssZwSu8 三個和尚]》 || 主旋律 ||《霹靂》早期鄉村歡樂場面曲、[https://www.youtube.com/watch?v=_pErZKMjf2g 大圓覺] || 剪輯 ||
+|- 
+| rowspan = "13"  | 川井憲次《らんま亂馬1/2》系列 || 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=2m48s 大混乱! 全員集合]》||泛用耍笨/跌倒場面 || 剪輯 || 泛用度極高的罐頭音效，使用這個音效做為法律宣導片結尾的廣告片段不計其數
+|-
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=7m15s ライチとジャスミン]》||《天宇》[https://youtu.be/sl58F3mQFsQ?t=87 百里飛斬] || 剪輯 || 
+|-
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=9m26s キリン参上す]》|| 華視《包青天》皇帝登場曲 || 改編、剪輯 ||  《包青天》[https://www.youtube.com/watch?v=WYQEK43HukE&amp;t=0m0s OP]的起始段落極其相似
+|-
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=16m35s 寝崑崙への旅路]》|| 中視《玫瑰豪情》[https://www.youtube.com/watch?v=FPmAY3g-edI&amp;t=17m44s 廣告間奏1] || 剪輯 ||  早年言情劇與瓊瑤劇場面常用
+|- 
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=809s あかね奪還攻防戦・一]》|| 《天宇》[https://www.youtube.com/watch?v=1adavmJp7S8 小祕打麻將] || 剪輯 ||  
+|-
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=20m38s あかね奪還攻防戦・二]》|| 緊急場面曲 || 剪輯 ||  
+|-
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=1838s 第一楼閣・飛車門天]》||  || 剪輯 ||  嚴峻場面常用 | 
+|- 
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=1933s 第二楼閣・大黒星と大白星]》||  || 剪輯 ||  樣版日本角色用常用 | 
+|- 
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=1990s 第三楼閣・ウー]》|| 華視《包青天》退堂場面曲 || 剪輯 || | 
+|- 
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=2149s 第五楼閣・恵比天]》||   || 剪輯 || 震撼場面場面常用 | 
+|- 
+| 中國寑崑崙大決戰《[https://www.youtube.com/watch?v=SIfo5EBtX90&amp;t=2515s 大団円]》||  || 剪輯 ||  華人影劇柔情場面常用
+|-
+| 決戰桃幻鄉《[https://www.youtube.com/watch?v=-_GEyu2_Lyg&amp;t=1393s 南海大決闘2・ワンタン]》 ||   || 剪輯 ||  
+|-
+| 呪泉鄉の伝說 ||《霹靂》[https://www.youtube.com/watch?v=YnbxZNGgXz0 文海奇葩讀千經] || 剪輯 || 
+|-
+|| 田中公平《天外魔境》系列|| OVA自來也おぼろ変-《大歩危小歩危右往左往》|| 《霹靂》[https://youtu.be/uYvZ3T5Brl0?t=1m54s 秦假仙（中期）] || 全曲 ||
+|-
+|| 新田一郎、難波弘之《ダロス》||《[https://www.youtube.com/watch?v=fDDDGXYzQHs ダロスのテーマ]》 ||《聖俠傳奇》天下毀滅者 || 全曲 ||
+|-
+|| 川井憲次《相聚一刻》||《[https://www.youtube.com/watch?v=uqJiQpBCVaE&amp;t=14m51s 一ノ瀬さんは明日も行く]》||《霹靂》雷公嬰|| 全曲|| 悠閒場面常用
+|-
+| rowspan = "4"  |川崎真弘&lt;br&gt;《魍魎戰記MADARA》系列《摩陀羅轉生篇》|| 《[https://www.youtube.com/watch?v=ngPP5jRHJHA&amp;t=607s 天使族の行軍]》|| 《霹靂》[https://www.youtube.com/watch?v=Ak_XWWi2Ouw 三教之子嫌疑戰]、[https://www.youtube.com/watch?v=A-XUyn2lG5I 十里斷腸崖之役開場] || 剪輯 || 王朝時期緊湊場面常用
+|-
+| 《[https://www.youtube.com/watch?v=ngPP5jRHJHA&amp;t=32m07s 魍鬼軍団のテーマ]》||《霹靂》[https://www.youtube.com/watch?v=IQ3mvm0o-Fw&amp;t=213s 七重冥王]、PC《幽靈箭》[https://www.youtube.com/watch?v=GzuMYS9vrV0&amp;t=685s 魔域場景曲] || 全曲 || （暫時沒有來自廣播劇的分類先借這邊放）
+|-
+|《[https://www.youtube.com/watch?v=ngPP5jRHJHA&amp;t=2083s 光・影王のテーマ]》 ||《霹靂》[https://youtu.be/uymFT2E-CG4?t=30 落日隙縫]|| 全曲||	收錄於《高福順影集配樂大全二》標識為"悲傷絕望"、
+|-
+|《[https://www.youtube.com/watch?v=ngPP5jRHJHA&amp;t=352s 時空を超えて]》||《霹靂》[https://youtu.be/rCp3mgIsaaY?t=129 觀風嶺查問非凡公子]|| 剪輯||
+|-
+| rowspan = "4"|  川崎真弘 OVA《[[快打旋風|STREET FIGHTER]] II V》快打旋風IIV || [https://www.youtube.com/watch?v=SP_wcC6JZ4o リュウとケンのテーマ] || 《天宇》[https://www.youtube.com/watch?v=Io4otT3noHU 鋒之殺片頭]、隻眼蒼狐 || 全曲 ||  
+|-
+|| [https://www.youtube.com/watch?v=dmKYIQWECWk 波動VSサイコパワー] ||  常用武戲開場 || 全曲 ||  
+|-
+|| [https://www.youtube.com/watch?v=8F7WfgeWF4c 空へ翔ける激闘] ||   || 剪輯 ||  
+|-
+|| [https://www.youtube.com/watch?v=PKlK-Rkt-aM 溢れる好奇心]||《天宇》藏神秘|| 全曲 ||  
+|-
+| rowspan = "4" | 川崎真弘《宇宙皇子－天上篇》||  [https://www.youtube.com/watch?v=wHqdm4KxzMw 闘いの中に]　||新視《諜海危情》[https://www.youtube.com/watch?v=phW-gS6be98 主旋律]、&lt;br&gt;亞視《勝者為王II天下無敵》《勝者為王III王者之戰》 || 剪輯 ||《勝者為王》引用[https://www.youtube.com/watch?v=hsELBjO4lJM 集錦]
+|-
+|| 友情、そして愛 || 《霹靂》七彩雲天、九錫君 || 剪輯||
+|-
+|| || 《霹靂》鳳朝容|| 剪輯||
+|-
+|| || 《天宇》秋八月[https://www.youtube.com/watch?v=41nz2R2CVk0 笑嘆一身] || 剪輯||
+|-
+|| 1978	羽田健太郎《宝島》|| [https://www.youtube.com/watch?v=yGoaya8aRlM&amp;t=134s 海は僕の生命（いのち）さ] || 《新七龍珠》丫頭與龜仙跳舞場面 || 剪輯 ||
+|-
+|| 1994 奧慶一《霸王大系龍騎士》||  [https://www.youtube.com/watch?v=eMfnoeMPFkE Ikuzus] ||《天宇》紅雲預言 || 剪輯||
+|-
+| rowspan = "2" | 川井憲次《無責任[[艦長]]》||《ザ・グッド,ザ・バッド,ザ・イレスポンシビリティ》||《天宇》戰印OP || 全曲 ||
+|-
+||《フォー・フィストフル・ラヴ・オンリー》||《天宇》孤獨鷹雄悲曲 || 全曲 ||
+|-
+|| 1988 馬飼野康二《燃える!お兄さん/森林好小子》|| 《日本一のスチャラカ元気男》|| 《霹靂》業途靈（搞笑時期）&lt;br&gt;《天宇》藏神秘|| 全曲||
+|-
+| rowspan = "2" | 1990 馬飼野康二《王家の紋章/尼羅河女兒》|| 《母なるナイル》|| 《霹靂》慾海劍真|| 全曲||
+|-
+|| [https://www.youtube.com/watch?v=aNKrUvcUz_I 愛と哀しみの女王 - アイツス]|| 《霹靂》渡鶴影 || 剪輯 ||
+|-
+|| 1989淡海悟郎《超人ロック》超人洛克||《[https://www.youtube.com/watch?v=VDEIZLR2yW4 アステロイド・カーン]》||《霹靂》青陽子 || 剪輯 ||
+|-
+|| 1989Nick Wood《聖傳》||《[https://www.youtube.com/watch?v=HBDSf-3d_1k 阿修羅]》||《霹靂》泣花魂 || 全曲 ||
+|-
+|| 1970 八木正生《あしたのジョー》小拳王|| 尾崎イサオ《[https://www.youtube.com/watch?v=mA7NUjqr_s4 あしたのジョー]》||《霹靂》[https://www.youtube.com/watch?v=H3FDYEexobY 飄雪銀貂] || 採譜 ||
+|-
+| rowspan = "2" | 1988 戸塚修《鎧伝サムライトルーパー》 || [https://www.youtube.com/watch?v=pwAI41PlWw0 落陽都市]、&lt;br&gt;[https://www.youtube.com/watch?v=SLzrOyJ0uNM 妖邪帝王阿羅醐] || 《霹靂》[https://www.youtube.com/watch?v=yIXlscovhhQ 銀刀太妹] || 全曲 ||
+|-
+|| [https://www.youtube.com/watch?v=BalTThl82rQ 五勇士出陣]、|| 《霹靂》[https://youtu.be/TB2oLwJde-U?t=869 雜用戰鬥曲（劈雲刀斷流）] || 剪輯 ||
+|-
+||  a.chi-a.chi club《魔神英雄傳》系列 || [https://youtu.be/97ZBLLHvzoY?t=2056 激闘] || 《霹靂》[https://www.youtube.com/watch?v=HXusMWPlqis 常用戰鬥曲] || 全曲 ||
+|-
+|| 1990 中澤武仁《バブルガム・クラッシュ!》 ||[https://www.youtube.com/watch?v=VFiQdbOV9ZQ Battle Police] || 《霹靂》網中人武曲(中期) || 全曲 ||
+|-
+| rowspan = "2"| 川井憲次《からくり剣豪伝ムサシロード》||[https://www.youtube.com/watch?v=COnT3O8fhZg ジパング国戦国絵巻] ||《霹靂》天督地宰 || 剪輯||
+|-
+|[https://www.youtube.com/watch?v=J5_hw8tebxA 下町風景] ||《霹靂》鷲靈寺三僧 ||全曲||
+|-
+| rowspan = "2"| 《[[北斗の拳]]》 || [https://www.youtube.com/watch?v=b1BN4R-4SSE TV版OST]-[https://www.youtube.com/watch?v=dj2VIDaYN3o 伝説の男] || 《霹靂》[https://www.youtube.com/watch?v=p7ePnKGUUj4 烈陽神1]、[https://www.youtube.com/watch?v=hok45XC-3uE 2]、[https://www.youtube.com/watch?v=x1QPYyKL4UY 3] || 採譜||
+|-
+||[https://www.youtube.com/watch?v=l2SHgLEb_JI 死兆星の蒼光]||《霹靂》烈陽神與鬼母|| 全曲||
+|-
+| rowspan = "4" | 川井憲次《人魚の森》||[https://www.muxiv.net/tc/playing/4879512 なりそこない] ||《霹靂》鬼王棺1 || 全曲||
+|-
+||[https://www.muxiv.net/tc/playing/4879514 死闘] ||《霹靂》鬼王棺2 || 剪輯||以上者為前奏
+|-
+||[https://www.muxiv.net/tc/playing/4879521 もう1人の自分] ||《霹靂》[https://youtu.be/2rA1GDqWBNI?t=135 集境宮鬥史] ||剪輯||早年影劇滄桑場面常用
+|-
+||[https://www.muxiv.net/tc/playing/4879498 能登半島神無木屋敷]||《天宇》摸骨靈婆|| 剪輯 ||
+|-
+||Marco D'Ambrosio《ジョジョの奇妙な冒険OVA》 ||[https://www.youtube.com/watch?v=4fVvwMvXkSk Radio Groove]||《霹靂》[https://www.youtube.com/watch?v=Kupe5CwGygU 劍魂TVOP]||剪輯||
+|-
+||岩崎文紀《魔術士オーフェン》||[https://www.nicovideo.jp/watch/sm1743530 黃昏]||《聖俠》芙蓉玉靈||全曲||
+|-
+|| 1994天野正道《ジャイアントロボ》||[https://www.youtube.com/watch?v=z-LIWxwnIXE 次回予告]||《霹靂》[https://youtu.be/apqyJ5V3cJg?t=232 一頁書魂斷黃甫橋]||剪輯||
+|-
+|| 1990 安西史孝《手天童子》||《降魔之章》會者定離||《霹靂》[https://www.youtube.com/watch?v=5pLuvd7vvkc 天河神魚]|| 剪輯||
+|-
+| rowspan = "3" | 1993 矢野立美《幻想叙譚エルシア》||[https://youtu.be/_AUJEvcauaE?t=1704 疾風]||《霹靂》[[https://www.youtube.com/watch?v=iN_W1tBK6Qo 風暴OP]]||全曲||
+|-
+|遙かなる夢||《天宇》藥叉共王||剪輯||
+|-
+||聖なる予言||《霹靂》龍君行&lt;br&gt;《天宇》[https://www.youtube.com/watch?v=jUrebipI-AQ 邪傳ED]||全曲||
+|-
+||1983 坪能克裕《聖戰士ダンバイン》||[https://www.youtube.com/watch?v=zjbdH7JrvXk オーラ・バトラー]||《霹靂》[[https://www.youtube.com/watch?v=PBhWjGUvUWE 天命ED]]||剪輯||
+|-
+|}
+
+== 來自遊戲 ==
+{| class="wikitable sortable" style="margin:auto;"
+|-
+! 原所屬作品 !! 曲名 !! 《編入劇集名》人物、場景 !! 改編方式 !! 備註 
+|-
+| 1988 永田英哉《Ys [[伊蘇系列|伊蘇]]》 || 《[https://www.youtube.com/watch?v=9CUW0Jh7z_c PALACE OF SALMON /]サルモンの神殿》 ||《霹靂》[https://youtu.be/VY3H58R-Q00?t=68 黃金籠誅十七] || 採譜 ||收錄於《霹靂天闕─霹靂系列布袋戲配樂 第一輯》&lt;br&gt; [https://www.youtube.com/watch?v=O8w6hd9PfWM 另有悠閒版]則未發行音源
+|-
+|1992瀬津丸勝、赤坂東児《ダークウィザード》||《[https://www.youtube.com/watch?v=v6JSOr5H14I イメルダー誅殺]》||《霹靂》[https://youtu.be/fNMUv1Blc1s?t=23 秋風之刀] || 全曲 ||
+|-
+| 1993天下一管弦樂團《新桃太郎傳說》|| 《[https://www.youtube.com/watch?v=xT3DwYOUun0&amp;t=1778s 神仙鄉]》、《[https://www.nicovideo.jp/watch/sm10581566?from=384 修行の旅]》 ||《霹靂》[https://www.youtube.com/watch?v=yUM9YSH_58g 無難佛]、PC幽靈箭西丘場景曲 || 全曲||
+|-
+| rowspan = "2"  | 《[https://www.youtube.com/watch?v=2k_sqSXw_jM 三国志正史] [https://www.youtube.com/watch?v=jOptYtuPReM 天舞スピリッツ]》 || [https://www.youtube.com/watch?v=B43Igsxsy0o 黄河の流れ] || 《霹靂》[https://www.youtube.com/watch?v=44e-tNA0nxk 百鍊生]、&lt;br&gt;RPG《聖石傳說》[https://www.youtube.com/watch?v=m87Z-vBxTcw 寒香村] || 剪輯、改編 ||  
+|-
+| [https://www.youtube.com/watch?v=u8nJNWwCeTA&amp;t=1007s 天山山脈の風] || 《霹靂》[https://www.youtube.com/watch?v=yS7IPVldz4w 愁月仙子] || 全曲 ||  
+|-
+| rowspan = "4"  | 大島ミチル&lt;br&gt;[[惡魔城系列]]《月下夜想曲》 || [https://www.youtube.com/watch?v=wIlXbaYudXY 諸神鎮魂曲] || 《霹靂》[https://www.youtube.com/watch?v=Qac0S-qabEw 冷封塵]、[https://www.youtube.com/watch?v=vkPmI1s2ORA 印心洞] || 改編 ||  
+|-
+| [https://www.youtube.com/watch?v=IYwS6481oQk 失われた彩画] || 《霹靂》[https://www.youtube.com/watch?v=wR7kwxot7z0 千葉先生]、[https://www.youtube.com/watch?v=ez-fDP0Pjbg 靈光乍現] || 改編 ||  
+|-
+| [https://www.youtube.com/watch?v=K5qr41fOfPg 魔性の宴] || 《霹靂》秋末悲歌殺人曲 || 全曲 ||  
+|-
+| [https://youtu.be/jpo_gYJb1iE 黄金の舞曲] || 《霹靂》[https://www.lizhi.fm/1526218/2525480803760686086 千年一擊（女媧神像）] || 採譜 ||  
+|-
+| rowspan = "2"  | 葉山宏治&lt;br&gt;《グランチェイサー》CyberSpeedway || [https://www.youtube.com/watch?v=BW1O9Gi9Dy8 Cloud Gate] || 《金光》[https://www.youtube.com/watch?v=vKyudz5v9RI 金光霹靂菩薩藏OP]、[https://www.youtube.com/watch?v=o0GmPCjo5UQ 金光十八龍OP]&lt;br&gt;《霹靂》創世狂人TVOP2、[https://www.youtube.com/watch?v=n_Ab_3Z5Ugg 風之痕怒殺策謀略]&lt;br&gt;TBS《SASUKE/極限體能王》[https://www.youtube.com/watch?v=5cPEYrstTKg&amp;t=3m39s OP1][https://www.youtube.com/watch?v=O3fsV8arumQ&amp;t=1m43s 2]、[https://www.youtube.com/watch?v=R5dLZEEB2O0&amp;t=1m53s 3] || 全曲、剪輯 || 另有[https://www.youtube.com/watch?v=iMeq3pGxMzo 野台戲版]
+|-
+| [https://www.youtube.com/watch?v=VUwhRmW3Buo Knight Gear] ||TBS《SASUKE/極限體能王》 [https://www.youtube.com/watch?v=Tltc5Y-GAZo&amp;t=1m52s OP4]、[https://www.youtube.com/watch?v=82Vi1DiHPdc&amp;t=1m23s 5]、[https://www.youtube.com/watch?v=wDgAzgnYWfU&amp;t=1m38s 6] || 剪輯 || 從第4集用到第17集
+|-
+| rowspan = "2"  |井內龍次《莎木》 || [https://www.youtube.com/watch?v=VcMqU7gfi_E 莎花] || 《天宇》晏小丹沉思 || 全曲 ||  
+|-
+| [https://www.youtube.com/watch?v=YNBatWu5WXY A New Departure] || 《霹靂》[https://www.youtube.com/watch?v=IdmeTbW8Ynk 霹靂劫TV版片尾]、&lt;br&gt;《天宇》傳說策馬夜巡 || 全曲 ||  
+|-
+|《天誅》 || [https://www.youtube.com/watch?v=vkxKR4ZG7I8 悠遠] || 《霹靂》天魔會聖母、[https://www.youtube.com/watch?v=ni2pBvyggik 魔界聖母] || 全曲、改編 ||  
+|-
+| [[SNK]]新世界樂曲雜技團&lt;br&gt;《World Hero Perfect/世界英雄榜完美版》 || [https://www.youtube.com/watch?v=RoFe1NW-mKI Halo in Asia （元祿年代）] || 《天宇》武神伐千秋&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=SlwtdcbCD9s 七絕招魂] || 全曲、改編 ||  
+|-
+| rowspan = "3"  | [[最終幻想系列|最終幻想系列]] || [https://www.youtube.com/watch?v=pUT4_eAa9S4 シャドウのテーマ] || 《霹靂》雪中狼 || 全曲 ||  
+|-
+|| [https://www.youtube.com/watch?v=IpqJ9l0w9zU ティナのテーマ] || 《天宇》[https://www.youtube.com/watch?v=TQdEr1-whSY 神殿劍者]&lt;br&gt;巨登《驚世霹靂》[https://www.youtube.com/watch?v=1HBESgj2I9Q OP] || 全曲、改編 ||  
+|-
+|| [https://www.youtube.com/watch?v=MuRGBJoVYJ4  星降る峡谷] || 《天宇》離凡戰將 || 剪輯 ||  
+|-
+| 蔡志展《[[三國]]演義2》 || [https://www.youtube.com/watch?v=qvkHrqGWoMo 片頭音樂] || 《天宇》鳥談天 || 全曲 ||  
+|-
+| 蔡志展《[[俠客風雲傳|武林群俠傳]]》 || [https://www.youtube.com/watch?v=4V30bJnlU1w 鑄劍山莊] || 《天宇》鍍霜劍披雪飛&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=l8QdQskokaQ 韶雲]、[https://www.youtube.com/watch?v=vXn2TGqu4QI 曲雲] || 全曲、改編 || 主段落疑似採自施孝榮《俠客》，&lt;br&gt;同曲亦使用於智冠發行之單機遊戲《[[港漫|風雲]][https://www.youtube.com/watch?v=3pjQawGreOw 天下會]》
+|-
+| rowspan = "2"  | 蔡志展、林宏佳、羅啟瑞、楊斯雄&lt;br&gt;-智冠1994 DOS版《倚天屠龍記》|| [https://www.youtube.com/watch?v=XQz4AuNI4zc CDII05]&lt;br&gt;[https://www.youtube.com/watch?v=BZu0S0pCRGo 主旋律]、[https://www.youtube.com/watch?v=eJMKI2jQur4 CD版主旋律] || 《天宇》楓紅林少主&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=v99KhIZeI0M 江湖血路OP]、[https://www.youtube.com/watch?v=rNUJmBGAh-M 瑤琴巧韻] || 全曲、改編 || 收錄於《高福順影集配樂大全二》
+|-
+|[https://www.youtube.com/watch?v=KyXwFRhBKpQ CDII04] || 《天宇》赤錦少 || 剪輯 || 同曲前半用於《[[金庸群俠傳]]》武當派場景
+|-
+| 蔡志展《新蜀山劍俠傳》 || 李婷宜《[https://www.youtube.com/watch?v=Ab0CUxzGvgQ 情難全]》 || 《天宇》[[https://www.youtube.com/watch?v=GK2im6BEFrY 紅雲再現嘯雷谷]] || 全曲 ||  
+|-
+| 章世和、黃浩倫TGL《聖章：女神傳說》 || [https://www.youtube.com/watch?v=m5dUU1E17Cs 主旋律] || 《霹靂》[https://www.youtube.com/watch?v=UEojxu6RKBU 末世路] || 全曲 || &lt;s&gt;他被殺他被殺、好悲傷好悲傷&lt;/s&gt;&lt;br&gt;嚴格說起來算是少數的授意沿用&lt;ref&gt;同一組音樂製作人轉任動脈音樂後便沿用同曲&lt;/ref&gt; 
+|-
+| rowspan = "3"  | 関戸剛《武藏伝》 || [https://www.youtube.com/watch?v=9_Amc-HYp1c 走れ!剣豪] || |《霹靂》[https://www.youtube.com/watch?v=ozkDjlsjmbE 天策真龍七星匯聚] || 全曲 || 
+|-
+|| [https://www.youtube.com/watch?v=FBzZB7rZlqA The Musashi Legend] ||《霹靂》一箭五命 || 全曲 || 
+|-
+|| [https://www.youtube.com/watch?v=Wi5BKHTyQG0 闇の螺旋塔] ||《霹靂》[https://www.youtube.com/watch?v=iAWHLBwZ408 近日峰邪神] || 剪輯 ||
+|-
+|| 弘煜《三國誌異－征天風舞傳》 || [https://www.youtube.com/watch?v=8ofvIiwlDO0&amp;t=886s 箭與弦] || 《天宇》尋風逐流定江煙 || 全曲 || 疑似參照《霹靂》[https://www.youtube.com/watch?v=MR-TRWtEVu8 佾雲]角色曲
+|-
+|| 《闘神伝》 ||[https://www.youtube.com/watch?v=4wDZcCBA1r8 モンドのテーマ] || 《天宇》九世長青 || 剪輯 ||
+|-
+|《九十九夜》 || [https://youtu.be/cDhNQQnV8ZM Before the war]|| [https://youtu.be/xNCch6OHE_4 《金光》天下風雲碑，眾人議論紛紛] || 剪輯 || 雖僅只議論那段有明顯引用，但金光引用此配樂恐怕不是第一次
+|-
+|《天堂二》 || [https://www.youtube.com/watch?v=F7Yw8C8fCOA After the Storm（雨過天晴）]|| [https://www.youtube.com/watch?v=aDuV39Ir6Qc 《天宇》紀子焉vs刀隼] || 剪輯 || 刀隼講出「客套」兩字之前另有沿用他曲，細節不明
+|-
+|《超時空之鑰クロノクロス》||[https://www.youtube.com/watch?v=923fVDDwaHo op] ||《天宇》愁潭獨釣月[https://www.youtube.com/watch?v=Vv7W1a9yA00 1][https://www.youtube.com/watch?v=hbKMCXGWmWU 2]&lt;br&gt;《霹靂》[https://www.youtube.com/watch?v=6Jhluw_lj6E 月靈公主]|| 剪輯、改編||
+|-
+|宇峻《新絕代雙驕》|| 殺機 ||《霹靂》[[https://www.youtube.com/watch?v=kpWp9MO4Ai8 俠刀狂行]] || 全曲 ||
+|-
+| 2000 風来のシレン2|| [[https://www.youtube.com/watch?v=v_zNrIrRofE ナタネ村]] ||《金光》醜孔明 || 全曲 ||
+|-
+| TGL《守護者之劍》||伊格利亞之章[https://www.youtube.com/watch?v=Lt48Y77kEF8 BGM-5]||《天宇》邪傳OP || 全曲 ||
+|-
+|1995《パンツァードラグーン》飛龍騎士||《[https://www.youtube.com/watch?v=8IVcWQpAQu0&amp;t=2642s スタッフロール(オケストラ)]》 ||《霹靂》千山橋老||全曲||
+|-
+|1992久石譲《天外魔境2》||《[https://www.youtube.com/watch?v=397gP2U3eR8&amp;t=1422s 神への挑戦]》 ||《霹靂》金角戰牛||剪輯||
+|-
+| 1992向谷實《三國志III》|| 《[https://www.youtube.com/watch?v=b_2azX9pGas&amp;t=1993s 帝]》||《霹靂》[https://www.youtube.com/watch?v=9mkhuHhsdCA 九代令公] || 全曲 ||
+|-
+| rowspan = "2"  |1995 服部隆之《三國志5》||《[https://www.youtube.com/watch?v=L_FT9-EqDS0 翠華之宴]》||《聖俠》上至尊||全曲||
+|-
+||《[https://www.youtube.com/watch?v=Bhwf63C8EjQ&amp;t=1338s 光芒之龍]》||||採譜||收錄於《高福順影視配樂大全2》標示為《最佳片頭曲》
+|-
+| rowspan = "2"  |2000津野剛司《三國志6》||《[https://www.youtube.com/watch?v=VnJQs8hLOnY 存亡之戰]》 ||《天宇》醉刀－飲酒待戰||全曲||
+|-
+||《[https://www.youtube.com/watch?v=vu6_5dx3JyI 華北隆隆]》 ||《天宇》病魂－夜龍吟嘯||全曲||
+|-
+||成毛美智子《WILD ARMS: Alter Code F》||《[https://youtu.be/igQJOIrH4LE?t=3106 不安から焦燥へ]》||《天宇》優質人龍||全曲||
+|-
+||1995 瓜田幸治《[https://www.youtube.com/watch?v=c8msRcR3uco リグロードサーガ]/Mystaria: The Realms of Lore》||《[https://www.youtube.com/watch?v=WN3jMIH7J-8 OP]》||《聖俠》花劍千日紅||全曲||
+|-
+||1999 児玉隆《[https://www.youtube.com/watch?v=kEFg7ucuSWw アークザラッド]/亞克傳承》||[https://www.youtube.com/watch?v=kEFg7ucuSWw 別れ]||《天宇》日玄師、娘孀||全曲||
+|-
+| rowspan = "2"  | 2016《大唐無雙》||[https://www.youtube.com/watch?v=Hfc8uiJGRKc 問鼎天下]||《天宇》怒雨龍玄||改編||
+|-
+||[https://www.youtube.com/watch?v=pirNkW3bkl8 破陣]||《天宇》病相濡||剪輯||
+|}
+
+== 相關 ==
+* [[專用BGM/角色歌]]
+* [[原創風行]]
+* [[布袋戲]]
+* [[逆流]]
+
+== 回應 ==
+
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+&lt;references/&gt;
+
+[[分類:布袋戲]]
+[[分類:音樂列表]]

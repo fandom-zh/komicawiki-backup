@@ -1,0 +1,379 @@
+{{h0|キズナアイ/絆愛/Kizuna AI}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub row}}
+|}
+
+: {{size|24|{{color|Pink||'''はいどうも～バーチャルYouTuberキズナアイです！'''}}}}
+: [[成句/幹你○●|{{size|24|{{color|Pink||&lt;s&gt;'''ふぁっきゅ～'''&lt;/s&gt;}}}}]]&lt;ref&gt;自{{youtube|FyFYH-7Ody0|惡靈古堡7實況 第19回}}之後學起來的[[問題發言]]，尤其是15分01秒的那一聲最經典，&lt;s&gt;後來使得一堆人對她的第一印象就是ふぁっきゅ&lt;/s&gt;。{{youtube|8PM_tUM6_dY|後來竟然放了一段表演以不同語調說「ふぁっきゅ」的影片…}}&lt;/ref&gt;
+[[File:KizunaAi1.jpg|350px|right]]&lt;!--{{-}}--&gt;
+
+== 基本資料 == &lt;!-- 上面放人設 下面暫時先放原本在舊頁面寫的東西 --&gt;
+* 所屬企業：Ativ8→Kizuna AI株式会社
+: 人設：[https://twitter.com/morikuraen 森倉円]
+: 3D模型擔當：[https://twitter.com/tomitake_3d トミタケ]（製作）、[https://bowlroll.net/user/417 TDA]（監修）
+: &lt;s&gt;[[中の人]]？那是甚麼好吃嗎？&lt;/s&gt;[[聲優|CV]]：春日望
+: 生日：6月30日&lt;br&gt;身高：156cm&lt;br&gt;體重：43kg&lt;br&gt;三圍：B85、W59、H83
+
+== 介紹 ==
+* 創造了「[[虛擬YouTuber]]」這個名詞的世界初（自稱）虛擬YouTuber，被視為業界的「親分」
+* 自封為インテリジェントなスーパーAI（賢惠的超級人工智慧)&lt;s&gt;，然而事實上是行事和性格都相當的殘念，在[[遊戲實況]]時也常常出包&lt;br&gt;結果漸漸就被戲稱為人工智障（Artificial Idiot）、ポンコツ&lt;/s&gt;
+** 學力其實不差，甚至在因幡はねる主辦的第6回Vtuber學力測驗中，理科得到幾乎滿分的成績。&lt;s&gt;然而國語跟社會還是相對慘澹&lt;/s&gt;
+* 戴在頭上帶有粉紅色心型裝飾的髮箍稱為「ぴょこぴょこ」（晃悠悠）
+* 她所處的空間是除了她之外空無一物，因為不堪寂寞在{{youtube|COXCojRKbk8|第9回}}中還在Unity商店「買了」一家人（3D模型）當作朋友
+** 沒想到這家人在2018年[[ツンデレ]]{{youtube|L-CcUhNRS2s|動畫}}還健在啊…
+* 很在意名字的語調一直被念錯這件事，特別拍了一個{{youtube|zpGHzMRzIPg|影片}}正音
+* 常在影片中表演各種[[顏藝]]和慘叫，某些時候也展現出毒舌、守財奴、イキリ等等性格
+* 喜歡[[矢澤妮可]]與日本[[偶像]]團體「櫸坂46」，但不喜歡太多男性的作品&lt;s&gt;，[[GL|百合]][[廚]]&lt;/s&gt;
+** 甚至愛她愛到[https://youtu.be/9Ae5d86CC6o?t=846 在生放送發下毒誓]，如果半年後沒有達成英檢3級及格的目標就要砍掉自己經營很久的LLSIS帳號…所幸後來無事通過了
+
+== 主要事紀 == &lt;!-- 例如說訂閱數XX人突破 商業コラボ 以及大型コラボ活動等放這裡 --&gt;
+=== 2016年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="110px" | 12月1日
+| 名義上的初投稿影片{{youtube|NasyGUeNMTs|「【自己紹介】はじめまして！キズナアイですლ(´ڡ`ლ)」}}，不過頻道中是{{youtube|EoPFGj3uuYo|「Twitterアカウントを作るよ！」}}的次序排在最舊
+|-
+! width="110px" | 12月2日
+| 投稿影片{{youtube|pU3iGpwKxKc|「体力測定をやってみる！」}}，點擊數長期保持在所有影片的前3名內&lt;s&gt;也讓我們認識到在她的空間連Y軸Z軸都沒有&lt;/s&gt;
+|-
+! width="110px" | 12月20日
+| 投稿了首次遊戲實況{{youtube|v79HxnWIuNY|《INSIDE》}}&lt;s&gt;，從此之後就被定位成慘叫產生機&lt;/s&gt;
+|}
+
+=== 2017年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="110px" | 1月11日
+| {{youtube|O3E_sWxeTlg|「スナック 愛」初次開店}}
+|-
+! width="110px" | 1月16日~&lt;br&gt;2月26日
+| 由於在{{youtube|W7Du_Yw7hZU|第21回}}與{{youtube|geljnhxZfdA|第30回}}中提到她的衣服是投影出來的=實質全裸，之後就被YouTube判定為不良內容而被封鎖頻道&lt;br&gt;&lt;s&gt;不只是實質BANs成員，還是BANs始祖&lt;/s&gt;
+|-
+! width="110px" | 1月19日~&lt;br&gt;3月24日
+| 由於前述的YouTube封鎖事件，曾經在[http://www.nicovideo.jp/user/63559946/video ニコニコ]另起爐灶&lt;br&gt;但由於只是一般會員有最多只能投50部影片的限制，在YouTube恢復之後就從此放生了Nico{{censored|…當然也不排除是因為某些惡意留言的關係讓她決定不留下}}
+|-
+! width="110px" | 2月15日
+| {{youtube|up3W6vwnqWE|首次接受日本的VR新聞網「PANORA」採訪}}，PANORA那邊還寫了2萬字的[http://panora.tokyo/20138/ 新聞稿]
+|-
+! width="110px" | 2月25日
+| YouTube訂閱數突破10萬人
+|-
+! width="110px" | 3月17日
+| 首次工商服務{{youtube|F0C9MTA6fY4|《幻獣契約クリプトラクト》}}
+|-
+! width="110px" | 3月23日
+| YouTube訂閱數突破20萬人，自該日開始影片投稿頻率提升到1天1次
+|-
+! width="110px" | 3月31日
+| {{youtube|c=UCbFwe3COkDrbNsbMyGNCsDg|title=副頻道「A.I.Games」開設}}
+|-
+! width="110px" | 4月5日
+| YouTube主頻道訂閱數突破30萬人
+|-
+! width="110px" | 4月17日
+| YouTube主頻道一度被封禁，次日回復正常
+|-
+! width="110px" | 5月11日
+| 在360Channel{{youtube|SV1KvzvKAB4|首次投稿了360度影片}}&lt;s&gt;，但是直到2018年都還只有她和宇佐元杏奈在那邊投稿耶&lt;/s&gt;
+|-
+! width="110px" | 5月13日
+| 首次進行直播，{{youtube|6fzoyHWk5eY|玩的是《8分音符ちゃん》}}
+|-
+! width="110px" | 6月30日
+| 雖然是1周年生日，{{youtube|vnzuI0ibiJU|但是卻忙到不知不覺，反而在拍工商影片…}}
+|- 
+! width="110px" | 7月5日
+| {{youtube|P8o2kinfSdo|首次投稿ASMR影片}}
+|-
+! width="110px" | 7月7日
+| {{youtube|t6dcLaLNCBw|《八月的棒球甜心》工商}}&lt;s&gt;，但內容大部份都是她在性騷擾有原翼&lt;/s&gt;
+|-
+! width="110px" | 8月31日
+| 最後1次標題後面有附數字的影片{{youtube|ux9sE2S8Pho|「&lt;nowiki&gt;#&lt;/nowiki&gt;170」}}
+|-
+! width="110px" | 9月25日
+| YouTube訂閱數突破80萬人
+|-
+! width="110px" | 11月8日
+| {{youtube|sVLS2AlvI1M|首次發售Line貼圖}}
+|-
+! width="110px" | 11月24日
+| {{youtube|ExC9XIYfxf0|與The Anime Man合作}}
+|-
+! width="110px" | 12月1日
+| {{youtube|1M6J5gIM1Bk|頻道1周年生放送}}
+|-
+! width="110px" | 12月17日
+| YouTube訂閱數突破100萬人，為史上第一位達成百萬訂閱的VTuber
+|-
+! width="110px" | 12月22日
+| 宣布[http://www.goodsmile.info/kizunaai/ 與GSC合作]{{youtube|-WunOLSHs4Q|推出官方周邊}}與{{youtube|V109heYsPBY|黏土人}}
+|}
+=== 2018年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="110px" | 1月5日
+| {{youtube|wT_GFTDpUno|首次在影片中提到其他虛擬YouTuber（輝夜月）}}
+|-
+! width="110px" | 1月12日
+| {{youtube|2JrHJ1-BV3k|一人紅白歌合戰}}&lt;s&gt;，但是在投稿的1分鐘前居然被ミライアカリ說「一人紅白很無聊」&lt;/s&gt;
+|-
+! width="110px" | 2月3日
+| YouTube副頻道訂閱數突破60萬人
+|-
+! width="110px" | 2月10日
+| YouTube主頻道訂閱數突破150萬人
+|-
+! width="110px" | 2月23日
+| {{youtube|sM_cbrs2qOw|宣布將於2018年3月18日在YouTube Space Tokyo舉辦100人限定的粉絲見面會「A.I.Channel Fan Event2018」}}
+|-
+! width="110px" | 2月27日
+| 宣布將於2018年4月6日開始在BS日テレ經營自己的電視節目[http://panora.tokyo/54462/ 「キズナアイのBEATスクランブル」]
+|-
+! width="110px" | 3月12日
+| 受邀上了[[德井青空]]和[[飯田里穗]]主持的ニコニコ番組當來賓{{twitter|aichan_nel|973174226159980545|並一起比出ニコニコニ～}}&lt;s&gt;，死而無憾&lt;/s&gt;
+|-
+! width="110px" | 3月13日
+| {{youtube|kebFBXPprIo|被日本政府觀光局指名為}}[https://us.jnto.go.jp/cometojapan/ 訪日促進大使]
+|-
+! width="110px" | 3月21日
+| YouTube副頻道訂閱數突破70萬人
+|-
+! width="110px" | 4月1日
+| {{youtube|1VuD4HVYFEg|首次與其他虛擬YouTuber合作（與輝夜月進行愚人節企劃）}}{{censored|，2人的魂互換了一天}}
+|-
+! width="110px" | 4月29日
+| 參與ニコニコ超会議2018，並且在超音楽祭演唱會2018中與&lt;s&gt;ラスボス&lt;/s&gt;小林幸子{{youtube|EzzDa5TuFnc|合唱千本櫻}}
+|-
+! width="110px" | 5月1日
+| {{youtube|0oz3s2X-u4M|A.I.Channel Fan Event2018回顧影片}}
+|-
+! width="110px" | 5月9日
+| {{youtube|L-CcUhNRS2s|投稿ツンデレ影片}}，在短期內還引起了其他虛擬YouTuber競相模仿
+|-
+! width="110px" | 5月15日
+| {{youtube|V3gE4OXNck0|ニコニコ超会議2018回顧影片}}
+|-
+! width="110px" | 5月16日
+| YouTube副頻道訂閱數突破80萬人
+|-
+! width="110px" | 5月31日
+| {{youtube|keL1XBW-qlE|宣布加入虛擬YouTuber事務所(x)互助會(?)}}[https://upd8.jp/ 「upd8」]
+|-
+! width="110px" | 6月5日
+| {{youtube|RvB-kv9q7Pk|模仿Pewdiepie唱Hej Monika}}，{{youtube|2FpBYaQV8sQ|之後還被PDP本人巡迴（8:00處開始）}}
+|-
+! width="110px" | 6月30日
+| {{youtube|ao-Ja2nSpQ0|於ニコファーレ舉辦2周年生日慶生會「A.I. Party！」}}&lt;s&gt;，總算有好好過生日了&lt;/s&gt;&lt;br&gt;{{youtube|eOgLvAIaipw|除了有來自upd8成員的祝詞之外（慶生會前半）}}，甚至連輝夜月、[[ミライアカリ]]、[[電脳少女シロ]]、のじゃおじ、ばあちゃる、ときのそら、富士葵等7人也作為嘉賓出場&lt;br&gt;'''可謂首次的四天王集合'''
+|-
+! width="110px" | 7月8日
+| YouTube副頻道訂閱數突破90萬人
+|-
+! width="110px" | 7月15日
+| {{youtube|4byaJ9w47uU|個人原創單曲「Hello,Morning 」}}，同日YouTube主頻道訂閱數突破200萬人
+|-
+! width="110px" | 7月20日
+| キズナアイ杯預賽開始，全88人分成11組進行《瑪利歐賽車8DX》比賽
+|-
+! width="110px" | 8月11日
+| キズナアイ杯準決賽與決賽開始{{censored|，最終由歌衣メイカ奪得冠軍}}
+|-
+! width="110px" | 8月13日
+| 副頻道A.I.Games訂閱數突破100萬人，成為虛擬YouTuber界首個擁有雙100萬訂閱數頻道的存在
+|-
+! width="110px" | 8月19日
+| 於2018台灣漫博作為最終日的嘉賓，{{youtube|MaVO8oTstCA|並接受台灣傳媒採訪}}
+|-
+! width="110px" | 8月31日
+| 於C3AFA Jakarta 2018出演首日活動「Kizuna AI Virtual Appearance」，並且和印尼的Vtuber Maya Putri有互動
+|-
+! width="110px" | 9月19日
+| 因應2018年夏天的北海道大地震以及西日本豪雨，參與upd8、hololive等業界公司聯辦的慈善生放送（不留影片檔）&lt;br&gt;捐款所得的2倍金額以「株式會社Wright Flyer Live Entertainment」的名義給予日本紅十字會
+|}
+
+=== 2019年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="110px" | 4月5日
+| YouTube主頻道訂閱數突破250萬人
+|-
+! width="110px" | 6月25日
+| bilibili搬運組宣布官方化並改名為「AIChannel官方」
+|-
+! width="110px" | 6月29日
+| bilibili平台關注人數突破90萬
+|-
+! width="110px" | 8月3日
+| bilibili平台關注人數突破99萬
+|}
+
+=== 2020年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="110px" | 3月28日
+| YouTube主頻道訂閱數突破270萬人
+|-
+! width="110px" | 5月9日
+| bilibili平台關注人數突破100萬
+|-
+! width="110px" | 6月20日
+| bilibili平台關注人數突破110萬
+|-
+! width="110px" | 8月4日
+| YouTube副頻道訂閱數突破150萬
+|-
+! width="110px" | 8月18日
+| YouTube主頻道訂閱數突破280萬
+|-
+! width="110px" | 8月3日
+| bilibili平台關注人數突破120萬
+|}
+
+== 相關人物 ==
+* 隨機單詞產生器（江江機）
+** 生成單詞的立方體形機器，最初沒有外觀，後來絆愛給了它設計
+
+* 黑愛（black AI）
+** 絆愛感染了病毒並[[黑化|變黑]]的版本，在2017年6月15日首次出現
+** 性格、配色（黑色服裝+紅眼）全都與絆愛相反，特點是無動力和懶惰的音調
+** 在2018年9月10日（A.I.Channel）和2018年9月15日（A.I.Games）在絆愛兩個官方頻道裡與絆愛合（對）作（抗），之後也有單人影片/直播的場合
+
+* 美燦（みーちゃん）
+** 貨物人員，出現在烹飪類影片裡&lt;s&gt;展示各種危險技巧&lt;/s&gt;
+
+* 惠利子（えりこ）
+** Kizuna AI株式會社社長
+
+* 望醬（のんちゃん）
+** 即&lt;s&gt;裡面的人&lt;/s&gt;春日望，Kizuna AI株式會社顧問
+
+* 歐卡皮（おかぴ）
+** Kizuna AI株式會社AIG企劃staff
+
+== 聲演作品 ==
+* 魔法少女サイト：[http://www.itmedia.co.jp/news/articles/1803/19/news058.html 管理人・捌]
+
+=== 遊戲 ===
+* 本人（絆愛）役：
+** ミトラスフィア -MITRASPHERE-
+** 八月的棒球甜心
+** ネットクレーンゲーム とるモ
+** [[碧藍航線]]
+*** 在聯動活動中[[碧藍航線/登場人物一覽-聯動角色#キズナアイ|除本家外連同另外三個造型]]&lt;ref&gt;包括副頻道A.I.Games的造型&lt;/ref&gt;作為配布和建造角色推出&lt;s&gt;，一個智障不夠做聯動再來三個給大家看&lt;/s&gt;
+** [[白猫テニス]]
+*** 在遊戲2周年活動中作為'''免費'''配布角色推出，&lt;s&gt;最吵的角色，明明以智障的人氣放課金角都不意外的&lt;/s&gt;
+** 逆転オセロニア
+** ドールズオーダー
+** クラッシュフィーバー
+** [[LoveLive!|ラブライブ! スクールアイドルフェスティバル]]
+** グルーヴコースター ワイワイパーティー!!!!
+** テクテクテクテク
+** プロジェクト東京ドールズ
+** VGAME
+** CytusⅡ
+** 第七史詩
+==音樂==
+{{collapse top
+|音樂
+|}}
+*'''專輯'''
+*hello, world
+**Hello, Morning
+** future base
+**new world
+**over the reality
+**miracle step
+**Hello, Morning（Pa's Lam System Remix）
+**melty world
+**hello, alone
+**meet you
+**mirai
+**AIAIAI
+*Precious Piece
+**Precious Piece
+**Cords Of Love
+*Replies
+**Awakening
+**the MIRACLE
+**FL-AI-YER
+**Again
+*愛と花
+**ラブしい
+**かりそめ
+*'''單曲'''
+**Sayチーズおかき
+**Sky High
+**Touch Me
+*'''合作'''
+**The Light
+**ロボットハート
+**Fireburst
+*'''致敬'''
+**SUPER RAP BATTLEES
+**キズナミ
+**HEART BEAT
+{{collapse bottom}}
+
+== 「四個絆愛」企劃炎上事件 ==
+* 2019年5月25日，Activ8宣告啟動「四個絆愛」企劃，簡而言之就是將中之人增加至4人
+** 新增的絆愛之後逐一在影片裡登場{{ref|2號於6月8日登場，3號於6月15日登場}}，到6月30日的生日會活動上則僅有主打中國市場的「中文愛」在上海出場
+** 除中文愛外另外三人都是共用同一角色模組（包括主頻道及AI Games，模組外觀'''沒有任何變化'''）、只能以聲線差異區分，島民主要以「（初/2/3）號（機）」區分三個絆愛
+*** 有些觀眾會稱初號為「老愛」
+*** 2號的聲線感覺較為成熟，[[ボク少女|第一人稱為「ぼく」]]
+*** 3號的聲線比較接近初號，較活躍於遊戲實況
+** 在企劃公佈後不久，網路上有[https://note.mu/toton_kouzai/n/n9c9d02e45472 文章]聲稱原團隊成員已有4人被開除，並聲稱企劃的目的是要架空[[初號機|初號]]
+
+* 企劃正式開始後初號出現的頻率逐漸減少，2、3號由最初與初號共演逐漸變成獨掌大旗，似有接掌初號的工作的趨勢
+
+* {{censored|到2019年7月5ch鄉民挖出擬似是初號中之人的抱怨推文（內容沒有說明抱怨的內容、人物或/和事項），數日後Activ8董事在Facebook上不點名批評公司員工}}
+** {{censored|雙方的發文被鄉民認定是隔空筆戰，連結到上面的架空說後}}迅速在各地（尤其在華文區及中國大陸）引發軒然大波，官方Youtube影片和直播都出現質疑及謾罵聲音，Bilibili官方頻道的訂閱數也從當時即將破百萬一路回落至初進中國時的90萬上下
+*** 此後騷動持續延燒期間頻道粉絲數目似被有意壓低似的始終無法破100萬大關，被認為是官方與民間粉絲直接對決的依據
+
+* 2019年8月，原團隊成員「大坂武史」以Activ8執行董事名義[https://i.imgur.com/GCafTw1.png 發佈公告]，表示今後初號將會專心於發佈歌唱影片之上
+** 但公告裡以Voice Model稱呼中之人{{censored|讓不少網民想起早前[[ゲーム部プロジェクト]]騷動中官方稱角色為「Ctuber」的處理手法}}再次引發不滿和炎上
+
+* {{censored|2019年9月中文愛在Bilibili上發佈影片，但因為影片中出現中國版本的地圖（如把台灣標示為省、與日本有主權爭議的島嶼使用中方標記）及她大喊「中國台灣，出發」，影片流出後引發不少台灣和日本網民揚言抵制}}
+
+* 2019年11月30日，[https://panora.tokyo/archives/2822 Activ8對絆愛的營運體制作出重組]，同時&lt;s&gt;終於肯&lt;/s&gt;就外表上毫無分別的初、2、3號加入可區分要素
+** 同時表示中文愛的運營今後將全權交給中國的事務所「哎咿多工作室」負責
+** 在同年12月1日的生放送中2號和3號分別命名為「キュール」與「すきぴ」，頭髮分別加上了藍色{{color|blue||＃}}號與黃色{{color|orange||＊}}號髮夾以作分辨
+** 2號、3號，中文愛之後經由徵募分別得到「loveちゃん」「あいぴー」和「爱哥」的公式暱稱
+
+* 翌（2020）年4月24日晚，就在長久持續的炎上事件膠著之時，初號中之人在Youtube直播當中宣布5月11日她將擔任Activ8新成立的子公司「KIzuna AI株式會社」顧問一職
+** 5月8日，A.I.Channel官方發表通知，宣布對「四個絆愛」企劃進行一系列變動：
+*** 從5月9日起2、3號不再使用「絆愛」名義，兩人將一同轉移到新的Youtube頻道、並擁有各自的獨立推特&lt;ref&gt;5月9日，loveちゃん和あいぴー於Youtube和Bilibili開設兩人合用的新頻道「love-pii-channel」（暫名）&lt;/ref&gt;
+**** loveちゃん和あいぴー於6月13日公開新造型的視覺圖片，6月15日首次以新造型進行Live2D直播
+*** 絆愛這個IP移籍至KIzuna AI株式會社，絆愛將在中之人的帶領下開啟一段新的發展歷程
+** 此消息宣布期間前後，A.I.Channel也發表了2、3號和中文愛類似向觀眾告別的影片
+
+* 2020年5月11日，Kizuna AI株式會社成立；至此絆愛企劃正式獨立，也許終於能讓此炎上事件落得令大部分人滿意的結果
+** loveちゃん和あいぴー在作為2號和3號絆愛登場時因為上述炎上事件而遭大量觀眾排斥，不過因為兩人本身的表現並不差，在宣佈獨立之後開始漸漸為眾人所接受，甚至出現[[成句/真香|真香]]現象
+*** 但兩人獨立後人氣反而不足，甚至連頻道也有一個多月時間沒有更新
+*** 到2020年8月17日あいぴー在推出新曲「ういなつ」後'''正式停止活動'''，loveちゃん則至今（2020年12月）仍繼續活動
+
+== 圖集 ==
+&lt;gallery&gt;
+Kizuna Ai01.png|Kizuna AI
+1rCkGTBh.jpg|ANNIVERSARY
+SDVUHD.jpg|ELEGANT
+Nt0tYCf.jpg|SUPERGAMER
+UHDFHUFD.jpg|artist
+HW2020.png|Cheerleading
+&lt;/gallery&gt;
+
+== 相關條目 ==
+*'''[[KomicaWiki]]條目'''
+** [[虛擬YouTuber]]
+
+*'''外部連結'''
+** [http://kizunaai.com/ 官方網站]
+** 影片頻道：Youtube（[https://www.youtube.com/channel/UC4YaOt1yT-ZeyB0OmxHgolA A.I.Channel]、[https://www.youtube.com/channel/UCbFwe3COkDrbNsbMyGNCsDg A.I.Games]）、[https://www.360ch.tv/channel/72 360ch]、[https://space.bilibili.com/1473830/ BiliBili]、[https://www.tiktok.com/share/user/6657725843648266242 Tiktok]、[https://www.bs4.jp/tetete/ 貼貼TV]
+** 社交帳號：[https://twitter.com/aichan_nel Twitter]、[https://www.facebook.com/KizunaAI0630 Facebook]、[https://www.instagram.com/a.i.channel_official/ instagram]、[http://weibo.com/aichannelchina 微博]
+** 維基類條目：[[wikipedia:ja:キズナアイ|維基百科]]、[http://dic.nicovideo.jp/a/キズナアイ ニコニコ大百科]、[http://dic.pixiv.net/a/キズナアイ Pixiv百科]
+** [http://us.jnto.go.jp/cometojapan/ Come to Japan | with Kizuna AI]
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+== 備註 ==
+&lt;references/&gt;
+
+[[Category:角色]]
+[[Category:虛擬YouTuber]]
+[[Category:網路文化]]

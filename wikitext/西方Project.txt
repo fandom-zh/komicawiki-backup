@@ -1,0 +1,551 @@
+
+
+
+{{stub}}
+
+西方project、是由同人社團『被瞬殺之道?』(瞬殺サレ道?)所製作的彈幕STG
+
+
+==概要 ==
+
+* 公稱「女僕彈幕STG（彈幕縱卷軸擦彈STG）」
+* 有『秋霜玉』、『稀翁玉』、『幡紫竜』3作
+* 主要以幻想鄉的「外界」→「西方」的故事為主
+* 與東方不同,西方project的世界觀以『未來世界』、『人類X機器人X兵器』、『科幻』為主
+* &lt;s&gt;登場的男性角色比較多&lt;/s&gt;
+* 『幡紫竜』有分C67(舊)、C74(新)版本
+* 部份角色與「蓬莱人形 ～ Dolls in Pseudo Paradise」(C62)的情節相關
+* 西方Project是原東京電機大學內的非公式工作室「AmusementMakers」以1998年入學成員為中心製作、販賣的作品。
+* 2002年、開發成員大學卒業的同時讓後輩繼承工作室、開發成員建立了新的同人社團「被瞬殺之道?」。
+* 之後的2003年12月的Comic Market（以下C）65時在AmusementMakers的空間頒布、2004年3月主要開發成員從東京電機大學大學院卒業、
+* 2004年8月的C66開始改為在「被瞬殺之道?」的空間頒布
+
+==和東方Project的關係 ==
+* 西方Project是基於在概念上對應「AmusementMakers」的先輩ZUN（後來成立了個人社團「上海愛莉絲幻樂團」）的東方Project而製作的作品。此外，秋霜玉和稀翁玉的音樂都是由ZUN負責製作，東方Project的一些角色也經由ZUN之手登場。
+* 順帶一提，東方系列的角色的登場是ZUN向製作組請求的。『幡紫龍』ZUN未參與製作因此關連性不明。
+* 東方紅魔鄉的開發，是由西方Project的開發成員ぽんち(pbg)準備開發環境及提供編程支持
+
+==和Project Blank 的關係 ==
+* 在「AmusementMakers」的後輩的STG開發成員「Project Blank」（之後成立了同人社「RebRank」）的處女作『五月雨（PNB SMD）』中
+* 西方project的主程的ぽんち（pbg）作為「程序支持」參與。另外應「Project Blank」的開發成員Yoko（blankvision）得要求，
+* 『秋霜玉』中的角色VIVIT及蓋茨在五月雨的 Extra Stage 中作為 BOSS 客串登場。還有，從『五月雨』Extra Stage 中 VIVIT 的台詞等來推測，
+* 五月雨Ex的時間線在『秋霜玉』Extra Stage 剛剛結束時。Yoko在『稀翁玉』作為手冊作成的製作人員在製作人員列表中登場
+
+==舞台背景 ==
+
+===秋霜玉 ===
+&lt;pre&gt;
+這個物語上演的舞台是未來的地球
+環境惡化導致地球上原本生息繁衍的植物全部滅絕
+　唯一沒有滅絕的植物，只有仙人掌而已
+
+　這樣下去地球毫無疑問將走向滅亡…
+　人類賭上生存的希望，進行了從仙人掌中提取能源的研究
+
+　然後、終於有一天Cactus Company 完成了仙人掌能源的研發
+　仙人掌能源 －－ 甚至能凌駕於原子能之上的能源
+　於是、總算避免了地球滅亡的危機
+
+　然而、仙人掌能源仍然是非常不安定的存在
+　也就是說能源暴走、造成深刻的被害的事情也時有發生。
+　Cactus Company 也曾經由於該能源的強大導致的重大事故，
+　一時幾乎被瀕於毀滅
+
+　數十年後、人類成功制御仙人掌能源、再次構築繁榮。
+　此時、Cactus Company 開發了人型戰鬥Robot。
+　不知道開發者的趣味還是怎麼的而開發成女僕型。
+　然而在測試中，性能遠遠凌駕於所有現存兵器戰鬥力之上。
+　是的、她也是、利用仙人掌能源而開發的。
+　「該出任務了！」
+
+　被命名為VIVIT的女僕型戰鬥機器人。
+　因為主人(埃利希)的依賴、VIVIT從 Company 出發開始了她的旅途...
+&lt;/pre&gt;
+===幡紫竜 ===
+&lt;pre&gt;
+利用火星探索時在局部、短時間發生的風暴中心發現的礦石來產生能源的裝置。
+礦石自體運送到地球以後不知為會變得制御失敗，因此在火星應用其進行簡單的能量轉換，再轉送到地球。現在還在試驗階段。
+
+Clean並高效率的新能源的開發。
+　技術進步後，為了使技術更大限度發揮作用便需要更高級的能源。
+　過去，在技術層面獲得很高評價的發明家-埃利希博士的名聲由於RedStorm的發現變得更加高...本以為是這樣的。
+　半年間，RedStorm一直被觀察到很安定。
+　然而有一天，開始了毫無預警的暴走。
+　RedStorm的暴走使得利用RedStorm的所有機械全部一起暴走
+　變成了這樣的結果…只有唯一一個例外。
+　「VIVIT-r、待機狀態解除。SYSTEM、無異常。
+　…嗨、主人樣。私沒有問題。有什麼事嗎？
+　…是、瞭解了。這就去。」
+　另一方面、RedStorm的暴走發生時、巫女的櫻崎比良乃聽到了一個叫聲。
+　「た　す　け　て………！」(救命)
+　「…被囚禁在火星了啊。不給她長眠的話…。
+　　RedStorm的暴走有什麼關係也說不定。
+　　去見見埃利希博士吧。」
+&lt;/pre&gt;
+==登場人物 ==
+===自機角色 ===
+
+* 泛用型女僕機器人 VIVIT&lt;br&gt;[[File:img5468.jpg]]
+** 『秋霜玉』和『稀翁玉』的主角
+** 以「サボテン能量」(仙人掌能量)驅動的女僕型機娘(平衡重視型),&lt;s&gt;ビビット的複製品&lt;/s&gt;
+** 從家事全般到宇宙空間的活動都很拿手的跨時代的Robot、但是全體都很粗略
+** 女僕裝擁有將擦彈的敵彈轉化為能源的特異能力
+** 主要彈幕是星星及雷射
+** 由於艾利希的意向而沒有量產,『幡紫竜』的時候終於被量產化
+** 在秋霜玉Ex,受主人所託,尋找「聖杯」途中誤入了幻想鄉
+** 曾在秋霜玉Ex的對話中說出,「機器貓(&lt;s&gt;哆啦A夢&lt;/s&gt;)是低腦機器人」
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm5233540 天鵞绒少女戦 〜 Velvet Battle]（稀翁玉）
+** 稀翁玉招式:
+*** Ex攻擊
+**** Lv1：Tri Star
+****:向前發出有貫通能力的三顆大星星。
+****:按下發是「密集型」，按上發是「廣範圍型」。
+**** Lv2：Shooting Star
+****:向對手場地發射多個大星星。
+****:星星碰壁反彈後變為自狙彈。
+**** Lv3：Meteoric Blast
+****:向對手場地發射擴散的眾多星星。
+*** Bomb
+**** Stardust Extinction
+****:一定時間給畫面上的全體敵人造成傷害的散發的星辰，使用時無法射擊或畜力。
+*** Combo Attack
+****碰壁反彈後變為自狙彈的小星星
+
+* VIVIT-r&lt;br&gt;[[File:img5519.jpg]]&lt;br&gt;[[File:img5469.jpg]]
+** 『幡紫竜』的主角,VIVIT的量產型
+** 外表與VIVIT相同(未確認為同一台機體)
+** 動力源為「RedStorm」(鮮紅風暴)
+** 舊版本是禮儀端正的妹抖、新版本是性格惡劣的妹抖
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm6232190 THE STRENGTH]（幡紫竜）
+** 主要彈幕是星星及雷射
+** 幡紫竜招式(S-E):
+*** 自機:
+**** 『ワイドメイド』
+***** ワイドショット/Wide Shot
+*****:廣範支援的廣域射擊
+***** ガトリングショット/Gatling Shot
+*****:直接射向敵人的高速星星
+***** S-E「トライスター」/Tri Star
+*****:三重星星射擊,左右鍵進行方向制御可能
+**** 『レーザーメイド』
+***** ツインレーザー/Twin Laser
+*****:可以貫穿部分敵人，但威力不高
+***** ホーミングレーザー/Homing
+*****:流線型制導雷射
+***** S-E「ハイパーレーザー」/Hyper Laser
+*****:&lt;s&gt;マスタースパーク&lt;/s&gt;使用時移動速度大幅低下
+*** 敵機(四面):
+**** A Tiny Battleship「"Unknown"」
+***** S-E「スターティアラ」
+***** S-E「スターダスト イクステインクジョン」
+***** S-E「メテオリツク フラスト」
+***** S-E「小賢しい奴で」
+[[File:img5541.png]]
+
+* 櫻崎 比良野(桜崎 比良乃/Hirano Sakurasaki)&lt;br&gt;[[File:img5470.jpg]]&lt;br&gt;[[File:img5992.jpg]]
+** 『幡紫竜』的主角
+** 宇宙巫女,使用的武器為弓箭和玉(ギョク,非陰陽玉,有自我意識,會和比良乃吵架)
+** 舊版本是散發神秘氣息的正統派巫女、新版本似乎變得無節操? 會對玉說「うるさいわ」?
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm6232083 巫術乱声]（幡紫竜）
+** 主要彈幕是弓箭及火炎
+** 幡紫竜招式(S-E):
+*** 自機:
+**** 『弓巫女』
+***** 速射彈/rensha
+*****:高攻撃力的中央集中的矢
+***** 擴散彈/kakusan
+*****:敵機狙的廣域箭矢
+***** S-E「 亂射彈」/ransha
+*****:亂射符、威力低但是幾乎可以全屏消彈
+**** 『炎巫女』
+***** 火炎放射/Fire
+*****:三方向射擊
+***** 零距離射擊/Zero
+*****:使用時會變成高速移動
+***** S-E「玉射出」/Gyoku
+****:放出巨大化的火玉,消彈範圍大
+*** 敵機(四面):
+*** A Tiny Battleship「"Unknown"」
+**** S-E「 列 」
+**** S-E「 災 」
+**** S-E「 燒 」
+**** S-E「 怨 」
+
+==『秋霜玉』登場角色 ==
+[[File:img5728.jpg]]
+
+* 疾風少女米莉亞(疾風の乙女 ミリア/Milia)&lt;br&gt;[[File:img6032.png]]&lt;br&gt;[[File:img5540.png]]
+** 駕駛蒼藍戰鬥機「Sylph」(風之精靈)的18歲少女,是艾利希雇來的傭兵部隊小隊長
+** 在秋霜玉其實是28歲(謊報?),因此被VIVIT叫做歐巴桑(在稀翁玉還26歲...)
+** 在稀翁玉駕駛新型「Sylph 2 式」(EXTRA重視型)
+** &lt;s&gt;頭髮是藍色的,所以是「西方版」的蕾米莉亞&lt;/s&gt;
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm9870870 プリムローズシヴァ(櫻花草的風暴神)]（秋霜玉）
+*** [http://nicosound.anyap.info/sound/sm9936308 新幻想 〜 New Fantasy]（稀翁玉）
+*** [http://nicosound.anyap.info/sound/sm11346470 Miria The Sylphid(風之精靈 米莉亞)]（幡紫竜）
+** 稀翁玉招式:
+*** Ex攻擊
+**** Lv1：Lightning Plasma
+****:自機周圍發生強力的雷
+****:方向鍵可以改變展開方向
+**** Lv2：Lightning Web
+****:在對手場地展開波浪形的彈幕,似乎是自機外&lt;s&gt;雷矢「ガゴウジサイクロン」&lt;/s&gt;
+**** Lv3：Lightning Sphere
+****:相手場地裡幾個電擊球連接形成長方形的框框,制限相手行動,撞上去會死得很慘,靜止彈沒那麼容易撞吧？
+*** Bomb
+**** Lightning Bolt
+****:自機前方方向發出多根電擊
+****:發動中可以射擊/畜力
+*** Combo　Attack
+***:畫面兩端橫向的自狙小激光,實際上是自機外,不上下移動就不會中彈,免費送擦彈數的
+
+* 死亡雙子 冥&amp;舞(デス・ツインズ/Death Twins めい＆まい/Mei &amp; Mai)&lt;br&gt;[[File:img5518.jpg]]
+** 乘坐雙子戰鬥機「メイルシュトローム」(漩渦)(SPEED特化型),可以分離、合體攻擊
+** 說話斷繼,帶有電波的雙胞胎姐妹,性格都比較危險
+** ５歲,實際上是孤兒,綠髮黑衣,めい有白堊
+** 髮型酷似紅魔郷的「大妖精」(冥)及地霊殿的「キスメ」(舞)
+** 部份彈幕和BGM,跟怪綺談ユキ&amp;マイ很像
+** 在稀翁玉拿出「光束鎌刀」&lt;s&gt;死神鋼彈&lt;/s&gt;
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm9871195 ディザストラスジェミニ(Disastrous Gemini:災惡的雙子)]（秋霜玉）
+*** [http://nicosound.anyap.info/sound/sm5006046 オルフェの詩 〜 Pseudoclassic(古典的歐爾菲斯之詩)]（稀翁玉）
+*** [http://nicosound.anyap.info/sound/sm11346564 Death Twins(死亡雙子)]（幡紫竜）
+** 稀翁玉招式:
+*** Ex攻擊
+**** Lv1：Twin Laser
+****:前方發射2支貫通力激光
+**** Lv2：Death Scythe
+****:「まい」的機體像鎌一樣的軌道對對手進行體當攻擊,軌跡上會留下彈幕,稍後展開
+**** Lv3：Funeral March
+****:Lv2的連續多次版
+*** Bomb
+**** Blooby Coffin
+****:無數激光和漆黑的棺,可以消彈
+*** Combo Attack
+***:畫面上方出現自狙的大球,如果未擊中碰壁後會變成一串自狙的小彈,可被擦彈
+
+* 男子漢 蓋茨(男子漢 ゲイツ/Gates)&lt;br&gt;[[File:img5474.png]]
+** 45歳,熱血軍人,討厭犬科動物
+** 座機是蓋茨專用「 SB-00 custom 」(攻擊防禦重視型)
+** 奉行實力主義，認為力量就是一切
+** 敗給VIVIT之後,並認同她的實力,經常邀請其加入自己的部隊(但是都失敗)
+** 機體被VIVIT說成「大而無用」，還被VIVIT吐槽
+** 30年前仙人掌以外的植物全部滅絕時,世界上發生了暴動,為了鎮壓暴動而結成了某個軍隊。當時蓋茨參加了那個軍隊,現在45歲當了隊長(還沒結婚)
+** &lt;s&gt;爆龍上校&lt;/s&gt;
+** 東方系列人氣投票中的西方角色中排名第一位
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm5059566 天空アーミー(天空軍隊)]（秋霜玉）
+*** [http://nicosound.anyap.info/sound/sm5978845 Castle Explorer -in the Sky(在天空中的城堡探險者)]（稀翁玉）
+*** [http://nicosound.anyap.info/sound/sm11346670 黒いゲイツ(黑色的蓋茨)]（幡紫竜）
+** 稀翁玉招式:
+*** Ex攻擊
+**** Lv1：G.Flame
+****:前方強力火炎放射
+****:按下「長距離型」，按上「近距離型」
+**** Lv2：G.Laser
+****:縱方向，有角度的強力激光
+****:會被大量擦彈造成反擊，激光的擦彈數是最多的
+**** Lv3：Sattellite Ray
+****:衛星反射激光攻擊
+*** Bomb
+**** Mega Flame
+****:自機兩側向前方旋轉的火炎放射
+****:發動時間短、強力
+*** Combo Attack
+***:縱方向的細小光束。和花映塚的黑白的Ex攻擊很像。同樣會被大量擦彈造成反擊
+
+* 鋼鐵的處女 瑪麗(鋼鉄の処女 マリー/Marie)&lt;br&gt;[[File:img6198.png]]
+** 企業的大小姐、19歲
+** 座機為擁有大量無人艦載機的巨大戰艦「あいあん めいでん」(Iron Maiden,戰艦殲滅重視型)
+** 艦載機除散佈彈幕以外還會進行神風攻擊，而且左舷的彈幕根本不薄
+** 金髪御姐,秋霜玉中戴了白色的ZUN帽子
+** &lt;s&gt;綿月豊姫&lt;/s&gt;的原型
+** 名字捏他自漫画『ジーザス』(砂塵航路)的角色
+** 稍微Sadistic的性格，在秋霜玉想「調教」VIVIT
+** 秋霜玉中將VIVIT定為目標，ED中寫給VIVIT很多情書之類
+** 稀翁玉中目標除VIVIT外並增加了摩鋼
+** 稀翁玉中的EX攻略的名稱和其他角色不同，有反映性格的台词。
+** BGM及設定,跟魔理沙、愛莉絲、八雲紫、蓬萊人形角色的關係不明
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm5013775 機械サーカス 〜 Reverie(夢想的機械馬戲團)]（秋霜玉）
+*** [http://nicosound.anyap.info/sound/sm5218278 オルレアンの聖騎士(奧爾良的聖騎士)]（稀翁玉）
+*** [http://nicosound.anyap.info/sound/sm11346411 Shocking Assailant(恐怖的攻擊者)]（幡紫竜）
+** 稀翁玉招式:
+*** Ex攻擊
+**** Lv1:いきますわよ
+****:前方大量飛彈發射
+****:方向鍵指定飛彈的密集場所
+**** Lv2：お食べになって
+****:微追尾性的飛彈敵場內發射
+****:飛彈的尾氣有擦彈判定但沒有中彈判定
+**** Lv3：これは効きますわ
+****:浮遊炮嗎？發射n way 短光束
+*** Bomb
+**** ひやひやしましたわ
+****:艦載機的特攻攻擊，命中的敵造成很大傷害
+*** Combo Attack
+***:相手場地微追尾性飛彈單個發射
+
+* Cactus公司的社長 艾利希(エーリッヒ/Erich)&lt;br&gt;[[File:img5473.png]]&lt;br&gt;[[File:img5993.jpg]]
+** 62歳的老年人,VIVIT的「主人」(ご主人様),和製造者,西方三作品都有登場
+** 駕駛红色機器人「ハイベイオン」(接近戰特化型),『幡紫竜』駕駛「Hi Beion D-II」&lt;s&gt;GN鋼加農&lt;/s&gt;
+** 是西方世界觀中最偉大的科學家,發明家,仙人掌能源的發現者
+** 『秋霜玉』為5面BOSS,『幡紫竜』1面BOSS
+** &lt;s&gt;八阪神奈子的部份彈幕是抄他的&lt;/s&gt;
+** 長相類似「魂魄妖忌」,&lt;s&gt;白玉樓前任庭師&lt;/s&gt;
+** &lt;s&gt;小的時候曾玩過四驅車&lt;/s&gt;
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm4953654 魔法少女十字軍]（秋霜玉）
+*** [http://nicosound.anyap.info/sound/sm9937888 My Maid, Sweet Maid(我的女僕,甜蜜的女僕)]（稀翁玉）
+*** [http://nicosound.anyap.info/sound/sm11346411 Shocking Assailant]（幡紫竜）
+** 稀翁玉招式:
+*** Ex攻擊
+**** Lv1：Homing Laser
+****:畜力狀態前方出現鎖定標誌,向敵人發射制導的彎曲激光
+**** Lv2：H・L・B(Homing Laser Bit)
+****:強力制導屬性的大量激光
+****:可被擦彈,但是有貫通性能所以連續擦彈危險性較高
+**** Lv3：G・L・B(Geometric Laser Bit)
+****:送過去大量浮游炮類似物發射亂七八糟的激光
+*** Bomb
+**** P・Laser
+****:自機中心全方向激光發射
+****:發動時間極端短，強力
+*** Combo Attack
+***:敵人場地上出現浮游炮類似物,稍後發射單發制導激光
+** 幡紫竜招式(S-E):
+** A Tiny Battleship「Hi Beion D-II」
+*** S-E「神風 - IV」
+*** S-E「SCAN LASER - δ」
+*** S-E「Cross Laser」
+*** S-E「 - 極 - LV 1」
+
+* ビビット(VIVIT的假名寫法)&lt;br&gt;[[File:img6199.jpg]]
+** 因為十年前仙人掌能源暴走的事故而被封閉在異空間的艾利希的女兒
+** 第一和第二階段為和仙人掌能源實驗機械融合的形態,第三階段為通過仙人掌能源解放了其人類的全部潛能的女神形態
+** VIVIT的製作原型、外型和VIVIT難以區分
+** 裸女,背上有一對翅膀
+** &lt;s&gt;飛翼鋼彈零式&lt;/s&gt;
+** 至於性格，根據ED中VIVIT的陳述推斷,應該是那種非常溫柔善良的女神型性格之類
+** 『稀翁玉』中沒有作為自機登場、但是稀翁玉的「おまけファイル」中的TXT文件中記載,
+** VIVIT的BOSS攻擊實際上就是把秋霜玉6面BOSS的她送到敵方場地進行攻擊
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm9454257 夢機械 〜 Innocent Power(夢機械〜無辜的力量)]（秋霜玉）
+*** [http://nicosound.anyap.info/sound/sm4961106 幻想科学 〜 Doll's Phantom(幻想科學〜人形幻象)]（秋霜玉）
+*** [http://nicosound.anyap.info/sound/sm4986137 少女神性 〜 Pandora's Box(少女神性〜潘朵拉的盒子)]（秋霜玉）
+
+==『稀翁玉』登場角色 ==
+[[File:img5467.jpg]]
+
+* 自稱天才科學者 摩鋼(モーガン/Morgan)&lt;br&gt;[[File:img5472.jpg]]
+** 天才女性,極端討厭努力,當然以她的知識才能努力不必要
+** 按獨自的倫理行動，朋友變成煙也不在乎
+** 為了利益什麼都干,和主人公敵對沒什麼大不了的理由,「總之是興趣」
+** 稀翁玉4面BOSS,似乎非常討厭對對手進行攻擊,會使用球形彈幕「○」
+** 駕駛機是「ふらいんぐほっとけーき」(飛行鬆餅)(敵行動阻害型)
+** 稀翁玉中被瑪麗盯上了
+** 幡紫竜EX中,駕駛黑色巨大球體
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm5253585 乙女戦士 〜 Heart of Valkyrie(少女戰士〜心中的女武神)]（稀翁玉）
+*** [http://nicosound.anyap.info/sound/sm11346728 ほっとけーき実験室(烤蛋糕實驗室)]（幡紫竜）
+** 稀翁玉招式:
+*** Ex攻擊
+**** Lv1：Spread Bomb
+****:畜力途中自機沿途座標佈置機雷,畜力停止點火爆發
+**** Lv2：Round Laser
+****:一定時間內對手機體周邊出現環形激光
+**** Lv3：Photon Torpedo
+****:對手場地裡出現很多球體,散佈大量彈幕
+*** Bomb
+**** Mega Crush
+****:自分防禦力場大爆發,給爆心地的敵人大量傷害
+*** Combo Attack
+***:以對手機體為中心出現環形激光,因為是環形所以不動也不會被彈,似乎無法擦彈
+
+* 科學和魔法的融合 繆斯(ミューズ/Muse)&lt;br&gt;[[File:img5471.png]]
+** 有志於將科學與魔法融合,錬金術師一族的族長,會使用人偶和十字架之類的道具
+** 類型是破魔、咒殺型(招式名源自於古典音樂)
+** 造型酷似「十六夜咲夜」(可能是同一個人),&lt;s&gt;所以之後在紅魔館裡當女僕&lt;/s&gt;
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm4997995 エニグマティクドール 〜 God Knows(不可思議的人形〜神知)]（稀翁玉）
+*** [http://nicosound.anyap.info/sound/sm11323618 Muse(沉思)]（幡紫竜）
+** 稀翁玉招式:
+*** Ex攻擊
+**** Lv1：M E R O D Y (旋律)
+****:射出大量有持續攻擊判定的十字架
+**** Lv2：R O N D E (圓形)
+****:Combo Attack的大量版
+**** Lv3：R E Q U I E M (安魂曲)
+****:在敵場地召喚詛咒人偶展開反向旋轉的紅色大彈和紅色小彈
+*** Bomb
+**** S Y M P H O N Y (交響曲)
+****:以自機為中心召喚大量十字架落下
+**** Combo Attack
+****:敵機體上出現魔法陣,稍後三支十字架從畫面上方射向該魔法陣,似乎沒有擦彈判定
+
+==『幡紫竜』登場角色 ==
+[[File:img5520.jpg]]
+
+* 桐島 雄太/Yuuta Kirishima&lt;br&gt;[[File:img6091.png]]&lt;br&gt;[[File:img5521.jpg]]&lt;br&gt;[[File:img5522.png]]
+** 正太&lt;s&gt;死小孩&lt;/s&gt;,新版2面中使用被破壞的話會GAME OVER的「地球破壞炸彈」(地球はかいばくだん)
+** 2面BOSS機體是戰車,5面中BOSS機體是銀海馬,會跟ラグナス合體&lt;s&gt;[http://dic.nicovideo.jp/a/%E3%83%A9%E3%82%B0%E3%83%8A%E3%82%B9 正太是受]&lt;/s&gt;
+** 主題曲:
+*** [http://www.youtube.com/watch?v=DxZMlglkWVA Flamethrower]（幡紫竜）
+** 幡紫竜招式(S-E):
+** A Tiny Battleship「"Elephant"」
+*** S-E「G・フレイム」
+*** S-E「ビッグ・キャノン」
+*** S-E「アクレッシウ・ドリル」
+*** S-E「アトミック・ミサイル」
+*** S-E「アルティメット・レーザー」
+
+* 三連星 伊利亞、 托利亞、菲利亞 (Tri-Star イリア、トリア、フェリア/Tolia、Ilia、Felia)&lt;br&gt;[[File:img6092.png]]
+** 幡紫龍3面BOSS,舊版本是三台戰機、新版本分別是紅色蛇型、綠色球型、藍色蝶型
+* イリア(伊利亞)&lt;br&gt;[[File:img6096.jpg]]
+** 赤髮,摩根的學生，和托利亞、菲利亞起管理去宇宙的大門，三位一體進行攻擊。
+* トリア(托利亞)
+** 綠髮眼鏡,新版本使用盾牌。
+* フェリア(菲利亞)&lt;br&gt;[[File:img6097.jpg]]
+** 電波Loli,抱著仙人掌的絨毛玩偶。
+** 自稱三人中最強,似乎可以看見未來、但是大謊話
+** 主題曲:
+*** [http://www.youtube.com/watch?v=lwzM6gHVT68 Tri-Star Attack]（幡紫竜）
+*** 幡紫竜招式(S-E):
+** A Tiny Battleshlp「"Eternal Defender"」
+*** S-E「ぶりずむ ☆ いりゅーじょん」
+*** S-E「ぶるぶるだま ☆ りさいくる」
+
+[[File:img6093.png|thumb|5面~6面(左-拉普那斯「5面BOSS」、中-尤緹亞「6面BOSS」、右-桐島雄太「5面中BOSS」)]]
+
+*社長 拉普那斯(ラグナス/Lagunas)
+** ユイティア的弟弟
+** 幡紫龍5面BOSS機是金蟹「LEGO Batter Great」(合體後是龍蝦)、6面中BOSS機是紅色植物型
+** 主題曲:
+*** [http://www.youtube.com/watch?v=840EvoaNCRs give him roasting]（幡紫竜）
+** 幡紫竜招式(S-E):
+** A Tiny Battleship「LEGO Batter Great」
+*** S-E「エレガント・ビット」
+*** S-E「レゴ・フラッシュ」
+*** S-E「レゴ・フレイズ」
+*** S-E「レゴ・ドッキング」
+*** S-E「ハーフェケト・レーザー」
+*** S-E「レゴ・ブレイク」
+** A Tiny Battleship「"Unknown"」
+*** S-E「 修理中 」
+
+* 幽靈さん 尤緹亞(ユイティア/Yuitia)&lt;br&gt;[[File:img5523.jpg]]&lt;br&gt;[[File:img5994.jpg]]
+** 幡紫龍6面BOSS(也會三階段變型)
+** 11年前由於宇宙船事故在火星付近死亡的少女(C67以前版本比良乃ENDING中被標為10年前是誤記)
+** 和機械的融合而失去意識
+** 西方版的「露米亞/ルーミア」&lt;s&gt;白色基地,招式跟鋼加農大嬸有得比&lt;/s&gt;
+** 主題曲:
+*** [http://www.youtube.com/watch?v=Z5LLaXQshUI&amp;feature=related trans--]（幡紫竜）
+** 幡紫竜招式(S-E):
+*** S-E「シェイク・マスター」
+*** S-E「ホローフレイズ」
+*** S-E「ズバイダーアイル」
+*** S-E「ダンス・マスター」
+*** S-E「ホーリーイリュージョン」
+*** S-E「ブリズム・レイン」
+*** S-E「ダンク・マスター」
+*** S-E「ダイダロス」
+*** S-E「ギア・マスター」
+*** S-E「神風 - KAMIKAZE -」
+*** S-E「スキャン・レーザー.W」
+
+* Last Boss 伊卡洛斯(イカロス/Icarus)&lt;br&gt;[[File:img5524.jpg]]
+** 幡紫竜的Extra面BOSS
+** 馬尾、有一對翅膀,兩手各持一把金、銀劍
+** 會邊快速移動邊發出彈幕
+** 招式大部份是斬擊,快被打倒時會顏藝
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm11346828 Super I. I. G. G. --]（幡紫竜）
+
+==客串角色(東方Project) ==
+
+* 永遠鬼畜の巫女 博麗 靈夢 (博麗 霊夢)&lt;br&gt;[[File:img5525.jpg]]
+** 『秋霜玉』登場(EXBoss)
+** 雙手各持御幣(二刀流?)
+** 將西方系列「彈速快」的特點充分發揮，人稱「永遠鬼畜的巫女」
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm4764057 二色蓮花蝶 〜 Ancients]（秋霜玉）
+
+* 紅夢の魔法使 霧雨 魔理沙&lt;br&gt;[[File:img5526.jpg]]
+** 『秋霜玉』登場(EX Boss)
+** 有一對翅膀,星之器增加到六個
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm4764022 魔女達の舞踏会 〜 Magus]（秋霜玉）
+
+* 宵闇小町 幽香(風見 幽香)&lt;br&gt;[[File:img5527.jpg]]&lt;br&gt;[[File:img5528.png]]
+** 『稀翁玉』登場
+** 有兩對翅膀(彈幕重視型),以「幽香」的名義登場
+** 出Ex攻擊和Boss攻擊的立繪表情十分兇惡猙獰
+** 主題曲:
+*** [http://nicosound.anyap.info/sound/sm4908344 桜花之恋塚 〜 Flower of Japan]（稀翁玉）
+** 稀翁玉招式:
+*** Ex攻擊
+**** Lv1：萌風
+****:廣範圍散射的大量花瓣(非貫通，只有花瓣，不是整朵的花)
+**** Lv2：桃源鄉
+****:數朵花朵從頂端慢慢飄落,沒有擦彈判定,但飄的太慢了
+**** Lv3：蓬萊櫻花
+****: Lv2的強化型,就是花大一些而已,仍然飄得很慢
+*** Bomb
+**** 幻想鄉
+****:開無敵後向四周360度旋轉散佈花朵,其實這個如果是BOSS彈幕效果會好很多
+*** Combo　Attack
+***:一朵小花從頂端慢慢飄落,沒有擦彈判定
+
+==機體原捏他 ==
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| 機體 || 原捏他 || 備註 
+|-
+| VIVIT || [[霧雨魔理沙]] || 星星彈幕 
+|-
+| 蒼藍戰鬥機「Sylph」 || [http://ja.wikipedia.org/wiki/P-38_(%E8%88%AA%E7%A9%BA%E6%A9%9F) P-38閃電式戰鬥機] ||  
+|-
+| 戰鬥機「メイルシュトローム」 || 怪綺談ユキ&amp;マイ ||  
+|-
+| 戰鬥機「SB-00 custom」 || [http://ja.wikipedia.org/wiki/F-117_(%E8%88%AA%E7%A9%BA%E6%A9%9F) F-117 夜鷹式匿蹤轟炸機] ||  
+|-
+| 「ふらいんぐほっとけーき」(飛行鬆餅) || [http://ja.wikipedia.org/wiki/XF5U_(%E8%88%AA%E7%A9%BA%E6%A9%9F) V-173/XF5U 試作艦載戰鬥機] ||  [[艦隊Collection]]、荒野的壽飛行隊有出場紀錄
+|-
+|  ||  ||  
+|}
+
+==參考資料 ==
+
+* [http://hanyu.iciba.com/wiki/1335720.shtml 秋霜玉]
+* [http://hanyu.iciba.com/wiki/1599038.shtml 稀翁玉]
+* [http://hanyu.iciba.com/wiki/1640896.shtml 幡紫竜]
+* [http://en.touhouwiki.net/wiki/Banshiryuu/Translation/Regular_Stages(C67) 幡紫竜(C76)]
+* [http://tieba.baidu.com/f?kz=557509440 稀翁玉台詞]
+* [http://tieba.baidu.com/p/557124694 秋霜玉台詞]
+* [http://en.touhouwiki.net/wiki/Category:Banshiryuu_Character_Images 幡紫竜(C76)]
+
+== 參考條目 ==
+* [[東方]]
+* [[東方登場人物一覧(舊五作)]]
+* [[東方Project登場人物一覽-part 1]]
+* [[東方Project登場人物一覽-part 2]]
+* [[東方Project登場人物一覽-part 3]]
+* [[東方Project同人原創角色列表]]
+* [[東方Project的同人延伸創作列表]]
+* [[五月雨～samidare～]]
+* [[同人STG系列作品列表]]
+
+==載點 ==
+* [http://115.com/file/e6pjovgk 秋霜玉(115)]
+* [http://115.com/file/cl0ehsyu 稀翁玉(115)]
+* [http://115.com/file/e6pjoaci 幡紫竜(115)]
+* [http://www.mediafire.com/?15qbgumjb4m 幡紫竜(MF)]
+* [http://howfile.com/file/jjou/eb73e6ee/ 秋霜玉、稀翁玉、幡紫竜(HF)]
+
+==回應 ==
+{{pcomment|section=2}}
+[[{{TALKPAGENAME}}]]
+[[category:角色列表]]

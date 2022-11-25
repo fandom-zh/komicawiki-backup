@@ -1,0 +1,491 @@
+{{h0| 王國之心系列(キングダム ハーツ シリーズ/KINGDOM HEARTS Series) }}
+{| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;" 
+|-
+{{stub row|本條目歡迎有著強大心靈的鑰刃使者加以補完。}}
+|-
+|本條目含有劇情捏他，若沒有玩過原作且又不想被變成無心者/無形者{{censored|或變成&lt;s&gt;光頭&lt;/s&gt;賽亞諾特的分身的話}}請不要繼續看下去。
+|}
+
+== 簡介 ==
+* [[起源]]自SQUARE ENIX於2002年發售的PS2[[RPG|動作角色扮演遊戲]]《キングダム ハーツ》，中文取譯名作《王國之心》，系列總監為野村哲也
+** 最初的構想來自野村哲也在看到《超級瑪利歐64》後，也想製作一款這樣的3D遊戲，但這時周圍的人紛紛表示：「能和瑪利歐抗衡的大概只有迪士尼的角色。」。
+** 而和迪士尼合作的契機就起因於兩家公司的員工恰好在同一棟辦公大樓裡搭上了同一班電梯，在電梯裡搭上話。而在經過多番討論後，終於決定要製作一款融合迪士尼與最終幻想風格的遊戲。
+*** 一開始野村打算做單純的迪士尼遊戲，但坂口博信提議：「不以FF玩家為目標的話就不會成功」而改動製作方向。
+* 遊戲分類為3DARPG
+** 會出現其他類型的要素{{ref|一代在前往各個世界時會有3D射擊的要素}}，基本上從一代就已經確定了大部分的基本要素。
+* 基本上具備以下特徵
+** 整數作固定主角為索拉&lt;ref&gt;主角不是米奇的原因詳見一代的說明，此外一代裡索拉的服裝就是照著米奇的經典形象設計的&lt;/ref&gt;&amp;愉快的唐老鴨和高飛狗+各世界的1-2名主角夥伴（部分除外），也有一部分的迪士尼人物作為召喚獸登場
+*** 整數作玩法以正統派的動作RPG為主，非整數作則會嘗試各種新系統
+** 遊戲流程以在各個迪士尼動畫世界冒險旅行為主，除了各世界的登場人物外，還會有[[最終幻想系列]]人物客串及&lt;s&gt;越來越喧賓奪主&lt;/s&gt;的原創角色出現
+*** &lt;s&gt;[[無雙OROCHI|迪士尼OROCHI]]/[[金庸群俠傳|群俠傳]]&lt;/s&gt;
+*** &lt;s&gt;然而從初代到後來迪士尼角色（除了狗鴨鼠三人）對劇情主線的影響越來越少，甚至出現了別再跑迪士尼世界劇情的聲音&lt;/s&gt;
+*** 順帶一提{{size|20|'''本作所有原創角色的版權皆歸迪士尼所有'''}}，&lt;s&gt;所以甚麼時候能在迪士尼頻道/Disney+看到本作動畫化，或是在迪士尼樂園看到KH系列的設施呢。&lt;/s&gt;
+**** [https://www.khinsider.com/news/The-Kingdom-Hearts-Animated-Series-That-Never-Was-3564 實際上在一代推出的時候的確曾有過動畫化的企劃，但後來不了了之。]
+** &lt;s&gt;劇情和設定除了一代以外都讓人如陷入五里霧內，想搞清需要一段時間；尤其是KH3D後還出現了時空旅行要素，進一步讓玩家們更加困惑。&lt;/s&gt;
+*** 實際上一代本身是作為單發作品推出，但因為銷量和反響熱烈讓SE決定開發續作，結果為了續寫劇情……
+*** &lt;s&gt;KH玩家有三種：一種是看迪士尼世界的、另一種是看野村風原創劇情的、還有一種是啥都不管的動作遊戲玩家&lt;/s&gt;
+*** &lt;s&gt;玩家：NOMURA NO!（別在填坑時挖更多的劇情坑了！）&lt;br&gt;野村：NOMURA YES!（繼續用各種方式挖坑埋伏筆）&lt;/s&gt;
+*** 會變成這樣除了系列多平臺展開+每作劇情都相關外，不斷增加的設定也是讓世界觀設定變複雜的原因之一。不過隨著系列作合集（1.5、2.5、2.8）的推出，要搞懂基本的劇情也沒有那麼困難了。
+****&lt;s&gt;老天啊他們把所有可能的命名方式全用了一遍by[[AVGN]]&lt;/s&gt;
+****&lt;s&gt;外傳比本傳還多是怎麼回事←'''全部都是本傳'''（無誤）&lt;/s&gt;
+*** &lt;s&gt;但就算如此本作大部分台詞還是會讓玩家尷尬癌發作的，[https://youtu.be/d-ae06Z1NcM 尤其是歐美版本的部分台詞更成為海外粉絲圈的吐槽點之一]&lt;/s&gt;
+*** &lt;s&gt;EVERYONE IS XEHANORT{{censored|, INCLUDING YOU}} &lt;/s&gt;
+** 系列作主題曲（日/英版本）皆由宇多田ヒカル演唱
+* 另外也有推出漫畫版，由天野シロ作畫；目前被漫畫化的作品分別為整數作3作、CoM和358/2 Days
+** [[顏藝]]和惡搞頗明顯，此外劇情描寫也有部分更動
+** 戰鬥場面亦大幅簡化，很多時候不到一頁便完結戰鬥
+* 2021年10月6日，主角索拉作為壓軸DLC角色，於[[任天堂明星大亂鬥]]參戰
+** &lt;s&gt;你說沒有唐老鴨和高飛狗？拜託鑰刃上的米老鼠標誌已是敵視你最大容許的內容&lt;/s&gt;
+
+== 故事背景 ==
+ 很久很久以前，世界充滿著光，而當時的人都相信光芒是來自王國之心，並以唯一能夠打開王國之心的門的X鑰刃為基礎仿製了鑰刃。
+ 然而人們為了爭奪X鑰刃和王國之心引發了鑰刃戰爭，引來了黑暗，戰爭的結果令世界接近毀滅，而王國之心亦陷入了黑暗之中。
+ 而在殘存下來孩子們心中的光令到世界得以重生，但亦因此分裂成許多個不同的世界，剩下來的人為了避免戰爭再次發生而在世界之間建設了牆。
+ 然後在很久之後，住在命運島上的索拉、里克和凱莉打算向世界之外展開旅行，故事亦因而開始...
+
+== 系列作品 ==
+* 系列作時間順序： X (Chi)--&gt;Bbs--&gt;0.2--&gt;Ⅰ--&gt;Com--&gt;358/2days--&gt;Ⅱ--&gt;Coded--&gt;3D--&gt;Ⅲ--&gt;Melody of Memory
+=== 整數作品 ===
+
+==== [PS2]キングダム ハーツ ====
+[[File:Kingdom Hearts Logo.png|300px|置中]]
+
+ I’ve been having these weird thoughts lately
+ like is any of this for real or not?
+ 
+ 俺には よく 分からないんだ
+ この世界が、本当に、本物なのか。
+ そんなの、考えたこともなかった…&lt;ref&gt;{{censored|在KH3 Re:Mind中該句的英文為"None of this...makes sense to me"}}&lt;/ref&gt;
+
+* 主題曲：光(日版)/Simple and Clean(美版)
+* 系列時間軸接續Birth by Sleep(詳見下述外傳系列)，即最早的王國之心
+** 戰鬥風格類似動作遊戲版的FF，畫面左下角有選單，以十字鍵選擇指令按○執行，第四個選項"？"在特定場合下會變成特殊指令可用{{ref|在II就合併成一個按鍵來用了，詳見II說明}}
+** 有推出Final Mix版{{ref|以美版為基礎並追加新要素後逆流回日版，配音全改成英文}}
+*** 追加了新的隱藏頭目
+** 除了打倒敵人可獲得經驗值外，在某些條件下會獲得額外經驗值{{ref|例如擋住敵人的攻擊等}}
+** 本作MP為格數制，使用魔法時會消耗一定格數，可以攻擊敵人的方式累積黃色計量表來回復{{ref|集滿一整條會回復一格(詳細回復法則需檢證}}
+** 最大HP為隨等級提升增加，最大MP會隨魔法的取得與強化而增加
+** 頭目HP顯示上限為五條，超過上限則需將其HP減至上限以下才能確定到HP剩餘量{{ref|TAS影片中檢證一整條有300HP}}
+** 在世界間的移動為駕駛積木船並通過道中，其中部分世界需經過道中的傳送點才能進入{{ref|達成某個條件後可簡單的用傳送來略過道中}}，另外中期去某個世界後會發生被強制拉入某個世界的狀況，例如小木偶的巨鯨和小飛俠的海盜船{{ref|在道中遇到會強制進入}}
+** 於2013年在PS3上推出高畫質重製版並收錄重製版的Chain of Memories和劇情動畫版的358/2 Days
+*** 但因為製作組把'''源代碼搞丟'''導致移植版差點難產
+** 本作中米奇因為授權原因，只在結尾以剪影登場
+* {{censored|隱藏結局內容：[[雙持]]兩把鑰刃的洛克薩斯在都市中對抗大量無心者，而帶著眼罩的里克正站在大廈頂層，雙方之間產生對峙。影片中還不斷閃回關於後續作品的關鍵字。}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="4"|本作出現的迪士尼世界{{ref|只列出可進入的世界，於原創世界或召喚獸出現的迪士尼角色不列入表中}}
+|-
+|[[File:Wonderland_KH1.png|100px|置中]]||[[File:Olympus_Coliseum_KH1.png|100px|置中]]||[[File:Deep_Jungle_KH1.png|100px|置中]]
+|-
+!愛麗絲夢遊仙境!!大力士!!泰山
+|-
+|[[File:100_Acre_Wood_KH1.png|100px|置中]]||[[File:Agrabah_KH1.png|100px|置中]]||[[File:Monstro_KH1.png|100px|置中]]
+|-
+!小熊維尼!!阿拉丁!!木偶奇偶記
+|-
+|[[File:Atlantica_KH1.png|100px|置中]]||[[File:Halloween_Town_KH1.png|100px|置中]]||[[File:Neverland_KH1.png|100px|置中]]
+|-
+!小美人魚!!怪誕城之夜!!小飛俠
+|}
+
+==== [PS2]キングダム ハーツ II ====
+[[File:1200px-Kingdom Hearts II Logo KHII.png|300px|置中]]
+ A scattered dream that's like a far-off memory.
+ A far-off memory that's like a scattered dream.
+ I want to line the pieces up──
+ yours and mine.
+ 
+ 遠い思い出のようなちぎれた夢
+ ちぎれた夢のような遠い思い出
+ つなぎ合わせたいんだ──
+ 一緒に
+* 主題曲：Passion(日版)/Sanctuary(美版)
+* 時間軸接續358/2 Days{{censored|結局後（洛克薩斯的劇情）}}和一代結束一年後{{ref|此一年期間為索拉修復記憶至甦醒的時間}}
+** 遊戲序章需使用新角色「洛克薩斯（Roxas）」，在{{censored|虛擬的}}黃昏鎮度過暑假的最後一週後遊戲才會正式開始。
+*** 一開始許多玩家對於這樣的安排感到不解{{censored|，然而在序章結束前的一連串真相讓許多玩家都淚崩了}}
+***{{censored|ソラ――うらやましいよ　俺の夏休み――　終わっちゃった}}
+** 前作的特殊指令"？"統合為按△發動的反應指令(リアクションコマンド)
+** 增加變身系統，改良既有的召喚獸系統
+** 增加與其他角色的連攜攻擊{{ref|但使用一次需消耗自身即夥伴全部的MP}}
+** HP、MP改為擊破特定頭目時提升
+** 治癒術系(ケアル)改為使用一次耗全MP，但此作MP用盡後會於一段時間後全回復
+** 動作要素感覺沒有前作的豐富&lt;s&gt;變成以劇情為重場景為副的遊戲&lt;/s&gt;
+*** 取而代之不少以反應指令作特殊動作的攻擊，抓準時機能給多敵人巨大傷害或暈眩狀態來進行反擊
+*** 本作首次正式介紹無形者的存在，並引出更多關於世界觀的訊息&lt;s&gt;，很不幸的也是系列劇情暴走的開始&lt;/s&gt;
+** 玩家被打倒後會有一定機率出現米奇跳出來救場的事件&lt;ref&gt;第一次被打倒時會100%觸發此事件，隨後出現機率會減少&lt;/ref&gt;
+** 有推出Final Mix版，可以跟XIII機關所有成員再戰並新增難易度Critical
+** 隱藏要素的解放條件會隨難易度而緩和{{ref|Beginner連看都不能看&lt;s&gt;因為是新手&lt;/s&gt;，Standard須把筆記本100%完成，Proud模式下只要破完所有世界的劇情就能看秘密影片，不過這些都只是基本條件…}}
+** 整體而言被認為是系列作的高鋒作品，於2014年在PS3上推出高畫質重製版並收錄重製版的Birth by Sleep和劇情動畫版的Re:coded
+** 從本作開始，大部分作品存在可以等級一挑戰最高難度的設定
+*** 以本作為例，因為本作存在傷害上限和下限，所以就算等級一也能造出不低的傷害
+* &lt;s&gt;Say fellas, did somebody mention the Door to Darkness?&lt;/s&gt;
+* {{censored|隱藏結局內容：BbS終盤劇情的大戰}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="5"|本作出現的迪士尼世界
+|-
+|[[File:The_Land_of_Dragons_Logo_KHII.png|100px|置中]]||[[File:Beasts_Castle_Logo_KHII.png|100px|置中]]||[[File:100_Acre_Wood_Logo_KHII.png|100px|置中]]||[[File:Olympus_Coliseum_Logo_KHII.png|100px|置中]]||[[File:Timeless_River_Logo_KHII.png|100px|置中]]
+|-
+!花木蘭!!美女與野獸!!小熊維尼!!大力士!!汽船威利號
+|-
+|[[File:Atlantica_Logo_KHII.png|100px|置中]]|||[[File:Port_Royal_Logo_KHII.png|100px|置中]]||[[File:Agrabah_Logo_KHII.png|100px|置中]]||[[File:Pride_Lands_Logo_KHII.png|100px|置中]]||[[File:Space_Paranoids_Logo_KHII.png|100px|置中]]
+|-
+!小美人魚!!神鬼奇航!!阿拉丁!!獅子王!!電子世界爭霸戰
+|}
+
+==== [PS4/XBOX ONE]キングダム ハーツ III ====
+[[File:NA6HdST.jpg|300px|置中]]
+ They can take your world.
+ They can take your heart.
+ Cut you loose from all you know.
+ But if it’s your fate...then every step forward will always be a step closer to home.
+ 
+ 奪われた世界──
+ 奪われた心──
+ その繋がりを断ち切られても
+ それが運命なら──
+ 歩む道は帰るべき方向を常に向いている
+
+* 主題曲：Face my Fears
+* 片尾曲：誓い(日版)/Don't Think Twice(美版)
+* 在2013年的的E3展中跟《Final Fantasy XV》一起公布，結果大家看到瞬間整個...{{ref|1=https://www.youtube.com/watch?v=jzyfrg6Ufb8}}
+* 時間軸接續Dream Drop Distance和BbS0.2後
+** 訪談當中野村表示開發引擎從社內使用的夜光引擎改為UnrealEngine4，&lt;s&gt;等了十年大家終於有Trailer看啦&lt;/s&gt;
+*** 還因為換引擎的緣故導致整個遊戲推倒重做
+** 最後於2019年1月25日發售，亦同時在翌年追加首個DLC「Re:mind」
+** 首部中文化的系列作
+* 戰鬥系統揉合2代及BbS，刪除了&lt;s&gt;方便玩家&lt;/s&gt;的特殊指令，追加華麗的變身系統
+** 然而部份變身武器的技能及新追加的遊樂園設施武器由於表演時間冗長且嚴重打斷戰鬥節奏，所以有部份玩家評價本作的戰鬥系統不及2代
+* 和其他近年大作一樣追加了拍照系統
+** DLC中追加可以讓玩家自由配置角色動作和物件特效的&lt;s&gt;迷因製造機&lt;/s&gt;「Data Greetings」模式
+* 載入畫面會依照當下劇情顯示Instagram風的角色發文
+* 首次在本篇完全削除FF的角色{{ref|野村的說法是開發時來不及放進去&lt;s&gt;，讓衝著FF角色來的玩家和角色建模師很不高興&lt;/s&gt;}}，後來在DLC中重新加入
+* 或許是多年開發和等候的期待落差，本作的劇情偏向不濟
+** 當中迪士尼世界的劇情又以冰雪奇緣和神鬼奇航的部分最為垢病&lt;ref&gt;野村曾提到本作構思各迪士尼世界關卡時，迪士尼一方負責該作品的製作組會提出建議和創作限制，或許是這個緣故而導致&lt;/ref&gt;
+*** {{censored|神鬼奇航在索拉與眾人逃離死亡世界後，便脫離原作角色並直到最後大戰才回到主線。中間一大段劇情和原作無關且在旁協助的傑克還不是本尊}}
+*** {{censored|冰雪奇緣更是可以用肢離破碎來形容，索拉和艾莎一等人的交流如蜻蜓點水般淡薄，而且反覆出現上了山被吹下山的劇情，甚至出現'''從天隨機掉下來的冰柱可以生成一個困住索拉等人的冰迷宮'''、'''索拉追趕被帶下山的艾莎時卻被冷風吹上山'''等不合理橋段。}}
+**** {{censored|除此以外，雖然插入了著名的《let it go》，但由於與劇情發展無關，而索拉等人不像2代的《小美人魚》一樣加入合唱而顯得突兀&lt;ref&gt;不過一代和二代的《小美人魚》世界因為操作因素在海外玩家的反響也不是很好&lt;/ref&gt;}}
+**** {{censored|由於劇中的漢斯沒有配音{{ref|本作有另一個有登場但沒有配音的角色，為《大力士》世界的菲爾，但因為負責該角色的日版聲優永井一郎於2014年逝世，故才保留了角色但沒有配音}}，加上存在大量不合理的橋段，因此有網民懷疑是因為在開發後期被迪士尼一方要求砍掉重練{{ref|同年11月上映《冰雪奇緣2》，所以有網民認為是避免遊戲劇透或影響角色形象而導致}}才導致整個世界非常參差}}
+** 而主線劇情的演出也被從第一作開始一路玩下去的玩家們抱怨&lt;s&gt;，還出現了有玩家把劇情問題怪在迪士尼頭上的狀況，問題是製作組你們花了六年時間就做出這種劇情實在是……&lt;/s&gt;
+*** 當中最為垢病是主線劇情過度集中在後段，導致很多發展過於唐突，而且{{censored|索拉取回覺醒之力的原因}}更使在各個迪士尼世界冒險的理由顯得多餘
+*** &lt;s&gt;{{censored|範例一：&lt;br&gt;（亞克雅為了保護菲恩圖斯而與瓦尼塔斯交戰；但卻因為身體狀態不佳而落敗，在危機之際時--）&lt;br&gt;菲恩圖斯：亞克雅有危險，快使用覺醒之力把我叫醒！&lt;br&gt;索拉：可是我沒有啊。&lt;br&gt;菲恩圖斯：不你明明就有，你只需要相信自己能做到。&lt;br&gt;索拉：所以在各個迪士尼世界瞎逛18個小時完全是在浪費時間嗎？&lt;br&gt;菲恩圖斯：......Yes. &lt;br&gt;索拉：這樣一點都不酷。}}&lt;/s&gt;
+*** &lt;s&gt;{{censored|範例二：&lt;br&gt;索拉：我會保護妳凱莉。&lt;br&gt;凱莉：不，這次由我來保護你。&lt;br&gt;（實際情況↓）&lt;br&gt;凱莉：救救我啊索拉！&lt;br&gt;索拉：……靠北啊妳不要拖後腿好嗎。}}&lt;/s&gt;
+*** &lt;s&gt;{{censored|範例三：&lt;br&gt;索拉：好吧，接下來要和真XIII機關對決-（看到巨大的無心者風暴）慢著這三小？&lt;br&gt;（其他人下一秒被全滅，其中亞克雅不知為何直接當機就這樣被捲走&lt;ref&gt;Re:Mind中有補充原因：亞克雅長年被困在黑暗次元中，為了生存而不斷戰鬥的同時也累積了PTSD。當她看到這場風暴時是看到{{censored|無數黑化的自己}}向大家襲來，被嚇到完全無法動彈。&lt;/ref&gt;）&lt;br&gt;索拉：（[[野獸先輩|迫真慘叫]]）大家都被秒掉了！&lt;br&gt;里克：也許是如此，（掏出鑰刃擋住無心者風暴保護索拉）但看看我有多酷-（被輾過去）然後我就掛掉了。&lt;br&gt;（就如預言所說......黑暗勝利而光明退散......才怪）}}&lt;/s&gt;
+*** &lt;s&gt;{{censored|範例四：&lt;br&gt;賽亞諾特：我其實是個誤入歧途的好人。&lt;br&gt;索拉：誰會相信你這----&lt;br&gt;其他人：'''OKAY I BELIEVE YOU'''&lt;br&gt;索拉：我選擇死亡好嗎……&lt;br&gt;里克：你說啥？&lt;br&gt;索拉：（一時改口）我說我要去救凱莉。}}&lt;/s&gt;
+** 以上被詬病的主線劇情在DLC中的追加劇情「Re:Mind」補充了部分解釋內容，並且新增劇情BOSS和真XIII機關挑戰。
+*** 劇情中部分BOSS戰新增了操作角色，此外在某場戰鬥中&lt;s&gt;一直被當成花瓶的&lt;/s&gt;系列女主角凱莉首次成為可使用角色。
+** {{censored|Everyone else had a happy life, Expect Sora who had no life.}}
+* {{censored|隱藏結局內容：索拉和里克到達了位於虛構的世界的方柱之都}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="4"|本作出現的迪士尼世界
+|-
+|[[File:Olympus_Logo_KH3.png|100px|置中]]||[[File:Toy_Box_Logo_KHIII.png|100px|置中]]||[[File:KoC_logo.png|100px|置中]]||[[File:Monstropolis_Logo_KHIII.png|100px|置中]]
+|-
+!大力士!!玩具總動員!!魔髮奇緣!!怪獸公司
+|-
+|[[File:Arendelle_Logo_KHIII.png|100px|置中]]|||[[File:The_Caribbean_Logo_KHIII.png|100px|置中]]||[[File:San_Fransokyo_Logo_KHIII.png|100px|置中]]||[[File:100AW3.png|100px|置中]]
+|-
+!冰雪奇緣!!神鬼奇航!!大英雄天團!!小熊維尼
+|}
+
+=== 非整數作品 ===
+* 看似是外傳系列，但劇情基本都和本傳直接相關&lt;s&gt;，一個把正傳披上外傳皮賣的概念&lt;/s&gt;
+** &lt;s&gt;因此導致新人想入坑KH系列更加困難&lt;/s&gt;
+** &lt;s&gt;你從什麼時候產生只玩KH1+2就能看懂KH3劇情的錯覺&lt;/s&gt;
+
+==== [GBA/PS2]キングダム ハーツ CHAIN OF MEMORIES(COM) ====
+[[File:Kingdom_Hearts-_Chain_of_Memories_logo.png|300px|置中]]
+* 時間緊接KH1的結局，索拉與里克兩人在忘卻之城裡的&lt;s&gt;踢館&lt;/s&gt;冒險
+** 中文譯名為記憶鎖鏈
+** 新敵人：&lt;s&gt;和迪士尼一點都不搭的神祕黑衣組織&lt;/s&gt;XIII機關成員首次登場
+** 為了因應GBA的限制而把戰鬥系統更改為卡片RPG，&lt;s&gt;數字大的人就是贏家&lt;/s&gt;{{ref|數字0的卡片可以清掉所有比他大的卡片，為清掉合計數字大於10的組合卡之唯一手段，但前提是需後出，若先出的話則為最弱卡片…}}
+*** &lt;s&gt;但因為系統太特殊導致許多玩家不適應，玩了幾分鐘後紛紛選擇去補網上本作的劇情動畫&lt;/s&gt;
+** 每個房間需使用戰鬥後獲得的房間卡片來創造，且隨使用的卡片不同所做出來的房間也不同，但開房間必須先滿足其開啟條件並由丟出去的最後一張卡來決定內容{{ref|例如卡片數字需合計為30以上或有指定顏色}}
+** 按L可以將卡片留起來累積數字以製作組合卡攻擊，隨留住的卡片種類及數字合計值不同可發動的組合技也會不同{{ref|缺點是用作組合技的第一張卡片到戰鬥結束為止會自牌組中消失，等於說濫用組合技的話會使可用卡片越來越少…}}
+** 里克篇必須完成索拉篇才能解開
+*** 另外，里克篇不能自訂卡片組，每一層使用的卡片組皆有不同
+*** {{censored|鬼門關卡為最後對複製里克，對方手上大量大數字卡牌，但我方只有小數字卡牌，主要攻略為用數字0卡Break對方的卡}}
+** KH2發售Final Mix版後推出3D化重製版並與II同捆發售，並增加部分新要素
+*** 海外則是因為沒有出Final Mix版而單獨發售
+** PS3上HD1.5Remix有收入高畫質重製版
+** 在GBA的没データ中有《泰山》世界的數據，但因為版權問題，並沒有正式實裝
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="4"|本作出現的迪士尼世界
+|-
+|[[File:Wonderland_KH1.png|100px|置中]]||[[File:Olympus_Coliseum_KH1.png|100px|置中]]||[[File:100_Acre_Wood_KH1.png|100px|置中]]||[[File:Agrabah_KH1.png|100px|置中]]
+|-
+!愛麗絲夢遊仙境!!大力士!!小熊維尼!!阿拉丁
+|-
+|[[File:Monstro_KH1.png|100px|置中]]||[[File:Atlantica_KH1.png|100px|置中]]||[[File:Halloween_Town_KH1.png|100px|置中]]||[[File:Neverland_KH1.png|100px|置中]]
+|-
+!木偶奇偶記!!小美人魚!!怪誕城之夜!!小飛俠
+|}
+
+==== [DS]キングダム ハーツ 358/2&lt;s&gt;=179&lt;/s&gt; Days ====
+* 時間點為KH1某個事件後至KH2開始前一週之間的358天
+** 標題意為本作兩個角色之間度過的358日
+** 以XIII機關第十三位成員：{{censored|索拉的無形者}}「洛克薩斯」為主角的故事
+** 劇情的推進法為任務副本制，達成一個區段內的所有任務後即可向下發展
+*** &lt;s&gt;因為每天洛克薩斯等人出完任務後都會跑去吃鹽棒冰，讓本作有了[https://youtu.be/MkeZSJaab-g 吃冰模擬器]的戲稱：&lt;br&gt;亞克賽爾：一起來吃冰淇淋，我們就是好麻吉。&lt;br&gt;洛克薩斯 &amp; 希恩：你說的對。&lt;br&gt;三人：HAHAHAHAHA&lt;/s&gt;
+*** 另外故事中能收集洛克薩斯的日記篇章來了解劇情{{censored|，通關後可用特定條件解鎖其他XIII機關成員的日記篇章}}
+** 系統與上述幾作大不相同，角色的等級、道具、魔法和特殊能力的使用都改為面板制
+*** 達成某個條件後獲得面板或開放面板上限數，等級提升時是獲得等級面板而不是直接提昇{{ref|每放一塊進去就會升一等}}
+*** &lt;s&gt;等於說沒有裝半塊等級面板的話等級永遠都是1…&lt;/s&gt;到後期等級面板甚至有x2版本{{ref|鑲在裡面的等級面板之等級會乘以2，變成鑲六塊在裡面的話會升12等}}
+** 除了洛克薩斯，本作另外可在任務模式操控XIII機關的其他成員，甚至還有米奇、唐老鴨和高飛及索拉
+** 首次可以連線對戰之作，部份隱藏面板需於此模式下取得一定數的王冠後才能獲得
+** 本作雖然因為感人的後期劇情受到好評，但是過於作業化的遊戲流程使本作風評不好，間接影響到BbS和Re:coded的銷量
+** PS3上HD1.5remix有收入HD版和加入語音的劇情動畫&lt;ref&gt;只移植劇情動畫的原因是因為製作組沒時間，後來的Re:coded也是如此&lt;/ref&gt;&lt;s&gt;但是劇情斬了不少，特別是被剪得一乾二淨的戰鬥使許多玩家不滿&lt;/s&gt;
+*** 後來的PS4版因此在DLC加上了部分戰鬥劇情動畫{{censored|，主要是補足劇情終盤希恩與洛克薩斯之間的死鬥}}
+* &lt;s&gt;Roxas, That's stick.&lt;/s&gt;
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="5"|本作出現的迪士尼世界
+|-
+|[[File:Wonderland_KH1.png|100px|置中]]||[[File:Olympus_Coliseum_KH1.png|100px|置中]]||[[File:Agrabah_KH1.png|100px|置中]]
+|-
+!愛麗絲夢遊仙境!!大力士!!阿拉丁
+|-
+|[[File:Beasts_Castle_Logo_KHII.png|100px|置中]]||[[File:Halloween_Town_KH1.png|100px|置中]]||[[File:Neverland_KH1.png|100px|置中]]
+|-
+!美女與野獸!!怪誕城之夜!!小飛俠
+|}
+
+==== [PSP]キングダム ハーツ Birth by Sleep(BbS) ====
+[[File:Kingdom_Hearts-_Birth_by_Sleep_logo.png|300px|置中]]
+* KH1的前傳
+** 中文譯名為夢中降生，劇情主要圍繞在三位鑰刃使者：菲恩圖斯、亞克雅和泰拉之間的故事。
+** 戰鬥系統改為以上下鍵選擇牌面指令，並按△發動，每使用一次需等其冷卻完後才能再次使用，魔法的使用同樣改為上述方法並取消MP
+** 有推出Final Mix版
+** 有三位主角且每位主角的劇情發展皆不同，{{censored|但若要完整看完所有劇情則須先將三人都破完後最後會出現Last Episode。&lt;s&gt;不過都是鬱展開&lt;/s&gt;}}
+*** {{censored|大部份世界中的故事發展順序是按菲恩圖斯→泰拉→亞克雅推進}}
+*** 其中一個世界{{censored|迪士尼小鎮}}會視乎角色進入順序而影響最後的冠軍{{censored|，最後進入世界的會獲得該世界的鑰刃，故只建議由能操作到最後的亞克雅獲得。}}
+** PS3上HD2.5Remix有收入高畫質重製版{{censored|順便補上了因為PSP機能不夠無法實裝的某角色的披風。}}&lt;s&gt;，不過不能連線&lt;/s&gt;
+* &lt;s&gt;'''OKAY I BELIEVE YOU'''&lt;ref&gt;海外KH圈著名爛哏（[https://youtu.be/EpVbB2L74lc 出處見此]），&lt;s&gt;不過這台詞其實在358/2 Days的美版就出現了。&lt;/s&gt;&lt;/ref&gt;&lt;/s&gt;
+* &lt;s&gt;'''χ-Blade!'''&lt;/s&gt;
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="4"|本作出現的迪士尼世界
+|-
+|[[File:Enchanted_Dominion_Logo_KHBBS.png|100px|置中]]||[[File:Castle_of_Dreams_Logo_KHBBS.png|100px|置中]]||[[File:Dwarf_Woodlands_Logo_KHBBS.png|100px|置中]]||[[File:Olympus_Coliseum_Logo_KHBBS.png|100px|置中]]
+|-
+!睡美人!!灰姑娘!!白雪公主!!大力士
+|-
+|[[File:Disney_Town_Logo_KHBBS.png|100px|置中]]||[[File:Deep_Space_Logo_KHBBS.png|100px|置中]]||[[File:Neverland_Logo_KHBBS.png|100px|置中]]
+|-
+!迪士尼小鎮!!星際寶貝!!小飛俠
+|}
+
+==== [Mobile/DS]キングダム ハーツ coded/キングダム ハーツ Re:coded ====
+[[File:Kingdom_Hearts_coded_Logo.png|300px|置中]]
+* 時間軸在KH2結局後到主角群收到米奇寫的信件之間的時間點
+** 吉米尼回到迪士尼城堡後整理他的旅程日記，發現旅程記錄中有一段不是他寫下的訊息「我們不得不解除他們的痛苦」，為了調查這段訊息，米奇將日記數字化成一個虛擬世界。發現了被錯誤(Bug)所佔據，為了消除錯誤而以日記中的索拉數據來解決問題。
+*** &lt;s&gt;吐糟日記會像電腦一樣出Bug那你就輸了&lt;/s&gt;
+*** &lt;s&gt;{{censored|數據索拉：他們把Bug放入里克體內了！&lt;br&gt;米奇：你在供三小？}}&lt;/s&gt;
+** 中文譯名為編碼
+** 發售時為手機遊戲，日本地區限定發售
+** 於2010年移植至DS後再發售，命名為《RE:coded》，並將戰鬥系統改為與夢中降生相同
+*** 野村：本作為掌機KH的集大成作
+*** 同時追加了忘卻之城的劇情，另外部份關卡的玩法有所改變
+**** 例如交叉鎮會變成2D過版動作遊戲、奇幻仙境會變成STG遊戲、奧林帕斯競技場則是RPG遊戲
+** PS3上HD2.5remix有收入HD版和加入語音的劇情動畫&lt;s&gt;但是劇情同樣斬了不少，不過這次有把戰鬥做進來&lt;/s&gt;
+** 目前和主線劇情關聯最少的KH作品{{censored|，只交代了二代米奇劇中給索拉的信件內容}}&lt;s&gt;，NOTHING HAPPEN！&lt;/s&gt;
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="4"|本作出現的迪士尼世界
+|-
+|[[File:Wonderland_KH1.png|100px|置中]]||[[File:Olympus_Coliseum_KH1.png|100px|置中]]||[[File:Agrabah_KH1.png|100px|置中]]
+|-
+!愛麗絲夢遊仙境!!大力士!!阿拉丁
+|}
+
+==== [3DS]キングダム ハーツ 3D [Dream Drop Distance] ====
+[[File:Kingdom_Hearts-_3D_Dream_Drop_Distance_logo.png|300px|置中]]
+* 時間軸接續coded後
+** 為了自索拉及里克中選出新的鑰刃大師而實行了測驗，需要潛入沉睡的世界的夢中使世界甦醒&lt;s&gt;，代價是能力砍掉重練&lt;ref&gt;原因是為了方便教他們正確使用鑰刃的方式&lt;s&gt;，但只是又一個慣例把主角能力歸零的藉口而已&lt;/s&gt;&lt;/ref&gt;+年齡倒退&lt;/s&gt;
+*** {{censored|然而，實際負責解放世界的夢的只有索拉，里克解放的是索拉的夢}}
+*** {{censored|在潛入每一個世界的小遊戲中算是有暗示，里克的場景較索拉的有各世界更具體的物件，尤其里克潛入《三劍客》世界時，背景的漫畫圖存在索拉，而索拉只有三劍客角色}}
+** 本作的戰鬥系統使用了FreeFlowAction系統，令玩家可以走到遊戲地圖的任何角落
+*** 但相對帶來地圖巨大但探索點少的問題
+** 另外，遊戲會按時強制切換操控角色，{{censored|直至在不存在的世界中索拉被強制沉睡前。}}可以透過道具加長角色操控時間
+** 本作中能夠&lt;s&gt;成為神奇寶貝大師&lt;/s&gt;培養食夢者並成為主角的同伴戰鬥
+*** 而角色技能需要從培養食夢者獲得，根據不同性格的食夢者，可獲技能會稍有不同
+** [https://youtu.be/itOeSLpC7NE 本作OP]活用了3DS的上下屏演出，被粉絲公認為歷代最佳OP&lt;s&gt;，甚至在KH3OP釋出後還是有玩家覺得這版的OP比較適合用在KH3裡&lt;/s&gt;
+*** &lt;s&gt;但[https://youtu.be/sCpRhO1Wus4 HD版OP]中把上下屏的內容結合在一起的版本反而導致沒看過原版OP的人吐槽：「為什麼螢幕上有隻老鼠剪影在手舞足蹈」&lt;/s&gt;
+** &lt;s&gt;主線劇情發展更令玩家傻眼的一代，不只有量產賽亞諾特還出現了令人頭痛的時空旅行&lt;/s&gt;
+*** &lt;s&gt;{{censored|青年賽亞諾特：我是年輕時的賽亞諾特大師。&lt;br&gt;索拉：這不可能！&lt;br&gt;青年賽亞諾特：我還能時空旅行。&lt;br&gt;索拉：不可思議！&lt;br&gt;青年賽亞諾特：我們打算集結13個不同時間點的賽亞諾特。&lt;br&gt;索拉：なに？&lt;br&gt;席格巴爾：老子已經是半個賽亞諾特了！&lt;br&gt;索拉：出乎意料的劇情轉折！&lt;br&gt;傑姆那斯：無形者可以產生內心。&lt;br&gt;索拉：バカな！&lt;br&gt;青年賽亞諾特：所以你現在聽懂了多少？&lt;br&gt;索拉：全部わからん。&lt;br&gt;青年賽亞諾特：那祝你晚安，索拉。&lt;br&gt;索拉：晚安，賽亞諾特先生。}}&lt;/s&gt;
+** PS4上HD2.8 Final Chapter Prologue合集裡收入HD版
+* 首部非FF系列SE作品的「すばらしきこのせかい（The World End With You/這個美妙的世界）」的角色加入
+** {{censored|本作原創的「SHIBUYA 104」大樓{{ref|捏他現實存在的涉谷109}}亦於《王國之心III》的隱藏結局出現，不過野村否定是本遊戲出現的那一座。}}
+* &lt;s&gt;最強魔法是氣球&lt;/s&gt;
+* &lt;s&gt;And now '''DARKNESS WITHIN DARKNESS''' awaits you!&lt;/s&gt;
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="5"|本作出現的迪士尼世界
+|-
+|[[File:La_Cite_des_Cloches_Logo_KH3D.png|100px|置中]]||[[File:The_Grid_Logo_KH3D.png|100px|置中]]||[[File:Pranksters_Paradise_Logo_KH3D.png|100px|置中]]||[[File:The_Country_of_Musketeers_Logo_KH3D.png|100px|置中]]||[[File:Symphony_of_Sorcery_Logo_KH3D.png|100px|置中]]
+|-
+!鐘樓怪人!!創：光速戰記!!木偶奇遇記!!三劍客!!幻想曲
+|}
+
+==== [PC]キングダム ハーツ χ[chi] ====
+[[File:Kingdom_Hearts_chi_Logo.png|300px|置中]]
+* &lt;s&gt;為什麼網頁遊戲的內容會是主線劇情排序的最前面？&lt;/s&gt;
+* PC網頁遊戲
+** 在採集素材與戰鬥上會消耗AP值
+** 角色HP與戰鬥力主要取決於裝備的卡片之能力值
+** 根據野村的訪談表示，KH χ[chi]和KH III的劇情是密切相關的。
+*** &lt;s&gt;然後不少沒跑手遊的玩家完全不知III代的超展開是三小&lt;/s&gt;
+*** 已經於2016年9月1日結束營運 取而代之的是...↓
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="3"|本作出現的迪士尼世界
+|-
+|[[File:Agrabah_Logo_KHII.png|100px|置中]]||[[File:Wonderland_KH1.png|100px|置中]]||[[File:Dwarf_Woodlands_Logo_KHBBS.png|100px|置中]]
+|-
+!阿拉丁!!愛麗絲夢遊仙境!!白雪公主
+|-
+|[[File:Olympus_Coliseum_Logo_KHBBS.png|100px|置中]]||[[File:Beasts_Castle_Logo_KHII.png|100px|置中]]||[[File:Enchanted_Dominion_Logo_KHBBS.png|100px|置中]]
+|-
+!大力士!!美女與野獸!!睡美人
+|}
+
+==== [iOS/Android] キングダム ハーツ Unchained χ[chi]/キングダム ハーツ Union χ[Cross]{{ref|2017年3月23日大型更新後更改標題}} ====
+[[File:Kingdom_Hearts_Union_X_Logo.png|300px|置中]]
+* &lt;s&gt;為什麼手機遊戲的內容會是(ry&lt;/s&gt;
+* [[智慧型手機遊戲]]，已於2021年&lt;s&gt;4月30日&lt;/s&gt;6月17日停止營運&lt;ref&gt;https://cache.sqex-bridge.jp/guest/information/75063&lt;/ref&gt;
+** &lt;s&gt;在Dark Road追加前{{censored|技術上而言是玩家首次扮演光頭（的前世）的KH作品}}&lt;/s&gt;
+** 以消耗&lt;s&gt;經常會因為活動而消耗為0的&lt;/s&gt;AP值進入任務
+** 以硬幣決定角色的攻擊力和防禦力，戰鬥時可能普攻亦可能消耗Ability來發動硬幣能力
+** 故事上與x chi相同，但根據訪談表示在後半故事才會出現分別
+** 在HD2.8上有補完劇情的BackOver劇情影片
+** 2020年6月新增以本作主要反派「賽亞諾特」年輕時為主角的劇情模式「Dark Road」，在標題畫面可以選擇想要遊玩的模式
+** 2021年宣布在6月17日結束Union χ的營運，同時更新最終章{{censored|，結果劇情一釋出因為展開太過衝擊直接導致粉絲圈大崩潰。}}
+** &lt;s&gt;III代關鍵的劇情都放這邊是多想迫玩家課金玩&lt;/s&gt;
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!colspan="3"|本作出現的迪士尼世界
+|-
+|[[File:Agrabah_Logo_KHII.png|100px|置中]]||[[File:Wonderland_KH1.png|100px|置中]]||[[File:Dwarf_Woodlands_Logo_KHBBS.png|100px|置中]]
+|-
+!阿拉丁!!愛麗絲夢遊仙境!!白雪公主
+|-
+|[[File:Olympus_Coliseum_Logo_KHBBS.png|100px|置中]]||[[File:Beasts_Castle_Logo_KHII.png|100px|置中]]||[[File:Enchanted_Dominion_Logo_KHBBS.png|100px|置中]]
+|-
+!大力士!!美女與野獸!!睡美人
+|-
+|colspan="3"|[[File:Niceland_Logo_KHUX.png|100px]][[File:Cy-Bug_Sector_Logo_KHUX.png|100px]][[File:Candy_Kingdom_Logo_KHUX.png|100px]]
+|-
+!colspan="3"|無敵破壞王
+|}
+
+==== [PS4]キングダム ハーツ 0.2 Birth by Sleep -A fragmentary passage- ====
+[[File:Kingdom_Hearts_Birth_by_Sleep_0.2_-A_fragmentary_passage-_Logo.png|300px|置中]]
+* 在HD2.8合集內收錄的短篇遊戲，主角為{{censored|在BbS結局後困在黑暗次元的}}亞克雅。
+** 內容主要交待在KH1時亞克雅和米奇在黑暗次元內冒險的經過。
+*** &lt;s&gt;米奇：……然後這就是我搞丟我那件帥氣上衣的經過。&lt;/s&gt;
+** &lt;s&gt;其實是製作組用來測試虛幻4的實驗品+被獨立出來的KH3序章。所以畫面比KH3差也是沒辦法的事&lt;/s&gt;
+* &lt;s&gt;開場CG有不少作畫失誤，後來SE還特別釋出補丁修正&lt;/s&gt;
+* 本作是首個沒有迪士尼世界出現的作品，但分別出現《灰姑娘》、《白雪公主》及《睡美人》的關鍵象徵
+
+==== [PS4/XBoxOne/Switch] キングダム ハーツ Melody of Memory ====
+[[File:Kingdom_Hearts_Melody_of_Memory_Logo.png|300px|置中]]
+* 系列首作音樂節奏遊戲&lt;s&gt;[[最終幻想系列|隔壁]][[勇者鬥惡龍|兩棚]]的音遊都先出多久了……&lt;/s&gt;，時間軸接續KH3 DLC：Re:Mind之後
+** &lt;s&gt;Switch玩家：所以我說那個1.5+2.5+2.8合集移植呢？&lt;br&gt;野村：技術上有困難，而且我們還在忙著續作開發所以（ry&lt;/s&gt;
+*** 不過在2021年10月5日的20周年紀念影片及同日介紹索拉參戰的《任天堂明星大亂鬥SP》影片中正式公布了會推出NS雲端版。&lt;s&gt;三代算了，1.5+2.5和2.8也是雲端版，SE你是在....?&lt;/s&gt;
+** &lt;s&gt;從遊玩方式來看，根本是開發中後段才追加PS系列以外主機{{ref|拍子按鍵提示分別使用只有PS手掣存在的▲和o}}&lt;/s&gt;
+* 於2020年11月11日發售（歐美地區為11月13日），由開發FF/DQ節奏劇場系列的indieszero製作，共收錄150首曲子。
+** 其中主系列各集的OP和部份歌曲會視乎語言版本會使用日語版、英語版或純音樂版
+::: 日文版：系列OP使用日文，部份有演唱者的歌曲使用日文版{{ref|例如《阿拉丁》的《A Whole New World》、《冰雪奇緣》的《Let it Go》}}
+::: 歐美版：系列OP使用英文，部份有演唱者的歌曲使用英文版
+::: 中文版：系列OP使用英文，部份有演唱者的歌曲使用日文版，&lt;s&gt;就不能作成可切換版本嗎&lt;/s&gt;
+* 另外好幾套作品版權問題，亦無緣在本作登場{{ref|分別為1代&lt;s&gt;以後便一路鬼隱&lt;/s&gt;的《泰山》、2與3代的《神鬼奇航》系列及DDD的《幻想曲》}}&lt;s&gt;，但為甚麼就是不收錄系列最經典的《Dearly Beloved》&lt;/s&gt;
+** 除了迪士尼及本系列原創歌曲外，另有收錄經本系列改篇，來自《最終幻想7》的《One-Winged Angel》及來自《すばらしきこのせかい》的《CALLING -KINGDOM MIX-》
+** 獲得歌曲方式除了於主線關卡通關獲取外，部份需要經由&lt;s&gt;差不多沒提示存在的&lt;/s&gt;合成系統合成
+* 基本上就是{{censored|為了找回在KH3結局消失的索拉，借助凱莉的記憶到各個世界尋找他的蹤影。並}}隨著在各世界的旅程，以凱莉視角回顧一代到三代（除了手遊）為止所有作品劇情的懶人包，新劇情只在最後一首音樂出現。
+** &lt;s&gt;凱莉：為什麼我第一個做主視角（旁白）的遊戲是個音遊？&lt;/s&gt;
+** &lt;s&gt;對KH3失望的玩家：去你的全部本傳商法，我還是在YT上看過場劇情好了。←而實際上的確如此就可以&lt;/s&gt;
+* 能使用的隊伍如下：&lt;br&gt;ORIGINAL（索拉、高飛、唐老鴨）&lt;br&gt;DAYS（洛克薩斯、希恩、亞克賽爾）&lt;br&gt;BBS（亞克雅、菲恩圖斯、泰拉）&lt;br&gt;DDD（里克和食夢者x2）
+** 雖然有四個隊伍，但是無法像節奏劇場系列一樣自訂角色和隊伍
+** 凱莉只能在劇情模式最後的Memory Dive關卡使用{{censored|，最終BOSS戰中會變成KH3的索拉。}}
+** 和其他作品一樣，在前往各迪士尼世界時會讓該世界的迪士尼角色組隊，另外能用道具召喚米奇作為第四位戰鬥成員。
+* 分為Field Battle、Memory Dive和Boss Battle三個模式
+** Field Battle操作方面為三個攻擊鍵（對應隊伍裡的三名角色）+一個特殊技鍵，再加上了跳躍和滑空。需隨著音樂節奏消滅敵人（失誤的話會扣血）。&lt;s&gt;靠看敵人來按鍵絕對會中各種孔明陷阱&lt;/s&gt;
+** Memory Dive和TRFF的EMS模式相同，皆為遊戲內過場動畫+音樂
+** Boss Battle中為挑戰頭目模式，可藉由特定音符迴避攻擊&lt;s&gt;，但數量卻只有'''四關'''，讓人不禁懷疑為何要做這個&lt;/s&gt;
+* 隊伍裡三名角色共用一個血條，一但失誤過多次便會[[GAME OVER]]。
+* 亦提供簡便化的一鍵模式和按鈕更多，給專業人士挑戰的表演模式&lt;ref&gt;該模式下新增的紫色音符會與原本的combo分開計算（沒按中也不會扣血），在結算時能得到更高的分數&lt;/ref&gt;
+** &lt;s&gt;因為和KH3同時開發外加畫面素材都是回收PS2時期的，所以KH3的曲子很少{{ref|其他系列作品、各世界歌曲均有收錄探索地圖BGM及戰鬥BGM，3代的就只收錄一首印象曲}}+{{censored|除了鑰刃幕場的曲子是Field Battle以外其他曲子}}全塞到Memory Dive也是沒辦法的事&lt;/s&gt;
+** 官方表示本作不會有隱藏結局和DLC&lt;s&gt;，但Demo卻被解包出來裡面有疑似DLC的代碼&lt;/s&gt;
+** {{censored|本作正式揭曉在KH3隱藏結局中、索拉和里克身在的世界名稱：方柱之都（Quadratum&lt;ref&gt;即拉丁語的正方形（Square）&lt;/ref&gt;）。}}
+** {{censored|另外本作帶出了新的概念，在存在黑暗和光明的現實世界外，存在與之對立、無法把聲音傳過去的『虛構的世界（World of Fiction），也就似乎是索拉消失後所到達的世界}}
+* &lt;s&gt;其實是因為下村陽子的要求才出現的作品&lt;/s&gt;
+
+== 世界觀用語解說 ==
+=== 鑰刃(Keyblade) ===
+* 為被選中的人才能使用的傳說武器&lt;s&gt;（笑）&lt;/s&gt;，系列作主角的專用武器
+** 能夠消滅Heartless和Nobody，並解放前者的心
+** 如字面般是把鑰匙形狀的武器，雖然是劍類武器但大部分鑰刃的造型更偏向斧頭一些。
+*** 大部分鑰刃使者都是用沒有鍵齒的那邊斬擊（除了菲恩圖斯）
+** 能夠打開及關閉任何的鎖，即使被搶走也能由主人召喚而回到手上。
+* 分為光之世界和暗之世界兩種類型的鑰刃，兩者除了出處地以外並沒有任何功用上的差別。
+* 普通人要得到鑰刃需要有「堅強的心靈」，並由&lt;s&gt;一點意義都沒有的&lt;/s&gt;鑰刃大師進行繼承儀式，最後由鑰刃自己選擇主人。 
+** 所有的鑰刃都是以χ鑰刃為原型製作出來。
+* &lt;s&gt;明明是傳說中的武器，但是隨著系列發展開始爛大街化，然後KHUX還告訴你上古時期這玩意是人手一把……&lt;/s&gt;
+** &lt;s&gt;索拉：又一個鑰刃使者？開什麼玩笑？&lt;/s&gt;
+
+=== Heartless ===
+* 中文譯為無心者，初登場於一代的主要敵人
+* 來自人心黑暗的產物，一個人的心一旦被Heartless奪走，那個人就會化為Heartless。
+
+=== Nobody ===
+* 中文譯為無形者，初登場於二代的主要敵人
+* 當一個人失去了心（通常是因為被Heartless襲擊導致）而殘留的存在
+** 少部分擁有強靭靈魂的人，其Nobody會留有原本主人的樣貌
+** 因為沒有心所以也沒有相對應的感情，大部分看似情緒反應的動作都是基於原主人的回憶而模仿的。
+** 當一個人的Heartless和Nobody都被消滅，則可重生為人
+** CoM和二代的主要反派「XIII機關」就是由Nobody組成。
+* &lt;s&gt;導致系列劇情和設定開始暴走的元兇&lt;/s&gt;
+** &lt;s&gt;因為這種一個人會分裂成好幾個的設定，導致整個遊戲出場的原創角色不是索拉的分身就是賽亞諾特的容器（大誤）&lt;/s&gt;
+* {{censored|雖然是沒有心的身體，但實際上是可以產生自己的內心的}}
+* 大部分Nobody的外表不會隨著時間而成長。
+
+=== Unversed ===
+* 初登場於《BbS》的主要敵人
+* 從Vanitas的負面感情中誕生&lt;s&gt;，不過沒有人在乎。&lt;/s&gt;
+
+=== Dream Eater ===
+* 初登場於《DDD》的主要敵人
+* 存在於夢境世界
+* {{censored|實際上是古代鑰刃大戰後，沉睡的鑰刃使者變成的。}}
+
+=== &lt;s&gt;Osaka Effect&lt;/s&gt;  ===
+* &lt;s&gt;通指由大阪組開發的系列作下的共同特徵。&lt;/s&gt;
+* &lt;s&gt;由於該組開發的作品常有平衡性失控的問題，所以被海外粉絲冠上這個非正式稱呼。&lt;/s&gt;
+
+== 投票 ==
+* 你最喜歡王國之心系列的哪一作
+{{vote|section=1}}
+
+== 連結 ==
+* [[Square Enix]]
+** [[最終幻想系列]]
+* [https://www.jp.square-enix.com/kingdom/ 官方網站]
+* [https://twitter.com/_KINGDOMHEARTS?s=09 官方推特（日文版）]
+* [https://twitter.com/KINGDOMHEARTS?s=09 官方推特（英文版）]
+* [https://wikiwiki.jp/kh_series/ 粉絲建立的用語WIKI]
+== 回應 ==
+{{pcomment|section=2}}
+
+== 備註 ==
+&lt;references /&gt;
+
+[[分類:遊戲]]
+[[分類:角色扮演遊戲]]
+[[分類:Square Enix]]
+[[分類:迪士尼]]

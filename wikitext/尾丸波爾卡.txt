@@ -1,0 +1,142 @@
+{{h0|尾丸ポルカ（おまる ポルカ） / 尾丸波爾卡 / Omaru Polka / 座長 / &lt;s&gt;保時捷&lt;/s&gt;}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub|本條目[[:分類:需要擴充的條目|內容不足需要擴充]]，歡迎有興趣的座員們加以補完。}}
+|}
+
+[[File:尾丸波爾卡.png|350px|right]]
+: {{size|24|{{color|#DCBC96||'''（ポルカおるか～？）&lt;br&gt;ポルカおるよ！'''}}}}
+
+== 基本資料 ==
+* 所屬：[[hololive]]
+* 人設：{{twitter|itsuwa0815|name=こうましろ}}
+* 生日：1月30日（水瓶座）
+* 身高：153cm
+* 繪文字：🎪
+* 主題標籤：{{twitter|hashtag=ポルカ公演中}}（生放送）、{{twitter|hashtag=絵まる}}（粉絲創作）
+* 粉絲稱呼：尾丸座（座員さん）
+* 模型擔當：
+** Live2D：{{twitter|date_list|name=Date(ﾀﾞﾃ)}}
+** 3D模型：{{twitter|yatsurugi_mmd|name=八剣}}
+
+== 介紹 ==
+* 2020年8月16日在Youtube開始活動的女性虛擬Youtuber，hololive所屬五期生。
+* 設定上是為了成為VTuber界的招牌而來到hololive的馬戲團團員。喜歡用雜耍給人帶來快樂，有著「既然要做就要好好做！」的精神。有時不小心暴露的缺點，就用與生俱來的可愛矇混過關。
+* &lt;s&gt;這個名字總是會讓人不住擔心會不會成為和某個也叫ポル的男人被喊成波波甚至變成廁所梗擔當&lt;/s&gt;
+
+== 個人資料 ==
+* 因為設定上是馬戲團團員的緣故，光是開台前推特發推就能整出不少笑料，還曾將自己開台第三天直播寫成「3Days」再簡稱為「3D」。
+* 作為帶動氣氛的一員，是五期生的領導役後補&lt;s&gt;，尤其是牡丹一旦缺德起來的時候反而波爾卡更像領導&lt;/s&gt;
+* 觀察力很敏銳，在JP五期與EN神話的《Among Us》聯動中察覺[[獅白牡丹|自己的損友]]「比平時還要可愛」而發現她是內鬼&lt;s&gt;，雖然到最後大家都還是相親相愛的被[[Gawr Gura|鯊魚]]吞掉了&lt;/s&gt;。
+* 2021年4月22日時在新活動《ポルカの傳說》上公開&lt;s&gt;處刑&lt;/s&gt;評論自己小學時創作的[[黑歷史]]漫畫作品。
+
+== 主要事紀 ==
+=== 2020年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 8月6日
+| Hololive在Youtube、推特宣布五期生出道的消息，分別為[[雪花菈米]]、[[桃鈴音音]]、[[獅白牡丹]]、[[魔乃阿蘿耶]]、尾丸波爾卡。同日推特和YouTube頻道開始活動。同日推特開始活動並發表第一條推文。
+|-
+! width="80px" | 8月16日
+| 在Youtube進行初配信。直播前YouTube平台達到10萬訂閱，至此Hololive五期生全員銀盾達成。
+|-
+! width="80px" | 8月22日
+| YouTube平台20萬訂閱達成。同日YouTube平台收益化通過。
+|-
+! width="80px" | 9月17日
+| 聯動解禁，首位聯動對象為[[桐生可可]]。
+|-
+! width="80px" | 10月11日
+| YouTube平台30萬訂閱達成。
+|-
+! width="80px" | 10月31日
+| 於YouTube上發表與赤井心，桃鈴音音共同演唱之原創歌曲【さぷらいずぱらだいす!】
+|-
+! width="80px" | 11月11日
+| 與Vgeneration旗下同為ポルカ的Vtuber「ルカポルカ」初次聯動，此為五期生及尾丸波爾卡初次對外聯動。
+|-
+! width="80px" | 11月13日
+| 與[[AZKi]]合作演唱戯画公司製作【ガラス姫と鏡の従者】之 OP【キミだけのプリンセス】。
+|-
+! width="80px" | 11月27日
+| 宣布參與MOSAIC.WAV之新專輯【AKIBA-POP И SCRIPTER】中的【ぱんちゅありー】
+|-
+! width="80px" | 11月28日
+| YouTube平台40萬訂閱達成。
+|-
+! width="80px" | 12月26日
+| 參加 『第三屆VTuber紅白歌合戰』並發表原創曲『HOLOGRAM CIRCUS』完整版MV。
+|}
+
+=== 2021年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月1日
+| 發表正月新衣裝。
+|-
+! width="80px" | 1月9日
+| YouTube平台50萬訂閱達成。
+|-
+! width="80px" | 1月10日
+| 發表3D化。結束直播後不久發布了自己一人分飾兩種聲線的新翻唱歌曲「メンヘラじゃないもん！」
+|-
+! width="80px" | 1月30日
+| 舉辦3D生日歌回，同樣在結束直播後不久發布新的翻唱曲「ルーザーガール」
+|-
+! width="80px" | 2月17日
+| 作為hololive的一員參加「Hololive_IDOL_PROJECT_1st_Live.『Bloom,』」之Hololive原創曲演唱會活動。
+|-
+! width="80px" | 3月7日
+| YouTube平台60萬訂閱達成。
+|-
+! width="80px" | 5月31日
+| YouTube平台70萬訂閱達成。
+|-
+! width="80px" | 6月13日
+| 於Youtube直播中展示了2.0 Live2D。
+|-
+! width="80px" | 6月26日
+| 與桃鈴音音參加了由VARK主辦的「Cinderella switch ～ふたりでみるホロライブ～」VR演唱會活動。
+|-
+! width="80px" | 8月12－15日
+| 進行了五期生一周年紀念企劃「#ねぽらぼ一周年」陸續發布了四首合唱翻唱曲。
+|-
+! width="80px" | 8月16日
+| 於YouTube平台舉辦一周年紀念3D Live「エッ！？1時間でガチの即興曲を！」同日發表個人原創曲MV「ぽ」。
+|-
+! width="80px" | 8月26日
+| 發表新衣裝「私服」。同日於頻道上發表新原創曲「エヴァーブルー」
+|-
+! width="80px" | 8月28日
+| YouTube平台80萬訂閱達成。
+|-
+! width="80px" | 10月1日
+| 正式宣布為希萌創意之遊戲「小魔女諾貝塔」中的「喜愛緞帶的生魂人偶 - 塔妮亞」配音。
+|}
+
+=== 2022年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月1日
+| YouTube平台90萬訂閱達成。
+|}
+
+== 相關條目 ==
+*'''[[KomicaWiki]]條目'''
+** [[虛擬Youtuber]]
+** [[hololive]]
+*'''外部連結'''
+** [https://hololive.hololivepro.com/talents/omaru-polka/ 官方介紹頁]
+** 影片頻道：{{youtube|c=UCK9V2B22uJYu3N7eR_BT9QA|title=YouTube}}
+** 社交媒體：{{twitter|omarupolka|name=Twitter帳戶}}
+** 相關連結：[https://seesaawiki.jp/hololivetv/d/%c8%f8%b4%dd%a5%dd%a5%eb%a5%ab ホロライブ非公式wiki]、[https://dic.nicovideo.jp/a/%E5%B0%BE%E4%B8%B8%E3%83%9D%E3%83%AB%E3%82%AB ニコニコ大百科]、[https://dic.pixiv.net/a/%E5%B0%BE%E4%B8%B8%E3%83%9D%E3%83%AB%E3%82%AB pixiv百科]、[https://zh.moegirl.org.cn/zh-tw/%E5%B0%BE%E4%B8%B8%E6%B3%A2%E5%B0%94%E5%8D%A1 萌娘百科]
+
+{{hololive production}}
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+== 備註 ==
+&lt;references/&gt;
+
+[[Category:角色]]
+[[Category:虛擬YouTuber]]
+[[Category:hololive]]
+[[Category:網路文化]]

@@ -1,0 +1,288 @@
+{{h0|らじおぞんで/Radio Zonde/ラジオゾンデ/無限罪&lt;ref&gt;zonde在荷蘭語有著『罪』之意&lt;/ref&gt;}}
+&lt;!-- &lt;br/&gt;&lt;s&gt;無線探罪儀&lt;/s&gt; --&gt;
+{| class="wikitable" style="margin: 1.5em auto;text-align: center; " 
+|-
+| style = ""  | 本條目歡迎有興趣的朋友加以補完。 
+|-
+| 下一部：[[HellSinker.]] 
+|}
+
+
+
+==概要 ==
+* ひらにょん於2002年製作的縱軸STG
+** 標題源自無線電探空儀(Radiosonde)
+*** 因此主題上皆與[https://ja.wikipedia.org/wiki/%E6%B0%97%E8%B1%A1 氣象現象]有關
+** 被認為是美少女射擊遊戲(萌え系シューティング)的[[起源]]之一&lt;ref&gt;同期有名的作品是[[東方]]紅魔郷以及怒首領蜂大往生&lt;/ref&gt;
+
+==故事 ==
+ 原本清澈的藍天
+ 卻出現擁有強大火力之物
+ 經調查過後，得知從舊世界時製造出來的探測機
+ 皆以『遺產』(レガシー/Legacy)稱之
+ 表面上是侵略，卻是到它們視角中進行無差別攻擊
+ 因此恐懼的人們想著如何阻止他們
+
+ 隨時間過去
+ 剛好有一具『巨大個體』(GREAT ONE)，卻意外遭到破壞
+ 卻在同一個地方，同樣的個體再次現身
+ (後來在遺產觀察機構的結論是-在4～15天後會自動再生)
+
+ 當時回收巨大個體並分析特殊結構下有驚人發現:
+ 跟人類很像
+ 形式上沒有原型機
+ 中樞是主要單元
+ 結構上與人體組織無異
+
+ 後來製作名為「蒼穹」的素體
+ 花了兩天的時間就殲滅巨大個體，而成為對抗遺產的主要戰力
+ 為了減輕蒼穹的負擔而製造了「電璃」
+ 然而當「真祐」覺醒的那一天，蒼穹與電璃同時消失了
+ 之後真祐與余空兩人將前往等待她們的天空...
+
+===用語 ===
+* 氣象觀測/気象観測
+** 泛指觀測機與遺產之間的戰鬥
+
+* 種(シード/Seed)
+** 能以靜電能量產生的子彈
+
+* 秘儀(サクラメント/Sacrament)
+** WLS系專屬Bomb
+
+* 遺產觀察機構/遺産観測庁
+** 觀測天候(歷史)的形成、觀測機與遺產間接觸(戰鬥)為目的
+** 大眾對此的認識:
+*** 保護世界的組織
+*** 以保持世界局勢的平衡
+*** 等候上位的野心者
+*** 學術研究機構
+
+===自機系統 ===
+* 射擊方式依選擇、使用方式而有所不同:
+** 能依組合鍵作出不同的攻擊
+** Bomb為能量制，須擊墜64機才能恢復
+
+* 電力
+** 被彈時的保險，全滿時顯FLAWLESS/完美(若沒恢復，反而容易被擊墜)
+
+* 道具/アイテム
+** 電氣石/電気石
+*** 主要回復電力
+** M鎮靜劑/Mトランキライザ
+*** 擊墜16機出現，很像冰棒
+** 花束
+*** 愛的證明
+
+* 得分相關
+** CURRENT/現時
+*** 日、月、星三者的合計
+*** SOL/日:攻擊面得分，依CLOCK倍率
+*** LUNA/月:防守面得分，依SIGNAL倍率
+*** STELLA/星:計劃面得分，依道具取得
+** HISTORIC/歷史性
+*** 最高得分
+** SIGNAL/信號
+** CLOCK/時脈
+*** 得分倍率
+** INHERITED BLOOD/血傳
+*** 連打次數
+
+==自機 ==
+* 為遺產觀察機構的觀測機
+
+=== WLS系/Wars Like Singing/戰頌者 ===
+[[File:img10994.jpg|480px|center]]
+* 從巨大個體的構造，製造出來的人造人，總共四架
+** 擁有與遺產同樣再生能力
+*** 唯一能設定IMMORTAL([[不死身]])的特性
+** 能切換武裝(武裝イ/武裝ロ)
+*** &lt;s&gt;被認為[[アホ毛|呆毛]]能當近戰用兵器&lt;/s&gt;
+** 真祐、余空的名字代表無盡的世界，有著陰陽的界限
+** 而蒼穹、電璃的名字則代表虛實之物，母親與孤兒
+** 共通Bomb:
+*** 深創・テンペスト/深創暴雨:釋放領域，吸收敵彈而射出的神槍
+*** 侵叢・ディザスター_ゲイト/侵叢門災:開啟異世界門扉，將自彈轉化為神槍
+
+*[https://wiki.komica.org/檔案:Nagehame.jpg WLS-003/'''真祐'''/MAHILO&lt;br/&gt;マヒロ/Mahiro]
+** 從蒼穹的胚胎製造出來，進行氣象觀測的自機之一
+** 能理解蒼穹的想法
+*** 武裝イ-アネモ_スピア/風槍
+*** 補助彈-ダブレット_ピジョンズ/雙重鳩鴿
+*** 武裝ロ-カラミティ_シード/災難種子
+*** 近接攻擊-ハイロウ_レイザ/旋輪刃
+
+* WLS-004/'''余空'''/YOXOLA&lt;br/&gt;ヨゾラ/Yozora
+** 從蒼穹的胚胎製造出來，進行氣象觀測的自機之一
+** 名字音似'''夜空'''
+*** 武裝イ-ウィルム_スレイヤ/蟲龍殺手
+*** 補助彈-クァドラプル_クロウズ/四重黑鴉
+*** 武裝ロ-ドレイク_ウィスパ/火龍低音
+*** 近接攻擊-ニムバス_ランサ/亂雲槍
+
+=== [https://wiki.komica.org/檔案:Img10995.jpg USE系/UNSIGNED EPITAPH/無名之碑] ===
+* 極小型觀測機，從電璃的胚胎製造出來
+** 對外適應力差，只能在含有溶液的八面殼體裡生存，不太能說話
+*** [https://wiki.komica.org/images/c/cf/無名之碑2.PNG 由於不完全的成長(缺少四肢)，被定為非正規的存在]
+** 再生能力差&lt;s&gt;所以只能一次性使用&lt;/s&gt;
+*** 相對的破壞力比WLS系強上許多
+** 名字代表星燃的瞬間與永久
+** 共通Bomb:オールド_デイズ_フラクション/往日殘光
+
+* USE-01W/'''丹焚'''/NYPHN&lt;br/&gt;ニフン/Nifun
+** 操作容易上手
+*** [1]ルード_ストリーム/十字流動
+*** [2]スキャッ_タリーブス/犁開
+*** [1+2]マザーズ_グレイス/聖母恩惠
+*** [3]エコーズ_ブレイド/回音刃
+
+* USE-01L/'''冴焚'''/GOPHN&lt;br/&gt;ゴフン/Gofun
+** 操作上較難，但範圍較廣
+*** [1]ジェイド_アーム/翠綠手腕
+*** [2]クリムゾン_アーム/深紅手腕
+*** [1+2]ブロークン_ダイアル/破裂盤
+*** [3]ジオセン_トラス/地聖束
+
+===EDS系/EMERY DUST SOLDIERS/滅敵兵 ===
+* 小型警備機，最初在WLS之前就存在
+** 以其是觀測，倒不如是作為驅逐之用
+** 因為是機械，所以沒有再生能力
+*** 能自動恢復Bomb能量值
+** 共通Bomb:アルジェント_ストリングス/銀弦
+
+* EDS-39-F/'''珀耀'''/HYKYH&lt;br/&gt;ハクヨウ/Hakuyou
+** 擅於高速移動
+*** [1]スティール_ワイア/鋼鍊
+*** [2]カリヨン/鐘琴　　　
+*** [1+2]メトロノーム/節拍器　　
+*** [3]ブラス_レゾナンス/真鍮共鳴　　
+*** [1+3]スローター_テンション虐殺衝擊
+*** [2+3]グリッター_ホーン/輝突　
+
+* EDS-74-M/'''昂陽'''/KHYH&lt;br/&gt;コウヨウ/Kouyou
+** 擅於火力及蓄氣
+*** [1]エボニ_トリガ/黒檀槍機
+*** [2]ステンド_ウルブス/染色狼群
+*** [1+2]アイボリ_トリガ/象牙槍機
+*** [3]アウス_レーザ/驅逐雷射
+
+==Stage Boss(Legacy-GREAT ONE) ==
+* KNT/Knows No Talking/知曉者
+** 為方便記錄而取的名稱
+** 名字代表各種氣象現象
+*** 大部份為[[三階段]]或是一關出現兩名頭目(是否為同一機的情形不明)
+&lt;!-- 在啟動設定的數值做調整，可以一開始為BOSS戰 --&gt;
+
+* 模造始祖・'''魁聖'''&lt;br/&gt;X_PSY→Kaisei/カイセイ/かいせい&lt;br&gt;[[File:X PSY.PNG|center]]
+** 源自'''快晴'''
+
+* 模造始祖・'''羽纏'''&lt;br/&gt;U_T_N→Uden/うてん/ウテン&lt;br&gt;[[File:U T N.PNG|center]]
+** 源自'''雨天'''
+
+* '''散神無'''(ちりじんむ)&lt;br/&gt;チリジンム/Chirijinmu
+* '''砂神荒'''(さじんあらし)&lt;br/&gt;サヂンアラシ/Sajinarashi&lt;br&gt;[[File:Boss1.PNG|center]]
+** 源自'''砂塵霧'''與'''砂塵嵐'''(砂塵暴)
+
+* '''緋輪'''(ひまわり)&lt;br/&gt;ヒマワリ/Himawari&lt;br&gt;[[File:Boss2.PNG|center]]
+** 源自名為'''向日葵'''的氣象衛星
+
+* '''SMOG'''(スモッグ)&lt;br&gt;[[File:Boss3.PNG|center]]
+** 源自'''霾害'''(煙霞)
+
+* '''虚鴉'''(こがらし)&lt;br/&gt;コガラシ/Kogarashi
+* '''影滝'''(かげろう)&lt;br/&gt;カゲロウ/Kagerou&lt;br&gt;[[File:img20983.png|center]]
+** 源自'''寒風'''(凩、木枯らし)及'''陽炎'''(熱霧)
+
+* '''劫殺'''(ごうせつ)&lt;br/&gt;ゴウセツ/Gousetsu&lt;br&gt;[[File:img20984.png|center]]
+** 源自'''豪雪'''(大雪)
+
+* '''銅月'''(あかつき)&lt;br/&gt;アカツキ/Akatsuki
+* '''神弥'''(おみわたり)&lt;br/&gt;オミワタリ/Omiwatari&lt;br&gt;[[File:img20985.png|center]]
+** 源自'''曉'''(黎明)及[http://blog.yam.com/botanychen/article/35451263 '''御神渡り'''](冰河跡)
+
+* WLS-002/'''電璃'''/DENLI&lt;br/&gt;デンリ/Denri&lt;br&gt;[[File:img20986.png|center]]
+** 名字源自'''電離層'''
+** 為無法觀測之域『夜ノ那』(Stage 7)的頭目
+*** 接近她時，會自動使用長槍反擊
+** 劣質品，再生能力不及蒼穹(連累到USE系的性能)
+** 最後階使用防禦體『久鎮 -Q.M.R.-』
+
+* WLS-001/'''蒼穹'''/AOXOLA&lt;br/&gt;アオゾラ/Aozora&lt;br&gt;[[File:img20987.png|center]]
+** 名字源自'''青空'''
+** 為無法觀測之域『朝ノ那』(Stage 8)的頭目
+** 最初完成的素體
+*** 接受與人類相同的教育時，有高學習能力
+*** 後來研究員發現到具有與遺產抗衡的能力後，才展開一系列的開發
+** 真祐的參考原型(招式上相似)
+*** 接近她時，會自動使用旋輪刃反擊
+** 最後階使用障壁『天 -A.M.E.-』
+*** &lt;s&gt;幻獸666&lt;/s&gt;&lt;ref&gt;舞台會旋轉，造成移動方面的因難&lt;/ref&gt;
+&lt;!-- 若在之中一直按[2]，復活時會有BUG --&gt;
+
+==Stage、BGM ==
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! TOURING(歷程) !! Stage !! Boss !! StageBGM !! BossBGM 
+|-
+| rowspan = "2"  | Ⅰ || BREAKIN(擊破/演習) || - || - || - 
+|-
+| 1 || 散神無、砂神荒 || DEPARTURE(出發) || [https://youtu.be/d3AFaqQNCWA PAST RISINGS AGAIN(往時再起)] 
+|-
+| Ⅱ || PATH 1(分岐) || - || PATH OF STREAM(流動路徑) || - 
+|-
+| rowspan = "3"  | Ⅲ || 2 || 緋輪 || COLLAPSED OCEAN(崩解之海) || rowspan = "3"  | PAST RISINGS AGAIN 
+|-
+| 3 || SMOG || RUINS AND PAINS(遺痛址地) 
+|-
+| 4 || 虚鴉、影滝 || SUNSET FOR DAMNED(日落詛咒) 
+|-
+| Ⅳ || PATH 2(分岐) || - || PATH OF STREAM || - 
+|-
+| rowspan = "3"  | Ⅴ || OVERHAUL(檢修/再履修) || - || - || - 
+|-
+| 6 || 銅月、神弥 || OPAQUE HEART(晦暗之心) || [https://youtu.be/1A7JLhV6aXc KNOWS NO TALKING(知曉者)] 
+|-
+| 5 || 劫殺 || NEON COSMOS(霓虹宇宙) || [https://youtu.be/wRbh_IGsDGo THE FRIEND(朋友)] 
+|-
+| Ⅵ || 7 || 電璃 || [https://youtu.be/KgCtczECCK0 DIVIDE BY ONE(獨立界限)] || [https://youtu.be/SYwNI5llCqU CHOSEN ONE(唯一選擇)] 
+|-
+| rowspan = "4"  | Ⅷ || rowspan = "4"  | 8 || colspan = "2" rowspan = "4"  | 蒼穹 || [https://youtu.be/-T8P_T8iw4Y CELESTIAL ELEGY(天空挽歌)] 
+|-
+| [https://youtu.be/F_CzlMN6jqU DISTORTED ZENITH(扭曲高峰)] 
+|-
+| [https://youtu.be/QydH0KqhJ5E THE MOON WHICH GAZE AT FATE(凝視命運之月)] 
+|-
+| [https://youtu.be/1INy9FKmd78 RADIO ZONDE(無限罪)] 
+|-
+| rowspan = "3"  | - 
+! scope colspan = "2"  | Stage
+! scope  | Boss
+! scope  | BossBGM
+|-
+| colspan = "2"  | X_PSY || 模造始祖・魁聖 || rowspan = "2"  | PAST RISINGS AGAIN 
+|-
+| colspan = "2"  | U_T_N || 模造始祖・羽纏 
+|}
+
+&lt;!-- **隱藏要素 --&gt;
+
+==參考資料 ==
+* [http://web.archive.org/web/20040121010630/http://wls.hp.infoseek.co.jp/ 犬丼帝國(舊頁)]
+* [http://ranyon.k-free.net/ 猫飯解放戦線]
+* [http://www40.atwiki.jp/hellsinker/ RUMINANT'S WHIMPER(總合Wiki)]
+** [https://ja.wikipedia.org/wiki/%E3%82%89%E3%81%98%E3%81%8A%E3%81%9E%E3%82%93%E3%81%A7 らじおぞんで(Wiki)]
+** [http://dic.pixiv.net/a/%E3%82%89%E3%81%98%E3%81%8A%E3%81%9E%E3%82%93%E3%81%A7 ピクシブ百科事典]
+** [http://dic.nicovideo.jp/a/%E3%82%89%E3%81%98%E3%81%8A%E3%81%9E%E3%82%93%E3%81%A7 ラジオゾンデとは(ニコニコ大百科)]
+*** [http://cheater.seesaa.net/article/193128416.html 改造コード]
+*** [http://chowleft.blog51.fc2.com/blog-entry-2.html Left's Blog RADIO ZONDE]
+* [[同人STG系列作品列表]]
+
+==低調 ==
+* [http://www.vector.co.jp/soft/win95/game/se313786.html Vector]
+** [http://u3.getuploader.com/hellsinker/download/27/zonde141fix.zip 修正檔]
+
+==回應 ==
+{{pcomment|section=2}}
+== 備註 ==
+&lt;references/&gt;

@@ -1,0 +1,736 @@
+{{h0| Action 52 }} 
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| 注意：本條目可能含有不雅用語及粗俗詞彙的內容。 
+|-
+| 本條目歡迎有興趣的朋友加以補完。 
+|}
+[[File:img16182.jpg|thumb|right]]
+== 解說 == 
+* 一款由52個動作遊戲組合而成的電玩遊戲。
+** 乍聽是個好東西，不過這52個遊戲實際上因有大量極為離譜的Bug而根本無法正常運作，而剩下的全部都是[[クソゲー|爛得令人吐血的遊戲]]。
+* 開發部門為Active Enterprises （NES，就是俗稱紅白機的FC）和FarSight Studios（Genesis，就是SEGA出的MD）{{censored|總策劃者很有可能是孔明}}
+** 主要靈感其實是來自Active Enterprises的老闆Vince Perri有一天看到他兒子用NES玩'''台灣的'''盜版40合一合輯卡匣，而決定開發一款52合一的遊戲
+** 然而Perri對於請來的四人團隊沒有排定任何計畫，甚至僅讓他們在鹽湖城的[[任天堂]]分部參與為期'''一周'''的見習作為訓練，以至連debug的時間也沒排出。
+** 倉促趕工的結果自然是後無來者的大失敗，公司也從此全無音訊；至於Perri直至2012年辭世前都避開和遊戲相關的訪問。
+* 於1991年發售，當時售價為'''199美金'''。&lt;ref&gt;以現在的匯率計算大約是'''6000台幣'''&lt;/ref&gt;
+** 即便以今天的角度來說這都不是個小數目，更何況是1991年。然而這麼昂貴的價格換來的竟然是如此令人無法置信的東西。
+** 不過卡帶造型頗為前衛，是NES遊戲中少見的透明卡盒。
+
+== 近況 == 
+* 最早在youtube的影片可追溯至2006/07/08。
+* 近期於[[ニコニコ動画|ニコニコ]]所發表的「伝説のクソゲー チーターマン2」（Cheetahman 2，從未正式發行的Cheetahman續集）出現之後才逐漸廣為被討論，並且出現大量的BGM改作。（2007/10/16）
+* 而外國人對於Action 52的解說出現在ニコニコ後也引起了些許討論，在影片中 出現大量激烈用語&lt;s&gt;實用性廣泛&lt;/s&gt;，連結內附...至於遊戲本身島民們的評價倒很兩極化?!
+
+== 遊戲 (NES) == 
+===操作 ===
+* 上下左右外，還附有跳躍、射擊、暫停、選擇鈕。
+* 遊戲中按暫停鈕(顧名思義)，再按選擇鈕可以跳回主選單。
+* 大部份的橫向動作遊戲都有嚴重的跳躍BUG與空中摔死BUG
+* 大部分射擊遊戲是可玩的，但每一隻都有著可射擊敵人太少的問題
+
+===簡介 ===
+* 01 Fire Breathers
+** 操控兩隻類似龍(或是蝙蝠)的生物互相對戰的遊戲(實際上為銀色的人騎在龍上，導致看起來像蝙蝠)
+** 會有{{censored|一點用也沒有的}}障礙物出現
+** 一定要兩人玩&lt;s&gt;因為連AI都不想理你&lt;/s&gt;
+** 8場定勝負的設定非常的空虛
+
+* 02 Star Evil/星際惡魔
+** 縱向射擊遊戲
+** 一開始不按右鍵必死無疑
+** 無法用擦彈玩法因為有{{censored|他媽的}}隱形牆....
+** 分數欄中的9有問題
+** 只有三關，第四關以上不能玩
+** 第一關偶爾到特定部分會卡住
+
+* 03 Illuminator/照明者&lt;s&gt;(超級愛滋)&lt;/s&gt;
+** 你的武器是一把照明槍，打中敵人瞬間會照亮整個房間.....
+** 一共十關，第四關以後會隨機出現蝙蝠(穿牆)，每次通關後敵人會越跑越快。
+** 相連走道盡頭的NpAD角可以善加利用。
+** 操控角色的身體養份十分充足，因為在掛掉的地方會長出竹筍.....
+
+* 04 G-Force Fighter
+** 橫向射擊遊戲
+** &lt;s&gt;裡外翻轉的海豚在射被壓扁的青蛙&lt;/s&gt;
+** 可從頭閃到尾
+
+* 05 Ooze/滲出?
+** 每次重新遊戲時，游標都是指向這{{censored|爛}}遊戲
+** &lt;s&gt;屎黃瓜屎黃瓜屎黃瓜&lt;/s&gt;
+** 你的武器是一件類似浣腸劑樣般的道具…
+** MISS率頗高注意。
+** 掉到洞裡卻會死在最上面……
+** 難度異常的高，但多半都是因為爛操作的緣故
+** 共六關 破關之後留下一組code的文字畫面 這大概是唯一一款有ENDing畫面的game吧……
+
+* 06 Sliver Sword/銀劍
+** 操控一名騎士在&lt;s&gt;高爾夫球場上的包心菜園&lt;/s&gt;原野[[Gilgamesh (Fate)#x654ea6c|射&amp;quot;劍&amp;quot;]]屠殺&lt;s&gt;殺人睪睪丸&lt;/s&gt;怪物
+** 主提叫《銀劍》但劍不是銀色的&lt;s&gt;氧化了&lt;/s&gt;
+** 本身的HP=3
+** 往左與往下的攻擊方向有問題，劍柄是殺不死怪物的
+** 劍{{censored|他媽的}}很小，很難射中怪物
+
+* 07 Crytical Bypass
+** 操控一台&lt;s&gt;樂樂球&lt;/s&gt;UFO躲掉所有&lt;s&gt;禮物盒&lt;/s&gt;障礙物與隕石，最後要去畫面右邊的隕石坑過關
+** 子彈很沒效率的只能允許一發在螢幕上
+** 隕石有追蹤性，會本意識性的高速朝你撞過來，可引誘隕石出畫面迴避
+** 只要在原地上下移動，後面的隕石就會靠近你接著後退然後不斷重複
+** 只要注意障礙物，就可以利用以上方式通關
+** 被打到時音樂會暫時中斷
+** 活像錯覺圖的背景極度強姦眼睛
+
+* 08 Jupiter Scope/木星領域 
+** 操控{{censored|他媽的}}&lt;s&gt;死鲸魚&lt;/s&gt;太空船擊落持續掉落的&lt;s&gt;火焰保險套&lt;/s&gt;木星(?)隕石
+** 大多時間沒都有目標可攻擊
+** 似乎有某神秘力場的保護，不用太擔心下方城市的安危
+** 持續壓著射擊就可以玩到永遠的爛遊戲
+
+* 09 Alfred N The Fettuc
+** 操控一名廚師用鍋子沿路打爆攻過來的食物(?)妖怪
+** 碰到敵人時頭會被90度扭轉死亡
+** 掉到洞裡卻會死在最上面....
+** 歐洲版會有黑畫面問題
+
+* 10 Operation Full Moon/滿月大作戰
+** 操控一台像吉普車的車子在&lt;s&gt;嘔吐物&lt;/s&gt;月球上射子彈打敵人和射障礙物
+** 一開始的問題和Star Evil差不了多遠，連打壞的砲台底座都具{{censored|他媽的}}撞擊判定
+* 11 Dam Buster&lt;s&gt;(damn bastard)(外星海狸蕃茄大戰)&lt;/s&gt;
+** 操作小熊&lt;s&gt;偽尼&lt;/s&gt;用&lt;s&gt;蕃茄&lt;/s&gt;射擊去射其他動物並朝下一關前進，敵人都會突然的出現
+** 敵人會穿牆！！！
+** 共兩關，過關後無限Loop
+** 本身的HP=3
+** 部分能行走的路徑很窄，出現一堆子彈時根本閃不掉
+** 無法往回走，所以走到死路就砍掉重練吧...
+
+* 12 Thrusters
+** 縱向射擊遊戲
+** 移到最右邊只有{{censored|他媽的}}死路一條，且飛機殘骸有一半會出現在左邊
+
+* 13 HAUNTED HILL/鬧鬼的小山
+** 操作一個女人&lt;s&gt;大奶媽&lt;/s&gt;的捲軸式動作遊戲，背景很像地牢的地方
+** 操作方式為跳跟攻擊，攻擊&lt;s&gt;又是&lt;/s&gt;會發射出{{censored|豪洨}}子彈，消滅像鬼的敵人
+** &lt;s&gt;剛消滅完第一個馬上被兩個夾攻，活像是鬼強姦之作!&lt;/s&gt;
+** 神奇的是跳躍很正常，不像其他遊戲一樣會先直直飛起來才能左右移動
+
+* 14 Chill Out
+** 操作一名愛斯基摩人射出冰塊打倒地圖上的敵人，打完一定數量的人就過關
+** 高處跳躍時容易摔死
+
+* 15 Sharks
+** 操作一位{{censored|不想活的}}潛水員在淺海地帶用魚槍射鯊魚
+** 其鲨魚的崩壞程度極度破壞電影"大白鯊"的形象
+** 第二關有水母
+** &lt;s&gt;玩到後期大部分玩家都會唱：鯊魚啊鲨魚，我等你十年，你閃得那麼快......&lt;/s&gt;
+
+* 16 Megalonia
+** 橫向射擊遊戲，自機長的非常奇怪
+** 第一關躲在最下方可直接攻略
+** 頭目飛到右方盡頭時噴射器會從左邊出現，&lt;s&gt;地球果真是圓的&lt;/s&gt;
+
+* 17 French Baker
+** 操作一名廚師投擲叉子打倒地圖上的餐具(?)妖怪，打完一定數量的人就過關
+** 高處跳躍時容易{{censored|他媽的}}摔死
+** 歐洲版會有黑畫面問題
+
+* 18 Atmos Quake
+** 縱向射擊遊戲，自機是滑鼠指標?
+** 整體感跟Star Evil差不多，只差這只有一格血且背景不同...
+
+* 19 MEONG
+** 影片上出現過的其中一款，操作一台以"上A下52"方式排列的{{censored|他媽}}三角型旗子
+** 整體畫面一堆灰色方格，你{{censored|他媽}}啥都看不到，毫無頭緒
+** 從玩法推測，應是踩地雷的玩法
+** 無法推斷陷阱的位置，必卡......
+** 第二關以後只要定格幾秒就會{{censored|他媽的}}自爆
+** 名稱聽起來像是某STD(性病)
+
+* 20 Space Dreams/太空夢想
+** 縱向射擊遊戲
+** 操控一個奶嘴(?)打倒迎面而來的泰迪熊娃娃與迴紋針&lt;s&gt;這兩樣東西似乎很討厭奶嘴&lt;/s&gt;
+** 子彈與部分背景相似，容易誤觸而亡
+
+* 21 streemer2/牽繩者
+** 你只有一根繩子 只能不斷地往上爬，而且無法攻擊。
+** 本身的HP=4
+** 共四關 遇到敵人會扣血是沒錯，但是...就連像是道具類的木刀、錢袋也會(出現一個{{censored|他媽的}}[[衰小臉]])囧
+** 遊戲玩法很像Konami在1983年的大型電玩"Roc'n Rope"
+** 錢袋會殺人
+
+* 22 Spread-Fire
+** 操控一隻粉紅色龍蝦吐綠色痰大戰太空戰機
+** 本身的HP=2
+** 大多時間沒都有目標可攻擊
+** 遇上打不死的藍色"瓢蟲"戰機請自求多福&lt;s&gt;我不該殺死這傢伙嗎？我瘋狂的用痰貫穿他啊？？&lt;/s&gt;
+
+* 23 bublgun rosy/玫瑰泡泡槍
+** 共三關 第一關:最引人詬病的{{censored|老木}}台階(踏點圖0rz.tw/073mw)
+** 本身的{{censored|他媽}}標題明顯有誤(&lt;s&gt;Bubblegun&lt;/s&gt; Rosy??Rossie??Rosie??)
+** 老木台階可以跳過去，不過能不能全憑運氣
+** 鳥型敵人非常&lt;s&gt;賭爛&lt;/s&gt;難纏，會隨意亂飛，導制動不動就會自殺攻擊
+** 第二關莫名其妙變成坐在車上閃障礙物，障礙物的判定太大，容易撞死
+** 如果在第二關[[GAME OVER]]，重新開始後第一關和第二關的畫面會合在一起，而且極度強姦眼睛
+** 第三關有一堆鳥型敵人來做自殺攻擊，還有一堆無規則亂動的{{censored|老木}}球，通關異常困難
+** 不過第三關閃不過在平台上的球的話有個BUG可以用，直接跳下去採食人花，食人花的判定是垂直跳下去是不會有事的，所以可以垂直跳起來往前滑一小段距離在垂直落下，然後祈禱{{censored|老木}}球不要滾過來
+** 第三關過了之後會回到第一關無限loop
+
+* 24 Mirco-Mike
+** 操控一個&lt;s&gt;裸體&lt;/s&gt;火箭小孩光速閃避{{censored|老二}}障礙物....
+** 自虐用的遊戲，容易被{{censored|那根老二}}卡死
+
+* 25 UNDERGROUND/地面下層
+** 一開始你操作角色會垂直降落，然後開始遊戲(一開始往右走會莫名其妙的被蘑菇狀的玩意兒跌死)
+** 操作方式為發射{{censored|他媽的豪洨}}子彈消滅敵人，敵人為像幽浮的玩意兒
+** 子彈只能左右發射，最後穩卡死
+
+* 26 Rocket Jockey
+** 操控一個{{censored|沒戴氧氣罩的他媽}}太空牛仔乘著火箭翱翔於一片鮮紅的宇宙....
+** 畫面{{censored|他媽的}}像是用小畫家30秒做出來的
+** 牛會在天上飛，真神!!!
+** 子彈與背景都是紅色的，根本看不到...
+** 只有兩關，過完第二關無限loop
+
+* 27 non human/[[成句/蘿莉控不是人，是禽獸|&lt;s&gt;蘿莉控&lt;/s&gt;]]不是人
+** 極其詭異的畫面和音樂。
+** 玩家要操縱一坨紫色似乎是貝多芬的{{censored|豪洨}}東西，讓他不掉入艾爾頓強的陷阱。
+** 難以操控的跳躍，角色會直直往下落後才往右滑動，但其他遊戲中也有類似現象。
+** 只有一關，且在中間就強迫中斷
+** 如果忘記跳上有一堆{{censored|狗屁}}磚塊的地方時就&lt;s&gt;砍掉重練&lt;/s&gt;自殺吧....
+** 那一堆磚塊還有掉落BUG，不小心掉下去會在空中直接死！！
+
+* 28 CRY BABY/哭泣的嬰兒
+** 顧名思義，就是操作一個嬰兒爬上爬下，似水管工人&lt;s&gt;[[Mario]]&lt;/s&gt;的遊戲
+** 嬰兒比大人巨大
+** 操作方式為&lt;s&gt;伸長LP然後射精&lt;/s&gt;拿著一根不知是啥的玩意兒的長竿子(拿的位置有些.....問題)
+** 左上角有莫名其妙的血條表示(測試後發現HP=3)
+** 敵人為不知如何形容的兩種人(都{{censored|他媽的}}像變態)，以及好像是鬼火還是啥的玩意兒
+** 摔死判定極為嚴苛，不過以嬰兒而言或許算常理
+** 不知不覺的會進到下一關
+
+* 29 Slasher
+** 用拳腳打天下，有拳與腳兩種攻擊模式，但{{censored|他媽的}}都沒什麼用
+** 共5關，有幾關類似Final Fight的場景
+** 敵人出現時你會被限制在畫面左半邊移動
+** 可從頭閃到尾，因為敵人一去不回，但要注意所有敵人都無視障礙物
+** &lt;s&gt;讓你感激「神啊謝謝你讓我們有雙截龍的遊戲」&lt;/s&gt;
+
+* 30 Crazy Shuffle
+** 配樂{{censored|他媽的}}極度洗腦
+** 子彈和角色都{{censored|他媽的}}小到會令眼睛脫窗
+
+* 31 FUZZ POWER/絨毛之力
+** 類似冒險島的遊戲，主角是個&lt;s&gt;長滿毛的睪丸&lt;/s&gt;大腳原始人，攻擊方式為不明的蜷曲身子&lt;s&gt;，該遊戲由護髮組贊助&lt;/s&gt;
+** &lt;s&gt;一開始以為是鬍子，後來才會發現是衣服(還會破損)&lt;/s&gt;的確是亂七八糟的頭髮，故事有講到他變光頭時就會結束的句子
+** 操控方式為跳→按方向鍵移動.......orz
+** 沒有衣服就會掛，非常的符合標題的一款遊戲
+** 第三關不能過{{censored|他媽的老木山丘}} [http://aton602.22web.net/Action52/a5231.png 圖片]
+** &lt;s&gt;冒險島原型，[[成句/魔戒是抄天堂的|冒險島是抄他的!]]&lt;/s&gt;
+
+* 32 Shooting Gallery
+** &lt;s&gt;沒有敵人讓你射的射擊遊戲，連自殺都不允許&lt;/s&gt;其實是有怪物的
+** 敵人要等一陣子才會出現，並不是沒敵人
+** 說敵人有點不貼切，因為你打的對象都是可愛小動物
+** 打到一定分數可以到下一關
+** 歐洲版會有當機問題
+** 到了後面敵人會像變三倍速然後穿越柵欄把你宰了
+
+* 33 Lollipops
+** 操作&lt;s&gt;網球選手&lt;/s&gt;沿路打倒敵人的動作遊戲
+** 摔死判定比較鬆散，但還是好不到哪裡去
+** 無法爬梯子，只能用跳的卡上去
+** 主角要救的人名叫蘿莉(Lolli，請參見說明書的故事)
+
+* 34 Evil Empire
+** 操控阿拉伯風格背景中發射{{censored|豪洨}}子彈射敵人，打倒一定的數量就過關
+** 高處跳躍時容易摔死
+
+* 35 Sombreros
+** 路上像三角錐的東西其實是&lt;s&gt;金牛角&lt;/s&gt;墨西哥帽，吃到後主角耐力加一，但那也是上限
+** 敵人也會{{censored|他媽的}}偷走地上的墨西哥帽
+** 第一關敵人都在路邊，可以完全無視走向終點
+
+* 36 Storm Over the Desert/沙漠風暴
+** 可能因當時(1991)波斯灣戰爭還沒打完順勢做了這個遊戲，有開頭畫面
+** 操控M1坦克對抗伊拉克大軍，有步兵、坦克、{{censored|他媽的}}巨大化海珊？
+** 坦克撞到人會{{censored|他媽的}}損血，伊拉克坦克可以橫著開......
+** 綠色的伊拉克令人瞠目結舌...
+
+* 37 Mash-Man
+** 懷疑和Fuzz Power裡的主角是同一人
+** 必須&lt;s&gt;在樂高裡&lt;/s&gt;要跳過&lt;s&gt;眼球&lt;/s&gt;敵人來過關
+
+* 38 They Came...
+** 縱向射擊遊戲
+** 歐洲版會有當機問題
+** They Win??
+
+* 39 Lazer League
+** 和Megalonia差不多一樣玩法，只是主角為太空人
+
+* 40 Billy-Bob
+** 操作西部神槍手Billy Bob(?)逃出迷宮
+** 雖然有槍，&lt;s&gt;但沒有敵人&lt;/s&gt;第四關開始有蝙蝠敵人，但只限歐版
+** 往往切畫面就是{{censored|他媽的}}懸崖，很容易{{censored|他媽的}}摔死
+** 美版第三關就變成了獵豹人第四關
+** 歐版可以玩到五關，但是後面三關的顯示變成Level1、Level1、Level2，全破後還從第四關開始無限輪迴
+
+* 41 city of doom/城市的命運
+** 你必須不斷爬到高達外太空的摩天樓頂端，並用手中的餡餅(或是乾屎)來對付昆蟲及墜落物...
+** 共三關 每關的王皆為海鷗。
+** 除了一般雜魚扣血外，爬到摩天樓以外都會 而且判定都很嚴苛。
+** 窗戶會{{censored|他媽的}}幹掉你!!!
+
+* 42 Bits and Pieces
+** 操控西洋僵屍迎戰不停攻過來的怪物
+** 僵屍除了跳躍之外什麼都不會
+** 說明書講的故事完全和遊戲內容{{censored|他媽的}}是兩回事
+
+* 43 Beeps and Blips
+** 縱向射擊遊戲
+** 形狀在射擊形狀(無誤
+** 玩法同They Came
+** 1UP為加裝甲度
+** 到第三關易被神風特攻隊敵機撞死
+
+* 44 Manchester/曼徹斯特(英國城市?):
+** 你所操作的是... [[成句/目が！目が！|ムスカ大佐]]?
+** 共三關 每關的王皆為火焰人 移動模式固定。
+** 相當詭異的跳躍音效，會{{censored|他媽的}}造成音樂中斷，經南方堂果證實是Evil Empire中吃到寶物時的音效
+** 跳到洞裡不會死，可以在畫面外移動，跳起來會卡回地面，可以跳回地面上，可以藉由這個方式無視敵人
+** 跳起來時連按攻擊可以懸浮
+
+* 45 The Boss
+** 操作一隻拿槍的蜥蝪在大街上奔跑前進
+** {{censored|他媽的}}沒有音樂
+** 窗戶內丟炸彈的手跟窗戶一樣大!!
+
+* 46 Dedant
+** 一隻{{censored|他媽的}}螞蟻pk其他{{censored|他媽的}}螞蟻
+** 左右通道可像小精靈般來回
+
+* 47 Hambo's Adventures
+** 抄襲任天堂Donkey Kong的遊戲(無誤)
+** 操作長的像豬的主角Hambo閃掉所有的球和爆竹，走出門就過關，玩法雷同大金剛
+** 1UP出現機率高
+** 易被{{censored|他媽的}}爆竹擋路婊死
+
+* 48 Time Warp Tickers
+** 我是兩根手指嗎!？{{censored|你他媽}}在對我比中指嗎!?
+** 無論敵我被擊倒時都會出現意義不明的TIME?字眼
+** 有人對這個遊戲反感(無誤)
+** 背景活像是嗑了一堆大麻才會看到的東西
+
+* 49 Jigsaw
+** 操控一名工人用釘槍沿路射爆攻過來的工具(?)妖怪
+** 高處跳躍時容易摔死
+** 歐洲版會有當機問題
+** 與Bits And Pieces一樣，也是說明書講的故事完全和遊戲內容是兩回事的遊戲
+
+* 50 ninja assault/忍者襲擊&lt;s&gt;(肛忍者)&lt;/s&gt;
+** &lt;s&gt;其中assault又可譯作"強姦"...&lt;/s&gt;
+** 你的武器是兩根棒子，無論攻擊還是被擊中都會有(アッー♡) (ウホッ♡) 音效...
+** 背對敵人被幹掉就會{{censored|他媽的}}被肛
+** 第四關崩壞，故尚未有人能破關。
+
+* 51 Robbie and the Robots
+** 盜版魂斗羅
+** 自機HP=2
+** {{censored|他媽的}}第一關攻略=一直往前走+射擊
+** 主角疑為辛普森家族的{{censored|腦殘}}人物(誤)
+
+* 52 Cheetahmen/豹人三兄弟
+** 主打作品，第五十二個動作遊戲，正好符合名稱—Action 52。
+** &lt;s&gt;真正名稱為GAME MASTER&lt;/s&gt;
+** 主旨:玩家在玩Action 52時突然被抓&lt;s&gt;著子孫袋拖著&lt;/s&gt;進電視，一回神 看見&lt;s&gt;一狗票&lt;/s&gt;三個豹人對他說：你得去&lt;s&gt;殺一堆狗屁&lt;/s&gt;對付這遊戲的敵人，但別擔心 我們會幫助你。
+** 遊戲一共有六關 四王:犀牛(躲牆角偷襲可過)。
+** 碰到洞穴即死
+
+== 遊戲 (SEGA) == 
+===操作 ===
+* 操作模式同NES版
+* 修正跳躍BUG與空中摔死BUG的問題，關卡數也比較完整&lt;s&gt;，但{{censored|他媽的}}仍舊很爛&lt;/s&gt;
+===簡介(補完中) ===
+* 01 Bonkers
+** MD版少數唯一有趣的遊戲，操縱著一顆球消掉磚塊的遊戲
+** 不小心撞到黑色十字架的格子會掛掉
+** 掛掉後在切換畫面前仍可移動
+** 一開始的球是綠色的，而且一定要在轉換顏色前將所有綠色格子消掉否則會{{censored|他媽的}}整個卡關
+
+* 02 Darksyne
+** 一款操縱著太空船射掉所有砲台的遊戲
+** 自機不能碰到任何東西不然他就會{{censored|他媽的}}自爆給你看
+** 且自機的判定點比機身還要大，所以完全無法用擦彈法躲掉敵彈
+** 移動和使用防護罩會耗油
+** 加速後很難停下來，往往會這樣撞牆死
+** 背景{{censored|他媽的}}根本是跟主畫面一樣
+
+* 03 Dyno Tennis
+** 兩隻恐龍拿樹打原始人的&lt;s&gt;殘忍&lt;/s&gt;網球遊戲，雙打專用
+
+* 04 Ooze
+** 關卡和NES版不同，是一小區域中拿完鑰匙後找出口過關的遊戲
+** 主角跳躍時不能射擊，超過一定高度落下即死(非空中死亡)
+** 壓榨機就算沒壓主角，主角撞到上面那根仍然得死
+
+* 05 Star Ball
+** 彈珠台遊戲，但是球速很快，以至於有時沒辦法打到球
+** 有時候球會直接穿過擊球桿掉下去輸掉
+
+* 06 Sidewinder
+** Sega知名大型電玩衝破火網(After Burner)仿造版，操縱一架 F-14 完成關卡的遊戲，完全沒迫力可言
+
+* 07 Daytona
+** 賽車遊戲，跑一圈就結束
+** 輪胎不會轉動&lt;s&gt;噴射力就是一切&lt;/s&gt;
+
+* 08 Puzzle
+** 熟悉的數字方塊拼圖
+
+* 09 Sketch
+** MD版最爛的&lt;s&gt;遊戲&lt;/s&gt;那根本是小畫家還{{censored|他媽的}}無法存檔
+
+* 10 Star Dual
+** 與 Darksyne 一樣同樣操縱著那台{{censored|他媽的耗油}}太空船的遊戲，雙打專用
+** 自機被打重 10 次就會爆掉，油用完也會爆掉
+** 連贏三場後自機的彈量會變成三發
+
+* 11 Haunted Hill
+** 一個仿造惡魔城(Castlevania)的遊戲，操縱著一個拿著火把的主角進行遊戲
+** 主角的攻擊範圍真{{censored|他媽的}}小，以致於常常被小怪撞死
+
+* 12 Alfredo
+** 操作一位廚師要接住鍋內失控跳出來的&lt;s&gt;巫婆藥鍋&lt;/s&gt;食物
+** 接到紅色食物立即出局
+
+* 13 The Cheetahmen
+** 比NES版還沒創意的多，也沒有NES版的神曲
+** 三個主角要救被關在籠子裡的小豹而和怪物戰鬥
+** 關卡構成和小豹位置根本是一樣的，只有敵人數量有變
+** 三位角色過關後即全破
+** 空中飛功能被封印
+
+* 14 Skirmish
+** 機上版陸軍棋，雙打遊戲
+
+* 15 Depth Charge
+** 不知哪個&lt;s&gt;死&lt;/s&gt;小孩用紙做的船對付潛水艇的遊戲(誤)
+
+* 16 Minds Eye
+** 這不是熟悉的踩地雷嗎!!!!!!!!
+
+* 17 Alien Attack 
+** 控制一位像是美國隊長的&lt;s&gt;偽&lt;/s&gt;魂斗羅遊戲
+** 雖說是 Alien，但是出來的怪物都是神話魔獸
+** 第二關的{{censored|豪洨}}背景會讓眼睛脫窗
+
+* 18 Billy Bob
+** 改成第一人稱射擊，但只在一個畫面
+** 子彈是很珍貴的，當主角子彈射完，如果還有敵人只有{{censored|他媽的}}死路一條
+** 後面關卡敵人出現速度快，攻擊也快，玩家將{{censored|他媽的}}享受到瞬間死亡的快感
+** 死亡火槍的先祖(誤)
+
+* 19 Sharks
+** 還是操縱那位{{censored|不想活的}}潛水員在淺海地帶用魚槍射鯊魚
+
+* 20 Knock Out
+** 拳擊遊戲，操縱兩個拳擊手在擂台上決鬥的遊戲，雙打專用
+** 被打中的人物會露出一附很{{censored|豪洨}}的表情
+
+* 21 Intruder
+** 操作一位&lt;s&gt;有點駝背的&lt;/s&gt;綠衣男子一定數量機器人過關
+** 身體任何地方碰到旁邊的{{censored|他媽}}電網即死
+
+* 22 Echo
+** 記憶遊戲，記住四個格子的先後順序依序選擇
+** 點擊格子時會發出許多{{censored|豪洨}}的聲音
+
+* 23 Freeway
+** 偽青蛙過街，主角改成狗
+** 英文名稱與原作同名&lt;s&gt;，偽裝真差&lt;/s&gt;
+** 狗被車撞爛的畫面慘不忍睹，這是普遍級遊戲?
+
+* 24 MouseTrap
+** 控制一隻老鼠收集起司的遊戲
+** 碰到貓時不是被吃掉，而是被以{{censored|豪洨}}的方式踩扁
+
+* 25 Ninja
+** 這次主角不能被肛(無誤)
+** 一直往前走就可過關，可故意無視{{censored|他媽的}}敵人
+** 只要注意後方忍者射過來的飛鏢就行
+
+* 26 Slalom
+** 控制一名滑雪者滑下山坡的遊戲
+** 撞到樹時不是趴著或是其他受傷時的動作，反而是橫著離開螢幕...
+
+* 27 Dauntless
+** 操縱一架二戰戰鬥機擊破日軍戰鬥機的遊戲
+** 敵機會從兩側出現，只要一不注意就會被左側出現的{{censored|老木}}敵機撞爆
+
+
+* 28 Force One
+** 又是操控著一台{{censored|他媽的}}太空船的射擊遊戲
+** 敵彈有時候會與背景重疊  所以很難發現
+** 紅色的小型敵機會有打不到的問題...
+
+* 29 Spidey
+** 控制一隻蜘蛛在看起來很{{censored|噁爛的}}網上面收集蒼蠅的遊戲
+** 與 MouseTrap 相似，只不過是敵人會成其他蜘蛛和蟲子，且會從四面八方來，也因此會突然被從後方出現的敵人{{censored|肛爆}}的現象
+
+* 30 Appleseed
+** &lt;s&gt;蘋果核戰&lt;/s&gt;[[成句/○○在你後面，他非常火|士郎正宗在你後面，他看起來非常火。]]
+** 恐怖的&lt;s&gt;鬼&lt;/s&gt;蘋果樹，會自動掉蘋果下來
+** 主角是個完美主義者，完全不能接受沒成熟的蘋果而大發雷霆
+** 第二關開始蘋果居然會斜方向掉落，真是{{censored|他媽的}}完全不合牛頓定律
+
+* 31 Skater
+** 操作一名小鬼在濱海公路溜輪鞋並閃避障礙物
+** 哪有一路上海灘球、收音機和死貓那麼多的道理
+
+* 32 Sunday Drive
+** 省道飆車，注意前方來車即可
+** 史上匝道口比里程牌還多的公路
+** 如果遇到會橫著移動的車就請自求多福
+** 就算車子部分擦到側向車子依舊整個解體
+** 車子撞爛後還可跑200公尺真{{censored|他媽的}}神!!
+
+* 33 Star Evil
+** NES版豪華版，沒有不按右即死的問題
+** 自機裝甲變的相當貧弱，敵人全無視障礙物
+
+* 34 Air Command
+** 飛機遊戲，但為一般STG相向，由上往下開
+** 自機相當龐大，卻&lt;s&gt;像紙糊的一樣&lt;/s&gt;還是撞輸敵機
+
+* 35 ShootOut
+** 拿槍射擊的遊戲，主要是射擊一些看起來很{{censored|豪洨的}}動物
+** 每一關子彈數量有限，要是子彈都用完了就會輸掉
+
+* 36 Bombs Away
+** 操縱一個{{censored|不想活的}}士兵閃避從天而降的炸彈的遊戲
+** 前景的房子會擋住視線看不到自己，有時會因此被炸死
+** 士兵可以跳得比房子還要高
+
+* 37 Speed Boat
+** 操縱著一艘&lt;s&gt;用紙做的&lt;/s&gt;火箭動力快艇的遊戲
+** 水上釣魚人的船還會無意識的移動真讓人吃驚
+
+* 38 Dadant
+** 還是控制著一隻{{censored|他媽的}}螞蟻pk其他{{censored|他媽的}}螞蟻的遊戲
+** 如果遇到打不死的螞蟻就請自求多福
+
+* 39 G Fighter
+** 控制一台奇怪的太空船的橫向射擊遊戲，(&lt;s&gt;我強烈懷疑自機是抄襲 Darius 的&lt;/s&gt;)
+** 跟 Dauntless 一樣的問題，敵人會從螢幕兩側出現，只要一不注意就會被左側出現的{{censored|老木}}敵機撞爆
+
+* 40 Man at Arms
+** 守城遊戲，操縱一個拿十字弓的人射擊敵人的遊戲
+** 敵人明明是持盾向前走，但是被主角射到居然會拿開讓主角射中
+** 明明是站在一座高聳堅固城牆上，敵人可以在完全不用攻城武器或爬梯的狀態下只要摸到城牆就可以讓主角舉白旗投降真令人匪夷所思...
+
+* 41 Norman
+** 史上耐力最差的戰車
+** 完全不能輾過小兵，反而被小兵撞壞&lt;s&gt;紙戰車&lt;/s&gt;
+
+* 42 Armor Battle
+** 依然是開著那台史上耐力最差的戰車，只是變成雙打專用
+** 感覺戰車更爛了，因為現在就連砲管也會{{censored|他媽的}}歪掉導致子彈偏向一邊
+
+* 43 Magic Bean
+** 傑克因不滿巨人的垃圾而爬上魔豆樹打算和巨人理論
+** 落下物包含巨人鞋子、馬蹄鐵、酒瓶、鞋帶
+** 爬得愈高，摔得愈重
+
+* 44 Apache
+** 一架性能有嚴重問題的爛阿帕契直昇機
+** 會自動去撞上地上的石頭和戰車，有必要把飛機開那麼低嗎?
+** &lt;s&gt;可能是看了{{censored|第三滴血}}第一滴血三最後的戰鬥場景(直昇機vs藍波開的坦克)才會這麼設定的&lt;/s&gt;
+
+* 45 Paratrooper
+** 操縱一個士兵收集資料箱並射擊機器人的遊戲
+** 主角若從側面撞上障礙物還會發出叫聲，如果想享受快感可以多試個幾次(誤)
+
+* 46 Sky Avenger
+** 又是操縱那台性能有嚴重問題的爛阿帕契直昇機
+** 而且場景還只是直接拿 Bombs Away 的場景，一樣會被那{{censored|老木}}的房子擋住視線
+
+* 47 Sharpshooter
+** NES版Shooting Gallery的豪華版
+
+* 48 Meteor
+** NES版Jupiter Scope的豪華版
+** 還是有某神秘力場的保護，不用太擔心下方城市的安危
+
+* 49 Black Hole
+** 還是一款操縱著太空船的射擊遊戲
+** 自機太大容易被撞爆就算了，敵人還是直接拿  Force One 的敵機，{{censored|他媽的}}完全無創新
+
+* 50 The Boss
+** &lt;s&gt;該死的&lt;/s&gt;蜥蝪為了錢去殺警察
+** 完全的負面教材，&lt;s&gt;GTA的史祖&lt;/s&gt;
+
+* 51 First Game
+** 直接抄Atari出的遊戲PONG(被大家認為史上最早的Video Game)
+** 雙方不要動，就可以無限玩下去
+
+* 52 Challenge
+** 隨機選擇雙打遊戲外的其他遊戲最後一關
+** 所以說，根本不滿52個遊戲(無誤){{censored|幹!他媽的爛!!}}
+** 先破一個遊戲後，接下來的下一個如果是捲軸類遊戲，移到下方可能會死機
+
+==Cheetahmen （チーターマン，暫譯:豹人三兄弟） ==
+* 遊戲中BGM堪稱傳奇，網路上不難發現其被神化/惡搞化的蹤跡。
+* 轉載翻譯處詳見『參考』條目
+===故事背景 ===
+ 其實他們本來也只是普通的獵豹，不過年幼時，被槍殺了母豹的博士給帶走，
+ 在那裡接受遺傳基因操作實驗成為基因改造豹戰士Cheetahmen。
+ 此後博士便命令他們來達成征服世界的野心，不過，本性善良的他們逃脫出來。
+ 並決心為母親復仇和阻止博士的野心，於是與遊戲的主人公一起合作。
+===人物介紹 ===
+[[File:Cheetahmen.jpg|right]]
+* 長子：阿波羅 Apollo
+** 擁有能進行遠距離攻擊用的高性能十字弓。
+** 三個領導中最博學多識
+** 在三兄弟中唯一不會飛 囧(最初他們能飛這樣的正式設定沒被分配)。
+** 名字的來歷一般認為是希臘神話出來的阿波羅。 
+* 次子：海格力斯 Heracules
+** 空手搏擊擅長
+** 在三人中擁有最碩大的身體,不過，與外表有著相反的和善性格。
+** 名字的來歷一般認為是同希臘神話中的海格力斯。
+** 三人中唯一對地面能有效對付矮小的敵人。能飛行(誤)。 
+* 三男：亞力士 Aries
+** 使用棍棒
+** 在三兄弟中身材較為短小，故敏捷的行動力為其擅長。
+** 順帶一提他也和海格力斯同樣能在天空飛(還是誤)。
+* 他們兄弟命名的原型似乎是源自希臘神話中的神祇?但因原開發公司已經倒閉，也無從考究。 
+
+Aries是戰神，不過因為只是純粹好戰，被其他的神明瞧不起
+
+===MAD ===
+[[File:img332.jpg|center]]
+* 10月16日凌晨1:11（日本時間），有一位ニコ職人上載了一段全長9:41，名叫《伝説のクソゲー チーターマン2》的短片&lt;ref&gt;sm1289422。&lt;/ref&gt;。
+* 開頭六分鐘左右是遊玩過程，尾段三分鐘則是該職人把這套垃圾遊戲的BGM Arrange過後放上BeatMania Auto Play的片段。
+* 誰也想不到Arrange 過後的Cheetahmen BGM 竟然擁有如斯強勁的洗腦能力，瞬即大受歡迎，長駐ニコ動的音樂職人各自以此為起點全力編曲，其他Arrange 版於是就好像雨後春筍般大量浮現！！！&lt;ref&gt;[http://www.youyulu.com/post/dbxml_1ab503 全文點此]。&lt;/ref&gt;
+[[File:img314.gif|thumb|right]]
+* CheetahmenII 最後一關的BOSS (詳見圖例→
+* 伝説のクソゲー チーターマン2
+** 日文字幕版歌詞(0rz.tw/f73js)
+** 中文字幕版歌詞(0rz.tw/403mU)
+
+==名言錄 ==
+===part1. ===
+* 你肯讓我打你的喉嚨五十二次來賺二百塊嗎？...我不覺得你會。(Intro部分
+** (Would you pay me 200 dollars to punch you in the throat 52 times?.. I don't think so.)
+* 這聲音質素差得可以，聽起來像由1980年出的德州儀器牌電腦發出的聲音(主畫面評論
+** (And the sound quality is so horrible on it and it sounds like 1980 Texas Instrument Calculator.)
+* 奇怪地這主畫面是整隻遊戲最好的地方，因為只有這裡是不會當掉的(主畫面評論
+** (Strangely, this is the best part of the entire game, because it's the only part that works consistently.)
+* 因為這隻射擊遊戲會是你一生中玩過最爛，最悲哀的狗屎射擊遊戲(Star evil評論
+** (...because this game is the lamest, most pathetic piece of ---- ####### shooter you've ever played in your entire life.)
+* 你的人物在扔...好像是脆薯餅的物體去鳥跟保鈴球(City of Doom評論
+** (And you throw...what appears to be hash browns at birds and bowling balls.)
+* 當你碰到窗戶時請求神救你...因為窗戶會一下子{{censored|他媽的}}謀殺你！(city of Doom評論
+** (God help you if you touch one of these windows, because they will &amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp; MURDER YOU.)
+* Action 52說：「{{censored|幹你的}}科學家！」(中間插入部分
+** (Action 52 says : &lt;s&gt;&lt;/s&gt; scientists!!)
+* 好，讓我們現在玩我在這裡最喜歡的一隻遊戲 - Alfredo。...對，這遊戲根本不能玩。(Alfredo評論
+** (Well, let's play my favourite game on this entire collection - Alfredo...Yes, this game did not work at all.)
+
+===part2. ===
+* 而且你得玩過遊戲才知道，這他媽的有多難跳。
+** and you have to play the game, truely understand how bad the jumping is in this game.
+* {{censored|幹}}太可怕了 這遊戲怎麼有辦法拿到商店來賣?   (non human玩後感
+** (un=======believable, how the f*ck can this make to retail)
+* 這遊戲讓我想吐{{censored|他媽}}52次 這遊戲應該附贈52個嘔吐袋才對   (non human玩後感
+** (This makes me wanna #$@%^&amp;amp;! puke 52 times, this game should came with 52 &lt;#$%^&amp;amp;&gt; barfbags)
+* [[成句/我○○了●●，它卻給我一個衰小臉|我{{color||blue|他媽}}吃了一包錢 它卻給我一個衰小臉?]]   (streemer2評論
+** (I collected that money and it give me an unhappy face...)
+* 我{{censored|他媽的}}相信你欸 錢！(streemer2評論
+** (I !!$$^^ trusted you, money!)
+* 如果我不能相信錢 我可以相信誰?   (streemer2玩後感
+** (If you cannot trust money, what the @@$# can you trust!?)
+* 我覺得遊戲就是在暗示叫我去死   (streemer2玩後感
+** (字幕空耳)
+* 艾爾頓強殺死你，錢幹掉你，現在向上走也會死？   (Meong玩後感
+** (Elton John kills you, money kills you, and now going up kills you??)
+* 一玩就覺得自己要喜歡男人了!   (bublgun rosy評論
+** (I'm feel --*#*@! gay just playin this *&amp;amp;^#!)
+* 你{{censored|他媽的}}就殺了我吧!   (bublgun rosy掉入陷阱時/下句:...跳不過!之後
+** (Just !@#&amp;amp;^$&amp;amp; kill me now...)
+* 艾爾頓強竟然沒有從螢幕裡跑出來 用錢袋賞我一巴掌   (bublgun rosy 掉進陷阱後)
+** (Surprise Elton John's hand did not come out from the screen and bash me with a !&amp;amp;@^$#* money bag...)
+* 不可能的一直跳......跳了16小時還跳不過!   (bublgun rosy評論
+** (I try this $==/==% jump for like =-+_%^@ 16 hours, I couldn't f*ckin do it)
+* 沒錯...你連Ninjas都可以搞砸是吧(ninja assault評論
+** (Yes...you're going to @^** up ninjas, aren't you...)
+* 搞什麼 那忍者在肛我?   (ninja assault評論
+** (What the ^^^^..did that ninja just raped me!?)
+===part3. ===
+* 如果我再聽到一次那首歌　我{{censored|他媽}}就要殺光所有人！！！   (開頭動畫評論
+** （For #$#&amp;amp; I hear it again I'm gonna kill everybody in the god damn earth!）
+* 你只有三秒鐘可以證明你有好玩的，要不然我就要肛了你！！   (主選單時
+** （you have exectly three seconds to show me a good game or I'm gonna rape you!）
+* 你以為你可以選擇嗎？我叫你動你就給我動！！   (fire breathers玩後感
+** (You think you have a choice in this!?You move when I tell you to move!)
+* 這根{{censored|老二}}用光速往你衝過來　你根本就無法控制   (micro mike評論
+** (The game starts you with lightspeed, you can't even control it, I'm impossible, get the &lt;&lt;&gt;&gt; away from me!)
+* 我{{censored|他媽}}要射啥　我自己嗎？！   (shooting gallery評論
+** (What the &lt;%^&gt; am I supposed to shoot, myself!?)
+* 我是兩根手指嗎!？你他媽在對我比中指嗎!? (time warp tickers評論
+** (Am I a pair of fingers!?Are you fingering me now!?)
+* Ｔｉｍｅ？{{censored|他媽的}}我真的是在浪費時間！！！   (time warp tickers評論
+** （Time?Time is what I'm wasting on you, you're $%#@@&amp;amp;% monkey ass!）
+* 我已經自殺一次了，這個王八蛋又讓我活回來玩這個爛遊戲   (space dreams玩後感
+** (I've already shot myself once, and this !@#$&amp;amp;^%$&amp;amp;$%^ brought me back to play this #$()...)
+* 我每次跳 為什麼會發出他老木的三小聲音 掯我想把我的耳朵扯下來!!(manchester評論
+** (What...the &lt;?-+...is that sound....EVERYTIME I JUMP...It wants to rip my &lt;&amp;amp;*+ ears off!!)
+* 這到底是三小？{{censored|他媽}}沒有道理阿？！   (fuzz power評論
+** (What is this -_=^? It makes no sense?!)
+* 你他媽的跟我說 這遊戲裡面的敵人是護髮組嗎？ (fuzz power評論
+** (Are you $$&amp;amp;^#%@ telling me that the enemies in this game are hair-care products!?)
+* 他的攻擊動畫只有一格 搞屁阿!(cheetahman玩後感
+** (His attack is like only one frame of animation, what the !%$*!)
+* {{censored|媽的}}這５２個遊戲看起來像是用蘋果二號電腦　只花{{censored|他媽}}半個小時做出來的   (cheetahman玩後感
+** (It looks like all 52 of these games are making *^$#$*= 30 minutes on a Apple II computer)
+
+== 參考 == 
+* [[地雷]]
+* [[三人のおじさん]]
+* [http://www.youtube.com/watch?v=fWXVmDDLDLU 【MAD】Action 52 Part1 中文翻譯版]
+* [http://tw.youtube.com/watch?v=8udJbHOO3V0&amp;amp;feature=related 【MAD】Action 52 Part2郭bu中文翻譯版]
+* [http://www.youtube.com/watch?v=de0HfXE2P9A 【MAD】Action 52 Part3郭bu中文翻譯版]
+* [http://tw.youtube.com/watch?v=E0TmdwWE8FE 【MAD】伝説のクソゲー チーターマン2]
+* [http://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%83%B3 Cheetahmen 轉載出處フリー百科事典『ウィキペディア（Wikipedia）』]
+* [http://users3.jabry.com/fyspmail/a52.html 南方堂果的Action 52評論]
+* [http://www.atarihq.com/tsr/odd/scans/action52.lst 可怕的Action52故事說明(英文)]
+* [http://www.gametrailers.com/video/angry-video-screwattack/65116 AVGN對此Game的評論]
+* [https://www.arcadeattack.co.uk/mario-gonzalez/ 與製作者之一的訪談]
+
+== 下載 == 
+
+* [http://cid-2dcf3bb20239d365.office.live.com/self.aspx/.Public/A52.rar 按此下載這{{color||blue|他媽的爛}}}遊戲]
+** 解壓後開啟Nestopia ,檔案--&gt;開啟--&gt;Action 52 (E).nes
+
+* [http://cid-2dcf3bb20239d365.office.live.com/self.aspx/.Public/A52MD.rar 按此下載這{{color||blue|他媽的爛}}}遊戲(MD版)]
+** 解壓後開啟Gens ,File--&gt;Open ROM--&gt;Action 52 (Unl) [!].bin
+
+== 重製 == 
+* 由Arthur Lee所領軍、多位設計師個別去開發的TIGSource非官方性質團隊合作計畫，將五十二款{{censored|他媽的爛}}遊戲重製
+* 沒有bug、老木牆壁、罷工AI、莫名黑幕，不會讓你得愛滋的品質優良遊戲
+* 目前已完成23款，尚有3款未被認領製作
+* [http://home.gamer.com.tw/creationDetail.php?sn=2045221 中文介紹]
+*[http://www.superfundungeonrun.com/action52/ 重制計畫官網與遊戲下載點]
+*[http://forums.tigsource.com/index.php?topic=12439.0 TIGForums.專題網頁]
+
+== 投票 == 
+* 哪款遊戲最高?
+{{vote|section=1}}
+* 哪款遊戲最爛?
+{{vote|section=2}}
+
+== 回應 == 
+{{pcomment|section=2}}
+
+== 備註 ==
+&lt;references/&gt;
+[[分類:遊戲]]

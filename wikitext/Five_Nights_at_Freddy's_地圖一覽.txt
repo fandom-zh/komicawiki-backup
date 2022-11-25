@@ -1,0 +1,363 @@
+{{h0|Five Nights at Freddy's地圖一覽}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| 本條目為[[Five Nights at Freddy's/弗雷迪餐廳的五個晚上]]分離的子條目 
+|-
+| '''注意！這是恐怖遊戲！'''本條目含有部分劇透，沒看過原著又不想被{{censored|'''塞進機械人偶慘死或是皮膚被剝掉慘死&lt;s&gt;或是給人偶肛掉&lt;/s&gt;'''}}的話，請不要繼續看下去或反白。 
+|}
+==主要歷史 ==
+* 費斯熊弗雷迪的披薩餐廳（Freddy Fazbear's Pizza）
+** 兩代主角打工的餐廳，是一間家庭餐廳。
+*** 一代時比較簡陋，而二代時則比較新穎。
+*** {{censored|但實際上，二代時間是先於一代。}}
+** 餐廳原本命名為費斯熊家庭餐廳（Fredbear's Family Diner），後來才被收購而使用現在的名字。
+*** 原老闆不明，從二代得知已經失蹤了一年。
+** 餐廳在一代發生的年底停業。
+*** 原因來自於表演用的機械人偶皮套上有血液、黏液痕跡，同時亦發出嚴重臭味。
+*** 同時由於生意日漸轉差，而且並沒有找到接手人。
+** {{censored|餐廳設有安全屋，不會顯示在餐廳平面圖，且沒有監視鏡頭，機械人偶無法進入。}}
+** 因為收入變差，所以亦限制了夜晚供電。
+** {{censored|雖然發生了人偶襲擊晚間人類事件，但公司會秘密地處理了屍體，使死者被當成失蹤，以致不會讓人懷疑餐廳。}}
+** {{censored|1=有認為是影射現實中存在的連鎖餐廳查克起司，而兒童失蹤事件則'''可能是影射發生於93年的一次兇案'''&lt;ref&gt;{{censored|1=[https://www.youtube.com/watch?v=th_LYe97ZVc&amp;list=TLLzACXYjp8gk {{color|#000000||詳細可看Game Theory的推斷影片}}]}}&lt;/ref&gt;}}
+
+==一代 ==
+* 保安室（The Office）
+** 主角身處的位置。
+** 牆壁貼了餐廳海報及小孩的繪畫，枱上於了一台小風扇。房間內有按鈕啟動兩側的門及電燈。
+** 與西邊走廊及東邊走廊連接，兩邊各有門阻止人偶入侵，但會消耗電量。
+*** 越使用多設備，消耗電力速度越快
+** &lt;s&gt;明明電量已經吃得很緊，還要開動小風扇。&lt;/s&gt;
+** 點擊保安室的其中一個海報(Bonnie，Freddy，Chica站在一起那張)上，Freddy的鼻子就會發聲。
+** Android版中可籍由付費，可擺放Foxy以外的機械人偶造型玩偶在桌上。
+** 在更新萬聖節DLC後如電腦時間為10月31日萬聖節，則保安室內會放置一個南瓜裝飾和一連串燈飾&lt;s&gt;是說電力不會吃得更快的嗎&lt;/s&gt;
+*** {{censored|有些時候，玩家會看到快速閃過Freddy，Bonnie的頭部以及『IT'S ME』字樣的幻覺。}}
+** 主舞台（Show Stage）（CAM 1A）
+** Freddy、Bonnie及Chica的起始地點。
+** 轉換監視鏡頭後，{{censored|三台人偶會有一定機率望向攝錄鏡頭。}}
+
+* 用餐區（Dining Area）（CAM 1B)
+** 由於鄰接主舞台，Freddy、Bonnie及Chica均會有機會在這裡出沒。
+
+* 海盜灣區域（Pirate Cove）（CAM 1C）
+** Foxy起始地點，只有Foxy會在這裡出沒。
+** Foxy會被布幕遮，前面立了一個『Sorry! Out of Order』的牌子。
+*** {{censored|有些時候（尤其是Foxy離開這個區域後），牌子內容會變成『IT'S ME』。}}
+** 經常觀看或過少觀看這區域，會使Foxy起動。
+*** {{censored|一般而言，後期關卡中，大部份玩家推薦只需觀看這區域就可以。}}
+
+* 西邊走廊（West Hall）（CAM 2A、CAM 2B）
+** 當Foxy入侵保公室前，從CAM 2A可以觀測到牠奔跑。另外，Bonnie也會在這區域出沒。
+*** 此時僅有數秒可以關門，否則會被Foxy殺害。
+** CAM  2B牆上的海報會隨機交換{{censored|，有時會變成Freddy折解自已頭部的海報}}。
+*** {{censored|當切換為Golden Freddy海報，收起監視器後，Golden Freddy便會出現，需即時啟動監視器並切換監視畫面，否則無條件被殺死。}}
+
+* 雜物房（Supply Closet）（CAM 3）
+** 只有Bonnie會在這區域出沒。
+
+* 東邊走廊（East Hall）（CAM 4A、CAM 4B）
+** Freddy和Chica會在這區域出沒。
+** {{censored|CAM 4A牆上有些時候會出現『IT'S ME』的塗鴉或小孩在哭泣的海報。}}
+** CAM 4B牆上會貼上警告標語，有時會隨機交換成剪報。
+
+* 後台房間（Back Stage）（CAM 5）
+** 餐廳放置人偶配件、皮套的房間。
+** 只有Bonnie會在這區域出沒。
+*** {{censored|Bonnie有些時候會近距離瞪者監視鏡頭。}}
+** 轉換監視鏡頭後，{{censored|有一定機率所有配件人頭都瞪者監視鏡頭}}。
+** {{censored|被人偶抓到後，被塞進Freddy皮套的主角會被安放在這兒。}}
+
+* 廚房（Kitchen）（CAM 6）
+** 沒有畫面，只有聲音。
+** 只有Chica和Freddy會進入。
+** 可以憑聲音分辨哪個人偶在廚房。
+*** 如果是金屬碰撞聲，即為Chica。
+*** 如果是音樂聲，即為Freddy。
+
+* 洗手間（Restroom）（CAM 7）
+** Freddy和Chica會在這區域出沒。
+
+==二代 ==
+* 保安室（The Office）
+** 主角身處的位置，&lt;s&gt;按傳統地&lt;/s&gt;枱上於了一台小風扇。
+** 與左邊通風口及右邊通風口連接。
+** 能開啟電燈確認地圖上、保安室通道外、左邊通風口及右邊通風口的機械人偶。
+** 只有開啟各區域電燈及使用手電筒照保安室通道時才會消耗電力。
+** 點擊保安室的其中一個海報(Toy Bonnie,Toy Freddy,Toy Chica站在一起那張)上，Toy Freddy的鼻子就會發聲。
+** 在更新萬聖節DLC後如電腦時間為10月31日萬聖節，則保安室內會放置一個南瓜裝飾和一連串燈飾
+
+* 保安室外通道（Hallway outside The Office）
+** 連接保安室的通道
+*** Freddy、Golden Freddy、Foxy、The Puppet會從這裡入侵
+
+* 派對房1（Party Room 1）（CAM 1）
+** Bonnie，Toy Chica和Mangle會在這區域出沒
+
+* 派對房2（Party Room 2）（CAM 2）
+** Toy Bonnie，Chica和Mangle會在這區域出沒
+
+* 派對房3（Party Room 3）（CAM 3）
+** Freddy和Toy Bonnie會在這區域出沒
+
+* 派對房4（Party Room 4）（CAM 4）
+** Bonnie，Chica和Toy Chica會在這區域出沒
+*** {{censored|有些時候，BB的紙盤人偶會在這兒消失並在保安室內突然在這出現}}
+
+* 左邊通風口（Left Air Vent）（CAM 5）
+** Bonnie、Toy Chica、BB{{censored|及Bare Endoskeleton}}會從這區域入侵保安室
+
+* 右邊通風口（Right Air Vent）（CAM 6）
+** Toy Bonnie、Chica及Mangle會從這區域入侵保安室
+
+* 主要走廊（Main Hall）（CAM 7）
+** Freddy、Bonnie，Toy Chica和Mangle會在這區域出沒
+
+* 部件/服務房（Parts/Service）（CAM 8）
+** 一代四個機械人偶的起始地點。
+** 在Custom Night中似乎因特殊原因不會有畫面觀看
+
+* 節目舞台（Show Stage）（CAM 9）
+** 二代Toy系列機械人偶的起始地點。
+** 在Custom Night中似乎因特殊原因不會有畫面觀看
+
+* 遊樂區（Game Area）（CAM 10）
+** BB的起始地點。
+** Toy Freddy和Mangle會在這區域出沒
+
+* 獎品閣（Prize Corner）（CAM 11）
+** 轉動音樂盒的區域。&lt;s&gt;史上最快播完的音樂盒&lt;/s&gt;
+*** 旋律是美國著名童謠"爺爺的老時鐘(my grandfather's clock)"。
+** The Puppet{{censored|及Bare Endoskeleton}}的起始地點。
+** Mangle會在這區域出沒。
+** {{censored|一般而言，後期關卡中，大部份玩家推薦只需觀看這區域以轉動音樂盒就可以。}}
+
+* 兒童海灣區域（Kid's Cove）（CAM 12）
+** Mangle的起始地點。
+
+==三代 ==
+* 由於這一代餐廳被改建為驚嚇屋，所以分佈亦主要以鏡頭為主。
+** CAM 01至CAM 10為驚嚇屋房間的監視鏡頭，CAM 11至CAM 15則是通風口監視鏡頭
+
+* 保安室
+** 位於驚嚇屋最後的位置，具有監視整間驚嚇屋的監視畫面
+** 由於還未到正式開業，所以保安室滿佈各種雜物
+** 按業主所說，保安室和保安也屬於驚嚇屋表演的一部分
+** &lt;s&gt;想當然那個電風扇依然存在&lt;/s&gt;
+** &lt;s&gt;作為電風扇以外的另一傳統&lt;/s&gt;點擊保安室的其中一個海報(Freddy那張)上，Freddy的鼻子就會發聲。
+** 在更新萬聖節DLC後如電腦時間為10月31日萬聖節，則保安室內會放置一個南瓜裝飾和一連串燈飾
+*** {{censored|有些時候，Freddy和Bonnie的紙盤人偶會在這兒突然出現}}
+
+* CAM 01
+** 鄰近保安室的鏡頭
+*** 一旦Springtrap從左邊接近保安室時，可以在這裡播放音效趕走他。
+** 其中一個攝有出口的鏡頭，可能是驚嚇屋的出入口之一
+** 惟一一個(不計算通風口)Springtrap只會出現在固定一個位置的鏡頭
+
+* CAM 02
+** 鄰近保安室的鏡頭，推測是連接保安室的走廊
+** 在走廊盡頭放有套空置的Bonnie人偶服
+** 牆上的Freddy海報有時會變成失去右眼，擬似是Springtrap的海報
+
+* CAM 03
+** 連接CAM 04的轉角
+** Springtrap有機率會在這兒開始活動
+
+* CAM 04
+** 連接CAM 02和03的轉角，在該位置有擺放Foxy頭部的裝飾
+** 牆上的玩具邦尼海報有時會變成蛋糕的海報
+*** Phantom Mangle會隨機在該鏡頭倒吊在天花版方式出現，必須轉換鏡頭以避免被攻擊
+
+* CAM 05
+** 連接CAM 06的走廊
+
+* CAM 06
+** 連接CAM 05和CAM 07的走廊
+
+* CAM 07
+** 在該鏡頭有擺放一台座地的遊戲機
+*** Phantom Chica會隨機在該遊戲機畫面出現，必須轉換鏡頭以避免被攻擊
+
+* CAM 08
+** 在該鏡頭下放置了一個Chica人偶頭部以及The Puppet的面具
+*** Phantom Puppet會隨機出現，必須轉換鏡頭以避免被攻擊
+
+* CAM 09
+** 連接CAM 10的走廊
+
+* CAM 10
+** 其中一個攝有出口的鏡頭，可能是驚嚇屋的出入口之一
+
+* CAM 11
+** 連接CAM 09的通風管
+
+* CAM 12
+** 連接CAM 07的通風管
+
+* CAM 13
+** 連接CAM 05的通風管
+
+* CAM 14
+** 連接CAM 10的通風管
+
+* CAM 15
+** 連接CAM 02的通風管
+
+==四代 ==
+* 與歷代不同，這次遊戲舞台設定為某小孩居住的房子。而且還沒有設置監視鏡頭，所以玩家要以第一身的角度，親自監視家中情況。
+
+* 臥室
+** 主角身處的位置。
+** 房間裏面的擺設充滿了小孩的色彩。包括紫色的玩具電話、紫色的玩具機械人&lt;ref&gt;對應人物Purple Guy&lt;/ref&gt;和同樣是紫色的小'''風扇'''。
+*** &lt;s&gt;風扇根本是Fnaf的代表物。最初的感動，始終如一！&lt;/s&gt;
+** 牆壁上掛了一些生活照。&lt;s&gt;純粹作裝飾品用途，與劇情沒有關係。&lt;ref&gt;&lt;s&gt;但也許當中有Scott本人的照片&lt;/s&gt;&lt;/ref&gt;&lt;/s&gt;
+
+* 左邊門廳
+** Bonnie的起始地點，偶而Foxy也會出現。
+** 牆壁上掛了一些生活照。&lt;s&gt;純粹作裝飾品用(ry&lt;/s&gt;
+
+* 右邊門廳
+** Chica的起始地點，偶而Foxy也會出現。
+
+* 衣櫥
+** Foxy會從這裡入侵。
+** 有一定機率會照到Foxy玩偶。
+*** 關上衣櫥愈久，愈大機率。
+*** {{censored|有可能暗示小孩看見的機器人偶們都是幻覺，機器人偶們的真身其實只是普通玩偶。}}
+
+* 大床
+** Freddy&lt;s&gt;和它的三個孩子&lt;/s&gt;的起始地點。
+** 在床上擺放了一個Freddy玩偶，點擊鼻子就會發聲。&lt;s&gt;我敢說這個玩偶已經是全遊戲最治癒的物品了&lt;/s&gt;
+*** &lt;s&gt;另外Freddy的發聲鼻子果然是繼電風扇後又一傳統&lt;/s&gt;
+** {{censored|有一定機率會照到床邊放了花朵&lt;ref&gt;{{censored|已有玩家已看出擺放的是白和粉紅色的鬱金香，在某些花語中可解作「'''請求原諒'''」和「'''幸福'''」}}&lt;/ref&gt;、打點滴的醫療器材或藥物。}}
+
+* 長廊
+** 進行每晚通關後小遊戲Fun with Plushtrap和Fun with Ballon Boy的地方。
+** Plushtrap和Nightmare Ballonboy只會在此露面，並且坐在椅子上。
+
+
+==外傳 ==
+•（Circus Baby's Pizza World）
+* 全名Circus Baby's Entertainment and Rental
+* 根據Hand Unit的說法，{{censored|此公司的出現是用作填補費斯熊弗雷迪的披薩餐廳的倒閉而出現，但因時間不明確而沒法確認}}
+** {{censored|部份推論認為是在四代前後}}
+
+* 升降機(Elevator)
+** 玩家每回開始時身處的地方，每次上工的方向不是向上而是"向地底"。
+** 有一個造型滑稽的鍵盤，完全沒數字，畫面抖個不停。
+*** {{censored|26個英文字母中獨獨缺了B。}}
+
+* 控制中心/中央控制室 (Primary Control Module)
+** 升降梯前方的房間，擁有通風管道連接不同地方。&lt;s&gt;好路幹嘛不造一條，當每個人是地鼠&lt;/s&gt;
+** 玩家可在此處用控制器觀察Ballora和Funtime Foxy的情況，紅鈕控制燈光，藍鈕發出控制電擊。基本上一言不合就電擊，沒在舞台上就電擊。&lt;s&gt;楊教授的治療室&lt;/s&gt;
+*** {{censored|Night 2 電完Ballora後發出模糊悚然的背景音，辨別出來是Unlimited, Standards, Elevation, Passive, Heights，提取開頭可發現是"HELP US"的變位。}}
+
+* 馬戲團控制室(Circus Control)
+** 在Control Module前方，櫥窗邊框吊著BalloonBoy的玩偶。
+* 馬戲團綜藝館(Circus Gallery)
+** 在Circus Control前方，與Circus Control僅一窗之隔，Circus Baby和Bidybab們的展示台。
+** {{censored|Baby和Bidybab們從Night 1起就沒在台上出現過，Hand Unit還說一切正常。}}
+
+* 芭蕾拉藝廊(Ballora Gallery)
+** 在控制中心左側，Ballora和Minireena們的展示台。
+
+* 歡樂綜藝館(Funtime Auditorium)
+** 在控制中心右側，Funtimefoxy的展示台。
+
+* 配電室(Breaker Room)
+** Night 2重新啟動所有系統的地方，介面上有一張所有房間的平面圖{{censored|，有三個顏色較淺的區塊，暗示為上層建築，4代主角的房間、Fun with Plushtrap的長廊、疑似Freddy Fazbear Pizza的位置。}}
+** 在Ballora Gallery的左邊。
+** {{censored|整張地圖幾乎在暗示3代、4代、外傳的劇情是發生在同一棟建築裡。}}
+
+* 配件服務房(Parts &amp; Service Room)
+** Funtime Auditoriumu右側的房間。
+** Night 5見到Baby殘骸的地方{{censored|，依稀可見Ennard站在Baby後面操縱Baby。}}
+
+* 挖勺室(Scooping Room)
+** 在Funtime Auditorium後方的房間。
+** 報廢人偶的地方，有一條輸送帶，輸送帶的盡頭有一個巨大的挖勺，負責挖出人偶的內骨架。&lt;s&gt;非常浪費錢的報廢方式&lt;/s&gt;
+** {{censored|於Night 4和Night 5真結局中玩家身處的位置}}
+
+* {{censored|謎之隱藏房間/私人房間(Private Room)}}
+** {{censored|於Night 5需使用特定方法才能進入的房間，在Funtime Auditorium前方。}}
+** {{censored|玩家在這兒必需留到凌晨6時並要阻止Ennard入侵}}
+** {{censored|基本操作方法和初代無異，不懂的大概也很快上手}}
+*** {{censored|不過和初代不同的是沒有了門燈，另外一旦電力用盡而未到6時'''Ennard將會問答無用地直接殺害玩家'''}}
+*** {{censored|共有7個監視鏡頭，當中CAM01，02和05分別是直接連接左．右和頭頂的門}}
+** {{censored|有趣的是，在桌子上有放著一個Fredbear的玩偶以及一個&lt;s&gt;歷代的Fnaf代表物的&lt;/s&gt;電風扇}}
+** {{censored|另外，如果用在Circus Baby海報旁的鍵盤輸入1983，在桌子上的三個監視螢幕會出現4代的情景，分別是睡房，大床和長廊，同時也表明4代小遊戲那些目光會移動的Fredbear們全是經過偽裝的監視鏡頭。}}
+** {{censored|這房間亦是本作Custom Night的舞台。}}
+
+* 不知名房間
+** 每晚成功過關，也就是Shift Complete後，玩家所在的地點。
+*** 每晚的娛樂是吃爆米花。&lt;s&gt;我有一百種神奇的吃法&lt;/s&gt;
+** 房間的櫃子上有一個眼熟到不行、醜到不行的檯燈。
+*** 沒錯，就是四代主角家裡常出現的那種檯燈。
+*** {{censored|暗示本作與四代發生在同一間房子裡的另一佐證。}}
+** 房間中有一台舊型電視機，主角下班後的主要娛樂是用它來看短劇"The Immortal and the Restless(某不死者與某操碎心者)"。
+*** &lt;s&gt;狗血&lt;/s&gt;肥皂短劇的主角是個身穿紫色西裝的吸血鬼Vlad和他的苦逼情婦(?其實是老婆)Clara。
+*** {{censored|Vlad音近於Fred，一口英國腔加上在家庭餐廳打工等訊息均暗示著Mr.Afton或Michael Afton的家庭狀況。}}
+
+==外傳自定義夜==
+* 保安室
+** 自定義夜玩家操作的地方&lt;s&gt;，繼續是本作的隱藏主角電風扇依然存在&lt;/s&gt;
+** Minireena2，Lolbit，Yenndo和Bonnet會在這兒出現。
+** {{censored|實際上就是本篇Night 5獎勵結局的房間}}
+
+* CAM 01和CAM 02
+** 連接左右門的走廊
+** Ballora出現時這兩處會看不見
+
+* CAM 03和CAM 04
+** Funtime Freddy和Electroab會在這兩處出現
+
+* CAM 05
+** Bidybab會在這兒出現
+
+* CAM 06
+** Minireena會在這兒出現
+
+* CAM 07
+** Funtime Foxy的起始地點
+
+==終極自定義夜==
+* 保安室（The Office）
+** 主角身處的位置。
+** 根據玩家選擇的場地，其擺設也有相當的差別
+
+* 西邊走廊（West Hall）（CAM 01）
+** Freddy的起始地點
+** Jack-O-Chica和Rockstar Chica會在這區域出沒。
+
+* 東邊走廊（East Hall）（CAM 02）
+** Nightmare Bonnie，Nightmare Mangle和Circus Baby的起始地點
+** Jack-O-Chica和Rockstar Chica會在這區域出沒。
+
+* 雜物房（Supply Closet）（CAM 03）
+** Lefty的起始地點
+
+* 廚房（Kitchen）（CAM 04）
+** 沒有畫面，只有聲音。
+** Chica和Marionette的起始地點。
+** 同時亦是本作轉動音樂盒的區域
+
+* 海盜灣區域（Pirate Cove）（CAM 05）
+** Bonnie和Foxy起始地點。
+
+* 觀樂時光海灣區域（Funtime Cove）（CAM 06）
+** Funtime Foxy和Plushtrap的起始地點。
+
+* 獎品閣（Prize Corner）（CAM 07）
+** 購買玩偶和Death Coin的區域
+
+* 部件/服務房（Parts/Service）（CAM 08）
+** Toy Freddy的起始地點
+
+* 通風管系統（Vent System）
+** Mangle/Withered Chica/Springtrap/{{censored|Ennard}}/Molten Freddy的起始地點
+
+* 換氣管系統（Duct System）
+** Happy Frog/Mr.Hippo/Pigpatch/Nedd Bear/Orville Elephant的起始地點
+
+
+== 備註 ==
+&lt;references/&gt;
+[[category:Five Nights at Freddy's]]

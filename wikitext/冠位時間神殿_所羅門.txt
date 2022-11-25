@@ -1,0 +1,57 @@
+{{h0|極天的流星雨}}
+[[File:冠位時間神殿banner.png|500px|center]]
+== 概要 ==
+[[File:冠位時間神殿headline.jpg|500px|center]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 特異點編號
+| 終局特異點
+|-
+! 時代
+| A.D. 2016
+|-
+! 人理定礎值
+| ─ ─
+|-
+! 地點
+| 冠位時間神殿{{censored|迦勒底}}
+|-
+! 導航角色
+| [[Fate/Grand Order登場英靈一覽|極天的流星雨]]
+|-
+! 通關後贈送角色
+| [[瑪修‧基利艾拉特|救世之盾&lt;ref&gt;{{censored|終章中後期，瑪修會一度脫離，雖然角色依然在靈基，但玩家不能選擇使用}}&lt;/ref&gt;]]
+|-
+! 劇本作者
+| 奈須磨菇、東出祐一朗、櫻井光
+|}
+
+* Fate/Grand Order第一部最終章的故事。
+* 在2020年3月21日第七章動畫版第21集片尾宣布動畫化，其電影版預定在2021年7月30日上映。
+
+== 故事 ==
+[[File:冠位時間神殿prologue.png|500px|center]]
+
+== 本節登場主要角色 ==
+
+=== 我方勢力 ===
+
+* [[瑪修‧基利艾拉特]]
+
+* [[Fate/Grand Order登場英靈一覽|極天的流星雨]]
+
+* [[Solomon (Fate)|{{censored|所羅門}}]]
+
+
+=== 所羅門勢力 ===
+
+* [[Goetia_(Fate)|魔術王]]
+
+* [[魔神柱 (Fate)|72柱魔神]]
+
+== 關聯條目 ==
+{{Fate/Grand Order章節}}
+
+== 備註 ==
+&lt;references /&gt;
+[[Category:Fate/Grand Order劇情]]

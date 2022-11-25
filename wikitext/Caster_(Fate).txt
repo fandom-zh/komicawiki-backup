@@ -1,0 +1,168 @@
+{{h0| Caster（魔術師／キャスター）}}
+[[File:Caster.jpg|250px|right]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|[[Extra Class (Fate) | 特殊額外職階]]：Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner
+|}
+
+== 簡介 ==
+* 聖杯戰爭所能召喚的基礎七種職階之一。魔術師的英靈。事跡中掌握神秘，或是在某項領域有極大成就的英靈，都可以以這個職階被召喚。
+** 也因此Caster成為從者生前職業最雜的職階。&lt;s&gt;從較需感性的小說家、文學家、畫家，到需較多理性的科學家、數學家、發明家……反正體育系之外的全丟進這個職階就是了&lt;/s&gt;
+*** 甚至連概念都可以以這個職階被召喚。
+** 台灣角川最初翻譯[[Fate/stay night]]漫畫版的翻譯因為完全沒有搞懂'''TYPE-MOON世界觀中的魔術跟魔法是兩回事'''而擅自亂翻成了魔法師，也連帶的影響到後續所有台灣角川出版的Fate系列作品，在閱讀時請特別注意大多數的Caster施展的只是魔術而非魔法，以免造成混淆。
+** 現在中文翻譯中通常會以「術士」或直接以「魔術師」來稱呼。
+
+* 由於符合的英靈基本上都會以行使魔術為主要手段，通常都不擅長武術，而由於大部份的Servant都具備消解魔術威力的對魔力，所以在與Servant的對戰中被評價為最弱的職階。但藉由建構出強大的魔術工房，可以使據點變成連Servant也難以入侵的超級要塞，在防禦上將可以發揮很大的成效。
+** 所以這個職階的戰法通常為在隱密之地建造魔術工房，並逐漸累積實力。甚至可以說，Caster是唯一適合進行守城戰的職階。
+*** 雖說因為Servant甚為強大，御主為保障自身生命安全而避開會戰是很正常的想法。然而一旦據點的位置曝光，敵營很快就會蜂湧而至。若非神殿級的強力工房，恐怕撐不到最後。
+*** 而若御主將自己關在工房裡保命，單憑Servant在外作戰，期望他在沒有魔術師的魔術奧援或令咒強化下戰勝其他Servant，是非常困難的事。
+**** 唯一的例外，就是召喚出的Servant「極度強大」的狀況。
+* 與Berserker在不同意義上都是屬於難以應付的Servant。因為走上魔道的魔術師都是只專注在自身的目標上而不在乎他人，要與這類人相處本就困難，何況是成為英靈的魔術師。
+** 尤其如果主僕雙方都是標準魔術師出身的話，更容易出現問題。
+* 在FGO是貧富兩極化的職階，輔助型的Caster做得好的話甚至能登峰造極，但輸出型Caster因為遊戲系統的0.9加權，導致輸出面較其他職階低下。
+** 和其他職階較不同的是，Caster職階的輸出手依靠寶具連發進行輸出，平砍面則很薄弱。
+** 在遊戲中，Caster大多都有能支援隊友或能干擾對手的技能，擁有較多的輔助性質。至於像[[Cú Chulainn (Fate/stay night)|庫夫林]]、[[Nursery Rhyme (Fate)|童謠]]、[[Nitocris (Fate)|尼托克里絲]]和[[齊格]]這種技能組則是少數的例外。
+
+=== 職階固有技能 ===
+* 陣地作成：將一地點改造成魔術工房的能力。
+** FGO中的效果是A卡強化。配上牌組為A卡取向的Caster，運用得當的話可以不斷開寶具
+
+* 道具作成：製作魔術道具的能力。
+** 基本上魔術道具的強度比不上寶具的強度，但可以藉此創造出各式實用的道具輔助戰鬥。
+** FGO中的效果是提高為敵方上異常狀態的成功率。對於偏重輔助性質的Caster來說是非常重要的技能&lt;s&gt;所以沒有這個技能的Caster就……&lt;/s&gt;
+*** 但也有安徒生那樣無論技能或寶具都沒有為敵方上異常狀態的效果，導致就算有這技能也沒意義的狀況&lt;s&gt;，不過安徒生的價值完全不在這一點上就是&lt;/s&gt;
+
+=== 基本能力 ===
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 筋力 !! 耐久 !! 敏捷 !! 魔力 !! 幸運
+|-
+| E || E || C || A || B
+|}
+
+== 列表 ==
+
+{| class="wikitable sortable" style="margin： 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! Caster適性 !!備考
+|-
+| [[Medea (Fate)|美狄亞]] || [[Fate/stay night]] || 希臘：希臘神話 || 魔術師 ||
+|-
+| [[Gilles de Rais (Fate)|吉爾‧德‧萊斯]] || [[Fate/Zero]] || 法國：英法百年戰爭 || 生前曾接觸魔術 || 屬於依賴道具來施展魔術的類型，本身不擅長魔術
+|-
+| [[玉藻前 (Fate)|玉藻前]]  || [[Fate/EXTRA]] || 日本：平安時期 || 咒術師 ||
+|-
+| [[Nursery Rhyme (Fate)|童謠]] || Fate/EXTRA || 現象：概念 || 概念 || 
+|-
+| [[Hans Christian Andersen (Fate)|漢斯‧克里斯蒂安‧安徒生]] || Fate/EXTRA CCC || 丹麥：史實 || 作家 ||
+|-
+| [[William Shakespeare (Fate)|威廉‧莎士比亞]] || [[Fate/Apocrypha]] || 英國：文藝復興時期 || 作家 ||
+|-
+| [[Avicebron (Fate)|阿維斯布隆]] || Fate/Apocrypha || 西班牙：文藝復興時期 || 魔偶製作師 ||
+|-
+| [[Von Hohenheim Paracelsus (Fate)|馮‧霍恩海姆‧帕拉塞爾蘇斯]] || Fate/Prototype 蒼銀的碎片 || 瑞士：史實 || 煉金術師 ||
+|-
+| [[Alexandre Dumas (Fate)|亞歷山大‧仲馬]] || [[Fate/strange Fake]] || 法國：史實 || 作家 ||
+|-
+| [[François Prelati (Fate)|弗朗索瓦‧普勒拉蒂]] || Fate/strange Fake || 法國：英法百年戰爭 || 魔術師 ||
+|-
+| [[Maxwell's Demon (Fate)|馬克士威妖]] || Fate/KOHA-ACE 帝都聖杯奇譚 || 現象：假說 || 概念 || 
+|-
+| [[Archimedes (Fate)|阿基米德]] || Fate/EXTELLA || 古希臘：史實 || 科學家 || 
+|-
+| [[Mephistopheles (Fate)|梅菲斯特費勒斯]] || Fate/Grand Order || 小說：《浮士德》 || 咒術師 ||
+|-
+| [[Wolfgang Amadeus Mozart (Fate)|沃夫岡‧阿瑪迪斯‧莫札特]] || Fate/Grand Order || 奧地利：史實 || 音樂家 ||
+|-
+| [[維瓦‧維爾維特|諸葛孔明〔君主‧艾爾梅洛伊二世〕]] || Fate/Grand Order&lt;ref name="Fate/Zero"&gt;角色本身的初登場是Fate/Zero，作為Caster的從者初登場則是F/GO&lt;/ref&gt; || 中國：三國時期/TYPE-MOON原創 || 軍師 || 設定上是孔明附身於艾爾梅洛伊二世身上，演義中的孔明也有借風，石兵八陣等類似咒術的能力
+|-
+| [[Cú Chulainn (Fate/stay night)|庫夫林]] || Fate/Grand Order || 歐洲：凱爾特神話 || 盧恩魔術師 ||
+|-
+| [[Charles Babbage (Fate)|查爾斯‧巴貝奇]] || Fate/Grand Order || 英國：史實 || 發明家 ||
+|-
+| [[Helena Blavatsky (Fate)|海倫娜‧布拉瓦茨基]] || Fate/Grand Order || 俄羅斯：史實 || 神智學家 ||
+|-
+| [[Thomas Edison (Fate)|湯瑪斯‧愛迪生]] || Fate/Grand Order || 美國：史實 || 發明家 ||
+|-
+| [[Geronimo (Fate)|傑羅尼莫]] || Fate/Grand Order || 阿帕契：史實 || 精靈使 || 身為Caster卻拿小刀，靠近身戰鬥又搞暗殺的不務正業Caster之一
+|-
+| [[艾莉絲菲爾‧馮‧艾因茲貝倫|天之衣]] || Fate/Grand Order&lt;ref name="Fate/Zero"/&gt; || TYPE-MOON原創 || 魔術師 ||
+|-
+| [[玄奘三藏 (Fate)|玄奘三藏]] || Fate/Grand Order || 中國：唐朝 || 僧侶 ||
+|-
+| [[Nitocris (Fate)|尼托克莉斯]] || Fate/Grand Order || 古埃及：第六王朝 || 魔術師 || 和史實記述無關，基本上是靠克蘇魯神話的記述當上Caster的
+|-
+| [[Leonardo da Vinci (Fate)|李奧納多‧達文西]] || Fate/Grand Order || 義大利：文藝復興時期 || 發明家 ||
+|-
+| [[伊莉亞絲菲爾‧馮‧艾因茲貝倫]] || Fate/Grand Order&lt;ref name="Fate/kaleid liner"&gt;作為魔法少女的她來自Fate/kaleid liner魔法少女伊莉雅，作為Caster的從者初登場則是F/GO&lt;/ref&gt; || TYPE-MOON原創 || [[魔法少女]] ||
+|-
+| [[Gilgamesh (Fate)|吉爾伽美什]] || Fate/Grand Order || 巴比倫文明：《吉爾伽美什史詩》 || 靠寶具獲得Caster適性 || 本身並非魔術師。&lt;s&gt;烏魯克斧王，假裝在唸咒語結果是拿斧頭砍人的傢伙&lt;/s&gt;
+|-
+| [[Merlin (Fate)|梅林]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是Garden of Avalon，作為Caster的從者初登場則是F/GO&lt;/ref&gt; || 英格蘭：[[亞瑟王傳說]] || 魔術師 ||其實力具有冠位資格。&lt;s&gt;阿瓦隆劍聖，比起唸咒更喜歡拿劍砍人&lt;/s&gt;
+|-
+| [[Solomon (Fate)|所羅門]] || Fate/Grand Order || 以色列：統一王國時期 || 魔術師 || 魔術的確立者，最初的魔術師。{{Censored|擁有冠位資格，可以以一般職階召喚。}}&lt;s&gt;以色列拳王&lt;/s&gt;
+|-
+| [[Shéhérazade (Fate)|雪赫拉莎德]] || Fate/Grand Order || 文學：《一千零一夜》 || 說書人 || 
+|-
+| [[蘆屋道満 (Fate)|蘆屋道滿]] || Fate/Grand Order || 日本：平安時期 || 咒術師 || 在下總國以Caster·Limbo的名義登場不過在TVCM卻變成了Alter Ego
+|-
+| [[Circe (Fate)|喀耳刻]] || Fate/Grand Order || 希臘：希臘神話 || 魔術師 || 
+|-
+| [[Queen of Sheba (Fate)|示巴女王]] || Fate/Grand Order || 東非：示巴王國 || 精靈使 ||
+|-
+| [[Grand Duchess Anastasia Nikolaevna of Russia (Fate)|安娜塔西亞]] || Fate/Grand Order || 俄羅斯：羅曼諾夫王朝末期 || 精靈使 ||和名為Вий的俄羅斯精靈簽約
+|-
+| [[齊格 (Fate)|齊格]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是Fate/Apocrypha，作為Caster的從者初登場則是F/GO&lt;/ref&gt; || Type-Moon 原創 || 魔術師 ||此為接續F/AP結局 成為法夫納的齊格所使用的人型終端
+|-
+| [[明智光秀 (Fate)|明智光秀]] || Fate/Grand Order || 日本：戰國時期 || 僧侶(?)&lt;ref&gt;光秀在山崎之戰敗給秀吉後化名「南光坊天海」，以僧侶的身分活了下來並投到家康麾下的傳說非常有名，日本不少戰國題材的作品都採用這種說法&lt;s&gt;因為這樣就能一個角色當兩個用，大不了再換套衣服&lt;/s&gt;&lt;/ref&gt; ||生前背叛織田信長，迫使其自殺的人。&lt;br/&gt;活動《咕噠咕噠帝都聖杯奇譚－極東魔神戰線1945－》以奄美少將的化名初登場，實際上早在《コハエース》就有提及過。&lt;br/&gt;活動《咕噠咕噠FINAL本能寺》中提及自己具有Caster適性，似乎代表FINAL本能寺中出場的他是不同職階。
+|-
+| [[Scathach (Fate)|斯卡薩哈＝絲卡蒂]] || Fate/Grand Order || 歐洲：北歐神話、凱爾特神話 || 盧恩魔術師 ||
+|- 
+| [[酒吞童子 (Fate)|酒吞童子]] || Fate/Grand Order || 日本：《御伽草子》等 || [[魔法少女|護法少女]] ||  &lt;s&gt;設定中並未特別標註成節慶角色，姑且當成普通亞種&lt;/s&gt;
+|-
+| [[陳宮 (Fate)|陳宮]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是Fate/EXTELLA，作為Caster的從者初登場則是F/GO&lt;/ref&gt;  || 中國：東漢末年 || 軍師 ||
+|- 
+| [[美遊‧艾蒂菲爾特]] || Fate/Grand Order&lt;ref name="Fate/kaleid liner"/&gt; || TYPE-MOON原創 || [[魔法少女]] ||
+|-
+| [[紫式部 (Fate)|紫式部]] || Fate/Grand Order || 日本：平安時期 || 作家 ||
+|-
+| [[Asclepius (Fate)|阿斯克勒庇俄斯]] || Fate/Grand Order || 希臘：希臘神話 || 醫生 ||
+|-
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．Caster]] || Fate/Grand Order || 英格蘭：[[亞瑟王傳說]] || 魔術師 ||阿爾托莉雅（包含亞種）的第九個職階，也是正式湊齊了基本七職階。會吐槽梅林拿劍砍人，雖然自己也會拿法杖敲人。
+|-
+| [[Miss Crane (Fate)|鶴小姐]] || Fate/Grand Order || 日本：《白鶴報恩》 || 紡織工 || 只論紡織技巧是已觸及神域的「Shuttle Caster」
+|-
+| [[出雲阿国 (Fate)|出雲阿國]] || Fate/Grand Order || 日本：戰國時期 || 巫女 ||
+|- 
+| [[Báthory Erzsébet (Fate)|伊莉莎白‧巴托里]] || Fate/Grand Order || 匈牙利：血腥伯爵夫人 || || 萬聖節式樣 
+|-
+| [[Marie Antoinette (Fate)|瑪麗‧安東尼]] || Fate/Grand Order || 法國：法國大革命時期 || || 夏季泳裝式樣
+|-
+| [[Nerō Claudius (Fate)|尼祿‧克勞迪烏斯]] || Fate/Grand Order || 義大利：羅馬帝國 || || 夏季泳裝式樣
+|-
+| [[Charlotte Corday (Fate)|夏綠蒂·科黛]] || Fate/Grand Order || 法國：法國大革命時期 || || 夏季泳裝式樣
+|-
+| [[Nzambi (Fate)|恩贊比]] || Fate/Requiem || 剛果：神話 || 妖術師 || 本人表示不是魔術師（Caster），是妖術師（Sorcerer）
+|-
+| [[用漫畫瞭解的Caster]] || 用漫畫了解FGO！ || 日本：神話 || ？ || 能夠將御主養育成Caster大黑天
+|-
+| [[Merlin (Fate/Prototype)|梅林〔Prototype〕]] || Fate/Grand Order Arcade || 英格蘭：[[亞瑟王傳說]] || 魔術師 ||
+|-
+| [[Frankenstein (Fate)|弗蘭肯斯坦〔聖誕〕]] || Fate/Grand Order Arcade || 小說：《科學怪人》 ||  || 聖誕節式樣 
+|-
+|}
+* 除了上述這些成員以外，曾明確提及具有Caster適性的還有[[言峰四郎|天草四郎]]、[[Semiramis (Fate)|塞米拉米斯]]、[[Fionn mac Cumhaill (Fate)|芬恩‧麥克庫爾]]、[[James Moriarty (Fate)|詹姆斯‧莫里亞蒂]]、[[Sigurd (Fate)|齊格魯德]]、[[清少納言 (Fate)|清少納言]]，但都未曾登場。
+** 其中塞米拉米斯由於技能「二重召喚」，雖然身為Assassin卻同時保有身為Caster的能力。
+** [[Sherlock Holmes (Fate)|夏洛克‧福爾摩斯]]在第六特異點時自報的職階為Caster，作為迦勒底的Servant正式受到召喚後，靈基轉為Ruler。
+** 此外，目前未正式登場的[[安倍晴明 (Fate)|安倍晴明]]、卡里奧斯特羅伯爵職階也是Caster。
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+&lt;references /&gt;
+[[Category:TYPE-MOON]]
+[[Category:Fate系列]]
+[[Category:Caster (Fate)|*]]

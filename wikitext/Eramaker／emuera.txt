@@ -1,0 +1,96 @@
+{{h0|Eramaker／Emuera}}
+{| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;" 
+|-
+{{stub row}}
+|}
+== 解說 ==
+* eramaker是[http://cbaku.com/ サークル獏]製作的同人調教SLG系列所採用的自製遊戲引擎
+** 基本就是一個純文字的遊戲引擎
+** 提供基於basic程式語言的eramaker basic語言，可以自訂功能
+*** 自動生成地圖、簡單的動畫、QTE之類的也有[[神人]]做出來了
+** 由於不需要圖像聲音的素材，較低的門檻使得一些個人製作者選擇了eramaker來做遊戲
+*** &lt;s&gt;只是未完成的遊戲也很多&lt;/s&gt;
+*** &lt;s&gt;沒有寫手作文字潤色也只是個乾巴巴的遊戲&lt;/s&gt;
+*** 這些遊戲被日本統稱為「バリアント」（派生／variant）其中以[[東方]]的派生最多
+
+* emuera（emulator of eramaker）是eramaker的模擬器，在eramaker的基礎上，支援滑鼠操作、記錄巨集、使用者定義變數、方法（式中關數）、以及基本的html和圖像支援
+** 一般派生的era遊戲都是用emuera運行
+
+* 比起[[RPG製作大師]]，eramaker/emuera比較接近Unity3D、Unreal以及Shiva等3D遊戲引擎
+** RPG製作大師是在RPG的人物、技能以及操作介面等特化的遊戲引擎，拿去做跟RPG關係比較不大類型的遊戲就很容易卡住
+** 3D遊戲引擎中，編輯器基本上只負責創造地圖，其他的遊戲邏輯、使用者介面仍要使用者自行編寫
+** 而eramaker/emuera提供了一組有關調教SLG的數據結構、方法和函數結構，但是對程式編寫有認識的人可以完全不使用它們
+
+== 完成度比較高的派生作品名單 ==
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;" 
+|-
+|'''以下部分歡迎各位補完，已有者請不要重複登錄。'''
+|}
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:left;" 
+|-
+! '''名稱'''
+! '''原作'''
+! '''備註'''
+|-
+|EraMegaten
+|[[女神轉生系列]]
+|Megaten=Megami Tensei
+[[女神轉生系列]]的大集合，完成度高得不可思議
+|-
+|EraH
+|[[女神轉生系列]]
+|H=Hotel
+多了個酒店經營的部分，RPG的系統比EraMegaten簡化
+|-
+|Eramaou
+|原創
+|扮演魔王設置迷宮來對付來犯的女勇者，並征服世界
+對岸有很完整的中文化，以及[[魔改造]]版本Era魔王EX
+|-
+|EratohoYM
+|[[東方]]
+|最基本的"調教-&gt;出售"的[[東方]]系派生
+有YMAE、YMCS等二次派生版本
+|-
+|EratohoJ
+|[[東方]]
+|主角是幻想鄉原住民，選擇一個[[東方]]系角色作為開始的助手來協助你解決異變&lt;s&gt;同時來收[[後宮]]&lt;/s&gt;
+|-
+|EratohoK
+|[[東方]]
+|類似[[AliceSoft]]的地域制壓系列，只是地圖變成了幻想鄉
+|-
+|ErainSchool
+|無數有學校設定的ACG作品
+|扮演一個身負百萬欠債的高中生，必須通過不斷[[成句/他‧轉‧學‧了|轉學]]以結識女孩子掙錢
+|-
+|EraIm@s
+|[[アイドルマスター]]
+|基本就是扮演經紀人安排訓練和聯繫工作&lt;br/&gt;很特別的地方是：
+#附帶能播放音樂的外掛程式
+#在純文字的遊戲介面實現LIVE BETTLE
+二次派生版本也很多
+|-
+|EraSQ
+|サキュバスクエスト
+|18禁同人RPGサキュバスクエスト的派生
+比較普及的是二次派生版本EraSQN
+|-
+|EraKanColle＋SJ
+|[[艦隊Collection]] + [[戰艦少女]]
+|基於EraSQN的派生版本&lt;br/&gt;系統[[高達八成]]和[[艦隊Collection|艦これ]]一樣&lt;br/&gt;&lt;s&gt;日本人自主規制自有中國的人來做&lt;/s&gt;
+|}
+
+== 參見 ==
+* [[收集]]
+
+== 外部連結 ==
+* （日文）[http://cbaku.com/ サークル獏]
+* （日文）[http://seesaawiki.jp/eraseries/ eraシリーズを語るスレ　まとめWiki　V3]
+* （日文）[https://ja.osdn.net/projects/emuera/ Emuera]
+* （日文）[https://ja.osdn.net/projects/emuera/wiki/FrontPage Emuera Wiki]
+* （日文）[http://jbbs.shitaraba.net/otaku/16783/ era板＋]
+* （簡體）[http://xiaxiansy.pw/index.php/ Era儲備庫]
+* （簡體）[https://tieba.baidu.com/f?kw=eratoho eratoho吧]
+----
+[[Category:遊戲製作軟體]]

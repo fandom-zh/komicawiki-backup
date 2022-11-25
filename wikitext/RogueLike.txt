@@ -1,0 +1,159 @@
+{{h0| RogueLike }}
+
+{| class="wikitable" style="margin:1.5em auto;text-align:center;"
+|-
+|本條目歡迎各位島民繼續補充。
+|}
+
+== 簡介 ==
+* RogueLike是角色扮演遊戲（[[RPG]]）的一個主要分支。
+* 其名稱源自1980年代由Michael Toy與Glenn Wichman推出的角色扮演遊戲《Rogue》。
+* 該遊戲以其高自由度與隨機性獲得好評，此後與本作風格類似的遊戲多稱為RogueLike。
+
+== 主要特徵{{ref|並非完全必備}} ==
+=== 隨機地圖 ===
+* 每次重新開始遊戲時，遊玩的地圖與遭遇的事件多半與上回有相當的差異。
+* 因此每次遊玩時都可以當作一個新的體驗，也不會有固定而死板的流程。
+* 算是RogueLike遊戲最重要的特徵之一。
+=== 文字介面 ===
+* 因應早期硬體限制，部分RogueLike遊戲會強調全文字的介面。
+* 雖然硬體的進步造成許多RogueLike遊戲在畫面的發展，不過仍有部分RogueLike遊戲為強調懷舊而使用純文字介面。
+=== 死亡即終結 ===
+* 遊戲中所獲得的一切道具或技能基本上會隨著操作角色的死亡而宣告終結。
+* 因此限制了玩家使用SL大法來回溯。
+* 若是每次攻略後都能累積資源來幫助下一趟旅程就是亞種RogueLite，兩種玩法都有其支持者。
+=== 商店 ===
+* 在部分RogueLike遊戲中，商店會以類似擺攤的方式設置商品。
+* 玩家在撿取道具後並支付款項後即可完成交易。
+* 如果在撿取道具後使用小手段迴避交易的話會被視為偷竊，此時可能會受到懲罰（如被老闆殺掉）。
+** 珍惜生命，請勿偷竊。
+* 由於成功偷竊的難度相當高，因此部分遊戲會將其作為獲得隱藏要素及成就的途徑。
+** 如《赤／青之救助隊》中，必須達成偷竊行動才能以低機率捕捉到隨後出現的變隱龍。
+
+== 知名的RogueLike遊戲列表==
+* 本表原則上依年分排序
+{| class="wikitable sortable" style="margin:auto;"
+|-
+!初出年份
+!遊戲名稱
+!主要開發者
+!備註
+|-
+|1978
+|Beneath Apple Manor
+|Don Worth
+|
+|-
+|1980
+|Rogue&lt;br&gt;（流氓）
+|Michael Toy
+|RogueLike名稱的[[起源]]
+|-
+|1982
+|Hack&lt;br&gt;（駭客）
+|Jay Fenlason
+|有續作NetHack以及各種愛好者創作改良的衍生以及移植版本&lt;br&gt;互動性與複雜度遠超過當時甚至今日許多遊戲，被稱作披著Roguelike皮的解謎遊戲
+|-
+|1983
+|Moria&lt;br&gt;（摩瑞亞）
+|Robert Alan Koeneke
+|
+|-
+|1993
+|[[千變的迷宮系列|不思議のダンジョン&lt;br&gt;（千變的迷宮）]]
+|Chunsoft
+|日系RogueLike遊戲的台柱之一，除了與[[勇者鬥惡龍系列|DQ]]、[[最終幻想系列|FF]]、[[精靈寶可夢|PM]]等作品合作之外另有原創作品《風來的希煉》。
+|-
+|1996
+|[[暗黑破壞神系列|Diablo&lt;br&gt;（暗黑破壞神）]]
+|Blizzard North
+|只有一代的故事模式可選擇是否接續目前的迷宮狀態{{ref|離開遊戲時有儲存進度、儲存並重新遊戲這兩個選項；前者接續玩家現狀，後者則是重啟新一輪的遊戲}}。&lt;br&gt;一代的連線模式以及二代以後，離開遊戲即為重啟新一輪改變地圖。
+|-
+|1998
+|BAROQUE&lt;br&gt;（巴洛克）
+|Sting
+|
+|-
+| rowspan="2" | 2006
+|Dwarf Fortress&lt;br&gt;（矮人要塞）
+|Bay 12 Games
+|
+|-
+|降魔霊符伝イヅナ
+|NINJA STUDIO
+|主打靈符等飛行道具的使用。
+|-
+|2008
+|Spelunky&lt;br&gt;（地底尋寶）
+|Derek Yu
+|最早為免費遊戲，後於2012年推出重製版。
+|-
+|2012
+|[[片道勇者|One Way Heroics&lt;br&gt;（片道勇者）]]
+|SmokingWOLF
+|
+|-
+| rowspan="2" |2013
+|Don't Starve&lt;br&gt;（飢荒）
+|Klei Entertainment
+|以求生為主題，在荒野尋求一線生機的遊戲。
+|-
+|Rogue Legacy&lt;br&gt;（盜賊遺產）
+|Cellar Door Games
+|主體為[[Metroidvania]]，主要特色有隨機生成的城堡以及創角
+|-
+| rowspan="2" | 2015
+|[[節奏地牢|Crypt of the NecroDancer&lt;br&gt;（節奏地牢）]]
+|Brace Yourself Games
+|融合了節奏遊戲與地牢探索，角色於迷宮內移動時必須按照特定節拍才會進行。
+|-
+| ωラビリンス&lt;br/&gt;（ω迷宮）
+| D3 Publisher
+| 以[[巨乳|胸]]為賣點的迷宮遊戲。2017年推出續作《ω迷宮 Z》；2019年推出第三作《ω迷宮 Life》
+|-
+| rowspan="2" |2016
+|Darkest Dungeon&lt;br&gt;（暗黑地牢）
+|Red Hook Studios
+|遊戲帶有克蘇魯風格，玩家扮演雇主指揮手下的英雄清除家族領地內的腐敗，遊戲分五大區塊：廢墟、貧民窟、荒野、海邊洞穴、暗黑地牢（Darkest Dungeon）。&lt;br&gt;廢墟以及暗黑地牢是最初可挑戰的區域，但初期就進入暗黑地牢無疑是自殺行為，所以玩家必須不斷與其他區域的強敵交戰強化自家英雄尋找高級飾品直到他們夠格挑戰Darkest Dungeon這遊戲內最終也是最恐怖的區域。
+|-
+|Curious Expedition&lt;br&gt;（奇妙探險隊）
+|Maschinen-Mensch
+|在未知的大陸上探索遺跡的遊戲。
+|-
+| rowspan="2" |2017
+|Dead Cells&lt;br&gt;（死亡細胞）
+|Motion Twin
+|
+|-
+|Slay the Spire&lt;br&gt;（殺戮尖塔）
+|MegaCrit
+|遊戲目標為探索高塔，戰鬥方式為使用個角色專屬的卡牌戰鬥，隨著遊戲中的事件可以獲得卡牌或遺物來左右戰局。
+|-
+|2020
+|Hades&lt;br&gt;（[[冥王|哈迪斯]]）
+|Supergiant Games
+|以希臘神話為背景的動作類型遊戲，玩家扮演逃家的冥王之子從冥界底層殺出一條血路。
+|-
+|2021
+|[[VAMPIRE SURVIVORS|Vampire Survivors&lt;br&gt;（吸血鬼倖存者）]]
+|poncle
+|扮演吸血鬼獵人迎擊來襲的大量魔物，因為其高CP中毒性而異軍突起，僅僅在開發中階段就獲得了相當高的評價。
+|-
+|2022
+|Samurai Bringer&lt;br&gt;（侍神大亂戰）
+|ALPHAWING Inc.
+|描寫素盞嗚為了拯救戀人櫛名田而接受自己姐姐天照的試煉：和戰國豪傑們決鬥鍛鍊自己直到擊敗八岐大蛇。&lt;br&gt;遊戲本身主打自定義招式，除此之外隨著遊戲進度還能解鎖各個武將的模組。
+|}
+
+== 關聯 ==
+* [[電子遊戲分類]]
+* [[RPG]]
+* [[TRPG]]
+
+== 回應 ==
+{{pcomment|section=2}}
+
+==備註==
+&lt;references /&gt;
+[[分類:遊戲]]
+[[分類:角色扮演遊戲]]

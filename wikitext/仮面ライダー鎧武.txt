@@ -1,0 +1,544 @@
+{{h0|仮面ライダー鎧武（ガイム）/假面騎士鎧武&lt;s&gt;/[[しゅごキャラ!|守護甜心]]鎧武/[[劇集/夜市人生|夜市人生]]鎧武/[[銀魂|綜合水果]][[戰隊]]フルーツレンジャー/[[Fate/stay night|Fate Of Orange]]/[[魔法少女まどか★マギカ|仮面ライダー紘汰☆ガイム]]&lt;/s&gt;}}
+
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;" 
+|-
+| style = "text-align: center; "  | 本條目內含劇透，沒看過原著又不想'''被失控的Inves[[獵奇]]後發芽長出植物{{censored|、被餵食不明水果變成Inves再被獵奇}}'''&lt;s&gt;或是'''給虛淵玩弄命運'''&lt;/s&gt;的話請不要看下去。 
+|-
+| style = "text-align: center; "  | {{color|red||'''!!!WARNING!!!本條目已發布第一級虛淵警報!!!WARNING!!!'''}} 
+|-
+|上一部：&lt;s&gt;[[魔法少女まどか★マギカ]]&lt;/s&gt; [[仮面ライダーウィザード]] 
+|-
+|下一部：[[仮面ライダードライブ]] 
+|}
+
+[[檔案:Gaim Poster.png|300px|right]]
+== 解說 ==
+* 平成假面騎士第15作（新世代第5作），第一套以水果和世界上的各種鎧甲為主軸的騎士&lt;s&gt;即是綜合水果武士&lt;/s&gt;
+** 連音樂擔當都是從[[戰隊|隔壁棚]]挖來的《信長之野望》系列的御用音樂人山下康介&lt;ref&gt;由第七作《將星錄》起，至第十三作《天道》的音樂均由山下擔當&lt;/ref&gt;
+* 由2010年起的新騎士世代裡首次出現兩名以上&lt;ref&gt;若把《OOO》的雙Birth分開算為三名，《Wizard》的白色魔法使和Mage加入計算為六名&lt;/ref&gt;騎士的作品
+** 然後各騎士還有形態變化
+* 監製是武部直美
+** 她在雜誌訪問&lt;ref&gt;出典：《Hyper Hobby》2013年10月號&lt;/ref&gt;裡表示希望能跳脫現時平成騎士「二話一單元」的作劇模式，故事風格上也會回到平成早期（[[仮面ライダークウガ|空我]]-[[仮面ライダーカブト|Kabuto]]）的設定
+*** 不同於過去平成騎士一邊拍攝一邊調整和摸索故事主線方向的做法，本作在企劃階段已決定好整個故事的走向，角色們都是以其在故事尾聲時的狀況去[[逆流|逆推算]]他們最初的定位
+* 主編劇是近年因[[魔法少女まどか★マギカ|《魔法少女小圓》]]爆紅而竄起的[[虛淵玄]]
+** {{censored|到最後共發了十二份便當&lt;ref&gt;{{censored|依劇情順序為:裕也、初瀨、シド、デェムシュ、デュデュオンシュ、グリンシャ、シンムグルン、ロシュオ、レデュエ、凌馬、耀子、戒斗}}&lt;/ref&gt;(算上6名Overlord Inves的話)}}
+** 根據上面提到的雜誌訪談，武部正是因為看了《小圓》劇場版而有興趣起用虛淵；而負責在Twitter上替兩人牽線的則是[[杉田智和|杉田]]
+** 只是他最近經手的[[翠星上的加爾岡緹亞|《翠星的加爾岡迪亞》]]的結局卻是極度不行甚至連人也沒死幾個
+** 除虛淵外，[[Nitroplus]]的人員也有參與鎧武的制作（怪人設計、角色服裝設計，劇本協力等）
+
+* 繼[[仮面ライダーダブル]]後第二套推出角色外傳的新平成騎士作品
+** 目前已推出三彈
+*** 第一彈為以驅紋戒斗及吳島貴虎為主角，各佔約三十分鐘的《Baron．斬月外傳》
+*** 第二彈為以ザック及戰極凌馬為主角
+*** 時隔五年再推出第三彈，以城乃内秀保及凰蓮‧ピエール‧アルフォンゾ為主角
+* 本作的旁白是大塚芳忠，而&lt;s&gt;繼承了《Wizard》的超hip-hop音效，&lt;/s&gt;腰帶及武器的系統音聲則是平床政治（戰極Driver關連）及[[三木真一郎]]（Genesis Driver關連）
+* &lt;s&gt;以眾多假面騎士來說，每話副題大概是史上最惡搞的&lt;/s&gt;&lt;ref&gt;像第1話的標題就是「変身！空からオレンジ！？」&lt;s&gt;東映今次是拿了天空之城的名句來改&lt;/s&gt;&lt;/ref&gt;
+
+=== 與[[仮面ライダーウィザード|前作]]的關連 ===
+* 葛葉紘汰在《Wizard》52-53話的特別篇單元先行登場，因為聽到了來自另一個世界的呼救聲而挺身進入就已經是變身後狀態並兩三下就解決了場上的所有怪人&lt;ref&gt;只限特別篇的劇情，與本篇並非同一世界觀&lt;/ref&gt;
+** &lt;s&gt;還能帶整團鎧武隊亂入到[[獣電戦隊キョウリュウジャー|隔壁棚]]的片尾&lt;/s&gt;
+* 於第23話後的次週還與[[烈車戦隊トッキュウジャー|現在的隔壁棚]]&lt;s&gt;出現世界融合&lt;/s&gt;一同上演全長1小時的特別篇
+** 然後第30話還迎來了人造人間奇械者&lt;s&gt;，電影宣傳&lt;/s&gt;
+
+== 故事簡介 ==
+* 故事舞台為經由巨大企業「&lt;s&gt;Smart Brain &lt;/s&gt;Yggdrasill Corporation」之手[[魔改造|改造]]，以[http://ja.wikipedia.org/wiki/%E4%BC%81%E6%A5%AD%E5%9F%8E%E4%B8%8B%E7%94%BA 「城下町（以企業本社為核心所建立的城市）」]的型式建立的新興經濟都市「澤芽市」。
+* 「城下町」型都市結構的閉塞環境，為在市中生活的人們帶來一種無形的鬱悶感；一群以街舞發散鬱悶的年輕人之間，正暗中流行著以「&lt;s&gt;Humpty/Grief&lt;/s&gt; Lock Seed（ロックシード）」[[神奇寶貝|召喚出異世界的怪物「Inves（インベス）」並讓牠們進行對戰的遊戲]]。
+* 男主角「葛葉紘汰」在機緣下撿到了腰帶「戰極Driver」，並使用它變身成「假面騎士鎧武」，紘汰因此被捲入了與Inves戰鬥的命運…
+
+== 登場人物 ==
+* 詳見[[仮面ライダー鎧武/角色介紹#登場人物|仮面ライダー鎧武角色介紹-登場人物]]
+
+== 假面騎士=Armored Rider ==
+* 詳見[[仮面ライダー鎧武/角色介紹#Armored Rider|仮面ライダー鎧武角色介紹-Armored Rider]]
+
+== &lt;s&gt;悲嘆之&lt;/s&gt;鎖種/&lt;s&gt;Grief &lt;/s&gt;Lock Seed（ロックシード） ==
+* 為由在異世界的「亡者森林」裡面生長的植物所結的神秘果實變化而成的鎖頭狀道具，[[成句/這件事全世界只有三個人知道|有三種入手途徑]]：
+*# 通過Inves Game戰勝對手奪得（見Inves Game項）
+*# 在亡者森林裡摘取（下述）
+*# 經由Lock Seed販子購買（一般都不便宜）
+
+* [[成句/○○？可以吃嗎？|這些果實看上去]][[成句/我很好吃|很好吃'''（重點）''']]，佩戴著腰帶Driver的人摘取果實時會自動變化成隨機等級和外型的Lock Seed
+** {{censored|而根據第1話的裕也、第13話的初瀨與及第14話凌馬的研究報告，一般人類和動物若吃了這些果實就會變成Inves}}
+*** {{censored|凌馬的說法：人類和動物在吃了果實後就會死亡，然後被果實佔據屍體變成Inves}}
+*** {{censored|不過像戒斗的情況本身對亡者果實有抗性的人吃了則會直接變成Overlord Inves，重傷的デェムシュ吃了則進化成「強化體」，而在已經Overlord Inves化的紘汰面前就真的只是很好吃的果實}}
+*** {{censored|而在外傳《Guridon VS Bravo》出現變種版本，即使佩帶driver摘取也無法將其變為Lock Seed}}
+** 除了一般的水果外也有代表樹果及花卉種子的Lock Seed，只是普遍等級都較水果系的為低
+** 一般人也可對Lock Seed作小改造，像是解除其限制器讓Inves實體或是像凰蓮般弄個收錄自己配音的高彷品&lt;s&gt;，這一定是財團B要拿來出玩具的陰謀←結果還真的推出了&lt;/s&gt;
+
+* 按下側面的按鈕「開啟」鎖頭就能打開連接亡者森林和現世的空間缺口，從中召喚武裝或者Inves來到現世
+** 解鎖按鈕設計都主要分為「推桿」和「按鈕」兩種&lt;s&gt;Astro Switch的異樣版&lt;/s&gt;
+** 不使用時也能裝在腰帶上充當緊急食糧（無誤），可補充營養及維持飽腹感覺
+
+* 命名法則不使用英語，而是以日本當地的通用稱謂為先
+* {{censored|會使用「水果」為道具意匠的理由，是笨呆方面的人於企劃會議中說「之前從來沒用過」（真的…無誤）}}
+
+{{hideh|Lock Seed一覽（點擊展開）}}
+=== Lock Seed ===
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Lock Seed名稱 !! 關連植物 !! 編號 !! 等級 !! 使用的騎士 !! 能力 !! 【初登場話數】使用者的入手經緯 !! 備註 
+|-
+| Himawari || 向日葵 || L.S.-00 || D || - || 無 || &lt;s&gt;Himawari等級最低又超容易取得，所以什麼時候取得根本不重要&lt;/s&gt; || 唯一沒有（不能）用於變身的Lock Seed，多用於召喚初級Inves&lt;br&gt;&lt;s&gt;因為等級最低又超容易取得，之後就成為各方騎士安裝在腰帶上的應急食糧了&lt;/s&gt; 
+|-
+| Matsu-bokkuri || 松果 || L.S.-01 || C || 黑影 || 變化成Matsu-bokkuri Arms || 【第4話】戒斗在亡者森林裡摘取到後贈予初瀨&lt;br&gt;&lt;s&gt;但第5話敗予鎧武隊，第7話輸給Bravo，可以推斷他和城乃內要不斷向シド採購&lt;/s&gt; || \一撃in the Shadow!/&lt;br&gt;[[成句/oo!!你個腦裝屎架?!|&lt;s&gt;切開裡面都是米田共&lt;/s&gt;]]&lt;br&gt;第11話連同戰極Driver被斬月破壞 
+|-
+| Kurumi || 胡桃 || L.S.-02 || C+ || Knuckle || 變化成Kurumi Arms&lt;br&gt;專用武器為巨大&lt;s&gt;核桃&lt;/s&gt;拳套「クルミボンバー」 || &lt;s&gt;Kurumi本身等級低又容易取得，所以什麼時候取得根本不重要&lt;/s&gt; || \Mister Knuckleman!/&lt;br&gt;&lt;s&gt;相比Himawari根本影薄&lt;/s&gt;&lt;br&gt;&lt;s&gt;為什麼西洋風的鎧甲會配上Bravo風格的變身音效啊&lt;/s&gt;&lt;br&gt;{{censored|第45話被Baron以必殺技貫穿而毀掉&lt;br&gt;後來從光實手中獲得}} 
+|-
+| Donguri || 堅果 || L.S.-03 || B || Guridon || 變化成Donkuri Arms || 【第4話】戒斗在亡者森林裡摘到，後給予城乃內&lt;br&gt;&lt;s&gt;但第6話敗予鎧武隊，第7話又輸給Bravo（ry&lt;/s&gt; || [http://youtu.be/1zygHCCOjFY \Never Give Up/]&lt;br&gt;{{censored|第44話被Knuckle與Malika的協同攻擊與腰帶一同破壞}} 
+|-
+| Melon || 蜜瓜 || L.S.-04 || rowspan="14"| A || 斬月 || 變化成Melon Arms || 初期擁有，應該比其他騎士更早從Yggdrasil Cooperation獲得 || \天下[[對不起|御免]]！/&lt;br&gt;{{censored|第36話在與斬月‧真的戰鬥中連同腰帶一起被毀}} 
+|-
+| Pine || 波蘿 || L.S.-05 || 鎧武 || 變化成Pine Arms&lt;br&gt;專用武器是大質量&lt;s&gt;原顆波蘿&lt;/s&gt;流星鎚「パインアイアン」&lt;s&gt;，必殺技時還要超不自重的先踢出波蘿再踢敵人&lt;/s&gt; || 【第2話】紘汰從戒斗處得到的戰利品 || \粉碎デストロイ！/&lt;br&gt;[[フレッシュプリキュア！|&lt;s&gt;キュアパイン&lt;/s&gt;]] 
+|-
+| Ichigo || &lt;s&gt;一號&lt;/s&gt;&lt;ref&gt;日語中「一號（即假面騎士一號）」與草莓唸法相同&lt;s&gt;結果玩具真的出1號Lock Seed了&lt;/s&gt;&lt;/ref&gt;草莓 || L.S.-06 || 鎧武 || 變化成Ichigo Arms&lt;br&gt;專用武器是&lt;s&gt;草莓&lt;/s&gt;苦無「イチゴクナイ」 || 【第1話】紘汰在亡者森林樹上摘到，但第2話就被鹿Inves吃掉&lt;br&gt;後來戒斗在亡者森林摘到後交給城乃內，他在與鎧武隊的Inves Game中敗陣後被奪走，到第5話由光實於戰鬥中交給紘汰 || \シュシュッとSpark！/ 
+|-
+| Orange || [[成句/恰－－恰－－－－－－！！|柳橙]] || L.S.-07 || 鎧武 || 變化成Orange Arms || 【第1話】由紘汰在亡者森林樹上裡摘取的果實變化成&lt;ref&gt;順帶一提鎧武使用的Lock Seed多少是由他人給予，只有Orange是紘汰自己摘下的&lt;/ref&gt; || \花道オンステージ！/ 
+|-
+| Banana || 香蕉 || L.S.-08&lt;br&gt;無 || Baron&lt;br&gt;Black Baron || 變化成Banana Arms || 【第3話】戒斗自シド處連同戰極Driver一同入手&lt;br&gt;【Knuckle外傳】シュラ從狗道供界處連同戰極Driver一起獲得 || \Knight of Spear!/&lt;br&gt;紘汰曾在第13話借來變身過
+|-
+| Budou || 葡萄 || L.S.-09 || 龍玄 || 變化成Budou Arms || 【第4話】シド「不小心」把它連同戰極Driver一起「遺下」，被光實「撿走」 || \龍砲ハッハッハッ！/
+|-
+| rowspan="4"|Suika || rowspan="4"|西瓜 || rowspan="4"|L.S.-10 || 鎧武 || rowspan="4"|變化成&lt;s&gt;天津四&lt;/s&gt;&lt;ref&gt;出自電王第27話中天津四頭戴西瓜的所謂「偽裝」，碰巧本作的旁白是大塚芳忠的關係讓共嗚度大增&lt;/ref&gt;Suika Arms&lt;br&gt;尺寸比一般的Arms大得多，可自球型（大玉）、戰鬥機具（Gyro）及鎧甲（鎧）形態之間切換&lt;br&gt;鎧武使用時的專用武器是&lt;s&gt;切片西瓜&lt;/s&gt;大型薙刀「スイカ双刃刀」，Baron時是&lt;s&gt;西瓜冰&lt;/s&gt;大型長槍，Knuckle時雙手則會蓋上一層西瓜形能量球 || 【第6話】光實從貴虎的公事包裡偷走，次話在戰鬥中交給紘汰，後歸還&lt;ref&gt;第28話確定有一枚西瓜Lock Seed於光實手中&lt;/ref&gt; || rowspan="4"|\大玉Big Bang!/&lt;br&gt;能量消耗異常地高，使用後Lock Seed會褪色並在回復色彩前無法開啟&lt;br&gt;&lt;s&gt;不能當作捷運卡使用&lt;/s&gt; 
+|-
+| Baron || 【第11話】紘汰在Inves於神木入口引起騷亂時撿到，後在第19話&lt;s&gt;不想再看二騎連敗&lt;/s&gt;轉贈戒斗&lt;ref&gt;第20話確定有一枚西瓜Lock Seed於戒斗手中&lt;/ref&gt;
+|-
+| Guridon || 【第34話】ザック把從戒斗處得到的一顆借給城乃內用&lt;s&gt;，結果卻是被凰蓮抓著丟還當成足球踹&lt;/s&gt;
+|-
+| Knuckle || 【第39話】戒斗把自己的借給ザック使用
+|-
+| Mango || 芒果 || L.S.-11 || Baron || 變化成Mango Arms&lt;br&gt;專用武器是&lt;s&gt;切粒芒果&lt;/s&gt;大戰鎚「マンゴパニッシャー」 || 【第4話】戒斗在亡者森林摘取到，後於第8話初次使用&lt;br&gt;&lt;s&gt;戒斗在使用前似乎是一直認為Banana是最好的…&lt;/s&gt; || \Fight of Hammer!/ 
+|-
+| &lt;s&gt;朱麗葉&lt;/s&gt;Durian || 榴槤 || L.S.-12 || Bravo || 變化成Durian Arms&lt;br&gt;裝甲極為堅硬，身上的尖刺能用作攻擊用&lt;br&gt;專用武器為&lt;s&gt;榴槤皮&lt;/s&gt;雙鋸刃「ドリノコ」，能連成薙刀形態來防禦或拋出去攻擊&lt;s&gt;，至於榴槤流星鎚因為已被Pine Arms搶先了所以（ry&lt;/s&gt; || 【第6話】シド本是將它連同戰極Driver給予曾野村，後來卻落到凰蓮手上 || \Mister Dangerous!/
+|-
+| Kiwi || 奇異果 || L.S.-13 || 龍玄 || 變化成Kiwi Arms&lt;br&gt;專用武器是&lt;s&gt;切片奇異果&lt;/s&gt;雙圓刀「キウイ撃輪」 || 【第8話】龍玄在亡者森林樹上摘取得來 || \撃輪セイヤッハッ/&lt;br&gt;&lt;s&gt;本作極影薄Lock Seed，比Kurumi更要影薄&lt;/s&gt; 
+|-
+| Lemon || 檸檬 || L.S.-99 || Duke || 變化成Lemon Arms || 【Duke外傳】 || \Incredible凌馬/&lt;br&gt;&lt;s&gt;偽裝真差，一看就知道是Kiwi Lock Seed&lt;/s&gt; 
+|}
+
+=== Energy Lock Seed（エナジーロックシード） ===
+* 由凌馬開發的Lock Seed之發展強化型，等級為S級（耀子在第17話向光實說明）
+* 不對應作為舊型號的戰極Driver&lt;s&gt;（DX玩具例外）&lt;/s&gt;，只有安裝了Genesis Core的Genesis Driver能使用
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Energy Lock Seed名稱 !! 關連植物 !! 編號 !! 使用的騎士 !! 能力 !! 備註 
+|-
+| Lemon Energy || rowspan="2"|檸檬 || rowspan="2"|E.L.S.-01 || Duke&lt;br&gt;鎧武（第15話，DJサガラ給予）&lt;br&gt;Baron（第26話，耀子連同Genesis Driver一起贈送） || 變化成Lemon Energy Arms&lt;br&gt;鎧武則是變成Jimber Lemon Arms || rowspan = "2"  | \Fight Power!×2 Fight!×4 Fi-Fi-Fi-Fi-Fight!/&lt;br&gt;\Jimber Lemon ﾊﾊｯ!/ 
+|-
+| Black Lemon Energy || 鎧武・闇 || 配合Black Orange變化成Black Jimber Arms 
+|-
+| Cherry Energy || 櫻桃 || E.L.S.-02 || Sigurd&lt;br&gt;鎧武（第21話，打敗Sigurd後的戰利品&lt;ref&gt;シド在第24話用新的Cherry Energy Lock Seed回歸，但在31話被殺時粉碎&lt;/ref&gt;） || 變化成Cheery Energy Arms&lt;br&gt;鎧武則是變成Jimber Cherry Arms || \Jimber Cherry ﾊﾊｯ!/ 
+|-
+| Peach Energy || 桃子 || E.L.S.-03 || Malika&lt;br&gt;鎧武（第22話，紘汰趁耀子不注意從她的Genesis Driver上奪走&lt;ref&gt;耀子後來在24話自凌馬處得到了另一顆Peach Energy Lock Seed&lt;/ref&gt;） || 變化成Peach Energy Arms&lt;br&gt;鎧武則是變成Jimber Peach Arms || [[フレッシュプリキュア！|&lt;s&gt;キュアピーチ&lt;/s&gt;]]&lt;br&gt;\Jimber Peach ﾊﾊｯ!/ 
+|-
+| Melon Energy || 夕張蜜瓜 || E.L.S.-04 || 斬月・真&lt;br&gt;斬月 || 變化成Melon Energy Arms&lt;br&gt;斬月則是變成Jimber Melon Arms || \Jimber Melon ﾊﾊｯ!/&lt;br&gt;斬月是於小說版使用 
+|-
+| Matsu-bokkuri Energy || 松果 || E.L.S.-05 || 黑影・真 || 變化成Matsu-bokkuri Energy Arms || {{youtube|3O16Cu1QuPU|DX玩具裡存在Jimber Matsu-bokkuri Arms的音效}}&lt;s&gt;，但形態外表就只能靠腦補了&lt;/s&gt;
+|-
+| Dragon Fruit Energy || 火龍果 || E.L.S.-HEX&lt;br&gt;E.L.S.-PROTO || Duke&lt;br&gt;Tyrant&lt;br&gt;龍玄 || 變化成Dragon Fruit Energy Arms&lt;br&gt;龍玄則是變成Jimber Dragon Fruit Arms || Duke的版本並非來自亡者森林的力量&lt;br&gt;\Jimber Dragon Fruit ﾊﾊｯ!/&lt;br&gt;龍玄是於小說版使用 
+|-
+| Marron Energy || 栗子 || E.L.S.-06 || Knuckle || 配合Kurumi變化成Jimber Marron Arms || &lt;s&gt;偽裝真差，一看就知道是Peach Energy Lock Seed&lt;/s&gt; 
+|}
+
+=== Lock Vehicle（ロックビークル） ===
+* 由鎖頭變成的交通工具
+* 由於シド於第3話裡首次拿出來時說是「新開發的Lock Seed」，可能是由Yggdrasil Cooperation自行製造的人工Lock Seed&lt;s&gt;，不過戒斗在第18話就用摘的摘到了Dande Liner&lt;/s&gt;
+* 當開到一定速度後就會打開能自由穿越現世及亡者森林的花瓣形裂縫&lt;s&gt;Ride Shooter表示&lt;/s&gt;，貴虎將之稱為時空傳送的方法
+* 第15話開始具有飛行能力的Dande Liner，和能擬態成植物、隨意打開人工Crack的Tulip Hopper分配給黑影Trooper
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Lock Vehicle名稱 !! 關連植物 !! 編號 !! 使用的騎士 !! 能力 
+|-
+| Sakura || 櫻花 || L.V.-01 || 鎧武&lt;br&gt;龍玄（7）&lt;br&gt;黑影（10）&lt;br&gt;Bravo（10） || 變形為Sakura Hurricane 
+|-
+| Rose || 玫瑰 || L.V.-02 || Baron&lt;br&gt;龍玄（8）&lt;br&gt;Guridon（10）&lt;br&gt;鎧武（仮面ライダー大戦）&lt;ref&gt;後交給了Decade&lt;/ref&gt; || 變形為Rose Attacker 
+|-
+| Dande || 蒲公英 || L.V.-03 || 鎧武（Movie大戰、23）&lt;br&gt;黑影Trooper（15）&lt;br&gt;Baron（18） || 變形為Dande Liner 
+|-
+| Tulip || 鬱金香 || L.V.-04 || 黑影Trooper（19）&lt;br&gt;鎧武（19） || 變形為Tulip Hopper
+|}
+
+=== 其他 ===
+* 此項目中僅收錄有於電影中出現的Lock Seed，排列順序按各映像媒體上映時間
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Lock Seed名稱 !! 使用的騎士 !! 能力 !! 【初登場話數/電影名稱】使用者的入手經緯 !! 備註 
+|-
+| &lt;s&gt;凰蓮&lt;/s&gt; || &lt;s&gt;Guridon&lt;/s&gt; || &lt;s&gt;會天降鐵盤或汽水罐砸在變身者頭上，甚至能召喚出鳳蓮本人&lt;/s&gt; || 【第17話】凰蓮事先換掉了城乃內的Douguri Lock Seed以防他得失客（人）人（質） || \ﾃｹﾃﾝ~ﾃﾝﾃﾝﾃﾝﾃﾝﾃﾝ~ﾃﾝﾃﾝﾃﾝﾃﾝﾃｰﾝ/&lt;br&gt;\{{ruby|バ‧Come on|蠢蛋}}/ [[成句/給我差不多一點!!/いい加減にしなさい!!|\恥を知りなさ～い！/]]&lt;br&gt;\Never~Give~~Up&lt;nowiki&gt;~~~~&lt;/nowiki&gt;/  
+|-
+| Sid || Sigurd || 安裝在Sonic Arrow上後可遙距操縱複數的Suika Arms || 【第3話】シド隨身攜帶把玩的Lock Seed，入手經緯不詳 || DX玩具是作為於網路商店購入特定套裝的特典附贈，收錄音聲除了シド的台詞外也有劇中的發動音效「Connecting」&lt;s&gt;不過那其實是兼用DX Energy Lock Seed的隨機啟動音&lt;/s&gt; 
+|-
+| Kachidoki || 鎧武 || 變化成Kachidoki Arms&lt;br&gt;編號為K.L.S.-01，專用武器是火繩大橙DJ銃 || 【第23話】DJサガラ用DrupeRs的橘子變出來（無誤）並連同Dande Liner一起留給紘汰 || rowspan="2"|\いざ出陣！エイエイオー！/
+|-
+| Sin Kachidoki || 斬月 || 變化成Kachidoki Arms&lt;br&gt;編號為S.K.L.S.，專用武器是火繩甜瓜DJ銃，並再追加Melon Defender ||【舞台劇】從附身在アイム身上的紘汰手中取得 ||
+|-
+| [[雙重極限(フタエノキワミ)|Kiwami]] || rowspan="3"|鎧武 ||變化成&lt;s&gt;水果籃&lt;/s&gt;極Arms&lt;br&gt;編號為L.S.-∞，可以自由召喚出並運用其他Lock Seed的力量和使用所有武器 || 【第31話】ロシュオ將一部份智惠之果的力量變成Lock Seed並交給DJサガラ，後對方在次話轉贈予紘汰 || \大・大・大・大・大將軍！/&lt;br&gt;和一般Lock Seed不同，外觀為鑰匙形，必須先變身成Kachidoki Arms後再將它插入Lock Seed右邊的孔洞作二段變身&lt;br&gt;變身時會召喚出所有Lock Seed的鎧甲並和鎧武融合 
+|-
+| Fresh Orange || 變化成Fresh Orange Arms&lt;br&gt;編號為L.S.-07，專用武器是&lt;s&gt;拋了光的&lt;/s&gt;兩份的大橙丸+無雙劍（薙刀模式） || rowspan="2" | 【HBV】通過了起源之女的試煉，由原來對應的Lock Seed進化而來 || \花道オンォォォステージ/ 
+|-
+| Fresh Pine || 變化成Fresh Pine Arms&lt;br&gt;編號為L.S.-05 || &lt;s&gt;原本是戒斗為了讓自己的Lock Seed進化而通過試煉，結果卻是自己送給紘汰的Pine Lock Seed進化了…&lt;/s&gt; 
+|-
+| [[便當|Yomotsu-Heguri]] || 龍玄・黃泉 || 變化成Yomotsu-Heguri Arms&lt;br&gt;編號是LS-YOMI&lt;br&gt;會吸取使用它力量的人的生命為代價，換取足以壓倒極Arms的強大力量 || 【第42話】因其危險性被凌馬一直秘藏起來的試作型Lock Seed，為了排除紘汰而把它交給光實 || \冥・界・ヨミヨミヨミ…/&lt;br&gt;[[成句/你不是還有生命嗎?|&lt;s&gt;光實你不是還有生命嗎？&lt;/s&gt;]]&lt;br&gt;{{censored|於第43話被紘汰捨身拔走並捏碎，因而成為史上最短命的Lock Seed}} 
+|-
+| [[仮面ライダーウィザード|Wizard]] || 鎧武 || 變化成Wizard Arms&lt;br&gt;專用武器是Wizard Swordgun || rowspan = "4"  | 【天下分け目の戦国MOVIE大合戦】由武神騎士的變身道具結合亡者森林的果實融合而變成 || \シャバドゥビShowtime!/&lt;br&gt;元捏他是Wizard的待機音效和口頭禪&lt;s&gt;，但變出來好像沒什麼用&lt;ref&gt;變成Wizard Arms之後就'''只用'''Dande Liner飛行和攻擊，完全沒用到Wizard Swordgun和魔法&lt;s&gt;，所以你變出來是幹啥的&lt;/s&gt;&lt;/ref&gt;，所以給Fifteen亮相的機會&lt;/s&gt;&lt;br&gt;變身後鎧武曾說出Wizard的口頭禪 
+|-
+| [[仮面ライダーOOO|OOO]] || Baron || 變化成OOO Arms&lt;br&gt;專用武器是Medajalibur || \タトバタトバ！/&lt;br&gt;捏他是OOO的變身音效&lt;br&gt;變身後Baron在發必殺技時曾說出OOO的口頭禪 
+|-
+| [[仮面ライダーダブル|W]] || 龍玄 || 變化成W Arms&lt;br&gt;專用武器&lt;s&gt;不知為何&lt;/s&gt;是&lt;s&gt;Luna Trigger的&lt;/s&gt;Trigger Magnum || \Cyclone Jokerハッハッハッ！/&lt;br&gt;捏他是W的變身音效&lt;s&gt;所以幹嘛是拿Trigger Magnum啦&lt;/s&gt;&lt;br&gt;變身後龍玄曾說出W的口頭禪 
+|-
+| [[仮面ライダーフォーゼ|Fourze]] || 斬月 || 變化成Fourze Arms&lt;br&gt;專用武器是Rocket Module || \青春Switch On!/&lt;br&gt;捏他是Fourze的宣傳語&lt;br&gt;變身後斬月曾將近完整地說出Fourze的口頭禪&lt;s&gt;但因為太羞人了所以說不下去&lt;/s&gt; 
+|-
+| Blood Orange || 武神鎧武 || 變化成Blood Orange Arms&lt;br&gt;編號&lt;s&gt;巧合地與Orange Lock Seed一樣&lt;/s&gt;為L.S.-07，專用武器是&lt;s&gt;只是將大橙丸重新塗色的的&lt;/s&gt;血橙丸和無雙劍，可產生連接戰極時代和現實世界及亡者森林的Crack || 【天下分け目の戦国MOVIE大合戦】入手途徑不明 || \邪ノ道オンステージ！/&lt;br&gt;&lt;s&gt;為什麼和風的鎧甲會配上Bravo風格的變身音效啊&lt;/s&gt; 
+|-
+| 昭和騎士 || 鎧武 || 變化成昭和騎士15位主角的Arms || 【仮面ライダー大戦】由1號給予，實際入手途徑不明 || 劇中只出現1號Arms，而且其胸甲並非1號本身的胸甲而是1號的大臉&lt;s&gt;鎧甲變形前甚至能咬人&lt;/s&gt; 
+|-
+| Fifteen || rowspan = "2"  | Fifteen || 變化成Fifteen Arms&lt;br&gt;專用武器是漆黑大刀「黃泉丸」 || rowspan ="2"|【仮面ライダー大戦】入手途徑不明 || 沒有變身台詞但有男高/低音合唱音樂效果 
+|-
+| 平成騎士 || 變化成平成騎士15位主角基本形態的Arms || 劇中出現過Decade&lt;ref&gt;音效為「破壞者On the road」，捏他是Decade的稱號[[世界的破壞者|「世界的破壞者」]]和OP歌詞；另外還能使用響鬼的音擊棒烈火&lt;/ref&gt;、Fourze&lt;ref&gt;專用武器是Cosmic States的Barizun Sword，另外還能用Elek States的Billy the Rod&lt;/ref&gt;、Wizard和鎧武&lt;ref&gt;音效為「Fruits鎧武者 On Parade」，捏他來自鎧武本身擁有眾多水果鎧甲；此形態下之戰鬥力稍為在Kachidoki Arms之上&lt;/ref&gt;的Arms
+|-
+| 金蘋果 || Mars || 變化成Golden Arms&lt;br&gt;編號為L.S.-GOLD&lt;br&gt;專用武器為長劍「ソードブリンガー」以及&lt;s&gt;蘋果皮&lt;/s&gt;盾牌「アップルリフレクター」 || 【劇場版】コウガネ自己製作 || \黃金の果実…/&lt;br&gt;&lt;s&gt;不要吐槽為什麼西洋風騎士卻有和風的變身音效&lt;/s&gt;&lt;br&gt;&lt;s&gt;也不要吐槽這之後還有管弦樂版的Baron的變身音效&lt;/s&gt; 
+|-
+| 銀蘋果 || 冠 || 變化成Silver Arms&lt;br&gt;編號為L.S.-SILVER || 【劇場版】{{censored|由DJサガラ給予}} || \白銀ニューステージ！/ 
+|-
+| Black Orange || 鎧武・闇 || 配合Black Lemon Energy變化成Black Jimber Arms&lt;br&gt;編號&lt;s&gt;怎麼還是&lt;/s&gt;為L.S.-07 || 【サッカー大決戦！黄金の果実争奪杯！】コウガネ製作 ||  
+|-
+| 黑蘋果 || 邪武 || 變化成Darkness Arms&lt;br&gt;編號為L.S.-DARK || 【最終話】入手經緯不明 || {{censored|\黃金の果実…/}}&lt;br&gt;&lt;s&gt;剝掉金蘋果的鍍金便是黑蘋果&lt;br&gt;武器、皮套、音效也拿舊的重用，東映到底有多缺經費？&lt;/s&gt; 
+|-
+| Drive || 鎧武 || 變化成Drive Arms&lt;br&gt;專用武器是Drive的方向盤劍 || 【MOVIE大戦フルスロットル】由鎧武和Drive互相分享自己的力量加上起源之女協調，連同Shift Fruits一同變出來 || \ひとっぱしり、いざTogether！/&lt;br&gt;捏他是進之介的台詞&lt;br&gt;頭冠的裝飾變成了Drive的「R」標記 
+|-
+| 禁斷的蘋果 || Baron&lt;br&gt;Iðunn || 變化成Ringo Arms&lt;br&gt;編號為L.S.-TABOO&lt;br&gt;&lt;s&gt;專用武器請見Mars項&lt;/s&gt; || 【Baron外傳】（Iðunn）入手經緯不明&lt;br&gt;（Baron）由耀子給予 || \Desire Forbidden Fruits!/&lt;br&gt;&lt;s&gt;直接拿金蘋果的裝甲來用，連重塗也免了&lt;/s&gt;&lt;br&gt;{{censored|凌馬在天樹麾下製作的第一個Lock Seed，因為未能脫離亡者森林的控制有著使人Inves化的危險，故只拿來進行活體實驗去搜集數據&lt;br&gt;他個人雖將之評為和Yomotsu-Heguri Lock Seed一樣的失敗作，卻也透過它首度看到「黃金果實」存在的可能性&lt;br&gt;戒斗在用完後便順手捏碎掉}} 
+|-
+| Watermelon || 斬月 || 變化成Watermelon Arms&lt;br&gt;編號為PROTO-10，專用武器為加裝機關砲的&lt;s&gt;Melon Defender&lt;/s&gt;盾牌「Watermelon Gatling」 || 【斬月外傳】凌馬將它當作被偷的Suika Lock Seed的代替品給予 || \乱れ玉ババババン！/&lt;br&gt;&lt;s&gt;Suika Arms表示：&lt;br&gt;偽裝真差，一看就知道是Mango+Melon&lt;br&gt;一切都是拿舊的重用，東映到底有多缺（ry&lt;/s&gt; 
+|-
+| 石榴 || Saver || 配合Blood Orange變化成Black Zakuro Arms&lt;br&gt;編號為L.S.-MESSIAH&lt;br&gt;專用武器是&lt;s&gt;將Sonic Arrow重塗成的&lt;/s&gt;Savior Arrow || 【Duke外傳】 || \狂い咲きSacrifice!/&lt;br&gt;&lt;s&gt;無限復（兼）活（用）的金蘋果傳說再添一筆，真是夠了&lt;br&gt;偽裝真差，一看就知道是Suika Lock Seed&lt;/s&gt;&lt;br&gt;{{censored|凌馬在天樹麾下製作的第二個Lock Seed，供界在天樹的指示下進行蘋果Lock Seed實驗時因意外而失去肉體，後為供界所用&lt;s&gt;居然不是去偷蘋果的&lt;/s&gt;}} 
+|-
+| {{censored|魔蛇}} || {{censored|魔蛇}} || {{censored|變化成魔蛇Arms}}&lt;br&gt;{{censored|&lt;s&gt;魔改造Fifthteen&lt;/s&gt;}} || {{censored|【舞台劇Final Stage、小說】入手經緯不明}} || {{censored|\邪ノ道は蛇...！/}}&lt;br&gt;{{censored|&lt;s&gt;變身音效只有在小說出現&lt;/s&gt;}}
+|-
+| {{censored|黃金的果實（偽）}} || {{censored|Saver}} || {{censored|變化成Golden Arms→Darkness Arms{{censored|→魔蛇Arms}}&lt;br&gt;編號不明 || {{censored|【小說】供界用Saver System製造出來、並配合Genesis Core變化而成}}  || 
+|-
+| King Durian || Bravo || 變化成King Durian Arms&lt;br&gt;編號與Durian Lockseed相同&lt;br&gt;專用武器是一對ギガドリノコ || 【Gridon vs Bravo】Bravo要殺掉成乃內時被洗腦變成&lt;s&gt;，實質未使用&lt;/s&gt; || \Mister Violence!/
+|-
+| 荔枝 || Gurdion || 變化成Lychee Arms&lt;br&gt;編號為L.S.-14&lt;br&gt;專用武器是&lt;s&gt;從デェムシュ和Lord Baron繼承過來的&lt;/s&gt;長劍「シャインライチソード」和手槌「シャインドンカチ」 || 【Gridon vs Bravo】初瀨{{censored|的幻影}}把變種亡者森林果實變化而成 || \You are the Hero!/&lt;br&gt;&lt;s&gt;不要吐槽為什麼明明是中原的果實卻是西洋風的音效，但是變出來還是滿滿的中原味道&lt;/s&gt;
+|-
+| ヘルヘイム || シルフィー || 變化成ヘルズArms&lt;br&gt;編號為倒置的L.S.-HELL&lt;br&gt;專用武器是彷亡者森林植物外形的長槍 || 【Gridon vs Bravo】一開始便擁有 || \侵略の果実！/&lt;br&gt;開啟Lock Seed時念的是「ヘルズ」&lt;br&gt;與不少Lock Seed不同，不但沒有緊身衣型態，而且是直接從亡者森林中伸出藤蔓變身&lt;br&gt;&lt;s&gt;無限復（兼）活（用）的金蘋果傳s（ry&lt;/s&gt;&lt;br&gt;&lt;s&gt;你跟DJ到底有什麼關係，為什麼不是他變身&lt;/s&gt;
+|}
+
+=== Legend Rider Lock Seed（レジェンドライダーロックシード）===
+* &lt;s&gt;這次也不例外地推出了&lt;/s&gt;代表歷代假面騎士的Lock Seed，大多是玩具原創&lt;s&gt;財團B的前輩坑錢商法&lt;/s&gt;，範圍涵蓋DX玩具、&lt;s&gt;因為沒有與腰帶連動功能所以只是產廢的&lt;/s&gt;盒玩，轉蛋等
+** 音效較少直接[[捏他]]原作品的變身音效，多是採用原作的角色特性和作品宣傳語句
+** '''此處收錄沒有於映像作品中登場的Legend Rider Lock Seed，有收錄的則請看上面'''
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Lock Seed名稱 !! 音效 !! 玩具 !! 捏他來源 
+|-
+| 1號 || 技の１号、レッツゴー！ || 食玩第5彈 || 1號為人所知的外號+OP名稱的一部分 
+|-
+| 修卡 || 地獄の軍団On Parade！ || 轉蛋第12彈 || 初代假面騎士OP歌詞的捏他 
+|-
+| Black RX || Son of the Sun! || 食玩第6彈 || RX的口頭禪「我是太陽之子」 
+|-
+| [[仮面ライダークウガ|Kuuga]] || 超変身ハッハッハッ！ || 食玩第3彈 || 空我在變換形態時使用的對白 
+|-
+| [[仮面ライダーアギト|Agito]] || 目覚めよ！その魂！ || 食玩第4彈 || rowspan = "2"  | 作品宣傳語句 
+|-
+| [[仮面ライダー龍騎|Ryuki]] || 戦わなければ生き残れない！ || 轉蛋第3彈 
+|-
+| Ryuki Survive || サバイブ 烈火の力！ || 食玩第7彈 || Survive・烈火
+|-
+| [[仮面ライダー555|Faiz]] || \Mister JustiΦ's/ || 食玩第4彈 || OP名稱 
+|-
+| Faiz Blaster form || Blaster Awakening || 食玩第7彈 || 使用Faiz Blaster強化變身的系統音效 
+|-
+| [[仮面ライダー剣|Blade]] || Sword of Spade! || 轉蛋第9彈 || Blade的花色（黑桃）和其用劍作為主要武器的特點 
+|-
+| [[仮面ライダー響鬼|Hibiki]] || 叩き込め、清めの音！ || 食玩第3彈 || 鬼的戰鬥方式=將清淨之音打進魔化魍體內 
+|-
+| [[仮面ライダーカブト|Kabuto]] || 天の道、My way! || 轉蛋第8彈 || 作品宣傳語句+天道的口頭禪 
+|-
+| [[仮面ライダー電王|Den-O]] || いざ、クライマックス！ || 食玩第2彈 || 作品宣傳語句+桃塔羅斯和電王Sword Form的招牌台詞 
+|-
+| Den-O Climax || てんこもりクライマックス！ || 食玩第6彈 || &lt;s&gt;直接在音效裡捏他Climax Form是大拼盤&lt;/s&gt; 
+|-
+| Momotaros || 俺、參上！ || 轉蛋第8彈 || 桃塔羅斯和電王Sword Form的招牌台詞 
+|-
+| New Den-O || Mister Count-down! || 食玩第7彈 || 幸太郎戰鬥時要泰迪替他倒數計時 
+|-
+| [[仮面ライダーキバ|Kiva]] || King of Vampire! || 轉蛋第9彈 || Kiva的名字來源「'''キ'''ングオブ'''ヴァ'''ンパイア」 
+|-
+| W CJX || Cyclone Joker eXtreme! || 食玩第8彈 || 變身成CJX時需要的三支Gaia Memory 
+|-
+| Joker || Joker切り札 セイヤッハッ！ || 食玩第6彈 || Joker本來的意思=王牌 
+|-
+| Skull || 男道！Hard Boiled! || 轉蛋第15彈 || 鳴海荘吉一直追求的Hard Boiled 
+|-
+| OOO Tajadol || タージャ タジャドルー！ || 扭轉第7彈 || rowspan = "2"  | Combo的變身音效 
+|-
+| OOO Pyutotra || プトティラノザウルス！ || 食玩第8彈 
+|-
+| Ankh || Happy Birthday! || 轉第4彈 || 鴻上會長的口頭蟬（？） 
+|-
+| Fourze Cosmic State || コズミック！みんなの絆で宇宙を掴む！ || 食玩第8彈 || 變身成Cosmic State的關鍵 
+|-
+| Meteor || ホワチャー ハッハッハッ！ || 創可貼第2彈 || &lt;s&gt;李小龍和&lt;/s&gt;Meteor打鬥時會叫喊的破鳥音 
+|-
+| &lt;s&gt;Wizard All Dragon&lt;/s&gt; ||  ||  || 原定於轉蛋第14彈推出，但在多次押後過後已正式宣布停產 
+|-
+| Wizard Infinity Style || キラキラInfinity! || 食玩第8彈 || Axcalibur的必殺待機音效&lt;br&gt;[[閃光彈|&lt;s&gt;可魯啊啊啊啊！&lt;/s&gt;]] 
+|-
+| Beast || Mister Mayonnaise! || 創可貼第2彈 || 攻介是個美乃滋癡 
+|-
+| 鎧武 || （同平成騎士Lock Seed） || rowspan = "4"  | PB限定商品 || rowspan = "4"  | 同時收入武器和絕招的音效 
+|-
+| Baron || Knight of Banana!
+|-
+| 龍玄 || 葡・萄・ハッハッハッ！
+|-
+| 斬月 || メロン・御免！
+|}
+{{hidef}}
+
+== 用語 ==
+=== 澤芽市關連 ===
+* 澤芽市（沢芽市）
+** 本作的舞台，由Yggdrasil Cooperation直轄管理的經濟都市，人口約20萬
+*** &lt;s&gt;雖然市內景觀與東京很相似但並不是東京，同樣的也不會是風都或者其他騎士世界裡很像東京的城市&lt;/s&gt;
+*** &lt;s&gt;其實是[[蝙蝠俠|葛咸城]]，[http://i.imgur.com/8nWIpBw.jpg 有地圖為證]&lt;/s&gt;
+** 其時Yggdrasil Cooperation對城市的再開發工程嚴重破壞了當地的本土業務，間接地造就出不少像舞和戒斗般被剝奪了原本的生活，現今也憎恨著企業的人們
+*** 貴虎於第10話回答光實的提問時訛稱Yggdrasil Cooperation並非要支配而是想把澤芽市建設成理想的醫療福祉都市，但從一開始的城市設計上就已經作好隨時能把整個城市從日本隔離後放著讓它自生自滅的準備
+** 第33話起隨著作為市內地標的Yggdrasil Tower被Inves佔據，對外通訊渠道在凌馬以「Master Intelligence System」進行情報管制下完全封鎖，唯一能離開都市的三條大橋也遭到一早與Yggdrasil Cooperation談好的自衛隊封閉，陷入孤立無援的困境當中
+*** 當世界各地忙著應付Inves的侵略時，原本負責封鎖澤芽市的自衛隊員被撤走，讓凌馬能帶著Armored Riders從位於市外某處的的祕密出入口重返Yggdrasil Tower
+*** 而被抓去給Overlord王妃貢獻生命的市民們，則在Beat Riders的努力下被救出并逃離澤芽市
+** 第45話，&lt;s&gt;由[[仮面ライダーフォーゼ|獅子座Zodiarts]]帶領的&lt;/s&gt;自衛隊員進入澤芽市，救出剩下的Beat Riders等人
+
+* 私立天樹高等學校
+** 光實就讀的學校，校服顏色為純白，校內貼有Yggdrasil Cooperation的標誌
+** 大多數學生都是學歷較高的優等生，對Beat Riders抱蔑視態度，光實對待同校的學生態度因而十分冷淡
+** &lt;s&gt;不過一點都不重要，甚至不影響劇情走向&lt;/s&gt;
+** {{censored|在最後大概受到Yggdrasil Cooperation的影響而廢校了}}
+
+* Drupers（ドルーパーズ）
+** 阪東所經營的水果吧&lt;s&gt;，店員的態度好差&lt;/s&gt;
+** 經常會有Beat Riders來此地交換情報，但他們被禁止在店內喧鬧和進行Inves Game
+** 當シド仍當鎖頭販子時，似乎是長期在吧內深處的包廂裡跓紮的樣子
+** 在澤芽市遭到封鎖期間依然堅持開店營業，成為了仍留在市內作戰Beat Riders們的補給站
+
+* Charmant（シャルモン）
+** 凰蓮所經營的甜品店，上至作品下至店員都被要求能互相作最完美的配合，但相對地光是應徵者的星座不合就會連面試也沒有就被轟出去
+** 時常受到客人對甜品的高評價，甚至還有上澤芽市的旅遊指南
+** 於亡者森林事件完結後3個月開設了市內第一家分店
+
+* Inves Game（インベスゲーム）
+** 人類透過Lock Seed，將Inves召喚至現實世界互相戰鬥的遊戲，在Beat Riders的世界裡被利用作為解決各舞團之間紛爭的手段&lt;s&gt;你們明明是街舞團就用該比舞啊&lt;/s&gt;
+*** 只要參戰的雙方認可，一次Inves Game中投入的Inves等級和數量不受限制
+*** &lt;s&gt;開戰時場地四週還會很有心地劃出擂台範圍&lt;/s&gt;
+** 於Inves Game中勝出能夠得到特別獎金&lt;s&gt;，錢很大可能是來自地下彩池&lt;/s&gt;
+** 自從紘汰以Armored Rider的身份投入戰爭後，騎士對Inves和騎士對騎士也被視為Inves Game的一種
+*** 當騎士於Inves Game中戰敗時，若被打至解除變身並'''掉落戰極Driver'''的話會比對一般Inves Game的勝負方式，其用於變身用的Lock Seed會歸勝者所有
+** 在澤芽市市民把Beat Riders視為Inves騷亂的元凶後，大部份街舞團聯合宣佈停止Inves Game與及以此進行爭奪舞台的鬥爭，但仍然有像Team Red Hot般毫不避嫌甚至反過來將之惡用的人
+** &lt;s&gt;從神奇寶貝變成數碼寶貝Frontier&lt;/s&gt;
+
+=== Yggdrasil Cooperation關連 ===
+* 亡者森林（ヘルヘイムの森）
+** 本作中Inves和所有Lock Seed的發源地，生於此地的植物有著不可思議的顏色和形狀
+*** 簡單來說就是所謂的異次元世界，但到底是[[平行世界]]抑或是別個星球則沒人知道
+** 和現實世界連接時會出現&lt;s&gt;極為敷衍的CG&lt;/s&gt;拉鏈狀入口&lt;s&gt;←[[JOJO第五部登場人物一覽#of758f0e|這是替身攻擊！]]&lt;/s&gt;
+*** 一般情況下是線形，但騎士在召喚Arms時會呈圓形
+*** 凌馬將這些連接兩個世界的通道稱為「Crack」；Yggdrasil Cooperation在10年前透過研究澤芽市的神木，成功掌握了以人工方式開啟這些空間裂縫的方法
+** {{censored|過去於亡者森林內曾存在著人類及由他們所建立的城市與文明，但隨著城市被森林頑強的繁殖能力所吞噬，食物因物種侵略而消失的人類以至其他生物不得不以唯一餘下的亡者森林果實作為糧食，結果'''全都變成了Inves'''}}
+*** {{censored|然而ロシュオ在第29話回答貴虎的提問時，卻表示牠們的文明並非被亡者森林所滅，而是'''牠們相信只有強者能活在「新世界」裡於是不斷內鬥'''，無盡的互相殘殺的結果就是導致Overlord Inves的文明繼承者只餘下現今之極少數}}
+*** {{censored|劇場版雖然是有コウガネ在一旁煽動，但コウガネ被シャムビシェ封印之後根本沒改善多少，依舊互相殘殺，使シャムビシェ感到絕望...}}
+*** {{censored|根據Yggdrasil Cooperation的專家們計算，頂多再過10年澤芽市就會成為下一個被亡者森林吞噬的城市，甚至整個地球也會被吞噬…&lt;s&gt;那究竟是毀滅城市還是毀滅地球？&lt;/s&gt;}}
+** {{censored|在《仮面ライダー大戦》中容納過28位假面騎士}}
+** 名字由來自北歐神話中的海姆冥界（Helheim/ヘルヘイム）
+
+* 智惠果實
+** 在故事中又有禁斷果實、黃金之果實的名稱
+** 具有創造生命的神力
+** &lt;s&gt;[[十字教]]的禁果傳說太有名了，故此在故事是蘋果&lt;/s&gt;
+*** 東洋的中國、日本也有仙人的夢幻寶物仙桃的禁果傳說，所以有桃狀的智惠果實存在的可能&lt;s&gt;，中國或日本風的騎士應該要使用仙桃變身&lt;/s&gt;
+** 紘汰在佩戴戰極驅動器時，手持這顆果實也沒有化成鎖種
+** 白亞吞食時是變成Overlord{{censored|，紘汰吞食後卻是變成起源之男}}
+*** {{censored|可能果核被取出來製成極鑰匙，令到果實的力量不足以讓吞食者肉體化成怪人，不過也可能是因為紘汰早就已是Overlord的關係所以才沒有化成怪人}}
+
+* Yggdrasil Cooperation/世界樹企業（ユグドラシル・コーポレーション）
+** 原本是為了研究亡者森林的祕密而成立的機關，在經歷長年不斷擴充之下變成了今日的跨國規模之大企業，但如今其根本性質仍沒有改變
+*** 從第33話被揭露其野心後世界大動盪的情況，可見其與各國攏絡之深
+*** &lt;s&gt;看來最後逃不掉被追究和倒閉的命運&lt;/s&gt;←{{censored|在事件解決的三個月後，Yggdrasil Tower已經開始了拆卸工程}}
+** 10年前對當時仍為農村小鎮的澤芽市進行再開發，改造成現時的經濟都市型態；現今也控制著澤芽市民生方面的不少領域，市內多數居民都是在其下的公司裡工作，而市內多處可見Yggdrasil Cooperation的標誌
+*** &lt;s&gt;這種現象好像在日本、[[韓國起源|韓國]]以及某些國家看到&lt;/s&gt;
+** 會在澤芽市紮根的真正原因是此處出現連接亡者森林的空間裂縫的機率是全球最高，於是就以澤芽市為中心開始長期的重點研究工作
+*** 在市內供奉的神木被作為研究樣本回收後，現在移種至在驅紋工業所的土地上興建的本社「Yggdrasil Tower（ユグドラシルタワー）」內；凌馬於第20話表示在經研究後發現神木'''其實是來自亡者森林的植物'''，但它只是不斷的成長而非像一般的侵略物種般向外擴張
+*** 本社塔頂安裝了空間偽裝裝置，激光砲台等武器能應對意外狀況的設計，在塔外圍更設置了能把整個澤芽市燒成灰燼的純量電磁波發射器~從純量武器的存在與及Project Ark的內容看來，似乎是當Inves大批侵入現世時為方便放棄澤芽市而準備的
+** 然而企業內的幹部們卻各懷鬼胎，分裂嚴重，每個人都在尋找對方的把柄，真正想拯救世界的也許就只有貴虎一個人
+*** 凌馬曰「快樂的職場」
+** 31話後，隨著Yggdrasil Tower被佔據，Yggdrasil Cooperation的日本支部也正式覆滅
+** [[成句/你不是還有生命嗎?|&lt;s&gt;社長兼財主大概為某女神或某特區首富&lt;/s&gt;]]
+** 名字由來自北歐神話中的世界樹（Yggdrasil/ユグドラシル）
+
+=== 假面騎士裝備關連 ===
+* 戰極Driver（戦極ドライバー）
+** 由戰極凌馬開發的，初期型假面騎士變身用的道具
+*** 在量產型正式投產前部份Yggdrasil Cooperation的研究人員也有配戴，但腰帶上沒有安裝下述的Cutting Blade
+** 除去左側描有各個騎士的側臉的標示板「Rider Indicator（ライダーインジケータ）」（未使用時不會出現任何圖案，初次變身後會自動出現）和變身，其他機能都一樣
+*** 當戰極Driver被破壞時，Rider Indicator會隨之消失
+** 將Lock Seed安裝於Driver中央的凹槽「Drive Bay（ドライブベイ）」並撥動右側的「Cutting Blade（カッティングブレード）」，推桿會將Lock Seed切開&lt;ref&gt;被切開的Lock Seed一面會顯示該果實的[[斷面圖]]，另一面則是對應的Arms Weapon（Himawari則是兩面都只有斷面）&lt;/ref&gt;並解放裡面的水果力量（無誤）召喚出對應的鎧甲（Arms）
+*** 變身後再次撥動把手就能發動相應的必殺技：~撥一次是「○○（Lock Seed名稱，下同）‧スカッシュ」、撥兩次是「○○‧オーレ」，撥三次則是「○○‧スパーキング」~[[成句/所以○○只不過是一句口號，跟阿彌陀佛其實是一樣的|&lt;s&gt;基本上三者都會發動對應各Arms武器的招式（只是個別演出不同）所以沒大分別&lt;/s&gt;]]~
+** 第5話確認為由Yggdrasil Cooperation製作的實驗品，總共有7個（斬月+シド配發的6個），由戰極凌馬製造並命名，是他所能想到能在安全途徑下運用亡者森林的果實裡面蘊含的超人力量的媒介
+*** 實驗品附有&lt;s&gt;不自重的&lt;/s&gt;變身者認証機制，只要有人配戴過該戰極Driver，繼後該Driver就只有他能使用，而該騎士的素體基底戰衣也會在此時鎖定
+*** '''和風假面騎士（鎧武、斬月、黑影、冠和邪武）的戰極Driver'''~變身時的待機音旋律是和風（吹奏法螺貝），扳下Cutting Blade時則會響起「ソイヤッ」&lt;s&gt;用刀切水果時&lt;/s&gt;的音效~鎧武、斬月、鎧武・闇和邪武在變身後會附上無雙劍，鎧武會另外在腰帶另一側附有可懸掛最大三顆Lock Seed的掛扣&lt;s&gt;，不過反正大家都是從四次元腰後拿出來的所以沒差&lt;/s&gt;
+*** '''西洋風（Baron、Guridon、Mars和Iðunn）的戰極Driver'''~待機音旋律是西洋風（吹奏小號），扳下Cutting Blade時會響起「Come On!」
+*** '''中華風（龍玄）的戰極Driver'''~待機音效的旋律是中樂（敲銅鑼和拉二胡），扳下Cutting Blade時則會叫「ハイィィィィィィィィ！」
+*** '''無國籍（Bravo、Knuckle、武神鎧武和Fifteen）的戰極Driver'''~待機音效旋律，扳下Cutting Blade時的音聲同樣是電吉他音；Fifteen的Folding Band在戴到腰上會由骨頭變為銀色帶子
+** 由於腰帶能安全地將亡者森林果實轉換成身體每日需攝取的能量，人類在戴上腰帶後基本上毋須再飲食{{censored|，因此能在10年後被亡者森林化的地球環境下生存下去}}
+*** 然而拒絕與各國政府或其他企業合作的Yggdrasil Cooperation單憑其生產力在10年限期內只能做到大約10億個的生產量{{censored|，凌馬粗略估算'''全地球將會只有1/7人口能得救'''，而Yggdrasil Cooperation的「Project Ark」就是以各種手段於這10年內將全球人口淘汰至能拯救到的數目&lt;s&gt;，你和其他企業合作一下會死啊&lt;/s&gt;}}
+*** 但看凌馬在第27話用「沒有哩（即答）」截住貴虎的提問，增產的餘地看來還是有的？←凌馬表示用於製造戰極Driver的稀有資源埋藏量有限
+** 現時黑影{{censored|、斬月，Guridon和Bravo}}的戰極Driver已被破壞；Fifteen的戰極Driver則是完全粉碎&lt;s&gt;但Lock Seed卻安然無恙&lt;/s&gt;
+
+* 量產型戰極Driver
+** 隨著上位版的Genesis Driver及Energy Lock Seed的研發成功及實裝，完成了實驗品的任務的戰極Driver在經改良和取消變身者認証後大量生產及配備予社內保全人員
+** 與試作品不同的地方在於腰帶「Folding Band（フォールディングバンド）」部份為銀色（試作品是黃色），而且任何人都能用（Rider Indicator部份沒有試作品會出現的使用者認證標誌）
+*** 試作品版本的戰極Driver在經過改良後也會變為銀色腰帶，但是目前升級效果不明{{censored|，而隨著這兩條升級腰帶都在44話被毀後真的只餘下謎了}}
+** {{censored|在47話貴虎證言中得知，僅存的量產型戰極Driver已被政府和Lock Seed悉數銷毀（因為一來政府怕戰極Driver和Lock Seed再給惡人利用，二來亡者森林不再構成威脋也意味著沒有戰極Driver和Lock Seed的存在必要），餘下的就只剩貴虎→城乃內的一條&lt;s&gt;但也被邪武毀掉了&lt;/s&gt;}}
+***{{censored|不過在之後的《Movie大戰Full Throttle》中貴虎透過使用光實自機械黑影殘骸取得的量產型戰極Driver而得以再次變身成斬月（不過在貴虎拿起海姆冥界果實變成的哈蜜瓜Lock Seed時卻很奇怪的不但Rider Indicator出現了斬月的臉，腰帶部分也變成跟試作品一樣的黃色）}}
+
+* Genesis Driver（ゲネシスドライバー）
+** 戰極凌馬基於戰極Driver的使用數據研發出的新型變身腰帶，基礎性能為戰極Driver的兩倍以上，是新世代假面騎士變身用的道具
+** 將Energy Lock Seed安裝在中央的「Genesis Core（ゲネシスコア）」後把右側的把手「Seabol Compressor（シーボルコンプレッサー）」推向中間再放開，在變身的同時腰帶會把Energy Lock Seed的能量壓搾出來並儲存在下方的杯子「Consent-rate pod（コンセントレイトポッド）」裡面供給騎士全身
+*** Genesis Core可以取出並和戰極Driver合體，讓初期型假面騎士也能使用Energy Lock Seed
+*** 變身後再次推動把手就能發動相應的必殺技：~撥一次是「○○（Energy Lock Seed名稱，下同）‧スカッシュ」、撥兩次是「「○○‧スパーキング」~&lt;s&gt;基本上用哪招都會發動對應各Arms武器的招s（ry&lt;/s&gt;
+** 似乎沒有變身者認証，基底戰衣大概是和量產型戰極Driver同樣，是根據使用的Energy Lock Seed而定&lt;ref&gt;光實使用貴虎的Genesis Driver和Melon Energy Lock Seed變身時基底戰衣仍然維持著斬月．真的版本，而戒斗使用自己的Genesis Driver和Lemon Energy Lock Seed變身時，基底戰衣似乎是設定成與Baron相同{{censored|；而耀子自第44話使用凌馬遺下的Genesis Driver和配搭Peach Energy Lock Seed變身時，其基底戰衣則是Malika的版本；Movie大戰中貴虎以Mega凌馬的Genesis Driver和Melon Energy Lock Seed變身時基底戰衣也同樣變為斬月．真的版本（也有可能是凌馬的Genesis Driver有擴展機能所致）}}&lt;/ref&gt;
+** {{censored|因為凌馬一早考慮到將來會與其他使用展開衝突，故暗地裡給自己以外的腰帶設置了自毀系統}}
+*** {{censored|隨著シド的腰帶被ロシュオ粉碎，貴虎（光實）、耀子和戒斗的腰帶也被凌馬以自毀系統破壞，凌馬的Genesis Driver也在耀子被炸飛時不知去向}}
+*** {{censored|之後在MOVIE大戰Megahex將凌馬連同Genesis Driver一同複製出來，貴虎將Mega凌馬打倒後並獲得其Driver而再次變身成斬月．真}}
+** &lt;s&gt;榨汁機&lt;/s&gt;
+
+* 無雙劍（無双セイバー）
+** '''只有'''鎧武和斬月&lt;s&gt;外加一個劇場版的武神鎧武還有另外一個劇場版的鎧武・闇再來最終話的邪武&lt;/s&gt;在變身後會擁有的武器
+** 外型為日本刀形狀的長劍，劍柄和劍鍔部份則為手槍的形狀
+*** 透過拉動劍鍔（手槍的滑架）「Bullet Slide（バレットスライド）」可以進行「上鏜」，一次上鏜能發射最多四發的光彈
+** &lt;s&gt;只有鎧武和武神鎧武還有邪武&lt;/s&gt;能和各形態的Arms Weapon結合強化
+** 除此之外，變身為鎧武Arms的Fifteen也能使用這一武器&lt;s&gt;不過電影裡沒有單獨使用的鏡頭，只出現在雜誌宣傳圖裡&lt;/s&gt;&lt;ref&gt;在電影中只有有對上1號Arms的鎧武時同時用上大橙丸和黃泉丸戰鬥&lt;/ref&gt;
+** &lt;s&gt;說穿了就是Kaixa Bladegun&lt;/s&gt;
+
+* Sonic Arrow（ソニックアロー）
+** 以Genesis Driver變身的新世代騎士們使用的&lt;s&gt;玩具弓&lt;/s&gt;共通攜行武器，鎧武以Energy Lock Seed強化變身時也會使用
+** 與真正的弓同樣，可&lt;s&gt;像[[魔物獵人|某遊戲]]的弓一般&lt;/s&gt;連續射出能量箭，弓上更裝有鐳射準星作瞄準
+*** 弓身兩側附有用以劈砍的利刃
+*** 能夠結合Energy Lock Seed使出必殺技&lt;s&gt;射出威力更強而且果肉果汁四濺的能量箭&lt;/s&gt;
+*** 至於由鎧武使出的話則是會出現以主形態Lock Seed&lt;s&gt;的果肉&lt;/s&gt;所排出的射擊路線&lt;s&gt;，啊這不就是[[仮面ライダーディケイド|某Decade]]的必殺射擊嗎&lt;/s&gt;
+*** 可以裝上S級以外的Lock Seed
+** &lt;s&gt;說白了就是凌馬懶得再設計新的Arms Weapon才（ry&lt;/s&gt;
+** &lt;s&gt;數量大概只有4支&lt;/s&gt;&lt;ref&gt;因為目前Sonic Arrow在同一鏡頭出現的數量都不超過4支&lt;/ref&gt;
+
+== 其他媒體 ==
+=== 電影 ===
+* 仮面ライダー×仮面ライダー 鎧武&amp;ウィザード 天下分け目の戰國MOVIE大合戰
+** Wizard和鎧武的聯合電影，2013年12月14日上映
+
+* 平成ライダーVS昭和ライダー 仮面ライダー大戦feat.スーパー戦隊
+** 「超級英雄大戰」系列第3套電影，2014年3月29日上映
+
+* 仮面ライダー鎧武 サッカー大決戦！黄金の果実争奪杯！
+** 獨立劇場版，2014年7月19日上映
+=== 特別篇 ===
+* 烈車戦隊トッキュウジャーvs仮面ライダー鎧武 春休み合体1時間スペシャル
+** 為宣傳《昭和vs平成》上映、與特急者的1小時聯合特別篇，2014年3月30日播放
+
+* 仮面ライダー鎧武 Ext nico.png 超バトルDVD　フレッシュオレンジアームズ誕生！～君もつかめ！フレッシュの力～
+** 兒童誌《てれびくん》2014年4月號發售的Hyper Battle Video作品
+
+* 鎧武外伝 仮面ライダーグリドンVS仮面ライダーブラーボ
+** 東映特攝Fanclub網絡配信的外傳，全2話，分別在2020年10月25日、11月1日播放
+
+=== V-Cinema ===
+* 鎧武外伝 仮面ライダーバロン/斬月
+** 外傳系列第1彈，2015年4月22日發售
+
+* 鎧武外伝 仮面ライダーデューク/ナックル
+** 外傳系列第2彈，2015年11月11日發售
+
+=== 舞台劇 ===
+* 仮面ライダー斬月 鎧武外伝
+** 除Special Event和Final Stage外首次獨立公演的舞台劇作品
+** 分別於東京都·日本青年館Hall（2019年3月9日~24日）、京都府·京都劇場（2019年3月28日~31日）&lt;s&gt;、澤芽市（2019年8月3日~25日）、風都劇場（2019年9月6日~22日）&lt;/s&gt;&lt;ref&gt;在ZI-O劇場版《Over Quartzer》中客串時表述&lt;/ref&gt;公演
+
+== 評價和逸聞 ==
+{{collapse top|內含大量主觀評價，不希望被影響觀看體驗者請慎看}}
+* 大眾對本作的評價褒貶不一，不過整體評價以及後續作品的推出對比下，目前評價都算是中上以至良作
+* 主役演員特色：最強人間體、蛋糕師、演技
+* 故事經常被東映用戰隊聯合篇、劇場版插入打亂劇情&lt;s&gt;當然後面的作品也...&lt;/s&gt;
+* 騎士與怪人的實力經常浮動
+&lt;br&gt;
+* 腰帶科技設定有Bug
+* 勝鬨預留了位置讓極鑰匙插入，但最強的極鎖種卻由不會科技的ロシュオ能從智惠果實取出果核變化而成
+** 如果說ロシュオ先取出黃金果實的一部分，再由サガラ作成極Lock Seed{{censored|加上43話的內容}}的話會比較合理
+** &lt;s&gt;雖然說由DJ把橘子捏成符合世界樹科技的勝鬨本身就有點怪怪的，除非他也負責大部分的技術提供，而後來的極就更遑論了&lt;/s&gt;
+&lt;br&gt;
+* 劇情前後風格不一
+** 某些評論以為風格變動的主因乃也許是東映方對鎧武第一部的表現不滿意，於是[[武力介入]]更改劇本
+*** 有不少觀眾受不住Beat Riders篇的歡樂吵鬧風格而打起退堂鼓；但也有評論認為前半的歡樂氣氛正好作為故事後期的沉重氣氛的影襯，而且沒有此篇裡的鋪陳就無法說明角色的性格和行動要綱，故Beat Riders篇的存在有其必要
+** 亡者森林在故事初期被認為其定位就像《龍騎》的鏡世界一般，是怪人（Inves）的居所和騎士們的戰場，有部份人懷疑其設定因為Overlord Inves的出現而被更改過
+*** 有人指故事初期沒有存在幹部級怪人的設定，也沒有伏筆暗示亡者森林裡存在著統治者
+*** 於是有一些人以為，現時的亡者森林設定是以[[逆流|逆向思維]]方式架構{{censored|：因為人類吃了果實後會變成怪人，故可能存在「有人克服了果實毒性（亡者森林的侵略）活下來」的可能性，進而以此假設延伸出Overlord Inves}}
+&lt;br&gt;
+* 劇情描寫浮誇
+** 毛利執筆過的一個單回和兩個特別篇品質都有目共睹，18回街舞所傳遞的各種正能量，以及僅僅一個特別篇就將澤芽市的風俗等設定勾勒出來的都是由老虛負責主筆的鎧武本篇所做得不夠好的
+** 鎧武的人物像是現在快餐式JUMP系少年燃漫裡的角色從亡者之森裡穿越過來的，渾身上下滲透著一股中二氣息。
+** 有些打鬥場面的確燃，但仔細回想下他們打起來又覺得莫名其妙，劇情展開太牽強。最後幾話，戒斗的黑化更是簡直瞎了不少非虛淵廚的觀眾狗眼
+&lt;br&gt;
+* 人物描寫有著諸多漏洞
+** 紘汰連續覺悟好幾次，但是往後的劇情又體現其覺悟實質並不高，基本直到40話的「即使怪人化也要堅信自我」方才穩守到最後&lt;s&gt;所以前面的有夠多餘&lt;/s&gt;
+** 舞初期是個鬥爭心強烈的女人，她認為裕也留下的戰極驅動器應該作為鎧武隊的戰力，而叫不想參與Inves Game的紘汰交出鎧武腰帶讓她使用，但後來受劇情方向影響變得更像王女角色，當初的塑造顯得幾乎消失無蹤
+** 戒斗初期是奉行勝者正確論又不斷戰敗而追求力量的弱者，卻在中盤Overlord入侵地球時變成了一名有令各個陣營的武裝騎士團結的凝聚力及富有深謀遠慮的領導者，但在結局前{{censored|因為Overlord全員陣亡}}又回復力量廚的本性
+*** 即使對抗Overlord也可以有著「『以第三勢力的方式遵從自己的路途而中途對Overlord勢力武力介入』等不影響角色描寫已久的設定」的方法，但31話過後{{censored|直到Overlord勢力消亡}}卻變得更像「正義的夥伴」，顯得非常突兀
+** 光實的每一步變化雖然有鋪墊，但進展卻顯得有點奇怪和牽強，似是為黑而黑&lt;s&gt;雖然不少人都看他黑化後被打臉看得很愉悅&lt;/s&gt;
+*** 光實在前期被定為的是一個「另有圖謀」的角色。他的同班同學說把他當做對手的時候，他冷笑一聲就走了，腦中留下一句話：「權力，那就是，我所追求的力量。」這樣的角色卻有著「為了一個女人怎樣都好」的想法，轉變難免有些生硬。
+*** 雖說在前期有著他暗戀舞的伏筆，但是這根本比不上因為對纮汰的英雄憧憬而初次變身這個伏筆的重量，而且後期過度著重描寫對舞的感情的部分還連帶洗刷對纮汰的部分。
+** ザック在故事開首是個背著戒斗耍陰招的卑鄙小人，但在戒斗離開Team Baron後就變成充滿正義感的熱血笨蛋
+** シド在獲得Genesis Driver前後的性格變化頗為極端，而他在故事開首很早便出拿的S字Lock Seed曾有不少觀眾以為會是某種神奇道具，結果用了一遍後也不了了之
+*** [[成句/你從什麼時候開始產生了○○的錯覺？|&lt;s&gt;你從哪時開始有了シド的Boss位置被デェムシュ和レデュエ搶掉的錯覺？&lt;/s&gt;]]
+** 貴虎前期對紘汰以至Beat Riders的蔑視完全看不出他有關心人類，雖然中段有說明他為了推進「Project Ark」而選擇向現實低頭，但與他後期的表現比對似乎又是一個坑
+** 凌馬與紘汰第一次交手後與耀子的對話，似是暗示耀子是在Yggdrasil Cooperation裡的不穩定要素（奸細等非善類者），凌馬因察覺到故出言試探，到現在看也成了小坑
+&lt;br&gt;
+* {{censored|裕也和他的死也許值得再挖深一點？}}
+** {{censored|雖然紘汰事後知道真相後的打擊很大（不下之後的初瀨），之後的重點劇情中他也會提到裕也甚至對他發誓，但在缺乏前期鋪陳下觀眾對此較難有共鳴}}
+*** {{censored|而且因為裕也死的太早，他與紘汰以至其他角色之間的互動未能有作更深入的描寫便收掉，結果他和紘汰的關係就有餘基礎設定一般（這點初瀨也同樣）}}
+*** {{censored|加上許多大友鄉民都在第1話播完後就猜到他砍了裕也，雖然最後揭曉很愉悅但爆發力便略顯不足&lt;s&gt;但嚇到小朋友好像已經足夠了&lt;/s&gt;}}
+&lt;br&gt;
+* 平成系列作中首次騎士以更換腰帶來得到強化形態{{censored|，副騎的最終形態還是放棄腰帶的怪人}}
+** 皮套多次回收循環改造成新角色或新形態&lt;s&gt;，雖說這在其他騎士片也有，但某個改的真的有點兇，不過之後的某個書劍恩仇錄...&lt;/s&gt;
+*** 武神鎧武在劇場版完後改成光冠，在最終話又被回收改成邪武&lt;s&gt;之後又被疑似拿去改成Iðunn&lt;/s&gt;
+*** 龍玄的葡萄和奇異果湊合成黃泉
+** {{censored| 舞變成起源之女那個是強制填坑，就是劇情發展到最後的時候發現玩脫了和前面對不上了}}
+** 於是強硬地把後面的劇情和前面的拼接起來，最後幾集涉及起源之女的對話中一直在強調第一話那個大戰。
+** 45話戰鬥的時候突然掏出了機車，而機車已經幾十話沒出現了
+** 最經典的應該是耀子的真正實力這坑，硬要說的話其實老虛留空沒硬把坑填掉算是比敏鬼好
+&lt;br&gt;
+* 要說上哲&lt;s&gt;[[比利海靈頓|♂]]&lt;/s&gt;學意義的話，本作對何謂「假面騎士」作為「正義的朋友」、「自願為守護人類社會自由而戰的人」作出深入淺出的探討，日中港台均有相關討論。
+** 而本編和《假面騎士大戰》亦不斷強調「溫柔的強大」作為假面騎士的核心價值。&lt;s&gt;雖然說為保護一朵小花而擋下必殺技什麼的結論很扯淡&lt;/s&gt;
+{{collapse bottom}}
+
+== 連結 ==
+
+* K島維基條目
+** [[假面騎士系列]]
+** &lt;s&gt;[[有誰懂？切水果！]]&lt;/s&gt;
+** &lt;s&gt;[[しゅごキャラ!]]&lt;/s&gt;
+** &lt;s&gt;[[フレッシュプリキュア！]]&lt;/s&gt;
+** &lt;s&gt;[[魔法少女まどか★マギカ]]&lt;/s&gt;
+
+* 外部連結
+** [http://www.tv-asahi.co.jp/gaimu/ 朝日官網]
+** [http://www.toei.co.jp/tv/gaimu/ 東映官網]
+** 維基條目：[http://ja.wikipedia.org/wiki/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E9%8E%A7%E6%AD%A6/%E3%82%AC%E3%82%A4%E3%83%A0 日文]、[https://zh.wikipedia.org/wiki/%E5%81%87%E9%9D%A2%E9%A8%8E%E5%A3%AB%E9%8E%A7%E6%AD%A6 中文]
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+{{KamenRider}}
+
+== 備註 ==
+&lt;references/&gt;
+[[Category:假面騎士系列]]

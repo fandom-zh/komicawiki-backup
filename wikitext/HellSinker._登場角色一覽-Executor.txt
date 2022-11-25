@@ -1,0 +1,175 @@
+{{h0|[[HellSinker.]]的登場角色一覽-Executor }}
+{| class="wikitable" style="margin:auto;text-align:center;"
+|-
+{{stub row}}
+|}
+
+[[File:FOUR2.jpg|300px|center]]
+==概要 ==
+*參照[http://www40.atwiki.jp/hellsinker/ 總合Wiki],主要介紹登場角色
+**寄宿木的部份則附在使用者後
+
+==Executor/執行人 ==
+*'''亡謊'''/Dead Liar&lt;br&gt;デッドライアー&lt;br&gt;[[File:img21437.jpg|150px|center]]
+**本名都邑暁尋(つむらあきひろ),為墓場最資深的成員
+***實力雖不突出,但都能死裏逃生的特質而被故稱亡謊(詐死之人)
+***常有因前往不少未知區域的傳聞在
+**持有武器為磁軌刃(リニアブレード/Linear Blade)
+***複合彈藥、寄宿木的材質做成的柺狀刀刃,能聚集靈物來發出更強的斬擊
+**曾潛入核心區,卻被祈禱者逮得正著,關了近半年之久
+***放出屠針丸求救,後來在其他執行人潛入時逃離成功,並取得內部地圖,作為下一次潛入的準備...
+**&lt;s&gt;無限邊境的阿呆賽爾、使用似於神獸的招式&lt;/s&gt;
+**武裝
+{| class="wikitable" style="margin:auto;"
+|-
+!MS
+|ルーザーズスピット/Looser's Spit/敗者ノ唾/敗者吐息
+|-
+!(連)
+|ナロウピアース/Narrow Pierce/微刺
+|-
+!(蓄)
+|デッドアレイ/Dead Array/骸連ネ/死陣
+|-
+!SW
+|ミステルトゥ「屠針丸」
+|-
+!(蓄)
+|レイアウトアジャスト/Layout Adjust/佈局調整
+|-
+!(移)
+|フリースローイング/Free Throwing/隨意投擲
+|-
+! rowspan="2" |DC
+|カルネージレイド/Carnage Raid/殺戮ノ鎚/殺擊
+|-
+|ディレイドブラスト/Delayed Blast/延遲爆發
+|}
+
+
+
+* 屠針丸/とばり{{ref|帳篷}}まる/&lt;br&gt;Tobarimaru/トバリマル&lt;br&gt;[[File:000132.jpg|120px]]
+**亡謊的寄宿木,為初期的傑作機
+***具有毒舌的性格
+
+*'''石化女'''/Fossil Maiden&lt;br&gt;フォッスィルメイデン&lt;br&gt;[[File:img21438.jpg|150px|center]]
+**本名不明,有著橙色般的瞳孔而稱琥珀(アンバー)
+***長期生活在惡劣的底層環境下,造成感官受損
+***有一天受到寄宿木幫助下,恢復感官
+***{{censored|可能是被墓場作為激發能力的實驗對象}}
+**武裝
+{| class="wikitable" style="margin:auto;"
+|-
+! rowspan="3" |MS
+|ブレイクレスチェイン/Breakless Chain/不絶驟雨/不減鏈
+|-
+|ウィドゥズマグニファイ/Width Magnify/加寬
+|-
+|ブレイキングチェイン/Breaking Chain{{ref|說明書為シングルスラッグ/Single Slug/獨彈}}/絶雨/減鏈
+|-
+! rowspan="2" |SW
+|ミステルトゥ「更羽丸」
+|-
+|サプレッションレディアス/Supression Radius/抑圧ノ柩/抑制圈
+|-
+! rowspan="2" |MS+SW
+|ランスデバイス/Lance Device/蓮托生/矛具
+|-
+|アングルチェンジ/Angle Change/角度切換
+|-
+! rowspan="2" |DC
+|カーテンライザー/Curtain Riser/決戦ノ狼煙/展簾
+|-
+|バチルスクローク/Bacillus Cloak/地精ノ衣/菌衣
+|}
+
+* 更羽丸/さらば{{ref|再見}}まる/&lt;br&gt;Sarabamaru/サラバマル&lt;br&gt;[[File:000133.jpg|120px]]
+**石化女的寄宿木,墓場為實驗藉由寄宿木與人共生而開發
+***作為輔具之用,具有溫和的性格
+
+*'''蓑龜'''{{ref|原捏它是[http://www.twwiki.com/wiki/%E7%B6%A0%E6%AF%9B%E9%BE%9C 綠毛龜]}}/Mino Game&lt;br&gt;蓑亀/ミノカメ&lt;br&gt;[[File:img21439.jpg|150px|center]]
+**某宗教組織所製作的人造肉身佛,作為[[不死身]]的超人形象
+***在亡謊將該組織消滅後,由墓場接管而成為執行人
+**[[オッドアイ|異色瞳]]、&lt;s&gt;[[成句/我要是重來，必定是個漂亮的金髮女孩。|漂亮的金髮女孩]]&lt;/s&gt;
+***'''[[扶他那裡|雙性人]]''',為求方便平常以男性稱呼
+***無法使用寄宿木,就算能但本人不願意用
+***作風大膽直往,與莊嚴的形象相反而曾得到瘋狂信仰
+**&lt;s&gt;鋼之鍊金術師(配色的意味)&lt;/s&gt;
+**武裝
+{| class="wikitable" style="margin:auto;"
+|-
+! rowspan="3" |MS
+|タイニーウィッシュ/Tiny Wish/蜘蛛ノ糸/微小願望
+|-
+|フォビドゥンシェル/Forbidden Shell/禁忌ノ檻/禁忌砲彈
+|-
+|F・シェルブレイクF.Shell Break/破戒/禁彈突破
+|-
+! rowspan="4" |SW
+|リアリティーヘッジ/Reality Hedge/拭エヌ柵/裏實
+|-
+|リアリティーヘッジ・RT/奈落
+|-
+|ニムバスクラスター/Nimbus Cluster/後光ノ片鱗/環光聚
+|-
+|ニムバスクラスター・YB/涅槃
+|-
+!DC
+|アズールロータス/Azure Lotus/蒼キ蓮/藍天蓮
+|}
+
+*'''赫螺'''/Kagura&lt;br&gt;カグラ{{ref|神樂}}&lt;br&gt;[[File:img21440.jpg|150px|center]]
+**武裝
+**原名為赫螺丸(カグラマル/かぐらまる)的寄宿木,為求極限所開發的實驗機
+***不適用於執行人,連原本蓑龜測試時也無法連線而受傷
+**能藉由改裝硬體模組來延命,因此樣子看似機械
+***無法連線、說話,只能以「行動」來表達
+**重新啟動後看似平靜,其實精神不太穩定
+***成為唯一能獨自戰鬥的寄宿木
+**持有武裝為'''知天烈'''(KOB)&lt;s&gt;氣象模擬器&lt;/s&gt;
+***仿造舊時代的機體{{ref|暗指前作的巨大個體}}製作,能依裝備類型而有各種攻擊方式
+**&lt;s&gt;既不是阿爾馮斯{{ref|造型、配色的意味,雖名為[[銀魂登場人物一覽#k02c5e34|神樂]]也不是[[釘宮理惠|釘宮]]配音的}}也不是[[赫蘿|賢狼]]&lt;/s&gt;
+{| class="wikitable" style="margin:auto;"
+|-
+!名稱
+!MS
+!SW
+!KOB{{ref|ノウズオンリィブレイジング/Knows Only Blazing/知天烈}}
+!類型
+|-
+!'''散神無'''
+|マルチトラジェクトリーシェル/Multi Trajectory Shell多軌式砲彈
+|ムーンクレイドル/Moon Cradle/月形搖籃
+|KOB-07s Groom Eater/噬魂倌
+|照準型
+|-
+!'''劫殺'''
+|エクスターナルガンナー/External Gunner/外裝砲
+|エクリプティックチャリオット/Ecliptic Chariot/黃道戰車
+|KOB-06s Pain Killer/痛殺
+|裝甲子機型
+|-
+!'''緋輪'''
+|ヴァリアブルガン/Variable Gun/可變式槍械
+|インファーナルサバス/Infernal Sabbath/獄息
+|KOB-0Cs/Promised Dawn/誓曉
+|廣擊型
+|-
+!'''神弥'''
+|アンタイバチルスサーベル/Anti Bacillus Saber/抗菌劍
+|暫殺
+|KOB-0Fs No Chaser/無逐
+|近戰型
+|-
+!舊體驗版
+|&lt;s&gt;メインショット/主タル礫&lt;/s&gt;
+|&lt;s&gt;ヴェイパートレイル/Vapour Trail/霞曳キ/氣開道&lt;/s&gt;
+|&lt;s&gt;ギャラクティックストーム/Galactic Storm/無窮ノ颶風/銀河風暴&lt;/s&gt;
+|未實裝
+|}
+
+==備註==
+&lt;references /&gt;
+
+[[分類:角色列表]]
+[[分類:HellSinker.]]

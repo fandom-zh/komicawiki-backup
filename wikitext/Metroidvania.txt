@@ -1,0 +1,163 @@
+{{h0| Metroidvania / 類銀河戰士惡魔城 }}
+
+{| class="wikitable" style="margin:1.5em auto;text-align:center;"
+|-
+|本條目歡迎各位島民繼續補充。
+|}
+
+== 簡介 ==
+* Metroidvania是在歐美地區由《[[銀河戰士系列]]（'''Metroid'''）》與《[[惡魔城系列]]（Castle'''vania'''）》衍生而成的自創字彙。
+* 定義上是指與上述兩者遊戲的玩法類似的遊戲。
+* STEAM平台中文翻譯為「類銀河惡魔城遊戲」。
+
+== 主要特徵{{ref|並非完全必備}} ==
+=== 探索 ===
+* 探索地圖通常會建立在一個非線性橫向卷軸的地圖。
+* 玩家可以在地圖上進行自由探索與收集等行為。
+=== 能力解鎖 ===
+* 縱使是自由度高的地圖探索，為了限制玩家在初期的行動，有時候會設計一些能力上的限制。
+* 通常必須將能力解鎖之後才能繼續前進，&lt;s&gt;[[TAS|不過還是會有一部分玩法會無視這部分]]&lt;/s&gt;。
+=== 存檔點 ===
+* 因為並非線性的橫軸動作遊戲，通常會在地圖各地會設置存檔點提供儲存。
+* 角色死亡後一般也會在存檔點重生。
+=== 傳送點 ===
+* 由於遊戲舞台是一個巨大非線性的地圖，通常會在各地設置傳送點提供快速傳送以省去跑關的麻煩。
+* 傳送點一般為免費的自由傳送，少數傳送點則為付費制或限制區域的傳送。
+
+== 知名的Metroidvania遊戲列表{{ref|原則上依年分排序}} ==
+{| class="wikitable" style="margin:auto;"
+|-
+!初出年份
+!遊戲名稱
+!主要開發者
+!備註
+|-
+|1986
+|Metroid&lt;br&gt;（銀河戰士）
+| rowspan="2" |[[任天堂|Nintendo]]
+|該類型的起源雙柱之一&lt;br&gt;隨著破關時的探索程度與花費時間會影響主角在結尾的造型&lt;s&gt;，[[男裝麗人|中身超きめぇ!]]&lt;/s&gt;
+|-
+|1994
+|Super Metroid&lt;br&gt;（超級銀河戰士）
+|在歐美是有神作級地位、甚至經常列入百大遊戲的十強。&lt;br&gt;&lt;s&gt;銀河戰士才是大師姐啊！&lt;/s&gt;
+|-
+|1987
+|Castlevania II: Simon's Quest&lt;br&gt;（惡魔城II 詛咒的封印）
+| rowspan="2" |[[KONAMI]]
+|該類型的起源雙柱之一，也是惡魔城系列第一部使用地圖探索的作品&lt;br&gt;&lt;s&gt;[[AVGN|This game sucks!]]，不想被電玩宅罵的話，貝爾蒙特家族快向薩姆斯拜師&lt;/s&gt;。
+|-
+|1997
+|Castlevania: Symphony of the Night&lt;br&gt;（惡魔城X 月下夜想曲）
+|真正意義上讓該類型遊戲發揚光大的名作，同時也奠定了往後Metroidvania系列的基礎。&lt;br&gt;&lt;s&gt;月下是啟蒙自超銀，所以惡魔城是二師兄才對&lt;/s&gt;
+|-
+|1988
+|Blaster Master&lt;br&gt;（超惑星戰記）
+|SUNSOFT
+|以操控[[戰車]]進行探索為主題的作品，地圖類型有橫捲軸與俯視角兩種。&lt;br&gt;美版的世界觀與主角都與日版不同，不少續作也是比照美版世界觀進行。&lt;br&gt;Inti Creates製作的重啟版《[[超惑星戰記ZERO]]》則是以美版為基礎但又加上了日版的一些設定。
+|-
+|2002
+|[[洛克人系列|洛克人ZERO]]
+|[[CAPCOM]]
+|同名動作遊戲系列的衍生作品，一代為系列中罕見使用Metroidvania的遊戲，二代以後改回使用系列常見的選關制。
+|-
+|2005
+|[[LA-MULANA]]
+|NIGORO
+|以遺跡探索為主題，特徵是東西創世神話的大雜燴，以及充滿初見殺的[[鬼畜ゲー|鬼畜]]陷阱。&lt;br&gt;於2011年推出重製版，系統與畫面都有大幅度更新。
+|-
+|2006
+|[[洛克人系列|洛克人ZX]]
+|[[CAPCOM]]
+|《洛克人ZERO》系列的後日談，與ZERO一代同樣有相當大的地圖。
+|-
+| rowspan="2" |2009
+|Shadow Complex&lt;br&gt;（闇影帝國）
+|Chair Entertainment&lt;br&gt;Epic Games
+|少數使用2.5D風格搭配現代槍戰風格的作品&lt;br&gt;於2016年推出重製版，除了原版英語配音外還追加了中日韓語配音
+|-
+|[[朧村正]]
+|[[Vanillaware]]
+|目標為收集一百零八&lt;s&gt;煩惱&lt;/s&gt;妖刀，雙主角各自有不同的劇情，破關後可以前往另一位主角的地圖探索。
+|-
+|2010
+|Shantae: Risky's Revenge
+|WayForward
+|&lt;s&gt;在大亂鬥SP燈火之星中附身於大師姐薩姆斯&lt;/s&gt;
+|-
+| rowspan="2" |2013
+|Guacamelee!
+|DrinkBox Studios
+|充滿墨西哥風格的遊戲。
+|-
+|SteamWorld Dig
+|Image &amp; Form Games
+|
+|-
+|2015
+|Ori and the Blind Forest
+|Moon Studios GmbH
+|
+|-
+| rowspan="2" |2016
+|[[Rabi-Ribi]]
+|CreSpirit&lt;br&gt;GemaYue
+|主打可愛美少女風格，&lt;s&gt;以及難度破表的彈幕&lt;/s&gt;。
+|-
+|Salt and Sanctuary
+|Ska Studios
+|受魂系列啟發而誕生的遊戲，某種意義上可說是2D版的黑暗靈魂。
+|-
+| rowspan="2" |2017
+|Hollow Knight&lt;br&gt;（[[空洞騎士]]）
+|Team Cherry
+|以擬人化的昆蟲為主題，充滿虛無風格的[[鬱ゲー]]。
+|-
+|Metroid: Samus Returns
+|Nintendo
+|2代的重製版，加入了QTE近戰要素
+|-
+| rowspan="2" |2018
+|Iconoclasts&lt;br&gt;（叛逆機械師）
+|Joakim Sandberg
+|
+|-
+|The Messenger
+|Sabotage
+|表面上是致敬《忍者龍劍傳》系列的硬派遊戲，實際上是充滿各種吐槽的[[バカゲー]]。
+|-
+|rowspan="3" |2019
+|Bloodstained: Ritual of the Night&lt;br&gt;（[[血咒之城：暗夜儀式]]）
+|Inti Creates&lt;br&gt;Artplay
+|由惡魔城系列的代表製作人IGA五十嵐孝司製作的遊戲。
+|-
+|Blasphemous（瀆神）
+|The Game Kitchen&lt;br&gt;Team17
+|包含黑暗靈魂風格以及宗教元素的遊戲，各方面(包括難度)的[[鬱ゲー]]。
+|-
+|Shantae and the Seven Sirens&lt;ref&gt;iOS和Mac版分為兩部分推出，至次年於PC、Xbox One、PS4、Switch上發佈完整版&lt;/ref&gt;
+|WayForward
+|從前作《Half-Genie Hero》變為平台類型遊戲後回歸的一作。
+|-
+|2020
+|Ori And The Will Of The Wisps&lt;br&gt;（聖靈之光 2）
+|Moon Studios GmbH
+|其中一個製作人花了近十年時間推出銀河戰士第二集的同人重製版《AM2R》，可是被任天堂打壓...&lt;br&gt;在老任推出官方重製版《薩姆斯歸來》後那人就'''大方地祝褔老任'''
+|-
+|2021
+|Metroid Dread
+|Nintendo
+|本作三大迷因：密特羅德麪包 Metroid Bread，烏鴉咀{{censored|冒充亞當}}炫耀自己的身材，索狗和戰神之父David Jaffe對此作的無理取鬧
+|}
+
+== 關聯 ==
+* [[電子遊戲分類]]
+* [[動作遊戲]]
+
+== 回應 ==
+{{pcomment|section=2}}
+
+==備註==
+&lt;references /&gt;
+[[分類:遊戲]]
+[[分類:動作遊戲]]
+[[分類:類銀河戰士惡魔城遊戲]]

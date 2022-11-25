@@ -1,0 +1,2897 @@
+{{h0| バーチャルYouTuber / 虛擬YouTuber / Virtual YouTuber / VTuber&lt;s&gt; / Baacharu Yuuchuubah!&lt;/s&gt;}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+{{stub row|本條目內容嚴重過時，望有志之士更新資訊。}}
+|-
+|}
+
+[[File:VirtualYoutubers.jpg|350px|right]]
+
+== 解說 ==
+*'''虛擬YouTuber''' （'''バーチャルYouTuber'''，簡稱'''VTuber'''或'''VY'''） 是指以電腦虛擬模型為形象的YouTube影片上傳者
+** 活動行徑和上傳影片內容與一般YouTuber無異（雜談、[[遊戲實況|實況]]、唱歌、跳舞等），不同的是他們螢幕上的形象都是虛擬的2D或3DCG[[角色]]
+** 廣義來說就是有演出者使用Kinect、Facerig等動作捕捉技術附加在Unity、MMD、Live2D等軟體即時扮演虛擬角色並在YouTube活動
+*** 更正確的詞彙應該是虛擬網路藝人（Virtual E-celeb），因為他們的活動不局限於YouTube而在ニコ動、推特等網路平台發展&lt;s&gt;，不過某人工智障先創造了虛擬YouTuber這曖昧的詞彙比較流行所以其他人就直接用下去了&lt;/s&gt;
+*** &lt;s&gt;所以退一百步來說玩[[Minecraft]]的也算是VTuber&lt;/s&gt;
+** 在此之前的虛擬形象上傳者通常是以普通2D圖片為主流，如使用語音合成軟體配音的ゆっくり實況或[[結月ゆかり|VOICEROID]]實況等
+
+* 於2016年虛擬角色企劃頻道A.I.Channel推出虛擬&lt;s&gt;智障&lt;/s&gt;美少女「キズナアイ」後成功引起話題，吸引許多人和企業也&lt;s&gt;[[原創風行|跟風]]&lt;/s&gt;使用這種模式製作影片
+** キズナアイ主要活動於YouTube，配合Youtube的翻譯系統讓外國的粉絲也能觀看，因此其他的虛擬角色上傳者大都選擇在Youtube建立頻道而冠上Youtuber的名義
+*** 當然有些虛擬Youtuber也有在[[ニコニコ動画]]投稿，但極大部分影片都是其他人擅自轉載，在熱潮開始後許多虛擬Youtuber也開始在ニコニコ動画開帳號及生放送
+
+* 虛擬Youtuber的知名度在2017年12月急升，原因是其他虛擬Youtuber在此期間建立出不同的個性，再加上輝夜月異軍突起湊成虛擬Youtuber[[四天王]]達致互相宣傳效果
+**四天王為キズナアイ 、ミライアカリ、電脳少女シロ、ねこます、輝夜月&lt;s&gt;，四天王有五位不是很正常的嗎？&lt;/s&gt;
+** 其中キズナアイ的訂閱者就暴增30萬&lt;ref&gt;[[file:Aichannelgraph.png|thumb|none|A.I.Channel訂閱者走勢圖]]&lt;/ref&gt;，其他同業的訂閱者也顯著增加，被譽為「聖誕夜的奇跡」
+** 因此2018年一大堆新的虛擬Youtuber也如雨後春筍般登場，史稱バーチャル[[戰國時代(日本)|戰國時代]]
+
+== 虛擬Youtuber一覽 ==
+=== Vtuber四天王 ===
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! [[キズナアイ]]
+! [[ミライアカリ]]&lt;br&gt;{{color|green||原エイレーン}}
+! [[電脳少女シロ]]
+! [[ねこます|バーチャルのじゃロリ狐娘Youtuberおじさん]]&lt;br&gt;{{color|green|| けもみみおーこく}}
+! [[輝夜月]]
+|-
+| {{youtube|c=UC4YaOt1yT-ZeyB0OmxHgolA|title=YouTube}}&lt;br&gt;{{youtube|c=UCbFwe3COkDrbNsbMyGNCsDg|title=A.I.Games}}
+| {{youtube|u=bittranslate|title=YouTube}}
+| {{youtube|c=UCLhUvJ_wO9hOvv_yYENu4fQ|title=YouTube}}&lt;br&gt;{{youtube|c=UCkD-wlU06zeiGSk31y2qIOw|title=シロGames(日文)}}&lt;br&gt;{{youtube|c=UCWOoEONmiuypAfKAxnBf2vQ|title=シロGames(英文)}}
+| {{youtube|c=UCt8tmsv8kL9Nc1sxvCo9j4Q|title=原YouTube頻道（已讓與V番組）}}&lt;br&gt;{{youtube|c=UC5UbdI4CJ-BwFudca9nzNlg|title=新YouTube頻道}}
+| {{youtube|c=UCQYADFw7xEJ9oZSM5ZbqyBw|title=YouTube}}
+|-
+| {{twitter|aichan_nel|name=Twitter}}
+| {{twitter|miraiakari_prj|name=Twitter}}
+| {{twitter|SIROyoutuber|name=Twitter}}&lt;br&gt;{{twitter|shojoheiki|name=少女兵器大戦Twitter}}
+| {{twitter|kemomimi_oukoku|name=Twitter}}&lt;br&gt;[https://nekomasu.wixsite.com/kemomimioukoku 個人網站]
+| {{twitter|_kaguyaluna|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== 早期勢(2017年前出道) ===
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! Ami Yamato&lt;br&gt;(2011年6月13日)
+! [[WEATHEROID TypeA Airi|ウェザーロイド TypeA Airi]]&lt;br&gt;(2012年4月13日)
+! エイレーン&lt;br&gt;{{color|green||現半分離至萌実 &amp; ヨメミ}}&lt;br&gt;(2014年3月1日)
+! みゅみゅ&lt;br&gt;(2014年5月)
+! [[キズナアイ]]&lt;br&gt;(2016年12月1日)
+|-
+| [https://www.youtube.com/user/yamatoami/videos YouTube]
+| [https://www.youtube.com/c/weatheroidAiriChannel YouTube]&lt;br&gt;{{youtube|c=UCNsidkYpIAQ4QaufptQBPHQ|title=ウェザーニュース(WNI)}}
+| {{youtube|c=UCy5lOmEQoivK5XK7QCaRKug|title=萌実 &amp; ヨメミ}}
+| [https://www.youtube.com/channel/UC_tFMq_yvulj-yzQDqmH9SQ/videos YouTube](舊影片已全數刪除)&lt;br&gt;{{youtube|c=UC_IfjiHP6UnWE0NNog_n_3A|title=あいえるたん}}
+| {{youtube|c=UC4YaOt1yT-ZeyB0OmxHgolA|title=YouTube}}&lt;br&gt;{{youtube|c=UCbFwe3COkDrbNsbMyGNCsDg|title=A.I.Games}}
+|-
+| {{twitter|amiyamato|name=Twitter}}
+| {{twitter|typea_airi|name=Twitter}}&lt;br&gt;{{twitter|airin0609|name=經紀人山岸愛梨Twitter}}
+| [https://twitter.com/APP_Yomemi?lang=zh-tw Twitter]&lt;br&gt;[https://twitter.com/BitYoutube?lang=zh-tw エイレーンTwitter]
+| {{twitter|miyumiyuna5|name=Twitter}}&lt;br&gt;{{twitter|iloop_sapporo|name=株式会社インフィニットループTwitter}}
+| {{twitter|aichan_nel|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! [[電脳少女シロ]]&lt;br&gt;(2017年6月28日)
+! ピーナッツくん&lt;br&gt;(2017年7月4日)
+! 虎妮&lt;br&gt;(2017年7月6日)
+! バララとカレン&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2017年8月1日)
+! ばあちゃる&lt;br&gt;(2017年8月9日)
+! 白藤環&amp;鈴木あんず&lt;br&gt;{{color|green||岩本町芸能社アイドル部}}&lt;br&gt;(2017年8月12日)
+! 嫁ノ萌実&lt;br&gt;{{color|green||現與ヨメミ共享頻道}}&lt;br&gt;(2017年8月20日)
+|-
+| {{youtube|c=UCLhUvJ_wO9hOvv_yYENu4fQ|title=YouTube}}&lt;br&gt;{{youtube|c=UCkD-wlU06zeiGSk31y2qIOw|title=シロGames(日文)}}&lt;br&gt;{{youtube|c=UCWOoEONmiuypAfKAxnBf2vQ|title=シロGames(英文)}}
+| {{youtube|c=UCmgWMQkenFc72QnYkdxdoKA|title=YouTube}}
+| {{youtube|c=UC6s0wLR0TZauzTVoGGw2r6g|title=YouTube}}
+| {{youtube|c=UCpAcI-1ZUZVBNXzAd7pTMAA|title=YouTube}}
+| {{youtube|c=UC6TyfKcsrPwBsBnx2QobVLQ|title=YouTube}}
+| {{youtube|c=UCFI81W9F49a7GvimKF905eQ|title=YouTube}}
+| {{youtube|c=UCy5lOmEQoivK5XK7QCaRKug|title=萌実 &amp; ヨメミ}}
+|-
+| {{twitter|SIROyoutuber|name=Twitter}}&lt;br&gt;{{twitter|shojoheiki|name=少女兵器大戦Twitter}}
+| {{twitter|osyarenuts|name=Twitter}}
+| {{twitter|hooniefriends|name=Twitter}}
+| {{twitter|potapota_ramen|name=Twitter}}
+| {{twitter|bayoutuber|name=Twitter}}
+| {{twitter|erimakitamaki|name=白藤環Twitter}}&lt;br&gt;{{twitter|anzu15_225|name=鈴木あんずTwitter}}
+| [https://twitter.com/APP_Yomemi?lang=zh-tw 萌実Twitter](現ヨメミ)&lt;br&gt;[https://twitter.com/BitYoutube?lang=zh-tw エイレーンTwitter]
+|}
+&lt;br&gt;&lt;br&gt;
+{| class="wikitable" style="width:60%; margin:auto" align="center"
+! ときのそら&lt;br&gt;(2017年9月7日)
+! ねむ&lt;br&gt;(2017年9月12日)
+! 藤崎由愛&lt;br&gt;(2017年9月21日)
+! 虹乃まほろ&lt;br&gt;(2017年10月5日)
+! [[ミライアカリ]]&lt;br&gt;{{color|green||原エイレーン}}&lt;br&gt;(2017年10月27日)
+|-
+| {{youtube|c=UCp6993wxpyDPHUpavwDFqgg|title=YouTube}}
+| {{youtube|c=UC7xyzq_Hd72-IbJVoz4DSrQ|title=YouTube}}
+| {{youtube|c=UC_zztIHGbBz9L-ZM-Ta2O1Q|title=YouTube}}
+| [https://www.youtube.com/channel/UCtCXaX0zEvYSgdkp-Po24TQ/ YouTube]
+| [{{youtube|u=bittranslate|title=YouTube}}]
+|-
+| {{twitter|tokino_sora|name=Twitter}}
+| {{twitter|nemchan_nel|name=Twitter}}
+| {{twitter|yua_ch|name=Twitter}}
+| {{twitter|nijinomahoro|name=Twitter}}
+| {{twitter|miraiakari_prj|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! バーチャルのじゃロリ狐娘Youtuberおじさん&lt;br&gt;{{color|green||現V番組}}&lt;br&gt;(2017年11月8日)
+! 輝夜月&lt;br&gt;(2017年12月9日)
+! [[富士葵]]&lt;br&gt;(2017年12月9日)
+! さはな&lt;br&gt;(2017年12月15日)
+! のらきゃっと&lt;br&gt;(2017年12月23日)
+|-
+| {{youtube|c=UCt8tmsv8kL9Nc1sxvCo9j4Q|title=YouTube}}
+| {{youtube|c=UCQYADFw7xEJ9oZSM5ZbqyBw|title=YouTube}}
+| {{youtube|c=UC3Ruo_5doyu514PesWGvCAg|title=YouTube}}&lt;br&gt;{{youtube|c=UCIao2WtbCciU8GApFr2pLIA|title=あおい'sきっず}}
+| {{youtube|c=UCynHwUYnx8V0NJ9_pU-aAsA|title=YouTube}}
+| {{youtube|c=UC3iwL9Yz8LcKkJsnLPevOTQ|title=YouTube}}&lt;br&gt;{{youtube|c=UCRPGoP46id-uCzinLucu_mA|title=のらきゃっとClassic}}
+|-
+| {{twitter|kemomimi_oukoku|name=Twitter}}
+| {{twitter|_kaguyaluna|name=Twitter}}
+| {{twitter|fuji_aoi_0618|name=Twitter}}&lt;br&gt;{{twitter|aoich_official|name=Aoi Ch.公式Twitter}}
+| {{twitter|sahana_virtual|name=Twitter}}
+| {{twitter|vr_girl_noracat|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+{| class="wikitable" style="width:50%; margin:auto" align="center"
+! 夏目ハル&amp;日向奈央&amp;栗原桜子&lt;br&gt;{{color|green||岩本町芸能社女優部}}&lt;br&gt;(2017年12月25日)
+! 霊電カスカ&lt;br&gt;(2017年12月28日)
+! 馬越健太郎&lt;br&gt;{{color|green||岩本町芸能社俳優部}}&lt;br&gt;(2017年12月29日)
+|-
+| {{youtube|c=UCFI81W9F49a7GvimKF905eQ|title=YouTube}}
+| {{youtube|c=UCDA4f1tItU3RaZgYxMInz4w|title=YouTube}}
+| {{youtube|c=UC2jBqh7fCEPuTdpwKmxHvjA|title=YouTube}}
+|-
+| {{twitter|haru_neee|name=夏目ハルTwitter}}&lt;br&gt;{{twitter|hinao_23ku|name=日向奈央Twitter}}&lt;br&gt;{{twitter|rako_29|name=栗原桜子Twitter}}
+| {{twitter|reiden_kasuka|name=Twitter}}
+| {{twitter|umakoshi_dream|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== 原[https://upd8.jp/ upd8] ===
+{| class="wikitable" style="width:100%; margin:auto" align="center"
+! [[キズナアイ]]&lt;br&gt;(2018年5月31日加入)
+! おめがシスターズ&lt;br&gt;(2018年5月31日加入)
+! 小山内めい&lt;br&gt;(2018年5月31日加入)
+! モスコミュール&lt;br&gt;(2018年5月31日加入)
+! つのはねあかぎ&lt;br&gt;(2018年5月31日加入)
+! 音無りずむ&lt;br&gt;{{color|red||已停止活動?}}&lt;br&gt;(2018年5月31日加入)
+! AyaMina Games&lt;br&gt;(2018年5月31日加入)
+! YuNi&lt;br&gt;(2018年5月31日加入)
+|-
+| {{youtube|c=UC4YaOt1yT-ZeyB0OmxHgolA|title=YouTube}}&lt;br&gt;{{youtube|c=UCbFwe3COkDrbNsbMyGNCsDg|title=A.I.Games}}
+| {{youtube|c=UCNjTjd2-PMC8Oo_-dCEss7A|title=YouTube}}
+| {{youtube|c=UCZx7wgGNs2UFyRRtLoNur9Q|title=YouTube}}
+| {{youtube|c=UCX7WYPXASkYUm2GyomLllIg|title=YouTube}}
+| {{youtube|c=UC7IyAJq03ohb0TpGqsFfPng|title=YouTube}}
+| {{youtube|c=UCJzg5k2prEhTPMoK0kcBQPg|title=YouTube}}
+| {{youtube|c=UCrSpZbNNao8YQ5aj2Jr2exw|title=YouTube}}
+| {{youtube|c=UCHTnX0CSX_KObo5I9WuZ64g|title=YouTube}}
+|-
+| {{twitter|aichan_nel|name=Twitter}}
+| {{twitter|omesis_ray|name=おめがレイTwitter}}&lt;br&gt;{{twitter|omesis_rio|name=おめがリオTwitter}}
+| {{twitter|osanai_mei|name=Twitter}}
+| {{twitter|Moscow_ojisan|name=Twitter}}
+| {{twitter|hiramecurry|name=Twitter}}
+| {{twitter|otonashirhythm|name=Twitter}}
+| {{twitter|ayamina_aya|name=由縁アヤTwitter}}&lt;br&gt;{{twitter|ayamina_mina|name=由縁ミナTwitter}}
+| {{twitter|yuni_vsinger|name=Twitter}}
+|-
+! カフェ野ゾンビ子&lt;br&gt;(2018年6月29日加入)
+! 虹河ラキ&lt;br&gt;(2018年6月29日加入)
+! 織田信姫&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年6月29日加入)
+! かしこまり&amp;パンディ&lt;br&gt;(2018年7月6日加入)
+! ぽてち&lt;br&gt;(2018年7月6日加入)
+! デラとハドウ&lt;br&gt;(2018年7月6日加入)
+! 
+!
+|-
+| {{youtube|c=UCiVRnULJjc8o-j_lG5BAzKw|title=YouTube}}
+| {{youtube|c=UCp77Qho-YHhnklRr-DkjiOw|title=YouTube}}
+| {{youtube|c=UCGcD5iUDG8xiywZeeDxye-A|title=YouTube}}
+| {{youtube|c=UCfiK42sBHraMBK6eNWtsy7A|title=YouTube}}
+| {{youtube|c=UCPljC4d-GgdFgVqtoCZ3m_w|title=YouTube}}
+| {{youtube|c=UC0QzO6nK1cEDZvJSt2769Zw|title=YouTube}}
+| 
+|
+|-
+| {{twitter|cafenozombiko|name=Twitter}}
+| {{twitter|nijikawa_laki|name=Twitter}}
+| {{twitter|oda_nobuhime|name=Twitter}}
+| {{twitter|kashikomari_ch|name=かしこまりTwitter}}&lt;br&gt;{{twitter|pandei_ch|name=パンディTwitter}}
+| {{twitter|poteti_oekaki|name=Twitter}}
+| {{twitter|harddeluxe|name=Twitter}}
+| 
+|
+|-
+! 響木アオ&lt;br&gt;(2018年7月20日加入)
+! 海月ねう&lt;br&gt;(2018年7月20日加入)
+! 春日部つくし&lt;br&gt;(2018年7月20日加入)
+! 天音マホ&lt;br&gt;(2018年7月20日加入)
+! エンジンかずみ&lt;br&gt;(2018年7月20日加入)
+! ゴルンノヴァ総統&lt;br&gt;(2018年7月20日加入)
+! 佐々木&lt;br&gt;(2018年7月20日加入)
+!
+|-
+| {{youtube|c=UCNwo7eikmX5HPs7NedWVBgw|title=YouTube}}&lt;br&gt;{{youtube|c=UCTNOpMjGN-Djwrj6WHfJgqQ|title=Hibiki Ao 2nd}}
+| {{youtube|c=UCLXxry0HqEz_mzHSsXwrhYg|title=YouTube}}
+| {{youtube|c=UCHccxX2p_9DB_HPnXSb2omw|title=YouTube}}
+| {{youtube|c=UCH9DjwkMq9P6yGioc0-NaJg|title=YouTube}}
+| {{youtube|c=UCZk6mxfTpjuuxgqxuFBJO_g|title=YouTube}}
+| {{youtube|c=UCc32jRyXfJBSZg9_EDXceTA|title=YouTube}}
+| {{youtube|c=UCa8OnR-Qm9-h9yOZaMyShpg|title=YouTube}}
+| 
+|-
+| {{twitter|hibiki_ao|name=Twitter}}
+| {{twitter|mitukineu|name=Twitter}}
+| {{twitter|kasukabe_nyoki|name=Twitter}}
+| {{twitter|amanemaho|name=Twitter}}
+| {{twitter|engine_kazumi|name=Twitter}}
+| {{twitter|soutou_vtuber|name=Twitter}}
+| {{twitter|cyberpunk_ROL|name=Twitter}}
+| 
+|-
+! のらきゃっと&lt;br&gt;(2018年8月16日加入)
+! K'WA&lt;br&gt;(2018年8月16日加入)
+! けも神男子&lt;br&gt;(尚未投稿)
+!
+!
+!
+!
+! 
+|-
+| {{youtube|c=UC3iwL9Yz8LcKkJsnLPevOTQ|title=YouTube}}&lt;br&gt;{{youtube|c=UCRPGoP46id-uCzinLucu_mA|title=のらきゃっとClassic}}
+| {{youtube|c=UCyZZMKRn-mUEkPzaqa9b6bg|title=YouTube}}
+| {{youtube|c=UCs8xsWmWEjjcyjAFu5KMGIg|title=YouTube}}
+| 
+|
+| 
+| 
+|
+|-
+| {{twitter|vr_girl_noracat|name=Twitter}}
+| {{twitter|kwa_kon|name=Twitter}}
+| {{twitter|kemogamidanshi|name=Twitter}}
+| 
+|
+| 
+| 
+|
+|-
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== [https://entum.jp/ 原ENTUM]{{ref|ENTUM已於2019年12月16日宣布停止活動}} ===
+{| class="wikitable" style="width:80%; margin:auto" align="center"
+! [[ミライアカリ]]&lt;br&gt;{{color|green||原エイレーン}}&lt;br&gt;(2018年4月9日加入)
+! 猫宮ひなた&lt;br&gt;(2018年4月9日加入)
+! 届木ウカ&lt;br&gt;(2018年4月9日加入)
+! もちひよこ&lt;br&gt;(2018年4月9日加入)
+! ヨメミ&lt;br&gt;{{color|green||現與嫁ノ萌実共享頻道}}&lt;br&gt;(已於2018年6月28日畢業)
+|-
+| [{{youtube|u=bittranslate|title=YouTube}}]
+| {{youtube|c=UCevD0wKzJFpfIkvHOiQsfLQ|title=YouTube}}
+| {{youtube|c=UCk0dNVAdlgn4ynURwAq_z2A|title=YouTube}}
+| {{youtube|c=UCZ1WJDkMNiZ_QwHnNrVf7Pw|title=YouTube}}
+| {{youtube|c=UCy5lOmEQoivK5XK7QCaRKug|title=萌実 &amp; ヨメミ}}
+|-
+| {{twitter|miraiakari_prj|name=Twitter}}
+| {{twitter|nekomiya_hinata|name=Twitter}}
+| {{twitter|todoki_uka|name=Twitter}}
+| {{twitter|mochi8hiyoko|name=Twitter}}
+| [https://twitter.com/APP_Yomemi?lang=zh-tw Twitter]
+|-
+! 花野蜜&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年6月29日出道)&lt;br&gt;{{color|red||已停止活動}}
+! 皆守ひいろ&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年6月29日出道)&lt;br&gt;{{color|red||已停止活動}}
+! ユメノツキミ&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年6月29日出道)
+! 月夜ソラ&amp;夜桜カノン&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年6月29日&amp;8月6日出道)
+! 
+|-
+| {{youtube|c=UCuwpvDAYMV0nV98DQk-W9mQ|title=YouTube}}
+| [https://www.youtube.com/channel/UCuGMkxJA_icuiF01u8f3Y2Q/ YouTube]
+| {{youtube|c=UCrxrLyFKqeq3fJh-OkrAn5Q|title=YouTube}}
+| {{youtube|c=UCPwSREC85pZ3_ZW1MbEWf9Q|title=YouTube}}
+|
+|-
+| {{twitter|MitsuHanano|name=Twitter}}
+| {{twitter|HeroMinamori|name=Twitter}}
+| {{twitter|TsukimiYumeno|name=Twitter}}
+| {{twitter|Sora_Tsukiyo|name=月夜ソラTwitter}}&lt;br&gt;{{twitter|KanonYozakula|name=夜桜カノンTwitter}}
+| 
+|-
+! ニーツ(VT-212)&lt;br&gt;(2018年8月10日加入)
+! 御来屋久遠&lt;br&gt;(2018年8月10日加入)
+! ミディ&lt;br&gt;(2018年8月10日加入)
+!
+! 夏実萌恵&lt;br&gt;{{color|green||エイレーン關連者、非成員}}&lt;br&gt;(2018年7月31日出道)
+|-
+| {{youtube|c=UCCsZjHDiCgvlZ8VyCQMEYuQ|title=YouTube}}
+| {{youtube|c=UCCRZH38F6BkexM6edXkwG8g|title=YouTube}}
+| {{youtube|c=UCs4zWdCrlnXmpVkjOgAHs0w|title=YouTube}}
+| 
+| {{youtube|c=UCBePKUYNhoMcjBi-BRmjarQ|title=YouTube}}
+|-
+| {{twitter|VT_212|name=Twitter}}
+| {{twitter|mikuriya_9on|name=Twitter}}
+| {{twitter|mid_midy|name=Twitter}}
+| 
+| {{twitter|Vtuber_Moe|name=Twitter}}&lt;br&gt;[https://twitter.com/BitYoutube?lang=zh-tw エイレーンTwitter]&lt;br&gt;{{twitter|comdost_art|name=海外營運擔當ComdostTwitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+=== [https://vrlive.party/ .LIVE] ===
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! [[電脳少女シロ]]
+! 淡井シロ&lt;br&gt;{{color|green||公式繪師}}
+!
+! ピーマンくん&lt;br&gt;(尚未投稿)&lt;br&gt;
+! メリーミルク
+! ばあちゃる
+|-
+| {{youtube|c=UCLhUvJ_wO9hOvv_yYENu4fQ|title=YouTube}}&lt;br&gt;{{youtube|c=UCkD-wlU06zeiGSk31y2qIOw|title=シロGames(日文)}}&lt;br&gt;{{youtube|c=UCWOoEONmiuypAfKAxnBf2vQ|title=シロGames(英文)}}
+| {{youtube|c=UCObLEee4avHfz7kNV80eUAQ|title=淡井フレヴィア}}
+| 
+| {{youtube|c=UCnqnQYvBehuaAYi9M8W_cig|title=YouTube}}&lt;br&gt;&lt;s&gt;大概這輩子以內都不會看到他們出道&lt;/s&gt;
+| {{youtube|c=UCju7v8SkoWUQ5ITCQwmYpYg|title=YouTube}}
+| {{youtube|c=UC6TyfKcsrPwBsBnx2QobVLQ|title=YouTube}}
+|-
+| {{twitter|SIROyoutuber|name=Twitter}}&lt;br&gt;{{twitter|shojoheiki|name=少女兵器大戦Twitter}}
+| {{twitter|awaisiro|name=Twitter}}
+|
+| {{twitter|Pvtuber|name=Twitter}}
+| {{twitter|milk_merry_|name=Twitter}}
+| {{twitter|bayoutuber|name=Twitter}}
+|-
+! 夜桜たま&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年5月4日出道)
+! 北上双葉&lt;br&gt;(2018年5月4日出道)
+! カルロ・ピノ&lt;br&gt;(2018年5月4日出道)
+! 八重沢なとり&lt;br&gt;(2018年5月5日出道)
+! 金剛いろは&lt;br&gt;(2018年5月6日出道)
+! 木曽あずき&lt;br&gt;(2018年5月6日出道)
+|-
+| {{youtube|c=UCOefINa2_BmpuX4BbHjdk9A|title=YouTube}}
+| {{youtube|c=UC5nfcGkOAm3JwfPvJvzplHg|title=YouTube}}
+| {{youtube|c=UCMzxQ58QL4NNbWghGymtHvw|title=YouTube}}
+| {{youtube|c=UC1519-d1jzGiL1MPTxEdtSA|title=YouTube}}
+| {{youtube|c=UCiGcHHHT3kBB1IGOrv7f3qQ|title=YouTube}}
+| {{youtube|c=UCmM5LprTu6-mSlIiRNkiXYg|title=YouTube}}
+|-
+| {{twitter|YozakuraTama|name=Twitter}}
+| {{twitter|KitakamiFutaba|name=Twitter}}
+| {{twitter|carro_pino|name=Twitter}}
+| {{twitter|YaezawaNatori|name=Twitter}}
+| {{twitter|KongoIroha|name=Twitter}}
+| {{twitter|KisoAzuki|name=Twitter}}
+|-
+! 猫乃木もち&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年5月6日出道)
+! 牛巻りこ&lt;br&gt;(2018年5月7日出道)
+! 神楽すず&lt;br&gt;(2018年5月20日出道)
+! ヤマトイオリ&lt;br&gt;(2018年5月20日出道)
+! もこ田めめめ&lt;br&gt;(2018年4月27日再出道)
+! 花京院ちえり&lt;br&gt;(2018年5月5日再出道)
+|-
+| {{youtube|c=UC02LBsjt_Ehe7k0CuiNC6RQ|title=YouTube}}
+| {{youtube|c=UCKUcnaLsG2DeQqza8zRXHiA|title=YouTube}}
+| {{youtube|c=UCUZ5AlC3rTlM-rA2cj5RP6w|title=YouTube}}
+| {{youtube|c=UCyb-cllCkMREr9de-hoiDrg|title=YouTube}}
+| {{youtube|c=UCz6Gi81kE6p5cdW1rT0ixqw|title=YouTube}}
+| {{youtube|c=UCP9ZgeIJ3Ri9En69R0kJc9Q|title=YouTube}}
+|-
+| {{twitter|nekonoki_mochi|name=Twitter}}
+| {{twitter|UshimakiRiko|name=Twitter}}
+| {{twitter|kagura_suzu|name=Twitter}}
+| {{twitter|Yamatoiori|name=Twitter}}
+| {{twitter|mokomeme_ch|name=Twitter}}
+| {{twitter|chieri_kakyoin|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== [[Hololive production]] ===
+==== Hololive ==== 
+{| class="wikitable" style="width:85%; margin:auto" align="center"
+! rowspan="3" | {{color|green||無印}}
+! [[ときのそら]]
+! [[ロボ子さん]]
+! [[さくらみこ]]
+! [[星街すいせい]]
+! 人見クリス&lt;br&gt;{{color|red||已停止活動}}
+|-
+| {{youtube|c=UCp6993wxpyDPHUpavwDFqgg|title=YouTube}}
+| {{youtube|c=UCDqI2jOz0weumE8s7paEk6g|title=YouTube}}
+| {{youtube|c=UC-hM6YJuNYVAmUWxeIr9FeA|title=YouTube}}
+| {{youtube|c=UC5CwaMl1eIgY8h02uZw7u8A|title=YouTube}}
+|
+|-
+| {{twitter|tokino_sora|name=Twitter}}
+| {{twitter|robocosan|name=Twitter}}
+| {{twitter|sakuramiko35|name=Twitter}}
+| {{twitter|suisei_hosimati|name=Twitter}}
+|
+|-
+! rowspan="3" | INoNaKa Music 
+! [[AZKi]]&lt;br&gt;(2018年11月15日出道)
+! 
+! 
+! 
+! 
+|-
+| {{youtube|c=UC0TXe_LYZ4scaW2XMyi5_kw|title=YouTube}}
+| 
+| 
+| 
+| 
+|-
+| {{twitter|AZKi_VDiVA|name=Twitter}}
+| 
+| 
+| 
+|
+|-
+! rowspan="3" | {{color|green||一期生}}
+! [[夜空メル]]&lt;br&gt;(2018年5月13日出道)
+! [[白上フブキ]]&lt;br&gt;(2018年6月1日出道)
+! [[夏色まつり]]&lt;br&gt;(2018年6月1日出道)
+! [[アキ・ローゼンタールキ]]&lt;br&gt;(2018年6月1日出道)
+! [[赤井はあと]]&lt;br&gt;(2018年6月2日出道)
+|-
+| {{youtube|c=UCD8HOxPs4Xvsm8H0ZxXGiBw|title=YouTube}}
+| {{youtube|c=UCdn5BQ06XqgXoAxIhbqw5Rg|title=YouTube}}
+| {{youtube|c=UCQ0UDLQCjY0rmuxCDE38FGg|title=YouTube}}
+| {{youtube|c=UCFTLzh12_nrtzqBPsTCqenA|title=YouTube}}
+| {{youtube|c=UC1CfXB_kRs3C-zaeTG3oGyg|title=YouTube}}
+|-
+| {{twitter|yozoramel|name=Twitter}}
+| {{twitter|shirakamifubuki|name=Twitter}}
+| {{twitter|natsuiromatsuri|name=Twitter}}
+| {{twitter|akirosenthal|name=Twitter}}
+| {{twitter|akaihaato|name=Twitter}}
+|-
+! rowspan="3" | {{color|green||二期生}} 
+! [[湊あくあ]]&lt;br&gt;(2018年8月8日出道)
+! [[紫咲シオン]]&lt;br&gt;(2018年8月17日出道)
+! [[百鬼あやめ]]&lt;br&gt;(2018年9月3日出道)
+! [[癒月ちょこ]]&lt;br&gt;(2018年9月4日出道)
+! [[大空スバル]]&lt;br&gt;(2018年9月16日出道)
+|-
+| {{youtube|c=UC1opHUrw8rvnsadT-iGp7Cg|title=YouTube}}
+| {{youtube|c=UCXTpFs_3PqI41qX2d9tL2Rw|title=YouTube}}
+| {{youtube|c=UC7fk0CB07ly8oSl0aqKkqFg|title=YouTube}}
+| {{youtube|c=UC1suqwovbL1kzsoaZgFZLKg|title=YouTube}}
+| {{youtube|c=UCvzGlP9oQwU--Y0r9id_jnA|title=YouTube}}
+|-
+| {{twitter|minatoaqua|name=Twitter}}
+| {{twitter|murasakishionch|name=Twitter}}
+| {{twitter|nakiriayame|name=Twitter}}
+| {{twitter|yuzukichococh|name=Twitter}}
+| {{twitter|oozorasubaru|name=Twitter}}
+|-
+! rowspan="3"| {{color|green||三期生}}&lt;br&gt;hololive fantasy 
+!  [[兎田ぺこら]]&lt;br&gt;(2019年7月7日出道)
+!  [[潤羽るしあ]]&lt;br&gt;(2019年7月7日出道)
+!  [[不知火フレア]]&lt;br&gt;(2019年8月1日出道)
+!  [[白銀ノエル]]&lt;br&gt;(2019年8月1日出道)
+!  [[宝鐘マリン]]&lt;br&gt;(2019年8月1日出道)
+|-
+| {{youtube|c=UC1DCedRgGHBdm81E1llLhOQ|title=YouTube}}
+| {{youtube|c=UCl_gCybOJRIgOXw6Qb4qJzQ|title=YouTube}}
+| {{youtube|c=UCvInZx9h3jC2JzsIzoOebWg|title=YouTube}}
+| {{youtube|c==UCdyqAaZDKHXg4Ahi7VENThQ|title=YouTube}}
+| {{youtube|c=UCCzUftO8KOVkV4wQG1vkUvg|title=YouTube}}
+|-
+| {{twitter|usadapekora|name=Twitter}}
+| {{twitter|uruharushia|name=Twitter}}
+| {{twitter|shiranuiflare|name=Twitter}}
+| {{twitter|shiroganenoel|name=Twitter}}
+| {{twitter|houshoumarine|name=Twitter}}
+|-
+! rowspan="3"| {{color|green||四期生}}&lt;br&gt;holofourth
+!  [[天音かなた]]&lt;br&gt;(2019年12月25日出道)
+!  [[桐生ココ]]&lt;br&gt;(2019年12月25日出道)&lt;br&gt;{{color|red||已停止活動}}
+!  [[角巻わため]]&lt;br&gt;(2019年12月25日出道)
+!  [[常闇トワ]]&lt;br&gt;(2020年1月1日出道)
+!  [[姫森ルーナ]]&lt;br&gt;(2020年1月1日出道)
+|-
+| {{youtube|c=UCZlDXzGoo7d44bwdNObFacg|title=YouTube}}
+| {{youtube|c=UCS9uQI-jC3DE0L4IpXyvr6w|title=YouTube}}
+| {{youtube|c=UCqm3BQLlJfvkTsX_hvm0UmA|title=YouTube}}
+| {{youtube|c=UC1uv2Oq6kNxgATlCiez59hw|title=YouTube}}
+| {{youtube|c=UCa9Y57gfeY0Zro_noHRVrnw|title=YouTube}}
+|-
+| {{twitter|amanekanatach|name=Twitter}}
+| {{twitter|kiryucoco|name=Twitter}}
+| {{twitter|tsunomakiwatame|name=Twitter}}
+| {{twitter|tokoyamitowa|name=Twitter}}
+| {{twitter|himemoriluna|name=Twitter}}
+|-
+! rowspan="3"| {{color|green||五期生}}&lt;br&gt;holofive
+!  [[雪花ラミィ]]&lt;br&gt;(2020年8月12日出道)
+!  [[桃鈴ねね]]&lt;br&gt;(2020年8月13日出道)
+!  [[獅白ぼたん]]&lt;br&gt;(2020年8月14日出道)
+!  [[尾丸ポルカ]]&lt;br&gt;(2020年8月16日出道)
+!  [[魔乃アロエ]]&lt;br&gt;(2020年8月15日出道)&lt;br&gt;{{color|red||已停止活動}}
+|-
+| {{youtube|c=UCFKOVgVbGmX65RxO3EtH3iw|title=YouTube}}
+| {{youtube|c=UCAWSyEs_Io8MtpY3m-zqILA|title=YouTube}}
+| {{youtube|c=UCUKD-uaobj9jiqB-VXt71mA|title=YouTube}}
+| {{youtube|c=UCK9V2B22uJYu3N7eR_BT9QA|title=YouTube}}
+| {{youtube|c=UCgZuwn-O7Szh9cAgHqJ6vjw|title=YouTube}}
+|-
+| {{twitter|yukihanalamy|name=Twitter}}
+| {{twitter|momosuzunene|name=Twitter}}
+| {{twitter|shishirobotan|name=Twitter}}
+| {{twitter|omarupolka|name=Twitter}}
+| {{twitter|manoaloe|name=Twitter}}
+|}
+
+==== Holostars ====
+{| class="wikitable" style="width:85%; margin:auto" align="center"
+! rowspan="3" | {{color|green||一期生}}
+! 花咲みやび&lt;br&gt;（2019年6月8日出道）
+! 鏡見キラ&lt;br&gt;（2019年6月9日出道）
+! 奏手イヅル&lt;br&gt;（2019年6月22日出道）
+! アルランディス&lt;br&gt;（2019年9月8日出道）
+! 律可&lt;br&gt;（2020年10月20日出道）
+|-
+| {{youtube|c=UC6t3-_N8A6ME1JShZHHqOMw|title=YouTube}}
+| {{youtube|c=UCEzsociuFqVwgZuMaZqaCsg|title=YouTube}}
+| {{youtube|c=UCZgOv3YDEs-ZnZWDYVwJdmA|title=YouTube}}
+| {{youtube|c=UCKeAhJvy8zgXWbh9duVjIaQ|title=YouTube}}
+| {{youtube|c=UC9mf_ZVpouoILRY9NUIaK-w|title=YouTube}}
+|-
+| {{twitter|miyabihanasaki|name=Twitter}}
+| {{twitter|kagamikirach|name=Twitter}}
+| {{twitter|kanadeizuru|name=Twitter}}
+| {{twitter|arurandeisu|name=Twitter}}
+| {{twitter|rikkaroid|name=Twitter}}
+|-
+! rowspan="3" | {{color|green||二期生}}
+! アステル・レダ&lt;br&gt;（2019年12月7日出道）
+! 岸堂天真&lt;br&gt;（2019年12月12日出道）
+! 夕刻ロベル&lt;br&gt;（2019年12月24日出道）
+! 
+! 
+|-
+| {{youtube|c=UCNVEsYbiZjH5QLmGeSgTSzg|title=YouTube}}
+| {{youtube|c=UCGNI4MENvnsymYjKiZwv9eg|title=YouTube}}
+| {{youtube|c=UCANDOlYTJT7N5jlRC3zfzVA|title=YouTube}}
+| 
+| 
+|-
+| {{twitter|astelleda|name=Twitter}}
+| {{twitter|kishidotemma|name=Twitter}}
+| {{twitter|yukokuroberu|name=Twitter}}
+| 
+| 
+|-
+! rowspan="3" | {{color|green||三期生}}&lt;br&gt;TriNero
+! 影山シエン&lt;br&gt;（2020年4月30日出道）
+! 荒咬オウガ&lt;br&gt;（2020年5月1日出道）
+! 
+! 
+! 
+|-
+| {{youtube|c=UChSvpZYRPh0FvG4SJGSga3g|title=YouTube}}
+| {{youtube|c=UCwL7dgTxKo8Y4RFIKWaf8gA|title=YouTube}}
+| 
+| 
+| 
+|-
+| {{twitter|kageyamashien|name=Twitter}}
+| {{twitter|aragamioga|name=Twitter}}
+| 
+| 
+| 
+|}
+
+==== Hololive ID ====
+{| class="wikitable" style="width:85%; margin:auto" align="center"
+! rowspan="3" | {{color|green||一期生}}&lt;br&gt;Area 15
+! [[Ayunda Risu]]&lt;br&gt;（2020年4月10日出道）
+! [[Moona Hoshinova]]&lt;br&gt;（2020年4月11日出道）
+! [[Airani Iofifteen]]&lt;br&gt;（2020年4月12日出道）
+|-
+| {{youtube|c=UCOyYb1c43VlX9rc_lT6NKQw|title=YouTube}}
+| {{youtube|c=UCP0BspO_AMEe3aQqqpo89Dg|title=YouTube}}
+| {{youtube|c=UCAoy6rzhSf4ydcYjJw3WoVg|title=YouTube}}
+|-
+| {{twitter|ayunda_risu|name=Twitter}}
+| {{twitter|moonahoshinova|name=Twitter}}
+| {{twitter|airaniiofifteen|name=Twitter}}
+|-
+! rowspan="3" | {{color|green||二期生}}&lt;br&gt;Holoro
+! [[Kureiji Ollie]]&lt;br&gt;（2020年12月4日出道）
+! [[Anya Melfissa]]&lt;br&gt;（2020年12月5日出道）
+! [[Pavolia Reine]]&lt;br&gt;（2020年12月6日出道）
+|-
+| {{youtube|c=UCYz_5n-uDuChHtLo7My1HnQ|title=YouTube}}
+| {{youtube|c=UC727SQYUvx5pDDGQpTICNWg|title=YouTube}}
+| {{youtube|c=UChgTyjG-pdNvxxhdsXfHQ5Q|title=YouTube}}
+|-
+| {{twitter|kureijiollie|name=Twitter}}
+| {{twitter|anyamelfissa|name=Twitter}}
+| {{twitter|pavoliareine|name=Twitter}}
+|}
+
+==== Hololive EN ====
+{| class="wikitable" style="width:85%; margin:auto" align="center"
+! rowspan="3" | {{color|green||一期生}}&lt;br&gt;-Myth-
+! [[Gawr Gura]]&lt;br&gt;（2020年9月13日出道）
+! [[Mori Calliope]]&lt;br&gt;（2020年9月12日出道）
+! [[Takanashi Kiara]]&lt;br&gt;（2020年9月12日出道）
+! [[Ninomae Ina'nis]]&lt;br&gt;（2020年9月13日出道）
+! [[Amelia Watson]]&lt;br&gt;（2020年9月13日出道）
+|-
+| {{youtube|c=UCoSrY_IQQVpmIRZ9Xf-y93g|title=YouTube}}
+| {{youtube|c=UCL_qhgtOy0dy1Agp8vkySQg|title=YouTube}}
+| {{youtube|c=UCHsx4Hqa-1ORjQTh9TYDhww|title=YouTube}}
+| {{youtube|c=UCMwGHR0BTZuLsmjY_NT5Pwg|title=YouTube}}
+| {{youtube|c=UCyl1z3jo3XHR1riLFKG5UAg|title=YouTube}}
+|-
+| {{twitter|gawrgura|name=Twitter}}
+| {{twitter|moricalliope|name=Twitter}}
+| {{twitter|takanashikiara|name=Twitter}}
+| {{twitter|ninomaeinanis|name=Twitter}}
+| {{twitter|watsonameliaEN|name=Twitter}}
+|-
+! rowspan="3" | Project: HOPE
+! [[IRyS]]&lt;br&gt;（2021年7月11日出道）
+! 
+! 
+! 
+! 
+|-
+| {{youtube|c=UC8rcEBzJSleTkf_-agPM20g|title=YouTube}}
+| 
+| 
+| 
+| 
+|-
+| {{twitter|irys_en|name=Twitter}}
+| 
+| 
+| 
+| 
+|-
+! rowspan="3" | {{color|green||二期生}}&lt;br&gt;-Council-
+! [[Tsukumo Sana]]&lt;br&gt;（2021年8月23日出道）
+! [[Ceres Fauna]]&lt;br&gt;（2021年8月23日出道）
+! [[Ouro Kronii]]&lt;br&gt;（2021年8月23日出道）
+! [[Nanashi Mumei]]&lt;br&gt;（2021年8月23日出道）
+! [[Hakos Baelz]]&lt;br&gt;（2021年8月23日出道）
+|-
+| {{youtube|c=UCsUj0dszADCGbF3gNrQEuSQ|title=YouTube}}
+| {{youtube|c=UCO_aKKYxn4tvrqPjcTzZ6EQ|title=YouTube}}
+| {{youtube|c=UCmbs8T6MWqUHP1tIQvSgKrg|title=YouTube}}
+| {{youtube|c=UC3n5uGu18FoCy23ggWWp8tA|title=YouTube}}
+| {{youtube|c=UCgmPnx-EEeOrZSg5Tiw7ZRQ|title=YouTube}}
+|-
+| {{twitter|tsukumosana|name=Twitter}}
+| {{twitter|ceresfauna|name=Twitter}}
+| {{twitter|ourokronii|name=Twitter}}
+| {{twitter|nanashimumei_en|name=Twitter}}
+| {{twitter|hakosbaelz|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== [https://rbc-geino.com/ 岩本町芸能社] ===
+{| class="wikitable" style="width:40%; margin:auto" align="center"
+! 白藤環&amp;鈴木あんず&amp;夏目ハル&amp;日向奈央&amp;栗原桜子
+! 馬越健太郎
+|-
+| {{youtube|c=UCFI81W9F49a7GvimKF905eQ|title=えのぐ}}
+| {{youtube|c=UC2jBqh7fCEPuTdpwKmxHvjA|title=YouTube}}
+|-
+| {{twitter|erimakitamaki|name=白藤環Twitter}}&lt;br&gt;{{twitter|anzu15_225|name=鈴木あんずTwitter}}&lt;br&gt;{{twitter|haru_neee|name=夏目ハルTwitter}}&lt;br&gt;{{twitter|hinao_23ku|name=日向奈央Twitter}}&lt;br&gt;{{twitter|rako_29|name=栗原桜子Twitter}}
+| {{twitter|umakoshi_dream|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+=== Brave Group ===
+{| class="wikitable" style="width:40%; margin:auto" align="center"
+! 夢咲楓&amp;風見涼&amp;桜樹みりあ&amp;道明寺晴翔&lt;br&gt;[[ゲーム部プロジェクト]]
+! 道明寺ここあ&lt;br&gt;{{color|green||道明寺晴翔關聯者、非成員}}&lt;br&gt;(2018年7月30日出道)
+|-
+| {{youtube|c=UC2ZVDmnoZAOdLt7kI7Uaqog|title=ゲーム部プロジェクト}}&lt;br&gt;{{youtube|c=UC6CuTSjMv4iGhuyk8dRtoWw|title=非官方簡中字幕組(已授權)}}
+| {{youtube|c=UCCebk1_w5oiMUTRxdNJq0sA|title=YouTube}}
+|-
+| {{twitter|Kaede_gamebu|name=夢咲楓Twitter}}&lt;br&gt;{{twitter|Ryo_gamebu|name=風見涼Twitter}}&lt;br&gt;{{twitter|Miria_gamebu|name=桜樹みりあTwitter}}&lt;br&gt;{{twitter|Haruto_gamebu|name=道明寺晴翔Twitter}}
+| {{twitter|kokoa_domyoji|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== [http://nijisanji.ichikara.co.jp/ にじさんじ] ===
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! [[月ノ美兎]]&lt;br&gt;(2018年2月7日出道)
+! [[静凛]]&lt;br&gt;(2018年2月8日出道)
+! [[樋口楓]]&lt;br&gt;(2018年2月5日出道)
+! [[エルフのえる]]&lt;br&gt;(2018年2月9日出道)
+! 
+|-
+| {{youtube|c=UCD-miitqNY3nyukJ4Fnf4_A|title=YouTube}}
+| {{youtube|c=UC6oDys1BGgBsIC3WhG1BovQ|title=YouTube}}
+| {{youtube|c=UCsg-YqdqQ-KFF0LNk23BY4A|title=YouTube}}
+| {{youtube|c=UCYKP16oMX9KKPbrNgo_Kgag|title=YouTube}}
+| 
+|-
+| {{twitter|MitoTsukino|name=Twitter}}
+| {{twitter|ShizuRin23|name=Twitter}}
+| {{twitter|HiguchiKaede|name=Twitter}}
+| {{twitter|Elu_World|name=Twitter}}
+| 
+|-
+! モイラ&lt;br&gt;(2018年2月9日出道)
+! 渋谷ハジメ&lt;br&gt;(2018年2月9日出道)
+! 鈴谷アキ&lt;br&gt;(2018年2月8日出道)
+! 勇気ちひろ&lt;br&gt;(2018年2月8日出道)
+! 
+|-
+| {{youtube|c=UCvmppcdYf4HOv-tFQhHHJMA|title=YouTube}}
+| {{youtube|c=UCeK9HFcRZoTrvqcUCtccMoQ|title=YouTube}}
+| {{youtube|c=UCt9qik4Z-_J-rj3bKKQCeHg|title=YouTube}}
+| {{youtube|c=UCLO9QDxVL4bnvRRsz6K4bsQ|title=YouTube}}
+| 
+|-
+| {{twitter|moiramoimoimoi|name=Twitter}}
+| {{twitter|sibuya_hajime|name=Twitter}}
+| {{twitter|aki_suzuya|name=Twitter}}
+| [https://mobile.twitter.com/Chihiro_yuki23 Twitter]
+| 
+|-
+! 剣持刀也&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月5日出道)
+! 伏見ガク&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月5日出道)
+! 夕陽リリ&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月5日出道)
+! 物述有栖&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月5日出道)
+! 家長むぎ&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月5日出道)
+|-
+| {{youtube|c=UCv1fFr156jc65EMiLbaLImw|title=YouTube}}
+| {{youtube|c=UCXU7YYxy_iQd3ulXyO-zC2w|title=YouTube}}
+| {{youtube|c=UC48jH1ul-6HOrcSSfoR02fQ|title=YouTube}}
+| {{youtube|c=UCt0clH12Xk1-Ej5PXKGfdPA|title=YouTube}}
+| {{youtube|c=UC_GCs6GARLxEHxy1w40d6VQ|title=YouTube}}
+|-
+| {{twitter|rei_Toya_rei|name=Twitter}}
+| {{twitter|gaku_fushimi|name=Twitter}}
+| {{twitter|Yuuhi_Riri|name=Twitter}}
+| {{twitter|AliceMononobe|name=Twitter}}
+| {{twitter|ienaga_mugi23|name=Twitter}}
+|-
+! 森中花咲&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月14日出道)
+! 宇志海いちご&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月9日出道)
+! 鈴鹿詩子&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月6日出道)
+! 文野環&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月8日出道)
+! ギルザレンⅢ世&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年3月6日出道)
+|-
+| {{youtube|c=UCtpB6Bvhs1Um93ziEDACQ8g|title=YouTube}}
+| {{youtube|c=UCmUjjW5zF1MMOhYUwwwQv9Q|title=YouTube}}
+| {{youtube|c=UCwokZsOK_uEre70XayaFnzA|title=YouTube}}
+| {{youtube|c=UCBiqkFJljoxAj10SoP2w2Cg|title=YouTube}}
+| {{youtube|c=UCUzJ90o1EjqUbk2pBAy0_aw|title=YouTube}}
+|-
+| {{twitter|kazakimorinaka|name=Twitter}}
+| {{twitter|ushimi_ichigo|name=Twitter}}
+| {{twitter|suzukautako|name=Twitter}}
+| {{twitter|nekokan_chu|name=Twitter}}
+| {{twitter|Gilzaren_III|name=Twitter}}
+|-
+! 赤羽葉子&lt;br&gt;{{color|green||Gamers}}&lt;br&gt;(2018年5月19日出道)
+! 叶&lt;br&gt;{{color|green||Gamers}}&lt;br&gt;(2018年5月2日出道)
+! 笹木咲&lt;br&gt;{{color|green||Gamers}}&lt;br&gt;(2018年7月7日出道)
+! 闇夜乃モルル&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;{{color|green||Gamers}}&lt;br&gt;(2018年7月12日出道)
+! 本間ひまわり&lt;br&gt;{{color|green||Gamers}}&lt;br&gt;(2018年7月11日出道)
+|-
+| {{youtube|c=UCBi8YaVyZpiKWN3_Z0dCTfQ|title=YouTube}}
+| {{youtube|c=UCspv01oxUFf_MTSipURRhkA|title=YouTube}}
+| {{youtube|c=UCoztvTULBYd3WmStqYeoHcA|title=YouTube}}
+| {{youtube|c=UCNUgrFCo2Hr_VXc9bEwjcHQ|title=YouTube}}
+| {{youtube|c=UC0g1AE0DOjBYnLhkgoRWN1w|title=YouTube}}
+|-
+| {{twitter|Youko_Akabane|name=Twitter}}
+| {{twitter|Kanae_2434|name=Twitter}}
+| {{twitter|saku_sasaki|name=Twitter}}
+| {{twitter|_rnrrdark|name=Twitter}}
+| {{twitter|honmahimawari|name=Twitter}}
+|-
+! 魔界ノりりむ&lt;br&gt;{{color|green||Gamers}}&lt;br&gt;(2018年8月2日出道)
+! 葛葉&lt;br&gt;{{color|green||Gamers}}&lt;br&gt;(2018年7月30日再出道)
+! 雪汝&lt;br&gt;{{color|green||Gamers}}&lt;br&gt;(2018年7月31日出道)
+! 椎名唯華&lt;br&gt;{{color|green||Gamers}}&lt;br&gt;(2018年8月1日出道)
+! 
+|-
+| {{youtube|c=UC9EjSJ8pvxtvPdxLOElv73w|title=YouTube}}
+| {{youtube|c=UCSFCh5NL4qXrAy9u-u2lX3g|title=YouTube}}
+| {{youtube|c=UCfM_A7lE6LkGrzx6_mOtI4g|title=YouTube}}
+| {{youtube|c=UC_4tXjqecqox5Uc05ncxpxg|title=YouTube}}
+|
+|-
+| {{twitter|makaino_ririmu|name=Twitter}}
+| [https://twitter.com/Vamp_Kuzu/ Twitter]
+| {{twitter|setsuna2434|name=Twitter}}
+| {{twitter|yuika_siina|name=Twitter}}
+|
+|-
+! シスター・クレア&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月4日出道)
+! 安土桃&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月15日出道)
+! 八朔ゆず&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月6日出道)
+! 海夜叉神&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月4日出道)
+! 社築&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月6日出道)
+|-
+| {{youtube|c=UC1zFJrfEKvCixhsjNSb1toQ|title=YouTube}}
+| {{youtube|c=UC6TfqY40Xt1Y0J-N18c85qQ|title=YouTube}}
+| {{youtube|c=UCFaDvgez8USXHiKidt0NtZg|title=YouTube}}
+| {{youtube|c=UCqEp6RdtsMbUNrCdCswr6pA|title=YouTube}}
+| {{youtube|c=UCKMYISTJAQ8xTplUPHiABlA|title=YouTube}}
+|-
+| {{twitter|SisterCleaire|name=Twitter}}
+| {{twitter|momo_aduchi|name=Twitter}}
+| {{twitter|839yuzu|name=Twitter}}
+| {{twitter|god_yaksa23|name=Twitter}}
+| {{twitter|846kizuQ|name=Twitter}}
+|-
+! 緑仙&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月8日出道)
+! 名伽尾アズマ&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月5日出道)
+! 轟京子&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月6日出道)
+! 卯月コウ&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月6日出道)
+! 出雲霞&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年6月5日出道)
+|-
+| {{youtube|c=UCt5-0i4AVHXaWJrL8Wql3mw|title=YouTube}}
+| {{youtube|c=UCks41vQN-hN-1KHmpZyPY3A|title=YouTube}}
+| {{youtube|c=UCRV9d6YCYIMUszK-83TwxVA|title=YouTube}}
+| {{youtube|c=UC3lNFeJiTq6L3UWoz4g1e-A|title=YouTube}}
+| {{youtube|c=UCLpYMk5h1bq8_GAFVBgXhPQ|title=YouTube}}
+|-
+| {{twitter|midori_2434|name=Twitter}}
+| {{twitter|azuma_dazo|name=Twitter}}
+| {{twitter|KT_seeds|name=Twitter}}
+| {{twitter|udukikohh|name=Twitter}}
+| {{twitter|ikasumi_zzz|name=Twitter}}
+|-
+! 鈴木勝&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月8日出道)
+! ドーラ&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月7日出道)
+! 花畑チャイカ&lt;br&gt;{{color|green||SEEDs一期生}}&lt;br&gt;(2018年6月14日出道)
+! 
+!
+|-
+| {{youtube|c=UCaF-mODqAziHivqg0Q61XKQ|title=YouTube}}
+| {{youtube|c=UC53UDnhAAYwvNO7j_2Ju1cQ|title=YouTube}}
+| {{youtube|c=UCsFn_ueskBkMCEyzCEqAOvg|title=YouTube}}
+|
+|
+|-
+| {{twitter|Darkness_Eater|name=Twitter}}
+| {{twitter|___Dola|name=Twitter}}
+| {{twitter|ZulmIhP1nlMOT5y|name=Twitter}}
+|
+|
+|-
+! 春崎エアル&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年6月13日出道)
+! 神田笑一&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年8月9日出道)
+! 雨森小夜&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年8月12日出道)
+! 鳴門こがね&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年8月9日出道)
+! 鷹宮リオン&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年8月9日出道)
+|-
+| {{youtube|c=UCtAvQ5U0aXyKwm2i4GqFgJg|title=YouTube}}
+| {{youtube|c=UCWz0CSYCxf4MhRKPDm220AQ|title=YouTube}}
+| {{youtube|c=UCRWOdwLRsenx2jLaiCAIU4A|title=YouTube}}
+| {{youtube|c=UCF1JdALrXgub24weQpqDy9Q|title=YouTube}}
+| {{youtube|c=UCV5ZZlLjk5MKGg3L0n0vbzw|title=YouTube}}
+|-
+| {{twitter|harusakiair2434|name=Twitter}}
+| {{twitter|Kanda_Shoichi|name=Twitter}}
+| {{twitter|Sayo_Amemori|name=Twitter}}
+| {{twitter|nArUtO_kOgAnE|name=Twitter}}
+| {{twitter|TakamiyaRion|name=Twitter}}
+|-
+! 飛鳥ひな&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年8月12日出道)
+! 舞元啓介&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年8月11日出道)
+! 竜胆尊&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年8月31日出道)
+! でびでび・でびる&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年8月31日出道)
+! 桜凛月&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年8月31日出道)
+|-
+| {{youtube|c=UCiSRx1a2k-0tOg-fs6gAolQ|title=YouTube}}
+| {{youtube|c=UCJubINhCcFXlsBwnHp0wl_g|title=YouTube}}
+| {{youtube|c=UCPvGypSgfDkVe7JG2KygK7A|title=YouTube}}
+| {{youtube|c=UCP19rQ5V-46B-6ZeLDJqp5w|title=YouTube}}
+| {{youtube|c=UCfQVs_KuXeNAlGa3fb8rlnQ|title=YouTube}}
+|-
+| {{twitter|hina__asuka|name=Twitter}}
+| {{twitter|maimoto_k|name=Twitter}}
+| {{twitter|RindouMikoto|name=Twitter}}
+| {{twitter|debidebiru_sama|name=Twitter}}
+| {{twitter|SAKURA_RITSUKI|name=Twitter}}
+|-
+! 町田ちま&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年9月4日出道)
+! 月見しずく&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月4日出道)
+! ジョー・力一&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年9月4日出道)
+! 遠北千南&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月1日出道)
+! 成瀬鳴&lt;br&gt;{{color|green||VOIZ}}&lt;br&gt;(2018年7月8日出道)
+|-
+| {{youtube|c=UCo7TRj3cS-f_1D9ZDmuTsjw|title=YouTube}}
+| {{youtube|c=UCqQV8xEBWd5SVZBLlYrS_5Q|title=YouTube}}
+| {{youtube|c=UChUJbHiTVeGrSkTdBzVfNCQ|title=YouTube}}
+| {{youtube|c=UCuz0vzQgC8LRdS6lVV0UkUg|title=YouTube}}
+| {{youtube|c=UCoM_XmK45j504hfUWvN06Qg|title=YouTube}}
+|-
+| {{twitter|chima_machita23|name=Twitter}}
+| {{twitter|tukimi_sizuku|name=Twitter}}
+| {{twitter|JoeRikiichi|name=Twitter}}
+| {{twitter|ac1kt|name=Twitter}}
+| {{twitter|narusenaru_voiz|name=Twitter}}
+|-
+! 夢追翔&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年9月25日出道)
+! 黒井しば&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年9月26日出道)
+! 矢車りね&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年9月26日出道)
+! ベルモンド・バンデラス&lt;br&gt;{{color|green||SEEDs二期生}}&lt;br&gt;(2018年9月26日出道)
+! 
+|-
+| {{youtube|c=UCTIE7LM5X15NVugV7Krp9Hw|title=YouTube}}
+| {{youtube|c=UCmeyo5pRj_6PXG-CsGUuWWg|title=YouTube}}
+| {{youtube|c=UCvzVB-EYuHFXHZrObB8a_Og|title=YouTube}}
+| {{youtube|c=UCbc8fwhdUNlqi-J99ISYu4A|title=YouTube}}
+| 
+|-
+| {{twitter|kakeru_yumeoi|name=Twitter}}
+| {{twitter|BlackShiba_chan|name=Twitter}}
+| {{twitter|rine_yaguruma|name=Twitter}}
+| {{twitter|belmond_b_2434|name=Twitter}}
+|
+|-
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== VEgo ===
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! 糜粉棠&lt;br&gt;{{color|green||二次三次臺灣}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月21日出道)
+! 霞露凛&lt;br&gt;{{color|green||二次三次臺灣}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月25日出道)
+! 黛樂琪&lt;br&gt;{{color|green||二次三次臺灣}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月21日出道)
+! 塔綾絲&lt;br&gt;{{color|green||二次三次臺灣}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月29日出道)
+! 
+|-
+| {{youtube|c=UCL131JIlSzydlXwPEI_Ob7Q|title=YouTube}}
+| {{youtube|c=UCYDHWR7KNS_oyWMDhD7oeUg|title=YouTube}}
+| {{youtube|c=UC2BjlkHDiWwkQ1rxFjlooyw|title=YouTube}}
+| {{youtube|c=UCUAtAMbbUuaXkX_NVwth1WQ|title=YouTube}}
+|
+|-
+| [https://www.facebook.com/mifentan23 Facebook]&lt;br&gt;{{twitter|mifentan23|name=Twitter}}
+| [https://www.facebook.com/siarurin Facebook]&lt;br&gt;{{twitter|siarurin|name=Twitter}}
+| [https://www.facebook.com/Dailechi23 Facebook]&lt;br&gt;{{twitter|Dailechi23|name=Twitter}}
+| [https://www.facebook.com/Talency2434 Facebook]&lt;br&gt;{{twitter|Talency2434|name=Twitter}}
+|
+|-
+! 濛濛&lt;br&gt;{{color|green||二次三次臺灣}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月26日出道)
+! 小早川奈奈&lt;br&gt;{{color|green||二次三次臺灣}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月30日出道)
+! 艾特勒斯&lt;br&gt;{{color|green||二次三次臺灣}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月27日出道)
+! 陳框框&lt;br&gt;{{color|green||二次三次臺灣}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月22日出道)
+!
+|-
+| {{youtube|c=UCcYK-t2eBsvXfjw6RlmJisQ|title=YouTube}}
+| {{youtube|c=UCyxRYmzSSQF4qxohIpCrtiA|title=YouTube}}
+| {{youtube|c=UC1DvoJj7A6OVaEBHC-uglOA|title=YouTube}}
+| {{youtube|c=UCaJS8ka3_bUheHo_4tB8bIg|title=YouTube}}
+| 
+|-
+| [https://www.facebook.com/monmon2434 Facebook]&lt;br&gt;{{twitter|monmon2434|name=Twitter}}
+| [https://www.facebook.com/kobayakawanana Facebook]
+| [https://www.facebook.com/Atles2434 Facebook]&lt;br&gt;{{twitter|Atles2434|name=Twitter}}
+| [https://www.facebook.com/KuangKuang23 Facebook]&lt;br&gt;{{twitter|KuangKuang23|name=Twitter}}
+|
+|-
+! 洛源安&lt;br&gt;{{color|green||二次三次上海}}&lt;br&gt;(尚未投稿)
+! 纓偶&lt;br&gt;{{color|green||二次三次上海}}&lt;br&gt;(尚未投稿)
+! 山小狸&lt;br&gt;{{color|green||二次三次上海}}&lt;br&gt;(尚未投稿)
+! 安琪&lt;br&gt;{{color|green||二次三次上海}}&lt;br&gt;(尚未投稿)
+!
+|-
+| 
+| 
+| 
+|
+|
+|-
+| [https://www.weibo.com/u/6650624160 微博]
+| [https://www.weibo.com/u/6643266891 微博]
+| [https://www.weibo.com/u/6643338066 微博]
+| [https://www.weibo.com/u/6642507547 微博]
+|
+|-
+! 安琪&lt;br&gt;{{color|green||二次三次上海}}&lt;br&gt;(尚未投稿)
+! 塞塔尼亞&lt;br&gt;{{color|green||二次三次上海}}&lt;br&gt;(尚未投稿)
+! 梵項青&lt;br&gt;{{color|green||二次三次上海}}&lt;br&gt;(尚未投稿)
+! 宫下真梨子&lt;br&gt;{{color|green||二次三次上海}}&lt;br&gt;(尚未投稿)
+!
+|-
+| 
+| 
+| 
+| 
+|
+|-
+| [https://www.weibo.com/u/6643235998 微博]
+| [https://www.weibo.com/u/6642496876 微博]
+| [https://www.weibo.com/u/6642480121 微博]
+| [https://www.weibo.com/u/6643884375 微博]
+|
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== [https://774.ai/ 774 inc.] ===
+==== 有閑喫茶あにまーれ ====
+{| class="wikitable" style="width:80%; margin:auto" align="center"
+! 因幡はねる&lt;br&gt;(2018年6月9日出道)
+! 宇森ひなこ&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年6月9日出道)
+! 宗谷いちか&lt;br&gt;(2018年6月9日出道)
+! 稲荷くろむ&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年6月9日出道)
+! 日ノ隈らん&lt;br&gt;(2018年6月9日出道)
+! 黒猫ななし&lt;br&gt;{{color|green||公式推特經營者}}&lt;br&gt;&lt;s&gt;所謂「傳說的第6人」&lt;/s&gt;
+|-
+| {{youtube|c=UC0Owc36U9lOyi9Gx9Ic-4qg|title=YouTube}}
+| {{youtube|c=UChqYnJlFxlBi6DfRz6jRenQ|title=YouTube}}
+| {{youtube|c=UC2kyQhzGOB-JPgcQX9OMgEw|title=YouTube}}
+| {{youtube|c=UCGiFzwdasSAHILrx-DB1pVQ|title=YouTube}}
+| {{youtube|c=UCRvpMpzAXBRKJQuk-8-Sdvg|title=YouTube}}
+|
+|-
+| {{twitter|Haneru_Inaba|name=Twitter}}
+| {{twitter|hinako_umori|name=Twitter}}
+| {{twitter|ichika_souya|name=Twitter}}
+| {{twitter|Kuromu_Inari|name=Twitter}}
+| {{twitter|ran_hinokuma|name=Twitter}}
+| {{twitter|animare_cafe|name=Twitter}}
+|-
+! 風見くく&lt;br&gt;(2020年2月22日出道)
+! 柚原いづみ&lt;br&gt;(2020年2月22日出道)
+! 灰原あかね&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2020年4月25日出道)
+! 白宮みみ&lt;br&gt;(2020年4月25日出道)
+! ​羽柴なつみ&lt;br&gt;(2020年4月25日出道)
+!
+|-
+| {{youtube|c=UCXp7sNC0F_qkjickvlYkg-Q|title=YouTube}}
+| {{youtube|c=UCW8WKciBixmaqaGqrlTITRQ|title=YouTube}}
+| {{youtube|c=UCOgONfZgrG2g0jntQKa6cDw|title=YouTube}}
+| {{youtube|c=UCtzCQnCT9E4o6U3mHHSHbQQ|title=YouTube}}
+| {{youtube|c=UC_BlXOQe5OcRC7o0GX8kp8A|title=YouTube}}
+|
+|-
+| {{twitter|kuku_kazami|name=Twitter}}
+| {{twitter|Izumi_Yunohara|name=Twitter}}
+| {{twitter|Akane_Haibara|name=Twitter}}
+| {{twitter|shiromiya_mimi|name=Twitter}}
+| {{twitter|Natsumi_Hashiba|name=Twitter}}
+|
+|}
+&lt;br&gt;&lt;br&gt;
+
+==== Honey Strap ====
+{| class="wikitable" style="width:80%; margin:auto" align="center"
+! 周防パトラ&lt;br&gt;(2018年7月13日出道)
+! 西園寺メアリ&lt;br&gt;(2018年7月11日出道)
+! 蒼月エリ&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年7月14日出道)
+! 堰代ミコ&lt;br&gt;(2018年7月15日出道)
+! 島村シャルロット&lt;br&gt;(2018年7月14日出道)
+! 灰猫ななし&lt;br&gt;{{color|green||公式推特經營者}}&lt;br&gt;&lt;s&gt;和黒猫ななし根本就是同個人&lt;/s&gt;
+|-
+| {{youtube|c=UCeLzT-7b2PBcunJplmWtoDg|title=YouTube}}
+| {{youtube|c=UCwePpiw1ocZRSNSkpKvVISw|title=YouTube}}
+| {{youtube|c=UC3UKMRQmBcjXWu66cvxcngA|title=YouTube}}
+| {{youtube|c=UCDh2bWI5EDu7PavqwICkVpA|title=YouTube}}
+| {{youtube|c=UCYTz3uIgwVY3ZU-IQJS8r3A|title=YouTube}}
+|
+|-
+| {{twitter|Patra_HNST|name=Twitter}}
+| {{twitter|Mary_HNST|name=Twitter}}
+| {{twitter|Eli_HNST|name=Twitter}}
+| {{twitter|Mico_HNST|name=Twitter}}
+| {{twitter|Charlotte_HNST|name=Twitter}}
+| {{twitter|HNST_official|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== [https://project-amaryllis.com/ アマリリス組] ===
+{| class="wikitable" style="width:60%; margin:auto" align="center"
+! 由持もに&lt;br&gt;(2018年4月30日出道)
+! 雛瀬さくら&lt;br&gt;(2018年4月30日出道)
+! 四ツ辻まよい&lt;br&gt;(2018年4月30日出道)
+! 皇牙サキ&lt;br&gt;(2018年5月1日出道)
+|-
+| {{youtube|c=UCup2TSNKxDM_SNCF9xuXSNg|title=YouTube}}
+| {{youtube|c=UC87CjwiJ7_SRvuxQMQ-q-6w|title=YouTube}}
+| {{youtube|c=UCVqIgBYypTt9OuOC-3dyjMA|title=YouTube}}
+| {{youtube|c=UC_4SADjnjt22NO-fTFN6prQ|title=YouTube}}
+|-
+| {{twitter|moni_yoshimochi|name=Twitter}}
+| {{twitter|sakura_Amls|name=Twitter}}
+| {{twitter|mayoi_4224|name=Twitter}}
+| {{twitter|saki_Amls|name=Twitter}}
+|-
+! ルル・ルチカ&lt;br&gt;(2018年5月3日出道)
+! みるくぷりん&lt;br&gt;(2018年4月29日出道)
+! 理原ひなり&lt;br&gt;(2018年4月29日出道)
+! 
+|-
+| {{youtube|c=UCtj391Z3PBxq2MKq0b1-dxw|title=YouTube}}
+| {{youtube|c=UCG5SwlKhp3DlfTJ8BD5Dl6Q|title=YouTube}}
+| {{youtube|c=UCZF1cUKuWlvo_wn--s-21kw|title=YouTube}}
+| 
+|-
+| {{twitter|lull_luzyca|name=Twitter}}
+| {{twitter|milk_Amls|name=Twitter}}
+| {{twitter|hinari_Amls|name=Twitter}}
+| 
+|-
+! 姫野裕子&lt;br&gt;{{color|red||已停止活動}}
+! 姚玲蘭&lt;br&gt;{{color|red||已停止活動}}
+! 高城魔紀奈&lt;br&gt;{{color|red||已停止活動}}
+! ルリカ・レインウォーター&lt;br&gt;{{color|red||已停止活動}}
+|-
+| 
+| 
+| 
+| 
+|-
+| {{twitter|yuko_Amls|name=Twitter}}
+| {{twitter|reiran_Amls|name=Twitter}}
+| {{twitter|makina_Amls|name=Twitter}}
+| {{twitter|ruri_Amls|name=Twitter}}
+|-
+| colspan="4" | サークルみらん這個團體'''本身'''已於2018年9月28日解散，原成員將繼續以個人勢的身分進行活動
+|}
+&lt;br&gt;&lt;br&gt;
+
+===CyberAgent相關===
+==== [https://cyberv.co.jp　株式会社Cygames&amp;CyberV] ====
+{| class="wikitable" style="width:40%; margin:auto" align="center"
+! [[アズマリム]]&lt;br&gt;(2018年3月1日出道)
+! ゴールドシップ&lt;br&gt;(2018年3月25日出道)
+! 一颯れむ&lt;br&gt;{{color|red||已停止活動?}}&lt;br&gt;(2018年7月4日出道)
+! 流石乃ルキ・流石乃ロキ&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年10月12日出道)
+! 秋津ミツバ &lt;br&gt;{{color|red||已停止活動?}}&lt;br&gt;(2018年10月21日出道)
+|-
+| {{youtube|c=UCARI2g7r-PHaxrIcAYsMfmA|title=YouTube}}
+| {{youtube|c=UCAWxPGGuIfWME2KTLUmSCHw|title=YouTube}}
+| {{youtube|c=UCmaAwCO0zr8NEirwPsFBw6w|title=YouTube}}
+| {{youtube|c=UCf3DHSmd2DhZcoq2gwYXCIA|title=YouTube}}
+|{{youtube|c=UCKFkfyLMNhDzaNJPhOYNCbA|title=YouTube}}
+
+|-
+| {{twitter|azuma_lim|name=Twitter}}
+| {{twitter|pakatube|name=Twitter}}
+| {{twitter|ibuki_rem|name=Twitter}}
+| {{twitter|rukiroki_ch|name=Twitter}}
+| {{twitter|akitsumitsuba|name=Twitter}}
+
+|-
+| colspan="5" | CyberV已於2020年9月18日解散，Azulim 將繼續以個人勢的身分進行活動
+
+|}
+&lt;br&gt;&lt;br&gt;
+==== 星空学園 ====
+{| class="wikitable" style="width:40%; margin:auto" align="center"
+! かんな&lt;br&gt;(2018年7月2日出道)
+! おこめ&lt;br&gt;(2018年7月31日出道)
+! シシ&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年7月28日出道)
+|-
+| {{youtube|c=UCfFhyViosklD4kvyO-M0BJA|title=YouTube}}
+| {{youtube|c=UCIqfGSGcz_q7zkZYlmU04GQ|title=YouTube}}
+| {{youtube|c=UCo5uTjnUikW0giyrKOIrOQA|title=YouTube}}
+|-
+| {{twitter|h_kanna_channel|name=Twitter}}
+| {{twitter|a_okome_channel|name=Twitter}}
+| {{twitter|n_sisi_channel|name=Twitter}}
+|-
+| colspan="4" | 星空学園這個團體'''本身'''已於2019年3月20日解散，原成員將繼續以個人勢的身分進行活動
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== [https://le.wrightflyer.net/ 株式会社Wright Flyer Live Entertainment] ===
+{| class="wikitable" style="width:50%; margin:auto" align="center"
+! リタ&lt;br&gt;{{color|green||KMNZ成員}}&lt;br&gt;(2018年5月25日出道)
+! リズ&lt;br&gt;{{color|green||KMNZ成員}}&lt;br&gt;(2018年6月12日出道)
+! すーぱーそに子&lt;br&gt;{{color|green||ニトロプラス人物}}&lt;br&gt;(2018年6月29日出道)
+! いそら真実&lt;br&gt;{{color|green||REALITY公式Vtuber}}&lt;br&gt;(2018年8月7日配信開始)
+|-
+| {{youtube|c=UCwuS0uY-Z2Gr_5OV2oFybFA|title=YouTube}}
+| {{youtube|c=UCRMpIxnySp7Fy5SbZ8dBv2w|title=YouTube}}
+| [https://www.youtube.com/channel/UCfxUC1e8kStZYNNc7xQuxag/ YouTube]
+| {{youtube|c=UCK72PAXy0T6v49CDgLzzOIQ|title=YouTube}}
+|-
+| {{twitter|kmnzlita|name=Twitter}}
+| {{twitter|kmnzliz|name=Twitter}}
+| {{twitter|sonico_macaron|name=Twitter}}
+| {{twitter|_Isoramanami|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+===アニプレックス×Wright Flyer Live Entertainment===
+{| class="wikitable" style="width:40%; margin:auto" align="center"
+! なちょこ (2019年3月3日出道)
+! [[りんくろー事務所]] (2019年3月16日出道)
+|-
+| {{youtube|c=UC9ad82fASVVMQLsJbshxdfA|title=なちょこ}}
+| {{youtube|c=UC4-WRIzLBr63JO2cttawxdQ|title=りんくろー事務所}}
+|-
+| {{twitter|nachoco_arbeit|name=Twitter}}
+| {{twitter|Rinkulo_Works|name=Twitter}}
+|}
+* 順便一提，兩位[[中の人|中之人]]是皆是[[阿澄佳奈|知名]][[鈴村健一|聲優]]
+&lt;br&gt;&lt;br&gt;
+
+=== 株式会社ドワンゴ ===
+{| class="wikitable" style="width:40%; margin:auto" align="center"
+! アメノセイ&lt;br&gt;(2018年7月14日出道)
+! キャサリン・ワード&lt;br&gt;(2018年8月2日出道)
+! 燦鳥ノム&lt;br&gt;(2018年8月17日出道)
+|-
+| {{youtube|c=UCKgndddKiQGIn0-T8jHzndg|title=YouTube}}
+| {{youtube|c=UChT4jRjRUhFSrDT6fjzsHFw|title=YouTube}}
+| {{youtube|c=UCwRKt_raV3N5KZgxcFyC1vw|title=YouTube}}
+|-
+| {{twitter|ame_no_sei|name=Twitter}}
+| {{twitter|strk_tenshi|name=殺戮の天使公式Twitter}}
+| {{twitter|suntory_nomu|name=Twitter}}&lt;br&gt;[https://www.suntory.co.jp/enjoy/socialmedia/nomu/ SUNTORY介紹頁面]
+|}
+&lt;br&gt;&lt;br&gt;
+=== MateReal株式会社 ===
+{| class="wikitable" style="width:40%; margin:auto" align="center"
+! 暁月クララ&lt;br&gt;(2018年7月22日出道)
+! 七海ロナ&lt;br&gt;(2018年7月22日出道)
+! 遠坂ユラ&lt;br&gt;(2018年7月22日出道)
+|-
+| {{youtube|c=UC_cCW1xmXwRFp1tX-RD2X1Q|title=YouTube}}
+| {{youtube|c=UC_cCW1xmXwRFp1tX-RD2X1Q|title=YouTube}}
+| {{youtube|c=UC_cCW1xmXwRFp1tX-RD2X1Q|title=YouTube}}
+|-
+| {{twitter|akatsukiclara|name=Twitter}}&lt;br&gt;{{twitter|Alt_Vtuber|name=Alt!!公式Twitter}}
+| {{twitter|nanamirona|name=Twitter}}&lt;br&gt;{{twitter|Alt_Vtuber|name=Alt!!公式Twitter}}
+| {{twitter|tohsakayura|name=Twitter}}&lt;br&gt;{{twitter|Alt_Vtuber|name=Alt!!公式Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== ぶいめん(Vmen) ===
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! 天川アルト&lt;br&gt;(2018年5月2日出道)
+! 冒志乃らむ&lt;br&gt;(2018年8月2日出道)
+! 夕闇ルキア&lt;br&gt;(2018年5月13日出道)
+! 白真くま&lt;br&gt;(2018年8月2日出道)
+! 大河ユウ&lt;br&gt;(2018年8月4日出道)
+! 眠未ねる&lt;br&gt;(2018年8月3日出道)
+|-
+| {{youtube|c=UC9UzocR-pBvUx7P9owdlqJw|title=YouTube}}
+| {{youtube|c=UCqeY0fp1IBDJW58HwZBh1Lw|title=YouTube}}
+| {{youtube|c=UC5pQ407lVd4Rf0Y6GilXdwg|title=YouTube}}
+| {{youtube|c=UCwndlbPCkOTT9u03CKH9Kew|title=YouTube}}
+| {{youtube|c=UCtnWqAC7UxKlKSo2GSvxBJw|title=YouTube}}
+| {{youtube|c=UCcfEPfRcoJrBDmz_E3wHJuA|title=YouTube}}
+|-
+| {{twitter|amakawaalto|name=Twitter}}
+| {{twitter|okashinoram|name=Twitter}}
+| {{twitter|yuyamilukia|name=Twitter}}
+| {{twitter|shiromakumach|name=Twitter}}
+| {{twitter|taigayuu|name=Twitter}}
+| {{twitter|nemumineruch|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+=== [https://v-react.com/ Re:AcT] ===
+{| class="wikitable" style="width:60%; margin:auto" align="center"
+! 綺羅星ウタ&lt;br&gt;(2018年7月6日出道)
+! 鞍馬つむぎ&lt;br&gt;(2018年7月13日出道)
+! 雷輝アンタレス&lt;br&gt;(2018年7月20日出道)
+! 宇佐美ユノ&lt;br&gt;(2018年7月20日出道)
+|-
+| {{youtube|c=UCX2Sm8SGWTUOyCizgrzadXA|title=YouTube}}
+| {{youtube|c=UCdvYw1B1EaOZfgO7-Ir3ORQ|title=YouTube}}
+| {{youtube|c=UC6UwdMiDJfyjEipxJ66ceUg|title=YouTube}}
+| {{youtube|c=UCJQMHCFjVZOVRYafR6gY04Q|title=YouTube}}
+|-
+| {{twitter|uta_kirahoshi|name=Twitter}}
+| {{twitter|tsumugi_kurama|name=Twitter}}
+| {{twitter|antares_eleki|name=Twitter}}
+| {{twitter|yuno_usami|name=Twitter}}
+|-
+! 琴みゆり&lt;br&gt;(2018年7月6日出道)
+! 射貫まとい&lt;br&gt;(2018年7月6日出道)
+! 早乙女ぽえむ&lt;br&gt;(2018年7月13日出道)
+! 多々星シエル&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(尚未投稿)
+|-
+| {{youtube|c=UCBe_jjkUHhVNAj46bukAbJA|title=YouTube}}
+| {{youtube|c=UCFrH3bfn7gDeV29wrHHM80g|title=YouTube}}
+| {{youtube|c=UCY_2D7S_rTS9cxIGbSWF5nw|title=YouTube}}
+| {{youtube|c=UCM6ZAX8qPfCzEkKcGOFWPMw|title=YouTube}}
+|-
+| {{twitter|miyuri_koto|name=Twitter}}
+| {{twitter|matoi_inuki|name=Twitter}}
+| {{twitter|poemu_saotome|name=Twitter}}
+| {{twitter|Ciel_Tadase|name=Twitter}}
+|-
+! 丑牡てぃあ&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(尚未投稿)
+! 双理マイ&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(尚未投稿)
+! 花鋏キョウ&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年9月14日出道)
+! 獅子神レオナ&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2018年9月28日出道)
+|-
+| {{youtube|c=UCDPdK4ftX-GOWrWHtM4UMZw|title=YouTube}}
+| {{youtube|c=UCCvInijwD6Qg9xwdtYJcYtQ|title=YouTube}}
+| {{youtube|c=UC4OeUf_KfYRrwksschtRYow|title=YouTube}}
+| {{youtube|c=UCB1s_IdO-r0nUkY2mXeti-A|title=YouTube}}
+|-
+| {{twitter|Tia_Ushio|name=Twitter}}
+| {{twitter|Mai_Futari|name=Twitter}}
+| {{twitter|Kyo_Hanabasami|name=Twitter}}
+| {{twitter|LeonaShishigami|name=Twitter}}
+|-
+! 天秤はかり&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(尚未投稿)
+! 夜霧メイ&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(尚未投稿)
+! 水瓶ミア&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(尚未投稿)
+! 夢川かなう&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(尚未投稿)
+|-
+| {{youtube|c=UCBiJHt0WEb3GGayMyUz5QIQ|title=YouTube}}
+| {{youtube|c=UCmBrGHMM-fGSO1vDknaWlGA|title=YouTube}}
+| {{youtube|c=UCpPuEfqwYbpn7e2jWdQeWew|title=YouTube}}
+| {{youtube|c=UC8jskpQfW9fn2NLK3PdaGdg|title=YouTube}}
+|-
+| {{twitter|HakariTenbin|name=Twitter}}
+| {{twitter|Mei_Yagiri|name=Twitter}}
+| {{twitter|Mia_Mizugame|name=Twitter}}
+| {{twitter|Kanau_Yumekawa|name=Twitter}}
+|-
+! 折緒コウヤ&lt;br&gt;{{color|green||男性組SuiSay}}&lt;br&gt;(2018年7月11日出道)
+! 美影ルクス&lt;br&gt;{{color|green||男性組SuiSay}}&lt;br&gt;(2018年7月12日出道)
+! 星屑れん&lt;br&gt;{{color|green||男性組SuiSay}}&lt;br&gt;(2018年7月25日出道)
+! 湊音みなみ&lt;br&gt;{{color|green||SuiSay二期生}}&lt;br&gt;(尚未投稿)
+|-
+| {{youtube|c=UCFhuplEuBpOg107HHLIZtNw|title=YouTube}}
+| {{youtube|c=UCjt_30PZBEUn-UQLibB-AuA|title=YouTube}}
+| {{youtube|c=UCEmKIZezKaWL4ek4Lfj0eaw|title=YouTube}}
+| {{youtube|c=UCyTw66xE5YkeTL2YduA69QQ|title=YouTube}}
+|-
+| {{twitter|koya_orio|name=Twitter}}
+| {{twitter|lux_mikage|name=Twitter}}
+| {{twitter|len_hoshikuzu|name=Twitter}}
+| {{twitter|_MinatoMinami|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== [https://wink-s.com/ WINKS] ===
+{| class="wikitable" style="width:80%; margin:auto" align="center"
+! Jabberwocky Malice&lt;br&gt;(2018年6月13日出道)
+! ЮЛИАННА АЛЕКСАНДРОВНА&lt;br&gt;(2018年8月6日出道)
+! 陸婉瑩&lt;br&gt;(2018年6月18日出道)
+! Caroline Brown&lt;br&gt;(2018年8月1日出道)
+! 一恵&lt;br&gt;(2018年8月4日出道)
+! ダンDベア&lt;br&gt;(2018年8月19日出道)
+|-
+| {{youtube|c=UCyMFtAM6ojYfZakbRcRT3og|title=YouTube}}
+| {{youtube|c=UCd_06o9hbzTzOXUQ43Y7pHw|title=YouTube}}
+| {{youtube|c=UC0JVGxi9cVk1JW-JNgfVDXw|title=YouTube}}
+| {{youtube|c=UC8K0TkL9yRFDieq01ILMlQg|title=YouTube}}
+| {{youtube|c=UCIDgZkHr8bQCb1kNkd9zxJg|title=YouTube}}
+| {{youtube|c=UCig2jmt8TkHOveSRXGE7OLQ|title=YouTube}}
+|-
+| {{twitter|MaliceWocky|name=Twitter}}
+| {{twitter|yurianaalexand|name=Twitter}}
+| {{twitter|RikuEnei|name=Twitter}}
+| {{twitter|hatenawoman|name=Twitter}}
+| {{twitter|kazue_1E|name=Twitter}}
+| {{twitter|DandyBear_1E|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+=== [https://wara-shibe.com/ ワラシベ興業] ===
+{| class="wikitable" style="width:45%; margin:auto" align="center"
+! ポニテルン&lt;br&gt;(2018年7月6日出道)
+! ちゅうちぇる&lt;br&gt;(2018年7月8日出道)
+! スーパーファニー&lt;br&gt;(2018年7月7日出道)
+|-
+| {{youtube|c=UCXZCCCLb7z-gplKOFli8x8Q|title=YouTube}}
+| {{youtube|c=UC2x-sqF6Cih_hdZZD8jKALQ|title=YouTube}}
+| {{youtube|c=UCNL3hiMGj386zV2Zp3fsQYg|title=YouTube}}
+|-
+| {{twitter|poniterun_wrsb|name=Twitter}}
+| {{twitter|chucheru_wrsb|name=Twitter}}
+| {{twitter|funny_wrsb|name=Twitter}}
+|-
+! モーピィ&lt;br&gt;(2018年7月9日出道)
+! ブブーム&lt;br&gt;(2018年7月9日出道)
+! リトル・ズッカ&lt;br&gt;(2018年7月13日出道)
+|-
+| {{youtube|c=UCl1JCW-TMLnOgAIj5DOGglg|title=YouTube}}
+| {{youtube|c=UCidafy491s1sr1BYD_7yOpw|title=YouTube}}
+| {{youtube|c=UCASnsCXH6-XuZChxcezp3dQ|title=YouTube}}
+|-
+| {{twitter|mopy_wrsb|name=Twitter}}
+| {{twitter|vvuum_wrsb|name=Twitter}}
+| {{twitter|littlezu_wrsb|name=Twitter}}
+|-
+! ワズリー&lt;br&gt;(2018年7月9日出道)
+! デルービー&lt;br&gt;(2018年7月8日出道)
+! レンジル&lt;br&gt;(2018年7月8日出道)
+|-
+| {{youtube|c=UCZmdBGMtBGXXZhlMxt5K6FA|title=YouTube}}
+| {{youtube|c=UCszBKCYF4-By-GLTcZB6AVw|title=YouTube}}
+| {{youtube|c=UCaLX7hGXO3J5SALoEmr-6cw|title=YouTube}}
+|-
+| {{twitter|wazly_wrsb|name=Twitter}}
+| {{twitter|deruvi_wrsb|name=Twitter}}
+| {{twitter|renjiru_wrsb|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+=== [https://www.zig-inc.com/ 株式会社ZIG] ===
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! 天野ヒカリ&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(2018年7月7日出道)
+! 白咲ユノハ&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(2018年7月19日出道)
+! 紅谷リア&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(2018年7月26日出道)
+! 結心愛&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(2018年7月26日出道)
+! 柴山あずき&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(2018年8月15日出道)
+|-
+| {{youtube|c=UCVMD_K2OoIeoPAeavlha0_A|title=YouTube}}
+| {{youtube|c=UC5QMptQegIRiIFPma5z3wew|title=YouTube}}
+| {{youtube|c=UCRKtHhreDvM1VO8KFScnlWg|title=YouTube}}
+| {{youtube|c=UCjbj7_mhBQkzdFkhb_U-SRw|title=YouTube}}
+| {{youtube|c=UCaQWd2sDWGPCYp66CwPoSCg|title=YouTube}}
+|-
+| {{twitter|amanohikari_ch|name=Twitter}}
+| {{twitter|shiroyuno_ch|name=Twitter}}
+| {{twitter|kureya_ria|name=Twitter}}
+| {{twitter|musubi_kokoa|name=Twitter}}
+| {{twitter|shibayama_azuki|name=Twitter}}
+|-
+! 橘涼葉&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(尚未投稿)
+! 黒音うらら&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(2018年8月20日出道)
+! 華香院つばき&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(尚未投稿)
+! 羽宮のあ&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(尚未投稿)
+! 白魔女のパンドラ&lt;br&gt;{{color|green||女性組流星群}}&lt;br&gt;(尚未投稿)
+|-
+| {{youtube|c=UCLl6SoIaxp3cZQZ6g7jeMaA|title=YouTube}}
+| {{youtube|c=UCJWkvInYEeXbISGHSj6tNOA|title=YouTube}}
+| {{youtube|c=UCI-xaXiiRD_2l8qxQRIpeEw|title=YouTube}}
+| {{youtube|c=UCkxGPGlk9AZA58vvIuVRGog|title=YouTube}}
+| {{youtube|c=UCe9nP90-eiuXLmhhEkNbUDQ|title=YouTube}}
+|-
+| {{twitter|suzuhatachibana|name=Twitter}}
+| {{twitter|kurone_urara|name=Twitter}}
+| {{twitter|kakyoin_tsubaki|name=Twitter}}
+| {{twitter|hanemiya_noa|name=Twitter}}
+| {{twitter|Pandora_ryusei|name=Twitter}}
+|-
+! タシギアトリ&lt;br&gt;{{color|green||男性組黒の声約者}}&lt;br&gt;(2018年8月9日出道)
+! 有栖川シャロロ&lt;br&gt;{{color|green||男性組黒の声約者}}&lt;br&gt;(2018年8月13日出道)
+! 久宝雅&lt;br&gt;{{color|green||男性組黒の声約者}}&lt;br&gt;(2018年8月14日出道)
+! 春日井隼人&lt;br&gt;{{color|green||男性組黒の声約者}}&lt;br&gt;(2018年8月17日出道)
+! ウィル・ウィスタリア&lt;br&gt;{{color|green||男性組黒の声約者}}&lt;br&gt;(2018年8月20日出道)
+|-
+| {{youtube|c=UCqHg1f2_wX5G5Wm33ZUtAaw|title=YouTube}}
+| {{youtube|c=UCDdNc687SHzQmmz-pEIiGxQ|title=YouTube}}
+| {{youtube|c=UCSUZODUOZswcQ48drYTMAqw|title=YouTube}}
+| {{youtube|c=UCB8TgijpCQamZOUjPgnNz7g|title=YouTube}}
+| {{youtube|c=UCKxRcBNKIIYHmAfqm_xDKrg|title=YouTube}}
+|-
+| {{twitter|Tashigi_Atri|name=Twitter}}
+| {{twitter|AliceSharoro|name=Twitter}}
+| {{twitter|kuboh_miyabi|name=Twitter}}
+| {{twitter|Haruhito_ch|name=Twitter}}
+| {{twitter|WillWisteria|name=Twitter}}
+|-
+! シーク・ウィスタリア&lt;br&gt;{{color|green||男性組黒の声約者}}&lt;br&gt;(2018年8月20日出道)
+! 響屋じゃっく&lt;br&gt;{{color|green||男性組黒の声約者}}&lt;br&gt;(2018年8月20日出道)
+! 白金慎也&lt;br&gt;{{color|green||男性組黒の声約者}}&lt;br&gt;(2018年8月20日出道)
+! 四之宮 凛&lt;br&gt;{{color|green||男性組黒の声約者}}&lt;br&gt;(2018年8月20日出道)
+! 
+|-
+| {{youtube|c=UCxJ4tO9WsE8S2NZEeeZcboA|title=YouTube}}
+| {{youtube|c=UCeLjKhWegflSUa5oM3zlbSw|title=YouTube}}
+| {{youtube|c=UCSs1o8Ip97ZQfLKSaY4qkQw|title=YouTube}}
+| {{youtube|c=UCWUsOB6EcfgHEO57qqt0EFg|title=YouTube}}
+| 
+|-
+| {{twitter|Seek_Wisteria|name=Twitter}}
+| {{twitter|Otoya_jack|name=Twitter}}
+| {{twitter|ShiroganeShinya|name=Twitter}}
+| {{twitter|ShinomiyaRin|name=Twitter}}
+| 
+|}
+&lt;br&gt;&lt;br&gt;
+=== {{twitter|zooming_pro|name=ズーミング}} ===
+{| class="wikitable" style="width:80%; margin:auto" align="center"
+! 明石ラココ&lt;br&gt;(2018年7月1日出道)
+! 公門ヨシカ&lt;br&gt;(尚未投稿)
+! 飯田もえぎ&lt;br&gt;(2018年8月11日出道)
+! 角張ちぐさ&lt;br&gt;(尚未投稿)
+! 古城ぼたん&lt;br&gt;(尚未投稿)
+! 大上ウルシ&lt;br&gt;(2018年6月12日出道)
+! 日辻シラム&lt;br&gt;(2018年6月19日出道)
+! 丹波きさと(きさP)&lt;br&gt;{{color|green||公式人設擔當}}
+|-
+| {{youtube|c=UCICc5PVhIkfJQktfHMskcnA|title=YouTube}}
+| {{youtube|c=UCMZ6fvojVlOcDZ9T6XYBfiw|title=YouTube}}
+| {{youtube|c=UCnA8pnNTJdHCj5-uXlOuHYA|title=YouTube}}
+| {{youtube|c=UCoUBfidpNeQF37Cg1mVo8rg|title=YouTube}}
+| 
+| {{youtube|c=UCJfwISzYcX6DDIvvnfnmYxg|title=YouTube}}
+| {{youtube|c=UC0HTkfN9AmiOX-GelWypQbQ|title=YouTube}}
+| {{youtube|c=UCcYY0Ay2L0Vbqy4fthO1nMA|title=公式YouTube}}
+|-
+| {{twitter|rakoko_zmg|name=Twitter}}
+| {{twitter|yoshika_zmg|name=Twitter}}
+| {{twitter|moegi_zmg|name=Twitter}}
+| {{twitter|chigusa_zmg|name=Twitter}}
+| {{twitter|botan_zmg|name=Twitter}}
+| {{twitter|urushi_zmg|name=Twitter}}
+| {{twitter|shiramu_zmg|name=Twitter}}
+| {{twitter|kisaseekout|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+=== {{twitter|attec_v|name=V.Attec}} ===
+{| class="wikitable" style="width:80%; margin:auto" align="center"
+! "Lord"kowen&lt;br&gt;(2018年7月25日出道)
+! バショー・ク&lt;br&gt;(2018年8月3日出道)
+! 黒木憂&lt;br&gt;(尚未投稿)
+! 柏衣みゃ&lt;br&gt;(2018年6月30日出道)
+! ニドラゴラス&lt;br&gt;(2018年6月27日出道)
+! 加藤ミル&lt;br&gt;(2018年7月3日出道)
+|-
+| {{youtube|c=UC0Q2R59UNn1LhMQOoNZw1Dg|title=YouTube}}
+| {{youtube|c=UC208govtg4aSU4Gx6jNHzqQ|title=YouTube}}
+| {{youtube|c=UCmrzkz_SmHK4wVJI79Asvjw|title=YouTube}}
+| {{youtube|c=UCcItrlgTQ1FQ81zXZS3n2kA|title=YouTube}}
+| {{youtube|c=UCiJmrMoh9SmYmsO6F3SqZcQ|title=YouTube}}
+| {{youtube|c=UCTzC2EzYbR-tp5JuyDVDHiA|title=YouTube}}
+|-
+| {{twitter|Lord_Amos_Kowen|name=Twitter}}
+| {{twitter|Basyokunokubi|name=Twitter}}
+| {{twitter|kurokiyu_VA|name=Twitter}}
+| {{twitter|kashimixya|name=Twitter}}
+| {{twitter|Nidoragorath|name=Twitter}}
+| {{twitter|kato_miru_VA|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+=== {{twitter|noriopro|name=のりプロ}} ===
+{| class="wikitable" style="width:80%; margin:auto" align="center"
+! [[犬山たまき]]&lt;br&gt;{{color|green||一期生}}&lt;br&gt;(2018年9月29日出道)
+! [[白雪みしろ]]&lt;br&gt;{{color|green||一期生}}&lt;br&gt;(2019年12月6日出道)
+! [[愛宮みるく]]&lt;br&gt;{{color|green||一期生}}&lt;br&gt;(2020年4月8日出道)
+! [[熊谷タクマ]]&lt;br&gt;{{color|green||一期生}}&lt;br&gt;(2020年8月4日出道)
+! [[姫咲ゆずる]]&lt;br&gt;{{color|green||一期生}}&lt;br&gt;(2020年9月15日出道)
+|-
+| {{youtube|c=UC8NZiqKx6fsDT3AVcMiVFyA|title=YouTube}}
+| {{youtube|c=UCC0i9nECi4Gz7TU63xZwodg|title=YouTube}}
+| {{youtube|c=UCJCzy0Fyrm0UhIrGQ7tHpjg|title=YouTube}}
+| {{youtube|c=UCCXME7oZmXB2VFHJbz5496A|title=YouTube}}
+| {{youtube|c=UCle1cz6rcyH0a-xoMYwLlAg|title=YouTube}}
+|-
+| {{twitter|norioo_|name=Twitter}}
+| {{twitter|mishiro_seiso|name=Twitter}}
+| {{twitter|Enomiya_MILK|name=Twitter}}
+| {{twitter|KUMAgaya_taKUMA|name=Twitter}}
+| {{twitter|Himesaki_yuzuru|name=Twitter}}
+|-
+![[鬼灯わらべ]]&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2020年12月7日出道)
+![[夢乃リリス]]&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2021年1月16日出道)
+![[逢魔きらら]]&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2021年3月出道預定)
+![[胡桃澤もも]]&lt;br&gt;{{color|green||二期生}}&lt;br&gt;(2021年4月出道預定)
+!
+|-
+| {{youtube|c=UCLyTXfCZtl7dyhta9Jg3pZg|title=YouTube}}
+| {{youtube|c=UCH11P1Hq4PXdznyw1Hhr3qw|title=YouTube}}
+| {{youtube|c=UCBAeKqEIugv69Q2GIgcH7oA|title=YouTube}}
+| {{youtube|c=UCxrmkJf_X1Yhte_a4devFzA|title=YouTube}}
+|
+|-
+| {{twitter|hoozukiwarabe|name=Twitter}}
+| {{twitter|yumenolilith|name=Twitter}}
+| {{twitter|oumakirara|name=Twitter}}
+| {{twitter|kurumizawamomo|name=Twitter}}
+|
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== 來自非Vtuber企業 ===
+==== [https://dearstage.co.jp/artist/gemscompany GEMS COMPANY] ====
+{| class="wikitable" style="width:80%; margin:auto" align="center"
+! 珠根うた&lt;br&gt;(2018年4月17日出道)&lt;br&gt;{{color|red||已停止活動}}
+! 星菜日向夏&lt;br&gt;(2018年4月17日出道)
+! 奈日抽ねね&lt;br&gt;(2018年6月4日出道)
+! 有栖川レイカ&lt;br&gt;(2018年6月18日出道)
+! 音羽雫&lt;br&gt;(2018年6月29日出道)
+! 城乃柚希&lt;br&gt;(2018年7月5日出道)&lt;br&gt;{{color|red||已停止活動}}
+|-
+| {{youtube|c=UC-UmUsocuVAxsKog3QonhpA|title=YouTube}}
+| {{youtube|c=UCqKCfCEKed9wdmJhs1w1DAw|title=YouTube}}
+| {{youtube|c=UCpVR8pys_AS24V_gsPhGlmw|title=YouTube}}
+| {{youtube|c=UCfz1RFufH9MFsADnhAdXW7g|title=YouTube}}
+| {{youtube|c=UCpvbUp_mMVJ1nUsRjoG-uAg|title=YouTube}}
+| {{youtube|c=UCWhyjy7jn6VW0E73hVPtKTg|title=YouTube}}
+|-
+| {{twitter|TamaneUta|name=Twitter}}
+| {{twitter|hoshinahinaka|name=Twitter}}
+| {{twitter|nenenaninu|name=Twitter}}
+| {{twitter|a_reikas2|name=Twitter}}
+| {{twitter|otowashizuku|name=Twitter}}
+| {{twitter|shironoyuzuki|name=Twitter}}
+|-
+! 長谷みこと&lt;br&gt;(2018年7月13日出道)
+! 水科葵&lt;br&gt;(2018年7月10日出道)
+! 赤羽ユキノ&lt;br&gt;(2018年7月25日出道)
+! 一文字マヤ&lt;br&gt;(2018年7月31日出道)
+! 花菱撫子&lt;br&gt;(2018年8月6日出道)&lt;br&gt;{{color|red||已停止活動}}
+! ヤマダ&lt;br&gt;{{color|green||Square Enix所屬、非成員}}&lt;br&gt;(2018年6月22日出道)
+|-
+| {{youtube|c=UCGEC7udx8aOQpc_eiKob40Q|title=YouTube}}
+| {{youtube|c=UCVFpIqGoTmFaoMmyFPRYrKA|title=YouTube}}
+| {{youtube|c=UCS1knzJl5den7o-jeEOZuBQ|title=YouTube}}
+| {{youtube|c=UCoxRb4xKGwDUFKH8Ludjvfg|title=YouTube}}
+| {{youtube|c=UCHVHqjhfT9apG68r3MJ5McA|title=YouTube}}
+| [https://www.youtube.com/channel/UCmNjDc-wW_nqs4WzEHKyJnw/ YouTube]
+|-
+| {{twitter|HaseMikoto|name=Twitter}}
+| {{twitter|mizushina_aoi|name=Twitter}}
+| {{twitter|AkabaYukino|name=Twitter}}
+| {{twitter|Maya_Ichimonji|name=Twitter}}
+| {{twitter|nadehana_ggy|name=Twitter}}
+| {{twitter|pj_tokyodolls|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+{| class="wikitable" style="width:100%; margin:auto" align="center"
+! ハッカドール&lt;br&gt;{{color|green||DeNA}}&lt;br&gt;(2018年3月31日出道)&lt;br&gt;{{color|red||已停止活動}}
+! フェルミ&lt;br&gt;{{color|green||SME}}&lt;br&gt;(2018年4月1日出道)
+! いるはーと&lt;br&gt;{{color|green||コンパイルハート}}&lt;br&gt;(2018年4月10日出道)
+! ブロッサム&lt;br&gt;{{color|green||SME}}&lt;br&gt;(2018年5月1日出道)
+! インサイドちゃん&lt;br&gt;{{color|green||INSIDE games}}&lt;br&gt;(2018年5月24日出道)
+! 七色れあ&lt;br&gt;{{color|green||オフミー}}&lt;br&gt;(2018年5月31日出道)
+! ナナ&lt;br&gt;{{color|green||バンダイ}}&lt;br&gt;(2018年6月7日出道)
+! 根羽清ココロ&lt;br&gt;{{color|green||ロート製薬}}&lt;br&gt;(2018年6月8日出道)
+|-
+| {{youtube|c=UCIqbU97D5CrknKaNik10A-A|title=YouTube}}
+| {{youtube|c=UC1EsupKhsMNuw7InGoSnKdA|title=真空管ドールズ}}
+| {{youtube|c=UCQG5eRfno9f2rptcM6srQZA|title=YouTube}}
+| {{youtube|c=UC1EsupKhsMNuw7InGoSnKdA|title=真空管ドールズ}}
+| {{youtube|c=UCq6EBsKaFIUpac6fPkGu2PQ|title=YouTube}}
+| {{youtube|c=UCwnSbngRMVWcBkEurovkAyQ|title=YouTube}}
+| {{youtube|c=UCDOJkSTUNY3_NKawpkPvjHg|title=YouTube}}
+| {{youtube|c=UCnDZwUFMzqOBcF3bjRfZD-g|title=YouTube}}
+|-
+| {{twitter|Hackadoll|name=Twitter}}
+| {{twitter|Fermi_skdolls|name=Twitter}}
+| {{twitter|ileheart_ch|name=Twitter}}
+| {{twitter|Blossom_skdolls|name=Twitter}}
+| {{twitter|V_insidechan|name=Twitter}}&lt;br&gt;{{twitter|insidejp|name=INSIDE公式Twitter}}&lt;br&gt;[https://www.inside-games.jp/ INSIDE官網]
+| {{twitter|nanairo_rea|name=Twitter}}
+| [http://www.aikatsu.com/friends/ アイカツフレンズ&lt;br&gt;官網]
+| {{twitter|rohto_cocoro|name=Twitter}}
+|-
+! 伊東悠人&lt;br&gt;{{color|green||講談社}}&lt;br&gt;(2018年6月12日出道)
+! 藤間桜&lt;br&gt;{{color|green||Aniplex&amp;SONY}}&lt;br&gt;(2018年6月14日出道)
+! アンナ・フロイド&lt;br&gt;{{color|green||SME}}&lt;br&gt;(2018年6月26日出道)
+! 宇佐元杏奈&lt;br&gt;{{color|green||コロプラ}}&lt;br&gt;(2018年7月5日出道)
+! キミノミヤ&lt;br&gt;{{color|green||アイデアクラウド&lt;br&gt;中京テレビ}}&lt;br&gt;(2018年7月18日出道)
+! 邪神ちゃんねる&lt;br&gt;{{color|green||COMICメテオ}}&lt;br&gt;(2018年7月24日出道)
+! 星名こむ&lt;br&gt;{{color|green||DMM.com}}&lt;br&gt;(2018年7月31日出道)
+! 麻宮アテナ&lt;br&gt;{{color|green||Netmarble Games&amp;SNK}}&lt;br&gt;(2018年月日出道)
+|-
+| {{youtube|c=UCH8Au-zDgE7ha2Y0IwaRsEQ|title=YouTube}}
+| {{youtube|c=UCwalpGCurSDqwSpkAR4h6LA|title=YouTube}}
+| {{youtube|c=UC1EsupKhsMNuw7InGoSnKdA|title=真空管ドールズ}}
+| {{youtube|c=UCBXEcW0gRiTARStvlgR1L9A|title=YouTube}}
+| {{youtube|c=UCg8TPE5nLLOqlNnBivmQwww|title=YouTube}}
+| {{youtube|c=UChu8Yu_w9z8DGFtXzuGvDlg|title=YouTube}}
+| {{youtube|c=UC0-5wjMW1Gx3ej5V4uNoXRQ|title=YouTube}}
+| {{youtube|c=UCl1yB_o-K9L3pJApyaeS2sg|title=YouTube}}
+|-
+| {{twitter|3dkanojo_anime|name=Twitter}}
+| {{twitter|_fujimasakura|name=Twitter}}&lt;br&gt;{{twitter|227_staff|name=22/7公式Twitter}}
+| {{twitter|Anna_skdolls|name=Twitter}}
+| {{twitter|usamoto_anna|name=Twitter}}
+| {{twitter|MIYA_KIMINO|name=Twitter}}
+| [http://jashinchan.com/ 邪神ちゃんドロップ&lt;br&gt;キック官網]
+| 
+| {{twitter|KOF_ALLSTAR|name=KOFオールスター公式Twitter}}
+|-
+! 茨ひより&lt;br&gt;{{color|green||日本茨城縣政府}}&lt;br&gt;(2018年8月10日出道)
+! でんぢゃらすじーさん&lt;br&gt;{{color|green||コロコロコミック}}&lt;br&gt;(2018年8月24日出道)
+! おさナズ&lt;br&gt;{{color|green||Your Games}}&lt;br&gt;(2018年8月27日出道)
+! ハローキティ&lt;br&gt;{{color|green||サンリオ}}&lt;br&gt;(2018年8月29日出道)
+! &lt;br&gt;(2018年月日出道)
+! &lt;br&gt;(2018年月日出道)
+! &lt;br&gt;(2018年月日出道)
+! &lt;br&gt;(2018年月日出道)
+|-
+| [https://www.youtube.com/c/IbakiraTvCH YouTube]
+| {{youtube|c=UCKtxF3ufOkuJohTeKyNbYrQ|title=YouTube}}
+| {{youtube|c=UC5WJgKelM1YO3AsXtR-t4SQ|title=YouTube}}
+| {{youtube|c=UCyof-1Ko_jy2sOtivyTpc4Q|title=YouTube}}
+| [ YouTube]
+| [ YouTube]
+| [ YouTube]
+| [ YouTube]
+|-
+| {{twitter|ibakira_Vtuber|name=Twitter}}&lt;br&gt;[http://www.ibakira.tv/ いばキラTV官網]&lt;br&gt;[http://www.pref.ibaraki.jp/ 茨城県官網]
+| {{twitter|corocorochannel|name=コロコロ公式Twitter}}&lt;br&gt;[http://www.corocoro.tv/ コロコロ官網]
+| {{twitter|osanazu_FKG|name=Twitter}}
+| [https://www.sanrio.co.jp/ サンリオ官網]
+| [ Twitter]
+| [ Twitter]
+| [ Twitter]
+| [ Twitter]
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== 非企業組合/非事務所勢 ===
+==== 天魔機忍 Ver.G ====
+{| class="wikitable" style="width:60%; margin:auto" align="center"
+! ぜったい天使くるみちゃん&lt;br&gt;{{color|red||已停止活動}}
+! あっくん大魔王&lt;br&gt;(2018年1月7日出道)
+! ニーツ(VT-212)&lt;br&gt;(2018年1月18日出道)
+! 乾伸一郎&lt;br&gt;(2018年1月15日出道)
+! バーチャルゴリラ&lt;br&gt;(2018年1月13日出道)
+|-
+| 
+| {{youtube|c=UCPH7d3YxfeH56FG-UyPAB1g|title=YouTube}}
+| {{youtube|c=UCCsZjHDiCgvlZ8VyCQMEYuQ|title=YouTube}}
+| {{youtube|c=UC8QEgcJgjrJWy4B43aXxsAQ|title=YouTube}}
+| {{youtube|c=UC2hA-6M66dE2Tt_4xM8K9wQ|title=YouTube}}
+|-
+| 
+| {{twitter|a_box_land|name=Twitter}}
+| {{twitter|VT_212|name=Twitter}}
+| {{twitter|ninja_inui|name=Twitter}}
+| {{twitter|gorilla_virtual|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+==== BANs ====
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! 微糖カイジ&lt;br&gt;{{color|green||現天開司}}
+! 万楽えね&lt;br&gt;(2018年2月17日出道)
+! ケリン&lt;br&gt;{{color|green||已畢業?}}&lt;br&gt;(2018年2月21日出道)
+! シロウケン&lt;br&gt;{{color|green||現ウルケン・ノース}}
+! 宇宙怪獣アンチン&lt;br&gt;(2018年3月8日出道)
+! 不計其數&lt;br&gt;{{color|red||已停止活動}}
+|-
+| {{youtube|c=UC87o3e14Vh9lQ6BhZXqC6GQ|title=原頻道}}&lt;br&gt;{{youtube|c=UCZYyhgoV314CM14zBD6vd4A|title=天開司}}
+| {{youtube|c=UCMaXopOC-gQ_NFTkq7esf4w|title=YouTube}}
+| {{youtube|c=UCeAfiVvEuyICYJW-f3GnQjQ|title=YouTube}}
+| {{youtube|c=UC2zuO8mkXTI5l-s6TL7uzuw|title=YouTube}}
+| {{youtube|c=UCjCZhDLsl_-AqlR-Kkn_RBg|title=YouTube}}
+|
+|-
+| {{twitter|tenkaitukasa|name=Twitter}}
+| {{twitter|maguraene|name=Twitter}}
+| {{twitter|kerin_vtuber|name=Twitter}}
+| {{twitter|shiroken_2900|name=Twitter}}
+| {{twitter|antinseijin|name=Twitter}}
+|
+|}
+&lt;br&gt;&lt;br&gt;
+==== {{twitter|tenma_vy|name=空想コード+}} ====
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! 夜野とばり&lt;br&gt;(2018年4月15日出道)
+! 花咲アヤメ&lt;br&gt;(2018年4月14日出道)
+! 燈火ミリ&lt;br&gt;(2018年5月22日出道)
+! 蟒蛇ミキ&lt;br&gt;(2018年3月18日出道)
+! 黒瀬サバト&lt;br&gt;(2018年4月16日出道)
+|-
+| {{youtube|c=UC2JMXD8btPtvJafM3dawF-Q|title=YouTube}}
+| {{youtube|c=UCrWLOrJLZ6Jb1CASa6RU7sQ|title=YouTube}}
+| {{youtube|c=UC6SYW9BpOHDqpI2X6a7DzRA|title=YouTube}}
+| {{youtube|c=UCbmZa8unWj-rMRDDE2HNprg|title=YouTube}}
+| {{youtube|c=UCxU9F9sZJdzectps34GuSyA|title=YouTube}}
+|-
+| {{twitter|yrn__tbr|name=Twitter}}
+| {{twitter|iris_fl0wer|name=Twitter}}
+| {{twitter|toka_mili|name=Twitter}}
+| {{twitter|Omiki_Uwabami|name=Twitter}}
+| {{twitter|A2Sabbat|name=Twitter}}
+|-
+! 黒瀬ミサ&lt;br&gt;(2018年4月23日出道)
+! 紗樹万咲&lt;br&gt;(2018年6月4日出道)
+! 眠河ゆめな&lt;br&gt;(2018年4月29日出道)
+! 夢見ログ&lt;br&gt;(2018年3月23日出道)
+! てんま&lt;br&gt;(2018年4月9日出道)
+|-
+| {{youtube|c=UCxU9F9sZJdzectps34GuSyA|title=YouTube}}
+| {{youtube|c=UC0MKBVaP7nWM-FZzn81I2aA|title=YouTube}}
+| {{youtube|c=UCJEpGdadojQ-510MGZe3Y8A|title=YouTube}}
+| {{youtube|c=UCTJqQUQp9Z8HVNTF3WCaP1g|title=YouTube}}
+| {{youtube|c=UCTJqQUQp9Z8HVNTF3WCaP1g|title=YouTube}}
+|-
+| {{twitter|B2xmisa|name=Twitter}}
+| {{twitter|sakiamaikas|name=Twitter}}
+| {{twitter|nemu_kawa|name=Twitter}}
+| {{twitter|yumemi_log_vy|name=Twitter}}
+| {{twitter|tenma_vy|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+==== {{twitter|yyluckorangesa1|name=サークルみらん}} ====
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! 京極エミーリア皐月&lt;br&gt;(2018年4月5日出道)
+! 紅ルフナ&lt;br&gt;(2018年2月21日出道)
+! 西園寺すずか&lt;br&gt;(2018年3月31日出道)
+! 月夜野珠狐&lt;br&gt;(2018年6月16日出道)
+! ロゼール・グラニエ&lt;br&gt;(2018年7月8日出道)
+|-
+| {{youtube|c=UC4cwqcZLNNYJW4cQuoM310A|title=YouTube}}
+| {{youtube|c=UCdwpkbwcv_xmDTlT69wJ2dw|title=YouTube}}
+| {{youtube|c=UCcAdyiVxoBkYp1Zow2IRKSw|title=YouTube}}
+| {{youtube|c=UCRmRtT2huTHnZJVFn__S2YQ|title=YouTube}}
+| {{youtube|c=UChndPyZOo_B5ZSsTZe3MhFg|title=YouTube}}
+|-
+| {{twitter|kyogokuemilia|name=Twitter}}
+| {{twitter|kurenairuhuna|name=Twitter}}
+| {{twitter|saionjisuzuka|name=Twitter}}
+| {{twitter|tsukiyonotamako|name=Twitter}}
+| {{twitter|rosairegranier|name=Twitter}}
+|-
+| colspan="5" | サークルみらん這個團體'''本身'''已於2018年9月18日解散，原成員將繼續以個人勢的身分進行活動
+|}
+&lt;br&gt;&lt;br&gt;
+==== {{twitter|par1y|name=Project Paryi}} ====
+{| class="wikitable" style="width:60%; margin:auto" align="center"
+! 神楽めあ&lt;br&gt;(2018年6月28日出道)
+! 森永みう&lt;br&gt;(2018年7月12日出道)
+! 千草はな&lt;br&gt;(2018年7月3日出道)
+! ユメノシオリ&lt;br&gt;(2018年5月19日出道)
+|-
+| {{youtube|c=UCWCc8tO-uUl_7SJXIKJACMw|title=YouTube}}
+| {{youtube|c=UChN7P9OhRltW3w9IesC92PA|title=YouTube}}
+| {{youtube|c=UCn14Z641OthNps7vppBvZFA|title=YouTube}}
+| {{youtube|c=UCH0ObmokE-zUOeihkKwWySA|title=YouTube}}
+|-
+| {{twitter|KaguraMea|name=Twitter}}
+| {{twitter|morinaga_miu|name=Twitter}}
+| {{twitter|hanachigusa_ch|name=Twitter}}
+| {{twitter|Yumeno_Shiori|name=Twitter}}
+|-
+! 有栖マナ&lt;br&gt;(2018年8月1日出道)
+! 高槻りつ&lt;br&gt;(尚未投稿)
+! 花園セレナ&lt;br&gt;(尚未投稿)
+! 
+|-
+| {{youtube|c=UCIaC5td9nGG6JeKllWLwFLA|title=YouTube}}
+| {{youtube|c=UCL9dLCVvHyMiqjp2RDgowqQ|title=YouTube}}
+| {{youtube|c=UCRXBTd80F5IIWWY4HatJ5Ug|title=YouTube}}
+| 
+|-
+| {{twitter|Alicemana_v|name=Twitter}}
+| {{twitter|re2_takatsuki|name=Twitter}}
+| {{twitter|hanazono_serena|name=Twitter}}
+| 
+|}
+&lt;br&gt;&lt;br&gt;
+==== {{twitter|Hoshimeguri_HS|name=星めぐり学園}} ====
+{| class="wikitable" style="width:60%; margin:auto" align="center"
+! 楪帆波&lt;br&gt;(2020年3月21日出道)
+! 花雲くゆり&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2020年3月21日出道)
+! 幽ヶ崎海愛&lt;br&gt;(2020年3月21日出道)
+|-
+| {{youtube|c=UCqXvL55GYHtRZhBS03LVGnQ|title=YouTube}}
+| {{youtube|c=UCw7ih8a3t5InezDXUnKU40Q|title=YouTube}}
+| {{youtube|c=UCeb76eafe-6kE0D4u7lOWbg|title=YouTube}}
+|-
+| {{twitter|Yuzuriha_honami|name=Twitter}}
+| {{twitter|HanagumoKuyuri|name=Twitter}}
+| {{twitter|Yuugasakiumi|name=Twitter}}
+
+|}
+&lt;br&gt;&lt;br&gt;
+
+==== 技術勢(繪畫、3D建模、遊戲製作等) ====
+{| class="wikitable" style="width:100%; margin:auto" align="center"
+! 薬袋カルテ&lt;br&gt;{{color|green||繪畫}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年2月15日出道)
+! 動く城のフィオ&lt;br&gt;{{color|green||3D建模}}&lt;br&gt;(2018年2月20日出道)
+! Pixelko&lt;br&gt;{{color|green||點陣圖}}&lt;br&gt;(2018年3月12日出道)
+! ファイ博士&lt;br&gt;{{color|green||3D建模}}&lt;br&gt;(2018年3月19日出道)
+! 会務椎太郎&lt;br&gt;{{color|green||Vtuber新聞}}&lt;br&gt;(2018年3月19日出道)
+! 有栖川ドット&lt;br&gt;{{color|green||點陣圖}}&lt;br&gt;(2018年3月26日出道)
+! レイくん&lt;br&gt;{{color|green||遊戲製作}}&lt;br&gt;(2018年4月1日出道)
+! 魔王ヘルネス&lt;br&gt;{{color|green||3D建模}}&lt;br&gt;{{color|red||已停止活動}}
+|-
+| {{youtube|c=UCDVXivWK9feX2iRBc3SFegw|title=YouTube}}
+| {{youtube|c=UCiJr4MX-DrlKgLYC0luCjpQ|title=YouTube}}
+| {{youtube|c=UCLtY2A5H1rs3aR8bYykhX8Q|title=YouTube}}
+| {{youtube|c=UCE304024k6EDs9Yr1Mb7T6A|title=YouTube}}
+| {{youtube|c=UCxMai3WANwU2ye8vBZ833MA|title=YouTube}}
+| {{youtube|c=UCHb8IFQ1xGZTmt2rygOw3tw|title=YouTube}}
+| {{youtube|c=UCSYniDuuSiM-HutLDTBbIlg|title=YouTube}}
+| {{youtube|c=UCJH_UG6vN8fMZE7OH0BrkZg|title=YouTube}}
+|-
+| {{twitter|minai_karte|name=Twitter}}
+| {{twitter|phio_alchemist|name=Twitter}}
+| {{twitter|PIXELKO_|name=Twitter}}
+| {{twitter|phi_channel|name=Twitter}}
+| {{twitter|NewsVtuber|name=Twitter}}
+| {{twitter|dot_alicechan|name=Twitter}}
+| {{twitter|mugen_Jinx|name=Twitter}}
+| 
+|-
+! 日和かばん&lt;br&gt;{{color|green||繪畫}}&lt;br&gt;(2018年5月10日出道)
+! 兎紗みみ&lt;br&gt;{{color|green||3D建模}}&lt;br&gt;(2018年6月17日出道)
+! 鴨見カモミ&lt;br&gt;{{color|green||繪畫&amp;3D建模}}&lt;br&gt;(2018年7月19日出道)
+! &lt;br&gt;(2018年月日出道)
+! &lt;br&gt;(2018年月日出道)
+! &lt;br&gt;(2018年月日出道)
+! &lt;br&gt;(2018年月日出道)
+! &lt;br&gt;(2018年月日出道)
+|-
+| {{youtube|c=UCw6FKnxRET_dHn8FE6FyG5g|title=YouTube}}
+| {{youtube|c=UCBAopGXGGatkiB1-qFRG9WA|title=YouTube}}
+| {{youtube|c=UCL-2thbJ7grC9fmGF4OLuTg|title=YouTube}}
+| [ YouTube]
+| [ YouTube]
+| [ YouTube]
+| [ YouTube]
+| [ YouTube]
+|-
+| {{twitter|hiyori_kaban|name=Twitter}}
+| {{twitter|usausachannel|name=Twitter}}
+| {{twitter|camomi_camomi|name=Twitter}}
+| [ Twitter]
+| [ Twitter]
+| [ Twitter]
+| [ Twitter]
+| [ Twitter]
+|}
+&lt;br&gt;&lt;br&gt;
+
+==== 音樂勢 ====
+{| class="wikitable" style="width:100%; margin:auto" align="center"
+! バーチャルおばあちゃん&lt;br&gt;{{color|green||三味線演唱}}&lt;br&gt;(2018年1月30日出道)
+! 八月二雪&lt;br&gt;{{color|green||編曲&amp;演唱}}&lt;br&gt;(2018年2月18日出道)
+! バーチャル執事Cecilia&lt;br&gt;(2018年3月18日出道)
+! ゆめ心中&lt;br&gt;{{color|green||演唱}}&lt;br&gt;(2018年4月7日出道)
+! MonsterZ MATE&lt;br&gt;{{color|green||流行樂團}}&lt;br&gt;(2018年5月5日出道)
+! 花奏かのん&lt;br&gt;{{color|green||貝斯演唱}}&lt;br&gt;(2018年5月31日出道)
+! 高峰伊織&lt;br&gt;{{color|green||爵士樂}}&lt;br&gt;(2018年6月17日出道)
+! &lt;br&gt;(2018年月日出道)
+|-
+| {{youtube|c=UCTMgd9qnUD9qKBX5oTtD6ug|title=YouTube}}
+| {{youtube|c=UCHV-tYWznbEMFWoT0_oKmLQ|title=YouTube}}
+| {{youtube|c=UC_tw32N5PtFofQXmEoAufmw|title=YouTube}}
+| {{youtube|c=UCuSa7XbCQ5MiEIPkZxvTUDQ|title=YouTube}}
+| {{youtube|c=UCDG8K9g6qo8gX4jCjsqUVzA|title=YouTube}}
+| {{youtube|c=UCmqrvfLMws-GLGHQcB5dasg|title=YouTube}}
+| {{youtube|c=UCksCLL04bRIe61wnzZ7vXRg|title=YouTube}}
+| [ YouTube]
+|-
+| {{twitter|virtual_obachan|name=Twitter}}
+| {{twitter|8gatsu2yuki|name=Twitter}}
+| {{twitter|cecilia4696|name=Twitter}}
+| {{twitter|Kokona_Yume|name=Twitter}}
+| {{twitter|monsterzmate|name=公式Twitter}}&lt;br&gt;{{twitter|mzm_anjo|name=アンジョーTwitter}}&lt;br&gt;{{twitter|mzm_kosaka|name=コーサカTwitter}}
+| {{twitter|_kanade_kanon|name=Twitter}}
+| {{twitter|takamineiori|name=Twitter}}
+| [ Twitter]
+|-
+|}
+&lt;br&gt;&lt;br&gt;
+==== 視覺衝擊系 ====
+&lt;s&gt;準BANs&lt;/s&gt;
+{| class="wikitable" style="width:100%; margin:auto" align="center"
+! 世界クルミ&lt;br&gt;(2018年1月1日出道)
+! 源元気&lt;br&gt;{{color|red||已停止活動}}
+! Icotsu&lt;br&gt;(2018年2月5日出道)
+! パゲ美&lt;br&gt;(2018年2月16日出道)
+! ミソシタ&lt;br&gt;(2018年3月4日出道)
+! ンヌグム&lt;br&gt;(2018年3月28日出道)
+! &lt;br&gt;(2018年月日出道)
+! &lt;br&gt;(2018年月日出道)
+|-
+| {{youtube|c=UCHooCsg7FEVBGVKUE_RR0DA|title=YouTube}}
+| {{youtube|c=UCNt2ZN3usTdTdRV9HJvYAsQ|title=YouTube}}&lt;br&gt;{{youtube|c=UCVdQRexx_XYLRGk1ouo4iSA|title=コウノスケ頻道}}
+| [https://www.youtube.com/channel/UCGFD_8TRHhlpjfqGhLUSk4g/videos YouTube]
+| {{youtube|c=UCm_rSqgU2lFfjU1rn-uqbXA|title=YouTube}}
+| {{youtube|c=UCctWfjgLUh1yt-Wdz6W4yFQ|title=YouTube}}&lt;br&gt;&lt;s&gt;這到底要擺在音樂勢還是這裡?&lt;/s&gt;
+| {{youtube|c=UCSv-TsF2gkYAMr6p29Os7Hg|title=YouTube}}
+| [ YouTube]
+| [ YouTube]
+|-
+| {{twitter|kurumi_ojisan|name=Twitter}}
+| {{twitter|kounosuke0808|name=Twitter}}
+| {{twitter|Vtuber_Icotsu|name=Twitter}}
+| {{twitter|pagemi_v|name=Twitter}}
+| {{twitter|misositaworks|name=Twitter}}
+| {{twitter|n_nugum_|name=Twitter}}
+| [ Twitter]
+| [ Twitter]
+|}
+&lt;br&gt;&lt;br&gt;
+==== 清楚(Vtuber) ====
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! &lt;br&gt;(2018年月日出道)
+|-
+| [ YouTube]
+|-
+| [ Twitter]
+|}
+&lt;br&gt;&lt;br&gt;
+==== バ美肉 ====
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! &lt;br&gt;(2018年月日出道)
+|-
+| [ YouTube]
+|-
+| [ Twitter]
+|}
+&lt;br&gt;&lt;br&gt;
+==== 無勢力 ====
+{| class="wikitable" style="width:100%; margin:auto" align="center"
+! さょ&lt;br&gt;(2018年1月1日轉生)
+! あさひ&lt;br&gt;(2018年1月11日出道)
+! オッドアイ&lt;br&gt;(2018年1月26日出道)
+! あいえるたん&lt;br&gt;{{color|green||みゅみゅ?}}&lt;br&gt;(2018年1月30日出道)
+! 式大元&amp;獣音ロウ&lt;br&gt;(2018年1月2日出道)
+! 雨下カイト&lt;br&gt;(2018年1月2日出道)
+! リクビッツ&lt;br&gt;(2018年1月9日出道)
+! ディープブリザード&lt;br&gt;(2018年1月31日出道)
+|-
+| {{youtube|c=UCwIW1tObQTz5TX4j5NEntqg|title=YouTube}}
+| {{youtube|c=UCuE6xoui7gZOTUiF0OtWWJw|title=YouTube}}
+| {{youtube|c=UCMpX1OT8T5iedyBKlnbqrIw|title=YouTube}}
+| {{youtube|c=UC_IfjiHP6UnWE0NNog_n_3A|title=YouTube}}
+| {{youtube|c=UCjSMqQIJu_b3aptJyKuaFWw|title=YouTube}}
+| {{youtube|c=UCuwSnOSd1T9O5Imh403jihQ|title=YouTube}}
+| {{youtube|c=UCVQnmM4bJYqWzcExK74sm-g|title=YouTube}}
+| {{youtube|c=UCHXgFLFyqR-XqtxfTH3qiYA|title=YouTube}}
+|-
+| {{twitter|sayodayoooo|name=Twitter}}
+| {{twitter|asahi_ych|name=Twitter}}
+| {{twitter|odd_ai|name=Twitter}}
+| {{twitter|iloop_sapporo|name=Twitter}}
+| {{twitter|yumakemononerou|name=Twitter}}
+| {{twitter|AmashitaKite|name=Twitter}}
+| {{twitter|riku_nico2|name=Twitter}}
+| {{twitter|mao_dbmiyuki|name=Twitter}}
+|-
+! クゥ・フラン・ゾーパー&lt;br&gt;(2018年1月15日出道)
+! channel虚無&lt;br&gt;(2018年1月19日出道)
+! れらたん&lt;br&gt;(2018年1月24日出道)
+! 若菜レイ&lt;br&gt;(2018年1月27日出道)
+! ネア&lt;br&gt;(2018年1月29日出道)
+! バリトンエルフ&lt;br&gt;(2018年1月30日出道)
+! 魔法少女ちあ&lt;br&gt;(2018年1月30日出道)
+!
+|-
+| {{youtube|c=UCendfm780DgZophhZyo6xnQ|title=YouTube}}
+| {{youtube|c=UCiIzJcy-MPjfdpHWlY1xmhw|title=YouTube}}
+| {{youtube|c=UCQO3iMPha0WmZoPfU0vfacA|title=YouTube}}
+| {{youtube|c=UCBVmC7fKfYONkWpb2FseRSg|title=YouTube}}
+| {{youtube|c=UCGiZyCnfS4dmwukDnIo1K9w|title=YouTube}}&lt;br&gt;[{{youtube|u=CPCmucrow|title=食蟲植物TV}}]
+| {{youtube|c=UCAz2yDZBrKJ38xyGIcO9uEA|title=YouTube}}
+| {{youtube|c=UCk7UMlCJ6dlluad9GLKhHzg|title=YouTube}}
+|
+|-
+| {{twitter|koo_fran_zopar|name=Twitter}}
+|
+| {{twitter|reratan_game|name=Twitter}}
+| {{twitter|WAKANA_RAY|name=Twitter}}
+| {{twitter|Naea_VTuber|name=Twitter}}&lt;br&gt;{{twitter|mucrow1020|name=食蟲植物TVTwitter}}
+| {{twitter|Arcadia_LE|name=Twitter}}
+| {{twitter|tiatiach|name=Twitter}}
+|
+|-
+! 甲賀流忍者ぽんぽこ&lt;br&gt;(2018年2月1日出道)
+! ちゆ12歳&lt;br&gt;(2018年2月13日出道)
+! カナタヒカリ&lt;br&gt;(2018年2月14日出道)
+! たかじんちゃん&lt;br&gt;(2018年2月15日出道)
+! イヌージョン&lt;br&gt;(2018年2月16日出道)
+! 公野ゆめか&lt;br&gt;(2018年2月18日出道)
+! はちこ&lt;br&gt;(2018年2月19日出道)
+! ソフィアコード&lt;br&gt;(2018年2月19日出道)
+|-
+| {{youtube|c=UC1EB8moGYdkoZQfWHjh7Ivw|title=YouTube}}
+| {{youtube|c=UCg49h2KFnB3SH1efaI_njVg|title=YouTube}}
+| {{youtube|c=UCV56QlnrJqRmKtWKXObLodg|title=YouTube}}
+| {{youtube|c=UC_E8Gdj0G_JCw61VFjG5qLg|title=YouTube}}
+| {{youtube|c=UCevP1FJ45OVUQqTUVuEc60w|title=YouTube}}
+| {{youtube|c=UCMXKL1LgqMILqdavdc0DtVQ|title=YouTube}}
+| {{youtube|c=UCUxazE0cXa92LNa-UjqlxDQ|title=YouTube}}
+| {{youtube|c=UCUJMLacpivvxsWMuxMRkudA|title=YouTube}}
+|-
+| {{twitter|ponpokoka|name=Twitter}}
+| {{twitter|tiyu12sai|name=Twitter}}
+| {{twitter|youtuberhikari|name=Twitter}}
+| {{twitter|takajin_ch|name=Twitter}}
+| {{twitter|inu_sion_dog|name=Twitter}}
+| {{twitter|kiminoyumeka|name=Twitter}}
+| {{twitter|85_85ch|name=Twitter}}
+| {{twitter|Sophia_Code|name=Twitter}}
+|-
+! はちゃち&lt;br&gt;(2018年2月24日出道)
+! 青道アカト&lt;br&gt;(2018年2月24日出道)
+! 歌衣メイカ&lt;br&gt;(2018年2月25日出道)
+! 鳩羽つぐ&lt;br&gt;(2018年2月28日出道)
+! 
+! 
+! 
+! 
+|-
+| {{youtube|c=UCQn11OvxTnBMCPINvDcl4Wg|title=YouTube}}
+| {{youtube|c=UC37QJeT8wHMoZlMasJ7CEbw|title=YouTube}}
+| {{youtube|c=UC7-N7MvN5muVIHqyQx9LFbA|title=YouTube}}
+| {{youtube|c=UCGaUWM5OQ7hU1JwbqvNBR4w|title=YouTube}}
+| 
+| 
+| 
+| 
+|-
+| {{twitter|hatyati|name=Twitter}}
+| {{twitter|aomichi_akato|name=Twitter}}
+| {{twitter|makeagames2018|name=Twitter}}
+| {{twitter|hatobatsugu|name=Twitter}}&lt;br&gt;{{twitter|KijioTsugu|name=雉尾つぐTwitter}}
+|
+| 
+|
+|
+|-
+! 東雲めぐ&lt;br&gt;(2018年3月1日出道)
+! ふぇありす&lt;br&gt;(2018年3月6日出道)
+! 雅まつり&amp;雅雪巴&lt;br&gt;{{color|green||まじかるどーる成員}}&lt;br&gt;(2018年3月8日出道)
+! 名取さな&lt;br&gt;(2018年3月16日出道)
+! 六道冥&lt;br&gt;(2018年3月16日出道)
+! 蟒蛇ミキ&lt;br&gt;(2018年3月18日出道)
+! 田中ヒメ&amp;鈴木ヒナ&lt;br&gt;(2018年3月18日出道)
+! 日雇礼子&lt;br&gt;(2018年3月22日出道)
+|-
+| {{youtube|c=UCNA0XC_zxS63d4Q-JMIMyug|title=YouTube}}
+| {{youtube|c=UC2Rr7mILebYLTjd38DNNUTw|title=YouTube}}
+| {{youtube|c=UCzhwXcK9DTiY-VqYjwnjZhQ|title=YouTube}}
+| {{youtube|c=UCIdEIHpS0TdkqRkHL5OkLtA|title=YouTube}}
+| {{youtube|c=UCf97Z6Ntd1n0LQ3TsUtYNgQ|title=YouTube}}
+| {{youtube|c=UCbmZa8unWj-rMRDDE2HNprg|title=YouTube}}
+| {{youtube|c=UCFv2z4iM5vHrS8bZPq4fHQQ|title=YouTube}}
+| [https://www.youtube.com/channel/UCc5BawFmb7aNHck7HFtSKvw/ YouTube]
+|-
+| {{twitter|megu_shinonome|name=Twitter}}
+| {{twitter|fairyschan|name=Twitter}}
+| {{twitter|magical_matsuri|name=Twitter(雅まつり的名義)}}
+| {{twitter|sana_natori|name=Twitter}}
+| {{twitter|rokudo_mei|name=Twitter}}
+| {{twitter|Omiki_Uwabami|name=Twitter}}
+| {{twitter|himetanaka_hh|name=田中ヒメTwitter}}&lt;br&gt;{{twitter|hinasuzuki_hh|name=鈴木ヒナTwitter}}
+| {{twitter|hiyatoireiko|name=Twitter}}
+|-
+! 朝ノ光&lt;br&gt;{{color|green||朝ノ姉妹ぷろじぇくと成員}}&lt;br&gt;(2018年3月30日出道)
+! おだのぶ&lt;br&gt;(2018年4月7日出道)
+! 藍兎らび&lt;br&gt;{{color|red||已停止活動}}
+! ディープウェブ&lt;br&gt;アンダーグラウンド&lt;br&gt;(2018年4月10日出道)
+! 琴吹ゆめ&lt;br&gt;(2018年4月6日出道)
+! 天神子兎音&lt;br&gt;(2018年月日出道)
+! 赤月ゆに&lt;br&gt;(2018年4月29日出道)
+!
+|-
+| {{youtube|c=UCODNLyn3L83wEmC0DLL0cxA|title=朝ノ姉妹ぷろじぇくと}}
+| {{youtube|c=UCnqDxEcVsvt7WpDy0px1HgA|title=YouTube}}
+| {{youtube|c=UCrRFGIbsmLCD8zE7FS53eZQ|title=YouTube}}
+| {{youtube|c=UCSgheR9xOIcQjlkeXqIofLQ|title=YouTube}}
+| {{youtube|c=UCezfmwKc2B8dtVIAgRHXrKQ|title=YouTube}}
+| {{youtube|c=UCAr7rLi_Wn09G-XfTA07d4g|title=YouTube}}
+| {{youtube|c=UCsA8nM8e5--IdeRaxZwTWHg|title=YouTube}}
+| 
+|-
+| {{twitter|asanohikarihaa1|name=Twitter}}
+| {{twitter|oda_nobu_ga|name=Twitter}}
+| {{twitter|aoto_rabi|name=Twitter}}
+| {{twitter|d_w_underground|name=Twitter}}
+| {{twitter|KotobukiYume|name=Twitter}}
+| {{twitter|kotonegami|name=Twitter}}
+| {{twitter|AkatsukiUNI|name=Twitter}}
+| 
+|-
+! 朝ノ瑠璃&lt;br&gt;{{color|green||朝ノ姉妹ぷろじぇくと成員}}&lt;br&gt;(2018年5月2日出道)
+! 朝ノ茜&lt;br&gt;{{color|green||朝ノ姉妹ぷろじぇくと成員}}&lt;br&gt;(2018年5月4日出道)
+! 銀河アリス&lt;br&gt;(2018年5月13日出道)
+! イヴ・ヴァルレーヌ&lt;br&gt;(2018年5月31日出道)
+! 
+! 
+!
+!
+|-
+| {{youtube|c=UCODNLyn3L83wEmC0DLL0cxA|title=YouTube}}
+| {{youtube|c=UCODNLyn3L83wEmC0DLL0cxA|title=YouTube}}
+| {{youtube|c=UCT1AQFit-Eaj_YQMsfV0RhQ|title=YouTube}}
+| {{youtube|c=UCXLqxLD5qCsWC1iEdE-rsWg|title=YouTube}}
+| 
+| 
+|
+|
+|-
+| {{twitter|asanoruri|name=Twitter}}
+| {{twitter|asanoakane|name=Twitter}}
+| {{twitter|alice_shinryaku|name=Twitter}}
+| {{twitter|evech_xxx|name=Twitter}}
+| 
+| 
+|
+|
+|-
+! わかりお&lt;br&gt;(2018年6月3日出道)
+! マグロナ&lt;br&gt;(2018年6月5日出道)
+! フラヴィ&lt;br&gt;(2018年6月8日出道)
+! 天音マホ&lt;br&gt;(2018年6月11日出道)
+! 雅さくら&lt;br&gt;{{color|green||まじかるどーる成員}}&lt;br&gt;(2018年6月13日出道)
+! そよかぜアメ&lt;br&gt;(2018年6月17日出道)
+! 竹花ノート&lt;br&gt;(2018年6月24日轉生)
+! 黒咲りん&lt;br&gt;(2018年6月26日出道)
+|-
+| [https://www.youtube.com/user/rindawan00/ YouTube]
+| {{youtube|c=UCPf-EnX70UM7jqjKwhDmS8g|title=YouTube}}
+| {{youtube|c=UCV-9cZck4I31M8jaEqRAUUA|title=YouTube}}
+| {{youtube|c=UCH9DjwkMq9P6yGioc0-NaJg|title=YouTube}}
+| {{youtube|c=UCzhwXcK9DTiY-VqYjwnjZhQ|title=YouTube}}
+| {{youtube|c=UCth5j6WaPTf9osdNrdz92PA|title=YouTube}}
+| {{youtube|c=UCuPrcSmgo6twlAQzwYPlSkQ|title=YouTube}}
+| {{youtube|c=UCNPu5zXzXvS6pLCCaI5SnSA|title=YouTube}}
+|-
+| {{twitter|wakario_VTuber|name=Twitter}}
+| {{twitter|ukyo_rst|name=Twitter}}
+| {{twitter|Flavie_VN|name=Twitter}}
+| {{twitter|amanemaho|name=Twitter}}
+| {{twitter|magical_matsuri|name=Twitter}}
+| {{twitter|Ame_Soyokaze|name=Twitter}}
+| {{twitter|nano_phan|name=Twitter}}
+| {{twitter|kurorin_v|name=Twitter}}
+|-
+! 愛守ノユリ&lt;br&gt;(2018年7月7日出道)
+! 雅紅羽&lt;br&gt;{{color|green||まじかるどーる成員}}&lt;br&gt;(2018年7月14日出道)
+! めんたいこ&lt;br&gt;(2018年7月17日出道)
+! 風宮まつり&lt;br&gt;(2018年7月28日出道)
+! 田中好男&lt;br&gt;(田中のおっさん)&lt;br&gt;(2018年8月15日出道)
+! みさわ船長&lt;br&gt;(2018年8月26日轉生)
+! 上乗恋&lt;br&gt;(2018年8月31日出道)
+! 
+|-
+| {{youtube|c=UC5dZzb_MZ0t-qoFxuUr6cLw|title=YouTube}}
+| {{youtube|c=UCzhwXcK9DTiY-VqYjwnjZhQ|title=YouTube}}
+| {{youtube|c=UCr4qBlnkI0DHH9GMeU4tW2A|title=YouTube}}
+| {{youtube|c=UCxp-_zVZcJBwZzjLt-LwAaQ|title=YouTube}}
+| {{youtube|c=UCw5MXcDMVg6oT69yfulq33Q|title=YouTube}}
+| [{{youtube|u=eguzex330|title=YouTube}}]
+| {{youtube|c=UC0wuDDYK-QTwneeZ6x6pPbw|title=YouTube}}
+| 
+|-
+| [https://twitter.com/ice_noyuri/media Twitter]
+| {{twitter|magical_matsuri|name=Twitter}}
+| {{twitter|taiko_hakata|name=Twitter}}
+| {{twitter|matsuri_kzmy|name=Twitter}}
+| {{twitter|tanakayoshio815|name=Twitter}}
+| {{twitter|misawaYouTube|name=Twitter}}
+| {{twitter|Kamijo_Ren|name=Twitter}}&lt;br&gt;[https://p-gabu.jp/ ぱちガブッ！官網]
+| 
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== 海外勢 ===
+(WINKS成員恕不再次列出)
+{| class="wikitable" style="width:100%; margin:auto" align="center"
+! 虎妮&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;(2017年7月6日出道)
+! K'WA&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||upd8成員}}&lt;br&gt;(2018年4月11日出道)
+! 夏日葵&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;(2018年5月31日出道)
+! 菲諾&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;(2018年5月24日出道)
+! 謙謙子&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;(2018年5月22日出道)
+! 雙命裂&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;(2018年5月23日出道)
+! 翔(S.I.)&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;(2018年5月17日出道)
+! 楓靈&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;(2018年8月25日出道)
+|-
+| {{youtube|c=UC6s0wLR0TZauzTVoGGw2r6g|title=YouTube}}
+| {{youtube|c=UCyZZMKRn-mUEkPzaqa9b6bg|title=YouTube}}
+| {{youtube|c=UCLZyaaUwBw2ZvwLt6uY3_bQ|title=YouTube}}&lt;br&gt;[{{youtube|u=Gemhorn0228976878|title=映CG}}]
+| {{youtube|c=UC1_4-bd0eA3cOUiFI-Les6Q|title=YouTube}}
+| [{{youtube|u=KTVmy121|title=YouTube}}]
+| [{{youtube|u=jokeherogjo|title=YouTube}}]
+| {{youtube|c=UCQZU0yEIPNbzI42rwrSopPw|title=YouTube}}
+| {{youtube|c=UCN8rBZfogHpJmBSx6PGFusg|title=YouTube}}
+|-
+| {{twitter|hooniefriends|name=Twitter}}
+| {{twitter|kwa_kon|name=Twitter}}
+| {{twitter|SummerAoi_0810|name=Twitter}}
+| {{twitter|VtuberFerno|name=Twitter}}
+| {{twitter|kennkennko|name=Twitter}}
+| {{twitter|DoubleMing|name=Twitter}}
+|
+| {{twitter|kaede_lei|name=Twitter}}
+|-
+! 糜粉棠&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||二次三次成員}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月21日出道)
+! 霞露凛&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||二次三次成員}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月25日出道)
+! 黛樂琪&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||二次三次成員}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月21日出道)
+! 塔綾絲&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||二次三次成員}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月25日出道)
+!
+!
+! 墨芯&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;(2018年9月15日出道)
+! 閻小妹&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||工作室"冉色斯"人物}}&lt;br&gt;(2018年8月31日出道)
+|-
+| {{youtube|c=UCL131JIlSzydlXwPEI_Ob7Q|title=YouTube}}
+| {{youtube|c=UCYDHWR7KNS_oyWMDhD7oeUg|title=YouTube}}
+| {{youtube|c=UC2BjlkHDiWwkQ1rxFjlooyw|title=YouTube}}
+| {{youtube|c=UCUAtAMbbUuaXkX_NVwth1WQ|title=YouTube}}
+|
+|
+| {{youtube|c=UCaLDy6x8BwWhGSUBwDXGnIg|title=YouTube}}
+| {{youtube|c=UChzFqVL8i3eGm50ACub4fnw|title=YouTube}}
+|-
+| [https://www.facebook.com/mifentan23 Facebook]&lt;br&gt;{{twitter|mifentan23|name=Twitter}}
+| [https://www.facebook.com/siarurin Facebook]&lt;br&gt;{{twitter|siarurin|name=Twitter}}
+| [https://www.facebook.com/Dailechi23 Facebook]&lt;br&gt;{{twitter|Dailechi23|name=Twitter}}
+| [https://www.facebook.com/Talency2434 Facebook]&lt;br&gt;{{twitter|Talency2434|name=Twitter}}
+|
+|
+| {{twitter|5Rhx7ra5aEwIayB|name=Twitter}}
+| {{twitter|YamemeVtuber|name=Twitter}}&lt;br&gt;[https://xanthusci.wixsite.com/animation 冉色斯動畫官網]
+|-
+! 濛濛&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||二次三次成員}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月26日出道)
+! 小早川奈奈&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||二次三次成員}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月30日出道)
+! 艾特勒斯&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||二次三次成員}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月27日出道)
+! 陳框框&lt;br&gt;{{color|green||臺灣}}&lt;br&gt;{{color|green||二次三次成員}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年9月22日出道)
+!
+!
+!
+! i零&lt;br&gt;{{color|green||香港}}&lt;br&gt;(2018年4月27日出道)
+|-
+| {{youtube|c=UCcYK-t2eBsvXfjw6RlmJisQ|title=YouTube}}
+| {{youtube|c=UCyxRYmzSSQF4qxohIpCrtiA|title=YouTube}}
+| {{youtube|c=UC1DvoJj7A6OVaEBHC-uglOA|title=YouTube}}
+| {{youtube|c=UCaJS8ka3_bUheHo_4tB8bIg|title=YouTube}}
+|
+|
+|
+| {{youtube|c=UCx4T7IG_up4Fg1xNB5rQKtQ|title=YouTube}}
+|-
+| [https://www.facebook.com/monmon2434 Facebook]&lt;br&gt;{{twitter|monmon2434|name=Twitter}}
+| [https://www.facebook.com/kobayakawanana Facebook]
+| [https://www.facebook.com/Atles2434 Facebook]&lt;br&gt;{{twitter|Atles2434|name=Twitter}}
+| [https://www.facebook.com/KuangKuang23 Facebook]&lt;br&gt;{{twitter|KuangKuang23|name=Twitter}}
+|
+|
+|
+| [https://www.facebook.com/i0Channel/ Facebook]
+|-
+! 虛擬DD&lt;br&gt;{{color|green||中國&amp;日本}}&lt;br&gt;{{color|red||已停止活動}}&lt;br&gt;(2018年8月1日出道)
+! 虛擬次元企劃(小希&amp;小桃)&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年8月12日出道)
+! 次元醬&lt;br&gt;{{color|green||中國}}&lt;br&gt;{{color|green||APP"超次元"公式up主}}&lt;br&gt;(2017年11月10日出道)
+! MOMO醬&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年3月30日出道)
+! 樂喵&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年3月10日出道)
+! 小眉&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年3月22日出道)
+! Nox&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年4月2日出道)
+! BiBiDao&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年4月28日出道)
+|-
+| [https://space.bilibili.com/267970450 Bilibili ]&lt;br&gt;{{youtube|c=UC9vyQt8JlsI8IvLRCtDjp-w|title=YouTube}}
+| [https://space.bilibili.com/5563350 Bilibili]&lt;br&gt;{{youtube|c=UCw8fnw2VU_Owj9bsPx1CP5g|title=YouTube}}
+| [https://space.bilibili.com/2706257 Bilibili]
+| [https://space.bilibili.com/308688486 Bilibili]
+| [https://space.bilibili.com/483231 Bilibili]
+| [https://space.bilibili.com/373119 Bilibili]
+| [https://space.bilibili.com/2004218 Bilibili]
+| [https://space.bilibili.com/171272634 Bilibili]
+|-
+| {{twitter|xuniDD|name=Twitter}}&lt;br&gt;[https://www.weibo.com/xuniDD 微博]
+| [http://weibo.com/u/6284794477 小希微博]&lt;br&gt;[http://weibo.com/u/6237587011 小桃微博]
+| [https://www.weibo.com/artongren 微博]&lt;br&gt;[http://www.acgvr.com/index.jsp 超次元官網]
+| 
+| [https://www.weibo.com/FlirtMeiChannel 微博]
+| 
+|
+|
+|-
+! 米露可&lt;br&gt;{{color|green||中國}}&lt;br&gt;{{color|green||獸耳科技公式up主}}&lt;br&gt;(2018年6月15日出道)
+! 伊恩姬&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年6月17日出道)
+! 宅九九&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年7月6日出道)
+! 度娘&lt;br&gt;{{color|green||中國}}&lt;br&gt;{{color|green||百度公式up主}}&lt;br&gt;(2018年7月3日出道)
+! Virtual格格&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年3月31日出道)
+! 蘭若Wisteria&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年6月8日出道)
+! tanoki苒佚&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年5月10日出道)
+! あやりる&lt;br&gt;{{color|green||中國}}&lt;br&gt;(2018年6月11日轉生)
+|-
+| [https://space.bilibili.com/327711614 Bilibili]
+| [https://space.bilibili.com/328284808 Bilibili]
+| [https://space.bilibili.com/348664326 Bilibili]
+| [https://space.bilibili.com/291231032 Bilibili]
+| [https://space.bilibili.com/296922215 Bilibili]
+| [https://space.bilibili.com/320740464 Bilibili]
+| [https://space.bilibili.com/5398196 Bilibili]
+| {{youtube|c=UCdOiaZl2VRPTDh6UORJcypg|title=YouTube}}
+|-
+| [https://www.mimikko.cn/ 獸耳科技官網]
+|
+|
+|
+|
+|
+| {{twitter|tanoki233|name=Twitter}}
+| {{twitter|AyaaaRiL|name=Twitter}}
+|-
+! Ami Yamato&lt;br&gt;{{color|green||英國}}&lt;br&gt;(2011年6月13日出道)
+! 夏実萌恵&lt;br&gt;{{color|green||美國}}&lt;br&gt;(2018年7月31日出道)
+! 音無りずむ&lt;br&gt;{{color|green||德國}}&lt;br&gt;{{color|green||upd8成員}}&lt;br&gt;(2018年5月2日出道)
+! Maya Putri&lt;br&gt;{{color|green||印尼}}&lt;br&gt;(2018年8月19日出道)
+! 세아스토리(SE:A)&lt;br&gt;{{color|green||韓國}}&lt;br&gt;(2018年7月10日出道)
+! スズキセシル&lt;br&gt;{{color|green||加拿大}}&lt;br&gt;(2018年1月21日出道)
+! Земля Чан(地球醬)&lt;br&gt;{{color|green||俄羅斯}}&lt;br&gt;(2018年1月26日出道)
+! 有栖マナ&lt;br&gt;{{color|green||日本&amp;韓國}}&lt;br&gt;{{color|green||Project Paryi成員}}&lt;br&gt;(2018年8月1日出道)
+|-
+| [https://www.youtube.com/user/yamatoami/videos YouTube]
+| {{youtube|c=UCBePKUYNhoMcjBi-BRmjarQ|title=YouTube}}
+| {{youtube|c=UCJzg5k2prEhTPMoK0kcBQPg|title=YouTube}}
+| {{youtube|c=UCyZoDBhW8cLrzZ-dqKdQqEg|title=YouTube}}
+| {{youtube|c=UCKg3SYrZl5zskG5fkexUPCQ|title=YouTube}}
+| {{youtube|c=UCvzce5i14VUY-N1FQoPqRbg|title=YouTube}}
+| {{youtube|c=UC3czs41x7HD5-nk_cZ-Eo3g|title=YouTube}}
+| {{youtube|c=UCIaC5td9nGG6JeKllWLwFLA|title=YouTube}}
+|-
+| {{twitter|amiyamato|name=Twitter}}
+| {{twitter|Vtuber_Moe|name=Twitter}}&lt;br&gt;[https://twitter.com/BitYoutube?lang=zh-tw エイレーンTwitter]&lt;br&gt;{{twitter|comdost_art|name=海外營運擔當ComdostTwitter}}
+| {{twitter|otonashirhythm|name=Twitter}}
+| {{twitter|mayaputriid|name=Twitter}}
+| [https://www.facebook.com/세아스토리-178954066312528 Facebook]
+| {{twitter|Cecil_Channel|name=Twitter}}
+| {{twitter|zemlyachan|name=Twitter}}
+| {{twitter|Alicemana_v|name=Twitter}}
+|}
+&lt;br&gt;&lt;br&gt;
+
+=== 廣義Vtuber ===
+==== [https://project-shovel.site/ ShoveL] ==== &lt;!-- 根據公式置頂貼文(https://twitter.com/project_shovel)表示他們不認為自己是Vtuber，而是聲優培訓企劃，所以編輯者放在廣義Vtuber --&gt;
+{| class="wikitable" style="width:75%; margin:auto" align="center"
+! 百合草莉音&lt;br&gt;(2018年7月18日出道)
+! どく&lt;br&gt;(2018年7月18日出道)
+! しき&lt;br&gt;(2018年7月27日出道)
+! 火渡飛鳥&lt;br&gt;(2018年7月5日出道)
+! もか&lt;br&gt;(2018年8月12日出道)
+|-
+| {{youtube|c=UCTaZztwR8_IGxLSrtJlMt8g|title=YouTube}}
+| {{youtube|c=UCZZ5FcNewFK8SVIUPfdWXBg|title=YouTube}}
+| {{youtube|c=UCiNqbhk_v4tWhBiAGqvyi7Q|title=YouTube}}
+| {{youtube|c=UCY_xMbqXtYc7drnKHlylglg|title=YouTube}}
+| {{youtube|c=UCEbetVSPSLSBMvXAm8OW8ew|title=YouTube}}
+|-
+| {{twitter|rion_shovel|name=Twitter}}
+| {{twitter|dokuchan_shovel|name=Twitter}}
+| {{twitter|shiki_shovel|name=Twitter}}
+| {{twitter|asuka_shovel|name=Twitter}}
+| {{twitter|moka_shovel|name=Twitter}}
+|}
+
+&lt;!--
+=== (在表格整理好&amp;個人頁面建立好之前暫時把大家都放在這個分類) ===
+==== のらきゃっと ====
+[[File:Vtuber_noracat2.png|210px]]
+: {{size|24|{{color|Red||'''私の名は　武田ドラキャップ　じゃない！'''}}}}
+
+* 2017年12月開始在Youtube投稿、由ノラネコ個人製作的死魚眼貓耳歌德蘿莉美少女虛擬Youtuber
+** 旁邊的沙發下面混了一隻[[貓]]。&lt;s&gt;[[SCP_Foundation著名項目一覽#SCP-040-JP 是貓請多多指教/ねこですよろしくおねがいします|那是貓。多多指教。]]&lt;/s&gt;
+*** &lt;s&gt;[[SCP Foundation|SCP]]日本支部都在搞什麼啦&lt;/s&gt;
+
+* 動作使用Kinect捕捉，手的動作由Wii遙控控制，聲音由VOICEROID製造，字幕也用語音自動生成技術同步
+** 主要活動是Youtube生放送與觀眾互動，結果常常因技術失誤講出一些腹筋崩壞的口誤而變成其最大特色
+*** &lt;s&gt;処女じゃない&lt;/s&gt;
+
+* 稱自己的粉絲為「ねずみさん」，時常做出魅惑觀眾的舉動，因此也被稱ガチ恋ネコ
+
+* 為個人製虛擬Youtuber中技術偏高的上傳者，也與同是個人虛擬Youtuber的ねこます交流技術
+** &lt;s&gt;因此是けもみみ王國的榮譽國民之一，之後更成為皇妃&lt;/s&gt;
+
+==== カフェ野ゾンビ子 ====
+* 2018年1月開始投稿，某一天突然穿越到[[喪屍]]末日的世界同時自己也變成喪屍，並待在咖啡店裡當Vtuber
+* 節目特色是ゾンビ子使用VR空間玩各種VR機能，這些VR機能能夠在茨城県土浦市的[http://singularity-cafe.com/ Singularity科技咖啡店]玩得到
+* &lt;s&gt;シロ唯一懼怕的女人&lt;/s&gt;
+
+==== 響木アオ ====
+* 2018年2月開始投稿，外觀為清純的小學女生，但影片的感覺卻充滿各種AV捏他，因此被稱為AVtuber
+* {{youtube|c=UCNwo7eikmX5HPs7NedWVBgw|title=公式YouTube頻道}}
+
+==== 空/KON ====
+[[File:Vtuber_KON.jpg|210px]]
+* 2018年4月開始投稿、台灣產的虛擬Youtuber，目前以歌唱動畫為主
+* 與自己的貓型吉祥物「Hooya」組成團體「K'WA」，團名由來是取「かわいい（KaWAii）」和台語的「歌」的發音
+
+==== 萌実 &amp; ヨメミ - エイレーン====
+[[File:Vtuber_eilene.png|210px]][[File:Vtuber_moemi2.png|210px]][[File:Vtuber_yomemi.png|210px]]
+* アニメ娘「エイレーン」於2017年設立的子頻道，在エイレーン原本的頻道轉換成Mirai Akari Project之後本人便繼續在這裡製作影片
+** 頻道主要角色為萌実，影片繼承エイレーン一貫的下ネタ和釣魚縮圖
+* 此頻道的主要成員有：
+** '''エイレーン'''（{{twitter|bityoutube|name=個人Twitter}}）（左）
+*** 於2014年就開始活動的二次元Youtuber，影片的節目策劃和動畫製作皆由她一手包辦
+*** 動畫為Live2D、聲音為語音合成軟件CeVio所製作
+*** 設定為エイレーン一家的次女，另有大姐ベイレーン和小妹紅ベノ
+*** &lt;s&gt;老鴇&lt;/s&gt;
+** '''嫁ノ萌実'''（{{twitter|Moemi_Yomeno|name=個人Twitter}}）（中）
+*** 於2017年在子頻道活動的二次元Youtuber，原為エイレーン動畫其中一位登場的角色
+*** 喜歡稱呼觀眾為「旦那」
+** '''ヨメミ'''（{{twitter|APP_Yomemi|name=個人Twitter}}）（右）
+*** 後來於2018年1月新加入的虛擬Youtuber，自稱虛擬女友，設定為手機應用AI
+*** 喜歡稱呼觀眾為「達令」，外形和萌実非常接近
+**** {{censored|設定是一年前的萌実}}
+**** {{censored|事實上是因為顧及萌実中之人身體的關係，才另外創造了一個角色來分擔拍攝影片的工作}}
+*** &lt;s&gt;本來想要利用「同步控制」功能為達令製作感冒藥，但是卻鍊成了黑暗物質，還使得自己的Twitter帳號停擺好幾天&lt;/s&gt;
+
+==== 猫宮ひなた ====
+[[File:Vtuber_nekomiya.jpg|210px]]
+* 2018年2月開始在Youtube投稿的虛擬Youtuber
+
+* 有如雙葉杏、[[泉此方]]般的貓耳宅女，以超高水準的FPS技術而獲得高人氣
+** 在正式投稿前已經在推特放上《絕地求生》和《CS:GO》的高超技術試玩影片而倍受矚目
+** 在只有2個影片的一個星期就已經達到10萬訂閱者的記錄
+
+* 因為覺得說自己有貓耳會被抓去做研究所以宣稱只不過是睡醒頭髮亂&lt;s&gt;，ねこます表示非常失望&lt;/s&gt;
+
+==== 届木ウカ ====
+* 2018年1月開始在Youtube投稿的千年不老不死美少年虛擬Youtuber
+* 中の人是女生但設定不是[[男裝麗人]]而是真的[[正太]]，因為喜歡《星光樂園》所以以虛擬Youtuber的模式讓她實現夢想
+** &lt;s&gt;I haven't [[歐派|おっぱい]], but maybe [[陰莖|ちんちん]]&lt;/s&gt;
+
+==== もちひよこ ====
+* 2018年1月開始在Youtube投稿的虛擬[[合法蘿莉|蘿莉&lt;s&gt;BBA&lt;/s&gt;]] Youtuber
+* 不只3D模組完全自製，也經常展現出3D模組製作才能及功能
+
+==== ニーツ ====
+*2018年1月開始在Youtube投稿的虛擬Youtuber
+*蘿蔔[[機娘]]，全名為VT-212，竹筍派，常自製3D模組進行腹筋崩壞的物理演算
+**&lt;s&gt;新模組危險到需要加上一件褲子&lt;/s&gt;
+
+==== ばあちゃる ====
+[[File:Vtuber_baacharu.jpg|210px]]
+: {{size|24|{{color|Brown||'''はいはいはいはい！ばあちゃる君です！'''}}}}
+* 2017年7月開始在Youtube投稿、世界最初（自稱）虛擬&lt;s&gt;畜生&lt;/s&gt;男性Youtuber，為穿著西裝的馬頭男
+** 名稱來源是Virtual但開頭ばあ為馬的諧音，另一個暱稱為ウビバ
+** 聲稱馬頭只不過是面具不是真的，自己討厭吃蘿蔔而喜歡吃馬刺
+
+* 背後的企業跟シロ一樣同為株式会社アップランド，領帶上也有シロ的圖案
+** 原本アップランド公式網站有關於他的文章，但後來被刪掉了
+** 曾經在シロ的某次反省繪動畫只露出頭部
+** シロ表示不討厭他，但並不怎麼想理他&lt;s&gt;，[https://www.youtube.com/watch?v=AhykYx0cvZM 但很明顯對馬有所顧忌]&lt;/s&gt;
+
+* 在2017年9月之後曾有一段時間完全沒有任何活動，直到12月Vtuber熱潮來襲後才再度登場
+** &lt;s&gt;被シロ搶掉所有工作所以豪宅被沒收而被流放到荒島&lt;/s&gt;
+** 最近因為訂閱數破了5萬人而獲得了搬家許可，&lt;s&gt;但是營運為他準備的卻是牢房&lt;/s&gt;
+
+* 除了動畫之外一切都很有趣的馬頭人，
+** 把在某次生放送的所得'''全數捐給2018/2/6大地震之後的花蓮'''
+** 於2018年2月開始參與ときのそら「週間VTbuerランキング」的特別環節「今週のウビバ」，專門介紹一些備受注目的新Vtuber&lt;s&gt;在節目轉為文字版之後又失業了&lt;/s&gt;
+** 與帳號被BAN之後剛回歸不久的中國VtuberDD君進行合作，成為首個跨國際合作的Vtuber
+** 在《少女兵器大戦》Vtuber化企劃宣稱擔任她們的製作人&lt;s&gt;，替別人取暱稱都是同一個模式&lt;/s&gt;
+** 2018年3月25日的"禍つヴァールハイト"生放送中更是直接'''以生身之姿出現在觀眾面前'''，&lt;s&gt;雖然戲份只有一下下就下臺了，被シロ稱為使い魔にも満たない男，還在[https://twitter.com/BAyoutuber/status/977749286329856000 推特]上貼他在AnimeJapan買的輝夜月T衫&lt;/s&gt;
+** 在2018年愚人節在推特發出自己AV梗的改圖而被罰面壁思過數天謝罪
+
+==== ときのそら ====
+[[File:Vtuber_tokinosora.jpg|210px]]
+: {{size|24|{{color|Blue||'''[[機動戰士鋼彈 鐵血孤兒|止まるんじゃねぇぞ…]]'''}}}}
+* 用カバー株式会社的hololive開發的虛擬偶像，於2017年9月開始在Youtube投稿
+** 使用hololive的機能，可以在生放送讓觀眾以各種角度觀賞，也提供AR攝影機能
+** 人設和初期3D模型為[https://twitter.com/I_ecakhi/status/947207459952721920 いかき氏]，後來由ときのそら的小組進行改造
+** 相較於一般Youtuber，上傳的影片較少，活動以直播為主，不過後來也應粉絲要求開始製作一些歌唱短片和實況
+* 2018年3月15日，初次在[https://www.youtube.com/watch?v=nF-B0poL9og 生放送]中導入ASMR機能
+
+* 自稱虛擬Youtuber JK，生日是2000年5月15日，又稱為時乃そら
+** 很會唱歌，在[https://youtu.be/MT0fADHhcA4 聖誕夜生放送]表達對自己缺乏個性感到困惑，但觀眾覺得她像「[[姐|姐姐]]」和「媽媽」而讓她自己認知為「很會唱歌的大姐媽媽角色」
+** 身旁會有一個名為「あん肝」熊娃娃模仿她的動作，因為そら沒時間實況遊戲所以代替她製作遊戲影片&lt;s&gt;所以就被解僱了換上熊貓娃娃但後來又回來了&lt;/s&gt;
+** &lt;s&gt;生放送時身體會不時進行謎之前後Step&lt;/s&gt;
+
+* 3D製作和協力由友人A處理，そら稱她為エーチャン
+** エーチャン會負責所有幕後工作，偶爾會在生放送時跟そら講話，必要時會以字幕作說明
+** 由於沒有自己的虛擬形象所以粉絲們從そら談話的情報將友人A二次創作為馬尾&lt;s&gt;貧乳&lt;/s&gt;[[眼鏡]]娘
+** 曾表示希望觀眾不要用色色的眼光對待そら&lt;s&gt;，但そら還是會轉帖她色色的貼文&lt;/s&gt;
+
+* 稱粉絲為「そらとも」&lt;s&gt;，但是另有一說そらとも=豬&lt;/s&gt;
+
+* [http://panora.tokyo/54298/ 2018年2月24日起和PARONA合作「週間VTbuerランキング」]，與VRおじさん広田一同介紹近期流行VTuber的排行榜&lt;ref&gt;不過這個企劃只製作了4集影片就宣告停止，改為純文字版&lt;/ref&gt;
+
+* &lt;s&gt;和ミライアカリ是[[GL|姬友]]，稱のらきゃっと為師匠&lt;/s&gt;
+
+==== あんたま ====
+* 由鈴木あんず和白藤環組成的虛擬Youtuber雙人組合，為岩本町芸能社開啟的VR偶像企劃
+** 另有三位女優部的成員：日向奈央、栗原桜子、夏目ハル，後來與あんたま組成「えのぐ」
+
+==== 馬越健太郎 ====
+* 2017年12月正式登場、岩本町芸能社旗下的虛擬人馬Youtuber，為あんたま的前輩，自稱天才緋優
+** &lt;s&gt;被理所當然的和ばあちゃる湊成CP&lt;/s&gt;
+
+==== 東雲めぐ ====
+[[File:東雲めぐ2018.png|210px]]
+* 2018年2月開始在Youtube投稿、株式会社シーエスレポーターズ・Gugenka旗下的虛擬Showroomer，主要活動於生放送網站[https://www.showroom-live.com/ SHOWROOM]，人設和模組為{{twitter|choco_ikarashi|name=五十嵐拓也}}
+* 喜歡卡拉OK和可愛東西、夢想成為歌手的中學三年級治愈系元氣少女，生日為4月6日，特徵是&lt;s&gt;たくあん&lt;/s&gt;粗眉，為うたっておんぷっコ♪的角色
+* 生放送的特徵為使用SHOWROOM的積分系統讓觀眾們捐送禮物，積分的禮物將直接顯現在東雲めぐ的VR世界
+
+* 相關連結：
+**[https://gugenka.jp/original/onpukko.php 官網]
+**[https://www.youtube.com/channel/UCNA0XC_zxS63d4Q-JMIMyug/ 公式YouTube頻道]
+**[https://www.showroom-live.com/megu SHOWROOM頻道]
+
+==== 虹河ラキ ====
+*2018年2月開始在Youtube投稿、山佐スロワールド旗下的虛擬Youtuber，人設為{{twitter|fujimatakuya|name=藤真拓哉}}
+*&lt;s&gt;為了宣傳角子機而被黑道強迫成為Vtuber&lt;/s&gt;
+
+* 相關連結：
+**{{youtube|c=UCp77Qho-YHhnklRr-DkjiOw|title=公式YouTube頻道}}
+**[http://laki-station.jp/ 官網]
+
+==== 藤崎由愛 ====
+[[File:Vtuber_yua2.png|210px]]
+: {{size|24|{{color|Pink||'''おはYUA！'''}}}}
+* 由Exys株式会社旗下的虛擬Youtuber，2017年9月開始在Youtube投稿
+** 3DCG由Digital Frontier製作，服裝為製作AKB48衣裝的オサレカンパニー所設計
+* 暱稱「YUA」，16歲&lt;s&gt;影薄&lt;/s&gt;普通女子高生，生日是10月4日，家族有父母和弟弟
+** 與其他虛擬Youtuber不同的是她認為自己是真正的女子高生
+** &lt;s&gt;除了胸部很大外沒有太多特色&lt;/s&gt;
+** 最近把原本的毛衣換成了類似學生服的服裝
+** 為了獲得更多海外觀眾&lt;s&gt;但大部分是印尼觀眾&lt;/s&gt;而在某些影片向英語老師&lt;s&gt;Debitto&lt;/s&gt;大衛學習英語&lt;s&gt;結果比YUA本人還有人氣&lt;/s&gt;
+
+* &lt;s&gt;バーチャルYoutuber四天王裡的元第五人，已經被除名&lt;/s&gt;
+** &lt;s&gt;常常被繪師在虛擬Youtuber穿越圖給遺忘{{censored|，尤其聲優疑似為曾配[[輕鬆百合/ゆるゆり|{{censored|赤座あかり}}]]的三上枝織}}便附上[[陰影人]]的屬性了&lt;/s&gt;
+** &lt;s&gt;由於在所有Vtuber中明明算是大公司企劃有著強大的資源技術而集結了人氣，但在節目策劃上卻差強人意，在Vtuber熱潮爆發後很快就被其他Vtuber超越了&lt;/s&gt;
+** &lt;s&gt;之後更被網民戲稱為'''YUA線'''來區分Vtuber二軍和三軍，只要人氣高過她便是合格的二軍&lt;/s&gt;
+
+* 相關連結：
+** {{youtube|c=UC_zztIHGbBz9L-ZM-Ta2O1Q|title=公式YouTube頻道}}
+** {{twitter|yua_ch|name=個人Twitter}}
+
+==== バーチャルおばあちゃん ====
+[[File:Vtuber vb.png|210px]]
+: {{size|24|{{color|Gray||'''おそろしいねぇ'''}}}}
+* 2018年1月登場的虛擬Youtuber，簡稱VB，原為すあだ氏頻道創造的作品之一
+**在獨立成一個頻道之後一個星期訂閱者數便超越すあだ的頻道了
+
+* 外表為80歲左右的外國老婆婆，模組為FaceRig所附上的免費3D樣本
+* 時常說出一些[[黑色幽默]]和過激不謹慎言論
+
+* 在某次《生化危機7》生放送遊戲沒辦法正常運作而即興彈起三味線（實際上是吉他）唱歌，讓觀眾驚歎他的才華
+**由於大受好評所以之後便不定期在早晨「おはようバーチャルおばあちゃん」生放送開三味線演唱
+
+* 有時會客串すあだ另一個Vtuber頻道さょちゃん，在童話故事朗讀生放送中共演
+
+* 相關連結：
+** {{youtube|c=UCTMgd9qnUD9qKBX5oTtD6ug|title=公式YouTube頻道}}
+** {{twitter|virtual_obachan|name=個人Twitter}}
+
+==== {{youtube|c=UC2ZVDmnoZAOdLt7kI7Uaqog|title=ゲーム部プロジェクト}} ====
+[[File:Vtuber-kaede.png|210px]][[File:Vtuber miria.jpg|210px]][[File:Vtuber ryo.jpg|210px]][[File:Vtuber haruto.jpg|210px]]
+* 2018年3月開始的虛擬Youtuber企劃，模組製作為{{twitter|paint002|name=ぽんぷ長}}和{{twitter|tomitake_3d|name=トミタケ}}，人設模組監修為{{twitter|necomi_info|name=necömi}}
+**節目主要內容為動漫及輕小說般的校園背景設定，由四位Vtuber參與被稱為「遊戲部」的社團活動，並進行遊戲實況和解說
+
+* 遊戲部由四名私立高中生所組成，四人分別為：
+**'''夢咲楓''' （{{twitter|kaede_gamebu|name=個人Twitter}}）（左一）
+*** 遊戲部的部長，擅長的遊戲為《[[神奇寶貝|精靈寶可夢]]》和《Shadowverse》，人設為necömi
+*** 在玩遊戲的時候習慣直接喊出[[必殺技]]&lt;s&gt;，結果比某中二還要中二&lt;/s&gt;
+*** 中學時期曾經是籃球部的王牌，但發生了某些事而放棄了籃球員的活動
+**'''桜樹みりあ'''（{{twitter|Miria_gamebu|name=個人Twitter}}）（左二）
+***遊戲部的部員之一，喜歡玩《精靈寶可夢》，人設為{{twitter|azure_0608|name=あずーる}}
+**'''風見涼'''（{{twitter|Ryo_gamebu|name=個人Twitter}}）（右二）
+***遊戲部的部員之一，擅長的遊戲為《[[任天堂明星大亂鬥]]》，人設為necömi
+***[[偽娘]]，平時會穿男生的制服
+**'''道明寺晴翔'''（{{twitter|Haruto_gamebu|name=個人Twitter}}）（右一）
+***遊戲部的部員之一，擅長的遊戲為《[[Splatoon]]》，人設為necömi
+***[[中二病]]，喜歡的動畫是《[[魯路修‧V‧不列顛尼亞|Code Geass 反叛的魯路修]]》
+***聲稱負責遊戲部影片剪輯和縮圖編輯&lt;s&gt;，經常把部長的影片縮圖弄得有病或色氣&lt;/s&gt;
+
+==== 霊電カスカ ====
+* 2017年12月開始投稿的幽靈虛擬Youtuber
+** 因是使用的3D模型是拿他人作品改作而成被原作者抓包，在製作好新的3D模型前一度宣佈無限期停止活動
+** 後在2018年5月6日重新復出&lt;s&gt;（或者說重新死亡?)，阿彌陀佛&lt;/s&gt;
+
+* 常常開自己死亡及成佛玩笑，在她上面還有一個幽靈哥哥チアキ
+
+==== ねむ ====
+* 2017年9月開始在Youtube投稿的「虛擬美少女」Youtuber，目的是展開「人類美少女計劃」
+* 節目內容主要是虛擬貨幣投資以及虛擬Youtuber相關的雜談
+* お前は誰だ...⚡️
+
+==== さはな ====
+* 2017年12月正式登場的虛擬Youtuber，因喜歡虛擬Youtuber而成為虛擬Youtuber，模組幾乎從零開始做起
+
+==== {{youtube|c=UCL4fRQySQCXL_JXlQtCwN5A|title='''ぜったい天使くるみちゃん'''}} ====
+* 2018年1月開始投稿，自稱從天界下來人間的天使，擁有天使般的歌聲&lt;s&gt;與平常BBA般的語氣形成很大反差&lt;/s&gt;
+** 於2月14日被有心人駭了所有社交帳號，目前Vtuber無限期引退中，有在[https://mqube.net/user/zti_kurumi 其他地方]上傳歌曲&lt;s&gt;變成虛擬Mquber了&lt;/s&gt;
+
+==== {{youtube|c=UCPH7d3YxfeH56FG-UyPAB1g|title='''あっくん大魔王'''}} ====
+* 2018年1月開始投稿，自稱999歲的&lt;s&gt;童貞&lt;/s&gt;大魔王，稱觀眾為下等生物&lt;s&gt;但為人超謙虛的&lt;/s&gt;
+
+==== {{youtube|c=UC8QEgcJgjrJWy4B43aXxsAQ|title='''乾伸一郎'''}} ====
+* 2018年1月開始投稿，自稱忍者
+* 擅長玩FPS，而且（就投稿動畫時間先後而言）是第一個在PUBG裡「吃雞」的Vtuber
+* &lt;s&gt;エロ忍者&lt;/s&gt;
+
+==== {{youtube|c=UC2hA-6M66dE2Tt_4xM8K9wQ|title='''バーチャルゴリラ'''}} ====
+* 2018年1月開始投稿，很明顯的就是會說人話的猩猩
+* 令人意外的歌聲超好聽，成為很會唱歌的Vtuber之一
+
+==== {{youtube|c=UCHXgFLFyqR-XqtxfTH3qiYA|title=ディープブリザード（深雪）}} ====
+* 2018年2月開始投稿，為使用中二語調的獸人魔王
+* 但性格與其外表設定落差很大，在玩遊戲遇到挫折時很容易就哭，而且還有著強大的繪師技能
+
+==== {{youtube|c=UC7IyAJq03ohb0TpGqsFfPng|title=つのはね あかぎ}} ====
+* 2018年2月開始投稿，外觀是有羽毛耳的美少女魔法師，人聲卻是イケボ
+** 由於本身正在學習製作遊戲，因此節目性質是使用遊戲的機能製造各種&lt;s&gt;廚二&lt;/s&gt;絢麗的RPG效果
+
+==== {{youtube|c=UCDVXivWK9feX2iRBc3SFegw|title=薬袋カルテ}} ====
+* 2018年2月開始投稿，自稱為了虛擬診療所的虛擬病患者而投稿
+* 外表為灰色色調的雙馬尾護士，擁有頹喪風格氣氛，聽起來非常喜歡[[SCP Foundation|SCP]]系的事物
+
+==== {{youtube|c=UCFv2z4iM5vHrS8bZPq4fHQQ|title=田中ヒメ}} ====
+* 2018年3月開始投稿，人設為{{twitter|haru_sugar02|name=しゅがお}}
+*外觀為中華娘，擁有輝夜月般的氣質&lt;s&gt;，明明是中華風格卻姓田中還在片尾跳盆踊り&lt;/s&gt;
+
+==== {{youtube|c=UCGaUWM5OQ7hU1JwbqvNBR4w|title=鳩羽つぐ}} ====
+[[File:鳩羽つぐ2018.png|210px]]
+* 2018年2月開始投稿，人設為{{twitter|__lm7__|name=LM7}}
+*聲稱住在西荻窪的少女，影片都屬於灰色氣氛系和專注在她的生活動作而充滿謎團，在上傳第一個影片後有一個月時間沒有動靜引發網民亂猜測她被誘拐和製作[[都市傳說]]
+
+==== {{youtube|c=UCfiK42sBHraMBK6eNWtsy7A|title=かしこまり}} ====
+* 2018年2月開始投稿，夢想成為偶像的虛擬歌姬&lt;s&gt;，與KBTIT無關&lt;/s&gt;
+* 喜歡在生放送飲酒而容易醉，有個浮動手拍鈴經紀人夥伴パンディ&lt;s&gt;，形象和夥伴簡直是衝著富士葵組合而來的&lt;/s&gt;
+
+==== {{youtube|c=UCIdEIHpS0TdkqRkHL5OkLtA|title=名取さな}} ====
+* 2018年3月開始投稿，是在臨海虛擬療養院的虛擬護士
+* 因為如同朋友般親暱而愉快的談話，而得到了穩定的人氣，不過在背景中似乎藏著些黑暗的設定
+
+==== 虎妮 Hoonie ====
+[[File:Vtuber_Hoonie.jpg|210px]]
+* 2017年7月開始在Youtube投稿、臺灣產的虛擬Youtuber，Yahoo TV上的節目主持人之一，人設為[https://www.facebook.com/SAFEHOUSET/photos/a.578200982249369.1073741828.545593308843470/1393266294076163/?type=3&amp;theater SAFE HOUSE T]
+
+* 大概是台灣第一個出現的企業勢Vtuber，特色是說話臭奶呆{{ref|從生放送的放送事故中可得知臭奶呆並非本音}}
+** [http://img.komicolle.org/2018-06/15283754698775.webm &lt;s&gt;霜層存牛漏&lt;/s&gt;]
+** 隨著2017年末Vtuber熱潮的影響逐漸為海外觀眾所知
+*** 趁著這股熱潮，虎妮也開設推特帳號與日本Vtuber們交流
+
+* 本人疑似島民，也有工讀生會上Vtuber板
+
+* 受綜合島民喜愛的Vtuber
+** 2018年6月7日第一次生放送，[http://komicolle.org/c/42402 當天綜合的實況串超過300篇]
+
+* 會說一點日文，也能唱日文歌，欲張りセット中收錄的一人紅白可能是最早為日本人所知的一面
+** 近期的影片都會加上日文字幕，可看出想拓展日本觀眾
+*** 以日文經營推特加上日文字幕的策略確實有效，在5ch的Vtuber討論串中時不時會提到虎妮，生放送當天的日文留言都快要比中文多，投錢也有不少是日幣
+
+* 相關連結：
+** {{youtube|c=UC6s0wLR0TZauzTVoGGw2r6g|title=公式YouTube頻道}}
+** [https://tw.tv.yahoo.com/hoonie_friends Yahoo TV]
+** [https://www.facebook.com/hoonie.friends/ 官方粉絲團]
+** {{twitter|hooniefriends|name=公式Twitter}}
+
+==== 菲諾 ====
+[[File:Vtuber_Ferno.jpg|210px]]
+* 2018年5月開始投稿、台灣產的虛擬Youtuber
+* 相關連結：
+** {{twitter|VtuberFerno|name=公式Twitter}}
+** {{youtube|c=UC1_4-bd0eA3cOUiFI-Les6Q|title=公式YouTube頻道}}
+
+==== 虛擬DD ====
+* 2018年1月開始投稿、中國產的虛擬Youtuber
+* 在某個效法前輩（某種意義上）的影片之後帳號被ban到2月底…
+** 但是復活之後居然馬上和ばあちゃる進行了合作影片
+** 而第2次合作甚至找了さはな合唱MAD
+
+* 相關連結：
+** {{youtube|c=UC9vyQt8JlsI8IvLRCtDjp-w|title=公式YouTube頻道}}
+** [https://space.bilibili.com/267970450#/ 公式Bili頻道]
+
+==== VD Project ====
+* 2018年1月開始投稿、中國產的虛擬Youtuber，正式名稱為小希
+** 不過跟DD比起來主力比較放在BiliBili
+
+* 相關連結：
+** {{youtube|c=UCw8fnw2VU_Owj9bsPx1CP5g|title=公式YouTube頻道}}
+** [https://space.bilibili.com/5563350#/ 公式Bili頻道]
+
+==== [https://space.bilibili.com/308688486?spm_id_from=333.338.v_upinfo.2#/ MOMO醬] ====
+* 2018年3月開始投稿、中國產的虛擬Youtuber
+** 目前尚未登陸YouTube，&lt;s&gt;所以應該叫做虛擬Bilibilier&lt;/s&gt;
+
+==== {{youtube|c=UCx4T7IG_up4Fg1xNB5rQKtQ|title=I0}} ====
+* 2018年4月開始在Youtube投稿、香港產的虛擬Youtuber
+
+==== {{youtube|c=UC3czs41x7HD5-nk_cZ-Eo3g|title=Земля Чан（Zemlya Chan）}}====
+* 2018年1月開始在Youtube投稿、俄羅斯產的虛擬Youtuber，角色模組為[[地球醬]]
+
+
+==== Ami Yamato ====
+** 2011年登場的3D虛擬角色Youtuber，嚴格來說是最早以個人3D虛擬角色參與影片活動的上傳者
+*** 主要使用AR技術將3D動畫角色面孔附加在現實的影片記錄自己的生活&lt;s&gt;，3D模組有恐怖谷效應&lt;/s&gt;
+*** 本人否認自己是虛擬Youtuber，稱自己比較像是虛擬Vlogger
+** 雖然會說日語但上傳者是日裔英國人
+** [{{youtube|u=yamatoami|title=公式YouTube頻道}}]
+
+==== みゅ みゅ ====
+** 於2014年就開始在ニコニコ生放送進行VR現場直播的謎之技術生放送主，由於其技術力、說教和大叔的個性被觀眾稱為「教授」
+** 主要是在一個VR虛擬空間扮演可愛MMD女性角色，主要形象是[http://3d.nicovideo.jp/alicia/ アリシア・ソリッド]，特點是觀眾的彈幕、頭像和推文會在這個虛擬空間同步形成文字從上面落下來
+*** 在數次生放送{{sm|32497585|使用過キズナアイ和ミライアカリ的MMD模組進行角色扮演}}
+*** 後來成為虛擬Youtuber的ねこます也曾以ねこま模組{{sm|31547464|出席他的生放送當特別嘉賓}}
+** 在12月虛擬Youtuber熱潮中注目度提高，在2018年1月{{sm|32539127|生放送}}中獲得排行第一&lt;s&gt;，結果推文變得像是瀑布&lt;/s&gt;
+** 曾強烈表示自己並不是虛擬Youtuber
+***{{censored|但擁有另一個虛擬Youtuber身份{{youtube|c=UC_IfjiHP6UnWE0NNog_n_3A|title={{censored|あいえるちゃん}}}}，屬於株式会社インフィニットループ旗下}}
+** {{youtube|c=UC_tFMq_yvulj-yzQDqmH9SQ|title=公式YouTube頻道}}
+:: [http://www.nicovideo.jp/user/567260 公式ニコ頻道]
+
+==== ちゆ12歳 ====
+**2001年2月14日由テキストサイト執筆者創造出來的世界第一位虛擬網路偶像，為假想世界裡的電子妖精
+**於2018年2月14日為了慶祝17週年而轉職成虛擬YouTuber
+**&lt;s&gt;年齡詐欺&lt;/s&gt;
+**{{youtube|c=UCg49h2KFnB3SH1efaI_njVg|title=公式YouTube頻道}}
+
+==== 源元気 ====
+[[File:Vtuber_gengen.png|210px]]
+: {{size|24|{{color|Orange||'''せやから裸なんです'''}}}}
+
+* 2018年1月開始在YouTube投稿的肌肉男[[兄貴]]虛擬YouTuber，暱稱是「げんげん」
+** 製作人為コウノスケ，表情模組使用Live2D Cubism製作，聲音是AITalk3合成音聲製作，關西腔
+** コウノスケ在推特表示自己想要創作[https://twitter.com/kounosuke0808/status/950226089674096641 讓基佬大叔喜歡的可愛男子高生]，結果就創造出{{sm|32562643|汗臭そうな筋肉野郎系虛擬YouTuber}}
+
+* &lt;s&gt;刷世界觀首抽，&lt;/s&gt;節目特點就是影片每一次都會有不同世界觀設定背景然後總是立下[[死亡フラグ]]，大部分都超出觀眾想像
+** 主要流程是げんげん每次都以不同身份和裝扮錄製影片當YouTuber，不時透露出該話非常令人不安的世界觀、環境、老梗情節
+** げんげん角色可以是共產主義者、殺人事件角色、魔王、漂泊者、怪盜等等，性格都非常爽朗豪放
+** 影片最後都是留下讓觀眾覺得他死定了的伏筆，接下來下一個影片又是全新的世界，因此獲得「世界線リセマラ男」的稱呼
+
+* 相關連結：
+** &lt;s&gt;{{youtube|c=UCNt2ZN3usTdTdRV9HJvYAsQ|title=公式YouTube頻道}}&lt;/s&gt;（原頻道，已經沒有更新）
+** {{youtube|c=UCVdQRexx_XYLRGk1ouo4iSA|title=公式YouTube頻道}}（コウノスケ的頻道）
+** {{twitter|kounosuke0808|name=コウノスケ的Twitter}}
+
+==== バララ と カレン ====
+* 由バララ與カレン組成的虛擬YouTuber雙人組合，為「先驅少女」計劃之一
+* 自2017年9月之後就幾乎沒在活動...2018年3月時於Twitter表示因為現實家庭因素而不得不中止這個計畫...
+* {{youtube|c=UCpAcI-1ZUZVBNXzAd7pTMAA|title=公式YouTube頻道}}
+* {{twitter|potapota_ramen|name=公式Twitter}}
+
+==== 田中のおっさん ====
+[[File:GrbNkhLF_400x400.jpg|210px]]
+: {{size|18|{{color|Red||''' 中の人の話はだめよ'''}}}}
+
+* 2018年8月15日開始出現的YouTube，本名田中好男，自稱田中のおっさん，55歲。
+* 看起來只是個&lt;s&gt;毫無特色的&lt;/s&gt;中年大叔，不過卻有著某大牌聲優的聲帶…
+** [[大塚明夫|中の人の話はだめよ]]
+
+* 相關連結：
+** [http://dirtyoldman-tanaka.com/ 公式網站]
+** {{youtube|c=UCw5MXcDMVg6oT69yfulq33Q|title=公式YouTube頻道}}
+** {{twitter|tanakayoshio815|name=公式Twitter}}
+--&gt;
+
+== MAD、MMD ==
+* {{sm|32465534|バーチャルYouTuberで天国と地獄}}
+** &lt;s&gt;地獄與地獄&lt;/s&gt;
+
+* {{sm|32580509|シロイルカでRED ZONE}}
+** &lt;s&gt;超越人類可聽頻率的新一代海洋發聲樂器&lt;/s&gt;
+
+* {{sm|32578878|バーチャルYoutuber達がサイコパスと化したようです}}
+** &lt;s&gt;シロ朝著稱霸（物理）Vtuber業界的目標前進&lt;/s&gt;
+
+* {{sm|32510275|のじゃおじ「のじゃぁ……んっ…んじぁ…あっ…ぁ…あっんっ…」}}
+** 戀妹OP
+
+* {{sm|32632213|バーチャルYouTuber de きしめん}}
+** きしめん
+
+* {{sm|32560327|シロイルカが極楽浄土に送ってくれるようです。}}
+** 本來只是一個普通的(?)極楽浄土MMD，沒想到後來居然'''直接在本家的公式動畫中受到シロ本人的介紹'''，於是製作者就成為了シロ組名譽幹部（？）
+
+* {{sm|32814263|キズナピピック【バーチャルYoutuberみんなでMADをつくってみた！】}}
+** [[POP TEAM EPIC]]主題曲MAD，音源使用{{sm|32651410|愛醬人力歌唱}}
+
+* {{sm|32820489|キズナオドル}}
+** ココロオドルMAD
+
+== 相關條目 ==
+*'''內部連接'''
+** [[初音ミク]]
+** [[結月ゆかり]]
+** [[遊戲實況]]
+** [[Hololive]]
+** [[MikuMikuDance]]
+
+*'''外部連接'''
+** [https://dic.pixiv.net/a/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%ABYouTuber バーチャルYouTuber - Pivix百科事典]
+** [http://dic.nicovideo.jp/a/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AByoutuber バーチャルYouTuber - ニコニコ大百科]
+** [http://virtualyoutuber.wikia.com/wiki/Virtual_Youtuber_Wiki Virtual YouTuber Wiki(英文)(Fandom)]
+** [http://zh-tw.virtualyoutuber.wikia.com/wiki/虛擬Youtuber_Wiki 虛擬YouTuber Wiki(Fandom)]
+** [https://zh.moegirl.org/%E8%99%9A%E6%8B%9FUP%E4%B8%BB# 虛擬UP主 - 萌娘百科]
+** [https://virtual-youtuber.userlocal.jp/ バーチャルYouTuberランキング(User Local)]
+** &lt;s&gt;[https://vtuber.jp/ VTuber.jp]&lt;/s&gt;
+** &lt;s&gt;[http://vtuberinfo.com/index.php Vチューバー情報収集所]&lt;/s&gt;
+** [https://vtuber-post.com/ Vtuber post]
+** [https://forum.gamer.com.tw/A.php?bsn=60608 巴哈姆特 虛擬YouTuber版]
+
+*'''K島專版'''
+** [https://luna.komica.org/74/ K島Virtual YouTuber版]
+** [https://luna.komica.org/vtuber_archive/index.htm K島Virtual YouTuber版檔案區(201803~201901)]
+** [https://luna.komica.org/vtuber_archive2/index.htm K島Virtual YouTuber版檔案區(201901~201905)]
+** [https://luna.komica.org/vtuber_archive3/index.htm K島Virtual YouTuber版檔案區(201905~201908)]
+** [https://luna.komica.org/vtuber_archive4/index.htm K島Virtual YouTuber版檔案區(201908~201911)]
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+== 註解 ==
+&lt;references /&gt;
+
+[[Category:網路文化]]
+[[Category:角色列表]]
+[[Category:虛擬YouTuber| ]]

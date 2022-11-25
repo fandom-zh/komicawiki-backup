@@ -1,0 +1,1140 @@
+
+
+{{h0|UTAU }}
+{|class="wikitable" style="margin:1.5em auto;text-align:center;"
+|本條目歡迎有興趣的朋友加以&lt;s&gt;永遠寫不完&lt;/s&gt;補完。
+|-
+|若各位對於條目中角色有不滿也請不要惡意攻擊，否則後果請自行負責。
+|}
+==解說==
+* &lt;s&gt;跟[[VOCALOID]]差不多的東西&lt;/s&gt;，又有別於[[VOCALOID衍生品種]]的原創音源角色。
+* 正式名稱為「歌聲合成工具UTAU」(歌声合成ツールUTAU)，此產品為熱心網友製作的人力VOCALOID支援軟體&lt;ref&gt;前身是人力VOCALOID"炉利音コム"而開發支援軟體&lt;/ref&gt;。由飴屋／菖蒲氏&lt;ref&gt;在[[ニコニコ動画]]又稱飴屋P&lt;/ref&gt;開發。可免費下載，可以自行錄音後製作成聲音資料庫使用。
+* 特點是可以使用自己或者他人錄製的50音WAVE數據資料，在該軟體資料庫登錄之後，便可用該聲音合成歌曲。
+** 由於是免費的關係，令聲音合成變成很容易做到的事
+** 另外音源更新絕對比VOCALOID快，所以可以快速增強功能
+* 早期不支援英文(羅馬拼音)資料庫，在當時所有的聲音資料必須弄成日文形式，因此只有日文音源，且輸出後機械感有點重。另外對非日文系統的支援度極差，所以當機跳出和錯誤訊息頻發是常有的事。
+** 連續音源和強連續音源的出現，使聲音更自然流暢。&lt;s&gt;但仍然是很UTAU。&lt;/s&gt;
+** 但在調教者的不斷進步，漸漸某些UTAU的水準甚至可以比&lt;s&gt;本家&lt;/s&gt;VOCALOID更高
+** 不過在新版支援羅馬拼音後，也開發出了其他語言的音源，像是中文、英文、法文、俄文、韓語、西班牙語、義大利語、他加祿(菲律賓)語、泰語、越南語……等。
+** 新合成器moresampler出現後，大幅降低了機械音，使聲音聽起來更自然，讓UTAU又邁進了一大步。
+** 也有用UTAU收錄一些非人聲發音的音，以此做成了無生物/無機物UTAU，&lt;s&gt;UTAU去掉UTA&lt;/s&gt;
+* 自從UTAU出現後，以後誕生的原創音源角色都有屬於自己的聲音，不再止於圖像&lt;ref&gt;使用UTAU的角色都不被視為VOCALOID亞種而是UTAU&lt;/ref&gt;。
+
+*&lt;b&gt;UTAU連續音源&lt;/b&gt; － 於2009年8月正式公佈。採用連續的單音組合作聲音資料庫以減少發聲合成時出現的不自然和出現雜音的現象，使得聲音更自然流暢。
+**通常以VCV(母音/子音/母音)為單位組合加聲音波形編輯的方式收錄。後來發展成類似VOCALOID錄音咒文的複雜連續單音和高低起伏的組合。
+**收錄方式比較複雜和相對的錄音/編輯時間比較長。&lt;s&gt;所以有不少"裡面的人"(提供自己聲音作為音源者)都卡點了&lt;/s&gt;
+**首個搭載連續音源是[http://www.nicovideo.jp/watch/sm7808787 桃音モモ]
+
+*&lt;b&gt;HANASU&lt;/b&gt; － UTAU的說台詞用輔助程式，名字由來自&lt;b&gt;話す&lt;/b&gt;。
+
+*&lt;b&gt;おま☆かせ&lt;/b&gt; － UTAU內置的自動調整功能。&lt;s&gt;懶人專用&lt;/s&gt;
+**&lt;s&gt;不斷增加中&lt;/s&gt;
+
+== &lt;b&gt;VIPPALOID&lt;/b&gt; ==
+*又稱&lt;b&gt;VIP&lt;/b&gt;、&lt;b&gt;VIPPA&lt;/b&gt;、&lt;b&gt;VIPPER&lt;/b&gt;、&lt;b&gt;VOC@LOID&lt;/b&gt;
+* 即是從2CH VIP板釣魚計劃產生出來的UTAU, &lt;s&gt;奇怪&lt;/s&gt;人設、"裡面的人"和釣魚官網是特色。可能是釣魚比較有印象的關係, 角色的認受性通常都不差&lt;s&gt;熱潮過後是否有人記得又是另一回事&lt;/s&gt;。 到後來甚至有人每到特定的時候 都在期待新的VIPPALOID誕生。 
+**VIPPALOID看似是一個UTAU品牌, 但實際上每個角色都是各自一個製作團隊。
+**&lt;s&gt;也有不少只有釣魚沒有正式成為UTAU胎死腹中的角色不在此列&lt;/s&gt;
+* 活躍於MikuMikuDance動畫
+
+*使用VIPPALOID合唱的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm12598160 初音ミクの分裂→破壊] ||  || 
+|-
+|[http://www.nicovideo.jp/watch/sm12543908 くたばれPTA] || ｔｋｍｒ || 全都是問題學生的VIPPALOID們
+|-
+|[http://www.nicovideo.jp/watch/sm20468062 ヤンキーボーイ・ヤンキーガール] || ナイトウ || 
+|}
+
+=== 重音テト(Kasane Teto) ===
+[[File:img2936.png|150px|right]]
+* 人物設定是 線(Sen / 插畫家)
+* 聲音由小山乃舞世提供&lt;ref&gt;最初是大山のぶ代。順帶一提跟很多UTAU甚至是VOCALOID有點不太一樣，重音的聲音是小山乃舞世的聲音先做過調整(似乎是調高Pitch還有很多處理)之後再弄成的UTAU，因此就算是小山乃舞世本人要發出重音的聲音也不是那麼簡單。&lt;/ref&gt;
+* 原本是2008愚人節前夕由匿名留言板2ch發起騙人企劃，用作捉弄人的虛擬偶像。不但是畫像，連詳細設定及官方網站都造出來了。&lt;ref&gt;&lt;s&gt;http://crvipton.jpn.org/ &lt;/s&gt; http://kasaneteto.jp/&lt;/ref&gt;
+** 因為最初算是初音的亞種，2010年4月1日，テト生誕二周年記念日，得到C社承認為獨立原創角色，並代理 重音テト 商業利用窗口，所以受C社的PCL版權保護，UTAU中的特例。
+* 本來是只有一天壽命的「嘘の歌姫」，後來卻因為網友太有愛而透過UTAU所誕生的特別存在。
+* 最有名的UTAU，能在超會議中的VOCALOID出演部分佔一席
+* 因為輩分和人氣的關係，在UTAU一眾之中多半處於中心地位
+* 口頭禪「&lt;b&gt;君はじつに馬鹿だな&lt;/b&gt;」(你實在是很笨吶！)
+** 這是致敬每次大雄找哆拉A夢求救時 後者抱怨的發語詞。&lt;s&gt;選這句的本意是嘲笑把騙人企劃當真的人&lt;/s&gt;)&lt;ref&gt;因為當初在討論外型時有提到拿哆拉A夢來改造的意見(雖然被廢案、不過因此殘留了對其致敬的口頭禪)，所以現在在MMD中會看到被稱為"初代様"&lt;s&gt;怪噁心一把&lt;/s&gt;的奇妙衍生角色。&lt;s&gt;據說那傢伙頭兩側像沙葫蘆的怪東西是反重力引擎&lt;/s&gt;&lt;/ref&gt;
+** 原本是用來耍傲嬌用的，但大多二次作品中都用作吐嘈或耍白目......
+* 性別是「奇美拉」([http://tw.nicovideo.jp/watch/sm5909001 ぽっぴっぽーMk－Ⅱ]的空耳)。&lt;s&gt;怎麼跟人物設定者的名字一樣&lt;/s&gt;
+* 持有物是法國麵包
+* CD「0401 -The Best Days of 重音テト」發售，令重音成為第一個正式進入商業CD行列的UTAU
+* 同人設定：
+** 遇到老鼠時會出現第二形態，雙馬尾可如[[鑽頭]]般旋轉。&lt;s&gt;デフォ子曾唬濫說左右的轉速不同 還真的有一瞬間騙到テト自己...那不是你身體的一部份嗎？(＝_＝)&lt;/s&gt;
+** 目前二創已演化成第二形態是背上長出蝙蝠翅膀，皮帶會變成惡魔[[尾巴]]，並變出巨大的惡魔鐮刀作為武器
+*** 她的皮帶是從裙子&lt;b&gt;裏面&lt;/b&gt;伸出來的......
+** 很介意自己年齡(31歲)。
+** 衍生出テトさんじゅういっさい的斷句玩笑 (テトさん十一歲／テト三十一歲)
+** 雖然「官方」設定她的個性是[[ツンデレ|傲嬌]]，但在同人作品中不是天然呆就是天然黑，有時也會擔當[[吐槽]]役。
+** 在擁有「聲音」後，手臂上原本「04」的字樣被改為「0401」代表她愚人節出生。
+** 性轉換後變成重音テッド。
+*** 據中文維基記載，重音テッド是テト的拍擋&lt;ref&gt;[[Wikipedia:zh-tw:重音Teto|http://zh.wikipedia.org/zh-tw/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88]]&lt;/ref&gt;，而英文版的UTAU wiki（Wikia） 則記載テッド是她的哥哥&lt;ref&gt;[http://utau.wikia.com/wiki/Kasane_Teto http://utau.wikia.com/wiki/Kasane_Teto]&lt;/ref&gt;，&lt;s&gt;在k島的記載則是自攻自受&lt;/s&gt;。
+** 與唄音ウタ(又稱デフォ子)、桃音モモ合稱「UTAU三人娘」。另外又與欲音ルコ、波音リツ 合稱「VIP三人組」(又稱釣魚三人組)
+*** 和デフォ子因為個性的關係兩人整天打鬧，但感情很好。不過即使變身狀態和火力全開的デフォ子進行戰鬥，只要桃音モモ顯露慍色，兩人就會馬上收手不敢造次
+*** 雖然偶爾也會正常的稱呼另外兩人的名字，不過大部份時候會&lt;s&gt;裝可愛地&lt;/s&gt;叫「デフォこん」「モモっち」
+** &lt;s&gt;UTAU中的威嚴擔當…年齡的意味 (毆) 偶爾會因為年齡的歷練給事件下出好的結論，但平常都是在跟デフォ子比幼稚的&lt;/s&gt;
+* 於2015年4月開始配布英文音源，成為了能唱雙語的UTAU。
+* 被認為是[[病嬌模擬器]]主要人物春香的原型。
+
+*使用重音テト的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://tw.nicovideo.jp/watch/sm4424188 嘘の歌姫] || telmin || 重音テト誕生之經緯，感動的敘事詩(此為悪ノ娘的替え歌)
+|-
+|[http://tw.nicovideo.jp/watch/sm4749699 重音territory ～ずっとテトのターン] || うpしたも || 重音人氣歌曲之一，主要是[http://tw.nicovideo.jp/watch/sm6157102 PV]受歡迎，少數能減少電音感的UTAU歌曲
+|-
+|[http://tw.nicovideo.jp/watch/nm3611741 耳のあるロボットの唄] || 耳ロボP || 
+|-
+|[http://tw.nicovideo.jp/watch/sm5909001 ぽっぴっぽーMk－Ⅱ] || ラマーズP || 
+|-
+|[http://tw.nicovideo.jp/watch/sm5346617 サンドリヨン（Cendrillon）カバー] || テッドP || テッド和テト的神調教合唱&lt;s&gt;，自攻自受確定&lt;/s&gt;
+|-
+|[http://tw.nicovideo.jp/watch/sm3945173 驫麤～とりぷるばか～] || ラマーズP || 雖然主唱是ミク，テト只是合聲役...不過因為表現搶眼...應該要算是テト會有名的轉捩點
+|-
+|[http://tw.nicovideo.jp/watch/sm7349780 キ・セ・キ] || ベビタス || 嘘の歌姫→奇蹟の歌姫
+|-
+|[http://www.youtube.com/watch?v=yLjk4r0BPtA テトテト☆インザワンダーナイト] || samfree || &lt;s&gt;在重音廚苦苦哀求之下始出來的&lt;/s&gt;SAM NIGHT &lt;s&gt;(例行公事)&lt;/s&gt;系第10彈，收錄在CD「0401 -The Best Days of 重音テト」之中
+|-
+|[http://www.nicovideo.jp/watch/sm19314286 ODDS&amp;ENDS] || cillia || cillia的重音神調，另外PV是用Project Diva f的ODDS&amp;ENDS PV加上Project Diva 2nd的DLC重音模組做成的&lt;s&gt;大概是因為沒有使用外部出力而是直接拍攝所以晃動很嚴重&lt;/s&gt;
+|-
+|[http://www.nicovideo.jp/watch/sm10244728 おちゃめ機能] || ゴジマジP || 重音紅透NICO的曲子，以神の中毒性&lt;ref&gt;則是所謂的洗腦力&lt;/ref&gt;成為重音和全UTAU系中再生數最高的原創曲。吹 っ 切 れ た的元凶，詳見下面。nico超會議收錄
+|-
+|[http://www.nicovideo.jp/watch/sm18395392 吉原ラメント] || 亜沙 || 另外一首很紅的原創曲，再生數是UTAU全部曲中排第2，調音和台詞演出由小山乃舞世本人擔當。nico超會議2收錄
+|-
+|[http://www.nicovideo.jp/watch/sm19053765 命短し恋せよ乙女] || ↑ || 中毒性高。&lt;s&gt;31歲是少女？&lt;/s&gt;
+|-
+|[http://www.nicovideo.jp/watch/sm20692427 明正ロマン] || ↑ || 調聲是cillia，吉原ラメント的續篇(?)
+|-
+|[https://www.youtube.com/watch?v=kl8MFIel7tM ECHO] || Crusher-P &amp; Circus-P || 由Ashita-Tsukiloid調聲，使用的是英文音源，原唱是GUMI
+|}
+
+===欲音ルコ(Yokune Ruko) ===
+[[File:img2937.png|150px|right]]
+* 與重音テト一樣都是來自騙人計劃(2008年11月10日)，是「VOCA&lt;b&gt;R&lt;/b&gt;OID」系列的CV03&lt;ref&gt;真正的Vocaloid CV03是巡音ルカ，當時尚未推出。&lt;/ref&gt;&lt;ref&gt;[http://long-sleeper.net/ 欲音ルコ的「官方」網站]&lt;/ref&gt;
+* 欲音ルコ是「よく寝る子」(愛睡孩子)的諧音
+* 人物設定是 MUGIMESHI
+* 同時有男聲及女聲，在ニコ以「欲音ルコ♀」、「欲音ルコ♂」作分別
+** 因為人設的關係，比較有名的是女聲
+* 聲音由日勝ゆう(欲音ルコ♀)、雷地ゆう(欲音ルコ♂) 提供&lt;ref&gt;2010/6/5後欲音ルコ♂聲音提供者「中野人」正式將名稱改為「雷地ゆう」&lt;/ref&gt;
+* 性別：秘密啦討厭&lt;s&gt;公開場合不方便講&lt;/s&gt;
+** 男女比例是男9：女1　&lt;s&gt;所以常會看到ふたなり的彈幕...&lt;/s&gt;
+* 12歲，身高197cm
+* 容姿端麗
+* 手臂上的編號最初是「03」，後來改成「65」(ルコ)
+* 喜歡的東西是咖啡納豆
+* 興趣是賭博
+* 名言:&lt;b&gt;白米より麦飯だろコノヤロー！！&lt;/b&gt; &lt;s&gt;但意外的不太跟白米派的GUMI和デフォ子起衝突&lt;/s&gt;
+* 個性大部分是同人設定，♀偏向傻大姊，也有怕生類型。♂偏向喜歡捉弄人，也有害羞類型。
+* 萌點全被搶走
+** 原本髮色是青色，不過因為容易跟初音撞色所以後來改成黑底並在一側瀏海染一道藍色
+** 原本設定個性上有幼兒屬性，不過這個特色後來被更低齡的波音リツ奪去
+** 本來也因為體型而有擅長肉體格鬥的設定，不過也逐漸被可變身的UTAU三人娘和忍者設定的和音マコ等搶去鋒頭
+* 設定上刻意有許多不自然的部份就是為了告訴ニコ廚"這是假的"，沒想到造成話題性。間接導致了後來很多原創UTAU都有許多亂七八糟的離譜設定
+* 聲音的可塑性不低，但不易調教。
+
+*使用欲音ルコ的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm5269999 クリプトンのサイトでCV03のページ見つけたｗｗｗ] ||  || 一切的開端
+|-
+|[http://www.nicovideo.jp/watch/sm9231367 風が吹いて、雲が晴れて] || inaphon || 奇蹟的神調教。
+|-
+|[http://www.nicovideo.jp/watch/sm6249080 月クラフ光リアル街] || 了＆ミっちゃん || 
+|-
+|[http://www.nicovideo.jp/watch/sm5815125 低周波の幸福] || クロックP || 由KAITO和ルコ來讚揚低周波治療器的美妙...
+|-
+|[http://www.nicovideo.jp/watch/nm5310571 ウタウタ”のしぃ] || 浅広P || 這首是最早。童謠風。
+|-
+|[http://www.nicovideo.jp/watch/sm18950146 とても痛い痛がりたい] || ナイトウ || 神調教+&lt;s&gt;雙重人格+女聲嬌喘&lt;/s&gt;
+|-
+|[http://www.nicovideo.jp/watch/sm12811498 1st color] || パンドリストP || 神調教，UTAUSEKAI收錄
+|}
+
+=== 波音リツ(Namine Ritsu) ===
+[[File:img2988.png|150px|right]]
+左:一般狀態 右:覺醒後(強夏服)&lt;ref&gt;覺醒是因為強音源發佈，[http://www.nicovideo.jp/watch/sm9486708 詳情]&lt;/ref&gt;
+* 人物設定是 ZENIGAME。&lt;ref&gt;其實是弱音的人設CAFFEIN&lt;/ref&gt;
+* &lt;s&gt;釣魚其間&lt;/s&gt;聲音由野苫 みこ(カノン和赤ずきん)提供。後來正式UTAU化則由カノン&lt;ref&gt;女性歌手, 在NICO上以歌い手身份活動時是以くるみ餅名義&lt;/ref&gt;提供。
+* 與上面兩位同樣都是來自騙人企劃，由「crypto&lt;b&gt;m&lt;/b&gt;」推出的「&lt;b&gt;VIPPALOID2&lt;/b&gt;」的CV04。&lt;ref&gt;[http://www.cryptom.info/ 「官方」網站]&lt;/ref&gt;
+* 成為正規UTAU後的[http://ritsu73.net/index.php?id=53 官網 Wave Sound]
+* [[偽娘]]
+** 官方說法是「オカマ」(娘砲／女裝男），後來補充性別還是不明。&lt;s&gt;…已經呼之欲出了嘛&lt;/s&gt;
+** 胸部是飛彈(D cup)。腰圍71cm，臀圍1000cm(鍵盤展開時)
+* 6歲，身高156cm，體重25噸。&lt;s&gt;因此常被拿來當質量炸彈。幸好ゲキド街的居民和V家成員們都異常強健才沒有造成巨大毀損及傷亡&lt;/s&gt;
+* 中二病
+** &lt;s&gt;嚴格來說連小二病都不到&lt;/s&gt; 因為只有六歲
+** &lt;s&gt;據說桃音モモ性能會無限升級得這麼離譜一部份是為了照顧這個25噸重的6歲孩童&lt;/s&gt;
+* 會把喜歡的食物偷藏到冰箱的最裡面
+* 喜歡欺負人，不過是六歲孩童智力所能想得出來的惡作劇程度。&lt;s&gt;但配上體重就會出人命了&lt;/s&gt;
+* 討厭日本（對周遭的人不信任、連帶地討厭出生地），喜歡韓國（憧憬沒去過的國家）
+* 和欲音ルコ比較親近
+* 第二形態:&lt;s&gt;傑尼龜&lt;/s&gt;  SVM(ストロングヴォイスマテリアル)&lt;ref&gt;強音源的正式名稱(Strong Voice Material)，外觀和必殺技設定改變了，人設ZENIGAME覺得新音源名稱像必殺技名稱，所以連必殺技設定也改了。&lt;/ref&gt;
+* 手臂上的編號是「04」，後來改成「73」。(波= なみ =73)
+* 必殺技是[http://www.nicovideo.jp/watch/sm8590889 エターナル・フォース・ブリザード (永恆冰結)]，覺醒後必殺技是[http://www.nicovideo.jp/watch/sm9487919 ストロング・ヴォイス・マテリアル]
+* &lt;s&gt;可能裡面的人是音源開發關係者或比較閒的關係，&lt;/s&gt;新音源的更新比其他UTAU頻繁。
+* 單獨音源　→ 連續音源　→　強連續音源　→　キレ音源&lt;ref&gt;強連續音源的一種，後來以隨機方式另取的新名稱，&lt;s&gt;沒有什麼意義&lt;/s&gt;&lt;/ref&gt;，聲音出力不斷提升某部分地方已經非常接近真人，連V家很難做到的哮叫也可以輕鬆做到了
+
+* VIP(Voice Image Program)&lt;ref&gt;UTAU最新加載的聲音引擎，還在測試中。http://dic.nicovideo.jp/a/vip%28voice%20image%20program%29&lt;/ref&gt;
+* 身上穿的是喪服，&lt;s&gt;但除了帽子上那片黑紗就沒有一點像喪服&lt;/s&gt;
+* 自從cillia出現之後人氣就直線上升，結果在nico超會議2中也能演出&lt;s&gt;，主要是伴舞&lt;/s&gt;。
+
+* 使用波音リツ的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm8490831 みっくみくにしてあげる♪替え歌] ||  || 一切的開端
+|-
+|[http://www.nicovideo.jp/watch/sm8590889 E.F.B～恒久の氷結～] ||  パンドリストP || 波音リツdemo曲，有多個版本。
+|-
+|[http://www.nicovideo.jp/watch/sm8493708 想いよ届け-Whisper voice-] || 夏ぬこ || 
+|-
+|[http://www.nicovideo.jp/watch/sm17969073 -ERROR] || cillia || 加拿大人二度編曲調教，其聲音接近真人，在nico上造成一股小旋風，nico超會議2收錄
+|-
+|[http://www.nicovideo.jp/watch/sm19496148 誰でもいいから付き合いたい] || ↑ || cillia的神調教再臨&lt;s&gt;，浪費神調的魂之喊叫+仕事を選べないリツ&lt;/s&gt;
+|-
+|[http://www.nicovideo.jp/watch/sm19472618 マテリアルワールド] || デスおはぎ || 調音是cillia&lt;s&gt;，神調再次出手&lt;/s&gt;
+|-
+|[http://www.nicovideo.jp/watch/sm18366104 Creuzer] || ☆P || 近期的佳作
+|}
+
+
+===健音テイ(Sukone Tei) ===
+[[File:img3225.png|150px|right]]
+* 對應新型未發表vocaloid--lily，crvipton社而拿出的騙人計劃秘密武器新型&lt;s&gt;vocaloid&lt;/s&gt; utau
+* 誕生原因其實是2ch的某個VIPPER的異想天開發言串導致鄉民們跟著起萌
+* [http://www.banba.jp/wthre/1332021.html 該串的內容]　
+* 聲音提供者加古二葉
+* 一出場瞬間萌殺一群島民 &lt;s&gt;不過注定熱潮過後沒多少人會記得&lt;/s&gt;
+* 以下摘自官方網頁設定的爛翻譯：
+**&lt;s&gt;最速低價作成的偽vocaloid，把上釣的nico廚都...口桀口桀&lt;/s&gt;
+**「健音テイ對於鏡音レン一見鍾情到跳針：喜歡你，喜歡你，喜歡你，喜歡你，喜歡你，喜歡你…」
+** 算是亞北ネル的情敵。但只到爭著宣示主權的程度，目前沒有鬧出人命&lt;s&gt;[http://www.nicovideo.jp/watch/sm16963785 ((甚至還合作]&lt;/s&gt;
+**&lt;s&gt;只是個噱頭&lt;/s&gt;
+* 左臂上寫著Q&lt;s&gt;不過大部分繪師都會忽略&lt;/s&gt;
+* 身長：171.2cm&lt;s&gt;比愛人高了15cm&lt;/s&gt;
+* 有&lt;s&gt;很便宜&lt;/s&gt;的寫輪眼
+* 口癖：「 死ね (去死)」
+* 病嬌&lt;s&gt;，延伸出是MAYU的好姬友的怪二創&lt;/s&gt;
+* 看到甚麼會興奮(原文好像解o潮)：[http://www.nicovideo.jp/watch/sm10770368 紅綠燈]&lt;ref&gt;這個梗出自未決定的vocaloid liliiy的惡搞持有物，健音則是lilly的騙人計劃系列&lt;/ref&gt;
+* 性癖：不管在哪都能自o
+* 手持物是小黃瓜(因為自○設定的聯想)，漢字是胡瓜
+* 在學中的大學：早稻田大學基幹理工學部
+* 最近煩惱的事：鳩山総理の言行
+* 最近開心的事：鳩山総理の辞任
+* 喜歡的事：製作蛋糕
+* 討厭的事：殺人
+* 如果惹怒她的話，需要出動自衛隊維持治安
+* &lt;s&gt;持有罪歌&lt;/s&gt;
+* 紀錄了健音當天誕生的歡樂情況：詳見精華區[http://komica32.dreamhosters.com/up/src/up2570.mht 健音誕生串]
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm11110989 ていていにしてあげる] ||   || 健音的發報會第一曲，目前以驚人的7萬再生量持續強勢中
+|-
+|[http://www.nicovideo.jp/watch/sm11111976 13km] ||   || 健音的發報會(釣魚)系列第二曲，最後一秒注目，「你跟我的距離可是13KM哦(發卡意味)」&lt;s&gt;跟蹤狂&lt;/s&gt;
+|-
+|[http://www.nicovideo.jp/watch/sm11113037 胡瓜情歌] ||   || 健音的發報會(釣魚)系列第三曲.....」
+|-
+|[http://www.nicovideo.jp/watch/sm11132425 ｓｈｉｎｅＲｏｃｋ]&lt;ref&gt;注意是讀shi.ne，不是英文的shine喔☆&lt;/ref&gt; ||   || 健音的發報會(釣魚)系列第四曲，去死吧
+|-
+|[http://www.nicovideo.jp/watch/sm11118039 全てのVOC@LOIDに宣戦布告] || ミナツキトーカ || 健音的發報會系列第5曲，目前氣勢最兇的曲子，向所有VOC@LOID宣戰!!
+|-
+|[http://www.nicovideo.jp/watch/sm20655926 クサリ] || ↑ || 病嬌曲，神調教。同人CD「six dye」收錄
+|-
+|[http://www.nicovideo.jp/watch/sm23809672/ 解けたリボン、揺れた心] || ↑ || 神調教
+|-
+|[http://www.nicovideo.jp/watch/sm14978187 弔花の少女] || はやみ || 神調教美聲，[http://www.nicovideo.jp/watch/sm16635155/ 續集]
+|}
+
+===櫻歌ミコ(Ouka Miko) ===
+[[File:img10745.jpg|150px|right]]
+* 聲音提供者是赤ずきん。
+* 原本是波音リツ的後補音源，後來在波音騙人計劃結束後另外召募名字獨立。於2009年12月24日加入UTAU。
+** 波音騙人動畫的DEMO 3：[http://www.nicovideo.jp/watch/sm8493708 想いよ届け]
+* 實體是狼，在陰暗的地方會變回狼(第二形態，&lt;s&gt;性別不明&lt;/s&gt;&lt;ref&gt;聲音是少年音，官方人設似乎是女的，在櫻唄中又是男的&lt;/ref&gt;)。
+* 第一形態的第一人稱：みこ ; 持物：蘋果 
+* 第二形態的第一人稱：私 ; 持物：骨 
+*&lt;s&gt;又一個雙重人格的梗可以玩了&lt;/s&gt;
+*臂號是35
+**[http://www.nicovideo.jp/watch/sm9183661 發佈動畫]
+**[http://miko35.is-mine.net/ 官網]
+
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm9236400 耳のあるロボットの唄] ||  || 第二形態DEMO曲
+|-
+|[http://www.nicovideo.jp/watch/sm12269442 連続音音源] ||  || 強+弱音源DEMO曲
+|-
+|[http://www.nicovideo.jp/watch/sm19512751 櫻唄 ] ||  || 初商業曲
+|}
+
+=== ルーク(Rook) ===
+[[File:img21620.jpg|150px|right]]
+* UTAU初期音源之一，也是當時很少見的男性音源。
+* 中之人是ゆうじ。
+** 本來是因為預定要收錄欲音ルコ(♂)的中之人突然失聯，因而急忙做出來的替代音源，但最後隨著在正式發表一個月前找到原本中之人的關係而被捨棄&lt;s&gt;，所以是棄子&lt;/s&gt;
+** 在欲音ルコ發表一周年後，被捨棄的音源[http://www.nicovideo.jp/watch/sm8837767 用ルーク的名義從欲音ルコ獨立出來]，成為單獨的角色。
+* 和欲音相反，是右邊頭髮染成紅色&lt;s&gt;，自古紅藍出CP&lt;/s&gt;
+* 在當時還是很少見的獸人角色，能夠從犬變身成人。
+* 臂號是69
+* 擅長音域為中~高的音域。
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm26425930 レンタルヒーロー] || Jirno（じるの） || 近期很用心的佳作
+|}
+
+
+
+===愛野ハテ(Aino Hate) ===
+[[File:img8409.png|150px|right]]
+* 2012年4月7日公開的偽VOCALOID, 5月20日正式加入UTAU。
+* 聲音提供者是小日坂洋。
+* 性別：未定(製作方認為是女的)
+* 和風，手持物是三味線。
+* 呆毛15CM
+* &lt;s&gt;櫛枝實乃梨&lt;/s&gt;
+** 髮色是紫色
+* 但跟前輩相對&lt;s&gt;太過正常&lt;/s&gt;的設定使其好像普通UTAU一樣影薄。&lt;s&gt;明明產生方法是一樣的&lt;/s&gt;
+* 公開發佈事前製作串被人捏了, 威力大減。
+*[http://www.nicovideo.jp/watch/sm17468028 發佈動畫?]
+*[http://www.togenkyou.com/ 官網]
+* 1週年後&lt;s&gt;還是沒甚麼人氣，&lt;/s&gt;發佈新音源
+
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm17484892 津々浦々] || 桃源郷 || 公式DEMO曲
+|-
+|[http://www.nicovideo.jp/watch/sm17488344 I Know] ||  || 體驗版DEMO曲
+|-
+|[http://www.nicovideo.jp/watch/sm20541992 四季折々] || 桃源郷 || 新音源發佈
+|}
+
+== &lt;b&gt;UTAU獣人&lt;/b&gt; ==
+*[[人外]]
+*男聲居多
+*狼、犬居多
+
+=== 紅鏡緋色（あかがみ ひいろ/Akagami Hero） ===
+[[File:img22544.png|150px|right]] 
+* 名字是「赤髮Hero」（紅髮英雄）的諧音
+* 種族：狼獸人
+* 性別：雄               
+* 身高：160公分
+* 體重：55公斤
+* 年齡：17歲
+* 生日：2013年08月16日
+* 瞳色：天藍
+* 毛色：橘紅
+* 特殊特徵：三白眼，雙眼下方有紅色彎月形紋路，形似入道雲（積雨雲的一種）的蓬鬆尾巴
+* 喜好物：蘋果
+* 性格：憧憬英雄的[[中二病]]
+* 以男生聲線來說算少數不錯的（高音部分）
+* &lt;s&gt;在近期良曲增多而小有名氣的UTAU[[ケモノ|獸人]]之一&lt;/s&gt;
+* {{censored|&lt;s&gt;還有一堆其他獸人成員，想補上的就再補吧！&lt;/s&gt;}}
+*[http://www.nicovideo.jp/watch/sm24352763 配布所]
+
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm24567306 靴] || 緑のたぬP || 和戯歌ラカン合唱，神曲+神調教，歌詞勵志
+|-
+|[http://www.nicovideo.jp/watch/sm27014388 Donor Song ドナーソング] || 5+(noSCAR-P) || Cover曲，由台灣繪師＂漣漪月影＂繪製曲繪
+|-
+|[http://www.nicovideo.jp/watch/sm28369380 FACE] || 5+(noSCAR-P) || Cover曲，由台灣繪師＂騰騰＂繪製曲繪
+|-
+|[http://www.nicovideo.jp/watch/sm28517286 ペーパームーン] || まずらぼ || ＂靴＂的關聯曲，歌詞抒情療癒，曾獲得週刊UTAU排行榜第1名
+|}
+
+===狼音アロ(Arouon Aro) ===
+*應該是獸人組裡很常見的成員
+*人如其名是一隻狼獸人
+*興趣是唱歌、彈吉他、彈貝斯、練肌肉
+*喜歡吃巧克力，不喜歡吃番茄 
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm27059092 進捗どうですか] || まずらぼ || 和獣音ロウ合唱
+|}
+
+===水音ラル(Mine Raru) ===
+*獸人組裡常見的成員
+*是一隻海龍人(龍人+鯊魚人)
+*喜歡蔬菜，不喜歡魚
+*沒有官網
+*另外還有幾個姓水音的UTAU，不過無關
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm15748953 scale] || nwnw || 
+|}
+
+=== 獣音ロウ（けものねろう） ===
+*獸人組中常見的一員。
+*雄性的狼人，身上有藍色的毛皮，頭髮為黑色。
+*14歲
+*身高159公分，體重45公斤。
+*喜歡馬鈴薯。
+*個性樂觀正向。
+*雖然喜歡馬鈴薯，但討厭其他蔬菜。
+*聲線為男性青少年。
+
+=== 式大元（しきたいげん） ===
+*獣音ロウ的爺爺。&lt;s&gt;不知道為什麼孫子變狼&lt;/s&gt;
+*藍色的龍人，本業是馬鈴薯農夫。
+*495歲，生日為聖誕節。
+*身高170公分，體重85公斤。
+*擅長馬鈴薯料理，很疼愛自己的孫子。
+*對於暴力、無理和傲慢的人很討厭。
+*和孫子一樣只喜歡馬鈴薯，對太燙和苦的食物也不喜歡。
+*常常拿著扇子。
+*短暫的擔任過虛擬youtuber，但很快便退出了。
+*少數的老爺爺聲線。
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[https://www.nicovideo.jp/watch/sm31186486 命可憐花] || DADULLA || 
+|}
+
+=== 白音カン（しらねかん） ===
+*近年來相當常見的一員
+*雄性白熊獸人，有著很大的肚子和粗眉，服裝為羽絨外套。
+*身體設定有修改過，身高一直是178公分，但體重則從85公斤改為105公斤，年齡也從17改為18歲。
+*喜歡的食物是漂浮汽水，喜歡邊走邊吃。
+*平常很正常，但嘴饞時會很失控。
+*對肥胖很在意，不能在他面前提出太胖。
+*因為聲線圓潤，所以挺受到歡迎。
+*&lt;s&gt;雖然設定上是胖子型，但有些二創會變得相當強壯。&lt;/s&gt;
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[https://www.youtube.com/watch?v=gW49jH-UaZ0&amp;ab_channel=%E3%81%9F%E3%81%AC%E5%87%A6 紅茶と愛の唄] || 吟 || 
+|}
+
+
+=== 戯歌ラカン（ぎがらかん） ===
+*獸人組常見的一員
+*雄性獅子獸人，特徵為穿著阿伊努族服飾和金色瞳孔。
+*體格相當高大，身高超過200公分，體重更是破百。
+*聲線偏向低沉渾厚的男人嗓音。
+
+=== 怒号ウル(ドゴウウル) === 
+*主要於youtube活動的一位，在海內外的知名度都挺高。
+*形象為一名棕色的犬獸人，性格害羞膽小但相當溫柔善良。
+*名稱怒号為吼聲，而ウル則是指狼。
+*有自己的官網。
+*&lt;s&gt;雖然是狗卻喜歡巧克力...&lt;/s&gt;
+*聲線為少年聲。
+
+=== 蜂蜜サケ（ハチミツサケ） ===
+*同樣主要出現在youtube等網站。
+*形象是健壯的雄性棕熊獸人，穿著毛衣、學生制服、運動外套和短褲，並有綁一條頭巾。
+*因為在海外知名度較高，被'擬人化'的同人創作也相對較多。
+*名稱蜂蜜サケ指的是蜂蜜鮭魚
+*除了日文歌曲之外也有人創作英文歌曲翻唱。
+
+== &lt;b&gt;UTAU鳥組&lt;/b&gt; ==
+*分類標準有名字、外貌、種族等，還有來自真的生物音源
+** 星海ファルコン比較特別一點是無生物音源，但他因為有鳥的外型，而且原捏它也算是鳥所以也會被歸入鳥組的範疇內。
+
+===楓歌コト(Fuuka koto) ===
+*鳥組四位代表成員之一
+*分類原因是持有物：大嘴鳥型擴音器
+*除此之外什麼設定都沒有
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/nm8925569 コトコト★ロマンティックナイト] || ＿＿＿ || 
+|}
+
+===翔歌トリ ===
+*鳥組四位代表成員之一
+*與楓歌コト組成ユニット「コトリ」
+*分類原因是名字，トリ(鳥)
+*除此之外什麼設定都沒有
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm9025674 TRAIN] || ネムノ || 
+|}
+
+===梟音キリィ(Kyone Killy) ===
+*音源提供者Caparo Ulula
+*分類原因是名字&lt;s&gt;還有貓頭鷹頭盔&lt;/s&gt;
+*K系列的第一隻
+*外星人，出生在小行星帶的マリア族
+*比地球還早就存在了，觀察著一切
+*沒有常識，無法溝通，也沒有感情
+*不需要進食，但是喜歡吃巧克力
+*生日是1911年5月18日
+*愛用左輪手槍EnfieldNo2MkI
+*&lt;s&gt;藤堂茶路愛用UTAU，常和自家UTAUちゃろえもん一起出現&lt;/s&gt;
+*音源已停止配布
+
+
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm28152864 ハウトゥワープ] || 藤堂茶路 || 
+|}
+
+===空唄カナタ ===
+*伝書鳩(信鴿)
+*愛好和平
+*喜歡麵包皮
+*天然呆傲嬌
+*明亮的環境下眼睛是黃色，黑暗中是紅色
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm26957613 ボクラトカ≠ボクラシカ] || ある調味料 || 
+|}
+
+===星海ファルコン===
+*機械鳥
+*原型是[[隼鳥號]]，中之人(?)是隼鳥號2010年6月13日返回地球時拋下的返回艙展開降落傘後發出，用來通知工作人員展開成功準備降下的機械訊號音。
+** 因此身上有眾多隼鳥號的機械零件，包括頭上的碟型天線、由太陽能發電板構成的羽翼、腹部的四組離子引擎與以樣本採集筒構成的左腳。
+
+== &lt;b&gt;UTAU異形組&lt;/b&gt; ==
+*異形、奇形的人設
+*分類標準是採用公認，若作者不喜歡的話必須從名單上剔除
+
+=== 滲音かこい(Nijimine Kakoi) ===
+[[File:img21619.jpg|150px|right]]
+* 聲音由灯下はこ、提供(舊稱桃華なゆた)
+* 有著四隻手&lt;ref&gt;不過通常都是藏在長的很像水手服的雨衣裡面&lt;/ref&gt;
+* &lt;s&gt;專業的合音天使&lt;/s&gt;
+* 是少數擁有配佈原創曲的音源
+* 使用滲音かこい的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm17937399 RE-OVERDOSE] || ハイカラさん || 驚異の中毒性
+|-
+|[http://www.nicovideo.jp/watch/sm21656159 ねえ] || ニシカワ || 
+|}
+
+===Pumpking ===
+*正式名稱為Pumpking the Testloid
+*同為UTAU海外組成員
+*興趣是唱歌和跳舞
+*喜歡老人和可愛的女孩子
+*討厭trick or treaters和漂亮的男孩子
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm10534377 １９２５] || Gimmick || 
+|}
+
+== &lt;b&gt;UTAU無生物&lt;/b&gt; ==
+*沒有中の人
+*有些是樂器，有些是&lt;s&gt;來亂的&lt;/s&gt;不是樂器
+*有些&lt;s&gt;因為是來亂的&lt;/s&gt;不會配布
+
+*使用UTAU無生物的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/nm15930480 FREELY TOMORROW] || DEZ || &lt;s&gt;付喪神大人的美聲&lt;/s&gt;
+|-
+|[http://www.nicovideo.jp/watch/sm15048773 magnet] || ざつおん || 富含感情的聲音(?)
+|-
+|[http://www.nicovideo.jp/watch/sm20113849 吹　っ　切　れ　た] || beat32lop || &lt;s&gt;搖屁股!搖屁股!&lt;/s&gt;
+|}
+
+
+===柚子音ぽん ===
+*敲打柚子醋的瓶子內裡的聲音
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm13322415 Yellow] || masao || 
+|}
+
+== 其他UTAU(部分) ==
+
+=== 炉利音コム ===
+[[File:img21186.jpg|150px|right]]
+* UTAU的始祖, 正確來說應該是人力VOCALOID
+* 中的人是LOLI.COM
+* 飴屋P開發的[http://www.nicovideo.jp/watch/sm2004419 UTAU前身]
+* [http://www.nicovideo.jp/watch/sm2923489 UTAU炉利音コム復刻版]
+
+=== 桃音モモ(Momone Momo) ===
+[[File:img2593.png|150px|right]]
+* 人物原設定是 ももももP。 現在已在眾多支持者二創之下擁有龐大的設定量
+* 聲音由藤本萌々子提供。作為モモ的靈魂，萌々子本人非常投入桃音與相關UTAU的企劃，個人也有P帳發表四格漫畫。百瀨博士的外型據說也是出自她手。本人超美聲
+* 與上述的UTAU不同，桃音モモ並不是出自騙人企劃。屬於早期的正規UTAU
+* 機娘設定，服裝設計介於水手服和女僕裝。&lt;s&gt;不過水手服要素幾已蕩然無存&lt;/s&gt; 常被誤認為女僕，但個性中沒有女僕屬性。據開發者百瀨博士定義，她是"褓姆兼家事機器人"
+* &lt;s&gt;デフォ子：「不管啦，叫你女僕就對了」&lt;/s&gt;
+* 設定上，外型是根據百瀨博士的孫女"百瀨 桃"為原形塑造而成
+* 為了應付緊急情況設有5分鐘的怪力模式&lt;ref&gt;怪力模式下能和沒發酒瘋／未發怒的MEIKO在肉搏戰中打成平手。&lt;s&gt;モモ還可以進入全武裝狀態，但因MEIKO發怒時號稱能徒手把ゲキド街一把掀飛，所以モモ大概還是贏不了ゲキド街的霸主&lt;/s&gt;&lt;/ref&gt;
+* 活躍於MikuMikuDance動畫
+* 連續音音源推出後重新受用家注目
+* 有兩兄兩妹 &lt;s&gt;全部都影薄&lt;/s&gt;
+* 同人設定：
+** 天然呆、迷糊、好客、愛乾淨、有愛心有禮貌、對人際關係敏銳 &lt;s&gt;偶爾天然黑&lt;/s&gt;
+** 不擅長打電玩
+** 不勝酒力。
+** 擅長料理&lt;ref&gt;只是因為調理程式的參數夠精細和食譜更新夠勤快，其實是味覺白痴&lt;/ref&gt;
+** 無可救藥的甜食控。喜歡金平糖，以糖份為動力，有糖份一切好說，甚至可以為了糖份作出有違正直本性的判斷
+** 討厭蟑螂，不知道是出於本性畏懼還是愛乾淨的設定，但總是反應過度
+** 與重音テト、デフォ子是好友。
+
+** 本來只是家事機器人，但漸漸被博士安裝上一堆改造套件(即是武器)成了 &lt;s&gt;大規模毀滅兵器&lt;/s&gt; 泛用機器人。
+*** 因為是家事機器人所以能隨時隨地變出掃帚(ほうき)。然後因諧音之故，那支掃帚被二創成能變出諸多型態的"砲器"(ほうき) &lt;s&gt;擁有媲美某部魔法少女的[[曉美焰|主角級火力]]&lt;/s&gt;
+*** 原本不能飛，但腳底安裝火箭後能自力飛行到突破大氣層的程度。
+*** 因為&lt;s&gt;彷彿[[七龍珠]]般戰鬥力不斷通貨膨脹的&lt;/s&gt;追加設定，所以本來只是聽話能幹的居家型機器少女，現在卻被普遍認識為"UTAU最強"
+
+** 由於與東方系列的&lt;s&gt;紅美鈴&lt;/s&gt;[http://wiki.komica.org/wiki3/?%E6%9D%B1%E6%96%B9Project%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD-part%201#td067133 中國]配色相似，再加上兩人都有僕人屬性以及會犯迷糊，所以會被拿來惡搞。
+** 很喜歡且擅長照顧小孩子
+** 以常識人的身份兼吐槽役。總是在重音テト、デフォ子把事情鬧大前出來收拾局面 &lt;s&gt;有時很像兩人的監護人&lt;/s&gt; 最近連雪歌ユフ闖禍都是モモ出面道歉…
+** &lt;s&gt;UTAU中的良心擔當&lt;/s&gt;
+
+*使用桃音モモ的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm7858222 ジニア] || inaphon(石碑Ｐ) || MMD版PV
+|-
+|[http://www.nicovideo.jp/watch/sm7808787 けんか別れ] || 飴屋P、耳ロボP || 連續音音源DEMO動畫
+|-
+|[http://www.nicovideo.jp/watch/sm7658700 すすすす、すき、だあいすき] || さゆきP || 桃音モモ可愛的初期情感表現
+|-
+|[http://www.nicovideo.jp/watch/sm17893568 モモさんがやさしく眠らせてくれる] || うたたねこ || 回歸本職的搖籃曲
+|-
+|[http://www.nicovideo.jp/watch/sm13455867 Nyanyanyanyanyanyanya!] || 作曲：daniWellP/調教：ももももP || 網絡上著名的"Nyan Cat"的音源，可說是UTAU最舉世知名的歌曲。不過絕大多數外國人都以為這是ミク的曲子，正確認識是モモ發聲者屈指可數，所以モモ還是沒有因此一炮而紅
+|-
+|[http://www.nicovideo.jp/watch/sm17906777 モモNyan Cat EX] || 作曲：daniWellP/演出：四季節LED || "Nyan Cat"新的Remix版，各版造型皆亮相
+|-
+|[http://www.nicovideo.jp/watch/sm14529907 こころつなげて] || ベビタスP || OP風，認識桃音一家的最佳素材
+|-
+|[http://www.nicovideo.jp/watch/sm17925803 きらきら日曜日] || ベビタスP || ED風，和桃音一家有關聯的UTAU幾乎全數登場
+|-
+|[http://www.nicovideo.jp/watch/sm19631854 ホワイトナイ] || nakano4 || 非常澄澈的氣聲，神調教
+|}
+
+
+=== デフォ子/唄音ウタ(Defoko/ Utane Uta) ===
+[[File:img2595.jpg|150px|right]]
+* 聲音提供者:AquesTalk（同ゆっくり&lt;ref&gt;ゆっくり為SofTalk使用AquesTalk音源資料庫&lt;/ref&gt;）
+* UTAU的預設的音源。跟重音テト和桃音モモ三個早期音源合稱「UTAU三人娘」。
+* デフォ子是小名，本名是唄音ウタ
+** 語源為Default(預設)+女性稱呼詞尾
+* 和桃音一樣是機娘
+* 貝蕾帽與黑色+紫色系的衣服是她的標誌。以語源的預設衍生出"樸素"特徵，所以露出度低，不穿V家和UTAU流行的袖套而是普通的長短袖居多，也有中性的褲裝打扮
+* 活躍於MikuMikuDance動畫
+* 某些作品中是複數存在量產型、或同時有各種改裝版本，雖不能像桃音モモ&lt;s&gt;要你命3000&lt;/s&gt;那樣靠變身換裝就一機萬能，但也算是相當泛用。
+** 因為存在複數軀體的關係，有時會有致敬攻殼機動隊的草薙素子或オペ子的謎般發言
+* 有位名為"デフォ妹"的妹妹。&lt;s&gt;但要不是我編寫wiki我也不知道原來有妹，可見其妹影薄&lt;/s&gt;／&lt;s&gt;傲嬌兼姊控&lt;/s&gt;／&lt;s&gt;飛機場&lt;/s&gt;／&lt;s&gt;幼女屬性(所以被根音ネネ誘拐過)&lt;/s&gt;
+** デフォ妹生氣時對姊姊最大的制裁就是不給她吃白飯，而給整碗白芝麻
+** 其實還有個弟弟叫"デフォ助"。&lt;s&gt;更影薄，連像樣的MMD Model都沒有&lt;/s&gt;
+* HANASU的音源基本和ゆっくり相同，所以也被戲稱為"認真的ゆっくり" &lt;s&gt;但ゆっくり認真唱的歌點閱率卻比デフォ子的還高是怎樣…&lt;/s&gt;
+* 雖然UTAU中的知名度和點閱率是重音テト最高，但UTAU愛好者中デフォ子擁有和テト爭奪一二位的曝光率和支持度，也經常在作品中處於中心地位 (因為是"預設子")
+** 不過デフォ子主要是活躍在MMD動畫，原創曲比較少
+* 同人設定：
+** 造型和個性都很像[[長門有希]]
+** 意外的也有達觀樂觀的一面
+** &lt;s&gt;死魚眼&lt;/s&gt; 經常半開的無神眼，給人一副隨時想睡的印象&lt;ref&gt;根據本人證言："我不是看起來想睡，是真的愛睏！"(眠そうじゃなくて、眠いんだ！) ←因為經常電壓不足&lt;/ref&gt;
+** 因為眼神的關係而被冠上傲嬌屬性，&lt;s&gt;因此重音テト的傲嬌角色定位往往就這麼被デフォ子搶了&lt;/s&gt;
+*** 其實平常不太流露感情
+** 持有物是RPG(Rocket-Propelled Grenade，火箭推進榴彈)&lt;s&gt;虛擬人聲(v家和utua)中唯一用現代兵器的人&lt;/s&gt;
+*** &lt;s&gt;只要デフォ子有火箭炮，就算是神也殺給你看&lt;/s&gt;
+*** &lt;s&gt;但在桃音モモ生氣時，她還是會乖乖聽話的&lt;/s&gt;
+** 從制服系的造型印象和RPG屬性衍生出射擊達人的設定，基本上所有射擊兵器都很擅長，不只火箭筒，迫砲／戰防砲／手槍／步槍／狙擊槍...etc統統很拿手，連魔法少女小圓中麻美學姐的那套花槍都能100%模仿
+** 無口&lt;s&gt;但毒舌&lt;/s&gt;
+** &lt;s&gt;鬼畜、ドS&lt;/s&gt;
+** &lt;s&gt;最近變成蘿莉控&lt;/s&gt;
+** 不敢玩打達磨(一種把不倒翁身下積木逐層敲掉的古老童玩)，畏懼ホメ春香，或總是以ホメ春香為假想敵。理由在以下影片連結中
+** 最怕惹到的三人：桃音モモ、ホメ春香、デフォ妹
+
+** 因為是機器人所以有很高的環境探知能力。
+** 近乎偏執地喜愛白米飯，甚至和GUMI一樣很愛"白飯定食"&lt;ref&gt;從主食到佐料配菜飲料和湯都由白米構成的恐怖純白盤面。&lt;s&gt;比還要花心思變換烹調花樣才能一直吃米飯的兩津勘吉還厲害&lt;/s&gt;&lt;/ref&gt;
+*** 甚至迷戀到要種稻，附帶地迷上了園藝，很享受澆花的樂趣
+** 基本體能超越常人(雖然這在ゲキド街和MMD中不稀奇)。較特別的是會發射金剛飛拳
+** 擅長的日常運動是撞球，UTAU名人賽優勝水準。相反地保齡球的球技非常爛 &lt;s&gt;洗溝王&lt;/s&gt;
+** 無論是UTAU事務所的工作排程還是日常生活，都非常依賴桃音モモ。有時候也會欺負モモ善良的個性把錯算到モモ的頭上，強行讓モモ欠上自己一筆人情。算是轉個彎的傲嬌
+*** 因為太依賴桃音モモ而曾不小心將她誤稱為"かーちゃん"(媽)。雖然モモ沒生氣，但デフォ子從此角色大崩壞，幼兒化的作品開始增加
+
+* 使用デフォ子的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm8863490 UTAU講座 ～UTAUで話す？ HANASU入門～] || inaphon(石碑Ｐ) || &lt;s&gt;一起去吃飯怎麼樣&lt;/s&gt;
+|-
+|[http://www.nicovideo.jp/watch/sm7615309 石碑] || inaphon(石碑Ｐ) || 石碑p的第一首曲，鬱向
+|-
+|[http://www.nicovideo.jp/watch/sm8185003 デフォ子の部屋] || inaphon(石碑Ｐ) || デフォ子為主角的日常動畫
+|-
+|[http://www.nicovideo.jp/watch/sm7363135 物理演算でRPG発射] || ガンプラP || 讓デフォ子拿兵器的原兇
+|-
+|[http://www.nicovideo.jp/watch/sm7392343 &lt;nowiki&gt;[MMD]&lt;/nowiki&gt;物理演算でダルマおとし] || ガンプラP || 確立RPG屬性和害怕ホメ春香的由來
+|-
+|[http://www.nicovideo.jp/watch/sm19002715 【MMD】てとこんくえすと？ ] || wog || 因進入リベルニア公国觀光有禁槍令，デフォ子在只能用火槍下展露了媲美麻美學姐的華麗花槍。也有桃音モモ差點因"G"啟動"砲器"的描寫
+|-
+|[http://www.nicovideo.jp/watch/sm17168280 ウタとオト] || プレイP || デフォ妹對姊姊異樣的愛情
+|}
+
+===実谷ナナ(Mitani Nana) ===
+[[File:img2987.png|150px|right]]
+*CV︰実谷なな&lt;ref&gt;無誤，就是那個NICO有名的歌手&lt;/ref&gt;
+*圖片上的是她本人的自畫像。
+**哦，自畫像是指右邊的那隻怪異生物，不是左邊那位妙齡少女。
+*[http://k-shi-studio.com/nana/cv07.html 官網]
+*年齡  秘密
+*身高  秘密
+*體重  秘密
+*&lt;s&gt;因為寫出來就等於公佈本人的秘密了&lt;/s&gt;
+*&lt;s&gt;好像沒甚麼好寫了&lt;/s&gt;  
+** 由於使用規定十分嚴苛(包括不可使用此音源製作商業CD等)，又加上形象與身為原音提供者的歌手重疊過高，某程度上也限制了其人氣和屬性發展。
+*&lt;s&gt;總言之我們來期待NICO職人如何把她玩壞吧&lt;/s&gt;
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm10234618 ナナナナ★フィーバーミラクルトゥナイト] ||  SAM(samfree) || SAM NIGHT系列第四部曲(?)，角色主題歌。後半段是真人。
+|-
+|[http://www.nicovideo.jp/watch/nm10233577 Song for...] || k-shi || 歌其實找一下的話還是有的。後半段是真人。
+|}
+
+=== 穂歌ソラ(Suiga Sora) ===
+[[File:img3222.png|150px|right]]
+* 早期男聲UTAU。
+* フリー所發佈的男性/女性/的utau素材集。名字的順序是「ソラ(男聲)・サラ(女聲)・あや(?)」
+* 聲音提供者是yuu
+* 喜歡咖哩，持物是咖哩包。
+* UTAU中少數是低機械感的
+* 與UTAU三人娘和和音マコ&lt;ref&gt;早期的UTAU但人氣很薄&lt;/ref&gt;組成UTAU戦隊ずこたんだー。
+* 少有地連簡單的發佈用官網也沒有的UTAU
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/nm9574080 Pillow Talk] || 花魁P || 與巡音合唱
+|}
+
+=== 松田っぽいよ(Matsuda Ppoiyo) ===
+[[File:img10627.jpg|150px|right]]
+* 誕生日：2010/3/20
+* 名字漢字作「松田爽汰」
+* 音源與人設提供：松田トキ(舊名：松田まっつん)
+* &lt;s&gt;受&lt;/s&gt;
+* 表現十分不錯的UTAU，音源數量比波音更多 &lt;ref&gt;超過15個音源&lt;/ref&gt;
+* 多音源append系的UTAU
+** edge：很方便利用，音域很廣的混合型連續音源&lt;ref&gt;A3以上是against音源，以下是normal。因為混合了2種聲線，所以低音時不會出現只使用強音源時的怪異感，反之亦然&lt;/ref&gt;
+** normal：正常的連續音源
+** power： 比normal發音力強比較高的連續音音源
+** heart： whisper系
+** against： 嘶哮音源
+** vague： 發聲不明確的音源
+** light： 明亮清爽的音源
+* retake： 連續音中不同聲線的表現也十分接近真人，可和VOCALOID比
+* 已停止配布
+* 但是已在2019/3/20時再配布(沒錯，在他生日時)
+* 使用松田っぽいよ的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm19679034 ニセモノプログラム] || 樹人 || 展現和初音有得比的調教，嘶哮曲
+|}
+
+=== 松田っぽいね(Matsuda Ppoine) ===
+* 名字漢字作「松田甘露」
+* 樓上那位的妹妹
+* 音源用五隻手指就可以數出來，&lt;s&gt;松田トキ你偏心啦&lt;/s&gt;
+* 明明兩歲數差一歲，可是身高卻...
+* 已停止配布
+* 同在2019/3/20再配布
+* 使用松田っぽいね的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm21459584 ネコミミアーカイブ/貓耳備檔] || 松田トキ || earーearーearー
+|}
+
+=== 京音ロン(Keine Ron) ===
+* 聲音由keyl提供
+* 年齢：17歳（詐称）
+* 身長：175cm（詐称）
+* &lt;s&gt;似乎是松田っぽいよ的官配&lt;/s&gt;
+** &lt;s&gt;可是最近松田っぽいよ似乎有[http://www.nicovideo.jp/watch/sm21931355 新歡]&lt;/s&gt;
+* 喜歡麻將和551的肉包子
+* 名言:&lt;b&gt;あ、それロンっす！！&lt;/b&gt;，&lt;s&gt;到底是多喜歡麻將啊&lt;/s&gt;
+* 使用京音ロン的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm19977061 アザレアの亡霊] || 松田トキ || 圖跟聲音都很美
+|}
+
+===葛炮 ===
+* 見[[葛平|葛炮]]條目。
+
+===歪音エナ ===
+*見[[比利海靈頓]]條目。
+
+===枝野ネロ(Edano Nero) ===
+[[File:img6161.png|150px|right]]
+* &lt;s&gt;CV:枝野幸男&lt;/s&gt;
+* 原捏他是日本前任內閣官房長官枝野幸男，在日本311大地震後指揮救災期間報導災情，被網民截取其聲音製成。
+* 巧合的是枝野幸男國中及高中時都是合唱部，並曾經得奬，而興趣也是唱卡拉OK
+* 「ネロ」這個名字是由於枝野在地震發生後不眠不休工作，民眾叫他去休息睡覺(寝る的命令形寝ろ)而取的&lt;s&gt;，與[http://wiki.komica.org/wiki3/?VOCALOID%E8%A1%8D%E7%94%9F%E5%93%81%E7%A8%AE#ya54ced4 某傲嬌亞種]完全沒關係&lt;/s&gt;
+** 其實也有點在諷刺首相菅直人震災後只開過一次記者會，其他所有記者會都是枝野在開，據傳甚至連外國新聞都誤把枝野當成首相了。
+* 基本上都是翻唱本家的歌曲
+* 計劃低音&lt;ref&gt;簡單說就是應該要唱高音上去的地方卻故意唱成低八度的音，原捏他是日本大地震後進行的計畫停電。&lt;/ref&gt;
+* 現在禁止使用，&lt;s&gt;原因？你明白的&lt;/s&gt;
+* &lt;s&gt;[[成句/你從什麼時候開始產生了○○的錯覺？|你從什麼時候開始產生了枝野沒發現這UTAU的錯覺？]]&lt;/s&gt;
+* 使用枝野ネロ的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm14021824 枝野官房長官に炉心融解歌わせてみた] ||  || 一切的元凶，枝野ネロ版炉心融解，可匹敵V家本家，計劃低音
+|-
+|[http://www.nicovideo.jp/watch/sm13919902 【MMD】枝野幸男ハイポリモデル完成『踊る官房長官』] || ちゃーりぃ  || MMD模組都有了
+|}
+
+=== 雪歌ユフ(Seka Yufu) ===
+[[File:img21618.png|150px|right]]
+* 中之人:浮揚六花
+* 生日是10月25日
+* 身體雖然不是很好但是很擅長打雪仗
+* 雖然製作者都不一樣，但是曲風一聽就可以讓你知道這首歌是ユフ唱的
+* 原創曲意外的多
+* 使用雪歌ユフ的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm15532317 BEYOND] || niki || 
+|-
+|[http://www.nicovideo.jp/watch/sm9631664 slight light ] || talaw || 
+|-
+|[http://www.nicovideo.jp/watch/sm12071713 hp] || nakano4 || ユフ的初殿堂曲
+|}
+
+=== 白鐘ヒヨリ(Sirakane Hiyori) ===
+* 早期的正規UTAU之ㄧ
+* 聲音提供者是白瀧
+* 雖然白鐘ヒヨリ唱起歌來很好聽但是本人唱起歌卻...&lt;ref&gt;證據在此http://www.nicovideo.jp/watch/sm15004520&lt;/ref&gt;
+* 舊稱白音ヒヨリ
+* 上有兩位哥哥和兩位姊姊，下有一位妹妹，&lt;s&gt;不過都很影薄&lt;/s&gt;
+* 使用白鐘ヒヨリ的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/nm8197415 レリクス] || メリヒヨP || 據說是第一首再生數超越本家的歌
+|}
+
+=== 椎音あま(Shīne Ama) ===
+* 個性很害羞
+* 設定為18的高中生
+* 實力超級堅強的新人
+* 雖然是新人，不過因為調教者的關係，有著比同期新人還厲害的再生數
+* &lt;s&gt;又是松田トキ推出的坑&lt;/s&gt;
+* 使用椎音あま的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm22067588 Outer Science] || cillia || 
+|-
+|[http://www.nicovideo.jp/watch/sm21011220 天樂] || 松田トキ || 
+|-
+|[http://www.nicovideo.jp/watch/sm21011106 Fairytale] || 松田トキ || 
+|}
+
+=== 共音ミト(Tomone Mito) ===
+* 正太&lt;s&gt;不是因為畫風的關係&lt;/s&gt;
+* 中氣十足的正太音&lt;s&gt;在「灯」音源時變聲了&lt;/s&gt;
+** 「灯」音源中收錄的是人設兼中の人:みとざくろ的低沉地聲再轉性而成&lt;ref&gt;[http://www.nicovideo.jp/watch/sm15456952 證據]&lt;/ref&gt;，其他音源皆是假音再轉性
+* [http://www.nicovideo.jp/watch/sm23899637 喜歡吃拉麵]
+* 使用共音ミト的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm19022707 Prototype] || みとざくろ || キレ音源
+|-
+|[http://www.nicovideo.jp/watch/sm23887795 テロメアの産声] || みとざくろ || &lt;s&gt;都認不出是誰了&lt;/s&gt;
+|}
+
+=== 共音ザク(Tomone Zaku) ===
+[[File:img21188.png|150px|right]]
+* 偽娘，上面那位的哥哥，人設兼中の人相同
+* 「愛」音源是中の人的假音，キレ音源有轉性&lt;s&gt;，所以ザク比ミト更像男的也更像女的&lt;/s&gt;
+* 喜歡北極熊、哈根達斯、睡覺
+* 使用共音ザク的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm19436408 電波中毒] || みとざくろ || キレ音源
+|-
+|[http://www.nicovideo.jp/watch/sm23057475 ＢＣ] || みとざくろ || 兩人的キレ音源，忽然聽到的話根本分不出是誰在唱
+|-
+|[http://www.nicovideo.jp/watch/sm21411069 男の娘メモラブル] || みとざくろ || 「愛」音源，[http://www.nicovideo.jp/watch/sm15112273 中の人的翻唱版]
+|}
+
+=== 破壊音マイコ(Hakaine Maiko) ===
+[[File:img21273.jpg|150px|right]]
+* 像是日本鬼的粉紅長髮蘿莉，頭上有兩隻角
+* 人如其名，嚇死你的聲音&lt;s&gt;，好像噎到或是含著痰唱歌&lt;/s&gt;
+* 使用破壊音マイコ的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm17350493 千本桜] || zuckey || 聽久了其實不錯
+|-
+|[http://www.nicovideo.jp/watch/sm23153784 Destroy] || 香-Kaori- || 
+|}
+
+=== 蟹音ぱん。(Kanino Pan.) ===
+[[File:img21272.jpg|150px|right]]
+* 雙性皆有，有正太音有少女音的雙聲道
+* 中の人:(V)・∀・(V)&lt;s&gt;到底有多愛螃蟹&lt;/s&gt;
+* 會假裝自己是螃蟹，比兩個V在頭上
+* 使用蟹音ぱん。的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm9675262 m.u.] || ふぅちゃん || 與波音リツ合唱
+|}
+
+=== Ham ===
+[[File:img21271.png|150px|right]] 
+* 原名HAR­MON-E，後發布新音源，改名&lt;s&gt;簡稱&lt;/s&gt;Ham
+* 馬尾傲嬌正太&lt;s&gt;本來的美少女去哪了？&lt;/s&gt;
+* 名字似乎跟hamster(倉鼠/天竺鼠)有關係
+* 對BL很有興趣
+* 聲音與V flower&lt;ref&gt;V3的一位中性新人&lt;/ref&gt;極為相似&lt;s&gt;，只差有大舌頭，沒錢買花花的快來下載&lt;/s&gt;
+* 使用Ham的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm21511311 東京テディベア] || cheesum || 翻唱自Neru的名曲
+|}
+
+=== 闇音レンリ ===
+[[File:img21270.png|150px|right]] 
+* 近日在NICO出現的強大UTAU&lt;ref&gt;例如cillia的這首www.nicovideo.jp/watch/sm27259109&lt;/ref&gt;
+* &lt;s&gt;在發布一周年新音源後，變得蠻知名的&lt;/s&gt;
+* &lt;s&gt;因為音源過於強大，&lt;/s&gt;很容易調成逼近真人的神調教
+* 不是那個[http://a3.att.hudong.com/66/26/01200000026150134400263062757.jpg 褐膚蘿莉]
+*[http://renri-voice.com/ 配布所]
+*[https://renrivoice.wixsite.com/renri-voice/utau/ 官網 ]
+
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm27259109 End of Rain] || cillia || 神調教
+|-
+|[http://www.nicovideo.jp/watch/sm27287058 変わらないもの] || cillia || 還是神調教...
+|-
+|[http://www.nicovideo.jp/watch/sm28668522 Cynic] || ポリスピカデリー || 強大的中毒性+神調教&lt;s&gt;逼近真人的歌曲，很有意境的一首歌曲&lt;/s&gt;
+|}
+
+== 台灣較知名UTAU ==
+===子音シャナ(Kone Shana) ===
+[[File:img5767.jpg|150px|right]] 
+[[File:img7789.jpg|150px|right]]
+
+* 未完成音源
+* 大部分的人叫她子音夏娜，而不是子音シャナ
+* 人物設計：
+Act.1:sana、CLS
+Act.2:奶昔
+* 聲音提供者：不明，尚未公開
+* 很少見的台灣製音源
+* 因為剛出來沒多久，沒曲子能聽
+* 口頭禪：吵死了吵死了吵死吵死了！！（原因請看名字）
+* 聲音特色：小孩子可愛的聲音
+* 性別：女               
+* 年齡：10歲（準[[蘿莉]]一枚） 
+* 身高：135公分
+* 體重：29公斤 （哇這也太&lt;s&gt;受&lt;/s&gt;瘦了吧）
+* 髮色：天藍
+* 髮型：中長～長髮
+* 瞳色：天藍
+* 眼型：圓眼
+* 興趣：唱歌、跳舞
+* 專長：把自己打扮成小公主/小芭比/小娃娃 &lt;s&gt;簡單來說就是自戀&lt;/s&gt;
+* 不擅長：運動 
+* 夢想：闖出知名度
+* 喜愛顏色：藍色
+* 喜愛動物：小狗狗
+* 喜愛植物：所有的花
+* 很愛哭（待查證）
+* &lt;s&gt;自以為很傲嬌並且引以為傲的天然呆小妹妹&lt;/s&gt;
+* 人氣似乎提高了（？被喻為蘿莉音源中聲音最可愛的一位
+* 優化版出來後性能提高了
+*&lt;s&gt;沒有完善的oto.ini&lt;/s&gt;
+
+===  漁音ナラ/屈音ブナ ===
+[[File:img6939.jpg|150px|none]]
+* 台灣的UTAU，原本是2011年一群建國高中學生惡搞屈原的《漁父》而改編的『{{youtube|YsfI4Q34YDg|高中經典文化教材}}』系列動畫，後來被漁夫P做成了UTAU 
+* 手持物是包包(? 
+* 設定當然就是屈原和漁父 (還有楚王和眾卿們
+* 名義上第一首單曲 BAD FISHERMAN，因為P意外的神調教，使高中經典文化教材系列大受歡迎，吸引很多人使用高中經典文化教材作曲
+* 但更早之前已有人有用高中經典文化教材合成了一首Magnet(非UTAU)
+* 其實到2019仍有活動。
+* 屈原漁夫專輯收錄曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|{{sm|sm13330508|【轉載】高中經典文化教材～漁父～}} ||  || 一切的起源
+|-
+|[http://www.nicovideo.jp/watch/sm15199718 【高中經典文化教材】BAD FISHERMAN【Bad Apple】] ||  漁父P  || 高中經典文化教材系列的元兇
+|-
+|[http://www.nicovideo.jp/watch/sm16721185 【UTAU/高中經典文化教材】人生推銷鍵【人生リセットボタン】] ||    || 演變成傲嬌的漁夫
+|-
+|[http://www.nicovideo.jp/watch/sm15421084 【手描きPV】【UTAU/高中經典文化教材】小漁夫套娃 【マトリョシカ】] ||    || 漁屈味濃厚
+|-
+|[http://www.nicovideo.jp/watch/sm16574066 【UTAU/高中經典文化教材】BAOBAOBAO【きゃりーなっらなっら】] ||    || 相當萌力全開
+|-
+|[http://www.nicovideo.jp/watch/sm16270846 【UTAU/高中經典文化教材】漁夫融解【炉心融解】] || 漁夫P || 又一代神曲
+|-
+|[http://www.nicovideo.jp/watch/sm19724273 這いよれ！漁師子さん【這いよれ！ニャル子さんx高中經典文化教材】] ||    || 漁夫賣萌曲第?代
+|-
+|【2013屈原跳江祭】{{youtube|EzPIw771KI4|紅蓮的釣竿}}([[進擊的巨人]]OPX高中經典文化教材) ||    || 爆點完全在歌詞
+|-
+|【UTAU/高中經典文化教材】{{youtube|cSwc1GmhF3g|漁夫DAYS}}【[[陽炎Project|カゲロウデイズ]]】 ||    ||
+|}
+
+=== 夏語遙 ===
+[[File:img21187.jpg|150px|right]]
+* 人物設計：Izumi
+* 聲音提供者：迷漾
+* 擅長音域：D3~G4
+* 推薦曲速：80~135BPM 
+* 台灣飛天膠囊旗下的VOICEMITH品牌發表的UTAU音源
+** 目前在非商業(包含非營利同人活動)的情況下可免費使用
+* 不僅有日文，也有華語資料庫，因此可以翻唱中文歌，初期的歌曲也以此為主
+* 因為是首次商業公司推出的UTAU華語資料庫，剛推出的時候曲數急速增長，甚至[http://www.nicovideo.jp/watch/sm24946904 當周的UTAU RANKING]除第10名外全部都是夏語遙的歌，因此被NICO廚們戲稱為「週刊夏語遙RANKING」
+** 在台版NICO掀起一陣旋風，大受台灣人好評&lt;s&gt;，日本人卻對於「算不上好的調教卻佔據排行榜」感到有些不快&lt;/s&gt;
+** 不過畢竟是中文，結果誤認為是中國大陸製的NICO廚好像也不少……
+* 為人詬病的是BUG很多，官方卻光會辦繪師簽名會而不修，引起許多使用者公憤而不再調教她
+* 剛好和VOCALOID的華語聲庫&lt;b&gt;心華&lt;/b&gt;同時期推出，競爭激烈
+* &lt;s&gt;比起追歌曲的，愛繪師愛人設的粉絲似乎更多&lt;/s&gt;
+* &lt;s&gt;在夏語遙一周年的時候，一群調教師對於她公司的不滿已經到了極限&lt;/s&gt;&lt;ref&gt;詳細請看連署書https://drive.google.com/file/d/0Bx2RIiIHKKbscjNvNGU5RWgzN3c/view?pli=1&lt;/ref&gt;
+
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm24883456 源自夏的聲音] || Lee Ting Chou || 官方公開曲
+|-
+|[http://www.nicovideo.jp/watch/sm24894307 星路] || クエン酸P || 
+|-
+|[http://www.nicovideo.jp/watch/sm24885400 心理作用（心做し）] || くりこ || 神調教
+|-
+|[http://www.nicovideo.jp/watch/sm25884987 女表口力口] || yoyo幫尼 || 和心華合唱，強大的RAP調教&lt;s&gt;背後公司要改善啊...&lt;/s&gt;
+|}
+
+=== &lt;s&gt;韓導人聲樂器&lt;/s&gt; ===
+
+* Youtube使用者「梅川伊芙」重新拼接台灣政治人物韓國瑜的演講以及訪談而生，內容多半是政治諷刺題材
+* 作者也曾經用網路名人「館長」陳之漢、習近平以及蔡英文等人的聲音作為素材
+
+===  How音未來 ===
+* 音源製作者：Hugwalk
+* 以台灣搞笑Youtuber—HowHow為音源，翻唱歌曲以VOCALOID名曲為主而得此稱
+* 快速走紅後還有人做出了MMD模型...
+
+==島民自製UTAU ==
+*這個地方收錄島民們自行製作完成的UTAU音源&lt;s&gt;，歡迎自薦&lt;/s&gt;
+
+==UTAU關連動畫 ==
+[http://www.nicovideo.jp/watch/sm9726333 【第4回MMD杯本選】UTAU事件簿-All Starts are the "M"-]
+*一部UTAU眾人的&lt;s&gt;無腦日常&lt;/s&gt;懸疑MMD動畫
+*事情由天音ルナ消失開始，唯一留下的只有被撕掉的字條 字條中的M字意思到底是....?
+**本作品榮獲第4回MMD杯中兩個審査委員賞
+
+[http://tw.nicovideo.jp/watch/sm7540850 【UTAU-PV】立ち向かえ！君はカッコイイ！【カバー版】]
+*勵志曲
+*戰隊風
+*只要拿出認真時的勇氣，就甚麼也辦得到!
+*&lt;s&gt;但只限美男子&lt;/s&gt;
+
+[http://www.nicovideo.jp/watch/sm15947456 ソードマスターデフォ子 最終話【15sec. HANASU Contest2011】]
+
+[http://www.nicovideo.jp/watch/sm15945172 UTAUマスターモモ 最終回【15sec. HANASU Contest2011】]
+* 致敬有名的搞笑漫畫日和 - 劍聖大和
+* 同原作，在超短的時間內就把一堆角色和人物關係收拾掉了
+* 前者較接近原作風，後者較精美 &lt;s&gt;為同一個企劃在同一時間想到一樣的梗，兩方作者乾脆結婚去&lt;/s&gt;
+
+&lt;br&gt;
+
+[http://www.nicovideo.jp/watch/sm10244728 【重音テト】おちゃめ機能【アニメ風PV】]
+
+*由千愛、キッカ和一名&lt;s&gt;兇手&lt;/s&gt;匿名的無名氏合作所作成的動畫。
+**在EXIT TUNES PRESENTS Vocaloanthems這CD下 作曲家的身份確認了是ゴジマジP 證明了這是一椿自演釣魚事件 &lt;s&gt;也就是說為了增加那沒人氣原曲的釣魚系列&lt;/s&gt;
+*此曲被稱為「全ての元凶の元凶」
+*本來只是一首默默無名僅有9000再生數的小曲，但某一天發生了一件[http://www.nicovideo.jp/watch/sm10673673 不可思議的事]
+*在 ラマーズP 所創作名為「吹　っ　切　れ　た」的&lt;s&gt;腦殘&lt;/s&gt;電波帶領下，理所當然的引生了一股搖屁股熱潮。
+*原曲被挖出來後，這曲人氣連帶上升，再生數已經突破十萬進入殿堂了，而且作者也決定制作完整版PV &lt;s&gt;由此可見電波的影響非常大&lt;/s&gt;
+*關連的派生派生曲
+*如雨後春筍般的PV現在成為NICO的熱潮，部分&lt;s&gt;神奇的&lt;/s&gt;PV都有十萬甚至上百萬再生,最神奇的[[蜘蛛人]]版已經被權利者刪除，實在殘念
+*各種歌唱版也相繼出現，[http://www.nicovideo.jp/watch/sm10780722 ろん]的版本已經有超過五百萬的再生數
+
+
+**[http://www.nicovideo.jp/watch/sm10676669 【MikuMikuDance】テトさんが吹っ切れたようです]
+***MMD版重音的甩屁屁
+**[http://www.nicovideo.jp/watch/sm10691911 テト姉さんのいる「吹 っ 切 れ た」] 
+***動畫風
+**[http://www.nicovideo.jp/watch/sm10722893 カラー化の為ラマーズP終了のお知らせ【Full】]
+***吹　っ　切　れ　た 配上完整原曲(建議非經濟模式下開啟)
+***&lt;s&gt;或許這才是PV完整版&lt;/s&gt;
+**[http://www.nicovideo.jp/watch/sm10703062 【MMD】幼虫さんも吹っ切れたようです【ギギギ】]
+***&lt;s&gt;請先有心理準備才點開&lt;/s&gt;
+ 
+**[http://www.nicovideo.jp/watch/sm10723580 &lt;s&gt;ボ　っ　切　れ　た&lt;/s&gt;]
+***&lt;s&gt;＂傑作＂版wwwwwww&lt;/s&gt;
+***&lt;s&gt;再生數急速攀升中(マイ超越本家)&lt;/s&gt;
+***&lt;s&gt;點開請有心理準備(腹筋崩壞的意味)&lt;/s&gt;
+
+**[http://www.nicovideo.jp/watch/sm10732156 Fu!　っ　切　れ　た]
+***[[蘭蘭路]]版wwwwww
+***&lt;s&gt;教祖製VOCALOID&lt;/s&gt;
+***&lt;s&gt;教祖新式洗腦術&lt;/s&gt;
+
+**[http://www.nicovideo.jp/watch/sm10866580 &lt;s&gt;ダ　ー　マ　も　吹　っ　切　れ　た&lt;/s&gt;]
+***在此紀念被消除的[[蜘蛛人]]版遺址
+***原址當時字幕十分驚人,可見[[蜘蛛人]]這麼久了還是超強大的素材
+***影片的TAG更是一絕,目前戲稱為TAG最長的影片&lt;ref&gt;http://dic.nicovideo.jp/b/v/sm10866580/1-&lt;/ref&gt;
+***影片如同不死鳥一樣不斷被上傳&lt;s&gt;不過又被權利者不斷刪除&lt;/s&gt;，情況跟當年藍藍路有的拼
+***&lt;s&gt;跟權利者戰鬥的男人!![[蜘蛛人]]!!&lt;/s&gt;
+***&lt;s&gt;讓權利者十分驚恐的男人!!蜘蛛人!!&lt;/s&gt;
+***&lt;s&gt;其實是在提供關鍵字讓大家更好找，快點輸入影片名吧&lt;/s&gt;
+***&lt;s&gt;[http://www.nicovideo.jp/watch/sm13569250 我甚麼都沒丟請不要點我(?)]&lt;/s&gt;
+***&lt;s&gt;為了狩獵磨菇而賭上性命的男人們而流淚的男人的受到打擊的男人的支持他的男人而為他戰鬥的男人的懲罰而出現的男人的守護羈絆的男人的相信友情的男人的守護他而從地獄回來的男人的從朋友身上看到希望的被同情的沒用男人而為他流血的男人的粉碎了的男人的啜泣的男人的被鐵十字團脅持性命而來的使者不屈不撓的偵探團的母子的冷麵發售了！&lt;/s&gt;
+
+**[http://www.nicovideo.jp/watch/sm11242284 【手描き】　ウルトラニャンも　吹　っ　切　れ　た　【にゃーん】]
+***＂鹹蛋超人[[成句/貓也可以|貓]]＂版
+
+&lt;br&gt;
+
+[http://www.nicovideo.jp/watch/sm19266501 NicoNico UTAU Ranking Medley]
+*統計到2012年10月1日為止的UTAU出演率排行榜，由myrmecoleon氏製作，使用大約80位左右的UTAU角色按照排名接棒翻唱脫字P的[http://www.nicovideo.jp/watch/sm17082064 VOCALOID組曲]。
+*分數統計方式大致上應該是跟VOCALOID周刊相同&lt;s&gt;因此前幾名大概也就是那幾位&lt;/s&gt;。
+*對於不清楚UTAU家族的人而言這個應該是很好的入門動畫。
+**[http://www.nicovideo.jp/watch/sm19571435 NicoNico UTAU Ranking Medley 【UTAU音源をランキングしてみた修正版】]
+***本動畫的修正版，統計截止日期相同，但因為追加了一些漏掉的UTAU角色所以排名有變動&lt;s&gt;不過請安心至少前20名可說不動如山&lt;/s&gt;
+***&lt;s&gt;非常意外的是漁音ナラ竟也能在其中軋上一段&lt;/s&gt;
+ 
+== 相關條目 ==
+* [[ニコニコ動画]]
+* [[VOCALOID]]
+* [[VOCALOID衍生品種]]
+== 相關連結 ==
+* [http://zh.wikipedia.org/zh-tw/UTAU 維基百科：UTAU]
+* [http://dic.nicovideo.jp/a/utau ニコニコ大百科：UTAU]
+* [http://dic.nicovideo.jp/a/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88 ニコニコ大百科：重音テト]
+* [http://www10.atwiki.jp/utau2008/ UTAU@wiki]
+
+==回應==
+[[{{TALKPAGENAME}}]]
+==備註==
+&lt;references /&gt;
+
+[[Category:聲音歌唱軟體]]

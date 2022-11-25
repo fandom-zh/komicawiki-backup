@@ -1,0 +1,142 @@
+{{h0| Rider（騎兵／ライダー）}}
+[[File:Rider.jpg|250px|right]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|[[Extra Class (Fate) | 特殊額外職階]]：Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner
+|}
+
+== 簡介 ==
+* 聖杯戰爭所能召喚的基礎七種職階之一，擅長於駕馭騎乘物作戰。事跡中擅騎乘、以騎術聞名、或作為交通工具的駕馭者聞名之英靈能擔任此職階。如過去騎乘馬匹作戰的騎士，或指揮船隻運作的船長。
+** 由於是作為騎術聞名的人，通常都擁有知名的坐騎，所以擁有的寶具或是基本武裝也大多會是這些坐騎。
+*** 而騎乘物的範圍非常關廣，下至馬匹上至船艦皆在範圍。
+** &lt;s&gt;與劍職相同，由於坐騎通常也做為王的基本配件。 所以由此職階召喚出王的可能性也相當的高。&lt;/s&gt;
+* 基本能力雖不如三騎士，但能藉由做為寶具的騎乘物彌補。
+** 而似乎因為是擅長使用交通「工具」的立場，以職階被召喚的英靈似乎被允許使用比其他職階現世時更多樣的寶具。
+** 因此Rider職階的從者大多都是以寶具決勝負的類型。
+*雖說在原作設定中在能力上不及三騎士，但在FGO中本身職階的傷害補正不低，加上擁有最高的集星權重（200%），因此在遊戲上反而成為正規七職中最強勢的職階之一。
+**因此內部的競爭也十分激烈，尤其是五星的部分，和五星弓職一樣是強者輩出的一級戰區。
+
+=== 職階固有技能 ===
+* 騎乘：能夠掌握騎乘物的能力。這個技能基本上針對的是「騎乘物」的概念，所以不管是生物還是非生物，亦或是現代交通工具等都可算在這個範疇內。
+** 高等級的騎乘技能甚至能夠駕馭如聖獸之類的幻想種。但唯獨龍種是個例外，因為駕馭龍需要其他技能。
+** FGO中的效果為Q卡強化，相對於在劍職變成其罩門的窘況，在騎職的狀況下因為騎職大部分配卡與寶具都為Q卡，外加自身設定的吸星率也高容易打出暴擊，雖然Q卡本身設定很微妙但大致上來講傷害是有到基本水平的。
+
+=== 基本能力 ===
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 筋力 !! 耐久 !! 敏捷 !! 魔力 !! 幸運
+|-
+| D || D || B || C || E
+|}
+
+== 列表 ==
+{| class="wikitable sortable" style="margin： 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !!  騎乘物 !! 寶具數 !! 備考
+|-
+| [[Medusa (Fate)|美杜莎]] || [[Fate/stay night]] || 希臘：希臘神話 || Pegasus（天馬珀伽索斯） || 3 || Pegasus是美杜莎與海神波賽頓所生，因此以Rider召喚的時候會以他作為坐騎。&lt;ref&gt;注： 天馬並非寶具，韁繩才是寶具&lt;/ref&gt;
+|-
+| [[Alexander the Great (Fate)|伊斯坎達爾]] || [[Fate/Zero]] || rowspan="2"|馬其頓：史實 || Bucephalus（布賽法拉斯）&amp;神威的車輪 || rowspan="2"|2 ||
+|-
+| [[Alexander the Great (Fate)|亞歷山大]] || [[Fate/Grand Order]] || Bucephalus || 因為戰車是亞歷山大成年後征服波斯才得到的，因此還是少年時的他沒有這項寶具
+|-
+| [[Francis Drake (Fate)|弗朗西斯·德雷克]] || [[Fate/EXTRA]] || 英國：大航海時代 || Golden Hind（黃金之鹿號） || 2 || 
+|-
+| [[Achilles (Fate)|阿基里斯]] || [[Fate/Apocrypha]] || 希臘：希臘神話 || Troias Tragoidia（疾風怒濤的不死戰車） || 5 || 
+|-
+| [[Astolfo (Fate)|阿斯托爾福]] || Fate/Apocrypha || 歐洲：法蘭西素材 || Hippogriff（不屬此世的幻馬） || 4 || 
+|-
+| [[Georgius (Fate)|聖喬治]] || Fate/Apocrypha（廢案） || 歐洲：《黃金傳說》 || Bayard（幻影戰馬） || 4 || 其實與他有關的資料並沒有提及聖喬治的坐騎名字……
+|-
+| [[Perseus (Fate)|珀爾修斯]] || Fate Prototype || 希臘：希臘神話 || Pegasus（天馬珀伽索斯） || 6 || 
+|-
+| [[Ozymandias (Fate)|奧茲曼迪亞斯]] || Fate Prototype 蒼銀的碎片 || 古埃及：第十九王朝 || Mesektet（闇夜太陽船） || 3 || 三項寶具都是A級起跳的上等貨
+|-
+| [[坂本龍馬 (Fate)|坂本龍馬]] || Fate/KOHA-ACE || 日本：幕末 || 阿龍(?) || 1 || 
+|-
+| [[Pale Rider (Fate)|蒼白騎士]]&lt;ref&gt;面板標示真名為「蒼白騎士」（Pale Rider）&lt;/ref&gt;  || [[Fate/strange Fake]] || 概念現象 || ? || 2 || 啟示錄出現的四騎士中的「死亡」
+|-
+| [[Hippolyta (Fate)|希波吕忒]] || Fate/strange Fake || 希臘：希臘神話 || 馬 || ? || 
+|-
+| [[Edward Teach (Fate)|愛德華‧蒂奇]] || Fate/Grand Order || 加勒比海：史實&lt;br /&gt;&lt;s&gt;[[刺客教條#水手刺客教條Ⅳ：黑旗（Rider Assassin's Creed IV: Black Flag）|水手教條·黑旗]]&lt;/s&gt; || Queen Anne's Revenge號&lt;br&gt;（安妮女王的復仇號） || 1 || &lt;s&gt;本本……[[成句/癢 好吃|萌……好看……]]&lt;/s&gt;
+|-
+| [[Marie Antoinette (Fate)|瑪麗·安東尼特]] || Fate/Grand Order || 法國：史實 || 玻璃製成的馬和馬車 || 2 || 
+|-
+| [[Boudica (Fate)|布狄卡]] || Fate/Grand Order || 英格蘭：羅馬帝國時期 || 戰車 || 2 || 史書與繪畫中布狄卡的形象多為站在戰車上進行戰鬥，但戰車本身是沒有名字的...
+|-
+| [[牛若丸 (Fate)|牛若丸]] || Fate/Grand Order || 日本：平安時代 || 太夫黑 || 1&lt;ref&gt;一個寶具有六種能力&lt;/ref&gt; || F/GO中太夫黑沒有出現就算了，PV裡的義經騎的居然還是白馬!?
+|-
+| [[Martha (Fate)|瑪爾大]] || Fate/Grand Order || 歐洲：史實、新約聖經 || 塔拉斯克 || 2 || 系列中第一個龍騎士
+|-
+| [[Anne Bonny &amp; Mary Read (Fate)|安妮·伯妮&amp;瑪莉·瑞德]] || Fate/Grand Order || 加勒比海：史實|| 無&lt;ref&gt;生前搭乘海盜船「復仇號」，但這艘船是船長傑克·瑞克姆的而不是她們的，自然沒變成她們的寶具&lt;/ref&gt; || 1 || 少見的雙人一組搭擋現界的Servant，雖是知名海盜，但不是船長而是船員
+|-
+| [[Medb (Fate)|女王梅芙]] || Fate/Grand Order || 凱爾特神話 || 由神牛拉的鐵戰車 || 4 || &lt;s&gt;以設定面來說是騎男人的[[上車|老司機]]騎兵&lt;/s&gt; 
+|-
+| [[坂田金時 (Fate)|坂田金時]] || Fate/Grand Order || 日本：史實 || Golden Bear號 || 2 || 
+|-
+| [[Quetzalcoatl (Fate)|魁札爾科亞特爾]] || Fate/Grand Order || 拉丁美洲：阿茲特克神話 || 風神翼龍 || 3 || 
+|-
+| [[Hessian Lobo (Fate)|黑森·羅伯]] || Fate/Grand Order ||美國:《西頓動物記》&lt;br&gt;美國:《沉睡谷傳奇》 || 羅伯 || 1 || {{censored|惡性隔絕魔境 新宿中的職階}}
+|-
+| [[Cristoforo Colombo (Fate)|克里斯多福·哥倫布]] || Fate/Grand Order || 歐洲：史實 || 聖瑪利亞號 || 1 ||
+|-
+| [[Leonardo da Vinci (Fate)|李奧納多·達文西]] || Fate/Grand Order&lt;ref&gt;初登場作品為F/GO，在《F/GO Arcade》中確定職階，之後才在F/GO中正式實裝&lt;/ref&gt; || 義大利：史實 || 戰車／虛數潛航艇 || ? || Arcade中的寶具是戰車，F/GO版本的寶具則是虛數潛航艇
+|-
+| [[Ivan the Terrible (Fate)|伊凡雷帝]] || Fate/Grand Order || 俄羅斯：沙皇國 || {{Censored|與自身合體的&lt;s&gt;猛獁坦克&lt;/s&gt;山岳型魔獸}} || 2 || {{Censored|此為異聞帶《永久凍土帝國 安娜塔西亞》中，與魔獸合體的獸帝伊凡}}
+|-
+| [[Captain Nemo (Fate)|尼莫]]  || Fate/Grand Order || 法國：《海底兩萬哩》 || 鸚鵡螺號 || 1 || 
+|-
+| [[赤兔馬 (Fate)|赤兔馬]] || Fate/Grand Order || 中國：史實 || 自己 || 1 || 既Vánagandr之後，第二位自身即為騎乘物的Rider
+|-
+| [[萊尼斯‧艾爾梅洛伊‧阿其索爾特|司馬懿〔萊妮絲〕]] || Fate/Grand Order || 中國：三國時期/TYPE-MOON原創 || 水銀戰馬(?)&lt;ref&gt;攻擊動作之一，由月靈髓液組成的馬匹&lt;/ref&gt; || ? || 和諸葛孔明一樣，是司馬懿附身在萊尼斯身上的擬似Servant
+|-
+| [[Bartholomew Roberts (Fate)|巴索羅繆·羅伯茨]] || Fate/Grand Order || 加勒比海：史實 || 海盜船團 || ? || 
+|-
+| [[Europa (Fate)|歐羅芭]] || Fate/Grand Order || 希臘：希臘神話 || 機械白牛、塔羅斯 || 2 || 
+|-
+| [[Mandricardo (Fate)|曼迪卡爾多]] || Fate/Grand Order || 歐洲：法蘭西素材 || Brigliadoro || ? || 騎的是從[[Hruodland (Fate)|羅蘭]]那裡撿來的馬
+|-
+| [[Odysseus (Fate)|奧德修斯]] || Fate/Grand Order || 希臘：希臘神話 || 特洛伊木馬 || 2 || 
+|-
+| [[Habetrot (Fate)|哈貝特洛特]] || Fate/Grand Order || 大不列顛：民間傳說 || 紡車 || ? || 
+|-
+| [[Artoria_Pendragon_(Fate)|阿爾托莉亞·潘德拉貢（聖誕Alter）]] || Fate/Grand Order || 大不列顛：亞瑟王傳說 || &lt;s&gt;主人公&lt;/s&gt;馴鹿 || 1 || 聖誕節式樣
+|-
+| [[Mordred (Fate)|莫德雷德]] || Fate/Grand Order || 大不列顛：亞瑟王傳說 || Prydwen || 1 || 夏季泳裝式樣
+|-
+| [[Artoria_Pendragon_(Fate)|阿爾托莉亞·潘德拉貢（女僕Alter）]] || Fate/Grand Order || 大不列顛：亞瑟王傳說 || 重型機車 || 1 || 夏季泳裝式樣
+|-
+| [[Ishtar (Fate)|伊絲塔]] || Fate/Grand Order || 美索不達米亞神話 || 天舟瑪安娜 || 1 || 夏季泳裝式樣
+|-
+| [[Carmilla (Fate)|卡蜜拉]] || Fate/Grand Order || 匈牙利：史實 || 開蓬跑車 || ? || 夏季泳裝式樣
+|-
+| [[紫式部 (Fate)|紫式部 ]] || Fate/Grand Order || 日本：平安時期 || 土蜘蛛 || ? || 夏季泳裝式樣
+|-
+| | [[Caenis (Fate)|凱妮絲]] || Fate/Grand Order || 希臘：希臘神話 || 海蛇 || ? || 夏季泳裝式樣
+|-
+| [[Báthory Erzsébet (Fate)|伊莉莎白·巴托里〔灰姑娘〕]] || Fate/Grand Order || 匈牙利：血腥伯爵夫人 || 南瓜馬車 || ? || 萬聖節式樣
+|-
+| [[Georges Méliès (Fate)|用漫畫了解的Rider]]&lt;br&gt;{{censored|喬治‧梅里愛}}&lt;br&gt; || 用漫畫了解FGO！ || 法國：史實 || 火箭型太空艙(?)&lt;ref&gt;來自《月球旅行記》&lt;/ref&gt; || 2 || 騎過的都是只有在電影中才會出現的空想騎乘物
+|-
+| [[Darius III (Fate)|大流士三世]] || Fate/Grand Order-Fist Order- || 波斯：史實 || ? || ? || 只出現一個鏡頭
+|- 
+| Vánagandr&lt;ref&gt;名字的意思是「Ván河的怪物」&lt;/ref&gt; || Fate/EXTRA Last Encore || 北歐：北歐神話 || 自己 || 1 || 即北歐神話中的巨狼芬里爾，史無前例的'''不是騎乘者而是被騎乘物'''的Rider
+|-
+| [[Kundry (Fate)|昆德麗]] || Fate/Requiem || 歐洲：《帕西法爾》 || ? || ? || 
+|-
+| [[Helena Blavatsky (Fate)|海倫娜·布拉瓦茨基（聖誕節）]] || Fate/Grand Order Arcade || 歐洲：史實 || UFO || ? || 聖誕節式樣
+|}
+* 除了上述這些成員以外，曾明確提及具有Rider適性的還有[[Hēraklēs (Fate)|赫拉克勒斯]]、[[Cú Chulainn (Fate/stay night)|庫夫林]]、[[Nerō Claudius (Fate)|尼祿·克勞狄烏斯]]、[[呂布奉先 (Fate)|呂布奉先]]、[[Karna (Fate)|迦爾納]]、[[Brynhild (Fate)|布倫希爾德]]、[[森長可 (Fate)|森長可]]、[[源賴光 (Fate)|源賴光]]、[[Parvati (Fate)|雪山神女]]、[[Penthesilea (Fate)|彭忒西勒亞]]、[[Napoleon Bonaparte (Fate)|拿破崙]]、[[Bradamante (Fate)|布拉達曼特]]、[[長尾景虎 (Fate)|長尾景虎]]、[[Iāsōn (Fate)|伊阿宋]]，但都未曾登場。
+** 此外，[[Siegfried (Fate)|齊格飛]]在最早的企劃案中是具有Rider適性的，但F/AP正式登場後便再也沒有提及這件事，不確定設定是否有沿用。
+** 另外，至今從未登場過的武田信玄也在長尾景虎的絆禮裝中提及過具有Rider適性。
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+&lt;references /&gt;
+[[Category:TYPE-MOON]]
+[[Category:Fate系列]]
+[[Category:Rider (Fate)|*]]

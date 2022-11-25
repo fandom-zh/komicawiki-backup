@@ -1,0 +1,66 @@
+{{h0|ウェザーロイドType A Airi／WEATHEROID TypeA Airi／ポン子}}
+
+[[File:ポン子2018.png|right|350px]]
+
+: {{size|24|{{color|#00BBFF||'''今日の最下位は～？かに座！'''}}}}
+__TOC__
+{{clr}}
+== 基本資料 ==
+* 株式会社ウェザーニューズ開發的虛擬女性天氣報導員Android，2012年開始在SOLiVE放送
+** [[起源]]是2011年的[http://info.nicovideo.jp/seiga/weatheroid/ WEATHERLOID角色設計大賽]，主題是以ウェザーニューズ當家主播，也將擔任角色[[聲優]]的[https://www.youtube.com/watch?v=ZygXkU3pusk&amp;t=1861 &lt;s&gt;大女優&lt;/s&gt;]山岸愛梨的形象創作
+*** 最終雀屏中選的是{{im|1728123|插畫師田上俊介的設計}}，3D模型則由[https://twitter.com/saboten_mmd/status/277303640534953984 さぼてん]製作
+* 作為ウェザーニューズ的形象人物，同時提供聊天機器人報氣象的服務，也能透過Google Assistant連上，提供語音氣象資訊
+* 喜歡的天空是有飛機雲的天空
+* 推薦的氣壓是1030～1052hPa（高氣壓）
+
+== 介紹 ==
+* 雖然就定義來說不太算是虛擬Youtuber，不過不算Ami Yamato的話，可能是日本最早用類似形式生放送的，也有部分人稱其「バーチャルYouTuberの始祖」、「元祖バーチャルYouTuber」
+* 因為技術不成熟的緣故{{ref|因為是在VR設備萌芽前的年代誕生，所以在近年VR設備進入消費市場前是使用Kinect的動態捕捉系統直播，而至今雖然偶爾會玩VR設備，但平時直播的設備是否也跟著更新則不得而知}}{{sm|32507674|出現莫名其妙的bug導致放送事故的次數不少}}，所以被網民稱為「放送事故の擬人化」、「ポン子」{{ref|取ポンコツ（廢柴）的諧音}}
+** 放送風格相當自由，節目過程能時常聽到工作人員的笑聲，{{sm|32485918|裡面的人自己亂玩，或是趁著出bug的時候亂搞的迷場景}}也不少見
+* 在ウェザーロイド占い環節，出現Airi擺出雙V手勢說「今日の最下位は……かに座！」的謎之舉動{{ref|其實這個環節是使用預錄的詞組加上其他工作人員操作模型製成，&lt;s&gt;{{sm|29288273|但其實大家都在亂玩，完全沒個正經的}}&lt;/s&gt;，對內容認真你就輸了}}，結果馬上就&lt;s&gt;遭報應&lt;/s&gt;發生放送事故&lt;s&gt;，巨蟹座的詛咒&lt;/s&gt;
+** 以上事件讓她獲得「かに座に親を殺された女」的稱呼，此後在其他Vtuber影片出現螃蟹或雙手比V手勢時觀眾就會集體喊「かに座！」
+* 在2017年9月28日的SOLiVE24現場直播[https://www.youtube.com/watch?v=QbPrVmwUfJc 發生放送事故，導致裡面的人真身曝光]
+** 中の人在以上事件之後稱自己為Airi的製作人&lt;ref&gt;其實Airi自己也常常{{sm|32652280|自爆}}甚至[https://www.youtube.com/watch?v=fnLFV2ZpZiA&amp;t=344 說出メタ發言]，但大家仍心照不宣&lt;s&gt;，說到底從一開始大家就知道的事也沒什麼好騷動的&lt;/s&gt;&lt;/ref&gt;
+* 2018年5月17日，Airi正式從ウェザーニューズ的Youtube頻道獨立出來{{ref|由於ウェザーニューズ本身是專業氣象公司，平時的直播就在多個平台播出，只是多了一個Airi專屬的頻道，節目仍會在ウェザーニューズ的各個平台播出}}，開設自己的頻道與推特正式成為Vtuber
+** &lt;s&gt;出道七年的超大型新人Vtuber&lt;/s&gt;
+*** [https://twitter.com/TypeA_Airi/status/1000564249670762496 頻道開設僅僅十天就達到三萬訂閱]
+* 明明是氣象主播&lt;s&gt;卻不務正業&lt;/s&gt;，偶爾到了節目快結束了才想起還沒報氣象，而若是語音合成回甚至有三倍速報氣象&lt;s&gt;敷衍掉&lt;/s&gt;的狀況
+* 2018年6月，推特帳號拿到藍勾，當時的Vtuber只有[[キズナアイ]]取得，而Airi的帳號只開設不到一個月就得到推特認證{{ref|推特會優先審核公益帳號，而播報氣象的Airi正好符合公益帳號的資格}}
+* 2018年7月，停播已久的「ウェザーロイド占い」復活
+** 和過去不同，是在有[[中の人]]的週四播出
+*** &lt;s&gt;當然不管怎麼樣，在ポン子的節目裡，かに座永遠都是最下位，不會上升的&lt;/s&gt;
+* &lt;s&gt;目前固定每日日本時間23:00生放送，每次40分鐘到60分鐘不等，除了週四以外都是語音合成，稱為節能模式（省エネモード），週四才會有裡面的人{{ref|官方說法是充電需要一週時間，每週四是充飽電的時間}}&lt;/s&gt;
+** &lt;s&gt;每週四跨週五零時會喊一聲「ようこそ、 金曜日～！」來為直播收尾&lt;/s&gt;
+* 2019年7月，節能模式的節目取消{{ref|7月4日是節能模式最後一期，回顧了一年來節能模式的歷程}}，生放送時間改為每週四日本時間22:00~23:00
+** 因為放送時間不跨日了，所以收尾口號曾暫時改為「もうすぐ金曜日！」，但後來還是改回「ようこそ、 金曜日～！」
+* [https://www.youtube.com/watch?v=G78PhoVn4QE 節目重啟沒多久，立刻迎來令和第一次重大放送事故]
+** 經紀人：「好久沒發生的大慘事放送事故？這完全不是放送事故，只是家常便飯。這個攝影棚啊，人消失、各式各樣的東西消失這種事常常發生的。」
+* 每逢日本遭遇颱風或是重大災難停播
+* 遇特殊天文現象（如流星雨）會進行特別節目
+* 直播中收到的Super Chat，除了Google抽走的費用以外，會作為賑災基金捐給日本紅十字會
+
+== 相關連結 ==
+*'''內部連結'''
+** [[虛擬Youtuber]]
+
+*'''外部連結'''
+** [https://www.youtube.com/channel/UCzrw4K7D9Ti3FP8WMTVPImg 公式YouTube頻道]
+** [https://twitter.com/TypeA_Airi 個人Twitter]
+** [https://twitter.com/airin0609 山岸愛梨Twitter]
+** [https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ ウェザーニューズYouTube頻道]
+** [https://twitter.com/wni_jp ウェザーニューズ公式Twitter]
+** [https://weathernews.jp/weatheroid/ 官方網站（應用程式、聊天機器人介紹頁）]
+** [https://weathernews.jp/s/topics/201806/040155/ 官方Google Assistant使用說明]
+** [https://weathernews.jp/weatheroid/model/#! 2D形象、3D模型配布頁]
+** [https://dic.nicovideo.jp/a/weatheroid%20typea%20airi WEATHEROID TypeA Airi - ニコニコ大百科]
+** [http://dic.pixiv.net/a/ウェザーロイドAiri ウェザーロイドAiri - Pivix百科事典 ]
+
+== 回應 ==
+{{pcomment|section=1}}
+
+==備註==
+&lt;references/&gt;
+
+[[Category:角色]]
+[[Category:虛擬YouTuber]]
+[[Category:網路文化]]

@@ -1,0 +1,386 @@
+{{h0|スグリ/Suguri a little war in brand-new earth/&lt;br&gt;優理-新生地球上的小戰爭/&lt;br&gt;&lt;s&gt;[[這いよれ！ニャル子さん|襲來!美少女兵器]]&lt;/s&gt;}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|-
+| 下一部：[[ソラ]] 
+|}
+
+[[File:img21655.jpg|center]]
+
+== 概要 ==
+[[File:img21676.jpg|center]]
+* 為[[橙汁]]開發的的第二作,同人橫向彈幕STG 
+** 版本從[http://dl.dropbox.com/u/102927476/ordd/SuguriTrial3.zip 官網無料體驗版]到C69完成版
+** 其實捏他不少(有鋼彈也有假面騎士以及洛克人)
+*** &lt;s&gt;橫向版[[らじおぞんで|無限罪]]&lt;/s&gt;
+** 本條目將本傳與外傳(AoS)一併介紹
+
+=== 系統 ===
+* 採用類似ACT、FTG式的介面
+** 不同的是,自機能在沒有重力限制下飛行
+
+* 衝刺/ダッシュ/Dash
+** 像洛克人般加速移動,能躲掉敵彈或擦彈來累積計量
+*** &lt;s&gt;還會爆出糖果&lt;/s&gt;
+
+* 血條/HP
+** 最大值1000,到0時Game Over
+
+* 強化計量表/ハイパーゲージ/Hyper Gauge
+** 必殺攻擊的計量
+
+* 熱度/ヒート/Heat
+** 衝刺時就會上升,過熱(300%)時會很危險
+
+* 鎖定/ロックオン/Lock-on
+** 可自由開關,On為自動照準目標
+*** 敵方身上會出現照準標示(僅單一,擊破時會隨機轉移目標)
+
+* 可選武裝
+** 最多持有兩項武器,A項可進行必殺攻擊
+
+* 武裝一覽
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! '''武裝''' !! '''解說''' !! '''必殺攻擊''' !! '''備註''' 
+|-
+| 光束步槍/ビームライフル/Beam Rifle || 初期持有,能發射光束彈 || 高出力光束炮 ||  
+|-
+| 槍彈/バレット/Bullet || 發射實彈 || 亂射彈 ||  
+|-
+| 火箭筒/バズーカ/Bazooka || 發射火箭彈 || 自機向的多發射擊 ||  
+|-
+| 機槍/マシンガン/Machine Gun || 自動連射 || 順逆時針的掃射 ||  
+|-
+| 光束火箭筒/ビームバズーカ/Beam Bazooka || 發射大顆光彈 || 巨大光彈 ||  
+|-
+| 擴散槍/スプレッド/Spread || 短距離的亂射光彈 || 多發光束炮 ||  
+|-
+| 破壞炮/バスター/Buster || 發射雷射 || 增強版的雷射 ||  
+|-
+| 四連裝加農/４キャノン/4 Cannon || 自機向多發連射光束 || 四向光束炮 ||  
+|-
+| 豆莢/ポッド/Pod || 可棄式浮遊子機,能放出一段時間、發射光彈 || 一次放出五個或光束炮 ||  
+|-
+| 火焰放射器/フレイムスロア/Flamethrower || 按住時發出有限距離的火焰 || 周圍火焰放射 ||  
+|-
+| 陷阱/トラップ/Trap || 設置用的電磁子機 || 一次放出四個 ||  
+|-
+| 劍/ソード/Sword || 斬擊,能三連斬及衝刺斬 || 必殺一字斬 ||  
+|-
+| 電擊器/ショック/Shock || 發出慢速電磁彈 || 蛇行電磁彈 ||  
+|-
+| 發射器/ランチャー/Launcher || 自機向多發飛彈 || 多發導向飛彈 ||  
+|-
+| 武裝刀鋒/フォースエッジ/Force Edge || 可控制的自機衝擊 || 依照鎖定目標作出連衝 ||  
+|-
+| 打樁機/パイルバンカー/Pile Bunker || 衝向目標的刺擊 || 威力增強版 ||  
+|-
+| 加速器/アクセラレータ/Accelerator || 散熱、能量集氣 || 減緩敵方行動速度(包括攻擊) ||  
+|}
+
+=== 模式 ===
+* 故事模式/Story
+** 單一關卡
+
+* 街機模式/Arcade
+** 多關卡,但不能中途替換武裝
+
+* 鬥爭模式/Match
+** 進行一對一的Boss戰
+*** 共四種難度,有最難的特別(Special)可選
+
+== 故事 ==
+ 地球在經歷無數戰爭下而殘破不堪
+ 使得人們不得不往外星移民
+
+ 剩下的人為了修復,而派出名為「優理」的少女
+ 在長達數千年的時間下,環境恢復到可以回來居住時
+
+ 突然從天上降下大量不明物體
+ 而少女則前往一探究境...
+
+== 登場人物 ==
+
+=== 自機 ===
+* '''優理'''/スグリ&lt;ref&gt;「醋栗」之意&lt;/ref&gt;/Suguri&lt;br&gt;[[File:img21656.png]]
+** [[改造人]],AoS中表示改造後為紅眼,也無法成長(老化)
+*** 其科學家父親-'''雪斗'''/ユキト&lt;ref&gt;[http://wiki.komica.org/pix/img21671.jpg 就是圖中右下的那一位][[File:img21671.jpg|120px]]&lt;/ref&gt;從她14歲開始改造,6年後才正式完成
+*** 然後花了约一萬年時間在修復地球
+*** {{censored|&lt;s&gt;初期的正妻是姫、後來是空&lt;/s&gt;}}
+*** [http://wiki.komica.org/pix/img21672.jpg 其實夾克裡面是有穿的...][[File:img21672.jpg|120px]]
+** &lt;s&gt;奈亞子、[[夏娜|夏那]]([[2P]]配色)、[[傑洛]]&lt;/s&gt;
+** 專用曲:[https://youtu.be/Pg7cH14VuOg Icarus(伊卡路斯)]
+*** [https://youtu.be/IDTP8NVKdOs 100%橙汁的專用曲]
+
+=== Stage Boss「祠夫系列/改造人間-シフブランズ/Shifu Brands」 ===
+** 會使用專屬武裝,依難度而有不同招式
+*** 血量則高出自機好幾倍
+** 至於除了姫之外的改造人卻都在續作復活(但處理方式不明)
+*** {{censored|連科技都一樣,推測是從一萬年前離開地球的船團之一}}
+
+* '''沙希'''/サキ&lt;ref&gt;「先鋒」之意&lt;/ref&gt;/Saki&lt;br&gt;[[File:img21657.png]]
+** 招式:
+*** 龍捲鈸/トルネード・シンバル/Tornado Cymbal
+*** 星塵鈴聲/スターダスト・ベル/Stardust Bell
+*** 迴旋鈴鼓/タンバリン・ブーメラン/Tambourine Boomerang
+*** 燒夷沙鈴/マラカス・ナパーム/Maracas Napalm
+*** 沙鈴榴彈/マラカス・グレネード/Maracas Grenade
+*** 沙鈴錘/マラカス・ハンマー/Maracas Hammer
+*** 沙鈴擺/マラカス・スイング/Maracas Swing
+*** 鈴鼓割刀/タンバリン・ブレード/Tambourine Blade
+*** 氣旋鈸/サイクロン・シンバル/Cyclone Cymbal
+*** 銀河鈴聲/ギャラクシー・ベル/Galaxy Bell
+*** 陽光鈴聲/サンシャイン・ベル/Sunshine Bell
+*** 轟響鈴鼓/ローリング・タンバリン/Rolling Tambourine
+*** 大霹靂鈴聲/ビッグバン・ベル/Big Bang Bell
+** 為探查地球環境的前峰,使用像是敲擊樂器的武裝,帶領空挺部隊
+** 個性樂觀,喜歡甜點(尤其是布丁)
+** 在AoS中還為了布丁大打出手(無誤)...
+*** AoS2則是爭論自己是最可愛的
+** &lt;s&gt;哈斯太&lt;/s&gt;
+** 專用曲:[https://youtu.be/lIeTrsUrgxk First Encount(初遇)]
+*** [https://youtu.be/-tnL_--TPwc 100%橙汁的專用曲]
+
+* '''伊留'''/イル&lt;ref&gt;「射出」之意&lt;/ref&gt;/Iru&lt;br&gt;[[File:img21658.png]]
+** 招式:
+*** 高速光子步槍/高速フォトンライフル/High-Speed Photon Rifle
+*** 擴散光子步槍/散弾フォトンライフル/Spread Photon Rifle
+*** 手持式防空火箭/直進ハンドロケット/Dumbfire Hand Rocket
+*** 定位式電磁子機/電磁ホールドビット/Electromagnetic Hold Bit
+*** 導向飛彈莢艙/誘導ミサイルポッド/Homing Missile Pod
+*** 高出力射線光/高出力リニアレイ/Full Power Linear Ray
+*** 全擊火力/厚弾幕フルファイア/All-Out Attack - Full Fire
+*** 高滅殺爆彈/大火力ジェノサイドボム/Highly-Explosive Genocide Bomb
+*** 廣泛性破壞力場/広範囲エレクトリックフィールド/Wide Destructive Field
+*** 毀滅閃光/破壊閃光デストラクションレイ/Disintegrating Light Destruction Ray
+** 擅長使用槍械,帶領陸上部隊
+** 個性豪爽,同時也是個軍火狂
+*** [[男裝麗人|裝份像男孩子]],[http://wiki.komica.org/pix/img21673.jpg 其實有嘗式過女裝...][[File:img21673.jpg|120px]]
+** 在AoS中的後日談,與孩子們遊玩
+*** AoS2則是健行、兼兵器鑑賞
+** 專用曲:[https://youtu.be/RrOuVllg178 Tough &amp; Intense(強烈)]
+*** [https://youtu.be/SmVjb4tX8vc 100%橙汁的專用曲]
+
+* '''奈奈子'''/ナナコ&lt;ref&gt;「七個」之意&lt;/ref&gt;/Nanako&lt;br&gt;[[File:img21659.png]]
+** 招式:
+*** 音觸手/テンタクル・トーン/Tentacle Tone
+*** 光觸手/テンタクル・レイ/Tentacle Ray
+*** 針觸手/テンタクル・ニードル/Tentacle Needle
+*** 果觸手/テンタクル・フルーツ/Tentacle Fruit
+*** 爆雷觸手/テンタクル・マインTentacle Mine
+*** 爆雷散布/イータ・マイン/Ether Mine
+*** 羽毛散布/イータ・/Ether Feather
+*** 葉散布/イータ・リーフ/Ether Leaf
+*** 蟲散布/イータ・バグ/Ether Bug
+*** 炮彈射擊/シェル・シュート/Shell Shoot
+*** 觸手吐息/テンタクル・ブレス/Tentacle Breath
+*** 花冠/フラワー・クラウン/Flower Crown
+*** 觸手突刺/テンタクル・スティング/Tentacle Sting
+*** 春風暴/スプリング・ストーム/Spring Storm
+** 使用七個浮遊子機「Bit」,負責兵器生産
+*** &lt;s&gt;克子的子機炎之精&lt;/s&gt;
+** 有點[[ツンデレ|傲嬌]],與夏依是一組
+** 在AoS中的後日談中,[http://wiki.komica.org/pix/img21688.png 養了寵物][[File:img21688.png|120px]]
+*** 在AoS2還四處挑釁...
+** 專用曲:[https://youtu.be/eBKMIPyOCFU Linear Light(線光)]
+*** [https://youtu.be/F37s_ZQARDc 100%橙汁的專用曲]
+
+* '''夏依'''/カエ&lt;ref&gt;「變化」之意&lt;/ref&gt;/Kae&lt;br&gt;[[File:img21660.png]]
+** 招式:
+*** しゅぱっ！/Shupa/光束斬/ビームスラッシャー/Beam Slasher
+*** しゅぱぱぱっ！/Shupapapa/弧射擊/アークショット/Arc Shots
+*** ぼわー！★/焚爆裂/フレイムバースト/Flame Burst
+*** カキーン！/Kakiin/固化射擊/ソリッドショット/Solid Shot
+*** カキーン！/固化扇/ソリッドファン/Solid Fan
+*** ぼわー！★/Bowaa/焚井/フレイムウェル/Flame Well
+*** ギューン！/Gyuun/焚祭爪/イモレーションクローズ/Immolation Claws
+*** ばーんっ！/Baan/熱幻像/ヒートミラージュ/Heat Mirage
+*** ギュウウン！/Gyuuun/武裝刀鋒/フォースエッジ/Force Edge
+*** カキュイーン！/Kakyuiin/導向刀鋒/ホーミングエッジ/Homing Edge
+*** ばばばーん！/Bababaan/熱暴走/ヒートストローク/Heat Stroke
+*** もえるよ！/Moeru Yo/自燃/スポンタニアスコンバッション/Spontaneous Combustion
+*** ずだだーん！★/Zudadaan/萬爪祭壁/ミリアドクローイモレーションウォール/10000(Myriads)Claw Immolation Wall
+*** ずががーんっ！/Zudadaan/終嶽滅/アルティメットマウンテンブレイカー/Ultimate Mountain Breaker
+** 負責情報統整
+** 原設定是能將身體一部份作為武器的失敗作,只能以近戰、分身能力替代
+*** 都以「狀聲詞」為招式名,可以藉由燃燒狀態(ブレイジング)來增強實力
+** 個性較為異常、不穩定
+*** AoS中表示曾被祠夫囚禁,得了無聲兼幽閉恐懼症(推測載耳機是為控制病情)
+*** 在AoS2中好像有所轉變
+** &lt;s&gt;克音、[[神奇寶貝第三世代登場人物一覽#亞莎〈アスナ，Flannery〉|釜炎道館館主]]&lt;/s&gt;
+** 專用曲:[https://youtu.be/mroniOayZL8 Impact(衝突)]
+*** [https://youtu.be/mvSjoyPLBLM 100%橙汁的專用曲]
+
+* '''翔子'''/キョウコ&lt;ref&gt;「堅固」之意&lt;/ref&gt;/Kyoko&lt;br&gt;[[File:img21661.png]]
+** 招式:
+*** 時雨/オータムレイン/Autumn Rain
+*** 氷晶(霧氷)/グレイシア/Glacier
+*** 清流/クリア(コールド)ストリーム/Clear(Cold) Stream
+*** 氷晶/アイスクリスタル/Ice Crystal
+*** 水鏡(水紋)/ウォーターミラー/Water Mirror
+*** 氷柱/アイシクル/Icicle
+*** 水晶/クリスタル/Crystal
+*** 五月雨/サマーレイン/Summer Rain
+*** 凍露(結氷)/モーニングデュー/Morning Dew
+*** 氷樹/フローズンフォレスト/Frozen Forest
+*** 氷紋(氷結)/フローズンエンブレム/Frozen Emblem
+*** 氷崩/シャッタードアイス/Shattered Ice
+*** 水鏡/アイスエイジ/Ice Age
+*** 雪崩/アヴァランチ/Avalanche
+** 能產生防禦的冰結晶,負責戰略決策
+** 冷靜型的眼鏡娘,最早被祠夫改造的成員
+*** AoS中表示自己像是母親般的存在,在AoS2還關心她人
+** &lt;s&gt;露希·吉斯頓&lt;/s&gt;
+** 專用曲:[https://youtu.be/SY0Zx66B7Zs Difference(差距)]
+*** [https://youtu.be/TM2WB4TWqWU 100%橙汁的專用曲]
+
+* '''祠夫'''/シフ&lt;ref&gt;「製作者」之意&lt;/ref&gt;/Shifu&lt;br&gt;[[File:img21662.png]]
+** 管理巨大移民船的青年
+** 能開發機械兵器的[[瘋狂科學家/科学者|天才科學家]]
+*** 改造少女也是其作品之一&lt;ref&gt;上列少女們都是改造後才取的名字,所以本名不明&lt;/ref&gt;
+** 想藉由少女及機械兵器們進行侵略,並抹殺原居地球的住民
+*** 但接連敗北下,而親自駕駛巨大機人(又稱シフロボ)上場&lt;br&gt;[[File:img21663.png]]
+*** 連最後手段(姫)也失效{{censored|,感到失勢而自殺}}
+** '''公認的人渣''',但留下的遺作卻在後續有不小的影響....
+** 專用曲:[https://youtu.be/EfGmmmIjfE0 Air Fort(空中堡壘)]
+*** [https://youtu.be/8IrtnYuaBE0 100%橙汁的專用曲(機人)]
+
+* '''姫'''/ヒメ&lt;ref&gt;「神祕」之意&lt;/ref&gt;/Hime&lt;br&gt;[[File:img21664.png]]
+** 招式:
+*** 微風/ジェントルブリーズ/Gentle Breeze
+*** 優雅刺針/針の実/ビューティー・オブ・ニードルズ/Beauty of Needles
+*** 猛烈微風/微風～いっぱい/バイオレントエアー/Violent Air
+*** 微妙誓言/繊細な束縛/サトルプロミス/Subtle Promise
+*** 情熱/熱/パッション/Passion
+*** 微痛的樂園/微痛の楽園/デリケートペインズ・オブ・パラダイス/Delicate Pains of Paradise
+*** 痛虐/加虐/ペイン/Pain
+*** 琥珀/アンバー/Amber
+*** 不可侵/インヴィオラビリティ/Inviolability
+*** 永恆熾熱/無期灼熱/エターナルインカンドスセンター/Eternal Incandescence
+*** 誘捕網/囚われる/エントラップメント/Entrapment
+*** 天籟/ゴッドノウズ/God knows
+** 移民船的守護神,唯一不屬於祠夫系列
+*** 被祠夫以船中居民為人質威脅下與優理對決
+*** 後來認同優理的實力並幫助她(切離船中居住區域)
+*** 在AoS2中想親自處理移民船的事情
+** &lt;s&gt;優理的正宮(初期),&lt;/s&gt;年紀上與優理差不多
+** &lt;s&gt;[[東方Project登場人物一覽-part 1#zd818b20|EX露米亞]](配色的意味)&lt;/s&gt;
+*** [http://wiki.komica.org/pix/img21674.jpg 公式恰有張相似的圖...][[File:img21674.jpg|120px]]&lt;!-- --專用曲:[https:youtu.be/AZbah0-k66o Last Encount(終遇)] --&gt;
+** 專用曲:[https://youtu.be/Ai3q4QsT5_E Rendezvous(相會)]
+*** [https://youtu.be/yuG7ZC-DEk0 100%橙汁的專用曲]
+
+==Stage ==
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Stage !! 關卡標題 !! Boss 
+|-
+| 01 || 綠地 || 沙希 
+|-
+| 02 || 海上 || 伊留 
+|-
+| 03 || 峽谷 || 奈奈子 
+|-
+| 04 || 雷雲 || 夏依 
+|-
+| 05 || 夜晚 || 翔子 
+|-
+| 06 || 船中 || 祠夫 
+|-
+| EX || 星空下 || 姫 
+|}
+
+&lt;!-- **隱藏要素 [#hc3312e7] --&gt;
+
+==Acceleration of SUGURI -an interlude which goes to the past.-/&lt;br&gt;速決的優理-一段敘述過去的插曲 ==
+
+[[File:img21665.jpg|center]]
+
+===概要 ===
+* 又稱AoS,作為續篇的格鬥遊戲(只是將Boss戰改為可操作的版本)
+* 版本從[http://dl.dropbox.com/u/102927476/ordd/AoSuguriTrial.zip 官網無料體驗版]到C70完成版
+* 以及不論版本,都能加裝「X版」(X-Edition)的外傳補丁,增加劇情模式
+** 後來還重製成HD版,除劇情對話外都是新繪&lt;br&gt;[[File:img21675.png|center]]&lt;br&gt;
+===系統 ===
+* 沒有可選武裝,但能以組合鍵的方式作出各種攻擊
+** 場地也從方框轉為大圓,像《龍虎之拳》般角色間距會有縮放效果
+** 衝刺可以代替跳躍
+** 可以網路連線對戰
+** 會依據殘血量來計算級別(最高為P)
+
+* 劇情模式
+** 天降-奇跡之夜/Falling Wonder 奇跡の夜編
+*** 只能操作優理和姫的模式
+** 布丁神-幻終的甜品兵器/Pudding Deity幻の最終甘味兵器
+*** 只能操作沙希的模式{{censored|→但一切只是沙希的夢}}
+
+===追加登場人物 ===
+* '''優理P'''/SUGURI-P&lt;br&gt;[[File:img21666.png]]
+** 子機操作型,勝利台詞都與哈密瓜有關
+
+* '''優理SP'''/SUGURI-SP&lt;br&gt;[[File:img21667.png]]
+** 除去射擊武裝的雙劍型,外表看似成熟許多
+
+* '''無名'''/No Name&lt;br&gt;[[File:img21668.png]]
+** 招式:
+*** 球型部件/ボールユニット/Ball Unit 
+*** 光束部件/ビームユニット/Beam Unit 
+*** 爆彈/ボム/Bomb
+*** 飛彈/ミサイル/Missile
+*** 鑽頭/ドリル/Drill
+*** 機人拳/ロボパンチ/Robo Punch
+*** 光束輪/ビームホイール/Beam Wheel
+*** 光束部件群/ビームユニットスウォーム/Beam Unit Swarm
+*** 飛彈群/ミサイルスウォーム/Missile Swarm
+*** 機人猛擊/ロボパメル/Robo Pummel
+*** 神手指/ゴッドフィンガー/God Finger
+** 祠夫的[[影武者|分身機器人]],雖然有出色性能,但因為太像本尊而慘遭癈棄
+*** 想收優理和姫為[[後宮]]不成,便命令祠夫系列並展開戰鬥
+*** 能將祠夫機人部件拿來作為自己的武裝,甚至能組成巨大機人
+*** {{censored|由於行為比本尊更人渣,結果被做成盆栽}}
+** [https://youtu.be/c2uTBOqPMxE 100%橙汁的專用曲]
+
+* '''QP'''&lt;br&gt;[[File:img21669.png]]
+** [[きゅぴシュー|QP秀]]主角,作為「布丁守護神」的身份來友情客串
+*** 作為沙希的最終試驗{{censored|→但一切只是個夢}}
+*** 把小紅&amp;小藍借來作為自己的武裝
+
+* '''空'''/ソラ/Sora&lt;br&gt;[[File:img21670.png]]
+** 先行登場的續作主角,武裝與優理差不多
+
+==參考資料 ==
+
+* 官網:
+** [http://daidai.moo.jp/suguri.html スグリ]
+*** [http://dl.dropbox.com/u/102927476/ordd/op.zip 公式PV]
+** [http://daidai.moo.jp/accelerationofsuguri.html Acceleration of SUGURI]
+** [http://www.sugurigame.com/ X-Edition(HD版)]
+
+* Wiki:
+** [https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B0%E3%83%AA_(%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0) スグリ(Wiki)]
+*** [https://ja.wikipedia.org/wiki/Acceleration_of_SUGURI AoS(Wiki)]
+** [http://dic.nicovideo.jp/a/%E3%82%B9%E3%82%B0%E3%83%AA スグリ(ニコニコ大百科)]
+** [http://wikiwiki.jp/daidai/?%A5%B9%A5%B0%A5%EA 橙汁Wiki(スグリ)]
+*** [http://wikiwiki.jp/daidai/?AoS AoS(AoSX)]
+** [http://dic.pixiv.net/a/%E3%82%B9%E3%82%B0%E3%83%AA スグリ(ピクシブ百科事典)]
+
+* 其它:
+** [http://www.geocities.jp/abxy_lr/suguri/ LR(資料總合)]
+** [http://suguri.wikia.com/wiki/Suguri_Wiki 海外Wiki]
+** [http://wiki.mizuumi.net/w/Rockin_Android Rockin Android]
+** [http://steamtradingcards.wikia.com/wiki/Acceleration_of_SUGURI_X-Edition_HD AoSX Wiki]
+
+* [[同人STG系列作品列表]]
+
+==低調 ==
+* [https://sstmlt.net/thread-42338-1-1.html SS同盟]
+
+==回應 ==
+&lt;!-- コメントの挿入 --&gt;
+&lt;!-- #comment(noname) --&gt;
+
+
+== 備註 ==
+&lt;references/&gt;
+[[category:角色列表]]

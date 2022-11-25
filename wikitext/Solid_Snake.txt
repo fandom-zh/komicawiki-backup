@@ -1,0 +1,318 @@
+{{h0|Solid Snake/ソリッド・スネーク}}
+{| class="wikitable" style="margin:auto;"
+|-
+|本條目可能含有捏他，還沒玩過原作又不想被&lt;s&gt;蛇叔CQC&lt;/s&gt;的人請不要看下去
+|}
+[[File:img8648.png|140px]]
+[[File:img8647.jpg|160px]]
+[[File:img8649.png|220px]]
+[[File:img8323.jpg|250px]]
+
+==出處 ==
+* 《[[潛龍諜影系列]]》
+
+== 名稱 ==
+* Solid Snake（ソリッド・スネーク）
+* 蛇叔
+* 老蛇
+* 固蛇
+* &lt;s&gt;濕內褲&lt;/s&gt;{{ref|取自其日文發音的音譯}}
+* [[Rider (Fate/Zero)|&lt;s&gt;軍武宅王&lt;/s&gt;]]
+
+== 基本資料 ==
+* 年紀：42（1972-2014）
+* 血型：不明
+* 身高：182cm
+* 體重：75kg
+* 職業：傭兵
+* CV：[[大塚明夫]]（日文版）、David Hayter（英文版）
+* 人物原型：電影《紐約大逃亡》及《洛杉磯大逃亡》的主角「蛇眼‧畢利斯根」，及電影《第一滴血》系列的主角「藍波」。
+* 上圖左至右分別為他在Metal Gear、Metal Gear 2（手機/PS2移植版）、Metal Gear Solid、Metal Gear Solid 2、Metal Gear Solid 4的造型。
+
+== MGS登場人物介紹 ==
+=== 人物關係圖 ===
+[[File:img20743.jpg|647px|center]]
+[[File:img20744.jpg|647px|center]]
+[[File:img20746.jpg|647px|center]]
+*由上至下分別為MGS1、MGS2、MGS4的人物關係圖
+
+=== 家人 ===
+* 父親：[[Big Boss]]【CV：[[大塚明夫]]（MGS3、MGSPW、MGS5），大塚周夫（MGS4）】
+** 詳見角色條目
+
+* 母親：Big Mama【CV：夏木マリ（MGS4）】
+** 本名不明，過去曾為中國人民解放軍總參謀部第二部服務的間諜。
+** 與Big Boss有著一段多難的感情，到1972年主動參加Zero的「令人恐懼之子計畫」擔任代理孕母，生下一對擁有Big Boss基因的雙胞胎（Solid Snake、Liquid Snake），但也因此讓Big Boss離開了「愛國者們」。
+** 4代時逃到東歐，創立並領導反抗「愛國者們」的組織「失樂園戰士（Paradise Lost Army）」，被譽為與Big Boss相對的名稱「大媽媽（Big Mama）」。除了照顧戰爭孤兒外，也致力於阻止Zero的野心以及永久終結戰爭經濟。
+*** 雖然與兒子Solid Snake來了一場久違的相會，但卻身受重傷，最後感染兒子身上的新型FOXDIE病毒死去。
+
+* 兄弟：Liquid Snake【CV：銀河萬丈】
+** Big Boss的複製人之一，但明明繼承了他優秀的基因，在Solid Snake打倒Big Boss後卻深深以為自己繼承的是他的劣等基因。
+** 1代時率領FOXHOUND部隊及次世代特殊部隊占領Shadow Moses島，並且奪取「Metal Gear REX」並向美國政府要求要交出Big Boss的遺體，好用Big Boss的基因碼治療患有基因排斥症狀的次世代特殊部隊，並繼承Big Boss的遺志再度建立「Outer Heaven」。
+*** 不過在Solid Snake的活躍下失敗，儘管頑強抵抗並執拗地追殺Snake與Meryl Silverburgh，但最後卻感染Snake身上的指向性殺人病毒「FOXDIE」而死。
+*** 事件後其遺體的右手腕被移植到Ocelot身上。
+** 2代時「藉由」移植的右手腕讓自己的意志在Ocelot體內「覺醒」，進而奪取其身體{{ref|4代揭露其實是Ocelot藉自我催眠創造出來假的Liquid人格，並非被Liquid奪舍}}，同時他的遺體也被Otacon用來代替Solid Snake，讓人以為Snake死在油輪上。
+*** 於「Big Shell事件」最後「完全掌控」Ocelot，奪走Metal Gear Ray後消失在曼哈頓的海中。
+** 4代時以「Liquid Ocelot」之名建立民間軍事公司「Outer Heaven」，集結旗下五家大手民營軍事公司以對抗「愛國者們」。
+*** 「愛國者們」被摧毀後與Solid Snake進行最後的私鬥，戰敗後Liquid Ocelot也就此消失。
+*** 同時Liquid本人遺體的一部分，也被拿來補足Big Boss的身體。
+
+* 兄弟：Solidus Snake【CV：大塚明夫】
+** 表面上是美國第43任總統「George Sears」，但其實是Big Boss的複製人之一。
+** 2代中穿著厚重裝甲服登場，其裝甲服上有兩條「&lt;s&gt;[[觸手]]&lt;/s&gt;蛇手」，隨身武器為一把P90衝鋒槍，以及兩把一長一短，名為「民主」與「共和」{{ref|美國兩個最大政黨之名}}的日本刀。
+** 2007年成功指使Revolver Ocelot奪走美國海軍陸戰隊新開發的「Metal Gear RAY」。
+** 為解放被「愛國者們」控制的美國，2009年與Ocelot等人組成武裝集團「自由之子」，占領「愛國者們」建立的偽裝海上除污設施「Big Shell」，同時綁架了在設施上的美國總統James Johnson與其他人員。
+*** 事件中原本自稱Solid Snake，但不久後就在雷電面前被正牌Solid Snake拆穿，而被迫駕駛AV-8B Harrier II戰機與Snake、雷電一行人對決，在此戰中失去左眼。
+*** 最後啟動藏在「Big Shell」底下的巨型戰艦「Arsenal Gear」，原想讓Arsenal Gear上搭載的核武在紐約上空爆炸，令全紐約電子儀器癱瘓而形成「解放區（Outer Heaven）」，同時順勢奪取儲存於艦上的「愛國者們」五大AI之一「G.W.」，希望能藉此獲得「愛國者們」的名單，但還是因「愛國者們」的介入{{ref|指示其同志Olga Gurlukovich暗助雷電，製造令Emma決定對「G.W.」注入病毒的狀況，以及讓Ocelot在最後一刻進行清場}}而導致其計畫失敗，Arsenal Gear暴走而衝進紐約市，在聯邦廳旁停下。
+*** 最後為了得到關於「愛國者們」的資料，要求體內可能存有相關訊息的雷電與他對決，結果戰敗，從聯邦廳屋頂上摔落而死。
+** 2014年，其遺體被Big Mama取得，用來當成Big Boss移植手術的備用零件。
+*** Big Mama用他的頭和上半身作成了假的Big Boss屍體，欺騙Liquid Ocelot將他當成Big Boss燒掉。
+*** 最後其骨灰被灑在Big Boss的墳上。
+
+=== 親友 ===
+* 長官：Roy Campbell上校{{ref|人物原型來自《第一滴血》系列的崔普曼上校}}【CV：青野武、古川登志夫（MPO）】
+** 前FOXHOUND司令官，也是Solid Snake的前上司。Meryl Silverburgh之父（Meryl是他與弟媳婦外遇所生的女兒）
+** 1代中擔任劇情交代角色，原本已經退休，但為了Meryl的安全{{ref|但故事開首只稱她是自己的姪女}}而要求Solid Snake到Shadow Moses島上解決叛亂{{ref|如果Snake不答應的話，還想要綁架他拉雪橇的狗來威脅他}}並且在背後支援著他。
+** 4代時加入聯合國安理會的輔助機關「PMC活動監視監査委員會」，一樣在背後支援著Snake他們。
+*** 同時[[NTR|也與雷電的女友Rosemary結婚生子]]，但這其實是為了保護她與雷電的孩子而用來欺騙愛國者們的方法。
+*** 事件最後說出整個真相而化解了與Meryl的不和，並且牽著她一起走紅毯將女兒交給Johnny。
+** 雖然2代中有一位與他聲音相似，也自稱「上校」而在背後支援雷電的人，但他其實是「愛國者們」五大AI之一「G.W.」投影於雷電腦中的幻象，並且在後面感染電腦病毒後，會說出像是「被UFO綁架了」、「現在趕快關掉遊戲主機電源」等搞笑或MGS其他系列作的台詞。
+
+* 同事：Hal Emmerich{{ref|名字由來為《2001太空漫遊》中的高性能AI「HAL2000」}}【CV：田中秀幸】
+** Snake的同事之一，Huey與Strangelove的兒子，是名兵器設計天才。
+** 在幼時被父親Huey拿來做為Metal Gear ST-84的試駕員，此事直接導致父母失和最後離婚{{censored|，也成為了父親謀殺母親的導火線}}
+*** 之後隨著父親再娶成了英國女性Julie Danziger的繼子與她的女兒Emma的義兄
+*** 1997和繼母私通被Huey發現，Huey大受打擊之下帶著Emma沉入自家游泳池自殺&lt;s&gt;Otacon幹的好&lt;/s&gt;，結果Huey死亡，Emma則死裡逃生，但也造就了Emma的恐水症狀
+** 喜歡[[ACG|日本動畫]]，立志要作出像機器人動畫一樣的[[機器人]]&lt;s&gt;以便之後可以向別人炫耀[[成句/這種高性能機器人一定是日本人做的|這種高性能的機器人美國人也懂作]]&lt;/s&gt;，也是美國的大型日本動畫同好活動「Otaku Convention」的常客，所以也被叫作[[宅男|歐塔康]]（Otacon{{ref|「Otaku Convention」的縮寫}}）
+** 1代中為ArmsTech軍火科技公司的開發主任，在不知真相{{ref|原本被通知是在設計戰區飛彈防禦系統}}的狀況下設計出核搭載二足歩行型戦車「Metal Gear REX」。
+*** 當ArmsTech與次世代特殊部隊在Shadow Moses島進行Metal Gear REX演習時，遇到FOXHOUND的叛亂而被抓了起來，後來遇到Snake搭救，知道REX將被拿來發射核武的真相下，後悔自己的行為而決定幫助他，並且一起順利解決整個叛亂。事後被美軍救出差點被國防部下令炸燬的Shadow Moses基地。
+** 2代中與Snake一起組成反Metal Gear組織「Philanthropy」，雖然曾一度被懷疑與Snake一起破壞油輪而遭通緝，但在得知Big Shell是「Arsenal Gear」的偽裝後，與Snake一起潛入，成功阻止其啟動。
+*** 在MGS2前篇代替美玲擔任存檔工作，但絕大部份玩家都要求換回美玲（無誤）{{ref|其實只要多存幾次檔，就會發生美玲亂入的事件}}
+*** 同時也向美玲學了不少中國成語，但全部理解錯誤…
+** 4代中，從「愛國者們」手中救出Sunny並且與她一起開發Metal Gear Mk.Ⅱ及Metal Gear Mk.Ⅲ在背後支援Snake，最後在順利阻止「愛國者們」的陰謀後，決定與Snake一起親眼見證整個世界的演變。
+** 有名的[[死亡フラグ]]製造者之一，跟他立過旗的的女人無一倖免地掛給他看：
+*** 自己的義母（與她發生關係，並且導致自己的父親含恨自殺）
+*** 1代的Sniper Wolf（與Snake對決落敗，被他親手殺死）
+*** 2代的義妹「Emma Emmerich」（其實是她喜歡哥哥，最後被Vamp挾持而在他被打敗時從後面補刀而死）
+*** 4代的Naomi Hunter（本身患癌，最後自己注入奈米機械抑制劑而死）
+** 其一家三代都和核武扯上關係：祖父曾參與曼哈頓計劃{{ref|即美國在二戰末期研發原子彈的計畫}}，父親Huey曾替Big Boss開發「Metal Gear ZEKE」和XOF的「Metal Gear ST-84」，本人則是設計出「Metal Gear REX」，而義妹Emma則是參與了「愛國者們」五大AI系統之一「G.W.」的程式設定。
+*** 因此他曾自嘲Emmerich家是「受詛咒的家系」。
+
+* 同事：美玲【CV：[[桑島法子]]】
+** Snake的同事之一，情報分析員，華裔美籍。
+** 原本想當飛行員，但因為開飛機時著地失敗而讓她因此轉職為情報分析員，算是全部角色中最年輕也最有活力的角色。
+** 在遊戲中擔任存檔工作。
+** 招牌是成語解說，每一次和Snake交談時都會引用成語並解釋意思，亦因此讓不少玩家為聽成語而無意義的存檔。
+*** 雖然在MGS2並沒有正式登場，但其實仍在幕後支援Snake，特別是當Otacon亂解成語後忍不住撲出來打飛Otacon，並作出正確的解說。
+** 2014年前後被美國政府調職為退役軍艦「U.S.S. Missouri（密蘇里號）」的[[艦長]]，在Snake一行人與Liquid Ocelot的最終決戰中大為活躍。
+
+* 同事：Naomi Hunter【CV：鶴廣美】
+** 莫三比克出身，其雙親於內戰中遭時為少年兵的Grey Fox所殺，又被不忍心殺她的Grey Fox收為義妹。
+*** 之後與Grey Fox一同被Big Boss救出而回歸社會，然而Grey Fox沒多久便離她而去。
+*** 之後主攻遺傳學，成為這方面的專家，畢業後有很長一段時間在「愛國者們」創始成員之一Dr. Clark門下工作。
+** 2005年的Shadow Moses事件前不久加入FOXHOUND。
+*** 原本聽說Solid Snake殺了自己的哥哥（正確來說是害哥哥變成生不如死的半機械人）而恨之入骨，在其體內注射了混有指向性殺人病毒「FOXDIE」{{ref|為美國國防部在幕後指使，目的是要以病毒剷除叛亂的FOXHOUND部隊成員。苦主會死得如心臟麻痺般，不會留下丁點證據}}的防凍劑。
+*** 然而在幾次通訊中聽了Snake的述懷後，便漸漸地放下對他的仇恨。
+** 2014年由於其遺傳學專長而成為欲破解SOP系統的Liquid Ocelot追捕的目標，此時的她其實已為末期癌症所苦，但靠奈米機械抑制而硬撐過來。
+*** 後來與Solid Snake在南美見面，並檢查出他體內同時存有兩種FOXDIE病毒。
+*** 被Snake等人救出後曾在Philanthropy待了一陣子，在暗中將其開發的病毒程式交給Sunny後秘密出走。
+*** 最後在Shadow Moses島上與Snake等人再會，從Sunny傳的話中得知其絃外之音後，便自己注射了奈米機械抑制劑，在Snake等人的面前毫無遺憾地離世。
+** 雖然取了日本人的名字{{ref|其實Naomi在此應是作西洋人名：最早可見於《舊約聖經・路得記》中，其女性主角即為此名，中譯為「拿俄米」，希伯來文意為「我的愉悅」}}，但從4代有一身褐色皮膚來看，被認為可能是印度人。
+
+* 戰友1：[[雷電 (潛龍諜影)|雷電]]【CV：堀內賢雄】
+** 詳見角色條目
+
+* 戰友2：Johnny Sasaki{{ref|名字由來為小島工作室中，擔任人物建模監督的佐佐木英樹之英文名}}【CV：今村直樹、[[福山潤]]（MGS4）】
+** Snake的戰友之一，原本都是在與Snake敵對的部隊中擔任雜兵，2005年待在次世代特殊部隊時曾被Meryl搶走衣服，卻從此對她一見鍾情。
+** 2009年加入佔領Big Shell的俄羅斯傭兵團{{ref|原因疑似為該團首領Olga Gurlukovich氣質很像Meryl，實際上日版確實由同聲優（寺瀨今日子）配音}}；2014年終於得以跟隨Meryl加入正規軍，由於自己怕打針，結果反而因禍得福而未受SOP系統的影響，意外地發揮他的能力救了Meryl，並且最後順利與她結婚。
+** 本系列中的搞笑角色，其家族從一代到四代都有出現，家中長男全都叫Johnny。不但都有容易拉肚子的習慣，本人還有在一代中被搶走衣服只露[[內褲]]&lt;s&gt;等人[[肛]]&lt;/s&gt;的場景。
+*** 而在二代則僅有聲音登場，原本還企圖搭訕正在Big Shell的Emma，可惜好夢難圓。
+*** 之後三代登場的是他的爺爺。
+** 四代則透露他有著與Otacon不相上下的機械宅興趣，而有了「秋葉原（Akiba）」的綽號。
+*** 不過脫下面罩的他，其實是個金髮帥哥&lt;s&gt;，四代的聲優還是福山潤！&lt;/s&gt;
+
+* 戰友3：Meryl Silverburgh{{ref|在小島以前製作的遊戲《POLICENAUTS》中也有一個角色和她同名姓且長相相同，但兩者沒有關係}}【CV：寺瀨今日子】
+** Snake的戰友之一，原本崇拜軍人，18歳時便加入FOXHOUND成為候補要員。
+** 在Shadow Moses島事件中因為拒絕參加叛亂而遭監禁，雖一度順利逃離並與Snake一起並肩作戰，但之後遭FOXHOUND成員之一Sniper Wolf狙擊，身受重傷而再次遭到逮捕，最後被Snake所救。
+** 4代中加入美軍特種部隊「RAT PT 01」，並且擔任隊長而與Johnny等人一起追蹤Ocelot的蹤跡，一度因為SOP系統的影響而無法作戰，但在Johnny的幫助下而回復正常，並且最後與Johnny結婚。
+** 雖然一開始被認為是Roy Campbell的姪女，但其實是他與弟媳不倫戀下所生的女兒。
+*** 因為父親[[NTR|娶了雷電的女友Rosemary]]而與他疏離，但在了解真相後與他和解，並且在四代的結尾中稱Campbell為「父親」，由他牽手一起走紅毯而回復了他們的父女關係。
+
+* 戰友4：Grey Fox【CV：鹽澤兼人{{ref|由於鹽澤兼人於2001年去世，所以之後如需語音只能使用舊錄音}}、山崎功（MGSBD）、[[福山潤]]（MPO）】
+** 原為越戰孤兒，之後流落莫三比克，在內戰中成為少年兵。
+*** 由於敵人常因其天真無邪的外表而[[老馬|大意]]之後被他幹掉，而被取了「Frank Hunter{{ref|又作Frank Jaeger，「真誠的獵人」之意}}」之名。
+*** 某次戰鬥中殺害了一名小女孩Naomi的雙親，卻下不了手殺小女孩而收她為義妹。
+** 之後與Naomi同為Big Boss所救，暫時回歸社會。
+*** 曾在1988年的卡加利冬運認識一名捷克溜冰冠軍Gustava Heffner並與她相戀，但最後不了了之。
+** 日後跟隨Big Boss加入FOXHOUND，獲得隊上最高榮譽「Fox」稱號，從此稱Grey Fox。
+*** 在FOXHOUND中認識了能為仍為菜鳥的Solid Snake，兩人成為摯友
+** 在MG中被Big Boss派去偵查Outer Heaven起義事件以混淆政府視聽，然而在任務期間失敗被俘。
+***之後被Big Boss派出來當炮灰的Solid Snake救出，並提供他任務相關情報。
+** Outer Heaven毀滅後，卻選擇跟隨Big Boss至加入Zanzibar Land。
+*** 起義期間誤殺成了捷克國安部幹員的前女友Gustava，後與Snake二次對決（駕駛Metal Gear改D型→地雷原中肉搏）被擊敗，身體被地雷炸成重傷。
+*** 事後被「愛國者們」與Big Boss一同被回收並被Dr. Clark改造成[[改造人|半機械人]]。
+** 於2005年逃出「愛國者們」設施時殺害了Dr. Clark，同時其妹Naomi Hunter加入FOXHOUND，成為Snake潛入Shadow Moses島的後勤人員之一。
+*** 在Shadow Moses島上以Deep Throat{{ref|ディープ・スロート，暗指美國水門案中的秘密爆料者}}的身分提供Snake情報與提示之餘亦以「半機械人忍者（Cyborg Ninja）」之姿亂入Snake與Ocelot的對決並斬去後者右手後又離去。
+*** 之後又攜帶光學迷彩與Snake一度交手，在Snake猜出他的真身時又離去。
+*** 最後為掩護Snake而與Liquid Snake駕駛的Metal Gear Rex對戰，在對Snake交代遺言後遭Metal Gear Rex踐踏而死。
+*** 「穿忍者服者不得好死」魔咒苦主一號…不過若將MG2的「Black Ninja」也算入的話他應該是第二位。
+
+* 戰友5：Drebin（893號）【CV：[[藤原啟治]]】
+** 出生於烏干達，從小即為真主反抗軍（LRA）的少年兵，其親人均在戰爭中被殺。之後被「愛國者們」救出並培養為武器洗淨人。
+*** 養了隻叫Little Grey{{ref|大家熟知的大頭大眼[[外星人]]之代稱}}的猴子。
+** 2014年突然出現在潛入中東戰場的Solid Snake面前，表示願意幫Snake將撿來武器中所登錄的ID洗掉供其使用，同時替他打了一針抑制舊型奈米機械的藥劑（內含新型FOXDIE病毒）。
+*** 之後一路跟著Snake等人，見證他們的戰鬥直到最後。
+*** 事件後出現在Meryl與Johnny的結婚典禮上，並自爆自己其實是「愛國者們」派來協助Snake一行人的，「Drebin」則是「愛國者們」所培養的一群武器洗淨人的統稱，而他是第893{{ref|諧音ヤクザ，黑道/流氓之意}}號。其裝甲車上標語「Eye have you!」也有著「我們（愛國者們）在看著你」的涵義。
+** 事件後與全球的Drebin們合夥開了新公司「Drebins」，標語也改為「Drebins, we have yours.」
+
+* 養女（？）：Sunny【CV：[[井上喜久子]]】
+** 曾在2007、2009年和Solid Snake等人對壘的俄羅斯傭兵團女首領Olga Gurlukovich之&lt;s&gt;[[蘿莉]]&lt;/s&gt;獨生女，一出生即被「愛國者們」帶走，作為人質威脅與Solidus Snake共同佔領「Big Shell」的Olga，逼她暗中協助雷電。
+*** 事件最後Olga死於Solidus Snake手下，Sunny則於Big Shell事件後不久被雷電從美國內華達州的51區基地救出。
+** 之後由Philanthropy所收留，以其電子機械天份替Philanthropy研發出超級電腦「高第（Gaudi）」，以及和Otacon共同研發了支援機械「Metal Gear Mk.Ⅱ/Mk.Ⅲ」。
+*** 最後用Naomi Hunter暗中交給她的程式碼研發出電腦病毒「FOXALIVE」，以之將「愛國者們」的系統摧毀。
+** 喜歡作荷包蛋，但目的不是為了吃，而是拿來占卜。
+**《潛龍諜影崛起：再復仇（Metal Gear Rising: Revengence）》中再次登場，似乎被Otacon收養而改姓Emmerich，外貌則是&lt;s&gt;受宅爸和蛇叔的惡趣味影響&lt;/s&gt;變得比以前更加開朗。
+
+=== 對手 ===
+* [[Revolver Ocelot]]【CV：戸谷公次（MGS，MGS2，MGS4）、澤木郁也（MGSBD、MGS2BD）、銀河萬丈（MGS4）】
+** 20歲就當上蘇聯軍少校，時為蘇聯參謀本部情報總局（GRU）旗下特種部隊「山貓部隊（Ocelot Unit）」的隊長。
+*** 當時自稱Ocelot，加入FOXHOUND後改稱Revolver Ocelot。
+** 2005年和時任美國總統的Solidus Snake（化名George Sears）共謀，煽動FOXHOUND中心人物Liquid Snake發動叛變，在Shadow Moses島上和Solid Snake一度交手，但戰鬥途中遭Cyborg Ninja[[亂入]]，右手被對方斬斷。
+*** 事件中他殺死了Donald Anderson（Sigint）。
+*** 事件後接上Liquid的右手，並暗地將研發Metal Gear的技術流入黑市。
+** 2007年與GRU時期的同僚「Sergei Gurlukovich」聯手佔領美國海軍陸戰隊的偽裝油輪，以搶奪新型Metal Gear「Metal Gear Ray」，但他實際上依然為Solidus Snake工作，因此在最後一刻背叛Sergei並將其殺害，奪走Metal Gear Ray並炸毀油輪，嫁禍於Solid Snake。
+*** 同時Ocelot在此行動中，因為見到Solid Snake而「使得」自己的人格偶爾會被Liquid的人格所替換{{ref|此設定原本引發諸多猜測，但4代揭後透露這其實是他為了騙過「愛國者們」耳目，以自我催眠方式塑造出假的Liquid人格而成}}。
+** 2009年與和Solidus Snake以及Sergei遺留的傭兵團組成武裝集團「自由之子（Sons of Liberty）」，佔領「愛國者們」的偽裝除污設施「Big Shell」。
+*** 在事件最後人格「完全變成」Liquid，駕駛Metal Gear Ray逃逸，從此暫時銷聲匿跡。
+** 2014年成為民間軍事企業「Outer Heaven」之創辦人，稱Liquid Ocelot，以人頭公司控制旗下五家大手民間軍事公司，執全球戰爭經濟之牛耳。
+*** 原本打算集結旗下五大公司的軍隊對「愛國者們」發動武裝起事，但最後被Solid Snake所阻止。同時「愛國者們」也因Snake一行人的活躍而毀滅，[[計画通り|一切如其計劃]]。
+*** 在與Snake做了最後的肉搏戰後「恢復」原本人格，感染他身上的FOXDIE病毒後死去。
+
+* Vamp【CV：置鮎龍太郎（MGS2）、塚本晉也（MGS4）】
+** 羅馬尼亞出身，使用小刀的高手。
+** 小時候曾被捲入一場教會爆炸案，在瓦礫底下靠吸食死去家人的血液而存活，自此有了吸食血液的習慣。
+** 後來在Naomi Hunter的實驗中被注射了加速細胞再生的奈米機械，導致其就算被擊中要害都不會死。
+*** 之後加入美國海軍陸戰隊旗下的反恐小隊「Dead Cell」，代號Vamp（[[吸血鬼]]）
+** 2009年和其餘兩名「Dead Cell」成員加入Solidus Snake的武裝集團「自由之子」，一同佔據Big Shell，殺害許多前來攻堅的海豹部隊隊員，之後對上雷電，在差點殺死他之際遭假扮成海豹隊員的Solid Snake亂入而逃逸。
+*** 之後與雷電分別於Big Shell的沉澱池與擋油堤對決，均被擊敗，其中在擋油堤一役拿逃走中的歐塔康義妹Emma為人質，在被雷電擊中要害，摔落海中時失手（？）刺了Emma一刀，導致Emma死亡，從此被Otacon所憎恨。
+** 2014年加入Liquid Ocelot的民間軍事企業「Outer Heaven」，於南美、Shadow Moses島出現在Snake一行人面前。
+*** 最後在Shadow Moses島地下基地深處先後被Snake和雷電所傷，痛苦地要求Naomi趕緊用奈米機械抑制劑讓他解脫，原本Otacon企圖遙控支援機械「Metal Gear Mk.Ⅲ」下手送他一程但卻猶豫了，於是Vamp自己將奈米機械抑制劑搶來注入體內，在仰天長嘯一聲後真正死去。
+
+* Olga Gurlukovich【CV：寺瀨今日子】
+** MGS2中出現的俄羅斯傭兵團女首領，Sergei Gurlukovich上校之女，Sunny的母親。
+** 從小就轉戰世界各地的戰場而擁有相當豐富的作戰經驗，在油輪篇中已懷了Sunny，但依然與父親一起行動，並和Solid Snake一度交手。
+*** 在油輪被背叛她父親的Revolver Ocelot炸沉時被Snake救出，之後與父親遺留下來的部隊一同寄住在俄國黑幫中，並且也在那時生下Sunny，而Sunny一出生便被愛國者們抓來當作人質。
+** 之後受愛國者們的強迫，指揮父親的部隊加入Solidus Snake的「自由之子」，與他們一同佔領Big Shell；同時欲藉此向她以為是殺父仇人的Snake復仇，但在二度與Snake交手後才得知真相。
+*** 然後為了讓整場由愛國者們策畫的「演習」成功以救出女兒，她暗中接受愛國者們的指示，以穿著強化忍者服的「Mr.X」之身分幫助雷電，讓Solidus無法完成他的大業。最後不幸遭Solidus槍殺&lt;s&gt;穿忍者服者不得好死魔咒苦主二號（或三號）&lt;/s&gt;。死前託負雷電等人去救出她的女兒。
+** 秘辛：{{censored|雖然外表是冷酷型的短髮美女，可是在油輪篇中卻偏偏讓她在被Snake用槍嚇止而高舉雙手時，露出很明顯的腋毛，這到底是…}}
+
+== 愛好 ==
+* 煙草
+** 牌子名叫「モスレム」。
+*** 在MGS的世界觀裡，香煙業界是由無需點火的菸所支配，所以這是一種無煙灰無二手煙，一折即用的虛構煙草。
+** 這個設定也是來自於為其配音的大塚明夫的習慣。
+
+* 紙箱，鐵桶&lt;br&gt;[[File:img8586.jpg|267px|none]][[File:img8585.jpg|267px|none]]
+
+* 泡妞（但是被&lt;s&gt;阿宅&lt;/s&gt;Otacon笑說只會嘴巴講講）
+* &lt;s&gt;CQC&lt;/s&gt;（Close Quarters Combat，近距離格鬥）
+* 色情雜誌（看的是PlayBoy）&lt;br&gt;[[File:img8587.jpg|267px|none]][[File:img8588.jpg|267px|none]][[File:img8589.jpg|267px|none]]
+
+* 拉雪橇犬
+** 隱居在阿拉斯加時養出來的喜好，連他老爸都有這個喜好
+
+== 介紹 ==
+=== FOXHOUND入隊以前 ===
+* 本名大衛（David{{ref|本人於MGS的結局裡親述。名字由來為可能跟《MGS4》的Zero有關係，因為作為恐懼之子計畫創設者的他同樣名叫David；但也可能來自電影《2001太空漫遊》的主角「David Bowman」&lt;s&gt;並且剛好能夠與出自相同電影被取名為Hal的Otacon配成一對&lt;/s&gt;}}），姓氏不詳。1972年生。
+* 是以「令人恐懼之子計畫」的複製人技術製造出來的Big Boss的複製人，精通六國語言{{ref|結果在遊戲《捉猴啦》中客串登場的他，被惡搞成連猴子語也懂}}、IQ有180。
+* 曾加入過綠扁帽部隊，後來轉入FOXHOUND部隊。
+
+=== Metal Gear ===
+* 1995年，以FOXHOUND菜鳥隊員身分潛入南非的武裝要塞國家Outer Heaven，粉碎了FOXHOUND總司令官Big Boss的陰謀而獲得「[[成句/我是化不可能為可能的男人|化不可能為可能的男人]]」的稱號，並且之後離隊加入CIA，但在半年後離職。{{ref|{{censored|這代打倒的其實是Big Boss的替身Venom Snake}}}}
+
+=== Metal Gear2：Solid Snake ===
+* 1999年，在FOXHOUND新司令官Roy Campbell的請求下，再次受到召集而要潛入獨立武裝要塞Zanzibar Land，粉碎前作中尚未死亡的Big Boss的陰謀。{{ref|{{censored|這代才真正打倒Big Boss}}}}
+* 在擊敗老隊友Grey Fox及Big Boss而後，順利完成計畫並且在阿拉斯加隱居。
+
+=== Metal Gear Solid ===
+* 2005年，受到前長官Roy Campbell的請求（其實是被他綁來的），而要他潛入到核武廢棄處理設施Shadow Moses島解決佔據此處的FOXHOUND實驗部隊的暴動。
+* 在Otacon及美玲的幫助下，不斷與擁有Big Boss基因的次世代特殊部隊及FOXHOUND隊員，包括機器人化的Grey Fox進行死鬥。最後成功擊敗整起事件的首謀及自己的兄弟‧Liquid Snake。
+* 事後組織了反抗Metal Gear的非政府組織「Philanthropy」。
+
+=== Metal Gear Solid 2 ===
+* 2007年時以Philanthropy成員的身分活動，得到美國海軍秘密開發新型Metal Gear的情報，而潛入美國海軍的偽裝油輪中確認其存在。
+** 但是卻遭Revolver Ocelot設計，新型Metal Gear被他奪走。
+** 在油輪被Ocelot爆破後搭上Otacon給的救生艇順利逃走並且假死，但是在Ocelot的設計下成了炸毀油輪的代罪羔羊。
+* 2009年，偽裝成海豹部隊隊員潛入愛國者們所建造的海上除污設施「Big Shell」中，除了與雷電邂逅外，意外發現整個設施其實是隱藏巨型Metal Gear「Arsenal Gear」的偽裝。
+** 潛入Arsenal Gear後，趁被Liquid Snake奪取意志的Revolver Ocelot逃走時，奪得訊號器成功阻止其啟動。
+* 最後與前去救被「愛國者」們抓走的Olga的女兒Sunny的雷電會合，但隨著自己的身體開始老化，於是將這項使命交給雷電，自己則前去尋找Ocelot的蹤跡。
+
+=== Metal Gear Solid 4 ===
+* 2014年時以老蛇（Old Snake）之姿登場。雖然身體已老化，但仍轉戰各地企圖找出並消滅Liquid Ocelot。
+* 就在成功解決愛國者們所引起的整場陰謀及Liquid Ocelot後，由於體內的FOXDIE病毒復發，本來想要在Big Boss墓前自殺，但隨著&lt;s&gt;老不死的&lt;/s&gt;Big Boss出現並且告訴他不用再戰鬥下去後，決定與歐塔康一起要在剩下的生命中，親眼見證整個世界的進化方向。
+** 小說版中則是平安地渡過餘生，在Sunny結婚前去世。
+
+=== [[平行世界]] ===
+* Metal Gear: Ghost Babel{{ref|2000年於Gameboy Color上推出的遊戲，採MG2系統，外加MGS1的靠牆動作}}
+** 2002年，美國政府秘密建造的新型兵器「Metal Gear GANDER」遭神祕武裝集團奪至南非一新興國家Gindra內的武裝要塞「Galuade」。FOXHOUND指揮官Roy Campbell在政府命令下徵召三年前退休的Solid Snake出擊，原本Snake欲拒絕，然而Campbell透露「Galuade」乃七年前Outer Heaven所在地後，Snake便改變了心意，潛入「Galuade」內與Gindra武裝部隊，以及協助Gindra的前美國傭兵部隊「Black Chamber」交手，得知七年前內幕後破壞「Metal Gear GANDER」。
+** 此平行世界線建立於「沒有MG2」、「沒有Big Boss複製人」之前提，故此線的Snake與Big Boss為真正的父子。也因此，背負弒父陰影的Snake在故事中曾表示自己想求得一死，但在解決事件後決定繼續活下去。
+
+* Metal Gear AC!D
+
+=== 非官方平行世界 ===
+* Snake's Revenge{{ref|1990年由Konami和美國Ultra Games共同推出，僅於歐美販售的「幻之Metal Gear續集」。當年其中一名開發人員曾在電車上巧遇小島，表示「想看到小島的Metal Gear續集」，於是小島便花一晚時間完成了正傳《Metal Gear2: Solid Snake》的劇本}}
+** 1998年，美國政府查到一新興武裝國家保有Metal Gear，於是派遣Solid Snake與兩名隊員John Turner、Nick Myer潛入。最後Snake發現幕後黑手為機器人化的Big Boss，Snake將其擊敗後摧毀了要塞內的量產型Metal Gear以及最終兵器「Metal Gear 2」。
+** 不同於正傳中MGS4之前的Snake，本作的Snake能以刀作為攻擊手段，且被設定為武術達人。
+
+== 能力 ==
+* 能熟練的使用各類槍械
+* CQC{{ref|其實在MGS4前他是完全不用CQC的，&lt;s&gt;因為在MGS3之前還沒導入CQC系統&lt;/s&gt;因為他把Big Boss傳授的CQC視之為「叛徒傳授的技術」。然而之後Big Boss的資料被美國政府解密，他才跟著解禁}}
+* &lt;s&gt;亂入&lt;/s&gt;{{ref|除了老是搞潛入作戰外，也出現在捉猴啦、魔物獵人、[[任天堂明星大亂鬥]]等遊戲中}}
+
+== 名言 ==
+* 聽到嗎？這裡是Snake。
+** 通訊時第一句台詞，也成了Snake最有名的招牌台詞
+
+* [[成句/戰爭變了|戰爭變了]]
+
+* 久等了（待たせたな）
+** 自從潛龍諜影後，成為蛇叔每次作品開始前的台詞
+
+* 性欲を持てあます
+** 在MGS1裡遭Ocelot二度電擊拷問後，Naomi問他安好與否時的回答，表示自己沒問題
+
+* 生きる者全てに春は来る。希望を持つことだ。
+** 此句亦在2011年被小島工作室作為311大[[地震]]應援標語
+
+*「很久不見了，兄弟！」「Liquid!」
+** MGS2的預告片中Snake遇上被Liquid控制的Ocelot時的對白，由於當時仍未發售，所以這段對白可算是相當超展開。也成了很多玩家回想MGS2時第一個想到的名場面
+
+== [[萌屬性]] ==
+* 傳說的傭兵
+* &lt;s&gt;傳說的大叔&lt;/s&gt;
+* &lt;s&gt;傳說的爺爺&lt;/s&gt;
+* 抽煙
+* 躲紙箱
+* &lt;s&gt;[[小涼宮春日的憂鬱|某機關的管家及司機]]&lt;/s&gt;&lt;br&gt;[[File:img7632.jpg|448px|none|thumb|&lt;s&gt;有圖有真相&lt;/s&gt;]]
+
+== 其他 ==
+* 雖然和同廠牌的遊戲《純愛手札》中&lt;s&gt;最難搞&lt;/s&gt;女主角「藤崎詩織」相比，看起來年紀差很多，但其實兩人都被設定出生在1970年代，實際上只差七歲{{ref|蛇叔出生在1972年、藤崎詩織出生在1979年。順便一提，在小島秀夫有參與的《純愛手札 Drama Series》中，詩織會帶主角去電影院看MGS1的電影…}}
+* 雖然是Big Boss的複製人，但由於是經由代理孕母的方式出生，因此嚴格說起來並非是完全的複製人，所以以與Big Boss的基因差異近似乎親子間的基因差異
+** 表面上個性差不多，但比起Big Boss要較輕浮一些，亦比較愛開玩笑
+** 當初為了避免他被其他勢力所利用，因此被移除掉其生殖能力{{ref|順帶一提BIG BOSS也沒有生殖能力，但是是因為長期曝曬於有害環境下所致}}，也被施縮短生命週期的技術導致在四十歲時會有像是七十歲的肉體，因此導致他在四代時身體急速老化
+*** 話雖如此，但在4代中除了蹲下太久會腰痛之外，其他能力完全不像一個七十多歲的老人，因此被不少玩家[[吐槽]][[成句/おまえのようなババアがいるか！！|「哪有七十多歲的老人這麼猛？」]]
+*** &lt;s&gt;不過看看Indiana Jones第四集中80多歲的演員Henry Ford，才七十多歲不猛怎麼行？&lt;/s&gt;
+
+== 投票 ==
+* 最喜歡那個系列作的蛇叔？
+
+
+{{vote|section=1}}
+
+== 回應 ==
+* [[{{TALKPAGENAME}}]]
+
+==備註==
+&lt;references /&gt;
+
+[[分類:角色]][[分類:潛龍諜影系列]]

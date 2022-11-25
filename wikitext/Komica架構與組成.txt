@@ -1,0 +1,504 @@
+{{h0| Komica 的架構與組成 }} 
+{| class="wikitable" style="margin: 1.5em auto; text-align:center;" 
+|-
+{{stub row}} 
+|}
+
+== 沿革 == 
+
+== 成立管道 == 
+
+== 版面程式 == 
+
+== 管理群組 == 
+
+== 版面資料 == 
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!網址!!版面名稱!!所屬!!架設於!!註解/現況
+|-
+| 2cat.twbbs.org/~tedc21thc/anime/ || 動畫 ||  ||  ||  
+|-
+| 2cat.or.tl/~scribe/2c/ || 漫畫 ||  ||  ||  
+|-
+| homu.komica.org/04/index.htm || 影視 ||  ||  ||  
+|-
+| sage.komica.org/00/index.htm || 綜合 ||  ||  ||  
+|-
+| alleyneblade.mykomica.org/queensblade/ || 綜合2 ||  || My[[Komica]] || 和綜合板是敵人&lt;s&gt;，支持納粹主義&lt;/s&gt;。 
+|-
+| homu.komica.org/64/index.htm || 掛圖 ||  ||  || 由綜合板掛圖爭議而開。 
+|-
+| homu.komica.org/62/index.htm || 氣象 ||  ||  ||  
+|-
+| 2cat.or.tl/~tedc21thc/new/index.html || 新番[[捏他]] ||  ||  ||  
+|-
+| 2cat.or.tl/~tedc21thc/live/index.html || 新番實況 ||  ||  ||  
+|-
+| yuutan.mykomica.org/pawahuru/ || 三次實況 ||  || MyKomica ||  
+|-
+| homu.komica.org/09/index.htm || 模型 ||  ||  ||  
+|-
+| futaba.anacel.com/figure/index.htm || Figure/GK ||  ||  ||  
+|-
+| homu.komica.org/26/index.htm || 玩偶 ||  ||  ||  
+|-
+| ccs.hp2.jp/screenshot/ || 螢幕攝 ||  ||  ||  
+|-
+| homu.komica.org/12/index.htm || 歡樂惡搞 ||  ||  ||  
+|-
+| homu.komica.org/13/index.htm || 特攝 ||  ||  ||  
+|-
+| rthost.fam.cx/sd/ || 祭典 ||  || 個人主機 ||  
+|-
+| tsukisiro.snow-sugar.net/iyasi/ || 治癒系 ||  ||  ||  
+|-
+| homu.komica.org/15/index.htm || [[蘿蔔]] ||  ||  ||  
+|-
+| homu.komica.org/50/index.htm || 攝影 ||  ||  ||  
+|-
+| homu.komica.org/17/index.htm || 軍武 ||  ||  ||  
+|-
+| no_99.mykomica.org/cars/index.htm || 車 ||  || MyKomica ||  
+|-
+| 2cat.or.tl/~kirur/img2/index.htm || [[萌]] ||  ||  ||  
+|-
+| 2cat.or.tl/~kirur/orz/index.htm || 詢問 ||  ||  ||  
+|-
+| rthost.fam.cx/aa/pbbs.html || AA ||  ||  ||  
+|-
+| homu.komica.org/21/index.htm || [[Cosplay|COSPLAY]] ||  ||  ||  
+|-
+| cosplay.mykomica.org/cosplay/index.htm || COSPLAY2 ||  || MyKomica ||  
+|-
+| homu.komica.org/40/index.htm || 改造 ||  ||  ||  
+|-
+| homu.komica.org/41/index.htm || 委託 ||  ||  ||  
+|-
+| 2cat.or.tl/~touhonoob/21d/ || 短片 ||  ||  ||  
+|-
+| touhonoob.mykomica.org/video2/ || 短片2 || touhonoob || MyKomica ||  
+|-
+| komica.yucie.net/video/ || 彈幕 || rowspan = "4" | yucie.net || rowspan = "3" | 個人主機 ||  
+|-
+| komica.yucie.net/animate/ || 新番彈幕 ||  
+|-
+| komica.yucie.net/vote/ || 投票所 ||  
+|-
+| komica.yucie.net/quiztest/ || 問答 || 個人主機 ||  
+|-
+| tera.komica.org/up4/index.php || Video ||  ||  || 尚未修復。 
+|-
+| rthost.fam.cx/komica-up/upload.php || UP ||  || 個人主機 ||  
+|-
+| gzone-anime.info/UnitedSites/academic/ || 綜合學術 ||  ||  ||  
+|-
+| study.mykomica.org/math/ || 數學 ||  || rowspan = "3" | MyKomica ||  
+|-
+| study.mykomica.org/history/ || 歷史 ||  ||  
+|-
+| study.mykomica.org/geography/ || 地理 ||  ||  
+|-
+| www.dk.idv.tw/school/ || 校園 ||  ||  ||  
+|-
+| komica.dbfoxtw.me/occupation/ || 職業 || rowspan = "2" | dbfox || rowspan = "2" | CheapVPS ||  
+|-
+| komica.dbfoxtw.me/finance/ || 財經 ||  
+|-
+| gzone-anime.info/UnitedSites/shopping/ || 生活消費 ||  ||  ||  
+|-
+| komica.dbfoxtw.me/law/ || 法律 || dbfox || CheapVPS ||  
+|-
+| orzistic.org/l/ || 外國語 ||  ||  || rowspan = "2" | 尚未修復。 
+|-
+| orzistic.org/o/ || 海外生活 ||  ||  
+|-
+| www.netorare.org/hongkong/ || 閒談@香港 || Tsundere版群 ||  ||  
+|-
+| www.dk.idv.tw/digital/ || 消費電子 ||  ||  ||  
+|-
+| gzone-anime.info/UnitedSites/art/ || 藝術 ||  ||  ||  
+|-
+| www.twocat.org/~artist/ || 繪師 ||  ||  ||  
+|-
+| netaba.re/cat/ || [[:Category:角色|角色]]商品 ||  ||  ||  
+|-
+| alicemoe.thx4jp.com/trading/ || 交易合購 ||  ||  ||  
+|-
+| sara.komica.org/61/index.htm || 鋼普拉 ||  ||  ||  
+|-
+| orzistic.org/s/ || [[科幻|SF]] ||  ||  || 尚未修復。 
+|-
+| 2cat.or.tl/~gtr2003/pixmicat1/ || 生存遊戲 ||  ||  ||  
+|-
+| tsukisiro.snow-sugar.net/tetsudou/ || 鐵道 ||  ||  ||  
+|-
+| ningen.dreamhosters.com/moe/ || 燃 ||  || dreamhosters ||  
+|-
+| touhonoob.mykomica.org/kjoker/ || 笑話 ||  || MyKomica ||  
+|-
+| komica.dbfoxtw.me/quiz/ || 猜謎 || dbfox || CheapVPS ||  
+|-
+| futaba.bogusx.me/storysol/ || 故事接龍 ||  ||  ||  
+|-
+| miyarei.org/AmericanSuperHeroes/ || 歐美漫畫 ||  ||  ||  
+|-
+| mykomica.org/boards/wei75631/komicartoon/ || 歐美動畫 ||  || MyKomica ||  
+|-
+| 2cat.or.tl/~rt/pd/ || 大自然 ||  ||  ||  
+|-
+| www.twocat.org/~astronomy/ || 天文 ||  ||  ||  
+|-
+| www.oreimo.net/horoscope/ || 星座命理 || Tsundere版群 ||  ||  
+|-
+| crystal.mykomica.org/newage/ || New Age ||  || MyKomica ||  
+|-
+| moecorner.com/iboards/Relationship/ || 戀愛 || Rb37 ||  ||  
+|-
+| komica.dbfoxtw.me/supernature/ || [[超常現象]] || dbfox || CheapVPS ||  
+|-
+| www.dk.idv.tw/dream/ || 夢 ||  ||  ||  
+|-
+| myth.nagatoyuki.org/ || 流言終結 ||  ||  ||  
+|-
+| politics.mykomica.org/index/ || 政治 ||  || MyKomica || 由綜合二政治文爭議而開。 
+|-
+| orzistic.org/i/ || 國際政治 ||  ||  || rowspan = "2" | 尚未修復。 
+|-
+| orzistic.org/e/ || 環境保護 ||  ||  
+|-
+| travel.voidfactory.com/ || 旅遊 ||  ||  ||  
+|-
+| norrk.mykomica.org/headphone/ || 耳機 ||  || rowspan = "2" | MyKomica ||  
+|-
+| phone.mykomica.org/pda/ || 手機 ||  ||  
+|-
+| www.twocat.org/~pixmicat/ || 服飾 ||  ||  ||  
+|-
+| www.megurineluka.com/cosmetic/ || 美容 || Tsundere版群 ||  ||  
+|-
+| yuutan.mykomica.org/kaminoke/ || 髮型 ||  || rowspan = "2" | MyKomica ||  
+|-
+| mykomica.org/boards/24/house/ || 家政 ||  ||  
+|-
+| komica.chiisana.net/diy/ || 手工藝 ||  ||  ||  
+|-
+| komica.chiisana.net/ita/ || 痛物 ||  ||  ||  
+|-
+| gzone-anime.info/UnitedSites/books/ || 圖書 ||  ||  ||  
+|-
+| mykomica.org/boards/24/mindmap/ || 讀書筆記 ||  || MyKomica ||  
+|-
+| orzistic.org/z/ || [[成句/絕望啊！我對○○絕望啊！|絕望]] ||  ||  || 尚未修復。 
+|-
+| kou.mykomica.org/ankameru/ || [[安價版|安價]] ||  || MyKomica ||  
+|-
+| homu.komica.org/27/index.htm || 遊戲速報 ||  ||  ||  
+|-
+| tehepero.org/komica/ || 綜合遊戲 ||  ||  || 由於遊戲速報亂象而開。 
+|-
+| www.kagaminelen.org/act/ || [[動作遊戲]] || Tsundere版群 ||  ||  
+|-
+| komica.yucie.net/fight/ || [[格鬥遊戲]] || yucie || 個人主機 ||  
+|-
+| www.notomamiko.net/stg/ || 2D STG || rowspan = "4" | Tsundere版群 ||  ||  
+|-
+| www.minorin.com/fps/ || 3D STG || GoDaddy ||  
+|-
+| www.hiranoaya.org/avg/ || 冒險遊戲 ||  ||  
+|-
+| www.notomamiko.net/rpg/ || [[RPG]] ||  ||  
+|-
+| 2cat.or.tl/~caradmin/rcg-slg/ || 賽車遊戲 ||  ||  ||  
+|-
+| 2cat.or.tl/~caradmin/rcg-slg/ || 戰略遊戲 ||  ||  ||  
+|-
+| komica.yucie.net/slg/ || 養成遊戲 || rowspan = "2" | yucie || rowspan = "2" | 個人主機 ||  
+|-
+| komica.yucie.net/renai/ || 戀愛遊戲 ||  
+|-
+| www.twocat.org/~boylove/ || 女性向遊戲 ||  ||  ||  
+|-
+| komica.chiisana.net/musicgame/ || 音樂遊戲 ||  ||  ||  
+|-
+| komica.chiisana.net/webgame/ || 網頁遊戲 ||  ||  ||  
+|-
+| komica.dbfoxtw.me/indiegame/ || 獨立遊戲 || dbfox || CheapVPS ||  
+|-
+| www.twocat.org/~handheld/ || 行動遊戲 ||  ||  ||  
+|-
+| www.twocat.org/~motion/ || 體感遊戲 ||  ||  ||  
+|-
+| www.twocat.org/~boardgame/ || 桌上遊戲 ||  ||  ||  
+|-
+| moecorner.com/iboards/Mahjong/ || 麻將 || Rb37 ||  ||  
+|-
+| komica.dbfoxtw.me/gameprogramming/ || 遊戲設計 || dbfox || CheapVPS ||  
+|-
+| rm2k3xpvx.mykomica.org/rm/ || RPG Maker ||  || MyKomica ||  
+|-
+| sara.komica.org/52/index.htm || 網路遊戲 ||  ||  ||  
+|-
+| gamegroup.mykomica.org/cosmicbreak/ || CosmicBreak ||  || rowspan = "3" | MyKomica ||  
+|-
+| touhonoob.mykomica.org/elsword/ || Elsword ||  ||  
+|-
+| sdgo.mykomica.org/GGCDNF/ || DNF ||  ||  
+|-
+| komica.yucie.net/fez/ || FEZ || yucie || 個人主機 ||  
+|-
+| fina.mykomica.org/gw2/ || GW2 ||  || rowspan = "2" | MyKomica ||  
+|-
+| sdgo.mykomica.org/komicaLOL/ || LOL ||  ||  
+|-
+| komica.peroneko.org/minecraft/ || Minecraft ||  ||  ||  
+|-
+| pathofexile.mykomica.org/komicaPOE/ || POE ||  || rowspan = "3" | MyKomica ||  
+|-
+| 2012.mykomica.org/pso2/ || PSO2 ||  ||  
+|-
+| touhonoob.mykomica.org/sd_gundum/ || SDGO ||  ||  
+|-
+| www.wowhk.org/ || WOW ||  ||  ||  
+|-
+| www.fenrisulfr.org/WOT/ || 戰車世界 || rowspan = "4" | Fenrisulfr版群 || rowspan = "4" | WebNX ||  
+|-
+| www.fenrisulfr.org/BATTLEFIELD/ || 戰地風雲 ||  
+|-
+| www.fenrisulfr.org/War_Thunder/ || 戰爭雷霆 ||  
+|-
+| www.fenrisulfr.org/WOWP/ || 戰機世界 ||  
+|-
+| strange-komica.com/MonsterHunter/ || [[魔物獵人]] ||  ||  ||  
+|-
+| 2cat.or.tl/~kirur/touhou/index.htm || [[東方Project|東方]] ||  ||  ||  
+|-
+| ningen.dreamhosters.com/leafkey/ || 葉鍵 ||  || dreamhost ||  
+|-
+| www.twocat.org/~07expansion/ || 龍騎士07 ||  ||  ||  
+|-
+| futaba.nagatoyuki.org/ || [[涼宮ハルヒの憂鬱|涼宮]] ||  ||  ||  
+|-
+| komica.chiisana.net/pizzahut/ || 反逆 ||  ||  ||  
+|-
+| ns3.bogus6.info/~bogus/nanoha_temp/ || [[魔法少女奈葉|奈葉]] ||  ||  ||  
+|-
+| mykomica.org/boards/21/madoka/ || 廢怯少女 ||  ||  ||  
+|-
+| index.mykomica.org/index/ || 禁書 ||  || rowspan = "3" | MyKomica ||  
+|-
+| yugioh.mykomica.org/20110517/ || [[遊☆戯☆王|遊戲王]] ||  ||  
+|-
+| alleyneblade.mykomica.org/0002/ || 女王之刃 ||  ||  
+|-
+| www.hetalia.us/general/ || [[Axis Powers ヘタリア|APH]] || Tsundere版群 ||  ||  
+|-
+| idolma.ster.tw/imgbbs/ || [[アイドルマスター|IM@S]] ||  ||  ||  
+|-
+| www.megurineluka.com/pokemon/ || [[神奇寶貝|Pokemon]] || Tsundere版群 ||  ||  
+|-
+| spg-web.sytes.net/PasteChart/prettycure/ || Pretty Cure ||  ||  ||  
+|-
+| neet1145.mykomica.org/shizuno/ || [[咲-Saki-|Saki]] ||  || MyKomica ||  
+|-
+| www.karlsland.net/sw/ || Strike Witches || EMT ||  ||  
+|-
+| no_99.mykomica.org/capcom/ || [[Capcom]] ||  || MyKomica ||  
+|-
+| www.gainax.org/general/ || GAINAX || Tsundere版群 ||  ||  
+|-
+| www.karlsland.net/koei/ || [[KOEI TECMO|KOEI]] || EMT ||  ||  
+|-
+| moecorner.com/iboards/Square_Enix/ || [[Square Enix|SQEX]] || Rb37 ||  ||  
+|-
+| gzone-anime.info/UnitedSites/TypeMoon/ || [[TYPE-MOON]] ||  ||  ||  
+|-
+| komica.yucie.net/kyoutoanimate/ || [[京阿尼|京都動畫]] || rowspan = "4" | yucie || rowspan = "4" | 個人主機 ||  
+|-
+| komica.yucie.net/seiyuu/ || [[聲優]]綜合 ||  
+|-
+| komica.yucie.net/kugimiya/ || [[釘宮理惠|釘宮]] ||  
+|-
+| komica.yucie.net/nana/ || [[田村由香里|田村]]/[[堀江由衣|堀江]]/[[水樹奈奈|水樹]] ||  
+|-
+| mamiko.keyfans.net/ || [[川澄綾子|川澄]]/[[能登麻美子|能登]] ||  ||  ||  
+|-
+| kana.keyfans.net/ || 花澤 ||  ||  ||  
+|-
+| yuutan.mykomica.org/idol/ || 偶像 ||  || rowspan = "2" | MyKomica ||  
+|-
+| akb48.mykomica.org/akb48/ || AKB48 ||  ||  
+|-
+| 2cat.or.tl/~laurenthorizon/sh1.html || Sound Horizon ||  ||  ||  
+|-
+| www.kagaminerin.org/flash/ || 角色[[配對]] || rowspan = "2" | Tsundere版群 ||  ||  
+|-
+| www.kagaminelen.org/tearing/ || 催淚 ||  ||  
+|-
+| komica.chiisana.net/genderswap/ || 性轉換 ||  ||  ||  
+|-
+| ningen.dreamhosters.com/maid/ || Maid ||  || dreamhost ||  
+|-
+| ccs.hp2.jp/miko/ || [[巫女]] ||  ||  ||  
+|-
+| komica.yucie.net/magic/ || 魔女 || yucie || 個人主機 ||  
+|-
+| 2cat.or.tl/~gtr2003/pixmicat2/ || 武器娘 ||  ||  ||  
+|-
+| komica.yucie.net/lori/ || [[蘿莉]] || yucie || 個人主機 ||  
+|-
+| p.komica.acg.club.tw/s/ || [[正太]] ||  ||  ||  
+|-
+| futaba.bogusx.idv.tw/sister/ || [[御姐|御姊]] ||  ||  ||  
+|-
+| p.komica.acg.club.tw/a/ || [[兄貴]] ||  ||  ||  
+|-
+| komica.yucie.net/imoto/ || [[妹]]系 || yucie || 個人主機 ||  
+|-
+| komica.dbfoxtw.me/jingai/ || [[人外]] || dbfox || CheapVPS ||  
+|-
+| orzistic.org/y/ || 妖怪 ||  ||  || 尚未修復。 
+|-
+| komica.dbfoxtw.me/kemono/ || [[ケモノ|獸]] || dbfox || CheapVPS ||  
+|-
+| futaba.bogusx.idv.tw/msgirls/ || [[機娘]] ||  ||  ||  
+|-
+| 2cat.or.tl/~rt/hd/ || 返信娘 ||  ||  ||  
+|-
+| komica.yucie.net/lolita/ || Lolita Fashion || yucie || 個人主機 ||  
+|-
+| komica.chiisana.net/tsundere/ || [[ツンデレ|傲嬌]] ||  ||  ||  
+|-
+| homu.komica.org/30/index.htm || 塗鴉王國 ||  ||  ||  
+|-
+| sara.komica.org/poti/index.htm || 線上繪圖 ||  ||  ||  
+|-
+| langley.dreamhosters.com/p_garden/ || 塗鴉花園 ||  || rowspan = "2" | dreamhost ||  
+|-
+| langley.dreamhosters.com/p_animal/ || 塗鴉保育區 ||  ||  
+|-
+| broken.goodluck.com.tw/ || 塗鴉工廠 ||  ||  ||  
+|-
+| www.svwind.com/bbs/bbs9/ || 樂器、作曲 ||  ||  || 尚未修復。 
+|-
+| www.dk.idv.tw/3d/ || 3D ||  ||  ||  
+|-
+| w2.loxa.edu.tw/steven2/mmdindex/ || MMD ||  ||  ||  
+|-
+| langley.dreamhosters.com/doujin/ || 同人 ||  || dreamhost || 尚未修復。 
+|-
+| doujin2.acgmoe.com/board/ || 同人2 ||  ||  ||  
+|-
+| durudurudadada.mykomica.org/soho/ || SOHO ||  ||  ||  
+|-
+| homu.komica.org/20d/ || 宣傳 ||  ||  ||  
+|-
+| homu.komica.org/58/index.htm || 飲食綜合 ||  ||  ||  
+|-
+| sake.nagatoyuki.org/ || 酒 ||  ||  ||  
+|-
+| www.twocat.org/~coffee/ || 咖啡/茶 ||  ||  ||  
+|-
+| www.twocat.org/~cooking/ || 烹飪 ||  ||  ||  
+|-
+| www.ayanamirei.org/vegetarian/ || 素食 || Tsundere版群 ||  ||  
+|-
+| sara.komica.org/49/index.htm || 體育綜合 ||  ||  ||  
+|-
+| komica.yucie.net/worldcup/ || 足球 || yucie || 個人主機 ||  
+|-
+| www.dk.idv.tw/bicycle/ || 單車 ||  ||  ||  
+|-
+| komica.yucie.net/budou/ || 武術 || yucie || 個人主機 ||  
+|-
+| 2cat.or.tl/~twocat/7d/ || 動物綜合 ||  ||  ||  
+|-
+| komica.yucie.net/dog/ || 犬 || rowspan = "2" | yucie || rowspan = "2" | 個人主機 ||  
+|-
+| komica.yucie.net/cat/ || [[貓]] ||  
+|-
+| www.twocat.org/~bird/ || 鳥 ||  ||  ||  
+|-
+| spg-web.sytes.net/PasteChart/insect/ || 蟲 ||  ||  ||  
+|-
+| komica.yucie.net/aquarium/ || 水族 || rowspan = "2" | yucie || rowspan = "2" | 個人主機 ||  
+|-
+| komica.yucie.net/adopt/ || 認養 ||  
+|-
+| 2cat.or.tl/~twocat/5d/ || 二次壁 ||  ||  ||  
+|-
+| iris.komica2.net/08/index.htm || 三次壁 ||  ||  ||  
+|-
+| komica.csie.org/~cellwall/ || 手機壁 ||  ||  ||  
+|-
+| 2cat.twbbs.org/~touhonoob/14d/ || PSP壁 ||  ||  ||  
+|-
+| homu.komica.org/37/index.htm || 電腦 ||  ||  ||  
+|-
+| 2cat.or.tl/~scribe/pixmicat_dev/ || Pixmicat! ||  ||  ||  
+|-
+| rthost.fam.cx/joyful/ || Joyful Note ||  ||  ||  
+|-
+| 2cat.or.tl/~scribe/2prog/ || 程設交流 ||  ||  ||  
+|-
+| touhonoob.mykomica.org/webdevelop/ || 網頁設計 ||  || MyKomica ||  
+|-
+| moecorner.com/iboards/Apple/ || Apple || Rb37 ||  ||  
+|-
+| homu.komica.org/22/index.htm || 文化交流 ||  ||  ||  
+|-
+| homu.komica.org/25/index.htm || 新聞 ||  ||  ||  
+|-
+| homu.komica.org/16/index.htm || 寫真 ||  ||  ||  
+|-
+| homu.komica.org/19/index.htm || 女性角色 ||  ||  ||  
+|-
+| homu.komica.org/38/index.htm || 男性角色 ||  ||  ||  
+|-
+| homu.komica.org/57/index.htm || 中性角色 ||  ||  ||  
+|-
+| homu.komica.org/42/index.htm || 四格 ||  ||  ||  
+|-
+| homu.komica.org/36/index.htm || 擬人化 ||  ||  ||  
+|-
+| homu.komica.org/47/index.htm || 少女漫畫 ||  ||  ||  
+|-
+| homu.komica.org/29/index.htm || 音樂 ||  ||  ||  
+|-
+| homu.komica.org/46/index.htm || [[布袋戲]] ||  ||  ||  
+|-
+| homu.komica.org/35/index.htm || 小說 ||  ||  ||  
+|-
+| homu.komica.org/60/index.htm || [[奇幻]] ||  ||  ||  
+|-
+| homu.komica.org/10/index.htm || 紙牌 ||  ||  ||  
+|-
+| homu.komica.org/33/index.htm || 高解析度 ||  ||  ||  
+|-
+| homu.komica.org/23/index.htm || GIF ||  ||  ||  
+|-
+| homu.komica.org/24/index.htm || FLASH ||  ||  ||  
+|-
+| homu.komica.org/39/index.htm || MAD ||  ||  ||  
+|-
+| homu.komica.org/44/index.htm || 素材 ||  ||  ||  
+|-
+| homu.komica.org/45/index.htm || 求圖 ||  ||  ||  
+|-
+| komica42.dreamhosters.com/99/index.htm || 測試 ||  || dreamhost ||  
+|-
+| homu.komica.org/f1/ || 綜合討論 ||  ||  ||  
+|-
+| homu.komica.org/f3/ || 連結 ||  ||  ||  
+|-
+| homu.komica.org/f5/ || 豆知識 ||  ||  ||  
+|-
+| homu.komica.org/f6/ || 電腦 ||  ||  ||  
+|-
+| homu.komica.org/f7b/ || 單身 ||  ||  ||  
+|-
+| homu.komica.org/f9/ || 寫作 ||  ||  ||  
+|}
+
+[[Category:Komica]]

@@ -1,0 +1,677 @@
+{{h0|群集命名方式}}
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+|注意：為節省篇幅，不建議寫入開頭為數字的群集，請見置底處條目。
+|}
+
+== 解說 ==
+* [[ACG]]創作方式中，將'''多數的虛構角色'''或是用語以各種相關領域的名詞去命名或嵌入。
+* 通常代表作者希望傳達某些'''名詞'''給予讀者以引發好奇心去發掘相關知識。
+** 算是「[[宅男|宅]]」的良性的意味。
+** &lt;s&gt;又或著單純只是想名字很難又很麻煩，找個方向作為命名基準會方便的多。&lt;/s&gt;
+** 部分觀眾會因為遵循'''群集原有的規律或順序'''去推斷'''角色群的關係發展是否與群集相似'''。
+* &lt;s&gt;若是套用到歷史或現有文獻人名，多半只是作者偷懶想要套用該人的事跡作為角色發展的雛形模板。&lt;/s&gt;
+** 須注意'''不是直接以同名角色當作歷史或傳說、[[十字教|宗教]]人物衍生'''，而是有包含發想、創作、改編成的角色才算符合群集命名的原則。
+
+== 常見的群集命名範疇 ==
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!領域名
+!用法
+!效果或主要訴求
+!常見熱門首選
+!同類作品
+|-
+|方向
+|以姓氏居多、部分也有校名
+|方位可代表不同地區的氣候，因此也能衍生成人物性格，在真實姓氏中也有不少是有方位的
+|東/南/西/北/中、上下/前後/左右
+|草莓100%、[[銀魂]]、加奈日記、[[LoveLive!]]、[[天元突破 紅蓮螺巖]]
+|-
+|[[色彩]]/色調/材質
+|人名、冠詞、稱號
+|容易分辨又數量多，而且還有'''色調名'''可以根據[[語言]]持續衍生，甚至可以開發成相關商品與活動發想
+|光三原色（紅藍綠）、顏料三原色（紅藍黃）、彩虹七色、金銀銅鐵錫、黑白灰
+|青澀之戀、[[影子籃球員|黑子的籃球]]、[[神奇寶貝]]、[[加速世界]]、各大戰隊系列
+|-
+|舊日本軍艦、飛機型號
+|以姓氏居多
+|懷舊&lt;s&gt;軍國主義復辟&lt;/s&gt;
+|大和、長門、武藏、扶桑、零式
+|[[新世紀福音戰士]]、[[THE IDOLM@STER|偶像大師]]&lt;s&gt;、[[艦隊Collection]]&lt;/s&gt;&lt;ref&gt;這個本來就是二次大戰戰艦主題的遊戲……&lt;/ref&gt;
+|-
+|[[星座]]
+|稱號、代號
+|常以西方文明的黃道十二宮為準，再向上通常衍生成[[太陽系]]天體。東亞文明的三垣五宮廿八宿則常常乏人問津或是只以[[四聖獸]]的簡式出現。&lt;br&gt;因為星座的名稱源自於希臘/羅馬神話，所以有時會跟神話系統的命名有關
+|雙子座、獅子座、天秤座、天蠍座、射手座、水瓶座&lt;s&gt;[http://dic.nicovideo.jp/a/%E6%98%9F%E5%BA%A7%E3%82%AB%E3%83%BC%E3%82%B9%E3%83%88%E5%88%B6%E5%BA%A6 由於某聖鬥士作品]的形象影響，有近二十年的時光令部分讀者不敢表達自己的[[屬性]][[星座]]&lt;/s&gt;
+|[[碧藍航線|碧藍航線（英國艦船）]]、聖鬥士星矢、戰鬥陀螺：鋼鐵戰魂、[[新機動戰記鋼彈W]]、夢幻遊戲&lt;ref&gt;少數採用三垣五宮廿八宿設定的作品&lt;/ref&gt;&lt;s&gt;、西遊記&lt;/s&gt;
+|-
+|太陽系天體
+|稱號、代號
+|以太陽系的主要行星作為主要角色的名稱或代號，衛星、小行星常成為手下或是友情夥伴所用。&lt;br&gt;作為人類主體文化的地球與月球通常為特別的存在。&lt;br&gt;由於太陽的地位更特殊，常會跳脫出來獨立定位&lt;br&gt;&lt;s&gt;不過冥王星在2006年被踢出行星行列後變成頗為尷尬的存在&lt;/s&gt;&lt;br&gt;同星座一樣因絕大多數的太陽系天體名稱也跟希臘/羅馬神話有關，所以也會神話系統的命名相關聯。
+|主要就是以&lt;s&gt;九&lt;/s&gt;八大行星為主
+|[[美少女戦士セーラームーン|美少女戰士]]、[[元祖洛克人角色列表#洛克人世界5登場|洛克人世界5]]、[[金色琴弦]]系列、[[遊☆戯☆王]]
+|-
+|生肖
+|姓氏居多
+|快速帶入生物代表的性格
+|[[龍]]、虎、蛇、馬、猿、鼠&lt;s&gt;，[[貓]]因為會跟同科的虎衝到，通常是做為體制外角色存在&lt;/s&gt;
+|光速蒙面俠、魔法水果籃、爆裂戰士、勇者王
+|-
+|歐美流行音樂
+|章節名、角色名、招式名
+|借用專輯名稱、歌詞或歌名情境、歌手樂團名，70年代起的日本與美國經濟接軌逐漸加速西化、吸收了美國民歌、搖滾樂文化
+|不及備載，且逐年新增
+|鐵拳對鋼拳、[[JOJO的奇妙冒險]]、戰國鬼才傳
+|-
+|[[神話]]
+|武器、人物、裝備
+|以該神話作題材，讓作品設定有據可依
+|不及備載
+|例如：&lt;br&gt;希臘神話：聖鬥士星矢&lt;br&gt;中東神話：魔奇&lt;br&gt;日本神話：[[K (動畫)|K]]&lt;br&gt;歐洲神話：魔戒&lt;br&gt;北歐神話：[[仮面ライダー鎧武|假面騎士鎧武]]&lt;br&gt;埃及神話：[[遊☆戯☆王|遊戲王]]、[[JOJO的奇妙冒險]]&lt;br&gt;猶太教神話：[[約會大作戰]]&lt;br&gt;[[十字教]]神話：天使禁獵區&lt;br&gt;佛教神話：[[聖☆哥傳]]&lt;br&gt;中國神話：封神演義&lt;br&gt;凱爾特神話：[[瑪奇]]&lt;br&gt;雜類：High School DXD、魔獸系列、[[League of Legends|英雄聯盟]]、[[東方Project]]
+|-
+|地理
+|城名、國名、山川河谷等等
+|以當地景點名，山岳，河川等來命名
+|通常用於暗示某一個地區參考現實何處才會使用，不過也有用於命名戰艦名的例外。
+|[[記錄的地平線]]、[[艦隊Collection]]（輕巡、重巡、戰艦、海防艦等）
+|-
+|季節
+|多用於人名
+|依照季節命名角色，亦可藉由季節形象賦予角色性格
+|春/夏/秋/冬
+|玩偶遊戲、Keroro軍曹、南家三姐妹
+|-
+|希臘字母
+|多用於機械人代號
+|以小寫希臘字母作為代稱
+|α、β、γ、δ、ε
+|美麗新世界、[[機動戰士鋼彈系列]]（宇宙世紀AE社生產的鋼彈型機體）
+|}
+
+== 以群集命名為主要特色的作品 ==
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!作品名
+!作品原文
+!成員
+!套用位置
+!套用方式
+!備注
+|-
+|style="text-align:center;" colspan="2" |&lt;s&gt;祖譜&lt;/s&gt;
+|&lt;s&gt;家族成員&lt;/s&gt;
+|&lt;s&gt;名字&lt;/s&gt;
+|&lt;s&gt;依家族規定&lt;/s&gt;
+|&lt;s&gt;講究的家族會依照規定明訂各代成員的名字中需含特定字彙命名，甚至影響到年齡排序等各方面&lt;/s&gt;&lt;br&gt;&lt;s&gt;進入現代後繼續遵從這方面的家庭越來越少&lt;/s&gt;
+|-
+|少女革命
+|少女革命ウテナ
+|決鬥相關登場角色
+|名字
+|植物相關
+|鳳曉生例外&lt;s&gt;雖然TVB故意地拗作木生&lt;/s&gt;。
+|-
+|夢幻遊戲
+|ふしぎ遊戯
+|主要角色
+|代號
+|三垣五宮廿八宿
+|被《四神天地書》招喚至異世的角色代表著四聖獸巫女，守護巫女的角色們則各自對應著四聖獸所管轄星宿。
+|-
+|style="text-align:center;" colspan="2" |&lt;s&gt;[[中華一番|中華一番!]]&lt;/s&gt;
+|主要人物
+|&lt;s&gt;全名&lt;/s&gt;
+|&lt;s&gt;統一商品名&lt;/s&gt;
+|[[翻譯再創作]]，也由於電視台的重播洗腦下造成大眾反而不記得角色本名。
+|-
+|請問你今天要來點兔子嗎？
+|ご注文はうさぎですか？
+| rowspan="2" |登場角色
+| rowspan="4" |全名
+|飲料
+|
+|-
+|可樂小子
+|コロッケ！
+|食物
+|
+|-
+|style="text-align:center;" colspan="2" |ROOKIES
+|二子玉川棒球部成員
+|日本職棒相關人物
+|
+|-
+| rowspan="3" |[[影子籃球員|黑子的籃球]]
+| rowspan="3" |黒子のバスケ
+|帝光中球員
+|顏色
+|奇跡時代的姓氏[[起源|源自]][[色彩|彩虹顏色]]。
+|-
+|無冠的五將
+| rowspan="10" |姓氏
+|植物相關
+|
+|-
+|誠凜球員
+| rowspan="2" |[[太陽系]]天體
+|
+|-
+|美少女戰士
+|[[美少女戦士セーラームーン]]
+|水手戰士
+|水手金星例外{{ref|硬要凹的話就是金星→Venus→愛神維納斯→愛野}}。
+|-
+|偶像大師
+|[[THE IDOLM@STER|アイドルマスター]]
+|765的成員
+|戰艦名
+|
+|-
+|草莓100%
+|いちご100%
+|四名主要女角
+|方位
+|
+|-
+|style="text-align:center;" colspan="2" |Happy Lesson
+|女角
+|舊曆月份
+|
+|-
+|style="text-align:center;" colspan="2" |Storm Lover
+| rowspan="2" |攻略對象
+|十二生肖
+|&lt;s&gt;但女主角默認名「五十嵐由奈」反倒符合二代的命名方式。&lt;/s&gt;
+|-
+|style="text-align:center;" colspan="2" |Storm Lover2
+|rowspan="2" |數字
+|
+|-
+|相聚一刻
+|めぞん一刻
+|主要角色群
+|音"無"、一之瀨、二階堂、三鷹、四谷、五代、六本木、七尾、八神、九條。&lt;br&gt;以及響子的原姓－千草。
+|-
+|沒有天使的12月
+|天使のいない12月
+|全體命名角色
+|帶有「木」字的偏旁
+|
+|-
+| rowspan="2" |[[遙遠時空|遙遠時空4]]
+| rowspan="2" |遙かなる時空の中で4
+|中津國的人
+| rowspan="2" |名字
+|日本神話神祗名
+| rowspan="2" |舞台背景為神話時代。
+|-
+|常世之國的人
+|印度神話神祗名
+|-
+| rowspan="2" |[[金色琴弦]]
+| rowspan="2" |金色のコルダ
+| rowspan="2" |主人公和大多數攻略對象
+|姓氏
+|太陽系天體
+|
+|-
+|名字
+|植物相關
+|
+|-
+|金色琴弦3
+|金色のコルダ3
+|AS裡升格為可攻略的角色和配角
+|姓氏
+|小行星或衛星
+|
+|-
+|鬥球少女
+|
+|筑紫学園兜網球部
+|姓氏或名字
+|舊曆月名
+|
+|-
+|style="text-align:center;" colspan="2" |[[仙劍奇俠傳系列|仙劍奇俠傳3]]
+| rowspan="5" |主要角色
+| rowspan="4" |名字
+|中藥藥材
+|
+|-
+|style="text-align:center;" colspan="2" |仙劍奇俠傳3外傳-問情篇
+|天體
+|
+|-
+|style="text-align:center;" colspan="2" |仙劍奇俠傳4
+|礦物
+|
+|-
+|銀河天使
+|ギャラクシーエンジェル
+|甜點
+|
+|-
+|&lt;s&gt;[[神奇寶貝特別篇]]&lt;/s&gt;
+|&lt;s&gt;ポケットモンスターSPECIAL&lt;/s&gt;
+|&lt;s&gt;名字&lt;/s&gt;
+|&lt;s&gt;版本名&lt;/s&gt;
+|
+|-
+|[[神奇寶貝|神奇寶貝系列]]
+|ポケットモンスターシリーズ
+| rowspan="2" |幾乎所有人物
+|名字
+|植物相關
+|主角群例外，有各自的命名主題。
+|-
+|[[閃電十一人]]
+|イナズマイレブン
+| rowspan="2" |角色的姓名
+|視學校而定，族繁不及備載
+|
+|-
+|style="text-align:center;" colspan="2" rowspan="2" |[[K (動畫)|K]]
+|主要角色群
+|日本神話神祗名
+|包括衍生[[乙女遊戲]]《学園K -Wonderful School Days-》的原創主人公在內。
+|-
+|赤色陣營·吠舞羅和青色陣營·Scepter4的次要成員
+|姓氏的第一個字
+|按英文26字母順序開始
+|
+|-
+| rowspan="6" |[[七龍珠]]
+| rowspan="6" |ドラゴンボール
+|賽亞人
+| rowspan="6" |全名
+|蔬菜
+|日文是野菜顛倒過來，所以純種賽亞人的名字都跟蔬菜有關。
+|-
+|布馬一家人
+|衣物，特別是貼身衣物
+|
+|-
+|比克[[大魔王]]一夥
+|樂器
+|
+|-
+|弗力札的部下
+|食物
+|當中基紐特戰隊全員為奶製品。
+|-
+|弗力札一家
+|和冷有關的東西
+|弗力札因為各種食物的主人，所以以冰箱的英文命名，以至其家人都以和冷有關的東西命名。
+|-
+|破壞神
+|[[酒]]
+|
+|-
+|[[新機動戰記鋼彈W]]
+|新機動戦記ガンダムW
+|人物
+| rowspan="4" |名字
+|數字
+|例如五小強分別呼應1~5。{{censored|還有傑克斯‧馬吉斯呼應6}}
+|-
+|[[機動戰士鋼彈00]]
+|機動戦士ガンダム00
+| rowspan="2" |鋼彈
+|九大天使
+|天人發開的第3、4代（除了墮天使和00）鋼彈、崔尼提小隊的座天使鋼彈和庸兵阿里·亞爾·沙瑟斯的權天使鋼彈。
+|-
+| rowspan="2" |[[機動戰士鋼彈 鐵血孤兒|機動戰士鋼彈 鐵{{color|red||血}}孤兒]]
+| rowspan="2" |機動戦士ガンダム 鉄{{color|red||血}}のオルフェンズ
+|[[魔神柱 (Fate)|所羅門七十二柱魔神]]
+|機體名字都是取自機體編號對應的魔神，比如ASW-G-08獵魔鋼彈對應第八柱巴爾巴托斯
+|-
+|女武神框架MS
+|[[Valkyrie (Fate)|女武神]]
+|機體名字都是取自機體編號對應的《尼伯龍根的指環》的女武神，比如V08-1228對應順位第八的葛琳潔德
+|-
+| rowspan="8" |遊戲王
+| rowspan="8" |[[遊☆戯☆王]]
+|暗黑界
+| rowspan="8" |名字（?）
+|顏色
+|
+|-
+|[[Z-ONE|時械神]]
+|生命樹的質點
+|只有2張OCG。
+|-
+|機殼
+|善惡之樹的惡德
+|
+|-
+|獄火機
+|善惡之樹的惡德所象徵[[惡魔]]
+|
+|-
+|代行者
+|[[太陽系]]天體
+|
+|-
+|幻獸機
+|航空載具+動物
+|
+|-
+|炎星
+|梁山泊108好漢+動物
+|&lt;s&gt;根本沒辦法令108張OCG。&lt;/s&gt;
+|-
+|幻奏
+|音樂家
+|
+|-
+|遊戲王5D's
+|[[遊☆戯☆王 5D's]]
+|[[阿波利亞|世界本源三皇帝]]
+| rowspan="2" |名字
+|世界三大男高音
+|
+|-
+|遊戲王ZEXAL
+|[[遊☆戯☆王 ZEXAL]]
+|[[バリアン七皇|巴利安&lt;s&gt;戰隊&lt;/s&gt;七皇&lt;s&gt;連者&lt;/s&gt;]]
+|北斗七星
+|
+|-
+|文豪野犬
+|
+|登場角色
+|全名
+|日本文豪
+|基本上就是照搬全名（無誤）。
+|-
+|我和女友和青梅竹馬的各種修羅場
+|
+|男主角+四位女主角
+|姓氏
+| rowspan="2" |四季
+|組合起來就是「四季同堂」。
+|-
+| rowspan="3" |Keroro軍曹
+| rowspan="3" |ケロロ軍曹
+|日向家
+| rowspan="2" |名字
+|由此推測日向家父親名字有「春」字。
+|-
+|西澤家
+|花
+|梅、櫻、桃。
+|-
+|配角群
+|姓氏
+|方向
+|西澤、東谷、北城、Southencross（南十字星）。
+|-
+|[[假面騎士系列]]
+|仮面ライダーシリーズ
+|人物名稱，武器名稱等
+| colspan="2" |什麼都可能有
+|例：假面騎士Fourze的主角群5配角都是以昭和騎士為原型。
+|-
+| rowspan="33" |[[Sa·Ga系列|復活邪神2]]
+| rowspan="33" |ロマンシング サ・ガⅡ
+|帝國重裝步兵
+| rowspan="33" |名字
+|野生動物
+|[https://zh.wikipedia.org/wiki/%E7%86%8A%E7%A7%91 Bear]、[https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%B4%B2%E9%87%8E%E7%89%9B bison]、[https://zh.wikipedia.org/wiki/%E6%B5%B7%E8%B1%A1 walrus]、[https://zh.wikipedia.org/wiki/%E8%9C%97%E7%89%9B snail]、[https://zh.wikipedia.org/wiki/%E5%88%BA%E7%8C%AC hedgehog]、[https://zh.wikipedia.org/wiki/%E9%99%B8%E9%BE%9C tortois]、[https://zh.wikipedia.org/wiki/%E7%8A%80%E7%89%9B rhino]、{{wp|The_Story_of_Ferdinand|Ferdinand|lang=en}}。
+|-
+|帝國男輕步兵
+|美國總統
+|[https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%97%A8%E7%BD%97 James]、[https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA John]、[https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%B0%BC%E5%85%8B%E6%9D%BE Richard]、[https://zh.wikipedia.org/wiki/%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E8%83%A1%E4%BD%9B Herbert]、[https://zh.wikipedia.org/wiki/%E5%93%88%E9%87%8C%C2%B7S%C2%B7%E6%9D%9C%E9%B2%81%E9%97%A8 Harry]、[https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E9%87%8C%E6%A0%B9 Ronard]、[https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%80%80%E7%89%B9%C2%B7%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94 Dwight]、[https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97%C2%B7%E5%BE%B7%E6%8B%89%E8%AF%BA%C2%B7%E7%BD%97%E6%96%AF%E7%A6%8F Franklin]。
+|-
+|帝國女輕步兵
+|美國女星
+|[https://zh.wikipedia.org/wiki/%E9%BA%97%E8%8E%8E%C2%B7%E6%98%8E%E5%B0%BC%E5%88%A9 Liza]、[https://zh.wikipedia.org/wiki/%E6%BD%94%E8%A5%BF%E5%8D%A1%C2%B7%E8%98%AD%E8%8A%9D Jessica]、[https://zh.wikipedia.org/wiki/%E8%8E%8E%E8%8E%89%C2%B7%E9%BA%A5%E5%85%8B%E7%90%B3 Shirley]、[https://zh.wikipedia.org/wiki/%E5%A5%A5%E9%BB%9B%E4%B8%BD%C2%B7%E8%B5%AB%E6%9C%AC Audrey]、[https://zh.wikipedia.org/wiki/%E6%9C%B1%E8%BF%AA%C2%B7%E5%8A%A0%E5%85%B0 Judy]、[https://zh.wikipedia.org/wiki/%E6%A0%BC%E8%95%BE%E4%B8%9D%C2%B7%E5%87%AF%E5%88%A9 Grace]、[https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%A0%BC%E4%B8%BD%C2%B7%E8%A4%92%E6%9B%BC Ingrid]、[https://zh.wikipedia.org/wiki/%E8%91%9B%E4%B8%BD%E6%B3%B0%C2%B7%E5%98%89%E5%AE%9D Greta]。
+|-
+|帝國男獵兵
+|西洋君主姓氏
+|
+|-
+|帝國女獵兵
+|西洋女皇姓氏
+|
+|-
+|宮廷男魔術師
+|[[星座]]
+|[https://zh.wikipedia.org/wiki/%E7%99%BD%E7%BE%8A%E5%BA%A7 Aries]、[https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%A9%AC%E5%BA%A7 Sagittarius]、[https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%A7%A4%E5%BA%A7 Libra]、[https://zh.wikipedia.org/wiki/%E9%87%91%E7%89%9B%E5%BA%A7 Taurus]、[https://zh.wikipedia.org/wiki/%E5%8F%8C%E5%AD%90%E5%BA%A7 Gemini]、[https://zh.wikipedia.org/wiki/%E6%91%A9%E7%BE%AF%E5%BA%A7 Capricornus]、[https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%B9%85%E5%BA%A7 Kygnus]、[https://zh.wikipedia.org/wiki/%E5%8D%97%E5%8D%81%E5%AD%97%E5%BA%A7 Crux]。
+|-
+|宮廷女魔術師
+|寶石
+|[https://zh.wikipedia.org/wiki/%E7%A5%96%E6%AF%8D%E7%B6%A0 Emerald]、[https://zh.wikipedia.org/wiki/%E7%B4%AB%E6%B0%B4%E6%99%B6 Amethyst]、[https://zh.wikipedia.org/wiki/%E7%BC%9F%E7%8E%9B%E7%91%99 Onyx]、[https://zh.wikipedia.org/wiki/%E9%BB%84%E7%8E%89 Topaz]、[https://zh.wikipedia.org/wiki/%E7%9F%B3%E6%A6%B4%E7%9F%B3 Garnet]、[https://zh.wikipedia.org/wiki/%E8%9B%8B%E7%99%BD%E7%9F%B3 Opal]、[https://zh.wikipedia.org/wiki/%E7%BA%A2%E5%AE%9D%E7%9F%B3 Ruby]、[https://zh.wikipedia.org/wiki/%E8%93%9D%E5%AE%9D%E7%9F%B3 Sapphire]。
+|-
+|男傭兵
+|希臘英雄
+|[https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%85%8B%E7%89%B9 Hector]、[https://zh.wikipedia.org/wiki/%E4%BF%84%E9%87%8C%E7%BF%81 Orion]、[https://zh.wikipedia.org/wiki/%E4%BC%8A%E9%98%BF%E5%AE%8B Jason]、[https://zh.wikipedia.org/wiki/%E5%BF%92%E4%BF%AE%E6%96%AF Theseus]、[https://zh.wikipedia.org/wiki/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF Achilles]、[https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%BE%B7%E4%BF%AE%E6%96%AF Ulysses]、[https://zh.wikipedia.org/wiki/%E7%8F%80%E8%80%B3%E4%BF%AE%E6%96%AF Perseus]、[https://zh.wikipedia.org/wiki/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%8B%92%E6%96%AF Hercules]。
+|-
+|女傭兵
+|希臘美女
+|正好是上面[[人妻|英雄們的妻子]]，[https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E6%B4%9B%E7%8E%9B%E5%88%BB Andromache]、Side、[https://zh.wikipedia.org/wiki/%E7%BE%8E%E7%8B%84%E4%BA%9E Media]、[https://zh.wikipedia.org/wiki/%E5%B8%8C%E6%B3%A2%E5%90%95%E5%BF%92 Hippolyte]、Deidameia、[https://zh.wikipedia.org/wiki/%E4%BD%A9%E6%B6%85%E7%BD%97%E7%8F%80 Penelope]、[https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E6%B4%9B%E5%A2%A8%E9%81%94 Andromeda]、[https://zh.wikipedia.org/wiki/%E5%BE%B7%E4%BC%8A%E9%98%BF%E5%A6%AE%E6%8B%89 Deianeira]。
+|-
+|皇家男護衛
+|歷史名將
+|[https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%B8%83%E9%9B%B7%E8%B5%AB%E7%89%B9%C2%B7%E5%86%AF%C2%B7%E5%8D%8E%E4%BC%A6%E6%96%AF%E5%9D%A6 Wallenstein]、Tancred、[https://zh.wikipedia.org/wiki/%E8%B7%AF%E6%98%93%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E8%BE%BE%E6%AD%A6 Davout]、[https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E4%BB%A3%E9%A6%AC%E7%88%BE%E5%8D%9A%E7%BE%85%E5%85%AC%E7%88%B5%E7%B4%84%E7%BF%B0%C2%B7%E4%B8%98%E5%90%89%E7%88%BE Marlborough]、[https://zh.wikipedia.org/wiki/%E6%B1%89%E5%B0%BC%E6%8B%94 Hannibal]、[https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%B7%B4%E5%AF%86%E6%BF%83%E9%81%94 Epaminondas]、[https://zh.wikipedia.org/wiki/%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%E4%BA%8C%E4%B8%96%C2%B7%E9%98%BF%E9%81%93%E5%A4%AB Gustav]、[https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%88%A9%E6%92%92%E7%95%99 Belisarius]。
+|-
+|皇家女護衛
+|羅馬女神
+|希臘女神在羅馬的稱呼，[https://zh.wikipedia.org/wiki/%E5%BC%A5%E6%B6%85%E8%80%B3%E7%93%A6 Minerva]、[https://zh.wikipedia.org/wiki/%E5%8D%A2%E5%A8%9C Luna]、[https://zh.wikipedia.org/wiki/%E6%9C%B1%E8%AB%BE_(%E7%BE%85%E9%A6%AC%E7%A5%9E%E8%A9%B1) Juno]、[https://zh.wikipedia.org/wiki/%E5%88%BB%E7%91%9E%E6%96%AF_(%E7%BE%85%E9%A6%AC%E7%A5%9E%E8%A9%B1) Ceres]、[https://zh.wikipedia.org/wiki/%E5%A5%A5%E7%BD%97%E6%8B%89 Aurora]、[https://zh.wikipedia.org/wiki/%E5%8E%84%E9%87%8C%E5%80%AA%E5%8E%84%E6%96%AF Fury]、[https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A_(%E7%A5%9E%E8%AF%9D) Victoria]、[https://zh.wikipedia.org/wiki/%E7%8B%84%E5%AE%89%E5%A8%9C Diana]。
+|-
+|自由男法師
+|恆星
+|[https://zh.wikipedia.org/wiki/%E8%BB%92%E8%BD%85%E5%8D%81%E5%9B%9B Regulus]、[https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%99%B5%E4%BA%94 Algol]、[https://zh.wikipedia.org/wiki/%E5%8B%BE%E9%99%B3%E4%B8%80 Polaris]、[https://zh.wikipedia.org/wiki/%E8%80%81%E4%BA%BA%E6%98%9F Canopus]、[https://zh.wikipedia.org/wiki/%E5%8D%97%E6%B2%B3%E4%B8%89 Procyon]、[https://zh.wikipedia.org/wiki/%E5%8F%83%E5%AE%BF%E4%B8%83 Rigel]、[https://zh.wikipedia.org/wiki/%E7%B9%94%E5%A5%B3%E4%B8%80 Vega]、[https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%8B%BC%E6%98%9F Sirius]
+|-
+|自由女法師
+|植物
+|
+|-
+|軍師
+|[[三國]]人物
+|名稱為表字或別稱，[https://zh.wikipedia.org/wiki/%E5%BA%9E%E7%BB%9F 士元]、[[姜維|伯約]]、[https://zh.wikipedia.org/wiki/%E5%BE%90%E5%BA%B6 單福]、[https://zh.wikipedia.org/wiki/%E5%8F%B8%E9%A9%AC%E6%87%BF 仲達]、[[周瑜|公瑾]]、[[陸遜|伯言]]、[[曹操|孟德]]、[[孔明]]。
+|-
+|城市男盜賊
+|小型鳥
+|[https://zh.wikipedia.org/wiki/%E9%9B%80%E7%A7%91 Sparrow]、[https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%B8%A6 Crow]、[https://zh.wikipedia.org/wiki/%E6%AD%90%E4%BA%9E%E9%B4%9D Robin]、[https://zh.wikipedia.org/wiki/%E9%B8%A0%E9%B8%BD%E7%A7%91 Pigeon]、[https://zh.wikipedia.org/wiki/%E6%A4%8B%E9%B8%9F%E7%A7%91 Starling]、[https://zh.wikipedia.org/wiki/%E9%9B%A8%E7%87%95%E7%A7%91 Swift]、[https://zh.wikipedia.org/wiki/%E9%B8%AB%E7%A7%91 Thrush]、[https://zh.wikipedia.org/wiki/%E9%9A%BC Falcon]。
+|-
+|城市女盜賊
+|小動物
+|[[貓|Cat]]、[https://zh.wikipedia.org/wiki/%E6%B2%B3%E7%8B%B8 Beaver]、[https://zh.wikipedia.org/wiki/%E7%8D%BE Badger]、[https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%BC%A0%E5%B1%9E Mouse]、[https://zh.wikipedia.org/wiki/%E5%85%94 Rabbit]、[https://zh.wikipedia.org/wiki/%E7%9F%87%E7%9C%BC%E8%B2%82 Ferret]、[https://zh.wikipedia.org/wiki/%E9%BC%AC%E5%B1%AC Weasel]、[https://zh.wikipedia.org/wiki/%E7%8B%90 Fox]。
+|-
+|格鬥家
+|摔角手
+|
+|-
+|武裝商船團
+|航海士
+|[https://zh.wikipedia.org/wiki/%E6%81%A9%E9%87%8C%E5%85%8B_(%E8%88%AA%E6%B5%B7%E5%AE%B6) Henrique]、[https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB Magellan]、[https://zh.wikipedia.org/wiki/%E7%93%A6%E6%96%AF%E7%A7%91%C2%B7%E9%81%94%E4%BC%BD%E9%A6%AC Gama]、[https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B5%9B%E8%80%B6%C2%B7%E9%A9%AC%E6%B1%89 Mahan]、[https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E4%BB%A3%E8%B2%BB%E8%88%8D%E7%88%BE%E7%94%B7%E7%88%B5%E7%B4%84%E7%BF%B0%C2%B7%E8%B2%BB%E8%88%8D%E7%88%BE Fisher]、[https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E9%A6%AE%C2%B7%E9%90%B5%E5%BF%85%E5%88%B6 Tirpitz]、[https://zh.wikipedia.org/wiki/%E9%84%AD%E5%92%8C 鄭和]、[https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E5%BE%B7%E7%91%9E%E5%85%8B Drake]。
+|-
+|海女
+|女歌手
+|
+|-
+|人魚
+|希臘神話的海仙女
+|
+|-
+|薩古族
+|saga史詩人物
+|
+|-
+|神聖男護衛
+|[[十字教|基督教]]聖人
+|[https://zh.wikipedia.org/wiki/%E5%9C%A3%E4%B9%94%E6%B2%BB Georg]、[https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97_(%E4%BD%BF%E5%BE%92) Peter]、[https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97_(%E4%BD%BF%E5%BE%92) Paul]、[https://zh.wikipedia.org/wiki/%E9%9B%85%E5%90%84_(%E8%88%8A%E7%B4%84%E8%81%96%E7%B6%93) Jacob]、[https://zh.wikipedia.org/wiki/%E5%9C%A3%E6%9C%AC%E7%AC%83 Benedict]、[https://zh.wikipedia.org/wiki/%E8%81%96%E7%93%A6%E5%80%AB%E4%B8%81 Valentine]、[https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E7%83%8F%E7%88%BE%E5%B7%B4%E8%AB%BE%E4%BA%8C%E4%B8%96 Urban]、[https://zh.wikipedia.org/wiki/%E8%81%96%E5%85%8B%E9%87%8C%E6%96%AF%E5%A4%9A%E7%A6%8F Christopher]。
+|-
+|神聖女護衛
+|基督教聖女
+|
+|-
+|男諾瑪族
+|東方遊牧民族首領
+|[https://zh.wikipedia.org/wiki/%E4%BF%BA%E7%AD%94%E6%B1%97 俺答]、[https://zh.wikipedia.org/wiki/%E5%99%B6%E5%B0%94%E4%B8%B9 噶爾丹]、[https://zh.wikipedia.org/wiki/%E6%8B%94%E9%83%BD 拔都]、[https://zh.wikipedia.org/wiki/%E4%B9%9F%E5%85%88 也先]、[https://zh.wikipedia.org/wiki/%E8%BE%BE%E5%BB%B6%E6%B1%97 達延]、[https://zh.wikipedia.org/wiki/%E5%AE%8C%E9%A2%9C%E9%98%BF%E9%AA%A8%E6%89%93 阿骨打]、[https://zh.wikipedia.org/wiki/%E8%80%B6%E5%BE%8B%E9%98%BF%E4%BF%9D%E6%9C%BA 阿保機]、[https://zh.wikipedia.org/wiki/%E5%86%92%E9%A1%BF 冒頓]。
+|-
+|女諾瑪族
+|天方夜譚中的女性
+|
+|-
+|獵人
+|原住民
+|
+|-
+|鼴鼠族
+|土壤
+|
+|-
+|沙漠護衛
+|天方夜譚中的男性
+|
+|-
+|亞馬遜女戰士
+|女英雄
+|
+|-
+|沙拉曼達族
+|印尼火山
+|
+|-
+|東方護衛
+|日本劍豪
+|[https://zh.wikipedia.org/wiki/%E6%9F%B3%E7%94%9F%E5%AE%97%E5%9A%B4 石舟齋]、[https://zh.wikipedia.org/wiki/%E6%9F%B3%E7%94%9F%E4%B8%89%E5%9A%B4 十兵衛]、{{wp|山岡鉄舟|鐵舟|lang=ja}}、[https://zh.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E5%91%A8%E4%BD%9C 周作]、[https://zh.wikipedia.org/wiki/%E4%BD%90%E4%BD%90%E6%9C%A8%E5%B0%8F%E6%AC%A1%E9%83%8E 巖流]、[https://zh.wikipedia.org/wiki/%E5%9C%9F%E6%96%B9%E6%AD%B2%E4%B8%89 歲]、{{wp|柳生厳包|連也|lang=ja}}、[https://zh.wikipedia.org/wiki/%E5%A1%9A%E5%8E%9F%E5%8D%9C%E5%82%B3 卜傳]、[https://zh.wikipedia.org/wiki/%E6%B2%96%E7%94%B0%E7%B8%BD%E5%8F%B8 總司]。
+|-
+|風精靈
+|與風有關的詞語
+|
+|-
+|[[Sa·Ga系列人物列表-part 2#七英雄|七英雄]]
+|山手線站名
+|倒轉字。
+|-
+|[[灼眼的夏娜]]
+|灼眼のシャナ
+|主要配角
+| rowspan="2" |姓氏
+| rowspan="2" |日本內閣總理大臣
+| rowspan="2" |[https://zh.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E8%8C%82 吉田]、[https://zh.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E8%8D%A3%E4%BD%9C 佐藤]、[https://zh.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E8%A7%92%E8%8D%A3 田中]、[https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%8D%9A%E6%96%87 伊藤]、[https://zh.wikipedia.org/wiki/%E6%A1%82%E5%A4%AA%E9%83%8E 桂]、[https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%9C%92%E5%AF%BA%E5%85%AC%E6%9C%9B 西園寺]。
+|-
+|style="text-align:center;"  colspan="2" |[[School Days]]
+|主角群
+|-
+|魔法騎士雷阿斯
+|魔法騎士レイアース
+|眾多角色
+|名字
+|汽車型號
+|Ferio、Presea、Alcyone、Ascot、Caldina、Lafarga、Emeraude、Zagato。
+|-
+|魔人偵探腦嚙涅羅
+|魔人探偵脳噛ネウロ
+|警視廳相關角色
+|姓氏或名字
+|竹
+|'''笹'''塚衛士、石垣'''筍'''、'''笛'''吹直大、'''筑'''紫候平、'''篚'''口結也等。
+|-
+|天地無用系列
+|天地無用!シリーズ
+|rowspan="2" |主要角色群
+|rowspan="2" |名字
+|地名
+|主要出自於倉敷市的地名，如沙美海岸、鷲羽山、阿知花等。
+|-
+|薔薇之戀
+|薔薇のため
+|植物相關
+|百合、堇、葵、芙蓉、芹…
+|-
+|派遣女醫X
+|ドクターX〜外科医・大門未知子〜
+|單元客串角色
+|姓氏或名字
+|數字相關
+|按照話數出現對應數字命名的角色。
+|-
+|rowspan="3" |[[洛克人ZERO角色列表|洛克人ZERO]]
+|rowspan="3" |ロックマンゼロ
+|反抗軍
+|rowspan="3" |名字
+|法文的鳥類
+|
+|-
+|新‧阿卡迪亞
+|各國神話
+|
+|-
+|區域零人類集落
+|氣候
+|
+|-
+|名偵探柯南
+|名探偵コナン
+|黑衣組織
+|代號
+|酒類
+|除黑衣組織以酒類命名之外，各單元案件角色也各自有其不同的命名法則
+|-
+|[[JOJO的奇妙冒險]]
+|ジョジョの奇妙な冒険
+|眾多角色
+|本名或替身名
+|西方搖滾樂團或樂曲
+|
+|-
+|Anima Yell!
+|アニマエール!
+|眾多角色
+|姓氏
+|動物相關
+|主角群的名字也和動物相關。&lt;br&gt;鳩谷 こはね→鳩/羽毛(はね)；有馬 ひづめ→馬/蹄(ひづめ)；猿渡 宇希→猿/猴叫聲(うき)；舘島 虎徹→直條紋(たてじま)/虎；牛久 花和→牛/鼻環(はなわ)。
+|-
+|齊木楠雄的災難
+|斉木楠雄のΨ難
+|主角群
+|全名
+|rowspan="2" |超能力
+|主角的家人沒有用同方式命名
+|-
+|rowspan="2" |我的英雄學院
+|rowspan="2" |僕のヒーローアカデミア 
+|眾多角色
+|全名
+|
+|-
+|OFA繼承者
+|姓名
+|數字
+|
+|-
+|喜歡本大爺的竟然就妳一個？
+|俺を好きなのはお前だけかよ
+|女角群
+|全名
+|花
+|另外主角代表澆花器，還有代表太陽、水管的男性角色。
+|}
+
+== 參考 ==
+* [[御三家|三巨頭]]
+* [[四天王]]
+* [[四聖獸]]
+* [[四人組系列]]
+* [[五虎將]]
+* [[六賢者]]
+* [[七英雄]]
+* [[八大頭目]]
+* [[多人組合列表|十三太保]]
+
+== 參閱條目 ==
+* [[角色命名老梗]]
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+&lt;references /&gt;
+
+[[Category:俗名]]

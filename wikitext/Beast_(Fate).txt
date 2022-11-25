@@ -1,0 +1,92 @@
+{{h0| [[野獸先輩|Beast]]（獸/ビースト）}}
+
+{| class="wikitable" style="margin: 1.5em auto 1.5em auto;"
+|-
+{{stub row}}
+|}
+
+{| class="wikitable" style="margin： 1em auto 1em auto;"
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|[[Extra Class (Fate) | 特殊額外職階]]：Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner
+|}
+
+
+== 簡介 ==
+* 七大人類惡。因為人類的獸性而產生的七個災害。
+* 所謂的人類惡，正同字面描述就是人類的污點，對人類史產生威脅、甚至到達滅絕程度的七個災害。
+* 具體而言，就是在人類史不斷沉澱，隨着人類的發展而不斷壯大的存在，在人類社會內部不斷蠶食人類的癌細胞。
+
+* 因為文明而生卻蠶食文明的存在，阻礙靈長的時代，把人類至今構築的文明徹底毀滅的化身，而且是滅絕人類的惡。
+* 所以，人類的自作自受是最重要的因素。人類惡為人類的細胞凋亡（Apoptosis）&lt;ref&gt;第一部第四章第13節&lt;/ref&gt;，此自滅機制與用來對應的安全裝置正是英靈召喚的由來。&lt;ref&gt;第一部第七章第16節&lt;/ref&gt;
+
+* 並非由救世主取走源自人類身上的七宗罪，而是因為人類與人類之間的本性，持有智慧的生物因某種緣故而捨棄的東西。
+* 這是包括全人類在內沒有人能克服的惡，就如人類無法捨棄智慧一樣，人類無法捨棄惡。
+
+* 與對人類持有敵意的而打算消滅人類的復仇者，以及像[[茨木童子 (Fate)|茨木童子]]般非人生物不同。茨木童子、復仇者等只是企圖消滅局部人類的惡，而Beast則為消滅全部人類的惡。
+** 在第七特異點《[[絕對魔獸戰線 巴比倫尼亞]]》中，[[Gilgamesh (Fate)|吉爾伽美什]]曾明確指出人類惡並非「毀滅人類的惡」，而是'''「由人類毀滅的惡」'''。
+** 「以己生示惡，以己死築善」。只要人類還存在就會顯現而出，是人類必須跨越/打倒之物。
+
+* 這些消滅全部人類的惡。其本質並非從一開始對人類存有惡意，而是原本以守護人類為目的而產生。即是「人類愛」。
+
+* 祈望更美好未來的精神，把現今的安寧剝奪。實際上顯現的Beast們的思想（不論目的及手段），在其眼中均是慈愛與幸福滿溢。
+
+* 當然Beast並非是在靈基中存在、顯現的Servant能夠單獨匹敵的存在。
+
+* 每個Beast均持有「反OO」的技能，而且當一頭Beast出現時，其他的Beast均會因連鎖反應而接二連三地出現。
+
+* 有一些獸是擁有相對的概念存在。如陰與陽、左與右等
+** 例如Beast Ⅲ。而Beast Ⅵ根據亞瑟的體驗關劇情，似乎也有暗示同樣分為L「瘴氣」與R「殘香」的存在。
+** 根據某些同好的考據與分析，Beast的理念可能來源於猶太教中的「Qliphoth逆卡巴拉生命樹」&lt;ref&gt;[http://img1.imgtn.bdimg.com/it/u=1082351083,3374914762&amp;fm=26&amp;gp=0.jpg 參見此處]&lt;/ref&gt;，據此來說除了Ⅲ和Ⅵ外，Ⅴ也理應成對出現。
+
+* 而為了對抗這些災害，阿賴耶便產生了七名[[Grand Class (Fate)|冠位Servant]]召喚作為對應Beast的安全裝置
+** 根據Type-Moon的官方設定，要降伏一頭Beast需要'''七位冠位Servant'''才算穩妥。
+** 但換個說法就是「未被抑止力認定為完全的Beast」的話抑止力就不會派出冠位從者來阻止。
+*** 因此在FGO劇情上除了Beast I與Beast II以外登場的Beast都刻意壓抑在不完全體的狀態，而就算是I和II，也用了各種劇情殺來減少其威脅&lt;ref&gt;Beast I：{{censored|極天的流星雨，[[Fate/Grand_Order登場英靈一覽|{{censored|七特異點+活動登場英靈&amp;從者}}]]自願被召喚來暫時壓制Beast I的手足（魔神柱）好讓主角直接攻擊本體。本體也由於身為冠位從者的[[Solomon (Fate)|{{censored|所羅門王}}]]以放棄自己的一切為代價，使用第一寶具消除了他的不死之身。}}&lt;br&gt;Beast II：{{censored|由於本身的母愛，在劇中實際上只剩下一成威力；[[山中老人 (Fate)|{{censored|抑止力派來的冠位從者}}]]以冠位靈基為代價將不死的她強行加上了死亡的概念；拖進冥界後藉由在冥界擁有莫大權能的[[Ereshkigal (Fate)|{{censored|冥界女王}}]]給予大量支援，將她打回虛度空間。}}&lt;/ref&gt;&lt;s&gt;，不然玩家根本打不下去&lt;/s&gt;
+**** 也可能這緣故，在FGO劇中身為「完全的Beast」的Beast I與Beast II，均以「人類惡顯現」為標題。而不完全的Beast Ⅲ/L、Beast Ⅲ/R、愛玩之獸則分別以「人類惡氾濫」、「人類惡變生」、「人類惡蒐集」為標題。
+
+* 蓋亞不會干涉Beast的行為，屬於中立。只要不傷害星球自身的情况下，Beast可為所欲為，因為Beast也可能帶來讓星球更加美好的未來。
+** {{censored|其中的[[芙 (Fate)|{{censored|Beast IV}}]]更是由蓋亞創造的產物。}}
+** {{censored|但 [[Goetia (Fate)|{{censored|Beast I}}]]的「人理燒卻」、 [[Tiamat (Fate)|{{censored|Beast II}}]]的「改寫生態」、[[奧爾嘉瑪麗‧亞寧姆史菲亞|{{censored|Beast VII}}]]的「地球白紙化」卻是同時毀滅人類與星球的行為，因此遭到「蓋亞」與「阿賴耶」的共同干涉。}}
+
+* 職階技能有「獸的權能」、「單獨顯現」。
+** 容易被誤解的是，Beast職階其實僅是個資格，或者說是只要符合描述就算是該Beast了，並不是說Beast一定限定於誰才能當。
+*** &lt;s&gt;最基本的資格就是愛人類愛到足以對人類存亡造成威脅。&lt;/s&gt;
+** 另外關於「單獨顯現」是Beast專屬的技能，在《Fate/EXTELLA》的用語辭典中吉爾伽美什的詞條也提及“雖說只有職階〇〇〇〇〇才擁有能憑藉自身力量現界的技能，但因為是EXTRA世界所以勉勉強強能辦到”，但是從者[[兩儀式]]（Saber）、[[Merlin (Fate)|梅林]]、身上都有單獨顯現，兩儀式的FGOM詞條語焉不詳，只說了“持有這個技能就意味著——”；梅林的技能解說也是“原本只有特殊職階（Beast）才持有的技能，自己獲得了這個技能，並以此假裝作為從者被召喚”。
+**{{censored|有網友揣測在第七特異點《絕對魔獸戰線 巴比倫尼亞》，山中老人提到無謂的'''憐憫'''為惡，'''慚愧'''亦是一種惡。可能暗示未來將登場的慚愧之獸。}}
+
+== 列表 ==
+
+{| class="wikitable sortable" style="margin: 1em auto 1em auto; text-align:center;"
+|-
+! colspan="2"|名稱 !! 角色 !! 司掌之理 !!  技能 !! 虛偽的稱號 !!  圖標位置 !!  備註
+|-
+| colspan="2"|Beast Ⅰ || [[Goetia (Fate)|蓋提亞]] || 憐憫 || |&lt;div&gt;{{ruby|Nega|反}}&lt;br&gt;{{ruby|Summon|召喚}} ||{{censored|冠位}} || 左上 || 覺得他人可憐、同情他人的心情。極度利己主義的博愛。&lt;br&gt;{{censored|被人類所創造，能最有效率利用人類史的大災難。}}
+|-
+| colspan="2"|Beast Ⅱ || [[Tiamat (Fate)|迪亞馬特]] || 回歸 || &lt;div&gt;{{ruby|Nega|反}} &lt;br&gt;{{ruby|Genesis|創世紀}}||{{censored|創世女神}} || 右上 || 想要重新開始、回歸原初的心願。還原一切的願望。&lt;br&gt;{{censored|被人類拋棄，最受人類史拒絕的大災難。}}
+|-
+| rowspan="2"|Beast Ⅲ || R || [[殺生院祈荒|Beast Ⅲ/R]]&lt;br&gt;（狂喜 Rapture）|| rowspan="2"| 愛慾 || &lt;div&gt;{{ruby|Nega|反}}&lt;br&gt; {{ruby|Saver|救世主}}|| {{censored|快樂天}} || rowspan="2"| 右中 || 將所有愛意集中在自己身上，一切只為自己而活的心態，恰好與L相反。&lt;br&gt;{{censored|以個人能夠達成、用最直接的方式來拯救人類的大災難。}}
+|-
+| L || [[Kamadeva (Fate)|Beast Ⅲ/L]]&lt;br&gt;（{{ruby|堕落|&lt;s&gt;骯髒&lt;/s&gt;}} {{ruby|Lapse|&lt;s&gt;unko&lt;/s&gt;}}） ||&lt;div&gt;{{ruby|Nega|反}}&lt;br&gt; {{ruby|Desire|欲望}} || {{censored|愛之神}}|| 將所有慾望發散出去，一昧的滿足他人慾望的心態，恰好與R相反。&lt;br&gt;{{censored|神魔融合而成，以最大範圍拯救人類的大災難。}}&lt;br&gt;&lt;s&gt;[[野獸先輩|Beast]]（野獸的意味），而且[[成句/很了不起的大象先生吧？|大象先生]]長得相當[[:File:Marasama.jpg|雄偉]]&lt;/s&gt;
+|-
+| rowspan="2"|Beast Ⅳ || 本尊 || [[芙 (Fate)|凱茜帕魯格&lt;br/&gt;靈長類殺手]]||  比較 || 不明 ||  {{censored| &lt;s&gt;吉祥物&lt;/s&gt;}} || rowspan="2"| 不明 || 將自己與他人作比較的心理、永無止境的計量。虛榮心。
+|-
+| 候補 ||[[T·V·柯楊斯卡雅|愛玩之獸]]{{ref|「愛玩」另譯「玩賞」}} || [[收集]] || {{ruby|Nega|反}}&lt;br&gt; {{ruby|Weapon|武器}} || {{censored|武器大神}}  || 人類對工具的偏見。誤認爲工具即人類之延伸，使用工具即是暴力。&lt;ref&gt;建立文明正是人類與野獸的根本區別，愛玩之獸似乎打算放縱人性的野蠻面以對人類造成危害。&lt;/ref&gt;&lt;br&gt;{{censored|網羅「人類創造的殺傷性武器」，以進化成支配人類的「兵器女神」。}} 
+|-
+| colspan="2"|Beast Ⅴ || 不明|| 不明 || 不明 || 不明 || 不明 || 尚未出場
+|-
+| colspan="2"|Beast Ⅵ || 666啟示錄之獸&lt;ref&gt;登場於Fate/Prototype，原先在《蒼銀的碎片》連載時寫為第四之獸，後來單行本中修正為第六之獸。&lt;/ref&gt; || 不明 ||  {{ruby|Nega|反}}&lt;br&gt; {{ruby|Messiah|彌賽亞}} &lt;ref&gt;第六之獸持有反彌賽亞在FGOM其他獸的詞條中被提及，但是[[Arthur Pendragon (Fate/Prototype)|舊Saber]]追尋Beast時的台詞一直在暗示第六之獸也有L/R個體之分，而第三獸的L/R技能不同，因此不確定反彌賽亞的第六獸是否跟蒼銀的碎片為同一隻。&lt;/ref&gt; || 不明 || 不明 || 下落不明
+|-
+| colspan="2"|Beast Ⅶ || 終局之惡&lt;br&gt;{{censored|異星之神&lt;br&gt;&lt;s&gt;「地球國家元首」&lt;/s&gt;&lt;br&gt;U-[[奧爾嘉瑪麗‧亞寧姆史菲亞|{{censored|奧爾嘉瑪麗}}]]}}&lt;br&gt;&lt;s&gt;[[成句/不要停下來啊|{{censored|團長}}]]&lt;/s&gt; || &lt;s&gt;遜砲&lt;/s&gt;&lt;br&gt;不明|| 不明 || 不明 || 不明 ||{{censored|&lt;s&gt;令泛人類史瞬間失笑的大災難&lt;/s&gt;}}
+|-
+|}
+
+== 留言 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+&lt;references /&gt;
+[[分類:TYPE-MOON]]
+[[分類:Fate系列]]
+[[分類:Beast (Fate)|*]]

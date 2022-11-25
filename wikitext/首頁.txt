@@ -1,0 +1,67 @@
+{{h0|歡迎光臨KomicaWiki}}
+
+{| class="wikitable" style="margin:1.5em auto 0.2em auto; text-align:center;"
+|-
+|{{size|20|認真地解說‧認真地惡搞}}
+|}
+[[File:Wikigirl.png|450px|center|Komica Wiki版娘|link=Komica Wiki版娘]]
+{| class="wikitable" style="margin:0.2em auto 1.5em auto;text-align:center"
+|-
+|{{size|20|各條目歡迎[[Special:RecentChanges|編修]]。但'''請勿過度抄襲或創建條目後便放置Play'''&lt;br&gt;留言可用[[#快速留言|頁尾留言表單]]或[[{{TALKPAGENAME}}|討論頁]]}}
+|-
+|聯絡管理員可至[[Komica wiki:貓管理部KomicaWiki分部|'''wiki內的事務討論頁''']]或'''[https://2cat.komica.org/0d/read.php/1546850543/ 貓管討論串]'''
+|-
+|與其他使用者討論可至[https://discord.gg/rmfzTff Discord群組]&lt;!--新設的[https://secilia.zawarudo.org/kwiki/index.html 專用討論版]--&gt;
+|}
+__NOTOC__
+
+==一般資訊==
+*這是一個提供2cat/[[Komica]]居民使用的[[KomicaWiki|開放書寫空間]]，歡迎自由編輯各條目。😊
+*所有頁面右上角都有搜尋功能，亦可使用[[特殊:搜尋]]頁面。
+*沒有找到您要的條目？您可以自行建立，或將它加到[[最希望建立的條目投票]]，等待其他人來建立。
+**[[範例用新條目]]可做為語法應用的參考。單純做語法測試時，請至[[Komica wiki:Sandbox|沙盒]]。
+*不熟悉書寫的語法？建議您可以匯入工具格式或其他已建立的條目，做為新條目撰寫的雛形。
+*追蹤[[特殊:近期變動|條目的變動]]與[[:Category:需要擴充的條目|需要擴充的條目]]，這些條目可能需要您的協力來完成，也可先參考[[Komica wiki:條目存廢|條目存廢]]或[[Komica wiki:擁有母子條目關係的條目列表|擁有母子條目關係的條目列表]]，是否有已建立之相關條目。
+*現可利用[https://2cat.komica.org/0d/read.php/1546850543/ 貓管討論串]通報惡意破壞、申請誤鎖解除、討論wiki條目編輯，或利用管理員專用信箱 [mailto:admin@komica.org admin@komica.org] 聯絡。
+&lt;!--* 想要跟其他使用者討論wiki條目的編寫和管理？歡迎到[https://secilia.zawarudo.org/kwiki/index.html 專用討論版]發表意見。--&gt;
+===條目相關===
+*{{size|20|{{color|red|white|由於網站空間有限，若空間吃緊時有高機率造成'''全站'''無法編輯狀況（而非Puki時代單一條目超過容量限制，使該條目無法編輯之狀況），且一旦發生故障wiki管理員亦只能尋找1883協助，難以確保在短期恢復服務}}}}，故請島民特別注意：
+**欲建立條目/編輯內容/上傳圖片時請三思「相關內容是否真的需即時更新」，並留意相關的內容是否「適合或只能記載在這裡」「在自身其他條目裡有類似甚至重複的內容或吐槽」「容量大小適中、其上傳有必要性」。
+**{{color|red|white|尤其每次編輯行為都會進行紀錄，這些記錄也會使用到空間，編輯時請盡可能謹慎並減少多次編輯的情況。}}
+**隨時做好備份措施。
+*關於投票系統
+**此功能原為Puki時代之島民文化，但現隨時間過去&lt;s&gt;、梗選項的式微&lt;/s&gt;而幾乎無人利用，加上'''投票行為視同編輯，其資料管理亦會使用空間'''，故請島民特別注意：
+**新設的條目/本來未設置投票的條目請不要再/補建立投票，即便該系列條目有此慣例。
+**{{size|18|{{color|red|white|舊有的投票方面，此處也強烈建議：停止增加投票選項與使用投票功能（不要再增加票數）。}}}}
+*頁面名稱尾端的完整半形括號，如果與前面文字空一格，表示括號內為區別或辨認用的加註，例如[[一米六 (身高)]]；如果緊鄰前面文字，表示括號與內容皆為名稱的一部份，例如[[主人公(笑)]]。
+** 無論是何種狀況，作為頁面名稱的半形括號不容隨意修改成全形（無論作為條目名或在內文中使用連結），否則會造成引用到該條目的連結錯亂失效。以下'''保留一錯誤連結'''做舉例：&lt;br&gt;使用半形括號的條目[[一米六 (身高)]]若在被引用為內文時被改為全形括號，會因為被視為完全不同的條目而產生失效連結[[一米六 （身高）]]；若是條目名本身的括號被修改，更會造成所有連向該條目的連結失效。
+** 在網路文化上必須用半形括號表示內文的部份（例如AA圖或表情符號）、本來就只能以半形括號表示的編輯語法同理。
+*各頁設有快速留言表單於頁尾，亦可直接進入討論頁（頁面左上方的「討論」），針對條目提出編輯提議&lt;s&gt;或吐槽&lt;/s&gt;。
+**'''警告：請勿留下無意義的留言。那些留言只會被視為一次耗用空間的編輯紀錄；若該留言為破壞行為，更會令管理員為反破壞進行的回退措施加速空間資源消耗。'''
+*一般文章或留言等欲使用連續3個及以上半形「~」時，請使用HTML碼{{code|&amp;#38;#126;}}，用標籤包裹的{{code|&lt;nowiki&gt;&amp;lt;nowiki&gt;~&amp;lt;/nowiki&gt;&lt;/nowiki&gt;}}，或模板{{code|{{tl|~}}}}，以免錯誤插入簽名或時間戳記。
+*條目內文、模板文字、說明文件等重要內容，非必要請勿使用簡體中文，應盡可能改為正體中文。
+**討論頁（留言區）與[[Special:MyPage|使用者個人頁面]]，可通融簡體字的使用。
+*上傳圖片附檔，請用[[特殊:上傳]]，並以&lt;nowiki&gt;[[檔案:&lt;圖片檔名&gt;]]&lt;/nowiki&gt;插入。
+*建立維基百科或Wikia的連結請以MediaWiki的跨wiki連結語法建立：
+**維基百科連結語法：{{t|wp|維基百科標題|顯示標題|lang{{=}}語種(選填，預設中文)}}。
+**Wikia連結語法：&lt;nowiki&gt;[[wikia:w:c:(網址代碼):(對應英文條目名稱)|敘述文字]]&lt;/nowiki&gt;（英文版）或是&lt;nowiki&gt;[[wikia:w:c:(語言代碼).(網址代碼):(對應條目名稱)|敘述文字]]&lt;/nowiki&gt;（非英文版）；或使用{{t|wikia|wiki名稱|頁面標題|連結文字|lang=語言種類}}。
+
+==重要事項==
+*因硬體資源有限，暫時關閉搜尋功能，請以在wiki網址後加上條目名稱的方式來建立新條目，像這樣：&lt;span style="text-decoration:underline"&gt;wiki.komica.org/條目名稱&lt;/span&gt;。
+**如果想建立的新頁面名稱正常卻被阻擋，同樣可在[[Komica wiki:最希望建立的條目投票|最希望建立的條目投票]]留言並附註理由，讓管理員親自為您建立。&lt;!--
+*&lt;font size=3&gt;{{color|orange||搬移升級至MediaWiki的作業已大致完成，但部份較早搬移的條目可能存在回應部份遭捨棄的狀況，發現回應流失時可至[https://wiki.komica.org/wiki5/?FrontPage 已唯讀之舊址]尋找該頁並取回原始內容。(2017/10/20)&lt;br&gt;如有關於條目分類以及相關插件的意見可以到[https://2cat.komica.org/0d/read.php/1546850543/ 相關討論串]進行討論。(2017/5/18)}}&lt;/font&gt;
+**關於搬移過程所需的轉換方法，可參考'''&lt;u&gt;[[Help:Pukiwiki-Mediawiki轉換教學|Pukiwiki-Mediawiki轉換教學]]&lt;/u&gt;'''
+**{{size|16|{{color|#d07000||'''Notepad++用'''與'''瀏覽器用'''轉換器最終更新日為2017年7月19日，版本0.5.5，為求語法轉換更準確，請有需要的人進入轉換教學頁下載}}}}--&gt;
+*'''MediaWiki反破壞能力極強'''，勸破壞者勿白費心機！
+
+== MediaWiki 介紹 ==
+*[https://zh.wikipedia.org/wiki/MediaWiki MediaWiki 介紹]
+== 入門 ==
+* [https://www.mediawiki.org/wiki/Manual:Configuration_settings MediaWiki 配置設定清單]
+* [https://www.mediawiki.org/wiki/Manual:FAQ MediaWiki 常見問題解答]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki 發佈郵件清單]
+== 快速留言 ==
+{{pcomment|section=1}}
+&lt;!--==備註==
+&lt;references/&gt;--&gt;
+[[Category:Wiki事務]]

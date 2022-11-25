@@ -1,0 +1,4915 @@
+{{h0|[[Fate/Grand Order]]登場從者一覽}}
+==解說==
+*因為本作的角色越來越多，故將英靈/從者的條目分離出來。
+** 也有不具英靈/從者資格的其他登場人物。
+== 實裝從者 ==
+{| class="wikitable sortable" width="100%"
+|-
+! scope="col" width="4%"| 編號
+! scope="col" width="15%"| 真名
+! scope="col" width="7%"| 職階
+! scope="col" width="3%"| 屬性
+! scope="col" width="14%"| 初登場作品
+! scope="col" width="7%"| 繪師
+! scope="col" width="6%"| CV
+! scope="col" width="7%"| 角色設定
+! scope="col" width="42%"| 備註
+|-
+! 001
+| [[瑪修‧基利艾拉特|瑪修．基利艾拉特]]
+| Shielder
+| rowspan=2|地
+| 
+| rowspan=4|武內崇
+| [[種田梨沙]]↓&lt;br /&gt;[[高橋李依]]
+| rowspan=5|奈須きのこ
+| 本作女主角，獲得某從者{{Censored|圓桌騎士加拉哈德}}的力量成為半Servant。&lt;br /&gt;由於種田因病休養，擔當聲優換成高橋李依。
+|-
+! 002
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢]]
+| [[Saber (Fate)|Saber]]
+| Fate/Stay Night
+| rowspan=3|[[川澄綾子]]
+| 
+|-
+! 003
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢〔Alter〕]]
+| Saber
+| 人
+| Fate/Stay Night（HF線）
+| 
+|-
+! 004
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢〔Lily〕]]
+| Saber
+| 地
+| Fate/unlimited codes
+| 事前登錄送贈的從者。限定活動「Saber Wars ～Lily的宇宙武者修行～」贈送角色。後進入友情召喚卡池
+|-
+! 005
+| [[Nerō Claudius (Fate)|尼祿．克勞迪烏斯]]
+| Saber
+| 人
+| Fate/EXTRA
+| ワダアルコ
+| [[丹下櫻]]
+| 
+|-
+! 006
+| [[Siegfried (Fate)|齊格飛]]
+| Saber
+| 地
+| Fate/Apocrypha
+| 近衛乙嗣
+| [[諏訪部順一]]
+| 奈須きのこ&lt;br /&gt;東出祐一郎
+| &lt;s&gt;すまない……&lt;/s&gt;
+|-
+! 007
+| [[Gaius Julius Caesar (Fate)|蓋烏斯．尤利烏斯．凱撒]]
+| Saber
+| rowspan=5|人
+| 
+| しまどりる
+| [[置鮎龍太郎]]
+| rowspan=2|桜井光
+| 羅馬'''共和國'''五任執政官、獨裁官與終身獨裁官，被視為羅馬'''帝國'''&lt;ref&gt;上下粗體字是羅馬三個不同的時期，依先後為古羅馬→共和國→帝國。&lt;/ref&gt;的奠基者&lt;ref&gt;他的其中一名養子即為屋大維，羅馬帝國首任皇帝。&lt;/ref&gt;。&lt;br /&gt;&lt;s&gt;這麼勇武的人物變成了胖子怎樣也想不通啊……&lt;/s&gt;
+|-
+! 008
+| [[Altera (Fate)|阿蒂拉]]
+| Saber
+| Fate/EXTELLA&lt;ref&gt;雖然是在FGO初次登場，但最初其實是作為Fate/EXTELLA的主角而設計，只是FGO較早推出所以反而變成FGO第一次登場。&lt;/ref&gt;
+| huke
+| [[能登麻美子]]
+| 匈人王。[https://www.youtube.com/watch?v=xCjMABqWdEM TVCM]登場英靈之一。&lt;br /&gt;&lt;s&gt;哪有這種拿七彩棒當劍的Saber。破壞的能登。&lt;/s&gt;
+|-
+! 009
+| [[Gilles de Rais (Fate)|吉爾．德．萊斯]]
+| Saber
+| Fate/Zero 特典動畫&lt;br /&gt;愛因茲貝倫相談室&lt;br /&gt;Fate/Apocrypha
+| 真じろう
+| [[鶴岡聰]]
+| 奈須きのこ
+| 未成為殺人鬼的時期。&lt;br /&gt;&lt;s&gt;但也不遠矣……倉管俱樂部的一員。&lt;/s&gt;
+|-
+! 010
+| [[Chevalier D'Eon (Fate)|騎士德翁]]
+| Saber
+| 
+| 森山大輔
+| [[齋藤千和]]
+| 桜井光
+| 本名夏爾·德·博蒙，騎士德翁是其稱號。&lt;br /&gt;法國大革命前夕有名的性別不明間諜，在FGO中的自我性別認同是男性（史實上的生理性別也是男性）。
+|-
+! 011
+| [[Emiya (Fate/stay night)|衛宮(Emiya)]]
+| [[Archer (Fate)|Archer]]
+| rowspan="2"|Fate/Stay Night
+| rowspan=2|武內崇
+| [[諏訪部順一]]
+| rowspan="3"|奈須きのこ
+| GO中視劇情需要，有時是衛宮、有時是無銘。
+|-
+! 012
+| [[Gilgamesh (Fate)|吉爾伽美什]]
+| Archer
+| 天
+| [[關智一]]
+| &lt;s&gt;英雄王大發慈悲送從者還不謝過！？&lt;/s&gt;&lt;ref&gt;300萬下載活動送4星從者一隻，但只計初期實裝的常駐四星，不含故事四星在內。&lt;/ref&gt;
+|-
+! 013
+| [[Robin Hood (Fate)|羅賓漢]]
+| Archer
+| 人
+| Fate/EXTRA
+| ワダアルコ
+| [[鳥海浩輔]]
+| &lt;s&gt;ハロー！アロー！森で会おう！&lt;/s&gt;
+|-
+! 014
+| [[Atalanta (Fate)|阿塔蘭塔]]
+| Archer
+| 地
+| Fate/Apocrypha
+| 輪くすさが
+| [[早見沙織]]
+| 東出祐一郎&lt;br/&gt;茗荷屋甚六
+| 
+|-
+! 015
+| [[Euryale (Fate)|尤瑞艾莉]]
+| Archer
+| 天
+| Fate/hollow ataraxia
+| AKIRA
+| [[淺川悠]]
+| 桜井光&lt;br/&gt;奈須きのこ
+| 美杜莎的二姊。
+|-
+! 016
+| [[Arash (Fate)|阿拉什]]
+| Archer
+| 地
+| Fate/Prototype 蒼銀的碎片
+| BLACK
+| [[鶴岡聰]]
+| 桜井光
+| 伊朗神弓手。&lt;br /&gt;&lt;s&gt;某種意義上的人氣王。&lt;/s&gt;
+|-
+! 017
+| [[Cú Chulainn (Fate/stay night)|庫．夫林]]
+| [[Lancer (Fate)|Lancer]]
+| 天
+| Fate/Stay Night
+| 武內崇
+| [[神奈延年]]
+| rowspan="2"|奈須きのこ
+| 
+|-
+! 018
+| [[Báthory Erzsébet (Fate)|伊莉莎白．巴托里]]
+| Lancer
+| rowspan=2|人
+| Fate/EXTRA CCC
+| ワダアルコ
+| [[大久保瑠美]]
+| 
+|-
+! 019
+| [[武蔵坊弁慶 (Fate)|武藏坊弁慶]]
+| Lancer
+| Fate/Apocrypha（廢案）
+| 真じろう
+| [[稻田徹]]
+| 東出祐一郎&lt;br/&gt;茗荷屋甚六
+| &lt;s&gt;設定強度與系統強度差最多的角色。&lt;/s&gt;&lt;br /&gt;&lt;s&gt;アニキ！ムキムキ！仁王立ち！&lt;/s&gt;
+|-
+! 020
+| [[Cú Chulainn (Fate/Prototype)|庫．夫林〔Prototype〕]]
+| Lancer
+| 天
+| Fate/Prototype
+| 中原
+| [[中井和哉]]
+| 奈須きのこ&lt;br/&gt;桜井光
+| 為Fate/stay night中庫夫林的青年時代。
+|-
+! 021
+| [[Leonidas I (Fate)|列奧尼達一世]]
+| Lancer
+| 人
+| &lt;s&gt;300壯士：斯巴達的逆襲&lt;/s&gt;
+| 縞うどん
+| [[三木真一郎]]
+| 東出祐一郎
+| 即&lt;s&gt;[[成句/這就是斯巴達！|狂吼一聲]]踹死波斯使者，然後&lt;/s&gt;率領[[斯巴達]]部隊在溫泉關死守波斯大軍的那位國王。
+|-
+! 022
+| [[Romulus (Fate)|羅慕路斯]]
+| Lancer
+| 星
+| 
+| こやまひろかず
+| [[置鮎龍太郎]]
+| 桜井光
+| 傳說的'''古'''羅馬建城之人&lt;s&gt;兼體操選手、本作真吉祥物，在全世界玩家中的人氣都超高&lt;/s&gt;。&lt;br /&gt;'''ローマ！！！！！！！'''
+|-
+! 023
+| [[Medusa (Fate)|美杜莎]]
+| [[Rider (Fate)|Rider]]
+| 地
+| Fate/Stay Night
+| 武內祟
+| [[淺川悠]]
+| 奈須きのこ
+| 
+|-
+! 024
+| [[Georgius (Fate)|聖喬治]]
+| Rider
+| rowspan=7|人
+| Fate/Apocrypha（廢案）
+| 中央東口
+| [[西前忠久]]
+| 東出祐一郎&lt;br /&gt;三輪清宗
+| &lt;s&gt;冤罪&lt;/s&gt;屠龍的聖人。
+|-
+! 025
+| [[Edward Teach (Fate)|愛德華．蒂奇]]
+| Rider
+| 
+| Bすけ
+| [[西前忠久]]
+| 東出祐一郎
+| 海盜黑鬍子&lt;s&gt;，但在FGO中過度沾染現代文化而徹底變成詭異宅大叔&lt;/s&gt;。
+|-
+! 026
+| [[Boudica (Fate)|布狄卡]]
+| Rider
+| 
+| 蒼月タカオ
+| [[齋藤千和]]
+| 桜井光
+| 率領古代英格蘭人反抗羅馬的女王，在遊戲中擁有&lt;s&gt;很雞肋的&lt;/s&gt;對羅馬特攻技能。&lt;br /&gt;第二章的過關獎勵&lt;s&gt;倉管俱樂部的一員&lt;/s&gt;。
+|-
+! 027
+| [[牛若丸 (Fate)|牛若丸]]
+| Rider
+| 
+| 坂本みねぢ
+| [[早見沙織]]
+| 奈須きのこ&lt;br/&gt;東出祐一郎
+| 名字是源義經的幼名。&lt;br/&gt;[https://www.youtube.com/watch?v=8fataZFCI8w TVCM]登場英靈之一。
+|-
+! 028
+| [[Alexander the Great (Fate)|亞歷山大]]
+| Rider
+| 
+| BUNBUN
+| [[坂本真綾]]
+| rowspan="3"|桜井光
+| 伊斯坎達爾的少年模樣。&lt;br/&gt;&lt;s&gt;從一個秀色可餐的美少年變成魁武的肌肉巨漢，這中間到底發生甚麼事了？！&lt;/s&gt;
+|-
+! 029
+| [[Marie Antoinette (Fate)|瑪莉．安東尼]]
+| Rider
+| &lt;s&gt;凡爾賽玫瑰&lt;/s&gt;
+| ギンカ
+| [[種田梨沙]]
+| 就是傳說中說「為什麼不吃蛋糕？」的那個法國王后&lt;ref&gt;孩子們記緊了，這是'''謠言'''。&lt;/ref&gt;&lt;br/&gt;&lt;s&gt;在第一章故事洗白程度極高，看客接受與否就……&lt;/s&gt;。
+|-
+! 030
+| [[Martha (Fate)|瑪爾大]]
+| Rider
+| 
+| 坂本みねぢ
+| [[早見沙織]]
+| 基督教翻譯為馬大，就是新約聖經中，耶穌的好友馬大。伯大尼的馬利亞與拉薩路的姐姐。&lt;br /&gt;在聖經同人本 《黃金傳奇》中曾經在法國特拉松擊敗並且馴服一隻龍。
+|-
+! 031
+| [[Medea (Fate)|美狄亞]]
+| [[Caster (Fate)|Caster]]
+| 地
+| Fate/Stay Night
+| ネコタワワ
+| [[田中敦子]]
+| 奈須きのこ
+| 
+|-
+! 032
+| [[Gilles de Rais (Fate)|吉爾．德．萊斯]]
+| Caster
+| rowspan=3|人
+| Fate/Zero
+| Azusa
+| [[鶴岡聰]]
+| 東出祐一郎&lt;br /&gt;虛淵玄
+| &lt;s&gt;給他一個聖杯，他就能創造出一個傲嬌抖M，元帥果然是天才。&lt;/s&gt;
+|-
+! 033
+| [[Hans Christian Andersen (Fate)|漢斯．克里斯蒂安．安徒生]]
+| Caster
+| Fate/EXTRA CCC
+| ワダアルコ
+| [[子安武人]]
+| 奈須きのこ
+| &lt;s&gt;FGOの話をしよう……&lt;/s&gt;&lt;ref&gt;捏他CCC的劇情介紹。&lt;/ref&gt;
+|-
+! 034
+| [[William Shakespeare (Fate)|威廉．莎士比亞]]
+| Caster
+| Fate/Apocrypha
+| 近衛乙嗣
+| [[稻田徹]]
+| 東出祐一郎&lt;br /&gt;賀東招二
+| &lt;s&gt;寶具的用法絕對搞錯了吧。&lt;/s&gt;&lt;s&gt;きっと、ロミオとジュリエット&lt;/s&gt;
+|-
+! 035
+| [[Mephistopheles (Fate)|梅菲斯特費勒斯]]
+| Caster
+| 地
+| 
+| 近衛乙嗣
+| [[子安武人]]
+| 東出祐一郎
+| [https://www.youtube.com/watch?v=ZpW4UpqMcJ0 TVCM]登場英靈之一。浮士德傳說中誘惑浮士德墮落的惡魔。&lt;s&gt;[[角色/キュゥべえ|丘比]]的[[起源]]。&lt;/s&gt;
+|-
+! 036
+| [[Wolfgang Amadeus Mozart (Fate)|沃夫岡．阿瑪迪斯．莫札特]]
+| Caster
+| 星
+| &lt;s&gt;阿瑪迪斯&lt;/s&gt;
+| PFALZ
+| [[關智一]]
+| 奈須きのこ&lt;br /&gt;桜井光
+| 歐洲著名作曲家。&lt;br /&gt;幼年時曾與大他一歲的瑪莉．安東尼有一面之緣，莫札特到宮中演奏時滑倒，瑪莉好心扶起他所以表示以後要娶她為妻。
+|-
+! 037
+| [[維瓦‧維爾維特|諸葛孔明〔埃爾梅羅II世〕]]
+| Caster
+| 人
+| Fate/Stay Night Compact Material
+| 武内崇
+| [[浪川大輔]]
+| 東出祐一郎
+| 本作中被三國時代的軍師[[孔明|諸葛孔明]]附身而成為擬似Servant的埃爾梅羅二世。&lt;br /&gt;孔明將主導權交給二世，&lt;s&gt;所以角色設計才會這麼隨便，堪稱是本作最沒誠意的新角色。&lt;/s&gt;&lt;br /&gt;但在系統上是本作中最實用的Servant之一。
+|-
+! 038
+| [[Cú Chulainn (Fate/stay night)|庫．夫林]]
+| Caster
+| 天
+| 
+| rowspan="2"|また
+| [[神奈延年]]
+| 桜井光
+| 序章過關獎勵。
+|-
+! 039
+| [[Assassin (Fate/stay night)|佐佐木小次郎]]
+| [[Assassin (Fate)|Assassin]]
+| rowspan=2|人
+| Fate/Stay Night
+| [[三木真一郎]]
+| rowspan="2"|奈須きのこ
+| &lt;s&gt;傳說的屠龍者。&lt;/s&gt;&lt;ref&gt;因為遊戲中職階互剋設定的關係，雖然稀有度不高，但在第一章對付階級為Rider的飛龍們卻意外的有用，寶具連邪龍都打掉半血以上。&lt;s&gt;齊格飛淚目。&lt;/s&gt;&lt;/ref&gt;
+|-
+! 040
+| [[Hassan-i Sabbah (Fate・咒腕)|咒腕的哈桑]]
+| Assassin
+| Fate/Stay Night
+| タスクオーナ
+| [[稻田徹]]
+| 即F/SN的真Assassin，咒腕的別名到F/GO才定下來。
+|-
+! 041
+| [[Stheno (Fate)|絲忒諾]]
+| Assassin
+| 天
+| Fate/hollow ataraxia
+| AKIRA
+| [[淺川悠]]
+| 桜井光&lt;br /&gt;奈須きのこ
+| 美杜莎的大姊。
+|-
+! 042
+| [[荊軻 (Fate)|荊軻]]
+| Assassin
+| rowspan=2|人
+|
+| 高橋慶太郎
+| [[田中敦子]]
+| rowspan=2|東出祐一郎
+| TM世界為女性。
+|-
+! 043
+| [[Charles-Henri Sanson (Fate)|夏爾＝亨利．桑松]]
+| Assassin
+| 
+| しまどりる
+| [[宮野真守]]
+| 法國處刑人，曾處刑包括路易十六和瑪莉．安東尼王后等王室人物。
+|-
+! 044
+| [[Phantom of the Opera (Fate)|歌劇魅影]]
+| Assassin
+| 地
+|
+| 縞うどん
+| [[置鮎龍太郎]]
+| 桜井光
+|
+|-
+! 045
+| [[Mata Hari (Fate)|瑪塔．哈里]]
+| Assassin
+| 人
+|
+| こやまひろかず
+| [[種田梨沙]]
+| rowspan=2|東出祐一郎
+| 荷蘭著名間諜。
+|-
+! 046
+| [[Carmilla (Fate)|卡米拉]]
+| Assassin
+| 地
+| 
+| okojo
+| [[田中敦子]]
+| 女吸血鬼的鼻祖，亦是未來的伊莉莎白．巴托里&lt;s&gt;BBA。&lt;/s&gt;
+|-
+! 047
+| [[Hēraklēs (Fate)|赫拉克勒斯]]
+| [[Berserker (Fate)|Berserker]]
+| 天
+| Fate/Stay Night
+| Azusa
+| [[西前忠久]]
+| rowspan=3|奈須きのこ
+| &lt;s&gt;新手4星首抽最大獎，但要練起來也頗費心力。&lt;/s&gt;
+|-
+! 048
+| [[Sir Lancelot du Lac (Fate)|蘭斯洛特]]
+| Berserker
+| 地
+| Fate/Zero
+| こやまひろかず
+| [[置鮎龍太郎]]
+|
+|-
+! 049
+| [[呂布奉先 (Fate)|呂布奉先]]
+| Berserker
+| rowspan=3|人
+| Fate/EXTRA
+| ワダアルコ
+| [[安井邦彥]]
+|
+|-
+! 050
+| [[Spartacus (Fate)|斯巴達克斯]]
+| Berserker
+| Fate/Apocrypha
+| 近衛乙嗣
+| [[鶴岡聰]]
+| 東出祐一郎&lt;br /&gt;虛淵玄
+|
+|-
+! 051
+| [[坂田金時 (Fate)|坂田金時]]
+| Berserker
+| Fate/Apocrypha（廢案）
+| 本庄雷太
+| [[遊佐浩二]]
+| 桜井光&lt;br /&gt;鋼屋ジン
+|
+|-
+! 052
+| [[Vlad al III-lea (Fate/Apocrypha)|弗拉德三世]]
+| Berserker
+| rowspan=2|地
+| Fate/Apocrypha
+| 前田浩孝
+| [[置鮎龍太郎]]
+| 東出祐一郎&lt;br /&gt;虛淵玄
+| AP版穿刺公，在初登場的小說是作為Lancer被召喚。
+|-
+! 053
+| [[Asterius (Fate)|阿斯忒里翁]]
+| Berserker
+|
+| しまどりる
+| [[鳥海浩輔]]
+| 東出祐一郎
+| 即希臘神話中的牛頭人彌諾陶洛斯。
+|-
+! 054
+| [[Caligula (Fate)|卡里古拉]]
+| Berserker
+| rowspan=2|人
+| 
+| BLACK
+| [[鶴岡聰]]
+| rowspan=2|桜井光
+| 羅馬暴君，TM世界中尼祿稱他叔父（日文叔叔和舅舅都叫叔父）&lt;ref&gt;史實為甥舅（尼祿的母親小阿格里皮娜是他妹妹）。&lt;/ref&gt;&lt;s&gt;妹控&lt;ref&gt;因自己最愛的妹妹德魯西拉病死而性情變得殘暴。&lt;/ref&gt;（無誤）。&lt;/s&gt;
+|-
+! 055
+| [[Darius III (Fate)|大流士三世]]
+| Berserker
+| Fate/Zero（漫畫）
+| PFALZ
+| [[安井邦彥]]
+| 波斯阿契美尼德王朝的最後一位國王，伊斯坎達爾的死敵。&lt;br /&gt;[https://www.youtube.com/watch?v=HR1h2UG-xEE TVCM]登場英靈之一。
+|-
+! 056
+| [[清姬 (Fate)|清姬]]
+| Berserker
+| 地
+|
+| BLACK
+| [[種田梨沙]]
+| rowspan=2|東出祐一郎
+| 道成寺傳說的女主角，在被僧人安珍背叛後化身為蛇將對方燒死。&lt;br /&gt;在英靈界中，是[[玉藻前 (Fate)|玉藻前]]的筆友之一。第一章過關獎勵。
+|-
+! 057
+| [[Eric Bloodaxe (Fate)|血斧埃里克]]
+| Berserker
+| 人
+|
+| 蒼月タカオ
+| [[安井邦彥]]
+| 挪威國王。&lt;s&gt;GO中爹不疼娘不愛的代表。&lt;/s&gt;
+|-
+! 058
+| [[玉藻前 (Fate)|玉藻貓]]
+| Berserker
+| 地
+| Fate/EXTRA material
+| ワダアルコ
+| [[齋藤千和]]
+| 奈須きのこ
+| 玉藻前的分身。{{Censored|TAMAMO 9的一員。}}
+|-
+! 059
+| [[Jeanne d'Arc (Fate)|貞德]]
+| Ruler
+| 星
+| Fate/Apocrypha
+| 武內崇
+| [[坂本真綾]]
+| 奈須きのこ&lt;br /&gt;東出祐一郎
+| 開服初期是所有玩家夢寐以求的唯一神，但不久後因環境丕變，無法適應而淪為倉管。&lt;br /&gt;&lt;s&gt;在2017年5月底的幕間2實裝前曾是倉管俱樂部主席，終章應援團團長。&lt;/s&gt;&lt;br/&gt;幕間2實裝後脫離倉管&lt;s&gt;，變成藍卡大猩猩了&lt;/s&gt;。&lt;br/&gt;&lt;s&gt;我們中出了一個叛徒。&lt;/s&gt;
+|-
+! rowspan=2|060
+| [[Orion (Fate)|俄里翁]]
+| rowspan=2|Archer
+| rowspan=2|天
+| rowspan=2|
+| rowspan=2|I-Ⅳ
+| [[神奈延年]]
+| rowspan=2|東出祐一郎
+| 外型是一頭熊。&lt;s&gt;本作吉祥物之一。&lt;/s&gt;
+|-
+| [[Orion (Fate)|阿爾忒彌斯]]
+| [[澤城美雪]]
+| 希臘的狩獵與月之女神。
+|-
+! 061
+| [[Báthory Erzsébet (Fate)|伊莉莎白．巴托里〔萬聖節〕]]
+| Caster
+| 人
+|
+| rowspan=2|ワダアルコ
+| [[大久保瑠美]]
+| rowspan=2|奈須きのこ
+| 萬聖節活動「歌唱南瓜城的冒險～瘋狂派對～」贈送角色。&lt;br /&gt;&lt;s&gt;型月親女兒，總不會按著這勢頭連劍、弓和騎都當上去吧？&lt;/s&gt;&lt;br /&gt;&lt;s&gt;結果還真的在隔年萬聖節活動成為劍兵了。&lt;/s&gt;
+|-
+! 062
+| [[玉藻前 (Fate)|玉藻前]]
+| Caster
+| rowspan=2|天
+| Fate/EXTRA
+| [[齋藤千和]]
+|
+|-
+! 063
+| [[David (Fate)|大衛]]
+| Archer
+| Fate/Apocrypha（廢案）
+| ギンカ
+| [[中村悠一]]
+| 星空めてお&lt;br /&gt;東出祐一郎&lt;br /&gt;桜井光
+| 第三章過關獎勵。
+|-
+! 064
+| [[Hector (Fate)|赫克特]]
+| Lancer
+| 人
+|
+| BLACK
+| [[安井邦彥]]
+| 東出祐一郎
+| 特洛伊的王子，最後敗死在阿基里斯手下。&lt;br /&gt;&lt;s&gt;俺☆ヘクトール。&lt;/s&gt;&lt;br /&gt;&lt;s&gt;症例「座骨神經痛」。&lt;/s&gt;
+|-
+! 065
+| [[Francis Drake (Fate)|弗朗西斯．德雷克]]
+| Rider
+| 星
+| Fate/EXTRA
+| ワダアルコ
+| [[高乃麗]]
+| 奈須きのこ
+| 第一名活著環球航行的航海家，第三特異點「嵐の航海者」的重要角色。
+|-
+! rowspan=2|066
+| [[Anne Bonny &amp; Mary Read (Fate)|安妮．伯妮]]
+| rowspan=2|Rider
+| rowspan=2|人
+| rowspan=2|
+| rowspan=2|I-Ⅳ
+| [[川澄綾子]]
+| rowspan=3|東出祐一郎
+| rowspan=2|英國女海盜二人拍檔，系統設定上兩人是一組共同行動的從者。
+|-
+| [[Anne Bonny &amp; Mary Read (Fate)|瑪莉．瑞德]]
+| rowspan=2|[[野中藍]]
+|-
+! 067
+| [[Medea (Fate)|美狄亞〔Lily〕]]
+| Caster
+| 地
+| Fate/Stay Night（廢案）
+| こやまひろかず
+| 相當於14歲時的美狄亞。
+|-
+! 068
+| [[沖田総司 (Fate)|沖田總司]]
+| Saber
+| rowspan=2|人
+| rowspan=2|琥珀ACE EX&lt;br /&gt;Fate/KOHA-ACE 帝都聖杯奇譚
+| 武內祟
+| [[悠木碧]]
+| rowspan=2|経験値
+| 期間活動「ぐだぐだ本能寺」卡池出場。&lt;br /&gt;&lt;s&gt;本來設定不怎麼強，結果GO不僅沒有忠實呈現反而讓她成為5星Saber數一數二的強者。&lt;/s&gt;
+|-
+! 069
+| [[織田信長 (Fate)|織田信長]]
+| Archer
+| Pako
+| [[釘宮理惠]]
+| 少數乖乖遵守英靈強度與召喚地點和知名度有關的這項設定的角色，在GO是以弱化狀態登場&lt;s&gt;不過還是很好用&lt;/s&gt;。&lt;br /&gt;期間活動「ぐだぐだ本能寺」贈送角色。&lt;s&gt;我の生き様！桶狭間！&lt;/s&gt;
+|-
+! 070
+| [[Scathach (Fate)|斯卡薩哈]]
+| Lancer
+| 星
+| &lt;s&gt;魔法使之夜&lt;/s&gt;
+| こやまひろかず
+| [[能登麻美子]]
+| 奈須きのこ&lt;br /&gt;桜井光
+| [https://www.youtube.com/watch?v=HR1h2UG-xEE TVCM]登場英靈之一。&lt;br /&gt;弟子之一是庫夫林&lt;s&gt;，緊身衣能登。&lt;/s&gt;&lt;br /&gt;&lt;s&gt;新一代TM搖錢樹。&lt;/s&gt;
+|-
+! 071
+| [[Diarmuid Ua Duibhne (Fate)|迪爾穆德．奧．德利暗]]
+| Lancer
+| rowspan=2|地
+| Fate/Zero
+| また
+| [[綠川光]]
+| 奈須きのこ&lt;br /&gt;虛淵玄
+| &lt;s&gt;撒斯咖芬恩撒嘛。&lt;/s&gt;
+|-
+! 072
+| [[Fergus Mac Roich (Fate)|弗格斯．馬克．羅伊]]
+| Saber
+| &lt;s&gt;精靈寶可夢&lt;/s&gt;
+| Bすけ
+| [[黑田崇矢]]
+| 桜井光
+| 螺旋劍持有者，庫夫林亦師亦友的英雄。
+|-
+! 073
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢〔聖誕Alter〕]]
+| Rider
+| rowspan=2|人
+| 
+| 武內崇
+| [[川澄綾子]]
+| rowspan=2|奈須きのこ
+| 聖誕節活動「大約一周的聖誕 Alter小姐」贈送角色。&lt;s&gt;自稱來自芬蘭。&lt;/s&gt;
+|-
+! 074
+| [[Nursery Rhyme (Fate)|童謠]]
+| Caster
+| Fate/EXTRA
+| ワダアルコ
+| [[野中藍]]
+| 初始形態只有一本書。
+|-
+! 075
+| [[Jack the Ripper (Fate/Apocrypha)|開膛手傑克]]
+| Assassin
+| rowspan=2|地
+| Fate/Apocrypha
+| rowspan=2|近衛乙嗣
+| [[丹下櫻]]
+| rowspan=2|東出祐一郎
+| AP版傑克。
+|-
+! 076
+| [[Mordred (Fate)|莫德雷德]]
+| Saber
+| Fate/Stay Night 動畫版&lt;br /&gt;Fate/Apocrypha
+| [[澤城美雪]]
+| TV版的CV是[[桑島法子]]。&lt;br /&gt;第四章《死界魔霧都市》的主要角色，&lt;s&gt;寶具效果很坑[[Saber (Fate/stay night)|爹]]&lt;/s&gt;（無誤）。&lt;br /&gt;第六章領受的祝福為「暴走」&lt;ref&gt;每回合NP滿格，提高寶具封印耐性。&lt;/ref&gt;，雖然本人有要求別的祝福，但獅子王給的就是這個。
+|-
+! 077 
+| [[Nikola Tesla (Fate)|尼古拉．特斯拉]]
+| Archer
+| 星
+| &lt;s&gt;[[Red Alert|終極動員令：紅色警戒]]&lt;/s&gt;&lt;br/&gt;&lt;s&gt;黃雷的伽克蘇恩&lt;/s&gt;
+| なまにくATK
+| [[稻田徹]]
+| 桜井光
+| 交流電的先驅者。&lt;br /&gt;與《黄雷のガクトゥーン》&lt;ref&gt;此遊戲的編劇正是為特斯拉做設定的櫻井光。&lt;/ref&gt;裡的同名角色非常相似。&lt;br /&gt;&lt;s&gt;狂気なりし雷電王閣下。&lt;/s&gt;
+|-
+! 078
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢〔Alter〕]]
+| Lancer
+| 天
+|
+| 石田あきら
+| [[川澄綾子]]
+| 桜井光&lt;br /&gt;奈須きのこ
+| &lt;s&gt;下乳上。&lt;/s&gt;&lt;br /&gt;&lt;s&gt;南半球。&lt;/s&gt;
+|-
+! 079
+| [[Paracelsus von Hohenheim (Fate)|馮．霍恩海姆．帕拉塞爾蘇斯]]
+| Caster
+| rowspan=2|人
+| Fate/Prototype 蒼銀的碎片
+| 中原
+| [[三木真一郎]]
+| rowspan=4|桜井光
+|
+|-
+! 080
+| [[Charles Babbage (Fate)|查爾斯．巴貝奇]]
+| Caster
+| &lt;s&gt;蒼天的賽雷納莉亞&lt;/s&gt;
+| I-Ⅳ
+| [[稻田徹]]
+| 計算機與電腦的先驅者。
+|-
+! rowspan=2|081
+| [[Henry Jekyll &amp; Hyde (Fate)|亨利．傑基爾]]
+| Assassin
+| rowspan=3|地
+| rowspan=2|Fate/Prototype 蒼銀的碎片
+| rowspan=2|中原
+| rowspan=2|[[宮野真守]]
+| 化身博士，使用寶具「悄密罪孽遊戲」前的職階，在初登場的小說是以Berserker的職階被召喚。&lt;br /&gt;[https://www.youtube.com/watch?v=4NJGm2lWtKk TVCM]登場英靈之一。第四章過關獎勵。
+|-
+| [[Henry Jekyll &amp; Hyde (Fate)|海德]]
+| Berserker
+| 傑奇使用寶具轉化為海德後變換的職階。
+|-
+! 082
+| [[Frankenstein (Fate)|弗蘭肯斯坦]]
+| Berserker
+| Fate/Apocrypha
+| 岡崎武士
+| [[野中藍]]
+| 星空めてお
+| 科學怪人。
+|-
+! 083
+| [[Solomon (Fate)|所羅門]]
+| {{color|gold||'''Grand Caster'''}}
+| rowspan=3|天
+|
+| 武內崇
+| {{Censored|[[杉田智和]]&lt;br /&gt;[[鈴村健一]]}}
+| 奈須きのこ
+| 大衛之子，為魔術世界的發展做出諸多貢獻的魔術之王&lt;br /&gt;據GOA的內容，他的死加速神秘流失的速度與神代的終結。&lt;br /&gt;&lt;s&gt;作為最終BOSS理所當然不可抽，&lt;/s&gt;四章登場、過關後直接開啟圖鑑。&lt;br /&gt;{{Censored|其實第四章中登場的所羅門聲音是將杉田與鈴村的聲音疊在一起播放，但因為聲質的關係，杉田的聲音比較清楚。}}
+|-
+! 084
+| [[Arjuna (Fate)|阿周那]]
+| Archer
+|
+| pako
+| [[島崎信長]]
+| 東出祐一郎
+| 迦爾那的宿敵，《摩訶婆羅多》的第一主角。&lt;br /&gt;[https://www.youtube.com/watch?v=hMu7YeuZEuU TVCM]登場英靈之一。
+|-
+! 085
+| [[Karna (Fate)|迦爾納]]
+| Lancer
+| Fate/Apocrypha&lt;br /&gt;Fate/EXTRA CCC
+| pako
+| [[遊佐浩二]]
+| rowspan=2|奈須きのこ
+|
+|-
+! 086
+| [[謎之女主角X]]
+| Assassin
+| 星
+| 小巷子五月・女主角十二宮篇
+| BUNBUN
+| [[川澄綾子]]
+| 於期間限定活動「SABER WARS Lily的宇宙武者修行」卡池登場，為期間限定角色。
+|-
+! 087
+| [[Fionn mac Cumhaill (Fate)|芬恩．麥克庫爾]]
+| Lancer
+| rowspan=2|天
+| Fate/Zero動畫版
+| 森山大輔
+| [[三木真一郎]]
+| rowspan=2|桜井光
+| [[Lancer (Fate/Zero)|迪爾穆德]]的&lt;s&gt;[[肯尼斯．艾爾梅洛伊．阿其波盧德|Master]]&lt;/s&gt;團長。&lt;br /&gt;&lt;s&gt;雖然他也是愛爾蘭傳說中的英雄，但被網民記得最深刻的事跡當然就是被戴綠帽而坑死刷哥的故事&lt;/s&gt;。&lt;br /&gt;&lt;s&gt;看來人在憤怒的時候會連對方的外表一起扭曲，雖然也有可能因為F/GO登場的是年輕時代的他。&lt;/s&gt;
+|-
+! 088
+| [[Brynhild (Fate)|布倫希爾德]]
+| Lancer
+| Fate/Prototype 蒼銀的碎片
+| 三輪士郎
+| [[能登麻美子]]
+| &lt;s&gt;病嬌能登。&lt;/s&gt;&lt;br /&gt;&lt;s&gt;挑男人的眼光很微妙。&lt;/s&gt;
+|-
+! 089
+| [[Beowulf (Fate)|貝奧武夫]]
+| Berserker
+| 地
+| &lt;s&gt;鬥陣俱樂部&lt;/s&gt;
+| 下越
+| [[中井和哉]]
+| 東出祐一郎
+| 古北歐英雄，有段時間是Hrunting（TM世界又名赤原獵犬）的持有者。&lt;br /&gt;現存史詩最遠古的抄本雖然是在英國，但貝歐武夫的故事基本上是發生在丹麥與挪威，沒有任何英國地點。
+|-
+! 090
+| [[Nerō Claudius (Fate)|尼祿．克勞迪烏斯〔Bride〕]]
+| Saber
+| rowspan=4|人
+| Fate/EXTRA CCC
+| ワダアルコ
+| [[丹下櫻]]
+| rowspan=3|奈須きのこ
+| 婚紗服版本，GO中的設定為「沒經歷過Extra與CCC」的IF版本。
+|-
+! 091
+| rowspan=2|[[兩儀式]]
+| Saber
+| rowspan=2|空之境界
+| rowspan=2|武內崇
+| rowspan=2|[[坂本真綾]]
+| 期間限定活動「空之境界the garden of Order」卡池登場，對荒耶戰時的根源式狀態。
+|-
+! 092
+| Assassin
+| 期間限定活動「空之境界the garden of Order」贈送角色，空之境界本篇的小刀＋夾克狀態。
+|-
+! 093
+| [[言峰四郎|天草四郎]]
+| Ruler
+| Fate/Apocrypha&lt;br /&gt;&lt;s&gt;遊戲王&lt;/s&gt;
+| rowspan=2|近衛乙嗣
+| [[內山昂輝]]
+| 東出祐一郎
+| &lt;s&gt;強化前在遊戲性能上是神一般的對手，豬一般的隊友，&lt;/s&gt;強化後在高難度關卡則有著亮眼表現，某種意義上的單騎王。
+|-
+! 094
+| [[Astolfo (Fate)|阿斯托爾福]]
+| Rider
+| 地
+| Fate/Apocrypha
+| [[大久保瑠美]]
+| 東出祐一郎&lt;br /&gt;星空めてお
+| 
+|-
+! 095
+| [[Gilgamesh (Fate)|子吉爾]]
+| Archer
+| 天
+| Fate/hollow ataraxia
+| 天空すふぃあ
+| [[遠藤綾]]
+| 奈須きのこ&lt;br /&gt;桜井光
+|
+|-
+! 096
+| [[The Count of Monte Cristo (Fate)|巖窟王 愛德蒙．唐泰斯]]
+| Avenger
+| rowspan=2|人
+| &lt;s&gt;超級槍彈辯駁2 再會了絕望學園&lt;/s&gt;
+| 小松崎類
+| [[島崎信長]]
+| rowspan=2|桜井光
+| 期間活動「監獄塔內復仇鬼的哭泣」卡池登場。&lt;br /&gt;即基度山伯爵，《基度山恩仇記》主角。
+|-
+! 097
+| [[Florence Nightingale (Fate)|南丁格爾]]
+| Berserker
+| 
+| 高橋慶太郎
+| [[澤城美雪]]
+| 弗羅倫斯．南丁格爾，19世紀著名的英國護士，改變護士社會地位的女性。&lt;br /&gt;&lt;s&gt;白衣の天使！救うは兵士！&lt;/s&gt;
+|-
+! 098
+| [[Cú Chulainn (Fate/stay night)|庫．夫林〔Alter〕]]
+| Berserker
+| rowspan=2|地
+| 
+| しまどりる
+| [[神奈延年]]
+| 東出祐一郎
+| 雖然是Berserker版的庫夫林，但庫夫林（Alter）是女王梅芙利用聖杯所創造出來的。&lt;br /&gt;若是正常情況下，Berserker版的庫夫林會是別種姿態。
+|-
+! 099
+| [[Medb (Fate)|女王梅芙]]
+| Rider
+| 
+| 高山箕犀
+| [[佐倉綾音]]
+| rowspan=2|桜井光
+| 康諾特的女王，也是弗格斯的情人，視庫夫林為仇人。&lt;br /&gt;本作中對庫夫林有相當扭曲的占有慾。
+|-
+! 100
+| [[Helena Blavatsky (Fate)|海倫娜．布拉瓦茨基]]
+| Caster
+| 人
+| 
+| 松竜
+| [[金元壽子]]
+| 布拉瓦茨基夫人，烏克蘭宗教家、神秘學者，神智學的創立者。
+|-
+! 101
+| [[Rāma (Fate)|羅摩]]
+| Saber
+| 天
+| 
+| 輪くすさが
+| [[澤城美雪]]
+| 東出祐一郎
+| 印度英雄，史詩《羅摩衍那》的主角，三相神之一毗濕奴的化身，以箭術聞名。&lt;br /&gt;&lt;s&gt;所以拿劍當寶具會只有四星也是理所當然的事。&lt;/s&gt;
+|-
+! 102
+| [[李書文 (Fate)|神槍 李書文]]
+| Lancer
+| rowspan=9|人
+| Fate/EXTRA
+| ワダアルコ
+| [[安井邦彥]]
+| 東出祐一郎&lt;br /&gt;奈須きのこ
+| 原本是青年Assassin、老年Lancer，F/GO把兩者掉轉過來，變成青年Lancer、老年Assassin。
+|-
+! 103
+| [[Thomas Edison (Fate)|湯瑪斯．愛迪生]]
+| Caster
+| 
+| pako
+| [[寺島拓篤]]
+| rowspan=4|東出祐一郎
+| 發明王、改變了20世紀的企業家，特斯拉的宿敵。&lt;br /&gt;&lt;s&gt;這已經不是什麼惡不惡鬼的問題了啊！特斯拉！&lt;/s&gt;&lt;br /&gt;&lt;s&gt;エレキ！ひらめき！発明王！&lt;/s&gt;
+|-
+!104
+| [[Geronimo (Fate)|傑羅尼莫]]
+| Caster
+| &lt;s&gt;通靈王&lt;/s&gt;
+| 坂本みねぢ
+| [[江川央生]]
+| 阿帕契巫師，印地安人民族英雄&lt;br /&gt;第五章過關獎勵。
+|-
+! 105
+| [[Billy the Kid (Fate)|比利小子]]
+| Archer
+| 
+| 缟うどん
+| [[高乃麗]]
+| 美國西部傳奇人物。&lt;br /&gt;&lt;s&gt;百発百中！ズキューン！バキューン！&lt;/s&gt;
+|-
+! 106
+| [[Jeanne d'Arc (Fate)|貞德〔Alter〕]]
+| Avenger
+| 
+| 武內崇
+| [[坂本真綾]]
+| 期間活動「達文西與七人的贋作英靈」中登場。&lt;br /&gt;第一章中是以四星Ruler的身份登場。實裝後全面強化，改為五星Avenger。&lt;br /&gt;&lt;s&gt;果然晚實裝的才是贏家&lt;/s&gt;。&lt;br /&gt;&lt;s&gt;另一個新一代TM搖錢樹。&lt;br /&gt;在FGOM中提及，武內一開始只打算單純畫個色違貞德，然後當成活動贈品送出去，後來才改變主意重新打造成五星版本。
+|-
+! 107
+| [[Angra Mainyu (Fate)|安格拉．曼紐]]
+| Avenger
+| Fate/hollow ataraxia
+| ネコタワワ
+| [[寺島拓篤]]
+| 奈須きのこ
+| 對應最弱從者的設定，成為遊戲中第一個零星從者。&lt;br /&gt;但等級與攻防數值有二星從者的水準、靈基消耗的素材量與其他五星Avenger相當。&lt;br /&gt;只能從友抽卡池抽，而中獎機率比五星英靈還低，貨真價實的歐洲人象徵。
+|-
+! 108
+| [[Alexander the Great (Fate)|伊斯坎達爾]]
+| Rider
+| rowspan=4|Fate/Zero
+| 武內崇
+| [[大塚明夫]]
+| 虛淵玄
+| 於期間限定活動「Fate/Accel Zero Order」卡池登場。&lt;br /&gt;眾所皆知的征服王，亞歷山大大帝。
+|-
+! 109
+| [[衛宮切嗣|Emiya〔Assassin〕]]
+| Assassin
+| AKIRA
+| [[小山力也]]
+| 奈須きのこ&lt;br /&gt;桜井光
+| 於期間限定活動「Fate/Accel Zero Order」卡池登場，與抑止力簽約的守護者衛宮切嗣。&lt;br /&gt;最初的解包數據中CV是諏訪部順一，正式實裝後卻是小山力也的衛宮。
+|-
+! 110
+| [[Hassan-i Sabbah (Fate・百貌)|百貌的哈桑]]
+| Assassin
+| タスクオーナ
+| [[阿部彬名]]
+| 奈須きのこ&lt;br /&gt;虛淵玄
+| 遊戲中以最具代表性的馬尾女哈桑型態登場。&lt;br /&gt;原作中第一個登場的人格薩伊德在遊戲裡則以敵方雜魚的形式出場。
+|-
+! 111
+| [[艾莉絲菲爾‧馮‧艾因茲貝倫|愛麗絲菲爾〔天之衣〕]]
+| Caster
+| 天
+| 缟うどん
+| [[大原沙耶香]]
+| rowspan="3"| 桜井光
+| 期間限定活動「Fate/Accel Zero Order」贈送角色。
+|-
+! 112
+| [[酒吞童子 (Fate)|酒吞童子]]
+| Assassin
+| 地
+| 
+| 本庄雷太
+| [[悠木碧]]
+| 期間活動「鬼哭酔夢魔京羅生門」卡池登場，日本三大妖怪之一、大江山的酒吞童子，最後死於源賴光之手。&lt;br /&gt;TM世界中為女性，金時一見鍾情的初戀。&lt;br /&gt;據金時本人所說，是個如同絲西娜一般危險的女人。&lt;br /&gt;&lt;s&gt;個性和裡面的人很像。&lt;/s&gt;
+|-
+! 113
+| [[玄奘三藏 (Fate)|玄奘三藏]]
+| Caster
+| 人
+| &lt;s&gt;記錄的地平線&lt;/s&gt;
+| 岡崎武士
+| [[小松未可子]]
+| 在戰亂時代出發前往遙遠異國、在天竺辯倒諸多僧人、足跡幾乎踏遍南亞次大陸、將眾多經典帶回中國加以翻譯。&lt;br /&gt;{{Censored|中國法相唯識宗的創始人、''阿賴耶識''概念的提出者，}}怪物一般的僧人&lt;s&gt;，雖然鳩摩羅什翻的比較好&lt;/s&gt;。&lt;br /&gt;但後世最熟悉的形象為《西遊記》中的軟弱和尚&lt;s&gt;，風評被害&lt;/s&gt;。&lt;br /&gt;&lt;s&gt;毫不意外的性轉&lt;ref&gt;日本人心中的唐僧屬於柔弱男子的形象，所以1978年版的《西遊記》導演就大膽採用女演員——夏目雅子來飾演唐三藏。夏目雅子飾演成功，導致之後日本大多數作品的唐三藏都是女唐僧。&lt;/ref&gt;，且照遊戲中的表現來看她根本不需要徒弟了，被抓一定是裝弱。&lt;/s&gt;&lt;br /&gt;&lt;s&gt;キャスター（物理）&lt;br /&gt;サイユウロード！！&lt;br /&gt;サル！豚！カッパ！天竺を突破！&lt;br /&gt;你真的沒辦過什麼茶會嗎？&lt;br /&gt;悟空，你知道什麼是「噹噹噹噹」嗎？&lt;/s&gt;
+|-
+! 114
+| [[源賴光 (Fate)|源賴光]]
+| Berserker
+| 天
+|
+| rowspan="2"| 本庄雷太
+| [[戶松遙]]
+| 桜井光&lt;br /&gt;奈須きのこ
+| 期間活動「天魔御伽草子鬼之島」卡池登場，平安時代名將，討伐過諸多妖魔的神秘殺手。&lt;br /&gt;本作中性轉。{{censored|，丑御前和源賴光實為同一人。}}
+|-
+! 115
+| [[坂田金時 (Fate)|坂田金時]]
+| Rider
+| rowspan=2|地
+|
+| [[遊佐浩二]]
+| 桜井光
+| 騎熊&lt;s&gt;機車？&lt;/s&gt;參戰，期間活動「天魔御伽草子鬼之島」贈送角色，依然不是生前的樣貌而是Golden型態的金時。&lt;br /&gt;&lt;s&gt;目前最強四星騎職之一。&lt;/s&gt;
+|-
+! 116
+| [[茨木童子 (Fate)|茨木童子]]
+| Berserker
+|
+| 左
+| [[東山奈央]]
+| 桜井光&lt;br /&gt;奈須きのこ
+| 期間活動「鬼哭酔夢魔京羅生門」卡池登場，酒吞童子的部下，現為大坂府的吉祥物。
+|-
+! 117
+| [[第五代風魔小太郎 (Fate)|風魔小太郎]]
+| Assassin
+| 人
+| &lt;s&gt;鑽石王牌&lt;/s&gt;
+| 佐々木少年
+| [[花江夏樹]]
+| 東出祐一郎
+| 戰國時代與安土桃山時代時侍奉北條家的忍者首領。&lt;br /&gt;風魔小太郎與哈桑、雜賀孫市相同，為歷代首領共用的名號，本作的小太郎為最具代表性的第五代。
+|-
+! 118
+| [[Ozymandias (Fate)|奧茲曼迪亞斯]]
+| Rider
+| rowspan=2|天
+| Fate/Prototype 蒼銀的碎片
+| 中原
+| [[子安武人]]
+| 桜井光
+| 即法老王拉美西斯二世。
+|-
+! 119
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢]]
+| Lancer
+| 
+| 石田あきら
+| [[川澄綾子]]
+| 奈須きのこ&lt;br /&gt;桜井光
+| &lt;s&gt;北半球&lt;/s&gt;。&lt;br /&gt;{{Censored|第六章中因為某些原因，個性與價值觀變成而成為「獅子王」的存在，也是六章的Last Boss。}}
+|-
+! 120
+| [[Nitocris (Fate)|尼托克里絲]]
+| Caster
+| rowspan=4|地
+| 
+| 缟うどん
+| [[田中美海]]
+| 桜井光
+| 埃及第一位女王，古王國時代最後一位君王，但並未使用法老的稱號&lt;ref&gt;GO中也自稱法老。&lt;/ref&gt;。&lt;br /&gt;在克蘇魯神話中為邪神崇拜者，但在GO的克蘇魯元素相當低，只玩了「尼托克莉斯之鏡」的捏他。&lt;br /&gt;另外有一位同名的巴比倫女王，在GO也三番兩次地被提出來。
+|-
+! 121
+| [[Sir Lancelot du Lac (Fate)|蘭斯洛特]]
+| Saber
+| 
+| しまどりる
+| [[置鮎龍太郎]]
+| 東出祐一郎&lt;br /&gt;奈須きのこ
+| 第六章中領受的祝福為「淒烈」&lt;ref&gt;防禦面的相性等同Ruler，弱體狀態無效。&lt;/ref&gt;，不為大義而死，而是身為人眺望大局，他如此發誓。
+|-
+! 122
+| [[Sir Tristan (Fate)|崔斯坦]]
+| Archer
+| Garden of Avalon
+| 森井しづき
+| [[內山昂輝]]
+| 東出祐一郎
+| 圓桌中數一數二的使弓能手，但有著「才不是，您打從根本上誤解了弓爲何物」的評價。&lt;br /&gt;說出貫穿系列的超級名言「'''王不懂人的感情'''」的人。&lt;br /&gt;&lt;s&gt;悲傷廚，啊啊……真令人悲傷。&lt;/s&gt;&lt;br /&gt;第六章中領受的祝福為「反轉」&lt;ref&gt;對「Avenger以外的職階」是攻撃優位、對「Saber」是防禦劣位，毒狀態無效。&lt;/ref&gt;，因為悲傷，而承認了自己的十指已經無法滿足的運作而故。
+|-
+! 123
+| [[Sir Gawaine (Fate)|高文]]
+| Saber
+| Fate/EXTRA
+| ワダアルコ
+| [[水島大宙]]
+| 奈須きのこ
+| 第六章中領受的祝福為「不夜」&lt;ref&gt;自身受到的傷害減免30%，每回合NP加2格。&lt;/ref&gt;，是最大限度地發揮其用處的表現。
+|-
+! 124
+| [[Hassan-i Sabbah  (Fate・靜謐)|靜謐的哈桑]]
+| Assassin
+| rowspan=2|人
+| Fate/Prototype 蒼銀的碎片
+| 中原
+| [[千本木彩花]]
+| 桜井光
+| &lt;s&gt;接吻魔。&lt;/s&gt;
+|-
+! 125
+| [[俵藤太 (Fate)|俵藤太]]
+| Archer
+| &lt;s&gt;[[Overwatch]]&lt;/s&gt;
+| 下越
+| [[鈴村健一]]
+| 奈須きのこ&lt;br /&gt;東出祐一郎
+| 原名藤原秀鄉，平安時代武將。有過射殺百足、射殺百目鬼、射殺平將門等事蹟。&lt;br /&gt;&lt;s&gt;少數使用弓的弓兵&lt;/s&gt;&lt;ref&gt;寶具。&lt;/ref&gt;。&lt;br /&gt;&lt;s&gt;少數會浪費食物的英靈&lt;/s&gt;&lt;ref&gt;普攻會丟米俵來攻擊。&lt;/ref&gt;。
+|-
+! 126
+| [[Sir Bedivere (Fate)|貝德維爾]]
+| Saber
+| rowspan=2|星
+| Fate/Stay Night
+| 天空すふぃあ
+| [[宮野真守]]
+| 奈須きのこ&lt;br /&gt;桜井光
+| 圓桌騎士，在2006年動畫最終話登場，當時的CV是能登麻美子、PS2版CV為三木真一郎、PSV版為真殿光昭。&lt;br /&gt;第六章過關獎勵。
+|-
+! 127
+| [[Leonardo da Vinci (Fate)|李奧納多．達．文西]]
+| Caster
+| 
+| 下越
+| [[坂本真綾]]
+| 桜井光
+| 雖然一般人都知道他是著名的藝術家，但其實他精通很多其他學術。&lt;br /&gt;包括科學、數學、工程學、人體學&lt;s&gt;、忍術&lt;/s&gt;等等……&lt;br /&gt;&lt;s&gt;一切！合切！超天才！&lt;/s&gt;
+|-
+! 128
+| [[玉藻前 (Fate)|玉藻前]]
+| Lancer
+| 天
+| 
+| ワダアルコ
+| [[齋藤千和]]
+| rowspan="2"|奈須きのこ
+| 夏季活動「迦勒底亞夏日回憶」卡池出場。
+|-
+! 129
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢]]
+| Archer
+| 地
+| 
+| 武內崇
+| [[川澄綾子]]
+| 夏季活動「迦勒底亞烈火奧德賽」卡池出場。&lt;br /&gt;&lt;s&gt;ダイナミック聖剣返還。&lt;/s&gt;
+|-
+! 130
+| [[Marie Antoinette (Fate)|瑪莉．安東尼]]
+| Caster
+| rowspan=3|人
+| 
+| ギンカ
+| [[種田梨沙]]
+| 桜井光
+| 夏季活動「迦勒底亞烈火奧德賽」卡池出場。
+|-
+! rowspan="2"|131
+| [[Anne Bonny &amp; Mary Read (Fate)|安妮．伯妮]]
+| rowspan="2"|Archer
+| rowspan="2"|
+| rowspan="2"|I-Ⅳ
+| [[川澄綾子]]
+| rowspan="3"|東出祐一郎
+| rowspan="2"|夏季活動「迦勒底亞夏日回憶」卡池出場。
+|-
+| [[Anne Bonny &amp; Mary Read (Fate)|瑪莉．瑞德]]
+| [[野中藍]]
+|-
+! 132
+| [[Mordred (Fate)|莫德雷德]]
+| Rider
+| 地
+|
+| 近衛乙嗣
+| [[澤城美雪]]
+| 夏季活動「迦勒底亞夏日回憶」卡池出場。
+|-
+! 133
+| [[Scathach (Fate)|斯卡薩哈]]
+| Assassin
+| 星
+|
+| こやまひろかず
+| [[能登麻美子]]
+| 桜井光
+| 夏季活動「迦勒底亞夏日回憶」、「迦勒底亞烈火奧德賽」贈送角色。&lt;br /&gt;&lt;s&gt;藤乃加入前唯一四星能登。&lt;/s&gt;
+|-
+! 134
+| [[清姬 (Fate)|清姬]]
+| Lancer
+| 地
+|
+| BLACK
+| [[種田梨沙]]
+| 東出祐一郎
+| 夏季活動「迦勒底亞夏日回憶」卡池出場。
+|-
+! 135
+| [[Martha (Fate)|瑪爾大]]
+| Ruler
+| rowspan=3|人
+|
+| 坂本みねぢ
+| [[早見沙織]]
+| 桜井光
+| 夏季活動「迦勒底亞烈火奧德賽」卡池出場。&lt;br /&gt;&lt;s&gt;淒女。&lt;/s&gt;
+|-
+! rowspan="2"|136
+| [[伊莉亞絲菲爾‧馮‧艾因茲貝倫|伊莉亞絲菲爾．馮．艾因茲貝倫]]
+| rowspan="2"|Caster
+| Fate/Stay Night
+| rowspan="3"|ひろやま ひろし
+| [[門脇舞以]]
+| rowspan="3"|ひろやま ひろし
+| 期間限定活動「魔法少女紀行～Prisma cause～」卡池出場。&lt;br /&gt;&lt;s&gt;這下衛宮家滿門英烈！全員Servant偉業達成！&lt;br /&gt;↑矩賢、夏麗（？）、[[久宇舞彌|舞彌]]（？）、[[Sigma (Fate)|西格瑪]]（？）：幹！&lt;/s&gt;
+|-
+| [[琥珀 (月姬)|紅寶石之星]]
+| Fate/Hollow Ataraxia
+| [[高野直子]]
+| 期間限定卡池「魔法少女紀行～Prisma cause～」出場。
+|-
+! 137
+| [[克洛伊‧馮‧艾因茲貝倫|克洛伊．馮．艾因茲貝倫]]
+| Archer
+| 天
+| [[Fate/kaleid liner 魔法少女☆伊莉雅]]
+| [[齋藤千和]]
+| 期間限定活動「魔法少女紀行～Prisma cause～」贈送角色。&lt;br /&gt;&lt;s&gt;贗品性能完勝本尊，果然士郎是對的&lt;/s&gt;&lt;ref&gt;剛推出時除了HP以外，克洛伊的技能組、Atk、外觀模型帥氣度&lt;s&gt;、萌度&lt;/s&gt;都比紅A優秀；但後來紅A經過多次修改後，各項指標已足以和小黑打平。&lt;/ref&gt;。
+|-
+! 138
+| [[Báthory Erzsébet (Fate)|伊莉莎白．巴托里〔Brave〕]]
+| Saber
+| 地
+| 
+| ワダアルコ
+| [[大久保瑠美]]
+| 奈須きのこ
+| 期間活動「Halloween・Come back！超極☆大南瓜村」贈送角色。&lt;br /&gt;伊莉莎白第5個職業了，'''何度も出てきて恥ずかしくないんですか！？'''&lt;br /&gt;&lt;s&gt;究竟是伊莉莎白會先湊齊全7職？還是元祖的青 Saber會最先湊齊呢？&lt;/s&gt;
+|-
+! 139
+| [[Cleopatra (Fate)|克麗奧佩脫拉]]
+| Assassin
+| 人
+| 
+| 小松崎類
+| [[釘宮理惠]]
+| 桜井光&lt;br /&gt;奈須きのこ
+| 即知名的埃及豔后，與凱撒有過一段情。&lt;br /&gt;&lt;s&gt;超高校級的艷后。&lt;/s&gt;&lt;br /&gt;期間卡池「Halloween・Come back！超極☆大南瓜村」首次出場。
+|-
+! 140
+| [[Vlad al III-lea (Fate/EXTRA)|弗​​拉德三世〔EXTRA〕]]
+| Lancer
+| 地
+| Fate/EXTRA
+| ワダアルコ
+| [[江川央生]]
+| 奈須きのこ
+| EXTRA版本的穿刺公。&lt;br /&gt;&lt;s&gt;搞笑活動中唯一的嚴肅角。&lt;/s&gt;
+|-
+! 141
+| [[Jeanne d'Arc (Fate)|貞德．Alter．聖誕．Lily]]
+| Lancer
+| 人
+| 
+| 武內崇
+| [[坂本真綾]]
+| 東出祐一郎
+| 聖誕節活動「二代目是小Alter」的贈送角色，全名為貞德．Alter．聖誕．Lancer．Lily。&lt;br /&gt;是貞德Alter喝下返老還童藥後，在主角的計劃下作為聖誕老人留存於世的存在。&lt;br /&gt;&lt;s&gt;貞德Lily不就只是個普通的村姑嘛。&lt;/s&gt;&lt;br /&gt;&lt;s&gt;童貞。&lt;/s&gt;
+|-
+! 142
+| [[Ishtar (Fate)|伊絲塔]]
+| Archer
+| rowspan=3|天
+| Fate/Stay Night
+| rowspan="2"|森井しづき
+| [[植田佳奈]]
+| 奈須きのこ
+| 聖誕節活動「二代目是小Alter」卡池出場。&lt;br /&gt;本作中為被美索不達米亞女神伊絲塔附身而成為擬似Servant的凜。&lt;br /&gt;與二世和孔明的狀況不同，主導權被握在伊絲塔手上。
+|-
+! 143
+| [[Enkidu (Fate)|恩奇都]]
+| Lancer
+| Fake/states night&lt;br /&gt;Fate/strange Fake
+| [[小林優]]
+| 奈須きのこ&lt;br /&gt;成田良悟&lt;br /&gt;桜井光
+|
+|-
+! 144
+| [[Quetzalcoatl (Fate)|魁札爾．科亞特爾]]
+| Rider
+| &lt;s&gt;Black Lagoon&lt;/s&gt;
+| 広江礼威
+| [[遠藤綾]]
+| 奈須きのこ&lt;br /&gt;桜井光
+| 即羽蛇神，奧梅克、瑪雅、阿茲特克等中美洲文明的神祇，有學者推測可能是隨歷史而神化的神官王。&lt;br /&gt;在各個文明中的名稱不同，魁札爾科亞特爾是阿茲特克人的稱呼，瑪雅則是稱作庫庫爾坎，在中文都統一成羽蛇神。&lt;br /&gt;另外，廣江老師的第一部商業作品《翡翠峽奇譚》的女主角便是庫庫爾坎。&lt;br /&gt;&lt;s&gt;[[遊☆戯☆王| 赤鬼柳、究極神アルティマヤ・ツィオルキン、タクシー]]。&lt;/s&gt;
+|-
+! 145
+| [[Gilgamesh (Fate)|吉爾伽美什]]
+| Caster
+| 人
+| 
+| ギンカ
+| [[關智一]]
+| 奈須きのこ
+| 尋找不死靈藥之旅後的賢王狀態。
+|-
+! 146
+| [[Medusa (Fate)|美杜莎]]
+| Lancer
+| rowspan=3|地
+|
+| BLACK
+| rowspan="2"|[[淺川悠|淺川悠]]
+| rowspan="2"|桜井光
+| 尚未淪落成反英雄，還作為偶像存在時的少女美杜莎。
+|-
+! 147
+| [[Medusa (Fate)|戈爾貢]]
+| Avenger
+| Fate/hollow ataraxia
+| 下越
+| 女神戈爾貢，即HA中感染魔性、吞噬姊姊們、被珀爾修斯討伐、只出現一道影子的魔獸美杜莎。
+|-
+! 148
+| [[Jaguar Man (Fate)|豹人]]
+| Lancer
+| Fate/Stay Night
+| 蒼月タカオ
+| [[伊藤美紀]]
+| 桜井光&lt;br /&gt;奈須きのこ
+| 被拉丁美洲神話中的最高神之一，「惡」之頂點的特斯卡特利波卡其中一個側面。&lt;br /&gt;象徵戰鬥與死亡的豹人附身而成為擬似Servant的大河。&lt;br /&gt;話雖如此，劇中表現只是個襯托魁札爾科亞特爾並炒熱氣氛的搞笑角色。&lt;br /&gt;第七章過關獎勵。
+|-
+! 149
+| [[Tiamat (Fate)|迪亞馬特]]
+| {{color|red||'''Beast II'''}}
+| 獸
+| 
+| 山中虎鉄
+| [[悠木碧]]
+| rowspan=6|奈須きのこ
+| 美索不達米亞神話的地母神，孕育出眾多神明。&lt;br /&gt;{{censored|連蓋提亞也感到棘手的原初大魔、七大人類惡之一，原罪之II，司掌「回歸」之理的獸。}}
+|-
+! 150
+| [[Merlin (Fate)|梅林]]
+| Caster&lt;br /&gt;
+| 地
+| Garden of Avalon
+| タイキ
+|[[櫻井孝宏]]
+| 06年版動畫CV為小林勝也，PSV版CV為諏訪部順一。&lt;br /&gt;在第七章中亦作為支援角色登場。&lt;br /&gt;在2016/12/22起期間限定實裝至卡池中。&lt;br /&gt;不過因為梅林若直接用第七章支援角色的版本就太強勢，所以抽卡得到的版本有稍微弱化。
+|-
+! 151
+| [[Goetia (Fate)|蓋提亞]]
+| {{color|red||'''Beast I'''}}
+| 獸&lt;ref&gt;{{censored|人王姿態時為「人」}}&lt;/ref&gt;
+|
+| 山中虎鉄
+| [[杉田智和]]
+| {{censored|真正身份是佔據於所羅門遺骸的七十二柱惡魔的集合體。&lt;br /&gt;七大人類惡之一，原罪之I，司掌「憐憫」之理的獸。}}
+|-
+! 152
+| [[Solomon (Fate)|所羅門]]
+| Caster&lt;br /&gt;{{color|gold||'''Grand Caster'''}}
+| 地
+|
+| 武內崇
+| [[鈴村健一]]
+| {{censored|本尊，為[[羅馬尼‧阿基曼|{{censored|羅曼醫生}}]]的真正身份。}}
+|-
+! 153
+| [[宮本武蔵 (Fate)|DATA LOST]]  
+| Saber
+| rowspan=2|人
+| 
+| こやまひろかず
+| [[佐倉綾音]]
+| 即宮本武藏，日本知名劍豪暨兵法家。&lt;br /&gt;過去便有玩家從小次郎的解包台詞推測武藏也是本次性轉組之一，實裝後果不其然的性轉。&lt;br /&gt;只不過，這個武藏並非這個世界的宮本武藏，而是來自異世界的旅客。&lt;br /&gt;&lt;s&gt;決闘！ズバッと！超剣豪！&lt;/s&gt;
+|-
+! 154
+| [[山中老人 (Fate)|“山之翁”]]
+| Assassin&lt;br /&gt;{{color|gold||'''Grand Assassin'''}}
+|
+| Ryota-H
+| [[中田讓治]]
+| 初代的山中老人，被奧茲曼迪亞斯讚為擁有臻至神域的暗殺技術，被主角取了「哈桑王」的綽號。&lt;br /&gt;&lt;s&gt;戰鬥動畫非常潮，暗殺的真諦就在於把所有目擊者通通[[開無雙|無雙]]掉。&lt;/s&gt;
+|-
+! 155
+| [[謎之女主角X Alter|謎之女主角X〔Alter〕]]
+| Berserker
+| 星
+| &lt;s&gt;星際大戰&lt;/s&gt;
+| BUNBUN
+| [[川澄綾子]]
+| 星空めてお 
+| 期間限定卡池「情人節2017」首次出場。&lt;br /&gt;正式的名稱是潘德拉貢卿，Servant界的秘密組織Dark‧R.O.U.N.D.s的幹部阿格凡爵士製造的人造Servant。&lt;br /&gt;對「對Saber」用的決戰兵器。&lt;br /&gt;&lt;s&gt;阿爾托莉亞第6個職階，只欠Caster就做足7職了。&lt;/s&gt;
+|-
+! 156
+| [[James Moriarty (Fate)|新宿的Archer&lt;br /&gt;詹姆斯．莫里亞蒂]]
+| Archer
+| rowspan=2|人
+| Censored|英靈傳承～傑奇&amp;海德～《鳥羽色的研究》
+| 本庄雷太
+| [[土師孝也]]
+| 東出祐一郎
+| 惡之帝王、福爾摩斯的宿敵，被對方稱為「犯罪界的拿破崙」。&lt;br /&gt;&lt;s&gt;MISS ME?&lt;/s&gt;&lt;br /&gt;原本的職階為Caster，{{Censored|與幻靈「魔彈射手」馬庫斯結合}}後成為Archer。
+|-
+! 157
+| [[Emiya (Fate/stay night)|Emiya〔Alter〕]]
+| Archer
+| 
+| 佐々木少年
+| [[諏訪部順一]]
+| 奈須きのこ&lt;br /&gt;東出祐一郎
+| エミヤ的Alter版本，雖然和紅A一樣是エミヤ，但比紅A經歷了更多殘酷的事件而導致反轉。&lt;br /&gt;&lt;s&gt;即便如此，你放棄當人類的話還能夠理解，放棄當日本人是怎樣啦！&lt;/s&gt;&lt;br /&gt;&lt;s&gt;「[[角色/普奇神父|覺悟者恆幸福]]」！&lt;/s&gt;
+|-
+! 158
+| [[Hessian Lobo (Fate)|新宿的Avenger&lt;br /&gt;海森．羅伯]]
+| Avenger
+| 地
+| 
+| 下越
+| [[竹內良太]]
+| rowspan=2|東出祐一郎
+| 出自《狼王羅伯》的Avenger羅伯。&lt;br /&gt;出自《沉睡谷傳奇》的幻靈Rider－不知名的黑森傭兵。&lt;br /&gt;出自《隱形人》的幻靈格里芬。&lt;br /&gt;三者結合而成的存在。
+|-
+! 159
+| [[燕青 (Fate)|新宿的Assassin&lt;br /&gt;燕青]]
+| Assassin
+| 人
+| 
+| 縞うどん
+| [[岡本信彦]]
+| 梁山好漢、三十六天罡之天巧星，侍奉天罡星盧俊義的出色武術家。
+|-
+! 160
+| [[Arthur Pendragon (Fate/Prototype)|亞瑟．潘德拉貢〔Prototype〕]]
+| Saber
+| 地
+| Fate/Prototype
+| 中原
+| [[櫻井孝宏]]&lt;br /&gt;[[川澄綾子]]
+| 桜井光&lt;br /&gt;奈須きのこ
+| 川澄的語音只有在寶具發動時才會出現。
+|-
+! 161
+| [[土方歲三 (Fate)|土方歲三]]
+| Berserker
+| rowspan=2|人
+| &lt;s&gt;[[遊☆戯☆王 5D's|遊戲王5D's]]&lt;/s&gt;
+| 余湖裕輝
+| [[星野貴紀]]
+| rowspan=2|経験値
+| 期間活動「ぐだぐだ明治維新」卡池登場，新選組副長，在明治維新後協助榎本武揚，成為蝦夷共和國幕僚。&lt;br /&gt;將武士道奉行至最後一刻直至戰死為止的男人。&lt;br /&gt;&lt;s&gt;實際上沒有戰死在箱館，而是成功活了下來，目前以「荒木飛呂彥」作為假名，以年輕時的冒險經歷創作漫畫。&lt;/s&gt;
+|-
+! 162
+| [[茶茶 (Fate)|茶茶]]
+| Berserker
+| &lt;s&gt;アイドルマスター&lt;/s&gt;
+| pako
+| [[阿澄佳奈]]
+| 期間活動「ぐだぐだ明治維新」贈送角色，淺井長政長女，豐臣秀吉側室之一暨豐臣秀賴之母，是秀吉死後的後豐臣政權實質上的掌權。&lt;br /&gt;因其悲戚的身世以及為人處事上的許多議論點，成為日本史上最具爭議的女性之一。&lt;br /&gt;明治維新活動贈送角色&lt;s&gt;，但為什麼掛明治維新的活動會送茶茶啦&lt;/s&gt;。
+|-
+! 163
+| [[Meltryllis]]
+| rowspan=2|Alter Ego
+| rowspan=2|地
+| rowspan=2|Fate/EXTRA CCC
+| rowspan=2|ワダアルコ
+| [[早見沙織]]
+| rowspan=2|奈須きのこ
+| 期間限定活動「深海電脳楽土SE.RA.PH」卡池登場。
+|-
+! 164
+| [[Passionlip]]
+| [[小倉唯]]
+|期間限定活動「深海電脳楽土SE.RA.PH」卡池登場。
+|-
+! 165
+| [[鈴鹿御前 (Fate)|鈴鹿御前]]
+| Saber
+| 天
+| Fate/EXTRA CCC Fox Tail
+| たけのこ星人
+| [[東山奈央]]
+| たけのこ星人
+| 期間限定活動「深海電脳楽土SE.RA.PH」卡池登場。
+|-
+! 166
+| [[BB (Fate)|BB]]
+| Moon Cancer
+| 人
+| rowspan=2|Fate/EXTRA CCC
+| rowspan=3|ワダアルコ
+| [[下屋則子]]
+| rowspan=3|奈須きのこ
+| 期間限定活動「深海電脳楽土SE.RA.PH」贈送角色。&lt;br /&gt;{{Censored|Moon Cell為解决因自己而起的Beast事件而以CCC(特殊處理)之名派遣的特務專員。}}
+|-
+! 167
+| [[殺生院祈荒]]
+| Alter Ego
+| rowspan=2|獸
+| rowspan=2|[[田中理惠]]
+| 
+|-
+! 168
+| [[殺生院祈荒|Beast III/R]]
+| {{color|red||'''Beast III'''}}
+| 
+| {{censored|七大人類惡之一，原罪之III。司掌「愛慾」之理的獸。&lt;br /&gt;&lt;s&gt;快樂天BEAST。&lt;/s&gt;}}
+|-
+! 169
+| [[Shéhérazade (Fate)|不夜城的Caster&lt;br /&gt;雪赫拉莎德]]
+| Caster
+| rowspan=2|人
+| 
+| なまにくATK
+| [[井上喜久子]]
+| rowspan=4|水瀬葉月
+| 《天方夜譚》的女主角，對薩珊王朝國王山魯亞爾的殺戮暴行感到痛心而耗費一千零一個夜晚，以故事阻止國王。
+|-
+! 170
+| [[武則天 (Fate)|不夜城的Assassin&lt;br /&gt;武則天]]
+| Assassin
+| 
+| 原田たけひと
+| [[井澤詩織]]
+| 中國歷史首位女帝。
+|-
+! 171
+| [[Penthesilea (Fate)|黃金鄉的Berserker&lt;br /&gt;彭忒西勒亞]]
+| Berserker
+| 地
+| &lt;s&gt;Fate/Stay Night&lt;br /&gt;冰室的天地&lt;/s&gt;
+| 真じろう
+| [[嶋村侑]]
+| 亞馬遜女王，於特洛伊之戰敗死於阿基里斯之手。
+|-
+! 172
+| [[Cristoforo Colombo (Fate)|反抗軍的Rider&lt;br /&gt;克里斯多福．哥倫布]]
+| Rider
+| 人
+| &lt;s&gt;ONE PIECE&lt;/s&gt;
+| 元村人
+| [[大塚芳忠]]
+| 確立西歐與新大陸之間的航線的航海家，因其在新大陸的暴行而在歷史上有著極大爭議。&lt;br /&gt;&lt;s&gt;さぁ行こうかい！大航海！&lt;/s&gt;
+|-
+! 173
+| [[Sherlock Holmes (Fate)|夏洛克．福爾摩斯]]
+| Ruler
+| 星
+| 英靈傳承～傑奇&amp;海德～《鳥羽色的研究》
+| 山中虎鉄
+| [[水島大宙]]
+| 桜井光
+| 世界最知名的偵探，甚至可說是偵探的代名詞。拚盡全力對抗名為「犯罪界的{{ruby|皇帝|Napoleon}}」的巨惡。&lt;br /&gt;自報的職階為Caster，正式實裝後為Ruler。
+|-
+! 174
+| [[Paul Bunyan (Fate)|用漫畫瞭解的Berserker&lt;br /&gt;保羅．班揚]]
+| Berserker
+| 地
+| 更加用漫畫瞭解F/GO！
+| リヨ
+| [[小見川千明]]
+| リヨ
+| 期間活動「オールザステイツメン!」贈送角色，GD子以聖杯黑泥與烏龍麵糰製造的Servant，後來被強行塞給童謠與傑克扶養，職階為Berserker。&lt;br /&gt;真實身份為美國神話的巨人樵夫，GO裡的設定是班揚的幻靈與GD特製麵團融合後的產物。&lt;br /&gt;雖然一加入就會亮真名給你看，但姑且還是有隱藏真名的……
+|-
+! 175
+| [[Nerō Claudius (Fate)|尼祿．克勞迪烏斯]]
+| Caster
+| 人
+| 
+| ワダアルコ
+| [[丹下櫻]]
+| 奈須きのこ
+| 夏季活動「デッドヒート・サマーレース！～夢と希望のイシュタルカップ2017～」卡池登場。
+|-
+! 176
+| [[Frankenstein (Fate)|弗蘭肯斯坦]]
+| Saber
+| rowspan=2|地
+| 
+| 岡崎武士
+| [[野中藍]]
+| 東出祐一郎
+| 夏季活動「デッドヒート・サマーレース！～夢と希望のイシュタルカップ2017～」卡池登場。
+|-
+! 177
+| [[Nitocris (Fate)|尼托克里絲]]
+| Assassin
+| 
+| 缟うどん
+| [[田中美海]]
+| 桜井光
+| 夏季活動「デッドヒート・サマーレース！～夢と希望のイシュタルカップ2017～」卡池登場。
+|-
+! 178
+| [[織田信長 (Fate)|織田信長]]
+| Berserker
+| rowspan=3|人
+| 
+| pako
+| [[釘宮理惠]]
+| 経験値
+| 夏季活動「デッドヒート・サマーレース！～夢と希望のイシュタルカップ2017～」卡池登場。
+|-
+! 179
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢（Alter）]]
+| Rider
+| 
+| 武內崇
+| [[川澄綾子]]
+| 奈須きのこ
+| 夏季活動「デッドヒート・サマーレース！～夢と希望のイシュタルカップ2017～」卡池登場。
+|-
+! 180
+| [[Helena Blavatsky (Fate)|海倫娜．布拉瓦茨基]]
+| Archer
+| &lt;s&gt;遊戲王5D's&lt;/s&gt;
+| 松竜
+| [[金元壽子]]
+| rowspan="2"| 桜井光
+| 夏季活動「デッドヒート・サマーレース！～夢と希望のイシュタルカップ2017～」卡池登場。
+|-
+! 181
+| [[源賴光 (Fate)|源賴光]]
+| Lancer
+| rowspan=3|天
+| 
+| 本庄雷太
+| [[戶松遙]]
+| 夏季活動「デッドヒート・サマーレース！～夢と希望のイシュタルカップ2017～」卡池登場。
+|-
+! 182
+| [[Ishtar (Fate)|伊絲塔]]
+| Rider
+| 
+| 森井しづき
+| [[植田佳奈]]
+| rowspan=2|奈須きのこ
+| 夏季活動「デッドヒート・サマーレース！～夢と希望のイシュタルカップ2017～」贈送角色。
+|-
+! 183
+| [[Parvati (Fate)|帕爾瓦蒂]]
+| Lancer
+| Fate/Stay Night
+| 蒼月タカオ
+| [[下屋則子]]
+| 本作中為被印度教女神雪山神女附身而成為擬似Servant的櫻。&lt;br /&gt;設定為櫻和雪山神女的善性構成的Servant，但由於人身無法承受女神過於龐大的記憶，因此雪山神女將櫻的記憶完全封印，作為交換女神將自己的判斷基準與行為模式託付給櫻的人性。&lt;br /&gt;&lt;s&gt;布迪卡2P色。&lt;/s&gt;
+|-
+! 184
+| [[巴御前 (Fate)|Archer．地獄&lt;br /&gt;巴御前]]
+| Archer
+| rowspan=2|地
+|
+| しらび
+| [[金元壽子]]
+| rowspan="2"| 桜井光
+| 名將木曾義仲之妾，才貌兼備、文武雙全的女英雄。
+|-
+! 185
+| [[望月千代女 (Fate)|Assassin．樂園&lt;br /&gt;望月千代女]]
+| Assassin
+| &lt;s&gt;HOT LIMIT&lt;/s&gt;
+| ひろやま ひろし
+| [[佐倉綾音]]
+| 侍奉武田信玄的女忍者，收養孤兒將之培養成巫女來四處收集情報。
+|-
+! 186
+| [[寶藏院胤舜 (Fate)|寶藏院胤舜]]
+| Lancer
+| rowspan=2|人
+| 
+| 松竜
+| [[浪川大輔]]
+| 東出祐一郎
+| 完備寶藏院流槍術，最有名的事蹟是與宮本武藏對決過。
+|-
+! 187
+| [[柳生但馬守宗矩 (Fate)|柳生但馬守宗矩]]
+| Saber
+| 
+| 古海鐘一
+| [[山路和弘]]
+| rowspan="2"| 桜井光
+| 柳生新陰流門人，因擔任德川家的劍術指南役而成為江戶柳生的代表人物，幕府治下柳生藩的初代藩主&lt;br /&gt;日後名震日本的天才劍士十兵衛之父。
+|-
+! 188
+| [[加藤段蔵 (Fate)|加藤段藏]]
+| Assassin
+| rowspan=2|地
+| &lt;s&gt;記錄的地平線&lt;/s&gt;
+| 曾我誠
+| [[明坂聰美]]
+| 戰國、安土桃山時代傳奇忍者，曾在上杉謙信面前表演吞牛而留名。
+|-
+! 189
+| [[刑部姫 (Fate)‎‎|刑部姬]]
+| Assassin
+| 
+| 森山大輔
+| [[福圓美里]]
+| 東出祐一郎
+| 萬聖節活動「魔のビルドクライマー姫路城大決戦」卡池登場，在姬路城被當作地主神祭祀的知名妖怪，傳說中住在姬路的天守閣。&lt;br /&gt;&lt;s&gt;二創中多半都是以尼特形象登場。&lt;/s&gt;
+|-
+! 190
+| [[Magus Aegis Elizabeth Channel (Fate)|機械伊莉醬]]
+| Alter Ego
+| rowspan=2|人
+| 
+| rowspan=2|ワダアルコ
+| rowspan=2|[[大久保瑠美]]
+| rowspan="2"| 奈須きのこ
+| 萬聖節活動「魔のビルドクライマー姫路城大決戦」贈送角色。跟二號機只能任擇其一。
+|-
+! 191
+| [[Magus Aegis Elizabeth Channel (Fate)‎|機械伊莉醬II號機]]
+| Alter Ego
+| 
+| 萬聖節活動「魔のビルドクライマー姫路城大決戦」贈送角色。跟原型只能任擇其一。
+|-
+! 192
+| [[Circe (Fate)|俄刻阿諾斯的Caster&lt;br /&gt;喀耳刻]]
+| Caster
+| rowspan=2|天
+| 
+| 左
+| [[茜屋日海夏]]
+| 星空めてお
+| 艾尤島的魔女，聯繫著黑卡蒂一脈的系譜的，司掌愛與月的半神。&lt;br /&gt;既是美狄亞與阿斯忒里翁的姑姑，也是美狄亞的師姐。
+|-
+! 193
+| [[哪吒 (Fate)|哪吒]]
+| Lancer
+| 
+| 蒼月タカオ
+| [[小倉唯]]
+| 星空めてお&lt;br/&gt;東出祐一郎
+| 太乙真人所造的機關人偶，作為Lancer召喚時會較為接近《西遊記》中佛教守護者的形象。&lt;br /&gt;早先在[[Fate/Grand_Order活動一覽#星之三藏醬、往天竺前進（星の三蔵ちゃん、天竺に行く）|星之三藏醬、往天竺前進]]活動中登場，但直到[[禁忌降臨庭園 塞勒姆]]才正式實裝。&lt;br /&gt;&lt;s&gt;毫不意外的性轉。&lt;/s&gt;
+|-
+! 194
+| [[Queen of Sheba (Fate)|米德拉什的Caster&lt;br /&gt;示巴女王]]
+| Caster
+| 人
+| 
+| 加藤いつわ
+| [[佐藤聰美]]
+| rowspan="2"| 星空めてお
+| 聖經中的神祕國度示巴王國的女王。&lt;br /&gt;所羅門王的情人，具備與所羅門比肩的智慧。
+|-
+! 195
+| [[Abigail Williams (Fate)|艾比蓋兒．威廉斯]]
+| Foreigner
+| rowspan=2|地
+| 
+| 黑星紅白
+| [[大和田仁美]]
+| 塞勒姆審巫案的重要關係人，許多無辜之人皆因她的告發而死。
+|-
+! 196
+| [[Ereshkigal (Fate)|埃列什基伽勒]]
+| Lancer
+| 
+| 森井しづき
+| [[植田佳奈]]
+| rowspan="2"| 奈須きのこ
+| 冥界的女神，伊絲塔的姐姐。&lt;br /&gt;在活動＂冥界的聖誕快樂＂的限定卡池中正式實裝。
+|-
+! 197
+| [[Altera (Fate)|阿蒂拉．the． San〔ta〕]]
+| Archer
+| 星
+| 
+| huke
+| [[能登麻美子]]
+| 活動＂冥界的聖誕快樂＂的活動贈送角色。&lt;br /&gt;角色名「アルテラ･ザ･サン〔タ〕」改自阿提拉在英文圈的稱呼之一「匈人王阿提拉（Attila the Hun/アッティラ・ザ・フン）」。&lt;s&gt;破壞的能登(聖誕版)/咩咩咩的能登&lt;/s&gt;。
+|-
+! 198
+| [[葛飾北斎 (Fate)|葛飾北齋]]
+| Foreigner
+| 人
+| 
+| 黑星紅白
+| [[野上尤加奈|ゆかな]]
+| 星空めてお
+| 江戶時代畫家，真身是襲其父名的女畫師葛飾應為。浮世繪發展的重要人物&lt;s&gt;，觸手系H同人、腐女的先驅&lt;/s&gt;。&lt;br /&gt;&lt;s&gt;人設相當符合黒星紅白的性癖&lt;/s&gt;。
+|-
+! 199
+| [[Semiramis (Fate)|塞彌拉彌斯]]
+| Assassin
+| 地
+| Fate/Apocrypha
+| 近衛乙嗣
+| [[真堂圭]]
+| 東出祐一郎
+| 初期解包數據中CV為能登麻美子，AP動畫中CV為真堂圭。&lt;br /&gt;於情人節2018 ~繁榮的情人節巧克力庭園~ 活動正式實裝
+|-
+! 200
+| [[淺上藤乃]]
+| Archer
+| 人
+| 空之境界
+| 武內崇
+| [[能登麻美子]]
+| 奈須きのこ
+| 2018年期間限定復刻活動「空之境界the garden of Order」卡池登場。&lt;br/&gt;&lt;s&gt;出來騙錢的理由是&lt;/s&gt;在設定上，'''這個藤乃'''所在的時代已因人理燒卻而化為灰燼，但因其特異性而被抑止力相中，成為阿賴耶識為了對抗人理燒卻而準備的特別戰力&lt;br/&gt;&lt;s&gt;已經燒完了妳才跑出來不會太晚嗎？&lt;/s&gt;&lt;br/&gt;&lt;s&gt;拆橋的能登。&lt;/s&gt;
+|-
+! 201
+| [[Grand Duchess Anastasia Nikolaevna of Russia (Fate)|安娜塔西亞]]
+| Caster
+| 人
+| &lt;s&gt;アイドルマスター&lt;/s&gt;
+| sime 
+| 原由実 
+| rowspan=3|東出祐一郎
+| 俄羅斯沙皇末代皇女&lt;s&gt;，暱稱是[[アイドルマスター シンデレラガールズ登場人物一覧/Cool屬性#アナスタシア（あなすたしあ）|阿妮亞]]&lt;/s&gt;
+|-
+! 202
+| [[Atalanta (Fate)|阿塔蘭塔〔Alter〕]]
+| Berserker
+| 地
+| Fate/Apocrypha
+| rowspan=2|近衛乙嗣
+| [[早見沙織]]
+| 以寶具「神罰的野豬」自我附身後的型態，職階改為Berserker
+|-
+! 203
+| [[Avicebron (Fate)|阿維斯布隆]]
+| Caster
+| 人
+| Fate/Apocrypha&lt;br /&gt;&lt;s&gt;烏龍派出所&lt;/s&gt;
+| 宮本充
+| 初期解包數據中CV為遊佐浩二，AP動畫中CV為宮本充。&lt;br /&gt;&lt;s&gt;最沒人在乎，甚至在本條目的未實裝名單中不小心被遺漏掉好一陣子都沒人發現的角色CV反而升級了？&lt;/s&gt;
+|-
+! 204
+| [[Antonio Salieri (Fate)|安東尼奧．薩里耶利]]
+| Avenger
+| 地
+|
+| PFALZ
+| [[關俊彥]]
+| 桜井光&lt;br/&gt;奈須きのこ&lt;ref&gt;異聞帶用的設定由蘑菇負責&lt;/ref&gt; 
+| 哈布斯堡王朝的宮廷音樂家，與莫札特的一生有許多牽扯。&lt;br /&gt;{{censored|遊戲中一開始自稱是阿瑪迪斯Alter，角色立繪一開始也是戴上面具沒有笑容的莫札特，後來才被發現其真身}}
+|-
+! 205
+| [[Ivan the Terrible (Fate)|伊凡雷帝]]
+| Rider
+| 人
+| &lt;s&gt;[[人中之龍|龍が如く]]&lt;/s&gt;
+| danciao
+| 黑田崇矢
+| 東出祐一郎&lt;br/&gt;奈須きのこ 
+| 伊凡四世，俄羅斯初代沙皇、俄羅斯帝國開創者，在西方形象為殘暴但也英明的君王。&lt;br /&gt;據說在克里姆林宮地下藏有伊凡雷帝收集來的大量書籍，AP中也有被控制的紅方Master夢到自己進入伊凡雷帝的圖書館，覓得諸多奧秘的情節。&lt;br /&gt;{{censored|回應迦勒底召喚的並非泛人類史的伊凡四世，而是永久凍土帝國的建國者、最初的雅戈族，來自第一異聞帶獸王伊凡雷帝}}
+|-
+! 206
+| [[Achilles (Fate)|阿基里斯]]
+| Rider
+| 地
+| Fate/Apocrypha&lt;br /&gt;&lt;s&gt;機動戰士鋼彈 鐵血孤兒&lt;/s&gt;
+| rowspan=3|近衛乙嗣
+| 古川慎
+| rowspan=3|東出祐一郎
+| 首先在亞歷山大的絆劇情《奔馳吧，蹂躪征服初方起始（駆け抜ける、始まりの蹂躙制覇）》中登場，當時的立繪暫時沿用AP的插畫。&lt;br /&gt;初期解包數據中CV為鳥海浩輔，AP動畫中CV為古川慎。
+|-
+! 207
+| [[Chiron (Fate)|凱隆]]
+| Archer
+| 天
+| rowspan=2|Fate/Apocrypha
+| [[武內駿輔]]
+| 初期解包數據中CV為三木真一郎，AP動畫中CV為武內駿輔。
+|-
+! 208
+| [[齊格 (Fate)|齊格]]
+| Caster
+| rowspan=4|人
+| [[花江夏樹]]
+| 2018年4月29日Fate/Apocrypha×Fate/Grand Order聯動活動「Apocrypha/Inheritance of Glory」贈送角色。&lt;br /&gt;這裡的'''這個齊格'''是接續F/AP結局，成為法夫納的齊格所使用的人型終端。
+|-
+! 209
+| [[沖田総司 (Fate)|沖田總司〔Alter〕]]
+| Alter Ego
+| rowspan=2|琥珀ACE EX&lt;br /&gt;Fate/KOHA-ACE 帝都聖杯奇譚
+| 武內崇
+| [[悠木碧]]
+| rowspan=3|経験値
+| 在琥珀ACE是以「魔神Saber」的名義初登場，直到帝都聖杯奇譚連載才改為沖田總司（Alter）。&lt;s&gt;不是魔神Saber而是魔神Alter Ego了&lt;/s&gt;
+|-
+! 210
+| [[岡田以蔵 (Fate)|岡田以藏]]
+| Assassin
+| lack
+| 吉野裕行
+| 土佐出身的殺手，「幕末四大人斬」之一。&lt;br /&gt;在琥珀ACE是以「Saber坂本龍馬」的名義初登場，直到帝都聖杯奇譚連載才正式公布真名。&lt;br /&gt;本作中是在負面意義上寫下新紀錄的'''首位期間限定三星'''角色。&lt;br /&gt;&lt;s&gt;從經驗值筆下的卑劣大叔轉型為珈琲紳士畫風的傲嬌美男後人氣暴增，連個人傳記都多印好幾刷，FGO最大受惠者。&lt;/s&gt;
+|-
+! 211
+| [[坂本龍馬 (Fate)|坂本龍馬]]
+| Rider
+| Fate/KOHA-ACE 帝都聖杯奇譚
+| pako
+| 加瀨康之&lt;br /&gt;[[堀江由衣]]
+| 幕末時代活躍於船艦與軍火領域的商人，推動日本近代化的維新志士、改革家之一，被譽為促進現代日本的推手。&lt;br /&gt;2018年6月13日帝都聖杯奇譚聯動活動「ぐだぐだ帝都聖杯奇譚」贈送角色，因其設定上的特殊性而和妻子阿龍一起參戰。&lt;br /&gt;&lt;s&gt;JOY4成員之一。&lt;/s&gt;&lt;s&gt;目覚めよ日本！夜明けぜよ！&lt;/s&gt;
+|-
+! 212
+| [[Napoleon Bonaparte (Fate)|拿破崙]]
+| Archer
+| 星
+|
+| Ryota-H
+| [[日野聰]]
+| 桜井光
+| 第二部TVCM從者，手持巨大炮管的Archer。&lt;br /&gt;即'''拿破崙．波拿巴'''。在軍校就讀砲兵科，之後更想出了實際運用的「大砲兵連戰術」，其名言「我的字典裡沒有不可能」被後人誤解&lt;ref&gt;實際上拿破崙說這句話時的意思是「『不可能』這個單字在法語裡沒有」。&lt;/ref&gt;。&lt;br /&gt;&lt;s&gt;起こせ革命！それが宿命！&lt;/s&gt;
+|-
+! 213
+| [[Sigurd (Fate)|齊格魯德]]
+| Saber
+| 地
+| Fate/Prototype 蒼銀的碎片&lt;br /&gt;蒼銀的碎片廣播劇特典小說 《對著褪去鎧甲的我》&lt;br /&gt;&lt;s&gt;遊戲王&lt;/s&gt;
+| 三輪士郎
+| [[津田健次郎]]
+| 東出祐一郎
+| 與齊格飛是同源人物，出自《沃爾松格傳》。&lt;br /&gt;&lt;s&gt;但從蒼銀裡的描述來看設定潮度比齊格飛高了一倍不止，實裝後在系統上弱得讓人傻眼，すまない。&lt;/s&gt;&lt;br /&gt;初期解包數據中CV為稻田徹，實裝後為津田健次郎。
+|-
+! 214
+| [[Valkyrie (Fate)|瓦爾基麗]]
+| Lancer
+| rowspan=2|天
+|
+| 武內崇
+| [[田中美海]]&lt;br /&gt;[[小松未可子]]&lt;br /&gt;[[雨宮天]]
+| rowspan=2|桜井光
+| 北歐神話的女武神'''們'''，布倫希爾德也曾是其中之一。&lt;br /&gt;據布倫希爾德的回憶，瓦爾基麗都是沒有自我思想，只懂得向父神（奧丁）效忠的存在。&lt;br /&gt;值得一提的是，在TM創立初期，還未商業化時。武內曾以竹箒的名義發表過關於瓦爾基麗的同人誌《Valkyria NEAV SAGA》系列。&lt;br /&gt;而本作中瓦爾基麗們的外表改自P.A.製作、武內負責人設原案，最後卻胎死腹中的動畫《Planet:Valkyrie》。&lt;br /&gt;遊戲中第一位由'''三名聲優'''獻聲的從者。
+|-
+! 215
+| [[Scathach (Fate)|斯卡薩哈=絲卡蒂]]
+| Caster
+|
+| こやまひろかず
+| [[能登麻美子]]
+| 第二部TVCM從者。&lt;br /&gt;因為外觀和CV，大家曾推斷她是C職版'''斯卡薩哈'''，或是她&lt;s&gt;那被笨蛋弟子搞大了&lt;/s&gt;的妹妹'''艾弗'''。結果登場後卻是'''女神斯卡蒂'''與斯卡薩哈結合的形態。&lt;br /&gt;於3周年紀念卡池正式實裝
+|-
+! 216
+| [[Jeanne d'Arc (Fate)|貞德]]
+| Archer
+| 人
+|
+| 武內崇
+| [[坂本真綾]]
+| 東出祐一郎
+| 2018年夏季泳裝活動「Servant.Summer.Festival！」卡池出場。
+|-
+! 217
+| [[茨木童子 (Fate)|茨木童子]]
+| Lancer
+| 地
+|
+| 左
+| [[東山奈央]]
+| 桜井光
+| 2018年夏季泳裝活動「Servant.Summer.Festival！」卡池出場。
+|-
+! 218
+| [[牛若丸 (Fate)|牛若丸]]
+| Assassin
+| rowspan=2|人
+|&lt;s&gt;東方文花帖 ～ Bohemian Archive in Japanese Red.&lt;/s&gt;
+| 坂本みねぢ
+| [[早見沙織]]
+| 水瀬葉月
+| 2018年夏季泳裝活動「Servant.Summer.Festival！」卡池出場。
+|-
+! 219
+| [[Jeanne d'Arc (Fate)|貞德〔Alter〕]]
+| Berserker
+|
+| 武內崇
+| [[坂本真綾]]
+| 東出祐一郎
+| 2018年夏季泳裝活動「Servant.Summer.Festival！」贈送從者。
+|-
+! 220
+| [[BB (Fate)|BB]]
+| Moon Cancer
+| rowspan=2|地
+| &lt;s&gt;拳皇'94&lt;/s&gt;
+| ワダアルコ
+| [[下屋則子]]
+| 奈須きのこ 
+| 2018年夏季泳裝活動「Servant.Summer.Festival！」卡池出場。
+|-
+! 221
+| [[Medb (Fate)|女王梅芙]]
+| Saber
+|
+| 高山箕犀
+| [[佐倉綾音]]
+| 桜井光
+| 2018年夏季泳裝活動「Servant.Summer.Festival！」卡池出場。
+|-
+! 222
+| [[謎之女主角X|謎之女主角XX]]
+| Foreigner
+| 星
+| &lt;s&gt;宇宙刑事卡邦&lt;/s&gt;
+| BUNBUN
+| [[川澄綾子]]
+| 奈須きのこ 
+| 2018年夏季泳裝活動「Servant.Summer.Festival！」卡池出場。
+|-
+! 223
+| [[Diarmuid Ua Duibhne (Fate)|迪爾穆德．奧．德利暗]]
+| Saber
+| 地
+|
+| Azusa
+| [[綠川光]]
+| rowspan=3|桜井光
+| 首度出現於第五章TV-CM，但第五章中登場的是Lancer版。後來在FZ活動的訪談中被提到，但活動中出場的還是Lancer版。&lt;br /&gt;&lt;s&gt;幸運E的體現。&lt;/s&gt;&lt;br /&gt;時隔將近2年半，終於在F/Z復刻中實裝為常駐四星從者。
+|-
+! 224
+| [[シトナイ (Fate)|志度內]]
+| Alter Ego
+| 天
+|
+| BLACK
+| [[門脇舞以]]
+| 附著在[[伊莉亞絲菲爾‧馮‧艾因茲貝倫]]身上的擬似從者，複合了愛努族少女志度內（シトナイ）、芬蘭魔女{{wp|婁希}}（Louhi）和北歐女神{{wp|弗蕾亞}}（Freyja）三者的分靈。&lt;br /&gt;史上第一隻沒和主線故事一起實裝的'''故事限定'''角色。
+|-
+! 225
+| [[酒吞童子 (Fate)|酒吞童子]]
+| Caster
+| 地
+|
+| 本庄雷太
+| [[悠木碧]]
+| 萬聖節活動「神秘の国のＯＮＩＬＡＮＤ!! ～鬼の王とカムイの黄金～」贈送角色
+|-
+! 226
+| [[項羽 (Fate)|項羽]]
+| Berserker
+| rowspan=4|人
+|
+| danciao
+| [[山寺宏一]]
+| 虛淵玄
+| 第二部OP登場從者。被譽為中國歷史上最勇猛的將領，自封「西楚霸王」。最後於垓下被韓信擊敗後，於烏江自刎。
+|-
+! 227
+| [[高長恭 (Fate)|蘭陵王]]
+| Saber
+|
+| hou
+| 森奈奈子
+| rowspan=2| 東出祐一郎
+| 第二部TVCM從者，手持雙劍，台詞中展現對Master的忠義。&lt;br /&gt;本名高長恭，北齊宗室、名將。
+|-
+! 228
+| [[秦良玉 (Fate)|秦良玉]]
+| Lancer
+|
+| しまどりる
+| [[下屋則子]]
+| 明末女將，唯一一位被列入《二十四史》的女將。率領著一支以「白桿槍」為主要武器的部隊。&lt;br /&gt;&lt;s&gt;虛淵…中國…包包頭……嗚，頭好痛&lt;/s&gt;
+|-
+! 229
+| [[嬴政 (Fate)|始皇帝]]
+| Ruler
+| &lt;s&gt;《CODE GEASS 反叛的魯路修》&lt;/s&gt;&lt;br/&gt;英靈傳承～荊軻～《刺客傳 十步一殺》
+| 東冬
+| [[福山潤]]
+| rowspan=2| 虛淵玄
+| 本名趙政&lt;ref&gt;趙'''氏'''為嬴'''姓'''的分支。先秦時期男子冠氏，女子稱姓；稱秦始皇為「嬴政」是姓氏合流以後的事了。&lt;/ref&gt;，第一位統一中國的君王、中國史上的首位皇帝。&lt;br /&gt;對不老不死相當執著，身上流有類似鬼種的血脈，但被荊軻以海德拉之毒刺殺後成為人王&lt;ref&gt;但是這條設定與劇情中出場的異聞帶之王版本始皇帝無關。&lt;/ref&gt;。
+|-
+! 230
+| [[虞姬 (Fate)|虞美人]]
+| Assassin
+| rowspan=3|地
+| 
+| toi8
+| [[伊瀨茉莉也]]
+| 陪伴在項羽身邊的美人，與項羽之間的愛情故事為後世所傳頌。&lt;br /&gt;{{censored|為芥雛子的真正身份。}}
+|-
+! 231
+| [[赤兔馬 (Fate)|赤兔馬]]
+| Rider
+|
+| 綠川美帆
+| [[綠川光]]
+| rowspan=2| 桜井光
+| 三國時期的名馬，先後被呂布與關羽所騎乘。
+|-
+! 232
+| [[Bradamante (Fate)|布拉達曼特]]
+| Lancer
+|
+| saitom
+| 森永千才
+| 查理曼十二騎士中，名聲僅次羅蘭的勇者瑞納多的妹妹，與羅蘭和阿斯托爾福為親戚、一觸即倒的使用者之一。&lt;br /&gt;雖不算在十二騎士內，但武藝能和十二騎士相提並論的女漢子。&lt;s&gt;但被改寫成十二騎士之一了&lt;/s&gt;&lt;br /&gt;&lt;s&gt;女版瑪力歐，為了拯救愛人魯傑羅而四處奔波，情路走得相當坎坷&lt;/s&gt;
+|-
+! 233
+| [[Quetzalcoatl (Fate)|魁札爾．科亞特爾〔森巴／聖誕〕]]
+| Ruler
+| 天
+| &lt;s&gt;精靈寶可夢&lt;/s&gt;
+| 広江礼威
+| [[遠藤綾]]
+| 水瀬葉月&lt;br&gt;奈須きのこ
+| &lt;s&gt;[[神奇寶貝列表-第二世代##250 鳳王 ホウオウ Ho-Oh|大嘴雀（阿茲特克的樣子）]]&lt;/s&gt;
+|-
+! 234
+| [[舌切り雀の紅閻魔 (Fate)|剪舌麻雀的紅閻魔]]
+| Saber
+| 地
+| 
+| 原田たけひと
+| [[久野美咲]]
+| 奈須きのこ
+| 玉藻親友團之一，有在開料理教室的料理鐵人。
+|-
+! 235
+| [[李書文 (Fate)|李書文]]
+| Assassin
+| rowspan=4|人
+| Fate/Extra Visual Fanbook
+| ワダアルコ
+| [[安井邦彥]]
+| 東出祐一郎
+| 原本是青年Assassin老年Lancer，F/GO把兩者掉轉過來，變成青年Lancer老年Assassin。&lt;br&gt;在帝都聖杯奇譚因為已塞了三個新從者所以只好找年輕版代替。&lt;br /&gt;另外很少人會注意到的是，他也是和志度內一樣沒有在初登場章節中實裝的新角色&lt;br /&gt;&lt;s&gt;可能之後都是這種模式了？&lt;/s&gt;
+|-
+! rowspan="2"|236
+| [[美遊‧艾蒂菲爾特|美遊‧艾蒂菲爾特&lt;br&gt;{{censored|朔月美遊}}]]
+|  rowspan="2"|Caster
+|  rowspan="2"|[[Fate/kaleid liner 魔法少女☆伊莉雅]]
+|  rowspan="2"|ひろやま ひろし
+| [[名塚佳織]]
+| rowspan="2"|ひろやま ひろし
+| rowspan="2"|期間限定復刻活動「魔法少女紀行～Prisma cause～」卡池出場。
+|-
+| [[翡翠 (月姬)|藍寶石之星]]
+| [[嘉數由美]]
+|-
+! 237
+| [[紫式部 (Fate)|紫式部]]
+| Caster
+| &lt;s&gt;古見同學{{color|white||是溝通魯蛇}}有交流障礙症&lt;/s&gt;
+| 本庄雷太
+| [[茅野愛衣]]
+| 桜井光
+| 日本平安時代女文學家，著有《源氏物語》、《紫式部集》等作品。&lt;s&gt;日本最初的腐女&lt;/s&gt;
+|-
+! 238
+| [[Kingprotea]]
+| Alter Ego
+| 地
+| Fate/EXTRA CCC（廢案）&lt;br&gt;Fate/EXTRA CCC Fox Tail
+| ワダアルコ
+| 潘惠美
+| 奈須きのこ
+| BB的分身、「渴愛」的Alter Ego，「Sakura 5」的其中一位。
+|-
+! 239
+| [[Kamadeva (Fate)|伽摩]]
+| Assassin
+| 天
+| 
+| rowspan="2"|ReDrop
+| rowspan="2"|[[下屋則子]]
+| 水瀬葉月&lt;br&gt;奈須きのこ
+| 印度神話中的愛神，為了撮合濕婆和雪山神女而慘遭無妄之災，被濕婆用第三隻眼燒成灰。&lt;br&gt;原為美男子，本次附身在少女身上作為擬似從者接受召喚。
+|-
+! 240
+| [[Kamadeva (Fate)|Beast III/L]]
+| {{color|red||'''Beast III'''}}
+| 獸
+|
+| 奈須きのこ
+| {{censored|七大人類惡之一，原罪之III。司掌「墮落」之理的獸。&lt;s&gt;[[:file:Marasama.jpg|MARA大人]]&lt;/s&gt;}}
+|-
+! 241
+| [[萊尼斯‧艾爾梅洛伊‧阿其索爾特|司馬懿〔萊妮絲〕]]
+| Rider
+| 人
+| ロード・エルメロイⅡ世の事件簿
+| 坂本みねぢ
+| [[水瀨祈]]
+| rowspan="3"| 三田誠
+| 三國時期的著名軍師，諸葛孔明的死敵。&lt;br&gt;本次附身在[[萊尼斯‧艾爾梅洛伊‧阿其索爾特|少女]]身上作為擬似從者接受召喚，和孔明相同的是，司馬懿將身體的主控權交給了比較熟悉現代的萊妮絲。
+|-
+! 242
+| [[Astraea_(Fate)|阿斯特蕾亞]]
+| Ruler
+| 天
+| Fate/hollow ataraxia
+| 東冬
+| [[伊藤靜]]
+| 希臘神話中的正義女神，手持的天秤被認為是「天秤座」的由來。&lt;br&gt;本次附身在[[露維亞瑟琳塔‧艾蒂菲爾特|少女]]身上作為擬似從者接受召喚。
+|-
+! 243
+| [[Gray (TYPE-MOON)|格蕾]]
+| Assassin
+| 人
+| ロード・エルメロイⅡ世の事件簿
+| 坂本みねぢ
+| [[上田麗奈]]&lt;br&gt;[[小野大輔]]
+| 期間限定活動「淑女萊妮絲事件簿」贈送角色。
+|-
+! 244
+| [[吉娜可‧加里吉利|偉大石像神&lt;br&gt;吉娜可=加里吉利]]
+| Moon Cancer
+| 天
+| Fate/EXTRA CCC
+| ワダアルコ
+| [[悠木碧]]
+| 水瀬葉月&lt;br&gt;奈須きのこ
+| 
+|-
+! 245
+| [[Lakshmibai (Fate)|拉克什米‧芭伊]]
+| Saber
+| rowspan=2|人
+| 
+| 武內崇
+| [[佐藤利奈]]
+| rowspan="2"| 水瀬葉月
+| 通稱'''詹西王后'''的印度王后，率領人民在獨立戰爭中對抗英國，最終戰死。&lt;br&gt;被後人尊稱為'''印度的聖女貞德'''&lt;s&gt;，因此落入武內的魔掌，被畫成那張臉。&lt;/s&gt;
+|-
+! 246
+| [[William Tell (Fate)|威廉‧泰爾]]
+| Archer
+| &lt;s&gt;狼之口&lt;/s&gt;&lt;br&gt;&lt;s&gt;潛龍諜影&lt;/s&gt;&lt;br&gt;&lt;s&gt;PRIDE&lt;/s&gt;&lt;br&gt;&lt;s&gt;軍火女王&lt;/s&gt;
+| 高橋慶太郎
+| 藤井隼
+| 瑞士民間傳說中的英雄，使用弩弓的神射手，在瑞士對抗哈布斯堡王朝的內亂中成功暗殺總督，被視為是瑞士建國運動的象徵人物。&lt;br&gt;&lt;s&gt;長的不僅和田龜源五郎筆下名作《PRIDE》的角色十分相似，更和繪師的著名作品《軍火女王》中的登場角色雷姆幾乎是同個模子刻出來的，一實裝就受到盛大的風評被害&lt;/s&gt; 
+|-
+! 247
+| [[Arjuna (Fate)|阿周那〔Alter〕]]
+| Berserker
+| rowspan=2|天
+|
+| pako
+| [[島崎信長]]
+| rowspan=2| 東出祐一郎
+| 第二部TVCM從者。
+|-
+! 248
+| [[Aśvatthāman (Fate)|馬嘶]]
+| Archer
+| 
+| pako
+| [[鈴木達央]]
+| 印度史詩《摩訶婆羅多》中的登場人物，濕婆化身的俱盧族英雄、導師德羅納之子，能與阿周那勢均力敵的神射手。&lt;br&gt;在俱盧之戰末期受到黑天詛咒，背負了必須痛苦的活過三千年的命運。
+|-
+! 249
+| [[Asclepius (Fate)|阿斯克勒庇俄斯]]
+| Caster
+| rowspan=2|地
+| 
+| 悌太
+| [[鈴木崚汰]]
+| 水瀬葉月
+| 希臘神話中的醫藥之神，因為醫術精湛救活希波呂托斯而招惹黑帝斯的憤怒，遂被宙斯以天雷劈死，死後昇天化為蛇夫座。&lt;br&gt;因為是作為從者的初登場，和[[Fate/strange Fake]]中登場的[[Watcher (Fate/strange fake)|影子版本]]有所不同。
+|-
+! 250
+| [[織田信長 (Fate)|織田信長&lt;br&gt;織田吉法師&lt;br&gt;魔王信長]]
+| Avenger
+| 
+| pako
+| [[釘宮理惠]]
+| rowspan=3|経験値
+| 第六天魔王型態的織田信長，是信長過去、現在、未來的所有可能性的集結體。&lt;br&gt;性別被標示為'''「？」'''。&lt;br /&gt;某種意義上是繼女武神後，第二個三合一角色
+|-
+! 251
+| [[森長可 (Fate)|森長可]]
+| Berserker
+| rowspan=3|人
+| Fate/KOHA-ACE 帝都聖杯奇譚
+| Dd
+| [[谷山紀章]]
+| 日本戰國時代武將，曾先後效力於織田信長與[[豊臣秀吉 (Fate)|豐臣秀吉]]，手持名槍「人間無骨」的猛將，外號「鬼武藏」。
+|-
+! 252
+| [[長尾景虎 (Fate)|長尾景虎]]
+| Lancer
+| GUDAGUDA ACE（暫定）&lt;br&gt;昭和戰國繪卷
+| 武內崇
+| [[水樹奈奈]]
+| 即'''上杉謙信'''，日本戰國時代的越後大名，別稱「軍神」，自詡為毘沙門天的化身&lt;s&gt;，上杉家的謙信醬BY信長&lt;/s&gt;。
+|-
+! 253
+| [[Leonardo da Vinci (Fate)|李奧納多．達．文西]]
+| Rider
+| 
+| 下越
+| [[坂本真綾]]
+| 奈須きのこ
+| 達文西在第二次的冠位指定中重新鑄造的秘書型美少女分身。&lt;br&gt;穿的是小學生制服，背上的書包會伸出機器手臂&lt;s&gt;童帝&lt;/s&gt;，寶具是戰車。&lt;br&gt;&lt;br&gt;在四週年慶祝時正式被實裝到手遊中，但可能是因為設定不同之故，寶具的戰車直接變成了Shadow Border，且星等變成五星、一部分的技能設定也有所不同。
+|-
+! 254
+| [[Iāsōn (Fate)|伊阿宋]]
+| Saber
+| rowspan=3|地
+| &lt;s&gt;MAGI&lt;/s&gt;
+| BLACK
+| [[保志總一朗]]
+| rowspan=2| 東出祐一郎 
+| 凱隆的學生之一，美狄亞的丈夫。代表事蹟為與眾英雄乘坐阿爾戈號尋找金羊毛。&lt;br&gt;原先由於持有阿爾戈號的寶具而被玩家認定為是Rider，但正式實裝的時候卻是以Saber職階加入。
+|-
+! 255
+| [[Paris (Fate)|帕里斯]]
+| Archer
+|
+| 輪くすさが
+| [[寺崎裕香]]
+| 特洛伊的'''王子'''，赫克特的'''弟弟'''。&lt;/br&gt;引發特洛伊戰爭的罪魁禍首。最後被菲羅克迪迪斯以「真．射殺百頭」射殺。
+|-
+! 256
+| [[Gareth (Fate)|加雷斯]]
+| Lancer
+| 竹箒日記《第六章/Zero》
+| ネコタワワ
+| 桑原由氣
+| 桜井光
+| 圓桌騎士之一，'''在本作中是女孩子'''。高文的妹妹，崇拜蘭斯洛特但生前死於蘭斯洛特劍下。
+|-
+! 257
+| [[Bartholomew Roberts (Fate)|巴索羅繆．羅伯茨]]
+| Rider
+| rowspan=3|人
+|
+| また
+| 小林千晃
+| 東出祐一郎
+| 海盜黃金時代的大海賊，作為海盜卻異常講究規矩、愛好向人傳教和服裝打扮的異類，有著「黑色准男爵」的異名。&lt;br&gt;曾在第三特異點中被黑鬍子&lt;s&gt;賣&lt;/s&gt;提及喜歡目隱系，正式登場後更進一步地證實他對目隱系的少年少女有著特殊愛好。
+|-
+! 258
+| [[陳宮 (Fate)|陳宮]]
+| Caster
+| Fate/EXTELLA
+| ワダアルコ
+| 真殿光昭
+| 奈須きのこ	
+| 呂布的軍師，第三異聞帶時和赤兔馬一同登場。&lt;s&gt;[[孔明の罠|就是現在]]，[[自爆]]吧[[新機動戰記鋼彈W|赤兔]]&lt;/s&gt;
+|-
+! 259
+| [[Charlotte Corday (Fate)|夏綠蒂·科黛]]
+| Assassin
+| &lt;s&gt;月曜日のたわわ&lt;/s&gt;
+| 蒼月タカオ
+| [[堀江由衣]]
+| 東出祐一郎 
+| 第二部OP登場從者。法國大革命的女烈士，為了阻止法國大革命而刺殺了主張革命的'''馬拉'''，最後也因此被送上[[Charles-Henri Sanson (Fate)|斷頭臺]]行刑，別名「暗殺的天使」。&lt;br&gt;取代了瑪塔·哈里變成了友情點數抽卡介面最前面的那個。&lt;br&gt;&lt;s&gt;殺死[[Kamadeva (Fate)|馬拉（mara'''t'''）]]的女人&lt;/s&gt;
+|-
+! 260
+| [[Salome (Fate)|莎樂美]]
+| Berserker
+| 地
+|
+| 下越
+| 布萊德庫特·莎拉·惠美
+| 桜井光	
+| 《新約聖經》中的人物，又譯為撒羅米。在其父親——「分封的王希律」生日中令父親歡喜，使父親允許實現其一個願望。莎樂美就要求「施洗的約翰」的頭。&lt;br&gt;順便說一下，在聖經中其實從未提過莎樂美的名字，只有用「希羅底的女兒」稱之。其名字是在其他史料中才被提及。
+|-
+! 261
+| [[宮本武蔵 (Fate)|DATA LOST]]
+| Berserker
+| 人
+| 
+| こやまひろかず
+| [[佐倉綾音]]
+| 奈須きのこ
+| 2019年夏季泳裝活動「見參！拉斯維加斯御前試合～泳裝劍豪七色勝負！」卡池出場。
+|-
+! 262
+| [[刑部姫 (Fate)‎‎|刑部姬]]
+| Archer
+| rowspan=2|地
+| 
+| 森山大輔
+| [[福圓美里]]
+| 東出祐一郎
+| 2019年夏季泳裝活動「見參！拉斯維加斯御前試合～泳裝劍豪七色勝負！」卡池出場。
+|-
+! 263
+| [[Carmilla (Fate)|卡米拉]]
+| Rider
+| 
+| okojo
+| [[田中敦子]]
+| 水瀬葉月
+| 2019年夏季泳裝活動「見參！拉斯維加斯御前試合～泳裝劍豪七色勝負！」卡池出場。
+|-
+! 264
+| [[葛飾北斎 (Fate)|葛飾北齋]]
+| Saber
+| 人
+| 
+| 黑星紅白
+| [[野上尤加奈|ゆかな]]
+| 星空めてお
+| 2019年夏季泳裝活動「見參！拉斯維加斯御前試合～泳裝劍豪七色勝負！」贈送從者。
+|-
+! 265
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢]]
+| Ruler
+| 天
+| 
+| 石田あきら
+| [[川澄綾子]]
+| 桜井光
+| 2019年夏季泳裝活動「見參！拉斯維加斯御前試合～泳裝劍豪七色勝負！」卡池出場。
+|-
+! 266
+| [[Meltryllis|謎之Alterego・Λ]]
+| Lancer
+| 地
+| 
+| ワダアルコ
+| [[早見沙織]]
+| 奈須きのこ
+| 2019年夏季泳裝活動「見參！拉斯維加斯御前試合～泳裝劍豪七色勝負！」卡池出場。
+|-
+! 267
+| [[沖田総司 (Fate)|Okita・J・Souji&lt;br&gt;沖田總司]]
+| Assassin
+| 人
+| 
+| 武內祟
+| [[悠木碧]]
+| 経験値
+| 2019年夏季泳裝活動「見參！拉斯維加斯御前試合～泳裝劍豪七色勝負！」卡池出場。
+|-
+! 268
+| [[Space Ishtar|太空伊絲塔]]
+| Avenger
+| 星
+| 
+| 森井しづき
+| [[植田佳奈]]
+| 奈須きのこ
+| 來自[[Servant宇宙]]的伊絲塔，駕駛瑪安娜號在宇宙馳騁的宇宙賞金獵人。&lt;br&gt;{{censored|遊戲中實裝的她同時擁有三個面向：作為原初女神善之一面的亞斯塔祿總統(靈基1)；原初女神惡之一面的太空伊斯塔(靈基2)；融合誕生的真原初女神(靈基3)}}&lt;br&gt;{{censored|真正的名字「イシュタル・アシュタレト」可能是埃列什基迦勒在FGOM中提到的「我們(伊斯塔與她)的大源」。}}
+|-
+! 269
+| [[Calamity Jane (Fate)|災星簡]]
+| Archer
+| 人
+|
+| Bすけ
+| [[東山奈央]]
+|
+| 美國西部拓荒時代知名女槍手，著名的吹牛大王。&lt;br&gt;和喬治‧卡斯特將軍並行偵查、制裁殺害狂野比爾的兇手……等大部分事蹟都是她自己講的，現今普遍認為吹牛多於事實。&lt;br&gt;本作的她是來自[[Servant宇宙]]的啦啦隊女孩。&lt;br&gt;在[[:File:CalamityJane.JPG|被拆出圖片]]的初期拆包角色中是最晚實裝的一位。
+|-
+! 270
+| [[Astolfo (Fate)|阿斯托爾福]]
+| Saber
+| 地
+| &lt;s&gt;用漫畫了解FGO！&lt;/s&gt;&lt;ref&gt;第二部第45話中曾出現過五星阿斯托爾福的惡搞形象，其名臺詞「我就是你的劍！」甚至回流到了FGO實裝後的正式版本中&lt;/ref&gt;
+| 近衛乙嗣
+| 大久保瑠美
+| 
+| 
+|-
+! 271
+| [[Florence Nightingale (Fate)|南丁格爾〔聖誕〕]]
+| Archer
+| 人
+| &lt;s&gt;歡樂滿人間&lt;/s&gt;&lt;ref&gt;最初看立繪以為是捏他某魔鬼終結者女僕，但CM則明白地告訴玩家是在捏他經典電影和兒童小說的主角瑪麗.波平斯&lt;/ref&gt;
+| 高橋慶太郎
+| [[澤城美雪]]
+| 桜井光
+| 限定活動「聖誕節2019 南丁格爾的聖誕頌歌」贈送角色
+|-
+! 272
+| [[Orion (Fate)|超人俄里翁]]
+| Archer&lt;br /&gt;{{color|gold||'''Grand Archer'''}}
+| 地
+| &lt;s&gt;HUNTER X HUNTER&lt;/s&gt;&lt;ref&gt;某種程度激似作中名人「新人殺手東巴」&lt;/ref&gt;
+| I-Ⅳ
+|[[神奈延年]]
+| 東出祐一郎
+| 第二部OP登場從者。古希臘最優秀的獵人，俄里翁的超人（自稱）型態。
+|-
+! 273
+| [[Mandricardo (Fate)|曼迪卡爾多]]
+| Rider
+| 人
+| &lt;s&gt;果然我的青春戀愛喜劇搞錯了&lt;/s&gt;
+| ギンカ
+| 增田俊樹
+|
+| 《瘋狂的羅蘭》中登場的韃靼王，因愛上同為撒拉森軍的羅德孟特的戀人多拉莉絲而把她擄走，最後因緣際會下被布拉達曼特的戀人魯傑羅殺死。&lt;br&gt;第二部TVCM從者，8名TVCM從者中最難猜的一位，在夏綠蒂的絆6爆雷後，真名幾乎被斷定為是希臘大英雄奧德修斯，結果實際上居然是別人。&lt;br&gt;&lt;s&gt;搞了半天原來連絆6爆雷都是誤導手段之一（大誤）&lt;/s&gt;
+|-
+! 274
+| [[Europa (Fate)|歐羅芭]]
+| Rider
+| 天
+| &lt;s&gt;THE ビッグオー&lt;/s&gt;
+| redjuice
+| [[M·A·O]]
+|
+| 希臘神話中的腓尼基公主，以作為「金牛座」的故事典故和歐洲大陸的語源聞名。&lt;br&gt;作為宙斯的情人，從他那收到了青銅巨人塔羅斯作為禮物。&lt;br&gt;&lt;s&gt;在[[碧藍幻想|隔壁]]是知名的筋肉母猩猩&lt;/s&gt;
+|-
+! 275
+| [[楊玉環 (Fate)|楊貴妃]]
+| Foreigner
+| rowspan=2|人
+| 
+| 黑星紅白
+| 佳村遙
+|
+| 中國四大美人之一，唐玄宗的愛妾。最終被縊死在馬嵬驛佛堂的梨樹下。&lt;br&gt;常被後世指謫為禍國紅顏。
+|-
+! 276
+| [[清少納言 (Fate)|清少納言]]
+| Archer
+| &lt;s&gt;Kaguya Luna Official&lt;/s&gt;&lt;br/&gt;&lt;s&gt;任天堂&lt;/s&gt;&lt;ref&gt;配色類似主機 Nintendo Switch&lt;/ref&gt;&lt;br/&gt;&lt;s&gt;妾願為君亡&lt;/s&gt;
+| mika pikazo
+| [[菲魯茲．藍]]
+|
+| 日本平安時代女作家，隨筆散文集《枕草子》的作者。&lt;br&gt;與同一時代的紫式部和和泉式部並稱為「三才媛」，其與紫式部的微妙關係為後人所津津樂道&lt;ref&gt;史實上紫式部很討厭清少納言，但清少納言本人對紫式部的看法並無特別流傳下來，因此給了後人許多創作空間&lt;/ref&gt;。
+|-
+! 277
+| [[Odysseus (Fate)|奧德修斯]]
+| Rider
+| 地
+|&lt;s&gt;[[仮面ライダー龍騎]]&lt;/s&gt;&lt;br/&gt;&lt;s&gt;漫威漫畫&lt;/s&gt;&lt;br/&gt;&lt;s&gt;[[機動戰士鋼彈]]&lt;/s&gt;
+| redjuice
+| 桐本拓哉
+|
+| 荷馬史詩《奧德賽》的主角，希臘有名的大英雄，伊薩卡島之王。曾以「木馬屠城計」毀滅了特洛伊，終結了特洛伊戰爭。&lt;br&gt;同時也是對妻子佩涅羅珀十分專一的好丈夫。&lt;br&gt;風格迥異的人設和強大的魔王氣場導致2.5章實裝前被部分網民認為是宙斯。
+|-
+! 278
+| [[Dioscuri (Fate)|狄奧斯庫洛伊]]
+| Saber
+| 天
+| 
+| タイキ
+| [[內田雄馬]]&lt;br&gt;[[內田真禮]]
+|
+| 即'''卡斯托耳與波魯克斯'''兄弟的合稱，希臘神話中有名的雙胞胎，阿爾戈英雄的成員，雙子座的典故來源。&lt;br&gt;本作中波魯克斯被性轉成妹妹&lt;s&gt;，連喀耳刻幕間中提到的「狄奧斯庫洛伊兄弟」也在不知不覺中被偷改成「狄奧斯庫洛伊兄妹」&lt;br&gt;雖然遊戲中是兄妹，但裡面的人是姐弟。&lt;/s&gt;
+|-
+! 279
+| [[Caenis (Fate)|凱妮絲]]
+| Lancer
+| 地
+|
+| Azusa
+| [[小松未可子]]
+|
+| 第二部TVCM從者，幸運E的希臘槍兵。&lt;br&gt;生前因美貌過人而受到波賽頓的青睞，在被祂強暴後許願成為男人，之後改名凱涅厄斯並成為一國之主。&lt;br&gt;雖然刀槍不入，但被半人馬用樹幹活埋，最後變成&lt;s&gt;天翔十字鳳&lt;/s&gt;金色大鳥逃出&lt;br&gt;曾參與狩獵卡呂冬野豬，兒子是阿耳戈號成員、孫子參加了特洛伊戰爭。
+|-
+! 280
+| [[Romulus (Fate)|羅慕路斯．奎里努斯]]
+| Lancer&lt;br /&gt;{{color|gold||'''Grand Lancer'''}} 
+| 天
+|  &lt;s&gt;聖鬥士星矢&lt;/s&gt;
+| こやまひろかず	
+| [[置鮎龍太郎]]
+| 桜井光
+| 以卡里古拉的身軀現界，七騎的Grand Servant之一，為羅馬神祖羅慕路斯和羅馬主神之一奎里努斯合一的姿態&lt;ref&gt;奎里努斯在某些傳承中被認為和神化的羅慕路斯是同一存在&lt;/ref&gt;。&lt;/br&gt;受限於迦勒底的召喚系統限制，以普通的Lancer現界。
+|-
+! 281
+| [[Voyager 1 (Fate)|航海家]]
+| Foreigner
+| 星
+| Fate/Requiem&lt;/br&gt;&lt;s&gt;人類衰退之後&lt;/s&gt;
+| rowspan="3"| NOCO
+|  [[井口裕香]]
+| rowspan="3"| 星空めてお
+| 即'''航海家一號'''，人類史上第一個離開太陽系的人造飛行器，在2020年的現在仍在太空運作中。&lt;br&gt;&lt;s&gt;明明是艘太空船卻不知為何變成了人型，還混入大量小王子要素&lt;/s&gt;&lt;ref&gt;絆資料解釋這是因為接受召喚的航海家一號試圖轉變成可以和御主溝通的型態，而外型則受到了御主宇津見繪里世主觀上的大量影響&lt;s&gt;，果然是正太控沒錯吧妳這剛見面就把人家脫光光抓去洗澡的傢伙，FBI！&lt;/s&gt;&lt;/ref&gt;
+|-
+! 282
+| [[鬼女紅葉 (Fate)|鬼女紅葉]]
+| Berserker
+| 地
+| Fate/Requiem&lt;/br&gt;&lt;s&gt;飆馬野郎&lt;/s&gt;&lt;/br&gt;&lt;s&gt;[[迪亞哥‧布蘭多似乎在挑戰Grand Order的樣子]]‎‎&lt;/s&gt;&lt;/br&gt;&lt;s&gt;從晴朗的朝色泛起之際開始&lt;/s&gt;
+| [[日笠陽子]]
+| 在日本長野縣一帶聞名的鬼女傳說的主角，傳說中擁有第六天魔王的力量，最終被武將平維茂討伐。&lt;br&gt;&lt;s&gt;明明是個女鬼卻不知為何變成了恐龍&lt;/s&gt;&lt;br&gt;{{censored|[[遠野秋葉|{{censored|遠野秋葉}}]]的祖先}}
+|-
+! 283
+| [[宇津見繪里世]]
+| Lancer
+| 人
+| Fate/Requiem
+| [[鬼頭明里]]
+| 期間限定活動「Fate/Requiem 桌上遊戲默示錄」贈送角色。&lt;br&gt;Fate/Requiem的主角
+|-
+! 284
+| [[Artoria Caster (Fate)|阿爾托莉亞．Caster]]
+| [[Caster (Fate)|Caster]]
+| 星
+| 
+| 武內崇
+| [[川澄綾子]]
+| rowspan="2"| 奈須きのこ
+| 於5周年紀念卡池正式實裝&lt;br&gt;&lt;s&gt;阿爾托莉亞七職稱霸偉業達成&lt;/s&gt;
+|-
+! 285
+| [[殺生院祈荒]]
+| Moon Cancer
+| 地
+|
+| ワダアルコ	
+| [[田中理惠]]	
+| 2020年夏季泳裝活動「從者夏令營 迦勒底的驚慄夜」卡池出場。
+|-
+! rowspan="2"|286
+| [[伊莉亞絲菲爾‧馮‧艾因茲貝倫|伊莉亞絲菲爾．馮．艾因茲貝倫]]
+| rowspan="2"|Archer
+| rowspan="2"|人
+| rowspan="2"| 
+| rowspan="2"|ひろやま ひろし
+| [[門脇舞以]]
+| rowspan="2"|ひろやま ひろし
+| rowspan="2"|2020年夏季泳裝活動「從者夏令營 迦勒底的驚慄夜」卡池出場。
+|-
+| [[琥珀 (月姬)|紅寶石之星]]
+| [[高野直子]]
+|-
+! 287
+| [[Brynhild (Fate)|布倫希爾德]]
+| Berserker
+| 天
+| 
+| 三輪士郎
+| [[能登麻美子]]
+| 桜井光
+| 2020年夏季泳裝活動「從者夏令營 迦勒底的驚慄夜」卡池出場。
+|-
+! 288
+| [[虞姬 (Fate)|虞美人]]
+| Lancer
+| rowspan=3|地
+| 
+| toi8
+| [[伊瀨茉莉也]]
+| 虛淵玄
+| 2020年夏季泳裝活動「從者夏令營 迦勒底的驚慄夜」贈送角色。
+|-
+! 289
+| [[Abigail Williams (Fate)|艾比蓋兒．威廉斯〔夏〕]]
+| Foreigner
+| 
+| 黒星紅白
+| [[大和田仁美]]
+| 星空めてお
+| 2020年夏季泳裝活動「從者夏令營 迦勒底的驚慄夜」卡池出場。
+|-
+! 290
+| [[巴御前 (Fate)|巴御前]]
+| Saber
+|
+| しらび
+| [[金元壽子]]
+| rowspan="2"| 桜井光
+| 2020年夏季泳裝活動「從者夏令營 迦勒底的驚慄夜」卡池出場。
+|-
+! 291
+| [[紫式部 (Fate)|紫式部]]
+| Rider
+| 人
+| 
+| 本庄雷太
+| [[茅野愛衣]]
+| 2020年夏季泳裝活動「從者夏令營 迦勒底的驚慄夜」卡池出場。
+|-
+! 292
+| [[卑弥呼 (Fate)|卑彌呼]]
+| Ruler
+| 地
+| 
+| toi8
+| [[田村由香里]]
+| rowspan="3"| 経験値
+| 《三國志·魏書·東夷傳》中，倭人條記載的古日本邪馬台國女王。使用鬼道統治國家，居於深宮不現於人前的神祕女王。與魏國有所往來，魏明帝曹叡將其封為「親魏倭王」並授予金印。&lt;s&gt;未来の予告！邪馬台国！&lt;/s&gt;
+|-
+! 293
+| [[斎藤一 (Fate)|齋藤一]]
+| Saber
+| rowspan=2|人
+| &lt;s&gt;神劍闖江湖&lt;/s&gt;
+| 池澤真
+| [[石川界人]]
+| 新選組第三番隊隊長，明治維新後還曾任警察。是新選組中少數能活到大正時期的人。
+|-
+! 294
+| [[織田信勝 (Fate)|織田信勝]]
+| Archer
+| 
+| pako
+| [[山下大輝]]
+| 織田信長的弟弟，在織田家主之位的政爭中敗退而死。&lt;br&gt;初登場於《GUDAGUDA明治維新》，在《GUDAGUDA邪馬台國》中實裝，為第一個期間限定友抽角色。靈基四個階段都與[[織田信長 (Fate)|織田信長]]相呼應，靈1、4對應原版，靈2對應泳裝，而靈3對應魔王版靈三。
+|-
+|-
+! 295
+| [[Vincent van Gogh (Fate)|梵谷]]
+| Foreigner
+| 地
+| 
+| きばどりリュー
+| 高橋花林
+| 
+| 荷蘭著名的後印象派畫家，代表作《星夜》與《向日葵》。&lt;br&gt;&lt;s&gt;因為性轉讓部份鄉民很不滿&lt;/s&gt;{{censored|，但事實上是具有梵谷記憶與繪畫技能的奇莉緹}}
+|-
+! 296
+| [[Captain Nemo (Fate)|尼莫]]
+| Rider
+| 天
+| 
+| DANGERDROP
+| [[花守由美里]]
+| 
+| 法國科幻小說家朱爾·凡爾納著作《海底兩萬哩》的主要角色，鸚鵡螺號的船長。&lt;br&gt;在本作中作為幻靈從者，與希臘神話的海洋信使神'''特里頓'''合二為一。
+|-
+! 297
+| [[蘆屋道満 (Fate)|蘆屋道滿]]
+| Alter Ego
+| 地
+|
+| 古海鐘一
+| [[森川智之]]
+| 桜井光
+| 平安時代陰陽師，又稱道摩法師，安倍晴明的死對頭。&lt;br&gt;在下總國自稱晴明為了其所信仰的「撒旦」而協助妖術師製造英靈劍豪，實際上信仰對象並非撒旦而是第二部的黑幕——異星神。&lt;br&gt;第二部TVCM從者，是第二部TVCM最早在劇情登場但謎團也是最多的從者。
+|-
+! 298
+| [[渡辺綱 (Fate)|渡邊綱]]
+| Saber
+| 人
+| 
+| 左
+| [[赤羽根健治]]
+|
+| 賴光四天王首席，留下無數斬妖傳說的勇者，用名刀髭切斬下了茨木童子的手腕。
+|-
+! 299
+| [[伊吹童子 (Fate)|伊吹童子]]
+| Saber
+| rowspan=3|天
+| 
+| 本庄雷太
+| [[悠木碧]]
+| 桜井光
+| 酒吞童子作為神靈的另一側面。&lt;s&gt;然而內在已經完全現代化了，就是個OL大姊姊&lt;/s&gt;
+|-
+! 300
+| [[Vritra (Fate)|弗栗多]]
+| Lancer
+| 
+| La-na
+| 朝日奈丸佳
+|
+| 印度神話中的巨蛇、邪龍，具有封閉與障礙之力，最終被因陀羅用海浪的泡沫殺死。
+|-
+! 301
+| [[Karna (Fate)|迦爾納〔聖誕〕]]
+| Saber
+| 
+| pako
+| [[遊佐浩二]]
+| 奈須きのこ
+| 限定活動「榮光的聖誕老人之路～被封印的聖誕禮物～」贈送角色。&lt;br&gt;遊戲第一位'''男性'''節慶活動贈送從者&lt;ref&gt;不限於節慶活動的話，在聖誕迦爾納之前還送過騎金時、齊格、坂本龍馬這三位&lt;/ref&gt;。
+|-
+|-
+! 302
+| [[千子村正 (Fate)|千子村正]]
+| Saber
+| 人
+| Fate/Stay Night
+| 武內崇
+| [[杉山紀彰]]
+| 桜井光&lt;ref&gt;十五週年展中有提到最早是為リミテッド／ゼロオーバー禮裝設計的大成士郎造型，在桜井的強烈要求下作為角色加入遊戲之中，首次登場於遊戲中也是在桜井負責的下總國。&lt;/ref&gt;&lt;br /&gt;奈須きのこ
+| 傳奇刀匠一族的成員，附身到[[衛宮士郎|某位少年]]身上成為擬似Servant。&lt;br&gt;於下總國登場時為Saber{{censored|，在奧林帕斯再次登場時為Alter Ego，與下總國相遇的並不是同一個個體。}}
+|-
+! 303
+| [[平景清 (Fate)|平景清]]
+| Avenger
+| rowspan=2|地
+| 
+| 坂本みねぢ
+| [[早見沙織]]
+| 
+| 藤太的子孫，有著「惡七兵衛」之名的猛將，也是憎恨源氏一族的象徵人物。&lt;br&gt;{{censored|實際上並非平景清本人，而是套用了平景清名號的源義經（牛若丸）。}}
+|-
+! 304
+| [[鬼一法眼 (Fate)|鬼一法眼]]
+| Assassin
+| 
+| 大森葵
+| [[加隈亞衣]]
+| 
+| 《義經記》中出場的傳說人物，擅於劍術和陰陽術，也是將兵法傳授給牛若丸的師傅。&lt;br&gt;在本作中與牛若丸的另一位師傅'''鞍馬天狗'''為同一人。
+|-
+! 305
+| [[Amor (Fate)|埃莫〔卡蓮〕&lt;br&gt;卡蓮‧C‧奧爾黛西亞]]
+| Ruler
+| 天
+| Fate/hollow ataraxia
+| 森井しづき
+| [[小清水亞美]]
+| 
+| 本作中為被羅馬神話中的小愛神埃莫附身而成為擬似Servant的[[卡蓮・赫特希亞|卡蓮]]。&lt;br&gt;與希臘神話中愛神[[Aphrodite (Fate)|阿芙蘿黛蒂]]的兒子厄洛斯為同一人。&lt;br&gt;{{censored|實際上所附身的是Fate/tiger colosseum的卡蓮}}
+|-
+! 306
+| [[Galatea (Fate)|伽拉忒亞]]
+| Berserker
+| rowspan=2|地
+| 
+| 島田フミカネ
+| 末柄里恵
+| 
+| 希臘神話登場人物，原先是國王[[人形性愛患者|'''比馬龍''']]所雕刻出的象牙美女雕像，之後被愛神阿芙蘿黛蒂賦予生命，嫁給了比馬龍。
+|-
+! 307
+| [[Miss Crane (Fate)|鶴小姐]]
+| Caster
+| Fate/Grand Order Waltz
+| シャカＰ(DELiGHTWORKS)
+| [[水橋香織]]
+|
+| 《鶴的報恩》中登場的擅長織布的鶴，曾在閻魔亭活動劇情中以「阿夕小姐」的名義被提及。&lt;br&gt;Fate/Grand Order Waltz中登場的唯一一位原創從者，被羅馬尼託付了MOONLIGHT/LOSTROOM，為了向羅馬尼報恩而邀請藤丸與瑪修來到LOSTROOM跳舞。
+|-
+! 308
+|[[謎之女主角X Alter|謎之偶像X〔Alter〕]]
+| Foreigner
+| 星
+|
+| BUNBUN
+| [[川澄綾子]]
+| 星空めてお 
+| 期間限定活動「閃耀吧！！WaltzLive！！GrailLive！！～鶴的偶像報恩～」贈送角色。
+|-
+! 309
+| [[Morgan le Fay (Fate)|摩根]]
+| Berserker
+| rowspan=5|地
+| Fate/Stay Night（漫畫）
+| 武內崇
+| [[石川由依]]
+| rowspan="8"| 奈須きのこ
+| 阿爾托莉亞同母異父的姊姊，支配異聞帶妖精國不列顛的女王。&lt;br&gt;為最高位妖精，持有聖槍倫戈米尼亞德。&lt;br&gt;泛人類史版本曾在Fate/Apocrypha登場，當時的CV是遠藤綾。
+|-
+! 310
+| [[Barghest (Fate)|妖精騎士高文&lt;br&gt;犬魔]]
+| Saber
+| 
+| めろん22
+| [[井上麻里奈]]
+| 異聞帶妖精國不列顛的圓桌騎士，以泛人類史圓桌騎士「高文」命名的妖精騎士。
+|-
+! 311
+| [[Baobhan sith (Fate)|妖精騎士崔斯坦&lt;br&gt;芭班．希]]
+| Archer
+| 
+| 望月けい
+| [[和氣杏未]]
+| 異聞帶妖精國不列顛的圓桌騎士，以泛人類史圓桌騎士「崔斯坦」命名的妖精騎士。
+|-
+! 312
+| [[Mélusine (Fate)|妖精騎士蘭斯洛特&lt;br&gt;美露莘]]
+| Lancer
+| &lt;s&gt;遊戲王5D's&lt;br&gt;蓋特機器人&lt;/s&gt;
+| CHOCO
+| [[高野麻里佳]]
+| 異聞帶妖精國不列顛的圓桌騎士，以泛人類史圓桌騎士「蘭斯洛特」命名的妖精騎士。
+|-
+! 313
+| [[Sir Percival (Fate)|珀西瓦里]]
+| Lancer
+| 竹箒日記《第六章/Zero》
+| 白峰
+| [[松風雅也]]
+| 圓桌騎士第二席、聖杯三騎士之一，重感情的騎士，加拉哈德離去後成為聖杯的守護者。&lt;br&gt;在《第六章/ZERO》中向獅子王舉起反旗而遭肅清。
+|-
+! 314
+| [[T·V·柯楊斯卡雅|光之柯楊斯卡雅]]
+| Assassin
+| 獸
+| 
+| ワダアルコ
+| [[齋藤千和]]
+| 第二部TVCM從者。 柯楊斯卡雅光明的一面。{{censored|真面目是通古斯大爆炸中死去的動物怨靈集合體，借用了玉藻前的形象現世。}}&lt;br&gt;&lt;s&gt;又分裂成善與惡了，我為什麼說又呢&lt;/s&gt;
+|-
+! 315
+| [[Habetrot (Fate)|哈貝特洛特]]
+| Rider
+| rowspan=2|地
+|
+| ヒライユキオ
+| 伊藤彩沙
+| 不列顛傳說中的紡紗妖精
+|-
+! 316
+| [[Oberon (Fate)|奧伯隆&lt;br&gt;{{censored|奧伯隆‧伏提庚}}]]
+| Pretender
+| &lt;s&gt;三月的獅子&lt;/s&gt;
+| 羽海野千花
+| [[豐永利行]]
+| 中世紀文學最著名的妖精之王角色，在莎士比亞劇作《仲夏夜之夢》中也有登場。妻子是仙后緹坦妮雅。
+|-
+! 317
+| [[沖田総司 (Fate)|沖田總司〔Alter〕]]
+| Saber
+| rowspan=4|人
+| 
+| 武內崇
+| [[悠木碧]]&lt;br&gt;[[中村悠一]]
+| 経験値
+| 2021年夏季泳裝活動「迦勒底．夏天大冒險！～逐夢少年與做夢少女～」卡池出場。
+|-
+! 318
+| [[Grand Duchess Anastasia Nikolaevna of Russia (Fate)|安娜塔西亞&amp;Viy]]
+| Archer
+| 
+| sime 
+| 原由実 
+| rowspan=2|東出祐一郎 
+| 2021年夏季泳裝活動「迦勒底．夏天大冒險！～逐夢少年與做夢少女～」卡池出場。
+|-
+! 319
+| [[Charlotte Corday (Fate)|夏綠蒂·科黛]]
+| Caster
+| 
+| 蒼月タカオ
+| [[堀江由衣]]
+| 2021年夏季泳裝活動「迦勒底．夏天大冒險！～逐夢少年與做夢少女～」卡池出場。
+|-
+! 320
+| [[Leonardo da Vinci (Fate)|李奧納多．達文西]]
+| Ruler
+| &lt;s&gt;哆啦A夢：大雄的恐龍&lt;/s&gt;
+| 下越
+| [[坂本真綾]]
+| 奈須きのこ
+| 2021年夏季泳裝活動「迦勒底．夏天大冒險！～逐夢少年與做夢少女～」贈送角色。
+|-
+! 321
+| [[Kamadeva (Fate)|伽摩]]
+| Avenger
+| 天
+| 
+| ReDrop
+| [[下屋則子]]
+| 水瀬葉月&lt;br&gt;奈須きのこ
+| 2021年夏季泳裝活動「迦勒底．夏天大冒險！～逐夢少年與做夢少女～」卡池出場
+|-
+! 322
+| [[Caenis (Fate)|凱妮絲]]
+| Rider
+| 地
+|
+| Azusa
+| [[小松未可子]]
+|
+| 2021年夏季泳裝活動「迦勒底．夏天大冒險！～逐夢少年與做夢少女～」卡池出場。
+|-
+! 323
+| [[清少納言 (Fate)|清少納言]]
+| Berserker
+| 人
+| 
+| mika pikazo
+| [[菲魯茲．藍]]
+|
+| 2021年夏季泳裝活動「迦勒底．夏天大冒險！～逐夢少年與做夢少女～」卡池出場。
+|-
+! 324
+| [[Jacques de Molay (Fate/Grand Order)|雅克．德．莫萊]]
+| Foreigner
+| 地
+| 
+| 黑星紅白
+| [[青木志貴]]
+| 星空めてお
+| 聖殿騎士團最後一任團長，因蒙受不白之冤、被以異教徒罪名火刑處決而留下許多傳奇。&lt;br&gt;與《Fate/Grand Order Arcade》中登場的他性別不同，是'''性轉過後的版本'''。
+|-
+! 325
+| [[Zenobia (Fate)|潔諾比亞]]
+| Archer
+| rowspan=3|人
+| 
+| 西出ケンゴロー
+| [[庄司宇芽香]]
+| 
+| 西元三世紀的帕邁拉（位於今日的敘利亞）攝政女王，在位期間施行良政、推廣文化知識發展，最後試圖脫離羅馬帝國失敗而被皇帝奧勒良放逐，在羅馬度過餘生。
+|-
+! 326
+| [[Báthory Erzsébet (Fate)|伊莉莎白．巴托里〔灰姑娘〕]]
+| Rider
+| 
+| ワダアルコ
+| [[大久保瑠美]]
+| 奈須きのこ
+| 期間活動「Halloween・Rising！～砂塵女王與暗黑使徒～」贈送角色。&lt;br&gt;&lt;s&gt;伊莉莎白距離全職階湊齊（不計算卡蜜拉的話）只剩弓職、殺職和狂職...你說弓職[[Baobhan sith (Fate)|已經有了]]？&lt;/s&gt;
+|-
+! 327
+| [[出雲阿国 (Fate)|出雲阿國]]
+| Caster
+| &lt;s&gt;[[戰國無雙]]&lt;/s&gt;
+| NOCO
+| [[上坂堇]]&lt;/br&gt;[[マフィア梶田]]
+| rowspan=3|経験値
+| 安土桃山時期的著名女性歌舞伎表演者，歌舞伎的創始者。
+|-
+! 328
+| [[謎之蘭丸X]]
+| Avenger
+| 星
+|
+| Mika Pikazo
+| [[Machico]]
+| 來自蘭丸星的'''森蘭丸'''。在宇宙中大量存在森蘭丸中最為優秀的森蘭丸，因此得到了「蘭丸X」的名號。&lt;br&gt;在泛人類史是森長可的弟弟，織田信長的小姓。最終在本能寺之變中戰死。從相關資料和對話推測是長相和蘭丸X一模一樣的偽娘。
+|-
+! 329
+| [[坂本龍馬 (Fate)|坂本龍馬]]
+| Lancer
+| rowspan=2|人
+| &lt;s&gt;死神 BLEACH&lt;/s&gt;
+| pako
+| 加瀨康之&lt;br /&gt;[[堀江由衣]]
+| 
+|-
+! 330
+| [[Martha (Fate)|瑪爾大〔聖誕〕]]
+| Caster
+| 
+| 坂本みねぢ
+| [[早見沙織]]
+| 桜井光
+| 限定活動「Making Christmas Party!」贈送角色。&lt;br&gt;&lt;s&gt;和之前什麼摔角什麼拳擊什麼歡樂滿人間的聖誕老人們相比正常太多了&lt;/s&gt;
+|-
+! 331
+| [[太公望 (Fate)|太公望]]
+| Rider
+| rowspan=2|地
+|  &lt;s&gt;[[太公望|封神演義]]&lt;/s&gt;
+| およ
+| [[前野智昭]]
+|
+| 即姜子牙，周文王和周武王的軍師，以釣魚「願者上鉤」的傳說聞名。&lt;br&gt;本作形象來自封神演義。&lt;br&gt;&lt;s&gt;但是封神演義的姜太公32歲上崑崙，72歲才下山帶兵，為何外型是青年？&lt;/s&gt;
+|-
+! 332
+| [[Dobrynya Nikitich (Fate)|多布雷尼亞·尼基季奇]]
+| Rider
+| 
+| ろび～な
+| [[峯田茉優]]
+|
+| 基輔羅斯傳說中最偉大的三名羅斯勇士之一，擁有三寸不爛之舌的外交官，更是討伐三頭龍戈里尼奇的勇者。&lt;br&gt;人物原型是真實存在的羅斯人將軍{{censored|，實際登場的並非本人，而是其妻娜斯塔西亞}}。
+|-
+! 333
+| [[T·V·柯楊斯卡雅|Beast IV]]
+| {{color|red||'''Beast IV'''}}
+| rowspan="2"|獸
+|
+| rowspan="2"|ワダアルコ
+| rowspan="2"|[[齋藤千和]]
+| rowspan="2"|奈須きのこ
+| {{censored|真面目是在通古斯大爆炸中死去的動物怨靈集合體。&lt;/br&gt;七大人類惡之一，原罪之IV。司掌「愛玩」之理的獸。}}
+|-
+! 334
+| [[T·V·柯楊斯卡雅|暗之柯楊斯卡雅]]
+| Foreigner
+|
+|  柯楊斯卡雅黑暗的一面。{{censored|真面目是通古斯大爆炸中死去的動物怨靈集合體，借用了玉藻前的形象現世。}}
+|-
+! 335
+| [[Faker (Fate)|赫費斯提翁]]
+| Pretender
+| 地
+| ロード・エルメロイⅡ世の事件簿
+| 坂本みねぢ
+| 大地葉
+| 三田誠
+| 赫費斯提翁的雙胞胎妹妹，借用了哥哥的名字
+|}
+
+=== 實裝靈衣 ===
+*按遊戲中登場順序排列
+{| class="wikitable sortable"
+|-
+! scope="col"| 編號
+! scope="col"| 持有角色
+! scope="col"| 靈衣名稱
+! scope="col"| 靈衣解說
+! scope="col"| 備註
+|-
+! 001
+|  [[瑪修‧基利艾拉特|瑪修．基利艾拉特]]
+| 常夏的泳衣
+| 由[[迦勒底]]的各位選出的第一件泳衣。2016年的回憶。
+| 2016夏季活動復刻版靈衣
+|-
+! 002
+| [[Medb (Fate)|女王梅芙]]
+| 魅惑的典獄長風
+| 支配梅芙大監獄者的衣服。紅色的看守服著實與她相襯。
+| 2017夏季活動靈衣。Rider版的靈衣
+|-
+! 003
+| [[Nerō Claudius (Fate)|尼祿．克勞迪烏斯]]
+| 奧林匹亞的體操服
+| 要說這是人類最古老的體操服也不過分吧。
+| 2017尼祿祭靈衣。Saber版的靈衣&lt;br&gt;&lt;s&gt;あかぶるま！by 門脇舞以&lt;/s&gt;
+|-
+! 004
+| [[Parvati (Fate)|雪山神女]]
+| 少女追尋之物
+| 留在身旁的靈衣即為象徵與某人之間緣分的存在。
+| 
+|-
+! 005
+| [[Astolfo (Fate)|阿斯托爾福]]
+| 圖利法斯的回憶
+| 記起與重要友人回憶的靈衣
+| Rider版的靈衣。&lt;s&gt;淫亂桃色娘by 武醬&lt;/s&gt;
+|-
+! 006
+| [[Jeanne_d'Arc_(Fate)|貞德〔Alter〕]]
+| 邪龍的魔女ver新宿1999
+| 是法夫納跟我說要更加的浸淫黑暗啊，是法夫納。
+| 新宿篇時穿著的便服。Avenger版的靈衣
+|-
+! 007
+| [[Arthur Pendragon (Fate/Prototype)|亞瑟．潘德拉貢]]
+| 白色薔薇
+| ────白色薔薇。 獨枝綻放。 恰與那異界騎士掩映生姿。
+| 2018白色情人節靈衣
+|-
+! 008
+|  [[瑪修‧基利艾拉特|瑪修．基利艾拉特]]
+| Ortenaus
+| 達文西所改良的靈基外骨骼。 也被稱作Armored。
+| 和其他靈衣不同，換上時技能和寶具都會變化&lt;s&gt;被評為性能下降&lt;/s&gt;。&lt;br /&gt;第二部劇情部份會強制換上，但一般情況下可用回之前的靈衣。&lt;br /&gt;&lt;s&gt;{{censored|[[野獸先輩|サイクロップス後輩]]}}&lt;/s&gt;
+|-
+! 009
+| [[The Count of Monte Cristo (Fate)|巖窟王 愛德蒙．唐泰斯]]
+| 基度山特選
+| 巖窟王的夏裝，游泳圈是秘密收藏品
+| 2018夏季活動靈衣
+|-
+! 010
+| [[Gilgamesh (Fate)|吉爾伽美什]]
+| Establishment
+| 雖說是隨意搭配的穿著，但每件都是超高級名牌
+| 2018夏季活動靈衣。Caster版的靈衣
+|-
+! 011
+| [[Robin Hood (Fate)|羅賓漢]]
+| 夏日獵人
+| 雖然是因為BB而強制穿上的靈衣，但本人其實還蠻中意的
+| 2018夏季活動靈衣
+|-
+! rowspan=2|012&lt;br&gt;013
+| rowspan=2|[[BB (Fate)|BB]]
+| 簡易靈衣：小惡魔雞蛋肌膚（第二再臨）
+| BB本來的膚色「紫外線是少女的大敵喔！」
+| rowspan=2| 2018夏季活動靈衣。泳裝版的靈衣
+|-
+| 簡易靈衣：小惡魔雞蛋肌膚（第三再臨）
+| BB本來的膚色「抗UV是少女的戰友喔！」
+|-
+! rowspan=2|014&lt;br&gt;015
+| rowspan=2|[[Quetzalcoatl (Fate)|魁札爾科亞特爾〔森巴／聖誕〕]]
+| 簡易靈衣：Technica Mascara
+| 魁札爾科亞特爾愛用的面具，光是戴上面具就充滿鬥志
+| rowspan=2| 2018聖誕活動靈衣
+|-
+| 簡易靈衣：Ruda Mascara
+| 目標成為真正的聖誕老人的惡役的遺物，放鬆的話樣子就會變得可怕
+|-
+! 016
+| [[伊莉亞絲菲爾‧馮‧艾因茲貝倫|伊莉亞絲菲爾．馮．艾因茲貝倫]]
+| 簡易靈衣：Testament Form
+| 「就算更換服裝，也不會影響身心」某魔杖如此主張著
+| 魔法少女紀行活動復刻版靈衣。Caster版的靈衣&lt;br&gt;本為活動中擔任BOSS的黑色伊莉雅造型
+|-
+! 017
+| [[James Moriarty (Fate)|新宿的Archer&lt;br /&gt;詹姆斯．莫里亞蒂]]
+| Gray Color
+| 以蝶為主題的調酒師服，展現教授本人設計感的一品
+| 2019年白色情人節活動靈衣&lt;br&gt;&lt;s&gt;從新宿的Archer變成新宿的Bartender&lt;/s&gt;
+|-
+! rowspan=2|018&lt;br&gt;019
+| rowspan=2|[[李書文 (Fate)|李書文]]
+| 簡易靈衣：無眼鏡（第一再臨）
+| 本人云：圈境到達極致，視野似乎就不再重要了
+| rowspan=2|Assassin版的靈衣
+|-
+| 簡易靈衣：無眼鏡（第二再臨）
+| 有色眼鏡是為了隱藏出手的視線，已至老境的爪牙，仍未衰退
+|-
+! 020
+| [[Karna (Fate)|迦爾納]]
+| 燃燒的三神之衣
+| 獲得濕婆與毗濕奴神力後的姿態，別名的超級迦爾納為其自稱
+| 第一個透過主線獲得的靈衣，&lt;br&gt;「超級迦爾納」是[[吉娜可‧加里吉利|葛內舍]]給予的稱呼，設計原型可能是F/AP的紅髮迦爾納廢案。&lt;br&gt;&lt;s&gt;甜心戰士&lt;/s&gt;
+|-
+! 021
+| [[長尾景虎 (Fate)|長尾景虎]]
+| 簡易靈衣：行人包
+| 纏著白色頭巾，景虎自豪的帥氣頭巾造型
+| 2019年經驗值活動靈衣
+|-
+! 022
+| [[Siegfried (Fate)|齊格飛]]
+| Super Cool Biz
+| 變成了背後全裸的大膽西裝。非常通風
+| 2019夏季活動靈衣
+|-
+! 023
+| [[第五代風魔小太郎 (Fate)|風魔小太郎]]
+| 充分享受暑假的忍者裝束
+| 小太郎準備的現代服裝。與市井融為一體可是忍者的拿手好戲
+| 2019夏季活動靈衣
+|-
+! 024
+| [[Merlin (Fate)|梅林]]
+| Camelot ＆ Co
+| 謎樣的梅林專用服飾品牌。就當作是這樣吧，圓桌騎士如此說道
+| 2019夏季活動靈衣&lt;br&gt;&lt;s&gt;祝え&lt;/s&gt;
+|-
+! rowspan=3|025&lt;br&gt;026&lt;br&gt;027
+| rowspan=3|[[兩儀式]]
+| 簡易靈衣：斬首兔女郎（第一再臨）
+| 戴上了兔耳的貴人。爆擊
+| rowspan=3| 2019夏季活動靈衣。Saber版的靈衣
+|-
+| 簡易靈衣：斬首兔女郎（第二再臨）
+| 戴上了兔耳的貴人。痛恨一擊
+|-
+| 簡易靈衣：斬首兔女郎（第三再臨）
+| 戴上了兔耳的貴人。Ultimate 喵
+|-
+! 028
+| [[宮本武蔵 (Fate)|宮本武藏]]
+| 簡易靈衣：小武藏的夏日Mode
+| 化為了天魔的武藏。沒這回事。只不過是普通地曬黑了而已
+| 2019夏季活動靈衣。Berserker版的靈衣
+|-
+! 029
+| [[Meltryllis|謎之Alterego・Λ]]
+| 簡易靈衣：Ice Celebrity
+| 冰上的Prima donna的隱身模式。那一舉一動正可謂巨星
+| 2019夏季活動靈衣
+|-
+! 030
+| [[謎之女主角X]]
+| 簡易靈衣：謎之女主角Z
+| 就連對謎之女主角X而言也是謎一般的存在。因Saber飽和現象而誕生的平行宇宙X
+| Saber Wars II活動靈衣
+|-
+! 031
+| [[Space Ishtar|太空伊絲塔]]
+| 簡易靈衣：阿斯塔蒂‧起源
+| 就連紀錄也沒有殘留的遙遠時之彼方。那曾經存在於被冰冷地切除的宇宙的，原初女神的色彩
+| Saber Wars II活動靈衣
+|-
+! 032
+| [[Penthesilea (Fate)|彭忒西勒亞]]
+| 簡易靈衣：亞馬遜CEO套裝
+| 受到靈基接觸的影響，使用此靈衣戰鬥時會見到言行舉止產生奇妙的變化
+| 拯救！亞馬遜.com活動靈衣
+|-
+! 033
+| [[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢〔Alter〕]]
+| 漆黑的騎士王ver新宿1999
+| 在名為街道的劇場華麗登場，一直處於場景的最前線
+| 新宿篇時穿著的便服。Saber 〔Alter〕版的靈衣
+|-
+! 034
+| [[Mordred_(Fate)|莫德雷德]]
+| 圖利法斯的記憶
+| 曾經在某個戰場穿著、最喜歡的服裝，彷彿記起是誰購買這套服裝
+| Fate/Apocrypha 穿著的便服。Fate/Apocrypha合作活動復刻版靈衣。Saber版的靈衣
+|-
+! 035
+| [[瑪修‧基利艾拉特|瑪修．基利艾拉特]]
+| Ortenaus（改修型）
+| 由希翁協力，藉由亞特拉斯院技術組裝的靈基外骨骼
+| Ortenaus強化版，&lt;s&gt;差別在脫下目鏡&lt;/s&gt;&lt;br&gt;技能比Ortenaus稍微強化少許，&lt;s&gt;但性能依然沒有提升，給防御向角色攻擊技能強化是想甚麼&lt;/s&gt;&lt;br&gt;同樣是主線中固定這套靈衣，其餘時間可以選擇其他靈衣
+|-
+! 036
+| [[Arjuna (Fate)|阿周那]]
+| 天授的旅裝
+| 某英靈到訪日本時所穿的服裝，一旁的猴子是能熟練使用猴拳的武鬥派
+| 三周年紀念贈送的旅裝禮裝之一。於五周年紀念活動實裝
+|-
+! 037
+| [[Leonardo da Vinci (Fate)|李奧納多‧達文西]]
+| Active Sailor
+| 早熟的活躍風格，未完之馬的可能性之一
+| FGO Arcade中的服裝。於五周年紀念活動實裝。Rider版的靈衣
+|-
+! 038
+| [[Nerō Claudius (Fate)|尼祿‧克勞狄烏斯]]
+| 維納斯的絲綢
+| 薔薇皇帝的派對裝扮，被喻作美神維納斯一般的華麗
+| 二周年紀念贈送的正裝禮裝之一。於五周年紀念活動實裝。Saber版的靈衣
+|-
+! 039
+| [[岡田以蔵 (Fate)|岡田以藏]]
+| 著實帥氣的羽織袴
+| 在迦勒底宮殿喝醉的某武士的服裝，如風流人般灑脫的羽織袴
+| 四周年紀念贈送的祭裝禮裝之一。於五周年紀念活動實裝
+|-
+! 040
+| [[Paul Bunyan (Fate)|保羅‧班揚]]
+| Mad Bunny
+| 保羅‧班揚的節日服裝，血跡是莓果果醬(自我宣言)
+| 四周年紀念贈送的祭裝禮裝之一。於五周年紀念活動實裝
+|-
+! 041
+| [[Artoria Pendragon (Fate)|阿爾托莉亞‧潘德拉貢]]
+| 簡易靈衣：風王結界
+| 騎士王纏繞著風的寶具，主要用於聖劍的不可視化
+| F/SN裡初登場的造型。於HF3電影上映紀念活動中實裝。Saber版的靈衣
+|-
+! 042
+| [[Sigurd (Fate)|齊格魯德]]
+| 與吾之愛的回憶
+| 與愛人一起度過的夏天回憶。圍巾是自己染的。
+| 2020夏季活動靈衣
+|-
+! 043
+| [[Emiya (Fate/stay night)|衛宮(Emiya)]]
+| Summer Casual
+| 某個夏天的事件時所穿的服裝。作為露營的領隊參加。
+| 2020夏季活動靈衣
+|-
+! 044
+| [[高長恭 (Fate)|蘭陵王]]
+| 辨天衣
+| 蘭陵王的涼爽的夏季服裝。睿智的結晶為齊格魯德之作。
+| 2020夏季活動靈衣
+|-
+! 045
+| [[瑪修‧基利艾拉特|瑪修．基利艾拉特]]
+| 常夏的泳衣Ver.02
+| 瑪修的新泳裝。今年是選擇自己覺得可愛的。
+| 2020夏季活動靈衣
+|-
+! 046
+| [[Scathach (Fate)|斯卡薩哈]]
+| 刺穿的兔女郎
+| 繼斬首、Mad之後的第三件兔子裝。本人比想像中還要喜歡。
+| 2020影之國的舞鬥會活動靈衣。Lancer版的靈衣。
+|-
+! 047
+| [[沖田総司 (Fate)|沖田總司]]
+| 簡易靈衣：淺蔥的羽織袴
+| 淺蔥的羽織袴。據說是會根據任務穿著的新選組隊服。
+| 2020嘮嘮叨叨邪馬台國活動靈衣。Saber版的靈衣。
+|-
+! 048
+| [[Sir Bedivere (Fate)|貝迪維爾]]
+| 銀色管家
+| 某位騎士身穿的管家服。具備易於行動又優美的設計。
+| 六章劇場版上映紀念活動贈送靈衣。
+|-
+! 049
+| [[坂田金時 (Fate)|坂田金時]]
+| 平安武者裝束
+| 坂田金時作為賴光四天王的姿態。在大江山決戰時也穿著此裝束。
+| Berserker版的靈衣，通過[[地獄界曼荼羅 平安京|2-5.5章]]第二幕可以獲得開放權。
+|-
+! 050
+| [[伊吹童子 (Fate)|伊吹童子]]
+| 簡易靈衣：大蛇神的分靈
+| 伊吹童子作為古老的神的姿態。作為自然體現的荒神之分靈。
+| [[地獄界曼荼羅 平安京|2-5.5章]]中所遭遇的伊吹童子的模樣。通過2-5.5章後開放。&lt;br&gt;&lt;s&gt;說是簡易靈衣但語音卻完全是別人，連房間語音都另外錄了一整套，超規格待遇&lt;/s&gt;
+|-
+! 051
+| [[Amor (Fate)|埃莫〔卡蓮〕]]
+| 簡易靈衣：惡魔卡蓮
+| 更為情緒高漲的卡蓮。被認為難以理解。
+| 2021情人節活動實裝的靈衣。瑪修表示比前一個型態要強了三倍。&lt;br&gt;雖然分類上屬簡易靈衣，但其實比照普通靈衣錄了一整套的戰鬥語音。卡面標示的真名也會換成「惡魔卡蓮」。
+|-
+! 052
+| [[言峰四郎|天草四郎]]
+| 怪盜天草四郎
+| 在某個微小特異點裡中天草四郎的衣服。本人表示先從打扮著手。
+| 2021白色情人節活動實裝的靈衣，&lt;s&gt;新的哈哈哈隊成員&lt;/s&gt;。
+|-
+! 053
+| [[Altera (Fate)|阿爾緹拉]]
+| 掌之星塵
+| 神之鞭的舞蹈服飾。草原少女存在的可能性之一。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。
+|-
+! 054
+| [[Nerō Claudius (Fate)|尼祿‧克勞狄烏斯]]
+| 覇嵐蠻娘幻想曲
+| 薔薇皇帝的舞蹈服飾。步履輕快而優美。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。Saber版的靈衣。
+|-
+! 055
+| [[Euryale (Fate)|尤瑞艾莉]]
+| mirage
+| 可愛的女神身穿的舞蹈服飾。讓她的魅力更為突出、耀眼。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。
+|-
+! 056
+| [[牛若丸 (Fate)|牛若丸]]
+| 致幻流離譚
+| 年輕源氏武者的舞蹈服飾。織入和風設計的豪華服飾。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。Rider版的靈衣。
+|-
+! 057
+| [[Medb (Fate)|女王梅芙]]
+| 我可愛的敵對者
+| 蜜之女王的舞蹈服飾。似乎對某光之御子有特效？
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。Rider版的靈衣。
+|-
+! 058
+| [[Helena Blavatsky (Fate)|海倫娜．布拉瓦茨基]]
+| 那真是非常瑪哈多瑪呢☆
+| 異端魔術師的舞蹈服飾。集瑪哈多瑪的可愛於大成。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。Caster版的靈衣。
+|-
+! 059
+| [[Nitocris (Fate)|尼托克莉斯]]
+| Beyond the Mirror
+| 天空的法老的舞蹈服飾。雖沒說出口但本人很喜歡。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。Caster版的靈衣。
+|-
+! 060
+| [[酒吞童子 (Fate)|酒吞童子]]
+| 櫻歌爛漫
+| 鬼之化身的舞蹈服飾。時而悠閒、時而風雅。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。Assassin版的靈衣。
+|-
+! 061
+| [[Hassan-i Sabbah (Fate・靜謐)|靜謐的哈桑]]
+| 夜晚盛開的毒之花
+| 孤獨暗殺者的舞蹈服裝。為了你而展露那笑容。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。
+|-
+! 062
+| [[玉藻前 (Fate)|玉藻貓]]
+| 笑容glory day
+| 萬能有能貓(?)的舞蹈服飾。即是所謂餐廳制服風格汪☆
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。
+|-
+! 063
+| [[瑪修‧基利艾拉特|瑪修．基利艾拉特]]
+| Bright Voyager
+| 以「旅行」為主題的舞蹈服飾。有著活躍、可愛的設計。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。
+|-
+! 064
+| [[Jeanne d'Arc (Fate)|貞德]]
+| Prove
+| 救國聖女的舞蹈服飾。豪華同時又清純的純白禮服。
+| FGO Waltz合作實裝靈衣。通過特定活動主線後能免費交換開放權。Ruler版的靈衣。
+|-
+! rowspan=3|065&lt;br&gt;066&lt;br&gt;067
+| rowspan=3|[[Mélusine (Fate)|妖精騎士蘭斯洛特&lt;br&gt;美露莘]]
+| 簡易靈衣：妖精騎士蘭斯洛特（第一再臨）
+| 某個世界中最速騎士的姿態。最為強大、美麗的妖精騎士。
+| rowspan=3|2-6章中妖精騎士蘭斯洛特的模樣，於通過2-6章後可透過關卡獲得開放權。
+|- 
+| 簡易靈衣：妖精騎士蘭斯洛特（第二再臨）
+| 某個世界中最速騎士的姿態。隱藏著的素顏是隨性的百面相。
+|-
+| 簡易靈衣：赤熱偏位
+| 在希望之地作為守門人現身的龍之影。白龍與赤龍既是相剋，又是同源。
+|-
+! 068
+| [[Morgan le Fay (Fate)|摩根]]
+| 簡易靈衣：冬之女王
+| 樂園的妖精作為統治者的姿態。從盡頭之地襲來、凜冽的冬之暴風。
+| 2-6章中摩根的模樣，於通過2-6章後可透過關卡獲得開放權。
+|-
+! 069
+| [[Edward Teach (Fate)|愛德華‧蒂奇]]
+| 盛夏紳士
+| 令人驚訝的是，這位大海盜對興趣以外的衣服也有很好的品味。
+| 2021泳裝活動靈衣，透過活動道具交換獲得開放權。
+|-
+! 070
+| [[Achilles (Fate)|阿基里斯]]
+| Fearless Diver
+| 彗星走法不分戰場。當然，就算在海上，人類最快的寶座也毫不動搖。
+| 2021泳裝活動靈衣，透過活動道具交換獲得開放權。
+|-
+! 071
+| [[Mandricardo_(Fate)|曼迪卡爾多]]
+| Summer Sportswear
+| 從Amazoness.com購買，兼具輕便與時尚的外出服。
+| 2021泳裝活動靈衣，透過活動道具交換獲得開放權。
+|-
+! 072
+| [[岡田以蔵 (Fate)|岡田以藏]]
+|相當洋氣的西服
+|用賒賬的方式購買的洋氣的西服。準備一醉方休，大賭特賭！
+|2021嘮嘮叨叨活動靈衣。
+|}
+
+== 預定登場從者 ==
+*這裡記載的是根據拆包資料等判定應該會實裝至本作的從者，但其他資料尚未明朗。
+{| class="wikitable" style="margin: 1em auto 1em auto; "
+|-
+! scope="col"| 編號
+! scope="col"| 真名
+! scope="col"| 職階
+! scope="col"| 初登場作品
+! scope="col"| 繪師
+! scope="col"| CV
+! scope="col"| 角色設定
+! scope="col"| 備註
+|-
+! 
+| Grand Saber
+| Saber
+| 
+| 
+| [[川澄綾子]]
+| 
+| {{Censored|雖然未知真名，但既然是''那個人''的御用CV，那就很大機會是她了。}}
+|-
+!
+|[[Gilgamesh (Fate/Prototype)|吉爾伽美什（Prototype）]]
+|Archer
+|Fate/Prototype
+|中原
+|[[中村悠一]]
+|奈須きのこ&lt;br&gt;桜井光
+|
+|-
+!
+|[[Perseus (Fate)|珀爾修斯]]
+|Lancer
+|
+|タスクオーナ
+|[[宮野真守]]
+|
+|
+|-
+!
+|[[Perseus (Fate)|珀爾修斯]]
+|Rider
+|Fate/Prototype
+|中原
+|[[宮野真守]]
+|奈須きのこ
+|
+|-
+!
+|[[Violet (Fate)|Violet]]
+|Alter Ego
+|rowspan=2|Fate/EXTRA CCC（廢案）&lt;br&gt;Fate/EXTRA CCC Fox Tail
+|rowspan=2|ワダアルコ
+|
+|rowspan=2|奈須きのこ
+|
+|-
+!
+|[[Kazu​​radrop]]
+|Alter Ego
+|
+|
+|-
+|}
+
+== 遊戲中登場從者 ==
+* 在劇情或其他設定中，有明確指出具有從者資格，且尚未實裝者。
+{| class="wikitable"
+|-
+! scope="col" width="10%"| 名稱
+! scope="col" width="25%"| 初登場章數
+! scope="col" width="65%"| 備註
+|-
+! 凱
+| rowspan=4|竹箒日記《第六章/Zero》
+| 圓桌騎士第三席，亞瑟王的義兄，放蕩不羈的騎士，曾持盾擊倒[[芙 (Fate)|不列顛的魔貓]]，最後從劍欄之戰生存下來。&lt;br&gt;毒舌，擅長挖苦人，圓桌公認的游泳健將。&lt;br&gt;知道獅子王的目的後天性毒舌的他沒有說出任何諷刺的話語，獨自消失直到日落。最後向獅子王舉起反旗而遭肅清。&lt;br&gt;在《埃爾梅羅二世事件簿》中登場，有人設。{{censored|但非本人，而是模擬人格}}
+|-
+! 帕拉米迪斯
+| &lt;s&gt;中世紀騎士故事慣例的，受天主感召而棄暗投明的外族騎士。&lt;/s&gt;&lt;br&gt;圓桌騎士第九席，薩拉森出身的騎士，戰鬥時不擇手段但本性高潔。認真起來戰鬥時會戴上頭盔。&lt;br&gt;最後向獅子王舉起反旗而遭肅清。
+|-
+! 鮑斯
+| 次代圓桌騎士第十一席、聖杯三騎士之一，被當作是最世俗的騎士。&lt;s&gt;換句話說就是沒有半點騎士樣&lt;/s&gt;&lt;br&gt;最後向獅子王舉起反旗而遭肅清。&lt;br&gt;被高文當成圓桌中的問題兒童。CCC FOX TAIL漫畫中，慎二陪高文一起去偷窺女澡堂時，高文盛讚（？）慎二，並想起了鮑斯。&lt;s&gt;還沒出場形象就毀了。&lt;/s&gt;
+|-
+! 佩里諾亞王
+| 圓桌騎士顧問監督官，據傳武藝能與蘭斯洛特並論的強大騎士—蘭馬洛特之父。&lt;br&gt;最後向獅子王舉起反旗而遭肅清。
+|-
+! [[Sir Agravain (Fate)|阿格凡]]
+| rowspan=4|[[神聖圓桌領域 卡美洛|第一部第六章《神聖圓桌領域》]]
+| 圓桌騎士之一，亞瑟王的輔佐官，冷徹的騎士。&lt;br&gt;由於告發蘭斯洛特與桂妮薇爾的戀情而常被視為圓桌崩壞的元兇。&lt;br&gt;&lt;s&gt;蘭斯走到哪人氣都高，沒辦法。&lt;/s&gt;&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%B3&amp;src=agravain.jpg 專屬立繪]。
+|-
+! 煙醉的哈桑
+| 十九名哈桑之一，擁有讓咒腕讚不絕口的暗殺技術。&lt;br&gt;敗於崔斯坦，並因強烈的怨念而化身成影子從者。&lt;br&gt;有立繪（2P色百貌哈桑），戰鬥時的外觀為大鬼魂。
+|-
+! 震管的哈桑
+| 十九名哈桑之一。&lt;br&gt;敗於蘭斯洛特。
+|-
+! 影剝的哈桑
+| 十九名哈桑之一。&lt;br&gt;敗於高文。
+|-
+! [[Fergus Mac Roich (Fate)|弗格斯．馬克．羅伊]]
+| rowspan=2| [[傳承地底世界 雅戈泰|間章．亞種特異點《傳承地底世界》]]
+| 被不夜城的Caster召喚到特異點的弗格斯，被扭曲為少年時期的肉體與精神狀態。&lt;br&gt;和長大後的個性不同，是個彬彬有禮、奮發向上、對待女性有些靦腆的少年。&lt;br&gt;在實體活動中使用的卡面為銀卡Saber，和本體相同。
+|-
+! 伊蘇的Rider&lt;br&gt;{{censored|妲尤}}
+| {{censored|法國傳說都市「伊蘇」的公主，其惡行使伊蘇淪為罪惡都市，最終遭受神罰而被海水吞沒。}}&lt;br&gt;本章中借用德雷克的靈基現界，有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%83%80%E3%83%A6%E3%83%BC&amp;src=Dahut.png 專屬立繪]。
+|-
+! 拉斯普丁
+| 第二部 序
+| 末代沙皇尼古拉斯二世時期的神祕主義者，因為治好了皇太子的血友病而備受皇室寵幸，最後因過度干涉國政而遭暗殺。&lt;br&gt;&lt;s&gt;平野耕太：「老二很大！ 老二才是本體！」&lt;/s&gt;&lt;br&gt;{{censored|在第一異聞帶中被證實為拉斯普丁附身的[[言峰綺禮|{{Censored|言峰綺禮}}]]，職階Alter Ego，性格與FSN相似，而拉斯普丁在一章中已經沉睡，現在由言峰本人完全掌握主控權，但似乎會受拉斯普丁部份影響}}&lt;br&gt;
+|-
+! [[Surtr (Fate)|史爾特爾]]
+| [[無間冰焰世紀 諸神黃昏|第二部第二章《無間冰焰世紀》]]
+| 炎之巨人王、黝黑者。統帥火之國穆斯貝爾海姆的巨人之王。&lt;br&gt;影響諸神黃昏的關鍵人物，也是令北歐異聞帶從人類史分離的主因。&lt;br&gt;繪師為シャカＰ(DELiGHTWORKS)。
+|-
+! {{censored|阿特拉斯}}
+| [[星間都市山脈 奧林帕斯|第二部第五章《星間都市山脈》]]
+| {{censored|基里修塔利亞召喚的第三名神靈從者}} &lt;br&gt;{{censored|於同名的空想樹中阻擋異星神降臨並犧牲}}&lt;br&gt;{{censored|&lt;s&gt;連立繪都沒有，僅僅被提及&lt;/s&gt;}}
+|-
+! 卡里奧斯特羅伯爵
+| [[地獄界曼荼羅 平安京|第二部第五點五章《地獄界曼荼羅》]]
+| 18世紀歐洲有名的詐欺獅、魔術師與煉金術師，曾被捲入法蘭西王室的項鍊事件，最後在宗教裁判中被判無期徒刑，死於獄中。&lt;br&gt;未實際登場。在劇情中被渡邊綱擊敗的從者之一，職階Caster，六週年訪談提及由於劇情長度限制而被刪除戲份。
+|-
+! [[Hruodland (Fate)|羅蘭]]
+| 幕間物語～阿斯托爾福～《等待羅蘭》
+| 查理大帝麾下十二騎士之首，&lt;s&gt;以裸奔聞名、&lt;/s&gt;在各種創作中極具人氣的法國騎士&lt;s&gt;，蘭斯洛特的抄襲對象&lt;/s&gt;。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3&amp;src=roland.jpg 專屬立繪]，繪師為坂本みねぢ。
+|-
+! [[明智光秀 (Fate)|奄美少將]]&lt;br&gt;{{censored|明智光秀}}
+| 期間限定活動《GUDAGUDA帝都聖杯奇譚 －極東魔神戰線1945－》
+| 帝都東京聖杯戰爭的策劃者，以聖杯研究所為據點，醞釀某個陰謀。&lt;br&gt;{{censored|真實身份為Caster‧南光坊天海&lt;ref&gt;「奄美」與「天海」同讀作「あまみ」&lt;/ref&gt;。本作採用天海與明智光秀&lt;ref&gt;信長的部下，在天正10年的6月2日，發動本能寺之變把信長殺死，之後在山崎會戰中慘敗給豐臣秀吉，逃亡時於小栗棲被狩獵落敗武士的土民襲擊而受重傷，最後由家臣溝尾茂朝為之介錯而死。&lt;/ref&gt;為同一人的說法。&lt;br&gt;活動中的戰鬥模組名為「第六天魔王‧明智光秀」，技能為「眾生濟度」「他化自在」、戰鬥模組則是形似馬克士威妖的寶具「熱力學第二法則的否定」的巨人。}}&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E6%98%8E%E6%99%BA%E5%85%89%E7%A7%80&amp;src=mitsuhide.png 專屬立繪]，繪師為春野友矢&lt;ref&gt;https://twitter.com/harunotomoya/status/1009422634600128512&lt;/ref&gt;。&lt;br&gt;{{censored|雖然在活動中沒露過面卻是整個大奧特異點的MVP之一。}}
+|-
+! [[Maxwell's Demon (Fate)|馬克士威妖]]
+| rowspan=2| 期間限定活動《All信長總進擊 GUDAGUDA Final本能寺2019》
+| 有專屬立繪，繪師為池澤真。
+|-
+! [[柴田勝家 (Fate)|柴田勝家]]
+| 日本戰國時代武將，織田四天王之首&lt;ref&gt;其他三人分別為[[明智光秀 (Fate)|明智光秀]]、丹羽長秀和瀧川一益，有時會算入[[豊臣秀吉 (Fate)|羽柴秀吉]]而變成「織田五大將」。&lt;/ref&gt;，曾揭發[[織田信勝 (Fate)|織田信勝]]的謀反。在本能寺之變後與[[豊臣秀吉 (Fate)|秀吉]]相爭失利，切腹自盡。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E6%9F%B4%E7%94%B0%E5%8B%9D%E5%AE%B6&amp;src=katsuie.jpeg 專屬立繪]及戰鬥模組，繪師為黑瀨浩介，遊戲中的職階為Berserker。
+|-
+! [[徐福 (Fate)|徐福]]
+| 期間限定活動《從者夏令營 迦勒底的驚慄夜》
+| 秦始皇的御醫和方士。為替秦始皇尋找長生不老藥，率領三千童男童女東渡蓬萊仙山，此後行蹤成謎。&lt;br&gt;有一說是來到日本之後，成為了歷史上第一位天皇——神武天皇。&lt;br&gt;{{censored|作為Servant被召喚出來後，利用撿到的聖杯創造了本次的特異點。}}{{s|毫不意外的性轉}}&lt;br&gt;有[https://static.wikia.nocookie.net/typemoon/images/4/45/XuFu.png 專屬立繪]，繪師為TAKOLEGS。戰鬥模組採用&lt;s&gt;慣例的&lt;/s&gt;大幽靈（古裝版本），戰鬥時的職階為Archer。{{s|而且還是銀卡，所以是三星角}}
+|-
+! [[山南敬助 (Fate)|山南敬助]]
+| rowspan=2| 期間限定活動《超古代新選組列傳 GUDAGUDA邪馬台國2020》
+| 新選組第二任副長，芹澤鴨死後改任總長，和近藤土方沖田新八等人同為試衛館出身的舊相識，後因私自脫隊違反局中法度，在沖田的介錯下切腹自盡。&lt;br&gt;和大多是凶暴武人的其他組員不同，史實上便是出了名的性格溫厚。&lt;br&gt;{{censored|召喚到邪馬台國後想從芹澤身上確認當年逃出新選組的決定是否正確而協助芹澤。}}&lt;br&gt;&lt;s&gt;不知為何在後世創作中眼鏡率偏高，在本作中也戴著眼鏡&lt;/s&gt;&lt;br&gt;有[https://www.wicurio.com/grand_order/index.php?plugin=ref&amp;page=%E5%B1%B1%E5%8D%97%E6%95%AC%E5%8A%A9&amp;src=yamanami.png 專屬立繪]，繪師為きばどりリュー。
+|-
+! [[芹沢鴨 (Fate)|芹澤鴨]]
+| 新選組初代局長，因性情粗暴時常在外惹事而惹火新選組的靠山松平容保，被收到命令的土方暗殺而死。&lt;s&gt;銀魂裏真選组伊東鴨太郎原型。&lt;/s&gt;&lt;br&gt;{{censored|被召喚到邪馬台國，利用狗王的魔力實現他救國想法。}}&lt;br&gt;&lt;s&gt;超越蓋提亞的男人，率領一群土偶達到了連魔神柱都無法達到的偉業&lt;/s&gt;&lt;br&gt;有[https://www.wicurio.com/grand_order/index.php?plugin=ref&amp;page=%E8%8A%B9%E6%B2%A2%E9%B4%A8&amp;src=serizawakamo.png 專屬立繪]及戰鬥模組，繪師為下越，戰鬥時的職階為Saber。
+|-
+! [[Cristoforo Colombo (Fate)|克里斯多福君]]
+| 期間限定活動《迦勒底．夏天大冒險！～逐夢少年與做夢少女～》
+| 幼年時期的克里斯多福．哥倫布。&lt;br&gt;原本是繪師元村人於2018年愚人節發表的塗鴉，有專屬立繪。
+|-
+! [[武市瑞山 (Fate)|武市瑞山]]
+| rowspan=3|期間限定活動《昭和奇神計劃 GUDAGUDA龍馬危機一髪！ 消失的信長HEAD之謎》
+| 即武市半平太，土佐勤王黨的盟主。曾是龍馬的同志、以藏的老師&lt;s&gt;，應該不是蘿莉控或變態&lt;/s&gt;。&lt;br&gt;有專屬立繪，繪師為小宮國春。&lt;br&gt;&lt;s&gt;「この程度で騒ぐな、まだ一太刀だぞ。田中くんなら眉一つ動かさん」&lt;/s&gt;&lt;ref&gt;本是在活動中{{censored|切腹時}}說的台詞，但泛用性實在太高而成了玩家間的梗&lt;/ref&gt;
+|-
+! [[高杉晋作 (Fate)|高杉晉作]]
+| 幕末長州藩士。以創設奇兵隊而活躍於倒幕活動而知名。&lt;s&gt;銀魂鬼兵隊老大。&lt;/s&gt;&lt;br&gt;持有寶具「奇兵隊」。有專屬立繪，繪師為TAKOLEGS。
+|-
+! [[田中新兵衛 (Fate)|田中新兵衛]]
+| 幕末四大人斬之一，武市的義兄弟，以藏的同事。&lt;s&gt;銀魂攘夷志士路人甲之一田中古兵衛的原型。&lt;/s&gt;&lt;br&gt;有專屬立繪及戰鬥模組，CV為森田了介，繪師為巖本英利。戰鬥時的職階為Assassin和Berserker。
+|-
+|}
+
+== 其他從者 ==
+* 主要是在Fate/Grand Order各衍生作品中登場的從者們。
+{| class="wikitable"
+|-
+! scope="col" width="10%"| 名稱
+! scope="col" width="7%"| 職階
+! scope="col" width="18%"| 初登場作品
+! scope="col" width="7%"| 人物設計
+! scope="col" width="7%"| CV
+! scope="col" width="51%"| 備註
+|-
+! [[Galahad (Fate)|加拉哈德]]
+| Shielder
+| rowspan=3|《Fate/Grand Order First Order》
+| rowspan=2| 武內崇
+| [[堀江瞬]]
+| 本人在動畫版中以幻影的方式登場&lt;s&gt;，不過有玩家後來檢查圖片的時候發現他其實早就出現在崔斯坦的最終靈基圖上了。&lt;/s&gt;&lt;br&gt;雖然瑪修是女性、身為生父的蘭斯洛特亦表示瑪修給他的感覺很像加拉哈德，但在本作中'''加拉哈德本人沒有被性轉'''。&lt;br&gt;原先因不會登場而完全沒有設定，因為動畫組的希望而弄出了模糊的輪廓。&lt;br&gt;&lt;br&gt;之後在2017年年底的動畫〈MOONLIGHT LOSTROOM〉中於主角的夢境中正式登場&lt;ref&gt;為了避免尚未破到第六章的新玩家被破梗，片尾標記為「聖盾的騎士」&lt;/ref&gt;
+|-
+! [[Medusa (Fate)|美杜莎]]
+| Lancer
+| 淺川悠
+| 成熟身材版的Lancer美杜莎，同時也是被聖杯黑泥汙染過後的版本。和F/GO中登場的女神版一樣戴兜帽，但款式不同。&lt;br&gt;最後被和藤丸一行人合作的庫夫林擊敗。
+|-
+! [[Darius III (Fate)|大流士三世]]
+| Rider
+| PFALZ
+| 安井邦彥
+| 和Berserker版本相比外貌變化不大，似乎是赤手空拳戰鬥。&lt;br&gt;在藤丸一行人來到冬木前，便先後被阿爾托莉亞Alter和庫夫林擊敗，只出現在一格回想畫面中。
+|-
+! [[Georges Méliès (Fate)|用漫畫瞭解的Rider]]&lt;br&gt;{{censored|喬治．梅里愛}}
+| Rider
+| rowspan=6|官方漫畫《用漫畫了解FGO！》
+| rowspan=6|リヨ
+|
+| 第二部登場。GD子以烏龍麵糰與聖杯黑泥製造出的Servant，被硬塞給瑪修照顧。&lt;br&gt;永遠面帶笑容，即使被父親（？）GD子虐待也是邊笑邊哭。&lt;br&gt;和GD子不同，'''非常喜歡寶具演出'''，也喜歡拍電影，為了拍電影可以毫不猶豫讓他人犧牲。
+|-
+! [[John Edgar Hoover (Fate)|用漫畫瞭解的Assassin]]&lt;br&gt;{{censored|約翰．埃德加．胡佛}}
+| Assassin
+|
+| 第二部登場。GD子以烏龍麵糰與聖杯黑泥製造出的Servant，被硬塞給所長照顧。&lt;br&gt;手中總是持槍，被GD子稱作穿睡衣的癡女。
+|-
+! [[Mary Anning (Fate)|用漫畫瞭解的Lancer]]&lt;br&gt;{{censored|瑪麗．安寧}}
+| Lancer
+|
+| 第三部登場。從烏龍麵糰誕生出的新Servant，是對女性有性趣的百合女，一登場就刺殺了GD子。&lt;br&gt;可以使用活生生的魚龍、蛇頸龍與雷擊戰鬥。
+|-
+! [[Pecos Bill (Fate)|用漫畫瞭解的Archer]]&lt;br&gt;{{censored|佩柯斯．比爾}}
+| Archer
+|
+| 第三部登場。從烏龍麵糰誕生出的新Servant，身穿牛仔裝扮，使用套索作為武器。&lt;br&gt;從騎乘凶暴動物、擅長投繩、郊狼等特徵推斷，真名推測為'''佩柯斯．比爾'''。
+|-
+! [[用漫畫瞭解的Caster]]
+| Caster
+|
+| 第三部登場。從烏龍麵糰誕生出的新Servant，為「群體」的老鼠模樣從者，會進行個體增值。&lt;br&gt;從可以將Master養成大黑天、與因幡白兔有因緣推斷，真名推測為日本神明'''大黑天'''或是'''大黑天的神使老鼠'''。&lt;br&gt;也可能有複合日本童話《老鼠與飯糰》。&lt;s&gt;童話劇情和角色與同樣是日本童話《剪舌麻雀》的[[舌切り雀の紅閻魔 (Fate)|紅閻魔]]重疊了&lt;/s&gt;。
+|-
+! [[Väinämöinen (Fate)|用漫畫瞭解的Saber]]&lt;br&gt;{{censored|維納莫寧}}
+| Saber
+|
+| 第三部登場。最後一個烏龍麵糰新Servant，由[[Artoria Pendragon (Fate)|阿爾托莉亞]]交由瑪修扶養。&lt;br&gt;乍看之下是孕婦的從者，實際上肚子裡的胎兒才是Saber的本體。本次召喚是將胎兒時期的Saber連同母體一起召喚出來。&lt;br&gt;從不滅的賢人、擅使劍、船、魔法、以出生、求婚為事蹟等特徵推斷，真名推測為'''維納莫寧'''。
+|-
+! &lt;s&gt;[[覺者 (Fate)|覺者]]&lt;/s&gt;
+| Saver
+| Fate/EXTRA 
+| ワダアルコ
+|
+| &lt;s&gt;三藏寶具背景&lt;/s&gt; 
+|-
+! 石川啄木
+| Assassin
+| rowspan=10|《冰室的天地～七人最強偉人篇～》
+| rowspan=10|磨伸映一郎
+| 結下滿
+| 附身在蒔寺楓上受召喚&lt;br&gt;擁有技能「一握の砂」可以徒手殺敵&lt;br&gt;寶具「一度でも我に頭を下げさせし　人みな死ねと　いのりてしこと」解放時光是低頭就能叫對方自爆
+|-
+! 艾蜜莉亞．布盧默
+| Caster
+| 中川里江
+| 附身在冰室鐘上受召喚&lt;br&gt;&lt;s&gt;在此之前的候選人（？）有狗狗&lt;ref&gt;探勘南極的太郎次郎，以及第一個上宇宙的蘇聯太空犬萊卡&lt;/ref&gt;、新尼斯湖水怪以及路人甲&lt;ref&gt;元祿赤穗事件時拉住淺野長矩阻止其刺殺吉良義央的梶川賴照&lt;/ref&gt;&lt;/s&gt;
+|-
+! 弗里德里希．尼采
+| 
+| 中尾衣里
+| 附身三枝由紀香受召喚。瑞士著名哲學家、語文學家 、文化評論家、詩人、作曲家、思想家。主要著作有《權力意志》 《悲劇的誕生》《不合時宜的考察》《查拉圖斯特拉如是說》《希臘悲劇时代的哲學》《論道德的譜系》等 。&lt;br&gt;職階不詳&lt;s&gt;按其生前經歷可能會是術、狂、仇擇一&lt;/s&gt;
+|-
+! 內維爾．舒特
+| Berserker
+|
+| 後藤劾以的Servant&lt;br&gt;造型捏他了本人設計的潘加朱姆火箭車（Panjandrum）
+|-
+! [[wikipedia:zh:黎利|黎利]]
+| Saber
+|
+| 冰室鐘的Servant&lt;br&gt;不意外的性轉+武內臉&lt;ref&gt;由於黎利與亞瑟王同樣有湖中劍的傳說，因此亦有一部份玩家期待黎利做為Saber實裝的一天&lt;/ref&gt;
+|-
+! 利奧三世
+| Caster
+|
+| 佐伯直美的Servant&lt;br&gt;以性轉姿態出現，造型結合了其對抗阿拉伯時使用的火器「希臘之火」。叙利亞人，偉大的軍事家、改革家、政治家。初為拜占廷將領，推翻狄奥多西三世，結束了自711年至717年拜占廷的無政府狀態，登上皇帝寶座，開創伊蘇里亞王朝。&lt;br&gt;利奥三世原為叙利亞軍事指揮官，趁阿拉伯人圍攻君士坦丁堡之際，奪取了政權。他不僅粉碎了阿拉伯人的圍攻，而且將他們趕出了小亞細亞。
+|-
+! 粒線體夏娃
+| Lancer
+|
+| 柳洞一成的Servant，，在人類進化學說中，被認為是人類的共同母系祖先，而現今人類體内的線粒體遺傳自她。歷史可追溯至20萬年前。此前科學家曾對世界不同地區和民族的女性進行線粒體DNA調查，確定現代人的線粒體来自於約10-15萬年前的一位女性，這位母系祖先被稱為「粒線體夏娃」。&lt;br&gt;&lt;s&gt;完全看不出任何持槍的特徵&lt;/s&gt;
+|-
+! 穆罕默德二世
+| Archer
+|
+| 美綴綾子的Servant&lt;br&gt;造型意外的帥，和F/AP動畫的造型判若兩人
+|-
+! 錫諾普的第歐根尼
+| Rider
+|
+| 蒔寺楓的Servant&lt;br&gt;不意外的搭乘木桶，木桶造型酷似真龍號。古希臘哲學家，出生於一個鑄幣廠的家庭，犬儒學派的代表人物。活躍於公元前4世紀，生於錫諾帕（Σινπη，Sinopeus，現屬土耳其），卒於科林斯。他的真實生平難以考據，但古代留下大量有關他的傳聞軼事。
+|-
+! 柏拉圖
+| Ruler
+|
+| 三枝由紀香的Servant，取代Assassin的位置而被召喚出來的額外職階&lt;br&gt;非常大隻，是古希臘偉大的哲學家，也是整個西方文化中最偉大的哲學家和思想家之一。&lt;br&gt;&lt;s&gt;意外地在網友間擁有很高人氣，希望他實裝的呼聲比黎利還高&lt;/s&gt;
+|-
+! [[Helena Blavatsky (Fate)|海倫娜．布拉瓦茨基（聖誕節）]]
+| Rider
+| rowspan=11| 《Fate/Grand Order Arcade》
+| 松竜
+| [[金元壽子]]
+| 裝扮為俄羅斯聖誕老人助手'''雪姑娘'''的海倫娜，由於不是直接裝扮成聖誕老人，真名附註的括號是「Christmas」而非歷代的「Santa」。&lt;br&gt;&lt;s&gt;看來街機版在12月出原創活動角是一種傳統&lt;/s&gt;&lt;br&gt;寶具為「於聖夜輝耀之流星」。
+|-
+! [[Sītā (Fate)|悉多]]
+| Archer
+| 輪くすさが
+| [[澤城美雪]]
+| 羅摩之妻，印度史詩《羅摩衍那》的女主角。&lt;br&gt;因為離別之咒的效果，羅摩與悉多無法同時召喚出來，即使FGO中兩人能被同時召喚，但也沒有真的見到面過。&lt;br&gt;有[[:File:悉多.png|專屬立繪]]&lt;ref&gt;順帶一提，畫師當初認為羅摩和悉多是「同一個人的不同性別的樣子」而將悉多畫的和羅摩非常相似。&lt;/ref&gt;&lt;br&gt;'''在Arcade版先行實裝。'''&lt;s&gt;原來離別之咒是這種意思&lt;/s&gt;
+|-
+! [[Merlin (Fate/Prototype)|梅林〔Prototype〕]]
+| Caster
+| タイキ
+| [[川澄綾子]]
+| Prototype世界的梅林，是女性，首次登場於《Fate/Prototype 蒼銀的碎片》。&lt;br&gt;性格方面大致與泛人類史的男梅林相同&lt;s&gt;都是機掰人&lt;/s&gt;，但與人類常理價值脫節的程度似乎比男梅林更高。&lt;br&gt;寶具為「久遠開啟的理想鄉」。
+|-
+! [[鈴鹿御前 (Fate)|鈴鹿御前〔聖誕〕]]
+| Lancer
+| たけのこ星人
+| [[東山奈央]]
+| 聖誕黑辣妹鈴鹿御前。和原版相比，比起自己的戀愛，變成會將他人的戀愛放在優先順位，可謂戀愛的聖誕老人。&lt;s&gt;但由於鈴鹿御前本人也缺乏經驗，實際上根本沒三小路用&lt;/s&gt;&lt;br&gt;寶具為「三千戀染世界」，角色設定與卡面繪師都由たけのこ星人負責。&lt;br&gt;&lt;s&gt;街機版在12月出原創活動角真的變成傳統了！&lt;/s&gt;
+|-
+! [[Cú Chulainn (Fate/stay night)|瑟坦特]]
+| Saber
+| lack
+| [[村瀨步]]
+| 仍於修業時代的少年英雄，尚未獲得「庫林的猛犬（庫夫林）」名號的未成熟之姿。&lt;br&gt;寶具為「斷裂死輝之刃」。&lt;br&gt;&lt;s&gt;高橋李依與田中美海的性癖集合體&lt;/s&gt;
+|-
+! [[Jacques de Molay (Fate/Grand Order Arcade)|雅克·德·莫萊]]
+| Saber
+| 黑星紅白
+| 中島良樹
+| 聖殿騎士團最後一任團長，因蒙受不白之冤、被以異教徒罪名火刑處決而留下許多傳奇。&lt;br&gt;曾於《Fate/Requiem》中作為路人從者被提及，後於AC第六特異點耶路撒冷正式實裝&lt;ref&gt;歷史紀錄上，尚未成為騎士團長的雅克確實曾於1270年左右前往中東的十字軍國家，但詳細經過沒有留下紀錄。&lt;/ref&gt;。
+|-
+! [[Frankenstein (Fate)|弗蘭肯斯坦（聖誕節）]]
+| Caster
+| 岡崎武士
+| [[野中藍]]
+| 聖誕老人小弗蘭。因為不再是Berserker了，變得可以流利說話。喜歡亂丟聖誕禮物。&lt;br&gt;寶具為「花少女的祝祭‧晴朗配送！」。
+|-
+! [[Tiamat (Fate)|Larva／提亞瑪特]]
+| Alter Ego
+| 山中虎鉄
+| [[悠木碧]]
+| 為了守護人類從虛數之海而來，創世之母的分身。
+|-
+! 尼布甲尼撒二世
+| Caster
+| ギンカ
+| [[關智一]]
+| 巴比倫國王，以建造空中花園和摧毀所羅門神殿等事蹟廣為人知。&lt;br&gt;{{censored|附身在吉爾迦美什的複製屍體身上登場，作為Caster版吉爾迦美什的靈衣於街機板實裝。}}&lt;br&gt;{{censored|&lt;s&gt;古代中東的王者恥度都這麼大的嗎&lt;/s&gt;}}
+|-
+! [[Noah (Fate)|諾亞]]
+| {{color|gold||'''Grand Rider'''}}
+| DANGERDROP
+| 
+| 在聖經中收到神諭而建造了方舟。
+|-
+! [[啟示錄之獸 (Fate)|啟示錄之獸]]
+| {{color|red||'''Beast Ⅵ'''}}
+| ワダアルコ
+| [[丹下櫻]]
+|
+|}
+
+==其他登場人物==
+* 並非英靈或從者，單純作為劇情配角出現的人物。
+=== 主線章節登場 ===
+{| class="wikitable"
+|-
+! scope="col" width="10%"| 名稱
+! scope="col" width="25%"| 初登場章數
+! scope="col" width="65%"| 備註
+|-
+! 皮耶爾．科雄
+| rowspan=2|[[邪龍百年戰爭 奧爾良|第一部第一章《邪龍百年戰爭》]]
+| 下令處死貞德的主教。有專屬立繪。
+|-
+! 法夫納
+| 死於齊格飛手上的邪龍。&lt;br&gt;&lt;s&gt;遊戲中最慘的角色，三不五時就會被拖出來鞭屍。&lt;/s&gt;
+|-
+! &lt;s&gt;流星號&lt;/s&gt;佛勞洛斯
+| [[永恆瘋狂帝國 七丘之國|第一部第二章《永恆瘋狂帝國》]]
+| 所羅門[[魔神柱 (Fate)|七十二柱魔神]]中第六十四柱。具通曉古今的力量。&lt;br&gt;{{censored|劇中為雷夫教授的化身，}}專屬技能為「覺醒時刻已至」。
+|-
+! 佛紐斯
+| [[封鎖終局四海 俄刻阿諾斯|第一部第三章《封鎖終局四海》]]
+| 所羅門七十二柱魔神中第三十柱。擅長辯論的魔神。&lt;br&gt; {{censored|劇中為美狄亞以伊阿宋作為媒介進行召喚，}}專屬技能為「漂流時刻已至」。
+|-
+! [[間桐臟硯|馬基里‧佐爾根]]
+| rowspan=4|[[死界魔霧都市 倫敦|第一部第四章《死界魔霧都市》]]
+| 俄羅斯魔術名門的魔術師，追隨所羅門之人。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%83%9E%E3%82%AD%E3%83%AA%E3%83%BB%E3%82%BE%E3%82%A9%E3%83%AB%E3%82%B1%E3%83%B3&amp;src=makiri.png 專屬立繪]。
+|-
+! 維克多．弗蘭肯斯坦
+| 並非弗蘭肯斯坦的製造者，而是他的孫子，同名同姓的小維克多。&lt;br&gt;因拒絕協助馬基里，與主角一行見面前就被梅菲斯特殺害。
+|-
+! &lt;s&gt;獵魔&lt;/s&gt;巴爾巴托斯
+| 所羅門七十二柱魔神中第八柱。據說能賦予召喚者龐大的知識。&lt;br&gt;{{censored|劇中為馬基里以自身為媒介進行召喚，}}專屬技能為「抉擇時刻已至」。
+|-
+! 貝雷特
+| 所羅門七十二柱魔神中第十三柱。擁有掌控愛情的能力。&lt;br&gt;{{censored|第四章最終戰所羅門召喚的四隻魔神之一，}}專屬技能為「絕望時刻已至」。
+|-
+! 班傑明．拉許
+| rowspan=3|[[北美神話大戰 合眾為一|第一部第五章《北美神話大戰》]]
+| 美國精神醫學之父，獨立戰爭時為大陸軍軍醫。獨立宣言簽署者之一、廢除奴隸制度的先驅者。&lt;br&gt;有專屬立繪。
+|-
+! 哈帕斯
+| 所羅門七十二柱魔神中第三十八柱。擅長戰爭。&lt;br&gt;{{censored|劇中為庫夫林以自身為媒介進行召喚，}}專屬技能為「開拓時刻已至」。
+|-
+! 二十八名怪物
+| 庫利牛爭奪戰中，梅芙為了對付庫夫林而準備的戰士們。&lt;br&gt;{{censored|劇中被梅芙作為媒介進行召喚，化身成二十八隻魔神。}}
+|-
+! 理查一世（自稱）
+| 竹箒日記《第六章/Zero》
+| 率領偽十字軍的魔人，雖自稱為[[Richard the Lionheart (Fate)|獅心王理查]]，但無論外表還是給人的感覺都不一樣。&lt;br&gt;即使是領受祝福的圓桌們聯手戰鬥也難以對抗的強者，最後受制於加列斯，和加列斯一起被高文斬殺。
+|-
+! 魯修德
+| rowspan=5|[[神聖圓桌領域 卡美洛|第一部第六章《神聖圓桌領域》]]
+| 被主角一行拯救，從聖選中逃過一劫的孩子。&lt;br&gt;因坎坷的經歷而比同齡的孩子聰明成熟&lt;s&gt;，懂得趁機偷吃瑪修的豆腐&lt;/s&gt;。&lt;br&gt;有[https://vignette.wikia.nocookie.net/typemoon/images/c/c7/Rushd.png 專屬立繪]。
+|-
+! 薩利亞
+| 魯修德的母親，為保護魯修德而死。&lt;br&gt;{{censored|曾是咒腕的未婚妻。}}
+|-
+! 賽魯汗
+| 與十字軍做生意的商人，十字軍潰滅後淪為盜賊。角色原型有可能是在1313年建立薩魯汗公國（Sarukhanids）的薩魯汗族長（Sarukhan Bey）。&lt;br&gt;私底下幫助蘭斯收容難民，有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%82%BB%E3%83%AB%E3%83%8F%E3%83%B3&amp;src=seruhan.png 專屬立繪]。
+|-
+! 撒坦
+| 或叫伊布力斯，簡單來說就是伊斯蘭教版本的撒旦。&lt;br&gt;將力量借給咒腕的惡魔，寄宿於咒腕的右手當中。
+|-
+! 亞蒙
+| 所羅門七十二柱魔神中第七柱。能使朋友反目成仇或和解。在埃及，曾被作為最高神[[Wikipedia:zh:阿蒙|阿蒙]]崇拜。&lt;br&gt;{{censored|劇中為拉美西斯二世以自身為媒介進行召喚&lt;ref&gt;同時賦予大神[[Wikipedia:zh:拉 (埃及神祇)#與拉合併的神|阿蒙‧拉]]之真名，使真神附在魔神柱上降臨現世&lt;/ref&gt;，}}專屬技能為「再生時刻已至」。
+|-
+! 金古
+| rowspan=5|[[絕對魔獸戰線 巴比倫|第一部第七章《絕對魔獸戰線》]]
+| 迪亞馬特之子，也是其第二任丈夫。&lt;br&gt;神話中挑戰馬爾杜克，敗北後被處刑，他的血與骨被當作創造人類的材料。&lt;br&gt;{{censored|實際上這位金古並非神話中的金古神，而是繼承了金古神之名，[[Tiamat (Fate)|{{censored|迪亞瑪特}}]]所創造的「新人類」，本人還表示金古神只是個失敗品。身為迪亞馬特之子的他佔據[[Enkidu (Fate)|{{censored|恩奇都}}]]的遺體，加入魔獸軍與人類為敵，給愛戴恩奇都的烏魯克人帶來震撼。}}&lt;br&gt;{{censored|雖是搶來的身體，但也是這個時代獨一無二的天之鎖，在劇情上可說是與金閃並列的第七章裡主角。}}&lt;br&gt;{{censored|寶具名為「母親啊，高吭初啼吧（Nammu Duranki）」。}}
+|-
+! [[Siduri (Fate)|西杜麗]]
+| 烏魯克的祭祀長，給來到烏魯克的主角方不少幫助。&lt;br&gt;是吉爾伽美什結束尋找長生不老藥的旅程後，唯一還留在被他拋棄的烏魯克等他的人&lt;s&gt;因此閃閃在她面前完全抬不起頭來&lt;/s&gt;。&lt;br&gt;原作中為給予吉爾伽美什建議的酒館女主人，Fate世界則設定為酒館出身並當上祭祀長的神官。&lt;br&gt;{{censored|故事後期下落不明，劇情強烈暗示她已經被改造成拉赫穆了。}}&lt;br&gt;有[http://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%82%B7%E3%83%89%E3%82%A5%E3%83%AA&amp;src=saisicyo.png 專屬立繪]。&lt;br&gt;2019年金閃祭的商店負責人，有[https://vignette.wikia.nocookie.net/fategrandorder/images/d/d5/Siddhuri_New_York.png 新的立繪]，CV則直接由動畫版擔任CV的內山夕實小姐擔任。
+|-
+! 吉爾達布魯魯
+| 迪亞馬特之子，半人半蠍的魔獸。&lt;br&gt;魔獸軍的指揮官，將毫無紀律的魔獸整合成軍團的棘手人物。&lt;br&gt;第七章開始三個月前，在巴御前的捨身攻擊下同歸於盡。
+|-
+! 巴修姆
+| 迪亞馬特之子，有角的毒蛇。&lt;br&gt;本作中是龍，與法夫納同定位的大型沙包魔獸。
+|-
+! 阿蘭塔
+| 吉爾伽美什父親的對手。&lt;br&gt;本作中是冥界巨龍。
+|-
+! &lt;s&gt;主魔&lt;/s&gt;巴力
+| rowspan=9|[[冠位時間神殿 所羅門|第一部終章《冠位時間神殿》]]
+| 所羅門七十二柱魔神中第一柱，惡魔之王。傳說中會以許多不同的外型現身，能使人隱形，尚精通性愛和法律的知識。&lt;br&gt;有[[:File:Baal.png|人型立繪]]，專屬技能為「宿願時刻已至」。
+|-
+! &lt;s&gt;智魔&lt;/s&gt;古辛
+| 所羅門七十二柱魔神中第十一柱。擁有讓人萌生友情、修復關係的能力。
+|-
+! 納貝流士
+| 所羅門七十二柱魔神中第二十四柱。能夠告知召喚者正確的語法與修辭技巧，協助找回已逝的榮景，使召喚者再次受到世人的尊重。&lt;br&gt;專屬技能為「成長時刻已至」。
+|-
+! 概布
+| 所羅門七十二柱魔神中第三十三柱。擁有改變愛憎、回答問題、傳送他人的能力。
+|-
+! 勞姆
+| 所羅門七十二柱魔神中第四十柱。擁有破壞城市的能力。&lt;br&gt;專屬技能為「降臨時刻已至」。
+|-
+! 斯伯奈克
+| 所羅門七十二柱魔神中第四十三柱。擅長修築城防、給軍隊提供裝備，或以蛆蟲之樹殺人。&lt;br&gt;專屬技能為「宿命時刻已至」。
+|-
+! 克羅賽爾
+| 所羅門七十二柱魔神中第四十九柱。能揭露神秘隱藏的事物，傳授地理與科學的藝術。
+|-
+! 歐賽
+| 所羅門七十二柱魔神中第五十七柱。能將他人變形。
+|-
+! 安杜馬利烏士
+| 所羅門七十二柱魔神中第七十二柱。具取回被竊之物、察明小偷的真面目之力。&lt;br&gt;專屬技能為「廢棄時刻已至」。
+|-
+! 卡瓦爾II世
+| rowspan=10|[[惡性隔絕魔境 新宿|間章．亞種特異點I《惡性隔絕魔境》]]
+| [[Artoria Pendragon (Fate)|阿爾托利亞Alter]]撿來的白色薩摩耶（犬種待確認），主角等人外出戰鬥時在據點看家{{censored|，幫助主人公等人擊敗了狼王羅伯}}。&lt;br&gt;&lt;s&gt;因立下戰功而被阿爾托利亞Alter封爵，地位微妙的比主人公還要高。&lt;/s&gt;&lt;br&gt;有&lt;s&gt;很可愛的&lt;/s&gt;[[:檔案:卡瓦爾II世.png|專屬立繪]]。
+|-
+! 鏑木
+| 福爾摩斯在新宿的協力者，販售許多魔術相關物品的黑市商人。
+|-
+! 克麗斯汀
+| 和魅影一同被召喚出來的幻靈，人偶的女帝。&lt;br&gt;因毫無戰力而被迫以人偶的樣子現界，被剝奪除了歌聲以外的一切，在悲痛之下發狂。&lt;br&gt;有[http://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8C&amp;src=Christine.png 專屬立繪]，戰鬥時外觀為特別版的「花腔&lt;ref&gt;新宿版本的自動人偶敵役。&lt;/ref&gt;&lt;ref&gt;Coloratura ，一種聲樂技術&lt;/ref&gt;」與大幽靈&lt;br&gt;技能為「無聲的悲鳴」、「染血的歌劇」，寶具為「吾心絕望恰為彼方引吭」。
+|-
+! 李爾王
+| 莎士比亞的創作幻想，冠以李爾王之名的怪物。&lt;br&gt;戰鬥時外觀為特別版的守寶妖精，技能為「王的悲嘆」、「大狂亂」。
+|-
+! 羅密歐與茱麗葉
+| 莎士比亞的創作幻想，冠以羅密歐與茱麗葉之名，兩人一組的怪物。&lt;br&gt;戰鬥時外觀為大幽靈，技能為「幸福的花冠」、「鉛的羽毛」、「光輝之煙」、「冰冷之焰」、「星之戀人們」。&lt;br&gt;&lt;s&gt;繼リア王後出場的是リア充。&lt;/s&gt;
+|-
+! 馬克白
+| 莎士比亞的創作幻想，冠以馬克白之名的怪物。&lt;br&gt;雖說頂著天下無敵的馬克白之名，但反而比其他創作幻想還弱。&lt;br&gt;戰鬥時外觀為影羅摩，技能為「不死身的預言」。
+|-
+! 圓臉的神父
+| 幻靈偵探之一，有[https://vignette.wikia.nocookie.net/typemoon/images/e/e0/Round-Faced_Priest.png 專屬立繪]。&lt;br&gt;真實身份為直覺過人的布朗神父。
+|-
+! 玩弄繩子的老人
+| 幻靈偵探之一，有[https://vignette.wikia.nocookie.net/typemoon/images/9/9f/String-Fiddling_Old_Man.png 專屬立繪]。&lt;br&gt;真實身份為安樂椅神探的代表人物「角落裡的老人」。
+|-
+! 卷髮的教授
+| 幻靈偵探之一，有[https://vignette.wikia.nocookie.net/typemoon/images/f/f1/Shaggy-Haired_Professor.png 專屬立繪]。&lt;br&gt;真實身份為注重邏輯的凡杜森教授。
+|-
+! 一本正經的紳士
+| 幻靈偵探之一，有[https://vignette.wikia.nocookie.net/typemoon/images/c/cf/Straight-Laced_Gentleman.png 專屬立繪]。&lt;br&gt;真實身份為以科學辦案聞名的桑代克博士。
+|-
+! 菲尼克斯
+| rowspan=3|[[傳承地底世界 雅戈泰|間章．亞種特異點II《傳承地底世界》]]
+| 所羅門七十二柱魔神中第三十七柱，具傳授科學的能力。&lt;br&gt;有[[:File:Phenex.png|人型立繪]]，專屬技能為「復活時刻已至」。
+|-
+! 九頭蛇
+| 有著九顆腦袋的兇猛大蛇，經常出現在各地的神話故事與民間傳說當中。
+|-
+! 拉普達上的魔物們
+| 不夜城的Caster在拉普達的決戰以寶具「{{censored|千夜一夜物語}}」召喚出來的魔物們。被召喚出來的有：&lt;br&gt;[https://zh.wikipedia.org/wiki/%E8%88%AA%E6%B5%B7%E5%AE%B6%E8%BE%9B%E5%B7%B4%E8%BE%BE#.E8.88.AA.E6.B5.B7.E5.AE.B6.E8.BE.9B.E5.B7.B4.E8.BE.BE.E7.9A.84.E7.AC.AC.E4.B8.89.E6.AC.A1.E8.88.AA.E8.A1.8C 第三次航行的鬼]、[http://bookstrg.com/Res/Pic/Chr/Stories/ARC/ARC32577E01.html 烏木馬]、[http://www.wollamshram.ca/1001/Vol_5/tale111.htm 鬼屋屋主]（未確定）、[http://storyfree.com/%E5%93%88%E5%B8%8C%E5%8D%9C%E5%92%8C%E8%9B%87%E7%8E%8B 蛇身人面女王]、[http://fanqee.com/book/uhy8amqw/chapter/22278/ 羽衣的少女]、[https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%B8%81 精靈]、大理石王子（出處待考）、[http://sicambre.at.webry.info/200703/article_30.html 黃銅騎士]（未確定）。
+|-
+! 宮本武藏
+| rowspan=8|[[屍山血河舞台 下總國|間章．亞種平行世界《屍山血河舞台》]]
+| 劍豪世界的宮本武藏，與[[迦勒底]]所在的世界一樣是男性。&lt;br&gt;已經老朽到無法持劍比試，而隱居在金峰山的靈巖洞。
+|-
+! 妖術師
+| 對德川抱有強烈憎恨而召喚靈薄獄、構築出屍山血河舞台的妖術師，英靈劍豪們的Master。&lt;br&gt;真實身份為{{censored|[[言峰四郎|{{censored|天草四郎}}]]，其在島原之亂後成為和武藏類似的移動特異點，流浪過數十個世界後因強烈的憎恨與「撒旦」的聲音而決議策畫這次事件。}}&lt;br&gt;{{censored|在這樣的經歷下，已經變成和英靈天草四郎完全不同的存在，成為散播絕望的Avenger。}}&lt;br&gt;{{censored|系統上的技能寶具和Ruler天草一樣，但在劇情上擁有Ruler天草所沒有的寶具「固有結界‧島原地獄繪卷」。}}
+|-
+! 靈薄獄的大靈
+| 下總相馬的大靈，被靈薄獄召喚到舞台上代替他與武藏對決。&lt;br&gt;原型可能是《相馬的古內裏》中，平將門的妹妹(一說為女兒)瀧夜叉姬所操縱的巨大骷髏。&lt;br&gt;&lt;s&gt;不但有頭，而且還有好幾顆頭，所以大概不是將門的怨靈。&lt;/s&gt;&lt;br&gt;有專屬立繪與專屬戰鬥模組，不知為靈薄獄所有還是大靈自己擁有的技能為「劫濁」、「慢業重疊」、「大難災禍」。
+|-
+! 阿縫與田助
+| 因故失去雙親而被村正收養的姊弟。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%81%8A%E3%81%AC%E3%81%84&amp;src=onui.png 專屬立繪]。
+|-
+! 左近
+| 柳生但馬守的家臣。&lt;br&gt;{{censored|厭離穢土現世後，為了保護城裡的居民而被妖術師殺害。}}
+|-
+! 清姬
+| 劍豪世界的清姬，土氣城城主松平下總守的女兒，貨真價實的公主。&lt;br&gt;&lt;s&gt;不少對普通清姬無感的玩家反而被不病嬌的松平清姬萌到。&lt;/s&gt;
+|-
+! 阿玉
+| 劍豪世界的玉藻前，土氣城裡的藝妓，主角一行&lt;s&gt;強佔&lt;/s&gt;借住她的住所當作據點。
+|-
+! 木曾義仲
+| 平安時代名將、巴的丈夫，同源賴朝競爭，與天下大位相失交臂的悲劇英雄。
+|-
+! &lt;s&gt;杉田智和&lt;/s&gt;&lt;br&gt;[[Randolph Carter (Fate)|倫道夫．卡特]]
+| rowspan=16|[[禁忌降臨庭園 塞勒姆|間章．亞種特異點IV《禁忌降臨庭院》]]
+| 定居於塞勒姆的學者、艾比蓋兒的舅舅，收養父母雙亡無依無靠的艾比。&lt;br&gt;倫道夫．卡特為克蘇魯系列創作中經常登場的知名學者，常被視作&lt;s&gt;愛手藝&lt;/s&gt;洛夫克拉夫特的自我投射，史實上艾比的舅舅名為塞繆爾．帕里斯。&lt;br&gt;{{censored|真實身份是自稱「暢遊時空的紳士」的謎之人物，有著在睡夢中讓精神拜訪各種世界的能力。&lt;br&gt;據他所說，他的使命是阻止某個會危害世界的存在，關鍵詞是海以及蛸，為了追蹤『那個』，他必須要進行深度睡眠，貌似就是這個時機被魔神勞姆乘虛而入，奪走了他的身軀。而這個卡特和之前的魔神卡特&lt;ref&gt;勞姆的原形為烏鴉故討厭貓&lt;/ref&gt;不同，是非常喜歡貓的。&lt;br&gt;玩家們多半猜測他的身分為真正的倫道夫．卡特，或者是洛夫克拉夫特本人。}}&lt;br&gt;有以洛夫克拉夫特&lt;s&gt;及杉田&lt;/s&gt;為範本設計的[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AB%E3%83%95%E3%83%BB%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC&amp;src=carter.jpg 專屬立繪]。
+|-
+! [[Lavinia Whateley (Fate)|拉薇妮亞．韋特利]]
+| 塞勒姆的居民，因白化症與家族的流言而受村里排擠的女孩，只有艾比將她視為朋友，相當羨慕艾比蓋兒有一頭漂亮的金髮。&lt;br&gt;額頭上有一根像是角的東西，會隨著情緒而伸長或縮短。&lt;br&gt;{{censored|勞姆在第六次輪迴時召喚來的『外來人』，其家系是對克蘇魯神話進行研究的魔術師。韋特利一家並不是這個世界的居民，而是書本中的創作物。但韋特利一家只不過是虛構的人物如同幻靈一樣被賦予了生命，還是說如同勞姆所說的一樣『那本書』本身的確是連同平行宇宙的道路，這一點尚且不明。}}&lt;br&gt;原型可能為洛夫克拉夫特作品《敦威治恐怖事件》的同名登場人物，在故事中為外神猶格．索托斯生下兩個孩子。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AA%E3%83%BC&amp;src=Lavinia.jpg 專屬立繪]，繪師為黑星紅白。
+|-
+! 阿布薩拉姆．韋特利
+| 塞勒姆的居民，拉薇妮亞的爺爺，從外地搬到塞勒姆的魔術師。&lt;br&gt;有專屬立繪。
+|-
+! 瑪竇．霍普金斯
+| 領著麻薩諸塞州長的任命書來到塞勒姆任職的法官，雖不是異端審問官卻靠著獵巫發財的律師，有著「魔女狩獵將軍」名號的獵巫人。&lt;br&gt;{{censored|實際上在塞勒姆審巫案的年代已死，此處的霍普金斯為勞姆放進塞勒姆的罪人之一。}}&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%97%E3%82%AD%E3%83%B3%E3%82%B9&amp;src=hopkins.jpg 專屬立繪]。
+|-
+! 霍桑法官
+| 塞勒姆本地的法官。&lt;br&gt;史實原型可能為塞勒姆審巫案中最為惡名昭彰的法官'''約翰·霍桑'''，他同時也是著名文豪納撒尼爾·霍桑的祖先。
+|-
+! 老吉爾斯
+| 塞勒姆村村民。{{censored|和瑪塔·哈里、皮克曼夫人在同一日被送上絞刑臺處刑。}}&lt;br&gt;史實原型可能為塞勒姆審巫案中被石頭壓迫、折磨致死的'''吉爾斯·科里'''。
+|-
+! 皮克曼夫人
+| 塞勒姆村村民。{{censored|和瑪塔·哈里、老吉爾斯在同一日被送上絞刑臺處刑。}}&lt;br&gt;原型可能為洛夫克拉夫特作品《皮克曼的模特》中，主要角色皮克曼所言及的「曾在塞勒姆審巫案中被處決的祖先」。
+|-
+! 麗貝卡
+| 塞勒姆村村民。因要不回妹妹瑪麗的屍體而對瑪塔·哈里懷恨在心，進而告發她。&lt;br&gt;史實原型可能為塞勒姆審巫案中最年長的被處決者'''麗貝卡·納斯'''，妹妹'''瑪麗·伊斯泰'''也同樣在審巫案中被處刑。
+|-
+! 奧斯本
+| 塞勒姆村村民。因求愛被瑪塔·哈里拒絕而對她懷恨在心，進而告發她。
+|-
+! 牧師
+| 塞勒姆村村民。
+|-
+! 眼罩
+| rowspan=3|旅經塞勒姆的水手們。&lt;br&gt;{{censored|在某次村中的騷動後被視作暴動首謀送上絞刑台。}}
+|-
+! 錨手
+|-
+! 白旗
+|-
+! 遠古食屍鬼
+| 在克蘇魯系列中是名為古革巨人，居住在幻夢境的種族。
+|-
+! 夏塔克鳥
+| 在克蘇魯系列中是幻夢境的神話生物。
+|-
+! 魯道夫
+| 魯道夫．約翰．麥克勞德，瑪塔的前夫。&lt;br&gt;戰鬥模組為影魅影。
+|-
+! 帕茲西
+| rowspan=4|[[永久凍土帝國 安娜塔西亞|第二部第一章《永久凍土帝國》]]
+| 雅戈族的青年，主角一行在永久凍土帝國所認識的第一位雅戈，本章的真主角。&lt;br&gt;在故鄉被人疏遠、厭惡雷帝的暴政，但也無法完全接受叛亂軍的作法，走到哪都格格不入的「異端的雅戈」。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%83%91%E3%83%84%E3%82%B7%E3%82%A3&amp;src=patxi.png 專屬立繪]。
+|-
+! 彌諾陶洛斯
+| 克里特的魔獸，作為怪物存在的阿斯忒里翁。&lt;br&gt;有專屬立繪，戰鬥模組為稍有變化的阿斯忒里翁模組，寶具為「萬古不易的迷宮‧邪」。
+|-
+! 夏夏
+| 被比利小子與貝奧武夫發現的謎之生物，有著無以名狀的、冒瀆般的可愛。&lt;br&gt;有[https://vignette.wikia.nocookie.net/fategrandorder/images/b/b8/Shanshan.png 專屬立繪]。
+|-
+! 達維特‧布魯布克
+| 美國的研究員，在與異星的戰爭告終後留下人類的最後一份留言。
+|-
+! 凱爾妲
+| rowspan=3|[[無間冰焰世紀 諸神黃昏|第二部第二章《無間冰焰世紀》]]
+| 主人公一行在北歐異聞帶結識的13歲女孩，獨自居住於第23集落的「花園的少女」。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%82%B2%E3%83%AB%E3%83%80&amp;src=Gerda.png 專屬立繪]，繪師為TAa。
+|-
+! 福金和霧尼
+| 奧丁飼養的兩隻烏鴉，分別象徵思想與記憶。
+|-
+! [[紫苑‧艾爾特納姆‧亞特拉西亞|希翁．艾爾特納姆．索凱利斯]]
+| 阿特拉斯院的最後一人，Paper Moon的設計者。&lt;br&gt;為了躲避地球白紙化的危機而逃亡到彷徨海，被彷徨海任命為地球白紙化解決企劃的負責人。&lt;br&gt;繪師為武內崇。
+|-
+! [[韓信 (Fate)|韓信]]
+| [[人智統合真國 SIN|第二部第三章《人智統合真國》]]
+| 漢初三傑之一，有「國士無雙」之稱，眾多成語的來源。曾在垓下擊敗[[項羽 (Fate)|項羽]]。最後死於呂雉之手。&lt;br&gt;後人常用有「兵聖」之稱的孫武與他相提並論。&lt;ref&gt;「言兵莫過孫武，用兵莫過韓信」&lt;/ref&gt;&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E9%9F%93%E4%BF%A1&amp;src=kanshin.png 專屬立繪]，繪師為サテー。&lt;br&gt;&lt;s&gt;[[成句/各位，我喜歡戰爭！|各位，我喜歡戰爭！]]&lt;/s&gt;
+|-
+! 愛夏
+| rowspan=2| [[創世滅亡輪迴 宇迦‧格舍德拉|第二部第四章《創世滅亡輪迴 宇迦・格舍德拉》]]
+| 主人公一行在印度異聞帶結識的女孩。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=アーシャ＆アジャイ&amp;src=arsya.jpeg 專屬立繪]。
+|-
+! 阿賈伊
+| 愛夏的父親，。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=アーシャ＆アジャイ&amp;src=ajay.jpeg 專屬立繪]。
+|-
+! [[Zeus (Fate)|宙斯]]
+| rowspan=7|[[星間都市山脈 奧林帕斯|第二部第五章《星間都市山脈》]]
+|希臘神話中的眾神之王，天空與雷霆之神。奧林帕斯十二主神之首。泰坦王克羅納斯與瑞亞的小兒子。&lt;br&gt;遊戲中職階為Ruler。&lt;br&gt;{{s|著名的神渣。}}經常背着正妻赫拉出軌與一眾女性搞外遇，誕下了無數的英雄。{{s|[[成句/高義，你他媽雜碎！|宙斯，你他媽雜碎！]]}}&lt;br&gt;CV是木下浩之。&lt;br&gt;有[https://vignette.wikia.nocookie.net/typemoon/images/c/c0/Zeus00.png 專屬立繪]，繪師為Azusa。
+|-
+! [[Aphrodite (Fate)|阿芙蘿黛蒂]]
+| 愛與美和欲望女神，奧林帕斯十二主神之一。宙斯與狄俄涅的女兒。&lt;br&gt;遊戲中職階為Assissin。有[https://vignette.wikia.nocookie.net/typemoon/images/c/c6/Aphrodite.png 專屬立繪]，繪師為ワダアルコ。CV是[[日高範子]]。&lt;br&gt;&lt;s&gt;仔細看能見到乳暈&lt;/s&gt;
+|-
+! [[Demeter (Fate)|德墨忒爾]]
+| 泰坦王克羅納斯與瑞亞的女兒，宙斯的姐姐，冥后珀耳塞福涅的母親。生育、農業、自然和季節女神，奧林帕斯十二主神之一。&lt;br&gt;遊戲中職階為Caster。有[https://vignette.wikia.nocookie.net/typemoon/images/0/03/Demeter.png 專屬立繪]，繪師為okojo。CV是[[久川綾]]。
+|-
+! [[Ares (Fate)|阿瑞斯]]
+| 戰爭、暴力和血腥之神，奧林帕斯十二主神之一。&lt;br&gt;有專屬立繪。
+|-
+! 愛黛兒、馬卡里奧斯
+| 異聞帶居民，一對姐弟，已經一萬多年又一百多歲。&lt;br&gt;兩人皆有專屬立繪。
+|-
+! 卡歐斯
+| 即「混沌」的音譯，是希臘神話中的概念，一切空間及概念的開始。&lt;br&gt;{{censored|本體是以恆星為核心的超構造體（戴森球），為了開拓、尋找新的生命耗費97%的機能將整支十二機神艦隊送到FGO世界觀地球所在的宇宙。}}
+|-
+! [[Hephaestus (Fate)|赫菲斯托斯]]
+| 工匠、火和鍛造之神，奧林帕斯十二主神之一。&lt;br&gt;{{censored|一部分殘骸被千子村正一刀兩斷，頭腦體被帶回奧林帕斯，其後幫助破神同盟完成「七重連英靈砲」及「破神術式‧冠位英靈指定召喚」。}}&lt;br&gt;{{censored|最後知性體遭到蘆屋道滿的入侵而停機。}}
+|-
+! 藤原道長
+| rowspan=2| [[地獄界曼荼羅 平安京|第二部第五點五章《地獄界曼荼羅 平安京》]]
+| 平安時代政治家，紫式部的上司，著名陰陽師安倍晴明侍奉的對象，有種說法是《源氏物語》中光源氏的原型。&lt;br&gt;在《紫式部日記》中有記載道長深夜造訪紫式部閨房的軼事，也有兩人實際上是情人的傳言。&lt;br&gt;紫式部：「道長大人的事情，我無可奉告。」&lt;br&gt;有專屬立繪，繪師為渡れい（亞種III漫畫版繪師）。
+|-
+! 蘆屋道滿
+| 於平安京尚在生的蘆屋道満&lt;s&gt;，性格跟成為Alter Ego的道滿相比根本不是同一人&lt;/s&gt;。
+|-
+! 霍普
+| rowspan=10| [[妖精圓桌領域 阿瓦隆‧勒‧菲|第二部第六章《妖精圓桌領域》]]
+|主人公一行人在無名之森附近的小村子康沃爾邂逅的妖精少女。&lt;br&gt;有專屬立繪，繪師為すみす。
+|-
+! 麥克
+| 酒館老闆的妖精，收留達文西醬並讓她在酒館打雜。&lt;br&gt;有專屬立繪，繪師為下越。
+|-
+! 奧蘿菈
+| 風之氏族族長，索爾茲伯里領主。&lt;br&gt;{{censored|本章甚至本作最招人恨的角色（詳見劇情條目）。}}&lt;br&gt;有專屬立繪，繪師為TAa。
+|-
+! 克菈兒
+| 奧蘿菈的現任秘書官。&lt;br&gt;有專屬立繪，繪師為TAa。
+|-
+! 斯普利甘
+| 康沃爾民間傳說中出沒在遺跡或古墓附近守護寶藏、會嚇退盜掘者的守寶妖精。&lt;br&gt;本作中以傳統的金髮尖耳、中年男性外表的妖精形象登場，土之氏族族長，諾里奇領主。&lt;br&gt;有專屬立繪。
+|-
+! 伍德華司
+| 牙之氏族現任族長，牛津領主。&lt;br&gt;有專屬立繪，繪師為村山竜大。
+|-
+! 姆莉安
+| 翅之氏族的族長兼最後生還者，格羅斯特領主。&lt;br&gt;有專屬立繪。
+|-
+! 波加德
+| 凱爾特神話中的家庭小妖精，愛惡作劇但本性善良樂於助人。&lt;br&gt;本作中以獅子頭壯漢形象登場&lt;s&gt;愛迪生2P色&lt;/s&gt;。&lt;br&gt;有專屬立繪，繪師為下越。
+|-
+! 諾克娜蕾雅
+| 王之氏族族長兼唯一真正的王之氏族，瑪布仙后的轉世。&lt;br&gt;有著和梅芙一樣的容貌，性格也有一部份相似。&lt;br&gt;有專屬立繪，繪師為高山箕犀。
+|-
+! 克爾弩諾斯
+| 凱爾特神話神祇之一，一般認為掌管狩獵、生育、動物、植物、荒野等，並具有支配冥界的力量。&lt;br&gt;異聞帶中唯一被稱為神的存在。&lt;br&gt;遊戲中職階為Berserker，有專屬戰鬥模組。
+|-
+! PB
+| 第二部第六章間章《[[非靈長生存圈 通古斯聖域|非靈長生存圈]]》
+| NFF內的一隻黑色兔子，具有語言能力。&lt;br&gt;有專屬立繪。
+|-
+! [[尼祿‧卡歐斯|Fabro Rowan]]
+| 後記/2017年12月31日
+| {{censored|在異星之神摧毀彷徨海前，以摧毀一塊大陸的魔力量開啟彷徨海的門企圖招攬紫苑卻被對方拒絕。}}&lt;br&gt;有專屬立繪。&lt;br&gt;&lt;s&gt;原來你沒在月姬R登場是因為這個&lt;/s&gt;
+|}
+
+=== 幕間物語中登場 ===
+{| class="wikitable"
+|-
+! scope="col" width="12%"| 名稱
+! scope="col" width="25%"| 初登場章數
+! scope="col" width="63%"| 備註
+|-
+! 哈根
+| 齊格飛《追尋萊茵的黃金》
+| 齊格飛的好友，也是背叛他的人。&lt;br&gt;戰鬥時外觀為影齊格飛。
+|-
+! 馬克西米連．羅伯斯比爾
+| 騎士德翁《以白百合之名》
+| 引發法國大革命的革命家。&lt;br&gt;戰鬥時外觀為遠古幽靈，曾經是遊戲中血量最高的敵人，直到期間限定活動《Saber Wars ～Lily的宇宙武者修行～》才被超越，紀錄維持了半年之久。
+|-
+! 布魯斯
+| rowspan=8|羅慕路斯《七丘之國的守護者，在此！》
+| 尼祿手下的禁衛軍長官。
+|-
+! 塞內卡
+| 尼祿的導師及顧問。
+|-
+! 奧古斯都
+| 凱撒之子，羅馬帝國開國之君。不遜於其父的優秀軍事家與政治家。&lt;br&gt;被羅慕路斯吸引過來的靈魂之一。
+|-
+! 提貝里烏斯
+| 羅馬帝國第二任皇帝。歷史評價兩極。&lt;br&gt;被羅慕路斯吸引過來的靈魂之一。
+|-
+! 克勞狄烏斯
+| 羅馬帝國第四任皇帝。彌補了卡里古拉搞出來的各種爛攤子。&lt;br&gt;被羅慕路斯吸引過來的靈魂之一。
+|-
+! 圖拉真
+| 羅馬帝國第十三任皇帝，羅馬五賢帝之一。大幅擴張羅馬的疆域。&lt;br&gt;被羅慕路斯吸引過來的靈魂之一。
+|-
+! 哈德良
+| 羅馬帝國第十四任皇帝，羅馬五賢帝之一。為查民情而踏遍羅馬帝國各行省。&lt;br&gt;被羅慕路斯吸引過來的靈魂之一。
+|-
+! 塞維魯
+| 羅馬帝國第二十一任皇帝，賽維魯王朝建立者。以軍事能力見長。&lt;br&gt;被羅慕路斯吸引過來的靈魂之一。
+|-
+! 浮士德
+| 梅菲斯特《滴答‧碰！》
+| 歐洲傳說和約翰．沃爾夫岡．馮·歌德創作戲劇裏的鍊金術師，梅菲斯特前主人。據梅菲斯特所說是個缺乏才能的二流魔術師。&lt;br&gt;戰鬥時外觀為遠古幽靈。
+|-
+! 伊莎貝拉·洛美
+| 貞德《吾主在此II》
+| 貞德的母親，在貞德死後推動了貞德的翻案行動，成功為貞德平反。&lt;br&gt;最早在《Fate/Apocrypha》即有登場，動畫版中出現人設，而F/GO漫畫版《-turas réalta-》中也沿用了此人設。&lt;br&gt;AP動畫的CV為石井未紗。
+|-
+! 湯瑪斯·杜提
+| 弗朗西斯·德雷克《星之開拓者》
+| 與德雷克共同擔任遠征指揮的英國貴族，在歷史上最後被德雷克以叛國罪處刑。&lt;br&gt;其罪名擁有諸多疑點，處刑的公正性也備受歷史學家質疑。他的死在英國海軍開創了「無論船員的階級如何，船長在海上就是絕對的」的先例。&lt;br&gt;在Fate中是因為將德雷克視為親友的他，擔心德雷克航行世界會遇到危險而故意搞破壞。
+|-
+! 基德船長
+| 安妮&amp;瑪麗《奪取基德船長的財寶》
+| 本名威廉．基德，英國私掠船船長。因部下搶劫一名英國船長而被英國政府定為海盜，但他本人至死不承認自己是海盜。&lt;s&gt;同時也是[[航海王]]超新星尤斯塔斯．基德的命名來源，除此之外沒有關係&lt;/s&gt;&lt;br&gt;戰鬥時外觀為遠古幽靈。
+|-
+! 哈艮地
+| 美狄亞Lily《幸福的鬆餅》
+| 所羅門七十二柱魔神中第四十八柱。能將金屬變成黃金，或是將水變成酒、酒變成水。&lt;s&gt;把自己變成鬆餅&lt;/s&gt;&lt;br&gt;{{censored|劇中為美狄亞Lily以魔神柱殘留的魔力為媒介進行召喚&lt;ref&gt;為了取得其魔力因子為材料製成鬆餅，幫助英雄王和征服王和好，美狄亞Lily的絆10禮裝有展示[https://cdn.img-conv.gamerch.com/img.gamerch.com/fate-go/wikidb_img/1478524394.jpg 成品]&lt;/ref&gt;}}，專屬技能為「成形時刻已至」。
+|-
+! 罪龍 貪婪
+| 尼祿．Bride《決意的花束》
+| 七座山丘之一，有著「來自罪惡之都的貪婪之顎」、「沸騰魔泉之龍」等&lt;s&gt;中二&lt;/s&gt;恐怖稱號。&lt;br&gt;戰鬥時外觀為騎屬性巨龍。
+|-
+! 格蘭德爾
+| 貝歐武夫《格蘭德爾的再臨》
+| 史詩中被貝歐武夫擊敗的魔獸，GO中擁有變換外型和讀取記憶的能力。
+|-
+! 毗濕奴
+| 羅摩《毗濕奴的試煉》
+| 印度教三相神之一，司掌「維護」職位。&lt;br&gt;羅摩和覺者、持斧羅摩、毁滅世界的白馬迦爾吉、印度傳說乳海裏支撑曼陀羅山的巨龜俱利摩均為祂的十化身之一。
+|-
+! 查理七世
+| 貞德Alter《必須糾正的事物》
+| 領導法國贏得百年戰爭的國王，但主要是因出賣貞德而留名後世。&lt;br&gt;戰鬥時外觀為大幽靈。
+|-
+! 源滿仲
+| 源賴光《丑御前的真面目．異說》
+| 源賴光之父，平安時代名將。因在“安和之變”中立有軍功（969年3月，因源滿仲等告密稱橘繁延等企圖擁立為平親王、廢皇太子守平親王，累及左大臣源高明）而逐漸升職，最後官至鎮守府將軍，源氏的實力也日漸壯大。滿仲於永延元年（987）在延歷寺出家。初滿仲以為鎮護之任，非有利劍，不足以示威。數鳩冶工，多作刀劍。皆不愜其意。聞筑前有良工，因召而使作，亦不如意。工憂之，祈神七日，精鍊六十餘日，乃得二刀。滿仲大悦，試斬死囚。其餘一截其鬚，一斷其膝，名曰鬚切膝丸。源氏世傳寶之。”
+|-
+! 米開朗基羅
+| 李奧納多·達文西《其&lt;ref&gt;指的是羅曼。&lt;/ref&gt;所在之處，縱然萬能之手也碰觸不及》
+| 文藝復興三傑之一，另一位「萬能之人」。石膏雕塑大衛像、壁画創世纪、石膏雕塑哀悼基督的雕塑家和畫家、建築家、詩人。&lt;br&gt;戰鬥時外觀為遠古幽靈。
+|-
+! 沙萊
+| 李奧納多·達文西《小惡魔贈與之物》
+| 本名吉安·賈科莫·卡普羅蒂·達奧雷諾，達文西的弟子，留著細捲髮的超可愛天使美少年，和達文西有著同性戀愛的傳聞。&lt;br&gt;達文西提及其不夠格成為英靈，就算能刻劃在英靈座上也只會是反英靈的擦邊球的擦邊球那種等級。&lt;br&gt;在幕間物語中作為亡靈登場，在達文西的回憶中稱呼其為「師傅」，說話口吻很淘氣。
+|-
+! 市川鐵之助
+|rowspan=2|土方歲三《那個人的事》
+| 土方歲三的小姓，在幕間中作為主人公的視點登場。&lt;s&gt;因某少女漫畫而為人所熟悉、同時也是銀魂中土方副長的小弟佐佐木鐵之助的原型&lt;/s&gt;
+|-
+! 原田左之助
+| 新選組十組組長，擅槍術，在幕間中土方和沖田都有叫出他的名字。&lt;s&gt;是神劍那個刺蝟頭的命名來源、同時也是銀魂真選组那個大光頭的命名來源，除此之外沒有關係&lt;/s&gt;
+|-
+! 阿列克謝·尼古拉耶維奇·羅曼諾夫
+| 安娜塔西亞《極冰封印／漂流之靈魂》
+| 俄羅斯帝國末代皇儲，安娜塔西亞的弟弟，年僅13歲便死於羅曼諾夫滅門血案。&lt;br&gt;在安娜塔西亞的夢中登場，為了幫助姐姐而引導主人公前進。
+|-
+! 李白
+| 楊貴妃《紅梅與牡丹》
+| 唐朝著名詩人和劍客，有墨寶上陽台帖和唐詩《望廬山瀑布》等等詩篇，幕間物語中登場的是楊貴妃想像中的他，曾被楊貴妃提及是「為了藝術什麼都做得出來的那種類型」。&lt;br&gt;使用的印象立繪是影子司馬懿〔萊妮絲〕。
+|-
+! 維欽托利
+| 羅慕路斯-奎里努斯《吾之手招來之罪惡》
+| 高盧人領袖，敗給[[Gaius Julius Caesar (Fate)|凱撒]]後被斬首示眾，被認為是法國（高盧）地區最早的民間英雄之一。
+|-
+! 阿猶
+| 葛飾北齋《鬼燈的朱夏》
+| 葛飾北齋最小的女兒，葛飾應為的妹妹。天生雙目失明。&lt;/br&gt;有專屬立繪。
+|}
+&lt;br&gt;
+
+=== 活動中登場 ===
+{| class="wikitable"
+|-
+! scope="col" width="15%"| 名稱
+! scope="col" width="25%"| 初登場章數
+! scope="col" width="60%"| 備註
+|-
+! 槍之龍 忌妒
+| 《尼祿祭〜熱鬥致勝大競技場〜》
+| 初次在尼祿祭登場時的名字是「VII的祝福」，後來在《AJ 2016 EXTRA合作活動》中提到牠的名字，以及牠有著「'''七座山丘之一'''」這種危險的身份背景。&lt;br&gt;戰鬥時外觀為槍屬性巨龍。&lt;s&gt;すまない在系統上第一次有所發揮。&lt;/s&gt;
+|-
+! 謎之女主角Z
+| 《Saber Wars ～Lily的宇宙武者修行～》
+| X的同僚，與X抱著同樣的目的，且幾乎快達成。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E8%AC%8E%E3%81%AE%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3Z&amp;src=nazoz.png 專屬立繪]，戰鬥時外觀為色違謎之女主角X。
+|-
+! 巫條霧繪
+| 《空之境界/the Garden of Order》
+| 徘徊於小川公寓的少女，初活動時沒有寫出名字而以ラプンツェル（長髮姑娘）的名義出現，職階為騎階&lt;br&gt;2018年2月復刻時在超高難易度關以名為キリエ的劍階BOSS登場&lt;br&gt;戰鬥時外觀為修改過的七人御佐姫&lt;ref&gt;原捏他為在日語中同音的[[Wikipedia:ja:七人ミサキ|七人御前]]，在本作中則指《空境》中被巫條霧繪吸引而墜樓的七名少女的殘留記錄。&lt;/ref&gt;。
+|-
+! [[肯尼斯．艾爾梅洛伊．阿其波盧德|肯尼斯．埃爾梅羅．阿奇波爾德]]
+| rowspan=8|《Fate/Accel Zero Order》
+| 名門阿奇波爾德的魔術師、Lancer的Master。時鐘塔的參戰代表。&lt;br&gt;有專屬立繪（實際上是禮裝「月靈髓液」的圖，再追加幾個表情）。&lt;br/&gt;於2018年9月《Fate/Accel Zero Order》活動復刻時擔任活動商店店員，這也是第一次由禮裝擔任商店店員。&lt;s&gt;肯尼斯實裝的預感!?抑或是月靈髓液將成為史上第一張有語音的禮裝!?&lt;/s&gt;
+|-
+! [[間桐雁夜]]
+| 御三家間桐家一員，並非魔術師、Berserker的Master。間桐家的參戰代表。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E9%96%93%E6%A1%90%E9%9B%81%E5%A4%9C&amp;src=kariya.png 專屬立繪]。
+|-
+! [[間桐臟硯]]
+| 御三家間桐家家主，冬木聖杯戰爭發起人之一。在漫長的歲月與無法實現的夢想折磨下失去自己的本心。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%83%9E%E3%82%AD%E3%83%AA%E3%83%BB%E3%82%BE%E3%82%A9%E3%83%AB%E3%82%B1%E3%83%B3&amp;src=matou.png 專屬立繪]。
+|-
+! 黑聖杯
+| 受「此世全部之惡」汙染後的冬木大聖杯，在獲得足夠的魔力後啟動的樣子。&lt;br&gt;被臟硯認作羽斯緹薩，但實際上並非羽斯緹薩或艾莉絲菲爾，而是完全不同的存在。&lt;br&gt;有[https://vignette.wikia.nocookie.net/typemoon/images/4/42/Black_Iri.png 專屬立繪]，戰鬥時外觀為技能和寶具與天之衣不同，且動作也與原版稍有差異的Avenger職階色違艾莉。
+|-
+! 火之艾莉
+| 活動慣例搞笑劇情中自黑聖杯分裂出來的四個太太之一，其過激的個性影響到其他太太而群起叛亂。&lt;br&gt;有[https://vignette.wikia.nocookie.net/typemoon/images/2/2c/FireIri.png 專屬立繪]，戰鬥時外觀為技能和寶具與天之衣不同的Berserker職階色違太太，寶具名為「轉身艾莉三昧」。
+|-
+! 水之艾莉
+| 活動慣例搞笑劇情中自黑聖杯分裂出來的四個太太之一。&lt;br&gt;有[https://vignette.wikia.nocookie.net/typemoon/images/d/d9/WaterIri.png 專屬立繪]，戰鬥時外觀為技能和寶具與天之衣不同的Saber職階色違太太，寶具名為「凍結．青之聖杯」。
+|-
+! 風之艾莉
+| 活動慣例搞笑劇情中自黑聖杯分裂出來的四個太太之一&lt;s&gt;瘋太太，自稱是四個太太中最弱的&lt;/s&gt;。&lt;br&gt;有[https://vignette.wikia.nocookie.net/typemoon/images/9/93/WindIri.png 專屬立繪]，戰鬥時外觀為技能和寶具與天之衣不同的Rider職階色違太太，寶具名為「開膛手艾莉」。
+|-
+! 土之艾莉
+| 活動慣例搞笑劇情中自黑聖杯分裂出來的四個太太之一。&lt;br&gt;有[https://vignette.wikia.nocookie.net/typemoon/images/4/48/EarthIri.png 專屬立繪]，戰鬥時外觀為技能和寶具與天之衣不同的Lancer職階色違太太，寶具名為「嘆息．鏽之聖杯」。
+|-
+! 風越丸
+| rowspan=3|《天魔御伽草子 鬼之島》
+| 丑御前手下的鬼之一，鬼如其名免疫Q卡。&lt;br&gt;&lt;s&gt;最早出場但反而是最難對付的BOSS。&lt;/s&gt;
+|-
+! 技喰丸
+| 丑御前手下的鬼之一，鬼如其名免疫A卡。&lt;br&gt;&lt;s&gt;被二姐和月神虐到啊嘿顏。&lt;/s&gt;
+|-
+! 轟力丸
+| 丑御前手下的鬼之一，鬼如其名免疫B卡。&lt;br&gt;&lt;s&gt;被式姐和傑克虐到啊嘿顏。&lt;/s&gt;
+|-
+! 圖魯夫圖魯維斯 
+| 《夏日! 大海! 開拓! FGO 2016 Summer 迦勒底烈火奧德賽 ～進化的文明～》 || 在亞瑟王傳說中登場的魔豬。在傳說中，亞瑟王率領其騎士團，和堂弟庫爾威奇一同討罰圖魯夫圖魯維斯。但最後圖魯夫圖魯維斯苟活下來漂流到無人島上來。戰鬥模組是「魔豬」
+|-
+! 格剌希亞拉波斯
+| rowspan=2|《魔法少女紀行 ～プリズマ・コーズ》
+| 所羅門七十二柱魔神中第二十五柱。熟悉人文科學的知識，同時也是殺戮的高手。&lt;br&gt;{{censored|劇中為童謠召喚的魔神，}}專屬技能為「戲耍時刻已至」。
+|-
+! 聖約
+| 集魅影、黑鬍子、吉爾、迪爾穆德四名魔法紳士的癖好與妄想而產生的人物。&lt;br&gt;有[http://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E3%83%86%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3%E3%83%88&amp;src=testament.png 專屬立繪]，戰鬥時外觀為色違魔法少女伊莉亞，寶具名為「無限の幻想」。
+|-
+! 有馬喜兵衛
+|《宮本武藏體驗關卡》
+| 生前敗給武藏的僧兵。&lt;br&gt;戰鬥時外觀為影弁慶。
+|-
+! 阿格凡爵士
+| rowspan=7|《謎之女主角X（Alter）體驗關卡》
+| Servant界的阿格凡。秘密組織Dark‧R.O.U.N.D.s的重要人物，使用強力鍊金術的古老一族末裔。&lt;br&gt;在與巴貝奇的戰鬥中死亡。X〔Alter〕無可取代的恩師。&lt;br&gt;特斯拉：「惡役也未必是惡人啊」
+|-
+! G‧B‧E
+| Servant界的愛迪生。培育正義Servant的宇宙[[迦勒底]]學園初代校長。&lt;br&gt;全名是God．Bless．Edison。
+|-
+! 女生宿舍舍監
+| Servant界的海倫娜。宇宙[[迦勒底]]學園女生宿舍的舍監，全名不詳。
+|-
+! 運轉蒸汽戰士巴貝奇
+| Servant界的巴貝奇。宇宙[[迦勒底]]學園的教授，也是Servant界的知名英雄。&lt;br&gt;Dark‧R.O.U.N.D.s的大敵，最後殺死阿格凡，殲滅暗黑圓桌。&lt;br&gt;雖敗給X（Alter）但直到最後都將她視作重要的學生，是X（Alter）另一位無可取代的恩師。
+|-
+! ？？？
+| Servant界的特斯拉。反派組織「惡役同盟」的要員，最後成為X（Alter）的直屬長官。&lt;br&gt;《Saber War》中X曾提及特斯拉在Servant界是名為「尼古拉☆隊長」的知名英雄，那個隊長與這個反派特斯拉有何關聯目前不明。
+|-
+! ？？？
+| Servant界的弗蘭肯斯坦。特斯拉的部下。
+|-
+! ？？？
+| Servant界的伊莉莎白。惡役同盟派到宇宙[[迦勒底]]學園的間諜。
+|-
+! 女魔術師
+| 亞瑟體驗關卡《―――終將，來到拯救星球之日》
+| 人類與夢魔的混血兒、樂園的女魔術師，也就是Pro世界的梅林。&lt;br&gt;與阿爾托莉雅的狀況相同，對亞瑟而言這位女梅林是重要的戰友、也是唯一的恩師，除此之外，更是讓只知救國的亞瑟初次體會到接近戀慕的情感的對象。
+|-
+! 金色魔太閣{{censored|秀吉}}
+| 《GUDAGUDA明治維新》
+| 魔神柱的屍骸。&lt;br&gt;{{censored|魔神柱安杜拉斯的殘留思念透過附身在茶茶身上來維持自己的存在，並召喚信勝和土方來創造出明治維新的世界。&lt;br&gt;而秀吉之名則只是其用來哄騙茶茶所用的假名。}}&lt;br&gt;{{censored|專屬技能為「黃昏時刻已至」。}}
+|-
+! 桀派
+| rowspan=4|《深海電腦樂土 SE.RA.PH》
+| 所羅門七十二柱魔神中第四十八柱。司掌男女之情的魔神。
+|-
+! 瑪柏．麥金托什
+| 海洋油田基地Seraphix的職員，洛克菲勒大學工業相關科系的畢業生，對於機械手臂的操作（Manipulator）有著絕佳自信的女性。&lt;br&gt;個性有些軟弱且不太會看氣氛，但並不是個壞人。&lt;br&gt;{{Censored|事實上，名為瑪柏．麥金托什的女職員早在[[迦勒底]]的援軍來到Seraphix前就已經死亡，故事中與主角相遇的瑪柏是祈荒盜用的假身分。}}&lt;br&gt;{{Censored|洛克菲勒大學'''沒有工業相關科系'''，而祈荒頂替瑪柏時自報的專長「Manipulator」雖是工業用語，但在心理學上也能引伸為「'''洗腦'''」。}}&lt;br&gt;有專屬立繪。
+|-
+! 阿諾．貝克曼
+| Seraphix的職員、所長秘書。自視甚高的傲慢男性。&lt;br&gt;有專屬立繪。
+|-
+! {{Censored|藤丸立香}}
+| {{Censored|'''上一個'''作為援軍來到Seraphix的主角，與Meltryllis締結深刻的羈絆，卻在與祈荒的決戰中犧牲。}}
+|-
+! 懷亞特．厄普
+| rowspan=4|《All the Statesman! ～用漫畫了解合衆國開拓史～》
+| 美國西部時期著名保安官，最著名的事蹟是參與了OK牧場槍戰。&lt;br&gt;&lt;s&gt;阿蒂拉五變化之一，&lt;/s&gt;自稱是懷亞特．厄普的阿蒂拉本人，戰鬥時的職階是Ruler。
+|-
+! 「水牛」比爾
+| 美國西部時期著名牛仔，創辦了以牛仔文化為主題的「水牛比爾的狂野西部秀」，在世界各地巡迴表演，是奠基了今日影視文化中牛仔形象的重要推手。&lt;br&gt;&lt;s&gt;阿蒂拉五變化之一，&lt;/s&gt;自稱是水牛比爾的阿蒂拉本人，戰鬥時的職階是Rider。&lt;br&gt;因為藤丸一行人大量狩獵美洲水牛而跳出來譴責他們，以「自然保安官」的身分自居。&lt;s&gt;生前狩獵了超大量水牛的這傢伙不適合這種角色吧&lt;/s&gt;
+|-
+! 大衛．克拉克
+| 美國西部時期眾議員，在當時普遍敵視印第安人的白人社會中，強烈主張要和印第安人和平相處的特異分子。拜後世的影視形象所賜，成為美國最著名的民間英雄之一。&lt;br&gt;&lt;s&gt;阿蒂拉五變化之一，&lt;/s&gt;自稱是大衛．克拉克的阿蒂拉本人，戰鬥時的職階是Ruler。
+|-
+! 女神哥倫比亞
+| 存在本身即代表了美國的女神。並非真正受人信仰的神明，而是和山姆大叔一樣的國家擬人化形象。&lt;br&gt;&lt;s&gt;阿蒂拉五變化之一，&lt;/s&gt;和前面冒名的三人不同，是借用了阿蒂拉身體的'''女神哥倫比亞本人'''，戰鬥時的職階是Saber。
+|-
+! 天之牡牛 Mk-II
+| 《Death Jail・夏日逃脫 ～罪與絶望的梅芙大監獄2017～》
+| 伊絲塔以所有財產召喚出來的第二代天之牡牛，採用數年前PFALZ在同人誌設計的造型。&lt;br&gt;有專屬CG及只露出前趾的戰鬥時外觀，技能為「氾濫的底格里斯」、「激動的幼發拉底」、「乾旱的美索不達米亞」、「蒼天的蘇美」、「緊繫天地的嵐柱」。&lt;br&gt;寶具為「天鳴神殿・Guga・La・Inanna〈伊南娜的偉大神牛〉」。
+|-
+! 杜木茲
+| rowspan=3| 《冥界的聖誕快樂》
+| 蘇美、阿卡德神話的穀神、牧羊神，伊斯塔的丈夫。&lt;br&gt;本次活動中化身為一頭四肢為機械的金羊，有專屬立繪，故事中曾用大衛來當印象圖。&lt;br&gt;在2019年金閃祭中登場擔任刷箱負責人，CV為神尾晋一郎。&lt;s&gt;Endless Battle唸的超級有魔性&lt;/s&gt;
+|-
+! 內爾伽勒
+| 蘇美神話的神，埃列什基伽勒的丈夫。&lt;br&gt;具備太陽神的一面，但因盛夏在蘇美是死亡頻發的季節，而常作為戰亂與疫病之神留名。&lt;br&gt;故事中曾用奧茲曼迪亞斯來當印象圖，戰鬥時外觀為影大流士三世，技能為「太陽黑子」、「灼燒的饑渴」、「斜陽的詛咒」。寶具為「蒼天陽炎的災禍之輪」。
+|-
+! 蓋什提南娜
+| 蘇美神話的葡萄酒神，杜木茲的姊姊，在神話中因為同情弟弟而自願代替杜木茲下地獄。&lt;br&gt;故事中曾使用&lt;s&gt;同為酒神的&lt;/s&gt;&lt;ref&gt;西杜麗在美索不達米亞神話中是一位麥酒女神的名字，而FGO中登場的西杜麗則是源自於吉爾伽美什原史詩中的登場人物，兩者或許有關連。&lt;/ref&gt;女祭司西杜麗用作印象圖。
+|-
+! 西村屋
+| 《葛飾北齋體驗關卡》
+| 即'''西村屋與八'''，江戶時代的浮世繪出版商，曾與葛飾北齋、鳥居清長等多位浮世繪畫師合作，《富嶽三十六景》便是由他所出版。
+|-
+! 沖田光
+| 《GUDAGUDA帝都聖杯奇譚 －極東魔神戰線1945－》
+| 沖田總司的大姐。
+|-
+! 猿長老
+| rowspan=5|《雀之旅館的活動日誌 ～閻魔亭繁盛記～》
+| 在閻魔亭居住了五百年以上的三名老主顧妖怪之一。&lt;br&gt;{{censored|真實身分是日本傳說故事《猿蟹合戰》中登場的反派猿猴。策畫了奪取閻魔亭的陰謀，最後被迦勒底一行擊倒而消逝。}}
+|-
+! 蛇莊屋
+| 在閻魔亭居住了五百年以上的三名老主顧妖怪之一，男大姊。
+|-
+! 虎名主
+| 在閻魔亭居住了五百年以上的三名老主顧妖怪之一，話少但語氣兇狠。
+|-
+! 伐竹翁
+| 《竹取物語》中登場的老爺爺，輝夜姬的養父。&lt;br&gt;在五百年前留宿閻魔亭時身上攜帶的五件寶物遭竊，進而主張要閻魔亭賠償自己的損失。&lt;br&gt;{{censored|真實身分是猿長老的分身，並非真正的伐竹翁，也從未持有故事中的五件寶物。}}
+|-
+! 老爺爺
+| 《剪舌麻雀》中登場的老爺爺，童話故事的主角。&lt;br&gt;在本作中似乎是日本傳說故事中登場的各種老爺爺角色的統一原型人物。
+|-
+! 春日局
+| rowspan=2|《[[徳川廻天迷宮 大奥]]》
+| 三代將軍德川家光的乳母，大奧法度的奠基者，也是大奧初代的御年寄（總管），被評為是日本近世首屈一指的女性政治家，最為人津津樂道的事蹟是與二代將軍秀忠的老婆阿江與（淺井三姊妹的小妹）為了家光的繼承權而展開的宮庭鬥爭，最後在拼死去駿府城找隱居中的家康告狀才阻止了阿江與換承繼人的陰謀。有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E6%98%A5%E6%97%A5%E5%B1%80&amp;src=kasuga.png 專屬立繪]&lt;br&gt;{{censored|在活動的最後想像了身為從者的自己持薙刀作戰的樣子，藤丸猜測其職階為Lancer。}}&lt;br&gt;{{censored|疑似官方趕不及製作而無法以活動四星登場的不運角色}}
+|-
+! 松平信綱
+| 有「知慧伊豆」之稱。與[[柳生但馬守宗矩 (Fate)|柳生宗矩]]、春日局一同被譽為「支撐將軍家的鼎腳」的名臣，深得德川幕府的第三代將軍德川家光的信賴，是一個不論是軍事、內政均十分出色的人物。&lt;br&gt;「島原之亂」時，接替戰死的板倉重昌成為德川幕府軍的第二任主帥，接任主帥後改用圍城戰術，待[[言峰四郎|天草四郎時貞]]一方彈盡糧絕後，請求荷蘭軍隊砲轟支援，最後成功攻陷[[言峰四郎|時貞]]的根據地原城，「島原之亂」因而平定。&lt;br&gt;有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E6%9D%BE%E5%B9%B3%E4%BF%A1%E7%B6%B1&amp;src=nobutsuna.png 專屬立繪]，繪師為古海鐘一。
+|-
+! [[織田信長|本物信長]]
+|《All信長總進擊 GUDAGUDA Final本能寺2019》
+| 史實上的織田信長本人，名言「織田信長怎可能是女的！」，在活動中慘遭信勝毒殺的可憐信長。有[https://grand_order.wicurio.com/index.php?plugin=ref&amp;page=%E6%9C%AC%E7%89%A9%E4%BF%A1%E9%95%B7&amp;src=honmononobunaga.jpeg 專屬立繪]
+|-
+! [[遠坂時臣|時臣教授]]
+| 《Saber Wars II ～邁向原初宇宙～》
+| [[Servant宇宙]]的遠坂時臣。
+|-
+! [[Marie Antoinette (Fate)|黑瑪莉]]
+| 《Fate/Requiem 桌上遊戲默示錄》
+| 成年版本的瑪莉王妃&lt;s&gt;，和史實一樣是超巨乳&lt;/s&gt;&lt;br&gt;{{censored|並不是英靈，而是擊殺了路易十七的宇津見繪里世的自我悔恨集結而成的邪靈集合體}}&lt;br&gt;有專屬立繪，戰鬥模組採用大幽靈，戰鬥時的職階為Avenger。
+|-
+! 壹與
+| 《超古代新選組列傳 GUDAGUDA邪馬台國2020》
+| 邪馬台國女王，卑彌呼的繼任者。&lt;br&gt;沒有立繪。&lt;s&gt;講話口吻就像是個巫女控JK&lt;/s&gt;
+|-
+! 天逆神
+| 《昭和奇神計劃 GUDAGUDA龍馬危機一髪！ 消失的信長HEAD之謎》
+| {{censored|活動的黑幕，劇情中另一個龍馬的真身，也是阿國追尋的惡神。}}&lt;br&gt;{{censored|原型可能是天邪鬼或天逆每。}}&lt;br&gt;有專屬立繪。
+|}
+&lt;br&gt;
+
+=== 英靈傳承中登場 ===
+{| class="wikitable"
+|-
+! scope="col" width="10%"| 名稱
+! scope="col" width="25%"| 初登場作品
+! scope="col" width="65%"| 備註
+|-
+! 忒修斯
+| ～阿斯忒里翁～《剎那間，死亡相隨》
+| 火神赫菲斯托斯後裔，消滅阿斯忒里翁的英雄、雅典的賢王。&lt;br&gt;對於自己沒能拯救並非怪物、只是個徬徨的孩子的阿斯忒里翁一事深感後悔。&lt;br&gt;黃金國的Berserker：「將妹妹搶走並讓她當自己老婆（而且最後還拋棄了她）的男人。我要殺了他。」
+|-
+! W博士
+| rowspan=4|～亨利．傑奇&amp;海德～《鳥羽色的研究》
+| 即約翰‧華生，醫學博士兼作家，傑奇與福爾摩斯的好友。
+|-
+! 加百列．約翰
+| 全名為加百列．約翰．歐特森，《化身博士》中出場的律師，傑奇的好友。&lt;br&gt;發現了傑奇自殺後的遺體。
+|-
+! 丹弗斯爵士
+| 《化身博士》中出場的英國上議院議員，遭到不明人士{{censored|海德}}殺害而在社會上引起軒然大波。&lt;br&gt;使傑奇下定自殺決心的人。
+|-
+! 上校
+| 本名賽巴斯丁．莫蘭，英國陸軍軍官、莫里亞蒂的左右手。
+|-
+! 海倫娜．安德雷維娜
+| rowspan=3|～海倫娜．布拉瓦茨基～《抑或是，她所見的光芒》
+| 海倫娜的母親，在俄國極受推崇的女性小說家。&lt;br&gt;使年幼的海倫娜對神祕產生興趣的啟蒙者。
+|-
+! 安妮．貝贊特
+| 神智學學會的一員，被海倫娜指定為她的遺稿管理者。
+|-
+! 奈杜
+| 原創人物，曾是海倫娜學生的印度青年。&lt;br&gt;他的才能在海倫娜的教導下開花結果，卻在因緣際會下成為指向海倫娜的兇刃。
+|-
+! 法利亞神父
+| rowspan=5|異聞～巖窟王 愛德蒙．唐泰斯～
+| 聖堂教會的一員、愛德蒙的人生導師，被陷害入獄後將在獄中認識的愛德蒙視作自己的孩子一般。&lt;br&gt;CV為崛勝之祐。
+|-
+! 海蒂
+| 與「基度山的財寶」有關的謎之存在，給予愛德蒙能和死徒對抗的黑炎，只有愛德蒙能看的到她。&lt;br&gt;打從心底希望能拯救愛德蒙，但尚未完成復仇的愛德蒙固執地拒絕她的關心。&lt;br&gt;CV為千本木彩花。
+|-
+! 康琪特
+| 原創人物，愛德蒙的管家喬凡尼‧貝爾圖喬的堂表妹。&lt;br&gt;由於堂表哥（喬凡尼的哥哥）因愛德蒙仇人之一的維爾福瀆職而死，將自己的復仇寄託給愛德蒙&lt;ref&gt;原作中確實有這個被害死的哥哥，喬凡尼也因此效忠於愛德蒙，但是沒有康琪特這號人物。&lt;/ref&gt;，作為隨從侍奉他的男裝麗人。&lt;br&gt;{{censored|被塔朗特拉逼供，堅決不吐露財寶的所在處而被塔朗特拉殺害，}}直至最後都為愛德蒙付出一切。&lt;br&gt;CV為加隈亞衣。
+|-
+! 巴拉加．安傑洛
+| 原創人物，第八秘跡會的代行者，為了「基度山的財寶」而陷害法利亞神父。&lt;br&gt;CV為樫井笙人。
+|-
+! 塔朗特拉
+| 原創人物，神秘的殺手，法利亞神父的仇人之一，真實的身分為死徒[[米海爾・羅亞・法丹楊|{{censored|羅亞}}]]。&lt;br&gt;CV為成田劍。
+|}
+
+==Fate/Grand Order material因緣角色==
+*此處以不在解包從者名單裡、遊戲及周邊產品中也未登場過，但曾在FGOM的「因緣對話」中提到過的角色為主。
+{| class="wikitable" style="margin: 1em auto 1em auto; "
+|-
+! scope="col" width="10%"| 名稱
+! scope="col" width="10%"| 因緣角色&lt;ref&gt;只限定FGOM中對於該人物有相關因緣對話的角色&lt;/ref&gt;
+! scope="col" width="80%"| 備註
+|-
+! 弗爾森伯爵
+| 莫札特
+| 瑞典國王古斯塔夫三世的寵臣、瑪莉的愛人之一，最後遭群眾慘殺。&lt;br&gt;莫札特：「██████████████████████████████████████████████」（有礙觀瞻不能顯示；另外對夏爾和羅伯斯比爾的評價也是這個）
+|-
+! 尼托克莉斯
+| 大流士三世
+| 被記載在希羅多德的著作裡，在由偉大帝國淪為地理概念的亞述地區中，統治著巴比倫，既是巴比倫女王也是亞述女王的人。&lt;br&gt;曾在巴比倫城修築水道，並留下一座巨大的寶庫，但據希羅多德所說，寶庫中「什麼都沒有」&lt;br&gt;大流士三世：「（跟埃及那個）同名同姓的另一人……亞述女王尼托克莉斯與祖先間有很深的因緣。」
+|-
+! [[Moses (Fate)|摩西]]
+| 大衛&lt;br&gt;奧茲曼迪亞斯&lt;br&gt;瑪爾大（Ruler）
+| 基督教的先知，奧茲曼迪亞斯的義兄弟，有劈開紅海（參考竹箒日記）、在西奈山上領受十誡、擊敗破壞天使（參考瑪爾大角色設定）的事蹟。
+
+大衛：「謝謝你祖先大人。真的感激不盡。但好像有點太危險了，你那玩意。」
+
+奧茲曼迪亞斯：「被同一個母親養大的義兄弟。 有著璀璨的才能與王者的風度，甚至擁有足以成為法老的可能性。 奧茲曼迪亞斯將摩西視為『作為余的義兄弟十分相襯，足以與我比肩的聖人』，但同時███████████████████████」&lt;br /&gt;順帶一提，在TM中摩西設定是奧茲曼迪亞斯的好友，但史實中摩西應該是與奧茲曼迪亞斯不同時代的人
+
+瑪爾大：「請允許我揮舞這雙拳吧，摩西大人、雅各大人。 我相信這一定是為了拯救人理的一步。」&lt;br&gt;蒼銀廣播劇中的CV為緒方惠美。
+|-
+! 柯南．道爾
+| 海倫娜
+| 英國偵探小說作家，以福爾摩斯系列小說而聞名。&lt;br&gt;海倫娜：「道爾先生並不是壞人，不過他是SPR的支持者…嗯！當然？我知道這並不是福爾摩斯先生的錯喔？」&lt;br&gt;不過切確地說，海倫娜的因緣角色是寫著「柯南．道爾相關人物」。&lt;br&gt;另外，從亞種特異點I《惡性隔絕魔境》的劇情推測，可能華生就是柯南．道爾{{ref|劇情提及，福爾摩斯曾叮囑華生，不要在'''他的著作'''裡，提及太多關於莫里亞蒂的事}}。從拆包中可得知本句台詞在遊戲中有收錄成房間語音。
+|-
+! 黃飛鴻
+| 李書文
+| 中國佛山武術家和廣東十虎之一，因影視作品的影響而被許多人看作中國南派武術代表之一。擁有招式佛山無影腳、虎鶴雙形拳、鐵線拳、南派舞獅技藝之一的醒獅、飛砣和開設的醫館寶芝林。&lt;br&gt;書文：「中國拳法史上最高峰的達人。無形無影的絕技追也追不上。光是想像與他的決鬥就快要平息不住殺意了。」
+|-
+! ██的哈桑
+| 百貌的哈桑
+| 詳細不明，但應該不是SF的[[無名的Assassin (Fate)|狂信者]]。因為狂信子雖然與百貌同期，但最後並沒有取得哈桑的稱號。&lt;br&gt;不過在咒腕的哈桑的因緣人物中，在提及百貌的哈桑時有順便提及過狂信子&lt;ref&gt;「最為心靈手巧，但又運氣差的哈桑。同期裡雖然有一位不世出的天才也成為了哈桑候補人選的樣子，那麼，到底是發生了什麼呢。」&lt;/ref&gt;。&lt;br&gt;百貌：「該死的天才啊啊啊！」
+|-
+! [[安倍晴明 (Fate)|安倍晴明]]
+| 酒吞童子&lt;br/&gt;源賴光&lt;br/&gt;茨木童子&lt;br/&gt;紫式部
+| 有著無數傳奇故事的陰陽師，對古代日本政局影響深刻的土御門家之祖。與玉藻前是死敵，俊美得不像日本人。&lt;br/&gt;酒吞：「（笑）嗯？ 你問我在笑什麼？ 因為，這不是很奇怪嗎？」&lt;br&gt;賴光：「（無評論）」&lt;br/&gt;茨木：「討厭，殺個三次都不夠。」&lt;br&gt;紫式部：「晴明大人，太可怕了。」
+|-
+! 溫羅&lt;br/&gt;大獄丸&lt;br/&gt;惡路王
+| rowspan=2|酒吞童子
+| 溫羅：吉備地方的鬼，傳說中為被桃太郎的原型—吉備津彥命所斬殺的鬼王。&lt;br&gt;大獄丸：鈴鹿山的鬼神，傳說擁有操控雷電與暴風雨的神通力，被坂上田村麻呂和鈴鹿御前討伐。&lt;br&gt;惡路王：蝦夷的鬼王，被坂上田村麻呂和鈴鹿御前討伐，史實原型可能是蝦夷酋長阿弖流為。&lt;br&gt;酒吞：「話說回來，你沒見過他們吧？ 像我們這種的好像被叫做反英雄，相當難以召喚。 啊，不不，還是別召喚出來比較好。」&lt;br&gt;&lt;s&gt;隨便啦，早就是恐怖平衡狀態的迦勒底哪會怕兩三個反英雄跑出來玩&lt;/s&gt;
+|-
+! 甲賀三郎
+| 千代女的祖先，有過地底冒險的傳奇故事。&lt;br/&gt;酒吞：「雖然由我來說不太對。 不過真的，抱歉啊———」&lt;br/&gt;切確地說，酒吞的因緣角色是寫著「甲賀三郎及其一脈」。
+|-
+! [[孫悟空 (Fate)|悟空]]
+| 玄奘三藏
+| 《西遊記》主角之一、花果山的石猴，後以齊天大聖之名受祭祀。哪吒（自稱）的宿敵。被佛祖壓在五指山下五百年。保護玄奘三藏西天取經，功成後被封為鬥戰勝佛。&lt;br/&gt;在《II世的大冒險》中以附體形式登場，有臺詞，第一人稱「俺」。&lt;br/&gt;三藏：「有時間來這裡的話，就先把找個老婆的志氣給我帶在身上！」&lt;br/&gt;其後在《琥珀ACE》中登場。&lt;s&gt;毫無意外地被性轉&lt;/s&gt;
+|-
+! [[Nefertari (Fate)|妮菲塔莉]]
+| 奧茲曼迪亞斯
+| 奧茲曼迪亞斯的王后，他的妻妾中最為寵愛的一人，有著與奧茲曼迪亞斯相襯的智慧和膽量。&lt;br/&gt;奧茲曼迪亞斯：「至愛、至上的存在，比自己更為重要。 雖說余過去有著成群妻妾，但現在——若妮菲塔莉在身旁的話，我不再需要其他側室。」&lt;br&gt;蒼銀廣播劇中的CV為石見舞菜香。
+|-
+! 盧修斯
+| 貝迪維爾
+| 在《蒼銀的碎片》中登場，與亞瑟王同時期的羅馬皇帝，具備強勁的武藝與過人的戰術頭腦，有著「羅剎」、「劍帝」等名號的強者。&lt;br&gt;貝迪維爾：「過去和吾王交戰的對手。 《不列顛列王史》中寫著我被他殺害。 但實際上，我雖在戰鬥中負傷但不至於身亡，但在漫長旅途的盡頭什麼也做不到的我形同死人。 ……因此，我斗膽借用這殺死我的敵將之名來當作偽名。」&lt;br&gt;蒼銀廣播劇中的CV為[[細谷佳正]]。
+|-
+! 雅各
+| rowspan=2|瑪爾大（Ruler）
+| 以色列人的先祖，以神秘的古武術戰勝大天使。&lt;br&gt;瑪爾大：「請允許我揮舞這雙拳吧，摩西大人、雅各大人。 我相信這一定是為了拯救人理的一步。」
+|-
+! 馬利亞
+| 伯大尼的馬利亞，瑪爾大的妹妹，和姐姐一樣對「那個人」很虔誠。FGO的瑪爾大曾說御主給人的感覺有點像她。&lt;br&gt;瑪爾大：「妹妹。我這個模樣，不想被她見到！」
+|-
+! 特斯卡特利波卡
+| 魁札爾科亞特爾&lt;br/&gt;「山中老人」
+| 阿茲特克神話的惡神和第一太陽神，有著「煙霧鏡」之名。有骷髏、蜘蛛、黑色美洲豹等化身。在某些手抄本中，祂的形象是黑身、黑臉、黃頭帶，以鏡代足，持有箭、盾、擲矛器。&lt;br&gt;魁札爾科亞特爾：「無論何時何地都是最惡劣最糟糕的神靈。說的就是這隻混蛋蜘蛛。這次也和以前一樣以最差勁的模樣現身呢。 ———真的，令人作嘔到想把他拍碎。 沾染上現代文明的神祇什麼的，作為神不覺得羞恥嗎！」&lt;s&gt;(輪不到你來說)&lt;/s&gt;&lt;br&gt;「山中老人」：「煙鏡啊。為了殺而殺，為了死而活著。如果那便是的你的信仰的話，吾、便沒有對你評論的資格了。」&lt;br/&gt;切確地說，山翁的因緣角色是寫「███████」。
+|-
+! ████．████
+| 魁札爾科亞特爾
+| 詳細不明，有可能是毀滅阿茲特克的征服者埃爾南．科爾特斯（エルナン・コルテス）。&lt;br&gt;魁札爾科亞特爾：「我要把這傢伙全身的血換成致死劇毒，讓他在太陽風的侵蝕下變得只剩骨頭後，把他靈魂固定使他只能靠骸骨生存，最後丟到地下冥界做個一萬年的苦工！」
+|-
+! ████
+| 宮本武藏
+| 詳細不明。「Star System」指的是同一角色在不同作品中串場，但嚴格來說設定上並非同一角色，而是有著同樣外貌（和性格）的別人&lt;ref&gt;例子如《魔法師的弟子》的米老鼠、真島浩的殛克/傑拉爾&amp;普魯&amp;哈比、《怪醫黑傑克》動畫版的寫樂保介&lt;/ref&gt;。&lt;br&gt;宮本武藏：「嗚哇，魂之雙子嗎！？我知道，這就是Star System對吧！」
+|-
+! 近藤勇
+| 土方歲三
+| 新選組組長，土方歲三的幕間有提到他的事，拥有名刀長曾彌虎徹。&lt;s&gt;絕對不是大猩猩或跟蹤狂甚麼的&lt;/s&gt;
+|-
+! [[豊臣秀吉 (Fate)|豐臣秀吉&lt;br&gt;羽柴秀吉]]
+| 茶茶&lt;br&gt;森長可&lt;br&gt;長尾景虎
+| 與織田信長、德川家康並稱的戰國三傑之一。森長可在織田信長死後服侍的新主君。&lt;br&gt;長尾景虎：「只有聽過名字這種程度的認識。好像很擅長攻城的樣子呢。但我對那種麻煩的戰爭有點……」&lt;br&gt;茶茶的因緣角色是寫「豐臣秀吉」，另外兩人的因緣角色則是寫「羽柴秀吉」。
+|-
+! 果心居士
+| rowspan=2| 加藤段藏
+| rowspan=2| 絕世的妖術師與風魔一脈之源頭，打造出「加藤段藏」這具機關人偶的人物。果心居士又稱七寶行者，是自室町時代末期便活躍在歷史舞台的一名謎一樣的人物。在有關他的傳說中，果心居士被刻畫成一個掌握著神秘幻術，曾經令松永久秀、織田信長、豐臣秀吉、明智光秀等戰國風雲人物都為之驚嘆的奇人。
+|-
+! 初代風魔小太郎
+|-
+! 佩涅羅珀
+| 喀耳刻
+| 希臘大英雄奧德修斯之妻，在奧德修斯失蹤的十年間受到許多追求者求婚，她卻堅守未嫁，最後得以和歸來的奧德修斯重聚。&lt;br&gt;喀耳刻：「嘎……嘰咕咕……唔唔……（在房間的角落像個水蚤似的躺著不斷抖動）」
+|-
+! ████
+| 淺上藤乃
+| 詳細不明{{censored|[[蒼崎青子|{{censored|蒼崎青子}}]]？[[遠野秋葉|{{censored|遠野秋葉}}]]？}}。&lt;br&gt;淺上藤乃：「高中生、黑髮、颯爽……和我最重要的友人非常相似。性格……有點不太一樣呢。但是，光束真好啊，光束。」
+|-
+|-
+! 勝海舟
+| 坂本龍馬
+| 日本幕末重要政治家，江戶幕府海軍負責人，被龍馬視為師長般尊敬的人物。
+|-
+! 曹操
+| rowspan=2| 赤兔馬
+| rowspan=2| 三國時代知名軍事人物和天下諸侯之一，赤兔馬原先的主人們之一。曹操既是統一中原的諸侯還是魏國奠基者魏武帝，善詩文，知兵法，開建安文風。有詩文多篇，留下望梅止渴、横槊賦诗、割髮代首等典故。關羽則為三國時代知名軍事人物和天下武將之一，蜀國五虎將之首，並且其忠義形像被後世人民稱之為武聖、武財神和關帝聖君。並且當今黑社會、商人均拜祭其塑像。&lt;br&gt;赤兔馬：「（馬嘶聲）」
+|-
+! 關羽
+|-
+! 魯傑羅
+| 布拉達曼特
+| 《熱戀的羅蘭》與《瘋狂的羅蘭》主角之一，撒拉森人的大將，布拉達曼特苦苦追尋的戀人。&lt;br&gt;布拉達曼特：「在哪！？」「我總覺得他就在某個地方。」
+|-
+! 和泉式部
+| 紫式部
+| 平安時代女作家，日記文學《和泉式部日記》的作者，與同一時代的紫式部和清少納言並稱為「三才媛」。&lt;br&gt;戀愛經驗豐富，被藤原道長稱作「風流女」，在《紫式部日記》中也被如此評論：「和泉式部，曾與我交往過情趣高雅的書信。可是她也有讓我難以尊重的一面。」
+|-
+! 濕婆
+| 伽摩
+| 印度神話三大神之一，司掌破壞與再生。额头上的第三只眼可以喷出神火，可将世间一切魔物焚烧殆尽，在印度教神话搅乳海中吞下了负责捆绑须弥山用来搅拌大海的大蛇婆苏吉能毒害三界众生的毒液，使得毒液把脖子烧成了青黑色。雪山神女的丈夫，曾將伽摩燒成灰燼。&lt;br&gt;伽摩：「真心處不來。」
+|-
+! 希波呂托斯
+| 阿斯克勒庇俄斯
+| 大英雄忒修斯和亞馬遜女王安提俄佩之子，[[Hippolyta (Fate)|希波呂忒]]和[[Penthesilea (Fate)|彭忒西勒亞]]的外甥，御夫座的典故來源。&lt;br&gt;在某次車禍意外中不幸身亡，被發明出復活藥的阿斯克勒庇俄斯救活，最後成為阿斯克勒庇俄斯被宙斯殺死的導火線。
+|-
+! 森蘭丸
+| 森長可
+| 織田信長最寵愛的小姓，森長可的弟弟，本能寺之變中為了拖延追兵後[[織田信長]]一同戰死。在Fate世界中似乎是偽娘。
+|-
+! 宇佐美定滿
+| rowspan=3| 長尾景虎
+| 長尾景虎的軍師，主要活躍於長尾景虎與長尾政景內鬥時期，在政景死後便從歷史中失去蹤跡。另有以其為原型的虛構戰國人物「宇佐美定行」。
+|-
+! 武田信玄
+| 又號「甲斐之虎」和「法性院机山信玄」的戰國武將，長尾景虎片面地將其認定為一生最大的勁敵，但武田那邊似乎只是感到困擾。救救我啊，勘助。
+|-
+! 北條氏康
+| 又號「相模之獅」的戰國武將，若說長尾景虎本人認定的勁敵是武田信玄，北條氏則是上杉氏這個家族數代以來的宿敵。&lt;br&gt;另外也是[[第五代風魔小太郎 (Fate)|第五代風魔小太郎]]長年侍奉的主君。&lt;br&gt;長尾景虎：「該死啊小田原城，就連我都攻不下……欸？信長的原家臣把它攻下了？啊哈哈哈哈哈！你騙人的吧！」
+|-
+! 宮本伊織
+| 宮本武藏（Berserker）
+| 宮本武藏的養子，泳裝武藏曾在拉斯維加斯泳裝活動中借用他的名義。
+|-
+! 曲亭馬琴
+| rowspan=2| 葛飾北齋（Saber）
+| 江戶時代知名作家，代表作《南總里見八犬傳》。北齋曾多次替他繪製小說插圖，兩人私下感情也很好，但也曾因工作的事鬧意見不合。
+|-
+! 鎮西八郎為朝
+| 即平安時代武將'''源為朝'''的別名，[[牛若丸 (Fate)|源義經]]的叔叔，擅使強弓，留下諸多傳說軼聞的英勇豪傑。&lt;br&gt;曲亭馬琴著、葛飾北齋繪製插圖的小說《椿說弓張月》主角。年幼的應為曾經崇拜過的對象。
+|}
+
+== 從者關連圈 ==
+* 随著從者越來越多，自然出現不同的關係圈，有以國籍、家族、作品甚至是莫名其妙的關連性，往往成了遊戲隱藏屬性的一部份，也是各活動的劇情主要互動來源。
+** 正如一個人可以有很多身份，很多從者同時在不同的圈子出現&lt;s&gt;，剪不斷理還亂&lt;/s&gt;。
+{| class="wikitable"
+|-
+! scope="col" width="10%"| 關係圈名
+! scope="col" width="25%"| 主要從者
+! scope="col" width="65%"| 備注
+|-
+!亞瑟王一族
+|一眾阿爾托莉亞，亞瑟王
+|一個人就可以建立一個勢力的大圈。
+|-
+!圓桌騎士團
+|莫德雷德、蘭斯洛特、高文、崔斯坦、貝迪維爾、加雷斯、珀西瓦里
+|&lt;s&gt;又名亞瑟粉絲團，圓桌變態組&lt;/s&gt;
+|-
+!世紀末凱爾特
+|庫夫林、斯卡哈、梅芙、芬恩、迪爾穆德
+|&lt;s&gt;招牌是緊身衣&lt;/s&gt;
+|-
+!奧林匹斯
+|俄里翁、戈爾貢三姊妹、赫拉克勒斯、阿基里斯、凱隆、阿斯克勒庇俄斯、歐羅芭、奧德修斯、赫克特、帕里斯、狄奧斯庫洛伊
+|希臘英雄諸神組，&lt;s&gt;因為是聖域，英雄們穿黃金聖衣也是很合理的&lt;/s&gt;
+|-
+!印度村
+|迦爾納、阿周那、羅摩、帕爾瓦蒂、迦摩、馬嘶、拉克什米、迦內什
+|&lt;s&gt;超級印度人&lt;/s&gt;，2.4再追加了馬嘶、拉克什米和迦內什，立於他們之上的是作為濕婆之妻的帕爾瓦蒂&lt;s&gt;，但網民相信村長是悠木碧&lt;/s&gt;
+|-
+!凡爾賽逆後宮
+|瑪莉皇后、德翁、莫札特、桑松、薩利耶里
+|法國組、皇后組。2部一章實裝後追加了薩利耶里
+|-
+!惡魔城
+|弗拉德三世、伊莉莎白系列
+|中歐組，吸血鬼一族，&lt;s&gt;也是一個伊莉莎白就組成一個團體&lt;/s&gt;
+|-
+!北歐組
+|安娜塔西亞、伊凡雷帝、齊格魯德
+|主要角色都是第二章登場&lt;s&gt;俄國什麼時候算北歐啦！另外按地域分類某童話作家跟血斧王也該被算在內&lt;/s&gt;
+|-
+!羅馬組
+|尼祿系列、斯巴達克斯、羅姆路斯、凱撒、卡里古拉
+|ローマ！
+|-
+!法老組
+|奧茲曼迪亞斯、伊斯坎達爾、尼托克莉絲丶克麗奧佩脫拉
+|法老的榮光沒有不可能！
+|-
+!英國組
+|海倫娜、愛迪生、特斯拉、芙蘭、福爾摩斯、莫里亞蒂
+|又名「海倫娜與一堆問題兒」&lt;s&gt;混了兩個美國人跟一名俄國人，另外按照地域分類的話某劇作家跟某蒸氣王也在此類&lt;/s&gt;
+|-
+!中國組
+|秦始皇、武則天、哪吒、項羽、虞美人、赤兔馬、陳宮、呂布奉先、秦良玉、燕青、李書文、蘭陵王
+|&lt;s&gt;中國古代就是[[超級機器人大戰/機械列表#.E8.B6.85.E6.A9.9F.E4.BA.BA.2F.E5.A6.96.E6.A9.9F.E4.BA.BA.2F.E9.8B.BC.E6.A9.9F.E4.BA.BA|超機人]]！&lt;/s&gt;
+|-
+!平安京
+|源賴光、紫式部、酒吞童子、茨木童子、坂田金時、玉藻前、清少納言、渡邊綱、蘆屋道滿
+|不是巨乳就是貧乳。
+|-
+!コハエース
+|織田信長、織田信勝、坂本龍馬、森長可、茶茶
+|全裸是基本形態（只限經驗值版）
+|-
+!衛宮一家
+|衛宮（弓）、衛宮（殺）、天之衣（愛麗絲菲爾）、伊莉雅、小黑、美遊、豹人(?)、志度內、千子村正
+|&lt;s&gt;四大黑惡勢力之一&lt;/s&gt;滿門英烈
+|-
+!第五次聖杯戰爭
+|伊絲塔、豹人、美杜莎、美狄亞、佐佐木小次郎、赫拉克勒斯、衛宮（弓）、庫夫林、帕爾瓦蒂、亞瑟王、吉爾伽美什、志度內、拉普斯丁、千子村正、&lt;s&gt;間桐慎二&lt;/s&gt;
+|就是F/SN登場的角色
+|-
+!聖杯大戰
+|貞德、齊格、斯巴達克斯、天草四郎、賽米拉米斯、傑克、莫德雷德、齊格飛、阿塔蘭忒、阿基里斯、喀戎、阿維司布隆、阿斯托爾福、弗蘭肯斯坦、加爾納、莎士比亞、弗拉德三世
+|F/AP登場的角色
+|-
+!小朋友王國
+|童謠、傑克、班揚
+|リヨ漫畫登場的孩子團，在二創有時會把阿比蓋兒、貞德．Alter．聖誕．Lily、航海家甚至是帝王花也算進去；值得一提的是後來還出現「小孩特性」的從者&lt;s&gt;不過裡面混了幾個不是小孩的從者進去就是了……&lt;/s&gt;
+|-
+!秋葉原系
+|蒂奇、刑部姬、泳裝清姫、巴御前、&lt;s&gt;加列斯&lt;/s&gt;、泳裝貞德〔Alter〕
+|同人梗的來源
+|-
+!熔岩水泳部
+|源賴光、清姬、靜謐的哈桑
+|對主人公有著病態戀情的三人組，因在萬聖節活動中追著主人公(的幻象)跳下熔岩池游泳追趕的壯舉而成名
+|-
+!作家組
+|安徒生、莎士比亞、山魯佐德、紫式部、清少納言
+|因為清少納言而打破術職壟斷的局面
+|-
+!BB Channel！
+|BB、SAKURA FIVE，尼祿、玉藻前、羅賓漢、高文、李書文、伊麗莎白、阿斯托爾福
+|Fate/EXTRA CCC 登場角色
+|-
+!妖怪連合
+|玉藻前、紅閰魔、鈴鹿御前、刑部姬、巴御前、清姬
+|紅閰魔&lt;s&gt;地獄廚房&lt;/s&gt;料理教室一門
+|-
+!迦勒底廚房
+|布迪加、玉藻貓、衛宮（弓）
+|迦勒底料理擔當，常駐為以上三位，偶爾追加源賴光、兩儀式（殺）、紅閰魔、珀西瓦里、瑪爾大（術）
+|-
+!哈哈笑同盟
+|吉爾伽美什、奧茲曼迪亞斯、巌窟王、秦始皇
+|笑聲很洗腦，&lt;s&gt;就是看他們笑的圖也會覺得有聲音&lt;/s&gt;
+|-
+!屠龍勇者
+|瑪爾大、聖喬治、小次郎、齊格飛、齊格魯特
+|小次郎比較特殊，是因為開服時的特殊環境導致被玩家如此稱呼，但後來[[逆流]]回官方
+|-
+!惡人協會
+|M教授、哥倫布、梅菲斯特
+|擁有惡屬性的從者組成的&lt;s&gt;聯誼&lt;/s&gt;組織，最初只是同人妄想的產物，後來在哥倫布的幕間正式得到官方認證。
+|-
+!遊戲部
+|巴御前、吉娜可、女武神、艾爾梅洛伊二世、刑部姬
+|和秋葉原系的從者有部份重疊，但遊戲迷不等於就是宅。
+|-
+!Servant宇宙
+|阿爾托莉亞．潘德拉貢〔Lily〕、謎之女主角X、謎之女主角X〔Alter〕、太空伊絲塔、災星簡&lt;s&gt;、時臣教授&lt;/s&gt;
+|本來只是愚人節企畫誕生的謎之女主角X，隨著蘑菇腦洞大開世界觀越寫越大，最後變成獨立的世界設定。&lt;br&gt;嚴格來說Lily並不算是這個字宙，但因為第一次Saber Wars而編進Servant宇宙；蘭丸X未有明言是否來自Servant宇宙。
+|-
+!新選組
+|沖田總司、土方歲三、齋藤一
+|日本幕府末期的著名劍客集團
+|-
+!埃爾梅羅教室
+|諸葛孔明、伊絲塔、埃列什基伽勒、阿斯特蕾亞、司馬懿、格蕾
+|&lt;s&gt;四大黑惡勢力之二&lt;/s&gt;
+|-
+! TAMAMO 9
+| 玉藻前、玉藻貓
+| 全名為「咒裝戰隊Alter Ego TAMAMO 9」，以本體玉藻前為首
+|}
+
+== 投票：你最想要實裝的從者？ ==
+
+* 你希望哪個月世界露面的從者被實裝？
+{{vote|section=1}}
+
+* 你希望哪個沒有在月世界露面的從者被實裝？
+{{vote|section=2}}
+
+* 你希望哪個在街機中先行實裝的從者被實裝?
+{{vote|section=3}}
+
+== 回應 ==
+{{pcomment|section=2}}
+
+==相關==
+*[[Fate/Grand Order]]
+*[[TYPE-MOON]]
+*[[聖杯戰爭]]
+*[[Fate系列人物列表]]
+*[[Fate/Grand Order登場角色]]
+
+==備註==
+&lt;references/&gt;
+
+[[Category:Fate/Grand Order|*]]
+[[Category:角色列表]]

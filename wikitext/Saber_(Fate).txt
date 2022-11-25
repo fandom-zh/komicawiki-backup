@@ -1,0 +1,167 @@
+{{h0| Saber（劍兵／セイバー）}}
+[[File:Saber.jpg|250px|right]]
+{| class="wikitable" style="margin： 1em auto 1em auto;"
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|[[Extra Class (Fate) | 特殊額外職階]]：Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner
+|}
+
+== 簡介 ==
+* 聖杯戰爭所能召喚的基礎七種職階之一，劍士的英靈，擅使刀劍、或以刀劍術聞名之英靈能擔任此職階。
+** 由於是作為劍士刀客聞名的人，通常都持有知名的寶劍，所以擁有的寶具或是基本武裝也大多會是這些名劍。
+
+* 由於以此職階召喚之從者能力值通常都相當不錯，是聖杯戰爭中的大熱門&lt;s&gt;相當於SSR&lt;/s&gt;。 與弓兵、槍兵並稱三騎士
+** 既能抵抗大多數御主的魔術攻擊，也具有優秀的攻擊力，因此在進行正面戰時具有強大的優勢。
+** 但也因為能力與技能大多專長於在戰鬥方面上，通常缺乏手段應變戰鬥以外的特殊狀況。
+** &lt;s&gt;另外，由於劍通常做為王的基本配件。 所以由此職階召喚出王的可能性相當高&lt;/s&gt;
+
+* 在故事戲份的分配上也是得天獨厚的存在，除了F/GO初登場的成員與高文以外，所有人都在初登場的作品中有著主角等級的定位。&lt;s&gt;高文哭哭哦&lt;/s&gt;
+
+* 職階名「Saber」在英文中的意思其實不是劍兵（Swordsman），而是劍刃。
+** 會變成這樣的理由是，當初剛創作Fate的高中時期奈須蘑菇迷上了遊戲《Thunder Force III》，並在設定時直接沿用了該遊戲中的武裝分類「Saber」。
+** 按照設定集中的寫法“ooo的英靈”以及劇情中的對應描述，應當翻譯成劍士，但是台灣習慣翻譯為劍兵。
+
+* &lt;s&gt;在 Fate 中，身為 Saber 會發出光束砲是理所當然的&lt;/s&gt;
+** &lt;s&gt;也因為上述的關係，會對 Saber 會特別要求，是少數會要面試的職階。在面試時候就會要求回答「你的劍發出的光炮是什麼顏色的」&lt;/s&gt;&lt;ref&gt;《「Fate ぐだぐだオーダー」ドラマCD　帰ってきたぐだぐだお得テクニック》的梗&lt;/ref&gt;
+
+* 雖然設定是最強職階，但意外地在FGO中並不算很強勢，相比起怪物雲集的弓職或騎職，感覺有點不上不下的半調子。
+** 最主要的原因是因為光砲角色比起弓職的那幾個，由於缺少特攻或者是高速迴轉手段，能單體當全體打的除了對上槍系阿爾托莉亞和清姬的能夠擁有超火力的齊格飛外一個都沒有。
+** 另一點就是由於賣點是阿爾托莉亞系列，因此絕大半都會綁定直感這個微妙的技能。
+** 而單體角色入手又較為嚴苛。像是需要劇情進度的貝迪威爾和柳生，活動限定的伊麗莎白、限定的嫁王武藏和沖田、非洲人比較能抽的到的是凱薩，蘭斯洛特和羅摩三人，但是會因為卡面而不練他的御主也不少。
+** 德翁和吉爾元帥這兩個就別提了。
+
+=== 職階固有技能 ===
+* 對魔力：對魔術的抵抗力
+** 在神秘還未消退的過去，防備威力強大的魔術成為所有近身戰鬥者的必備課題。所以除了如沖田總司這樣因為誕生時代的神祕度太低而降到幾乎不存在，以及齊格飛因為自身寶具「惡龍的血鎧」的作用而喪失等案例外，大致上能以Saber被召喚出來的強度都在一定等級以上。
+** 尋常水準的魔術對上Saber效果通常會大打折扣，有些英靈甚至能完全將其無效化。
+** FGO中的效果為降低敵方施加異常狀態的成功率
+
+* 騎乘：能夠掌握騎乘物的能力。這個技能基本上針對的是「騎乘物」的概念，所以不管是生物還是非生物亦或是現代交通工具等都可算在這個範疇內。
+** 高等級的騎乘技能甚至能夠駕馭如聖獸之類的幻想種。但唯獨龍種無法騎乘。
+** FGO中的效果為Q卡強化&lt;s&gt;但因為遊戲裡Q卡性能實在很微妙，加上騎乘會被信長的寶具特攻給針對，反而成了劍職的罩門&lt;/s&gt;
+
+=== 基本能力 ===
+{| class="wikitable" style="margin： 1em auto 1em auto;"
+|-
+! 筋力 !! 耐久 !! 敏捷 !! 魔力 !! 幸運
+|-
+| A || B || B || C || D
+|}
+
+== 列表 ==
+
+{| class="wikitable sortable" style="margin： 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 持有名劍 !! 備考
+|-
+| [[Artoria Pendragon (Fate)|阿爾托莉亞·潘德拉貢]] || rowspan="2"|[[Fate/stay night]] || rowspan="3"|大不列顛：[[亞瑟王傳說]] || rowspan="2"|Excalibur || 
+|-
+| [[Artoria Pendragon (Fate)|阿爾托莉亞·潘德拉貢〔Alter〕]]||
+|-
+| [[Artoria Pendragon (Fate)|阿爾托莉亞·潘德拉貢〔Lily〕]] || Fate/unlimited codes || Caliburn ||
+|-
+| [[Arthur Pendragon (Fate/Prototype)|亞瑟·潘德拉貢]] || Fate/Prototype || 大不列顛：[[亞瑟王傳說]] || Excalibur ||
+|-
+| [[Nerō Claudius (Fate)|尼祿·克勞迪烏斯]] || [[Fate/EXTRA]] || rowspan="2"| 義大利：羅馬帝國 || rowspan="2"|Aestus estus ||
+|-
+| [[Nerō Claudius (Fate)|尼祿·克勞迪烏斯〔Bride〕]] || Fate/EXTRA CCC ||婚紗式樣
+|-
+| [[Sir Gawaine (Fate)|高文]] || Fate/EXTRA || 大不列顛：[[亞瑟王傳說]] || Gallatin ||
+|-
+| [[鈴鹿御前 (Fate)|鈴鹿御前]] || Fate/EXTRA CCC Fox Tail || 日本：室町時期 || 大通連&lt;ref&gt;大通連為發動寶具「天鬼雨」所用的劍。&lt;/ref&gt;&lt;br&gt;小通連&lt;ref&gt;小通連為發動寶具「才知的祝福」的劍。&lt;/ref&gt;&lt;br&gt;顯明連&lt;ref&gt;顯明連為發動寶具「三千大千世界」的劍。&lt;/ref&gt; || 第一位在原本的典故中就是女性的女Saber
+|-
+| [[Altera (Fate)|阿爾緹拉]] || [[Fate/EXTELLA]]&lt;ref&gt;其實初登場是在F/GO，但最早是為了EXTELLA而設定的角色，只是因為EXTELLA較F/GO更晚發售所致&lt;/ref&gt; || 東歐：史實 || 軍神之劍 ||
+|-
+| [[Altera (Fate)|阿爾緹拉 Larva]] || Fate/EXTELLA LINK || 東歐：史實 || 軍神之劍 || 幼體（Larva）版阿爾緹拉
+|-
+| [[Charlemagne (Fate)|查理曼]] || Fate/EXTELLA LINK || 文學：《法蘭西素材》 || Joyeuse ||
+|-
+| [[Mordred (Fate)|莫德雷德]] || [[Fate/Apocrypha]] || 大不列顛：[[亞瑟王傳說]] || Clarente ||
+|-
+| [[Siegfried (Fate)|齊格飛]] || Fate/Apocrypha || [[神話#北歐神話|北歐神話]]：《尼伯龍根之歌》 || Balmung ||
+|-
+| [[Richard the Lionheart (Fate)|理查一世]] || [[Fate/strange Fake]] || 英格蘭：史實 || Excalibur ||
+|-
+| [[沖田総司 (Fate)|沖田總司]] || 琥珀ACE&lt;br&gt;Fate/KOHA-ACE 帝都聖杯奇譚 ||rowspan="2"| 日本：江戶 明治維新 || 乞食清光&lt;br&gt;菊一文字則宗 ||
+|-
+| [[沖田総司 (Fate)|魔神Saber]] || Fate/KOHA-ACE 帝都聖杯奇譚 || 大太刀「煉獄」 || 在《Fate/KOHA-ACE》是Saber，但在FGO實裝時的職階變為Alter Ego，直到後來的夏季泳裝式樣才變回Saber
+|-
+| [[豊臣秀吉 (Fate)|豐臣秀吉]] || 琥珀ACE || 日本：戰國 桃土安山時期 || 無 ||
+|-
+| [[Gaius Julius Caesar (Fate)|蓋烏斯·尤利烏斯·凱撒]] || [[Fate/Grand Order]] || 義大利：羅馬帝國 || Crocea Mors ||
+|-
+| [[Gilles de Rais (Fate)|吉爾·德·萊斯]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是Fate/Zero動畫版的愛因茲貝倫相談室，作為Saber的從者初登場則是F/GO&lt;/ref&gt; || 法國：英法百年戰爭 || 無 ||
+|-
+| [[Chevalier D'Eon (Fate)|騎士德翁]] || Fate/Grand Order || 法國：法國大革命時期 || 無 ||
+|-
+| [[Fergus Mac Roich (Fate)|弗格斯·馬克·羅伊]] || Fate/Grand Order || 大不列顛：凱爾特神話 || Caladbolg ||
+|-
+| [[兩儀式]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是空之境界，作為Saber的從者初登場則是F/GO&lt;/ref&gt; || TYPE-MOON原創 || 九字兼定 ||
+|-
+| [[Rāma (Fate)|羅摩]] || Fate/Grand Order || 印度：《羅摩衍那》 || Brahmastra||
+|-
+| [[Sir Lancelot du Lac (Fate)|蘭斯洛特]] || Fate/Grand Order || 大不列顛：[[亞瑟王傳說]] || Arondight ||
+|-
+| [[Sir Bedivere (Fate)|貝迪維爾]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是Fate/stay night，作為Saber的從者初登場則是F/GO&lt;/ref&gt; || 大不列顛：[[亞瑟王傳說]] || {{censored|Excalibur}} ||
+|-
+| [[宮本武蔵 (Fate)|新免武蔵守藤原玄信]] || Fate/Grand Order || 日本：戰國後期 || 無 ||
+|-
+| [[柳生但馬守宗矩 (Fate)|柳生但馬守宗矩]] || Fate/Grand Order || 日本：戰國~江戶時期 || 大天狗正家 ||
+|-
+| [[千子村正 (Fate)|千子村正]] || Fate/Grand Order || 日本：史實 || 都牟刈村正 ||
+|-
+| [[Sigurd (Fate)|齊格魯德]] || Fate/Grand Order&lt;ref&gt;角色本身的初登場是Fate/Prototype 蒼銀的碎片的廣播劇特典小說，作為Saber的從者初登場則是F/GO&lt;/ref&gt; || 北歐：[[神話#北歐神話|北歐神話]] || Gram ||
+|-
+| [[Surtr (Fate)|史爾特爾]] || Fate/Grand Order || 北歐：北歐神話 || Surtalogi ||
+|-
+| [[Diarmuid Ua Duibhne (Fate)|迪爾穆德·奧·德利暗]] || Fate/Grand Order || 歐洲：凱爾特神話 || Mor-alltach&lt;br&gt;Beag-alltach ||
+|-
+| [[高長恭 (Fate)|蘭陵王]] || Fate/Grand Order || 中國：史實 || 無 ||
+|-
+| [[舌切り雀の紅閻魔 (Fate)|剪舌麻雀的紅閻魔]] || Fate/Grand Order || 日本：童話 || 無 ||
+|-
+| [[Lakshmibai (Fate)|拉克什米·芭伊]] || Fate/Grand Order || 印度：史實 || 無 || 第一位出自史實，且生前就是女性的女Saber
+|-
+| [[Iāsōn (Fate)|伊阿宋]] || Fate/Grand Order || 希臘神話 || 無 || 本人自認比較適合的職階是Rider或Lancer
+|-
+| [[Astolfo (Fate)|阿斯托爾福]] || Fate/Grand Order || 文學：《法蘭西素材》 || 無 || 使用的是蛇腹劍 
+|-
+| [[Dioscuri (Fate)|狄奧斯庫洛伊]] || Fate/Grand Order || 希臘神話 || 無 || 準確地說，擁有Saber職階的是妹妹波魯克斯，哥哥卡斯托耳實際上的職階為Avenger&lt;br&gt;由於是雙人一組的神靈從者，因此破例達成了「兩人各擁有一個職階」的結果
+|-
+| [[斎藤一 (Fate)|齋藤一]] || Fate/Grand Order || 日本：江戶 明治維新 || 池田鬼神丸國重 || 
+|-
+| [[渡辺綱 (Fate)|渡邊綱]] || Fate/Grand Order || 日本：平安時期 || 鬼切安綱&lt;ref&gt;原名「髭切」&lt;/ref&gt; || 
+|-
+| [[伊吹童子 (Fate)|伊吹童子]] || Fate/Grand Order || 日本：平安時期 || 草那芸之大刀 || 
+|-
+| [[Barghest (Fate)|妖精騎士高文]]&lt;br&gt;{{censored|犬魔}} || Fate/Grand Order || 大不列顛：[[亞瑟王傳說]]&lt;br&gt;{{censored|大不列顛：民間傳說}} || || 
+|-
+| [[Báthory Erzsébet (Fate)|伊莉莎白·巴托里〔Brave〕]] || Fate/Grand Order || 匈牙利：血腥伯爵夫人 || Erillatin&lt;ref&gt;名字來源為高文的劍Gallatin&lt;/ref&gt; || 萬聖節式樣
+|-
+| [[Frankenstein (Fate)|弗蘭肯斯坦]] || Fate/Grand Order || 小說：《科學怪人》 || 無 || 夏季泳裝式樣 
+|-
+| [[Medb (Fate)|女王梅芙]] || Fate/Grand Order || 大不列顛：凱爾特神話 || Caladbolg || 夏季泳裝式樣 
+|-
+| [[葛飾北斎 (Fate)|葛飾北齋]] || Fate/Grand Order || 日本：史實 || 無 || 夏季泳裝式樣，八刀流 
+|-
+| [[巴御前 (Fate)|巴御前]] || Fate/Grand Order || 日本：平安時期 || 無 || 夏季泳裝式樣 
+|-
+| [[Karna (Fate)|迦爾納〔聖誕〕]] || Fate/Grand Order  || 印度：《摩訶婆羅多》 || 無 || 聖誕節式樣&lt;br&gt;第一個根本不拿劍的劍兵。
+|-
+| [[Galahad (Fate)|加拉哈德〔Alter〕]] || Fate/Requiem || 大不列顛：[[亞瑟王傳說]] ||  ||
+|-
+| [[Väinämöinen (Fate)|用漫畫瞭解的Saber]]&lt;br&gt;{{censored|維納莫寧}} || 用漫畫了解FGO！ || {{censored|芬蘭：《卡勒瓦拉》}} ||  ||
+|-
+| [[Cú Chulainn (Fate/stay night)|瑟坦特]] || Fate/Grand Order Arcade || 歐洲：凱爾特神話 || Cruaidin ||
+|-
+| [[Jacques de Molay (Fate)|雅克·德·莫萊]] || Fate/Grand Order Arcade || 歐洲：十字軍 || ||
+|}
+* 除了上述這些成員以外，曾明確提及具有Saber適性的還有[[Hēraklēs (Fate)|赫拉克勒斯]]、[[Spartacus (Fate)|斯巴達克斯]]、[[Hector (Fate)|赫克特]]、[[源賴光 (Fate)|源賴光]]、[[Sir Tristan (Fate)|崔斯坦]]、[[Sherlock Holmes (Fate)|夏洛克‧福爾摩斯]]、[[Beowulf (Fate)|貝歐武夫]]&lt;ref&gt;在F/GO 2019年的新年活動劇情中提及自己具有Saber適性&lt;/ref&gt;，但都未曾登場。
+** 此外，[[Jeanne d'Arc (Fate)|貞德]]在最早的企劃案中是具有Saber適性的，但F/AP正式登場後便再也沒有提及這件事，不確定設定是否有沿用。
+
+== 備註 ==
+&lt;references /&gt;
+[[Category:TYPE-MOON]]
+[[Category:Fate系列]]
+[[Category:Saber (Fate)|*]]

@@ -1,0 +1,341 @@
+{{h0|{{ruby|星街|ほしまち}}すいせい/星街彗星/Hoshimachi Suisei/&lt;s&gt;六邊形戰士&lt;/s&gt;/&lt;s&gt;有點大姐姐的藍髮神經病&lt;/s&gt;/&lt;s&gt;{{ruby|スイコパス|Suichopath}}&lt;/s&gt;}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub row|本條目需要擴充，歡迎各位星詠者們加以補完。}}
+|}
+
+[[File:星街彗星.png|350px|right]]
+: {{size|24|{{color|#7BACEC||'''彗星のごとく現れたスターの原石！アイドルVTuberの星街すいせいでーす！'''}}}}
+: {{size|24|{{color|#7BACEC||'''すいちゃんは～？\ 今日もかわいい！ /&lt;ref&gt;彗星本人生放開始時的定型文。在本人說「すいちゃんは～？」時觀眾留言「今日もかわいい」是慣例&lt;/ref&gt;{{censored| \ 今日もちいさい！ /}}'''&lt;ref&gt;在與35、不知火的GTA聯動配信調整音量時，開場介紹被35以今天(音量)也小小的接話，星街誤會是在暗指其貧乳。&lt;/ref&gt;}}}}
+
+== 基本資料 ==
+* 所屬：個人勢→[[hololive]]（INoNaKa Music→所屬藝人→&lt;del&gt;Space 00期生&lt;/del&gt;）
+* 人設：自己→{{twitter|_17meisai23|name=手島nari}}
+* 生日：3月22日（白羊座）
+* 身高：160cm
+* 繪文字：☄️
+* 主題標籤：{{twitter|hashtag=星街すいせい}}（綜合）、{{twitter|hashtag=ほしまちすたじお}}（生放送）、{{twitter|hashtag=ほしまちぎゃらりー}}（粉絲創作）、{{twitter|hashtag=すいせいみゅーじっく}}（音樂節目）、{{twitter|hashtag=星詠み}}
+* 粉絲稱呼：こめとも→星詠み（星詠者）&lt;ref&gt;2019年5月22日更改&lt;/ref&gt;
+* 模型擔當：
+** Live2D：自己（舊版主造型）、{{twitter|rariemonn|name=rariemonn}}（新版主造型）、{{twitter|ou_ilie|name=入江燈}}（新年造型）
+** 3D模型：{{twitter|yatsurugi_mmd|name=八剣}}
+
+== 介紹 ==
+* 2018年3月22日在Youtube開始活動的女性虛擬Youtuber，現為hololive旗下所屬藝人。
+** 初出時為個人勢，2019年5月19日和[[AZKi]]加入hololive旗下的INNK Music，至同年12月1日移藉至同社的所屬藝人。
+*** 也因為這樣，{{youtube|xx2HHtcFArU|所以在hololive的輩份很難算}}，星街&lt;s&gt;懶得算輩份&lt;/s&gt;通常不會稱呼別人為前輩，也不會希望其他成員稱她為前輩。
+*** 傳言當初加入INNK時引起負責INNK同時也是AZKI的經紀人的不滿(INNK算是為了AZKI才成立)，導致在INNK時期並沒有獲得多少資源。
+** 轉入hololive前曾短暫地參加虛擬偶像團體「S:gnal」，及後於2018年8月回復個人勢身份。
+* 設定是永遠的18歲，喜歡唱歌和偶像的虛擬VTuber，夢想是在東京武道館開演唱會。
+** 喜歡的作品為死神，會詠唱鬼道，時不時會在直播時詠唱。
+** 本身是《偶像夢幻祭》和《[[アイドルマスター_シンデレラガールズ|偶像大師 灰姑娘女孩]]》的狂熱粉絲，理想的偶像類型是前川未來。
+*** 在 《[[アイドルマスター_シャイニーカラーズ|Shiny Colors]]》中主要推芹沢あさひ，在《[[アイドルマスター_シンデレラガールズ|偶像大師 灰姑娘女孩]]》中則主推高垣楓。
+* 性格開朗樂天和為人謙虛認真，有著不服輸的一面。在出道頭一年即使訂閱人數沒有太大增長仍然能堅持下去這點能看出她刻苦耐勞的一面。
+** 第一次參加hololive的甄選結果落選，在抱著不放棄的心態下再次要求面試結果得到機會，最終以音樂支援企劃形式加入了hololive的旗下的INNK Music。
+*** 不過剛開始在INNK時期如上述提到並不順利，原先3萬人就能做3D模組的目標又突然被公司提升到5萬人而一度灰心喪志和A醬聊過很多甚至考慮放棄，之後在A醬的幫助下和又做了其他各種努力後順利的達標更隨後移籍到hololive。
+** &lt;s&gt;至於加入後變成スイコパス那就是另一個故事了&lt;/s&gt;
+* 喜歡酸和辣的食物，以及燒肉及橙汁等，討厭甜的東西和壽司還有蔬菜類&lt;s&gt;蔬菜是毒&lt;/s&gt;等。
+* 唱功安定和水準很高，擁有非常廣的音域外在音準方面有不俗的實力。
+** 在hololive 1st fes中公開並現場演場第二首原創曲「天球、彗星は夜を跨いで」時有著「本人CD音源」的美稱。
+** 但唱法偏向感覺派和主要透過一人卡拉OK練習，在加入hololive前後一段時間沒怎樣受過歌唱訓練，當問到「如何唱得更好」時會有不懂答的情況。
+* 原先說話時偏向高音，被醫生說會傷害喉嚨後現已改成比較低沉一點的聲音。
+* hololive少數的全能型，除歌唱外其他方面如影片編輯、繪圖技術及遊戲能力等各方面有著技能的緣故，令她有「六邊形戰士」的戲稱。
+** 英文水準非常差但是本人曾提過自己的母親英文能力非常強&lt;s&gt;，看來沒有遺傳到的不只有胸部&lt;/s&gt;。&lt;s&gt;只是hololive本土能拿出合格或以上英文能力的[[桐生可可|只是]][[癒月巧可|少數]]&lt;/s&gt;
+* 貧乳，而且對胸部的話題非常敏感。當有人在留言區提及相關話題時會&lt;s&gt;威脅&lt;/s&gt;叫觀眾不要再說下去，參加會長的迷因回時看到有人拿此作迷因時立刻&lt;s&gt;氣得拿著散彈槍&lt;/s&gt;詢問這個迷因是誰做的。
+** 據會長爆料，有次天彗龍夜間散步時，突然問起為何自己胸部這麼小，得到了天使成長期沒睡好會影響發育的答案&lt;s&gt;彗醬：確實都沒睡好（崩潰）&lt;/s&gt;
+** 在和[[白銀諾艾爾]]一起{{youtube|HwwGW8K5fqs|生放送}}時有提及線下第一次見面時為她的[[巨乳|大胸肌]]感到震驚。&lt;s&gt;畢竟那{{censored|還在成長的}}級數放在hololive全部成員中算是異數&lt;/s&gt;
+*** &lt;s&gt;諾艾爾可以數到'''K'''night，星街只能數到A，[[夏色祭|馬自立]]在一旁偷笑&lt;/s&gt;
+** 根據本人所言姊姊和母親那邊的家族都是巨乳居多。&lt;s&gt;但以本人來說應該是隱性遺傳(拖)&lt;/s&gt;
+** &lt;s&gt;在哈洽馬一邊打俄羅斯方塊一邊提到這話題時即刻將她秒殺&lt;/s&gt;
+** &lt;s&gt;2021年的新年願望是大家天下太「平」&lt;/s&gt;
+** 自稱自己現在還穿得下國小時的運動服&lt;s&gt;，所以除了身高國小後沒有成長外恐怕連胸部也是(被砍)&lt;/s&gt;。
+** &lt;s&gt;綜上為hololive斷崖五絕壁候補之一(被金斧頭斬殺)&lt;/s&gt;
+* 喜歡少年&lt;s&gt;但實際也包括正太&lt;/s&gt;，當有人指她是正太控時會鄭重其事的強調兩者的差別&lt;s&gt;法律上來說其實都是犯罪&lt;/s&gt;。
+** 不過在玩《[[Made in Wario系列|瓦利歐製造]]》時倒是說了自己喜歡很強的幼女&lt;s&gt;已經從單純的正太控進化成戀童癖了&lt;/s&gt;。
+
+=== [[俄羅斯方塊]] ===
+* 技術之高在眾多企業和個人勢VTuber中首屈一指，雖和職業級選手仍有距離但實力是依然上位等級。
+** 即使在生放中被狙擊或差不多到頂，依然能遊刃有餘地一邊雜談一邊消塊(雖然間中也有失誤的情況)。
+** 和其他VTuber對戰時更可以在30秒左右或以內解決對手。&lt;s&gt;在{{youtube|O8Y4laIDe4c|犬山發起的忍耐大賽}}中更是毫不留情地用T-spin{{ref|俄羅斯方塊對戰中的進階技巧，原理是利用T型方塊卡進能容納的空隙中進行消行，透過此法消除的行數比起一般消行能給對手增加兩倍的行數(甚至T-spin三行全消時更能增加6行)從而造成更大壓力}}將其他對手弄到滿出來&lt;/s&gt;
+* 曾經吸引雨宮太陽和uyeshota等職業選手對戰。&lt;s&gt;更甚者雨官太陽發了一條{{twitter|inazuma0217tai1|1227434238141706242|自己名字和星街彗星非常相似的推文}}&lt;/s&gt;
+* 版權風波期間一度停止有關的生放甚至刪除舊影片，直至2020年8月官方和任天堂達成協議後才解禁。
+** &lt;s&gt;復出打塊後不少觀眾以為她已經過氣了，但依然非常好打&lt;/s&gt;
+
+=== {{ruby|&lt;s&gt;有點大姐姐的藍髮神經病&lt;/s&gt;|Suichopath}} ===
+* 在玩各種大逃殺(特別是人狼類)或其他遊戲時會展露出各種神經病和好戰舉動而得名。
+** 「Project Winter」中扮演背叛者時表現非常優異，可以毫不猶豫地殺死對手。特別是拿著金斧頭一面微笑一邊發狂的樣子成為了她的標記。&lt;s&gt;可怕程度比[[白上吹雪|白上]]更甚&lt;/s&gt;
+***在該遊戲中曾經辦到過1v5和1v3的誇張行徑，且都沒有掉超過一半的血。
+***&lt;s&gt;在該遊戲造就許多名句，如:「絕對要全員都殺掉。」、換成白上的皮後對[[夏色祭|馬自立]]說出「但我白上吹雪不相信你的鬼話」等等。&lt;/s&gt;
+*** &lt;s&gt;[[成句/龍五的手上只要有槍，誰都殺不了他|只要星街手上有金斧頭，誰都會被她殺死]]&lt;/s&gt;
+* 和赤井心的俄羅斯方塊聯動中曾經分享過意外地令青蛙悶死的故事。
+* 玩《刺客任務》時更會拿一般路人來試槍。&lt;s&gt;47表示&lt;/s&gt; 
+* &lt;s&gt;繼櫻巫女後第二個被母親看過自己女兒玩GTA5實況後禁止開車的人。&lt;/s&gt;
+** &lt;s&gt;然而卻在holo杯瑪利歐賽車比賽取得了冠軍，似乎是拿洛聖都的市民去獻祭換來的(極大誤)&lt;/s&gt;
+
+=== 弱點 ===
+* 極度害怕昆蟲，也導致她完全無法招架蜘蛛，形似昆蟲的[[Minecraft|蠹魚和終界使者]]（？）&lt;ref&gt;彗星認為終界使者的顏色，形狀和傳送的能力很像蟑螂&lt;/ref&gt;。
+** 星之彼方一日聯動時，彼方挖礦時意外挖出了大量的蠹魚，隨後便故意引到彗星面前，嚇到她發出了難得的尖叫&lt;s&gt;天使GJ&lt;/s&gt;
+** MC新居建造直播時，終界使者闖進了彗星的家中把彗星直接嚇到不敢回家，在想盡各種方法趕走終界使者無果後，怕得叫剛剛上線的彼方趕來救場&lt;s&gt;天使：小栗旬有什麼好怕的？&lt;/s&gt;。
+** 甚至被帶去終界見識時根本不敢抬頭，還中了Bug導致無法逃出終界。
+*** 但之前的不知火建設聯動時似乎已經克服。
+* 對鬼怪類也很苦手，遊玩相關遊戲時常常嚇到尖叫&lt;s&gt;如果能反擊那又另當別論了&lt;/s&gt;，但對血腥獵奇的畫面卻不會害怕。
+* 似乎有密集恐懼症
+** 2019萬聖節時中了佩可拉做的整人陷阱，因為裡面大量密集的雪人，嚇得直喊媽媽&lt;s&gt;兔子也GJ&lt;/s&gt;。
+*** 後來彗醬在麥塊已成驚弓之鳥，在Pekoland光是碰到凋零玫瑰，看到鐵魔像就已經大哭大叫，並且慌忙逃出遊樂場&lt;s&gt;硬生生把麥塊玩成恐怖遊戲&lt;/s&gt;。
+*** &lt;s&gt;空媽表示要是彗醬做壞事，就要用藏在地板下的密集南瓜處罰她&lt;/s&gt;
+
+===  &lt;s&gt;課金&lt;/s&gt; ===
+* 重度課金患者，常常把卡刷爆
+** 直播工商Vanguard Zero要課金時甚至發生了卡刷爆無法課金的糗況。
+
+=== &lt;s&gt;肚子餓的&lt;/s&gt;姐街 ===
+* 和彗星非常親近和要好的姐姐&lt;s&gt;好到彗星要跟天使跟龍同居時也要跟著&lt;/s&gt;，兩人聲線非常相似，早期會亂入本人的生放送&lt;s&gt;喊肚子餓叫彗星煮飯&lt;/s&gt;甚至投SC。
+* 會對著兔子玩偶自言自語，被&lt;s&gt;同為殘念系的&lt;/s&gt;阿夸說是殘念系美女
+* 是《Cardfight!! Vanguard》的大粉絲，會鼓勵彗星玩她喜歡的遊戲好讓兩人有共通的話題。
+* 據本人言運氣很差。&lt;s&gt;但彗星卻更差就是了&lt;/s&gt;
+* 在彗星的第二次3D生放送中作為神秘嘉賓登場並展露立繪，除頭髮是粉紅色外服飾和本人非常相似。&lt;s&gt;但胸部因為有遺傳到媽媽所以還是大了點&lt;/s&gt;
+* 是腐女。
+** 過去星街曾不小心看見姐街的BL本&lt;s&gt;阿散井x日番谷&lt;/s&gt;，對還沒接觸過BL世界的彗星造成了很大的陰影，直到現在陰影雖已沒那麼大，但還是會說出BL本能驅魔之類的話。
+* 最近已不在直播中出現，根據彗星的說法是因為當事人害怕喜歡姐街的ガチ恋勢還不知道該怎麼辦的關係，但彗星本人還是希望能有機會和姐街在直播上一起玩馬利歐派對。
+* &lt;s&gt;其實是某個[[Mori Calliope|死神]]&lt;/s&gt;&lt;ref&gt;來自於某張粉絲畫的圖，由於兩人的髮色相同加上都是巨乳而有了姊街=Calli的說法，但想當然耳兩人並不是同一人&lt;/ref&gt;。
+
+=== 「Hi Honey」 ===
+* 2021年4月在實況Duolingo學習英文時說出的例句
+* 作為情人間的問候被眾多星詠者奉為至寶不斷傳頌，並擴散到其他Hololive成員處，偶爾也能看見其他家的V受到&lt;s&gt;毒害&lt;/s&gt;感染
+* &lt;s&gt;跟「[[寶鐘瑪琳|I'm Horny]]」有異曲同工之妙&lt;/s&gt;
+
+== 主要事紀 ==
+===2018年===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 3月22日
+| Youtube頻道開始活動兼初生放送
+|-
+! width="80px" | 5月1日
+| Youtube頻道訂閱數突破1千人
+|-
+! width="80px" | 7月1日
+| 加入虛擬偶像VTuber團體「S:gnal」
+|-
+! width="80px" | 8月5日
+| 從「S:gnal」畢業，回歸個人勢
+|-
+! width="80px" | 11月22日
+| 公開第一首原創曲{{youtube|3cqV5BKJHyk|『comet』}}
+|-
+! width="80px" | 12月29日
+| 參演由歌衣メイカ舉辦的『V紅白歌合戦』&lt;br&gt;同日Youtube頻道訂閱數突破5千人
+|}
+===2019年===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月15日
+| {{twitter|suisei_hosimati|1085160069212196864|Youtube頻道正式收益化通過}}
+|-
+! width="80px" | 3月22日
+| 出道一周年&lt;br&gt;同日公開第二首原創曲{{youtube|zLak0dxBKpM|『天球、彗星は夜を跨いで』}}
+|-
+! width="80px" | 5月19日
+| 和[[AZKi]]一起加入hololive旗下的INoNaKa Music
+|-
+! width="80px" | 6月5日
+| Youtube頻道訂閱數突破1萬人
+|-
+! width="80px" | 7月55日
+| 參演『INNK EXHiBiTiON』
+|-
+! width="80px" | 8月15日
+| Youtube頻道訂閱數突破2萬5千人
+|-
+! width="80px" | 7月55日
+| 參演『Vカラオフ！3！』
+|-
+! width="80px" | 9月4日
+| Youtube頻道正式開放會員功能
+|-
+! width="80px" | 10月6日
+| 於bilibili舉行首次限定生放送
+|-
+! width="80px" | 11月22日
+| Youtube頻道訂閱數突破5萬人
+|-
+! width="80px" | 12月1日
+| 宣佈由INoNaKa Music移藉至hololive旗下的所屬藝人&lt;br&gt;同日公佈新Live2D主造型及衣服
+|-
+! width="80px" | 12月29日
+| 參演由歌衣メイカ舉辦的『第2回V紅白』
+|}
+===2020年===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月1日
+| Youtube頻道訂閱數突破7萬5千人
+|-
+! width="80px" | 1月2日
+| 公佈新年正月造型
+|-
+! width="80px" | 1月24日
+| 參加Hololive舉辦的第一次官方演唱會「hololive 1st Fes. nonstop story」，並公佈3D偶像造型
+|-
+! width="80px" | 1月31日
+| Youtube頻道訂閱數突破10萬人
+|-
+! width="80px" | 2月16日
+| 參演『会える！ 話せる！ VTuberおしゃべりフェス on バレンタイン ホロライブ編』
+|-
+! width="80px" | 2月22日
+| 參演Overidea舉辦的『歌え！国境なき世界新年企画！2020』
+|-
+! width="80px" | 3月1日
+| {{youtube|FZnG1t34wCs|公佈3D造型及個人Live}}
+|-
+! width="80px" | 3月19日
+| 參演『ぶいおん!! SAKURA MUSIC LIVE』
+|-
+! width="80px" | 3月21日~&lt;br&gt;3月22日
+| 出道二周年前夜生放送&lt;br&gt;出道二周年當日公開第三首原創曲{{youtube|vQHVGXdcqEQ|『NEXT COLOR PLANET』}}
+|-
+! width="80px" | 3月28日
+| 原創曲『天球、彗星は夜を跨いで』100萬再生數達成，為hololive第7個亦是首個原創曲有百萬再生數的Youtube影片
+|-
+! width="80px" | 4月5日
+| 番組「ホロライブ presents 星街すいせいのMUSIC SPACE」開放推送&lt;br&gt;同日Youtube頻道訂閱數突破20萬人
+|-
+! width="80px" | 6月2日
+| Youtube頻道訂閱數突破30萬人
+|-
+! width="80px" | 6月5日
+| 原創曲『NEXT COLOR PLANET』100萬再生數達成
+|-
+! width="80px" | 6月17日
+| 參演文化放送「星街すいせい、もこ田めめめ、花鋏キョウのSTUDIO LIVE」
+|-
+! width="80px" | 7月3日
+| 參演『It's a Virtual Pop World!』
+|-
+! width="80px" | 7月16日
+| 原創曲『comet』100萬再生數達成
+|-
+! width="80px" | 7月19日
+| 參演由日本電視台舉辦的live活動「VILLS」，與[[櫻巫女]]組成組合「ミコメット」
+|-
+! width="80px" | 7月25日
+| 參演『BILIBILI MACRO LINK2020』
+|-
+! width="80px" | 8月4日
+| Youtube頻道訂閱數突破40萬人
+|-
+! width="80px" | 8月7日
+| 參演「Bilibili World 2020」上海舞台
+|-
+! width="80px" | 8月15日
+| 參演《NHKバーチャル文化祭》
+|-
+! width="80px" | 9月6日
+| 參演「東京タワー花火大会XR～COSMIC FLOWER～」
+|-
+! width="80px" | 9月27日
+| 於{{youtube|RPdUErEiRbk|歌唱回生放送中}}Youtube頻道訂閱數突破50萬人&lt;br&gt;宣佈10月19日舉行3rd Youtube Live
+|-
+! width="80px" | 10月4日
+| 參演「Virtual TIF2020」Day 3
+|-
+! width="80px" | 10月19日
+| {{youtube|JNmmnB4bP0M|舉行Youtube頻道訂閱數突破50萬人的紀念Live}}，期間多名hololive成員作為嘉賓登場
+|-
+! width="80px" | 11月12日
+| 公佈第2套Live2D造型&lt;s&gt;然而配色和某色情影片網站非常相似&lt;/s&gt;
+|-
+! width="80px" | 11月22日
+| 參演日清食品舉辦的 POWER STATION [REBOOT]「星街すいせい SUISEI MUSIC "POWER" LIVE」
+|-
+! width="80px" | 11月30日
+| Youtube頻道訂閱數突破60萬人
+|}
+===2021年===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月11日
+| 參加社內舉辦的超級瑪利歐賽車正月盃獲得第一名
+|-
+! width="80px" | 1月16日
+| Youtube頻道訂閱數突破70萬人
+|-
+! width="80px" | 1月29日
+| 不明原因被剝奪收益化
+|-
+! width="80px" | 2月26日
+| 恢復收益化
+|-
+! width="80px" | 3月17日
+| Youtube頻道訂閱數突破80萬人
+|-
+! width="80px" | 3月22日
+|出道活動3周年
+|-
+! width="80px" | 4月13日
+| 舉行3周年3DLIVE『SPACE for Virtual GHOST』&lt;br&gt;當日公開第四首原創曲{{youtube|IKKar5SS29E|『GHOST』}}
+|-
+! width="80px" | 4月24日
+| 原創曲『GHOST』100萬再生數達成
+|-
+! width="80px" | 5月13日
+| Youtube頻道訂閱數突破90萬人
+|-
+! width="80px" | 6月25日
+| 公開第五首原創曲[https://www.youtube.com/watch?v=ZfDYRy17CBY 『Bluerose』]
+|-
+! width="80px" | 6月26日
+| Youtube頻道訂閱數突破100萬人，成為Hololive第18位訂閱數破百萬的成員
+|-
+! width="80px" | 7月8日
+| 公開第六首原創曲『駆けろ』，並宣布即將發行首張個人專輯『Still Still Stellar』
+|-
+! width="80px" | 7月14日
+| 和井上拓合作推出歌曲[https://youtu.be/LYFciXBcXIQ 『3時12分』]&lt;br&gt;&lt;s&gt;全曲也剛好是3分12秒&lt;/s&gt;
+|-
+! width="80px" | 8月7日
+| 公開『駆けろ』的[https://youtu.be/IqT6cHCT1TE MV]
+|-
+! width="80px" | 8月17日
+| &lt;s&gt;無預警&lt;/s&gt;公開第七首原創曲[https://youtu.be/JiNIHQ28pGc 『自分勝手Dazzling』]，該曲收錄在音樂街機遊戲[[CHUNITHM]]中
+|-
+! width="80px" | 8月21日 
+| 公開第八首原創曲『バイバイレイニー』，同時公開『自分勝手Dazzling』的[https://youtu.be/Mm87JgTx2Ao 完整MV]，亦公開第一次個人演唱會[https://youtu.be/P6ei0hL0sbI 『STELLAR into the GALAXY』]
+|-
+! width="80px" | 8月22日
+| 『NEXT COLOR PLANET』1000萬再生達成
+|-
+! width="80px" | 9月25日
+| 和巫女一起參加了由VARK主辦的「Cinderella switch ～ふたりでみるホロライブ～」的VR演唱會活動
+|-
+! width="80px" | 9月29日
+|『Still Still Stellar』正式發售，除了上述原創曲外另收錄『Stellar Stellar』、『Andromeda』、『Je t'aime。』、『Starry Jet』等原創曲
+|-
+! width="80px" | 10月6日
+| [https://twitter.com/Billboard_JAPAN/status/1445601431092826113?s=20 『Still Still Stellar』獲得Billboard Japan的本周專輯下載排行第一名]
+|-
+! width="80px" | 10月8日
+| 公開『Stellar Stellar』的[https://youtu.be/a51VH9BYzZA MV]
+|-
+! width="80px" | 10月19日
+| 公布新服裝秋裝水手服造型(包含異色改外套的2P色版本)
+|}
+
+== 相關條目 ==
+*'''[[KomicaWiki]]條目'''
+** [[虛擬Youtuber]]
+** [[hololive]]
+*'''外部連結'''
+** [https://www.hololive.tv/portfolio/items/345947 官方介紹頁]
+** 影片頻道：{{youtube|c=UC5CwaMl1eIgY8h02uZw7u8A|title=YouTube}}、[https://space.bilibili.com/9034870/ bilibili空間](已停止更新)
+** 音樂專頁：[https://nana-music.com/users/7269448 nana]、[https://open.spotify.com/artist/5DMtkYMG6lksJxvoT3A8Bb Spotify]
+** 社交媒體：{{twitter|suisei_hosimati|name=主Twitter帳戶}}、{{twitter|suisei_music|name=Music Space Twitter帳戶}}、[https://marshmallow-qa.com/suisei_hosimati 棉花糖帳戶]
+** 維基類連結：[https://seesaawiki.jp/hololivetv/d/%c0%b1%b3%b9%a4%b9%a4%a4%a4%bb%a4%a4 ホロライブ非公式wiki]、 [https://dic.nicovideo.jp/a/%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84 ニコニコ大百科]、[https://dic.pixiv.net/a/%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84 pixiv百科]、[https://zh.moegirl.org.cn/%E6%98%9F%E8%A1%97%E5%BD%97%E6%98%9F 萌娘百科]
+== 回應 ==
+* {{pcomment|section=1}}
+
+{{hololive production}}
+
+== 備註 ==
+&lt;references/&gt;
+[[Category:角色]]
+[[Category:虛擬YouTuber]]
+[[Category:hololive]]
+[[Category:網路文化]]

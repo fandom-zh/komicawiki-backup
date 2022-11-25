@@ -1,0 +1,166 @@
+{{小寫標題}}
+{{h0|eXceed2nd-VAMPIRE REX-/超越者 第二部-王之吸血鬼篇-/イクシード2-ヴァンパイア レックス-}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目歡迎有興趣的朋友加以補完。 
+|-
+| 上一部：[[eXceed-Gun Bullet Children-]] 
+|-
+| 下一部：[[eXceed3rd-JADE PENETRATE- BLACK PACKAGE]] 
+|}
+[[File:img9718.jpg|right|350px]]
+
+
+==概要 ==
+* 為FLAT→[[天然素材（てんねんそざい）|天然素材]]開發，eXceed系列的第二作，同人的屬性盾牌彈幕STG
+** 最初為C70的『eXceed2nd-VAMPIRE-』（FLAT），之後天然素材重製為C73的『eXceed2nd-VAMPIRE REX-』
+** 最後收錄到CAPCOM的「The eXceed Collection」中
+** 容量大的原因是BGM
+** 本條目與REX版一併介紹（劇情設定無多大差異，但遊戲內容不同）
+
+===系統 ===
+* 類似斑鳩，藉由吸收與自機同色的子彈來累計量表（「光」與「闇」切換），沒有低速模式
+** 以集滿的狀態來使用&lt;s&gt;マスタースパーク&lt;/s&gt;Bomb
+** 不同色的子彈會給予自機傷害
+** 自機的火力不同（C70版一條直，REX版則加寬範圍）
+** 有特殊力場，撞到敵人不會產生傷害（REX版）
+
+==故事 ==
+
+ 目前展開名為「聖域攻城戰」（Holy Land Siege）的戰爭
+ 大約在一年四個月前，教會眾派系的內部鬥爭中，造成成員之一的主教-Shrain被暗殺
+ Shrain曾提倡「人類與吸血鬼平等共存」的提案，避免擁有吸血鬼血統的人遭受迫害
+
+ 在歷史上有此事未記錄，就是主教向反抗組織的「第五子爵」立定停戰協議
+ 很多人認為，主教的死跟「人類與吸血鬼平等共存」的事有關，但沒人能證明其真實性
+
+ 在Shrain死去後，由Anheim接任主教的位置
+ 並馬上終止了Shrain的新政策，以「人類淨化」為名，對非人的種族進行殲滅
+
+ 而教會率領十字軍，在世界各地抹殺反抗者
+ 不久後，連反抗者們也組軍反抗，軍隊中也包含第五子爵召集的盟友們
+ 兩邊開打演變成持久戰，然而，在短短一個月內子爵的所有盟軍都被殲滅
+ 因此才知道，教會的驅魔師隊將「槍彈之子」部署到戰場
+
+ 幾個月後...
+ 有歷史記載，魔界有一位能抵抗教會勢力的吸血鬼之王-「不死王」（Undead Lord）
+ 居住在死都『亂魔城』（パンデモニウム/Pandemonium）...
+
+==登場人物 ==
+* 時間點與前作同時發生
+** 希魯德雷可能與前作主角們打過後再與莉亞對決
+** 立繪除了邦泉雅和希魯德雷之外都有改
+** （下列的立繪左：C70版/右：REX版）
+
+===自機「Vampires」（ヴァンパイア/吸血鬼） ===
+* 與前作立場相反，換成吸血鬼當主角
+
+
+[[File:img9719.jpg|right|250px]]
+* 莉亞‧法依爾/リア・ファイル/Ria File（CV：遠藤紗哉{{censored|[[桂言葉|岡嶋妙/桂言葉]]}}）
+** 本作主角，[[仮面ライダーキバ|人類和吸血鬼的混血兒]]
+** 從小因為其血統，容易受到不平等對待
+** 但是卻不會就此[[黑化]]
+** 為了想過好一點的生活才參戰&lt;s&gt;在3rd達成了心願&lt;/s&gt;
+** &lt;s&gt;名字很科技化&lt;/s&gt;&lt;ref&gt;Ria File直譯就是「開啟多樣化網際網路應用程式」&lt;/ref&gt;
+{{clr}}
+===Stage Boss「槍彈之子」（Gun Bullet Children） ===
+* 在故事中被稱為「教會的騎士」
+** 前作的三位自機變成2、3、4面，並追加兩名新角色
+** 皆使用雙色彈，C70版與REX版的素材、攻擊方式不同
+[[File:img9720.jpg|right|250px]]
+* 齊庫魯妮（白）/ジークルーネ/Siegrune（CV：梨本悠里）
+* 布倫希爾蒂（黑）/ブリュンヒルデ/Brunhild（CV：ひと美）&lt;br&gt;[[File:img9721.png]]
+** 次代的槍彈之子，[[仮面ライダーダブル|兩人一體]]的壓倒性實力
+** 由於強化過頭，造成扭曲的性格
+** 使用「芬里斯狼」（フェンリス狼/Fenris Wolf）之力
+** C70版FINAL EXCEED時會「獸化」
+[[File:img9722.png]]
+* 專用曲：[http://www.youtube.com/watch?v=512hzmJXXQc 「Bestrafung」]
+** [http://www.youtube.com/watch?v=epoM9vB1bms 「CONQUEST」（獸化時）]
+
+{{clr}}
+[[File:img9723.png|right|250px]]
+* 加賀屋 千夏/Kagaya Tinatu（Chinatsu）（CV：HARUNA）
+** 使用紅色羽翼及魔劍來戰鬥，紅翼有強化版
+** &lt;s&gt;侵略鋼彈&lt;/s&gt;&lt;ref&gt;戰鬥中會講出類似「鋼彈SEED」中的強化人台詞&lt;/ref&gt;
+** 專用曲：[http://www.youtube.com/watch?v=p7rV2ZHuJik 「Shock!!」]
+
+{{clr}}
+[[File:img9724.png|right|250px]]
+* 索薇爾‧迪渥錫亞娜/ソウェル・ディヴォシアナ/Sowel Devosiana（CV：桜花春日）
+** 召喚殺人玩偶「聖霊シルエストレ」來戰鬥，比前作還巨大
+** 專用曲：[http://www.youtube.com/watch?v=YPRM6XWWOXI 「Playful」]
+
+{{clr}}
+[[File:img9725.png|right|250px]]
+* 邦泉 雅/Miyabi Housen（CV：紅月ことね）
+** 持有炎之力，展開火之翼
+** 戰鬥中[[中二病|中二]]化了...
+** 電腦公司的代言人，&lt;s&gt;「宏碁ー!!」&lt;/s&gt;&lt;ref&gt;戰鬥中的[[空耳]]&lt;/ref&gt;
+** 專用曲：[http://www.youtube.com/watch?v=SxQEBcEuoPI 「Ignite」]
+
+{{clr}}
+[[File:img9726.png|right|250px]]
+* 希魯德雷/ジルドレイ/Gilles de Rais（CV：桜花春日）
+** 前作Boss，&lt;s&gt;[[仮面ライダーディケイド|假面騎士DIEND]]&lt;/s&gt;，在本作也是身份不明
+** 原本是吸血鬼雇來的傭兵，目的是為了搶奪教會所秘密製造的天使
+** 除彈幕外，還使用多把實體劍來攻擊
+** 專用曲：[http://www.youtube.com/watch?v=worUpsTzpzk 「Shakes to obscene」]
+
+{{clr}}
+[[File:img9727.jpg|right|250px]][[File:img9728.png|400px|right]]
+* 安赫爾/アンヘル/Anhel（CV：里都）
+** 沉眠於祭壇最深處的天使，&lt;s&gt;穿著很エロ的蘿利&lt;/s&gt;
+** 教會想籍由祂來統治人類，所製造的仿製品，不是前作那位同名Boss
+** C70版是有使用弓來戰鬥
+** 被莉亞說得後，不想被教會控制，而決定逃離此處，[[仮面ライダーOOO|去世界各地旅行]]
+** 專用曲：[http://www.youtube.com/watch?v=omHuGfgnQXU 「Flugel」]
+
+{{clr}}
+[[File:img9729.png|right|250px]]
+* ラストボス{{censored|ジークルーネ}}
+** &lt;s&gt;ファングジョーカー&lt;/s&gt;
+** FINAL EXCEED Boss，兩姐妹合體而成
+** C70版是直接合體，REX則是布倫死亡，齊庫吸收她而變成
+** 專用曲：[http://www.youtube.com/watch?v=BWEhTbKfLMA 「Puppe」]
+
+==Stage ==
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! Stage !! 關卡標題 !! Boss 
+|-
+| 1 || Skyscraper || ブリュンヒルデ＆ジークルーネ 
+|-
+| 2 || Runing Road || 加賀谷千夏 
+|-
+| 3 || Fortified Zone || ソウェル・デヴォシアナ 
+|-
+| 4 || Sanctuary || 邦泉雅 
+|-
+| 5 || Ruins Glory || ジルドレイ 
+|-
+| 6 || Thorne Zenith || アンヘル 
+|-
+| 7 || FINAL EXCEED || ブリュンヒルデ＆ジークルーネ{{censored|ジークルーネ}} 
+|}
+
+== 參考資料 ==
+* [http://web.archive.org/web/20070709051149/http://flat.web.infoseek.co.jp/EXCEED2nd/ 官網舊頁]
+* [http://exceedseries.com/2nd-vampire-rex eXceed2nd（美版官網）]
+* [http://en.wikipedia.org/wiki/EXceed_(series) eXceed series（英文Wiki）]
+* [http://yasshi0916.web.fc2.com/exceed2/exceed2nd.html eXceed2nd攻略資料]
+* [http://yasshi0916.web.fc2.com/rexkou/top.html eXceed2nd攻略資料（REX）]
+
+== 低調 ==
+* [http://doujingravity.blogspot.tw/2012/02/exceed-2nd-vampire.html eXceed 2nd（C70版）]
+* [http://howfile.com/dir/folder/jjou/326984ff.html eXceed 2nd（C70版）（HF）]
+* [http://howfile.com/file/jjou/89150668/ eXceed 2nd（C72版REX）]
+* [http://doujingravity.blogspot.tw/2010/10/exceed-2nd-vampire-rex-original.html eXceed 2nd（OST）]
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+&lt;references/&gt;

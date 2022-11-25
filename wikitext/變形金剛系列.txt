@@ -1,0 +1,637 @@
+{{h0|變形金剛系列/Transformers{{ref|Trans(多種變化)form(形體)ers(的族群),因為像機器人才加上[[金剛]]...}}/トランスフォーマーシリーズ}}
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+| style = "text-align: center; "  | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|-
+|本條目採用音譯或GOOGLE翻譯，暫不使用舊譯
+|}
+
+==解說 ==
+* Hasbro與Takara Tomy在1980年代共同推出的機器人玩具系列
+** 正確來說，是在這之前Takara公司先推出了[https://youtu.be/en3m-ggLrSc 「ミクロマン(微星小超人)」]、[https://youtu.be/D_BOj1Qqx0Q 「ダイアクロン(戴亞克隆)」]兩個玩具產品線，之後被美國的Hasbro公司看上，並整合在美國以現行的「變形金剛」名義推出。
+** 由於實際上是日本原作美國&lt;s&gt;二創&lt;/s&gt;發行，就跟很多同類作品一樣日美雙方在發展上完全是兩條平行線，就連一些共通的角色在日美兩邊都有不同的稱呼，一直到2007年麥可貝導演的真人電影版上映後才統一為美版的名稱。
+
+* 現行系列
+** 美版:IDW
+*** Siege(賽博坦內戰,並逆流漫畫、電影的角色)、EarthRise(地球昇級)
+** 日版:LG/Legends/レジェンズ(多半改自美版的模)
+
+== 玩具產線 ==
+
+*依變型難度或尺吋來分級
+**能對應3mm(FAG)及5mm(機獸Blox)口徑
+***角色有時兼用同模或換色&lt;s&gt;又偷膠&lt;/s&gt;{{ref|孩寶出的是玩具配色、TAKARA卻是以動畫設定配色來做}}
+***合體型則另外算{{ref|有時1V+4D為領導級}}
+***&lt;s&gt;價格則隨每年上漲幾十元、然後一年後砍半賣...&lt;/s&gt;
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!CLASS/等級!!&lt;s&gt;價格(台幣)&lt;/s&gt;
+|-
+|TITAN/泰坦||&lt;s&gt;七千&lt;/s&gt;
+|-
+|COMMANDER/指揮官||&lt;s&gt;五千&lt;/s&gt;
+|-
+|LEADER/領導(又稱無敵戰將)||&lt;s&gt;三千&lt;/s&gt;
+|-
+|VOYAGER/航海(又稱巡弋戰將)||&lt;s&gt;一千五&lt;/s&gt;
+|-
+|DELUXE/豪華||&lt;s&gt;八百&lt;/s&gt;
+|-
+|LEGENDS/傳奇、CORE/核心||&lt;s&gt;四百&lt;/s&gt;
+|-
+|泰坦戰士、至尊戰士、目標戰士||&lt;s&gt;兩百&lt;/s&gt;
+|}
+*Wfc開始推出泰坦及領導之間的指揮官級
+
+=== {{censored|第三方/非正規品}} ===
+* {{censored|與同人誌類似、由模型作家自改的配件或同規格產品,拿去販賣}}
+** {{censored|源由是官方的Bruticus Maximus不好看{{ref|詐騙和升空}},才開始了這樣的事...(待捕)}}
+*** {{censored|還傳聞有設計師受不了官方的偷工減料,也加入製作...}}
+*** {{censored|潛規則是不能以博派、狂派及該系列角色名義出售，機體不可以有官方的標誌，其餘要做得跟官方角色多像都不會有人管（無誤）}}
+* {{censored|大多數是官方角色以「原創的」變形機構呈獻或是官方沒出玩具的角色實體化，少部分是連造型都是原創。而官方模具放大縮小或是細部修正一般還是屬於KO版&lt;s&gt;，然而這些小修改往往都把玩家們覺得美中不足的地方給改正，故有KO版KO正版的笑談&lt;/s&gt;。}}
+** {{censored|另一個主流是把明明作品中有出現但玩具卻沒做出來的東西（多半是電影中出現的裝備）做成配件包販售&lt;s&gt;，不過最近因為官方模具常常只做到十全九美，剩下的由第三方補件來完善，因此有些玩家認為官方也認同第三方的存在，並刻意留下可以讓第三方發揮的空間&lt;/s&gt;}}
+*{{censored|2019年8月某Z社推出能完全變形的行星,結果被警告&lt;s&gt;明明官方自己做不好還怪人家..&lt;/s&gt;}}
+
+== 設定 ==
+*基本上以後設為主(因為吃書部份官方會補)
+
+* 賽博坦&lt;br&gt;セイバートロン/Seibertron
+** {{censored|由普萊瑪斯的身驅變成、核心為矢量總體/Vector Sigma}}
+***原本是死寂的星球,後來變成綠意盎然的世界
+***創造13人至尊
+***在昆沙星人發現後被機械化
+***以某人的起義後成為變形金剛種族居住地
+***故事開端都發生能源不足到滅星的危機&lt;s&gt;、然後分家打了幾百萬年內戰還打到[[地球]]去...&lt;/s&gt;
+
+* 太空橋&lt;br&gt;スペースブリッジ/Space Bridge
+** 來往各行星用的通行設施
+
+* 能源塊&lt;br&gt;エネルゴン/Energon cubes
+** 賽星人的主食、有易燃特性&lt;s&gt;不過有不須吃能源塊的例外&lt;/s&gt;
+
+*賽博坦型態&lt;br&gt;セイバートロンモード/Seibertron Mode
+**就是地球以外&lt;s&gt;形狀怪異&lt;/s&gt;的[[科幻]]載具
+***&lt;s&gt;不用買版權的最後手段&lt;/s&gt;
+
+*載具型態&lt;br&gt;ビークルモード/Vehicle Mode
+**參考現實交通工具而擬態的型態
+***以[[汽車]]為例有些還是名車和未來概念車&lt;s&gt;結果還要向車商買版權&lt;/s&gt;
+
+* 投影體&lt;br&gt;Holomatter/ホロマター
+** 避免被誤為無人機,以投影出駕駛人的方式偽裝
+*** &lt;s&gt;官方擬人化、IDW還作出投影星球&lt;/s&gt;
+
+* 裂鏡&lt;br&gt;シャッタード・グラス/Shattered Glass
+** 正邪互換的版本
+
+=== 派系 ===
+[[File:250px-Ancient Transformer Symbol.png|150px]]
+* 標誌是分裂出來的(並非警車和聲波的臉)
+
+* 狂派
+** 日版原名為デストロン(Destron)，在2007年電影上映後為了避免混淆而統一成美版的ディセプティコンズ(Decepticons)
+*** 大陸方譯名為霸天虎，台版譯名則直到2007年真人電影版才正式定為狂派，在這之前則有破壞金剛之類的翻譯。
+** 部隊通稱是トロン/Tron或コン/Con
+** 由軍事系組成、以搶奪能源為主要目的&lt;s&gt;總之是一群吃貨&lt;/s&gt;
+*** 成員大多會飛
+*** IDW則設定為礦工勢力發動的義勇改革團體
+
+* 博派
+** 日版原名為サイバトロン(Cybertron)，同樣在2007年電影版上映後統一為オートボッツ(Autobots)
+*** 似乎是因為初期的博派成員多為汽車變形金剛為主，所以大陸方翻譯為汽車人，台版的譯名同樣是不同作品用不同稱呼，直到2007年電影版統一為博派。
+** 部隊通稱是ボット/Bot
+** 由生活系組成、防止狂派做壞事&lt;s&gt;擦屁股&lt;/s&gt;為主要目的
+
+* 創世十三祖&lt;br&gt;最初の13人/The Thirteen
+** 普萊瑪斯創造的至尊們、後來因理念不同而各分東西...
+{{hideh|成員}}
+*共通
+**第一&lt;br&gt;Prima/プライマ
+***矩陣之劍的持有者
+**引導至尊&lt;br&gt;Vector Prime/ベクター
+***時空航行者
+**合連至尊&lt;br&gt;Nexus Prime/ネクサス
+***合體系統的始祖
+**微型至尊&lt;br&gt;Micronus Prime /マイクロナス
+***微型金剛的始祖
+**巨帝王{{ref|Maximo的西班牙文}}&lt;br&gt;Liege Maximo/リージマキシモ
+***賽博坦帝國(狂派)的建立者
+***{{censored|&lt;s&gt;密卡登的生母&lt;/s&gt;}}
+**錬金至尊&lt;br&gt;Alchemist Prime/アルケミスト
+**強能者{{ref|Mega:超強、tron:能力}}&lt;br&gt;Megatronus/メガトロナス
+***又稱墮落者/The Fallen
+***密卡登的&lt;s&gt;生父&lt;/s&gt;名字來源
+**唯獨女尊&lt;br&gt;Solus Prime /ソラス
+***女性武器匠
+**裂爪至尊{{ref|Onyx的拉丁文}}&lt;br&gt;Onyx Prime/オニキス
+***野獸金剛的始祖
+***{{censored|IDW中本人被震盪波殺後頂替}}
+
+*多元宇宙/Mainstream multiverse 
+**話語至尊{{ref|Logos的希臘文}}&lt;br&gt;Logos Prime/ロゴス
+**識樣者{{ref|英文Epistemic}}&lt;br&gt;Epistemus/エピステマス
+**獨奏者{{ref|Solo的義大莉語}}&lt;br&gt;Solomus/ソロマス
+**集我&lt;br&gt;Autonomous Maximus/オートノマス・マキシマス
+***最終博派
+
+*G1  
+**A3&lt;br&gt;Alpha Trion/アルファトライオン
+***長老、過去曾反抗過昆沙星人、醫治奧萊恩重生為柯博文
+**第五至尊&lt;br&gt;Quintus Prime/クインタス
+***昆沙星人的創造者
+**水銀至尊&lt;br&gt;Amalgamous Prime/アマルガモス
+***能自由變換外型,變形系統的始祖
+**第十三至尊/The Thirteenth Prime/サーティーン
+***{{censored|柯博文(設定上是轉世成奧萊恩)}}
+{{hidef}}
+
+== 部隊、人物 ==
+*載具型態為V、賽博坦型態為S、投影體則是H
+**同模或換色則會整理
+
+=== 博派 ===
+====汽車人&lt;br&gt;カーロボット/Car Robot====
+*尺吋在D級以上
+
+*[[柯博文]]/優等至尊
+**G1:{{censored|オライオン．パックス→コンボイ→UWコンボイ→スターコンボイ}}
+***同模:馬格斯{{censored|(&lt;s&gt;有一說他是奧利恩死去的友人迪昂/ダイオン/Dion&lt;/s&gt;,但實力層面差太多了{{ref|迪昂在Wings Universe時阻止某軍校生動亂、退休後當搬運工}})}}
+
+{{hideh|成員}}
+*獵犬&lt;br&gt;ハウンド/Hound
+{{hideh|同模}}
+*碎屑&lt;br&gt;デトライタス/Detritus
+**傭兵
+{{hidef}}
+*千斤頂&lt;br&gt;ホイルジャック/Wheeljack
+**科學家、恐龍博派的生父
+{{hideh|同模}}
+*排氣&lt;br&gt;エグゾースト/Exhaust
+**&lt;s&gt;萬寶路千斤頂&lt;/s&gt;
+{{hidef}}
+*藍寶/側掃/橫砲&lt;br&gt;ランボル/Lambor→サイドスワイプ/Sideswipe
+{{hideh|同模}}
+*(紅色)警戒&lt;br&gt;レッドアラート/[[Red Alert]]
+*隱蔽&lt;br&gt;ディープカバー/Deepcover
+*箝制&lt;br&gt;クランプダウン/Clampdown
+*追虎&lt;br&gt;タイガートラック/Tigertrack
+{{hidef}}
+*達人/爵士&lt;br&gt;マイスター/Meister→ジャズ/Jazz
+**副官，擅長音樂擾敵
+*利捷/幻影&lt;br&gt;リジェ/Ligier→ミラージュ/Mirage
+**擅長隱身
+*跡像/銀跡&lt;br&gt;(ブルー)ストリーク/Bluestreak→シルバーストリーク/Silverstreak
+{{hideh|同模}}
+*巡邏&lt;br&gt;プロール/Prowl
+*煙幕&lt;br&gt;スモークスクリーン/Smokescreen
+{{hidef}}
+*開路者&lt;br&gt;トレイルブレイカー/Trailbreaker
+{{hideh|同模}}
+*起重&lt;br&gt;ホイスト/Hoist
+{{hidef}}
+*鐵皮&lt;br&gt;アイアンハイド/Ironhide
+**G1日/美版的差異為日版為基地警備員、美版則與Jazz同為副官
+**&lt;s&gt;後來成為凱撒士的宇宙警察,擁有專屬[[劍技]]&lt;/s&gt;
+{{hideh|同模}}
+*棘輪&lt;br&gt;ラチェット/Ratchet
+**同為麵包車的造型但塗成救護車，因此擔任博派內勤醫官，但頭部造型不同
+{{hidef}}
+*日奔&lt;br&gt;サンストリーカー/Sunstreaker
+**藍寶&lt;s&gt;一點都不像&lt;/s&gt;的雙生兄弟
+{{hideh|同模}}
+*鎮守&lt;br&gt;コルドン/Cordon
+{{hidef}}
+*獄火&lt;br&gt;インフェルノ/Inferno
+{{hideh|同模}}
+*抓鉤&lt;br&gt;グラップル/Grapple
+*拖曳&lt;br&gt;(ロード)ホーラー/(Road)Hauler
+*術火&lt;br&gt;アートファイヤー/Artfire
+**目標槍手
+{{hidef}}
+*追跡&lt;br&gt;トラックス/Tracks
+{{hideh|同模}}
+*爆走&lt;br&gt;ロードレイジ/Road Rage
+*響板&lt;br&gt;ラウドペダル/Loud Pedal
+{{hidef}}
+*剎車&lt;br&gt;スキッズ/Skids
+**{{censored|LG:把密卡登變成頭領的元兇}}
+{{hideh|同模}}
+*橫切&lt;br&gt;クロスカット/Crosscut
+*尖叫&lt;br&gt;スクリーチ/Screech
+{{hidef}}
+
+{{hidef}}
+
+====小型博派&lt;br&gt;ミニボット/Mini====
+*尺吋約在傳奇級
+*小熊/大黃蜂&lt;br&gt;バンブル(ビー)/Bumblebee
+**V:金龜車、S:飛船、H:黑人少女
+{{hideh|同模}}
+*飛崖/クリフ(ジャンパー)/Cliffjumper
+**&lt;s&gt;由於長得太像大黃蜂,從領袖之證開始的作品就只有掛掉的份...&lt;/s&gt;
+*轂罩/ハブキャップ/Hubcap
+*緩衝/バンパー/Bumper
+*雕文/グリフ/Glyph(女性)
+*掘出/タップアウト/Tap-Out
+{{hidef}}
+***名字取自丸花蜂(熊蜂的一種)
+***真人電影版後的大小約在D級左右
+**G1:{{censored|バンブル→ゴールドバグ→Dバンブル(LG)}}
+***{{censored|IDW則在說服密卡登時被震盪波殺死了,在星嚎面前顯靈...}}
+
+{{hideh|成員}}
+*充集&lt;br&gt;(ウィンド)チャージャー/Windcharger
+{{hideh|同模}}
+*尾門/テイルゲイト/Tailgate
+**H:幼女
+*城堡/ルーク/Rook
+{{hidef}}
+*拖拉/怒莽&lt;br&gt;ドラッグ/Drag→ハッファー/Huffer
+**同模:導管/パイプス/Pipes
+*茶鑼&lt;br&gt;ゴング/Gong→ブローン/Brawn
+**同模:退後/アウトバック/Outback
+*齒輪&lt;br&gt;ギアーズ/Gears
+**同模:轉彎/ウェーブ/Werve→スワーブ/Swerve
+*滑力&lt;br&gt;パワーグライド/Powerglide
+*巨浪&lt;br&gt;ビーチコンバー/Beachcomber
+*海浪/浪花&lt;br&gt;シースプレー/Seaspray
+**用變身泉後的人型是美男子
+*戰線&lt;br&gt;ワーパス/Warpath
+*亞當斯/宇宙&lt;br&gt;アダムス/Adams→コスモス/Cosmos
+**名字取自幽浮學者喬治·亞當斯基
+*翹輪&lt;br&gt;ウィーリー/Wheelie
+**&lt;s&gt;死小孩&lt;/s&gt;
+{{hidef}}
+
+====油門博派&lt;br&gt;スロットルボット/Throttlebots→スロットロボット/Slot Robot====
+*由金蟲領軍的部隊
+**{{censored|某第三方的T社還出了合體版本Gestalt{{ref|「形態」的德語}}...}}
+{{hideh|成員}} 
+*金蟲&lt;br&gt;ゴールドバグ/Goldbug
+*寬載&lt;br&gt;ワイドロード/WideLoad
+**&lt;s&gt;車型不合群&lt;/s&gt;
+*探照&lt;br&gt;ルックライト/Looklight→Searchlight
+*追逐&lt;br&gt;チェイス/Chase
+*翻車&lt;br&gt;ロールバー/Rollbar
+*跑道&lt;br&gt;ランウェイ/Runway→Freeway
+{{hidef}}
+
+====破擊隊&lt;br&gt;レッカーズ/Wreckers====
+{{hideh|成員}}
+*撞針&lt;br&gt;インパクター/Impactor
+**V:戰車
+**出自漫威漫畫,破擊隊的隊長
+*** 到Siege才有開新模
+
+*路霸&lt;br&gt;ロードバスター/Roadbuster
+*旋刃&lt;br&gt;ホワール/Whirl
+**V:直升機、H:雙馬尾幼女
+
+====跳動者&lt;br&gt;ジャンプスターター/Jumpstarter====
+*上旋&lt;br&gt;トップスピン/Topspin
+*雙鑽&lt;br&gt;ツインツイスト/Twintwist
+
+{{hidef}}
+
+====火獸博派&lt;br&gt;ファイアーボット/Firebot&lt;br&gt;モンスターボット/Monsterbots====
+*雙叉&lt;br&gt;ダブルクロス/Doublecross
+*巨齒虎&lt;br&gt;グロテス/Grotusque
+*厭蟲&lt;br&gt;リパッグ/Repugnus
+
+====其它====
+*顯視一號&lt;br&gt;テレトラン1/Teletraan I
+** G1起的博派中央電腦，位於博派母艦內
+*感知&lt;br&gt;パーセプター/Perceptor
+** 顯微鏡造型，&lt;b&gt;但是可以滑著走&lt;/b&gt;，少數從G1沿用到TFV的角色
+*天火&lt;br&gt;スカイファイアー/Skyfire→ジェットファイヤー
+**被星嚎幪騙的前狂派科學家
+**從艦隊開始的作品成為柯博文的合體零件
+**日美版不同的是日版較晚登場，因此在部份共通集數中他的戲份會先被剪掉
+*顯影巨人&lt;br&gt;ジャイアント/Halonix Maximus
+*博派X&lt;br&gt;サイバトロンX/Autobot X
+** {{censored|G1時期為重傷的人類Spike的腦波容器，但因為該回看了知名恐怖片《科學怪人》，一時精神散亂而暴走}}
+*迪夫&lt;br&gt;デフコン/Devcon
+*(返)衝&lt;br&gt;(カウンター)パンチ/(Counter)punch
+**(狂)博派雙面諜
+*銀河太空梭&lt;br&gt;ギャラクシーシャトル/Galaxy Shuttle
+
+=== 狂派 ===
+* 幹部
+** G1
+{{hideh|成員}}
+*密卡登&lt;br&gt;メガトロン/Megatron
+**G1:V:P-38手槍
+***後來因為槍支法、而改成軍用載具
+**轉變:{{censored|メガトロン→ガルバトロン→HMメガトロン(LG)}}
+***{{censored|變成頭領後、使用鍍威能型的載具身體}}
+**IDW:
+**V:履帶工程車→戰車、H:白髮中年人
+***{{censored|礦工,發覺功能主義社會的不對勁而開始寫書&lt;br&gt;後來被政治迫害&lt;br&gt;在其他礦工支持下建立狂派&lt;br&gt;爭鬥陣子因為小熊的關係自首並變為博派&lt;br&gt;成為尋光記的主角}}
+***{{censored|原本的火種被某人毀掉、後來在替捕的火種下因此不會變壞}}
+
+*星嚎&lt;br&gt;スタースクリーム/Starscream
+**V:F-15、S:&lt;s&gt;作畫崩壞的三角椎&lt;/s&gt;飛船
+**轉變:{{censored|スタースクリーム→ゴーストスタースクリーム→当梨クリーム(キスぷれ)→UW.GSS→HM.GSS(LG)}}
+***&lt;s&gt;木馬艦長、&lt;/s&gt;科學家、狂派唯一的奸臣,作了不少背叛密卡登的事
+***&lt;s&gt;原廢案是女的&lt;/s&gt;
+***&lt;s&gt;舊唸法是天王．星&lt;/s&gt;
+***在2010登基時被鍍威能射殺,成為幽靈、還能附身在各種生物上
+***IDW反而{{censored|&lt;s&gt;金蟲代領便當、鍍威能是另外的人所以&lt;/s&gt;}}沒死,&lt;br&gt;還成為{{censored|震盪波作弄下的}}民選領導
+
+*聲波/音波&lt;br&gt;サウンドウェーブ/Soundwave
+**V:&lt;s&gt;跟不上時代的&lt;/s&gt;錄音機、人造衛星、跑車、休旅車、S:宇宙船
+***轉變:サウンドウェーブ→音爆/サウンドブラスター/Soundblaster→HM.SW(LG)
+***&lt;s&gt;訓獸師&lt;/s&gt;
+***&lt;s&gt;槍械射不穿的情況下&lt;/s&gt;與爆音肉博戰死(你們的臂力到底多強?),被鍍威能改成音爆重生
+
+*震盪波&lt;br&gt;レーザーウェーブ/Laserwave→ショックウェーブ/Shockwave
+**V:光線槍(星際麥林)、&lt;s&gt;和諧後的&lt;/s&gt;宇宙船
+**狂派在賽博坦的留守、狂派唯一的忠臣
+***在LG成為巨蟹的&lt;s&gt;偽娘&lt;/s&gt;偶像經記人
+**IDW:
+***{{censored|轉變:Senator(參議員)→Decepticon(被迫害後)→Onyx Prime(跑到古代後頂替)}}
+{{hidef}}
+
+====噴射狂派&lt;br&gt;ジェットロン/Jetron&lt;br&gt;ジェットコン/Jeticons&lt;br&gt;搜索者/シーカー/Seeker====
+*由星嚎領軍的部隊&lt;s&gt;成員多半都是他的同模換色&lt;/s&gt;
+{{hideh|成員}}
+====星嚎型====
+*星嚎&lt;br&gt;スタースクリーム/StarScream
+*天曲&lt;br&gt;スカイワープ/Skywarp
+*雷破&lt;br&gt;サンダークラッカー/Thundercracker
+*陽暴&lt;br&gt;サンストーム/Sunstorm
+*酸暴&lt;br&gt;アシッドストーム/Acidstorm
+*熱連&lt;br&gt;ホットリンク/Hotlink
+*滴流&lt;br&gt;ビットストリーム/Bitstream
+
+====尖頭型&lt;br&gt;コーンヘッド/Coneheads====
+*沖壓&lt;br&gt;ラムジェット/Ramjet
+*推力&lt;br&gt;スラスト/Thrust
+*挽歌&lt;br&gt;ダージ/Dirge
+
+====進化版====
+*滑流&lt;br&gt;スリップストリーム/Slipstream
+**成員中唯一的女性
+***透過詐騙的管道偷渡到LG世界
+{{hidef}}
+
+====昆蟲狂派&lt;br&gt;インセクトロン/Insectron&lt;br&gt;インセクコン/Insecticons====
+*&lt;s&gt;又稱害蟲群&lt;/s&gt;
+{{hideh|成員}}
+====G1====
+*回扣&lt;br&gt;キックバック/Kickback
+*彈殼&lt;br&gt;ボンブシェル/Bombshell
+*彈片&lt;br&gt;シャープネル/Shrapnel
+====DX====
+*毒液&lt;br&gt;ヴェノム/Venom
+*劈鋪&lt;br&gt;チョップショップ/Chop Shop
+*阻塞&lt;br&gt;バラージ/Barrage
+*洗劫&lt;br&gt;ランサック/Ransack
+{{hidef}}
+
+*反光&lt;br&gt;リフレクター/Reflector
+**由光譜/スペクトロ/Spectro、取景/ビューファインダー/Viewfinder、望遠/スパイグラス/Spyglass組成的相機
+***&lt;s&gt;重出的Siege版必須買三隻一樣才能組成&lt;/s&gt;
+
+* 2010
+{{hideh|成員}}
+*鍍威能&lt;br&gt;ガルバトロン/Galvatron
+**獨陷的傀儡
+***IDW則不是密卡登,而是古代鬥士{{censored|、還有個&lt;s&gt;被砍掉重鍊的&lt;/s&gt;兄弟雅希}}
+
+*狂飆&lt;br&gt;サイクロナス/Cyclonus
+**V:前翼機、H:黑人女教師
+**副官、兼任目標槍手
+***&lt;s&gt;在IDW成為尾門的保母(誤)&lt;/s&gt;
+
+*災禍&lt;br&gt;スカージ/Scourge
+**率領著2到7號機體的掃蕩隊/スウィープス/Sweeps
+***&lt;s&gt;叛變的A3、名字被一堆人用走...&lt;/s&gt;
+{{hidef}}
+
+====恐怖狂派&lt;br&gt;ホラートロン/Horrortron&lt;br&gt;ホラーコン/Horrorcons====
+*猩顏&lt;br&gt;エイプフェイス/Apeface
+*斷龍&lt;br&gt;ナップドラゴン/Snapdragon
+
+====雙體狂派&lt;br&gt;ツーインワン/Two-in-One&lt;br&gt;デュオコン/Duocons====
+*鬥阱&lt;br&gt;バトルトラップ/Battletrap
+*飛輪&lt;br&gt;フライホイール/Flywheels→踏空/スカイトレード/Skytread
+
+====搶奪者&lt;br&gt;プレデター/Predators====
+{{hideh|成員}}
+*天打&lt;br&gt;スカイクエイク/Skyquake
+*潛行&lt;br&gt;ストーカー/Stalker
+*俯衝&lt;br&gt;スカイダイブ/SkyDive
+*獵鷹&lt;br&gt;ファルコン/Falcon
+*爪&lt;br&gt;タロン/Talon
+*圈套&lt;br&gt;スネアー/Snare
+{{hidef}}
+
+====其它====
+*威叢&lt;br&gt;メガプレックス/Megaplex
+**密卡登的影武者
+
+===???===
+====磁帶/カセット/Cassette====
+{{hideh|成員}}
+====磁帶狂派&lt;br&gt;カセットロン/Cassettron====
+*發狂&lt;br&gt;フレンジー/Frenzy
+**同模:雷響/ランブル/Rumble
+*豹&lt;br&gt;ジャガー/Jaguar→摧殘/ラヴェッジ/Ravage
+**同模:閃耀/グリット/Glit
+*鷹&lt;br&gt;コンドル/Condor→雷射喙/レーザービーク/Laserbeak
+**同模:電鋸/バズソー/Buzzsaw
+*鼠蝠&lt;br&gt;ラットバット/Ratbat
+*強殺&lt;br&gt;オーバーキル/Overkill
+*激鬥&lt;br&gt;スラッグフェスト/Slugfest
+*轉面&lt;br&gt;フリップサイズ/Flipsides
+**女性、曾跑去磁帶博派臥底
+*惱盒&lt;br&gt;スクォークボックス/Squawkbox
+**惱論/スクォークトーク/Squawktalk和獸盒/ビーストボックス/Beastbox的合體
+
+====磁帶博派&lt;br&gt;カセットボット/Cassettbot====
+*播音&lt;br&gt;ブロードキャスト/Broadcast→爆音/ブラスター/Blaster
+**V:&lt;s&gt;同樣跟不上時代的&lt;/s&gt;收音機
+***轉變:BC→雙聲/ツインキャスト/Twincast→HM.TC(LG)
+
+*鋼顎&lt;br&gt;スチールジョー/Steeljaw
+**同模:夜行/ナイトストーカー/Nightstalker
+*衝角&lt;br&gt;アムホーン/Amhorn→ラムホーン/Ramhorn
+*倒帶&lt;br&gt;リワインド/Rewind
+**同模:快轉/イジェクト/Eject、王鳴/ロザンナ/Rosanna(女性)
+*日鷹&lt;br&gt;サンドル/Sundor
+*分貝&lt;br&gt;デシベル/Decibel
+**噪音/ノイズ/Noise和造影/グラフィ/Graphy的合體
+*出路&lt;br&gt;レッグアウト/Legout
+**困境/ダイル/Dile和/蜥蜴/Zaur的合體
+*條紋&lt;br&gt;ストライプス/Stripes
+{{hidef}}
+
+====多變/チェンジャー====
+*多於一種變形型態
+
+{{hideh|成員}}
+====雙變&lt;br&gt;ダブルチェンジャー/Doublecharger&lt;br&gt;超能博派/オムニボット/Omnibot====
+*超越&lt;br&gt;オーバードライブ/Overdrive
+*凸軸&lt;br&gt;カムシャフト/Camshaft
+*降檔&lt;br&gt;ダウンシフト/Downshift
+
+====鬥變/バトルチャージャー/Battlechargers====
+*&lt;s&gt;黑白無常&lt;/s&gt;
+*奔波&lt;br&gt;ルナボート/Runabout
+*狂跑&lt;br&gt;ルナムック/Runamuck
+
+====三變&lt;br&gt;トリプルチェンジャー/Triplechanger====
+=====D=====
+*閃擊翼&lt;br&gt;ブリッツウイング/Blitzwing
+*星鐵&lt;br&gt;アストロトレイン/Astrotrain
+**&lt;s&gt;特急七號&lt;/s&gt;
+*辛烷&lt;br&gt;オクトーン/Octane
+=====A=====
+*彈簧&lt;br&gt;スプラング/Sprung→スプリンガー/Springer
+*沙暴&lt;br&gt;サンドストーム/Sandstorm
+*舷炮&lt;br&gt;ブロードサイド/Broadside
+**&lt;s&gt;因為作畫崩壞的關係、臉部變來變去...&lt;/s&gt;
+
+====六變&lt;br&gt;シックスチェンジャー/sixchanger====
+*六擊&lt;br&gt;シックスショット/Sixshot
+**與鉻頂有對手戲{{censored|還殺了鉻頂的好友傑克}}
+*六騎&lt;br&gt;シックスナイト/Sixknight
+**同模:快切/クイックスイッチ/QuickSwitch
+*極擊&lt;br&gt;グレートショット/Greatshot
+**{{censored|六擊為了贖罪、找霸王用超魂之力復活傑克後的姿態}}
+**&lt;s&gt;六面獸王&lt;/s&gt;
+
+====複體/クローン/Clone====
+=====A=====
+*快道&lt;br&gt;ファーストレーン/Fastlane
+*雲耙&lt;br&gt;クラウドレーカー/Cloudraker
+=====D=====
+*猛撲&lt;br&gt;パウンス/Pounce
+*翼展&lt;br&gt;ウイングスパン/Wingspan
+
+====扳機/トリガー/Trigger====
+=====A=====
+*空戰&lt;br&gt;ドッグファイト/Dogfight
+*後街&lt;br&gt;バックストリート/Backstreet
+*覆蓋&lt;br&gt;オーバーライド/Override
+=====D=====
+*曲軸&lt;br&gt;クランクケース/Crankcase
+*騷動&lt;br&gt;ラッカス/Ruckus
+*風掃&lt;br&gt;ウインドスウィーパー/Windsweeper
+{{hidef}}
+
+== 影像作品 ==
+=== 電視動畫 ===
+* G1系列
+** 共包含以下五部作品，算是所有變形金剛系列的基礎
+*** 戦え!超ロボット生命体トランスフォーマー
+*** 戦え!超ロボット生命体トランスフォーマー 2010
+*** トランスフォーマー ザ☆ヘッドマスターズ
+*** トランスフォーマー 超神マスターフォース
+*** 戦え!超ロボット生命体 トランスフォーマーV
+**** 這部的要素後來被勇者系列繼承&lt;s&gt;，因此俗稱第零勇者&lt;/s&gt;
+** &lt;s&gt;一堆作畫崩壞&lt;/s&gt;
+** &lt;s&gt;不能真槍實彈、結果只有光線槍&lt;/s&gt;
+** &lt;s&gt;然後打爆還能拼回來、不能流血或打死&lt;/s&gt;
+** 美版的故事則是僅承認到第二部2010。
+
+* Beast Wars系列
+** 與G1系列的變形金剛採用汽車、飛機等機械為藍本不同，本系列新登場的變形金剛清一色以野獸、昆蟲或恐龍為主
+** 台灣翻譯為「百變金剛」系列&lt;s&gt;，因為[[星爺]]同名電影的關係，導致難以搜尋&lt;/s&gt;
+** 共包含以下數部作品：
+*** Beast Wars: Transformers
+**** 共三季，第二季跟第三季在日本則以《ビーストウォーズメタルス 超生命体トランスフォーマー》的名義放送
+**** 而在台灣則以百變金剛名義在中都卡通台播放&lt;s&gt;，應該是不少島民的童年回憶&lt;/s&gt;
+**** 順帶一提，這部在當時是罕見的全3D電視動畫作品&lt;s&gt;動物朋友的原型&lt;/s&gt;
+*** ビーストウォーズII 超生命体トランスフォーマー
+**** 本作和下一部作品ネオ為日本原創&lt;s&gt;，因此接不上美版後續&lt;/s&gt;
+**** 在主題歌包含Transformers相關單詞已經成為常態的本系列中，這部前後期兩首OP倒是相當罕見的一個變形金剛相關單字都沒有。
+*** ビーストウォーズネオ 超生命体トランスフォーマー
+*** Beast Machine
+**** 在台灣以《百變金剛 第四季》的名義在中都卡通台播放
+***** 實際上有兩季，但台灣撥放時全都以第四季名義撥放，並無分季
+**** 是Beast Wars: Transformers得續作兼完結篇
+
+* トランスフォーマー カーロボット/Transformers：Robots in Disguise
+** 原先是日本獨自展開的系列，後來因為美版的百變金剛系列玩具銷量太糟，因此美國趕緊引進本系列救急
+** 本作的OP是以數碼獸系列聞名的和田光司負責&lt;s&gt;，也是和田先生生前唱過的唯一一首與數碼獸無關的動畫OP&lt;/s&gt;
+
+* 邪神三部曲系列(マイクロン三部作)
+** 本作是2000年代日美共同製作的系列作，世界觀的設定上跟前述作品完全獨立，不過共通的設定仍然存在。
+** 包含以下作品：
+*** 超ロボット生命体トランスフォーマー マイクロン伝説/Transformers: Armada
+**** 本作在台灣曾經於衛視中文台放映過&lt;s&gt;，相信也是不少島民的童年回憶&lt;/s&gt;
+**** 另外，本作的OP1是在特攝、機器人動畫等作品相當知名的團體サイキックラバー(Phychic Lover)的出道作。
+*** トランスフォーマー スーパーリンク/Transformes: Energon
+**** 作為マイクロン伝説的續篇製作的作品，因此一些設定與登場人物與前作共通
+*** トランスフォーマー ギャラクシーフォース/Transformers: Cybertron
+**** 雖然是第三部作品，但日版原本的世界觀設定上與前兩部完全無關，美版則是強行修改設定與前兩作接上。
+
+* Transformers: Animated/トランスフォーマー アニメイテッド
+** 2007年美國搭著真人電影版風潮製作的新動畫作品，不過世界觀設定上(至少美國原版)是跟真人電影版沒有任何關係。
+
+* Prime系列
+** 2010年推出的動畫系列，包含以下兩部作品：
+*** Transformers: Prime/超ロボット生命体 トランスフォーマー プライム
+**** 2010年推出的動畫作品，採用全3DCG製作。
+*** Transformers: Robots in Disguise/トランスフォーマー アドベンチャー
+**** Prime的後日談&lt;s&gt;哪裡像了&lt;/s&gt;，主角為大黃蜂。
+** 還有以下兩部幼兒日常向作品：
+*** Transformers: Rescue Bots
+*** Transformers: Rescue Bots Academy
+
+* Transformers: Cyberverse/トランスフォーマー サイバーバース
+** 難得一套低成本子供向2.5D動畫，也能令骨灰粉拍案叫絕
+** 人類角色開始影薄
+
+===真人版實拍電影===
+* 於2007年展開的系列&lt;s&gt;，現在比較有名的可能是這個系列&lt;/s&gt;
+* &lt;s&gt;美國軍武展示片&lt;/s&gt;
+** 由於本片拍攝時選擇與美國軍方合作，因此片中出現眾多美國現實的軍武而得到的謔稱
+** &lt;s&gt;不過很多老一票變形金剛迷不滿的正是美國的軍武隨便射個幾發就能幹掉變形金剛的演出&lt;/s&gt;
+*這個系列也是在G1時只是配角的大黃蜂人氣直昇的主因，甚至影響到了後續大黃蜂的形象&lt;ref&gt;幾乎都是黃色跑車，背後有車門形成的翅膀，而且因為發聲器壞掉沒辦法說話。&lt;/ref&gt;&lt;ref&gt;不過黃色跑車形象也連帶影響到另一角色激射/Hot Shot，因為在激射活躍的邪神三部曲中他也是黃色跑車，導致不少看07年電影入坑後回去補舊版又沒看原文的人堅稱翻譯組把大黃蜂的名字亂翻&lt;s&gt;，結果是Animated開始激射被改成藍色&lt;/s&gt;&lt;/ref&gt;
+
+* Transformers/變形金剛
+** 第一部真人電影版，導演為麥可貝，男主角山姆由席亞‧李畢夫飾演
+* Transformers: Revenge of the Fallen/變形金剛：復仇之戰
+** 第二部真人電影版，於2009年上映
+** 由於本片籌備期間歷經美國劇本家集體大罷工事件，似乎也因此影響了劇本，導致評價很糟。
+* Transformers: Dark of the Moon/變形金剛3
+** 接續復仇之戰的劇情，三部曲正式畫下句點。
+** 因為拍攝前在前兩部演出女主角蜜琪的梅根‧福克斯傳出與導演麥可貝鬧翻的消息，最後片中蜜琪並未登場而是由新角色卡莉接替女主角的位置
+*** &lt;s&gt;但編者覺得卡莉有些台詞實在古怪到像是給蜜琪講才合理，特別是後半段嗆密卡登那幾句&lt;/s&gt;
+
+* Transformers: Age of Extinction/變形金剛4：絕跡重生
+** 第四部真人電影版，雖然主角換成馬克‧華博格飾演的凱戴耶格，但劇情接續第三集
+** &lt;s&gt;目前評價最糟的一部&lt;/s&gt;
+*** 問題多的難以勝數，大致而言是前三集的問題非但沒有改善，反而還惡化了
+*** 本片的[[支那|舔中]]情節也是讓近年來對於中國崛起以及中國資金滲透至歐美好萊塢的反映實例，但引入了中國情節與背景設定也沒有讓中國觀眾感到特別滿意
+*** 由於爵士在第一集就已經被撕成兩份而死、第三集鐵皮殉職、這一集中飛輪更是淒慘退場，第一集的博派班底到了這集就只剩下柯博文與大黃蜂，也讓很多從第一集就看到現在的老觀眾相當不滿。
+* Transformers: The Last Knight/變形金剛5：最終騎士
+** 第五部真人電影版&lt;s&gt;，因為票房太糟導致系列[[砍掉重練]]，某方面來說評價可能比前一部還糟&lt;/s&gt;
+
+* Bumblebee/大黃蜂
+** 外傳電影，講述第一部電影數十年前大黃蜂與一名人類少女接觸時發生的故事。
+** 假外傳之名行重開機之實（半誤）
+*** 部分相關細節跟先前的版本完全對不上，包括：柯博文來到地球的時間，漫畫版中以時間點來看不應該登場在地球的聲波登場，角色的造型和先前版本相比都不同（以G1為準，唯獨大黃蜂是用先前系列下去改&lt;s&gt;但形狀還是不一樣&lt;/s&gt;）
+** 可能是目前評價最高的一部，唯一槽點是{{censored|預告片裡大家以為是天王星的閃電翼表現的活像Last Boss結果在開頭沒多久就被大黃蜂炸死}}
+
+* Transformers: Rise of the Beasts/變形金剛：萬獸崛起
+** 預計2022年上映，麥可貝已退出團隊
+** 時間線接續樓上
+
+==相關連結 ==
+*[[勇者系列]]
+**[[變形金剛合體系列]]&lt;br&gt;[[變形金剛 戰士系列]]&lt;br&gt;[[變形金剛 基地系列]]&lt;br&gt;[[變形金剛 女戰士系列]]
+*[https://tfwiki.net TFwiki]&lt;br&gt;[https://twitter.com/hashtag/カスタムTF?src=hash カスタムTF]&lt;br&gt;[https://www.shapeways.com/marketplace/games/toys?facet%5BpdcId%5D%5B0%5D=553 shapeways]&lt;br&gt;[http://ms-hi.com/contents/ls/tag/?word=TF%E6%94%B9%E9%80%A0 TF改造]&lt;br&gt;[https://www.tinami.com/search/list?keyword=トランスフォーマー&amp;genrekey=1 TINAMI]&lt;br&gt;
+*[https://www.fg-site.net フィギュアコミュニティサイト]
+
+== 備註 ==
+&lt;references /&gt;
+
+==回應 ==
+[[{{TALKPAGENAME}}]]
+
+[[Category:變形金剛系列|*]]

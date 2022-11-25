@@ -1,0 +1,894 @@
+{{h0|初音ミク/ 初音未來 }}
+{|class="wikitable" style="margin:1.5em auto; text-align:center;"
+|-
+|本條目歡迎有興趣的愛好者加以補完。
+|-
+|初音ミク是不會在軟體使用過程中出現的&lt;s&gt;，所以買回來後不要一直盯著包裝盒&lt;/s&gt;
+|}
+[[File:img1982.jpg|216px|right]]
+
+== 軟體解說 ==
+* CRYPTON社&lt;ref&gt;CRYPTON社負責聲音收錄/調整、角色設計/管理和販售&lt;/ref&gt;販售的音聲合成桌上音樂軟體VOCALOID 2&lt;ref&gt;YAMAHA開發的語音合成引擎&lt;/ref&gt; 角色主唱系列的第一作，傳說的開始。
+** 依照慣例，軟體名稱跟角色名稱相同。
+**「初音」是指「最初的聲音」&lt;ref&gt;&lt;s&gt;然而實際上最初的VOCALOID2製品並不是初音, 初音只是最初發售的VOCALOID2製品&lt;/s&gt;&lt;/ref&gt;, 「ミク」是指未來。
+*** 又有&lt;s&gt;無視意思&lt;/s&gt;直接音譯的暱稱，如「米苦」、「米哭」、「咪咕」等。
+* 由聲優[[藤田咲]]提供原聲。&lt;ref&gt;八卦:原本是計劃淺川悠提供原聲，但因為淺川前往海外留學所以換成藤田咲，另外淺川自身則是擔任了巡音流歌的聲音提供者。&lt;/ref&gt;
+**藤田咲的聲音跟VOCALOID的相性良好, 使初音在同類製品中較容易使用。
+* 只需輸入音調、歌詞則可發出聲音，亦可以調整震音、音速等的參數，最多能夠支援16音軌合音，亦支援即時演奏、對應ReWire。製作完成後會以WAV格式輸出，但軟體本身只可做出歌唱部分，伴奏音聲需要使用其他音樂軟體合成。
+* '''軟體並非設計給初學者，初接觸電子音樂製作的用戶需要一段時間適應'''。&lt;s&gt;所以不要因一時衝動而把初音變成[[VOCALOID衍生品種#弱音ハク|弱音]]&lt;/s&gt;&lt;br&gt;[[File:img3043.png|thumb|307px|初音ミク的使用介面&lt;s&gt;，不用再找了...&lt;/s&gt;|center]]&lt;br&gt;
+=== 配置 ===
+* 微處理器：Pentium 4 2GHz / Athlon XP 2000+以上（推薦Pentium4 2.8GHz / Athlon 64 2800+以上）
+* 作業系統：Windows XP / Vista（Vista時推薦單機使用）
+* RAM：512MB以上（推薦1GB以上，使用Real-time VOCALOID2 VST instrument時推薦2GB以上）
+* 其他：2GB的硬碟容量（軟體的實際容量約809MB）
+
+=== 紀錄 ===
+* V2至少售出約55000套, 已登記用戶約15400人&lt;ref&gt;出自官方[http://twitter.com/vocaloid_cv_cfm CV系列的twitter]&lt;/ref&gt;,有名字和長期投稿的只有約1600人。&lt;ref&gt;只有2.9%的用家不是弱音, 所以買之前請考慮清楚。&lt;/ref&gt;
+* VOCALOID系樂曲約有50%都是初音作品。&lt;s&gt;因此有時初音會被戲稱是「新人殺手」，因為V家其他人再怎麼努力，用家就是比不上她。&lt;/s&gt;
+* 2015/12/15時在[[ニコニコ動画]]共有66,179首初音原創樂曲,其中達成10萬再生的只有1.7%
+
+==[http://www.crypton.co.jp/mp/pages/prod/vocaloid/cv01a.jsp CV-01A Miku Append] ==
+[[File:img3106.png|225px|right]]
+* 於2010年4月30日發售的追加聲音資料庫, 需要有初音本體才能運作。
+* "Append" 有附加的意思。目的是增加表情, 並不是強化本體。
+* 隨著當日的氛圍與心情收錄音源。例如藤田咲心情有些低落的時候便錄製了dark。
+* 一共有6個追加聲音資料庫。
+** '''sweet'''(小孩聲)
+***擅長歌曲TEMPO:55-155BPM; 音域:F3-D5
+** '''dark'''（比較成熟的聲音）
+***擅長歌曲TEMPO:60-145BPM; 音域:D3-B4
+** '''solid''' (發音力度加強)
+***擅長歌曲TEMPO:70-170BPM; 音域:E2-G4
+** '''light'''（活潑清爽系）
+***擅長歌曲TEMPO:85-175BPM; 音域:A3-D5
+** '''vivid'''(滑舌明瞭化)
+***擅長歌曲TEMPO:95-180BPM; 音域:G3-D5
+** '''soft'''(高音部分減弱)
+***擅長歌曲TEMPO:65-160BPM; 音域:D3-C5
+** 加上本體共7個聲音資料庫, 互相組合使用以達到最佳效果。
+* 人設是浅井真紀。
+* VOCALOID 3的開發前置工作。VOCALOID 3開發的時候會繼續研究如何增加或者改變各種音質(表情)的變化。
+* 雖然使用新的錄音方法, 但趕不上使用YAMAHA最新開發的VOCALOID &lt;s&gt;錄音咒文&lt;/s&gt; 連續音音源錄音。
+* &lt;s&gt;This way...&lt;/s&gt;
+&lt;br&gt;
+&lt;br&gt;
+[[File:img12808.png|150px|right]]
+
+== [http://www.crypton.co.jp/mp/pages/prod/vocaloid/mikuv3_english.jsp 初音ミク V3 ENGLISH] ==
+* 於2013年8月31日發售之MIKU V3化第一彈，只包含一個英文聲庫
+* 帶異國情調，透明感的女聲
+* 擅長的曲種：House, Techno, Cross Over
+* 擅長的節奏：100 - 130BPM
+* 擅長的音域：B2 - B3
+
+== [http://www.crypton.co.jp/mp/pages/prod/vocaloid/mikuv3.jsp 初音ミク V3] ==
+* &lt;s&gt;不是[[假面騎士系列|假面騎士V3]]。&lt;/s&gt;
+* 於2013年9月26日發售、MIKU日語音庫的V3化
+* 一共有5個聲音資料庫&lt;s&gt;取代了APPEND&lt;/s&gt;
+** '''ORIGINAL'''
+***清晰可愛，原來的初音未來
+***擅長歌曲Idle pop / dance-based pop:70-150BPM; 音域:A2-E4&lt;br&gt;[[File:img12809.png|220px|right]]
+** '''SWEET'''
+***呼吸聲成分較多，有如甜蜜的耳語
+***擅長歌曲French pop，民謠，電子音樂等:55-155BPM; 音域:F2-D4
+** '''DARK'''
+***冷靜，帶點憂鬱的聲音
+***擅長歌曲Ballads，jazz，folk，ambient等:60-145BPM; 音域:D2-B3
+** '''SOFT'''
+***總體來說是柔和的神態，大家閨秀的聲音
+***擅長歌曲軟搖滾，ballads，folk，ambient等:70-150BPM; 音域:A2-E4
+** '''SOILD'''
+***繃緊的音質，帶張力的聲音
+***擅長歌曲流行曲，搖滾樂，舞曲，電音曲等。:70-170BPM; 音域:E2-G4
+
+== 初音ミク V4 ==
+
+=== [http://www.crypton.co.jp/mp/pages/prod/vocaloid/mikuv3.jsp 初音ミク V4X] ===
+* 2016年8月31日發行，同日發售英語人聲資料庫版本，追加了兩種聲線：
+** '''POWER'''
+*** 強而有力的聲線
+** '''WHISPER'''
+*** 回流自Megpoid V3，聲調比起SOFT更加輕柔的聲線
+* 賣點是新科技{{ruby|E.V.E.C.|Enhanced Voice Expression Control}}，主要功能是模擬歌手的情緒，連強烈與否都能透過參數調整
+** 巡音以及鏡音也支援這個功能，然而除了POWER和SOFT外的聲線並沒有全部支援
+
+=== [https://sonicwire.com/product/virtualsinger/special/mikuv4c 初音ミク V4 CHINESE] ===
+* 2017年9月10日發行
+* 正如其名是支援中文語音的版本，對於伴奏樂器的相容性也有提升
+* [https://youtu.be/sRUfkwDJBTM 使用例]
+
+== [https://sonicwire.com/product/virtualsinger/special/mikunt 初音未來NT] ==
+* 2020年11月發售，提供Original+、Whisper+和 Dark+三種人聲資料庫
+* '''並非使用VOCALOID開發引擎'''，而是C社自家開發的語音合成引擎，因此狹義上不屬於VOCALOID
+* &lt;s&gt;頭髮終於不會影響本體重心了&lt;/s&gt;
+
+== 角色設定 ==
+* 生日：8月31日&lt;ref&gt;發售日期&lt;/ref&gt;
+* 出生地：北海道札幌市&lt;ref&gt;http://www.nicovideo.jp/watch/sm14948723&lt;/ref&gt;
+* 年齡：16歲
+* 身高：158cm
+* 體重：42kg
+* 聲優：[[藤田咲]]
+* 擅長的曲種：偶像流行曲、跳舞流行曲
+* 擅長的節奏：70 - 150BPM
+* 擅長的音域：A3 - E5
+* 使用樂器：YAMAHA DX-7
+
+=== 漫畫版/同人設定 ===
+*除生日外還有「ミクの日」(3月9日)這個紀念日
+*天然
+*[[腹黑]]
+*小惡魔(?)
+*公主病(?)
+*[[蔥]]是必要的
+**&lt;s&gt;[[成句/龍五的手上只要有槍，誰都殺不了他|只要ミク手上有蔥，誰都推不了她]]&lt;/s&gt;&lt;ref&gt;証據(?)→http://www.nicovideo.jp/watch/sm2629116&lt;/ref&gt;
+*除了蔥外，綠白色條紋[[內褲]]也成為ミク的最普遍的標誌。
+*有時被同人畫成巨乳(ミク令人聯想起ミルク(奶)吧?)
+
+=== 愛好 ===
+* [[蔥]]
+* 唱歌
+
+=== 萌屬性 ===
+* [[天然呆|天然]]，幾乎所有二次作品通用
+* 貧乳&lt;s&gt;，也很常被同人畫成巨乳&lt;/s&gt;
+* &lt;s&gt;長到可以打人的&lt;/s&gt;雙[[馬尾]]
+* [[絕對領域]]&lt;ref&gt;不過她穿的到底是過膝長靴還是[[過膝長襪]]+鞋似乎還沒有定論&lt;/ref&gt;
+* 色白
+* [[偶像]]
+* &lt;s&gt;躺著也中槍&lt;/s&gt;
+* [[機娘]](？)&lt;ref&gt;由於ミク衣服上有電子裝置，有人因此把ミク看作機娘，但反對者則認為ミク是擬人化角色。另外鏡音和巡音都有這個情況&lt;/ref&gt;
+
+===雨女傳說 ===
+*跟初音關連的活動舉行當天很多時都不約而同地出現惡劣天氣或者自然災害。&lt;ref&gt;http://www35.atwiki.jp/miku_ame/&lt;/ref&gt;
+{|class="wikitable" style="margin:auto;"
+!日期 !! 活動 !! 天氣狀況
+|-
+|2008年8月23日 || SUPER GT 2008 || 大雨
+|-
+|2009年3月21日 || SUPER GT 2009 || 雨
+|-
+|2009年8月31日 || ミクFES'09（夏） || 颱風 + 3.9級地震
+|-
+|2010年3月9日 || ミクの日感謝祭 || 大雨之後下雪
+|-
+|2010年5月18日 || 金星探測器「破曉號(あかつき)」發射&lt;ref&gt;其上搭載全日本各地的初音未來支持者寄來的圖片和支持文字&lt;/ref&gt; || 日本全國居然只有發射地區有雨&lt;ref&gt;因為天候不佳，導致破曉號延期發射，直到三天後的5月21日才發射升空，並且成功前往金星，結果2010年12月7日進入金星軌道時&lt;s&gt;好死不死就挑這刻&lt;/s&gt;主引擎故障而失敗，所幸在工作人員的努力之下終於在5年後的2015年12月7日用副引擎全力噴射20分鐘，成功投入金星軌道。&lt;/ref&gt;
+|-
+|2010年6月23日 || [[初音ミク Project DIVA Arcade|ProjectDIVA Arcade]]起動初日 || 日本全國大雨
+|-
+|2010年7月29日 || ProjectDIVA 2nd發售 || 雷雨
+|}
+
+===&lt;s&gt;內褲&lt;/s&gt;派系 ===
+* 早年的笑談之一：初音有沒有穿內褲和穿什麼內褲?&lt;ref&gt;VOCALOID七大謎團之一。&lt;/ref&gt;
+* 一直以來都有不同的職人議論這個話題&lt;s&gt;特別是吃飽無事做和無話題的時候&lt;/s&gt;，直到現在都沒有一個確實的答案。
+* 形成各個&lt;s&gt;內褲&lt;/s&gt;派系，其中以白派和縞(條紋)派為最大二派。縞派代表：デッドボールP、白派代表：し（ろぱ）んP　
+* 詳細參考[http://dic.nicovideo.jp/a/vocaloid%E3%81%AE%E3%83%91%E3%83%B3%E3%83%84%E3%83%AA%E3%83%B3%E3%82%AF NICO大百科]
+
+==各方的展開 ==
+
+===漫畫/書籍 ===
+*メーカー非公式 初音みっくす（作者：KEI、出版：ジャイブ）
+*はちゅねミクの日常 ろいぱら!（作者：Otomania、出版：角川書店）
+*初音ミク アンソロジーコミック（ジャイブ）
+*初音ミクMIXING BOX （講談社）
+*みくよん（作：なぎみそ、出版：イースト・プレス）
+*電撃レイヤーズ bible Vol.2 VOCALOID（アスキー・メディアワークス）
+*初音ミクGraphics VOCALOID ART &amp; COMIC（角川書店）
+*[http://miku-yj.net/ はじめての初音ミク]
+*初音ミクの消失 小説版
+*桜ノ雨（さくらのあめ）
+
+===遊戲或程式===
+* '''初音ミク -Project DIVA-''' 見[[初音ミク -Project DIVA-|初音ミク -Project DIVA- 歌姬計畫系列]]條目
+* '''初音ミク Project mirai'''系列
+* [[MikuMikuDance]]
+* 手機遊戲
+** '''Miku Flick'''系列
+** '''初音ミク Live Stage Producer'''(ライブステージプロデューサー) - SEGA發行，已停止營運
+** '''初音ミク ぐらふぃコレクション なぞの音楽すい星''' - CFM 本家營運，於2020年6月30日結束營運
+** '''初音ミク ロジックペイント''' - CFM 本家營運，'''付費應用程式'''
+** '''初音未來：夢幻歌姬''' - 騰訊遊戲營運，已結束營運
+** '''初音未來 -TAP WONDER-''' - Ateam 營運
+** '''[[プロジェクトセカイ カラフルステージ feat. 初音ミク]]''' - SEGA 營運（限日本境內帳戶）
+** '''初音ミク あみぐるジャンプ ''' - CFM 本家營運
+* 手機程式 '''Music Girl 初音ミク'''（日文版限日本境內帳戶，英文版不受前述限制）
+* [[超級機器人大戰]]UX&lt;s&gt;完全想不到的登場&lt;/s&gt;
+** 以「《電脳戦機バーチャロン》シリーズ フェイ・イェンHD」名義參戰，不僅在戰鬥動畫中登場，聲音也由藤田咲配音。
+** &lt;s&gt;雖然也有很多人強調這是フェイ・イェンHD而不是初音未來(設定上這兩者倒也確實不是同一存在，前者是飛燕接觸到後者後誕生的存在)，不過已經搞到這種程度也不能說完全不是吧......&lt;/s&gt;
+** 除了參戰以外，フェイ・イェンHD的戰鬥BGM也由初音未來歌唱&lt;s&gt;成為機戰少數收錄聲音的BGM之一&lt;/s&gt;
+** 一如參戰前眾人預料的，飛燕HD的劇情是與超時空要塞F的兩位歌姬有關，並且在完全覺醒後被雪露稱呼為「祖母一直在尋找的『引風者(風を導き手)』」。
+*** 不過她的劇情還另外與《魔神凱撒SKL》有關係&lt;s&gt;，這個倒是跌破蠻多人眼鏡的&lt;/s&gt;，設定上是魔神凱撒SKL發生地奇械島在故事開始前的動力爐實驗中意外移轉過來的，與電腦戰機系列有關的記憶等在轉移的同時一併失落了。
+*** 基本上關於她的劇情是有經過電腦戰機系列的製作人監修過的&lt;s&gt;，不過毫無疑問對於一個沒有原作劇情的角色而言，UX的劇情幾乎可以說就是她的原作劇情了&lt;/s&gt;&lt;ref&gt;或者某程度上把飛燕HD視作機戰UX原創角色亦不為過&lt;/ref&gt;
+** 雖然說初音未來並不是飛燕HD，但是對飛燕HD而言是非常重要的存在(飛燕HD以「あの子」來稱呼她)，而實際上初音未來「本人」亦在歐洲路線第17章的飛燕HD劇情中在內心對話的場景登場(名稱標記上是「???」，但是有頭像)，不過除了唱歌以外她沒有台詞，同時也是飛燕HD覺醒的重要關鍵。
+*** 甚至因為後面有飛燕HD拯救眾人的劇情，某程度上也可以說如果沒有初音未來的話，主角們可能會掛點。
+*** 另外設定上初音未來是從另一個世界來的&lt;s&gt;可能就是我們玩家所在的現實世界&lt;/s&gt;，只是她偶然遇上了飛燕，然後一起到了UX的世界。
+*** &lt;s&gt;完全覺醒的話數是第39話，同時解禁的招式BGM是電腦戰機系列的代表BGM「in the blue sky」，順帶一提該話主劇情其實是蒼穹之戰神TV版最終話，標題自然也是「蒼穹～そら～」，於是玩家們看到飛燕HD覺醒後驚覺該關標題有捏她而大喊自己想像力不足&lt;/s&gt;
+** 據說初音未來必須借用飛燕HD才能參加機戰，是因為C社本身有規定不准讓初音未來有過度血腥表現，但因為寫得太過籠統，當初就有「初音未來能不能有戰鬥畫面？」的疑問，所以採用這樣隱晦的方式來避開可能違反使用規約的問題。
+* [[人中之龍|人中之龍5]]
+** 劇中角色「澤村遙」可以變身成初音未來的造型。
+* [[神魔之塔]]
+** [[六賢者]]一同跳棚到神魔的合作系列
+*** 其中初音本人就已經推出了8張卡：
+**** 石抽最大獎、石抽二獎（跟KAITO一起在同一張卡）、素材小初音、雙週、地獄級、討伐戰、世界募集（新類型活動）、修羅場雪初音
+
+===演唱會（至2014） ===
+* '''ミクフェス'09（夏）'''
+**日期: 2009年8月31日
+**地點: 東京新木場「STUDIO COAST」
+**參加人數: 約3000人
+**演出嘉賓
+**# 鶴田加茂（ika）&amp;MOSAIC.WAV
+**# デッドボールP
+**# ちーむMOER（(OSTER project、doriko、19's sound factory)）
+**# livetune
+**# supercell
+**官方慶祝初音2週年的演唱會
+**使用了[http://www.item16.com/e-catch/holo/line-up/line-up.htm 透明物料投影技術]
+**使用了PSP版Project Diva的模型演出
+**曲目請參看[http://dic.nicovideo.jp/a/%E3%83%9F%E3%82%AFfes%2709%28%E5%A4%8F%29 ニコニコ大百科]
+
+* '''アニメフェスティバルアジア2009'''
+** 日期: 2009年11月21-22日
+** 地點: 新加坡
+** 初海外公演
+
+* [http://miku.sega.jp/39/ '''ミクの日感謝祭''']&lt;ref&gt;http://dic.nicovideo.jp/a/ミクの日感謝祭&lt;/ref&gt;
+** 日期: 2010年3月9日
+** 地點: Zepp Tokyo
+** 參加人數: 早上晚上二場各約2500人
+** 演出嘉賓：19's Sound Factory／baker／DECO*27／doriko／minato(流星P)／OSTER Project／SAM(samfree)／アゴアニキＰ／小林オニキス／とくP／ぼーかりおどP
+** &lt;s&gt;其實是Project DIVA的廣告大會&lt;/s&gt;&lt;ref&gt;演出歌曲除「ProjectDivaDesu.」外無一例外成為各版本Project Diva的收錄曲，尤其是四個多月後的Project Diva 2nd&lt;/ref&gt;
+** 演出的模型升級成Project Diva Arcade版(PS3版?)的(其中兩首歌除外)
+** 首次有初音以外VOCALOID演出
+** 首次換裝演出
+** 首次有影像媒體發售&lt;ref&gt;2010年9月1日發售，分BD/DVD/CD/UMD四個版本&lt;/ref&gt;
+** 曲目請參看[http://dic.nicovideo.jp/a/%E3%83%9F%E3%82%AF%E3%81%AE%E6%97%A5%E6%84%9F%E8%AC%9D%E7%A5%AD ニコニコ大百科]
+
+* '''初音ミク・フィルムコンサート'''
+** 日期: 2010年8月31日 / 地點: 渋谷シアターTSUTAYA
+** 以播放之前感謝祭片段的形式演出
+** 公佈VOCALOID和Project DIVA未來發展方向
+** &lt;s&gt;SEGA回收之前感謝祭投資的成本和賣周邊產品廣告&lt;/s&gt;
+** 後來擴大到日本全國八個地方同時演出&lt;ref&gt;http://www.barks.jp/news/?id=1000063384&lt;/ref&gt;
+** 世界巡回預定
+***第一站是美國三藩市舉行的[http://www.newpeopleworld.com/festival-programs.html J-Pop Summit Festival]
+***日期:9月18日  / 地點:VIZ Cinema 
+***第二站是美國紐約舉行的NY Anime Festival
+***日期:10月9日  / 地點:NYAF
+***俄羅斯的莫斯科舉行的Japan Pop Culture Festival Vol.2
+***日期:11月20/21日  
+
+* '''初音ミク ライブパーティー 2011 -39’s LIVE IN TOKYO-'''
+** 日期: 2011年3月9日
+** 地點: Zepp Tokyo
+** 主辦：5pb
+** 協力：クリプトン・フューチャー・メディア、SEGA、グッドスマイルカンパニー、AG-ONE
+
+* '''初音ミク ライブパーティー ２０１１ -39's LIVE IN SAPPORO-'''
+** 日期: 原定是2011年5月3日，因地震延期至8月16日，另加開8月17日一場
+** 地點: 札幌市教育文化会館 大ホール
+** 主辦：5pb
+** 協力：クリプトン・フューチャー・メディア、SEGA、グッドスマイルカンパニー、AG-ONE
+
+* '''Hatsune Miku Live in Los Angeles'''
+** 日期： 2011年7月2日
+** 地點： Los Angeles Convention Center
+** 美國ANIME EXPO 2011活動的一部份，以2010年ミクの日感謝祭為基礎的改進版
+
+* '''初音ミク ライブパーティー2011（ミクパ♪） 39's LIVE IN SINGAPORE'''
+** 日期： 2011年11月11日
+** 地點： SUNTEC CONVENTION &amp; EXHIBITION CENTRE
+** 新加坡AFA11- ANIME FESTIVAL ASIA 2011，以8月的ミクパ♪札幌為基礎的改進版
+
+* '''ミクの日大感謝祭'''
+** 日期： 2011年3月8日~9日
+** 地點： TOKYO DOME CITY HALL
+** 兩日間每天兩場，8日為「初音ミクライブパーティー2012 ひる/よる（ミクパ♪）」，9日為「初音ミクコンサート　最後のミクの日感謝祭/ファイナル」
+
+* '''初音ミク ミニライブ DAIBA de DIVA'''
+** 日期： 2012年7月14日~9月2日
+** 地點： 東京Joypolis一樓大舞台
+** 初音ミク Project Diva f的宣傳活動，每日上演兩場，各約15分鐘，只演出'''Weekender Girl'''、'''ODDS&amp;ENDS'''和'''タイムマシン'''三首歌
+ 
+* '''初音ミクと夏祭り！「夏の終わりの39祭り」in横浜'''
+** 日期： 2012年8月29日
+** 地點： 神奈川県横浜市象の鼻パーク内特設会場
+** 初音ミク Project Diva f發售前夜的宣傳活動，以水幕投影出近10米高的Miku演出
+
+* '''初音ミク台湾ファーストコンサート“ミクパ♪”'''
+** 日期： 2012年10月2日(香港)/6日(台灣)
+** 地點： KITEC Star Hall(香港)/Taipeishow(台北展演二館)(台灣)
+** 初音未來首次於香港和台灣公演
+
+* '''初音ミク ライブパーティー2013 in 札幌（ミクパ）'''
+** 日期： 2013年2月9日及10日
+** 地點： 札幌市民ホール
+** 9日及10日各分昼公演和夜公演兩場
+
+* '''初音ミク ライブパーティー 2013 in Kansai (ミクパ♪)-39's Spring the 3rd Synthesis-'''
+** 日期： 2013年3月9日
+** 地點： 和歌山ビッグホエール
+** 只演一場，日本時間14時開演
+
+* '''HATSUNE Appearance in Knowledge Capital supported by au　夏祭初音鑑'''
+** 日期： 2013年8月3日~7日
+** 地點： 大阪ナレッジシアター
+** 由KDDI旗下品牌au贊助，最後一天日本時間20:00提供ニコニコ生放送直播
+
+* '''HATSUNE Appearance 『夏祭初音鑑』'''
+** 日期： 2013年8月21日~29日
+** 地點： ベルサール秋葉原
+** 8月25日由NOTTV提供直播
+
+* '''初音ミク「マジカルミライ2013」'''
+** 日期： 2013年8月30日
+** 地點： 横浜アリーナ
+** 分昼公演(18歲或以下及其監護人優先)及夜公演兩場
+** 除了NicoNico上有直播外，全世界包括日本都只有於31日日本時間13時開始的延遲轉播
+
+* '''「ANGEL Project presents －HATSUNE　Appearance －」'''
+** 日期： 2013年9月14日~23日
+** 地點： 横浜・八景島シーパラダイス
+
+* '''HATSUNE Appearance「雪祭初音鑑」'''
+** 日期： 2014年2月5日至11日
+** 地點： KRAPS HALL
+** 分'''白場'''和'''藍場'''，白場由初音未來主演，藍場由初音未來/鏡音鈴/鏡音連主演
+
+* '''初音ミク -DAIBA de DIVA- F 2nd'''
+** 日期： 2014年2月27日~4月6日'''共39日'''
+** 地點： 東京Joypolis
+** 初音ミク Project Diva F 2nd的宣傳活動，每日上演三場，各約5分鐘，播出「DECORATOR」的PV，並設初音ミク Project Diva F 2nd(PSV版)試玩及其他遊戲和活動
+
+* '''Project DIVA presents　MATSURI DA DIVA'''
+** 日期： 2014年3月9日
+** 地點： TOKYODOME CITY HALL
+** 分昼公演和夜公演兩場
+
+* '''初音ミク「マジカルミライ2014」'''
+** 日期： 2014年8月30日(大阪場)及9月20日(東京場)
+** 地點： インテックス大阪及東京体育館
+** 大阪場及東京場各分昼公演和夜公演兩場
+** 詳見[http://magicalmirai.com/2014/index_tw.html 官網]
+
+=== 動畫 ===
+* '''新幹線変形ロボ シンカリオン'''
+** 以「發音未來(讀音相同)」之名參與動畫演出
+*** 與其說是初音本人登場，不如說是初音在劇中飾演角色(類似偶像大師中偶像與劇中劇角色的關係)，配音也由藤田咲擔任，並進行後製讓聲音更接近初音未來的感覺。
+**** 也因為嚴格來講設定上已經接近是該作品原創角色，因此雖然是合作角色，但後續集數中亦有登場&lt;s&gt;，在第18集還把應該是女主角的上田梓踹到女性角色排序第二名去&lt;/s&gt;
+**** 不過實際播放後，因為聲音調整得太過像機械，藤田也為了揣摩出機械感而刻意配得有點棒讀，不少觀眾反應頗糟，之後在後續集數中針對這點做了不少調整。
+**** 由於登場時間剛好是官方舉行第一次人氣投票的時候，因此在天時地利人和的加持下不負眾望奪得頭籌。
+*** 設定上是讀小學五年級的11歲(和原設16歲不同)，個性上是認真負責的委員長性格，擅長劍道。
+*** 喜歡過去做為聯絡船，目前停在函館港作為博物館船的摩周丸
+*** 在劇中作為北海道支部H5隼鳥號運轉士而活躍
+** 除了初音本人以外，C社的其他V家角色(MEIKO、KAITO、鏡音雙子、巡音流歌)亦以路人身分在劇中登場(無台詞)。
+
+
+==歌曲 (部分)==
+&lt;s&gt;因為VOCLAOID問世至今稱霸百萬觀看的歌曲已經有至少六百首，所以&lt;/s&gt;詳細可參照Nico百科的[https://dic.nicovideo.jp/t/a/vocaloid%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A%E3%81%AE%E4%B8%80%E8%A6%A7　VOCALOID伝説入り一覧]
+
+===Ievan Polkka ===
+* 原作曲者不明, 動畫、調教: Otomania
+** [http://tw.nicovideo.jp/watch/sm982882 NICO 連結]
+** [http://www.youtube.com/watch?v=kbbA9BhCTko Youtube 連結]
+* 芬蘭民謠，原先由Loituma唱紅，後來加上[http://www.nicovideo.jp/watch/sm2030 甩蔥動畫]後世界各地也跟著流行起來。
+* 詳見[[蔥]]條目。
+* 亞種[http://wiki.komica.org/wiki3/?VOCALOID%E8%A1%8D%E7%94%9F%E5%93%81%E7%A8%AE#rfd01f48 はちゅね]和初音跟蔥拉上關係的發源地。
+
+==='''みくみくにしてあげる♪ 【してやんよ】''' ===
+*作曲者:ika
+** [http://tw.nicovideo.jp/watch/sm1097445 NICO 連結]
+** [http://www.youtube.com/watch?v=FOFwN_6vAQc Youtube 連結]
+* VOCALOID界中無人不懂的名曲。 曾經是VOCALOID的課題曲, 早期VOCALOID都有這曲的改詞翻唱版本, 其中以[http://www.nicovideo.jp/watch/sm1924663 壓路機版本]比較有名。
+* 有名的[http://www.nicovideo.jp/watch/sm1359820 3DPV]
+* 由於DWANGO公司在原作者不知情之下將歌曲信託給[[JASRAC]]，引發了[http://www32.atwiki.jp/mickmiku/ みくみく事件]。&lt;ref&gt;因為歌曲カラオケ化和鈴聲化捲入[[JASRAC]]版權騒動, 事後傳出CRYPTON社和NICO運營關係惡化, 作曲者在NICO消失直到2012年10月才回歸&lt;/ref&gt;
+* &lt;s&gt;[[LOLI組曲|mikumiku，沒有穿內褲]]&lt;/s&gt;
+* &lt;s&gt;不負眾望的&lt;/s&gt;成為第一首1000萬觀看數的V家原創曲，也是NICO站上點閱數最多的[[VOCALOID]]歌曲
+
+==='''Packaged''' ===
+*作曲者: kz(livetune)
+** [http://www.nicovideo.jp/watch/sm1136355 NICO 連結]
+** [http://www.youtube.com/watch?v=M8gIMfyV4Mg Youtube 連結]
+* 跟みくみく並列的早期名曲。
+* 電音系曲, 充分發揮了初音最大優勢。
+* [http://www.nicovideo.jp/watch/sm8346010 MMD PV]
+* &lt;s&gt;由於曲風跟[[我的妹妹哪有那麼可愛！|俺妹]]的OP「irony」很相似，因此有很多人將它們[http://www.nicovideo.jp/watch/sm15628219 remix]一起了...&lt;/s&gt;
+
+=== '''Last Night, Good Night''' ===
+*作曲者: kz, PV: redjuice
+** [http://www.nicovideo.jp/watch/sm4141643 NICO 連結]
+** [http://www.youtube.com/watch?v=C6QsIRxtszA Youtube 連結]	
+* kz在NICO最後投稿的原創曲。
+* NICO排行變更改革風波受害動畫。
+** 2008年8月1日NICO排行變更方法&lt;ref&gt;取消舊有的每時排行, 改為預設週間排行, 直到多人抗議後才補回日間和改變了計算方法的每時排行&lt;/ref&gt;, 上位動畫首當其衝被不滿改革的人連續搗亂一個星期。
+** 作者&lt;s&gt;不滿NICO白目太多&lt;/s&gt; 認為NICO環境不再適合投稿音樂, 宣佈不再NICO投稿。
+* 受到藝術家村上隆欽點成為其首次執導的動畫電影《めめめのくらげ》的主題曲，成為第一部以初音未來歌唱的電影主題曲。
+** &lt;s&gt;至於第一部動畫主題曲則是下面的ブラック★ロックシューター&lt;/s&gt;
+
+=== '''恋スルVOC@LOID''' ===
+*作曲者: OSTER project 
+** [http://www.nicovideo.jp/watch/sm1050729 NICO 連結]
+** [http://www.youtube.com/watch?v=Emt20uQzyuU Youtube 連結]	
+* 跟みくみく並列的早期名曲。
+* 初音的角色歌, 早期公式宣傳時常使用。
+* [http://www.nicovideo.jp/watch/sm8103124 出道2週年記念PV]、[http://www.nicovideo.jp/watch/1235350904 ProjectDIVA公式PV]
+
+===White Letter===
+*詞曲：GonGossP
+* V家以及MMD的早年代表曲目之一。
+
+===カンタレラ===
+* 詞曲：黒うさP
+* 歌名源自[[刺客教條|波吉亞家族]]的家傳毒藥，歌詞則取材自切薩雷和魯克雷西亞間的兄妹不倫戀。
+* 與KAITO合唱，但是到了遊戲版卻變成了鏡音鈴&lt;s&gt;怎麼變同性戀了&lt;/s&gt;
+
+===ミラクルペイント ===
+*作曲者: OSTER project, 繪師: Yおじさん
+** [http://www.nicovideo.jp/watch/sm1588476 NICO 連結]
+** [http://www.youtube.com/watch?v=n5oJzBPYhNU Youtube 連結]	
+* VOCALOID系少有的JAZZ曲風。
+* &lt;s&gt;作者自己還作了藍藍路的版本&lt;/s&gt;
+* 在PSP遊戲《初音未來 Project Diva》中的PV被評為最Ero的PV
+** 後來MMD出現後有人用該軟體重製了此PV，破壞力更強大（鼻血
+*** [http://www.nicovideo.jp/watch/sm12619456 NICO 連結]&lt;ref&gt;強烈建議不要在經濟模式觀看，因為原版的比SEGA製的還要精美&lt;/ref&gt;
+*** [http://www.youtube.com/watch?v=mT1XqwzEgiU Youtube 連結]
+* [http://www.nicovideo.jp/watch/sm3064132 Flash PV]及[http://tw.nicovideo.jp/watch/sm7375261 某美少女風PV]
+
+==='''ハジメテノオト''' ===
+*作曲者:malo
+** [http://tw.nicovideo.jp/watch/sm1274898 NICO 連結]
+** [http://www.youtube.com/watch?v=-8ctHmRAlGE Youtube 連結]	
+* 跟みくみく並列的早期名曲。
+*"初始的聲音", 跟[http://tw.nicovideo.jp/watch/sm4470650 "未来の歌"]為初音未來的角色歌。
+
+==='''メルト''' ===
+* 作曲者:ryo, 繪師: 119
+** [http://tw.nicovideo.jp/watch/sm1715919 NICO 連結]
+** [http://www.youtube.com/watch?v=o1jAMSQyVPc Youtube 連結]
+* 人氣僅次於 みくみくにしてあげる♪ 的VOCALOID名曲。 靠大量翻唱派生來帶起熱潮的NICO產原創曲始祖。
+* メルトショック事件。&lt;ref&gt;有名人的翻唱引起翻唱熱潮, 2007年12月13日派生動畫大量佔據排行榜的事件,令歌手們注目到NICO產原創曲的可能性, 定下了VOCALOID界和NICO翻唱界的供與求的基礎關係。&lt;/ref&gt;
+* 樂團supercell結成開始
+* 第二首1000萬觀看數的V家歌曲
+* 第一首被音樂遊戲機台收錄的V家歌曲&lt;ref&gt;於2009年被[[太鼓達人]]收錄&lt;/ref&gt;
+
+==='''恋は戦争''' ===
+* 作曲者:supercell(ryo), 動畫: 三輪士郎
+** [http://tw.nicovideo.jp/watch/sm2397344 NICO 連結]
+** [http://www.youtube.com/watch?v=sdwUgNyWRZY Youtube 連結]
+* ryo以supercell名義第一作, 首次與其他職人合作製作樂曲。
+* [http://tokumeikibou.blogspot.com/2008/02/222web20.html 222戰爭]&lt;ref&gt;VOCALOID界別貧富懸殊嚴重, ryo壓倒的存在, 引起部分底邊製作人不滿, 爆發這次戰爭。&lt;/ref&gt;
+**主參戰動畫
+***本動畫、代表底邊製作人的[http://www.nicovideo.jp/watch/sm2398205 スイミー/初音ミク]、代表年長組舊有勢力的[http://www.nicovideo.jp/watch/sm2398354 それが僕らのジャスティス]
+**非參戰動畫
+***[http://www.nicovideo.jp/watch/sm2398630 ニコニコ替え唄メドレー Part 1]、[http://www.nicovideo.jp/watch/sm2400989 君をのせて]、[http://www.nicovideo.jp/watch/sm2393562 カンタレラ（第二版）]、[http://www.nicovideo.jp/watch/sm2406770 桜ノ雨 ]
+**[http://www.nicovideo.jp/watch/sm2402948 當天日刊]
+**最後由非參戰的ニコニコ替え唄メドレー勝出(以週刊計算)。
+
+==='''ワールドイズマイン''' ===
+*作曲者:supercell(ryo)
+** [http://tw.nicovideo.jp/watch/sm3504435 NICO 連結]
+** [http://www.youtube.com/watch?v=tczcAHLCyKM Youtube 連結]
+* 英文翻譯：World is mine
+* 初音未來被公認為公主病患者的主因，但事實上也有很多人萌公主。
+** 也因為這首歌初音未來在B站得到了公主殿下的敬稱。
+* 此歌亦是本家遊戲《[[初音ミク -Project DIVA-]]》發售前的試玩歌和正式遊戲的第一首歌。
+* 其他[http://www.nicovideo.jp/watch/sm5473120 PV]
+
+==='''ブラック★ロックシューター''' ===
+*作曲者:supercell(ryo)
+** [http://tw.nicovideo.jp/watch/sm3645817 NICO 連結]
+** [http://www.youtube.com/watch?v=8Vr4rwriyzg Youtube 連結]
+* B★RS是huke的原創人物，ryo在看到原圖被吸引後製作了這首歌。
+* 關於B★RS 請參考VOCALOID欄目的[[VOCALOID#ブラック★ロックシューター(B★RS/黑岩射手)|其他有關角色]]
+* [http://www.nicovideo.jp/watch/sm3673601 ゴム的翻唱版]是名物, 很多人都受他影響。
+* TV動畫版亦使用本曲作為OP(有重新調教過)，本曲意外成為初音未來第一首TV動畫OP。&lt;ref&gt;之前雖已有不少VOCALOID製作人進入動漫音樂界，但皆未使用VOCALOID產品，Black Rock Shooter動畫版則是第一部使用VOCALOID產品做為OP歌手的作品。&lt;/ref&gt;
+
+==='''初めての恋が終わる時''' ===
+*作曲者:supercell(ryo)
+** [http://www.nicovideo.jp/watch/sm5524166 NICO 連結]
+** [http://www.youtube.com/watch?v=VI0we84LUUQ Youtube 連結]
+* 略稱 初恋オワタ。
+* ryo在2008暫別NICO時投稿的原創曲。&lt;ref&gt;2016年時又投稿了罪の名前，點閱已超越百萬&lt;/ref&gt;&lt;s&gt;因初戀(メルト)而成名, 因初戀而結束&lt;/s&gt;
+
+==='''歌に形はないけれど''' ===
+*作曲者:doriko
+** [http://www.nicovideo.jp/watch/sm2085047 NICO 連結]
+** [http://www.youtube.com/watch?v=xJB-izBiPlA Youtube 連結]	
+* 治癒系的歌曲, 有一天殿堂傳說的初音名曲之一。
+
+==='''ロミオとシンデレラ''' ===
+*作曲者:doriko
+** [http://tw.nicovideo.jp/watch/sm6666016 NICO 連結]
+** [http://www.youtube.com/watch?v=QoJlhUvBNyY Youtube 連結]	
+* 英文翻譯：Romeo and Cindrella
+*歌詞引用多部童話故事梗，如仙杜瑞拉、小紅帽、金斧頭與銀斧頭等
+* 某些人認為歌詞相當的引人遐想&lt;ref&gt;例：「不要用咬的嘛　請溫柔地對待我…」「全部都讓我看看嘛，因為是你才讓你看的唷我的（嗶－）」「還裝的下唷全部全部通通塞進來吧」…此外Project DIVA的麥克風形狀也被認為有性暗示&lt;/ref&gt;。
+* [[バンドリ!]]的Poppin' Party有翻唱此曲。
+
+==='''結ンデ開イテ羅刹ト骸''' ===
+*作曲者:ハチ
+** [http://www.nicovideo.jp/watch/sm7550182 NICO 連結]
+** [http://www.youtube.com/watch?v=8rhtaGGMLsg Youtube 連結]	
+* 2009年後半人氣曲之一。
+
+=== '''桜ノ雨''' ===
+*作曲者: halyosy
+** [http://www.nicovideo.jp/watch/sm2406770 NICO 連結]
+** [http://www.youtube.com/watch?v=Bc283_Ic79g Youtube 連結]	
+* 曾有多間中學以這做畢業曲。
+* 投稿一年後再度受注目, 獲得VOCALOID週刊一位。
+* 之後可以說只要每年的畢業時節都會在排行榜上出現，&lt;s&gt;不過2015年好像沒有?&lt;/s&gt;
+* 官網: http://www.sakuranoa.me/
+* &lt;s&gt;麵包&lt;/s&gt;
+* 有被改編成兩本小說。
+
+==='''サイハテ''' ===
+*作曲者:小林オニキス
+** [http://tw.nicovideo.jp/watch/sm2053548 NICO 連結]
+** [http://www.youtube.com/watch?v=Tx51V4IN1fo Youtube 連結]	
+* 小林老師為一個已去世的友人而作，PV風格獨特，又稱「歌葬」。
+* 另有kz氏的[http://tw.nicovideo.jp/watch/sm3088245 Cover]版以及黒鳥P的[http://tw.nicovideo.jp/watch/sm6579424 heavenly mix]
+* [http://www.nicovideo.jp/watch/sm2924410 牆壁繪PV]
+* [[Good Smile Company]]曾以這歌曲的形象製作小型[[黏土人]]。
+
+=== '''＊ハロー、プラネット。''' ===
+*作曲者: ささくれP(sasakure.UK)
+** [http://www.nicovideo.jp/watch/sm7138245 NICO 連結]
+** [http://www.youtube.com/watch?v=_dlyIyfd9s0 Youtube 連結]	
+* 以感動的劇情, 可愛的ドット繪PV有名。
+* 前篇是[http://www.nicovideo.jp/watch/sm6020985 ワンダーラスト]
+* Project DIVA的追加樂曲集「ミクうた、おかわり」中被製成小遊戲。
+* [http://www.nicovideo.jp/watch/sm9390825 其他PV]
+
+==='''初音ミクの消失''' ===
+*作曲者:cosMo(暴走P)
+** [http://tw.nicovideo.jp/watch/sm2937784 NICO 連結]
+** [http://www.youtube.com/watch?v=A4t91rScdSc Youtube 連結]	
+* 這首歌的特殊點在於歌曲開始前的RAP 非常快，快到讓人要唱要換氣也跟不上速度。
+* 相關遊戲《初音未來Project Diva》中就屬這首最難破關，常常很多人PSP按到壞掉還是破不了關讓很多玩家哭。&lt;ref&gt;難是難在節奏超速，但是因為變奏少且曲子短，若能抓到節奏破關並不難。相對的ミラクルペインティング因為是爵士樂所以變奏多，曲子又長，若是沒背起來很難破關&lt;/ref&gt;
+* 音MAD愛用題材
+* 音ゲー定番魔王曲
+* 和暴走P專為[[太鼓達人]]作的「初音ミクの消失～劇場版」不是同一首歌
+
+=== '''Soar''' ===
+*作曲者:流星P
+** [http://www.nicovideo.jp/watch/sm2700265 NICO 連結]
+** [http://www.youtube.com/watch?v=pTVIGE-BuxI Youtube 連結]
+* 機器人動畫OP曲風, [http://www.nicovideo.jp/watch/sm4338565 機動歌姬Vocalion] 的先驅者。
+
+==='''magnet''' ===
+*作曲者:流星P
+** [http://tw.nicovideo.jp/watch/sm6909505 NICO 連結]
+** [http://www.youtube.com/watch?v=GVbYkbhHlNo Youtube 連結]	
+* 為同名的同人專輯的主題曲。後重製一般流通化。
+* 與巡音合唱，為一百合曲(GL曲)。把「鮪蔥配(ネギトロ)」發揚光大的一曲。
+* 不過歌詞其實配上薔薇(BL)、百合甚至是普通的一般向皆通用。在NICO翻唱界大受歡迎。
+* [[神魔之塔]]與初音未來的合作用商標，是以此曲形象為原型所設計，該商標是由該遊戲主角莫莉取代巡音流歌的位置。&lt;br&gt;[[File:TOS Logo ver magnet.png|240px]]
+
+==='''Dear''' ===
+*作曲者:19's Sound Factory
+** [http://tw.nicovideo.jp/watch/sm2651288 NICO 連結]
+*最有名的版本是[http://tw.nicovideo.jp/watch/sm5132988 七人合唱(6名真人+初音)]，V家X真人合唱中原聲在最後一段副歌出場的傳統也是從此而出
+
+==='''The 9th''' ===
+*作曲者:ジミーサムP
+** [http://tw.nicovideo.jp/watch/sm5187488 NICO 連結]
+** [http://www.youtube.com/watch?v=DFCIM7NxUg4 Youtube 連結]
+*歌名指的是現在被編號為矮行星兼小行星第 134340號的原第九行星‧冥王星。
+
+==='''裏表ラバーズ''' ===
+*作曲者:現実逃避P(wowaka)
+** [http://www.nicovideo.jp/watch/sm8082467 NICO 連結]
+** [http://www.youtube.com/watch?v=lkMgY6GKznA Youtube 連結]
+* 早口曲, 驚異的中毒性。
+* &lt;s&gt;最好不要在父母面前開中文字幕&lt;/s&gt;
+* &lt;s&gt;[http://www.nicovideo.jp/watch/sm8842593 配上東方的ナイト・オブ・ナイツ後中毒性DOUBLE]&lt;/s&gt;
+* [http://www.nicovideo.jp/watch/sm8300767 其他PV]
+* 音MAD愛用題材
+
+==='''ローリンガール''' ===
+*作曲者:wowaka(現実逃避P)
+** [http://www.nicovideo.jp/watch/sm9714351 NICO 連結]
+** [http://www.youtube.com/watch?v=p6skE28zc_M Youtube 連結]
+* Rolling Girl，驚異的中毒性, 後來由秋赤音翻唱並自己[http://www.nicovideo.jp/watch/sm9990071 手繪PV的版本]也造成了轟動&lt;ref&gt;附帶一提，秋赤音也是鏡音名曲右肩の蝶的繪師&lt;/ref&gt;。
+
+==='''ワールズエンド・ダンスホール''' ===
+*作曲者:wowaka(現実逃避P)
+** [http://www.nicovideo.jp/watch/sm10759623 NICO 連結]
+** [http://www.youtube.com/watch?v=L0gYBduknLI Youtube 連結]
+* 跟上兩曲一樣的中毒系曲。首次加入LUKA和唱。
+* 週刊老二3連霸
+* 只用了30日就突破100萬再生
+* 推出之後在周刊138號起成為V家周刊萬年推不倒門番霸主&lt;ref&gt;至166期為止盤據28期&lt;/ref&gt;
+* {{censored|曾被指控抄襲，造成wowaka大受打擊有將近一年不再創作}}
+* {{censored|在作者辭世後十二日達成千萬點閱成為神話曲。}}
+
+==='''アンハッピーリフレイン''' ===
+*作曲者:wowaka(現実逃避P)
+** [http://www.nicovideo.jp/watch/sm14330479 NICO 連結]
+** [http://www.youtube.com/watch?v=C6ABzuTnl1M Youtube 連結]
+* &lt;s&gt;反正還是&lt;/s&gt;中毒系曲。
+* 用了4x天突破百萬再生
+* 此曲後Wowaka可說停止在NICO上投稿原創曲的活動，歌詞也是他對於鬱悶創作生涯的抒發
+
+==='''はやぶさ''' ===
+*作曲者：SHO(キセノンP)
+** [http://www.nicovideo.jp/watch/sm10187442 NICO 連結]
+** [http://www.youtube.com/watch?v=OoBW-uhia9A Youtube 連結]
+* 歌名指的是日本發射升空的探測器隼鳥號，是作者為了歌頌隼鳥號即將回到地球而做的。
+** 隼鳥號(はやぶさ)詳情請參照[[隼鳥號]]條目。
+* &lt;s&gt;因為曲調的關係，即使不將隼鳥號是經過重重阻礙後又將回到地球這點算進來都能算燃歌了。&lt;/s&gt;不過有[http://www.nicovideo.jp/watch/sm11050741 比較感人的版本]
+* &lt;s&gt;中間長達兩三分鐘的間奏中記載的天文資訊在台日兩邊反應不一樣(默)&lt;/s&gt;
+* 週刊142號&lt;s&gt;搭著隼鳥號回歸的熱潮+數以萬計的HAYABUSA彈幕衝刺下&lt;/s&gt;獲得第一名。
+** &lt;s&gt;但是V家中的宇宙狂熱粉絲總是不算多&lt;/s&gt;周刊中的評論基本上多半都是「這是什麼鬼」，尤其是台灣版......
+
+==='''こっち向いて Baby''' ===
+*作詞/作曲者:ryo(supercell)
+** [http://www.nicovideo.jp/watch/1278053271 NICO 連結]
+** [http://www.youtube.com/watch?v=oOVFuSP26Qg Youtube 連結]
+* 《PSP遊戲初音未來 Project Diva 2nd》的主題曲，也是整個遊戲少數可以打全曲和有著極大移動幅度的PV
+* 整首歌初音的態度由一開始的傲到最後嬌了起來時超萌殺人（編者個人感想XD）
+
+
+==='''くるみ☆ぽんちお''' ===
+*作曲者:まだ仔(ボーフィーP)
+** [http://www.nicovideo.jp/watch/sm8686165 NICO 連結]
+** [http://www.youtube.com/watch?v=v9nJT4qsLqY Youtube 連結]
+* 少數破百萬的糟糕歌。
+* 有名的週刊除外之一，而且從來都沒解除過
+* 曲名倒過來念就會變成小雞雞☆牛乳
+* [http://www.nicovideo.jp/watch/sm11144386 PV]
+
+==='''ぽっぴっぽー''' ===
+*作曲者:ラマーズP
+** [http://www.nicovideo.jp/watch/sm5508956 NICO本家 連結]
+** [http://www.youtube.com/watch?v=HQgaCVT9Bw8 Youtube PV連結]
+* 野菜汁歌加上奇怪的舞步中毒性很高。
+* 曾經在NICO上流行, 大量產生派生動畫, 作者自己也做了好幾個不同角色的版本。
+** [http://www.nicovideo.jp/watch/sm5993253 PV]
+** [http://www.nicovideo.jp/watch/sm6040129 3D章魚]
+** [http://www.nicovideo.jp/watch/1280373391 ProjectDIVA_PV]
+
+==='''FREELY TOMORROW''' ===
+*作曲者:Mitchie M
+*作詞者:Mitchie M·ЯIRE
+** [http://www.nicovideo.jp/watch/sm15172108 NICO本家 連結]
+** [http://www.youtube.com/watch?v=T2xQnygfgRM Youtube 連結]
+* VOCALOID新一代最速殿堂傳說，2011年7月31日14:36投稿，8月1日01:16便達成十萬再生，僅用時10小時40分鐘便進入殿堂。
+* 8月20日20:40更是達成百萬再生，同樣刷新了最速紀錄。
+* 曲風像是上世紀九十年代的歌曲，然而調教卻是相當了得。
+
+==='''千本桜''' ===
+*作曲者:黒うさP
+** [http://www.nicovideo.jp/watch/sm15630734 NICO本家 連結]
+** [https://www.youtube.com/watch?v=shs0rAiwsGQ Youtube本家 連結]
+* 2011年9月17日投稿，一個月後已達成百萬再生。
+** 2016年2月11日成為最快達成(1088日)千萬傳說曲成就的曲目。
+* 背景設定為結束鎖國到明治維新時期{{ref|小說設定為大正時代風格延續的日本帝國平行世界。}}，但是那時絕對沒有這種&lt;s&gt;和服加上軍服以及長靴加木屐的&lt;/s&gt;打扮。
+** 2013年，出版了《小説 千本桜》，作者與插繪都是原PV設定的一斗丸擔當。2018年加筆修正換封面又重新出版了一套&lt;s&gt;鞭屍騙錢&lt;/s&gt;。
+** 2013年改編為Nico音樂劇，雖然部分設定沿用小說，但劇情發展不同。
+** 2015年，MV中的初音未來與KAITO還出了專門的黏土人模型。
+** 2016年以小說劇情為改編的漫畫開始連載，由石見翔子擔當作畫。
+* PV只要用一隻眼睛看，就會變成3D的。&lt;s&gt;連3D眼鏡都不用戴。&lt;/s&gt;
+* 有著奇高的中毒性。
+* 在投稿後長達多年是毫無挑戰者的萬年門番，直到2017年年中才終於退下第一線
+** 不過仍然徘徊於50名左右，在像是投稿周年等紀念日的時候就會忽然分數飆升重新上榜
+** &lt;s&gt;因為每個星期都要看到一次，當時很多厭倦看到千本櫻的NICO廚就會在播放千本櫻的時候刷「散れ」的彈幕&lt;/s&gt;
+* 派生動畫與マトリョシカ有的拼
+* &lt;s&gt;跟BLEACH死神裡朽木白哉的斬魄刀應該沒什麼關係。&lt;/s&gt;
+* 所有大型音樂遊戲機台唯一'''不能'''在韓國地區遊玩的樂曲
+* &lt;s&gt;居然連變形版[https://www.ettoday.net/news/20180911/1255943.htm 《千本選舉》]、[https://www.youtube.com/watch?v=YaBJFKQREC4 《千本林爸》]都有了（無誤）&lt;/s&gt;
+* 為了彰顯樂曲的&lt;s&gt;民族&lt;/s&gt;特性，相關創作者均有專用的成句熟語稱號：
+**黑兔P「[[戰國BASARA#天我獨尊 松永久秀|{{ruby|天上天下唯我獨尊|てんじょうてんげゆいがどくそん}}]]」
+**一斗丸「{{ruby|桃栗三年柿八年|ももぐりさんねんかきはちねん}}」
+**hajime「{{ruby|限界突破天地創造|げんかいとっぱてんちそうぞう}}」
+**三重之人「{{ruby|眼球破壊過剰演出|がんきゅうはかいかじょうえんしゅつ}}」
+**初音未來「{{ruby|大宇宙歌姬天使|だいうちゅううたひめてんし}}」
+
+===Tell Your World ===
+*作曲者：kz
+** [http://www.youtube.com/watch?v=MGt25mv4-2Q 使用本曲的Google Chrome廣告(原本家)]
+** [http://www.youtube.com/watch?v=PqJNc9KVIZE Youtube本家連結]
+* kz為「Google Chrome X 初音未來」的廣告做的背景音樂。
+* 歌曲有著強烈的kz風格(包含電子風味強烈的初音未來聲音等)，歌詞也充滿感人的句子
+* 不過最讓大家感動的應該是Google用一分鐘就徹底解釋了初音未來是什麼「東西」，不用旁白也不用數據資料，單憑畫面的展現就能讓人徹底明瞭最後一句話「任何人都是創作者」。
+* 歌曲於2012/1/18於iTune Store推出完整版，之後kz亦在Youtube上貼上了PV。
+* 本曲也成為了[[プロジェクトセカイ カラフルステージ feat. 初音ミク|世界計劃 彩色舞台]]的主題曲兼入門曲
+
+===イージーデンス ===
+*作曲者:Mitchie M
+*作詞者:Mitchie M·ЯIRE
+** [http://www.nicovideo.jp/watch/sm16590269 Nico本家連結]
+** [http://www.youtube.com/watch?v=HUgwy2ITuXI Youtube連結]
+* 繼FREELY TOMORROW後又一強作，2012年01月02日投稿，隔日已經達成十萬再生(實際上是一天多幾個小時)。
+* 與先前一樣，曲風也為90年代時期風格，同為神調教
+* 專用彈幕為（＾ω＾三＾ω＾）おっおー（＾ω＾三＾ω＾）おっおー
+
+
+===初音ミクの激唱 ===
+*作曲者:cosMo(暴走P)
+*作詞者:GAiA
+** [http://www.nicovideo.jp/watch/sm11328911 NICO 連結]
+** [http://www.youtube.com/watch?v=UCAqd1OZQ40 Youtube 連結]
+*〈初音ミクの消失〉的續作，從Bad End隨著初音的心態轉變而轉換成為Happy End。
+* &lt;s&gt;Diva系列真‧BOSS曲&lt;ref&gt;初次登場是在《初音未來Project Diva 2nd》，PSP連按就已經讓不少人PSP報銷，想不到[http://www.nicovideo.jp/watch/sm17052786 Arcade版本]更是變態到一個誇張境界......&lt;/ref&gt;，後來被某工廠給超越了&lt;/s&gt;
+
+===リンちゃんなう！ ===
+*作曲者:オワタP
+*作詞者:sezu
+** [http://www.nicovideo.jp/watch/sm16539814 NICO 連結]
+** [http://www.youtube.com/watch?v=Dk9lYzvSmgw Youtube 連結]
+* 鏡音2011年生誕祭曲，與巡音合唱。
+* &lt;s&gt;不要吐槽為何這個被稱作歌&lt;/s&gt;
+* 奇高的快速&lt;s&gt;亂&lt;/s&gt;念詞及感覺惡搞的歌詞，近四個月後達成百萬再生。
+* オワタP說如果達成百萬再生就唱給NICO網民們聽，然後就[http://www.nicovideo.jp/watch/sm17363889 真的去唱了]
+* 有改編成日常向小說「鈴醬NOW！」。
+
+===愛言葉===
+* 詞曲：DECO27
+* 全三首的系列曲，不過節奏遊戲皆僅有收錄第一首。
+* 相當甜蜜的情歌。
+
+===こちら、幸福安心委員会です。===
+* 作曲者: うたたP
+* 作詞者:鳥居羊
+** [http://www.nicovideo.jp/watch/sm18100389 NICO 連結]
+** [http://www.youtube.com/watch?v=XxpL4vN6FUk Youtube 連結]
+* 洗腦曲。&lt;s&gt;幸福萬歲&lt;/s&gt;
+* 曾被改編成同名小說。
+
+===ODDS&amp;ENDS ===
+* 作曲者:supercell(ryo)
+** [https://www.youtube.com/watch?v=iOFZKwv_LfA Youtube 連結]
+* Diva系列第4作〈Project Diva f〉OP曲
+** [http://www.supercell.sc/archives/2012/06/oddsends.html 歌詞是他和初音的事]
+
+===修道少女と偶像少女===
+* 作曲者:cosMo(暴走P)
+* 作詞者:Story Reseacher(cosMo(暴走P)&amp;GAiA)
+* &lt;s&gt;暴走P殘害少女系列第二彈&lt;/s&gt;
+** [http://www.nicovideo.jp/watch/sm14538995 NICO 連結]
+** [https://www.youtube.com/watch?v=mRlPjF0-iIY Youtube 連結]
+* 星之少女與幻奏樂土專輯收錄曲之一
+* 超☆展☆開
+
+===永遠に幸せになる方法、見つけました。 ===
+* 作曲者:うたたP
+* 作詞者:鳥居羊
+** [http://www.nicovideo.jp/watch/sm18726752 NICO 連結]
+** [https://www.youtube.com/watch?v=ijI5Lkatfqk Youtube 連結]
+* 洗腦曲第二彈。&lt;s&gt;太好了，恭喜你成為殭屍。&lt;/s&gt;
+
+===39 ===
+*編曲者:  sasakure.UK &amp; DECO*27
+*作曲者:  sasakure.UK 
+*作詞者:  DECO*27
+** [http://www.nicovideo.jp/watch/1341499584 NICO 連結]
+** [https://www.youtube.com/watch?v=ecU_uJRzhfk Youtube 連結]
+* 寫作39，讀作'''Thank you''' 。
+* &lt;s&gt;寫作39，讀作 ミク (絕對沒誤)&lt;/s&gt;
+* ミク：'''阿咧，怎麼看起來好像我的名字(笑)'''【歌詞捏他】
+* ミク5周年生日曲
+* 感動曲。筆者本來只對VOCALOID有著基礎的認知，由於很多因素並未深入... 
+** 但第一首聽到這首歌，眼淚不禁留下來了...(感動)
+* &lt;s&gt;跟中野家五胞胎的老三無關&lt;/s&gt;
+* '''第二首因為版權到期在Project DIVA街機被下架的曲目。'''&lt;s&gt;@你SEGA&lt;/s&gt;
+
+===すばらしきふらぐのないせかい ===
+*作曲者:うたたP
+*作詞者:うたたP
+** [http://www.nicovideo.jp/watch/sm23302443 NICO連結]
+** [http://www.youtube.com/watch?v=_4nGMciw638 youtube連結]
+* 各種拆死亡FLAG
+
+===すろぉもぉしょん ===
+*作曲者:ピノキオP
+*作詞者:ピノキオP
+** [http://www.nicovideo.jp/watch/sm23648996 NICO連結]
+** [https://www.youtube.com/watch?v=ARt2fVT33Lw Youtube連結]
+* &lt;s&gt;感冒&lt;/s&gt;電波(?曲，一貫的如皮諾丘P的風格，中毒性高
+* &lt;s&gt;[[東方Project|油庫里饅頭]]友情出演，DIVA X的PV中也在背景亂飛&lt;/s&gt;
+
+=== ray ===
+* 作詞・作曲：藤原基央
+* 編曲：BUMP OF CHICKEN
+** [https://www.youtube.com/watch?v=yT_ylSCgY6Q Youtube連結]
+* BUMP OF CHICKEN在2014年推出的歌曲，本來是BUMP OF CHICKEN自己的歌曲，但後來因為合作企劃而推出了讓主唱藤原跟初音未來合唱的版本。
+** 在2014年7月31日的BUMP OF CHICKEN的巡迴演唱會「WILLPOLIS 2014」中正式披露，實現了虛擬人聲與現實歌手首次現場合唱歌曲的成就
+** 另外本曲中初音未來的聲音是由kz調教的&lt;s&gt;，獨特的電音風格應該很多熟悉的人一聽就發現了&lt;/s&gt;
+
+=== 砂の惑星 ===
+* 作詞、作曲：ハチ
+** [http://www.nicovideo.jp/watch/sm31606995 NICO連結]
+** [https://youtu.be/AS4q9yaWJkI Youtube連結]
+* ミク十周年慶祝曲
+* 歌詞中有許多歷代初音（外加一首GUMI）名曲的捏他
+* 現今為NICO最快達成百萬觀看數的V家曲{{ref|僅僅'''6'''天，比前紀錄保持者Freely Tomorrow的20天快了兩週}}，Youtube也已經超過3600萬觀看數
+* PV主題為「'''反省'''」以呼應當時十周年紀念專輯標題「Re:Start」
+** 因為PV主題的設計，導致該曲成為CFM自家遊戲《初音未來 Graphy Collection 謎之音樂彗星》唯一在《魔法未來》關卡系列不收錄的「同名實體演唱會活動主題曲」{{ref|1=該手遊於2014年10月底開始營運，2015年首設「魔法未來」系列關卡，配置樂曲固定為當年的大會主題曲，但2017年的關卡卻改收錄[https://magicalmirai.com/2017/contest/ 《魔法未來2017》樂曲競賽]的優勝作品樂曲，打破了遊戲以來的慣例。}}。
+
+===妄想感傷代償聯盟===
+* 詞曲：DECO27
+* 歌詞相當憂鬱，不過曲調相當輕快。
+
+===ゴーストルール===
+* 詞曲：DECO*27
+* CFM手遊《初音未來 GRAPHY COLLECTION 謎之音樂彗星》第二代主題曲
+* 介紹同下，同樣都是跟分手有關的歌。
+* '''Project DIVA街機版第一首因為版權到期（一度）被下架的曲目。'''
+
+===ヒバナ===
+* 詞曲：DECO27
+* DECO27近年的代表作，可說是音遊機台必收的V家曲目之一。
+
+===気まぐれメルシィ===
+* 詞曲：八王子P
+* 女孩對於男友花心的責難&lt;s&gt;雖然MV看不出來&lt;/s&gt;。
+* 知名的MMD五人合舞曲目之一。
+
+=== INDETERMINATE UNIVERSE ===
+* 作詞、作曲：ゆうゆ
+* 動畫版[[煙草]]的片尾曲，雖然大家都聽得出歌唱的是MIKU，但片尾標記歌手為「ゆうゆ feat. ケムリクサ」
+** {{censored|會採取如此標記的原因大概是為了在最終回於副歌段從MIKU切換為聲優版的演出(一說象徵「無機的煙草(MIKU)→有機的生命(聲優)」)}}
+* &lt;s&gt;萬用ED、ケムリクサED万能説&lt;/s&gt;
+** 由於歌曲有一段鋼琴演奏的前奏，而在動畫中這段前奏會刻意疊在本片最後幾秒鐘並且帶入片尾&lt;ref&gt;以此手法演出的動畫也不並不罕見，例如《CITY HUNTER》、《鋼彈SEED》系列都運用了同樣的手法&lt;/ref&gt;，不少NICO眾發現這段ED前奏任何動畫幾乎都能疊，之後此一TAG相關的動畫隨即如雨後春筍般冒出。
+
+=== テオ===
+* 作詞、作曲：Omoi
+* 中文譯作「將手」，歌詞甜蜜的VDM情歌。
+
+==翻唱曲(部分) ==
+===Os-宇宙人 ===
+* 調教：タカオカミズキ
+* [http://www.nicovideo.jp/watch/sm14990520 NICO試聽連結]
+* 使用Append Solid&lt;s&gt;，不過調教的結果大部分聽眾都表示「別騙我了這是原曲吧」。&lt;/s&gt;
+
+==有名初音的製作人介紹 ==
+* 主條目：[[VOCALOID製作人一覽]]
+
+==其他 ==
+{|class="wikitable" style="margin:auto;"
+|&lt;s&gt;跟初音有關的[[捏他]]，想到放什麼就放什麼吧&lt;/s&gt;
+|}
+
+* [[亂入]]紀錄
+** 初音(本尊)亂入[http://www.youtube.com/watch?v=FPUvTDPA3mI 俗・さよなら絶望先生13話][[File:img3019.jpg|center]]
+** 初音亂入[[笨蛋，測驗，召喚獸]]11話[[File:img3026.jpg|378px|center]]
+** [http://www.youtube.com/watch?v=peTP8q1NM8A 宇宙をかける少女 2卷CM]CV是藤田咲的聲音加工[[File:img3032.jpg|354px|center]]
+** 穿越宇宙的少女第25集在背景出現
+** UN-GO第一集疑似亂入
+** 氷果中的COSPLAY[[File:img8560.jpg|248px|center]]
+** -SUPER SONICO THE ANIMATION- 第10話出現GSR的痛車&lt;br&gt;[[File:img15413.jpg|576px|center]]
+
+* &lt;s&gt;[http://zh.wikipedia.org/wiki/%E5%B9%B2%E5%9F%8E%E8%BB%8A%E7%AB%99_(%E8%8A%B1%E8%93%AE) 臺灣曾有一座以她為名的火車站]&lt;/s&gt;&lt;ref&gt;本站設站時叫「初音」、發音為hatsune，先後改名叫「初英」、「南華」、「干城」，目前已廢站。&lt;/ref&gt;
+**在上野還有一條小徑以其為名
+
+==相關條目 ==
+* [[VOCALOID]]
+* [[鏡音リン・レン]]
+* [[巡音ルカ]]
+* [[メグッポイド]]
+* [[ニコニコ動画]]
+* [[VOCALOID衍生品種]]
+* [[UTAU]]
+* [[蔥]]
+* [[世界計畫 繽紛舞台！ feat.初音未來]]
+
+==相關連結 ==
+* [http://www5.atwiki.jp/hmiku/ 初音ミク Wiki]
+* [[wikia:w:c:vocaloid|Vocaloid Wiki]]
+* [[wikia:w:c:vocaloidlyrics|Vocaloid Lyrics Wiki]]
+* [http://www9.atwiki.jp/vocaloidchly/pages/1.html vocaloid中文歌詞wiki]
+* [http://youtu.be/OThLBoozkIU TheFineBros:小朋友看初音未來的反應(KIDS REACT to Hatsune Miku)中文字幕]
+** 請觀看的網友尊重不同聲音，勿不理性批評
+
+==回應 ==
+* [[{{TALKPAGENAME}}]]
+
+{{VOCALOID}}
+
+==備註==
+&lt;references /&gt;
+
+[[Category:VOCALOID]]

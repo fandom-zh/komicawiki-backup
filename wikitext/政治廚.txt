@@ -1,0 +1,24 @@
+
+
+{{h0|政治廚/&lt;s&gt;黨工&lt;/s&gt;}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+{{stub row}}
+|-
+| style = "text-align: center; "  | 給惡意破壞者的話：此頁早已被無數&lt;s&gt;政治廚&lt;/s&gt;島民備份，奉勸當事人無謂白費心機！ 
+|-
+| style = "text-align: center; "  | 也請部份島民備份時注意備份格式 
+|-
+| style = "text-align: center; "  | &lt;s&gt;網軍乙&lt;/s&gt; 
+|}
+==解說 ==
+* 扯到政治就開始暴走的[[廚|廚房]]。
+
+== 投票 ==
+* 對付政治廚的最佳方法是?（歡迎島民補上）
+{{vote|section=1}}
+
+==回應(黨工要做文章的話請大家無視) ==
+[[{{TALKPAGENAME}}]]
+&lt;!-- コメントの挿入 --&gt;
+&lt;!-- #comment(noname) --&gt;

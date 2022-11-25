@@ -1,0 +1,54 @@
+{{h0|2cat}}
+
+== 解說 ==
+=== 簡介 ===
+* 2cat 雙貓聯合站是一個以動漫畫、遊戲為主題的中文圖片討論板聯盟。網站管理人是 misatocat 氏。
+=== 名稱由來 ===
+* 2cat 是聯合站成立後，misatocat 在管理部公開徵名後決字的名字，名稱的起源是由於管理人很喜歡貓，希望網站名字能夠和貓相關。
+=== 歷史 ===
+* [http://www.2chan.net/ 双葉ちゃん]（ふたば☆ちゃんねる）是日本有名的圖片討論板網站{{ref|ふたば☆ちゃんねる成立於 2001-8-30}}，主要的程式 futaba.php 是使用[http://php.s3.to/ レッツPHP!]的圖片討論板程式 gazou.php 所改造，網站上有配布程式的原始碼。這個原始碼後來被修改成多種不同語言和功能的版本，並且被其他不同語言的使用者拿來架設類似双葉風格的網站，其中較知名的包括如英語系的 [http://www.4chan.org/ 4chan]{{ref|4chan 成立於 2003-10-1}} 和中文的 [http://2cha.omoe.net/ 2cha]{{ref|2cha 成立於 2003-10 左右}} 等。
+* 2cha 在 2005-5-4 日發生 V-Day 事件後一時閉鎖了{{ref|2cha 已於 2006-03-19 重新開放}}，其後國內陸續出現了許多仿 2cha 風格建立的網站。有感於各貼圖站資源的不足，由貓澡堂的管理者 misatocat 出來倡議及整合，在 2005-5-17 日成立了 2cat 雙貓聯合站。
+=== 成員 ===
+* 2cat 雙貓聯合站目前包含下列成員（按字首順排序，「◆」後為目前所使用的 Trip）：
+** 1883 ◆BFuCynV03M
+** A.Langley
+** anacel ◆4qjYkMDZ8o
+** Alica
+** dale
+** kirur ◆Z3aej.SSqs
+** M.A.
+** Makoto
+** pero2mo
+** RT
+*** ◆RTphpfqies (貓管理部、futaba/Pixmicat!系)
+*** ◆U08NQK7S2. (未修正bug的Tripper如FreeStyle系所產生的Trip)
+*** ◆8NQK7S2. (八位Trip)
+*** ◆hePjUnlTCU
+*** ◆PjUnlTCU (八位Trip)
+** scribe ◆ScRBg4WCkks
+** Strange
+** 強化人間
+** 幻夢狐八雲 (dbfox) ◆ozOtJW9BFA
+** 柯小如
+** 攤 ◆SVgkXDWLCs
+** admin2 
+*** ◆xLhYJKRDXs (至2017年11月中旬止)
+&lt;!-- *** ◆8uebpxjVQs --&gt;
+* 曾經參與過 2cat 雙貓聯合站但現已離去成員（按字首順排序）：
+** [http://www.acg-dream.com/vbb/ ACG夢天堂]
+** NTj
+** [http://sorairo.hustle.ne.jp/ 空色之境]
+=== 發展 ===
+* 可能是因為板面數量較多，加上可運用的資源相對較充足，2cat/Komica 在 2cha 閉鎖後，緊接著進入的貼圖板戰國時代中，獲得較多數使用者的支持並存活下來。
+* 不少人常常會弄不清楚 2cat、Komica 這兩站的關係；簡單來說就是 2cat 是一個聯合站，而 Komica 則是 1883 氏架設的個人網站。
+== 參見 ==
+* [http://2cat.twbbs.org/ 2cat 雙貓聯合站]
+* V-Day 事件 [https://www.google.com.tw/search?ie=utf8&amp;oe=utf8&amp;q=ACG%E4%BA%A4%E6%B5%81%E7%B6%B2%E7%AB%992cha%E7%9A%84%E6%BB%85%E4%BA%A1&amp;hl=zh-TW&amp;gws_rd=ssl Google.tw:ACG交流網站2cha的滅亡]
+* [http://komica.dyndns.org/98/index.htm 舊的 Komica 管理室]
+* scribe 寫的 [http://pixmicat.openfoundry.org/history.htm History : Pixmicat! in Development]
+* Komica 條目
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+[[分類:網站]]

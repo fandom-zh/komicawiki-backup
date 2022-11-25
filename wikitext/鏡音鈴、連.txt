@@ -1,0 +1,399 @@
+{{h0|鏡音リン・レン }}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|-
+| 鏡音リン・レン是不會在軟體使用過程中出現的，&lt;s&gt;所以買回來後不要一直盯著包裝盒&lt;/s&gt; 
+|}
+[[File:img1983.jpg|thumb|right]]
+
+== 軟體解說 == 
+
+* CRYPTON社販售的音聲合成桌上音樂軟體[[VOCALOID]] 2角色主唱系列的第二作，第一個有複數聲音資料庫的VOCALOID。
+* 「鏡音」則是「從鏡反射的聲音」，「リン」是「鈴」、「鐘」的意思&lt;ref&gt;http://blog.crypton.co.jp/mp/2007/11/vocaloid2_cv02.html&lt;/ref&gt;，「レン」的「連」是「連接著的存在」之意。
+* 官方宣傳時說明過リン・レン彼此是「鏡中互相反映出另一個自己的存在」，不過這設定只有在宣傳時用過，並沒有寫在官方網站的介紹頁上。
+** 事實上開發階段時也曾有計畫是設定成[[雙子]]姐弟（也因為如此同人大都設定成姐弟而非兄妹），不過因為軟體本身特性與雙子形象不符，最終定案時才變成鏡中反映出的另一個自己。
+* 由聲優下田麻美提供原聲。
+* &lt;s&gt;為了趕熱潮調整不足便推出市面一度成為CRYPTON社的黑歷史, 被對手支持者批評賣角色, 對音樂不負責任。&lt;/s&gt;，雖然使用上比起初音困難但無阻角色支持者的熱情，成為銷量第二高的VOCALOID。
+* 2008年7月18日, 修正檔「鏡音リン・レンACT 2」免費發給所有登記用戶, ACT 1宣佈停產, 以後發售的都是ACT 2的版本。
+* 直到最近開發人員在開發初音Append solid時閃到有效解決鏡音發音問題的方法。並計劃製作鏡音Append。
+* 2010年12月27日鏡音推出3周年,並推出Append版。
+
+
+==[http://www.crypton.co.jp/mp/pages/prod/vocaloid/cv02a.jsp CV-02A RIN/LEN Append] ==
+[[File:img4329.png|thumb|right]]
+
+* 於2010年12月27日發售的追加聲音資料庫, 需要有鏡音本體才能運作。
+* "Append" 有附加的意思。目的是增加聲音的表情, 沒有強化本體的意思。
+* 一共有6個追加聲音資料庫。（RIN/LEN 各3個）
+** '''RIN:power'''（燃系活潑少女聲）
+*** 擅長歌曲TEMPO:65-170BPM; 音域:F3-B4
+*** 原本RIN的聲音就屬這類型，發聲力強但滑舌未如理想&lt;ref&gt;VOCALOID2的弱項，聲音力度和滑舌不能相容&lt;/ref&gt;。後來經開發改良和技術進步使發聲出力和滑舌兩者可以並存。
+*** 可以算是原本的改良版，有比ACT1和ACT2的聲音更明瞭和滑舌的表現。
+** '''RIN:warm'''（&lt;s&gt;初音版RIN&lt;/s&gt;）
+*** 擅長歌曲TEMPO:60-160BPM; 音域:F3-B4
+*** 滑舌再度加強，但原本的聲音力強的特色減弱了。 
+** '''RIN:sweet'''（蘿莉聲）
+*** 擅長歌曲TEMPO:55-155BPM; 音域:G3-C5
+** '''LEN:power'''（明瞭和重厚感聲）
+*** 擅長歌曲TEMPO:65-170BPM; 音域:A2-D4
+*** 中低音的存在感強化。
+*** ACT1和ACT2的問題改善, 滑舌和安定性提高, 雜音減少。
+** '''LEN:cold'''（低音強化）
+*** 擅長歌曲TEMPO:60-160BPM; 音域:B2-C4
+** '''LEN:serious'''（比較嚴肅成熟聲的聲音）
+*** 擅長歌曲TEMPO:55-155BPM; 音域:A2-C4
+*** 長大而且更像個男人了。
+** 其他還有沒有收錄在製品版的 [http://www.nicovideo.jp/watch/sm11820271 '''LEN:soft''']
+* 人設是オサム&lt;ref&gt;http://twitter.com/vocaloid_cv_cfm/status/13076314261032961&lt;/ref&gt;。
+* リン和レン各個方面都長大了，&lt;s&gt;リン的胸部和レン的身高，並增加觸手屬性&lt;/s&gt;
+* 鏡音Append的試聽版
+** [http://www.youtube.com/watch?v=2a9dK-YdRtk RIN_Powerβ]
+** [http://www.youtube.com/watch?v=JLhVamScdSA LEN_Powerβ]
+** [http://www.nicovideo.jp/watch/sm11902269 RIN_sweetα]
+** [http://www.nicovideo.jp/watch/sm11820271 LEN_softβ]
+** [http://www.nicovideo.jp/watch/sm11879014 LEN_moodyα]
+* [http://weekly.ascii.jp/elem/000/000/030/30327/index.html 發售時的新聞]
+
+==[http://www.crypton.co.jp/mp/pages/prod/vocaloid/rinlenv4x.jsp 鏡音リン・レンv4x]==
+[[File:img21649.jpg|thumb|right]]
+* 鏡音リン・レン的後繼軟體，2015年12月24號發售
+* 人設是iXima（[http://www.pixiv.net/member.php?id=837839 えこいくしま]）
+* 基本上可視為APPEND的再加強版，可獨立運作且追加英文
+* 試聽：
+** [http://www.nicovideo.jp/watch/1446108152 Rin_Powerβ,Len_Powerβ]
+** [http://www.nicovideo.jp/watch/1447922944 Rin_Sweet]
+** [http://www.nicovideo.jp/watch/1449138184 Rin_Warm]（Power混音）
+** [http://www.nicovideo.jp/watch/1448523043 Len_Serious]
+** [http://www.nicovideo.jp/watch/1449732847 Rin_English,Len_English]
+** [http://www.nicovideo.jp/watch/1450313467 Len_Power,Len_Cold]
+** [http://www.nicovideo.jp/watch/1450757825 Rin_Power/Sweet]（合唱：Len_Power/Serious）
+
+==鏡音リン（鏡音鈴） ==
+
+=== 角色設定 === 
+* 生日：12月27日
+* 年齡：14歲
+* 身高：152&amp;nbsp;cm
+* 體重：43&amp;nbsp;kg
+* 聲優：下田麻美
+* 擅長的曲種：搖滾、電聲音樂、歌謠曲、演歌系流行曲
+* 擅長的節奏：85～175BPM
+* 擅長的音域：F#3～C#5
+* 使用樂器：EOS 500B 
+
+=== 同人設定 === 
+* 跟官方不同的雙子設定&lt;ref&gt;實際上官方也認同這個設定, 有時候以雙子稱呼鏡音&lt;/ref&gt;, 鈴由於比較早公開所以是姊姊，V家中最小的弟妹&lt;ref&gt;只限CRYPTON社&lt;/ref&gt;。&lt;s&gt;但兩個放在一起就很閃。&lt;/s&gt;
+* 被一段釣魚影片惡搞之後，變成為了會開[[壓路機]]&lt;s&gt;約瑟芬&lt;/s&gt;壓人的&lt;s&gt;[[腹黑]]&lt;/s&gt;強氣女生。
+* &lt;s&gt;表面上是&lt;/s&gt;可愛的元氣娘&lt;s&gt;，實際上是強氣的S&lt;/s&gt;
+* 因為惡之系列太有名，在不少同人中被設定成是個任性女生。而多半同人中鈴都有小惡魔性格。
+* 在一些作品中有很帥氣的造型會被稱為「イケリン」&lt;ref&gt;例如天樂、孤独の果て&lt;/ref&gt;。
+* 一些作品（特別是MMD動畫）中，リン頭上的緞帶會像獸耳般擺動，所以被稱為「リン耳」。&lt;s&gt;還可以作飛行道具使用&lt;/s&gt;
+* &lt;s&gt;將來的胸部比ミク大（by ニコニコ大百科）&lt;/s&gt;
+* [[成句/龍五的手上只要有槍，誰都殺不了他|&lt;s&gt;鈴的手上只要有壓路機，誰都殺不了她&lt;/s&gt;]]
+* &lt;s&gt;オーホッホッホッホ。さあ、ひざまずきなさい！&lt;/s&gt;
+
+===第一次持物戰爭 ===
+* 由於當時各個VOCALOID都有各自的持物, 所以鏡音的支持者也為鏡音設定代表物。如橘子、洋蔥、各種黃色水果之類, 各派職人意見不一引起這次紛爭。
+* 但一個{{sm|1667273|釣魚動畫}}令 [[壓路機]]派強勢崛起、派生大量出現，紛爭也很快告一段落。
+* 由於這奇怪的設定已深入民心到達了不可修正的地步，故被稱為「CRYPTON最大的誤算」。
+
+=== 愛好 === 
+* 橘子
+* &lt;s&gt;レン&lt;/s&gt;
+** &lt;s&gt;以各種各樣的方法玩弄レン&lt;/s&gt;
+* [[WRYYYYYYY|&lt;s&gt;Wryyyyyyyyyyyyyyyyyyyyyyyyyyn!!&lt;/s&gt;]]
+* &lt;s&gt;布里歐&lt;/s&gt;,&lt;s&gt;約瑟芬&lt;/s&gt;&lt;ref&gt;悪ノ娘&lt;/ref&gt;
+
+=== 能力 === 
+* &lt;s&gt;未成年駕駛、無牌駕駛&lt;/s&gt;
+* &lt;s&gt;據說她的壓路機有三倍速,NT-D,I力場和精神感應能力&lt;/s&gt;
+* &lt;s&gt;超電磁砲&lt;/s&gt;&lt;ref&gt;http://www.youtube.com/watch?v=aXVULKuwADA&lt;/ref&gt;
+
+=== 萌屬性 === 
+* 貧乳
+* 蘿莉
+* 陽氣
+* &lt;s&gt;腹黑&lt;/s&gt;
+* &lt;s&gt;鬼畜&lt;/s&gt;
+* [[像妹妹的姊姊]]
+
+==鏡音レン（鏡音連） ==
+
+=== 角色設定 === 
+* 生日：12月27日
+* 年齡：14歲
+* 身高：156&amp;nbsp;cm
+* 體重：47&amp;nbsp;kg
+* 聲優：下田麻美
+* 擅長的曲種：搖滾、舞蹈、歌謠曲、演歌系流行曲
+* 擅長的節奏：70～160BPM&lt;s&gt;&lt;s&gt;&lt;/s&gt;&lt;/s&gt;
+* 擅長的音域：D3～C#5
+* 使用樂器：keytar 
+
+=== 同人設定 === 
+* 因為官方設定較晚公開而被設定為弟弟
+* 個性活潑但較溫和&lt;s&gt;，所以被當成M&lt;/s&gt;
+* &lt;s&gt;被家裏的姐姐調教&lt;/s&gt;
+* 多半是當一群不正常人中的正常人兼吐嘈役（大概是被[[阿虛]]影響了）
+* 在一些作品中有很帥氣的造型被稱為「イケレン」&lt;ref&gt;Append發售後此狀況更明顯&lt;/ref&gt;
+* 因為是接近普通男性向作品中主角的年齡&lt;ref&gt;正常而言男性向作品主角年齡是17歲為主，但Vocaloid目前沒有男性17歲的角色，唯一比較接近的就是14歲的連了&lt;/ref&gt;，所以男性向作品中的青少年主角會有的性格基本上隨不同作者會有不同比例加在他身上，有些作品中他也會變熱血角色。&lt;ref&gt;同樣是Append發售後此狀況更明顯，使用LEN POWER、LEN COLD和LEN SERIOUS音源（尤其是LEN POWER）的熱血歌變的比以前還多&lt;/ref&gt;
+* 由於是繼KAITO之後變的比較有名的男性役，&lt;s&gt;毫不意外的&lt;/s&gt;跟KAITO一樣在二次創作中形象全失，更因為CosMo的一首「鏡音レン的暴走」導致レン的女裝造型意外的多&lt;s&gt;，說起來這首歌應該才是讓レン的形象陷入萬劫不復的元兇......&lt;/s&gt;
+** &lt;s&gt;但還好不像KAITO那樣完全被當成變態&lt;/s&gt;
+** 除魔法少女外還有歌特蘿莉、女僕裝等打扮
+* &lt;s&gt;常常被虐&lt;/s&gt;
+
+
+=== 愛好 === 
+* 香蕉
+* &lt;s&gt;リン&lt;/s&gt;
+* &lt;s&gt;女裝&lt;/s&gt;
+ 
+=== 能力 === 
+* &lt;s&gt;爬杆&lt;/s&gt;
+* &lt;s&gt;復活&lt;/s&gt;&lt;ref&gt;rebirthday&lt;/ref&gt;
+* &lt;s&gt;色誘大姐姐&lt;/s&gt;&lt;ref&gt;SPICE!&lt;/ref&gt;{{censored|&lt;s&gt;和大哥哥&lt;/s&gt;}}&lt;ref&gt;[http://tw.nicovideo.jp/watch/sm3151139 マセ恋歌]&lt;/ref&gt;
+* &lt;s&gt;魔法少女&lt;/s&gt;
+* &lt;s&gt;女僕&lt;/s&gt;
+
+=== 萌屬性 === 
+* 年下
+* [[正太]]
+* &lt;s&gt;[[偽娘]]&lt;/s&gt;
+* &lt;s&gt;姐控&lt;/s&gt;
+
+==各方的展開 ==
+&lt;s&gt;基本上都跟初音差不多&lt;/s&gt;
+
+===漫畫/書籍 ===
+* メーカー非公式 初音みっくす
+* はちゅねミクの日常 ろいぱら!
+* 初音ミク アンソロジーコミック
+* 初音ミクMIXING BOX
+* 悪ノ娘 黄のクロアテュール
+* 悪ノ娘 緑のヴィーゲンリート
+* 悪ノ娘 赤のプラエルディウム
+* 悪ノ娘 青のプレファッチオ
+* 悪ノ間奏曲
+* 悪ノ叙事詩
+* 漫画　悪ノ召使
+* 囚人と紙飛行機
+* 秘蜜 黒の誓い
+* ココロ
+
+===遊戲 ===
+* 初音ミク -Project DIVA- 
+** 見[[初音ミク -Project DIVA- 歌姬計畫系列]]條目。
+* スカッとゴルフ パンヤ
+* [[神魔之塔]]
+** 和初音等[[六賢者]]一同跳棚到神魔的合作系列
+*** 共推出4張卡：石抽二獎（リン和レン二人一卡）、石抽小獎鏡音リン、石抽小獎鏡音レン、鏡音リン地獄級
+**** 可能因為石抽二獎代表曲《右肩の蝶》是採用レン版本的關係，因此又另外推出了另一張鏡音リン（代表曲為《炉心融解》）
+
+===舞台劇 ===
+* ココロ（ココロ舞台化計画、乙女天ぷら堂）
+** 日期: 2009年8月23日
+** 場地: 水戸芸術館ACM劇場
+
+* [http://x-quest.jp/akuno/ 悪ノ娘〜凄艶のジェミニ〜（X-QUEST）]
+** 日期: 2010年1月27 - 31日
+** 場地: 東京芸術劇場
+
+
+==原創歌曲（部分） ==
+
+===ぶっちぎりにしてあげる ♪ ===
+* 作曲者：ika, 作詞, 調教:ぶっちぎりＰ	
+** [http://tw.nicovideo.jp/watch/sm1924663 NICO 連結]
+** [http://www.youtube.com/watch?v=LYQwEd_Xz18 Youtube 連結]
+* 歌詞改編自初音ミク《みくみくにしてあげる♪》
+
+===惡之系列 ===
+* 作曲者：悪のP	
+** [http://tw.nicovideo.jp/watch/sm2916956 悪の娘]
+** [http://tw.nicovideo.jp/watch/sm3133304 悪の召使]
+** [http://tw.nicovideo.jp/watch/sm3440324 リグレットメーセージ]
+** [http://tw.nicovideo.jp/watch/sm5671863 Re-Birthday]
+* 全系列包括悪の娘、悪の召使、リグレットメーセージ、Re-Birthday四部，被改編成舞台劇。也是曾經唯一在維基上有{{wp|惡之系列|條目}}的V家歌曲。
+* 因為出品當時是鏡音剛發售時，這威力太強大的系列中任性的公主和嚴重姊控的召使後來逐漸成為了當時同人形象未確定的鏡音雙子形象。
+
+===炉心融解 ===
+* CV：iroha	
+** [http://www.nicovideo.jp/watch/sm8089993 NICO 連結]
+** [http://www.youtube.com/watch?v=hldL6aJ6hA0 Youtube 連結]
+* 除了惡之系列以外最有名的曲子，因為歌詞充滿絕望感所以小心聽了之後不要做長高運動，你父母親要是看到這樣會很傷心的。
+* &lt;s&gt;另外有以此曲旋律重新填成糟糕歌詞的衍生曲「ロリ誘拐」與「御兄誘拐」。&lt;/s&gt;
+
+===ココロ ===
+* CV：トラボルタP
+** [http://www.nicovideo.jp/watch/sm2500648 NICO 連結]
+** [http://www.youtube.com/watch?v=gHYBLM3OdL4 Youtube 連結]
+* VOCALOID最催淚歌曲之一，歌詞講述機械少女與科學家的故事，故事感人。也被改編成舞台劇
+
+===ココロ・キセキ ===
+* CV：ジュン	
+** [http://www.nicovideo.jp/watch/sm2844465 NICO 連結]
+** [http://www.youtube.com/watch?v=IiFYZ6_Rdz0 Youtube 連結]
+* 由鏡音レン主唱的歌曲，由另一角度從頭來看「ココロ」的故事。
+
+===ココロ -thousands after- ===
+* CV：ばすてぃ
+** [http://www.nicovideo.jp/watch/sm3521472 NICO 連結]
+* 由鏡音リン主唱，將「ココロ」的故事延續下去。
+
+===下剋上 ===
+* CV：一行P
+** [http://tw.nicovideo.jp/watch/sm2871474 NICO 連結]
+** [http://www.youtube.com/watch?v=1VXHAuG7Yg4 Youtube 連結]
+* 被認為是鏡音鈴、連宣告將和初音未來、KAITO、MEIKO競爭歌壇地位的歌曲之一。
+* 曲名源自[[戰國時代(日本)|戰國時代]]初期關白「一條兼良」&lt;ref&gt;他的後代就是後世公認「最爛大名」的兼定...&lt;/ref&gt;的著作《樵談治要》
+
+=== 劣等上等 （BRING IT ON） ===
+* CV：GigaP
+** [https://www.nicovideo.jp/watch/sm33510542 NICO連結]
+* 雙子的代表合唱曲目之一。
+* 在[[バンドリ!]]被RAS翻唱，[https://www.youtube.com/watch?v=cA9jJIwRebI MV由Layer與CHU²主演]。
+* [[世界計畫 繽紛舞台！ feat.初音未來|世界計畫]]的翻唱者則為Vivid BAD SQUAD。
+
+===ヘタレないでよ！ ===
+* CV：バナナP
+** [http://www.nicovideo.jp/watch/sm3400657 NICO 連結]
+** [http://www.youtube.com/watch?v=PfppkWiwNFg Youtube 連結]
+* 最早的レンの将来が不安になる動画之一，[[紳士]]淑女的社交場
+
+===鏡音レンの暴走（LONG VERSION） ===
+* CV：cosMo（暴走P）
+** [http://tw.nicovideo.jp/watch/sm4775243 NICO 連結]
+** [http://www.youtube.com/watch?v=k8MBhE6SHCA Youtube 連結]
+* レンの将来が不安になる動画的頂點之一&lt;s&gt;，導致レン形象陷入萬劫不復慘況的元兇&lt;/s&gt;
+
+===右肩の蝶 ===
+* CV：のりP
+* リン版
+** [http://tw.nicovideo.jp/watch/sm6609407 NICO 連結]
+** [http://www.youtube.com/watch?v=3b9fLkmgtdo Youtube 連結]
+** [[BanG Dream!]]側由Roselia翻唱，[https://www.youtube.com/watch?v=ZBal3FIw1mE MV由主唱友希那演出]
+* レン版
+** [http://tw.nicovideo.jp/watch/sm6928368 NICO 連結]
+** [http://www.youtube.com/watch?v=udfgjgmxVIo Youtube 連結]
+
+===SPICE！ ===
+* CV：流星P
+** [http://tw.nicovideo.jp/watch/sm2528674 NICO 連結]
+** [http://www.youtube.com/watch?v=QQZ5bibAJ9s Youtube 連結]
+* レン的真實年齡一定不止14歲...
+
+===プリティふんどし☆悪マレン ===
+* CV：ぶっちぎりP,ゆにめもP	
+** [http://tw.nicovideo.jp/watch/sm8923574 NICO 連結]
+** [http://www.youtube.com/watch?v=2GqeI-7YW70 Youtube 連結]
+* &lt;s&gt;1:26 開始顏藝表演,KAITO淚目&lt;/s&gt;
+
+===天樂 ===
+* CV：ゆうゆP
+** [http://www.nicovideo.jp/watch/sm7918983 NICO 連結]
+** [http://www.youtube.com/watch?v=61ik6ThdZS0 Youtube 連結]	
+* VOCAROCK路線名曲，短時間內就達成10萬再生（目前250萬）的殿堂曲。
+
+===リモコン ===
+* CV：WONDERFUL☆OPPORTUNITY! 
+** [https://www.nicovideo.jp/watch/sm13612500 NICO 連結]
+** [https://www.youtube.com/watch?v=1st0XSY0VKQ Youtube 連結]
+* Project DIVA的PV是姐弟拿遙控器互相遙控&lt;s&gt;連被玩得很慘&lt;/s&gt;
+
+===RING×RING×RING ===
+* CV：ふたなりＰ
+** [http://www.nicovideo.jp/watch/sm2582693 NICO 連結]
+** [http://www.youtube.com/watch?v=CbPUkhb64Fc Youtube 連結]
+* 鏡音リン名曲リンク,目前22萬再生,殿堂曲
+
+===CHU！して！ ===
+* CV：Dios/シグナルP
+** [http://www.nicovideo.jp/watch/sm3335060 NICO 連結]
+** [http://www.youtube.com/watch?v=KDN_2FvjvwI Youtube 連結]
+* 伝説のリン廃,目前17萬再生,殿堂曲
+
+===パラジクロロベンゼン ===
+* CV：オワタP 
+** [http://www.nicovideo.jp/watch/sm8269164 NICO 連結]
+** [http://www.youtube.com/results?search_query=%E3%83%91%E3%83%A9%E3%82%B8%E3%82%AF%E3%83%AD%E3%83%AD%E3%83%99%E3%83%B3%E3%82%BC%E3%83%B3&amp;amp;aq=f Youtube 連結]
+* 曲名「パラジクロロベンゼン」（p-dichlorobenzene）意為「對二氯苯（1,4-二氯苯）」，芳香族有機化合物的一種，有劇毒，常作為殺蟲劑使用。
+* 鏡音レン名曲リンク,2011年底已破200萬再生,&lt;s&gt;因為曲名的緣故&lt;/s&gt;中毒性奇高
+
+=== 聖槍爆裂ボーイ===
+* CV：reruririP
+** [http://www.nicovideo.jp/watch/sm21702752 NICO 連結]
+** [https://www.youtube.com/watch?v=MqNmKnCNLyM Youtube 連結]
+* &lt;s&gt;等等，讓十六歲的孩子唱這種歌真的沒問題嗎&lt;/s&gt;
+
+=== ロストワンの号哭===
+* CV：Neru
+** [https://www.nicovideo.jp/watch/sm20244918 NICO 連結]
+** [https://www.youtube.com/watch?v=8oBV3jPTW4s Youtube 連結]
+* 校園霸凌題材的灰暗系作品。
+* 僅在Project DIVA X有收錄&lt;s&gt;PV裡面鈴一上台就砸爛了Les Paul吉他還有麥克風架&lt;/s&gt;
+
+=== Tokyo Teddy Bear===
+* CV：Neru
+** [https://www.nicovideo.jp/watch/sm15308214 NICO 連結]
+** [https://www.youtube.com/watch?v=eSI7RsjZy1E Youtube 連結]
+* 內容是學生的自殺遺言&lt;s&gt;，還有例行的桌椅飛翔&lt;/s&gt;
+* 外國有和[Undertale]處刑音樂Megalovania混音而成的名曲Tokyo Megalovania。
+* [[D4DJ]]側則由&lt;s&gt;[[男裝麗人]]組合&lt;/s&gt;燐舞曲翻唱。
+
+===cloud ===
+* 作曲者：E.L.V.N
+** [http://www.nicovideo.jp/watch/sm11699000 NICO連結]
+* &lt;s&gt;跟FFVII的克勞德沒有任何關係&lt;/s&gt;
+* PV使用大量NICO素材區中的素材以及已存作品的片段，日台兩地褒貶不一&lt;ref&gt;但可以想見的是影片的存在非常危險，因為美國電影公司很少容許使用自己影片當MAD的，連使用預告片也有被砍檔的危險&lt;/ref&gt;
+** 使用的已存動畫和影片計有以下：
+*** ほしのこえ（星之聲/新海誠）
+*** 彼女と彼女の猫（她和她的貓/新海誠）
+*** 雲のむこう、約束の場所（雲之彼端、約定的場所/新海誠）
+*** 秒速5センチメートル（秒速五公分/新海誠）
+*** スカイ・クロラ（空中殺手/森博嗣、押井守）
+*** ターミネーター４（魔鬼終結者：未來救贖/華納兄弟電影公司）
+*** 2012（哥倫比亞電影公司）
+* 嚴格說起來，本曲的歌詞雖然提到戀人之間難以再見面的狀況，但與戰爭其實沒什麼關係。
+
+===ロキ===
+* 詞曲：みきとＰ
+* リン和作者みきと本人合唱，DIVA系列變成和レン合唱。
+* 歌詞大多圍繞創作者想成名的過程，獨特的電吉他伴奏使得此曲迅速成為傳說曲。
+* MMD的雙人舞步開頭有少見的追逐畫面。
+* [[バンドリ!]]中此曲為美竹蘭和青葉摩卡合唱。
+
+==翻唱歌曲（部分） ==
+===sister's noise ===
+* 調教者：non
+** [http://www.nicovideo.jp/watch/sm20766496 NICO連結]
+* 原唱是fripSide，是[[とある科学の超電磁砲|科學超電磁炮S]]的片頭曲。
+* 難以想像是以鏡音三個版本中最難調教的Act1做出的神調教&lt;ref&gt;還是在CD發售前弄出來的，也就是說用不到短短幾天就做好了&lt;/ref&gt;
+* 不僅如此，這首Cover僅使用一張插畫，卻在最近不使用PV就衝不到前段班的狀況中成功突出重圍，在Vocaloid周刊第292期和293期中連續奪得第一名寶座
+
+== 有名鏡音的製作人介紹 ==
+* 主條目：[[Vocaloid製作人一覽]]
+
+== 相關條目 ==
+* [[VOCALOID]]
+* [[初音ミク]]
+* [[巡音ルカ]]
+* [[メグッポイド (Megpoid)|メグッポイド]]
+* [[ニコニコ動画]]
+* [[VOCALOID衍生品種]]
+* [[UTAU]]
+* [[壓路機]]
+
+== 相關連結 ==
+* [http://www5.atwiki.jp/hmiku/ 初音ミク Wiki]
+* [http://vocaloid.wikia.com/wiki/Vocaloid_Wiki Vocaloid Wiki]
+* [http://www9.atwiki.jp/vocaloidchly/pages/1.html vocaloid中文歌詞wiki]
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+{{VOCALOID}}
+
+== 備註 ==
+&lt;references/&gt;
+[[Category:VOCALOID]]

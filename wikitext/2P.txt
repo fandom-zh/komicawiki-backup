@@ -1,0 +1,115 @@
+{{h0| 2P }}
+&lt;!--
+{| class="wikitable" style="margin: 1.5em auto"
+|-
+|
+|}
+--&gt;
+[[File:img13073.jpg|300px|thumb|right]]
+[[File:img5191.jpg|215px|right]]
+== 解說 == 
+
+* Player 2的簡寫，意指「玩家二號」在遊戲裡的簡稱
+** 通常只有可兩人以上使用的遊戲中才會出現&lt;s&gt;[[陰影人]]&lt;/s&gt;
+** 由電腦操作的人工AI角色則簡稱「CP」
+
+* 又指在不同場合下使用的性格，視情況也會有3P4P的出現
+* 某教主號稱有7P
+* 類似的梗在第二意見又出現
+* &lt;s&gt;有別於3P,4P以至XP，只有兩個人在做時就是2P&lt;/s&gt;
+
+== 2P的細論 == 
+
+* 在早期動作遊戲中，一個玩家只能選一個角色
+* 在容量不足以做出3人以上供選擇時，標示1P與2P的不同，有以下幾種方式：
+** 角色圖像完全相同，但[[色彩#調色盤|配色]]調成不同(多數動作、格鬥遊戲)
+** 角色圖像只有些微不同(ROBO ARMY、侍魂)
+** 角色圖像不同，但動作速度與招式大致相同(例如:1P雷，2P火)
+** 角色圖像不同，而性能已經有些許差異(音速小子)
+{{clr}}
+
+==2P出身的角色名單 ==
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 2P角色 !! 1P角色 !! 和1P的關係 !! 作品 !! 註解 
+|-
+| [[Luigi]] || [[Mario]] || rowspan = "4" | [[雙子|雙胞胎]]弟弟 || Mario Bros.系列 || &lt;s&gt;King of(ry&lt;/s&gt;&lt;br&gt;在某些不是Mario系列的遊戲中偶爾也能看見他們客串作為1P和2P的代表角色。 
+|-
+| Jimmy Lee || &lt;s&gt;Bimmy&lt;/s&gt; Billy Lee || 雙截龍Double Dragon || &lt;s&gt;跟大哥愛上同一女人的苦逼男人&lt;/s&gt;，在格鬥版中第一代為攻擊效果比大哥長，第二版則是完全不同性能 
+|-
+| Bob(Bobby) || Bub(Bubby) || Bubble Bobble泡泡龍 || 初代是完美結局的關鍵，不過之後…… 
+|-
+| 和田かつ || 和田どん || [[太鼓達人]] || &lt;s&gt;「偶居然被無視了？」如此這般地 [http://wiiu.taiko-ch.net/songlist/guest.html 被Luigi化] 了…&lt;/s&gt; 
+|-
+| Tails || Sonic || &lt;s&gt;跟班&lt;/s&gt;老友 || [[音速小子系列|Sonic the Hedgehog 2]] ||  &lt;s&gt; 除了速度Sonic各方面也不如Tails&lt;/s&gt;
+|-
+| タム || リット || 哥哥 || 妖精物語ロッドランド ||  
+|-
+| Nana || Popo || 女友 || Ice Climber || 大亂鬥中倒是一起行動 
+|-
+| Tom || Nick || 兄弟? || rowspan = "2" | スノーブラザーズ || 每個版本設定也不同 
+|-
+| プチプチ姫/Tina || プリプリ姫/Teri || [[雙子|雙胞胎]]妹妹 || SEGA版限定，在攻陷FLOOR50之後就需要用她們去攻略剩下的關卡 
+|-
+| Lance Bean || Bill Rizer || rowspan = "8" | 任務搭檔 || [[魂斗羅]] || 阿諾與史特龍夢幻競演(無誤)&lt;br&gt;&lt;s&gt;此君的 [http://socksmakepeoplesexy.net/images/lance_xdress.jpg 女裝] 可跟北斗之拳的雷伊互相媲美&lt;/s&gt; 
+|-
+| Albatross || Leila Blitz || Rolling Thunder 2 || 配槍不同、前代主角變成2P... 
+|-
+| Tarma Roving || Marco Rossi || [[Metal Slug]] || 一代限定 
+|-
+| [[拳皇系列原創人物列表-part 1|Clark Steel]] || [[拳皇系列原創人物列表-part 1|Ralf Jones]] || [https://www.youtube.com/watch?v=bByE7n2AJj4 怒IkariWarriors] || [[SNK Playmore|SNK]]的職業[[亂入|打工]]王，從怒再發展到拳皇又回歸本格槍戰派的Metal Slug 
+|-
+| Robert Baxter || Keith Martin || rowspan = "4" | 《[[Time Crisis/火線危機/タイムクライシス|火線危機]]》（Time Crisis／タイムクライシス）系列 || 二代開始提供雙打&lt;br&gt;{{censored|最後因Robert背叛而散夥}} 
+|-
+| Wesley Lambert || Alan Dunaway || rowspan = "3" | 繼承二代雙打功能 
+|-
+| Evan Bernard || Giorgio Bruno 
+|-
+| Marc Godart || Luke O'Neil 
+|-
+| Diddy Kong || Donkey Kong || 姪子 || rowspan = "3" | Donkey Kong Country 系列 ||  
+|-
+| Dixie Kong || Diddy Kong || 女友 || rowspan = "2" | &lt;s&gt; 前作1P被抓就由2P補上1P &lt;/s&gt;  
+|-
+| Kiddy Kong || Dixie Kong || 表弟       
+|-
+| りき(鮫島力) || くにお || rowspan = "3" | 勁敵兼摯友 || 熱血高校系列 || 初期性能大致一致，後來逐漸衍生出くにお專練[[足技|踢技]]、りき擅用拳技的特徵 
+|-
+| 肯 || 隆 || [[快打旋風]] || 一代限定，二代起隆的巴投在肯身上變成"地獄車"（滾多圈的巴投），Champion Edition起昇龍拳與龍捲旋風腳的性能也有不同&lt;ref&gt;肯的昇龍拳橫移量較大，隆的龍捲旋風腳飛行距離較長轉速較慢，相較於隆的踢中就會擊飛對手，肯只會造成對手後仰硬直&lt;/ref&gt;。&lt;br&gt;在The New Challengers版波動拳跟昇龍拳的圖樣跟屬性開始有了差別&lt;ref&gt;隆的波動拳造型變換為圓球波型且多了一招火炎波動拳，肯的波動拳維持舊版有手印形狀、重昇龍拳會有火炎&lt;/ref&gt;。&lt;br&gt;到了X - Grand Master Challenge後正式有不同的技能，隆追加了拳的特殊技，而肯的重踢變成迴旋踢，之後便發展為[[足技|踢技]]、昇龍拳技為主的大開大闔型角色、在後續的版本甚至有前滾、頭錘等個人技
+|-
+| 風魔小太郎 || 服部半藏 || [[バカゲー|World Heroes系列]] || 業界仿效快打旋風二的跟風作，出品的時間點在快打旋風Champion Edition之後，因此兩角的造型、職業、技能雖然相似但是性能也略有差異。&lt;br&gt;故事裡兩者的性格差別也很大；半藏是一直在原本的時空修行的認真求道武術家，而風魔則是一名時空轉移到現代社會當白領和結識女性的花花公子。&lt;br&gt;Jet版後也正式擁有不同的技能、風魔小太郎更是該作唯一持有兩招超必殺技的角色。 
+|-
+| 椎拳崇 ||麻宮雅典娜 || 師兄&lt;s&gt;互相騎乘&lt;/s&gt; || Psycho Soldier || 他們在[[拳皇]]比較有名 
+|-
+| 紫ナコルル || rowspan = "2" | ナコルル || 精神分裂體? ||  rowspan = "3" |サムライスピリッツ || 少數選2P時表情有明顯變化(僅限勝利CG)的作例，另外在3~4代以羅剎版本存在，攜帶一隻狼而非隼 
+|-
+| レラ || 分裂體 || 上者的系列中只是作為羅剎版本存在，不過從侍魂零開始蕾拉就獨立作為一個角色存在。&lt;br&gt;設定是娜考露露心中闇的一面分離出來，個性上也比娜考露露更為冷靜沉著。&lt;br&gt;雖然個性上差異許多，相當於一邊是光一邊是影，但是疼愛リムルル這個妹妹這點倒是如出一轍。 
+|-
+| 羅剎丸 || 霸王丸 || 從地獄中誕生的意識體 || 本來只是作為羅剎版本存在，基本性能沒有差異，不過從侍魂零開始[[吃書|更改設定]]，做成了一個彷彿[[喪屍]]般的版本，為霸王丸在地獄的修煉旅行中，意識到自己的心都還不成熟而進行了心靈修煉，從而誕生了喜好殺戮的羅剎丸，而羅剎丸認為霸王丸是在模仿自己，積極的追殺霸王丸來證明自己才是完美的本體。&lt;br&gt;在『天下一劍客傳』裡又追加了設定，羅剎丸是在天草四郎時貞的幫助下創造出來的。 
+|-
+| Mac || Joe || 同族戰士 || Joe &amp; Mac: Caveman Ninja ||  
+|-
+| 田吾 || 権べ || 同村 || いっき || AC版和FC版的田吾長相不同 
+|-
+| 蠱依(Gooey) || rowspan = "2" | 卡比 || rowspan = "2" | 搭檔 || [[星之卡比|星之卡比3]] || 能力和卡比相同，不過他不吸氣而是使用其長舌&lt;s&gt;比卡比更天真傻氣的存在&lt;/s&gt; 
+|-
+| 毛線王子(Prince Fluff) || [[星之卡比|毛線卡比]] || &lt;s&gt;明明&lt;/s&gt;能力和卡比相同&lt;s&gt;劇情表現卻奇廢無比…&lt;/s&gt; 
+|-
+| &lt;s&gt;胡鐵花&lt;/s&gt; || &lt;s&gt;楚留香&lt;/s&gt; || &lt;s&gt;老友&lt;/s&gt; || &lt;s&gt;[http://en.wikipedia.org/wiki/Master_Chu_and_the_Drunkard_Hu 盜帥楚留香]/[http://www.youtube.com/watch?v=sayp5lieKuU Master Chu and the Drunkard Hu ]&lt;/s&gt; || 這遊戲僅是託名、內容和古龍的小說沒有任何關係 
+|-
+| Mugman || Cuphead || 兄弟 || Cuphead || &lt;s&gt;[https://youtu.be/aQ9AEEJxP2Y 有多重影分身的技能]&lt;br&gt;由於太有名直接害死[[陰影人|某個]][[成句/あたしが、先だった…先だったんだ|比他早出]]的[https://mugman.fandom.com/wiki/Mugman 同名角]&lt;s&gt;
+|-
+| obb || ibb || rowspan = "2" | 共同生命體(?) || ibb &amp; obb ||  
+|-
+| Plom ||  Bismo || Shift Happens || 
+|}
+
+== 參見 == 
+* &lt;s&gt;[[另一個我]]&lt;/s&gt;
+* [[影武者]]
+* [[雙子]] 
+
+== 備註 ==
+&lt;references/&gt;
+[[分類:俗名]]

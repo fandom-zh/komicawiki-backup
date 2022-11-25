@@ -1,0 +1,155 @@
+{{h0| Berserker（狂戰士/バーサーカー）}}
+[[File:Berserker.jpg|250px|right]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|[[Extra Class (Fate) | 特殊額外職階]]：Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner
+|}
+
+== 簡介 ==
+* 聖杯戰爭所能召喚的基礎七種職階之一，擁有「發狂」事蹟的人可以以這個職位被召喚。
+** 除了發狂以外，還有「行事作風相當瘋狂」這一類的也能以這個職階被召喚出來。
+* 這個職階本意是讓'''較弱小的英靈能夠發揮更強的力量'''。
+** 在設定中是以能提升六圍為主，對於沒召喚運和聖遺物的御主而言或許是個能夠勉強取得一定戰力的選項。
+*** &lt;s&gt;不過真的這麼做的只有F/AP中被召喚出來的黑方Berserker，其他的就算不狂化也是妖魔鬼怪，而且除了少數外，每個御主都幾乎會拿聖遺物出來……所以……&lt;/s&gt;
+** 原則上任何英靈都可擔任此職階&lt;ref&gt;在召喚時多詠唱狂化咒文即可，以下為F/Z的狂化詠唱:「されど汝はその眼を混沌に曇らせ侍るべし。汝、狂乱の檻に囚われし者。我はその鎖を手繰る者」&lt;/ref&gt;，但是越適合的英靈來作的話，其狂化等級也會越高。
+*** 例如伊莉莎白與茶茶這兩個沒有發狂事蹟的英靈都擔任過Berserker，但狂化等級都很低。
+** 由於大部分被這個職階召喚出來的英靈都會喪失理智，像野獸般拚盡全力戰鬥，在從者之中也是消耗魔力特別大的存在。
+*** 在Fate/stay night的設定中，直到第五次聖杯戰爭為止所有的Berserker都是在御主耗盡魔力的情況下自滅退場。
+** 簡單來說，以犧牲理智和部分寶具為代價換取能力面板提升的狂化對於一些本來實力就不強的英靈而言是增強，但是對於本身實力就很強的英靈來說反而是弱化。
+*** 例如五戰中的赫拉克勒斯，因為被加上了狂化，雖然面板獲得了提升，但犧牲了勇猛和心眼的技能，也失去了理智，難以發揮作為希臘神話最強英雄的武藝和智慧，並且大多數的寶具也無法使用，雖說其並非是為了強化能力才被附加狂化，但從結果論，以Berserker職階召喚這些強大的英雄可以說是得不償失。
+
+=== 職階固有技能 ===
+* 狂化：以理性換取驚人的力量。
+** 一般來說越瘋狂的從者等級會越高，雖然戰鬥力也會跟著變強，但也會變得更難控制。基本上要使其聽從命令需要兩劃令咒。
+** 直到Fate/Grand Order為止，大部分擁有狂化技能的英靈都是以最直接的無法正常言語&lt;s&gt;鬼吼鬼叫&lt;/s&gt;來表達狂化的副作用，但&lt;s&gt;大概是因為遊戲上大家都不想聽到自己的角色只有嘶吼聲所以&lt;/s&gt;FGO新登場的英靈就算狂化技能高，在解釋上都會以'''沒有喪失正常的語言能力，但思考邏輯相當固定，且無法達成溝通'''的方式處理。
+*** 例如清姬便是擁有正常的語言能力，但會將御主看為自己的夢中情人轉世，且對說謊相當敏感無法好好溝通。
+*** 另一方面南丁格爾也一樣能夠正常對話，但她則是在「治療」這件事上相當固執，且無法說服她的判斷。
+*** 也有像坂田金時和貝奧武夫這樣，雖然持有狂化但等級極低（E級），因此不論思考模式或語言能力都與正常人無異，頂多就是戰鬥中稍微暴躁了一點的程度。
+*** 總的來說，狂化等級低的角色因為受狂化的影響不大所以能夠正常溝通，而狂化等級最高的角色則是看似能夠交流，但由於思想已經被固定在某個方面所以實際上是無法與其正常溝通的，而那些不會講話只能怪叫的&lt;s&gt;Fate系列正統的&lt;/s&gt;Berserker則介於這兩者之間。
+*** 不過也有Fate/strange Fake的開膛手傑克一樣，因為狂化的關係，反而將他瘋狂的一面減弱，讓他思考宛如正常人一樣。
+*** 類似例子還有FGO登場的卡里古拉，在亞特蘭提斯時因為自身與月神的因緣而吸納了機神阿爾忒彌斯的精神攻擊系權能，結果反而與本身具備的狂化相互抵消而恢復到前半生溫文儒雅的狀態，可以正常進行交流。
+*** 而且到了FGO後期，新登場的狂職往往狂化都很高卻幾乎都看不到這些副作用，甚至還出現了諸如阿塔Alter的「獸化」和項羽的「凶化」等變種版本，使得狂化本身的說明變得相當詭異。
+** 部分英靈持有的寶具因為需要相當的判斷力與技巧，在成為Berserker的時候會因為無法達到發動所需的條件而無法使用&lt;ref&gt;如F/SN的赫拉克勒斯&lt;/ref&gt;，但有些情況下若以令咒強加力量就能使用。
+** FGO的效果為B卡強化。以狂職本身偏重B卡的組合再加上B卡寶具可以打出極大的傷害，也因此湊不出3B卡、或是狂化等級偏低的狂職在遊戲中地位還蠻尷尬的。
+* 在FGO中具有1.5倍剋制Shielder和Foreigner以外所有職階，但同時也被Shielder以外所有職階2倍剋制的職階相性，由於攻擊大多數的敵人都是紅字，所以擁有優秀輸出能力的Berserker職階從者經常能成為對上什麼樣的敵人都能派上場的泛用打手。
+
+=== 基本能力 ===
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 筋力 !! 耐久 !! 敏捷 !! 魔力 !! 幸運
+|-
+| C || D || D || E || E
+|}
+
+== 列表 ==
+
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! Berserker適性 !! 備考
+|-
+| [[Hēraklēs (Fate)|赫拉克勒斯]] || [[Fate/stay night]] || 地中海：[[希臘神話]] || 赫拉的詛咒 || 《F/SN》原設在狂化狀態下因為本身擁有的武技被壓制而實際上是被弱化，但後來《F/SN》的UFOTABLE動畫版和《F/GO》等都描寫成沒有失去武技的狀態。&lt;br&gt;因事蹟而可以Caster以外的基本職階被召喚。
+|-
+| [[Sir Lancelot du Lac (Fate)|蘭斯洛特]] || [[Fate/Zero]] || 大不列顛：[[亞瑟王傳說]] || 對亞瑟的執念 || 原本被認為是被強加狂化的英靈，但後來證實本人認為自己比起Saber更適合以狂戰士的職階被召喚。可以以Saber職階召喚。
+|-
+| [[呂布奉先 (Fate)|呂布奉先]] || [[Fate/EXTRA]] || 中國：東漢後期 || 喜怒無常的善變性格 || 
+|-
+| [[愛爾奎特‧布倫史塔德]] || Fate/EXTRA || TYPE-MOON原創 ||  || 原本若以從者之身接受召喚的職階是[[Extra Class (Fate)#Funny Vamp（毒婦/ファニーヴァンプ）|Funny Vamp]]，但因為御主的誤解而成為了Berserker。
+|-
+| [[李書文 (Fate)|李書文]] || Fate/EXTRA  || 中國：清末民初 ||  || 受到Master移植令咒的副作用影響，職階從Assassin變更成Berserker。之後在Fate/EXTRA Last Encore也有登場
+|-
+| [[Báthory Erzsébet (Fate)|伊莉莎白‧巴托里]] || Fate/EXTRA CCC || 匈牙利：十六、十七世紀 || 連環殺手 || 在Master變更為[[Meltryllis]]時，變更職階成Berserker。此外在FGO的空之境界合作活動中也以Berserker職階登場
+|-
+| [[Spartacus (Fate)|斯巴達克斯]]|| Fate/Apocrypha || 義大利：古羅馬時期 || 造反事蹟 || 在Apocrypha的CM亦提到，斯巴達克斯亦可作Saber召喚
+|-
+| [[Frankenstein (Fate)|弗蘭肯斯坦]] || Fate/Apocrypha || 小說：《科學怪人》  || 喜怒無常的性情和對創造者的執念 || 
+|-
+| [[坂田金時 (Fate)|坂田金時]] || Fate/Apocrypha（廢案） || 日本：平安時期 ||  || 狂化等級E，看不出到底狂在哪裡的Berserker之一
+|-
+| [[Jack the Ripper (Fate/strange Fake)|開膛手傑克]] || [[Fate/strange Fake]] || 英國：維多利亞時期 || 連環殺手 || 正確來說是人們對身分不明的開膛手傑克的假想。如果是以「殺人鬼」的印象來召喚的話就會召喚出《F/AP》的蘿莉傑克。
+|-
+| [[Humbaba (Fate)|真Berserker]]&lt;br&gt;{{censored|胡姆巴巴}} || Fate/strange Fake || {{Censored|西亞：吉爾伽美什史詩}} || || 真實身分公開前由於其特殊的造型和對[[Nikola Tesla (Fate)|特斯拉]]的恨意而一度被認為是[[Thomas Edison (Fate)|愛迪生]]。
+|-
+| [[Henry Jekyll &amp; Hyde (Fate)|亨利·傑基爾&amp;海德]] || Fate/Prototype 蒼銀的碎片 || 小說：《化身博士》 || 連環殺手 || 在變身為海德之前和常人無異。在F/GO中只有海德是Berserker職階，傑基爾則是Assassin
+|-
+| [[森長可 (Fate)|森長可]]|| Fate/KOHA-ACE 帝都聖杯奇譚 || 日本：戰國時期 || 個性火爆 ||
+|-
+| [[Magni (Fate)|曼尼]] || [[Fate/kaleid liner 魔法少女☆伊莉雅]] || [[神話#北歐神話|北歐神話]]  ||  ||  
+|-
+| [[Vlad al III-lea (Fate/Apocrypha)|弗拉德三世]] || [[Fate/Grand Order]] || 羅馬尼亞：穿刺公 || 虐殺事蹟 || 稀有狀況下會以Berserker現界。&lt;br&gt;在這個狀態下的他反而會很乾脆的認定自己就是自己一直想根除的那個傳說中的吸血鬼，除此之外個性並沒有甚麼變化，算是負負得正的例子。
+|-
+| [[玉藻前 (Fate)|玉藻貓]] || Fate/Grand Order || 特殊&lt;ref&gt;為玉藻前九尾分裂而成的分身之一&lt;/ref&gt; ||  || 本來職階應該是Alter Ego，但在實裝的初期並沒有該職業，因此系統上歸類到Berserker中。
+|-
+| [[Caligula (Fate)|卡利古拉]] || Fate/Grand Order || 義大利：古羅馬時期 || 暴君 || 
+|-
+| [[Asterius (Fate)|阿斯忒里翁]] || Fate/Grand Order || 地中海：[[希臘神話]] || 吃人怪物 || 擁有少部分語言機能
+|-
+| [[Eric Bloodaxe (Fate)|血斧埃里克]] || Fate/Grand Order || 挪威：史實 || || 
+|-
+| [[清姬 (Fate)|清姬]] || Fate/Grand Order || 日本：傳說佚話 || 對戀人的執念 || 語言能力正常，但是個大病嬌
+|-
+| [[Darius III (Fate)|大流士三世]] || Fate/Grand Order || 波斯：史實 ||  || 
+|-
+| [[Beowulf (Fate)|貝歐武夫]] || Fate/Grand Order || 英國：史詩《貝歐武夫》 || &lt;s&gt;名字是狂戰士字源&lt;/s&gt; || 嚴格來說以史詩的描述來看應該是沒有作為狂戰士的適性&lt;s&gt;，但神奇東出說他有就當他有吧&lt;/s&gt;
+|-
+| [[茨木童子 (Fate)|茨木童子]] || Fate/Grand Order || 日本：傳說佚話 || 鬼種 || 由於惡鬼是狂暴的化身，因此作為惡鬼的茨木童子能夠保持理性與別人交流。
+|-
+| [[源賴光 (Fate)|源賴光]] || Fate/Grand Order || 日本：平安時期 || 對所愛之人和剷除「害蟲」的執念 || 會視Master或自己所愛之人為子女，然後把「害蟲」全部處理掉。
+|-
+| [[Florence Nightingale (Fate)|南丁格爾]] || Fate/Grand Order || 英國：史實 || 對自身本份的執念 || 雖然語言和思考能力正常，但非常難以溝通
+|-
+| [[Cú Chulainn (Fate/stay night)|庫夫林〔Alter〕]] || Fate/Grand Order || 歐洲：凱爾特神話 || 變成怪物的事蹟 || 本身擁有能成為Berserker的事蹟，但F/GO中登場的是[[Medb (Fate)|梅芙]]以特殊手法改造出來的型態。&lt;br/&gt;若以正常的Berserker職階召喚的話則會是別的樣子。
+|-
+| [[謎之女主角X Alter|謎之女主角X［Alter］]] || Fate/Grand Order || TYPE-MOON原創&lt;ref&gt;謎之女主角X本人是13年的愚人節企劃「路地裏さつき」的角色，X alter則是建基於X人設的原創角色，也是唯一冠名Alter但和本體是完全不同存在的角色。&lt;/ref&gt;&lt;ref&gt;X Alter是由X的基因造成的人造Servant，因此和本人是兩個存在&lt;/ref&gt; ||  || 狂化等級C，看不出到底狂在哪裡的Berserker之一
+|-
+| [[Phantom of the Opera (Fate)|歌劇魅影]] || Fate/Grand Order || 法國：《歌劇魅影》 || 為愛而狂 || {{censored|惡性隔絕魔境 新宿中的職階}}
+|-
+| [[茶茶 (Fate)|茶茶]] || Fate/Grand Order || 日本：戰國~桃土安山時期 ||  || 狂化等級E+，看不出到底狂在哪裡的Berserker之一{{censored|，不過根據絆對話內容來看，可能是在提到自己兒子的事情時會狂化}}
+|-
+| [[土方歲三 (Fate)|土方歳三]] || Fate/Grand Order || 日本：明治維新 || 對自身本份的執念 || 狂化等級D+，平時可以進行正常的交流，但思路被固定在「新選組」與「誠」的方向。
+|-
+| [[Penthesilea (Fate)|彭忒西勒亞]] || Fate/Grand Order || 地中海：希臘神話 || 對與阿基里斯那場戰鬥的執念 || 平常會有理性，但只要提到[[Achilles (Fate)|阿基里斯]]或者是跟那場戰鬥有關，以及跟美麗有關的字眼就會狂化。
+|-
+| [[Atalanta (Fate)|阿塔蘭塔〔Alter〕]] || Fate/Grand Order || 地中海：希臘神話 ||  || 此為阿塔蘭塔披上卡呂冬野豬皮後的型態，以此型態直接被召喚的話就是Berserker職階
+|-
+| [[項羽 (Fate)|項羽]] || Fate/Grand Order || 中國：秦末楚漢相爭時期 || 思考邏輯與常人截然不同 || 他得到的並非狂化技能，而是兇化技能 
+|-
+| [[Arjuna (Fate)|阿周那〔Alter〕]] || Fate/Grand Order || 印度:《摩訶婆羅多》 || 失去人性 || 吞噬了全印度神靈的神性，因此作為人類的人性幾乎消失殆盡並執著於「斷絕邪惡」這一目標，但隨著再臨取回人性之後狂化等級也會有所變動
+|-
+| [[哪吒 (Fate)|哪吒]] || Fate/Grand Order || 中國:《封神演義》 || 年少輕狂 || {{censored|主線2-4登場，接近於《封神演義》時期的哪吒}}
+|-
+| [[柴田勝家 (Fate)|柴田勝家]] || Fate/Grand Order || 日本：戰國時期 || 剽悍的武士 || 
+|-
+| [[Salome (Fate)|莎樂美]] || Fate/Grand Order || 《新約聖經》、《莎樂美》等 || 為愛而狂 || 被固定在因戀愛發狂，徹底壞掉後的精神狀態
+|-
+| [[Galatea (Fate)|伽拉忒亞]] || Fate/Grand Order || 地中海：希臘神話 || 為愛而狂 || 是因比馬龍近乎瘋狂的愛而誕生，因此擁有同樣的愛（瘋狂）
+|-
+| [[Morgan le Fay (Fate)|摩根]] || Fate/Grand Order&lt;ref&gt;實際上早在Fate/stay night的漫畫版就已登場，而直到Fate/Grand Order才確認其職階&lt;/ref&gt; || 大不列顛：[[亞瑟王傳說]] || 精神被妖&lt;s&gt;孽&lt;/s&gt;精折磨到[[壞掉]] ||&lt;s&gt;擁有Caster的技能，所以應該是Berserk‧[[Caster (Fate)|Caster]]才對&lt;/s&gt;
+|-
+| [[Kriemhild (Fate)|克里姆希爾德]] || Fate/Grand Order || 北歐神話：《尼伯龍根之歌》 ||  || 
+|-
+| [[織田信長 (Fate)|織田信長]] || Fate/Grand Order || 日本：戰國時期 || 兇殘事蹟 || 夏季泳裝式樣
+|-
+| [[Jeanne d'Arc (Fate)|貞德〔Alter〕]] || Fate/Grand Order || 法國：英法百年戰爭 || 剽悍的武士 || 夏季泳裝式樣&lt;s&gt;中二病，相較Avenger時期反而變正常了&lt;/s&gt;
+|-
+| [[宮本武蔵 (Fate)|宮本武藏]] || Fate/Grand Order || 日本：戰國~江戶時期 || 剽悍的武士 || 夏季泳裝式樣
+|-
+| [[Brynhild (Fate)|布倫希爾德]] || Fate/Grand Order || 北歐：北歐神話 || 對戀人的執念 || 夏季泳裝式樣
+|-
+|  [[清少納言 (Fate)|清少納言]] || Fate/Grand Order || 日本：平安時期 ||  || 夏季泳裝式樣
+|-
+| [[Paul Bunyan (Fate)|保羅·班揚]]|| 用漫畫了解FGO！ || 美國：民間傳說 || 存在本身就是瘋狂 || 雖然狂化等級D，不過她是存在本身即為世界瘋狂的象徵之一，因此就個性上反而是看不太出到底狂在哪裡的Berserker&lt;s&gt;，好啦，リヨぐだ子所創的英靈會有狂化屬性想想也是理所當然的&lt;/s&gt;
+|-
+| [[鬼女紅葉 (Fate)|鬼女紅葉]] || Fate/Requiem || 日本：民間傳說 || 鬼種 || 在Fate/Requiem第一卷中始終維持恐龍狀態，無法說話但似乎可以理解人語。FGO活動中首次披露她的人型態，並證實她是可以說話的&lt;s&gt;但幾乎都在自說自話而且講的是古文……&lt;/s&gt;
+|-
+| [[Ragnar Lodbrok (Fate)|朗納爾‧洛德布羅克]] || Fate: Lost Einherjar || 北歐：[[神話#北歐神話|北歐神話]] ||   ||
+|}
+* 除了上述這些成員以外，曾明確提及具有Berserker適性的還有[[Cú Chulainn (Fate/stay night)|庫夫林]]&lt;ref&gt;雖然已有庫夫林Alter的存在，但那是梅芙使用聖杯扭曲而成的產物，和原本的Berserker庫夫林不同&lt;/ref&gt;、[[Achilles (Fate)|阿基里斯]]、[[Enkidu (Fate)|恩奇都]]、[[Romulus (Fate)|羅慕路斯]]，但都未曾登場。
+** 不過就如同前段所述，原則上即使沒有Berserker適性也能以Berserker職階被召喚。
+
+== 備註 ==
+&lt;references /&gt;
+[[分類:TYPE-MOON]]
+[[分類:Fate系列]]
+[[分類:Berserker (Fate)|*]]

@@ -1,0 +1,177 @@
+{{h0|地獄墜（Hell Sinker./ヘルシンカー/&lt;s&gt;緋想神霊殿&lt;/s&gt;）}}
+{| class="wikitable" style="margin: 1.5em auto;text-align: center;" 
+|-
+| 上一部：[[らじおぞんで]] 
+|}
+
+[[File:img21435.png|center]]
+
+
+==概要 ==
+* 為Ruminant's Whimper(芻嗚)製作的同人作品，縱軸STG
+** 版本從[http://sanagimaru.nobody.jp/c72.html 官網無料體驗版](2004)到C72(2007)完成版
+*** 此外還有內容不同的[http://pan.baidu.com/s/1mgo3SI8 舊體驗版]
+** 風格上與トレジャー的作品很像，但題材方面較廣
+*** 關卡中出現的'''要石'''，會讓人聯想到[[東方Project登場人物一覽-part 2#d309f242|東方緋想天]]&lt;ref&gt;其實該成員有參與製作&lt;/ref&gt;
+*** &lt;s&gt;與有[[貓]]關的地霊殿、與佛教有關的星蓮船、與霊廟有關的神霊廟表示&lt;/s&gt;
+** 雖然人氣不及[[東方]]，但曾有舉辨過同人活動-[http://cleric.sakura.ne.jp/hs/ 「模倣されし霊廟」]
+
+===系統 ===
+* 可選的自機有四位，皆有下列共通的系統：
+{| class="wikitable" style="margin： 0 auto;" 
+|-
+! '''攻擊系統''' !! '''解說''' 
+|-
+| 通常射擊(メインショット/Main Shot) || 為手動連射+集氣 
+|-
+| 附加武裝(サブウェポン/Sub Weapon) || 可調整的範圍攻擊 
+|-
+| 釋放(ディスチャージ/Discharge) || 即Bomb 
+|}
+
+{| class="wikitable" style="margin： 0 auto;" 
+|-
+! '''防禦系統''' !! '''解說''' 
+|-
+| 鎮制圈(サプレッションレディアス/Suppression Radius) || 不用射擊時，產生可消除部份敵彈的力場 
+|-
+| 偽魂(ブートレグゴースト/Bootleg Ghost) || 通稱「護身符」，被彈的自動Bomb 
+|}
+
+* 畫面(簡化，僅介紹左側)
+** LIFE：殘機，最大為7
+** SOL：Bomb系數，使用(被彈)時減少，會自動回復
+** LUNA：連射系數，連射時減少，會影響SOL回復
+** SUBWEAPON：附加武裝系數，會自動集氣，連射時會影響到
+** STELLA：Rank系數
+** TERRA：進入霊廟專屬，必須不吃道具減少該值(到0即達成條件)
+
+==故事 ==
+ 在一次「大災難」後，使世界變了個樣，人們暫時回到了穩定的生活中……
+ 
+ 突然出現被稱為的「樂園」人工島附近，大量竄出被稱為「祈禱者」(Prayer)的正體不明物
+ 而組織-「墓場」為了調查，則派出「執行人」前往……
+
+===用語 ===
+* 祈禱者/Prayer/プライヤー
+** 由陶瓷及金屬構成，為行動而存在
+** 雖然是已死之人，仍有許多不明之處，必須要取得更多資料的存在
+*** 似乎與墓場的派系有某種關係
+
+* 核心區域/Cardinal Shaft/カーディナルシャフト&lt;br/&gt;{{censored|→花冠/Garland/ガーランド}}
+** 被稱為『樂園』的人工島
+** 祈禱者的據點，為與世隔絕，歷史未紀錄的存在
+** 建造它的目的未明確，被認為在幾百年前，過去發生的「大爆發」，造成的與世隔絕
+
+* 遺囑執行人/遺言執行者/Executor/エグゼキューター
+** 以調查奇異現象的存在
+*** 沒有詳細資歴，成員皆為「被世間放逐」之異能人士
+
+* 靈物/幽かな生物
+** 在空氣、水、等任何地方廣泛傳導能量的微粒(遊魂)
+** 雖存在但不代表看得見
+** 會於某時點出現，並構成各種物件(道具、子彈)或標示其主從關係的媒介
+
+* 偽箏/フォニーカイト/まやかしの凧/Phony Kite
+** 執行人的飛行技能，藉由靈物來推進
+
+* [https://wiki.komica.org/images/0/05/Tumblr_lp5agwWSai1r0dse8o1_400.png 寄宿木]/Misteltoe&lt;ref&gt;槲寄生&lt;/ref&gt;/ミステルトゥ
+** 類似盆栽的人造生命體&lt;s&gt;擬人化的R20&lt;/s&gt;
+*** 靈物能量媒介，能搭配執行人進行各種攻擊手段
+** 大部份取名「○○丸」，技術上可能是從祈禱者發展而來的
+
+* 的彈
+** 藉由構成的「魂」所進行的一種攻擊手段
+
+* 彈藥/AMMO/アモ&lt;ref&gt;Ammunition/アミュニション&lt;/ref&gt;
+** 指舊時代的實體兵器
+
+* 攻擊名
+** 多泛指敵方的招式名
+** 本條目以英譯優先
+
+* 墓場/Graveyard/グレーブヤード
+** 管理執行人的&lt;s&gt;考古義工&lt;/s&gt;組織
+*** 有三百年歷史(但建始日不明)
+** 因為沒有總部的概念，而有不少分支派系，不致於會惡鬥
+*** 相對卻耗費不少資產進行活動
+*** 常有資歷不明的成員為其特色
+*** 4~6人為一支部，方便管理約10~12倍數的成員，並定期開會
+** 受雇於政府軍警，表面上進行古文物考查，實際上是管理其封印
+*** 之中調查到的技術也能轉賣給其它企業
+*** 也會因為利益上而流出不少情報
+
+* 地獄墜/Hell Sinker./ヘルシンカー
+** &lt;s&gt;賢者之石，&lt;/s&gt;榮耀舊時代之物，寄宿著未知的力量，可能造就無法解脫的惡夢
+*** 大概是會被世人遺忘者，才能發現到其存在
+*** 是要破除封閉的世界，還是堅守歸處
+*** 迷戀渴求而創造，超越的願望或具體的完美
+*** 『夢，是一種疾病，會創造出最惡劣的現實』面臨多種狀況的男人，為此稱之
+
+==登場角色一覽 ==
+* [[HellSinker的登場角色一覽-Executor|墓場的執行人]]
+** [[HellSinker的登場角色一覽-Prayer|核心區域的祈禱者]]
+** [[HellSinker的登場角色一覽-Heroic Dead|英靈]]
+** [[HellSinker的其它登場角色一覽|其它]]
+
+==Stage、BGM ==
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! rowspan = "2"  | Segment(段落) !! rowspan = "2"  | 關卡標題 !! colspan = "2"  | Boss !! colspan = "2"  | BGM 
+|-
+! Lead(前) !! Behind(後) !! Stage !! Boss 
+|-
+| 01 || War Relics/古城/戰跡 || 暴君騎士(空) || 寂吟鳥 || [https://youtu.be/HGRjkDijesg Welcome to the garden. epigone(歡迎來到模仿者的花園)] || rowspan = "2"  | [https://youtu.be/ASpNK3OyYZE Keep your dignity(保持你的尊嚴)] 
+|-
+| 02 || Ruined Catsle/廢宮/墟城 || 緋色女王 || 煌符 || [https://youtu.be/CCPhE_3olKE Artificial atoll(人工環礁)]/[https://youtu.be/g_EBsw3b0Js Amphitheater(競技場)] 
+|-
+| 03 || Cloudy Ocean/浸海/雲海 || - ||深淵主教 || colspan = "2"  |[https://youtu.be/HMqERmWjnws Away from the horizon(遠離地平線)] 
+|-
+| 04 || Underpath/撰路/路途中 || colspan = "2"  |銹龍 || [https://youtu.be/U2WLtCxSCJY Gate crasher(進門的不速之客)] || [https://youtu.be/dKR5b8_plQc Fade away. apostate(消逝、變節者)] 
+|-
+| 05 || On The Medallion/叡柩/勳章開啟 || colspan = "2"  |萬年曆 || Clocks and Cracks(時與裂)([https://youtu.be/_yvbiNzw_VM 日]/[https://youtu.be/D25YxmtrI1s 月]) || [https://youtu.be/SgYCn4m1ZK8 Perdurable annulus(永久環)]&lt;br/&gt;[https://youtu.be/w1PAxkEPTLk Amaranthine moon(紫紅月)] 
+|-
+| 06 || Into Cardinal/瞑奏/進入核心 || colspan = "2"  |播種使 || [https://youtu.be/-cPYWIv5BrQ Fragile dreadnought(弱之畏)] || [https://youtu.be/x9cEPUOV-GQ?list=PL05E8FB85BD06F83E PAST RISINGS AGAIN(?)] 
+|-
+| 07 || Past Risinss Again/遷拘/往時再起 || colspan = "2" |暴君騎士(陸) || colspan = "2" | [https://youtu.be/Lf0FxvSlHu0 Funeral corridor(葬廊)] 
+|-
+| 08 ||  Last Dawn/黎命/最後黎明 || colspan = "2"  |地獄墜{{censored|→失物771}} || [https://youtu.be/_x5vL0wwKwg Under haze till end(陰霾下,直到結束)]&lt;br/&gt;[https://youtu.be/E6qdalup2s4 Noontide(正午)] || [https://youtu.be/GkJRLMOClSQ Ceramic chrysalis(瓷繭)]&lt;br/&gt;[https://youtu.be/lQE2KGLMLPo Obscure osculation(朦朧密合)]&lt;br/&gt;[https://youtu.be/1b04MDTNMWE A embryo in the abyss(在深淵的胎兒)]&lt;br/&gt;[https://youtu.be/KvuudQrJJEg HellSinker(?)] 
+|-
+| SF || Shrine Of Farewell/告別靈廟 || colspan = "2"  | 英靈群 || colspan = "2"  |[https://youtu.be/0iy-F0f_gDI Forbidden megalithes/calamitous children(禁之殿/禍之子)] 
+|-
+| rowspan = "2"  | EX || The Great Majority/偉大なる多数/絕大多數 || colspan = "2"  | 星艦 || colspan = "2"  |[https://youtu.be/_No-T7vC-gw?list=PL05E8FB85BD06F83E ???] 
+|-
+| The Way Of All Flesh/万人の途/眾生之路 || colspan = "2"  | {{censored|無名的771}} || colspan = "2"  |[https://youtu.be/44ffwSL8VAg?list=PL05E8FB85BD06F83E ???] 
+|}
+
+&lt;!-- **隱藏要素 --&gt;
+&lt;!-- **[[没データ|未使用資料]] --&gt;
+
+== 譯文資料 ==
+[http://pan.baidu.com/s/1mgKYcXU 下載連結]
+
+==參考資料 ==
+* [https://ja.wikipedia.org/wiki/Hellsinker. Hellsinker.(Wiki)]
+** [http://dic.nicovideo.jp/a/hellsinker. ヘルシンカー(ニコニコ大百科)]
+** [http://dic.pixiv.net/a/HellSinker. へるしんかー(ピクシブ百科事典)]
+* [https://store.steampowered.com/app/1067720/Hellsinker/ steam版]
+* [http://www40.atwiki.jp/hellsinker/ RUMINANT'S WHIMPER(總合Wiki)]
+** [http://web1.incl.ne.jp/saty/hellsinker/cockpit.html 鉄錆妖精庭園(舊體驗版介紹)]
+** [http://www.q-ice.com/diary/ex_hellsinker/ 「Quarter Iceshop」(ヘルシンカー私的マニュアル)]
+** [http://bbs.saraba1st.com/2b/forum.php?mod=viewthread&amp;tid=702632 系統詳細介紹]
+* [[同人STG系列作品列表]]
+&lt;!-- --[http:g.e-hentai.org/g/448307/92e079cdc3/ FETISHISM X] --&gt;
+
+==低調 ==
+* [http://pan.baidu.com/share/link?shareid=218879&amp;uk=403599864 Baidu]
+
+==回應 ==
+[[{{TALKPAGENAME}}|Talk:{{FULLPAGENAME}}]]
+
+== 備註 ==
+&lt;references/&gt;
+[[分類:遊戲]]
+[[分類:射擊遊戲]]
+[[分類:同人遊戲]]
+[[分類:同人STG系列作品]]
+[[分類:HellSinker.|*]]

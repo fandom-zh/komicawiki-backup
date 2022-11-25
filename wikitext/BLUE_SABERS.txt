@@ -1,0 +1,119 @@
+{{h0|Blue Sabers/&lt;s&gt;[[美樹沙耶香|蒼勇之刃]]&lt;/s&gt;/&lt;s&gt;[[Artoria Pendragon (Fate)|藍Saber]]&lt;/s&gt;/蒼藍軍刀/ブルーセイバーズ }}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+{{stub row|style=text-align:center;}}
+|-
+| 上一部：[[Blue Knights]] 
+|-
+| 下一部：[[Blue Sabers-Operation Orbital Hammer-]] 
+|}
+[[File:img11705.jpg|right]]
+
+
+==概要 ==
+* 又稱「藍翼空戰隊-軍刀中隊」,由[[Blue＆White]]所開發的同人STG
+** 版本從[http://freett.com/morikem/soft/dl.html 官網無料體驗版]到C63完成版
+
+===系統 ===
+* 可選的自機有三架,皆有下列共通的系統:
+
+* 武器切換
+** 以循環(通常→藍→紅→黃→通常)的方式來切換武器
+** 除了通常射擊外,其它三項有用量限制
+* 特殊兵器
+** 分為三種,有不同的攻擊方式:
+*** {{color|blue||'''藍'''}}→具有貫通效果
+*** {{color|red||'''紅'''}}→以擴大攻擊範圍為主
+*** {{color|yellow||'''黃'''}}→以實體導彈為主
+
+* 裝甲
+** 各機裝甲值隨種類不同,撞到子彈會有反彈的效果
+*** 自機撞到敵人不會產生傷害(所以能進行多段HIT的[[零距離射擊]])
+
+* 補給機(Support Aircraft)
+** 由於沒有火力強化,但自機能召喚它來進行[[補魔力|補給]](需要自機裝上去才行)
+** 主要補充特殊兵器能量及裝甲值,還有火力較低的自動射擊(補給時為低速模式)
+*** 還有,它不是子機,有專屬的HP值(能自己修復),被擊爆(HP到0)就不能補給了
+*** 打完Boss後的空閒時間,方便於補給
+*** Credit數為自機+補給機=2,所以只有單數就不能接關
+
+==故事 ==
+* 歷史→[[蒼藍系列戰史]]
+
+==自機 ==
+* 由寶藍・航空社開發,屬於第8戰術航空隊-「蒼藍軍刀」的新型機
+** 於五面能改造成前往宇宙的火箭機型(能無限使用特殊兵器)
+
+* 汎用戰鬥機 SAS-02-G2 伊里斯(エイリス/ARYS)&lt;br&gt;[[File:img11706.png]]
+** 汎用性較高的「平衡型」
+** 通常射擊:火神炮/バルカンショット/Vulcan Shot
+*** 特(藍):反射雷射/リフレクトレーザー/Reflect Laser
+*** 特(紅):全範圍火神炮/オールレンジバルカン/All range Vulcan
+*** 特(黃):星團爆彈/クラスターボム/Cluster Bomb
+
+* 重驅逐攻擊機 SAS-03-E1 γII(ガンマⅡ/GAMMA II)&lt;br&gt;[[File:img11707.png]]
+** 高血量、移動較慢的類型,武裝繼承SAS-03-B(γ)的「導引」效果
+** 通常射擊:雙重火神炮/ツインバルカン/Twin Vulcan
+*** 特(藍):捜索雷射/サーチレーザー/Search Laser
+*** 特(紅):捜索飛彈/サーチミサイル/Search Missile
+*** 特(黃):引信爆彈/エクスプローダー/Exploder
+
+* 輕量高機動戰鬥機 SAS-05-B3 艾弗西(エプシィ/EPSY)&lt;br&gt;[[File:img11708.png]]
+** 以高機動性為主,移動較快
+** 通常射擊:高速火神炮/ラピッドバルカン/Rapid Vulcan
+*** 特(藍):超級雷射/ハイパーレーザー/Hyper Laser
+*** 特(紅):擴散槍/スプレッドガン/Spread Gun
+*** 特(黃):針式爆彈/ニードルボム/Needle Bomb
+
+===補給機 ===
+* 專門支援自機用的補給機(請不要當成子機使用)
+
+* SUA-01-C2 巴利史德拉斯(バリストラス/BALISTRUS)&lt;br&gt;[[File:img11709.png]]
+** 直向自動射擊,回復速率2秒1
+
+* SUA-03-A1 會集者/空格雷斯(コングレス/CONGRESS)&lt;br&gt;[[File:img11710.png]]
+** 全方向自動照準射擊,回復速率4秒1
+
+==Stage Boss ==
+* 為MUCOC的基幹企業-軌道企業連合「星體科技社」所建立的軍事勢力
+** 主要據點於宇宙中小惑星LP-2
+*** 這裡的Boss除了3面,在O.O.H.才出現名字
+*** 從本作開始,能個別破壞Boss的部位(到最終面只能依序破壞)
+*** 同時也能封鎖住Boss的攻擊
+*** 特殊兵器(藍)對部份Boss無效
+
+==Stage ==
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! Stage !! Boss !! 備註 
+|-
+| 01 || [[File:img11711.png]] ||  
+|-
+| 02 || [[File:img11712.png]] ||  
+|-
+| 03 || [[File:img11713.png]] ||  
+|-
+| 04 || [[File:img11714.png]] ||  
+|-
+| 05 || - || 沒有Boss,全程變為前往宇宙的生存關卡 
+|-
+| 06 || [[File:img11715.png]] || 為前作「CrossFire EX」出現的4面Boss 
+|-
+| 07 || [[File:img11716.png]] || 有[[三階段]] 
+|}
+
+== 參考資料 ==
+* [http://m.gamebase.com.tw/forum/6477/78962865 藍翼空戰隊]
+* [[Wikipedia:ja:BLUE%26WHITE|Blue&amp;amp;White(Wiki)]]
+* [http://www5f.biglobe.ne.jp/~souma-n/Earl3/b&amp;amp;w/bs.html 蒼と白の軌跡(BS)]
+* [http://www.geocities.co.jp/Playtown-Knight/2522/soft/bs.html Blue Sabers(B&amp;amp;W)]
+
+== 低調 ==
+* [http://howfile.com/file/jjou/76854c25/ Blue Sabers(HF)]
+* [http://pan.baidu.com/share/link?shareid=455827&amp;amp;uk=2988939541 Blue Sabers(百度盤)]
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+&lt;references/&gt;

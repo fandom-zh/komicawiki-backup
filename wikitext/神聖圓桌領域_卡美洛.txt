@@ -1,0 +1,102 @@
+{{h0|閃耀的銀之臂}}
+[[File:神聖圓桌領域banner.png|500px|center]]
+== 概要 ==
+[[File:神聖圓桌領域headline.jpg|500px|center]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 特異點編號
+| 第六特異點
+|-
+! 時代
+| A.D. 1273
+|-
+! 人理定礎值
+| EX
+|-
+! 地點
+| 耶路撒冷
+|-
+! 導航角色
+| [[Sir_Bedivere_(Fate)|閃耀的銀之臂]]
+|-
+! 通關後贈送角色
+| [[Sir_Bedivere_(Fate)|返王之劍]]
+|-
+! 劇本作者
+| 奈須磨菇、櫻井光&lt;ref&gt;原本為櫻井主筆，後來由奈須重寫，而保留並加筆由櫻井負責的埃及勢部份&lt;/ref&gt;
+|}
+
+* Fate/Grand Order第一部第六章的故事。，
+* 在初期宣傳裡，本章標題為《神聖圓桌領域 耶路撒冷（神聖円卓領域　エルサレム）》，但在實裝前3個月，更改為現在的標題。[[File:神聖圓桌領域old_headline.png|300px|right]]
+** 有人推選原因是因為各種大人的事情，而未能通過APPLE的審查而更名
+** 亦有可能是因為這一章徹底砍掉重寫而更名&lt;ref&gt;故事上則是「往第五特異點出發之前就已發現特異點的存在，但因『人理定礎值Ex』這個不安定的要素而延後其攻略」，期間可能發生竹帚日記裡前傳的事件而導致特異點的變化&lt;/ref&gt;
+
+* 另外，奈須亦在竹帚日記寫了一篇關於是次特異點的前傳。當中內容，可能是原本預定的劇情
+
+== 故事 ==
+[[File:神聖圓桌領域prologue.png|500px|center]]
+*&lt;s&gt;就是十字軍東征燒殺搶掠的故事。&lt;/s&gt;
+
+== 本節登場主要角色 ==
+
+=== 主人公勢力 ===
+
+* [[Leonardo_da_Vinci_(Fate)|達文西&lt;s&gt;醬&lt;/s&gt;]]
+** 由於此次人理定礎值達到EX，根本無法保證迦勒底亞能和之前一樣支援，所以達文西&lt;s&gt;醬&lt;/s&gt;硬是讓自己和主角一同前往特異點
+
+=== 中立勢力 ===
+
+* [[Sir_Bedivere_(Fate)|路奇烏斯]]
+
+* [[玄奘三藏_(Fate)|玄奘三藏]]
+
+* [[俵藤太_(Fate)|俵藤太]]
+** 被三藏硬當成弟子
+
+=== 山之民 ===
+
+* [[Hassan-i Sabbah (Fate・咒腕)|咒腕的哈桑]]
+
+* [[Hassan-i_Sabbah_(Fate/Zero)|百貌的哈桑]]
+
+* [[Hassan-i Sabbah (Fate・靜謐)|靜謐的哈桑]]
+
+* [[Arash (Fate)|阿拉什]]
+
+=== 埃及側 ===
+
+* [[Ozymandias (Fate)|奧茲曼迪亞斯]]
+
+* [[Nitocris (Fate)|尼托克莉斯]]
+
+=== 卡美洛側 ===
+
+* [[Artoria Pendragon (Fate)|獅子王]]
+
+* [[Sir Gawaine (Fate)|高文]]
+
+* [[Sir Tristan (Fate)|崔斯坦]]
+
+* [[Sir Lancelot du Lac (Fate)|蘭斯洛特]]
+
+* [[Mordred (Fate)|莫德雷德]]
+** 籍由獅子王所召喚而來，故並沒有和主人公在第四章冒險的記憶
+
+* [[Sir Agravain (Fate)|阿格凡]]
+** 暫時是已出場的圓桌騎士中，惟一擁有立繪，但未有戰鬥模組
+
+=== 其他 ===
+
+* [[山中老人 (Fate)|山之翁]]
+** 最初的哈桑
+
+* [[Merlin_(Fate)|梅林]]
+
+* [[Sherlock Holmes (Fate)|夏洛克‧福爾摩斯]]
+
+== 關聯條目 ==
+{{Fate/Grand Order章節}}
+
+== 備註 ==
+&lt;references /&gt;
+[[Category:Fate/Grand Order劇情]]

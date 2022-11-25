@@ -1,0 +1,375 @@
+{{h0| Extra Class（特殊職階/エクストラ クラス）}}
+
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|特殊額外職階：[[#Ruler|Ruler]]、[[#Avenger|Avenger]]、[[#Shielder|Shielder]]、[[#Alter Ego|Alter Ego]]、[[#Moon Cancer|Moon Cancer]]、[[#Foreigner|Foreigner]]
+|}
+
+== 簡介 ==
+* 聖杯戰爭所能召喚的基礎七種職階之外的職階皆稱作特殊職階。
+* 目前已知的特殊職階已有十幾種&lt;s&gt;比基礎職階還多是怎樣?&lt;/s&gt;
+
+=={{anchor|Ruler}} Ruler（裁定者/ルーラー）==
+[[File:Ruler.png|250px|right]]
+=== 簡介 ===
+* &lt;s&gt;極為普遍，幾乎每位小學生都擁有，是一種用於量度長度的儀器或文具，通常用於量度較短的距離或畫出直線。&lt;/s&gt;
+* 聖杯的緊急應變系統之一。當聖杯戰爭發生異常狀態的情況時，為確保聖杯戰爭的儀式能正常運作，由聖杯自己召喚而來的管理者。本身不參加聖杯戰爭，而是做為監督者來管理戰爭的過程，只會在必要時才會適當的介入。
+** 例如從者對聖杯戰爭的規則置之不理，危害與聖杯戰爭完全無關的無辜人士等。
+* 由於作為監督者的立場必須貫徹中立，只能由沒有任何願望要託付給聖杯，也不想藉由參賽來達成任何目的的高潔英靈才能擔任。
+** 然而FGO中迦勒底召喚式與聖杯無關，所以雖然[[Sherlock Holmes (Fate)|福爾摩斯]]在FGO也是 Ruler，但並不屬於這類，而是做為解開真相的調停者身分獲選。
+** 至於新登場的[[嬴政 (Fate)|始皇帝]]也不屬於此類，這裡的靈基資格應為規則制定者或唯一統治者
+* 似乎因為聖杯是屬於西方概念的產物，許多資格者都是十字教聖人。
+* 為實行監督聖杯戰爭的工作，被聖杯授予各種特殊能力。
+* &lt;s&gt;女性擔任Ruler的基本條件是大猩猩&lt;/s&gt;
+
+=== 職階固有技能 ===
+* '''對魔力'''：對魔術的抵抗力。能削減魔術所造成的傷害，甚至能將一定程度的魔術無效化。
+** 尤其是十字教出身的聖人都具有相當高等的對魔力，但相對的不適用於教會的秘蹟。
+* '''真名看破'''：可以在目視到Servant時立刻把握真名、職階及性能情報。
+** 面對具有隱藏真名及性能的固有能力或寶具時須按幸運等級判定。
+* '''神明裁決'''：賦予Ruler的最高權限。對聖杯戰爭雙方每騎參賽Servant擁有兩劃令咒的權利，能夠以令咒強制Servant放下立場執行命令，但不能交互使用，而且不能用其他Servant的令咒來代替。
+** 可以當作報酬轉讓給願意協助的御主。
+
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !!  Ruler適性 !! 備考
+|-
+| [[Jeanne d'Arc (Fate)|貞德]] || rowspan="2"|Fate/Apocrypha || 歐洲：英法百年戰爭 || 基督聖人 ||大概因為元祖的關係不是暴力女&lt;s&gt;但卻是潛在的恐怖分子（笑）&lt;/s&gt;
+|-
+| [[言峰四郎|天草四郎時貞]] ||日本：江戶時期 || 基督聖人 || 艾因茲貝倫違規招喚的產物，原先靈基並無Ruler資格
+|-
+| [[Martha (Fate)|瑪爾大]] || rowspan="2"| Fate/Grand Order || 歐洲：史實、新約聖經 || 基督聖人 || 夏季泳裝仕樣，本身確實有資格。&lt;s&gt;暴力女Ruler1號&lt;/s&gt;
+|-
+| [[Sherlock_Holmes_(Fate)|夏洛克‧福爾摩斯]] ||歐洲：《福爾摩斯》系列 || 執法者 || 原先靈基為Caster，實裝時變為Ruler
+|-
+| [[Charlemagne (Fate)|查理大帝]] || Fate/EXTELLA LINK || 法蘭克：加洛林王朝 || 基督的守護者 || 基於歷史側面描寫所誕生的查理曼，原先靈基應無Ruler資格
+|- 
+|[[嬴政 (Fate)|始皇帝]] || rowspan="7" | Fate/Grand Order || 中國：戰國時代、秦朝 || 統一中原的事蹟 || 又一特例，這裡的Ruler應為規則制定者或唯一統治者
+|- 
+|[[Quetzalcoatl (Fate)|魁札爾科亞特爾〔森巴／聖誕〕]] || 拉丁美洲：阿茲特克神話 || 聖誕女神 || 聖誕節式樣 &lt;s&gt;暴力女Ruler2號&lt;/s&gt;
+|-
+|[[Astraea (Fate)|阿斯特賴亞]] || 希臘神話 || 正義女神 || 希臘神話中的正義女神&lt;ref&gt;一種說法是Ruler職階卡牌背面的人像原型就是阿斯特賴亞&lt;/ref&gt;。而FGO中登場的則是附身在[[露維亞瑟琳塔‧艾蒂菲爾特|露維亞]]身上的擬似Servant。&lt;s&gt;暴力女Ruler3號，這邊還是附身對象就很暴力&lt;/s&gt;
+|-
+|[[Artoria Pendragon (Fate)|阿爾托莉亞．潘德拉貢]] || 大不列顛：亞瑟王傳說 || 荷官 || 夏季泳裝仕樣，作為管理賭場秩序的監督者取得了Ruler資格
+|-
+|[[卑弥呼 (Fate)|卑彌呼]] || 日本：邪馬台 || 光之巫女 || &lt;s&gt;暴力女Ruler4號，處理紛爭的方式是用拳頭&lt;/s&gt;
+|-
+|[[Amor (Fate)|埃莫〔卡蓮〕]] || 希臘神話&lt;br&gt;TYPE-MOON原創 || 小愛神 || &lt;s&gt;暴力女Ruler5號，鞭子與糖果合而為一&lt;/s&gt;
+|-
+|[[Leonardo da Vinci (Fate)|李奧納多．達文西]] || 義大利：文藝復興時期 || || 夏季泳裝仕樣
+|}
+
+=={{anchor|Avenger}} Avenger（復仇者/アベンジャー）==
+[[File:Avenger.jpg|250px|right]]
+=== 簡介 ===
+* &lt;s&gt;[[漫威漫畫]]世界的超級英雄組織，雲集了不少擁有驚人異能的人物。&lt;/s&gt;
+* 最初登場的復仇者是艾因茲貝倫依世界線的不同所違規招喚的職階之一。為當初聖杯設立之時，艾因茲貝倫為了能獲得勝利而暗中設定的作弊密技。
+* 對人類（非人類也可以）持有莫大憎恨者可依此職階進行招喚。
+** &lt;s&gt;由於[[成句/○○太可惡！|人類太可惡！]]，復仇者的適格者比裁決者多。&lt;/s&gt;
+** &lt;s&gt;由於[[成句/○○太可惡！|人類（ry]]，非人類種的幻靈也有復仇者的適格者。&lt;/s&gt;
+
+=== 職階固有技能 ===
+* '''復仇者'''：象徵集人之怨恨於一身的存在的技能，能夠更簡單的積攢怨念與仇恨。
+* '''忘卻補正'''：人類是健忘的生物，但復仇者絕不遺忘。不管時間流逝多少，憎恨也絕對不會平息，即便在憎惡的前方有著多麼美妙的事物。
+* '''自己回復（魔力）'''：直到完成復仇為止，魔力會不斷湧出。
+** 順帶一提，在原作中各職階都有屬於自己的固有技能，但是在FGO因為遊戲性、角色設定等原因，造成同一職的不同從者有著不同的固有技能，或是某些從者缺乏該職階的固有技能
+*** 舉例來說，[[Báthory Erzsébet (Fate)|伊莉莎白]]有著其他Lancer沒有的陣地做成、[[Edward Teach (Fate)|黑鬍子]]沒有Rider該有的騎乘、[[Charles Babbage (Fate)|巴貝奇]]缺少Caster的陣地做成……等等
+*** 截至2019年，只有Avenger這職階的所有從者都擁有相同的固有技能。
+**** 然而[[Space Ishtar|宇宙伊絲塔]]實裝之後這個紀錄也成為歷史了……
+
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 復仇對象 !! 備考
+|-
+| [[Angra Mainyu (Fate)|安格拉‧曼紐]] || Fate/hollow ataraxia || 中東：拜火教 |||| 拜火教中的邪神，真身為被冠有邪神之名的普通青年
+|-
+| [[Hēraklēs (Fate)|阿爾喀德斯]] || [[Fate/strange Fake]] || 歐洲：希臘神話 ||希臘神祇|| 實際上的職階是[[Archer (Fate)|Archer]]，但經由黑泥改造後，性質變得比起Archer更近似Avenger
+|-
+| [[The Count of Monte Cristo (Fate)|愛德蒙‧唐泰斯]] || rowspan="11"| Fate/Grand Order ||歐洲：《基度山恩仇記》 || 陷害他、將他打入牢獄的人 || 世界上最著名的復仇鬼
+|-
+| [[Jeanne d'Arc (Fate)|貞德〔Alter〕]] ||歐洲：英法百年戰爭 || 法國人民 || 原為吉爾．德．雷向聖杯許願後的產物，原本是不存在的可能性、後來調整靈基，由Ruler改為Avenger
+|-
+| [[Medusa (Fate)|戈爾貢]] ||歐洲：希臘神話 || 人類 ||
+|-
+| [[Hessian Lobo (Fate)|黑森‧羅伯]] ||美國：《西頓動物記》&lt;br&gt;美國：《沉睡谷傳奇》 || 迫害自己同類的人類 || 
+|-
+| [[言峰四郎|咒術師]] ||{{censored|日本：江戶時期}} || 德川 ||{{censored|此為平行世界的天草四郎，由於反覆跨越平行世界仍無法改變島原之亂的結果而成為復仇者。}}
+|-
+| [[Antonio Salieri (Fate)|安東尼奧‧薩里耶利]] ||歐洲：文藝復興時期 ||[[Wolfgang Amadeus Mozart (Fate) |莫札特]]|| 由人們妄想中的「莫札特毒殺論」等諸多謠傳結合而成，[[風評被害]]的體現。
+|-
+| [[織田信長 (Fate)|織田信長]] ||日本：安土桃山時期 || ||
+|-
+| [[Space Ishtar|宇宙伊絲塔]] || TYPE-MOON原創 || 人類 ||
+|-
+| [[Dioscuri (Fate)|卡斯托耳]] || 歐洲：希臘神話 || 人類 || 系統上登記的職階「Saber」是妹妹波魯克斯的，卡斯托耳本人的實際職階為Avenger。&lt;br&gt;由於是雙人一組的神靈從者，因此破例達成了「兩人各擁有一個職階」的結果。
+|-
+| [[平景清 (Fate)|平景清]] ||日本：平安時代 || 源氏 ||
+|-
+|| [[Kamadeva (Fate)|伽摩]]  || 印度：印度[[神話]] || || 夏季泳裝仕樣&lt;br&gt;&lt;s&gt;其靈基一卡面放在大量以暗色系為主的一眾Avenger中顯得特別突出&lt;/s&gt;
+|-
+| [[Louis XVII of France (Fate)|路易十七]] || Fate/Requiem || 法國：史實 |||| 
+|}
+* 除了上述這些成員以外，曾明確提及具有Avenger適性的還有[[茶茶 (Fate)|茶茶]]&lt;ref&gt;曾在《帝都聖杯奇譚》中以「Avenger・淀」的名義出場，&lt;s&gt;本來以為只是搞笑劇情限定的職階，但卻&lt;/s&gt;在之後實裝的魔王信長口中得知茶茶的確具有Avenger的適性。&lt;/ref&gt;、[[Caenis (Fate)|凱妮絲]]和[[Grand Duchess Anastasia Nikolaevna of Russia (Fate)|安娜塔西亞]]。
+** 此外，戈爾貢曾表示[[Quetzalcoatl (Fate)|魁札爾科亞特爾]]也擁有Avenger的資質，[[Watcher (Fate/strange fake)|亞哈船長]]（暫定）也稱自己若被召喚出來會是Avenger。
+
+=={{anchor|Saver}} Saver（救世主/セイヴァー） ==
+* 適性條件不明，推測其能力可拯救世界者可能以此職階召喚。
+** 目前以此職階受召喚的從者只有覺者，但從「覺者的天敵是其他救世主」這個設定來看，應該可以認為還有其他人擁有Saver適性。
+** &lt;s&gt;世界三大宗教的救世主應該都能以此職階召喚，但是國際問題……&lt;/s&gt;
+* 名稱為了致敬F/sn而故意取成了Saber（セイバー）的諧音，不然救世主一般應該是使用「Savior」的拼法。
+** 在英文版的Fate/EXTRA中就真的將拼法改成「Savior」了。
+=== 職階固有技能 ===
+* '''對英雄'''：以英雄作為對手時，讓其能力參數下降。
+* '''領袖氣質'''：指揮、統率大軍團的才能。
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 備考
+|-
+| [[覺者 (Fate)|覺者]] || [[Fate/EXTRA]] || 印度：史實 || 佛教的救世主
+|}
+
+=={{anchor|Alter Ego}} Alter Ego（第二人格/アルターエゴ）==
+[[File:AlterEgo.png|250px|right]]
+=== 簡介 ===
+* 職階名稱意指從自我中分離出的其他人格。如同分身的存在，雖然與本體外貌相似，但內在並非是同一人。
+** 日文使用的職階正式漢字名稱是「別人格」。
+* 首次出現在Fate/EXTRA CCC，是BB以自身的感情製作而成的高級AI。她們擁有靈魂，作為不同於BB的生命體而活動。
+** Alter Ego是從不完全的複製形式中誕生，由於她們想要彌補當中的缺損，因而獲得了不同於本體的獨立自我意識。
+*  從英靈複合體到擬似從者，似乎只要和本體不是同一人就算數。
+**  &lt;s&gt;由於官方並沒有提出可以當上Alter Ego的明確標準，使得這裡的成員越來越雜，快變成新一代的垃圾桶職階了&lt;/s&gt;
+*** 但魔神沖田給的卻是「沖田總司的某個可能性的末路」、「沖田總司的靈基變質後的產物」這種聽起來是同一人，感覺就和一般的Alter沒兩樣的解釋。
+*** &lt;s&gt;難不成所有的Alter都能當Alter Ego嗎&lt;/s&gt;
+** 而蘆屋道滿的情況則是他同時融合了一體神靈、二體惡靈的緣故。
+
+=== 職階固有技能 ===
+* '''對魔力'''
+
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 原先本體 !! 備考
+|-
+| [[Passionlip]] || rowspan="2"|Fate/EXTRA CCC || rowspan="8"| TYPE-MOON原創 || rowspan="5"|[[BB (Fate)|BB]] || rowspan="5"|BB將自己「對作為完美的AI不需要」的部分分離出來而成。
+|-
+| [[Meltryllis]]
+|-
+| [[Kazu​​radrop]] || rowspan="3"|Fate/EXTRA CCC Fox Tail
+|-
+| [[Violet (Fate)|Violet]]
+|-
+| [[Kingprotea]]
+|-
+| [[殺生院祈荒]] || rowspan="7"|Fate/Grand Order ||{{censored | BeastIII/R}}|| {{censored | BeastIII/R為了想成為從者而排出的一部分靈基}}&lt;br&gt;嚴格來說角色本身出自Fate/EXTRA CCC，但Alter Ego的她則是在Fate/Grand Order的合作活動正式登場。
+|-
+| [[Magus Aegis Elizabeth Channel (Fate)|機械伊莉醬]]||rowspan="2"| [[Báthory Erzsébet (Fate)|伊莉莎白‧巴托里]]|| rowspan="2"| 最初登場是[[Berserker (Fate)|Berserker]]，但在取得人心迴路後，靈基發生變化變成Alter Ego
+|-
+| [[Magus Aegis Elizabeth Channel (Fate)|機械伊莉醬II號機]] 
+|-
+| [[蘆屋道満 (Fate)|蘆屋道滿]] || 日本：平安時代 || 蘆屋道滿 || 在下總國登場時是Caster，第二部CM中變成Alter Ego。{{censored|吸收亞茲特克神話的女神「伊茲帕帕羅特」、斯拉夫神話的惡神「切爾諾伯格」、以及平安時期日本的怨靈「惡靈左府&lt;ref&gt;藤原顯光&lt;/ref&gt;」後變化成的複合Servant}}。
+|-
+| [[沖田総司 (Fate)|沖田總司〔Alter〕]] || 日本：江戶時代 || 沖田總司 || 嚴格來說角色本身出自帝都聖杯奇譚，但當時是Saber{{ref|1=沖田和信長融合而成的「魔&lt;span style="display:inline-block;position:relative;width:14px"&gt;&lt;span style="display:inline-block;transform:scaley(0.65);position:absolute;top:-19px"&gt;神&lt;/span&gt;&lt;span style="display:inline-block;transform:scaley(0.4);position:absolute;top:-13px;left:0px"&gt;人&lt;/span&gt;&lt;/span&gt;Saber」}}&lt;br&gt;FGO則更改設定，以AE職階和沖田Alter的身份再登場
+|-
+| [[シトナイ (Fate)|志度內]] ||日本：愛努族傳說 || [[伊莉亞絲菲爾‧馮‧艾因茲貝倫]] || 同時身為擬似從者和高位從者（High Servant）
+|-
+| [[千子村正 (Fate)|千子村正]] || 日本 || [[衛宮士郎]] || 被異星神召喚的限定版本
+|}
+
+== {{anchor|Moon Cancer}}Moon Cancer（月癌/ムーンキャンサー）==
+[[File:Moon Cancer.JPG|250px|right]]
+=== 簡介 ===
+* 如同癌症般侵蝕Moon Cell的違規存在&lt;s&gt;，曾經是BB的專屬職階，連職階卡面都是BB&lt;/s&gt;
+** 在石像神登場後壟斷狀況被打破{{censored|，但會被分成月癌還是因為BB}}
+** 隨後泳裝殺生院祈荒再次打破職階卡面壟斷情況，從劇情來看似乎擁有「侵食」能力是當上MC的其中項條件。
+* 在F/GO遊戲的職階剋制系統中，Moon Cancer剋制Avenger，並被Ruler剋制。
+
+=== 職階固有技能 ===
+* 無，畢竟本身便是違規的存在
+*&lt;s&gt;對即死有相當抗性&lt;/s&gt;
+** 最初在尼祿祭有玩家發現BB對即死有極高抗性，因而以此對抗一般攻擊有機率即死的山翁。後來玩家也發現吉拿可和水著殺生院亦有相同的抗性，似乎這是MC職的固有技能。
+** 雖說抗性很高但不是絕對，如百殺夜行那種幾乎100%即死的就算是MC也會有相當機率掛掉。
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 備考
+|-
+| rowspan = 2|[[BB (Fate)|BB]] || Fate/EXTRA CCC || rowspan = 4 | TYPE-MOON原創 || 由靈子虛構的擬真聖杯戰爭裡產生自我意志的高級AI。
+|-
+| rowspan = 3|[[Fate/Grand Order]] || 夏天泳裝式樣，與夏威夷女神貝雷{{Censored|和外神奈亞拉托提普的權能}}結合後的威力加強版
+|-
+| [[吉娜可‧加里吉利|偉大的石像神]] || 擬似Servant{{censored|，附身者(自稱)為印度神靈葛內舍，似乎因BB背後攪局而使職階變動成Moon Cancer}}
+|-
+|[[殺生院祈荒]] || 夏天泳裝式樣，抽中時會有卡面黑化、卡面人物由BB變成自己的特殊演出
+|}
+
+== {{anchor|Beast}}Beast（獸/ビースト） ==
+* 最早於Fate/Prototype登場的職階，詳細請參閱[[Beast (Fate)]]條目。
+
+=={{anchor|Shielder}} Shielder（盾兵/シールダー）==
+=== 簡介 ===
+* 「盾」之&lt;s&gt;勇者&lt;/s&gt;從者，其餘適性條件不明。
+** 設定上，擁有Shielder適性的英靈少之又少。
+
+=== 職階固有技能 ===
+* '''騎乘'''
+* '''對魔力'''
+
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 備考
+|-
+| [[瑪修‧基利艾拉特]] || rowspan="2"| [[Fate/Grand Order]] || TYPE-MOON原創 || 和某英靈融合而成半從者。
+|-
+| [[Galahad (Fate)|加拉哈德]] ||英國：亞瑟王傳說 || {{censored|與瑪修融合的英靈正體。}}
+|}
+* 除了上述這些成員以外，曾明確提及具有Shielder適性的還有[[Achilles (Fate)|阿基里斯]]。
+
+=={{anchor|Watcher}} Watcher（看守/ウォッチャー） ==
+* 本身沒有戰鬥能力，取而代之的是擁有從被召喚出來的那一瞬間起盯著整場聖杯戰爭的觀測能力。
+** Watcher本體還會投射出「影子」，以代替Watcher本體和Master對談。影子們同樣沒有戰鬥能力。
+* 除了觀測能力以外，根據影子們的說法，Watcher應該也有某種可以「給予御主試煉」的能力。
+=== 職階固有技能 ===
+* 不明
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 備考
+|-
+| [[Watcher (Fate/strange fake)|●●●・●●●●]] || [[Fate/strange Fake]] || {{Censored|美國：《白鯨記》&lt;br&gt;聖經}} || 雖然沒正式公布真名，但高機率為{{Censored|莫比·迪克}}和{{Censored|利維坦}}
+|}
+
+=={{anchor|Faker}} Faker（偽物/フェイカー） ==
+* 「偽物」的從者，具備偽物、影武者一面的額外職階。
+=== 職階固有技能 ===
+* 不明
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 備考
+|-
+| 赫費斯提翁{{censored|的[[雙子|{{censored|雙胞胎}}]][[妹|{{censored|妹妹}}]]}} || ロード・エルメロイⅡ世の事件簿 || TYPE-MOON原創 || [[Alexander the Great (Fate)|{{censored|伊斯坎達爾}}]]{{censored|的親信——赫費斯提翁的妹妹，同時也是伊斯坎達爾的影武者。&lt;br&gt;真實身分應該說是「無名」，為了避免詛咒，所以出生時就不為其命名。但在活動時，偶爾會借用雙胞胎哥哥的名字。}}
+|}
+
+=={{anchor|Foreigner}} Foreigner（&lt;s&gt;歪果仁/&lt;/s&gt;降臨者/フォーリナー/外鄉人）==
+[[File:Foreigner.jpg|250px|right]]
+=== 簡介 ===
+* 最早在《Fate/EXTELLA》中提到，白色巨神在降臨地球后擊敗了來自其他天體的降臨者。在續作《Fate/EXTELLA LINK》中最終線路，阿基米德也直言阿蒂拉的真正職階是フォーリナー。
+* 在FGO中登場的Foreigner可以說全部來源於兩個地方，外宇宙、從者宇宙。從XX的例子來看，本身就是外星人的從者也適用於此職階。
+* 寄宿著&lt;s&gt;黑星紅白&lt;ref&gt;截至2020年1月為止，除了來自從者宇宙的捏他角謎之女主角XX，所有降臨者都是黑星紅白負責繪畫&lt;/ref&gt;&lt;/s&gt;從迷信之中降臨的外神{{ref|這裡指的外神應該是「來自外側的神明」，而非[[克蘇魯神話]]中的專有名詞「外神」}}力量而成的職階。由受到來自深淵的狂氣影響仍然不會失去自身的英靈，或是即便是被狂氣所吞噬，卻仍然能反過來將之吞盡的英靈來擔任。
+** &lt;s&gt;其實是為了讓克蘇魯神話比較好連結所設置的職階&lt;/s&gt;
+* 目前所有寄宿著外神力量的Foreigner（艾比蓋兒、泳裝艾比蓋兒、北齋、楊貴妃、梵谷、莫萊）在升靈基前後模組皆有較大變化，以呈現外神的力量&lt;s&gt;感謝安生，讚嘆安生&lt;/s&gt;。
+** 此外，目前所有寄宿著外神力量的Foreigner皆為女性，這部分可能與艾比蓋兒絆資料提及的「巫女」設定有關。
+** &lt;s&gt;因為這樣才把歷史上是男性的北齋、梵谷、歐幾里得用各種理由性轉嗎&lt;/s&gt;
+* 職階卡面應該是暗喻著黃衣之王哈斯塔。
+** 不過在正式的職階卡片出來以後並非黃衣而是紫衣，應該是暗示猶格．索托斯的化身之一，對人類較為友好的『太古永生者』。
+
+=== 職階固有技能 ===
+*'''領域外的生命'''：來自外宇宙、虛空的降臨者。
+
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 降臨外神（疑似） !! 備考
+|-
+| [[Abigail Williams (Fate) | 艾比蓋兒‧威廉斯]] || rowspan="10"| Fate/Grand Order || rowspan="2"|美國：殖民時期 || rowspan="2"|威爾伯（敦威治恐怖事件）{{ref|從「父親」、「父神」的稱呼以及怕狗的設定來看，降臨在艾比蓋兒身上的應該不是猶格本人而是他兒子}} || 
+|-
+| [[Abigail Williams (Fate) | 艾比蓋兒‧威廉斯〔夏〕]] || 夏季泳裝仕樣
+|-
+| [[葛飾北斎 (Fate) | 葛飾北齋]] ||日本：江戶時代後期 || 克蘇魯 ||
+|-
+| [[BB (Fate) | BB]]（泳裝） ||TYPE-MOON原創 || 奈亞拉托提普 || 在活動劇情中一度作為降臨者活動，也是迦勒底真正檢測到的Foreigner反應來源。
+|-
+| [[謎之女主角X|謎之女主角XX]] ||TYPE-MOON原創&lt;br/&gt;從者宇宙 || 無 &lt;br&gt;&lt;s&gt;資本主義 by梵谷&lt;/s&gt; || 和其他降臨者不同，XX是因為&lt;s&gt;繪師不是黒星紅白，而且&lt;/s&gt;自己本來就是外星人所以才是 Foreigner，另外有些許的暗示星之戰士的捏他在
+|-
+| [[楊玉環 (Fate) | 楊貴妃]] || 中國：唐朝 || 弗塔古亞 ||  {{censored|虛數大海戰中提到她的「天子大人」被囚禁在北落師門，加上使用藍色的火焰，應為侍奉克圖格亞的弗塔古亞。}}
+|-
+| [[Voyager 1 (Fate)|航海家]] || 美國：現代 || 無 || [[櫻花大戰|第一位]][[Infinite Stratos|男性]][[HUGっと!プリキュア#Infini|Foreigner]]。實際上的職階為Voyager，因為F/GO遊戲系統的關係才變為Foreigner。&lt;s&gt;名譽Foreigner By[[宇津見繪里世|繪里世]]&lt;/s&gt;&lt;br&gt;與其說是來自宇宙，不如說是從宇宙歸來。
+|-
+| [[Vincent van Gogh (Fate)|梵谷]] || 荷蘭 ||烏素姆 &amp; 哈斯塔|| {{censored|並不完全是梵谷本人，而是花之邪神將梵谷的記憶和繪畫技能賦予給幻靈奇莉緹的從者。第二寶具 「黃房子」並非花之邪神賦予，而是由梵谷生前接觸的外界之力所獲得，能使用暴風的力量，疑似暗示力量源自哈斯塔}} 
+|-
+| [[謎之女主角X Alter|謎之偶像X〔Alter〕]] ||TYPE-MOON原創&lt;br/&gt;從者宇宙 || 無 || 
+|-
+| [[Jacques de Molay (Fate/Grand Order)|雅克·德·莫萊]]  || 歐洲：十字軍 || 莎布·尼古拉絲 ||
+|-
+| [[Euclid (Fate)|歐幾里得]] || Fate/Requiem || 埃及：希臘化時代 || 哈斯塔 || 
+|}
+* 除了上述這些成員以外，曾明確提及具有Foreigner適性的還有[[Altera (Fate)|阿蒂拉]]。
+
+=={{anchor|Voyager}} Voyager（航海家/ボイジャー） ==
+=== 職階固有技能 ===
+*'''單獨航海'''：能獨自在世界(蓋亞)以外的領域行動。
+
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 備考
+|-
+| [[Voyager 1 (Fate)|航海家]] || Fate/Requiem || 美國：現代 || &lt;s&gt;職階為Voyager的Voyager&lt;/s&gt;
+|}
+
+=={{anchor|Pretender}} Pretender{{ref|該詞有「{{wp|王位覬覦者}}」的含義}}（偽裝者/プリテンダー） ==
+* 適性條件為以欺騙群眾，依靠謊言成就偉業的存在。
+* 擁有偽裝其他職階的能力
+* &lt;s&gt;不是某首[https://youtu.be/TQ8WlA2GXbk 同名的歌]&lt;/s&gt;
+=== 職階固有技能 ===
+
+=== 列表 ===
+{| class="wikitable sortable" style="margin: 1em auto 1em auto;"
+|-
+! 名稱 !! 初登場作品 !! 原出處 !! 備考
+|-
+| [[Oberon (Fate)|{{censored|奧伯隆‧伏提庚}}]] || Fate/Grand Order ||  || 曾偽裝為Rider、Archer、Caster
+|}
+
+== 其餘額外職階 ==
+* 在此介紹其他未曾正式登場，僅出現在設定或對話中的額外職階。
+
+==={{anchor|Gunner}} Gunner（槍手/ガンナー） ===
+* Archer的亞種，部分使用槍械的英靈可以以這個職階被召喚。
+** 目前提及能作為Gunner召喚的有[[Billy the Kid (Fate)|比利小子]]與[[明智光秀 (Fate)|明智光秀]]。
+
+==={{anchor|Funny Vamp}} Funny Vamp（毒婦/ファニーヴァンプ） ===
+* 於Fate/EXTRA的設定中出現，原本是月姬的[[愛爾奎特‧布倫史塔德]]若以從者之身接受召喚的話會得到的職階，但因為御主的誤解而成為了Berserker。
+
+==={{anchor|Gate Keeper}} Gate Keeper（門衛/ゲートキーパー） ===
+* 目前尚未於任何作品中登場，僅在Fate/strange Fake中提及過。
+** Fate/strange Fake中的[[Watcher (Fate/strange fake)|Watcher]]提到說如果在正常的聖杯戰爭，自己的職階會是「門衛」。
+
+==={{anchor|Keeper}} Keeper（守護者/キーパー） ===
+* 僅存於設定概念期的職階，守護聖杯者，在Fate/stay night中原本是衛宮士郎的定位，後來輾轉變成士郎，僅在姓氏保留了痕跡{{ref|衛→守衛}}。
+
+==={{anchor|Player}} Player（玩家/プレイヤー） ===
+* &lt;s&gt;看什麽看，對就是你，看著螢幕的那個阿宅！&lt;/s&gt;
+* Fate/strange fake愚人節網路版出現的職階。
+** 在網路版中，Player是取代原本聖杯戰爭中Saber的人，和正式版的[[Sigma (Fate)|Σ]]類似，都是有職階的Master
+** 身上具備五道令咒，可消耗令咒臨時召喚包括珀爾修斯、海德拉、伊阿宋、斯卡薩哈、斯庫拉、董白在內的十餘名（在當時）由三田負責設定的Servant
+* 正式版被廢棄，但其多數設定由[[沙條綾香]]和[[Richard the Lionheart (Fate)|Saber]]繼承
+
+==={{anchor|Boxer}} Boxer（拳擊手/ボクサー） ===
+* 在非認真向小遊戲《カプセルさーばんと》中，Servant化的[[巴婕特‧法迦‧克米茲|巴婕特]]所屬的職階。
+* 順帶一提，拳擊手的英文雖然是&lt;q lang="en" class="notranslate" translate="no"&gt;Boxer&lt;/q&gt;，但同時還有「{{wp|拳師犬}}」的意思在
+* &lt;s&gt;在2020聖誕節活動突擊實裝嚇尿所有人&lt;ref&gt;聖誕迦爾納，實際職階是Saber，但他完全不用劍，又因為誤會聖誕老人的定義而將自己定位為拳擊手。&lt;/ref&gt;&lt;/s&gt;
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+&lt;references /&gt;
+
+[[Category:TYPE-MOON]]
+[[Category:Fate系列]]
+[[Category:Ruler (Fate)|*]]
+[[Category:Avenger (Fate)|*]]
+[[Category:Saver (Fate)|*]]
+[[Category:Alter Ego (Fate)|*]]
+[[Category:Moon Cancer (Fate)|*]]
+[[Category:Shielder (Fate)|*]]
+[[Category:Watcher (Fate)|*]]
+[[Category:Foreigner (Fate)|*]]
+[[Category:Faker (Fate)|*]]
+[[Category:Voyager (Fate)|*]]

@@ -1,0 +1,212 @@
+{{h0|天音かなた（あまね かなた）/天音彼方/Amane Kanata/かなたん（彼方碳）/&lt;s&gt;天哥&lt;/s&gt;/&lt;s&gt;PP天使&lt;/s&gt;/&lt;s&gt;PPT&lt;/s&gt;/&lt;s&gt;手裏劍天使&lt;/s&gt;/&lt;s&gt;猩猩&lt;/s&gt;/&lt;s&gt;{{ruby|妖怪蘆薈洗|&lt;s&gt;妖怪アロエ洗い&lt;/s&gt;}}&lt;/s&gt;}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub row|本條目內容不足需要擴充，歡迎各位へい民們加以補完。}}
+|}
+[[File:天音彼方.jpg|350px|right]]
+: {{size|24|{{color|#367CE5||'''へい！こんかなた～！'''}}}}
+
+== 基本資料 ==
+* 所屬：[[hololive]]
+* 人設：{{twitter|oshio_dayo|name=おしお}}
+* 年齡：18歲(天使年齡)
+* 生日：4月22日(金牛座)
+* 身高：149cm(&lt;s&gt;手裏劍&lt;/s&gt;光環不計在內)
+* 繪文字：💫
+* 主題標籤：
+** {{twitter|hashtag=天音かなた}}
+** {{twitter|hashtag=天界学園放送部}}(生放送)
+** {{twitter|hashtag=天音かなた歌ってみた}}(歌唱)
+** {{twitter|hashtag=天音かなたう}}(歌唱感想)&lt;ref&gt;源由為本人打錯了名字結果將錯就錯&lt;/ref&gt;
+** {{twitter|hashtag=へい民}}
+** {{twitter|hashtag=かなたーと}}(粉絲創作)
+** {{twitter|hashtag=天音かなたボイス}}(聲音)
+** {{twitter|hashtag=PPカット}}(剪輯回顧)
+* 粉絲稱呼：へい民(嘿民)
+* 模型擔當：
+** Live2D：{{twitter|rariemonn765|name=rariemonn}}
+** 3D模型：{{twitter|yatsurugi_mmd|name=八剣}}
+
+== 介紹 ==
+* 2019年12月27日在Youtube開始活動的女性虛擬Youtuber，為hololive四期生。
+* 自稱「ボク」，在天界學園上學，下凡來人間的見習天使。現進行治癒人類的研究，為了隱藏自己害羞的性格會扮成很酷的樣子。
+** 從左手的手帶可見似乎在學園裡擔任學生會書記&lt;s&gt;雖然不是太懂寫字&lt;/s&gt;。
+* 頭上的星型飾物其實是天使光環。&lt;s&gt;但很多時會拿下當投擲武器用，重量有50公斤重by繪師媽媽&lt;/s&gt;
+
+==個人資料 ==
+* 自稱女性御宅，對偶像和相關遊戲的話題非常敏感，一旦扯到該話題會變得興奮和說話不絕。
+** 在和同社藝人合作時經常有界限化的舉動，比如作為&lt;s&gt;大前輩&lt;/s&gt;[[時乃空]]節目嘉賓前已經聽過她全部的歌曲並洋洋灑灑地大發感想。
+** 亦是新垣結衣的粉絲，在{{youtube|zCAgfQpkODw|玩哈姆太郎遊戲時想將另一位拍檔改名為「♡ガッキー♡」|t=799}}&lt;ref&gt;新垣結衣的暱稱&lt;/ref&gt;&lt;s&gt;結果因為5個字限制關係改名大失敗&lt;/s&gt;
+*** &lt;s&gt;然而大家沒想到三日後新垣結衣和星野源結婚消息一出該配信被視為預言，從同期的[[常暗永遠|某位惡魔]]口中得知消息的本人理所當然的大崩潰(笑)&lt;/s&gt;
+* 有相當水準的歌唱力且音域很廣，歌回生放和翻唱投稿等相當頻密。
+** 初生放時唱了以全部自己聲音作BGM&lt;s&gt;且改了歌詞&lt;/s&gt;的民謠「ソーラン節」，其音色令各觀眾眼前一亮。&lt;s&gt;也令當時還沒進ICU的Yagoo大呼將感動還來&lt;/s&gt;
+*** &lt;s&gt;之後情人節當日更有{{youtube|b3jcNR2_PF4|除TMT外的四期生和唱版本}}，在3D生放送更來多一次&lt;/s&gt;
+** 但唱其他曲時還是會好好表現自己的唱功的。
+* 聲線多變，無論是低音的美型或是本身的高音等也難不倒她，更甚者可以即場轉換聲線。
+** 因此擅長模仿其他ACG角色如亂太郎和姆明等，亦有成功模仿同社同事的經驗。&lt;s&gt;只是很快被識穿了&lt;/s&gt;&lt;ref&gt;比如模仿會長打給[[赤井心]]時因為英文水平不足而自爆&lt;/ref&gt;
+*** &lt;s&gt;該次企劃中唯一能騙到的只有用船長聲線打過去的[[湊阿庫婭|阿夸]]，&lt;/s&gt;之後更衍生了『{{youtube|04EIYwhm5rI|宝鐘マリン増殖コラボ}}』這&lt;s&gt;超豪華的合同&lt;/s&gt;計劃。
+* 品味獨特&lt;s&gt;且非常老土&lt;/s&gt;，程度為hololive中數一數二。
+** PowerPoint製作水準奇爛，由出道初自我介紹至早期一段時間內經常使用做梗圖，因而被戲稱「PP天使」或「PPT」&lt;ref&gt;另一方面也有「'''P'''erfect '''P'''itch 天使」這種稱讚她音準的衍生義&lt;s&gt;，但也有「'''P'''ettan '''P'''ettan 天使」的用法&lt;/s&gt;&lt;/ref&gt;&lt;s&gt;還配上文字藝術師字型&lt;/s&gt;。
+*** &lt;s&gt;{{twitter|status=1215287087462666241|name=但還是會被背刺的}}&lt;/s&gt;
+*** 及後換上的新電腦沒安裝OFFICE&lt;s&gt;PP天使可能變絕響了&lt;/s&gt;
+** 販賣的原創T恤其老土程度在早安可可中稱為「抹布」，更被[[寶鐘瑪琳|有識者H]]稱作「音聲附帶的産業廢棄物」。
+*** &lt;s&gt;及後這抹布T恤在動物之森中更將某位[[星街彗星|拿金斧頭的藍髮神經病]]嚇到半死&lt;/s&gt;
+** 出門時的穿著搭配甚至土到會被誤認穿的褲子是睡褲，還會疑似被巧可同情到約他一起去買衣服。
+* 四期生中實際的清楚役。因為一直就讀女子校和嚴厲家教的關係沒有機會接觸其他事物，連動漫畫知識和遊戲技巧都是出到社會後慢慢接觸學回來的。
+** 尤其和母親的關係讓人恐懼，和母親有借錢並被其用Excel記下，還在通訊軟體用商業交流一般的正式敬語催債（每月一次！），彼方本人也直指母親為「毒母」，也直呼其母的名字「小百合」，這種扭曲的母子關係把可可嚇得半死&lt;ref&gt;可可：「這......是我不知道的家庭的形式呢......（驚愕」&lt;/ref&gt;
+*** 但似乎關係也沒有到很差，見面時還是會正常談話，但就是公事公辦的非常不像母女。
+*** 這也被海外的嘿民調侃「天音小百合估計是舊約聖經裡頭的天使那種怪物合成獸」，&lt;s&gt;編者卻覺得她的性格聽起來很像[https://zh.m.wikipedia.org/wiki/%E5%BA%A7%E5%A4%A9%E4%BD%BF 座天使]&lt;/s&gt;
+** 因此出道初一段時間對同期以外的人也是用溫文有禮的方式談話，除了[[赤井心]]和[[寶鐘瑪琳]]本人要求且較為熟絡之外。
+** &lt;s&gt;亦因此是hololive中少數不知道TEN○A是甚麼東東的人，即使[[夏色祭]]委婉的解釋也是不清楚之後更與觀眾約定畢業以後一定會去查清楚。&lt;/s&gt;
+** &lt;s&gt;因為這緣故被馬自立和[[桐生可可|同居中的龍]]不停進行{{censored|各種無用糟糕知識的}}教育&lt;/s&gt;
+* 學力很高，在[[癒月巧可|巧可老師]]的測試中達到20夸的成績，&lt;s&gt;[[獅白牡丹|某隻獅子]]出現前&lt;/s&gt;曾為hololive學力天花板。
+* {{twitter|amanekanatach|1309407909302816770|擁有50kg的驚人握力}}&lt;ref&gt;日本一般同齡女性握力為19至30kg左右，只有同齡男性才有45kg起跳的數字&lt;/ref&gt;。連[[大空昴]]也大為震驚並用「猩猩」來形容她。&lt;s&gt;自此該稱號不脛而走&lt;/s&gt;
+** 在玩健身環時輕易地拉扯和擠壓裝置，更有初次食馬卡龍時不小心擠爆和單純用力就能開難開的瓶等傳說，近期還新增了可以徒手捏碎整顆水煮過的馬鈴薯。
+** &lt;s&gt;之後更自稱「ホロライブ直系ゴリラ会初代会長」，在早安可可大學中更是砸場學院代表&lt;/s&gt;
+** 然而本人體力只是普通程度，在久違鍛鍊下一度降至45kg左右，到2021年10月時更破紀錄升至52kg！
+** &lt;s&gt;在ガッキー結婚後星野源除了要面對追殺他的人外{{youtube|BqNXnUiCM_M|還要面對可以用50kg力道將肉打鬆一千次的大猩猩}}&lt;/s&gt;
+*容易弄壞東西
+**&lt;s&gt; 因為握力有50公斤的原因&lt;/s&gt;
+**已知弄壞了鍵盤、switch 、ps4 pro手把、麥克風、&lt;s&gt;3D Live器材故障延後&lt;/s&gt;、以前打工時還弄壞店裡的咖啡機零件害經理哭了，{{censored|但健身環還沒斷掉}}
+**本人表示是下界的事物太脆弱了
+* 本身患有無法治癒的耳疾，右耳長期耳鳴&lt;ref&gt;從生放送中描述的症狀來看似乎是{{wp|梅尼爾氏症}}&lt;/ref&gt;，出道後曾有一段時間因為這原因需要出入醫院。
+** 曾經因為這病會影響自己的歌唱消沉過一段時間，但之後決定調整心態面對這點能看出她堅強的一面。
+** 不過被醫生說耳朵無法負荷最近取消了周一固定的歌台並未來將大幅減少開歌台的機會。
+* &lt;s&gt;親媽公認的貧乳，是hololive斷崖五絕壁之一&lt;/s&gt;
+** 由於親媽的堅持(?)就算塞錢給他依舊不肯幫天使把胸部畫大，[https://twitter.com/oshio_dayo/status/1389912711383900162 出新衣服時還曾說出除了歐派以外的部位都會搖的發言引來天使留言反駁說自己的歐派會搖&lt;s&gt;，但發文後幾秒內隨即遭到親媽無情的否定&lt;/s&gt;]。
+*** 題外話隔壁在彩虹社的妹妹空星きらめ也同樣是貧乳，也跟天使一樣幻想著有一天胸部能夠長大但都被親媽無情的否定。
+** 但本人卻相當喜歡巨乳，由其是[[癒月巧可|惡魔老師]]和[[白銀諾艾爾|女騎士]]那種的。
+* 目前與可可同居中並與[[星街彗星|彗星]]同住在同一間公寓，因此三人合稱&lt;s&gt;天彗龍&lt;/s&gt;同居組，不太會整理房間而非常髒亂，就算自信滿滿地告訴別人已經整理好了邀請別人來但在別人眼中還是非常髒亂。
+** 同居組中立下的同居公約中以直播睡過頭要付給叫醒的人100萬這條最廣為人知，從同居開始後天使與會長雖然都各有一次睡過頭的紀錄但由於都不是對方叫醒而不算數，直到2021/5/22當天早上天使剛從失去ガッキー的傷痛的休假結束時因睡過頭被早一小時醒來的會長叫醒才成為第一位要付罰金的人。
+*** 不過會長也認為天使是因為失去ガッキー的關係不打算跟他收下這筆錢，但天使認為規定就是規定因此決定將這些錢拿去當作製作四期生原創曲的資金。&lt;ref&gt;不過在早前馬自立才提過製作原創曲的費用非常高，天使本人也知道只有100萬完全不夠用因此會自己參與編曲和填詞&lt;/ref&gt;
+* 頭很鐵的成員之一，實況遊戲如果遇到過不了關的情形不到過關或者是真的身體撐不住絕對不關台休息
+** 早先有壺男的近12小時的耐久紀錄
+** 挑戰UNDERTALE的G路線更創下了連續兩次實況平均約20小時的紀錄，其中卡關最久的Sans戰更創下了花費31小時挑戰342場才終於成功的驚人紀錄。
+** 刷Minecraft的&lt;s&gt;機率1/1200無天井&lt;/s&gt;藍色蠑螈時連續數日開自立繁殖耐久實況，整個人刷到腦袋壞掉依然持續。
+*** 最終在總計五次耐久直播、約27.5小時（不計線下準備熱帶魚桶）、繁殖了約3200隻蠑螈（不計外力導致死亡的個體）後出貨。
+*** 新稱號：非洲猩猩(臉超黑)。
+*** &lt;s&gt;當天還對著同樣還沒孵出來前來觀看的非洲獅子發出了猩式威嚇聲。&lt;/s&gt;
+*&lt;s&gt;金獅子亞種&lt;/s&gt;
+
+== 主要事紀 ==
+===2019年===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 12月26日
+| Youtube頻道訂閱數突破1萬人
+|-
+! width="80px" | 12月27日
+| Youtube頻道開始活動
+|}
+===2020年===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月4日
+| Youtube頻道訂閱數突破5萬人
+|-
+! width="80px" | 1月17日
+| {{twitter|amanekanatach|1218083369545687040|週邊物品&lt;s&gt;超老土的PP天使抹布T恤&lt;/s&gt;(及特典聲線)販賣開始}}
+|-
+! width="80px" | 2月7日
+| Youtube頻道訂閱數突破10萬人
+|-
+! width="80px" | 2月9日
+| Youtube頻道收益化通過
+|-
+! width="80px" | 2月16日
+| 參演『会える！ 話せる！ VTuberおしゃべりフェス on バレンタイン ホロライブ編』
+|-
+! width="80px" | 3月14日
+| 於bilibili舉行首次限定生放送
+|-
+! width="80px" | 4月13日
+| 翻唱曲「{{youtube|FzwYKoKN_KE|ゴーストルール}}」100萬再生數達成
+|-
+! width="80px" | 4月22日
+| 舉行{{youtube|IuCETj76Nvg|生日紀念生放送}}
+|-
+! width="80px" | 4月26日
+| Youtube頻道訂閱數突破20萬人
+|-
+! width="80px" | 5月5日
+| Youtube頻道開啟會員功能&lt;br&gt;同日於bilibili舉行限定歌回
+|-
+! width="80px" | 7月5日
+| 公佈3D主造型，同日Youtube頻道訂閱數突破30萬人
+|-
+! width="80px" | 9月2日
+| Youtube頻道訂閱數突破40萬人
+|-
+! width="80px" | 9月27日
+| 和[[寶鐘瑪琳]]一起參加hololive VIRTUAL LIVE series in VARK "Cinderella switch" Vol.1的線上VR演唱會
+|-
+! width="80px" | 10月6日
+| 遭遇車禍需要休養及停止生放送一星期
+|-
+! width="80px" | 10月18日
+| 正式復歸&lt;s&gt;回歸直播聊天室只擔心車跟路面有沒有事&lt;/s&gt;
+|-
+! width="80px" | 11月23日
+| Youtube頻道訂閱數突破50萬人
+|-
+! width="80px" | 12月21日~&lt;br&gt;12月22日
+| 參演第二次官方演唱會「hololive 2nd Fes. Beyond The Stage」 STAGE 1 和 STAGE 2
+|}
+
+===2021年===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 1月1日
+| {{youtube|0lxAqsyXqeg|公佈新年正月造型}}
+|-
+! width="80px" | 1月2日
+| 舉辦出道一週年紀念演唱會「{{youtube|8lkam88qeZw|僕が主役でもいいですか？}}」
+|-
+! width="80px" | 1月15日
+| Youtube頻道訂閱數突破60萬人
+|-
+! width="80px" | 2月15日
+| 公佈偶像服3D造型
+|-
+! width="80px" | 2月17日
+| 參加官方演唱會「hololive IDOL PROJECT 1st Live.『Bloom,』」
+|-
+! width="80px" | 2月22日
+| Youtube頻道訂閱數突破70萬人
+|-
+! width="80px" | 4月28日
+| Youtube頻道訂閱數突破80萬人&lt;s&gt;當天因睡過頭而被笨蛋三人組實況救援&lt;/s&gt;
+|-
+! width="80px" | 5月5日
+| 公布新服裝天使工作用服造型，[https://twitter.com/kiryucoco/status/1389910767814660098 &lt;s&gt;然而同居人表示根本沒看他做過天使的工作&lt;/s&gt;]。
+|-
+! width="80px" | 6月18日
+| Youtube頻道訂閱數突破90萬人
+|-
+! width="80px" | 6月25日
+| 公開由自己製作的四期生最初與最後的原創曲『[https://www.youtube.com/watch?v=k7cpjmkc1Rw キセキ結び]』
+|-
+! width="80px" | 7月27日
+| Youtube頻道訂閱數突破100萬人，為Hololive中第22位達標，同時同居組3人全員百萬
+|-
+! width="80px" | 10月30日
+| 和永遠一起參加了由VARK主辦的「Cinderella switch ～ふたりでみるホロライブ～」的VR演唱會活動
+|}
+
+== 相關條目 ==
+*'''[[KomicaWiki]]條目'''
+** [[虛擬Youtuber]]
+** [[hololive]]
+*'''外部連結'''
+** [https://www.hololive.tv/portfolio/items/tian-yin-kanata 官方介紹頁]
+** 影片頻道：{{youtube|c=UCZlDXzGoo7d44bwdNObFacg|title=YouTube}}、[https://space.bilibili.com/491474048/ bilibili空間](已停止更新)
+** 社交媒體：{{twitter|amanekanatach|name=Twitter帳戶}}、[https://marshmallow-qa.com/amanekanatach 棉花糖帳戶]、[https://www.reddit.com/user/AmaneKanata Reddit帳戶]
+** 維基類連結：[https://seesaawiki.jp/hololivetv/d/%c5%b7%b2%bb%a4%ab%a4%ca%a4%bf ホロライブ非公式wiki]、 [https://dic.nicovideo.jp/a/%E5%A4%A9%E9%9F%B3%E3%81%8B%E3%81%AA%E3%81%9F ニコニコ大百科]、[https://dic.pixiv.net/a/%E5%A4%A9%E9%9F%B3%E3%81%8B%E3%81%AA%E3%81%9F pixiv百科]、[https://zh.moegirl.org.cn/zh-tw/%E5%A4%A9%E9%9F%B3%E5%BD%BC%E6%96%B9 萌娘百科]
+== 回應 ==
+* {{pcomment|section=1}}
+
+{{hololive production}}
+
+== 備註 ==
+&lt;references/&gt;
+[[Category:角色]]
+[[Category:虛擬YouTuber]]
+[[Category:hololive]]
+[[Category:網路文化]]

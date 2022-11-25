@@ -1,0 +1,942 @@
+{{h0|專用[http://dic.nicovideo.jp/a/bgm BGM]/角色歌}}
+{| class="wikitable" style="margin:1.5em auto;text-align:center;"
+|-
+|style="" |表格歡迎各位補完，已有者便請不要重複登錄，以最先登場的媒體為準。
+|-
+|style="" |本條目的角色名稱、作品名稱等一概以日文原名為主，但亦可在一旁附上中文譯名。
+|}
+== 解說 ==
+* 顧名思義就是角色的專用歌曲。
+** 可以突顯人物的特色。
+** 不一定只有一首，也有一人物→多首、多人物→一首的情況，可分別用在多種片段與情境內。
+** 本條目亦收錄非官方的角色MAD、同人製作的BGM。
+
+* 除此之外還能細分為：
+** '''[http://dic.nicovideo.jp/a/%E4%BD%9C%E6%A5%AD%E7%94%A8bgm 作業用BGM]'''→適合在工作時放的BGM。
+** '''[http://dic.nicovideo.jp/a/%E5%87%A6%E5%88%91%E7%94%A8bgm 處刑BGM]'''→對敵人處刑（或打倒）的BGM。
+** '''[http://dic.nicovideo.jp/a/%E4%BD%9C%E6%A5%AD%E5%A6%A8%E5%AE%B3%E7%94%A8bgm 作業妨害BGM]'''→具干擾性，或[[電波]]性質的樂曲。
+
+* 在華人區因[[原創風行]]的陋規，也造成不少經典配樂的二次流用。
+** 詳見[[布袋戲及影劇引用配樂一覽]]
+
+== ACG中有名的角色歌/人物名單 ==
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!曲名!!人物!!所屬作品!!備註
+|-
+|{{sm|28795393|別れ}}
+|乾隆皇帝
+|&lt;s&gt;《戲說乾隆》&lt;/s&gt;《[[生身單位|戦え！イクサー1]]》
+|&lt;s&gt;若不是透過[[超級機器人大戰|機戰L]]的逆流很多人不會知道有這引用&lt;/s&gt;，此曲在原作中的出現場景的確也不如後來劇集引用的切合。
+|-
+|{{sm|4291405|Trombe&lt;nowiki&gt;!&lt;/nowiki&gt;}}
+|レーツェル・ファインシュメッカー
+| rowspan="3" |[[超級機器人大戰]]
+|因為OG1的一個BUG、令食通的BGM永遠都是最優先，管你是誰，只要食通一出，大家就只能夠聽Trombe{{ref|即使在系統變得可以自由更改BGM後只有他不能更改BGM。}}{{ref|又被稱為將處刑用BGM給處刑的BGM。}}!
+|-
+|{{nm|19507944|Despair}}
+|ペルフェクティオ（破滅の王）
+|然而，這神話就在2OG中被此首BGM給打破了{{ref|機戰史目前唯一無法和解也無法打倒的最終BOSS，連BGM也是壓倒性的存在。}}。
+|-
+| rowspan="2" | -
+|[[超級機器人大戰/原創角色|機戰各位原創角色]]
+|其實除了上述這位外、其他角色都有各自特色的BGM{{ref|例如Z1男主角ランド的「ガンガンレオン！ガンレオン♪」。}}。
+|-
+|[[幻想鄉]]的少女們
+|[[東方Project]]
+|只要出新作就會增加新角色或新BGM，由於角色太多，請自行至人物一覽查看。
+|-
+|{{sm|10929313|&lt;s&gt;変態テーマ&lt;/s&gt;お姉さま…}}
+|[[白井黑子]]
+|[[とある科学の超電磁砲]]
+|[[紳士|淑女]]模式開啟時的專屬BGM…
+|-
+|[https://wow.gamepedia.com/O_Thanagor O Thanagor]
+|[[Arthas Menethil|阿薩斯．米奈希爾]]
+|《[[魔獸爭霸]]》系列
+|基本上是一主要旋律名，在他[https://youtu.be/J2C_7QLwsnc 登基]、[https://youtu.be/BCr7y4SLhck 發兵]和[https://youtu.be/8EdyM9ciarY 殞落]時都有出現。
+|-
+|{{nm|3327793|戦闘（又稱ﾃｰﾚｯﾃｰ）}}
+|會用北斗神拳/南斗神拳的人
+| rowspan="2" |[[北斗神拳]]
+|出名的處刑BGM&lt;s&gt;，當聽到的時候就知一定會見到血，或者是自己一定死定了&lt;/s&gt;。
+|-
+|{{sm|5082273|始まりの地}}（[http://www.youtube.com/watch?v=z5H2TRjhxFc 開始之地]）
+|托奇
+|打臉專用BGM，不同於下面的上條先生，這個是會死人的。
+|-
+|{{sm|12296506|水のテーマ}}
+|主要是拳四郎
+|北斗神拳 真世紀末&lt;s&gt;死阿塔&lt;/s&gt;救世主傳說
+|み…水…水を…！それを、よこせ…全部だ！！
+|-
+|{{sm|4713529|Escape}}
+|鬼巫女
+|[[M.U.G.E.N]]
+|鬼巫女進入第二狀態時就會播放。mugen裡最有名的處刑BGM。
+|-
+|{{sm|1971751|Worldend Dominator}}
+|右代宮樓座
+|[[海貓悲鳴時]]
+|在原作裡根本就不是專用BGM而只是單純的&lt;s&gt;處刑&lt;/s&gt;戰鬥BGM。&lt;br&gt;但在EP2震憾的「[[開無雙|那一幕]]」加上niconico云云海貓mad的加持下，只要一響起這音樂就會想起樓座哦哦哦哦哦哦哦!!
+|-
+|{{sm|1653856|エミヤ}}
+|[[衛宮士郎]]、[[Emiya (Fate/stay night)|Archer]]、千子村正
+| rowspan="2" |[[Fate/stay night]]
+|無限劍製發動後響起，亦是一首處刑BGM&lt;s&gt;，[[敗北フラグ]]&lt;/s&gt;。
+|-
+|{{sm|434099|約束された勝利の剣}}
+|[[Saber]]
+|同上，Excalibur發動後響起。
+|-
+|[http://www.youtube.com/watch?v=7mSE6gOdf4o シャアが来る]
+|[[夏亞‧阿茲納布爾|シャア・アズナブル]]
+|[[機動戰士鋼彈|機動戦士ガンダム]]
+|シャア!!シャア!!（三倍速）
+|-
+|{{sm|7124300|宇宙を駆ける～Zの発動}}
+|卡密兒
+|[[機動戰士Z鋼彈|機動戦士Ζガンダム]]
+|卡密兒有名的處刑用BGM，西瓜棒攻擊。
+|-
+|{{sm|10029446|UNICORN}}
+|獨角獸鋼彈
+| rowspan="3" |[[機動戰士鋼彈UC]]
+|機體初次起動時的BGM。到高潮處時會有壯觀的彈幕攻擊。&lt;s&gt;但已經風評被害&lt;/s&gt;
+|-
+|[https://www.youtube.com/watch?v=Du1wdeNqO8o BANSHEE]
+|獨角獸鋼彈二號機「報喪女妖」
+|機體專用BGM&lt;s&gt;，又稱對DELTA PLUS處刑用BGM&lt;/s&gt;。
+|-
+|[https://www.youtube.com/watch?v=RLq8q3kAFe4 FULL FRONTAL]
+|弗爾．弗朗托
+|初次駕駛新安洲出擊時的BGM。
+|-
+|{{sm|3825210|我が心明鏡止水～されどこの掌は烈火の如く}}
+| rowspan="2" |多門‧火洲/多蒙‧卡修
+| rowspan="2" |[[機動武鬥傳G 鋼彈|機動武鬥傳G GUNDAM]]
+|無論是GOD FINGER，石破天驚拳還是石破LOVELOVE天驚拳，你都一定聽得到這BGM。
+|-
+|{{sm|3840619|燃え上がれ闘志-忌まわしき宿命を越えて}}
+|SHINING FINGER跟SHINING FINGER SWORD專用BGM。
+|-
+|{{sm|382628|思春期を殺した少年の翼}}
+|希洛‧唯/希羅‧尤
+|[[新機動戰記鋼彈W|新機動戦記ガンダムW]]
+|希羅的BGM，但幾乎每次出現這BGM時都會被LEO等雜魚機打臉。
+|-
+|{{sm|5521832|サテライト・キャノン}}
+|GUNDAM X&lt;br&gt;GUNDAM DX
+|機動新世紀ガンダムX
+|曲如其名，衛星加農砲發動時的處刑用BGM。
+|-
+|{{sm|4305347|Black history}}
+|Turn-X&lt;br&gt;∀ GUNDAM
+|∀ GUNDAM
+|Turn-X專用BGM/Turn-A發動月光蝶時的BGM&lt;s&gt;，月光蝶である&lt;/s&gt;！！
+|-
+|[https://www.youtube.com/watch?v=cr2PLMyEebY Meteor]
+|[[煌‧大和]]+Freedom
+|[[機動戰士鋼彈SEED系列|機動戦士ガンダムSEED]]
+| rowspan="2" |Freedom或Strike Freedom初登場的專用處刑BGM。
+|-
+|[https://www.youtube.com/watch?v=2tzTqt3hAhk Vestige]
+|煌‧大和+Strike Freedom
+| rowspan="2" |機動戦士ガンダムSEED DESTINY
+|-
+|{{sm|9948030|狂気の果て}}
+|史黛菈+毀滅鋼彈
+|滅城用BGM。
+|-
+|{{nm|15671548|Fight}}
+|Trans-Am
+| rowspan="7" |[[機動戰士鋼彈00|機動戦士ガンダム OO]]
+|劇中初次使用Trans-Am的BGM，其洗腦力強大使人之後看到快速場面都會自動產生腦內BGM。&lt;br&gt;亦是GN合唱團的開始。
+|-
+|[https://www.youtube.com/watch?v=mWV9Yv5VPFU Recover]
+|[[葛拉漢‧耶卡]]
+|1期最終戰時葛拉漢以GN旗突襲EXIA時的BGM。&lt;br&gt;「逢いたかった、逢いたかったぞ、ガンダム！！！」
+|-
+|[https://www.youtube.com/watch?v=we8qRvhOOeg Tomorrow]
+|[[瑪莉娜‧伊士麥]]
+|作業妨害BGM。
+|-
+|[https://www.youtube.com/watch?v=Bt_0Lg4-RkE 00 Gundam]
+|00 Gundam
+| rowspan="4" |歌名=機體名。
+|-
+|[https://www.youtube.com/watch?v=oLzp2Y0fdXo 0-Raiser]
+|0-Raiser
+|-
+|[https://www.youtube.com/watch?v=ZdPX9Cq-vT8 00-Raiser]
+|00-Raiser
+|-
+|[https://www.youtube.com/watch?v=dVcy_9GqS9c Masurao]
+|Masurao
+|-
+|{{sm|30971532|The Dignity of Lords}}
+|[[破滅魔劍]]
+|[[機動戰士鋼彈 鐵血孤兒|機動戰士鋼彈 鐵{{color|red||血}}孤兒]]
+|&lt;s&gt;鋼彈'''被'''處刑曲&lt;/s&gt;
+|-
+|[https://www.youtube.com/watch?v=sJ2EwbUgxFI THE BEAST II]
+| rowspan="2" |EVA初號機
+|[[新世紀福音戰士|新世紀エヴァンゲリオン]]
+| rowspan="2" |ゼルエル{{ref|TV版第14使徒，新劇版第10使徒。}}戰初號機同步率400%暴走/GOD MODE時向前者處刑的BGM。
+|-
+|[https://www.youtube.com/watch?v=WiBzwmJIMG0 2EM36_E16]
+|ヱヴァンゲリヲン新劇場版：破
+|-
+|Double-Action的各種派生版本
+|電王/ゼロノス/牙王
+| rowspan="2" |[[仮面ライダー電王]]
+|除了素體的プラットフォーム外每一種形態都有一首。&lt;br&gt;甚至首位敵對役騎士牙王都有此「厚待」…
+|-
+|[https://www.youtube.com/watch?v=J_TWZ-BlF4U 俺、参上！]
+|桃塔羅斯
+|
+|-
+|[https://www.youtube.com/watch?v=N98AR54e26g パラレルワールド]&lt;br&gt;[http://www.youtube.com/watch?v=PWyevSwROc0 Ride the Wind]
+|門矢士
+| rowspan="3" |[[仮面ライダーディケイド]]
+|又稱說教用BGM&lt;s&gt;士的嘴砲專用曲&lt;/s&gt;。每一回對上敵方BOSS，開打前說教一大串時播放。&lt;br&gt;後曲本來不確定在什麽場合播放，DCD的Complete Form出來之後才成為角色歌。
+|-
+|[https://www.youtube.com/watch?v=_G6KroF_HXM Treasure Sniper]
+|海東大樹
+|雖然是假面騎士Diend角色歌，第一次出場卻是Decade用K‧Touch召喚響鬼裝甲打邪神14…
+|-
+|[https://www.youtube.com/watch?v=u_Cx4v3SGlw Millions of Me]
+|假面騎士Black &amp; RX
+|
+|-
+|[https://www.youtube.com/watch?v=MbdRVle3_js Leave All Behind]
+|照井龍
+| rowspan="2" |[[仮面ライダーダブル]]
+|本來只是劇中作為假面騎士Accel的插入曲，結果被製作公司東映拿去充當OV的主題曲。
+|-
+|[https://www.youtube.com/watch?v=Q4fU7KPBud4 Nobody's Perfect]
+|鳴海莊吉
+|這首曲子還原了鳴海莊吉/假面騎士Skull的原本硬漢精神，深受喜愛。
+|-
+|[https://www.youtube.com/watch?v=n-fcfmS5Jyw Regret nothing ~tighten up~]&lt;br&gt;[https://www.youtube.com/watch?v=gmoArPO727k Got to keep it real]&lt;br&gt;[https://www.youtube.com/watch?v=dUTHU3Fuu1I Ride on right time]&lt;br&gt;[https://www.youtube.com/watch?v=4yo5Z0wIap4 Sun goes up]&lt;br&gt;[https://www.youtube.com/watch?v=8ARFFobjc6k Time judged all]&lt;br&gt;[https://www.bilibili.com/video/BV1hJ411N7MQ Shout Out]&lt;br&gt;[http://www.youtube.com/watch?v=Nkmc2_NnbMA POWER to TEARER]
+|火野映司
+| rowspan="2" |[[仮面ライダーOOO]]
+|每一首Combo主題曲的標題都有[[空耳]]。&lt;br&gt;甚至曲名本身都是取和對應Combo名稱的讀法相近的字來取名…
+|-
+|[https://www.youtube.com/watch?v=ZJQsVAhEHvU Reverse/Re:Birth]
+|伊達明/後藤慎太郎
+|OOO是捏Combo，這個就捏自己{{censored|和強化型態}}…
+|-
+|{{sm|15904039|【フォーゼ】みんなに友子の良さを分かってもらいたい！！}}（真正曲名不明）
+|野座間友子
+|[[仮面ライダーフォーゼ]]
+|此歌略電波，及不要在晚上聽…
+|-
+|[https://www.youtube.com/watch?v=NzdSi9GeLXs Point Of No Return]
+|吳島光實
+|[[仮面ライダー鎧武]]
+|
+|-
+|[http://www.youtube.com/watch?v=s1ilaqxMD0E 櫻新町町歌]
+|槍櫻姬
+|[[夜櫻四重奏]]
+|ツンツンデレツンデレツンツン聽久了容易被洗腦，在[[無頭騎士異聞錄 DuRaRaRa!!|無頭騎士異聞錄]]也有出現。
+|-
+|{{sm|7335038|Mark Sein}}
+|マークザイン
+|[[蒼穹之戰神|蒼穹のファフナー]]
+|處刑BGM（包括我方）。&lt;br&gt;「…5秒待て！」
+|-
+|{{sm|13649874|飛影見參！}}
+|飛影
+|[[忍者戰士飛影]]
+|ED曲『一世紀めのエンジェル』的改版。ﾃﾞｰﾚﾚｰﾃﾞｰﾚﾚｰﾃﾞｯﾃﾞﾃﾞﾃﾞｯ。&lt;br&gt;機戰中當這首曲出現時，玩家鐵定失去[[經驗值]]了，[[ランカ・リー|蘭卡]]也要被[[Ninja_Slayer|忍殺]]了。
+|-
+|{{sm|7134075|ブラックサレナ}}
+|ブラックサレナ(黒百合)
+|劇場版機動戦艦ナデシコ
+|
+|-
+| rowspan="2" |[http://www.youtube.com/watch?v=1yankOTQVxQ &lt;s&gt;葉小釵武曲&lt;/s&gt;覚醒、ゼオライマー]
+| rowspan="2" |天のゼオライマー&lt;s&gt;葉小釵&lt;/s&gt;
+|冥王計畫ゼオライマー
+| rowspan="2" |同樣是有名處刑用BGM、⊃天⊂&lt;s&gt;由於台灣區的引用，反而原著要在機戰登場後才奪回地位&lt;/s&gt;。
+|-
+| rowspan="3" |[[布袋戲|霹靂布袋戲]]
+|-
+|[https://www.youtube.com/watch?v=gOJMuPpusVI 佛劍分說武戲]
+|佛劍分說
+|處刑BGM，只要開始播放就代表著有人會[[便當|死]]，還會死的很慘（此曲是往生咒改編的）。
+|-
+|[https://www.youtube.com/watch?v=2mp0skdZfcE 天子傳奇組曲&lt;s&gt;佛門必敗曲&lt;/s&gt;]
+|（以佛教背景角色居多）
+|有名的Flag曲，此曲一出，戰果立判。
+|-
+|[http://www.youtube.com/watch?v=Nc_DyYrZOoU いざ行け！ロボット軍団]
+|マジンガーZ、グレートマジンガー、ゲッターロボG、グレンダイザー
+|[[超級機器人大戰|超級機器人大戰/スーパーロボット大戦]]
+|合體技終極火炎（機戰Z是終極攻擊）專用BGM。
+|-
+|{{nm|9663805|集え、星の輝き～スターライト‧ブレイカー～}}
+| rowspan="2" |[[高町奈葉|高町なのは]]
+| rowspan="4" |[[魔法少女奈葉|魔法少女リリカルなのはシリーズ]]
+| rowspan="2" |[[SLB]]、劇場版的版本更加令人覺得這是[[大魔王|最終魔王]]的BGM，毫無疑問的超人氣處刑用BGM。
+|-
+|{{sm|9482366|星の輝き}}
+|-
+|[https://www.youtube.com/watch?v=yJWkSxj_YNM 勇気の意味]
+|昴‧中島
+|{{censored|&lt;s&gt;對自己親[[姐|{{censored|姊姊}}]]的處刑用BGM&lt;/s&gt;}}機動六課大反攻的BGM。
+|-
+|{{nm|9583929|流星の射手}}
+|ティアナ・ランスター
+|原本為變身BGM，23集成為處刑用BGM&lt;s&gt;，戰鬥機人淚目ww&lt;/s&gt;。
+|-
+|[http://www.youtube.com/watch?v=4kMzsAW9pBI 熱き決闘者たち]
+| rowspan="2" |[[武藤遊戲|闇遊戲]]
+| rowspan="3" |[[遊☆戯☆王|遊戯王]]
+|勝利用BGM，GX和劇場版有出現Remix版本。
+|-
+|[http://www.youtube.com/watch?v=dAHOSoweSoI クリティウスの牙]
+|其實第一次出現時是社長拿到學園祭的[[Cosplay|COSPLAY]]服，但是自從某個[[HA☆NA☆SE!|鞭屍]]橋段後就…
+|-
+|[http://www.youtube.com/watch?v=sq7qkjAwFQw 神の怒り]
+|通用
+|終結處刑用BGM。
+|-
+|{{nm|4630056|十代のテーマ}}
+| rowspan="2" |[[遊城十代]]
+| rowspan="2" |[[遊☆戯☆王 GX]]
+|勝利用BGM，歷代中最為輕快。
+|-
+|[https://www.youtube.com/watch?v=lvv1v28Pxuc 覇王のテーマ-悲しいデュエル-]
+|霸王狀態勝利用BGM，與十代のテーマ的風格差別極大。
+|-
+|[https://www.youtube.com/watch?v=N9begsY87oI 遊星テーマ]
+| rowspan="2" |[[不動遊星]]
+| rowspan="5" |[[遊☆戯☆王 5D's]]
+|勝利用BGM，較類似初代的壯大感。
+|-
+|[http://www.youtube.com/watch?v=5ridiArtdLQ Clear mind]
+|集いし夢の結晶が新たな進化の扉を開く。光さす道となれ！アクセルシンクロ！！生来（しょうらい）せよ、シューティング・スター・ドラゴン！！！
+|-
+| rowspan="2" |[http://www.youtube.com/watch?v=ibHU7K2mnVg Jack Battle]
+| rowspan="2" |[[傑克‧亞特拉斯|&lt;s&gt;摔車王&lt;/s&gt;傑克‧亞特拉斯]]
+|王者の鼓動、今ここに列をなす。天地鳴動の力を見るがいい！シンクロ召喚！我が魂、レッド・デーモンズ・ドラゴン！！！&lt;br&gt;&lt;s&gt;播放時確保不會摔車。&lt;/s&gt;
+|-
+|王者と[[惡魔|悪魔]]、今ここに交わる。荒ぶる魂よ、天地創造の叫びをあげよ。シンクロ召喚！いでよ、スカーレッド・ノヴァ・ドラゴン！！！&lt;br&gt;&lt;s&gt;播放時確保不會摔車。&lt;/s&gt;
+|-
+|{{sm|9421004|鬼柳京介}}
+|[[鬼柳京介]]
+|きた…きた…きた…きた…
+|-
+|{{sm|15847711|遊馬のテーマ}}
+|[[九十九遊馬]]
+| rowspan="4" |[[遊☆戯☆王 ZEXAL]]
+|遊馬的專屬BGM，和十代一樣走輕快風格。
+|-
+|[https://www.youtube.com/watch?v=vAkI0bRe3Cw 破滅のフォトン・ストリーム]
+|[[天城快斗]]
+|召喚超銀河眼光子龍時使用BGM。&lt;br&gt;第一次響起時更成了處刑Ⅲ和[[Ⅳ]]的BGM。&lt;br&gt;「[[Ⅳ]] 已經準備好懺悔了吧！？」
+|-
+|{{sm|18940989|冷酷なデュエル}}
+|[[Ⅳ]]
+|Ⅳ的Fan Service用BGM。
+|-
+|{{sm|22262187|強攻のデュエル}}
+|[[バリアン七皇|アリト]]
+|七皇中罕見有專用BGM的角色&lt;s&gt;，不過卻是自我處刑用&lt;/s&gt;。
+|-
+|[http://www.youtube.com/watch?v=CANJDKOBrvc VOODOO] {{sm|6524310|KINGDOM}}
+|[[DIO]]
+| rowspan="7" |[[JOJO|JOJO奇妙冒險]]
+|[[JOJO第一部登場人物一覽|JOJO第一部]]劇場版主題曲，歌詞與曲調充滿了狂氣，一般認為這是在描述DIO的歌曲。
+|-
+|[https://www.youtube.com/watch?v=XUhVCoTsBaM Awaken]
+|[[JOJO第二部登場人物一覽|柱之男]]
+|柱之男專用主題曲，開頭的&lt;/s&gt;阿姨壓一壓&lt;s&gt;堪稱魔性
+|-
+|[https://www.youtube.com/watch?v=Rt2JlYFdBoY Stardust Crusaders]
+|[[空條承太郎]]
+|承太郎專用處刑曲，基本上響起這首就代表有人要被[[オラオラオラオラオラオラ|歐拉歐拉]]了
+|-
+|[https://www.youtube.com/watch?v=L4dXt2CA8-E 高潔なる教皇]
+|[[花京院典明]]
+|花京院專用處刑曲，充滿著悲壯感的曲子
+|-
+|[https://www.youtube.com/watch?v=pqDqIMUo2OU ダイヤモンドは砕けない～メインテーマ～]
+|[[東方仗助]]
+|仗助專用處刑曲，基本上響起這首就代表有人要被嘟啦啦啦了 &lt;s&gt;被當被當&lt;/s&gt;
+|-
+|[https://www.youtube.com/watch?v=2MtOpB5LlUA il vento d'oro]
+|[[喬魯諾‧喬巴拿]]
+|喬魯諾專用&lt;s&gt;無駄無駄&lt;/s&gt;處刑曲&lt;s&gt;，傳說中聽完整首能活下來的沒有幾個&lt;/s&gt; &lt;s&gt;我喬魯諾‧喬巴拿有台鋼琴&lt;/s&gt;
+|-
+|[https://www.youtube.com/watch?v=zEWy-YX5cwc Nella Cerniera]
+|[[布羅諾‧布加拉提]]
+|布加拉提專用主題曲，TV版名場面常配上的BGM，強快的節奏感與拉鍊音效為其特色
+|-
+|[https://www.youtube.com/watch?v=nV63utE8tcE おれはジャイアンさまだ！]（胖虎之歌）
+|剛田武（技安/胖虎）
+| rowspan="2" |哆啦A夢
+|我~是胖虎 我是孩子王~~ 我~天~~下無敵~~
+|-
+|[http://www.youtube.com/watch?v=ZPWr3A7gN_k ドラえもん]（スネ夫が自慢話をするときに流れている曲）
+|骨川小夫
+|就是小夫在炫耀時的BGM。
+|-
+|[http://www.youtube.com/watch?v=FZhsme8YQXE Guin's Theme]
+|Guin
+|豹頭王傳說
+|OST裡最熱血的一首。
+|-
+|{{sm|13722198|Credens justitiam}}
+|[[巴麻美]]
+| rowspan="2" |[[魔法少女まどか☆マギカ|魔法少女まどか★マギカ]]
+|正式名稱發表前通稱為『マミさんのテーマ』只要麻美出現戰鬥畫面，就會演奏這首處刑音樂，而且也就只有她的戰鬥畫面會播這首曲子。
+|-
+|{{sm|14592079|Sis puella magica}}
+|[[キュゥべえ]]
+|俗名：営業のテーマ，只要QB開始向登場角色&lt;s&gt;推銷&lt;/s&gt;要求成為[[魔法少女]]的時候，就會播這首曲子。
+|-
+|[http://www.youtube.com/watch?v=wr3Ehj3wycY ゴジラのテーマ]
+|[[哥吉拉]]
+|哥吉拉系列
+|此出於伊福部昭之手的名曲已經是人們耳熟能詳的經典了，&lt;s&gt;甚至連台灣經典連續劇包青天都有拿來用一下&lt;/s&gt;{{ref|華視經典影集「包青天」有時反派在私底下陳述自己的陰謀的時候會莫名其妙的撥放此曲。}}此外炎のチャレンジャー（火焰挑戰者）的OP也是使用本曲的後半段。
+|-
+|[http://www.youtube.com/watch?v=K_wQEQiVfoc モスラの歌]
+|摩斯拉
+|摩斯拉系列
+|兩位[[Elf|精靈]]唱的歌。
+|-
+|[https://www.youtube.com/watch?v=fOnc4x3juKo ガメラの歌]
+|卡美拉
+|[[卡美拉系列|卡美拉系列]]
+|飛天神龜卡美拉。
+|-
+|[http://www.youtube.com/watch?v=DCzU-UfQpyg 呂布]{{sm|1319798|のテーマ}}
+|[[呂布]]
+|[[真‧三國無雙|真・三國無双シリーズ]]
+|每代都有不同的變奏，此為三代的版本…當此曲出現時玩家操作的武將還練的不夠強皮就該繃緊了！~素有「被處刑用BGM」之稱。
+|-
+| rowspan="2" |{{sm|10559315|殺陣のテーマ}}
+|德川吉宗
+|暴れん坊将軍（暴坊將軍）
+|這是主題曲的其中一個變奏，不過此曲配合吉宗將軍的殺陣畫面已然成為此作的招牌，亦是著名的「處刑用BGM」之一。&lt;s&gt;ﾃﾞｰﾝﾃﾞｰﾝﾃﾞｰﾝ。&lt;/s&gt;
+|-
+|マスター鷲塚慶一郎BA☆KU☆MA☆TSUstyle
+|[[M.U.G.E.N]]
+|&lt;s&gt;幕末故致し方無し。&lt;/s&gt;
+|-
+|{{sm|9450194|タキシード仮面のテーマ}}
+|燕尾服蒙面俠
+|[[美少女戦士セーラームーン]]
+|這[[紳士]]伴隨者此&lt;s&gt;[[亂入]]用&lt;/s&gt;BGM以及&lt;s&gt;暗箭傷人的&lt;/s&gt;玫瑰花登場後與主角群說些打氣的話便瀟灑的跳窗&lt;s&gt;逃跑&lt;/s&gt;離開，接者剛才還把主角逼到絕路的敵人莫名的被一招打死，已經是前期故事的定番了。
+|-
+|[http://www.youtube.com/watch?v=WhiGnj7QX2A Tank]
+|Tank（特殊感染者）
+| rowspan="5" |Left 4 Dead（惡靈勢力）&lt;br&gt;Left 4 Dead 2（惡靈勢力2）
+|當強悍的Tank登場時遊戲會自動撥放這雄壯的音樂來警告生存者們強敵的到來！&lt;s&gt;雖然這對操作Tank的玩家來說不是什麼好事情。&lt;/s&gt;
+|-
+|[http://www.youtube.com/watch?v=M7kmM7vMCxk Witch（注意：曲風較為恐怖詭異，請稍著點入）]
+|Witch（特殊感染者）
+|Witch在附近！請關掉手電筒不要嚇到她…
+|-
+|[http://www.youtube.com/watch?v=HnPjvMTLBlM Exenteration（注意：曲風較為恐怖詭異，請稍著點入）]
+|Hunter（特殊感染者）
+|Hunter在附近！當你知道時已被它從高處遠距離飛撲[[推倒]]抓死了！
+|-
+|[http://www.youtube.com/watch?v=DLcKGob-r1s Tongue Tied+Asphyxiation（注意：曲風較為恐怖詭異，請稍著點入）]
+|Smoker（特殊感染者）
+|Smoker在附近！當你知道時已被它伸出的舌頭綑綁然後被雙拳痛扁至死或卡在東西上勒死了！
+|-
+|[http://www.youtube.com/watch?v=HnPjvMTLBlM Pukricide（注意：曲風較為恐怖詭異，請稍著點入）]
+|Boomer（特殊感染者）
+|Boomer在附近！請小心不要被它的嘔吐物擊中。
+|-
+|[http://www.youtube.com/watch?v=z2EaU1DZZ3s Blue Blazes]&lt;br&gt;[http://www.youtube.com/watch?v=FsqxndssABc Phantom of Blue]
+|朝倉アキオ
+| rowspan="3" |灣岸Midnight Maximum Tune系列
+| rowspan="2" |1-3以後。
+|-
+|[http://www.youtube.com/watch?v=TpssmQuBGLQ Destination Blackout]&lt;br&gt;[http://www.youtube.com/watch?v=Ga4wU9Ln-rc Black Pressure]
+|島達也
+|-
+|[http://www.youtube.com/watch?v=5j1M7Bppc1E Nothing Can Live Forever]
+|秋川零奈
+|2以後。
+|-
+|[http://www.youtube.com/watch?v=ZbPcUrHsD8A The Imperial March（帝國進行曲）]
+|[[達斯‧維達|黑武士—達斯‧維德]]
+| rowspan="3" |Star Wars
+|星際大戰最具代表性的BGM，當這首曲子響起時就代表維達跟帝國要搞動作了…
+|-
+|[http://www.youtube.com/watch?v=Wkp80PB4PkA The Emperor's Theme]
+|&lt;s&gt;[[本篤十六世]]&lt;/s&gt;&lt;br&gt;[[白卜庭|西斯大帝—白卜庭]]
+|臣服在西斯的[[力量]]下吧！
+|-
+|[https://www.youtube.com/watch?v=D_2bluVPsb0 Duel of The Fates]
+| -
+|當這首曲子響起來的時候就代表又有絕地武士和西斯武士在某個地方打架了…
+|-
+|ヘル&amp;ヘブン
+| rowspan="2" |ガオガイガー
+| rowspan="2" |勇者王ガオガイガー
+| rowspan="4" |敵人被取出核/變成光的BGM。
+|-
+|ゴルディオンハンマー
+|-
+|ジェネシック・ヘルアンドヘヴン
+| rowspan="2" |ジェネシック・ガオガイガー
+| rowspan="2" |勇者王ガオガイガーFINAL
+|-
+|ゴルディオンクラッシャー
+|-
+|{{sm|22396|nowhere}}
+|マドラックス
+|MADLAX
+|通稱&lt;s&gt;皮癢嗎你&lt;/s&gt;「ヤンマーニ」、無雙用BGM、又稱之為無敵BGM，槍戰過程中絕對命中敵方、絕對自身擦彈。
+|-
+|{{nm|3601437|悲しみの向こうへ}}
+|[[伊藤誠]]
+|[[School Days]]
+|[[鮮血的結末]]專用BGM。
+|-
+|&lt;s&gt;焼き芋&lt;/s&gt;{{sm|14299707|戦いの銅鑼}}
+|[[成句/そんな○○で大丈夫か？|イーノック]]
+|[[エルシャダイ|El_Shaddai]]
+|「♪や～～き～～い～～も～～い～～ら～～ん～～か～～焼き芋は～～ちょっと熱い～～木曜日～～♪」&lt;br&gt;伊諾克一開始回答「大丈夫だ、問題ない!」，然後跳下去&lt;s&gt;自殺&lt;/s&gt;的時候的BGM。
+|-
+|{{sm|1532964|片翼の天使}}
+|セフィロス
+|[[最終幻想系列|ファイナルファンタジーVII]]
+|專用&lt;s&gt;被打臉&lt;/s&gt;BGM，已經被SE社改編了不知道多少版本。
+|-
+|[http://www.youtube.com/watch?v=jBupII3LH_Q Pink Panther Theme]
+|Pink Panther（粉紅豹/頑皮豹）
+|Pink Panther
+|一聽到這抓摸不定又有帶點幽默感的爵士配樂，就知道頑皮豹又要出來耍寶了。
+|-
+|[http://www.youtube.com/watch?v=CS9OO0S5w2k Y.M.C.A]
+|&lt;s&gt;[[基頭四]]&lt;/s&gt;
+|&lt;s&gt;[[海虎|海虎II]]&lt;/s&gt;
+|在八十年代，&lt;s&gt;它&lt;/s&gt;曾經有代表性的啊，&lt;s&gt;……嘻嘻嘻&lt;/s&gt;其實是Village People為[[十字教|基督教]]青年會寫的招募會員歌，歌詞乍聽之下毫無問題，但深究之下會發現都是針對Boy做宣傳，外加上從樂團到YMCA真的都在搞[[BL|基]]，因此也被譽為基佬界的國歌，與Tarzan Boy齊名。
+|-
+|[https://www.youtube.com/watch?v=pk4HCFq3AVI Fallen down]
+| rowspan="2" |イカロス
+| rowspan="2" |[[天降之物]]
+|原作者填的歌詞，原作21話出現。
+|-
+|[https://www.youtube.com/watch?v=e2tltpuMKYg ハートの確率]
+|動畫第二季主題曲，於漫畫53集再度出現（惡搞版）。
+|-
+|[https://www.youtube.com/watch?v=LiS2khqC9p8 Dr.Wily Stage Boss]
+|黃[[惡魔]]
+|[[洛克人系列|洛克人]]
+|本來是威利城的Boss BGM，[https://www.youtube.com/watch?v=CW_gPR3PocA X5]再度出現&lt;s&gt;，直到現在這隻Boss仍是眾人眼中的噩夢&lt;/s&gt;。
+|-
+|{{nm|8546540|悪魔のブロリー}}
+|[[布羅利]]
+|ドラゴンボールZ
+|\デデーン/
+|-
+|[https://www.youtube.com/watch?v=6ybY00x49B4 0]
+|ZERO
+|コードギアス 反逆のルルーシュ
+|出場音樂。
+|-
+|きらめいててご免
+|名取周一
+|夏目友人帳
+|曲名就是名取的[[口頭禪]]「對不起我太耀眼了」。
+|-
+|[[https://www.youtube.com/watch?v=1XWe2MBaLRI 名探偵コナン メイン・テーマ]]
+|江戶川柯南/工藤新一
+|名偵探柯南
+|貨真價實的處刑BGM，響起就代表有人要死了。
+|-
+|{{nm|12017094|追求～追いつめられて}}
+|成步堂龍一
+|[[逆轉裁判]]
+|反過來控告真兇時的BGM，Ultimate Marvel vs Capcom 3達成特定條件同樣會切換{{sm|15939317|這首}}。
+|-
+|{{nm|14575215|追究 ～つきとめたくて}}
+|御剣怜侍
+|逆轉檢事
+|一樣是控告真兇時的BGM。
+|-
+|[https://youtu.be/bCvA5AM-1gg 戦闘!ゲーチス]
+|ゲーチス
+|rowspan="4" | [[神奇寶貝]]
+|( ﾟ∀ﾟ)o彡゜ゲーチス！ゲーチス！&lt;br&gt;DENNIS!DENNIS!（空耳）&lt;br&gt;正如魁奇思的名字一樣，是一首充滿惡魔音程的BGM。
+|-
+|[https://youtu.be/7X1QWU1Zyck がんばリーリエ！]
+|莉莉艾
+|代表著莉莉艾經過故事遭遇而改變過的心境的BGM。
+|-
+|[https://youtu.be/bCvA5AM-1gg 戦闘！ホウオウ]
+|鳳王
+|傳說寶可夢少有的和風神曲。
+|-
+|[https://www.youtube.com/watch?v=ySWVpAYrcLI 戦闘！ウルトラネクロズマ]
+|究極奈克洛茲瑪
+|光輝大神的最強形態超有威嚴的BGM。&lt;s&gt;６タテのテーマ﻿&lt;/s&gt;
+|-
+|私、負けない！～ハルカのテーマ～（我，不會輸的！～小遙的主題曲～）
+|[[小遙]]
+| rowspan="8" |神奇寶貝動畫版
+|
+|-
+|君のそばで～ヒカリのテーマ～（在你的身邊〜小光的主題曲〜）
+|[[小光 (神奇寶貝第四世代)|小光]]
+|一共出了五個版本XDDD
+|-
+|ハイタッチ！（擊掌！）
+|[[小智 (神奇寶貝)|小智]]&amp;小光
+|一共出了兩個版本。
+|-
+|タケシのパラダイス（小剛的樂園）
+|[[小剛]]
+|&lt;s&gt;大姊姊們~我來了~（拖）&lt;/s&gt;
+|-
+|ニャースのうた（喵喵之歌）
+| rowspan="2" |喵喵
+|以略帶滄桑的曲調呈現了喵喵的心境。
+|-
+|ポルカ・オ・ドルカ（跳波爾卡舞/Polka O Dolka）
+|十分歡樂的一首歌WWW
+|-
+|前向きロケット団！（積極樂觀的火箭隊！）
+|火箭隊（[[武藏 (神奇寶貝)|武藏]]、[[小次郎 (神奇寶貝)|小次郎]]、喵喵、果然翁）
+|完整呈現火箭隊性格的歌XD
+|-
+|胖丁之歌
+|胖丁
+|&lt;s&gt;其實很多神奇寶貝都會唱，只是胖丁唱的特別經典XDDD&lt;/s&gt;
+|-
+|[https://www.youtube.com/watch?v=b1uH4BnswKQ Brave heart]
+|所有主角方數碼獸
+|數碼寶貝動畫版第一季
+|只要進化時是放這首歌，接下來的戰鬥就算不是必勝至少也能全身而退&lt;s&gt;所以算是處刑用BGM&lt;/s&gt;，後來每一代都有新的進化歌曲但還是這首最經典。
+|-
+|地獄流し
+|[[成句/想死一次看看嗎？|閻魔愛]]
+|地獄少女
+|客戶上門後，輪入道爺爺載小愛出發時用的BGM。
+|-
+| rowspan="2" |曲名不明&lt;br&gt;（出場背景音樂：[https://www.youtube.com/watch?v=pFi6f7k9DJ0 賭神]、[https://www.youtube.com/watch?v=n_N0rVARdgY 賭俠]）
+|賭神（高進）
+|賭神系列
+|由演員兼音樂製作人盧冠廷編曲，港台地區耳熟能詳的賭神出場樂。
+|-
+|
+|賭俠、賭聖
+|一樣是由盧冠廷編曲，可能有參考[https://www.youtube.com/watch?v=9jK-NcRmVcw The Final Countdown]的旋律，賭俠僅使用前幾秒，在上海灘賭聖才使用全曲。
+|-
+|[http://www.youtube.com/watch?v=YMk5J4S7qu0 The Bridge at Remagen Theme] （雷馬根大橋）
+|濱口優
+|黃金傳說
+|當聽到這首曲子一撥出，就是濱口要跳下海抓魚（抓到魚了）了!!
+|-
+|[https://www.youtube.com/watch?v=iL51-vQeocM 幻想殺し]{{sm|9586240|（イマジンブレイカー）}}
+|[[上條當麻]]
+|[[とある魔術の禁書目録]]（インデックス）
+|破顏專用BGM。
+|-
+|[https://www.youtube.com/watch?v=lYWFI4tTUqo 逆転（御坂美琴Version）]
+|[[御坂美琴]]
+|[[とある科学の超電磁砲]]（レールガン）
+|炮姐發威專用BGM。
+|-
+|[https://www.youtube.com/watch?v=X9geXVAOFDg Venice Rooftops]
+|Ezio Auditore
+|刺客教條2
+|AC II中和跑者60秒競速的BGM，&lt;s&gt;對玩家來說卻是卡關的惡夢之音，贏了還可以推倒女人（絕對沒有誤）&lt;/s&gt;另外有[http://www.youtube.com/watch?v=By2VPvkMCDY 劍魂5版本]。
+|-
+| -
+|人中之龍的主角和配角
+|人中之龍系列
+|每代都各有特色的BGM。
+|-
+|{{sm|17567928|撃槍・ガングニール}}
+| rowspan="2" |立花響
+| rowspan="12" |[[戰姬絕唱SYMPHOGEAR|戦姫絶唱シンフォギア]]
+| rowspan="6" |本作所有角色歌皆為角色身上的鎧甲（シンフォギア）放出BGM，鎧甲主人配合唱歌來發揮戰鬥力。&lt;s&gt;換言之即一歌兩用（角色歌兼處刑曲）。&lt;/s&gt;
+|-
+|{{sm|sm17510672|私ト云ウ 音響キ ソノ先ニ}}
+|-
+|{{sm|17411956|魔弓・イチイバル}}
+| rowspan="2" |雪音クリス
+|-
+|{{sm|17452973|繋いだ手だけが紡ぐもの}}
+|-
+|[http://vlog.xuite.net/play/bVg2aHdJLTQ1NjM4NjcuZmx2/ 絶刀・天羽々斬]
+| rowspan="3" |風鳴翼
+|-
+|[http://vlog.xuite.net/play/eGxzOXlhLTQ1NjM4NjguZmx2/-FLIGHT-FEATHERS FLIGHT FEATHERS]
+|-
+|[http://vlog.xuite.net/play/dXBCVjNhLTc2NzY0MDguZmx2/ 恋の桶狭間]
+|&lt;s&gt;[[水樹奈奈|中の人]]的志願&lt;/s&gt;
+|-
+|{{sm|18238124|陽だまりメモリア}}
+|小日向未来
+|
+|-
+|[https://www.bilibili.com/video/av349530/ FIRST LOVE SONG]
+|立花響、風鳴翼、雪音クリス
+|最終絕唱
+|-
+|[http://vlog.xuite.net/play/TFdxQ1dsLTQ2MTMwNDAuZmx2 君ト云ウ 音奏デ 尽キルマデ]
+|天羽奏
+|只唱了一遍就[[便當|…]]
+|-
+|{{nm|16800442|逆光のフリューゲル}}
+| rowspan="2" |風鳴翼、天羽奏
+|
+|-
+|[http://vlog.xuite.net/play/WHJEM0lxLTQ0MzA1MTguZmx2/-ORBITAL-BEAT ORBITAL BEAT]
+|
+|-
+|{{sm|21384976|不死鳥のフランメ}}
+|風鳴翼、マリア・カデンツァヴナ・イヴ
+| rowspan="20" |[[戰姬絕唱SYMPHOGEAR|戦姫絶唱シンフォギア G]]
+|
+|-
+|[https://vlog.xuite.net/play/SkVJSmVjLTc0ODI1MjguZmx2/ 正義を信じて、握り締めて]
+| rowspan="2" |立花響
+|
+|-
+|[https://www.bilibili.com/video/av7470281 Rainbow Flower]
+|
+|-
+|[https://www.bilibili.com/video/av716138/ 月煌ノ剣]
+|風鳴翼
+|
+|-
+|[https://www.bilibili.com/video/av61869903/ Bye-Bye Lullaby]
+| rowspan="2" |雪音クリス
+|&lt;s&gt;BANG~~&lt;/s&gt;
+|-
+|{{sm|21762134|教室モノクローム}}
+|
+|-
+|{{sm|21668495|烈槍・ガングニール}}
+| rowspan="2" |マリア・カデンツァヴナ・イヴ
+|
+|-
+|{{sm|21781270|Dark Oblivion}}
+|
+|-
+|[https://www.bilibili.com/video/av729768/?p=1 鏖鋸・シュルシャガナ]
+| rowspan="2" |月読調
+|&lt;s&gt;唱給切歌的告白曲&lt;/s&gt;
+|-
+|[http://vlog.xuite.net/play/OVp0QXpGLTc2ODM4ODQuZmx2/-PRACTICE-MODE PRACTICE MODE]
+|&lt;s&gt;唱給響的出軌曲&lt;/s&gt;
+|-
+||[https://www.bilibili.com/video/av751411/?p=1 獄鎌・イガリマ]
+| rowspan="2" |暁切歌
+|&lt;s&gt;唱給調的告白曲&lt;/s&gt;
+|-
+|[https://www.bilibili.com/video/av751411/?p=2 手紙]
+|{{censored|遺書（無誤），已成}}[[黑歷史|{{censored|黑歷史}}]]
+|-
+|{{sm|29345807|歪鏡・シェンショウジン}}
+| rowspan="2" |小日向未来
+|&lt;s&gt;唱給響的告白曲&lt;/s&gt;
+|-
+|{{sm|21918435|かばんの隠し事}}
+|
+|-
+|[https://www.bilibili.com/video/av800581 Apple]
+|マリア・カデンツァヴナ・イヴ、セレナ・カデンツァヴナ・イヴ
+|&lt;s&gt;七孔流血專用BGM&lt;/s&gt;
+|-
+|{{sm|26334380|英雄故事（Ver.Training Day）}}
+|立花響、風鳴弦十郎
+|&lt;s&gt;成龍哭暈在廁所&lt;/s&gt;
+|-
+|[https://www.bilibili.com/video/BV18t411u7us ORBITAL BEAT (Ver.ZABABA)]
+| rowspan="2" |月読調、暁切歌
+|此為翻唱版本，原唱為風鳴翼、天羽奏。
+|-
+|{{sm|23419933|Edge Works of Goddess ZABABA}}
+|鏖鋸與獄鐮的二重唱，&lt;s&gt;[[成句/你們兩個，乾脆交往算啦…|妳們快去結婚啦]]&lt;/s&gt;
+|-
+|[https://vlog.xuite.net/play/elYxdkxILTE3MTI3Mjc5LmZsdg &lt;nowiki&gt;始まりの歌 [バベル]&lt;/nowiki&gt;]
+|立花響、風鳴翼、雪音クリス、マリア・カデンツァヴナ・イヴ、月読調、暁切歌
+|70億人的絕唱。
+|-
+|{{sm|36473535|虹色のフリューゲル}}
+|立花響、風鳴翼、雪音クリス、マリア・カデンツァヴナ・イヴ、月読調、暁切歌、天羽奏
+|&lt;s&gt;未来淚目&lt;/s&gt;
+|-
+|[https://www.youtube.com/watch?v=xuzEGBjfF3Q 忠勝のテーマ]
+|本多忠勝
+|蛇魔無雙Z
+|&lt;s&gt;出現的時候就喔喔喔喔~~敲死妳!&lt;/s&gt;
+|-
+|[https://www.youtube.com/watch?v=MrC7nWNoXQc βios]
+|櫻滿集
+|Guilty Crown
+|俗稱拔劍歌。
+|-
+| -
+|百木るん、一井透、西由宇子、天王寺渚
+|A Channel
+|一集至少一首角色歌，也是造成A Channel動畫版負面評價的主因（無誤）。
+|-
+|[http://www.youtube.com/watch?v=zPf_PJlJsJQ Ride of the Valkyries]（女武神的飛行）
+|美軍/Bill Kilgore中校
+|現代啟示錄
+|自本片推出後，此曲便成了洋片中數一數二有名的處刑BGM。
+|-
+|[https://www.youtube.com/watch?v=kPca4H4KoeA Lord of The Speed]
+|加賀美新
+|[[仮面ライダーカブト]]
+|戰鬥之神（笑）的爆死用BGM。
+|-
+|[http://www.youtube.com/watch?v=BLEBtvOhGnM Rage Of Sparta]
+|Kratos
+|God of War III
+|處刑BGM，當這首BGM出現時通常代表某一位奧林匹斯神正遭到奎爺肢解。
+|-
+| -
+|[[惡魔城]]的歷代主角&amp;要角
+|[[惡魔城系列|悪魔城ドラキュラ]]
+|通常在惡魔城的大門門廊初始區所播的BGM都是主角&amp;[[隱藏角色|隱藏人物]]的{{ref|如以夏諾亞為主角的「被奪走的刻印」，雖然惡魔城是在最後的階段才去，但她的BGM「黃昏の聖痕」也是到惡魔城的大門門廊時才出現。}}，而有些當BOSS的人物則是在打他時才播。
+|-
+|[https://www.youtube.com/watch?v=TazywZDuj9I The Only Thing I Know For Real]
+|Samuel Rodriguez
+| rowspan="6" |[[潛龍諜影系列|潛龍諜影崛起：再復仇]]
+| rowspan="6" |BOSS戰時播放。
+|-
+|[https://www.youtube.com/watch?v=XgCZixSjVX0 I'm My Own Master Now]
+|LQ-84i
+|-
+|[https://www.youtube.com/watch?v=h-rj8HVW3PQ A Stranger I Remain]
+|Mistral
+|-
+|[https://www.youtube.com/watch?v=Rl41HO0Bta0 The Stains of Time]
+|Monsoon
+|-
+|[https://www.youtube.com/watch?v=8_CFXEmmhsc Red Sun]
+|Sundowner
+|-
+|[https://www.youtube.com/watch?v=0iNjXZqXC-M It Has To Be This Way]
+|Steven Armstrong
+|-
+|[http://www.youtube.com/watch?v=EV6E13xODyA Fly Me To The Moon]
+| rowspan="2" |ベヨネッタ（蓓優妮塔）
+| rowspan="2" |ベヨネッタ（魔兵驚天錄）
+|標準處刑用，此曲一出就是有天使要慘遭蓓姊[[S]][[M]]了。
+|-
+|[https://www.youtube.com/watch?v=AovGVFQyZVA Let's Hit The Climax]
+|阿～巴～瓦～空～（大魔獸召喚的意味），處刑BOSS用。
+|-
+|[https://www.youtube.com/watch?v=dLdQMb2rBbw カエルのテーマ]
+|カエル&lt;br&gt;[[大中天]]
+|[[Chrono Trigger]]&lt;br&gt;[[大中天|沉默的小鎮2]]
+|[http://www.youtube.com/watch?v=ju-PJ9FKePs 原作出現時機為青蛙以聖劍誓言擊敗魔王的名場面。]&lt;br&gt;&lt;s&gt;近年卻變成新細明體專用曲。&lt;/s&gt;
+|-
+|{{sm|1414871|9}}
+|⑨（俗稱「ナインボール」）
+|アーマード・コア
+|\ﾃﾞﾃﾞﾃﾞﾃﾞｽﾄﾛｰｲ/
+|-
+|{{nm|9121332|バルバトス戦闘メドレー}}
+|バルバトス・ゲーティア
+|テイルズオブシリーズ
+|玩家第一次聽到時肯定會慘敗（包括因用道具、使用某些晶術等而遭到バルバトス以專用手段瞬殺），有名的處刑用BGM。
+|-
+|[https://www.youtube.com/watch?v=pIgXyE5pXPk シューティング・スター]
+|響美空
+|流星的洛克人
+|貫穿三部遊戲的主題曲，也是述說美空心境的歌曲。
+|-
+|[https://www.youtube.com/watch?v=Wcn10mVNg3w 鮮烈のリュウ]
+|龍隼
+|忍者龍劍傳
+|原作中關卡4-2與及staff roll出現時的BGM，因節奏爽快而成為該作的代表曲。&lt;br&gt;《無雙Orochi》系列裡有龍隼的作品均有{{youtube|q_vyi-ATGw8|這首曲的}}{{youtube|aCCARMS69Pw|重編版}}。&lt;br&gt;&lt;s&gt;此外《忍者龍劍傳 巴》的{{youtube|6mW31fXqG3I|木琴版}}也很出名（差的意味）&lt;/s&gt;
+|-
+|[https://youtu.be/BXTr7M-XNTw Brad Kidds Theme]
+|基德
+|烘焙王
+|
+|-
+|{{youtube|GmSTdIPhZNY|セルリアン}}
+|天藍怪(セルリアン)
+|[[動物朋友]]
+|
+|-
+|{{youtube|118OpsDcDHk|Judgement Knights of Thunder～伝説の勇者}}
+|海藤瞬
+|斉木楠雄のΨ難
+|通常只播放第一句"Judgement Knights of"
+|-
+|{{youtube|UGoGwlNmZUQ|まけるなアル かがやけアル}}
+|本庄アル
+|ひとりぼっちの○○生活
+|
+|-
+|{{youtube|5njHIjuxxGY|ナイトハルトのテーマ}}
+|ナイトハルト
+|Romancing SaGa
+|&lt;s&gt;因為被淫夢民惡搞而聞名&lt;/s&gt;
+|-
+|{{youtube|0SG5TNMlmFQ|Battle #5}}
+|メタルブラック
+|[[SaGa Frontier]]
+|作為該篇主角レッド的宿敵，三次交手的場面搭配這首戰鬥曲的演出獲得了極高評價，其中又以最後一次對決時學習「真アル・フェニックス」的情景最為精彩&lt;br&gt;&lt;s&gt;實際上アセルス篇的反派セアト在終盤交戰時也是用這首，不過卻遠不如メタルブラック有存在感&lt;/s&gt;
+|}
+
+== ACG中有名的「同人原創」角色歌/人物名單 ==
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!曲名!!人物!!所屬作品!!備註
+|-
+|{{sm|542936|エアーマンが倒せない&lt;br&gt;（打不倒的空氣人）}}
+|[[打不倒的空氣人|空氣人]]
+|洛克人2
+|&lt;s&gt;明明打得倒。&lt;/s&gt;
+|-
+|{{sm|1665066|「クリアまでは眠らない！」}}
+|&lt;s&gt;玩家&lt;/s&gt;洛克人
+|洛克人1
+|惡夢…
+|-
+|{{sm|13331305|いまいちな私}}
+|[https://zh.moegirl.org/zh-tw/%E4%BB%8A%E4%BA%95%E7%9F%A5%E8%8F%9C 今井知菜]
+|いまいち萌えない娘
+|「不夠萌」的代表。
+|-
+|[https://www.bilibili.com/video/av531092 金坷垃科學之超肥料砲]
+| rowspan="2" |&lt;s&gt;[[東仙要]]&lt;/s&gt;&lt;br&gt;&lt;s&gt;[[海貓悲鳴時角色列表#右代宮 秀吉（うしろみや ひでよし， HIDEYOSHI， 聲優：廣瀨正志）|右代宮秀吉]]&lt;/s&gt;
+| rowspan="2" |美國聖地亞戈生物工程有限公司
+| rowspan="2" |[[金坷垃|金坷垃金坷垃金坷垃金坷垃…]]
+|-
+|[https://www.bilibili.com/video/av893 金坷垃的完美洒肥教室]
+|-
+|{{sm|975673|やらないか}}
+|[[好男人|阿部高和]]
+|くそみそテクニック
+|原曲為久住小春的バラライカ。
+|-
+|{{sm|2686077|じごくのもんすたースプー}}
+|スプー
+|はいだしょうこ
+|原曲為スプーの絵描き歌，而後這首歌就變成邪神召喚儀式用…
+|-
+|[https://www.youtube.com/watch?v=fe3vtXpS27Y Megalovania]
+|Sans、Vriska Serket等角色
+|Earthbound Halloween Hack、 Homestuck、[[Undertale]]
+|在外國很有名的一首處刑用BGM，用在該BGM作者Toby Fox製作的遊戲跟一個網路同人漫畫的角色。
+|}
+
+== 回應 ==
+{{pcomment}}
+
+== 備註 ==
+&lt;references /&gt;
+
+[[Category:ACG作品]]

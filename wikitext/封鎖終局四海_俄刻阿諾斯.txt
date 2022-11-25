@@ -1,0 +1,75 @@
+{{h0|暴風航海者}}
+[[File:俄刻阿諾斯banner.png|500px|center]]
+== 概要 ==
+[[File:俄刻阿諾斯headline.jpg|500px|center]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 特異點編號
+| 第三特異點
+|-
+! 時代
+| A.D. 1573
+|-
+! 人理定礎值
+| A
+|-
+! 地點
+| 被大海包圍的不明地區
+|-
+! 導航角色
+| [[Francis Drake (Fate)|暴風航海者]]
+|-
+! 通關後贈送角色
+| [[David (Fate)|飼羊的王]]
+|-
+! 劇本作者
+| 東出祐一郎
+|}
+
+* Fate/Grand Order第一部第三章的故事。
+
+
+== 故事 ==
+[[File:俄刻阿諾斯prologue.png|500px|center]]
+
+== 本節登場主要角色 ==
+
+=== 我方勢力 ===
+
+* [[Francis Drake (Fate)|弗朗西斯·德雷克]]
+
+* [[Euryale_(Fate)|尤瑞艾莉]]
+
+* [[Asterius_(Fate)|阿斯忒里翁]]
+
+* [[Orion_(Fate)|俄里翁 &amp; 阿爾忒彌斯]]
+
+* [[David (Fate)|大衛]]
+
+* [[紅方Archer_(Fate/Apocrypha)|阿塔蘭塔]]
+
+=== 敵方勢力 ===
+
+* [[Medea (Fate)|美狄亞（Lily）]]
+
+* [[Iāsōn (Fate)|伊阿宋]]
+
+* [[Hector_(Fate)|赫克特]]
+
+* [[Edward_Teach_(Fate)|愛德華·蒂奇]]
+
+* [[Anne_Bonny_%26_Mary_Read_(Fate)|安妮·伯妮 &amp; 瑪莉·瑞德]]
+
+* [[Hēraklēs (Fate)|赫拉克勒斯]]
+
+* [[Eric_Bloodaxe_(Fate)|血斧埃里克]]
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 關聯條目 ==
+{{Fate/Grand Order章節}}
+
+== 備註 ==
+&lt;references /&gt;
+[[Category:Fate/Grand Order劇情]]

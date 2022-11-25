@@ -1,0 +1,59 @@
+{{h0|&lt;s&gt;水(96%)&lt;/s&gt;酒/Alcoholic beverage/&lt;s&gt;[[wikipedia:Wine|Wine]]&lt;ref&gt;漢語的「酒」指一切有可觀乙醇含量的飲料；而英語的「Wine」僅指葡萄酒，最多推廣至釀造酒，所以用「Wine」來對譯漢語的「酒」字是不正確的。&lt;/ref&gt;&lt;/s&gt;}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; "  | '''飲酒過量易傷身'''，請注意 
+|-
+| style = "text-align: center; "  | '''飲酒後千萬勿進行駕駛行為'''，請注意 
+|}
+
+== 解說 ==
+* &lt;s&gt;'''水'''&lt;/s&gt;
+** &lt;s&gt;化學式為H&lt;sub&gt;&lt;small&gt;2&lt;/small&gt;&lt;/sub&gt;O，在常溫常壓下為無色無味的透明液體。是地球上最常見的物質之一，也是生物體最重要的組成部分。又名一氧化二氫。&lt;/s&gt;
+*** &lt;s&gt;又叫做「氫氧基酸」，是酸雨的主要成分&lt;/s&gt;
+*** &lt;s&gt;亦可稱為「氫化鹼」，是許多強鹼液體的主成分&lt;/s&gt;
+*** &lt;s&gt;對泥土流失有促進作用&lt;/s&gt;
+*** &lt;s&gt;對溫室效應有推動作用&lt;/s&gt;
+*** &lt;s&gt;它是腐蝕的成因&lt;/s&gt;
+*** &lt;s&gt;過多的攝取可能導致各種不適&lt;/s&gt;
+*** &lt;s&gt;皮膚與其固體形式長時間的接觸會導致嚴重的組織損傷&lt;/s&gt;
+*** &lt;s&gt;被吸入肺部可以致命&lt;/s&gt;
+*** &lt;s&gt;處在氣體狀態時，它能引起嚴重燙傷&lt;/s&gt;
+*** &lt;s&gt;在不可救治的癌症病人腫瘤中已經發現該物質&lt;/s&gt;
+*** &lt;s&gt;對此物質上癮的人離開它168小時便會死亡&lt;/s&gt;
+*** &lt;s&gt;將它請到高處時，常常得費體力或電力&lt;/s&gt;
+*** &lt;s&gt;使人類陷入戰爭&lt;/s&gt;
+*** &lt;s&gt;常常被用於各式各樣的殘忍的動物研究&lt;/s&gt;
+*** &lt;s&gt;美國海軍有秘密的一氧化二氫的傳播網&lt;/s&gt;
+*** &lt;s&gt;全世界的河流、湖泊和海洋都被一氧化二氫污染&lt;/s&gt;
+*** &lt;s&gt;常常配合殺蟲劑使用。洗過以後，農產品仍然被這種物質污染&lt;/s&gt;
+*** &lt;s&gt;在一些「垃圾食品」和其它食品中的添加劑&lt;/s&gt;
+*** &lt;s&gt;已知的導致癌症的物質的一部分&lt;/s&gt;
+*** &lt;s&gt;一些屠宰場為了逐利，過度在肉中充入一氧化二氫，使消費者利益受損。&lt;/s&gt;
+
+* '''酒'''
+** 化學式為C&lt;sub&gt;&lt;small&gt;2&lt;/small&gt;&lt;/sub&gt;H&lt;sub&gt;&lt;small&gt;5&lt;/small&gt;&lt;/sub&gt;OH，又名「乙醇」。
+** 可由含醣植物發酵製成，內容含有酒精的飲料。為人類飲用歷史最長的飲料之一。
+** 屬高度揮發性液體，高濃度下可燃，所以高濃度的乙醇可做為燃料。
+
+== 語出 ==
+* 由[[笨蛋，測驗，召喚獸|井上堅二]]原作、吉川公威作畫的&lt;s&gt;喝酒漫畫&lt;/s&gt;潛水漫畫《Grand Blue》。&lt;br&gt;&lt;br&gt;[[File:img20997.png|600px|none]]&lt;br&gt;
+== 飲&lt;s&gt;水&lt;/s&gt;酒流程 ==
+* 飲酒對於人類來說也是社交活動的一種，因此也有許多注意事項，下列為坊間較為正式的飲酒流程，僅供參考
+** 步驟一：'''乾杯'''[[File:img20998.png|300px|none]]
+** 步驟二：'''脫'''[[File:img20999.jpg|300px|none]]
+** 步驟三：'''乾杯'''[[File:img21000.png|300px|none]]
+** 步驟四：'''脫'''[[File:img21001.png|200px|none]]
+** 步驟五：[https://www.youtube.com/watch?v=w1g1rJxljEw VAMOS]
+
+== 參見 ==
+* [[酒女]]
+
+== 投票 ==
+* 你最喜歡的水是？
+{{vote|section=1}}
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+&lt;references/&gt;

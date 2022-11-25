@@ -1,0 +1,286 @@
+{{h0| 電脳少女シロ / 電腦少女小白 / &lt;s&gt;シロイルカ&lt;/s&gt;}}
+
+[[File:Siro1.jpg|350px|right]]
+
+: {{size|24|{{color|#00BBFF||'''こんにちは　シロです！'''}}}}
+: {{size|12|{{color|#00BBFF||'''ここは初めて人を'''}}}}{{size|12|{{color|red||'''KILL'''}}}}{{size|12|{{color|#00BBFF||'''したので、聖地と呼びたい'''}}}}
+
+== 基本資料 ==
+* 人設與3D模型製作者不詳，所屬企業為株式会社アップランド{{ref|從[http://potarou.hateblo.jp/entry/2018/01/04/214738 早期的研討會紀錄]推測，很可能是アップランド社內自行製作}}
+* 生日為8月12日，喜歡甜甜的東西，認為自己的前世是貓，外觀上最大也最自豪的特徵是[[アホ毛|呆毛]]，以「成為偶像並踏上[[日本武道館|武道館]]的舞台」為目標
+* &lt;s&gt;擁有自動返答機能&lt;/s&gt;(已取消)
+* 自出道以來就幾乎保持著投稿頻率一天一次的高效率，但是初期因為角色性格還不是很明確，有很長一段時間訂閱人數保持低迷...
+* 可能是工作人員也半放棄了，後來就乾脆讓シロ放飛自我演出，但沒想到這反而成為爆紅的契機...
+** 首先是她情緒高昂時發出的高頻率笑聲🐬，讓她獲得了シロイルカ(白海豚)的稱號，[https://www.youtube.com/watch?v=8Rc2aH46Ubg 去看Getting Over It回就知道那是什麼聲音了]
+** 在各種硬派FPS及驚悚恐怖遊戲中展現出驚人的戰鬥力及嗜血的本性，因此又獲得了戰鬥用AI的稱號
+*** 但是當遊戲主角沒有回擊手段的時候卻馬上畏縮起來，而且很怕殭屍(不過不怕[[Minecraft]]的殭屍)
+** 有些時候會忘記自己的角色設定而用地聲{{ref|[[中の人|裡面的人]]自然說話的聲音}}講話，但是因為[[姐|大姊姊]]聲線很好聽反而更擴大了客群
+** 會突然說出各種日本的廣告slogan、自創的擬聲語、謎發言等等，對於[[Niconico|ニコニコ]]上各種梗{{censored|甚至淫夢}}也略知一二
+*** 而且還是目前唯一連續2天登上ニコニコ首頁「本日推薦」的Vtuber&lt;s&gt;，是說在ニコニコ的事業比在YouTube還成功，這樣應該叫做虛擬ニコ廚吧&lt;/s&gt;
+** 但她也是早期Vtuber之中外語能力較高的一人{{ref|能流利使用英文、西班牙文、德文三種外語}}，也有許多知性的一面
+* 非常敬重[[キズナアイ]]，理由是兩人都曾經有一段訂閱人數低迷的不遇時期
+
+[[File:Siro2.png|500px|right]]
+* 在Vtuber中算是服裝變化多的，包括最開始的童貞殺毛衣、&lt;s&gt;偽裝成殺手的&lt;/s&gt;[https://www.youtube.com/watch?v=x2oOAHvjmJ8 舞孃裝]、&lt;s&gt;俄羅斯戰鬥民族風&lt;/s&gt;[https://www.youtube.com/watch?v=m0Uny1ksqKo 2017冬裝]&lt;br&gt;&lt;s&gt;到了夏天還在穿的&lt;/s&gt;[https://www.youtube.com/watch?v=BBhxUfBD2i4 2018春裝]、與手遊[https://www.magatsu-wahrheit.com/news/387/ 禍つヴァールハイト]的合作服裝、還有偶爾出現的軍人頭盔、囚犯裝等等
+** 2018年8月31日時還突然展示了[https://www.youtube.com/watch?v=oVzg2dxSW7A 超過10種以上的新泳裝]&lt;s&gt;，也難怪春裝得穿到夏天結束&lt;/s&gt;
+** 於2019年8月12日展示了[https://www.youtube.com/watch?v=igAl9EGyQ5Q 最新型的連身裙裝，並且連臉部主視覺都改變了]
+
+* 生放送時會使用アップランド的VRlive來與觀眾互動，觀眾的Avatar都是白色箱子頭角色(豆腐)
+** [https://www.youtube.com/watch?v=1eMcCI_khUA 後來就替自己的粉絲取名為シロ組]，而箱子頭角色也成為シロ組的代表角色
+** 由於シロ千變萬化的個性(反差萌?)，加上非常付諸心力於經營粉絲這件事，被她感化到的シロ組持續增加...
+{{clr}}
+
+== 誕生緣由 ==
+[[File:Siro3.jpg|500px|right]]
+: {{size|24|'''世界が死んで、ワタシが生まれた'''}}
+* 其實シロ原本是預計在2015年發佈的遊戲「少女兵器大戦」登場的角色，設定上是失去記憶的迷之少女&lt;br&gt;[https://www.youtube.com/watch?v=S_UYOYvEpz4 宣傳PV]
+** 但是遊戲本身因為不明原因而開發終止，從2015年11月之後官方直到2017年6月才釋放出1張[https://twitter.com/shojoheiki/status/877021939516100608 シロ的圖片]
+** 不過後來隨著2017年底シロ的大受歡迎，在2018年3月中旬官方與.Live宣佈將從「少女兵器大戦」原案的180位兵姫中[https://audition.shojoheiki.com/ 進行人氣調查]，最終人氣前10名的角色可以成為2DVtuber，當訂閱人數超過5萬之後也預計會實裝3D模型
+** 最終結果為木曽→'''木曽あずき'''、北上→'''北上双葉'''、鈴谷→'''神楽すず'''、多摩→'''夜桜たま'''、大和→'''ヤマトイオリ'''&lt;br&gt;グラマンF6Fヘルキャット→'''猫乃木もち'''、名取→'''八重沢なとり '''、金剛→'''金剛いろは'''、F2Aバッファロー→'''牛巻りこ'''&lt;br&gt;P40→'''カルロ・ピノ'''，全員並於2018年5月出道
+*** 2018年9月7日，北上双葉、夜桜たま、金剛いろは與もこ田めめめ&lt;ref&gt;並非來自「少女兵器大戦」，而是中途加入アイドル部的前個人勢Vtuber&lt;/ref&gt;確定實裝3D模型，於9月14號正式使用於影片
+*** 2018年10月31日，花京院ちえり、カルロ・ピノ與猫乃木もち確定實裝3D模型，於11月1號正式使用於影片
+*** 2018年12月11日，八重沢なとり、神楽すず與ヤマトイオリ確定實裝3D模型，於12月12號正式使用於影片
+*** 2018年12月20日，牛巻りこ與木曽あずき確定實裝3D模型，於12月21號正式使用於影片
+*** 至此.live全員3D化，可喜可賀!
+
+== 主要事紀 ==
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="110px" | 2017年6月28日
+| 初投稿為[https://www.youtube.com/watch?v=1NPLyPkB6fA "君色に染まる”を踊ってみた]，同日Twitter開設
+|-
+! width="110px" | 2017年8月12日
+| 投稿了&lt;s&gt;參考用的&lt;/s&gt;[https://www.youtube.com/watch?v=fLC5TE_KYcw 自我介紹]
+|-
+! width="110px" | 2017年8月26日
+| 在[https://www.youtube.com/watch?v=FVfFJC4YIz8 繪圖心理測驗影片]中用一句「知りません、次！」迴避了下流梗
+|-
+! width="110px" | 2017年9月24日
+| [https://www.youtube.com/watch?v=5U5OyQni_2U 首次Little Nightmare實況]
+|-
+! width="110px" | 2017年10月3日
+| [https://www.youtube.com/watch?v=d5yVgYC-ao4 首次PUBG實況]，此影片也成為了日後爆紅的契機之一，同日YouTube訂閱數突破1千人
+|-
+! width="110px" | 2017年10月8日
+| 因為某些原因而紅起來的[https://www.youtube.com/watch?v=VJE6LrXO0s8 字幕實況影片]{{censored|提示:サムネ的那句話}}
+|-
+! width="110px" | 2017年10月13日
+| 首次展露[https://www.youtube.com/watch?v=x2oOAHvjmJ8 萬聖節舞孃裝]，同日開設[http://www.nicovideo.jp/user/72302383 ニコニコ頻道]並且在ニコニコ投稿了[http://www.nicovideo.jp/watch/sm32092008 以舞孃裝跳Hand in Hand]
+|-
+! width="110px" | 2017年10月23日
+| [https://www.youtube.com/watch?v=1eMcCI_khUA 正式決定粉絲名稱為シロ組]
+|-
+! width="110px" | 2017年10月25日
+| [https://www.youtube.com/watch?v=DQLQ59MK8_Q 首次ミリしら(噓字幕)影片]
+|-
+! width="110px" | 2017年11月14日
+| [https://www.youtube.com/watch?v=v-2GGqm8YRo 首次自帶BGM與SE(全部俺)影片]
+|-
+! width="110px" | 2017年11月15日
+| Twitter跟蹤數突破999人
+|-
+! width="110px" | 2017年11月18日
+| 在どうぶつの森 ポケットキャンプ實況中[https://www.youtube.com/watch?v=LLx6oTnu9IQ 把しずえ監禁起來]
+|-
+! width="110px" | 2017年11月21日
+| [https://www.youtube.com/watch?v=n_UCvyOhTOg 首次サムネ反省會]
+|-
+! width="110px" | 2017年11月24日
+| [https://www.youtube.com/watch?v=uZ49RnEVa9Y 首次在影片中展露來自シロ組的畫作]
+|-
+! width="110px" | 2017年12月3日
+| 首次展露[https://www.youtube.com/watch?v=6JpNl2ziwCg 囚犯裝]
+|-
+! width="110px" | 2017年12月5日
+| YouTube訂閱數突破5千人
+|-
+! width="110px" | 2017年12月10日
+| [https://www.youtube.com/watch?v=z0hZ57tycVo 首次分裂(?)成三姊妹]
+|-
+! width="110px" | 2017年12月11日
+| 在Toga Kitchen實況中[https://www.youtube.com/watch?v=J74NtDsqcv0 打出肉果汁]
+|-
+! width="110px" | 2017年12月14日
+| [https://www.youtube.com/watch?v=HGHNLjJu7oM 首次生放送]
+|-
+! width="110px" | 2017年12月15日
+| 同日投稿了2大代表回:[https://www.youtube.com/watch?v=8Rc2aH46Ubg Getting Over It實況]與[https://www.youtube.com/watch?v=m0Uny1ksqKo 好き！雪！本気マジック]
+|-
+! width="110px" | 2017年12月21日
+| [https://www.youtube.com/watch?v=QD3meDvcnRI 首次使用VRlive生放送]
+|-
+! width="110px" | 2017年12月25日
+| [https://www.youtube.com/watch?v=BIJks-KAgrQ 首次與其他虛擬YouTuber合作，與のじゃロリ進行生放送](雖然のじゃロリ只有聲音出演)
+|-
+! width="110px" | 2017年12月26日
+| YouTube訂閱數突破5萬人
+|-
+! width="110px" | 2017年12月29日
+| YouTube訂閱數突破10萬人
+|-
+! width="110px" | 2017年12月31日
+| 發佈自己的MMD模型(舞孃裝)
+|-
+! width="110px" | 2018年1月2日
+| YouTube訂閱數突破15萬人
+|-
+! width="110px" | 2018年1月4日
+| [https://www.youtube.com/watch?v=l4-XnY_S96E 使用正太聲線講話]
+|-
+! width="110px" | 2018年1月5日
+| [https://www.youtube.com/watch?v=PT0kmUm3h-4 首次意地惡問題影片]
+|-
+! width="110px" | 2018年1月6日
+| YouTube訂閱數突破20萬人
+|-
+! width="110px" | 2018年1月9日
+| Twitter跟蹤數突破10萬人
+|-
+! width="110px" | 2018年1月19日
+| 發佈自己的MMD模型(冬裝)
+|-
+! width="110px" | 2018年1月21日
+| YouTube訂閱數突破30萬人，23日投稿[https://www.youtube.com/watch?v=zxMVmEWSlVs 紀念影片]
+|-
+! width="110px" | 2018年1月31日
+| 使用了[http://www.nicovideo.jp/watch/sm32560327 某個極樂淨土MMD]製作[https://www.youtube.com/watch?v=mAarqrTydsA 全部俺影片]
+|-
+! width="110px" | 2018年2月2日
+| Twitter跟蹤數突破15萬人
+|-
+! width="110px" | 2018年2月3日
+| 使用UnityAsset[https://www.youtube.com/watch?v=wVmc4MkIRQE 畫了鬼面具]
+|-
+! width="110px" | 2018年2月13日
+| [https://www.youtube.com/watch?v=rGpsf10X4f8 謀反人(織田信長)初登場]
+|-
+! width="110px" | 2018年2月26日
+| [https://www.youtube.com/watch?v=m5_rmF1B8Mg 首次DOOM實況]&lt;s&gt;，知道敵人是惡魔而不是殭屍之後就一轉攻勢了&lt;/s&gt;
+|-
+! width="110px" | 2018年3月3日
+| 將自身化為摺紙的[https://www.youtube.com/watch?v=49Op1lRZtic 女兒節影片]
+|-
+! width="110px" | 2018年3月20日
+| 在Party Hard實況中[https://www.youtube.com/watch?v=PW-UhTFYnJk 成為現充殺手]
+|-
+! width="110px" | 2018年3月21日
+| YouTube訂閱數突破40萬人，23日投稿[https://www.youtube.com/watch?v=kk-syJ_HYY0 紀念影片](Getting Over It再挑戰)
+|-
+! width="110px" | 2018年3月24日
+| [https://www.youtube.com/watch?v=dIUpwzNMdq8 用3分鐘瞭解シロ]'''(公式影片)'''
+|-
+! width="110px" | 2018年3月25日
+| 與手遊[https://www.magatsu-wahrheit.com/ 禍つヴァールハイト]合作
+|-
+! width="110px" | 2018年4月1日
+| [https://www.youtube.com/watch?v=BBhxUfBD2i4 首次展露春裝]
+|-
+! width="110px" | 2018年4月3日
+| 頻道名變更為「Siro Channel」
+|-
+! width="110px" | 2018年4月6日
+| シロ之日，當日[https://www.youtube.com/watch?v=6iFR4Z7JtZI 與其他虛擬YouTuber合作，與のじゃロリ以及ばあちゃる進行VRchat合作]&lt;s&gt;，白馬組歡喜&lt;/s&gt;
+|-
+! width="110px" | 2018年4月8日
+| 電視節目「サイキ道」開播
+|-
+! width="110px" | 2018年4月22日
+| [https://www.youtube.com/watch?v=A25nHMC_j90 包帶人初登場]
+|-
+! width="110px" | 2018年4月24日
+| Twitter跟蹤數突破10萬人
+|-
+! width="110px" | 2018年4月28日
+| 參與ニコニコ超会議2018，並且於超バーチャルYouTuBAR出演
+|-
+! width="110px" | 2018年5月5日
+| 參與バーチャル人狼，與ミライアカリ、ときのそら、ねこます、富士葵、猫宮ひなた、桜樹みりあ、ばあちゃる同臺
+|-
+! width="110px" | 2018年5月14日
+| [https://www.youtube.com/watch?v=WqUBWz3YR7s 模仿其他虛擬YouTuber的聲音]
+|-
+! width="110px" | 2018年5月17日
+| YouTube訂閱數突破46萬人，18日投稿[https://www.youtube.com/watch?v=WZZXlf2zFVY 紀念影片]
+|-
+! width="110px" | 2018年5月21日
+| YouTube訂閱數突破464646人
+|-
+! width="110px" | 2018年5月25日
+| 宣布與GoodSmile並且將推出[https://www.youtube.com/watch?v=vk288Zl-RpA ねんどろいど]
+|-
+! width="110px" | 2018年5月21日
+| YouTube訂閱數突破469300人
+|-
+! width="110px" | 2018年6月7日
+| [https://www.youtube.com/watch?v=P7C_CJ-giYE 首次禍つヴァールハイト生放送]
+|-
+! width="110px" | 2018年6月13日
+| [https://www.youtube.com/watch?v=-VxAzpMUvsY 投稿ツンデレ影片]，是對[https://youtu.be/L-CcUhNRS2s キズナアイ ツンデレ影片]的回應
+|-
+! width="110px" | 2018年6月14日
+| 宣佈[https://www.youtube.com/watch?v=dCDpTHtt9gU 發售Line貼圖]，並且和ミライアカリ洽談合作事宜，27日投稿[https://www.youtube.com/watch?v=OaJuwlTPbAc 合作影片]
+|-
+! width="110px" | 2018年6月17日
+| 參與遊戲大會RAGE 2018 Summer，與ときのそら、ねこます、月ノ美兎、アズマリム、田中ヒメ、ばあちゃる同臺，{{censored|並且奪得初代冠軍}}
+|-
+! width="110px" | 2018年6月23日
+| 又因為某些原因而紅起來的[https://www.youtube.com/watch?v=brOqrSpJcxM 瑪莉歐網球ACE實況]{{censored|提示:3分00秒處}}
+|-
+! width="110px" | 2018年6月28日
+| 清楚之日，[https://www.youtube.com/watch?v=7gDT-7tWI6k 紀念影片]，同日所有影片再生數突破4千6百萬
+|-
+! width="110px" | 2018年6月29日
+| 工商手遊放置少女，並且與偶像部12位成員及ばあちゃる接力[https://www.youtube.com/watch?v=4cQjiXHI6tk 回答1千個粉絲寄來的疑難雜症]
+|-
+! width="110px" | 2018年6月30日
+| 在[https://youtu.be/ao-Ja2nSpQ0 キズナアイ的慶生會「A.I. Party！」]中作為嘉賓出場，同日[https://www.youtube.com/watch?v=cz9AMDOTi64 ロリシロ初登場]
+|-
+! width="110px" | 2018年7月4日
+| 世界初[https://www.youtube.com/watch?v=WYcDKu4hnAY Vtuber配飯用影片]
+|-
+! width="110px" | 2018年7月6日
+| YouTube訂閱數突破50萬人，[https://www.youtube.com/watch?v=eOJGhIV9Ma0 紀念影片]
+|-
+! width="110px" | 2018年7月20日
+| 參與キズナアイ杯預賽(E組)，同日宣佈與[https://www.youtube.com/watch?v=QTlNcos5p1Y ニコカフェ進行合作活動]，期間為8月3日~8月12日
+|-
+! width="110px" | 2018年7月24日
+| 世界初[https://www.youtube.com/watch?v=2VEn3yRiEn8 Vtuber工作用影片]，同日發佈自己的MMD模型(禍つヴァールハイト)
+|-
+! width="110px" | 2018年7月27日
+| [https://www.youtube.com/watch?v=UwGiyxgNEO0 與其他虛擬YouTuber合作，與YUA進行シロイルカゲーム2並宣傳42聯名服裝]&lt;s&gt;，YUA?沒聽過的傢伙呢&lt;/s&gt;
+|-
+! width="110px" | 2018年7月29日
+| [https://www.youtube.com/watch?v=tgR28UzlKUM 發售第2彈Line貼圖]
+|-
+! width="110px" | 2018年7月31日
+| 宣佈[https://www.youtube.com/watch?v=WO0HtkPeWkw 與三麗鷗合作]
+|-
+! width="110px" | 2018年8月11日
+| 在生誕祭中獻唱君の知らない物語，並且委託著名MAD作者oxxo[https://www.youtube.com/watch?v=fuN7imTeYdA 製作了影片]
+|}
+&lt;br&gt;&lt;br&gt;
+
+== 相關條目 ==
+*'''內部連結'''
+** [[虛擬Youtuber]]
+** [[アイドル部 (.live)]]
+
+*'''外部連結'''
+** [https://www.youtube.com/channel/UCLhUvJ_wO9hOvv_yYENu4fQ YouTube頻道]
+** [https://www.youtube.com/channel/UCkD-wlU06zeiGSk31y2qIOw YouTube副頻道(シロGames 日文)]
+** [https://twitter.com/SIROyoutuber Twitter]
+** [http://www.nicovideo.jp/user/72302383/video ニコニコ頻道]
+** [https://www.appland.co.jp/ 株式会社アップランド官方網站]
+** [http://dic.nicovideo.jp/a/電脳少女シロ 電脳少女シロ - ニコニコ大百科]
+** [http://dic.pixiv.net/a/電脳少女シロ 電脳少女シロ - Pivix百科事典]
+** [http://seesaawiki.jp/siroyoutuber/ 電脳少女シロ非公式Wiki(Seesaa Wiki)]
+
+== 回應 ==
+* {{pcomment|section=1}}
+
+==備註==
+&lt;references/&gt;
+
+[[Category:角色]]
+[[Category:虛擬YouTuber]]
+[[Category:網路文化]]

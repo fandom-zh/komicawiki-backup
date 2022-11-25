@@ -1,0 +1,314 @@
+{{h0|[[M.U.G.E.N|MUGEN]]有名場外配對列表 }}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| 以下內容含有大量二次創作設定。 
+|-
+| To各路破壞者:諸位破壞者無需白費心機破壞條目；本版內容早已有MUGEN個備份！。 
+|}
+
+==MUGEN男女場外配對 ==
+* 由於MUGEN本身有的雙人戰賽制而在近年來流行起來，出現了一些眾人公認的經典配對，也舉辦了許多男女組合對戰大會，甚至有製作專門的雙人戰AI的職人。
+* Nicomugen界有紀錄中最早出現的男女組合對戰大會為"ユリポエ＝久瀬佐祐"氏製作的 [http://www30.atwiki.jp/niconicomugen/pages/415.html 男女ペアによるタッグバトル大会]。
+* 配對的理由有招式、姓名、個性、武器、武術、職業等等不同的理由。也不一定是戀人，也有兄妹、父女等等的關係。
+* 事實上相比起共通點，要成為有名配對最重要的是能夠有實績(如在有名的大會中取得優勝)或能對觀眾做成深劇印象(屢次做出好連攜、動作或/及勝利姿勢很配合、故事影片中有好表現等)。
+* P.S.:{{color|red||以下的男女關係均只在MUGEN世界中被接受,切勿在MUGEN以外的話題討論這些男女配!!}}
+* P.S.2:{{color|red||同樣道理,切勿在MUGEN世界對以下的配對及配對行為提出異議!!}}
+* 著名配對
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| '''圖片''' || '''配對''' || '''名稱''' || '''理由''' || '''初出大會''' || '''戰績,備註''' 
+|-
+| [[File:img3278.jpg]] || 古利查力度(KOF)×紅美鈴(東方) || 中間中国 || 招式類似，以及古利查力度的テュホン・レイジ的空耳「紅美鈴」&lt;ref&gt;原作裡幾乎都叫她中國or華人小娘&lt;/ref&gt; || [http://www30.atwiki.jp/niconicomugen/pages/415.html 男女ペアによるタッグバトル大会] || {{censored|上述大會優勝}}公認最速配的場外配對，有愛的繪師已經畫到他們成家立業了 
+|-
+| [[File:img3303.png]] || 路卡爾(KOF)×[[紫色老太婆|八雲紫]](東方) || ボーダー運送 || 業務提攜組合 || [http://www30.atwiki.jp/niconicomugen/pages/907.html リュウが咲く！](第一回リュウ咲くトナメ) || 年上組 
+|-
+| [[File:img3275.jpg]] || 路卡爾(KOF)×倉田佐祐理(EFZ) || 運送親子 || 同樣擅長運送技，所以被加上父女或夫妻的設定，但看來父女派佔了一面倒優勢。 || [http://www30.atwiki.jp/niconicomugen/pages/594.html さっちん夫婦主催！男女タッグトーナメント] || &lt;s&gt;亞爾迪哈德因為不夠萌慘遭遺忘&lt;/s&gt; 
+|-
+| [[File:img3300.png]] || 禍忌(KOF)×帕邱莉(東方) || 紫色豆芽菜 || 帕邱莉是因為長時間待在圖書館看書而獲得豆芽菜的稱呼，而禍忌則是本身就長的像一根巨大豆芽菜 || [http://www30.atwiki.jp/niconicomugen/pages/816.html トキ＆アミバがトーナメントに参戦] || 最為凶惡的男女組合之一 
+|-
+|  || 傑尼茲(KOF)×射命丸 文(東方) || 大嵐 || 都是颶風製造者 ||  ||  
+|-
+|  || 傑尼茲(KOF)×ヴァニラ・アッシュ(Galaxy Angel) || 神のご加護 || (求教中...orz) || [http://www30.atwiki.jp/niconicomugen/pages/1254.html 良タッグ発掘男女タッグバトル大会] || &lt;s&gt;[ヴァニラさん、あなたは天使だ]-MA(ry ノーマッド-&lt;/s&gt; 
+|-
+|  || 傑尼茲(KOF)×恋するドラゴン(N+R) || お別れです || &lt;s&gt;隨機選擇的奇蹟,&lt;/s&gt;因為在某大會中傑尼茲經常被同隊的恋するドラゴン的某大絕KO掉而聞名 || [http://www30.atwiki.jp/niconicomugen/pages/1086.html ゲージMAXタッグトーナメント【ゲジマユ2】] || {{censored|Finalゲジマユ中傑尼茲復仇成功}} 
+|-
+| [[File:img3301.png]] || 麥克希瑪(KOF)×愛莉絲(東方) || 大変なモンゴリアン || [http://www.nicovideo.jp/watch/sm613955 原捏他] || [http://www30.atwiki.jp/niconicomugen/pages/630.html 男女ペアタッグバトル大会Ｖ２] ||   
+|-
+| [[File:img3308.png]] || 無界(KOF)×比那名居天子(東方) || 石使い || 同樣喜歡拿石頭和石柱砸人 || [http://www30.atwiki.jp/niconicomugen/pages/1587.html 男女ペアタッグバトル大会GX] ||   
+|-
+| [[File:img3307.png]] || KASUNAGI(KOF)×藤原妹紅(東方) || 火影姿 || 暴走火焰組 || [http://www30.atwiki.jp/niconicomugen/pages/1717.html 良タッグ発掘男女タッグバトル大会3rd] || &lt;s&gt;(自己的)Lifebar正在真赤的燃燒著!&lt;/s&gt; 
+|-
+| [[File:img3302.png]] || 大蛇(KOF)×Unknown (EFZ) || 普通的神夫婦 || 兩人在原作裡皆為神等級的存在 || [http://www30.atwiki.jp/niconicomugen/pages/630.html 男女ペアタッグバトル大会Ｖ２] || 神角組合為神オロチxイグのん 
+|-
+| [[File:img3309.png]] || 草薙京(KOF)×神奈備命(EFZ) || 草薙的劍與拳 || 神奈擁有的劍疑似為草薙之劍，而京則是草薙之拳的繼承者 || [http://www30.atwiki.jp/niconicomugen/pages/1422.html 良タッグ発掘男女タッグバトル大会2nd] ||   
+|-
+|  || 草薙京(KOF)×[http://wiki.komica.org/wiki3/?%E6%9D%B1%E6%96%B9Project%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD-part%202#t3fa098b 古明地覺](東方原創) || ゆとりさとり教育 ||  || [http://www30.atwiki.jp/niconicomugen/pages/5659.html タッグ軍VSボス軍　交代式BOSS FIGHT] || {{censored|タッグ軍則打倒最多ボス軍參加者的一隊}} 
+|-
+| [[File:img3393.png]] || K'(KOF)×白レン(MB) || 白黒ツンデレッタ || 一黑一白都是傲驕 || [http://www30.atwiki.jp/niconicomugen/pages/1992.html 男女タッグ祭り2009春] ||  
+|-
+|  || Black K'(KOF改變)x闇巫女(東方) || 主人公(暗黒) || 兩名被黑化的主角 || [http://www30.atwiki.jp/niconicomugen/pages/3246.html 新旧男女ペアオールスターUnlimitedトーナメント+1] || 實力強勁之餘,勝利姿勢很配合 
+|-
+| [[File:img3274.jpg]] || 八神庵(KOF)×紅赤朱秋葉(MB) || ツンギレ夫婦 || 配色、個性都很相似 || [http://www30.atwiki.jp/niconicomugen/pages/499.html 共通点のあるキャラ同士でタッグトーナメント] || {{censored|上述大會準優勝}}勝利姿勢很搭 
+|-
+|  || 稚拳崇(KOF)×沢渡真琴(EFZ) || 肉まん愛好会 || 很喜歡吃肉包子的一對 || [http://www30.atwiki.jp/niconicomugen/pages/630.html 男女ペアタッグバトル大会Ｖ２] ||  
+|-
+|  || 矢吹真吾(KOF)×御劍珠緒(VG) || あの人に憧れて…(對那個人的憧憬) || 同樣對某冠軍級格鬥家抱有崇敬之心並因此學武技,希望可以與他同場較量 || [http://www30.atwiki.jp/niconicomugen/pages/2218.html V.G.MUGENタッグバトル] || {{censored|看似不太強,但有三次大會優勝紀錄}}&lt;ref&gt;初登場的大會,其續作&amp;quot;[http://www30.atwiki.jp/niconicomugen/pages/2534.html V.G.MUGEN　男女タッグバトル]&amp;quot;,還有 [http://www30.atwiki.jp/niconicomugen/pages/5041.html 男女タッグ祭り2010]&lt;/ref&gt; 
+|-
+|  || クローンゼロ(KOF)×蘿絲(SFZERO) || ヒゲとボイン || ネタ皆來自於JUMP || [http://www30.atwiki.jp/niconicomugen/pages/2695.html 良タッグ発掘男女タッグバトル大会4th] ||  
+|-
+| [[File:img3306.png]] || 亞爾迪哈德(KOF)×花小路克拉拉(豪血寺) || 阿爾卑斯的少女 || 動畫"小天使[台]/飄零燕[港]"人名捏他 || [http://www30.atwiki.jp/niconicomugen/pages/968.html カレー空輸主催！男女タッグトーナメント] || 大少爺和愛錢魔法少女的配對 
+|-
+|  || 紫苑(KOF)×上月澪(EFZ) || 遠近切り替えシステム || 兩者皆有自由切換遠近距離風格的構的系統 || [http://www30.atwiki.jp/niconicomugen/pages/1587.html 男女ペアタッグバトル大会GX] ||  
+|-
+|  || 東丈(餓狼)×アルクェイド・ブリュンスタッド(MB) || 人気No.1ヒロイン || 前者在墓標的某次人氣女主角票選中成為第1(絕對無誤!),後者是月姬公式網頁中女主角票選四次第1位 || [http://www30.atwiki.jp/niconicomugen/pages/2695.html 良タッグ発掘男女タッグバトル大会4th] || {{censored|前述大會的準優勝}} 
+|-
+|  || 洛克(MOW)×有間都古(MB) || お馴染み師弟コンビ || 來自於あおひげ氏製作的都古RockStyle，擁有許多從洛克學來的新必殺技 || [http://www30.atwiki.jp/niconicomugen/pages/1301.html 男女タッグ祭り2008] ||  
+|-
+|  || 牙刀(MOW)×美坂香里(EFZ) || 妹なんていない！ || 因故不肯認回自己的親妹的組合 || [http://www30.atwiki.jp/niconicomugen/pages/1496.html 良タッグ発掘男女タッグバトル大会SP] ||  
+|-
+|  || Kain(MOW)×翡翠(MB) || 暗黑ＯＯ拳 || 流派"暗黑真空拳"與超必殺"暗黑翡翠拳"的名字捏他 || [http://www30.atwiki.jp/niconicomugen/pages/1621.html 第二次新コンビ探求・男女ペアタッグ大会] || {{censored|前述大會的優勝}} 
+|-
+|  || 如月影二(龍虎)xこのは(AH) || 現代的忍者 || 一如其名的現代忍術使 || [http://www30.atwiki.jp/niconicomugen/pages/1422.html 良タッグ発掘男女タッグバトル大会2nd] ||  
+|-
+| [[File:img3394.png]] || Mr.師範(龍虎)x四條雛子(KOF) || 大会/カニミソ || poikre氏大會的二枚看板 || [http://www30.atwiki.jp/niconicomugen/pages/2348.html 不破刃最強伝説：大会編 08 友情大会] || ・・・・すごい漢だ。SUMOUパワーにはまいったな！ 
+|-
+|  || 楓(月華)×京堂扇奈(BBB) || 黑髮劍士 || 呃…就是黑髮劍士嘛… || [http://www30.atwiki.jp/niconicomugen/pages/1482.html 新コンビ探求・男女ペアタッグ大会] || 狼牙淚目 
+|-
+|  || 楓(月華)×射命丸文(東方) || 風雷 || 風力和雷力的組合 || [http://www30.atwiki.jp/niconicomugen/pages/1210.html 夏休みだよ！大MUGEN学生杯] || 忘年之交(?) 
+|-
+| [[File:img7143.png]] || 御名方守矢(月華)×川澄舞(EFZ) || 月下の剣士 || 個性很像 || [http://www30.atwiki.jp/niconicomugen/pages/1075.html 【直感とネタで】タッグ戦するよー] ||  
+|-
+| [[File:img3395.png]] || 嘉神慎之介(月華)×蓮(MB) || 白黒フレイザード&lt;ref&gt;フレイザード是動畫&amp;quot;勇者鬥惡龍 達爾大冒險&amp;quot;中外號&amp;quot;冰炎將軍&amp;quot;的惡役角色,身體一邊紅色一邊藍色,代表其操控火和冰的能力&lt;/ref&gt; || 配色一白一黑 || [http://www30.atwiki.jp/niconicomugen/pages/630.html 男女ペアタッグバトル大会Ｖ２] || &lt;s&gt;嘉神你這個蘿莉控！&lt;/s&gt; 
+|-
+|  || 嘉神慎之介(月華)×[[泉此方]](LS) || らき☆すた || 嘉神→かがみ || [http://www30.atwiki.jp/niconicomugen/?cmd=word&amp;amp;word=%E3%82%89%E3%81%8D%E2%98%86%E3%81%99%E3%81%9F&amp;amp;type=normal&amp;amp;page=%E6%96%B0%E7%94%9F%E7%94%B7%E5%A5%B3%E3%82%BF%E3%83%83%E3%82%B0%E3%83%88%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%80%90%E3%83%AD%E3%83%AA%E3%80%91 新生男女タッグトーナメント【ロリ】] || &lt;s&gt;嘉神怎麼都跟幼女體型配在一起啊！&lt;/s&gt; 
+|-
+|  || 剎那(月華)×天樓久那妓(BBB) || 和風銀髮 || 配色、服裝類似(久那妓的哥哥神威做型和刹那相似度高達八成) || [http://www30.atwiki.jp/niconicomugen/pages/415.html 男女ペアによるタッグバトル大会] || {{censored|上述大會準優勝}}也有人認為他們是兄妹 
+|-
+| [[File:img3304.png]] || 橘右京(侍魂)×永江衣玖(東方) || 空気（読む・読め）/空氣末(世紀末tagAI出擊時) || 意指總是叫人看氣氛的右京和&lt;s&gt;老是不會看氣氛&lt;/s&gt;擁有閱讀空氣中的信息的能力的衣玖 || [http://www30.atwiki.jp/niconicomugen/pages/1254.html 良タッグ発掘男女タッグバトル大会] || {{censored|上述大會優勝}}有專用雙人戰AI，意外的相當強力 
+|-
+|  || 緋雨閑丸(侍魂)×朱憐香乃(MESSIAH END) || 傘の正しい使い方 || &lt;s&gt;超不自重&lt;/s&gt;傘 || [http://www30.atwiki.jp/niconicomugen/pages/3449.html 高性能大将クラスチームトーナメント](審查員枠) || [http://www.nicovideo.jp/watch/sm8210030 影片]，因為過於不自重的關係所以一般雙人大會都沒有登場 
+|-
+|  || 牙神幻十郎(侍魂)×梅喧(GGXX) || 花札和榻榻米的煉金術士 || 憑空拿出花牌或者榻榻米，都是紅發放浪桀驁不羈的武士樣子 || [http://www30.atwiki.jp/niconicomugen/pages/1874.html 新生男女タッグトーナメント【ロリ】] || 幻十郎在SVC女性化和梅姐幾乎一模一樣，而且兩人都有三連殺：豬鹿蝶/天地人，互相之間也是抽煙喝酒的好對手 
+|-
+|  || 壬無月斬紅郎(侍魂)×魂魄妖夢(東方) || 侍親子/侍魂 || 大家都是武士 || [http://www30.atwiki.jp/niconicomugen/pages/1075.html 【直感とネタで】タッグ戦するよー] || 沒有什麼優秀戰績,卻多番登場的一隊古參組合 
+|-
+|  || 邪頭(風雲)×射命丸文(東方) || 鴉天狗 || 兩者都和鳥鴉有關的組合 || [http://www30.atwiki.jp/niconicomugen/pages/2867.html 仮面の可能性タッグトーナメント【アステカ杯】] ||  
+|-
+|  || Yuki(NGBC)×アサギ(日本一) || 今回の主役も私or俺達だ！！ || 兩名&lt;s&gt;毫不顯眼的&lt;/s&gt;主角 || [http://www30.atwiki.jp/niconicomugen/pages/1680.html TAG BATTLE CHAIN トーナメント] || &lt;s&gt;主人公(笑)不知名分隊(笑)&lt;/s&gt; 
+|-
+|  || ユウキ(NEOGEO BATTLE COLISEUM)×愛乃はぁと(アルカナハート) || 愛とユウキ || 名字捏他，愛與勇氣 || [http://www30.atwiki.jp/niconicomugen/pages/5000.html 目指せ名勝負！スーパー連携タッグリーグ] || {{censored|本次大會預選敗退，但在之的目指せ名勝負！ハイパー連携タッグリーグ奪得第4位}} 
+|-
+|  || 拳四郎×Ciel(MB) || カリー・ド・マルシェ/カレー愛好家 || 咖喱同好者 || [http://www30.atwiki.jp/niconicomugen/pages/1874.html 新生男女タッグトーナメント【ロリ】] ||  
+|-
+| [[File:img3273.jpg]] || 多基(北斗)×朱鷲宮神依(AH) || ｼﾞｮｲﾝｼﾞｮｲﾝﾄｷｨ&lt;ref&gt;隊名為北斗格game中1P投幣按start後向上推兩次(ｼﾞｮｲﾝｼﾞｮｲﾝ)再按制選多基(ﾄｷｨ)的機台擬聲，間接形容犯規級的角色&lt;/ref&gt; || 兩者名稱都有"ﾄｷ"的音節&amp;amp;都是原作中犯規級角色 || [http://www30.atwiki.jp/niconicomugen/pages/415.html 男女ペアによるタッグバトル大会] || {{censored|[http://www30.atwiki.jp/niconicomugen/pages/1301.html {{color|#000000||男女タッグ祭り2008世紀末枠}}] 優勝}} 
+|-
+| [[File:img3747.jpg]] || MR.Heart(北斗)×愛乃心(AH) || ハート＆はぁと || 名字都是Heart ||  || 另有兩人一體的角色，人稱肉のアルカナ或肉乃ハァト様 
+|-
+|  || 西恩(北斗)×愛莉絲(東方) || &lt;s&gt;人形性愛患者&lt;/s&gt; || 原作中都是人形控 ||  ||  
+|-
+|  || 西恩(北斗)×KING(龍虎) || KING || 西恩自封為KING，名字捏他 || [http://www30.atwiki.jp/niconicomugen/pages/901.html 見たことないタッグでトーナメント] || 兩人的踢擊也很相似 
+|-
+|  || 傑基(北斗)×Kei(原創) || 兄が強すぎます…(哥哥太強了...orz) || 傑基的哥哥是多基和拉歐，Kei的哥哥則是SACHIEL，這三人都是著名的強角 || [http://www30.atwiki.jp/niconicomugen/pages/968.html カレー空輸主催！男女タッグトーナメント] || 某大會給他們增添了同為魔物獵人愛好者的設定，兩人經常一起連線組隊 
+|-
+| [[File:img3290.jpg]] || ジャギ(北斗)×アンジェリア・アヴァロン(AH2) || 石油のアルカナ || 因為PS2截圖問題，アンジェリア原來的アルカナ - ミルドレッド被人換成ジャギ(ジャギ音似鋸齒，也就是那些截圖問題)[http://www.nicovideo.jp/watch/sm6717968 原捏他見此]， || [http://www30.atwiki.jp/niconicomugen/pages/4437.html なんとなく男女タッグトーナメント(笑)] || 但是這兩人無論性格，台詞和招式實在太合配了，原來的妹ミルドレッド現在看起來反而格格不入，現在兩人經常出現在凶位大會 
+|-
+|  || 多基(北斗)x美坂栞(EFZ) || 世紀末病人 || 原作之中都是死期將至的人 ||  || 你們真的有重病嗎！？ 
+|-
+|  || ムラクモ(アカツキ電光戦記)×東風谷早苗(東方) || 現人神(げんじんしん)&lt;ref&gt;&amp;quot;現人神&amp;quot;的正確讀法應為&amp;quot;あらひとがみ&amp;quot;，但電光戦記中ムラクモ的CV因在廣播劇誤讀成&amp;quot;げんじんしん&amp;quot;而為坊間所用&lt;/ref&gt; || 前者建立ゲゼルシャフト時一直稱自己作現人神，後者則是"祟神"洩矢諏訪子的後代 || [http://www30.atwiki.jp/niconicomugen/pages/3823.html ティンと来たので男女タッグミニトーナメント] || [http://www.nicovideo.jp/watch/sm9425723 習得十傑走的高機動早苗(P.S.:這是步行,不是跑!)] 
+|-
+|  || ムラクモ(アカツキ電光戦記)×石馬戒嚴(N+R) || 八紘一宇 || 同樣是和風軍人兼野心家劍士 || [http://www30.atwiki.jp/niconicomugen/pages/3901.html MUGENトーナメント ドリームタッグ]? ||  
+|-
+|  || アカツキ(アカツキ電光戰記)×西行寺 幽幽子(東方) || はらぺこ || 皆有大食屬性 || [http://www30.atwiki.jp/niconicomugen/pages/3833.html 冬休みだよ！ダンジョンアタックサバイバル] || 在 [http://www.nicovideo.jp/watch/sm9199112 此大會] 中展現出真正的實力{{censored|護國之鬼與操縱死亡的能力}} 
+|-
+|  || アカツキ(アカツキ電光戦記)×石馬戒嚴(N+R) || 神風 ||  || [http://www30.atwiki.jp/niconicomugen/pages/4231.html 途中交代システム搭載！試作壱号トーナメント] || &lt;s&gt;戒嚴怎麼和曉&amp;amp;叢雲這對冤家都很配合?&lt;/s&gt; 
+|-
+|  || アカツキ(アカツキ電光戰記)×聖 白蓮(東方) || アカ白は俺の神仏習合/封印された肉体派(被封印的肉體派) || 近戰之鬼和近戰系魔法使 || [http://www30.atwiki.jp/niconicomugen/pages/3823.html ティンと来たので男女タッグミニトーナメント] || {{censored|上述大會優勝}}及後在同作者影片 [http://www.nicovideo.jp/watch/sm9549271 夢幻暁光奇譚] 大放閃光彈，此外另有 [http://www.nicovideo.jp/watch/sm11427379 夫婦用改造] 
+|-
+|  || エレクトロゾルダーテン(アカツキ電光戰記)xレイセンズ(東方) || 一般兵 || 軍兵一大堆... || [http://www30.atwiki.jp/niconicomugen/pages/3833.html 冬休みだよ！ダンジョンアタックサバイバル] || &lt;s&gt;對手:"[[成句/我在打仗耶！這太荒謬了！|我們在打仗耶(ry]]"&lt;/s&gt;當然兩者也可以使用單人版本 
+|-
+|  || [[喬瑟夫‧喬斯達‏‎|喬瑟夫]](JOJO)×英格麗特(CFJ) || 高性能爺爺奶奶 || 老人組&lt;ref&gt;英格麗特真實年齡不明，但是絕對不年輕&lt;/ref&gt; || [http://www30.atwiki.jp/niconicomugen/pages/632.html セルハラ訴訟勝訴争奪男女対抗団体戦] || 因為セルハラ訴訟而竄紅的一對 
+|-
+|  || [[DIO]](JOJO)×十六夜咲夜(東方) || 時よ止まれ！ || 公認的時停父女檔 ||  || 另有獲得替身的咲夜PADIO 
+|-
+| [[File:img3271.jpg]] || [[DIO|邪惡的化身DIO！]](JOJO)×蕾米莉亞(東方) || カリスマ吸血鬼 || 都是吸血鬼，而且和Pad有很密切的關係 || [http://www30.atwiki.jp/niconicomugen/pages/497.html 同人キャラ混合タッグ選手権] || 表面上是老夫少妻，其實吊爺是只有100多歲的小牛，而大小姐才是500多歲的老草……{{censored|上述大會及系列作的三連霸}} 
+|-
+|  || 空條承太郎(JOJO)×春日野櫻(SFA2) || 本格派高校生 || 兩位都是&lt;s&gt;暴力&lt;/s&gt;青春洋溢的高中生 ||  || 後生可畏的最佳典範 
+|-
+| [[File:img3277.jpg]] || 聖騎士團SOL(GG)×菲歐娜(AH) || [[大劍]] || 武器同樣都是巨劍 || [http://www30.atwiki.jp/niconicomugen/pages/630.html 男女ペアタッグバトル大会Ｖ２] || {{censored|[http://www30.atwiki.jp/niconicomugen/pages/1301.html {{color|#000000||男女タッグ祭り2008}}] 優勝,某大賽中一先一後被多基用北斗有情破顏拳打敗}} 
+|-
+|  || 聖騎士團SOL(GG)×リーズバイフェ・ストリンドヴァリ(MBAA) || 聖騎士の剣と盾 || 一盾一劍的聖騎士組合 || [http://www30.atwiki.jp/niconicomugen/pages/5243.html 目指せ名勝負！ハイパー連携タッグリーグ] ||  
+|-
+|  || KY(GG)×廿楽冴姫(AH) || 雷バル || 在原作中同樣都是雷屬性的宿敵角色 || [http://www30.atwiki.jp/niconicomugen/pages/1496.html 良タッグ発掘男女タッグバトル大会SP] || 大劍是其天敵 
+|-
+|  || Testament(GG)x川名みさき(EFZ) || 咖喱空運 || 同樣喜歡吃咖喱,合起來擁有強力的空中運輸連技的組合 || [http://www30.atwiki.jp/niconicomugen/pages/1075.html 【直感とネタで】タッグ戦するよー] || ルガール運送(株)的商業競敵 
+|-
+|  || Venom(GGX)×真鏡名ミナ(侍魂) || 褐色銀髪クール || 古銅色肌膚+銀白色頭髮組合,而且主戰法也是彈幕戰 || [http://www30.atwiki.jp/niconicomugen/pages/2695.html 良タッグ発掘男女タッグバトル大会4th] || {{censored|前述大會的優勝,奇怪地雖在有名的男女配對系列中勝出,但外部演出很少的樣子...}} 
+|-
+|  || ブリジット(GG)×春日舞織(AH) || 芸人一座 || 同樣以玩具作為武器 || [http://www30.atwiki.jp/niconicomugen/pages/3833.html 良タッグ発掘男女タッグバトル大会] || {{censored|啥？你說你不知道不理姬是帶把的？}} 
+|-
+|  || 御津闇慈(GG)×西行寺幽幽子(東方) || 蝶扇 || 同樣以蝴蝶和扇子戰鬥 || [http://www30.atwiki.jp/niconicomugen/pages/783.html ルガール運送（株）主催！男女タッグトーナメント] || {{censored|上述大會優勝}} 
+|-
+|  || Johnny(GGX)×琥珀(MB) || 居合 || 除了兩者皆是使用居合拔刀術外,還有名字捏他&lt;ref&gt;琥珀某招必殺技召喚出的吐火球植物名為Johnny&lt;/ref&gt; || [http://www30.atwiki.jp/niconicomugen/pages/497.html 同人キャラ混合タッグ選手権] || {{censored|[http://www30.atwiki.jp/niconicomugen/pages/1075.html {{color|#000000||【直感とネタで】タッグ戦するよー}}] 優勝}} 
+|-
+|  || AXL(GG)×伊吹萃香(東方) || 鎖/ロリロリだぜ！ || 武器同樣是鎖鏈 || [http://www30.atwiki.jp/niconicomugen/pages/415.html 男女ペアによるタッグバトル大会] || AXL的台詞「ノリノリだぜ」經常被聽成「ロリロリだぜ！」&lt;s&gt;AXL你這個蘿莉控二號&lt;/s&gt;，原稱鎖鏈組 
+|-
+|  || 機械KY-MKII(GG)×機械翡翠(MB) || 電化製品 || 機器人組 || [http://www30.atwiki.jp/niconicomugen/pages/836.html ぎるてぃといっしょ] || {{censored|上述大會優勝}} 
+|-
+|  || 隆(SF)×風小燕(原創) || 風拳 || 奧義"風之拳"與流派"風拳"的組合 || [http://www30.atwiki.jp/niconicomugen/pages/3863.html 良タッグ発掘男女タッグバトル大会V] || {{censored|上述大會優勝}} 
+|-
+|  || 豪鬼(SF)×高嶺響(月華) || 響鬼 || 姓名捏他 || [http://www30.atwiki.jp/niconicomugen/pages/430.html リクキャラタッグトナメ] || {{censored|上述大會優勝,決定勝負前一刻,豪鬼的屍體替響擋下DIO時間停止丟出的全部飛刀一幕很有名.}}最近響都和維吉爾組隊,響鬼變得影薄了... 
+|-
+| [[File:img3668.png]] || Q(SF3)×琪魯諾(東方) || ⑨ || Q的發音與⑨類似 || [http://www30.atwiki.jp/niconicomugen/pages/782.html カップル－戦友・男女タッグトーナメント] ||  
+|-
+| [[File:img3396.png]] || 艾力克斯(SF3)×シオン(MB) || 新生路地裡同盟 || &lt;s&gt;又稱主人公(笑)&lt;/s&gt; || [http://www30.atwiki.jp/niconicomugen/pages/3223.html 男女ペアによるタッグバトル大会] ||   
+|-
+|  || 揚(SF3)×雙葉螢(MOW) || 中國拳法 || 同樣是中國拳法家 || [http://www30.atwiki.jp/niconicomugen/pages/1496.html 良タッグ発掘男女タッグバトル大会SP] || {{censored|上述大會優勝}}&lt;s&gt;騎乘位好棒&lt;/s&gt; 
+|-
+|  || Gill(SF3)×羅将神ミヅキ(侍魂) || Resurrection || 兩者皆有被扣盡體力時復活的超必殺技&lt;ref&gt;後者在原作串並沒有此等技倆,是由角色製作者&amp;quot;lom2b氏&amp;quot;為其潻加&lt;/ref&gt; || [http://www30.atwiki.jp/niconicomugen/pages/1277.html 主人公連合vsボス連合対抗多人数チームトーナメント] || 相比起Gill的復活連發,羅將神的無責任絕命奧義(即死技)更加恐怖&lt;ref&gt;原作中的絕命奧義需要在自己已取得1個set point+怒爆發下才能使用1次,Mugen中只需自己或對手體力低至一定水平便能夠不耗氣無責任連發也是作者&amp;quot;lom2b氏&amp;quot;的恩賜&lt;/ref&gt;。不自重組合 
+|-
+| [[File:img7142.png]] || Urien(SF3)×天海春香(IM@S) || 閣下 || 名副其實的閣下和被戲稱閣下的組合 || [http://www30.atwiki.jp/niconicomugen/pages/4326.html ごく普通の男女タッグトーナメント] ||  
+|-
+|  || Remy(SF3)×Nakoruru(侍魂) || 大自然の断罪 || ???(麻煩懂的人解說一下orz) || [http://www30.atwiki.jp/niconicomugen/pages/1254.html 良タッグ発掘男女タッグバトル大会] || {{censored|[http://www30.atwiki.jp/niconicomugen/pages/1992.html {{color|#000000||男女タッグ祭り2009春}}] 優勝}} 
+|-
+|  || Cody(Final Fight)×鈴仙・優曇華院・因幡(東方) || 逃亡者 || 一個是逃犯一個是逃兵 || [http://www30.atwiki.jp/niconicomugen/pages/1793.html コーディーとうどんげがタッグトーナメントに挑戦！] ||  
+|-
+|  || Donovan(魔域幽靈)×Rosemary(Asura Blade) || 浮遊剣 || 同樣以念力操控劍來攻擊 || [http://www30.atwiki.jp/niconicomugen/pages/1965.html 侍+αタッグトーナメント ～開拓編～] ||  
+|-
+|  || Jedah(魔域幽靈)×西行寺幽々子(東方) || 便利屋のアレ/冥界夫婦 || [http://www30.atwiki.jp/niconicomugen/pages/980.html 這個故事影片] 的夫婦 || [http://www30.atwiki.jp/niconicomugen/pages/1992.html 男女タッグ祭り2009春] ||  
+|-
+|  || 遠野志貴(MB)×芙蘭朵爾(東方) || 直死 || 都能看到死點 || [http://www30.atwiki.jp/niconicomugen/pages/1717.html 良タッグ発掘男女タッグバトル大会3rd] ||  
+|-
+|  || グラップラーSHIKI(MB改變)×ジョブチェンジ魔理沙(東方) || ジョブチェンジ || 一個放棄使用刀和直死能力另一個則放棄使用掃帚和魔法,只會用拳法的一對 || [http://www30.atwiki.jp/niconicomugen/pages/3367.html 有名ペアっぽい何かでタッグトーナメント] ||  
+|-
+|  || 尼祿(MB)×神尾觀鈴(EFZ) || カラス親子 || 兩者皆會召喚烏鴉攻擊.因年齡關係,多設定成父女配 || [http://www30.atwiki.jp/niconicomugen/pages/499.html 共通点のあるキャラ同士でタッグトーナメント] || {{censored|[http://www30.atwiki.jp/niconicomugen/pages/656.html {{color|#000000||ANA主催！親子＆夫婦＆カップルタッグトナメ}}] 優勝}} 
+|-
+| [[File:img3276.jpg]] || 軋間紅摩(MB)×アネル(原創) || 大炎上 || 同樣擁有爆發性的火焰攻擊 || [http://www30.atwiki.jp/niconicomugen/pages/1254.html 良タッグ発掘男女タッグバトル大会] ||  
+|-
+|  || 七夜志貴(MB)×十六夜 咲夜(東方) || ナイフ || 除了名字以外也都是用小刀 ||  || &lt;s&gt;七夜你的後宮好像越來越大了&lt;/s&gt; 
+|-
+|  || 七夜志貴(MB)xエルザ(AH) || あんぱん || 紅豆包同好組合&lt;ref&gt;七夜的&amp;quot;EX八點衝&amp;quot;的對白經過空耳後會變成&amp;quot;給我吃紅豆包吧!&amp;quot;&lt;/ref&gt; || 不明?&lt;ref&gt;應該是某個nicomugen wiki也沒記載的小會&lt;/ref&gt; ||  
+|-
+|  || 七夜(MBAC)×天樓久那妓(BBB) || 神速 || 兩者的超反應和攻速，雖然也是紙防禦(笑) ||  || 某些影片會用強化組合，殺神貴/鏡夜×神速久那妓，當用這組時就是無恥極了...恐怖的combo和大技 
+|-
+|  || 真田幸村(BASARAX)×犬若茜(AH) || 甘味處[六文錢] || 兩者皆喜歡吃甜點，pixiv中早已crossover || [http://www30.atwiki.jp/niconicomugen/pages/3104.html 皆が見たいと思った男女タッグで大会] || 甘味處=賣日式甜點的店舖，六文錢=真田軍旗徽／{{censored|[http://www30.atwiki.jp/niconicomugen/pages/5764.html {{color|#000000||オールスター男女ペア大戦2011～MUGEN戦士は二度死ぬ～}}] 優勝}} 
+|-
+|  || 前田慶次(BASARA)×愛乃はぁと(AH) || 恋愛主人公ズ ||  || [http://www30.atwiki.jp/niconicomugen/pages/1482.html 新コンビ探求・男女ペアタッグ大会] || &lt;s&gt;主人公(笑)分隊&lt;/s&gt; 
+|-
+|  || 長曾我部元親(BASARA)×May(GG) || 碇 || 同樣手持大船錨當武器&lt;s&gt;其實還有海洋哺乳類和機械兵器&lt;/s&gt; || [http://www30.atwiki.jp/niconicomugen/pages/4333.html 気の向くままに男女タッグトーナメント【超時空杯】]? || {{censored|[http://www30.atwiki.jp/niconicomugen/pages/4967.html {{color|#000000||新出！男女タッグプチトーナメント【衛杯】}}] 優勝}} 
+|-
+| [[File:img3270.jpg]] || 斬真 狼牙(BBB)×愛乃 心(AH) || アルカナ番長 || 都擁有著&lt;s&gt;怪異&lt;/s&gt;特殊的髮型&lt;s&gt;(ナス頭與アホ毛亞種)&lt;/s&gt;，&lt;s&gt;隨機選擇的奇蹟&lt;/s&gt; || [http://www30.atwiki.jp/niconicomugen/pages/1704.html 年忘れだよ！主人公ランダムタッグトーナメント] || 擁有雙人戰AI，連技十分的強力! 
+|-
+|  || 陣內兵太(BBB)×七瀨留美(EFZ) || オト○を目指すオト○ || 一個自認為是漢子(OTOKO)另一個則是希望成為乙女(OTOME) || [http://www30.atwiki.jp/niconicomugen/pages/2695.html 良タッグ発掘男女タッグバトル大会4th] ||  
+|-
+|  || 山本無賴(BBB)×翡翠(MB) || 異性苦手 || 兩人都有異性恐懼症 || [http://www30.atwiki.jp/niconicomugen/pages/1422.html 良タッグ発掘男女タッグバトル大会2nd] || &lt;s&gt;那為什麼會在一起??&lt;/s&gt; 
+|-
+|  || 韋駄川煉(BBB)×安栖賴子(AH) || [http://zh.wikipedia.org/wiki/%E4%B8%8D%E8%89%AF%E4%BB%94%E8%88%87%E7%9C%BC%E9%8F%A1%E5%A6%B9 ヤンキー君とメガネちゃん] || 角色設定及做型捏他 || [http://www30.atwiki.jp/niconicomugen/pages/5176.html 第2回皆が見たいと思った男女タッグで大会] ||  
+|-
+|  || 闇のアギト(BBB)×ミスティア・ローレライ(東方) || 闇夜のライブ ||  || [http://www30.atwiki.jp/niconicomugen/pages/1587.html 男女ペアタッグバトル大会GX] ||  
+|-
+|  || 冰人(X-MEN)×博麗靈夢(東方) || 博冷彈幕 || 除了日文的麗和冷同音之外，這兩人放出的彈幕也很類似 || [http://www30.atwiki.jp/niconicomugen/pages/332.html 自分でもタッグトーナメント組んでみた] || {{censored|上述大會優勝}} 
+|-
+| [[File:img3749.jpg]] || Cable(MvC2)×上海人形(東方) || ビーム脳 || &lt;s&gt;隨機選擇的奇蹟，&lt;/s&gt;都有強力光束超必殺，無限氣狀態下就會... || [http://www30.atwiki.jp/niconicomugen/pages/1367.html ゲージMAXおまけタッグトーナメント【おまゆ】] || {{censored|上述大會中 [http://www.nicovideo.jp/watch/sm7587340 {{color|#000000||屢次製造大慘事}}]，最後更取得優勝}} 
+|-
+|  || 神崎隼人(星際劍士)xデュナ・ハイゼン(WonderfulWorld) || 雷光の賞金稼ぎ || 兩名使用雷擊的賞金獵人&lt;s&gt;而且一樣窮&lt;/s&gt; || [http://www30.atwiki.jp/niconicomugen/pages/4152.html 男女タッグでチームバトルロワイアル] || {{censored|上述大會優勝}}可惜現時デュナ處於禁止使用狀態令此組合日後很難再出現 
+|-
+| [[File:img3299.gif]] || 魔界大帝フェルナンデス(WakuWaku7)×蕾米莉亞(東方) || 治癒系的下防 || 啊...被治癒了... || [http://www30.atwiki.jp/niconicomugen/pages/1069.html 大小タッグトーナメント] || {{censored|上述大會優勝}} 
+|-
+|  || 魔界大帝フェルナンデス(WakuWaku7)×石馬戒嚴(N+R) || 大帝 || 魔界大帝和戒嚴帝國的始創大帝組合 || [http://www30.atwiki.jp/niconicomugen/pages/2867.html 仮面の可能性タッグトーナメント【アステカ杯】] ||  
+|-
+|  || Dulton(Double Dragon)×七瀨留美(EFZ) || 男と乙女 || 尋求強敵的漢和以成為乙女為目標的&lt;s&gt;[[暴力女]]&lt;/s&gt;少女&lt;s&gt;其實是漢と漢女&lt;/s&gt;，招式的命名也... || [http://www30.atwiki.jp/niconicomugen/pages/5520.html アルプスの少女主催！男女タッグトーナメント] || {{censored|上述大會優勝}} 
+|-
+|  || Death=Adder(戰斧The Duel)x恋するドラゴン(N+R) || ドラゴンファイアー || 一人會招喚黑龍作噴火攻擊,另一人則自行變成白龍噴火 || [http://www30.atwiki.jp/niconicomugen/pages/2617.html 人の持つ可能性タッグトーナメント【カイザーナックル杯】] || {{censored|上述大會準優勝}}Death=Adder是少數能夠抵抗恋するドラゴン的鏖殺の吐息(擊中同伴的效果)的角色 
+|-
+|  || Jhons Lee(Air Master)x霧雨魔理沙(東方) || 力こそパワー！ || 沒有任何花巧技倆,單純以高傷害攻擊為主的一對 || [http://www30.atwiki.jp/niconicomugen/pages/1938.html 男女ペア頂上対決！バトルシティトーナメント] || {{censored|上述大會決勝進出隊伍(因為比賽中止,所以這是最佳成績)}} 
+|-
+|  || バージル(Devil May Cry)x高嶺響(月華) || 父の形見(父親的遺物) || 兩者皆持有父親遺下的劍戰鬥 || [http://www30.atwiki.jp/niconicomugen/pages/3246.html 新旧男女ペアオールスターUnlimitedトーナメント+1] || {{censored|上述大會準優勝}}勝利時兩者的納刀動作很配合 
+|-
+| [[File:img3269.jpg]] || 羅夏(Watch Men)×[[朝倉涼子]](涼宮春日的憂鬱) || But who will watch the watchmen? || 都是觀察者(watchmen)，並且都落得悲劇性的結局 || [http://www30.atwiki.jp/niconicomugen/pages/2251.html ちとヘンテコなネタとかで男女タッグトーナメント] || {{censored|上述大會優勝}}同樣擁有雙人戰AI，&lt;s&gt;熱力學的奇蹟&lt;/s&gt; 
+|-
+|  || ゴジラ(ゴジラ怪獸大決戰)x靈烏路空(東方) || ゴジ空は俺の核融合 || 兩者的戰鬥能力都和核有關 || [http://www30.atwiki.jp/niconicomugen/pages/3749.html ありえん（笑）狂キャラタッグ大会【ミズチ感謝祭】](Boss枠) || 若使用改變版ゴジラ會變成不自重組合&lt;s&gt;但實際是ゴジラ一頭怪獸在發狂&lt;/s&gt; 
+|-
+|  || ナインボール＝セラフ(MOA)×琪魯諾(東方) || 高性能⑨ || ナイン(Nine)與⑨ || [http://www.nicovideo.jp/watch/sm3313253 高性能タッグトーナメント【・・・・すごい奴等だ】] || 還有琪魯諾機械化魔改造角色 
+|-
+|  || デスペラード(Dungeon &amp; Fighters)xペトラ・ヨハンナ・ラーゲルクヴィスト(アルカナハート2) || 弾幕四銃奏 || 雙手手槍 || [http://www30.atwiki.jp/niconicomugen/pages/5000.html 目指せ名勝負！スーパー連携タッグリーグ] || 兩人強大的亂射彈幕擁有異常的壓制力，{{censored|上述大會優勝,及後多次和同作者作品中另一名隊&amp;quot;白黑主人公&amp;quot;展開激鬥}} 
+|-
+|  || 五条勝([[閃電十一人]])×高野蓮(MB改變) || 超次元キックベース || &lt;s&gt;抽選王的奇蹟，&lt;/s&gt;習得一身&lt;s&gt;超常的&lt;/s&gt;高校足球+高校棒球，極度自己主張得連畫面也可以完全佔據 || [http://www30.atwiki.jp/niconicomugen/pages/6415.html クラス対抗！学級崩壊バトル２] || 該大會中於二學期選役職時被選成同一組體育委員，即使在三學期重選役職時仍然是擔任體育委員(雖然不再同組)&lt;s&gt;他倆果然很稱職&lt;/s&gt; 
+|-
+|  || とら(潮與虎)×天野美汐(EFZ) || みしおととら || 名字捏他 || [http://www30.atwiki.jp/niconicomugen/pages/2567.html ノリと勢いではじめた男女タッグトーナメント] || {{censored|[http://www30.atwiki.jp/niconicomugen/pages/4289.html {{color|#000000||統劇！MUGEN オールスタータッグトーナメント2010}}] 優勝隊伍}} 
+|-
+|  || ショボーン(AA)x黑魅霊(東方,魔改造) || 白黒スタイリッシュ || 戰鬥舉動相當之有觀感但顏色相反的組合 || [http://www30.atwiki.jp/niconicomugen/pages/4302.html 超鬼畜！ゲージMAXサバイバル大会] || {{censored|上記大會的最後生還(優勝)者}} 
+|-
+|  || 修造(現實)xチルノ(東方) || 妖精対決 || ⑨無理する(ｒｙ ||  || http://www.youtube.com/watch?v=mN6L9TVXQiE 
+|-
+|  || DragonClaw(原創)×ユェン・ソイレン(原創) || オリジナル超機兵 || 兩者都是原創機人角色 ||  || 連技無恥變態到了極點&lt;s&gt;，所以又稱恥組&lt;/s&gt; 
+|-
+| [[File:img3272.jpg]] || SACHIEL(原創)×弓塚五月(MB) || さっちん || 名字很像 || [http://www30.atwiki.jp/niconicomugen/pages/328.html （　＾ω＾）-ニコ動史上最低トーナメントII-] || 天使和吸血鬼的組合 
+|-
+| [[File:img6226.png]] || CLOUD AWE(原創)×Black Raiya(闘姬) || Paint it, Black || 使用暗黑力量的黑色衣著組合 || [http://www30.atwiki.jp/niconicomugen/pages/4934.html ゲージ増々タッグトーナメント] || {{censored|上述大會的季軍組合,但最有名的倒是CLOUD AWE經常遮掉黑Raiya的勝利畫面.結果在某一戰後黑Raiya忍不住把身子傾斜90度&lt;s&gt;其實只是Bug而己&lt;/s&gt;...}} 
+|}
+(追加資料請寫入|配對|名稱|理由|初出大會|備註|)
+&lt;!-- 敢煩大家追加新的場外男女配對時儘量把位置以男性的出身作品放置,例如男方是從KOF出身便放進KOF男角的那一堆配對內。 --&gt;
+
+==一些有名的祭典式大型男女配對大會(連結通往Nicomugen wiki介紹頁面) ==
+* '''ユリポエ＝久瀬佐祐氏''':辦過好幾次男女配對大會的Up主,特徵是上載影片時間都是早上時段。
+** [http://www30.atwiki.jp/niconicomugen/pages/1301.html 男女タッグ祭り2008](己完成)
+** [http://www30.atwiki.jp/niconicomugen/pages/1992.html 男女タッグ祭り2009春](己完成)
+** [http://www30.atwiki.jp/niconicomugen/pages/5041.html 男女タッグ祭り2010](己完成)
+* '''シェルアーク氏'''
+** [http://www30.atwiki.jp/niconicomugen/pages/3246.html 新旧男女ペアオールスターUnlimitedトーナメント+1](己完成)
+** [http://www30.atwiki.jp/niconicomugen/pages/6002.html ルーキーズ集結!男女ペアNewAgeトーナメント](以稀有組合及新組合為主,固有配對只有一隊。Up主失踪中...)
+* '''未確認氏''':賽制以多個配隊共同作戰+特殊計分規則為主.
+** [http://www30.atwiki.jp/niconicomugen/pages/4152.html 男女タッグでチームバトルロワイアル](己完成)
+** [http://www30.atwiki.jp/niconicomugen/pages/5557.html 男女タッグでチーム対抗星取り合戦](每六個有共通點的配對為一大隊的協力戰。己完成)
+* 其他:
+** [http://www30.atwiki.jp/niconicomugen/pages/1938.html 男女ペア頂上対決！バトルシティトーナメント](奪星制的刺激大會.可惜up主確認失踪了...)
+** [http://www30.atwiki.jp/niconicomugen/pages/3223.html GOHAN主催大規模オールスター男女タッグトーナメント](現在休戰中?Up主失踪?)
+** [http://www30.atwiki.jp/niconicomugen/pages/5764.html オールスター男女ペア大戦2011～MUGEN戦士は二度死ぬ～](己完成)
+** [http://www30.atwiki.jp/niconicomugen/pages/6169.html カオスでフィーバーなMUGEN男女TAG大会](緩慢進行中)
+
+==MUGEN其他場外配對 ==
+* 由於接觸MUGEN的玩家日增，出現的經典配對也慢慢從簡單的男女配對發展成為不限性別的二人(甚至多人)配對了。
+* 著名配對(有待補充)
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| '''圖片''' || '''配對''' || '''名稱''' || '''理由''' || '''初出大會''' || '''戰績,備註''' 
+|-
+|  || Wolfgang Karuser+Kain R. Heinlein(兩者餓狼) || ロックの叔父&lt;ref&gt;克勞薩為洛克的父親傑斯同父異母的兄弟，而凱恩則是傑斯的妻子米亞莉的弟弟&lt;/ref&gt; || 兩者的輩份也是洛克的叔叔/舅舅 || [http://www30.atwiki.jp/niconicomugen/pages/451.html 未出共通点でタッグトーナメント] || {{censored|該大會的優勝隊伍}} 
+|-
+|  || 浩克(MSH)+金剛丸三藏(BBB) || 巨体/和洋ハルク || 兩者都是超巨型的角色，而且都是綠色的 || [http://www30.atwiki.jp/niconicomugen/pages/3184.html 源流斎マキタッグトーナメントEX] ||  
+|-
+|  || トキ(北斗)+アミバ(北斗原作) || トキ＆アミバ || 本物+偽者 || rowspan = "3" | [http://www30.atwiki.jp/niconicomugen/pages/816.html トキ＆アミバがトーナメントに参戦] || {{censored|說明不要的超活躍&lt;s&gt;不自重&lt;/s&gt;隊伍.準決賽中被紫もやし以合體技&amp;quot;日腋符「ロイヤルワキガ」&amp;quot;打敗,這一戰造就了組曲&amp;quot;テイルズオブジあべし&amp;quot;&lt;ref&gt;原曲為テイルズオブジアビス的主題曲&amp;quot;[http://www.nicovideo.jp/watch/nm4797158 カルマ]&amp;quot;&lt;/ref&gt; 的人氣}} 
+|-
+|  || Elque(痕 -きずあと-)+[[鯉魚王|コイキング]](精靈寶可夢) || 最強と最弱 ||  ||  
+|-
+|  || Clone Zero+Original Zero(兩者KOF) || OO(Double O) || &lt;s&gt;[[成句/寫作OO，唸做XX|寫作&amp;quot;零零&amp;quot;,諗作&amp;quot;奧奧&amp;quot;]]&lt;/s&gt; || 表面上兩個都有強力的&lt;s&gt;唔唔唔唔唔唔&lt;nowiki&gt;~~~&lt;/nowiki&gt;&lt;/s&gt;白羅滅精很強勁的一隊，{{censored|事實卻是在第一戰便被兩個普通人（草薙京&amp;八神庵）打倒，成為該大會有名的敗犬（嚴格來說算是意外，這組合在其餘大會多數都有優秀表現）}} 
+|-
+|  || Eddie(GG)+ワラキアの夜(MB) || 影二つ || 一個寄生成影子的禁獸,另一個則是人心恐懼集合而成的"現象" || [http://www30.atwiki.jp/niconicomugen/pages/1075.html 【直感とネタで】タッグ戦するよー] ||  
+|-
+|  || 神人豪鬼+God Rugal(兩者皆為CvS2) || お神 || 大概是兩者的名稱都有一個"神"字? || [http://www.nicovideo.jp/mylist/18360200 超鬼畜！ゲージMAXサバイバル大会] || {{censored|結果因為實力不足一直被隨機遇到的敵人電假...總知就是很不遇的隊伍。[http://www.nicovideo.jp/mylist/19811222 {{color|#000000||續作}}] 再登場結果又再次不遇。連在番外小會中的表現也是非常差，-お神ェ...}}&lt;ref&gt;{{censored|但在 [http://www30.atwiki.jp/niconicomugen/pages/5090.html {{color|#000000||神人豪鬼＆ゴッドルガールがタッグトーナメントに参戦}}] 中卻力壓群雄成為優勝隊伍了}}&lt;/ref&gt; 
+|-
+|  || 花山薰(Grappler刃牙)+Jhons Lee(Air Master) || 一撃の可能性 || 不論原漫畫中還是MUGEN世界中也是每一個攻擊都擁有絕大攻擊力的組合&lt;s&gt;代價是出招異常地慢&lt;/s&gt; || rowspan = "2" | [http://www30.atwiki.jp/niconicomugen/pages/2617.html 人の持つ可能性タッグトーナメント【カイザーナックル杯】] || 因為攻擊力異常地高又有很多攻擊帶鋼體，甚至有條件限定的即死技，{{censored|兩者均以強化顏色參戰的該大會中常有把對手瞬間秒殺或絕地中一下子20割反勝的精彩鏡頭，最終成績為第3位}} 
+|-
+|  || Goenitz(KOF)+Johann(ROTD) || 真・お別れ || 兩者的指令投動作非常相似+原作作為CPU都會超反應抓玩家，經常被觀眾拿來比較 || {{censored|上述大會優勝}} 
+|-
+|  || カーン(JOJO)+嘉神慎之介(月華) || 妖刀 || 兩者均使用妖刀 || [http://www30.atwiki.jp/niconicomugen/pages/2867.html 仮面の可能性タッグトーナメント【アステカ杯】] || {{censored|於該大會決勝進出後遇到了大會安排的格上亂入者&amp;quot;真・お別れ&amp;quot;(↑)但竟然照樣把這兩個亂入客打倒，最後更成為優勝者}} 
+|-
+|  || バージル([[Devil May Cry]])+ガッツ([[烙印勇士]]) || 魔を討つ者・刃 || 專斬妖魔的[[大劍]]手 || [http://www30.atwiki.jp/niconicomugen/pages/3418.html Halloween向け恐キャラタッググランプリ](註:擔任魔狩人(ボス)而非正式參賽者) || {{censored|四隊魔狩人中唯一在小組戰中全勝的隊伍,後來在敗者成仏戦中更是打出10勝1敗的驚人戰績;對戰抽到這一隊幾乎等於[[死亡フラグ|{{color|#000000||成仏フラグ}}]]}}。此外在東雲ナリヤ氏的雙人戰大會 [http://www30.atwiki.jp/niconicomugen/pages/6403.html "地獄の果てまで仲良し！"] 中{{censored|也展示出其霸道制壓力，勝仗連連}} 
+|-
+|  || Hybrid(半原創&lt;ref&gt;角色做型和招式設定套用了&amp;quot;ビーム脳&amp;quot;二人（[[漫威漫畫]]的機堡和[[東方]]的上海人型）的設定於一身&lt;/ref&gt; )+水坂憐(Xross Scramble) || 新世代ビーム少女 || 近未來風格的光束砲座兩名 || [http://www30.atwiki.jp/niconicomugen/pages/5740.html Mugen Hex Battle II] || 上述大會中同時歸屬於"春香軍"的武將(及後戰績捏他){{censored|兩人的光束彈幕攻勢可謂殺了不少強力組合}}，而且兩者經常在同一刻一起發動超必殺光束攻擊，被觀眾懷疑是她們是否裝上了雙打專用AI。 
+|-
+|  || K'(KOF)+斬真狼牙(BBB) || 白黑主人公 || 一黑一白的主角 || [http://www30.atwiki.jp/niconicomugen/pages/5000.html 目指せ名勝負！スーパー連携タッグリーグ] || 為該作者的Tag大會中的常規參賽者,經常和同系列中的名隊伍"弾幕四銃奏"展開激鬥 
+|-
+|  || 天海春香(Idol M@ster)+アドベントチルノ(東方改變) || アドベント閣下 || 隨機選擇的奇蹟XD || [http://www30.atwiki.jp/niconicomugen/pages/5236.html クラス対抗！学級崩壊バトル] || Randomselect的偶然下被編成C組的一組體育委員(Tag戰方式出戰的角色，體力較低)，{{censored|結果第一次出陣便五連勝，其高得點更帶領了C組成為優勝組別。}}及後在同作者的番外篇大會"[http://www30.atwiki.jp/niconicomugen/pages/5572.html 学級崩壊タッグトーナメント]"以"アドベント閣下"的名義參戰，{{censored|結果取得優勝}}。其後在 [http://www30.atwiki.jp/niconicomugen/pages/6403.html "地獄の果てまで仲良し！"]{{censored|同樣取得優勝(其實這組合在予選中僅以B組第5名剛好進入決賽，但決賽周中10場對戰中只輸了1場)}} 
+|-
+|  || Final(The Black Heart)+碇シンジ(新世紀エヴァンゲリオン) || 最後のシ者 || 連續隨機選擇的奇蹟。&lt;s&gt;兩者在招式的演出及勝利姿勢都有着400%的同步率。&lt;/s&gt;タッグ名是作品捏他 || [http://www30.atwiki.jp/niconicomugen/pages/5236.html クラス対抗！学級崩壊バトル] || 真嗣君在Randomselect的偶然下被編為C組的生物委員(跟隨機選出的「動物」以Tag戰方式出戰的角色)，而跟Final第一次出陣便勝績連連，在以後的比試中亦不時選中跟Final一組(規則上生物委員每一場都得重新抽選動物)，其同步率之高(笑)亦深深的刻在觀眾腦內。及後在同作者的番外篇大會"[http://www30.atwiki.jp/niconicomugen/pages/5572.html 学級崩壊タッグトーナメント]"以"最後のシ者"的名義參戰，{{censored|在四強戰中止步。}} 
+|-
+|  || ダン(SF)+ストレイト・クーガー(スクライド) || ダンクーガー || &lt;s&gt;抽選王的奇蹟，&lt;/s&gt;名字梗 || [http://www30.atwiki.jp/niconicomugen/pages/6415.html クラス対抗！学級崩壊バトル２] || 早在兩人被分配到體育委員時就備受注目，而正式戰鬥時的{{censored|五連勝讓此組更是名聲大噪。}}其後在同作者的番外篇大會"[http://www30.atwiki.jp/niconicomugen/pages/6843.html 学級崩壊2タッグトーナメント]"以"ダンクーガー"名義參戰，{{censored|可惜因為沒有了職位補正而火力不足，在分組賽時就被淘汰。}}然而以"超獸機神"名義参加的GURI氏的 [http://www30.atwiki.jp/niconicomugen/pages/6990.html ENGUNトーナメント] 時，クーガー兄貴那無出其右的終極跑速令他經常都比對手更早進場支援&lt;s&gt;雖然還是被會瞬移技的對手超車&lt;/s&gt;，{{censored|並在決勝賽與Chipp的高速對決中取得勝利。}} 
+|}
+
+==回應 ==
+{{pcomment|section=2}}
+
+== 備註 ==
+&lt;references/&gt;

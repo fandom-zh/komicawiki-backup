@@ -1,0 +1,325 @@
+{{h0| Groove Coaster/グルーヴコースター/グルコス/音炫軌道}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+{{stub row| 本條目需要擴充，歡迎玩家補完。}}
+|}
+
+== 概說 ==
+* 由Taito製作的音樂遊戲，除了機台版亦有手遊版和電腦STEAM版。
+* 收錄的樂曲'''原則上沒有海內外的分別'''，較不會發生[[成句/海外無人權|海外無人權]]之現象(僅樂曲部分)。
+* 遊玩時的背景向量動畫是其&lt;s&gt;本體&lt;/s&gt;最大的特色，尤其是非本社的他版權樂曲的背景動畫，大都會致敬甚至'''還原'''原作的一些場景及畫面，配合譜面設計甚至能重現其他[https://www.youtube.com/watch?v=FYFmBsN8XuQ 音][https://www.youtube.com/watch?v=dkpxZjf8reo 樂][https://www.youtube.com/watch?v=9sAB50scNY0 遊][https://www.youtube.com/watch?v=tZViXPrlS3s 戲]的界面
+
+== 歷代版本 ==
+=== 街機部分 ===
+* 初代→初代 EX→二代 HEAVENLY FESTIVAL→三代 LINK FEVER→三代EX 3EX DREAM PARTY→四代 4 STARLIGHT ROAD→四代EX 4EX INFINITY HIGHWAY→四代MAX 4MAX DIAMOND GALAXY(現行版本)
+** 比較大的變化是從三代開始，四代也出現很大的變化。
+** 四代最大的變化就是'''難易度改變'''，從原先的10等制改成15等制因為3EX出現很多&lt;s&gt;難度詐欺曲&lt;/s&gt;&lt;ref&gt;部分無誤，音ゲ祭有特定幾首歌玩家認為是難度詐欺&lt;/ref&gt;
+
+== 遊戲方式 ==
+=== 共通部分 ===
+* 難度有分'''SIMPLE'''、'''NORMAL'''、'''HARD'''、'''EXTRA'''四種難度，然後不是每一首歌都有EXTRA譜面。
+** EXTRA譜面的解禁方式為'''其他三種難度評價需為S等&lt;ref&gt;結算後90萬分以上&lt;/ref&gt;以上'''。
+** 多數來說EXTRA比HARD難，然而有少數EXTRA譜面'''比HARD譜面還要簡單不少'''。
+*** APP版與STEAM版除了上述以外還有'''AC-NORMAL'''與'''AC-HARD'''，對應AC版的難度。
+*** Switch版則是'''SIMPLE'''、'''NORMAL'''、'''HARD'''、'''MASTER'''四種難度。Master解禁需要Hard難度S評價或者該歌曲遊玩30次解禁。
+* SIMPLE難度僅有基本的三種操作方式：單按(白色一點)+雙按(藍色一大點)+單邊持續按(一點+黃條)，NORMAL以上會增加SLIDE(移動單一按鈕方向，粉紅色)+旋轉(綠色螺旋長條，需持續扭動按鈕)+連打(藍色連續面，需持續連打不中斷)+雙邊持續按(一大點+橘條)+SLIDEKEEP(持續固定指定移動方向，紫色)+DUEL SLIDE(雙邊同時移動指定兩個方向，水藍色)。
+** 上面的顏色是指標準配色，'''會依樂曲特色而改變配色'''
+** 然而[https://www.youtube.com/watch?v=pUq3tDfOjUo Groove Loop]的SIMPLE難度卻'''硬生生多了兩個SLIDE音符'''...
+** 通常難度越高所需要的操作方式越多，但也存在者HARD譜面比NORMAL譜面還要少的指令輸入，如第五回天下一音ゲ祭的[https://www.youtube.com/watch?v=dkpxZjf8reo Taiko Drum Monster]。
+** 更極端的是[https://www.youtube.com/watch?v=oJhuM19CMAI PIXEL STAR (EXTRA)]'''只有單按'''這種方式。
+* 樂曲結束後若上方Groove條沒有超過指定區域(70%)就算挑戰失敗(畫面無顯示，結算時顯示失敗)，有通過則是CLEAR。需注意沒有Miss的情形下全接只會是'''NO MISS'''，需要把所有隱藏的單拍子'''AD-LIB'''都打到才會是'''FULL CHAIN'''。最後所有小節點都打出GREAT的情況之下就是最高級的'''PERFECT'''。
+
+=== 使用道具 ===
+* 挑戰歌曲前可以選擇一種道具在該歌曲中使用，有幫助通關用的，也有增加難度挑戰自我的道具。
+** 部分道具取得方式相當不易，使用需留意。
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 名稱 !! 效果 !! 取得方式(街機版) 
+|-
+| SAFE || 使前面10個判定為MISS改變成Good不至於中斷Chain數 || 每日登入獎勵or花500GC購買1個
+|-
+| SUPER SAFE || 使前面20個判定為MISS改變成Good不至於中斷Chain數 || 每日登入獎勵or花3000GC購買1個or鑰匙解鎖
+|-
+| BREAK || 出現10次MISS就強制結束音樂，成功過關會額外增加取得的GC；不能在多人連線中使用 || 每日登入獎勵or花300GC購買1個
+|-
+| VISIBLE || 以圓圈顯示隱藏的AD-LIB節拍 || 每日登入獎勵/鑰匙解鎖
+|-
+| ALONE || 多人連線時不會顯示其他玩家的狀態 || 花300GC購買1個
+|-
+| JUST || 判定只會剩下GREAT或者MISS(Ad-Lib只要不是打出GREAT就視同沒有打到)，而GREAT會顯示為JUST || 每日登入獎勵 
+|-
+| MIRROR || 譜面左右調反，NORMAL以上的SLIDE方向也會改 || 活動積分獎勵
+|-
+| REVERSE || 譜面上下倒轉，NORMAL以上的SLIDE方向也會改 || 活動積分獎勵
+|-
+| GC BOOST|| 該首歌曲取得的GC兩倍 || 活動積分獎勵/鑰匙解鎖
+|-
+| MAX BOOST ||該首歌曲取得的GC五倍 || 活動積分獎勵/鑰匙解鎖
+|-
+| ONE HAND ||所有雙按的方式都改成單按|| 花500GC購買1個
+|-
+| EASY TARGET || 所有譜面統一成EASY模式 || 活動積分獎勵
+|}
+
+* SAFE系列(次數限制)都是一經使用即使都沒扣到次數(No Miss)也會直接算消耗一個。
+
+=== 街機版相關 ===
+* 投幣以及感應Nesica(也可不感應卡片直接執行)，進入主畫面。
+** 日本以Taito直營的店舖為主也可感應Suica扣款方式取代投幣，&lt;s&gt;台灣還是算了吧...就算技術上可以靠感應悠遊卡/一卡通來支付，但會衍生出不負責任家長控訴等問題...&lt;/s&gt;
+** 若是感應Nesica會先進入每日登入獎勵，除特殊event外，一天以內每登入一次取得的獎勵都是固定的。
+* 之後進入選擇自己的アバター(AVATAR)，也可選擇自己想要呈現的稱號('''需使用Nesica''')以及更換ナビゲーター。
+** 日本部分店鋪還有更改專屬腳踏墊的震動大小，然而就算是Taito直營的店舖也不見得每家都會有。
+** 選擇完アバター(AVATAR)就進入下一個畫面無法再次更改，故請把握時間。
+* 隨後進入四選一畫面，分別是'''單人遊戲'''、'''店內連線'''、'''限時活動'''以及'''教學模式'''。
+** 若是該店鋪只有一台就不會顯示店內連線；然後若是沒有限時活動則該選項為關閉狀態。
+* 選取歌曲後會進入'''難易度選擇'''、'''道具使用'''、'''其他設定'''畫面。
+** 一樣選擇完難易度就遊戲開始，若要選擇使用道具就請別按太快。
+** 為避免初心者不小心誤觸超高難度譜面結果慘敗，'''初始最高只能選到Lv.10'''，要逐步解禁才能解除高難度歌曲&lt;ref&gt;11等需完成'''任一10等歌S評價'''，然後逐步直到最難的15等&lt;/ref&gt;
+* 無論成功與否在結算後就直接進入下一首歌曲，'''通常保證玩到三首歌'''。
+* 三首歌都遊玩結束後進入總結算畫面，會依照成績以及是否使用特定道具決定拿到的'''グルコ(GC)'''，グルコ(GC)除了可以拿來直接在機台購買道具外，也可以在[https://mypage.groovecoaster.jp/sp/login/auth.php マイページ]頁面購買其他東西。'''當然這功能是Nesica專屬'''。
+* 有使用Nesica的玩家，最後會進入'''鑰匙解鎖'''地區，會依照遊玩過程中取得的鑰匙數解鎖，完全解開就可以取得相對應道具。
+* 需注意點是部分道具'''只能在[https://mypage.groovecoaster.jp/sp/login/auth.php マイページ]'''頁面才能購買與使用，所以註冊卡片後建議去官網註冊。
+
+=== 家機版相關 ===
+* 目前登場的有APP版/STEAM版/Switch版，除了Switch版需花任天堂點數購買下載外，本體下載免費，部分歌曲包需要另外付費。
+** APP版就是透過觸控/滑動螢幕來遊玩；STEAM版則是利用鍵盤；Switch版則是手把按鍵or搖桿來遊玩。
+*** 其中Switch版專屬的揮動手把的玩法(只有三種難度)，手把固定版的Switch Lite無法執行。
+** &lt;s&gt;官方關注度：Switch版→App版→Steam版，Switch版現在是官方的親兒子&lt;/s&gt;
+** 若是遊玩街機版超高難度歌曲的話，請注意別把設備給弄壞了。
+*** &lt;s&gt;雖然Switch版最難關曲等級落在街機版13上位&lt;/s&gt;，但是&lt;s&gt;某消失&lt;/s&gt;以及BMS收錄曲都不好惹就是。結果更新後有收錄機台版難度14的歌曲......2021年出現'''AC難度15'''的超高難度歌曲，而且部分還是先從Switch版先登場才回流AC版...
+
+== 曲目類別 ==
+* アニメ・ポップス（動畫、J-POP）
+** 為了日本海內外收錄曲一致，此區比其他音樂遊戲機台數量要少，乾脆把這兩種版權部分較高的曲目放在一起。
+** 4代開始收錄[[虛擬Youtuber|VTuber]]相關系列曲。
+* ボーカロイド（[[VOCALOID]]）
+** 所有V家的歌曲，同時為Groove Coaster創作的V家曲也屬於此分類。
+* 東方アレンジ（[[東方Project|東方系列]]）
+** 所有東方系列的歌曲，同時為Groove Coaster創作的東方系列曲也屬於此分類。
+** 與其他機台相比，目前收錄'''已超過100首歌曲'''，僅次於[[SOUND VOLTEX|SDVX]]。
+*** &lt;s&gt;考慮到神主的老東家就是Taito，有如此厚待也是理所當然的事&lt;/s&gt;
+* 音楽ゲーム（音樂遊戲）
+** 收錄包含'''天下一音ゲ祭'''的他社作品，只要是（非自家的）音樂遊戲都收錄在此區。
+** Switch版一開始'''沒有此分類'''，只有在購買相關的DLC後&lt;ref&gt;LANOTA或者DJMAX&lt;/ref&gt;才會開啟。
+* ゲーム（非音樂遊戲的遊戲音樂）
+** 收錄海外版權部分沒那麼重的一般遊戲音樂。
+* バラエティ（一般大眾曲）
+** 較大眾化的分類&lt;s&gt;，偶爾能見到奇怪的歌曲&lt;/s&gt;。
+** 難度較高的BMS系列收錄至此。
+* オリジナル（Taito原創曲）
+** Taito自家做的原創音樂，從簡單的到難到靠北的魔王曲都有。&lt;s&gt;廢話&lt;/s&gt;
+
+== 登場ナビゲーター ==
+* [[成句/海外無人權|海外無人權]]部分是出在ナビゲーター(領航員)的日本cv，原創部分只有YUME(ユメ)有日文cv，LINKA(リンカ)海外版是Jennifer Skidmore&lt;s&gt;但聽起來與萬用版&lt;/s&gt;一樣，SEINE(セイネ)就真的只有日版有附cv。
+** 但是セイネ僅一開始的版本沒付日本cv，活動期間解禁的他版本卻意外有付日本cv，&lt;s&gt;這是什麼詭異情形...&lt;/s&gt;
+* 此外使用卡片登入時'''日本與海外版的語音差異非常大'''。
+* 底下ナビゲーター若是沒付cv欄，全都是萬用版的'''Jenny Shima'''。
+* 而下表的人物'''都是期間限定解禁'''，所以沒拿到的請等復刻。
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 名稱 !! CV !! 取得方式 !! 其他 
+|-
+| LINKA(リンカ) || 豊田萌絵(日本)/Jennifer Skidmore (海外版) || 卡片登入一開始就有 || 初登場在GC3，STEAM版專屬看板娘
+|-
+| YUME(ユメ) || 高橋菜々美 || 卡片登入一開始就有 || 初登場在GC3EX，音遊MUSE DASH的合作角色
+|-
+| SEINE(セイネ) || 河上英里子(日本) || 卡片登入一開始就有 || 初登場在GC4 
+|-
+| SEINE(セイネ)泳裝Ver. || 河上英里子 || 期間活動限定 ||  &lt;s&gt;就只有初始版的沒CV...&lt;/s&gt;
+|-
+| SEINE(セイネ)五周年公主裝Ver. || 河上英里子 || 期間活動限定 ||  
+|-
+| 所有[[東方Project|東方]]合作角色 || 皆無CV || 期間活動限定 || 多是活動Pt數解禁 
+|-
+| 所有ARCAEA合作角色 || 皆無CV || 期間活動限定 || 鑰匙解禁 
+|-
+| 所有[[初音ミク]]系列(僅服裝不同) || [[初音ミク]]：[[藤田咲]] || 期間活動限定 || 活動Pt數/鑰匙解禁 
+|-
+| 所有[[VOCALOID]]系列(僅服裝不同) || [[メグッポイド|GUMI]]：中島愛 || 期間活動限定 || 活動Pt數/鑰匙解禁 
+|-
+| [[Undertale角色一覽|Sans]] ||  [[Undertale角色一覽|原作重現]]機械音 || 期間活動限定 || 活動Pt數解禁
+|-
+|[[Undertale角色一覽|Papyrus]] ||[[Undertale角色一覽|原作重現]]機械音 || 期間活動限定 || 活動Pt數解禁
+|-
+|[[ミライアカリ]] || [[ミライアカリ]] ||期間活動限定 || 鑰匙解禁
+|}
+
+== 知名樂曲 ==
+* ()內的數字表示現行難度，若有Extra譜面則會是四個數字。
+
+* [https://www.youtube.com/watch?v=SNf_sfYwEUE 東方外魔伝](4/10/14)
+** ZUNTATA組的高難度東方改編曲第六彈，原曲為紺珠伝的'''パンデモニックプラネット'''。
+** 自COSIO離職後由MASAKI接手出品的第一首東方高難度歌曲，途中的hit-hit-slide高速連打與最後的高速16分音符63連打使玩家一度受挫。
+*** 這首歌出來前的難關曲是[https://www.youtube.com/watch?v=O88Y0tIVyp8 サドマミホリック]，結果一出來難度就提升了一個檔次。
+*** MASAKI的'''成名作'''，開始他的&lt;s&gt;易燃物作曲家&lt;/s&gt;之生涯。
+
+* [https://www.youtube.com/watch?v=m8oELB8yCbI 東方輝仁裂](5/10/'''15''')
+** ZUNTATA組的高難度東方改編曲第七彈，原曲為輝針城的'''始原のビート ~ Pristine Beat'''。
+** 需要讀取卡片+使用30個鑰匙解禁。
+** MASAKI出品的東方高難度歌曲之二，同時也是'''現行東方系列最難關曲'''。
+*** &lt;s&gt;對於那些東方系列曲要'''全Perfect'''的東方廚來說，這首歌會令他們絕望&lt;/s&gt;。
+
+* [https://www.youtube.com/watch?v=pFtOOuELR6I You are the Miserable](4/8/12/14)
+** 源自App音遊'''Lanota'''，為該遊戲第三大章的最終Boss曲。
+** '''震度七億'''，若是在專屬震動踏墊上玩這首歌會非常感受到'''震撼感'''。
+** 中段的螺旋則是重現本家的圓盤反轉。
+** Normal譜面詐欺，多數玩家認為絕對有難度9的程度。
+
+* [https://www.youtube.com/watch?v=cNpyP1OU5cg Linear Accelerator](4/8/13/'''15''')
+** 源自Tone Sphere，為該系列公認的最終Boss曲。
+** EXTRA譜面原為'''現行音樂遊戲系列最難關曲'''，2020年10月變成唯二。
+** 封印Extra解禁任務第五彈(詳情見下方ヒバチ)
+*** 當時已調整為500人達成S++時解禁Extra，但跟同條件的VALLISTA(3天)、初音ミクの暴走(5天)相比，本曲'''花了整整一個月才宣布達標'''&lt;s&gt;，不少玩家看了Extra後覺得還是封印起來比較好&lt;/s&gt;
+
+* [https://www.youtube.com/watch?v=QezX1tO8-nc Grievous Lady](5/10/'''15''')
+** 源自Arcaea，為該系列Boss曲之一。
+** 第二首難度15的音樂遊戲系列魔王歌曲。
+** Normal難度嚴重詐欺，實際上絕對是難度12的強度。
+
+* [https://www.youtube.com/watch?v=i6qZTLBhgCA セイクリッド ルイン](4/7/13)
+** 於第四回天下一音ゲ祭登場的[[太鼓達人]]代表曲。
+** 造成4代難度從10等分改成15等分的元兇，'''舊制難度9'''被玩家狂罵'''難度詐欺'''。&lt;ref&gt;其他歌曲都是分到舊制難度10&lt;/ref&gt;
+
+* [https://www.youtube.com/watch?v=jFR4SH6Ag-w 怒槌](5/9/14)
+** 於第四回天下一音ゲ祭登場的[[CHUNITHM]]代表曲。
+** '''現行Chain數最高保持者+唯一破5000Chain'''。&lt;ref&gt;不只GC，除了[[太鼓達人]]外幾乎都刷新note數紀錄&lt;/ref&gt;&lt;ref&gt;不過原因是出在曲子長度(一般音遊曲子長也才兩分出頭，但CHUNITHM的曲子動不動就兩分半。note"平均"密度其實不高&lt;s&gt;但瞬間密度還是會要人命的&lt;/s&gt;)&lt;/ref&gt;
+
+* [https://www.youtube.com/watch?v=B_O5zNFVR6Y Xevel](5/10/14)
+** 初登場於第四回天下一音ゲ祭，並於第五回天下一音ゲ祭作為[[CHUNITHM]]的代表曲移植到本作。
+** 也是Tatsh繼IIDX的'''Xepher'''和太鼓達人的'''Xa'''之後第三首「X系列」作品。
+** 16分音符的AD-LIB的32連打令玩家深刻。
+
+* [https://www.youtube.com/watch?v=SG7EDB3GwJ8 MEGALOVANIA](4/6/10/12)
+** 源自[[Undertale]]，為原作者Toby Fox最知名的同名歌曲的第四個版本。&lt;ref&gt;初版及第三版是為地球冒險系列的同人遊戲的插曲、第二版為漫畫企劃《Homestuck》的插曲&lt;/ref&gt;，youtube本家ost已快突破一億次觀賞
+*** 此歌從登場到現在，'''一直穩坐熱門音樂排行榜前五名'''，&lt;s&gt;沒辦法，老外太愛這首歌了&lt;/s&gt;。
+*** 恐怕之後年度熱門曲都是該首歌，其他都是爭取第二名之位。
+** 畫面幾乎還原了對[[Undertale角色一覽|Sans]]戰的相關畫面，尤其Extra譜面更是完整重現重力攻擊。
+
+* ]-[|/34&lt;#!（[https://www.youtube.com/watch?v=ZB1V6UKhSjo ヒバチ]）&lt;ref&gt;因原名稱含大量特殊符號會影響wiki語法，只能用該符號的念法來當作連結名稱&lt;/ref&gt;(5/9/13/14)
+** 出自'''[[CAVE射擊遊戲#.E6.80.92.E9.A6.96.E9.A0.98.E8.9C.82_.E5.A4.A7.E5.BE.80.E7.94.9F.2FBlack_Label.2FDeath_Label.28PS2.29.2FBlack_Label_Extra.28XBox360.29|怒首領蜂 大復活]]'''的隱藏最終Boss曲，'''亦是GameMusic分類下的最難關曲'''。
+** いよいよもって'''死ぬがよい'''。&lt;br&gt;そしてさようなら。
+** 為最初實裝封印Extra解禁任務的曲子，原定是HARD等級的S++達到100人後解禁Extra難易度…'''但光首日就有166人達成'''&lt;ref&gt;隔週正式實裝時已有302&lt;s&gt;頭[[SOUND VOLTEX|猩猩]]&lt;/s&gt;名玩家達成&lt;/ref&gt;&lt;s&gt;，玩家實力也會通貨膨脹的證明&lt;/s&gt;
+*** &lt;s&gt;然後就出現上面Linear Accelerator的慘劇&lt;/s&gt;
+
+* [https://www.youtube.com/watch?v=mUsmwibLEdI Re：End of a Dream](5/10/13/'''15''')
+** 2020年初的&lt;s&gt;問題兒&lt;/s&gt;，直接登上バラエティ最難關曲之列。
+** 在這之前最高難度為14，此歌一出來馬上引起討論。
+
+* [https://www.youtube.com/watch?v=ok9Yr36nuOw 三代宣傳曲-LINK LINK FEVER!!!](3/6/9)
+* [https://www.youtube.com/watch?v=ZbSDxathxHw 3EX宣傳曲-飛び立て！ドリームパーティー](2/5/9)
+* [https://www.youtube.com/watch?v=h0Hv4jzkIYY 四代宣傳曲-君のStarlight Road](3/6/7)
+** 這三首歌亦為對應該代登場的ナビゲーター的主題曲，所以是其CV來做演唱。
+** 很麻煩的是LINK LINK FEVER!!!'''需要在NESiCA登録頁面增加一位好友'''才能解禁，其他都是通常解禁。
+*** 其中LINK LINK FEVER!!!有移植到crossbeats AC與[[CHUNITHM]]，飛び立て！ドリームパーティー移植至Lanota，君のStarlight Road則是移植到[[WACCA]]
+
+* [https://www.youtube.com/watch?v=B8-NgsMxEQM シンドイ・ザ・ライド](3/6/10/14)
+** 須注意於EXTRA譜面，'''音樂一開始就有12個AD-LIB'''。
+** [https://www.youtube.com/watch?v=eghQYQyUrKc 悪戯センセーション]的Hard譜面也致敬了該歌曲，一開始也有AD-LIB。
+
+* [https://www.youtube.com/watch?v=x8vmG08gNps Good Night,Bad Luck.]('''7'''/'''13'''/'''15''')
+** 需要讀取卡片+使用30個鑰匙解禁。
+** 3EX時代'''最難關曲'''，各種花招都出現。
+
+* [https://www.youtube.com/watch?v=V8_qtGBAzi8 BUCHiGiRE Berserker]('''7'''/11/'''15''')
+** 第五回天下一音ゲ祭的內部比賽指定曲，由REDALiCE與MASAKI共同製作。
+** 需要讀取卡片才能遊玩。
+** 現行'''最難關曲'''，難度15還不夠標記。
+** 同時也是Note數最多的歌曲，上面的怒槌只是Chain數比較多但是Note數比較少。
+
+* [https://www.youtube.com/watch?v=6OuFuzhHaGw Lemegeton -little key of solomon-](5/10/13/'''15''')
+** 第五回天下一音ゲ祭的內部比賽冠軍賽指定曲，由Team Grimoire與MASAKI共同製作。
+*** 當時比賽是Hard難度，初登場時很多人都認為一定有EXTRA15的難度(因為作者有MASAKI)，後來果然證實了。
+*** 結果一位選手'''初見全接'''(Full Chain)，但因分數較低結果飲恨(冠軍有個位數的Miss，但是良率較高)。
+** 需要讀取卡片+使用30個鑰匙解禁。
+** 4EX初稼動的Boss曲，瞬間難度與樓上的狂戰士有得拚。
+
+* [https://www.youtube.com/watch?v=b1LwLaAkcCU Omega AX]('''7'''/11/14/'''15''')
+** 原本是 闘神祭2020 ～World Championship of ARCADE～ 決賽曲，但是因為疫情導致取消比賽，而在2020年暑假結束時解禁。
+** MASAKI在東方輝仁裂之後獨自完成的難易度15的歌曲。
+
+* [https://www.youtube.com/watch?v=noElIeO8Q98 QiXiN MAdN3ss 2153](6/12/'''15''')
+** 此歌曲是由MASAKI與TANO*C作曲家DJ Noriken合作推出，[[WACCA]]也有收錄&lt;ref&gt;[[WACCA]]難度為EXPERT13+&lt;/ref&gt;。
+** 2020年度第四首最高難易度的歌曲，也改寫了Normal難度Note數最多的紀錄。
+
+* [https://www.youtube.com/watch?v=OVvsxYmyqfw Aurgelmir](6/11/13/'''15''')
+** 一開始是Switch版DLC新增的Boss曲(Master15，該版難度在機台版就有14強)，移植到機台版並把譜面魔改造後，成為2021年初超高難度曲。
+
+* [https://www.youtube.com/watch?v=9Yt3H4gBpLo Third Time UNLucky](6/11/13/'''15''')
+** 一開始是Switch版DLC新增的Boss曲(BPM135-580，樂曲最後是突破天際的'''BPM2560''')，移植到機台版增加最高難度的EXTRA譜面。
+
+== 相關人物 ==
+=== 作曲家別：內部 ===
+* Taito內部對外以'''ZUNTATA'''名義發布新曲，此時會是以'''樂師名稱(ZUNTATA)'''顯示樂師名稱。
+** 似乎行之有年而被[[Konami|某個被罵很兇的會社]]給致敬，但他們原先更狠連樂師名稱都不能出現。
+
+* BABI(ZUNTATA)/
+** 現在(第五代)ZUNTATA的領導者，也是現存元老級的成員(1990年入社)。
+
+* 土屋昇平
+
+* MASAKI(ZUNTATA)/森正樹
+** 一開始稱號'''期待的新人'''，光是其作品就有三首歌成為天下一音ゲ祭代表Groove Coaster的名單。
+** &lt;s&gt;易燃物一號&lt;/s&gt;&lt;ref&gt;下記的Cranky與t+pazolite等人經常於各社音G提供魔王曲而被戲稱爆破對象，而MASAKI則是於天下一及外魔伝後&lt;s&gt;榮獲&lt;/s&gt;此稱號。&lt;/ref&gt;
+*** 現行難易度15的歌曲，有一半左右的歌曲就是出自他手(或者與他人合作的'''VS'''系列)。
+
+* YS(ZUNTATA)/下田祐
+
+=== 作曲家別：外部人仕 ===
+
+==== 原TAITO社員 ====
+* COSIO/E.G.G.&lt;ref&gt;全寫為'''E'''verything '''G'''et '''G'''roove&lt;/ref&gt;/小鹽廣和
+** Groove Coaster的初代音樂總監，已於2015年11月退社成為自由身。
+*** 在社期間指導現在大活躍的MASAKI。
+** 最後面的是他的本名，前面兩個是他發表的名義。
+*** 兩者的分別在於編曲，E.G.G.的曲風偏向自然主義，在編曲上不受固定拍子的框架束縛。
+** 以E.G.G.名義在Groove Coaster發表的歌曲，曲名都是「Groove」和另一個英文字詞的變位字，並且以「Got」作開首。
+*** 例子：「Groove Master」→「Got more raves」
+** 代表作為全級別最高難度的Got more raves?&lt;ref&gt;初代唯一現行難度13的歌曲，其他舊制10的現在都12以下&lt;/ref&gt;，此曲已藉著「天下一音ゲ祭」的機會移植至其他機台。
+
+==== 外注作曲家 ====
+* 世阿弥/Tatsh/DJ MURASAME/清水達也
+** 元beatmaniaIIDX&lt;s&gt;鬼畜譜面、冥&lt;ref&gt;IIDX永遠的魔王曲。&lt;/ref&gt;、X譜面、全押し&lt;ref&gt;The Dirty of Loudness登場的按法，從刮盤到全部按鈕都要同時按下去。&lt;/ref&gt;&lt;/s&gt;作曲家，[[太鼓達人|太鼓系列]]的玫瑰系列與亂系列，有玩過IIDX系列的肯定有聽過的大名＼ ﾀﾋﾟｵｶｳﾒｪｽ･･･ ／
+** 最後面為他的本名，前面三個是他發表的名義。
+*** 相關事蹟請洽[[太鼓達人]]的介紹，僅在此機台還有一個DJ MURASAME的發表名義。
+** 在Groove Coaster則是著名'''聖者'''系列曲，又音樂封面很多都放上鴿子，故在Groove Coaster圈中'''鴿子=聖者'''。
+*** 而聖者の息吹發表名義是世阿弥 x Tatsh，結果當兩者身分被拆穿後，就變成名符其實的'''自演'''曲。
+
+* t+pazolite/濱田知幸
+** 以[[Maimai]]裡面的撲克牌小丑[https://www.youtube.com/watch?v=NtjtipqRLag  Garakuta Doll Play]&lt;ref&gt;在天下一音Game祭有移植到Groove Coaster&lt;/ref&gt;而著名的製作者。
+** 於Groove Coaster提供了也是目前'''最難關曲+難度爆表'''的[https://www.youtube.com/watch?v=x8vmG08gNps Good Night,Bad Luck.]。&lt;ref&gt;難度'''7'''/'''13'''/'''15'''，全部都是該級別的最高難易度&lt;/ref&gt;&lt;ref&gt;於自家主場[[WACCA]]合作時&lt;s&gt;理所當然的&lt;/s&gt;移植&lt;s&gt;繼續折磨玩家的視覺與手腕&lt;/s&gt;&lt;/ref&gt;
+** &lt;s&gt;易燃物二號&lt;/s&gt;
+*** 在[https://www.youtube.com/watch?v=H0sEqK-W9mk QLWA]歌曲發表時就被玩家&lt;s&gt;轟炸&lt;/s&gt;一番，歌曲封面與歌曲難度形成大反差。
+
+* Cranky
+** BMS出身的資深作曲家，與siromaru合作以[https://www.youtube.com/watch?v=t5Kua5TtqRQ Conflict]聞名各音遊機台。
+** 本身提供三代Boss曲[https://www.youtube.com/watch?v=krQvGqmlv44 Warrior]以及&lt;s&gt;蹂躪&lt;/s&gt;各機台的[https://www.youtube.com/watch?v=XZRnUUcrS0U ouroboros -twin stroke of the end-](和MASAKI合作)
+** 也是個'''畫伯'''一枚，由他畫的ナビゲーター三人娘(2019年的愚人節當天限定解禁)成為了[https://www.youtube.com/watch?v=nHi9PNkZD1I 劇場版　怪談「カーナビ」]的'''恐怖畫面'''。
+** &lt;s&gt;易燃物三號&lt;/s&gt;
+
+* REDALiCE/永井良和
+** 同人音樂組織「HARDCORE TANO*C」的創辦人，通稱「赤さん」，曲風主要以J-Core為主。
+** 於GC上單獨名義提供的樂曲難度比較平易近人，但是與MASAKI共同製作的[https://www.youtube.com/watch?v=V8_qtGBAzi8 BUCHiGiRE Berserker]'''直登GC最難關曲'''。
+*** 該首歌有可能會在其他機台交換登場，&lt;s&gt;串裏蛋&lt;/s&gt;。&lt;ref&gt;於2021/11月[[D4DJ|グルミク]]宣布收錄時已移植至[[WACCA]]、Arcaea、[[CHUNITHM]]之中&lt;s&gt;，不意外的全是高難度譜&lt;/s&gt;&lt;/ref&gt;
+** &lt;s&gt;易燃物四號&lt;/s&gt;
+
+* 溝口ゆうま
+** 東方同人出身的個人創作家。
+** GC初登場就是Switch版的Boss曲，東方系列的[https://www.youtube.com/watch?v=yZQSdVaNRgo Vanity on the future](4/7/12/13)也是出自他手。
+
+== 其他 ==
+
+== 相關連結 ==
+* [http://groovecoaster.jp/ 官方網站]
+* [https://mypage.groovecoaster.jp/sp/login/auth.php 個人化設定登入網站]
+* [http://www.wikihouse.com/groove/index.php?cmd=read&amp;page=Groove%20Coaster%A1%CAAC%C8%C7%A1%CB%2F%A5%B2%A1%BC%A5%E0%B3%B5%CD%D7&amp;alias%5B%5D=Groove%20Coaster%A1%CAAC%C8%C7%A1%CB WIKI(日文)]
+
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+&lt;references/&gt;
+[[分類:遊戲]]
+[[分類:音樂遊戲]]
+[[分類:機台遊戲]]

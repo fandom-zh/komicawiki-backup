@@ -1,0 +1,199 @@
+{{h0|ALLTYNEX Second/アルティネクス セカンド }}
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+| CENTER:本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|-
+| 下一部：[[RefleX]] 
+|}
+[[File:img8001.png]] 
+
+
+==概要 ==
+* 為[[SITER SKAIN（シタースケイン）|SITER SKAIN]]開發,以新視角重現ALLTYNEX的作品
+* 最初版為C68的『PrototypeAS』,之後依序發佈2006年8月的『Prototype ALLTYNEX Second（病）』
+* 2007年8月的C72版、2007年12月的C73版、2009年8月的C76體驗版、2009年12月C77體驗版
+* 至2010年才推出完整版
+
+===系統 ===
+* 戰機會隨著按鈕的使用而變更攻擊方式(類似閃亮銀槍)
+* 道具跟FM-TOWNS版不同,不會提升火力,只能補充光束炮能量
+* 能轉向已鎖定的敵機攻撃
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 按鈕 !! 攻擊方式 !! 形態 !! 備註 
+|-
+| 1 || 射擊 || 戰機形態 || 火力會隨著消耗光束炮能量而減弱 
+|-
+| 2 || 斬擊 || 機動裝甲形態 || 自機會自動轉向 
+|-
+| 3 || 誘導雷射 || 戰機形態 || 需要補充能量,能連擊 
+|-
+| 3 || 光束炮 || 機動裝甲形態 || 能對已鎖定的敵機攻撃,需要補充能量 
+|}
+
+* 「Advanced」模式的B-type紅色機
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 按鈕 !! 攻擊方式 !! 形態 !! 備註 
+|-
+| 1 || 射擊 || 戰機形態 || 火力會隨著消耗光束炮能量而減弱 
+|-
+| 2 || 斬擊 || 機動裝甲形態 || 自機只能自行轉向 
+|-
+| 3 || 光束炮 || 戰機形態 || 需要補充能量,不能鎖定 
+|-
+| 3 || 飛彈 || 機動裝甲形態 || 飛彈攻撃,需要補充能量 
+|}
+
+==故事 ==
+* [[ALLTYNEX系列故事列表]]
+
+==登場機體&lt;ref&gt;左:Windows版、右:FM-TOWNS版&lt;/ref&gt; ==
+
+[[File:img8002.png]]
+* '''サボタージュ'''/Sabotage/破壞者
+** 可變形戰機
+** 原本沒名字的,後來在[http://www.pixiv.net/member_illust.php?id=2293041&amp;amp;tag=SITER_SKAIN 「村上せなみ」]&lt;ref&gt;SITER SKAIN的人物作畫&lt;/ref&gt;的圖中出現
+
+===Stage Boss&lt;ref&gt;名字開頭皆為「A」,Satariel除外&lt;/ref&gt; ===
+** 只能對鎖定的部位破壞
+** &lt;s&gt;Boss名大部份取自樂團的名字&lt;/s&gt;
+
+==='''守護天使'''&lt;ref&gt;神威登場的漢字名稱&lt;/ref&gt;/ガーディアンソルジャー/Guardian Soldier ===
+
+[[File:img8003.png]]
+* '''亞茲拉爾'''&lt;ref&gt;伊斯蘭教的死亡天使&lt;/ref&gt;/アズリエル/Aseliel
+** 藍色機體,兩翼被破壞後使用誘導雷射
+** 後來在神威客串登場(FM-TOWNS版)
+
+[[File:img8004.png]]
+* '''阿多尼'''/Adoni/アドニ
+** 綠色機體,類似亞茲拉爾的攻擊方式,Second則加裝類似GRADIUS戰艦的兩翼(兩次)
+
+[[File:img8005.png]]
+* '''阿賈塔拉'''&lt;ref&gt;芬蘭神話,森林中的惡之精靈&lt;/ref&gt;/Ajattara/アヤッタラ
+** 巨大戰車,砲台能分離後變形成戰機
+
+[[File:img8006.png]]
+* '''阿拉庫蘭'''&lt;ref&gt;意為「蠍」&lt;/ref&gt;/Alacran/アラクラン
+** 會伸長雙臂的機體,Second則變形成蠍子形態
+** 在神威登場的骸雷及黄蜘蛛,也有類似的攻擊方式
+
+[[File:img8007.png]]
+* '''母體電腦-ALLTYNEX'''/アルティネクス/Mother Brain ALLTYNEX
+** 原本是自律型都市管理電腦,後來暴走並引發戰爭對人類趕盡殺絕
+** 其中有類似的エンロピ攻擊方式
+
+[[File:img8008.png]]
+* '''從異界來的逆卡巴拉-沙塔利艾爾'''&lt;ref&gt;邪惡之樹的魔族&lt;/ref&gt;/サタリエル/Visitor from Qliphoth Satariel
+** 遭到破壞的「ALLTYNEX」,從異空間召喚來機體
+** 攻擊方式及造型跟「神威零號機」一樣(Second版)
+** 有可能是「RefleX」所提到的「黃道星座機-蛇夫座」
+
+==Stage ==
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! AREA !! 關卡標題 !! Boss 
+|-
+| Area 01 || Make an Assault on Enemy || Aseliel 
+|-
+| Area 02 || Attack the Zoldyzant base || Adoni 
+|-
+| Area 03 || The biting Cold wind || Ajattara 
+|-
+| Area 04 || Last Defense Line || Alacran 
+|-
+| Final Area || Aggressive Attack || ALLTYNEX/Satariel 
+|}
+==隱藏要素==
+* Information中出現的達成條件:
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 名稱 !! 難度 !! 條件 !! 備註 
+|-
+| 初陣 || 不限 || 開始玩時就有 ||  
+|-
+| 16倍率で敵機を斬擊 || 不限 || 對敵機用斬擊,擊破倍率達16以上 ||  
+|-
+| 25600コンホボーナスを連続10回以上繼続 || 不限 || 連續獲得最高分數25600達10次以上 ||  
+|-
+| オメガジャベリン照射(2面で強制ゲームオーバー) || 不限 || 2面的宇宙基地發射主砲(不打倒它到時間結束,然後Game Over) ||  
+|-
+| Bタイプ機体ロールアウト || Normal || Normal全破一次 || 「Advanced」模式的紅色機體 
+|-
+| 擊ち返し弾モード開放(タイトル画面で右キー) || Hard || Hard全破一次 || 開啟擊返彈模式(標題畫面按「→」) 
+|-
+| 任務完了 || 不限 || 全破一次(難度不限) ||  
+|-
+| 1コインクリア達成(難易度不問) || 不限 || 未Credit狀態下全破 ||  
+|-
+| Bタイプ機体1コインクリア達成(難易度不問) || 不限 || B-type機體未Credit狀態下全破 ||  
+|-
+| ??? || ??? || ??? || ??? 
+|}
+
+==ALLTYNEX/アルティネクス==
+[[File:img8009.png]]
+
+===概要 ===
+* 由吉田哲(じるるん)製作的2D縱軸STG
+** 對應[http://tw.myblog.yahoo.com/marchbiggg/article?mid=843&amp;amp;prev=865&amp;amp;l=f&amp;amp;fid=15&amp;amp;sc=1 FM-TOWNS]系統的遊戲
+** 為第2回ASCII遊戲創作大賽-電腦遊戲部的敢鬥賞得獎作品,該雑誌『ログイン ソフコン』付屬CD収録
+** 隔年開發者網站公佈遊戲Ver1.01版本
+** 當時遊戲名為「PROJECT RAID WIND 2」
+
+===系統 ===
+* 攻撃範圍重視→戰機形態、攻撃火力重視→機動裝甲形態
+* A→機動裝甲形態(光束軍刀)、B→戰機形態(射擊)、A+B→能量消費,發射連射誘導雷射(戰機形態)及光束歩槍(機動裝甲形態)
+* 攻撃火力為8階段強化,能量會隨時間回復,機動裝甲形態的得分為戰機形態兩倍
+* 可以雙打(1P、2P同時)
+
+===Stage ===
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! AREA !! 關卡標題 !! 概要 
+|-
+| FIRST AREA || 『MAKE AN ASSAULT ON ENEMY』 || 通過在地球和太陽系内的小惑星地帶 
+|-
+| SECOND AREA || 『ATTACK THE ZLDYZANT BASE』 || 突破衛星軌道上的基地、並突入大氣層 
+|-
+| THIRD AREA || 『THE BITING COLD WIND』 || 通過雲海，下降到近海的島嶼進行低空飛行 
+|-
+| FORTH AREA || 『LAST DEFFENCE LINE』 || 低空飛行到第一海上都市、並潛入地底下與Boss戰鬥 
+|-
+| FINAL AREA || 『AGGRESSIVE ATTACK』 || 打倒最下層的Boss後,將最終目標「ALLTYNEX」破壞後從最下層逃出,已經遭到銷毀的「ALLTYNEX」,派出機體飛上天追擊自機 
+|}
+
+==參考資料 ==
+* [[SITER SKAIN（シタースケイン）]]
+* [http://tw.myblog.yahoo.com/stu31305/article?mid=326&amp;amp;prev=332&amp;amp;next=320 ALLTYNEX Second資料(1)]
+* [http://www.siterskain.com/as/download.htm ALLTYNEX Second(體驗版)]
+* [http://tieba.baidu.com/p/925539148 ALLTYNEX 三部曲(百度)]
+
+==低調 ==
+* [http://howfile.com/file/jjou/a9f4b28c/ Alltynex(Fm-Towns)(HF)]
+** [http://emunavi.com/menu/howto/unz/unz.htm FM-TOWNS(うんづ)]
+** [http://townsemu.world.coocan.jp/compatiroms.html FM-TOWNS(D)]
+** [http://townsemu.world.coocan.jp/ FM-TOWNS(D)]
+** [http://www.jcec.co.uk/fmtown_emu.html FM-TOWNS(D2)]
+** [http://www.doperoms.com/roms/Fujitsu_Fm-towns/ALL/0.html FM-TOWNS(D3)]
+** [http://www.sendspace.com/file/paschl ALLTYNEX(ROM)]
+
+* [http://115.com/file/clc9byhq ALLTYNEX Second]
+* [http://howfile.com/file/jjou/034a0293/ Alltynex 2nd(HF)]
+
+==回應 ==
+* 完成三部(實為五部)的條目了,我會再找時間寫其它的
+* 原來神威是一整套的啊 難怪我看不懂劇情 --  &lt;time&gt;2012-09-11 (火) 21:22:06&lt;/time&gt;
+* k島有討論過阿......為何要貼簡體版的.....http://www.notomamiko.net/stg/pixmicat.php?res=5057&amp;amp;page_num=all --  &lt;time&gt;2012-09-29 (土) 14:21:53&lt;/time&gt;
+* http://tieba.baidu.com/p/1997814494 --  &lt;time&gt;2012-11-21 (水) 13:25:23&lt;/time&gt;
+* Satariel不是蛇夫座，在打Alltynex之前有一台Zodiac，那才是蛇夫座本來的機體，因為沒有關鍵的核心所以叫做Ophiucus Husk --  &lt;time&gt;2015-06-16 (火) 15:31:45&lt;/time&gt;
+
+&lt;!-- コメントの挿入 --&gt;
+&lt;!-- #comment(noname) --&gt;
+
+
+== 備註 ==
+&lt;references/&gt;
+
+[[分類:SITER SKAIN]]

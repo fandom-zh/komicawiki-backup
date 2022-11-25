@@ -1,0 +1,104 @@
+{{h0|鋼鐵的白衣}}
+[[File:北美神話大戰banner.png|500px|center]]
+== 概要 ==
+[[File:北美神話大戰headline.jpg|500px|center]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 特異點編號
+| 第五特異點
+|-
+! 時代
+| A.D. 1783
+|-
+! 人理定礎值
+| A+
+|-
+! 地點
+| 北美大陸
+|-
+! 導航角色
+| [[Florence_Nightingale_(Fate)|鋼鐵的白衣]]
+|-
+! 通關後贈送角色
+| [[Geronimo (Fate)|染血的惡魔]]
+|-
+! 劇本作者
+| 東出祐一郎
+|}
+
+* Fate/Grand Order第一部第五章的故事。
+* 本作於《Fate/Grand Order Arcade》中重新命名為《北米神話侵食 合眾為一》，部份登場從者相異
+
+== 故事 ==
+[[File:北美神話大戰prologue.png|500px|center]]
+
+== 本節登場主要角色 ==
+
+=== 中立從者 ===
+
+; [[Florence_Nightingale_(Fate)|南丁格爾]]
+: 原為西美利堅陣營的從者，但在知道能從根本上減少這個時代傷患的方法後而隨主角一起行動
+
+; [[Rāma (Fate)|羅摩]]
+: 反抗軍的成員之一
+
+; [[Sītā (Fate)|悉多]]
+: 無從屬的中立從者，被凱爾特軍囚禁
+
+; [[Geronimo (Fate)|傑羅尼莫]]
+: 反抗軍的首領，在不認同愛迪生的方針下不願加入西美利堅陣營，獨自成立反抗軍對付凱爾特軍
+
+; [[Billy_the_Kid_(Fate)|比利小子]]
+: 反抗軍的成員之一
+
+; [[Robin_Hood_(Fate)|羅賓漢]]
+: 反抗軍的成員之一
+
+; [[Báthory_Erzsébet_(Fate) |伊莉莎白·巴托里]]
+: 無從屬的中立從者，後加入反抗軍
+ 
+; [[Nerō Claudius (Fate)|尼祿·克勞迪烏斯〔Bride〕]]
+: 無從屬的中立從者，後加入反抗軍
+
+; [[Scathach_(Fate)|斯卡薩哈]]
+
+; [[李書文 (Fate)|李書文]]
+: 無從屬的中立從者
+
+=== 美利堅合眾國 ===
+
+; [[Thomas_Edison_(Fate)|總統王]]
+
+; [[Helena_Blavatsky_(Fate)|海倫娜]]
+
+; [[Karna (Fate)|迦爾納]]
+
+=== 凱爾特軍 ===
+; [[Cú_Chulainn_(Fate)|狂王]]
+
+; [[Medb_(Fate)|女王梅芙]]
+
+; [[Arjuna (Fate)|阿周那]]
+
+; [[Fionn_mac_Cumhaill_(Fate)|芬恩·麥克庫爾]]
+
+; [[Diarmuid Ua Duibhne (Fate)|迪爾穆德·奧·德利暗]]
+
+; [[Fergus_Mac_Roich_(Fate)|弗格斯·馬克·羅伊]]
+
+; [[Beowulf_(Fate)|貝歐武夫]]
+
+
+=== 其他 ===
+; [[Nikola_Tesla_(Fate)|尼古拉·特斯拉]]
+
+; [[Merlin_(Fate)|？？？]]
+: 在主人公被狂王襲擊時，暗中保護主人公一行人
+: 同時，召喚了尼古拉·特斯拉協助對抗魔神柱
+
+== 關聯條目 ==
+{{Fate/Grand Order章節}}
+
+== 備註 ==
+&lt;references /&gt;
+[[Category:Fate/Grand Order劇情]]

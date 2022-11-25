@@ -1,0 +1,186 @@
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| 本條目為[[Five Nights at Freddy's World/弗雷迪世界的五個晚上]]分離的子條目 
+|}
+
+
+==解說 ==
+* 本條目介紹來自[[Five Nights at Freddy's World/弗雷迪世界的五個晚上]]遊戲中的角色
+===角色資料 ===
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! scope  | 名稱 
+! scope  | 登場世代
+! scope  | 出現地點
+! scope  | 擁有招式
+
+|-
+| 費斯熊弗雷迪 || 1 || 初期可選擇 || Mic Toss&lt;br&gt;Pizza Wheel&lt;br&gt;Birthday 
+|-
+| 小兔邦尼 || 1 || 初期可選擇 || Bite&lt;br&gt;Bash Jam&lt;br&gt;Happy Jam 
+|-
+| 小雞奇卡 || 1 || 初期可選擇 || Cupcake&lt;br&gt;Party Favour&lt;br&gt;Regen Song 
+|-
+| 狐狸海盜霍斯 || 1 || 初期可選擇 || Hook&lt;br&gt;Jumpsacre&lt;br&gt;Hot Cheese 
+|-
+| 金色弗雷迪 || 1 || ? || Jumpscare&lt;br&gt;Rainy Day 2&lt;br&gt;Haunting 
+|-
+| Endo-01 || 1 || ? || Power Song&lt;br&gt;Armor Song&lt;br&gt;Endo Army 
+|-
+| 玩具弗雷迪 || 2 || 初期可選擇 || Mic Toss&lt;br&gt;Party Favour&lt;br&gt;Speed Song 
+|-
+| 玩具邦尼 || 2 || 初期可選擇 || Bash Jam&lt;br&gt;Munchies&lt;br&gt;Prize Ball 
+|-
+| 玩具奇卡 || 2 || 初期可選擇 || Cupcake&lt;br&gt;Birthday&lt;br&gt;Waterhose 
+|-
+| 狐狸蔓果 || 2 || 初期可選擇 || Hook&lt;br&gt;Poopers&lt;br&gt;Prize Ball 
+|-
+| 氣球男孩 || 2 || ? || Ballons&lt;br&gt;Hot Cheese&lt;br&gt;Munchies 
+|-
+| JJ || 2 || ? || Ballons&lt;br&gt;Poppers&lt;br&gt;Unscrew 
+|-
+| 傀儡 || 2 || ? || Prize Ball 2&lt;br&gt;Mystery Box&lt;br&gt;Esc Key 
+|-
+| 費斯熊弗雷迪 || 2 || ? || Mic Toss&lt;br&gt;Gloom Song&lt;br&gt;Esc Key 
+|-
+| 小兔邦尼 || 2 || ? || Eye Beam&lt;br&gt;Pizza Wheel&lt;br&gt;Unscrew 2 
+|-
+| 小雞奇卡 || 2 || ? || Bite&lt;br&gt;Cupcake&lt;br&gt;Prize Ball 
+|-
+| 狐狸海盜霍斯 || 2 || ? || Hook&lt;br&gt;Rainy Day&lt;br&gt;Hot Cheese 2 
+|-
+| 影子弗雷迪 || 2 || ? || Unscrew&lt;br&gt;Esc Key&lt;br&gt;Waterhose 
+|-
+| 影子邦尼 || 2 || ? || Haunting&lt;br&gt;Mimic Ball&lt;br&gt;Gift Boxes 
+|-
+| 紙盤人偶 || 2 || ? || Prize Ball 2&lt;br&gt;Mystery box 2&lt;br&gt;Mimic Ball 
+|-
+| Endo-02 || 2 || ? || Speed Song&lt;br&gt;Endo Army&lt;br&gt;Neon Wall 
+|-
+| Springtrap || 3 || ? || Bite 2&lt;br&gt;Springlocks&lt;br&gt;Rainy Day 
+|-
+| 幻影弗雷迪 || 3 || ? || Gloom Song&lt;br&gt;Sludge&lt;br&gt;Rainy Day 
+|-
+| 幻影奇卡 || 3 || ? || Toxic Bite&lt;br&gt;Sludg&lt;br&gt;Unscrew 
+|-
+| 幻影霍斯 || 3 || ? || Jumpscare&lt;br&gt;Toxic Bite&lt;br&gt;Unscrew 
+|-
+| 幻影蔓果 || 3 || ? || Toxic Bite&lt;br&gt;Mystery Box&lt;br&gt;Pizza Wheel 2 
+|-
+| 幻影BB || 3 || ? || Toxic Ballon&lt;br&gt;Gloom Ballon&lt;br&gt;Rainy Day 
+|-
+| 幻影傀儡 || 3 || ? || Jumpscare&lt;br&gt;Hot Cheese 2&lt;br&gt;Mystery Box 2 
+|-
+| 哭泣小孩 || 3 || ? || Power Song&lt;br&gt;Armor Song&lt;br&gt;Gift Boxes 
+|-
+| 惡夢弗雷迪 || 4 || ? || Bite 2&lt;br&gt;Sludge&lt;br&gt; Freddles 
+|-
+| 惡夢邦尼 || 4 || ? || Bite 2&lt;br&gt;Rainy Day 2&lt;br&gt;Pizza Wheel 2 
+|-
+| 惡夢奇卡 || 4 || ? || Bite 2&lt;br&gt;Bad Pizza&lt;br&gt;Waterhose 
+|-
+| 惡夢霍斯 || 4 || ? || Bite 2&lt;br&gt;Unscrew 2&lt;br&gt;Hot Cheese 2 
+|-
+| Plushtrap || 4 || ? || Toxic Bite&lt;br&gt;Bad Pizza&lt;br&gt;Sludge 
+|-
+| 惡夢弗雷熊 || 4 || ? || Toxic Bite 2&lt;br&gt;Bad Pizza→Freddles&lt;br&gt;Mega Bite 
+|-
+| Nightmare || 4 || ? || Toxic Bite 2&lt;br&gt;Rainy Day 2&lt;br&gt;Mega Bite 
+|-
+| 弗雷熊 || W || ? || Mega Bite&lt;br&gt;Regen Song&lt;br&gt;Mimic Bite 
+|-
+| 彈簧邦尼 || 4 || W || Springlocks&lt;br&gt;Happy Jam 2&lt;br&gt;Cosmic Song 
+|-
+| Funtime Foxy || W || ? || Happy Jam 2&lt;br&gt;Cosmic Song&lt;br&gt;Gift Boxes 
+|-
+| Endoplush || W || ? || Neon Wall&lt;br&gt;Eye Beam&lt;br&gt;Waterhose 2 
+|}
+
+* 以下為Update 2所追加的新選擇角色
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! scope  | 名稱 
+! scope  | 入手方法
+! scope  | 擁有招式
+
+|-
+| Jack-O-Bonnie || ? || Haunting&lt;br&gt;Jack-O-Bomb&lt;br&gt;Slasher 
+|-
+| Jack-O-Chica || ? || Haunting&lt;br&gt;Jack-O-Bomb&lt;br&gt;Buzzsaw 
+|-
+| 惡夢BB || ? || Mega Bite&lt;br&gt;Bubble Breath&lt;br&gt;Ballons 2 
+|-
+| 惡夢傀儡 || ? || Prize Ball 2&lt;br&gt;Bubble Breath&lt;br&gt;4th Wall 
+|-
+| Purple Guy || ? || Speed Song&lt;br&gt;Slasher&lt;br&gt;Hocus Pocus 
+|-
+| Coffee || ? || Gift Boxes&lt;br&gt;Mega Virus&lt;br&gt;Neon Wall 2 
+|-
+| Mr.Chipper || ? || Mimic Ball&lt;br&gt;Buzzsaw&lt;br&gt;Hocus Pocus 
+|-
+| Animedude || ? || Neon Wall&lt;br&gt;Mega Virus&lt;br&gt;4th Wall 
+|}
+
+===一代 ===
+* 費斯熊弗雷熊（Adventure Freddy Fazbear）
+* 小兔邦尼（Adventure Bonnie）
+* 小雞奇卡（Adventure Chica）
+* 狐狸海盜霍斯（Adventure Foxy）
+* 金色弗雷迪（Adventure Golden Freddy）
+* Endo-01（Adventure Endo-01）
+
+===二代 ===
+* 玩具弗雷迪（Adventure Toy Freddy）
+* 玩具邦尼（Adventure Toy Bonnie）
+* 玩具奇卡（Adventure Toy Chica）
+* 狐狸蔓果（Adventure Mangle）
+* 氣球男孩（Adventure BB）
+* JJ （Adventure JJ）
+* 傀儡（Adventure Marionette）
+* 費斯熊弗雷迪（Adventure Withered Freddy Fazbear）
+* 小兔邦尼（Adventure Withered Bonnie）
+* 小雞奇卡（Adventure Withered Chica）
+* 狐狸海盜霍斯（Adventure Withered Foxy）
+* 影子弗雷迪（Adventure Shadow Freddy）};
+* 影子邦尼（RWQFSFASXC）（通稱）
+* 紙盤人偶（Adventure Paperpals）
+* Endo-02（Adventure Endo-02）
+
+===三代 ===
+* Springtrap （Adventure Springtrap）
+* 幻影弗雷迪（Adventure Phantom Freddy）
+* 幻影奇卡（Adventure Phantom Chica）
+* 幻影霍斯(Adventure Phantom Foxy）
+* 幻影蔓果 （Adventure Phantom Mangle）
+* 幻影BB （Adventure Phantom BB）
+* 幻影傀儡 （Adventure Phantom Puppet）
+* 哭泣小孩 （Adventure Crying Child）
+
+===四代 ===
+* 惡夢弗雷迪（Adventure Nightmare Freddy)
+* 惡夢邦尼（Adventure Nightmare Bonnie）
+* 惡夢奇卡（Adventure Nightmare Chica）
+* 惡夢霍斯（Adventure Nightmare Foxy）
+* Plushtrap（Adventure Plushtrap）
+* 惡夢弗雷熊（Adventure Nightmare Fredbear）
+* Nightmare（Adventure Nightmare）
+
+===是次原創角色 ===
+* 弗雷熊（Adventure Fredbear）
+* 彈簧邦尼（Adventure Spring Bonnie）
+* Endoplush（Adventure Endoplush）
+* Funtime Foxy(Adventure Funtime Foxy）
+
+
+===Update 2追加 ===
+* 惡夢BB（Adventure Nightmare BB）
+* 惡夢傀儡 （Adventure Nightmarionne）
+* Purple Guy（Adventure Purple Guy）
+* Coffee（Adventure Coffee）
+* Mr.Chipper（Adventure Mr.Chipper）
+* Animedude（Adventure Animedude）
+* &lt;s&gt;惡夢蔓果（Adventure Nightmare Mangle）&lt;/s&gt;
+** &lt;s&gt;目前不存在&lt;/s&gt;
+
+===其他NPC ===
+[[category:Five Nights at Freddy's]]

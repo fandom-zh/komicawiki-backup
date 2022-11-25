@@ -1,0 +1,281 @@
+{{h0|遊戲實況/実況プレイ/Let's Play&lt;ref&gt;Youtube常用標題&lt;/ref&gt;}}
+{| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;" 
+|-
+|本條目歡迎有興趣的[[島民]]加以補完。
+|}
+== 解說 ==
+* 利用影音或直播網站上傳遊戲遊玩影片，並搭配人聲或電子聲實況解說的多媒體創作。
+** 上傳該影片的玩家通常被稱為實況主或實況者。
+** 與一般的遊玩影片相比，遊戲實況更加著重於實況主的個人表現風格或與觀眾之間的互動。
+* 一般來說不經過太多後製，有剪入後製成分過多者容易被歸類為''回顧''或''評論''，但目前並沒有明顯區別，為自有影片上字幕或修正音效、破音，剪去過場等都還算在實況的範疇中，因為顧及觀眾視聽時的便利與舒適性難免要做些調整。
+* 以遊戲生產商的角度來看，演示遊戲過程給其他網友看，可能會減少其他玩家的遊戲時間，進而減少遊戲的銷量，有部分廠商取締或禁止旗下產品實況影片在網上流傳，現今多半以查緝改造版或非官方MOD為由而取締。
+** 但也有廠商抱持正面意見，認為實況過程可以算是玩家的口碑宣傳&lt;s&gt;同時算是踩[[地雷]]，減少購買者的怨言&lt;/s&gt;，減少了製作宣傳片的公關費用，甚至也可以提拔素人團體成為代言藝人，相對成本更低，而遊戲過程始終由各玩家親手體驗，未必會因為看過了影片而不玩遊戲&lt;s&gt;跟體育賽事轉播是一樣的道理&lt;/s&gt;。
+** 而自以為看過就很懂這遊戲的人被稱作雲玩家，&lt;s&gt;只看不買的很多&lt;/s&gt;。
+
+== 知名的實況網站 ==
+* Youtube
+* [http://www.justin.tv/ &lt;s&gt;Justin.tv&lt;/s&gt;]
+** 已經於2014年8月5日停止服務，相關服務由 [http://www.twitch.tv/ Twitch.tv] 接手。
+* [http://www.ustream.tv/ Ustream]
+* [http://live.nicovideo.jp/ ニコニコ生放送]
+
+== 知名的實況主列表 ==
+=== 台灣 ===
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!暱稱 !! 代表作 !!  備註
+|-
+|[https://www.facebook.com/rdhose/ 魯蛋]
+|[[大中天|沉默的小鎮2]]
+|別名餐哥、魯文文&lt;s&gt;、遊戲實況主魯莽&lt;/s&gt;可白目可[[吐槽]]，早期至2016年間玩了很多綜合梗，&lt;s&gt;不排除曾是島民&lt;/s&gt;，臺灣實況先驅之一。
+|-
+|[https://www.facebook.com/LNG.live.official/ LNG Live(LNG WorkShop)]
+|LNG Gaming：玩英雄聯盟就是要把招式喊出來
+|可能是台灣最早的實況團隊2010(放屁宅家三兄弟2009)，成員有六嘆(6tan)、鳥屎(NIAWS)、老王(Wannasinging)、Leggy、八毛(bamow)、小六(Mabushi)&lt;ref&gt;前面三人為LNG的創始成員，取名來自成員名字的羅馬拼音（L=六嘆、N=鳥屎、G=歌姬=老王），其餘成員則是後來才加入&lt;/ref&gt;&lt;br&gt;六嘆和鳥屎目前是網路節目 [http://www.camerabay.tv/channel/master1/ 「現在宅知道」] 節目主持人，為在台灣推廣實況訂閱的一員，臺灣實況先驅之一
+|-
+|[http://blueirongatevolume.blogspot.tw/ 藍色鐵捲門]
+|藍色鐵捲門的冒險
+|使[[Minecraft]]在台灣建立知名度的主要推手，只用了僅僅五集實況便造成熱烈迴響。&lt;br&gt;大約於2012年8月左右爆發藍色鐵捲門事件，不久後消失。經過一段時間後的某日再次復出，但之後又於2014年10月再次消失。
+|-
+|宅家三兄弟
+|N/A
+|可能是台灣最早的實況團隊，成員有蘇三、兔爹、伍玖零&lt;br&gt;曾經創下觀看者300人，實際上有200人掛機的創舉，為臺灣實況先驅之一。
+|-
+|[http://oeur-studio.weebly.com/ OEUR芋圓柚子工作室]
+|阿神的minecraft教室
+|由阿神Kouki、阿謙Kouku、梅子Plumy與6位後勤組成的實況團隊。
+|-
+|[https://www.youtube.com/user/MrChesterccj 舞秋風]
+|Eldaria Island多人實況
+|著名Minecraft實況主，出片速度約1~2天一片，剪輯十分用心&lt;br&gt;曾在Minecraft建築團隊「MayorTW」中大放異彩，能夠達成許多浩大的成就。在武俠遊戲俠客風雲傳有客串演出
+|-
+|台灣帝王linzet
+|N/A
+|其觀眾通常稱他為lz，為臺灣實況先驅之一
+|-
+|江小M
+|
+|
+|-
+|[https://www.youtube.com/user/tolocat 老皮]
+|世紀帝國之夜、GTA5、Minecraft……族繁不能備及
+|有個兩個頻道：「老皮」是專門播放直播的精彩內容，時間一般在十五分鐘左右一個視頻；「皮老」則是直接進行長時間的錄播，動輒長達數小時的視頻；&lt;br&gt;有一大堆朋友，經常一起聯機玩遊戲，較擅長玩世紀帝國等經營類遊戲；&lt;br&gt;有一弟弟，暱稱「皮弟」，經常在視頻里客串，此外上面的江小M等人也偶爾在他的錄播內出現。
+|-
+|阿津
+|失憶症系列、[[惡靈古堡系列]]、短篇[[RPG]]遊戲
+|實況風格直接不做作、英日文程度能夠邊玩邊翻。在Steam裡有以自己暱稱命名的自製RPG製作大師作品[https://store.steampowered.com/app/1036960/_//rdhose/ 阿津]。
+|-
+|[http://www.nicovideo.jp/user/502751 委員長]
+|[[Ib]]
+|
+|-
+|[https://www.facebook.com/LMOPDD/info?tab=page_info 羅密歐]
+|[[World of Tanks 坦克世界|戰車世界]]
+|女性實況主，與知名國際戰爭遊戲廠商Wargaming長期合作，曾代表中文區直播賽評前往波蘭華沙參加《戰車世界》世界大賽擔任賽評。&lt;br&gt;&lt;s&gt;T32下體無敵的始作俑者&lt;/s&gt;&lt;ref&gt;詳情請看 [https://www.youtube.com/watch?v=AivCjlZCAh8 WoT世界大賽的賽評]&lt;/ref&gt;
+|-
+|[https://www.twitch.tv/asiagodtonegg3be0 亞洲統神]
+| rowspan="2"|[[League of Legends]]
+|本名張嘉航，又名癢哥、&lt;s&gt;傻屌胞弟&lt;/s&gt;，以他的酒桶操作和嘴炮技術聞名，因為實況的風格極具娛樂效果而廣受網友甚至老外關注&lt;br&gt;是台灣實況平均收看人數最高的實況主之一。&lt;s&gt;著名事蹟包含被告還開台嗆警察，吃屎，被禁播，對老婆大吼大叫之類的&lt;/s&gt;&lt;br&gt;2021年時因為某個迷因影片[[風評被害]]，被提及的頻率暴增
+|-
+|國動
+|本名張葦航，是上面那位的哥哥，實況時的大吼大叫是鄉民間耳熟能詳的梗。&lt;s&gt;著名事蹟是實況上對普悠瑪死者出言「死好、都活該！」&lt;/s&gt;
+|-
+|[https://www.twitch.tv/hornydragon 好色龍]
+|[[Undertale]]
+|以翻譯起家切入實況，因為不明原因禁止聊天室打雙等號”==“&lt;ref&gt;可能是因為這符號組合看起來像是不屑的表情，講明這是地雷的人也不只有他&lt;/ref&gt;&lt;s&gt;他是沒有蛋蛋的雞掰人，而且聲音像球Z&lt;/s&gt;&lt;br&gt;除實況外，還有經營一個網站來放他製作的動畫翻譯或者雜七雜八搞笑圖收集。
+|-
+|}
+
+=== 中國大陸 ===
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!暱稱 !! 代表作 !!  備註
+|-
+|[https://space.bilibili.com/374377/ 嵐少（淚腺戰士）]
+|[[魔女之家]]
+|專注實況日本[[RPG製作大師]]領域。&lt;s&gt;性別是嵐少。&lt;/s&gt;
+|-
+|[https://space.bilibili.com/585267/ 純黑]
+|[[俠盜獵車手Grand Theft Auto|GTA5]]
+|兼備技術與娛樂的攻略解說。
+|-
+|[https://space.bilibili.com/168598/ 逍遙散人]
+|《I wanna be》系列
+|
+|-
+|[https://space.bilibili.com/673816/ 迷之聲]
+|模擬山羊
+|有著催眠性極佳的大叔嗓，實況以歐美的解謎小品遊戲為主。
+|-
+|[https://space.bilibili.com/39865749/ 神奇陸夫人]
+|大富翁4
+|以擅長[[死亡フラグ|立旗及秒收]]聞名，對岸以「陸氏弗拉格綜合症」稱之。
+|-
+|[https://space.bilibili.com/343348/ 口袋迷ag]
+|[[精靈寶可夢]]、[[聖火降魔錄]]等任天堂遊戲
+|主要擔任寶可夢對戰的解說，另外也有實況以《聖火降魔錄》為主的任天堂遊戲。&lt;br&gt;&lt;s&gt;實況風格半句不離萌萌噠，基本上在實況寶可夢時必定創女角之外，在實況聖火等其他遊戲時也會趁機品評眾女角。&lt;/s&gt;
+|-
+|[https://space.bilibili.com/803754/ 瑪露塔大魔王]
+|[[尼爾 自動人形]]
+|擁有橙髮雙馬尾少女的虛擬形象，主要領域為製作全流程向的吐槽向實況，以高速更新（幾乎每晚更新一次）為主要訴求。&lt;br&gt;&lt;s&gt;雖然技術性不高，且有時候還會跟觀眾互懟甚至不知不覺扯到無關遊戲的話題，不過由於其高產量與更新速度故依舊有其人氣。&lt;/s&gt;
+|-
+|[https://space.bilibili.com/228342/ 空耳YAYA]
+|[[魔物獵人]]
+|主要以魔物獵人的吐槽向影片為主。
+|}
+
+=== 香港 ===
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!暱稱 !! 代表作 !!  備註
+|-
+|&lt;s&gt;伍乞丐&lt;/s&gt;[https://www.youtube.com/user/Loui5Ng 伍公子]
+|The Walking Dead
+|攻略型，因行為不良、言談較粗鄙受批評。&lt;br&gt;曾向網民要求捐款讓他買新耳機，而被稱為「伍乞兒（乞丐）」。&lt;br&gt;影片經常分享人生經驗，並大談政治、文化等話題。&lt;br&gt;其後表示不會再踏足Youtube遊戲界，轉為在Twitch現場直播遊戲實況。
+|-
+|[https://www.youtube.com/user/undergroundDV 達哥]
+|Sleeping Dogs
+|技術不行，以幽默作為賣點。&lt;br&gt;經常操控遊戲角色做出各種白癡行為，如故意從地圖高處墮下(致死)、挑釁NPC等等&lt;br&gt;絕技是一邊說無關痛癢的笑話一邊打遊戲。&lt;br&gt;偶爾也會朗讀一些香港網路梗文。&lt;s&gt;非常不懂為什麼他能替港區PS代言&lt;/s&gt;&lt;br&gt;&lt;s&gt;每次出外都穿同一套衣服&lt;/s&gt;
+|-
+|[https://www.youtube.com/user/JStud1o 大J]
+|Dead Rising 3
+|攻略重視型。精通日語，英語也很好，特征是談話風格比較落伍（80年代早期出生的人的味道）。&lt;br&gt;打遊戲時經常忽略很多東西。
+|-
+|[https://www.youtube.com/user/ylok999 笑波子]
+|貓Mario
+|完全不會日文，其實況任何時候都很像綜藝節目，而且台詞非常好笑。&lt;br&gt;也有拍攝一些人生經驗影片，以其生動喜感的比喻和形容令人發笑。
+|-
+|[https://www.twitch.tv/yagamileong 慕容嘉亮]
+|[[League of Legends]]
+|賣蠢型玩家，經常做出腦殘行徑，但他是台服最強冰鳥。因為和台灣屁孩單挑完爆對方而被捧成人民英雄。2019年移居台灣。&lt;br&gt;{{censored|2020年5月發表影片《屎家軍崛起》，批評香港YouTuber屎萊姆背後有著龐大的政府和企業支援，壟斷了香港YouTube市場建立「屎家軍」，更指此集團協助香港政府在「反送中」運動期間控制網絡輿論。在香港網路引起軒然大波。}}
+|-
+|}
+
+=== 日本 ===
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!暱稱 !! 代表作 !!  備註
+|-
+|[http://dic.nicovideo.jp/a/%E5%B9%95%E6%9C%AB%E5%BF%97%E5%A3%AB 幕末志士]
+|[[瑪利歐系列|超級瑪利歐64]]
+|模仿幕末志士的說話腔調，並藉由加入特殊規則以提升破關難度與爆笑程度。
+|-
+|[http://dic.nicovideo.jp/a/%E3%83%9C%E3%83%AB%E3%82%BE%E3%82%A4%E4%BC%81%E7%94%BB ボルゾイ企画&gt;]
+|[[青鬼]]
+|由ふひきー、がみ、くわさん、ぞの組成的實況團隊，解散後只有ぞの仍在持續推出新作。
+|-
+|[http://dic.nicovideo.jp/a/hacchi hacchi]
+|The Immortal
+|主要玩海外的鬼畜遊戲。
+|-
+|[http://dic.nicovideo.jp/a/%E3%81%BE%E3%81%A3%E3%81%8F%E3%81%99 まっくす]
+|I wanna be the Guy
+|プロのド[[M]]。
+|-
+|[http://dic.nicovideo.jp/a/%E3%83%AC%E3%83%88%E3%83%AB%E3%83%88 レトルト]
+|Ib
+|操關西腔，又因為推理能力媲美某個沉睡偵探而有「迷探偵レトルト」的別稱。
+|-
+|[http://dic.nicovideo.jp/a/m.s.sproject M.S.SProject]
+|新超級瑪利歐Wii
+|&lt;s&gt;[[中二病]]Project。&lt;/s&gt;
+|-
+|[http://dic.nicovideo.jp/a/%E8%A8%9B%E3%82%8A%E5%AE%9F%E6%B3%81 キリン]
+|SIREN:NT
+|東北人，實況名稱為訛り実況，擁有成熟的聲線，通常是實況自己已經破完遊戲。
+|-
+|[http://dic.nicovideo.jp/a/%E3%82%AC%E3%83%83%E3%83%81%E3%83%9E%E3%83%B3 ガッチマン]
+|Dead Rising
+|主要實況驚悚動作冒險遊戲，會把原本的恐怖氣氛給破壞殆盡（腹筋崩壞的意味）。
+|-
+|[http://dic.nicovideo.jp/a/%E3%82%A2%E3%83%96%28%E5%AE%9F%E6%B3%81%E8%80%85%29 アブ]
+|学園ハンサム
+|常常實況一些讓人意想不到或奇怪的遊戲，ドM，會在實況加入[[BL|ホモ]]梗。
+|-
+|[http://dic.nicovideo.jp/a/%E3%81%A4%E3%82%8F%E3%81%AF%E3%81%99 つわはす]
+|クラッシュ・バンディクー
+|實況廢人，以動作遊戲為主，常常在某些時刻展現出驚人的實力。
+|-
+|[http://dic.nicovideo.jp/a/%E3%82%BB%E3%83%94%E3%82%A2%28%E5%AE%9F%E6%B3%81%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%29 セピア]
+|[[薩爾達傳說|ゼルダの伝説]]～ムジュラの仮面
+|學習型實況者，常常在開頭表現慌張，然後才逐漸學習過關。
+|-
+|[http://dic.nicovideo.jp/a/p-p P-P]
+|足マリオ
+|用DDR玩動作遊戲的ドM。
+|-
+|[http://dic.nicovideo.jp/a/%E7%89%9B%E6%B2%A2 牛沢]
+|新網球 テニプリ
+|
+|-
+|[http://dic.nicovideo.jp/a/%E3%83%86%E3%83%A9%E3%82%BE%E3%83%BC テラゾー]
+|MGS:PW
+|主要實況動作遊戲，ドM。動畫標題前都會標註一個卍字。
+|-
+|[http://dic.nicovideo.jp/a/%E3%81%B5%E3%81%85 ふぅ]
+|黑暗靈魂
+|黑暗靈魂藝人。
+|-
+|[http://dic.nicovideo.jp/a/yuke yuke]
+|[[東方Project]]
+|從星蓮船開始入坑的古參東方實況主，目前從星蓮船至鬼形獸為止的所有正作皆完成Lunatic &amp; Extra難度&lt;br&gt;除了本篇的實況之外，還會自制如《這樣的東方才不要》、《東方初見殺》等[[吐槽]]影片&lt;br&gt;&lt;s&gt;結果有兩段吐槽在輝針城兌現了，yuke你看看你&lt;ref&gt;順便一提yuke氏後來還挑戰了到紺珠傳為止的全作品Lunatic無接關車輪戰，就輝針城在五面正邪戰翻車，其他都有到達六面或全破&lt;/ref&gt;&lt;/s&gt;&lt;br&gt;&lt;s&gt;然後到了紺珠傳又慘遭地獄妖精初見殺，yuke你(ry&lt;/s&gt;&lt;br&gt;&lt;s&gt;本命似乎是輝針城的一面若鷺姬&lt;/s&gt;
+|-
+|[https://www.youtube.com/user/shuuya007 しゅーや]
+|[[星之卡比]]
+|
+|-
+|[https://www.youtube.com/user/kouzakihikaru 死神]
+|[[神奇寶貝|ポケ鬼]]
+|擅長聲線切換。
+|-
+|[http://dic.nicovideo.jp/a/%E3%81%9F%E3%81%A0%E3%81%A6%E3%82%8B ただてる]
+|信長之野望 天翔記
+|斬　首。砍頭後喝的茶格中有別
+|-
+|[https://www.youtube.com/user/norunine 兄者弟者]
+|ModernWarfare2
+|由兄者(實兄，代表色藍)、弟者(實弟，代表色紅。頻道主要維護者)和第三人おついち(代表色綠)組成的遊戲實況團隊。最初以FPS為主，近期也開始玩恐怖遊戲。由於弟者聲音與聲優大塚明夫非常相似，因此很多人衝著聽他被嚇到的叫聲而來。三人因實況遊戲出名，加上各自的聲線都與聲優相似，還曾為遊戲配音過。
+|}
+
+=== 歐美 ===
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!暱稱 !! 代表作 !!  備註
+|-
+|[https://www.youtube.com/user/PewDiePie PewDiePie]
+|Happy wheels
+|最大的樂趣是看他的反應，包括驚嚇和[[壞掉|崩潰]]，&lt;s&gt;在過度驚嚇或憤怒時會噴出家鄉髒話&lt;/s&gt;&lt;ref&gt;PewDiePie本身是瑞典人，瑞典語才算是他的母語&lt;s&gt;，一般人在過度驚嚇或憤怒時會說出自己的母語也很正常不過（？）&lt;/s&gt;&lt;/ref&gt;&lt;br&gt;曾為Youtube點閱率最高的頻道，甚至因點閱數累積廣告收入成為自僱型網路藝人
+|-
+|[https://www.youtube.com/user/markiplierGAME Markiplier]
+|[[Five Nights at Freddy's]]
+|FNaF的耶穌&lt;ref&gt;出自[[誠實預告系列|誠實遊戲預告]]談《FNaF3》中對他的稱呼&lt;s&gt;，本人就是自封為王&lt;/s&gt;&lt;/ref&gt;&lt;s&gt;，\[[顏藝]]和眼藝滿分!/&lt;/s&gt;&lt;br&gt;另外最大亮點和上面那位一樣，&lt;s&gt;以失智的表情為賣點。&lt;/s&gt;&lt;br&gt;&lt;s&gt;經典名句:餵我的乳頭!!!(完全無誤)&lt;/s&gt;&lt;ref&gt;出自《Super Mario Maker》中失敗時說話&lt;/ref&gt;
+|-
+|[https://www.youtube.com/user/WiiRikeToPray Wiiriketopray]
+|瑪利歐系列
+|歡樂4P基友團。
+|-
+|&lt;s&gt;上帝&lt;/s&gt;
+|《[[Twitch Plays Pokemon]]》系列
+|&lt;s&gt;事實上玩的不是他而是猴群。&lt;/s&gt;
+|-
+|[https://www.youtube.com/user/birgirpall BirgirPall]
+|《戰地風雲》系列
+|島上暱稱「C4哥」，遊戲風格相當無厘頭。實況作品動作射擊類佔多數。&lt;br&gt;近來主要作品風格改為和他的好&lt;s&gt;基&lt;/s&gt;友Banzaii研究如何把遊戲玩出各種匪夷所思的glitch的We Broke系列。 
+|-
+|[https://www.youtube.com/user/VanossGaming Vanoss]
+|GTA5
+|經常和他愉快的夥伴們進行各種奇怪規則的競賽以考驗觀眾的腹筋。
+|-
+|[https://www.youtube.com/CaptainSparklez CaptainSparklez]
+|[[Minecraft]]
+|以《Revenge》、《Fallen Kingdom》等改歌MV開啟YT生涯，其他著名系列有Mianite、飢餓遊戲等等
+|-
+|[https://www.youtube.com/channel/UC3tNpTOHsTnkmbwztCs30sA Northernlion]
+|異塵餘生：新維加斯
+|&lt;s&gt;北獅&lt;/s&gt;，最大特色是不僅熟悉3A大作，也擅長發掘各種不為眾人知的獨立遊戲。
+|}
+
+== 連結 ==
+* [[KomicaWiki]]條目
+**[[網路評論名人]]
+** [[MSSProject]]
+
+== 備註 ==
+&lt;references /&gt;
+{{pcomment|section=1}}
+[[Category:遊戲]]

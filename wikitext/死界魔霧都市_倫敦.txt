@@ -1,0 +1,77 @@
+{{h0|倫蒂尼恩的騎士}}
+[[File:死界魔霧都市banner.png|500px|center]]
+== 概要 ==
+[[File:死界魔霧都市headline.jpg|500px|center]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+! 特異點編號
+| 第四特異點
+|-
+! 時代
+| A.D. 1888
+|-
+! 人理定礎值
+| A-
+|-
+! 地點
+| 大英帝國倫敦
+|-
+! 導航角色
+| [[Mordred_(Fate)|倫蒂尼恩的騎士]]&lt;ref&gt;（ロンディ二ウムの騎士），ロンディニウム（Londinium）是拉丁語中的倫敦&lt;/ref&gt;
+|-
+! 通關後贈送角色
+| [[Jekyll &amp; Hyde (Fate)|善惡的鬥爭]]
+|-
+! 劇本作者
+| 櫻井光
+|}
+
+* Fate/Grand Order第一部第四章的故事。
+
+== 故事 ==
+[[File:死界魔霧都市prologue.png|500px|center]]
+
+== 本節登場主要角色 ==
+
+=== 我方勢力 ===
+
+* [[Mordred_(Fate)|莫德雷德]]
+
+* [[Jekyll &amp; Hyde (Fate)|亨利·傑奇]]
+
+* [[Hans Christian Andersen (Fate)|安徒生]]
+
+* [[William Shakespeare (Fate)|莎士比亞]]
+
+* [[黑方Berserker (Fate/Apocrypha)|弗蘭肯斯坦]]
+
+* [[坂田金時 (Fate)|坂田金時]]
+
+* [[玉藻前 (Fate)|玉藻前]]
+
+=== 敵方勢力 ===
+
+* [[Von Hohenheim Paracelsus (Fate)|P]]
+
+* [[Charles Babbage (Fate)|B]]
+
+* [[間桐臟硯|M]]
+
+* [[Mephistopheles (Fate)|梅菲斯特]]
+
+* [[Nursery_Rhyme_(Fate)|童謠]]
+
+* [[Jack_the_Ripper_(Fate%EF%BC%8EAssassin)|開膛手傑克]]
+
+* [[Nikola_Tesla_(Fate)|尼古拉·特斯拉]]
+
+* [[Saber_(Fate/stay_night)|阿爾托莉亞·潘德拉貢（Alter）]]
+
+* [[Solomon (Fate)|所羅門]]
+
+== 關聯條目 ==
+{{Fate/Grand Order章節}}
+
+== 備註 ==
+&lt;references /&gt;
+[[Category:Fate/Grand Order劇情]]

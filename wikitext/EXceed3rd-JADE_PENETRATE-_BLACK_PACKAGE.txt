@@ -1,0 +1,319 @@
+{{小寫標題}}
+{{h0|eXceed3rd-JADE PENETRATE- BLACK PACKAGE/超越者 第三部-魔王爭奪戰-黑標版/イクシード3-ジェイドペネトレータ-ブラックパッケージ}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目歡迎有興趣的朋友加以補完。 
+|-
+| 上一部：[[eXceed2nd-VAMPIRE REX-]] 
+|-
+| 下一部：{{censored|eXceed4th}} 
+|}
+[[File:img9776.jpg|center]]
+
+
+== 概要 ==
+* 又稱翡翠擊破，為[[天然素材（てんねんそざい）|天然素材]]開發，eXceed系列的第三作，同人的彈幕STG
+** 初出為C72版，後來重製成C77版（BP），並追加新角色
+** 最後收錄到CAPCOM的「The eXceed Collection」中
+** 本條目與BP版一併介紹（劇情設定無多大差異，但遊戲內容不同）
+
+=== 系統 ===
+
+* C72版
+** 類似[[東方]]，以收集道具來增加子機（Dragon），最多為五隻
+** 低速模式時可以集中攻擊目標
+** Boss戰時，畫面下方會自動標示Boss位置，途中還會有雜魚增援
+** 有特殊力場，撞到敵人不會產生傷害
+
+* C77版追加：
+** 自機以擦彈的方式累積計量表，再以特殊鍵的方式攻擊
+** 道具而能自動收集，有自動Bomb的設定
+** 彈速有減慢（降低難度），Boss的招式名從日文改成英文
+** 若達成條件，能進入EX關卡
+
+==故事 ==
+* C72版：
+ ~魔王選拔大會（予備戰） 規則~
+ 
+ 由『亂魔城』（パンデモニウム/Pandemonium）舉辨
+ 限於「貝爾菲格爾學園」（ベルフェゴール/Belphegor）的學生參賽
+ 種族身份、性別、學年不限，但要達到「魔導士」（ウィザード）等級
+ 試驗方式則是採「Battle Royal」（混合戰）形式，
+ 使用魔法或遺物兵器戰鬥是可行的，若中途負傷、死亡請自行負責
+ 地點從學園出發，到達隣國レヴィアタン的古代遺跡-「地獄之門」
+ 最先到達的學生為優勝者
+ 
+ 死都貝爾菲格爾魔法學園-希魯德雷校長
+
+* C72、C77共通
+ 魔界
+ 有能力在戰鬥中勝出，才能獲得絕對權利的魔法世界
+ 在這裡各種族為了生存而鬥爭，變成戰亂之地
+ 因此才出現能治理世界的「七人魔王」
+ 魔王就是法規之理的代表
+ 他的存在若是和神同等時-也就是魔界中最強的證明
+ 
+ 主角，龍族名門-琳德浦路姆家的蕾茵，想要以「優秀的魔王」為目標
+ 但是魔王只有七位，除非有人退出或其它原因讓位，否則是沒機會的
+ 以及要超越同為龍族血統，身為天才魔導士的姐姐-賽蕾史堤亞
+ 總算，到了「魔王選拔大會」的時刻，同時也是姐妹之間對決的舞台
+ 
+ 「一直在等這個時候，世界『最強』只有一個人就夠了！」
+
+==登場人物 ==
+* 在故事中被稱為「實力者」
+
+===自機 ===
+
+{{clr}}
+[[File:img9777.jpg|right|250px]]
+* 蕾茵‧琳德浦路姆/レイン・リンドブルム/Rain（Rayne） Lindwurm（CV：遠藤沙哉）
+** 死都貝爾菲格爾魔法學園的學生
+** 宿有龍之血的龍族後裔
+*** 龍族-琳德浦路姆&lt;ref&gt;為德國傳說中的一種噴火龍&lt;/ref&gt; 家，為歷史中魔王出身的名門之一
+** 擁有經歷多少攻擊也不會消滅的強韌肉體
+** 以及幾次失敗都能爬起來的不屈精神
+** 背上的龍之翼會隨著勝利而成長
+** 對親姐姐賽蕾史堤亞，有著很強的對手意識
+** 日版的英文為Rain，美版則是Rayne，&lt;s&gt;直接意譯的話叫作「雨龍」&lt;/s&gt;
+** &lt;s&gt;[[仮面ライダーウィザード|龍型Phantom，宿主為操真晴人]]&lt;/s&gt;
+** &lt;s&gt;[[桂言葉|使用的武器是刀子，特殊攻擊是「鮮血的結末」]]&lt;/s&gt;
+** 專用曲：[http://www.youtube.com/watch?v=gUZVglcDQXE 「Wind Wing」]
+* 魔法
+** 子機：『幼生五色龍』（プチティアマット/PetitTiamat）
+** 特殊攻擊：『灼氣擊』（バーンエアレイド/Burn Air Raid）
+** Bomb：『龍騎兵轟&lt;s&gt;核&lt;/s&gt;爆』&lt;ref&gt;C72的Bomb，有類似放射能的標誌&lt;/ref&gt; （ドラグーンデトイション/Dragoon detonation）
+
+===Stage Boss ===
+
+{{clr}}
+[[File:img9778.jpg|right|250px]]
+* 露‧雪兒/ルゥ・シェル/Lugh Ciel&lt;ref&gt;意為凱爾特神話的神，&lt;s&gt;名字直接意譯的話叫作「彩虹之神」&lt;/s&gt;&lt;/ref&gt;（CV：[[田村由香里|田村ゆかり]]）
+** 魔法使族的人類
+** [[仮面ライダーフォーゼ|夢想和現實比起來，還是友情比明天的飯還重要]]
+** 擅長討好學園實力者們的小惡魔性格
+** C72使用星光性質的魔法，C77則改成火焰系
+** &lt;s&gt;[[高町奈葉|時空管理局的白色冥王]]&lt;/s&gt;
+** 專用曲：[http://www.youtube.com/watch?v=ha_AavMVGrc 「White Beelzebub」]
+* 魔法（C72）
+** 星塵階層/スターダストレイヤー
+** 側風打擊/サイドワインドストライク
+** 黃道之星/ゾディアックスター
+** 反消術/デスペルカウンター
+** 虐殺之星/ジェノスター&lt;ref&gt;Senocide Star&lt;/ref&gt;
+* 魔法（C77）
+** 雙重聖焰/Twin Seraphim
+** 星霞戰槍/Starmist Lancer
+** 天國浮雲/Celestial Float
+** 聚氣彗星/Cluster Comet
+** 聚魔火鳥/Despell Cluster Exerion
+
+{{clr}}
+[[File:img9779.jpg|right|250px]]
+* 沙莉亞貝爾‧獨騎&lt;ref&gt;Orphan knight意為「孤獨的騎士」&lt;/ref&gt;/サリアベル・オルファンナイツ/Sriabelle Orphanknight（CV：榊原ゆい）
+** 所有種族中最為好戰的獸人族（貓科）
+** 不斷在劃分地盤與其他學生打架鬧事，因此常常被停學
+** 在戰鬥中能發揮在體能特化的能力
+** 名字Sriabelle日版則少了le（念法不變）
+** 使用地獄魔法，名字都參考自重金屬樂團&lt;s&gt;（所以佔領地盤是為了玩音樂）&lt;/s&gt;
+** &lt;s&gt;[[超級機器人大戰/原創角色|駕機為斯卡利昂，使用精神「直擊」來痛毆Boss]]&lt;/s&gt;
+** 專用曲：[http://www.youtube.com/watch?v=mugK4Y-l4TM 「High Tension Beet」]
+* 魔法（C72）
+** 屠殺的新生日/ブッチャード・アット・バース
+** 墜落的天使們/エンジェルス・フォール・ファースト
+** 奴隸控制者/エンスレイヴド
+** 霧都魔堡/デイム・ボガー
+** 魔王撒旦/アークエネミー
+* 魔法（C77）
+** 混沌衝擊波/Chaos Blaster
+** 放射擊/Discharge
+** 死亡燒夷彈/Napalm Death
+** 霧都魔堡/Dimmu Borgir
+** 越死生命體/Deathrash Bound
+
+{{clr}}
+[[File:img9780.jpg|right|250px]]
+* 季/ギー/Giee（CV：ひと美/北都南）
+** 希魯德雷的女兒，擅長黑魔法
+** 從小獲得被稱為「大魔法師」（メイガス）的最高術士等級
+** 希魯德雷/ジルドレイ/Gilles de Rais
+*** 就是前兩作都有登場，穿鎧甲的那位Boss，&lt;s&gt;人妻&lt;/s&gt;
+*** 確認為七人魔王之一，還任職於貝爾菲格爾魔法學園當校長（模樣會不會像女兒?）
+** 使用黑魔法，名字都跟德國的神話、軍事兵器相關&lt;s&gt;（所以是懂軍武的德國人?）&lt;/s&gt;
+** 專用曲：[http://www.youtube.com/watch?v=Tn8Dr-roOr8 「Feast of Frenzy」]
+* 魔法（C72）
+** 亡靈/ゲシュペンスト
+** 楔形戰車/パンツァーガイル
+** 冬之死神/フリーラーレッスル
+** 嘲笑的混沌/バルトアンデルス
+** 諾茵堤拉/ノインテイラー
+* 魔法（C77）
+** 突撃步槍/Sturmgewehr
+** 黑十字軍/Luftwaffe
+** 和平的勝利者/Siegfried
+** 俯衝轟炸機/Stuka
+** 永劫破壞/Ewigkeit
+
+{{clr}}
+[[File:img9781.jpg|right|250px]]
+* 伊莉雅絲‧萊均蕾芙/イリアス・レギンレイブ/Irias Reginleif（CV：[[水樹奈奈|水樹奈々]]）
+** 學園No.2的實力者
+** 為曾經創造出強大的「禁咒法」，而領悟並拋棄世俗的妖精族後裔
+** 對家世感到厭倦的她，以「經歷謹慎而清楚的人生」為座右銘
+** 能在森林自由飛行，正值血氣方剛的180歲
+** 戰鬥中的台詞和前作的邦泉雅同調
+** 使用的魔法，名字都參考自古代和現代兵器&lt;s&gt;（所謂禁咒法根本是高科技吧）&lt;/s&gt;
+** &lt;s&gt;[[星名歌唄|很會唱歌]]、[[菲特|不管到那都還是No.2]]&lt;/s&gt;
+** 專用曲：[http://www.youtube.com/watch?v=NG26zQWc7o8 「Fierce Fight」]
+* 魔法（C72）
+** 虛空殺手/ストレイヤーヴォイド
+** 小型手槍/デリンジャー
+** 船底水雷/リプペットマイン
+** 流星式/グロースターミーティア
+** 飛拳/フリーガーファウスト
+* 魔法（C77）
+** 旋風波/Whirlwind Wave
+** 黎明之錘/Dawn Hammer
+** 古代齒輪/Ancient Cogwheel
+** 流星式/Gloster Meteor
+** 倒數的屠殺/Slaughter Algorithm
+
+{{clr}}
+[[File:img9782.jpg|right|250px]]
+* 賽蕾史堤亞‧琳德浦路姆/セレスティア・リンドブルム/Celestiar Lindwurm（CV：[[伊藤靜|伊藤静]]）
+** 龍族，蕾茵的姐姐
+** 在剛入學時，有能力一次將眾多強大實力者擊倒，而成為第一
+** 因此流傳此軼聞的天才魔導士
+** 為新魔王的最有實力候補之一
+** 被打倒一次之後，有「光翼型態」，算是招式最多的Boss
+** C72能防禦妹妹的Bomb，C77則不能，變成對妹妹放水的好姐姐&lt;ref&gt;不管難度，自機擦彈的機會很多&lt;/ref&gt;
+** C72結局後成為妹妹的女僕 [http://wiki.komica.org/pix/img9783.jpg （無誤）]
+** 使用的魔法，大部份和抗神、[[成句/絕望啊！我對OOO絕望啊！|絕望]]有關（代表他逆天的實力）
+** &lt;s&gt;[[神裂火織|英國教會的魔術師，魔法名為Salvere000，擅長用日本刀和鋼絲]]&lt;/s&gt;
+** &lt;s&gt;[[桂雛菊|生徒會長]]&lt;/s&gt;
+** 專用曲：[http://www.youtube.com/watch?v=SrEHyYlJjVA 「Intersect Thunderbolt」]
+** 專用曲：[http://www.youtube.com/watch?v=QKT8SPh-amQ 「The Fate of」]
+* 魔法（C72）
+** 落葉暴風雨/フィリスシエラ
+** 錫安的勝利之劍/ザイオンエヴァンテイン
+** 神聖終焉/セイクリッドターミネーター
+** 瓦依歐槍機/ヴァイオトリガー
+** 霧神之桿/シャンクスオブゴットヘイズ
+* 光翼狀態
+** 亂氣流/ターヴュランス
+** 浮揚術/レヴィテイト
+** 異相救世主/ファニフェイスドメサイア
+** 三重暴風雨/トリニティックテンペスト
+** 終極兵器/アルティメットイクストラクター
+* 魔法（C77）
+** 終焉海洋/Demise Mare
+** 殊死燃焰/Burning Desperate
+** 超聖終結/Sacred Ex Terminator
+** 厄運吞噬者/Doom Devour
+** 萬神殿群/Pantheon Swarm
+* 光翼狀態
+** 龍騎風暴/Dragoon Tempest
+** 大屠殺之天/Carnage Heaven
+** 疼痛激增/Enhance Pain
+** 熔岩流海/Magma Diving
+** 逆神者/God Sacrilege
+
+===BLACK PACKAGE Extra ===
+{{clr}}
+[[File:img9784.jpg|right|250px]]
+* 蕾美蒂・不死領主/レメディ・アンデットロード&lt;s&gt;バットアンデッド&lt;/s&gt;/Remedy UndeadLord（CV：[[齋藤千和]]）
+** 吸血鬼族，前作提到的不死王
+** 魔王選拔大會中突然出現的亂入者&lt;ref&gt;若達成條件的話，四面就會出現&lt;/ref&gt;
+** 老成的口氣及傲慢的態度，感覺不像一位小女孩的性格
+** 目的不明，無緣無故地要蕾茵和她戰鬥
+** &lt;s&gt;其實蕾茵長得跟她滿像的&lt;/s&gt;&lt;ref&gt;像是BP商品封面，會容易搞不清楚那一位是蕾茵，連OST封面以為是蕾茵份成蕾美蒂登場&lt;/ref&gt;
+** 使用的魔法為歌德蘿莉風（偏黑色系為主）
+** 能對Bomb展開結界（因此Bomb對她無效）
+** 結果到了Ex關卡（一年後）才揭開真正的意圖↓
+** {{censored|活了5000年，肉體不能再維持下去，必須在死之前，把王位傳給她認同其實力的人}}
+** {{censored|Ex關結束，將王位傳給蕾茵後就化為光暈消散而去（死亡，算是一種Bad End）}}
+** &lt;s&gt;[[曉美焰|擅長使用軍火的魔法少女]]&lt;/s&gt;
+** &lt;s&gt;[[仮面ライダー剣|52隻Undead中的鑽石8，在第一集被打倒]]&lt;/s&gt;
+** 專用曲：[http://www.youtube.com/watch?v=H3SwtCjdHyM 「Providence」]
+* 魔法（4面）
+** 魔幻百合/Magic Lily
+** 螺旋迷魂園/Spiral Maze Garden
+* 魔法（Ex）
+** 九條尾巴的貓/Cat Of Nine Tail
+** 騙術/Trickster
+** 粉色大結局/Pink Grootenddorst
+** 百臂巨人/Hecatoncheir
+** 活死人形/Living Dead Doll
+** 麗城/Belvedere
+** 快速銀彈/QuickSilver
+** 巨大白蔷薇/Rosa Gigantea
+** 黑暗幻想/Dark Fantasy
+
+==隱藏要素 ==
+* Extra進入條件（BP版限定）
+** 無接關全破一次（不限難度），再從NORMAL開始
+** 1到3面打中Boss時不能Miss，不能使用Bomb
+** 到4面時蕾美蒂就會出現，請在時限內打倒她（一樣不能Miss，不能使用Bomb）
+** 若成功時，蕾美蒂就會邀請蕾茵到「終焉的大地」（ヒュペルボレイオス/Hyperboreios）
+*** 到Ex關卡時，不能Credit
+
+* （1.005版/Steam版測試後確認條件）
+** 完全不能Credit（接關） 4面前Credit蕾美蒂就不會出現 打倒蕾美蒂後Credit則Ex關卡不會出現
+** 不能開啟自動Bomb（開啟後就算在四面打倒蕾美蒂 也不會出現Ex關卡）
+** 手動Bomb除2面和3面中Boss及4面蕾美蒂外並無限制
+** 對於擊破時倍率沒有任何限制
+*** 對1~5面Boss可Miss也可Bomb，不確定一定要在時限內擊破 但請以時限內擊破為目標
+
+==[http://flatsoftware.blog.shinobi.jp/Entry/52/ 角色人氣投票] ==
+* 當時由天然素材舉辦的投票，排名如下：
+** 1名.露‧雪兒（67票）
+** 2名.伊莉雅絲（48票）
+** 3名.蕾茵（42票）
+** 4名.季（39票）
+** 5名.賽蕾史堤亞（33票）
+** 6名.沙莉亞貝爾（21票）
+
+===角色投票 ===
+* 包含前作人物，選出你最喜歡的角色
+
+{{vote|section=1}}
+
+==Stage ==
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! Stage !! 關卡標題 !! Boss 
+|-
+| 1 || Little Witch || ルゥ 
+|-
+| 2 || Duel Beast || サリアベル 
+|-
+| 3 || Devil Nest || ギー 
+|-
+| 4 || Fairy Tale || イリアス 
+|-
+| 5 || Dragon Breath || セレスティア 
+|-
+| Ex || The earth of end "HYPERBOREIOS" || レメディ 
+|}
+
+== 參考資料 ==
+* [http://exceedseries.com/exceed-3rd-jade-penetrate-black-package-2 eXceed3rd（美版官網）]
+* [http://www.tennen-sozai.com/eXceed3rd/ eXceed3rd（日版官網）]
+* [http://www.tennen-sozai.com/eXceed3rd-BP/ex3bp_Main.htm eXceed3rd BP（日版官網）]
+* [[Wikipedia:EXceed_(series)|eXceed series（英文Wiki）]]
+* [http://yasshi0916.web.fc2.com/exceed3rdkou/koutop.html eXceed3rd攻略資料]
+* [http://yasshi0916.web.fc2.com/exceed3rdbp/kihon.html eXceed3rd攻略資料（BP）]
+
+== 低調 ==
+* [http://howfile.com/dir/folder/jjou/26d825d5.html eXceed 3rd（C73版）]
+* [http://howfile.com/file/jjou/64a4ee5c/ eXceed 3rd（C77版BP）]
+* [http://doujingravity.blogspot.tw/2010/09/exceed-3rd-jade-penetrate-black-package.html eXceed 3rd（OST）]
+* [http://doujingravity.blogspot.tw/2010/10/exceed-2nd-vampire-rex-original.html eXceed 3rd BT（OST）]
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+&lt;references/&gt;
+
+[[分類:遊戲]]

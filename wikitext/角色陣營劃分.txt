@@ -1,0 +1,355 @@
+{{h0| 角色陣營劃分/陣營九宮格 (Alignment Chart) }}
+
+{{PostEditing}}
+
+== 解說 ==
+* 起源為TRPG系列《龍與地下城》中對不同的角色職業，依照各職業之行為特性所作的不同分類：&lt;br&gt;按對人利害關係的傾向，可分為「善良（毫無保留的利他）」、「邪惡（無同情心的害人）」和「中立（對善惡兩方都缺乏認同，根據個人關係去幫人或害人）&lt;ref&gt;有些則代表對平衡觀念的主動態度，試圖保持善惡的平衡&lt;/ref&gt;」&lt;br&gt;又按對&lt;s&gt;政治立場&lt;/s&gt;社會規則的看法分為「守序（守信在先、服從權威、絕對的集體主義）」、「混亂（自由至上、反抗權威、徹底的個人主義）」和「中立（中間路線，尊重權威但不刻意遵守或反抗）&lt;ref&gt;有少數一些中立者認為，守序與混亂這兩個極端都有本身的盲點和缺點，所以都不適當&lt;/ref&gt;」&lt;br&gt;兩組交錯成共3×3=9大陣營。
+** 第四版省略為「守序善良&gt;善良&gt;中立&gt;邪惡&gt;混亂邪惡」。
+*** 第五版（D&amp;D Next）又讓九陣營回來了，不過簡化了每個陣營的解釋，同時增加了無法理解道德的生物所屬的「無陣營」，讓陣營總數增加至十。
+** 原本是為了讓[[TRPG]]的玩家扮演角色時的個性參考。並非為了解釋各種作品裡複雜的角色們而生的學說。
+*** 事實上，龍與地下城根本不歡迎玩家對陣營做深入的討論。這是個遊戲，不是哲學辯論會。&lt;ref&gt;BoED（Book of Exalted Deeds）一書中提到邪惡的行為就是邪惡的，無論它可能造成什麼善良的結果，同時在全書中反覆強調這個行為主義。&lt;/ref&gt;
+*** 但是九宮格交錯的魅力讓大眾持續灌水，至今已有不少擴大解釋。
+*** 最大的爭議在中立和混亂的定位上。照原本設定來看，常常遊走兩端難以捉摸應該歸中立，但這和一般人的常識有出入，在望字生義下反而會認為應該算混亂，而中立則被看成和各方保持距離的中庸路線。
+*** 而嚴格來說，中立和混亂的主要分別是：混亂是&lt;b&gt;崇尚自由而反對或無視法律、規則&lt;/b&gt;；中立是&lt;b&gt;既不會主動破壞但不會積極維護法律、規則，依據環境態勢決定是否要遵守&lt;/b&gt;。
+* 很多人不知道的是，在出處的D&amp;D中，陣營是不因不同觀點改變的絕對值，不會因為很多人認為一件壞事是善就變成善，或認為違法的事是合法就變成合法。&lt;ref&gt;BoVD（Book of Vile Darkness）中提到預設規則是「客觀看待邪惡」，意即不會因為一個社群對善惡有不同的看法而改變善惡的定義。「主觀看待邪惡」屬於一種規則變體，書中同時提到使用這種規則變體將會帶來永無止境的爭論。&lt;/ref&gt;
+** 另外Type Moon的[[Fate/stay night]]雖然有著陣營的設定，不過&lt;b&gt;解釋與龍與地下城並不一樣，請不要當作參考。&lt;/b&gt;
+** 另外目前已有粉絲進行大幅度的擴展陣營以進行更細緻的分類，從5*5到11*11都有。
+*** 5*5添加了16個介乎於9種陣營的折衷陣營，包括了善良和中立之間的「道德」(Moral)，中立和邪惡之間的「不純」(Impure)，守序和中立之間的「社會」(Social)以及中立和混沌之間的「叛軍」（Rebel）。
+
+{|class="wikitable" style="margin:auto;"
+!&lt;b&gt;守序善良&lt;/b&gt;
+!&lt;b&gt;中立善良&lt;/b&gt;
+!&lt;b&gt;混亂善良&lt;/b&gt;
+|-
+|認為規則是對大家好並遵守，同時傾向於在規則下行善
+|不會主動破壞規則，又有自己的善良原則
+|無視規則或認為規則是不必要的，會為了行善而不擇手段或破壞規則
+|-
+|儒家、康德主義&lt;s&gt;、[[Artoria Pendragon (Fate)|大食王]]&lt;/s&gt;
+|墨家、平等主義者&lt;s&gt;、[[Alexander the Great (Fate)|亂入王]]&lt;/s&gt;
+|人權維護者、功利/效益主義&lt;s&gt;、[[Medusa (Fate)|美杜莎]]&lt;/s&gt;
+|-
+|&lt;s&gt;如果你繼續XX，我就要YYZZ&lt;/s&gt;
+|&lt;s&gt;哇！真漂亮的XX！下次再YY吧！&lt;/s&gt;
+|&lt;s&gt;我他媽的要XXYYZZ&lt;/s&gt;
+|-
+!&lt;b&gt;守序中立&lt;/b&gt;
+!&lt;b&gt;絕對中立&lt;/b&gt;
+!&lt;b&gt;混亂中立&lt;/b&gt;
+|-
+|只看規則作事，不管善惡
+|守中庸之道，不判斷對錯
+|十分重視個人自由，行為難以預測又自成一套
+|-
+|法家，契約主義&lt;s&gt;、[[Cú Chulainn (Fate/stay night)|幸運E]]&lt;/s&gt;
+|道家、原則主義&lt;s&gt;、[[Emiya (Fate/stay night)|專業人士]]&lt;/s&gt;
+|無政府主義&lt;s&gt;、[[Hēraklēs (Fate)|狂戰士]]&lt;/s&gt;
+|-
+|&lt;s&gt;我要求XXYY！重覆一次！我要求XXYY！&lt;/s&gt;
+|&lt;s&gt;……&lt;/s&gt;
+|&lt;s&gt;我要怎麼XX？我要怎麼知道YY？&lt;/s&gt;
+|-
+!&lt;b&gt;守序邪惡&lt;/b&gt;
+!&lt;b&gt;中立邪惡&lt;/b&gt;
+!&lt;b&gt;混亂邪惡&lt;/b&gt;
+|-
+|以利益、偏見為前提下遵守規則，或是有其行惡原則、目的
+|需要理由或便利而行惡，不喜歡規則又不熱衷於製造混亂
+|視法律、規則為無物，唯恐天下不亂並以此為樂
+|-
+|梟雄、法西斯主義&lt;s&gt;、政客、[[言峰綺禮|愉悅神父]]&lt;/s&gt;
+|典型的不法之徒&lt;s&gt;、[[Medea (Fate)|紫色巫婆]]&lt;/s&gt;
+|[[反社會型人格異常|反社會主義]]&lt;s&gt;、[[Gilles de Rais (Fate)|超COOL變態元帥]]&lt;/s&gt;
+|-
+|&lt;s&gt;XX是YY的一環，不爽不要ZZ&lt;/s&gt;
+|&lt;s&gt;別再靠夭我XX了，我是不會YY的&lt;/s&gt;
+|&lt;s&gt;吃我ㄉXX吧！&lt;/s&gt;
+|}
+{| class="wikitable" style="margin: 1.5em auto;"
+!無陣營
+|-
+|沒有足夠的智慧去判斷對錯
+|-
+|野生動物&lt;s&gt;、腦殘&lt;/s&gt;
+|-
+|&lt;s&gt;汪！汪！&lt;/s&gt;
+|}
+
+== [http://www.wizards.com/default.asp?x=dnd%2Fdnd%2F20001222b 線上陣營問答]與問題翻譯 ==
+*由出版DnD的海岸巫師/威世智(Wizard of Coast)出版的官方問答，可用於判斷角色的陣營。
+*要注意的是這個問題的用意是要給玩家在判斷&lt;b&gt;角色陣營&lt;/b&gt;時給個參考，所以有些問題的脈絡得從中古歐洲或一般奇幻世界的角度下去理解。
+*以下是翻譯：
+
+{{hideh|
+===與家庭的關係 Relationship to Family===
+}}
+*家中某些長輩在其他家人面前表示對你的不贊同，你會？  Family elders are expressing disapproval of you to the rest of the family. Do you:
+**接受指教並改弦易轍 Accept the criticism and change your ways
+**嘗試與長輩達成共識 Seek a compromise with the elders
+**無視他們的輕蔑並汙名化那些長輩 Besmirch the reputation of the elders as you ignore their scorn
+**盡一切手段讓長輩們閉嘴 Silence the elders any way you can
+*在家人急需救助的時候，你是否願意放棄你的大好前程來幫助他們？  Would you give up a promising career to aid the family in time of need?
+**想都不用想就說好 In a heartbeat
+**當然，但還是會有點不甘願 Yes, with some reluctance
+**除非我確定我能在不久之後重回職場 Only if I was certain I'd be able to return to my career soon
+**不要 No
+*你是否會為了事業進展而背叛家人？ Would you betray a family member to advance your own career?
+**當然，而且毫無罪惡感 Yes, without a twinge of guilt
+**當然，只要我能不被發現 Yes, if I could do it secretly
+**我會嘗試抵抗這種誘惑 I'd resist the temptation
+**我覺得這個主意本身就叫人憎惡 I find the very idea abhorrent
+*你是否尊敬家族中的領袖？ Do you respect the leaders of your family?
+**他們的金玉良言指導著我的一舉一動 Their words guide my actions
+**他們是我的楷模 They're role models for me
+**他們常和我的人生脫節 They're often out of touch with my life
+**他們根本就和現實脫節 They're out of touch with reality
+*如果你的家族幫你安排了一場婚姻，對象卻令人作嘔，你會？ If your family had arranged your marriage to someone loathsome, would you:
+**熬過去，服務家族乃是我的榮耀 Go through with it, proud to serve your family
+**同意，把你的不滿埋入心底 Agree, hiding your reluctance
+**私下動手腳破壞聯姻 Subtly work against the union
+**落跑 Flee
+*你跟某位家族成員素有嫌隙。當他將死之際，他希望與你和解。你會？ You're estranged from a family member. On his deathbed, he seeks reconciliation. Do you:
+**和他聊聊，但堅守你的立場 Speak to him, but hold your ground
+**拒絕和他對話 Refuse to speak to him
+**毫無舊怨地討論你們之間的分歧 Discuss your estrangement openly and without rancor
+**主動尋求和解，並細心聆聽他的遺言 Actively seek reconciliation, and heed his dying words
+{{hidef}}
+
+{{hideh|
+===與朋友的關係 Relationship to Friends===
+}}
+*一個有權有勢但卻腐敗的法官要用錢財讓你作對你朋友不利的證。你會？ A powerful but corrupt judge offers you wealth if you'll testify against a friend. Do you:
+**收錢並陷友於不義 Condemn your friend and take the money
+**收錢並作證，但盡可能讓你的證詞沒有效力 Take the money and testify, but try to keep your testimony ineffective
+**拒絕收錢和作證 Refuse the offer and refuse to testify
+**為你的朋友作證，無懼於結果 Testify on your friend's behalf, no matter the consequences
+*你會容易跟朋友很親近，或是與當中大多數人保持距離？ Do you become close to friends, or hold most people at a safe distance?
+**我有不少死黨 I have an abundance of close friends
+**我有一些死黨 I have some close friends
+**我有一兩個死黨 I have few close friends
+**我試著疏遠他人 I try to keep people at a distance
+*你有背叛過朋友嗎？ Have you ever betrayed a friend?
+**我做過不只一次，而且我總能逃過後果 I've done so more than once, and I sometimes get away with it
+**我做過一次 I've done so once
+**我曾受過如此的誘惑，但總是下不了手 I've been tempted to do so, but I've never gone through with it
+**我從沒想過要幹這種事 I'd never contemplate such a thing
+*你如何看待與一位愛侶廝守一生這種事？ How do you view lifelong commitment to a single romantic partner?
+**我總在盼著這種戀情 I'm waiting to find such a romance
+**這種戀愛很理想－－如果有可能實現的話啦 Such a romance would be ideal -- if it's achievable
+**我擔心我會因此錯過其他的豔遇 I worry I'd miss out on what others have to offer
+**把自己跟另一個人死綁著？大錯特錯啊 Tie yourself to one person? Huge mistake
+*你會堅持要朋友還錢嗎？ Do you insist on repayment when lending money to friends?
+**是的，而且為了避免誤會我還會寫借據 Yes, and I write up a contract so there's no misunderstanding
+**是的，但我會試著讓條件彈性化 Yes, but I try to be flexible about the exact terms
+**不會，但如果能還當然是最好 No, although it's sure nice to be repaid
+**不會，他們欠我的是人情 No, they just owe me a favor
+*你跟兒時朋友還有聯繫嗎？ Are you still in touch with childhood friends?
+**有，而且我們時常聯繫 Yes, we correspond regularly
+**有，我們試著保持聯繫 Yes, we try to keep in touch
+**沒有，我太漂泊不定了 No, I move around too much
+**沒有，我跟他們已經毫無相似之處了 No, I don't have anything in common with them anymore
+{{hidef}}
+
+{{hideh|
+===與社區的關係Relationship to Community===
+}}
+*你會為了地方社區投入時間金錢嗎？ Do you donate time and money to improve the local community?
+**當然，社區所欲常在我心 Yes, the needs of the community are my top priority
+**會的，只要我自己的需求能滿足我就會盡可能地奉獻 Yes, I donate as much as I can once my own needs are met
+**沒有，我沒錢也沒閒 No, I don't have enough time or money to spare
+**沒有，我的社區只會浪費我的金錢與時間 No, my local community would be a waste of time and money
+*你的社區面臨了被入侵的威脅。你會？ Your community is threatened with invasion. Do you:
+**協助防禦，奮戰至死 Help defend it to your last breath
+**幫其他人搭建防線 Man the barricades with the rest of the community
+**情況不對就溜掉 Flee as soon as things look grim
+**與入侵者達成協議並當他們的間諜 Cut a deal with the invaders to act as a spy
+*如果你受了傷並需要緊急救助，你社區的人會幫助你嗎？ If you were injured and required immediate assistance, would members of your home community agree to help?
+**會的，因為他們知道我也會為了他們做一樣的事 Yes, because they know I'd do the same for them
+**會的，因為我還蠻受歡迎的 Yes, because I'm generally well liked
+**大概不會，因為我不受當權者的信任 Probably not, because I'm distrusted by the powers that be
+**絕對不會，我在這裡樹立了好些敵人 Definitely not. I've made some enemies here
+*你尊重社區的法律和執法當局嗎？ Do you respect the laws and authorities in the community?
+**是的，毫無疑問 Yes, without question
+**是的，他們大體上來說治理的不壞 Yes, they're generally the best way to govern
+**當它適合我的時候－－有些規定我實在不能苟同 When it suits me -- there are some laws I just don't agree with
+**我對搞執法的不感興趣，他們限制不了我 I don't pay attention to the authorities; they've got no hold on me
+*社區中人是否會害怕、躲避或嘲弄你？Do members of the community shun, avoid, or mock you?
+**當然，他們的小腦袋接受不了任何不正常的事 Yes, their small minds can't handle anyone outside the norm
+**有些人吧，畢竟我不總是能夠打成一片 Some do, because I don't always fit in
+**不會，我被當成是正常人 No, I'm generally seen as normal
+**不會，在鄉里中何謂正常是由我來定義的 No, I set the standard for what is normal in my community
+*你是否會代表社區的利益而在公眾前發聲或從政？ Would you stand for office or seek to represent the interests of the community in some public manner?
+**這是我的榮幸，我會快樂地接受 To do so would be an honor I'd joyously accept
+**當然，這是每個人的責任 Of course. It's everyone's duty to do so
+**除非沒有別的人選可以做這件事 Only if no one else could handle the job
+**不，我不想為了社區的福利負責 No, I don't want to be responsible for the community's welfare
+{{hidef}}
+
+{{hideh|
+===與王室和國家的關係 Relationship to King and Country===
+
+}}
+*你的國家受飢荒侵襲，你會？ Your country is wracked with famine. Would you:
+**與大家分享你擁有的食物 Share what food you had with others
+**自己盡可能的節食，剩下的拿去分享 Eat as little as possible yourself, and share the rest
+**為自己的生存而去偷食物 Steal what food you needed to survive
+**盡可能地大偷特偷食物，然後再用高價賣出 Steal as much food as possible, then sell it back to the community at a high price
+*如果有足夠的報酬，你會在你的國王杯中下毒嗎？ If offered enough money, would you slip a poison into your king's drink?
+**會的，而且我以前就幹過類似的事 Yes, and I've done similar things before
+**會的，只要我認為我不會被抓到 Yes, if I thought I could get away with it
+**不會，雖說這麼一大筆錢確實誘人 No, although a vast sum of money would tempt me
+**不會，我還會向國王警告這個陰謀 No, and I'd warn the king of the plot
+*一場瘟疫橫掃全國，你會？ A plague is sweeping across your country. Would you:
+**接下尋找解藥的艱辛任務 Undertake a dangerous mission to find a cure
+**盡你所能醫治病人 Heal the sick as best you can
+**迴避病人 Avoid contact with the sick
+**逃出國家 Flee the country
+*你是否尊敬本國的法律當局以及統治者？ Do you respect the lawful authority of the rulers of the land?
+**是的，女王萬歲！ Yes. Long live the queen!
+**是的，我們的統治者大體上來說公平且公正 Yes, our rulers are generally fair and just
+**不，統治者並不比任何人更好 No, a ruler is no better than anyone else
+**不，統治者注定被權力腐化 No, rulers are invariably corrupted by power
+*如果一個合理且有利的交易擺在你眼前，你是否會為了敵國當間諜？ If you were offered a reasonably lucrative deal, would you spy for a hostile foreign power?
+**會的，因為我的國家不會因為這點小事而被擊垮 Yes, because my nation could stand to be knocked down a peg
+**會的，國家機密對我來說沒什麼意義 Yes, because my nation's secrets mean little to me
+**不會，因為我可能會被逮到 No, because I might get caught
+**不會，因為我絕不會背叛國家對我的信任 No, because I'd never violate the trust my nation put in me
+*你是否會在契約或產權上仰仗國家執法？Do you rely on the government to enforce contracts and property rights?
+**會的，因為維持法治比任何私人糾紛都來的重要 Yes, because maintaining the rule of law is more important than any individual dispute
+**會的，因為法庭最適合仲裁此等糾紛 Yes, because the courts are best equipped to handle such disputes
+**你開什麼玩笑？國家連路都鋪不好呢 Are you kidding me? The government can't even pave roads
+**絕不。如果我連自己的東西都自保不了，那我就不該擁有它 Absolutely not. If I can't defend it myself, I don't deserve to have it
+{{hidef}}
+
+{{hideh|
+===關於犯罪以及懲罰 Thoughts on Crime and Punishment===
+}}
+*如果入獄了，你是否會為了逃獄傷害或殺害他人？ If imprisoned, would you injure or kill others to escape?
+**當然，誰叫他們把我關起來呢？ Yes. Serves 'em right for locking me up
+**當然，他們幹這行就知道有這種風險了 Yes. They knew the risks when they took the job
+**不會，除非只是些能很快痊癒的小傷 No, except for minor wounds that will heal easily
+**不會，那些守衛只是在盡自己的職責而已 No. Those guards are just doing their jobs
+*你是否接受一個貴族有權苛待自己土地上的農奴？Do you accept a noble's right to treat badly the serfs who work on his land?
+**會的，他們不是奴隸就已經夠幸運了 Yes. They're lucky they're not slaves
+**會的，因為有時恐懼能夠激勵他們 Yes, because sometimes only fear will motivate them
+**不能，貴族應該盡可能的實行仁治 No, nobles should rule as kindly as possible
+**沒有任何人「有權」苛待別人，沒有任何人 No one has any "right" to treat another badly. Period
+*你不小心犯罪了，你會？ You have accidentally committed a crime. Do you:
+**自首，並盡可能補償受害人 Confess, and attempt to make restitution to the victim
+**自首，並寄望法庭憐憫你 Confess, throwing yourself on the mercy of the court
+**把與你有關的證據藏起來，必要時撒謊 Hide your involvement, lying if you have to
+**嫁禍於人 Try to pin the crime on another
+*如果你有罪，你會自首嗎？ If guilty, would you confess to a crime?
+**會的，因為那是我的責任 Yes, because it is my duty to do so
+**會的，因為我可能可以因此減刑 Yes, because it might get me a lighter sentence
+**不會，讓有司證明我有罪吧 No, I'd make the magistrates prove my guilt
+**不會，而且我會嘗試「證明」我的清白 No, and I'd try to "prove" my innocence
+*如果被刑罰相逼，你還會表達激進的政治意見嗎？ Would you express a revolutionary political opinion if threatened with punishment?
+**會的，我寧可受刑也不會沉默。為革命奮起吧！ Yes, I'd rather be punished than remain silent. Up the revolution!
+**會的，總得有人說實話啊 Yes. Somebody's got to speak the truth
+**不會了，但我可能會私底下跟朋友講 No, although I might privately express my opinion to friends
+**不會了，犯不著為了政治而受苦 No, politics aren't worth getting worked up about
+*你在旅行時目睹了一場暴行。你被要求留下來作證，但這會嚴重耽誤到你的行程，你會？ While traveling, you witness an assault. You are ordered to testify, which will delay your travel significantly. Do you:
+**趁晚上溜出城鎮並迴避作證 Slip out of town at night to avoid testifying
+**說你什麼都沒看到 Deny you saw anything
+**不情願地留下、作證，然後離開 Remain reluctantly, testify, and leave
+**留下直到到結案以免需要近一步的證詞 Remain until the trial's conclusion in case further testimony is needed
+{{hidef}}
+
+{{hideh|
+===對商業以及經濟的看法 Thoughts on Business and the Economy===
+}}
+*如何最佳地運用財富？ What is the best use of wealth?
+**幫助困苦與不幸的人 To help the destitute and less fortunate
+**提供給有需要的親朋好友 Provide for the needs of friends and family
+**將自己維持在權勢的頂峰 To stay on top of the heap yourself
+**不只要把自己維持在權勢的頂峰，還要讓別人爬不上來 To not only stay on top, but keep others from climbing to your level
+*遇到乞丐的話，你會？ When confronted by beggars, do you:
+**慷慨地施捨 Give generously
+**普通地施捨 Give moderately
+**就施捨我不在意的那一點－－頂多一兩個銅板吧 Give only what I wouldn't miss anyway -- a copper or two at most
+**無視他們並走過去 Ignore them as you walk by
+*藉由魔法，你可以愚弄村里的商人讓他們以為你的銅板是金幣，你會？ By using magic, you could fool village merchants into thinking your copper pieces were made of gold. Do you?
+**我會幹下去，而且我會大撈特撈 Yes, and I'll buy as much as I can
+**我會幹下去，但我只詐欺那些有錢的商人 Yes, but I'll only cheat the rich merchants
+**不會幹下去，太冒險了 No, it's too risky
+**不會幹下去，那些商人也是要養家活口的 No, those merchants have families to feed
+*你有兩個工作機會，其中一個待遇較高，但另一個較穩定且安全。你會選擇哪個？ You have two job offers. One pays more, but the other is secure and steady. Which do you choose?
+**當然是最賺的那個工作，穩定的工作聽起來就很無聊 Definitely the lucrative job; steady work sounds like drudgery
+**大概是比較賺的工作，但我還是會查看看安全的工作 Probably the lucrative job, although I'd look into the secure job
+**安全的工作，除非另一個工作賺的真是多太多了 The secure job, unless the other job was outrageously lucrative
+**當然是穩定的工作，我要為長期打算 Definitely the secure job, because I plan for the long term
+*致富的最佳途徑是？ What's the best path to wealth?
+**最重要的是運氣和在正確的時機處於正確的位置 It's a matter of luck and being in the right place at the right time
+**保持彈性，這樣機會來的時候你才能抓 Staying flexible so you can take advantage of good opportunities
+**循著一套低風險的長期計畫 Following a long-term plan that incorporates a comfortable level of risk
+**勤奮地工作和存錢 Hard work and perseverance
+*如果你接下了一份工作或契約，你是否會在它越來越危險的狀況下仍試著完成它？ If you accepted a job or contract, would you try to finish the task even if it got much more dangerous?
+**當然，一言既出駟馬難追 Yes, my word is my bond
+**當然，因為可靠性可以建立好名聲 Yes, because it's good to have a reputation for dependability
+**我當然會重新商議 You can bet I'd be renegotiating
+**如果這筆買賣已經不合算了，那這筆買賣就吹了 If it's no longer a good deal, then the deal is off
+{{hidef}}
+
+== 亞種：定義九宮格 ==
+* 2020年開始興起的變體，不以道德善惡而是用定義嚴謹來劃分事物
+** 通常定義越鬆散，舉的例子就會越誇張
+
+{|class="wikitable" style="margin:auto;"
+!例子：三明治九宮格
+!&lt;b&gt;成分純粹派&lt;/b&gt;&lt;br&gt;主題的內容有嚴格限制
+!&lt;b&gt;成分中立派&lt;/b&gt;&lt;br&gt;主題的內容可有限開放
+!&lt;b&gt;成分自由派&lt;/b&gt;&lt;br&gt;主題的內容隨個人喜好
+|-
+!&lt;b&gt;形式純粹派&lt;/b&gt;&lt;br&gt;主題的結構有嚴格限制
+|事物的成分與做法必須完全按照定義&lt;br&gt;培根蛋三明治是三明治
+|事物的成分可以做一些調整，但做法必須嚴謹&lt;br&gt;夾心餅乾是三明治
+|任何東西只要照相同方法構成皆能稱作該物&lt;br&gt;3P是三明治
+|-
+!&lt;b&gt;形式中立派&lt;/b&gt;&lt;br&gt;主題的結構有一定彈性
+|事物的成分有嚴格要求，但方式可以商量&lt;br&gt;潛艇堡是三明治
+|事物的成分跟做法可以做一些調整&lt;br&gt;刈包是三明治
+|任何東西只要照類似方法構成皆能稱作該物&lt;br&gt;書是三明治
+|-
+!&lt;b&gt;形式自由派&lt;/b&gt;&lt;br&gt;主題的結構可自由調整
+|事物的組成內容有嚴格要求，但構造不拘&lt;br&gt;雞肉捲是三明治
+|事物的成分可以做一些調整，但結構上沒有限制&lt;br&gt;手卷是三明治
+|任何東西用大概方法組合在一起都能稱為該物&lt;br&gt;襁褓中的嬰兒是三明治
+|}
+
+== 你是哪種人? ==
+{{vote|section=1}}
+
+== 原梗與例圖： ==
+[[File:img11479.jpg|150px|center]]
+&lt;br&gt;
+* 後來海外網站「Dorkly」上的鄉民根據九大陣營的分類，對某有名FPS遊戲的玩家作出劃分並製成下圖：
+[[File:img11405.jpg|150px|center]]
+* 中譯版：
+[[File:img11409.jpg|150px|center]]
+&lt;br&gt;
+* 此圖產生了大量網友改圖。也許會有人對圖中的角色分配產生質疑，不過這是理所當然的。&lt;b&gt;你是沒辦法在「龍與地下城玩家手冊」裡找到能把現實完全規則化的真理的。&lt;/b&gt;
+
+=== 展示 ===
+[[File:img11412.jpg|150px|center]]
+[[File:img11468.jpg|150px|center]]
+[[File:img11410.jpg|150px|center]]
+[[File:img18145.jpg|150px|center]]
+[[File:img11406.jpg|150px|center]]
+[[File:img11407.jpg|150px|center]]
+[[File:img11408.jpg|150px|center]]
+[[File:img11426.jpg|150px|center]]
+[[File:img11438.jpg|150px|center]]
+
+== 外部連結 ==
+* [http://zh.wikipedia.org/wiki/%E9%98%B5%E8%90%A5_(%E9%BE%99%E4%B8%8E%E5%9C%B0%E4%B8%8B%E5%9F%8E) 定義(wiki)]
+* [http://www.wizards.com/default.asp?x=dnd/dnd/20001222b 小測驗（英文）]
+* [http://zh.wikipedia.org/wiki/%E4%B9%9D%E5%9E%8B%E4%BA%BA%E6%A0%BC 九人格(wiki)]
+
+== 無主題留言 ==
+{{pcomment|section=2}}
+
+==備註==
+&lt;references /&gt;
+
+[[Category:ACG作品]]

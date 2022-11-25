@@ -1,0 +1,954 @@
+{{h0|[http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/DeathBattle DEATH BATTLE]/死亡對決/死戰}}
+
+{| class="wikitable" style="font-size:normal; margin:1.5em auto; text-align:center;''
+|-
+| {{color|red||'''警告：此影片系列包含不少[[グロテスク|獵奇]]鏡頭！'''}} 
+|-
+| '''忠告：對&lt;s&gt;這種鬼東西&lt;/s&gt;賽果認真就輸了''' 
+|-
+| 如有任何島民欲為參戰者製作角色條目，無任歡迎。 
+|}
+
+
+
+== 解說 == 
+* DEATH BATTLE為Screwattack製作的影片系列。
+** 諷刺的是，[https://www.youtube.com/watch?v=4QKtfdAE-EM 製作單位Screwattack於2019年2月4日宣布因為適應Youtube商法被改組為DEATH BATTLE]。
+* 內容為把兩個角色（只有其中兩集為多人亂鬥）放在一起進行對戰；因為名為「死鬥」，故此勝者生敗者死（而且&lt;s&gt;因為美國人都被真人快打荼毒至深之故，&lt;/s&gt;敗者的死相通常都很[[グロテスク|獵奇]]）
+* 影片主持人為Wizard（Ben Singer）和Boomstick（Chad James）。
+** 前者是解說役，後者則是等著被吐糟的漫才裝傻役。
+* 戰鬥誰勝誰死將先從雙方的實力分析開始著手再進行判斷，負責人就是兩位主持人。
+** 有時甚至會利用動漫片段內容以物理分析來求出角色的能力到底有多強&lt;s&gt;因此卡通動畫角色都異常強勁&lt;/s&gt;。
+*** [[成句/在戰場看過呂布之後，看到關羽就覺得應該打得贏關羽|&lt;s&gt;看他倆這麼認真分析角色能力，就覺得他們絕對可以搞出一瑒張飛對岳飛&lt;/s&gt;]]
+** 開打前影片會闡述各參戰者的體能、招式、裝備等戰鬥能力，賽後也會講解雙方實力的差異以表示賽果從何而判斷。
+** 對戰片段的戰況未必能完全反映雙方的實力差，反正打得好看才是官方想造出的重點（只要戰鬥結果如其所算就好）
+** &lt;s&gt;相當多[[DC漫畫|DC]] VS [[漫威漫畫|漫威]]的戰鬥，簡直是某大合作漫畫的續篇&lt;/s&gt;
+*** 現時比數：{{censored|DC 14–14 漫威}}
+*** &lt;s&gt;蝙蝠俠：「怎麼DEATH BATTLE老是選我去與漫威角色打死戰？」{{ref|現時蝙蝠俠共參與了4+1場戰鬥：vs蜘蛛人、vs美國隊長、vs黑豹、vs鋼鐵人、與及在未來蝙蝠俠vs蜘蛛人2099裡擔任未來蝙蝠俠的網絡後援，全部對手都是漫威角色}}&lt;/s&gt;
+&lt;!--
+以下是DC vs Marvel（漫畫）那十一場超級英雄代表賽的賽果，比較用
+註1：因部份超級英雄有多個不同人物擔任，如有超級英雄並非最為人熟悉的那一個的話將會附上名字。例子：閃電俠（華利·威斯特）
+註2：7.至11.的對戰的賽果由讀者投票決定
+1.驚奇隊長Ｘ－Ｏ索爾
+2.水行俠Ｏ－Ｘ納摩
+3.閃電俠（華利·威斯特）Ｏ－Ｘ快銀
+4.羅賓（提姆．德雷克）Ｏ－Ｘ歡歡
+5.綠光戰警（凱爾·雷納）Ｘ－Ｏ銀色衝浪手
+6.貓女Ｘ－Ｏ幻影殺手
+7.暴狼Ｘ－Ｏ金剛狼
+8.神力女超人Ｘ－Ｏ暴風女
+9.超級小子Ｘ－Ｏ蜘蛛人（班‧萊利）
+10.超人Ｏ－Ｘ浩克
+11.蝙蝠俠Ｏ－Ｘ美國隊長
+總比數：DC 5－6 漫威
+--&gt;
+
+* 初期的影片製作比較簡單比較短，後來越作越給心機，引入全3D戰鬥之餘有時更會派人為參戰者配音。
+** 後來更有全手繪動畫以及真人特攝。
+* 官方有為所有對戰作出一些規則：
+** 所有對決均設定為雙方開戰時均認識其對手，甚至會有參賽者知道敵我雙方在現實被評為宿敵關係，但互相不了解對方的實力。
+*** {{censored|&lt;s&gt;所以不要再說孫悟空帶超人到紅色太陽的必勝法了，而且孫悟空很難抓住超人同時花時間集中精神發動瞬間移動…本影片系列的勝負判定並非以偶然為結果&lt;/s&gt;}}
+** 同時對戰規定了雙方不能在對戰前作準備（特意帶備不常用的強力武器，分析對手弱點等），只能在對戰中摸索對手的實力底細及尋找弱點。
+** 對戰片段必須以敗方死亡作結，但沒限定敗者必定被勝者親手殺掉，也可以是捲入意外中死亡或是[[自爆男|錯手被自己的攻擊殺死]]。
+*** 此名如敗方參賽者並非生物則以類似人類的死亡狀態作結（如敗方為[[機器人]]則它需要被破壞至完全無法運作）
+*** 走和平主義的參賽者會變得敢於殺死對方。
+** 會承認和個與參賽者有關的官方作品的設定，除非那是官方公認的[[黑歷史]]作品。
+*** 此外日系角色不會採用原版作品傳到歐美時多出的原創設定（若是歐美地區的官方公認原創作品則沒問題，例如UDON氏的快打旋風漫畫）
+** 參賽者會以角色最年長的狀態應戰（但若那不是該角色的全盛期則例外&lt;s&gt;所以你不會看見一個失明老太婆和我愛羅打&lt;/s&gt;），而且會可以使用當時已擁有的全部能力、招式及武器（武器會有捨弱取強的情況），但已被角色捨棄的能力及武器就不能使用。
+** 不能召喚其他幫手或屬下幫忙，但也有例外情況：
+*** 戰鬥的主題採用之，例如威利博士vs蛋頭博士的機械軍團戰，Solid Snake vs森姆的間諜戰則是雙方均有一個後援助手。
+*** 召喚出來的角色並非自主地攻擊（如被參賽者強行丟出去砸對手）。
+*** 召喚出來的角色或物品能成為參賽者的裝備。
+*** 召喚代打用替身，不過替身不能和本人同時攻擊。
+** 對戰場地必定為雙方角色其中一個所屬作品出現過的地點，或類似那些作品常見的場景。
+* 選擇參戰角色方面偏好於從最近有新播放/剛完結的動畫或電視劇番組，或會在最近推出的電影、遊戲等作品抽出角色。
+* &lt;s&gt;可以發現不少角色插圖是來自[[M.U.G.E.N]]角色的圖像檔，例如羅禮士和格斯&lt;/s&gt;
+* 本影片系列有被上載至Screwattack的官方Youtube頻道中。
+* 上載頻度大約為三周一集。2020年1月起加速為兩周一集。
+** 官方表示第七季有20戰。
+** 受到環球經濟和肺炎疫情影響，第八季只有16戰，第一集更加給延遲到2021年3月8日開播。
+*第六季末段開始官方會暗示來季會有什麽參加者。不分先後次序。
+**可能在第7季參戰
+***蜘蛛人（邁爾斯·摩拉斯）（漫威漫畫）
+***比魯斯（七龍珠）
+***古洛那（噬魂師）
+***辛黛爾（真人快打）
+***丹尼·芬頓（幻影丹尼）
+***歐比王·肯諾比（星際大戰）
+**可能在第8季前段參戰
+***尤達大師（星際大戰）
+***末日博士（漫威漫畫）
+***纏流子（[[KILL la KILL]]）
+***米卡沙·阿卡曼（[[進擊的巨人]]）
+*** [[史帝芬·宇宙|史帝芬•石英•宇宙]]（[[神臍小捲毛]]）
+***克勞德（最終幻想系列）
+**可能在第8季後段參戰
+***宇智波斑（火影忍者）
+***柯拉（降世神通：柯拉傳奇）
+***豪鬼（[[快打旋風]]）
+***阿爾卡特（[[Hellsing]]）
+***蘭迪·沙瓦吉（現實人物/WWF系列/零食「Slim Jim」廣告）
+***[[藍染惣右介]]（死神）
+**可能在第9季參戰
+***竈門炭治郎（[[鬼滅之刃]]）
+***緋紅女巫（漫威漫畫）
+***島鐵雄（阿基拉）
+***波巴·費特（星際大戰）
+***貝基塔（[[七龍珠]]）
+***Jinx（英雄聯盟）
+
+
+=== 影片 === 
+* （賽果與影片連結已完成）
+* '''IT'S TIME FOR A DEATH BATTLE!!'''
+&lt;!-- {{censored|}} &lt;-- 塗黑防捏他用 --&gt;
+&lt;!-- |??|??vs??&lt;br&gt;||{{censored|}}|[[|youtube]]|&lt;-- 備用樣板 --&gt;
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 集數 !! 標題 !! 解說 !! 賽果（注意有捏！） !! 影片連結 
+|-
+| colspan="5" align="center" |'''第一季''' 
+|-
+| 1 || Boba Fett vs Samus Aran&lt;br&gt;波巴·費特（星際大戰） vs 薩姆斯（銀河戰士） || 宇宙賞金獵人對決&lt;br&gt;看影片所屬機構的名字就知道為何第一集便有薩姆斯了&lt;br&gt;第一季開幕戰 || {{censored|薩姆斯從以冷凍槍凍結Boba Fett，再撲向前以集束炮將將其頭部轟碎}} || [https://www.youtube.com/watch?v=RG3C3KU82VE youtube] 
+|-
+| 2 || Akuma vs Shang Tsung&lt;br&gt;豪鬼（[[快打旋風]]） vs 尚宗（真人快打） || 日美兩大格鬥遊戲的頭目對決 || {{censored|豪鬼以瞬獄殺把變成豪鬼的尚宗打死}} || [https://www.youtube.com/watch?v=Z7ILewNiRIM youtube] 
+|-
+| 3 || Rogue vs Wonder Woman&lt;br&gt;羅剎（[[漫威漫畫]]） vs [[神力女超人]]（[[DC漫畫]]） || 美漫兩大手的女英雄對決&lt;br&gt;這一集開始再不會有體力計顯示 || {{censored|神力女超人被羅剎[[死亡之吻|{{color|black|black|接吻}}]]，精力被吸盡而死&lt;br&gt;獲勝原因很扯一度給觀眾鬧翻之一}} || [https://www.youtube.com/watch?v=4OU-6G-oIdQ youtube] 
+|-
+| 4 || Goomba vs Koopa&lt;br&gt;栗寶寶（[[瑪利歐系列]]） vs 慢慢龜（瑪利歐系列） || 雜魚之王爭奪戰&lt;s&gt;死掉的才是雜魚之王&lt;/s&gt; || {{censored|栗寶寶雖然成功把縮進龜瞉的慢慢龜推出去，卻被撞到牆反彈的龜瞉撞死，慢慢龜最後也墮入浴岩裡&lt;s&gt;變成碎碎龜&lt;/s&gt;死亡，結果為兩敗俱死}} || [https://www.youtube.com/watch?v=VurAXL_Fni0 youtube] 
+|-
+| 5 || Haggar vs Zangief&lt;br&gt;哈加（街頭快打） vs 桑吉爾夫（快打旋風） || 同門摔角手對決&lt;br&gt;雖然兩作均為同一故事世界，這兩人卻偏偏從未同時在同一格鬥遊戲參戰過 || {{censored|大家互相包住並跳出大廈高層的窗口，互相想給對手一記人肉打樁機的情況下最後是哈加的頭部著地而死}} || [https://www.youtube.com/watch?v=WkIFe3ZfF4k youtube] 
+|-
+| 6 || Teenage Mutant Ninja Turtles Battle Royale&lt;br&gt;忍者龜大亂鬥 || 四名主角互毆（李奧納多vs米開朗基羅vs拉斐爾vs多那太羅）&lt;br&gt;原影片因版權問題被刪掉，右邊的影片乃為粉絲上載 || {{censored|李奧納多把米開朗基羅的頭和手切離令其死亡&lt;br&gt;拉斐爾以裝死騙過多那太羅，趁其攻擊李奧納多時撲過去以釵狂插他將其殺死&lt;br&gt;最後李奧納多於被釵插到肚子（非致命）的情況之下以斷掉的刀捅到拉斐爾的頸部（致命）獲得最後勝利}} || [https://youtu.be/H7vXXltjWD0 youtube] 
+|-
+| 7 || Zitz vs Leonardo&lt;br&gt;Zitz（Battletoads）  vs 李奧納多（忍者龜） || 美漫兩大爬蟲人英雄對決 || {{censored|李奧納多在下水道引誘Zitz打牆壁，從其背後出現並將其腰部一刀兩斷&lt;br&gt;&lt;s&gt;汚いなさすが忍者きたない&lt;/s&gt;}} || [https://youtu.be/2UcO_0M0iUA youtube] 
+|-
+| 8 || Yoshi vs Riptor&lt;br&gt;[[Yoshi|耀西]]（瑪利歐系列） vs  Riptor（殺手挽歌） || 綠色恐龍對決 || {{censored|耀西把Riptor的酸彈吞下並射回去後，吃下Riptor並將牠變成蛋子產到萬丈深的洞穴裡讓其跌死}} || [https://youtu.be/AAyUB8aloD0 youtube] 
+|-
+| 9 || Felicia vs Taokaka&lt;br&gt;菲莉西亞（魔域幽靈） vs 桃兒卡卡（蒼翼默示錄） || 格鬥遊戲界的貓娘對決 || {{censored|桃兒卡卡把菲莉西亞打上半空中再將其腰部抓斷殺死}} || [https://youtu.be/7muX233Jwzk youtube] 
+|-
+| 10 || Kratos vs Spawn&lt;br&gt;克雷多斯（[[God of War|戰神]]） vs 閃靈悍將（閃靈悍將） || 與神契約的殺神者對決 || {{censored|閃靈悍將抓住奎多斯的頭部，從手腕伸出袖裡劍把奎多斯的頭部刺穿殺死}} || [https://youtu.be/ARq_2duhIGU youtube] 
+|-
+| 11 || Bomberman vs Dig Dug&lt;br&gt;轟炸超人（[[轟炸超人]]） vs Dig Dug（Dig Dug） || 20世紀經典地底動作對決&lt;br&gt;轟炸超人騎著路易登場{{censored|害得路易被Dig Dug灌空氣破裂而死&lt;s&gt;現在想想Dig Dug這遊戲的確很獵奇&lt;/s&gt;}} || {{censored|轟炸超人放下炸彈後被Dig Dug的氣泵擊中而動彈不得，[[自爆男|{{censored|結果被自己的炸彈炸死}}]]&lt;br&gt;獲勝原因很扯一度給觀眾鬧翻之二}} || [https://youtu.be/JmeHoW2wNEQ youtube] 
+|-
+| 12 || Vegeta vs Shadow&lt;br&gt;貝基塔（[[七龍珠]]） vs 夏特（音速小子） || &lt;s&gt;傲嬌&lt;/s&gt;驕傲宿敵對決 || {{censored|貝基塔把用盡混沌力量的夏特以Final Flash轟至灰飛煙滅}} || [https://youtu.be/KV47Il1o-Yo youtube] 
+|-
+| 13 || Mario vs Sonic&lt;br&gt;[[Mario|瑪利歐]]（瑪利歐系列） vs 索尼克（[[音速小子系列]]） || 兩大遊戲主機看板對決 || {{censored|瑪利歐追索尼克追到&lt;s&gt;頭暈&lt;/s&gt;巨人形態解除，被索尼克趁機以刺滾輾死}} || [https://youtu.be/3aq_dOLFmxA youtube] 
+|-
+| ?? || DEATH BATTLE! vs The World || {{censored|純粹搞笑回，目的是推銷Death Battle T恤}} || {{censored|Death Battle T恤以核爆炸毀其他T恤獲勝&lt;s&gt;199X年，世界出現T恤爆發，到處海枯石爛（ry&lt;/s&gt;}} || [https://youtu.be/d34cv0zVheY youtube] 
+|-
+| 14 || Justin Bieber vs Rebecca Black&lt;br&gt;賈斯汀（現實歌手） vs 瑞貝卡·布萊克（現實歌手） || &lt;s&gt;紅白歌唱大賽（物理）&lt;/s&gt;&lt;br&gt;第一季的搞笑回 || {{censored|瑞貝卡召來13歲緋聞少年駕車把賈斯汀[[轢殺|{{color|black|black|轢殺}}]]，卻撞到牆引發車禍而兩敗俱死&lt;br&gt;期間Jonas Brothers來看熱閙時車身突然大爆炸而齊齊被炸死，爆炸也炸飛了賈斯汀的配刀，刀降到棒球場後插死正在走壘的Miley Cyrus，合共死了8人&lt;br&gt;M-M-M-MONSTER KO}} || [https://youtu.be/lLl7Qe35O64 youtube] 
+|-
+| 15 || Luke Skywalker vs Harry Potter&lt;br&gt;[[路克·天行者]]（星際大戰） vs [[哈利‧波特‏‎]]（哈利‧波特‏‎） || 原力vs魔法 || {{censored|路克以原力弄傷哈利的閃電傷痕，再丟出紅色光刀將其刺斃}} || [https://youtu.be/lRLuPHvF6Fo youtube] 
+|-
+| 16 || Chun-Li vs Mai Shiranui&lt;br&gt;春麗（快打旋風） vs 不知火舞（餓狼傳說） || 卡普空與SNK的格鬥遊戲之華對決&lt;br&gt;&lt;s&gt;妳倆不是已經對決過四次了嗎？&lt;/s&gt; || {{censored|舞以鳳凰之舞將春麗燒至只剩下骸骨}} || [https://youtu.be/kGHwjnvczbo youtube] 
+|-
+| 17 || Star Scream VS Rainbow Dash&lt;br&gt;天王星（變形金剛） vs 彩虹黛西（[[My Little Pony：Friendship is Magic | 彩虹小馬]]） || 孩之寶銷玩具品牌對決：超音速篇 || {{censored|星星叫的身體被彩虹黛西以Bucaneer Blaze撞至四散，火種被吃掉}} || [https://www.youtube.com/watch?v=8er83h9Bbn8 youtube] 
+|-
+| 18 || [[John-117|Master Chief]] vs Doomguy&lt;br&gt;士官長（最後一戰） vs  Doomguy（毀滅戰士） || 新舊FPS對決 || {{censored|Doomguy的身體被[[成句/只要出問題，C4炸藥都能搞定|{{color|black|black|黏上電漿手榴彈炸死}}]]}} || [https://www.youtube.com/watch?v=Vm_MFauHzdo0 youtube] 
+|-
+| 19 || Eggman vs Wily&lt;br&gt;蛋頭博士（音速小子） vs 威利博士（[[洛克人系列]]） || 電玩界&lt;s&gt;征服世界失敗記錄保持者&lt;/s&gt;[[瘋狂科學家/科学者|瘋博士]]對決 || {{censored|威利博士把機器人感冒病毒丟出去攻擊，金屬索尼克受感染而發狂，吸收了蛋男艦隊並進化成Metal Overlord且同時攻擊兩隊機械軍隊，兩名博士均連同其機械大軍齊齊被金屬索尼克殺清光。'''勝者是金屬索尼克'''}} || [https://www.youtube.com/watch?v=qitt0AsCSYQ youtube] 
+|-
+| 20 || Zelda vs Peach&lt;br&gt;薩爾達（[[薩爾達傳說]]） vs [[PEACH|碧姬公主]]（瑪利歐系列） || 任天堂兩大&lt;s&gt;老是被拐的&lt;/s&gt;公主對決 || {{censored|碧姬趁著薩爾達被綿羊擊中進入昏睡狀態時發動Empress Peach將薩爾達的頭部踢爆&lt;br&gt;&lt;s&gt;我的碧姬哪有這麼殘忍？&lt;/s&gt;}} || [https://www.youtube.com/watch?v=iwMvi8vzNhk4 youtube] 
+|-
+| 21 || Thor vs Raiden&lt;br&gt;索爾（漫威漫畫） vs 雷電（真人快打） || 雷神對決 || {{censored|索爾把電電的腰鎚斷，再把雷電的上半身拋往太陽銷毀}} || [https://www.youtube.com/watch?v=MIOiLqbzDZE youtube] 
+|-
+| 22 || Link vsCloud&lt;br&gt;林克（薩爾達傳說） vs 克勞德（[[最終幻想系列]]） || 遊戲業界最有名劍士對決&lt;br&gt;首場全3D戰鬥 || {{censored|林克把向著自己突進的克勞德斬傷後丟出大量炸彈將其炸飛，再從空中以急降下斬擊斬殺克勞德&lt;br&gt;獲勝原因很扯一度給觀眾鬧翻之三}} || [https://www.youtube.com/watch?v=-o2SV6ynJYQ youtube] 
+|-
+| 23 || Batman vs Spider-Man&lt;br&gt;[[蝙蝠俠]]（[[DC漫畫]]） vs [[蜘蛛人(驚奇漫畫)|蜘蛛人]]（[[漫威漫畫]]） || 在黑夜裡守護著市民的英雄對決 || {{censored|蜘蛛人把蝙蝠俠綑在巨大蜘蛛網上，自己以另一個蜘蛛網充當橡皮繩借力彈往蝙蝠俠並踢破其身體獲勝}} || [https://www.youtube.com/watch?v=e8K1m6SCRz4 youtube] 
+|-
+| 24 || Pikachu vs Blanka&lt;br&gt;皮卡丘（[[神奇寶貝|精靈寶可夢系列]]） vs 布蘭卡（快打旋風） || 雷獸對決 || {{censored|皮卡丘[[成句/麻美（動詞）/マミる/mami|{{color|black|black|被布蘭卡咬掉頭部}}]]，身體也被榨成「果汁」喝光&lt;br&gt;&lt;s&gt;[[成句/○○在你後面，他非常火|{{color|black|black|皮卡丘粉絲團在Wizard和Boomstick後面，他們非常火}}]]&lt;/s&gt;}} || [https://www.youtube.com/watch?v=yQJwP68yoGk youtube] 
+|-
+| 25 || Goku vs Superman&lt;br&gt;[[孫悟空(七龍珠)|孫悟空]]（七龍珠） vs [[超人]]（DC漫畫） || 實現一眾美國漫畫迷的最大對決：日漫最強英雄vs美漫最強英雄&lt;br&gt;用作終結第一季的重頭戲，史上觀看數最多&lt;br&gt;{{censored|地球在此激戰中被毀滅}} || {{censored|盡吸黃色太陽能量後的超人發動無限量子拳與吸收巨大元氣玉能量後的超4孫悟空的龍拳對抗，一場大爆炸之下地球受波及而被轟成碎片，孫悟空也灰飛煙滅，超人受到黃色太陽照射而從昏迷中醒來}} || [https://www.youtube.com/watch?v=oyl97TG8jbA youtube] 
+|-
+| colspan="5" align="center" |'''第二季''' 
+|-
+| 26 || He-Man vs Lion-O&lt;br&gt;He-Man（太空超人） vs 獅貓（霹靂貓） || 代表80年代美國動畫的兩名彪形大漢的對決&lt;br&gt;第二季開幕戰 || {{censored|He-Man把獅貓打至瀕死，獅貓打算發動Eye of Thundera的最後力量全力攻擊He-Man卻被他撐過，He-Man雙手把Eye of Thundera捏碎後獅貓也因而死亡&lt;br&gt;屍體成為戰貓的點心}} || [https://www.youtube.com/watch?v=1OUCI3oLYss youtube] 
+|-
+| 27 || Shao Kahn vs M. Bison&lt;br&gt;紹康（真人快打） vs 貝卡（快打旋風） || 日美兩大格鬥遊戲代表奸角的對決 || {{censored|紹康以鐵鎚敲擊貝卡的頭部數次後再將其腰部扯斷死亡&lt;br&gt;貝卡的靈魂被紹康吸收，無法轉生再戰}} || [https://www.youtube.com/watch?v=fh1Y1TfV86U youtube] 
+|-
+| 28 || Ryu Hayabusa vs Strider Hiryu&lt;br&gt;隼龍（忍者龍劍傳） vs 出擊飛龍（出擊飛龍） || 80年代兩大忍者動作遊戲對決 || {{censored|飛龍以Ragnarok攻擊受重傷隼龍，最後隼龍被砸至十數樓層以下的地面而死&lt;br&gt;屍體被機械鷹放出的炸彈炸爆&lt;br&gt;&lt;s&gt;汚いなさすが忍者きたない&lt;/s&gt;}} || [https://www.youtube.com/watch?v=6HFVFRpoDlc youtube] 
+|-
+| 29 || Ivy vs Orchid&lt;br&gt;艾薇（劍魂） vs  Orchid（殺手挽歌） || 日美格鬥遊戲性感女殺手對決 || {{censored|Orchid把艾薇打暈後將其變成青蛙再踩死（原作的一招終結技）&lt;s&gt;可惜[[乳量|{{censored|胸部}}]]比艾薇小所以露胸部那招沒有效果&lt;/s&gt;}} || [https://www.youtube.com/watch?v=dqDXrTnkIVM youtube] 
+|-
+| 30 || Fox vs Bucky&lt;br&gt;福克斯（星際火狐） vs  Bucky（Bucky O'Hare） || 誰才是宇宙最強半獸人傭兵隊長？ || {{censored|福克斯在失去義腳的狀態下抱著噴射器撲向Bucky，抓住其頸部並以光線槍打爆Bucky的頭}} || [https://www.youtube.com/watch?v=IRhhIVEmfE8 youtube] 
+|-
+| 31 || Terminator vs RoboCop&lt;br&gt;終結者（魔鬼終結者） vs 機器戰警（機器戰警） || 美國電視電影兩大科幻機器人對決&lt;br&gt;其實兩者早已在大合作漫畫和遊戲對決過 || {{censored|機器戰警搜出終結者的弱點後以炸彈將其炸至只餘下上半身，終結者企圖引爆氫電池同歸於盡，卻被機器戰警裝在噴射背包上送到半空中引爆&lt;br&gt;'''「I'll be back!」（遺言）'''}} || [https://www.youtube.com/watch?v=zLjlnoAT_ns youtube] 
+|-
+| 32 || Luigi vs Tails&lt;br&gt;[[Luigi|路易吉]]（瑪利歐系列） vs 塔爾斯（音速小子） || 兩大遊戲主機代表作要找出誰才是最強的[[2P|No.2]] || {{censored|路易吉被塔爾斯以彈簧拳頭貫穿身體而死}} || [https://www.youtube.com/watch?v=h1N5moEJx_o youtube] 
+|-
+| ?? || Vegeta vs Mewtwo?&lt;br&gt;貝基塔 vs 超夢? || {{censored|純粹搞笑回&lt;br&gt;其實是在回應 [https://youtu.be/hn6BOc4hzhQ {{censored|Silvermania製作的仿DEATH BATTLE影片}}]}} || {{censored|兩人協力放氣功波把Silvermania打爆，然後主持人突然宣佈網絡大眾獲勝}} || [https://youtu.be/hRImBS_bCfE youtube] 
+|-
+| 33 || Pokémon Battle Royale&lt;br&gt;寶可夢大亂鬥 || 參戰者為關都御三家的最終進化型（妙蛙花vs水箭龜vs噴火龍）&lt;br&gt;全參賽者為野生（沒接受任何訓練）且經已&lt;s&gt;用糖果灌到&lt;/s&gt;滿等，身上沒道具也沒有超級進化&lt;s&gt;因為沒2D圖像&lt;/s&gt; || {{censored|妙蛙花被噴火龍咬掉背部的花朵後再被火彈燒死&lt;br&gt;這之後水箭龜以水炮不停向噴火龍的嘴巴灌水，最後噴火龍被轟到半空中爆破變成血雨而死&lt;br&gt;Q:噴火龍在動畫明明對著水箭龜也不會那麼慘的啊！A:'''牠是野生的'''，不是經赤紅訓練過的噴火龍！}} || [https://www.youtube.com/watch?v=pcUSRT7CFPs youtube] 
+|-
+| 34 || Fulgore vs Sektor&lt;br&gt;Fulgore（殺手挽歌） vs  Sektor（真人快打） || 美國兩大獵奇格鬥遊戲的機器人對決 || {{censored|Fulgore對Sektor連消帶打後以Devastation Beam將Sektor轟成碎片，還用機關槍處理屍體&lt;br&gt;ULTRA 37 HITS}} || [https://www.youtube.com/watch?v=gq3soOgkdrs youtube] 
+|-
+| 35 || Godzilla vs Gamera&lt;br&gt;[[哥吉拉]]（哥吉拉） vs 卡美拉（[[卡美拉/ガメラ系列|卡美拉系列]]） || 怪獸王決定戰 || {{censored|哥吉拉以紅螺旋放射線把縮進龜瞉的卡美拉轟成碎片&lt;s&gt;因而得到料理大師的稱號（得獎菜式為王八湯）&lt;/s&gt;}} || [https://www.youtube.com/watch?v=iMOl-amah8w youtube] 
+|-
+| 36 || Batman vs Captain America&lt;br&gt;蝙蝠俠（DC漫畫） vs [[美國隊長]]（漫威漫畫） || 美漫兩大手的非異變人類頂點對決 || {{censored|蝙蝠俠以鋼索勾勒住美國隊長的頸，將他掛在電燈柱上令其窒息致死}} || [https://www.youtube.com/watch?v=mIyB6B0uYHg youtube] 
+|-
+| 37 || Tigerzord vs Gundam Epyon&lt;br&gt;白虎金剛（[[戰隊|金剛戰士]]） vs 次代鋼彈（[[新機動戰記鋼彈W]]） || 第六連者vs第六鋼彈&lt;br&gt;雙方的駕駛員分別為大明（Tommy Oliver）和傑克斯&lt;br&gt;{{censored|賽前諾茵被發[[便當|{{censored|便當}}]]，以外戰鬥途中Tommy叫來另外四台氣傳獸合體成伏魔金剛}} || {{censored|傑克斯以次代鋼彈的充能光刀把伏魔金剛的上下半身切離，上半身的爆炸令大明死在駕駛艙中}} || [https://www.youtube.com/watch?v=dmYhkwVJbcY youtube] 
+|-
+| 38 || Ryu vs Scorpion&lt;br&gt;隆（快打旋風） vs 全蠍人（真人快打） || 日美兩大格鬥遊戲代表角色對決 || {{censored|隆發動無之波動以真空波動拳把全蠍人轟至只餘下骨頭，卻被這狀態下的全蠍人以地獄火燄燒成灰燼}} || [https://www.youtube.com/watch?v=tumz1xnoJkc youtube] 
+|-
+| 39 || Deadpool vs Deathstroke&lt;br&gt;死侍（漫威漫畫） vs 喪鐘（DC漫畫） || [[不死身]]改造傭兵對決&lt;s&gt;兩人都打不死要怎樣分勝負啊！&lt;/s&gt;&lt;br&gt;死侍從頭搶鏡到尾 || {{censored|死侍槍傷喪鐘的眼睛後以Carbonadium Sword砍下喪鐘的頭顱}} || [https://www.youtube.com/watch?v=Yn8ZqX82neg youtube] 
+|-
+| 40 || Kirby vs Majin Buu&lt;br&gt;卡比（[[星之卡比]]） vs 魔人普烏（[[七龍珠]]）&lt;ref&gt;官方本想讓百變怪（精靈寶可夢系列）擔任卡比的對手的，後來發現卡比擁有可以把巨大麼獸連同平底鍋一併丟往太陽的怪力後，對手就變成普烏了。&lt;s&gt;百變怪：「幸好撿回了性命…」&lt;/s&gt;&lt;/ref&gt; || &lt;s&gt;粉紅惡魔對決&lt;/s&gt;&lt;br&gt;{{censored|對戰中途因為胖普烏發怒，生出了元祖普烏來「交棒」}}&lt;br&gt;&lt;s&gt;卡比[[顏藝]]秀&lt;/s&gt;&lt;br&gt;原定為第39集，因為多番延期而推遲一集播放 || {{censored|元祖普烏企圖以惑星毀滅光彈消滅一切，卡比發動大爆炸能力吸收光彈並還給元祖普烏，元祖普烏被光彈推到太陽銷毀}} || [https://www.youtube.com/watch?v=mwzH7eSOwAc youtube] 
+|-
+| 41 || Ragna vs Sol Badguy&lt;br&gt;拉格納（蒼翼默示錄） vs 索隆（聖騎士之戰） || [[Arc System Works]]兩大台柱主角之對決！&lt;br&gt;曾因一些圖像版權問題被官方刪掉，其後Screwattack去掉影片問題部份後重新上載 || {{censored|索隆變成Gear型態以火彈擊殺變成黑獸的拉格納}} || [https://www.youtube.com/watch?v=5lQxaLuoghc youtube] 
+|-
+| 42 || Gaara vs Toph&lt;br&gt;我愛羅（火影忍者） vs 北方拓芙（降世神通） || 砂對石 || {{censored|拓芺直接抓住全身鋪上砂護罩的我愛羅令其被自己的護罩擠壓而死&lt;br&gt;獲勝原因很扯一度給觀眾鬧翻之四}} || [https://www.youtube.com/watch?v=DGbN_fIoX0o youtube] 
+|-
+| 43 || Boba Fett vs Samus Aran Remastered&lt;br&gt;波巴·費特 vs 薩姆斯重製版 || 第一集的全3D重製&lt;br&gt;今回可以見到零裝甲薩姆斯。&lt;s&gt;中身超きめぇ！&lt;/s&gt; || {{censored|零裝甲薩姆斯以冷凍槍凍結Boba Fett後再以光束手槍將其打至五馬分屍}} || [https://www.youtube.com/watch?v=EcZCZ8ZNHMc youtube] 
+|-
+| 44 || Chuck Norris vs Segata Sanshiro&lt;br&gt;[[查克·羅禮士]]（&lt;s&gt;網絡笑話&lt;/s&gt;現實人物） vs 世嘉三四郎（SS廣告） || 誰才是最強的的傳說之男？&lt;br&gt;第二季的搞笑回&lt;br&gt;{{censored|今回比孫悟空對超人更嚴重，整個太陽系都被毀滅}} || {{censored|雙方攻擊太陽後產生出時空洞，倆人跳進去後賽事便沒再播下去…結果不明…&lt;br&gt;&lt;s&gt;因為他倆的實力並非人類能夠計算出來&lt;/s&gt;}} || [https://www.youtube.com/watch?v=-eDSt8OHkx0 youtube] 
+|-
+| 45 || Guts vs Nightmare&lt;br&gt;凱茲（[[烙印勇士]]） vs 夢魘（劍魂） || [[大劍]]狂戰士對決 || {{censored|凱茲裝備狂戰士之鎧後把Inferno狀態的夢魘砍成兩半&lt;br&gt;因為Soul Edge殘骸沒被凱茲拾起（他只有對刀刃放袖箭），無法轉生&lt;br&gt;&lt;s&gt;サンキューガッツ&lt;/s&gt;&lt;br&gt;獲勝原因很扯一度給觀眾鬧翻之五}} || [https://www.youtube.com/watch?v=mGNWRaM3zX4 youtube] 
+|-
+| 46 || Iron Man vs Lex Luthor&lt;br&gt;鋼鐵人（漫威漫畫） vs 雷克斯·路瑟（DC漫畫） || 美漫兩大手的最強地球科技對決 || {{censored|穿上Endo-Sym裝甲的東尼吸收雷克斯的戰鬥裝甲的能量，把雷克斯抽出來並發出Uni-beam把雷克斯擊殺&lt;s&gt;戰後東尼給女友的財物損失賠償錢合共50億&lt;/s&gt;&lt;br&gt;屍體以Proton Cannon處理}} || [https://www.youtube.com/watch?v=2yeHt0uHElI youtube] 
+|-
+| 47 || Beast vs Goliath&lt;br&gt;野獸（漫威漫畫） vs 歌利亞（夜行神龍） || 暗中保護人民的藍色巨獸對決 || {{censored|野獸被歌利亞狂抓抓斷腰而死}} || [https://www.youtube.com/watch?v=yniPR8RgOoE youtube] 
+|-
+| 48 || Solid Snake vs Sam Fisher&lt;br&gt;[[Solid Snake]]（[[潛龍諜影系列]]） vs 山姆·費雪（縱橫諜海） || 當兩大潛行動作遊戲的主角互相發現對方時…&lt;br&gt;兩者的後援助手分別為歐塔康和安娜·格里姆 || {{censored|Snake以電擊刀刺穿其胸部令山姆觸電，繼而把刀子推上頭部令其死亡&lt;br&gt;安娜也因為飛機的電腦裝置被歐塔康駭到，機體著火墜地死亡&lt;s&gt;這是2對2死鬥嗎？&lt;/s&gt;}} || [https://www.youtube.com/watch?v=JrvEWWYLDHM youtube] 
+|-
+| 49 || Darth Vader vs Doctor Doom&lt;br&gt;[[達斯·維達]]（星際大戰） vs 末日博士（漫威漫畫） || 誰才是宇宙上最強的&lt;s&gt;爛臉&lt;/s&gt;獨裁統治者？ || {{censored|末日博士擊出石頭把維達打進溶岩令其燒死}} || [https://www.youtube.com/watch?v=Yd3esamc2Rs youtube] 
+|-
+| 50 || Goku vs Superman 2&lt;br&gt;孫悟空 vs 超人第二集 || 因應孫悟空擁有超級賽亞人之神力量後而生的再戰&lt;br&gt;超人的衣著為New52版本&lt;s&gt;再沒有紅色內褲了…&lt;/s&gt;&lt;br&gt;{{censored|開打前超人以&lt;s&gt;鋼鐵人借給他的&lt;/s&gt;龍珠令地球復原}}&lt;br&gt;{{censored|評價比第一戰差太多&lt;s&gt;因此導致第二季無法完結&lt;/s&gt;}} || {{censored|超人抓住孫悟空並以熱視線把孫悟空的腦袋燒毀&lt;br&gt;北界王「你無法打倒他（超人）的！」「雖然你可以不斷突破自己的限界，但[[成句/今天的我......沒有極限！/今日の僕に......限界はない！|{{censored|他的力量是沒有限界的！}}]]」}} || [https://www.youtube.com/watch?v=L0D0VGomWb4 youtube] 
+|-
+| 51 || Donkey Kong vs Knuckles&lt;br&gt;大金剛（超級大金剛） vs 納克（音速小子） || 守護母村寶蔵的&lt;s&gt;笨蛋&lt;/s&gt;怪力對決！&lt;br&gt;{{censored|'''\OH NO!/'''}} || {{censored|大金剛以雙巴掌把納克當成蚊子般拍成肉醬，拿起唯一完整的雙手來玩耍}} || [https://www.youtube.com/watch?v=3581LCnibqs youtube] 
+|-
+| 52 || Wolverine vs Raiden&lt;br&gt;[[金剛狼]]（漫威漫畫） vs [[雷電 (潛龍諜影)|雷電]]（[[潛龍諜影系列|潛龍諜影]]）|| 改造人的刀刃對決 || {{censored|雷電以高周波刀把金剛狼的頭砍下來並剁碎}} || [https://www.youtube.com/watch?v=cFm982JyE4A youtube] 
+|-
+| 53 || Hercule Satan vs Dan Hibiki&lt;br&gt;撒旦先生（[[七龍珠]]） vs 火引彈（快打旋風） || &lt;s&gt;最弱對最弱&lt;/s&gt; || {{censored|彈意外地吞下從天而降的膠囊，膠囊從他的體內打開令他的肚皮被點唱機撐爆而死&lt;br&gt;&lt;s&gt;主持人：這一定是撒旦先生的新絕招，卡啦OK拳！&lt;/s&gt;}} || [https://www.youtube.com/watch?v=wfCKJlkdqKs youtube] 
+|-
+| 54 || Yang vs Tifa &lt;br&gt;Yang Xiao Long（[[RWBY]]） vs 蒂法·洛克哈特（最終幻想系列） || &lt;s&gt;[[暴力女]]&lt;/s&gt;鐵拳少女對決&lt;br&gt;和Rooster Teeth合作，因此採用Yang的原作3D模組及和原作一樣的配音員&lt;br&gt;&lt;s&gt;第七天堂酒吧何時搬到Remnant裡去了？&lt;/s&gt; || {{censored|進入爆氣狀態的Yang從蒂法的後面把她的頸給扭了一下...[[仮面ライダー555|{{censored|（首が折れる音）}}]]&lt;br&gt;獲勝原因很扯一度給觀眾鬧翻之六}} || [https://www.youtube.com/watch?v=5IOf8F6ChKs youtube] 
+|-
+| 55 || Mega Man vs Astro Boy&lt;br&gt;洛克人（洛克人系列） vs 小金剛（原子小金剛） || 救世機械男孩對決 || {{censored|一輪空戰之下洛克人被小金剛打至墜下，洛克人奮力以集氣砲還擊令天空發生大爆炸，最後洛克人支離破碎而死，小金剛雖然頭部甩掉卻可以自行拼回而沒事&lt;br&gt;獲勝原因很扯一度給觀眾鬧翻之七}} || [https://www.youtube.com/watch?v=sbbhEgl95W4 youtube] 
+|-
+| 56 || Green Arrow vs Hawkeye&lt;br&gt;綠箭俠（DC漫畫） vs 鷹眼（漫威漫畫） || 美漫兩大手的最強弓技對決 || {{censored|鷹眼射出亞德曼金屬箭把綠箭俠射出的鑽石箭射穿，同一箭命中綠箭俠將其射殺&lt;br&gt;其後鷹眼以Pym粒子箭把綠箭俠的屍體縮小再交由螞蟻帶走（牠們應該是蟻人帶領的？）}} || [https://www.youtube.com/watch?v=KehZYh0a6lk youtube] 
+|-
+| 57 || Pokemon vs Digimon&lt;br&gt;精靈寶可夢 vs [[デジモンシリーズ|數碼寶貝]] || 參賽者為赤紅&amp;amp;噴火龍及八神太一&amp;amp;阿古獸（以影片開始顯示的名稱為準）&lt;br&gt;兩大戰鬥怪物育成遊戲的火[[屬性]]恐龍對決&lt;br&gt;第二季閉幕戰&lt;br&gt;{{censored|不單止雙方的恐龍會在戰鬥中進化，連太一也會跑去和赤紅打架…[[リアリスト|{{censored|&lt;s&gt;「リアリストだ！」&lt;/s&gt;}}]]}} || {{censored|超級噴火龍X被戰鬥暴龍獸抓至重傷後被丟至赤紅身上將其砸至雙腿骨折，戰鬥暴龍獸趁機使出蓋亞能量砲令超級噴火龍X連同赤紅一起灰飛煙滅}} || [https://www.youtube.com/watch?v=Xcz2vHLqtNw youtube] 
+|-
+| colspan="5" align="center" |'''第三季'''
+|-
+| 58 || Dante vs Bayonetta&lt;br&gt;但丁（[[Devil May Cry]]） vs 蓓優妮塔（魔兵驚天錄） || 史上最stylish的死亡對決：惡魔獵人vs獵天使魔女&lt;br&gt;&lt;s&gt;Worst date, ever.&lt;/s&gt;&lt;br&gt;第三季開幕戰&lt;br&gt;{{censored|戰鬥途中翠絲和貞德插進戰鬥之中，成為DBX的楔子}} || {{censored|兩者互相以劍刺穿對方腹部，被捅慣的但丁趁機向受傷的蓓優妮塔放出大量路西法的刀刃後再向她丟玫瑰，將她整個身體炸碎。&lt;s&gt;然後但丁便和腹上的Shuraba一起渡過餘生了&lt;/s&gt;}} || [https://youtu.be/sFi_RzsKajA youtube] 
+|-
+| 59 || Bowser vs Ganon&lt;br&gt;[[Koopa|庫巴]]（瑪利歐系列） vs 加儂道夫（薩爾達傳說） || 任天堂兩大&lt;s&gt;拐帶男&lt;/s&gt;魔王對決&lt;br&gt;{{censored|&lt;s&gt;加儂亂入瑪利歐網球世界&lt;/s&gt;}} || {{censored|被巨大庫巴吞掉的魔獸加儂從其體內放出魔法，令庫巴先縮少再變成一堆白骨四散&lt;br&gt;獲勝原因很扯一度給觀眾鬧翻之八}} || [https://youtu.be/jAAZsWnFve0 youtube] 
+&lt;!-- 我可能還是搞錯加儂的名字，有待查證 --&gt;
+|-
+| 60 || Ratchet and Clank vs Jak &amp; Daxter&lt;br&gt;拉捷特與克拉克（拉捷特與克拉克系列） vs 捷克與達斯特（捷克與達斯特系列） || 3D動作射擊遊戲兩大宇宙英雄二人組對決 || {{censored|克拉克幫助拉捷特解除光傑克所予的時間遲緩狀態，拉捷特先以液態氮手槍把光傑克發出的冷凍光束推回去擊中捷克，再用OmniWrench Millennium 12打爆被凍結的捷克和達斯特}} || [https://youtu.be/jKoeSRhF1nc youtube] 
+|-
+| 61 || Flash vs Quicksilver&lt;br&gt;[[貝瑞‧艾倫|閃電俠]]（DC漫畫） vs 快銀（漫威漫畫） || 美漫兩大手的超光速男對決&lt;br&gt;{{censored|&lt;s&gt;客串出演的角色還真多啊！&lt;/s&gt;}} || {{censored|閃電俠把快銀拉進神速力源之中以超級速度連續攻擊，最後打出電擊將快銀轟至日本，快銀被石像上的劍尖插穿身體死亡&lt;br&gt;&lt;s&gt;戰鬥歷時不足一秒（還有可能是負時間）&lt;/s&gt;&lt;br&gt;&lt;s&gt;快銀先到日本，所以應該是他勝&lt;/s&gt;}} || [https://youtu.be/qQW0NwmeQRE youtube] 
+|-
+| 62 || Joker vs Sweet Tooth&lt;br&gt;小丑（DC漫畫） vs 甜食小丑（烈火戰車） || [[連環殺手|瘋狂殺人]]小丑對決 || {{censored|打算把重傷的小丑了結的Sweet Tooth被一直在瘋言瘋語的小丑以小丑毒氣噴中，結果Sweet Tooth成事前劇毒發作，伴隨著自己的狂笑聲死去，小丑勝&lt;br&gt;&lt;s&gt;最後勝利者是警察&lt;/s&gt;}} || [https://youtu.be/OGqylsonGZY youtube] 
+|-
+| 63 || Mewtwo vs Shadow&lt;br&gt;超夢（精靈寶可夢系列） vs 夏特（音速小子） || 身為瘋博士的最後作品的人工究極生物對決 || {{censored|超級超夢Y以超能力洗掉夏特的記憶令他想念瑪利亞同時忘了攻擊，再以大湯匙插穿影子的身體，夏特最後葬身於充滿利牙魚的河床裡&lt;br&gt;夏特已經連續輪了兩次[[成句/○○○，現在你感覺如何了？感覺如何了！？|{{censored|&lt;s&gt;夏特粉，現在你們感覺如何了？感覺如何了！？&lt;/s&gt;}}]]}} || [https://youtu.be/W4czQ1Oa-Ns youtube] 
+|-
+| 64 || The Meta vs Agent Carolina&lt;br&gt;梅塔（Red vs Blue） vs 卡蘿莉娜（Red vs Blue） || 死亡對決特別篇：Red vs Blue&lt;br&gt;Screwattack與Rooster Teeth的大合作企劃，本集同時是Red vs Blue的其中一集 || {{censored|卡蘿莉娜在Epslion（她的隨身A.I）發功抑制梅塔之下搶掉梅塔手上的Brute Shot，在Epslion允許使用此武器後開火打爆梅塔的頭獲勝}} || [https://youtu.be/8MNdeW9Xsi4 youtube] 
+|-
+| ?? || [[AVGN]] Adventures vs Your Wallet&lt;br&gt;AVGN大冒險系列 vs 你的錢包 || {{censored|純屬搞笑回，目的是推銷後述遊戲的減價促銷（已完結）}} || {{censored|在同樣減價中的Disorder協助下，AVGN遊戲系列成功令錢包不得不吐出全部紙幣「死亡」&lt;br&gt;&lt;s&gt;「買！全部都買！」&lt;/s&gt;}} || [https://youtu.be/bPsPvoiYvk4 youtube] 
+&lt;!-- 不知是誰刪了一次,此時忽然想到這涉及賣廣告有點不好意思所以暫時封印,如大家覺得沒問題可隨時解封←打算優惠期完結（11月1日）後解封 --&gt;
+|-
+| 65 || Cammy vs Sonya&lt;br&gt;情咪（快打旋風） vs 索尼亞（真人快打） || 日美兩大格鬥遊戲的特殊部隊女隊員對決 || {{censored|索尼亞把倩咪全身骨骼打碎後以雙腳夾住倩咪的腰，施展Scissor Split把倩咪扯成兩塊&lt;br&gt;索尼亞駕車離開時順便輾爆倩咪的下半身屍體}} || [https://youtu.be/u7ratD59JrI youtube] 
+|-
+| 66 || Tracer vs Scout&lt;br&gt;閃光（[[Overwatch]]） vs 偵察兵（絕地要塞） || 協力對戰FPS的&lt;s&gt;脆皮&lt;/s&gt;速度型角色對決 || {{censored|閃光利用閃現在偵察兵身上黏上脈衝炸彈將之&lt;s&gt;變成白鴿&lt;/s&gt;炸至粉身碎骨&lt;br&gt;獲勝原因很扯一度給觀眾鬧翻之九&lt;br&gt;&lt;s&gt;明明有一大票武器可以用結果就帶了BONK!其他全用默認的死考特&lt;br&gt;明明閃現無CD爽爽用還要高呼不公平的閃光&lt;/s&gt;}} || [https://youtu.be/lT8EnpEQMsY youtube] 
+|-
+| 67 || Ken vs Terry&lt;br&gt;肯（快打旋風） vs 泰利（餓狼傳說） || 美國知名街頭格鬥強者對決 || {{censored|泰利以スターダンクボルケイノ把肯的頭部打爆&lt;br&gt;&lt;s&gt;Boomstick：至少伊麗莎單身了→伊麗莎聽到這消息後，一定會覺得這實在「泰」可怕（Terry-ble）了&lt;/s&gt;}} || [https://youtu.be/U-TR6A452tY youtube] 
+|-
+| 68 || Amy Rose vs Ramona Flowers&lt;br&gt;艾咪·蘿絲（音速小子） vs 蘿夢娜·花（歪小子史考特） || 主角的大鎚情人對決 || {{censored|艾咪作出龍捲風把蘿夢娜和數台電玩機台吸在一起令蘿夢娜受到重創，此時艾咪打出一部尚在空中的電玩機台令蘿夢娜被機台壓死&lt;br&gt;&lt;s&gt;索尼克&amp;amp;史考特表示：「這刺蝟小妮子很可怕！」&lt;/s&gt;}} || [https://youtu.be/9yho9r-Xq2w youtube] 
+|-
+| 69 || Hulk vs Doomsday&lt;br&gt;浩克（漫威漫畫） vs 末日（DC漫畫） || 美漫兩大手的憤怒破壞巨人對決 || {{censored|末日生出利刃盡插浩克全身，再拔出浩克的頭部（+氣管）獲勝}} || [https://youtu.be/n8a8UJnk2HY youtube] 
+|-
+| 70 || Zoro vs Erza&lt;br&gt;羅羅亞·索隆（航海王） vs 艾爾莎·史卡雷特（Fairy Tail） || 頂尖[[雙持|多刀流]]劍士對決 || {{censored|索隆發動九刀流 阿修羅狀態突破艾爾莎風神之劍的劍陣且衝向改發動清心之鎧、手持妖刀紅櫻的艾爾莎，兩者刀鋒相碰之下索隆把艾爾莎的身體從正中線斬斷獲勝}} || [https://youtu.be/T2A1N4Q-_z8 youtube] 
+|-
+| 71 || Deadpool vs Pinkie Pie&lt;br&gt;死侍（漫威漫畫） vs 蘋琪派（彩虹小馬） || 瘋狂第四面牆突破者對決&lt;br&gt;「無人能打破DEATH BATTLE，但有一個例外」&lt;br&gt;第三季的搞笑回兼閉幕戰&lt;br&gt;&lt;s&gt;↑寫這句時筆者的雙手真的充滿汗水... &lt;/s&gt; || {{censored|死侍和蘋琪派成為了好友，一起穿越至各對戰，最後在DEATH BATTLE座談會裡死侍對主持人埋怨自己要在生日那天打DEATH BATTLE時，蘋琪派用派對砲迅速布置場地為死侍慶祝生日作結&lt;br&gt;&lt;s&gt;Wizard：Boomstick，我想是我們輸了……&lt;/s&gt;}} || [https://youtu.be/9T5QzLD5koc youtube] 
+
+|-
+| colspan="5" align="center" |'''第四季'''
+|-
+| 72 || Lara Croft vs Nathan Drake&lt;br&gt;蘿拉·卡芙特（古墓奇兵） vs 奈森·德瑞克（秘境探險） || &lt;s&gt;遺跡破壞者&lt;/s&gt;秘境探寶者對決&lt;br&gt;第四季開幕戰 || {{censored|蘿拉投出攀山斧擊中柰森正駕駛著來逃走的直昇機，柰森被直昇機爆炸轟往地面後被直昇機的螺旋槳貫穿身體而死}} || [https://youtu.be/JZqvscPIRfc youtube] 
+|-
+| 73 || Scrooge McDuck vs Shovel Knight&lt;br&gt;史高治·麥克老鴨（唐老鴨俱樂部） vs [[鏟子]]騎士（鏟子騎士） || 以棍棒狀工具彈跳的尋寶者對決&lt;s&gt;又要尋寶了&lt;/s&gt; || {{censored|史高治先以消除摩擦光線及消除慣性光線慣性令鏟子騎士陷入金幣池，再用其鏟子把鏟子騎士的頭砍斷}} || [https://youtu.be/dUG5LUHlgq4 youtube] 
+|-
+| 74 || Venom vs Bane&lt;br&gt;猛毒（漫威漫畫） vs 班恩（DC漫畫） || 美漫兩大手對決：Venom vs Venom&lt;br&gt;肌肉型蝙蝠俠宿敵vs肌肉型蜘蛛人宿敵&lt;br&gt;&lt;s&gt;這樣組合太牽強了吧？&lt;/s&gt; || {{censored|猛毒從身體伸出共生體利刃插傷企圖折斷他的腰的班恩後，先發射蜘蛛絲拘束班恩再以另一串蜘蛛絲拔掉班恩的頭部獲勝&lt;br&gt;事後猛毒按其「營養需要」吃掉班恩的腦袋}} || [https://youtu.be/xgMHAcF0ggY youtube] 
+|-
+| 75 || Power Rangers vs Voltron&lt;br&gt;金剛戰士&lt;ref&gt;第一季的五人組&lt;/ref&gt;  vs 聖戰士&lt;ref&gt;第一季的Lion Voltron，藍獅子駕駛員為愛娜公主&lt;/ref&gt; || 經美國改編的日本製戰隊式作品對決&lt;br&gt;機器人決鬥，雙方戰鬥用的機器人分別為金剛戰神（Megazord）和聖戰士（Voltron），雙方不能使用其他支援機&lt;br&gt;花費金錢最多的一集 || {{censored|斷掉右手的聖戰士邊發射Eye Beams+其餘射擊武器阻止金剛戰神的進迫邊發射Lion Head Attack（左腕的[[{{Censored|火箭飛拳}}]]）拾回Blazing Sword，金剛戰神抵受不住Eye Beams的強大能量後被聖戰士一刀斬爆}} || [https://m.youtube.com/watch?v=39NZNqI9sbs youtube] 
+|-
+| 76 || Natsu vs Ace&lt;br&gt;納茲·多拉格尼爾（FAIRY TAIL） vs 波特卡斯·D·艾斯（航海王） || 日漫火炎使者對決 || {{censored|納茲以雷火龍的咆哮將艾斯燒燼}}  || [https://youtu.be/lCzUMUbTKes youtube] 
+|-
+| 77 || Sub-zero vs Glacius&lt;br&gt;絕對零度（真人快打） vs 加西亞斯（殺手挽歌） || 美國兩大血格鬥遊戲的寒冰戰士對決 || {{censored|加西亞斯企圖化為液體型態包覆絕對零度全身卻被對手逃脫，頭部連同脊椎被絕對零度拔出而死}} || [https://youtu.be/lDcp0KRuXQ0 youtube] 
+|-
+| 78 || Android 18 vs Captain Marvel&lt;br&gt;人造人間18號（七龍珠） vs 驚奇隊長&lt;ref&gt;第二代，即最初以「驚奇女士（Ms.Marvel）」名義當超級英雄的卡蘿·丹弗斯&lt;/ref&gt;（漫威漫畫） || 集超人力量、飛行能力與光波攻擊能力於一身的戰鬥女士對決 || {{censored|18號踢斷驚奇隊長的雙手後將其轟往地面，降下並多加一腳踏爆驚奇隊長的頭獲勝}} || [https://youtu.be/wcNvMW4s9a8 youtube]
+|-
+| 79 || Metal Sonic vs Zero&lt;br&gt;金屬索尼克（音速小子） vs 傑洛（洛克人） || &lt;s&gt;第二季蛋頭博士vs威利博士&lt;/s&gt;&lt;br&gt;被製造以毀滅一切的究極機械人對決 || {{censored|黑傑洛發動Dark Hold對抗Metal Overlord的混沌控制，再以蓄力斬將Metal Overload一分為二}} || [https://youtu.be/gmpUKsbfdAY youtube]
+|-
+| 80 || Lucario vs Renamon&lt;br&gt;路卡利歐（精靈寶可夢） vs 妖狐獸（數碼寶貝） || &lt;s&gt;第二季精靈寶可夢vs數碼寶貝&lt;/s&gt;&lt;br&gt;雙方沒有主人所以不能再進化 || {{censored|路卡利歐召喚骨棒（骨棒亂打）邊扺擋妖狐獸的鑽石風暴邊前進，以骨棒插穿妖狐獸的喉嚨令其死亡獲勝}} || [https://youtu.be/qEirUxHqN60 youtube]
+|-
+| 81 || Barlog vs TJ Combo&lt;br&gt;拜森（快打旋風）vs TJ Combo（殺手挽歌） || 知名格鬥遊戲的美藉黑人（+集氣必殺技指令）拳擊手對決 || {{censored|TJ Combo發動狂戰士力量作出連環高速拳擊令拜森無法招架，TJ Combo打斷拜森的右手後加上一記上勾拳打甩拜森的頭部獲勝&lt;br&gt;拜森的頭部掉下時打壞了攝影機}} || [https://youtu.be/v5De-wnfqto youtube]
+|-
+| 82 || Shredder vs Silver Samurai&lt;br&gt;許瑞德（忍者龜） vs 銀色武士（漫威漫畫） || 銀色鎧甲忍者武士對決 || {{censored|超級許瑞德把銀色武士的左手切斷後再把銀色武鵼勾佩劍打出去插穿銀色武鵼勾頭部，最後拔出其頭部捏爆&lt;br&gt;這之後銀色武士在地獄Ferrata再被惡魔以Soul-destroying Sword再殺死一次}} || [https://youtu.be/byPUsTmY3JE youtube]
+|-
+| 83 || Smokey Bear vs McGruff the Crime Dog&lt;br&gt;護林熊（美國林務局） vs 反罪惡犬（全國罪惡防範理事會） || 美國公務機構用作宣傳通識的[[吉祥物]]對決&lt;br&gt;第四季的搞笑回&lt;br&gt;戰鬥片段委託了動畫製作公司以手繪動畫型式製作，製作歷時三年 || {{censored|雖然護林熊一度被反罪惡犬開怪獸卡車壓倒，但護林熊發揮其變成&lt;s&gt;哥吉熊&lt;/s&gt;巨熊的能力後就反過來把反罪惡犬連同卡車當成蚊子般一起拍扁了&lt;br&gt;反罪惡犬的遺言：「各位朋友要記住…要記住我…」}} || [https://youtu.be/dyVMdACRTL0 youtube]
+|-
+| 84 || Thor vs Wonder Woman&lt;br&gt;索爾（漫威漫畫） vs 神力女超人（DC漫畫） || 美漫兩大手的下凡神族超級英雄對決 ||  {{censored|神力女超人先以真言套索令狂戰士狀態的索爾用Mjolnir反攻擊自己，再以脫下手觸的一劍貫穿索爾的頭部&lt;br&gt;月球於此戰被Mjolnir摧毀 }}  ||[https://youtu.be/Dp-bjnn_aOE youtube]
+|-
+| 85 || Naruto vs Ichigo&lt;br&gt;[[漩渦鳴人]]（火影忍者） vs [[黑崎一護]]（&lt;s&gt;漂白水&lt;/s&gt;死神） || 周刊少年JUMP的術系少年主角對決 || {{censored|黑崎一護以無月攻擊漩渦鳴人但被擋下，鳴人再以尾獸玉把一護消滅。&lt;s&gt;[[成句/何…だと…|{{censored|何…だと…}}]]&lt;/s&gt;&lt;br&gt;尾獸玉的光芒甚至穿越至仍在戰鬥的查克·羅禮士和世嘉三四郎}} ||[https://youtu.be/ltfCMQeJ5NU youtube]
+|-
+| 86 || Batman Beyond vs Spider-Man 2099&lt;br&gt;未來蝙蝠俠（DC漫畫） vs 蜘蛛人 2099（漫威漫畫） || 美漫兩大未來版本的超級英雄對決 || {{censored|蝙蝠俠利用閃光彈阻礙蜘蛛俠的視線，再以連環毆打在其身上裝上炸藥蝙蝠飛鏢將其胸部炸出一個大洞&lt;br&gt;&lt;s&gt;家有一老，如有一寶&lt;/s&gt;}} || [https://youtu.be/As04VInQ-3U youtube]
+|-
+| 87 || Sephiroth vs Vergil&lt;br&gt;賽菲羅斯（最終幻想系列） vs 維吉爾（惡魔獵人） || 電玩界有名白髮暗墮長劍士對決&lt;br&gt;第四季閉幕戰 || {{censored|賽菲羅斯以幻象掩護自己施放超新星攻擊，魔人化的維吉爾雖然成功逃脫但也身受重創解除魔人化，最終被賽菲羅斯一刀兩斷}} || [https://youtu.be/8sdzSDKquiY youtube]
+|-
+| colspan="5" align="center" |'''第五季'''
+|-
+| 88 || Batman vs Black Panther&lt;br&gt;蝙蝠俠（DC漫畫） vs 黑豹（漫威漫畫） || 美漫兩大手的黑衣人體術英雄對決&lt;br&gt;第五季開幕戰 || {{censored|黑豹以反金屬利爪把蝙蝠俠的頭抓飛再把身體踢下下水道，蝙蝠俠的身體途中被虎鯨吃掉}} || [https://youtu.be/tD9WCpNFpnY youtube]
+|-
+| 89 || Raven vs Twilight Sparkle&lt;br&gt;瑞雯（DC漫畫） vs 紫悅（彩虹小馬） || 塔拉·史壯聲演的人氣魔法使女主角的對決 || {{censored| 紫悅將瑞雯變形成小盆栽，正打算一腳踏破時被瑞雯的本我靈魂高速撞擊而死}}||[https://youtu.be/yF_D3EEq3bg youtube]
+|-
+| 90 || Jotaro Kujo vs Kenshiro&lt;br&gt;空條承太郎（JOJO） vs 拳四郎（北斗の拳）|| J家黃金期的兄貴對決 ||  {{censored| 拳四郎以幻象狀態擾亂白金之星同時成功點中承太郎的穴道，「[[成句/你已經死了|{{censored|おまえは、もう死んでいる}}]]」}} ||[https://youtu.be/W-DTXGVTfkc youtube]
+|-
+| 91 || Crash vs Spyro&lt;br&gt;袋狼（袋狼大進擊系列） vs 斯派羅（寶貝龍系列）|| Activision著名3D過關動作遊戲系列主角對決 || {{censored|斯派羅變身成暗黑斯派羅把袋狼打往水面，袋狼對對手毫不在乎之際遭到斯派羅噴出Dark Aether攻擊，即使被察覺到危機的Aku Aku幫手格擋還是被轟至灰飛煙滅&lt;br&gt;&lt;s&gt;不過因為Sprax先被袋狼拍死所以斯派羅無法變回原型了&lt;/s&gt;}} || [https://youtu.be/Uizkh5VBUPI youtube]
+|-
+| 92 || Sora vs Pit&lt;br&gt;索拉（[[王國之心]]系列） vs 彼特（光神話系列） || 與惡魔對峙的奇異武器小伙子英雄對決 || {{censored|索拉鍵刃射出光束打破彼特利用三神器射出的光彈，光束貫穿了彼特的頭部令其死亡}} || [https://youtu.be/sP6zEprq1zs youtube]
+|-
+| 93 || Leon Kennedy vs Frank West&lt;br&gt;[[里昂‧史考特‧甘乃迪]]（[[惡靈古堡]]） vs 富蘭克·威斯特（Dead Rising） || 卡普空旗下的喪屍城生還者對決 || {{censored|里昂從富蘭克以Exosuit射出的冷凍龍卷風中掙脫，再以特製火箭炮把大意的富蘭克炸爆&lt;br /&gt;&lt;s&gt;都已經被喪屍包圍欄了，難度你們不能合作一下嗎？&lt;/s&gt;}} || [https://youtu.be/z8mQs8OOjJs youtube]
+|-
+| 94 || Strange vs Fate&lt;br&gt;奇異博士（漫威漫畫） vs 命運博士（DC漫畫） || 美漫兩大手的法師超級英雄醫生對決 || {{censored|奇異博士被命運博士融合形態的光波消滅前冒險以精神靈魂形態進入命運博士的精神世界，結果反被命運博士&lt;s&gt;人多勢眾&lt;/s&gt;的優勢把奇異博士的精神給抹消，精神被抹消當然肉體也會跟者消失}} ||[https://youtu.be/rUmPZAIlFdA youtube]
+|-
+| 95 || Ryu vs Jin&lt;br&gt;隆（快打旋風） vs [[風間仁]]（[[鐵拳]]） || 日系著名格鬥遊戲兩大{{censored|會黑化的}}主角對決 || {{censored|殺意隆被惡魔仁以零距離施放的惡魔光束轟過後發動了無之拳狀態，放出光束狀的波動拳把惡魔仁的胸口轟出一個大洞而得勝}} || [https://youtu.be/ShNj6vyKf_k youtube]
+|-
+| 96 || Samurai Jack vs Afro Samurai&lt;br&gt;傑克武士（傑克武士） vs 爆炸頭武士（爆炸頭武士） || 美國/日本動畫兩大武士主角對決&lt;br&gt;本集第二度以全手繪動畫型式製作 || {{censored|斷橋而墮下的傑克武士在河底著陸後迎擊跳下來攻擊的爆炸頭武士，以被砍斷右手為代價把對手的雙手都砍斷，最後揮刀把爆炸頭武士的身體斬成十數塊}} || [https://youtu.be/KzR7C2kyzFM youtube]
+|-
+| 97 || Carnage vs Lucy&lt;br&gt;屠殺（漫威漫畫） vs 露西（妖精的旋律） || 美國/日本動/漫畫長有觸手、殖入變異體的變態殺人狂對決&lt;br&gt;{{censored|原本屠殺是給安排跟亞歷克斯‧莫瑟對決的，但主持透露因為亞歷克斯vs柯爾呼聲更高的關係對手給換成露西。}} || {{censored|露西啟動強化形態堵截屠殺的所有進攻、摧毀列車斷其匿藏及補給處、&lt;s&gt;一副迷人的女王臉&lt;/s&gt;一記巨大矢量掌把屠殺推倒在地上、再擲出六顆巨大矢量核打擊將身體炸至灰燼再生不能。&lt;br&gt;發動強化形態時間只有約30秒且只擲出六顆核打擊所以露西身體沒有立刻融化。&lt;br&gt;主持宣布露西&lt;s&gt;矢量堵截屠殺、奏起勝利旋律&lt;/s&gt;得勝。&lt;br&gt;列車站在此激戰中被毀滅。}} || 
+[https://www.youtube.com/watch?v=ap2GYLOzY0I youtube]
+|-
+| 98 || Optimus Prime vs Gundam&lt;br&gt;[[柯博文]]（變形金剛） vs RX-78-2 鋼彈 （[[機動戰士鋼彈]]） || 美國/日本傳統機械人動畫主角對決&lt;br&gt;RTX2018裡公開有此對戰 ||  {{censored|柯博文被鋼彈以光束劍插下右臂過後發動了領袖矩陣，放出巨大原能光束把鋼彈的胸口轟至大爆炸，[[阿姆羅‧雷|{{censored|阿姆羅‧雷}}]]死在駕駛艙中}} || [https://youtu.be/Fyh2iO0rCh4 youtube]
+|-
+| 99 || Nightwing vs Daredevil&lt;br&gt;夜翼（DC漫畫） vs 夜魔俠（漫威漫畫） || 美漫兩大手以私刑行公義的短棍高手英雄對決&lt;br&gt;首集真人演繹的戰鬥，由Ismahawk{{ref|同樣是一個有製作對決系列影片「Minute Match Up」的組織，它亦有為夜翼做一系列短片。}}製作 || {{censored|夜翼利用高音波翼鏢阻礙夜魔俠的聽覺，再以一記電光拳打在夜魔俠的頸上（首が折れる音）還打甩了頭罩&lt;br&gt;其實夜魔俠敗因在於&lt;s&gt;自暴其短&lt;/s&gt;其弱點早給夜翼的高科技目鏡看透}} || [https://youtu.be/VOYloEFEEvs youtube]
+|-
+| 100 || Mario vs Sonic&lt;br&gt;[[Mario|瑪利歐]]（瑪利歐系列） vs 索尼克（[[音速小子系列]]）第二集 || 兩大遊戲主機看板再戰&lt;br&gt;主持聲稱不同於孫悟空vs超人第二集的再戰，而是隨著時間流逝規則演進以及兩個系列都出了新遊戲，所以需要重新思考分析兩者性能更新後在新規則下的表現&lt;br&gt;Wizard和Boomstick首次以卡通型象在影片裡出現&lt;br&gt;本集第三度以全手繪動畫型式製作 || {{censored|索尼克在極高空中以刺滾衝向瑪利歐，瑪利歐用手接住索尼克直到摩擦產生高熱後，把變成火球的索尼克扔往海中，產生出巨型磨菇雲的海底大爆炸把索尼克炸至粉身碎骨。&lt;br&gt;月球&lt;s&gt;又&lt;/s&gt;於此戰中被毀滅。&lt;br&gt;首個再戰後勝方改變的集數。}} || [https://youtu.be/nabMFIDhw6c youtube]
+|-
+| 101 || Ultron vs Sigma&lt;br&gt;奧創（漫威漫畫） vs 西格瑪（洛克人系列） || 因為理智AI失控而[[暗墮]]的反派機器人軍團頭目對決 || {{censored|在電腦世界中，奧創把西格瑪給強行覆蓋後獲勝，外面原先西格瑪軍團的機器人也全部奧創化處理。}} || [https://youtu.be/LXlgSvch6eg youtube]
+|-
+| 102 || Roshi vs Jiraiya&lt;br&gt;龜仙人（七龍珠） vs 自來也（火影忍者） || Jump漫畫主角的偉大&lt;s&gt;好色&lt;/s&gt;老頭子師傅對決 || {{censored|龜仙人和自來也以龜派氣功和螺旋丸對撼以後，自來也以魔幻·蝦蟆臨唱把龜仙人的靈魂抽出，自來也欲以石劍解決龜仙人之際給以&lt;s&gt;仿無我極境&lt;/s&gt;慣性衝過來的龜仙人肉體用醉拳打破自來也幻術以及打爆自來也現實的肉體。}} || [https://youtu.be/qgmuQDOUeHE youtube]
+|-
+| 103 || Thanos vs Darkseid&lt;br&gt;薩諾斯（漫威漫畫） vs 達克賽德（DC漫畫） || 美漫兩大手宇宙級超級反派暴君對決&lt;br&gt;第五季閉幕戰&lt;br&gt;據報是&lt;b&gt;最多網民要求製作&lt;/b&gt;的對戰 || {{censored|達克賽德引誘薩諾斯進入第四宇宙使其無限手套失效，再以歐米茄制裁將其囚禁在無盡的死亡中。&lt;br&gt;多個太陽系都在此激戰中被毀滅。&lt;br&gt;&lt;s&gt;死侍於此集先被薩諾斯變灰，在歐米茄制裁內NTR薩諾斯後把他殺死。&lt;/s&gt;}} || [https://youtu.be/MisAkBx0u7E youtube]
+|-
+| colspan="5" align="center" |'''第六季'''
+|-
+| 104 || Aquaman vs Namor&lt;br&gt;水行俠（DC漫畫） vs 納摩（漫威漫畫） || 美漫兩大手的阿特蘭提斯之王兼深海超級英雄對決&lt;br&gt;第六季開幕戰 || {{censored|水行俠先以心靈攻擊令納摩無法動彈，再控制深海魚攻擊，最後以投擲三叉戟把納摩的頭貫飛。}}  || [https://youtu.be/JmgwOYZmOAs youtube]
+|-
+| 105 || Mega Man Battle Royale&lt;br&gt;洛克人大亂鬥 || 歷代洛克人主角（[[洛克人系列#.E5.85.83.E7.A5.96.E6.B4.9B.E5.85.8B.E4.BA.BA.E7.B3.BB.E5.88.97|元祖洛克人]]、[[洛克人系列#.E6.B4.9B.E5.85.8B.E4.BA.BAX.E7.B3.BB.E5.88.97|洛克人X]]、[[洛克人系列#.E6.B4.9B.E5.85.8B.E4.BA.BADASH.E7.B3.BB.E5.88.97|洛克人DASH]]、[[洛克人系列#.E6.B4.9B.E5.85.8B.E4.BA.BAEXE.E7.B3.BB.E5.88.97|洛克人EXE]]、[[洛克人系列#.E6.B5.81.E6.98.9F.E6.B4.9B.E5.85.8B.E4.BA.BA.E7.B3.BB.E5.88.97|流星洛克人]]）互毆&lt;br&gt;&lt;s&gt;洛克人[[傑洛]]、洛克人ZX、洛克人DOS、阿奇洛克人、洛克人Fully Charged缺席&lt;/s&gt; || {{censored|元祖洛克人及&lt;s&gt;最弱的&lt;/s&gt;洛克人DASH被捲入洛克人們製造的黑洞中死亡&lt;br&gt;流星洛克人以電波入侵洛克人X並成功控制，最終被洛克人EXE一同消滅。}}  ||[https://youtu.be/10_Oz1Csi_Q youtube]
+|-
+| 106 || Black Widow vs Widowmaker&lt;br&gt;黑寡婦（漫威漫畫） vs 奪命女（Overwatch） || &lt;s&gt;寡婦vs寡婦製造機&lt;/s&gt;現代地下組織的緊身衣女殺手對決 || {{censored|黑寡婦以Widow Line成功纏住奪命女的頸，踩著對手背部用力一拉，扯甩奪命女的頭部}} || [https://youtu.be/OwRNmKdy2_k youtube]
+|-
+| 107 || Captain Marvel{{ref|與vs18號一樣都是卡羅.丹弗斯}} vs Shazam&lt;br&gt;驚奇隊長（漫威漫畫） vs 沙贊（DC漫畫） || 美漫兩大手的Captain Marvel對決 || {{censored|沙贊一拳將驚奇隊長轟得只剩殘肢獲勝}} ||[https://youtu.be/uR3GCIjqIFs youtube]
+|-
+| 108 || Wario vs Dedede&lt;br&gt;瓦利歐（瑪利歐系列） vs 帝帝帝大王（星之卡比） || 身為主角競敵的肥胖兼貪財的任天堂反派/反英雄對決 || {{censored|巨大化瓦利歐準備向巨大化帝帝帝大王作出終極放屁攻擊時被帝帝帝打出的黑刺球塞住屁眼，結果引發毀滅行星的大爆炸。瓦利歐被炸至粉碎，帝帝帝則悠悠地在宇宙空間中小睡。}} || [https://youtu.be/Yri46dxMuv4 youtube]
+|-
+| 109 || Ben 10 vs Green Lantern&lt;br&gt;[[田小班]]（Ben 10） vs [[綠光戰警]]（DC漫畫） || 美國動畫的綠色宇宙維和組織的地球成員對決 || {{censored|綠光戰警知道田小班利用Alien X的時間回朔能力改變戰局後穿越時間返回兩者開打前的過去，從田小班的背後以燈戒變成的剪刀剪斷其左手，再變出巨大的腳把田小班踩死&lt;br&gt;&lt;s&gt;獲勝原因考慮到無限地球危機綠光戰警其實不扯，但是比較討厭的哈二穩了，所以田小班迷鬧翻製片商，本片的油管評價比孫悟空vs超人第一和第二戰還差&lt;/s&gt;}} || [https://youtu.be/5hos7hv1Cn8 youtube]
+|-
+| 110 || Weiss vs Mitsuru&lt;br&gt;Weiss Schnee（RWBY） vs 桐条美鶴（[[女神異聞錄系列]]） || 日美ACG兩大西洋劍冰美人對決 || {{censored|桐条美鶴以ニブルヘイム擊中衝過來的Weiss並將之擊殺}} || [https://youtu.be/G-2ISN5u4Pg youtube]
+|-
+| 111 || Johnny Cage vs Captain Falcon&lt;br&gt;強尼・凱吉（真人快打） vs 飛隼隊長（F-ZERO） || 以娛樂職業隱藏身份的招牌拳技格鬥高手對決 || {{censored|乘上藍色獵隼的飛隼隊長啟動Boost Fire旋轉車身，重創在防風鏡上揮拳企圖打爆車頭玻璃的強尼，然後跳出車外使出飛隼拳把強尼打成無數屍塊&lt;s&gt;，さすがCF&lt;/s&gt;&lt;br&gt;&lt;s&gt;飛隼隊長在戰鬥途中還是硬吃了強尼的碎蛋拳，贏了對決以後生育能力存疑。&lt;/s&gt;}} || [https://youtu.be/7DWWkU6Jerw youtube]
+|-
+| 112 || Aang vs Edward&lt;br&gt;安（降世神通） vs 愛德華‧愛力克（鋼之鍊金術師） || 與集權國家對抗的&lt;s&gt;小豆丁&lt;/s&gt;少年元素使者對決 || {{censored|安於一輪混戰中弄斷愛德華的右臂，愛德華從混亂中逃脫並用左臂畫下煉金圖陣，企圖用地面生成石頭把安壓死，但安發動了降世形態並用元素氣功波把愛德華炸的稀巴爛。&lt;br&gt;&lt;s&gt;愛德華：最少我還比你高一點兒…（遺言）&lt;/s&gt;}} || [https://youtu.be/HhwRcEM8kJ0 youtube]
+|-
+| 113 || Ghost Rider vs Lobo&lt;br&gt;惡靈戰警（漫威漫畫） vs 暴狼（DC漫畫） || 美漫兩大手使用鎖鍊的[[不死身]]地獄反英雄鐵騎士對決 || {{censored|暴狼利用大口徑火焰槍射中Zarathos（惡靈戰警）後引發大爆炸，餘下靈體的暴狼被復原身體的Zarathos拉過來，施以贖罪之眼後再吃掉}} || [https://youtu.be/0UABTaB-_i8 youtube]
+|-
+| 114 || Mechagodzilla{{ref|三式機龍版}} vs Dragonzord&lt;br&gt;機械哥吉拉（哥吉拉）  vs  異特龍（金剛戰士系列） || 用作對付大怪獸的暴龍型巨大機器人對決&lt;br&gt;RTX2019裡公開有此對戰 || {{censored|暴走的機械哥吉拉抓著剛龍神，並以近距離絕對零度炮將其涷結粉粹&lt;br&gt;&lt;s&gt;獲勝原因很扯但是畫面很精彩所以ACGN迷放過製片商&lt;/s&gt;&lt;br&gt;製作方表示原定雙方的駕駛員生還，但是時間關係沒有繪畫出來。}} || [https://youtu.be/4UtevOQH9g youtube]
+|-
+| 115 || Sasuke vs Hiei&lt;br&gt;宇智波佐助（火影忍者） vs 飛影（幽遊白書） || 周刊少年Jump的邪氣眼少年對決&lt;br&gt;&lt;s&gt;今集要一洗DBX的前恥&lt;/s&gt; || {{censored|宇智波佐助和飛影互斬，飛影受到輕傷，佐助被邪王炎殺劍斬成十數塊&lt;br&gt;&lt;s&gt;獲勝原因很扯但是ACGN迷比較討厭的佐助涼了加上比那場DBX好看一萬倍所以放過製片商&lt;/s&gt;}} || [https://youtu.be/NCXhSnw6ldU youtube]
+|-
+| 116 || Ganondorf vs Dracula&lt;br&gt;加儂道夫（薩爾達傳說） vs 德古拉（[[惡魔城系列]]） || 任天堂 VS Konami：&lt;s&gt;姉齒城建築師&lt;/s&gt;魔王城主對決 || {{censored|魔獸德古拉噴出神聖火焰把魔獸加儂道夫的力量三角手套燒掉，失去三角力量的加儂道夫只能等著被魔獸德古拉抓斷腰迎接死亡。&lt;br&gt;德古拉的&lt;s&gt;姉齒城&lt;/s&gt;城堡在此激戰中被毀滅。}} || [https://youtu.be/-IafWtxX5GQ youtube]
+|-
+| 117 || Mob vs Tatsumaki&lt;br&gt;龍套（影山茂夫） （路人超能100） vs 戰慄的龍捲（[[一拳超人]]） || ONE氏漫畫的超強超能力者英雄對決 || {{censored|被???%龍套以超能力拘束住身體的龍捲引來巨大殞石把龍套砸倒，再揮指令龍套化為灰燼}} || [https://www.youtube.com/watch?v=KYTaY21z07I youtube]
+|-
+| 118 || Deadpool vs Mask&lt;br&gt;死侍（漫威漫畫） vs 面具（摩登大聖） || 美國超級英雄漫畫裡的瘋狂反英雄對決&lt;br&gt;第六季的搞笑回 || {{censored|死侍和史坦萊•伊卜吉對戰時發現同時擁有連續性寶石，發現唯一優勢也沒有的他以打破第四面牆之力加歌劇形式把寶石寄給Wiz和Boomstick，自己本身就是給削成人棍再給核彈炸到灰飛煙滅。&lt;br&gt;&lt;s&gt;是次戰鬥Wiz和Boomstick把原創漫畫、合作漫畫、動畫跟真人電影的面具複合起來並局限死侍於地球616形態，結果連Wiz和Boomstick也覺得太偏頗了，反而令死侍在面具寄連續性寶石給Wiz和Boomstick時於戰場外復活…&lt;/s&gt;}} || [https://youtu.be/XTz5HWiLkIE youtube]
+|-
+| 119 || All Might vs Might Guy&lt;br&gt;歐爾麥特（我的英雄學院） vs 瘋狂阿凱（火影忍者） || 周刊少年Jump的笑容滿面、外掛缺乏但身體能力瘋狂超班的導師級英雄對決&lt;br&gt;第六季閉幕戰 || {{censored|歐爾麥特以United States of Smash轟向阿凱的胸部卻沒能取他性命，阿凱自己開啟了八門遁甲第八門「死門」，巨龍氣場包圍阿凱使自身成為了「紅色猛獸」，阿凱迅速發動最強體術「夜凱」踢死了再以United States of Smash迎擊的歐爾麥特，歐爾麥特身體給巨龍氣場吞噬並發生爆炸。精疲力盡的阿凱也隨即倒下。&lt;br&gt;因為DEATH BATTLE當局認為瘋狂阿凱是在分出勝負之後才死去，最後判定瘋狂阿凱獲勝。&lt;br&gt;雙方從頭到尾一直打一直燦爛的笑，笑到最後。&lt;br&gt;&lt;s&gt;阿凱：哇…真漂亮的對決…下次…再戰吧…（遺言）&lt;/s&gt;&lt;br&gt;一大部分的&lt;s&gt;紐約中央&lt;/s&gt;公園在此激戰中被毀滅。}} || [https://youtu.be/y2ElPGBm9Bo youtube]
+|-
+| colspan="5" align="center" |'''第七季''' 
+|-
+| 120 || Miles vs Static&lt;br&gt;蜘蛛人（邁爾斯•摩拉斯）（漫威漫畫） vs 靜電（維吉爾•霍金斯）（DC漫畫） || 美漫兩大手的&lt;s&gt;逆流&lt;/s&gt;向前超級英雄接班的青年非籍美國人對決&lt;br&gt;第七季前段開幕戰 || {{censored|維吉爾以高壓電力把邁爾斯的戰鬥服負荷超載，邁爾斯給直接電成灰燼並引發了一個空中的爆炸。}} || [https://youtu.be/3Dt7xh3hcjM youtube]
+|-
+| 121 || Black Canary vs Sindel&lt;br&gt;黑金絲雀（DC漫畫） vs 辛黛爾（真人快打） || 華納旗下兩大代表性美女[[殺人歌聲|音波功]]格鬥家對決 || {{censored|黑金絲雀以雀吼功先鬥贏辛黛爾的海妖尖叫而且把辛黛爾推出格鬥場外。辛黛爾以頭髮企圖把黑金絲雀捏死時黑金絲雀放出雀吼功炸彈解圍並一拳打爆辛黛爾的頭部。&lt;br&gt;出現了自第6季沒有採用的久違的“Fight”宣告，由紹康宣讀。}} || [https://youtu.be/t4QRH0CRjb4 youtube]
+|-
+| 122 || Leonardo vs Jason&lt;br&gt;李奧納多（忍者龜） vs 英傑（紅衣戰士）（金剛戰士） || 受歡迎的英雄團隊智慧型劍士少年領袖對決 || {{censored|英傑一刀把李奧納多的大太刀和李奧納多自身斬成兩半，然後是一個特攝式大爆炸。}} || [https://youtu.be/wio4Nv3K80I youtube]
+|-
+| 123 || Genos vs War Machine&lt;br&gt;傑諾斯（一拳超人） vs 戰爭機器（詹姆士．魯珀特．「羅迪」．羅德）（漫威漫畫） || 日美ACG兩大接受機械改造的動力裝甲跟班對決 || {{censored|傑諾斯以武裝燒毀炮轟向戰爭機器，但是戰爭機器因為幽靈模式沒有受到傷害，反而抓著傑諾斯把他&lt;s&gt;按成現代藝術&lt;/s&gt;按到牆上並以集束炮轟爆其胸口。傑諾斯嘗試自爆和戰爭機器同歸於盡但沒有成功，只剩下一個頭的他給戰爭機器一腳踏爆。&lt;br&gt;開戰之前一座遺跡的一部分給打爆，戰後另一部分也化為塵埃。}} || [https://youtu.be/XQjXPYeRcEE youtube]
+|-
+| 124 || Gray Fullbuster vs Esdeath&lt;br&gt;格雷．佛爾帕斯塔（FAIRY TAIL） vs 艾斯德斯（[[斬！赤紅之瞳]]） || 日漫寒冰戰士對決 || {{censored|艾斯德斯發動摩珂缽特摩凍結時空時遭到格雷發動半惡魔化抵抗，在格雷的絕對冰結和傳送圓包圍之下艾斯德斯生出冰槍，通過其中一個傳送圓刺穿格雷的身體，將他變成染血的冰雕。&lt;br&gt;&lt;s&gt;爆炸棍：一名抖S女上司求偶未遂殺死了一個半脫光牛男，詳細請留意七點新聞。&lt;/s&gt;}}  || [https://youtu.be/AWmdmg-I1EI youtube]
+|-
+| 125 || Goro vs Machamp&lt;br&gt;戈洛（真人快打） vs 怪力{{ref|特性：毅力}} （精靈寶可夢） || 四臂怪力格鬥戰士對決 || {{censored|在兩者均斷一臂的情況下，怪力轟開戈洛後扯斷他餘下的三條手臂，再以爆裂猛攻把戈洛的身體轟成數塊肉塊獲勝}}  || [https://youtu.be/1ZXGw3Q25Ys youtube]
+|-
+| 126 || Cable vs Booster Gold&lt;br&gt;機堡（驚奇漫畫） vs 金色先鋒（DC漫畫） || 美漫兩大手裡穿越時空到現代當超級英雄的未來人對決 || {{censored|金色先鋒召喚了不同時間線的自己壓制機堡，最後把機堡關在能量泡沫中然後榨成肉醬}} || [https://youtu.be/nC8G9OYwVZQ youtube]
+|-
+| 127 || Obi-Wan Kenobi vs Kakashi Hatake&lt;br&gt;歐比王．肯諾比（星際大戰） vs 旗木卡卡西（火影忍者） || 主角{{censored|和惡墮親人/摯友}}的&lt;s&gt;帶梗&lt;/s&gt;偉大師傅兼原力/忍術大師對決&lt;br&gt;播放日：5月4日{{ref|給尊稱為[https://zh.wikipedia.org/wiki/%E6%98%9F%E9%9A%9B%E5%A4%A7%E6%88%B0%E6%97%A5 星際大戰日]}} || {{censored|歐比王靠預知避開了卡卡西的神威，再用原力捏傷了卡卡西的萬花筒寫輪眼。卡卡西用雷切硬沖向歐比王，給歐比王用光束劍腰斬成兩截身體。&lt;br&gt;&lt;s&gt;但是歐比王之前拿了高地優勢還是慘中了卡卡西的[[千年殺|{{censored|千年殺}}]]，贏了對決以後還在喊痛喊不文明。&lt;/s&gt;&lt;br&gt;歐比王的一台Eta-2 Actis級光束截擊機意外墜落在木葉村的郊外，其R4-P17也壯烈犧牲了。}} || [https://youtu.be/45Cs6mZsGok youtube]
+|-
+| 128 || Danny Phantom vs Jake Long&lt;br&gt;丹尼．芬頓（幻影丹尼） vs 傑克．龍（美國龍：傑克龍） || 幽靈和人類的混合體主角vs龍和人類的混合體主角&lt;br&gt;[https://twitter.com/realhartman/status/1257425716351774722 {{censored|獲得創作人}}][https://twitter.com/DavidKaufman23/status/1260778926357372928?s=20 {{censored|和丹尼聲優關注}}]{{censored|&lt;s&gt;，但是戰鬥片段畫質…&lt;/s&gt;}} || {{censored|丹尼附身在傑克身上後讓傑克到處碰壁（物理），再在解除附身後用幽靈光線將傑克轟成灰燼，傑克的靈魂迅即被丹尼用Fenton Thermos吸走。}} || [https://youtu.be/RFR1fP384MY youtube]
+|-
+| 129 || She-Ra vs Wonder Woman&lt;br&gt;神力女超人/神娃公主（美泰兒玩具） vs 神力女超人/黛安娜公主（DC漫畫） || 奇幻聖域出身的公主超級英雄對決&lt;br&gt;第七季前段閉幕戰 ||  {{censored|黛安娜公主一劍劈斷神娃公主的項頸，當中把後面的幾棵樹也砍掉。&lt;br&gt;黛安娜公主的隱形戰鬥機在此激戰中被毀滅。}} || [https://youtu.be/-Icy1o42Ngc youtube]
+|-
+| 130 || Beerus vs Sailor Galaxia&lt;br&gt;比魯斯（七龍珠） vs 凱拉克西亞戰士（[[美少女戦士セーラームーン|美少女戰士]]） || 擁有破壞行星的力量的宇宙戰士對決&lt;br&gt;第七季後段開幕戰 || {{censored|比魯斯以破壞能源光束破壞了凱拉克西亞戰士的銀河手鐲，並繼續將她的身軀破壞成碎塊，剩下的身軀碎塊被吸進了黑洞。&lt;br&gt;多個太陽系在此激戰中被毀滅&lt;s&gt;，包括比魯斯在享受雪糕的時候休息在的地球。&lt;br&gt;比魯斯：這仇是給我的雪糕報的份。&lt;/s&gt;}} || [https://youtu.be/mLOe7vGI0YI youtube]
+|-
+| 131 || Zuko vs Shoto Todoroki&lt;br&gt;蘇科（降世神通） vs 轟焦凍（我的英雄學院） || 面部給燒傷的少年火使者對決 || {{censored|轟焦凍以穿天冰壁封鎖蘇科的行動並貫穿其身體}} || [https://youtu.be/9vrqeH9StTA youtube]
+|-
+| 132 || Flash vs Sonic （Wally West vs Archie Sonic）&lt;br&gt;閃電俠（華利•威斯特）（DC漫畫） vs 索尼克（阿奇漫畫 - 音速小子系列） || 美漫真•超光速男對決 || {{censored|閃電俠在次元層裡取得大量能量，突破索尼克的終極形態並以量子拳把索尼克打至完全分子分離化，&lt;s&gt;多個時間線/平行宇宙（包括同人版本（?））的索尼克給“悖論否定”（存在抹殺）&lt;/s&gt;混沌力量逆流的索尼克把多個時間線/平行宇宙（包括同人版本（?））的索尼克都走馬看花式經歷一遍之後給存在抹殺。}}{{ref|[https://youtu.be/CvKW0_KlMx0 主持在此集Death Battle Cast透露]}} || [https://youtu.be/_hyPif9yhX0 youtube]
+|-
+| BONUS || The Seven Battle Royale&lt;br&gt;七巨頭（黑袍糾察隊）大亂鬥 || 亂鬥參賽者為&lt;s&gt;山寨版神力女超人&lt;/s&gt;梅芙女王、&lt;s&gt;山寨版閃電俠&lt;/s&gt;火車頭、&lt;s&gt;山寨版水行俠&lt;/s&gt;深海王、&lt;s&gt;山寨版超級少女&lt;/s&gt;星光、與及黑袍糾察隊的首領屠夫（比利•布徹），&lt;s&gt;山寨版超人&lt;/s&gt;護國超人當現場裁判、&lt;s&gt;山寨版蝙蝠俠&lt;/s&gt;黑俠前往攝影室當特別嘉賓&lt;br&gt;由亞馬遜影片贊助，雖然是番外篇但和本篇一樣認真製作而非搞笑回 || {{censored|深海王在亂鬥開始時只顧說話而&lt;s&gt;和羅蘋一樣&lt;/s&gt;不小心被火車頭撞成血漿&lt;br&gt;火車頭被星光的閃光弄至失明後胡亂往前衝而被梅芙女王打爆上半身死亡&lt;br&gt;屠夫拿出鐳射嬰兒與星光推光波時突然把鐳射嬰兒轉往上方切斷大廈高層，星光因此被壓死&lt;br&gt;梅芙女王從瓦礫裡走出來衝往屠夫，結果屠夫趕得及讓鐳射嬰兒發出光束把梅芙女王轟成屍塊&lt;br&gt;然而勝利者屠夫得意洋洋之際卻被護國超人一記急降下拳擊打成肉醬，同時&lt;s&gt;山寨版性轉沙贊&lt;/s&gt;風暴前線從天而降並要求與護國超人對戰一場}} || {{youtube|rk1RQsiz7dk|戰鬥（youtube）}}&lt;br&gt;{{youtube|tM1qnJEWUsY|賽後分析（youtube）}}
+|-
+| 133 || Winter Soldier vs Red Hood&lt;br&gt;酷寒戰士（漫威漫畫） vs 紅頭罩（DC漫畫） || 美漫兩大手裡死而復生後一時成為反派的前超級英雄助手對決&lt;br&gt;第二集真人演繹的戰鬥，也是由Ismahawk製作&lt;s&gt;所以又有一個前羅賓&lt;/s&gt; || {{censored|酷寒戰士以左手捏碎紅頭罩頭骨&lt;br&gt;&lt;s&gt;酷寒戰士途中用鐵撬把紅頭罩打出PTSD&lt;/s&gt;}}  || [https://youtu.be/6cxF-am_eoM youtube]
+|-
+| 134 || Venom vs Crona&lt;br&gt;猛毒（漫威漫畫） vs 古洛那（噬魂師） || 美/日漫與共生體結伴的主角宿敵對決 || {{censored|古洛那把Ragnarok插進猛毒的身體並零距離施放悲鳴共鳴，艾迪‧布洛克和猛毒共生體一起給轟散。&lt;br&gt;&lt;s&gt;爆炸棍：漫威的共生體就不該找粉紅頭髮的日本動漫反惡棍單挑啊...&lt;/s&gt;}} || [https://youtu.be/SMw8kySAXkw youtube]
+|-
+| 135 || Sabrewulf vs Jon Talbain&lt;br&gt;劍齒狼（殺手挽歌） vs 加隆（魔域幽靈） || 格鬥遊戲裡為正義而戰的人狼對決 || {{censored|兩個狼人互相做出激烈廝殺，加隆在自己的小腸都給扯出並纏著頸的情況下用零距離火龍炮解圍並用狼牙咬著劍齒狼的頸部並活生生的把頭部從身上撕開。&lt;br&gt;&lt;s&gt;爆炸棍：這場決鬥用殘酷兩字也不夠描述呀，那前後流了多少血？最少也有一個幾個“加隆”啊...&lt;/s&gt;}} || [https://youtu.be/eGWYkn5as1E youtube]
+|-
+| 136 || Red vs Blue&lt;br&gt;紅隊（Red vs. Blue） vs 藍隊（Red vs. Blue） || Red vs. Blue: Zero播映紀念篇&lt;br&gt;參戰者為&lt;br&gt;紅隊：隊長Sarge、Simmons、Grif、Donut、Lopez&lt;br&gt;藍隊：隊長Church、Tucker、特務Texas、Caboose、坦克生命體Sheila&lt;br&gt;第七季的搞笑回&lt;br&gt;[https://twitter.com/DEATHBATTLE/status/1317201713204441088 因為原影片系列延期首播而令本集延期到11月16日] ||  {{censored|戰況非常荒誕而且激烈，以下僅列出角色死因以及次序：&lt;br&gt;Simmons駕駛疣豬號想聽從Sarge的指示繞過坦克生命體Sheila的背後偷襲，但是進入了洞窟迷宮之後卻從懸崖跳出，給Caboose操縱的Sheila一發擊破，Sarge生還，Simmons死亡。&lt;br&gt;Donut在和Lopez趕過來的時候用從超遠距離投扔出的一個蜘蛛黏貼榴彈炸毀Sheila，Caboose跳出坦克生還。&lt;br&gt;之後就是一場4v4的大混戰。&lt;br&gt;Tucker單挑Lopez並妙用Great Key刺穿Lopez的胸部並砍了頭。&lt;br&gt;特務Texas和Sarge單挑，Grif在Texas佔優的時候捨身救援卻給Texas拳打腳踢其蛋蛋並扭斷了項頸。&lt;br&gt;Church和Donut槍戰持續不下，Church&lt;s&gt;因為遠戰瞄準太不濟&lt;/s&gt;放棄狙擊槍改用手槍打近身戰，結果Caboose拿起狙擊槍一發誤打誤撞的先後轟殺（誤殺）了Texas、Donut、Tucker和Church。&lt;br&gt;避開轟殺Texas的一擊的Sarge完好的站在Caboose面前對峙著，正要一決勝負之際Tucker開戰前向傳送門掉出的手榴彈出現在Sarge腳底並把Sarge炸死。&lt;br&gt;&lt;s&gt;因為紅隊只剩下只有一個頭的Lopez但是藍隊的Caboose完好站著&lt;/s&gt;DEATH BATTLE當局判定藍隊獲勝。}} || [https://youtu.be/LqYsc7Wm0Bc youtube]
+|-
+| 137 || Batgirl vs Spider-Gwen&lt;br&gt;蝙蝠少女（芭芭拉．高登）（DC漫畫） vs 蜘蛛女（關‧史黛西）（漫威漫畫） || 少女版蝙蝠俠vs少女版蜘蛛人 || {{censored|蜘蛛女以蜘蛛絲固定蝙蝠少女並把蝙蝠鏢袋口也封了，蝙蝠少女用抓鉤企圖偷襲蜘蛛女卻整個人給蜘蛛女抓著抓鉤並扯了過去，蜘蛛女用地球-65共生體生出的利爪把蝙蝠少女的項頸抓破。&lt;br&gt;&lt;s&gt;蝙蝠少女在開打之前正在觀看神娃公主vs黛安娜公主並留言請求Screwattack製作浩克vs布羅利&lt;/s&gt;}} || [https://youtu.be/8VtHIEx3lUw youtube]
+|-
+| 138 || Sanji vs Rock Lee&lt;br&gt;賓什莫克．香吉士（賓什莫克．山治）（航海王） vs 李洛克（火影忍者） || 周刊少年JUMP的&lt;s&gt;怪咖&lt;/s&gt;特殊風格體術高手對決 || {{censored|山治&lt;s&gt;不滿李洛克挑剔他煮的咖喱太淡味&lt;/s&gt;用反儀態踢擊道菜把李洛克的身體踢成兩半。&lt;br&gt;DEATH BATTLE當局認為&lt;s&gt;一個一般人認為只有百分之十幾光速的表現計算為十幾倍光速，於是判定&lt;/s&gt;山治能夠避開啟動八門遁甲的李洛克的所有攻擊，所以李洛克在能夠擊中山治之前身體應該早給崩解烤熟至灰飛煙滅。}} || [https://youtu.be/Az0pCsprlDs youtube]
+|-
+| 139 || Hulk vs Broly&lt;br&gt;浩克（漫威漫畫） vs [[布羅利]]（[[七龍珠]]）{{ref|是次比賽採用了《七龍珠超 布羅利》的版本}} || 美日漫畫綠色憤怒破壞巨人對決&lt;br&gt;第七季後段閉幕戰 ||  {{censored|布羅利和浩克頻密以頭部互撞，砸出了一個超大形爆炸，最終浩克被布羅利的猛砸加上大爆炸的燒傷導致肉體灰飛煙滅，身體無法再生。&lt;br&gt;DEATH BATTLE當局認為綠門復活需時數個月，而且浩克的治癒因子增生速度不及布羅利的氣功破壞/抑制增生的速度，布羅利被判獲勝。&lt;br&gt;整個銀河系幾乎被兩者的戰鬥毀滅，時空被粉碎&lt;s&gt;打得比薩諾斯vs達克賽德或者比魯斯vs凱拉克西亞戰士更誇張&lt;/s&gt;}} || [https://youtu.be/ZyJoRqW9fbU youtube]
+|-
+| colspan="5" align="center" |'''第八季''' 
+|-
+| 140 || Yoda vs King Mickey&lt;br&gt;尤達大師（星際大戰） vs 國王米奇（王國之心系列） || 個子矮小但是明智、熟練、受人尊敬、在光與暗之間進行了無休止的戰爭的領導者對決&lt;br&gt;第八季前段開幕戰 || {{censored|國王米奇以Ultima轟向尤達大師，尤達以原力反射力場抵擋不果，肉體給炸至灰飛煙滅，以靈魂狀態生還的尤達給米奇用能夠消滅靈魂的鑰刃拷打一下之後含笑退場消失。}} || [https://youtu.be/eDKUamxUhwM youtube]
+|-
+| 141 || Shadow vs Ryūko Matoi&lt;br&gt;影子（音速小子） vs 纏流子（[[KILL la KILL]]） || 以黑和紅為主色、以人工實驗方式改造、有黃金超級模式的反英雄對決 || {{censored|纏流子&lt;s&gt;因為路上轉線速度太慢給影子超車和影子大打出手，&lt;/s&gt;以鮮血更衣形態和超級影子由地球打到上太空。纏流子拔出片剪太刀送辭猛怒及答詞猛怒使出“戰維喪失卒曉式布愛成”剪斷超級影子…手上的拘束環。解除限制的影子&lt;s&gt;大喊閉嘴破解之前的sayonara死亡flag&lt;/s&gt;先直接把兩把片剪太刀擊碎，再以海量的混沌矛把流子打回地球表面，最後以混沌轟炸把流子、神衣鮮血以及周邊的土地炸至完全汽化。&lt;br&gt;&lt;s&gt;過了這麼多年影子終於贏了一場，可喜可賀 &lt;/s&gt;}} || [https://youtu.be/aNo-wo6sPy4 youtube]
+|-
+| 142 || Lex Luthor vs Doctor Doom&lt;br&gt;雷克斯•路瑟（DC漫畫） vs 末日博士（漫威漫畫） || 美漫兩大手的反派智慧型裝甲資本家對決 || {{censored|維克托•馮•杜姆以宇宙虹吸管攝取大量雷克斯•路瑟的母盒力量並破壞其動力外骨骼。曾經接受強化改造的路瑟拼死毆打杜姆，給杜姆靈魂交換，靈魂交換了的杜姆用路瑟的身體自殘，靈魂交換回自己的身體再把路瑟推至破鋼筋外露的牆上，再以能量爪把路瑟撕成五塊。&lt;br&gt;雷克斯企業大廈在此激戰中被毀滅&lt;s&gt;，破壞程度比想像中少&lt;/s&gt;。}} || [https://youtu.be/jXYVQfmYhPk youtube]
+|-
+| 143 || Heihachi Mishima vs Geese Howard&lt;br&gt;三島平八（鐵拳） vs 傑斯•候活特（餓狼傳說） || 日本格鬥遊戲暗黑財團總帥對決 || {{censored|在一輪激烈的戰鬥中三島平八和傑斯•候活特打到雙方都幾乎筋疲力盡，平八把傑斯抓起扔進火山口，掉下中的傑斯偷襲平八並往火山口打出一個真空並用反作用力跳往平八和做最後一擊，被平八反擊打至谷底隆起的石礫。給尖刺固定的傑斯給回流的熔岩淹沒並烤熟。平八慢慢爬出火山口並不爽地一拳打爆無人攝像機。&lt;br&gt;&lt;s&gt;爆炸棍：一個因把別人丟進深淵而著名，一個因被別人丟進深淵而著名，很容易看的出誰勝誰負啊。&lt;/s&gt;&lt;br&gt;&lt;br&gt;播出當時為死亡對決系列播出以來'''評價最高'''的一集}} || [https://youtu.be/WVq2zIbEMfk youtube]
+|-
+| 144 || Blake Belladonna vs Mikasa Ackerman&lt;br&gt;Blake Belladonna（RWBY） vs 米卡沙·阿卡曼（[[進擊的巨人]]） || 飛簷走壁女戰士對決 || {{censored|米卡沙犧牲了10片黑金竹刀刃但給Blake的魔塵殘影統統擋去，一直到發出2枚雷槍才破掉Blake的大部分靈氣牆並砍斷Blake的左手。Blake以殘餘的靈氣止血&lt;s&gt;別吐槽為什麼傷口是紫色了&lt;/s&gt;，以躍影飛綾把米卡沙的雷槍扯過去，並反過來用雷槍插進米卡沙的胸口並推開米卡沙，再把雷槍引爆活炸死米卡沙。&lt;br&gt;&lt;s&gt;Blake只顧看BL本不理會米卡沙叫著要跟隨人群逃離就說“Leave me alone”，到了巨人殺到反而殺紅了眼的說“Incoming”，你其實是Adam Taurus扮的嘛…&lt;/s&gt;}} || [https://youtu.be/Bbbcwk0tyPs youtube]
+|-
+| 145 || Po vs Iron Fist&lt;br&gt;阿波（功夫熊貓） vs 鐵拳俠（漫威漫畫） || 美國電影/漫畫氣功武林高手對決 || {{censored|阿波連番&lt;s&gt;推銷&lt;/s&gt;使用無錫拈花指送鐵拳一程不成，直接熊抱鐵拳再向自己使用無錫拈花指雙雙前往陰間靈界。在靈界的阿波發動龍戰士模式並召喚大形龍氣場和同樣召喚大形龍氣場的火人鐵拳鬥波。阿波的龍氣場吃掉鐵拳的龍氣場，龍戰士阿波也把火人鐵拳化為灰燼。&lt;br&gt;DEATH BATTLE當局認為&lt;s&gt;鐵拳較好的表現都是離群值而且阿波的不算是離群值，而且&lt;/s&gt;阿波習得龍戰士模式可以穿梭陰陽界，物理傷害幾乎無法打倒他，阿波被判獲勝。}} || [https://youtu.be/0zv66N5-Hq0 youtube]
+|-
+| 146 || Steven Universe vs Star Butterfly&lt;br&gt;[[史帝芬·宇宙|史帝芬•石英•宇宙]]（[[神臍小捲毛]]） vs 星星‧蝶舞（公主闖天關） || 美國[[CalArts|加州藝術學院風]]電視系列動畫混血半人外[[SJW|&lt;s&gt;SJW標誌&lt;/s&gt;]]主角對決 || {{censored|在&lt;s&gt;華強北&lt;/s&gt;沙堡比賽中，星星&lt;s&gt;用魔法建沙堡但因為技術不夠左右搖晃結果破壞了其他沙堡，氣怒了史提芬還投訴史提芬對她不禮貌，&lt;/s&gt;變成化蝶形態和全身粉紅化的史提芬激戰。粉紅化史提芬用無限能量盾製企圖把星星壓死（並巧妙地拿走其魔法杖），但星星發動深淘功射出多重超爆炸晶體鐳射射爆盾罩並把史帝芬汽化，晶體給擊碎再起不能。&lt;br&gt;DEATH BATTLE當局&lt;s&gt;無視各種高階魔法和超必殺技的前設條件就&lt;/s&gt;認為星星的帳面魔法攻擊力遠較史提芬高，而且星星對化蝶形態和深淘功的掌控力遠較史提芬對粉紅化和怪獸化的掌控力高，星星‧蝶舞被判獲勝。&lt;br&gt;&lt;s&gt;爆炸棍：星星絕對沒有贏到她說自己贏到的（沙堡比賽），史提芬的沙堡絕對比較精巧。&lt;/s&gt;}} || [https://youtu.be/HuDyfx-fn6U youtube] 
+|-
+| 147 || Link vs Cloud&lt;br&gt;林克（薩爾達傳說） vs 克勞德（[[最終幻想系列]]） || 遊戲業界有名劍士再戰&lt;br&gt;第八季前段閉幕戰 || {{censored|克勞德丟出魔法炸彈把向著自己沖過來的鬼神林克炸飛，再用合體劍使出超究武神霸斬五式連番重創鬼神林克，林克企圖使用勇氣三角力擋駕最後一擊不果，給克勞德把身體從正中線斬殺。&lt;br&gt;多個壺子&lt;s&gt;（因為林克就喜歡搶掠）&lt;/s&gt;在此激戰中被砸破，克勞德慨歎 “Exc&lt;s&gt;uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu（中略）&lt;/s&gt;use me”還得出手保護一兩個。}} || [https://youtu.be/hOot-I1KtLs youtube] 
+|-
+| 148 || Batman vs Iron Man&lt;br&gt;[[蝙蝠俠]]（[[DC漫畫]]） vs 鋼鐵人（漫威漫畫） || 喪失父母後以科學知慧製作裝備成為&lt;s&gt;鈔能力者&lt;/s&gt;超級英雄的貴公子對決&lt;br&gt;第八季後段開幕戰 || {{censored|雖然鋼鐵人的Godbuster被蝙蝠俠的地獄蝙蝠裝甲擊毀，但亦成功駭進他的裝甲再以太陽之錘將之摧毀。雖然蝙蝠俠本人脫出裝甲並試圖以肉身將失去所有裝甲的鋼鐵人殺死，卻被鋼鐵人事先在身上安裝的納米裝甲困住，被納米裝甲的自爆燒剩下一副骨架}} || [https://www.youtube.com/watch?v=EcSDxeBBolQ youtube]  
+|-
+| 149 || Goku Black vs Reverse-Flash&lt;br&gt;黑悟空（[[七龍珠]]） vs 逆閃電俠（[[DC漫畫]]） || 可以穿越時空的超級反派對決 || {{censored|黑悟空和逆閃電俠在時空悖論中穿插擊殺多個時間線的自己，直到逆閃電俠用多重無限質量拳打黑悟空的臉，黑悟空還擊時候時空戒指給逆閃電俠偷掉並捏碎，逆閃電俠把黑悟空抓著環繞地球拖了幾圈，再把黑悟空的身體扔掉到太陽發生了大爆炸。&lt;br&gt;是逆閃電俠調整了日本上一尊石像的位置，讓快銀在閃電俠vs快銀給被閃電俠擊倒時身體飛到石像上從而身體給劍尖插穿而死。}} || [https://www.youtube.com/watch?v=mSDTVSeMZnI youtube]
+|-
+| 150 || Macho Man Randy Savage vs Kool-Aid Man&lt;br&gt;蘭迪·沙瓦吉(現實人物/WWF系列/零食「Slim Jim」廣告) vs 酷愛者(零食「酷愛」廣告) || 破牆/門入屋後大喊「Oh Yeah!」的零食代言人對決&lt;br&gt;第八季的搞笑回&lt;br&gt;{{censored|筆者呼籲：把這一集看成Boomstick尋父記比較好}} || {{censored|酷愛者用身體企圖把蘭迪·沙瓦吉淹死，反而給蘭迪喝光酷愛液體並擊破酷愛者瓶身逃出…正當蘭迪認為自己獲勝的時候，酷愛者用念力控制給蘭迪喝掉的酷愛液體把蘭迪的身體從內部爆開。酷愛者自己則吃著酷愛粉末修補身體。&lt;br&gt;DEATH BATTLE當局&lt;s&gt;無視各種WWF銀河/宇宙級的表現(甚至與蘭迪交手的查克·羅禮士的宇宙級表現)就&lt;/s&gt;認為酷愛者的帳面體力遠較蘭迪高，而且&lt;s&gt;因為一句話就&lt;/s&gt;認為酷愛者的靈魂包括瓶身以及水和酷愛粉末，蘭迪無法同時抹殺酷愛者的瓶身、水和所有酷愛粉末，酷愛者被判獲勝。&lt;s&gt;(縱然酷愛者在各媒體中就以水晶瓶存在為主，甚至根本沒有水和粉末就只以水晶瓶存在。)&lt;/s&gt;&lt;br&gt;Ringmaster從死侍打聽出Boomstick的爸爸是“一個紅色的男人”，結果蘭迪表示自己不是Boomstick的爸爸，Boomstick以及其他主持一直到回家的時候也找不到爸爸，但獲得媽媽體諒並認為Boomstick找到一堆好朋友。&lt;br&gt;懷疑是Boomstick的爸爸的Sarge隱藏在森林中表示Boomstick的聲音很熟悉，但是根本不知道自己有一個兒子…&lt;br&gt;&lt;s&gt;獲勝原因很扯但是ACGN迷認為DEATH BATTLE的主持的背景故事很有趣所以放過製片商&lt;/s&gt;}} || [https://www.youtube.com/watch?v=UiJEbf0IEfw youtube]
+|-
+| 151 || Dio vs Alucard&lt;br&gt;[[DIO|迪奧•布蘭多]]（JoJo的奇妙冒險） vs 阿爾卡特（[[Hellsing]]） || 危險吸血鬼對決&lt;br&gt;2019年6月6日的Death Battle Cast以及劍齒狼vs加隆暗示將會有此對戰 || {{censored|DIO用連環投擲飛刀擲中阿爾卡特，還反彈阿爾卡特射向自己的子彈，再以[[壓路機|{{censored|「ロードローラーだッ!!」}}]]把阿爾卡特壓成肉汁。靠3242867個靈魂儲備撐過的阿爾卡特被逼發動死河跟&lt;s&gt;他媽的真祖吸血鬼&lt;/s&gt;Level 0形態和DIO一拼，結果血給DIO吸掉還讓他用空裂眼刺驚滅掉整支亡靈大軍，剩下一個靈魂的阿爾卡特用巨臂揮向DIO但因為給DIO用時停避過而擊空。DIO抓出阿爾卡特的心臟並捏爆之，把阿爾卡特整個身體給[[オラオラオラオラオラオラ|{{censored|無駄無駄}}]]的打成&lt;s&gt;酷愛液體&lt;/s&gt;血雨，最後勝利時狂呼以[[WRYYYYYYY|{{censored| WRYYYYYYY」}}]]。}} || [https://www.youtube.com/watch?v=2Svx4h73n_A youtube]
+|-
+| 152 || Akuma vs Shao Kahn&lt;br&gt;豪鬼（[[快打旋風]]） vs 紹康（真人快打） || 日美兩大格鬥遊戲代表隱藏頭目對決 || {{censored|豪鬼企圖用瞬獄殺幹掉紹康，但紹康單手接下豪鬼的拳頭，撕掉豪鬼的左臂，一下把豪鬼肩扛倒地，再以鐵鎚敲碎豪鬼的頭部。}} || [https://www.youtube.com/watch?v=ZQh7MFswb2o youtube]
+|-
+| 153 || Korra vs Storm&lt;br&gt;柯拉（降世神通：柯拉傳奇） vs 暴風女神（漫威漫畫） || 美國動畫鬥美國漫畫爲平權奮鬥&lt;s&gt;並勾上一國之君&lt;/s&gt;的傳奇元素操縱女性對決&lt;br&gt;&lt;s&gt;說好的柯拉vs芮（星際大戰）、柯拉vs戴厄辛•羅爾（惡名昭彰：第二之子）或者柯拉/暴風女神 vs娜美（航海王）/多明尼克•普奇（JOJO的奇妙冒險）呢&lt;/s&gt; || {{censored|柯拉發動喇法附體模式把暴風女神龍珠式痛打一頓，把暴風女神用御土術活埋並企圖用御水術生成大劍刺向暴風女神，但最後一擊給暴風女神用雷擊打斷。柯拉帶著電沖向暴風女神作最後一搏，反而給暴風女神單手接下，再用另外一隻手以電擊射爆柯拉的頭部。&lt;br&gt;&lt;s&gt;柯拉一直以爲自己跟御術師在打，直到她發現暴風女神根本就一個女神實力遠在她之上，最後暴風女神也忍不住承認了（雖然還是認同柯拉盡了力去打）。&lt;/s&gt;&lt;br&gt;&lt;s&gt;觀眾：所以說爲什麽不讓柯拉打芮或者戴厄辛•羅爾，暴風女神去打娜美或者多明尼克•普奇呢（鬧翻）&lt;/s&gt;}} || [https://www.youtube.com/watch?v=8gIQW2GqmcY youtube]
+|-
+| 154 || Madara vs Aizen&lt;br&gt;宇智波斑（火影忍者） vs [[藍染惣右介]]（死神） || 周刊少年JUMP的術系少年戰鬥漫畫的幻術系主要反派角色對決 || {{censored|斑召喚輪墓分身和完整須佐能乎對抗藍染的破道之九十九：五龍轉滅，十尾人柱力斑跟終極融合形態藍染打出了大爆炸。給炸的只剩下身軀的斑從烟霧中掉出，看著支離破碎的藍染掉到地上。&lt;br&gt;…結果掉到地上的藍染只是幻象，斑的身體給藍染從後面打穿，並給終極怒吼烤熟。&lt;br&gt;…結果以爲自己令對方中了花水月的藍染原來已經中了斑的無限月讀。斑用求道玉把失去知覺的藍染的身體抹殺，頭部給變成棒的黑武器打爆。}} || [https://www.youtube.com/watch?v=PcGoiNzAcxs youtube]
+|-
+| 155 || Saitama vs Popeye&lt;br&gt;埼玉（[[一拳超人]]） vs 卜派（大力水手） || 力大無窮男對決&lt;br&gt;第八季後段閉幕戰 || {{censored|埼玉給卜派打成鶏蛋雨，其中一枚給他接住。&lt;br&gt;地球給打崩了一角，月球給打爛，太陽和冥王星分別給和當成爲踏板。戰鬥畫風更加給雙方的戰鬥影響從手繪到拼合圖到手繪到立體電腦模組再到手繪跳來跳去。}} || [https://www.youtube.com/watch?v=7UhguuEX9Tg youtube]
+|-
+|}
+
+&lt;!-- | ?? || Galatus VS Unicron&lt;br&gt;行星吞噬者（漫威漫畫） vs 尤尼克隆（變形金剛） || SGC裡公開將會有此對戰 || [[|youtube]] --&gt;
+
+&lt;!-- | ?? || Ruby VS Maka&lt;br&gt;Ruby Rose（[[RWBY]]） vs 摩訶‧亞爾邦（SOUL EATER 噬魂者） || ConBravo 2016裡公開將會有此對戰 || [[|youtube]] --&gt;
+
+&lt;!-- | ?? || Alex Mercer VS Cole Macgrath&lt;br&gt;亞歷克斯‧莫瑟（原型兵器系列） vs 柯爾‧麥格勒斯（惡名昭彰系列） || 美國兩大開放式科幻自由動作冒險遊戲主角對決&lt;br&gt;屠殺vs露西付費旁述版裡暗示將會有此對戰 ||  || [[|youtube]] --&gt;
+
+&lt;!-- 官方暗示 （1）尤達大師/路克•天行者/R2-D2（星際大戰）、（2）末日博士（漫威漫畫）、（3）纏流子（[[KILL la KILL]]）、（4）艾連・葉卡/米卡沙•阿卡曼/亞妮・雷恩哈特（[[進擊的巨人]]）、（5）[[史帝芬·宇宙|史帝芬•石英•宇宙]]（[[神臍小捲毛]]）和（6）克勞德（最終幻想系列）可能在第8季參戰。 --&gt;
+
+&lt;!-- 官方暗示 （1）宇智波斑（火影忍者）、（2）柯拉（降世神通：柯拉傳奇）、（3）豪鬼（[[快打旋風]]）、（4）阿爾卡特（Hellsing）和（5）[[藍染惣右介]]（死神）可能在第8季參戰。 --&gt;
+
+=== DBX/Death Battle Exhibition===
+* 第三季開幕戰裡Boomstick公開的新系列，由Boomstick一個人主持，宣傳口號為「沒規則，沒分析，只有流血」。
+** &lt;s&gt;因為Boomstick監工能力未熟導致劣評影片頻生（沒辦法，他只是一個漫才裝傻役）&lt;/s&gt;第二季總算好得多了。
+* 預定每兩周播一集。
+** [https://www.youtube.com/watch?v=ZxNxh0viV9s Screwattack於2019年1月19宣布DBX目前被擱置，至2019年夏季重啟。]
+*** 重啟後前置演出變得更豪華&lt;s&gt;並加上長達三到四分鐘的無聊解說&lt;/s&gt;，追加新角色「Ringmaster」為主持人。戰果改以投票決定。
+*** &lt;s&gt;為了賺會員月費&lt;/s&gt;付費會員可以獨家收看頭十場比賽的另類結局版
+** 第五季起會在一天以後開放另類結局給觀眾收看
+
+'''HERE WE GOOO!!''' （第1至3季）
+
+'''LET THE EXHIBITION... BEEEEGIIIIIINN!!''' （第4至5季） （第六季沒有固定開打宣告）
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 集數 !! 標題 !! 解說 !! 賽果（注意有捏！） !! 影片連結 
+|-
+| 創刊號 || Trish VS Jeanne&lt;br&gt;翠絲（惡魔獵人）vs貞德（魔兵驚天錄） || {{censored|講述翠絲和貞德脫離但丁與蓓姐之爭後發生的事的短劇}} || {{censored|貞德以魔女時間令翠絲被自己丟出去的斯巴達之劍（鐮刀）砍開兩邊，再開槍將其打爆}} || [https://youtu.be/UnZ73aW17iQ youtube] 
+|-
+| colspan="5" align="center" |'''第一季''' 
+|-
+| 1 || Master Chief vs Jango Fett&lt;br&gt;士官長（最後一戰） vs 強格·費特（星際大戰） || 宇宙高個子戰士對決 || {{censored|強格·費特的頭盔被黏上電漿手榴彈炸死&lt;s&gt;費特家族是受到DEATH BATTLE詛咒了嗎&lt;/s&gt;}} || [https://youtu.be/IsId7yHuYwc youtube] 
+|-
+| 2 || Ronald McDonald vs Colonel Sanders&lt;br&gt;麥當勞叔叔（麥當勞速食店） vs 桑德斯上校（肯德基速食店） || &lt;s&gt;速食連鎖店兩大霸天之商業競爭（物理）&lt;/s&gt; || {{censored|桑德斯上校利用替身木板引開麥當勞叔叔的注意力，把麥當勞叔叔打進滾油池裡灼成骨頭}} || [https://youtu.be/Ahw-ywLa5i4 youtube] &lt;br&gt;[https://roosterteeth.com/episode/dbx-season-1-ronald-mc-donald-vs-colonel-sanders Rooster Teeth官網]{{ref|Rooster Teeth害怕Youtube跟麥當勞和肯德基發出起訴，故把Youtube片段局部地區禁映，官網則保留片段}}
+|-
+| 3 || Amy Rose vs King Dedede&lt;br&gt;艾咪·蘿絲（音速小子） vs DEDEDE大王（星之卡比） || 動作遊戲使用大鎚的角色對決&lt;br&gt;{{censored|&lt;s&gt;有近視的&lt;/s&gt;DEDEDE中途接受了ワドルドゥ和頭巾ワドルディ的裝備變成面具DEDEDE}} || {{censored|面具DEDEDE打出ゴルドー令艾咪爆頭死亡&lt;br&gt;DEDEDE興高采烈之際被吸收了艾咪的卡比一鎚吹飛上天，似乎沒死？}} || [https://youtu.be/XKZ2hQ6ytYw youtube] 
+|-
+| 4 || Saitama vs Kenshiro&lt;br&gt;埼玉（[[一拳超人]]） vs 拳四郎（[[北斗の拳]]） || 一拳即死救世神拳對決&lt;br&gt;{{censored|傑諾斯中途亂入}}&lt;br&gt;&lt;s&gt;[[作畫崩壞]]回&lt;ref&gt;角色的3D模組畫得差都算了，製作組連拳四郎胸口的北斗七星[[傷痕]]也忘了畫...&lt;s&gt;那個半裸壯漢究竟是哪位啊？&lt;/s&gt;&lt;/ref&gt;，現時like與dislike差不多是5:5&lt;/s&gt; || {{censored|埼玉硬吃拳四郎打在頭部的拳擊後使出認真一拳把拳四郎打往宇宙&lt;br&gt;正當埼玉以為自己獲勝之際，剛才被拳四郎擊中的頭部秘孔發作，令埼玉頭部爆掉結果兩敗俱死，&lt;s&gt;傑諾斯獲勝！&lt;/s&gt;}} || [https://youtu.be/8eYnpXjo1As youtube] 
+|-
+| 5 || Sakura vs Rin Tohsaka&lt;br&gt;春野櫻（火影忍者） vs [[遠坂凜]]（[[Fate/stay night]]） || 少女領導對決 || {{censored|春野櫻（忍法創造再生·百豪之術發動中）把衝過來的凜以上勾拳打成星星&lt;br&gt;櫻:「（・∀・）ｂ」}} || [https://youtu.be/5j_t3li0eYE youtube] 
+|-
+| 6 || Future Trunks vs Silver&lt;br&gt;未來特南克斯（七龍珠） vs 白銀（音速小子） || 拯救未來的戰士對決&lt;br&gt;和一分鐘對戰不同的是本集白銀變身成超級白銀應戰 || {{censored|特南克斯對白銀作出一輪亂斬後再將其一腳踢上天，最後以Heat Dome Attack令白銀被轟成灰燼}} || [https://youtu.be/blBNTATr4_o youtube] 
+|-
+| 7 || Ryu vs Lucario&lt;br&gt;隆（快打旋風） vs 路卡里歐（精靈寶可夢系列） || &lt;s&gt;[[神奇寶貝GO|精靈寶可夢GO]]（物理）&lt;/s&gt;はどう（波動/波導）對決 || {{censored|隆以滅．昇龍拳打掉路卡里歐的頭&lt;s&gt;事後還在精靈寶可夢系列GO裡抓到路卡利歐了，恭喜！&lt;/s&gt;}} || [https://youtu.be/8PmYRQyxMIs youtube] 
+|-
+| 8 || Sasuke vs Hiei&lt;br&gt;[[宇智波佐助]]（火影忍者） vs 飛影（幽遊白書） || Jump的使劍少年忍者對決&lt;br&gt;兩個青年為爭奪兔子手上的吉蒂貓布偶而大打出手（無誤）&lt;br&gt;&lt;s&gt;劣評比起埼玉（[[一拳超人]]）vs拳四郎（[[北斗の拳]]）回更嚴重，現時like與dislike是6:7&lt;/s&gt;←大家當今回是搞笑片就好，一認真就輸了 || {{censored|佐助為追上搶回吉蒂貓布偶的兔子而踏上日久失修的吊橋，飛影此時從後偷襲佐助令吊橋倒塌，兩人墮橋而死}} || [https://youtu.be/5KC1E3T1zAQ youtube] 
+|-
+| 9 || Bruce Lee vs The World&lt;br&gt;[[李小龍]]（現實人物） vs 世界（複數創作） || 李小龍能否解決一班模仿他的二創角色？&lt;br&gt;李小龍的對手為李洛克（火影忍者）、劉鋼（真人快打）、飛龍（快打旋風）&amp;amp;更多... || {{censored|結果是李小龍[[開無雙|{{censored|大開無雙}}]]獲勝&lt;s&gt;不愧是連羅禮士也能打倒的人&lt;/s&gt;，以下是挑戰者們的死因&lt;br&gt;飛龍：被吹飛往山崖跌死&lt;br&gt;馬歇爾·羅：被搞錯目標的李洛克以表蓮華倒栽在地上死亡&lt;br&gt;李洛克：頭蓋骨破裂，流血不止而死&lt;br&gt;劉鋼：吃下李小龍的寸勁後粉身碎骨&lt;br&gt;飛腿郎：從草叢冒出來突襲李小龍反被踢成星星}} || [https://youtu.be/Iffp3XMBLtU youtube] 
+|-
+| 10 || Spider-Man vs Mikasa&lt;br&gt;蜘蛛人（漫威漫畫） vs 米卡沙·阿卡曼（[[進擊的巨人]]） || 飛簷走壁戰士對決&lt;br&gt;&lt;s&gt;作畫崩壞回2&lt;ref&gt;此集和崎玉vs拳四郎為同一作者製作&lt;s&gt;所以畫質一樣差&lt;/s&gt;&lt;/ref&gt;&lt;/s&gt;&lt;br&gt;&lt;s&gt;負評率又創新高了（快叫Boomstick做好影片品質監管工作!）&lt;/s&gt; || {{censored|米卡沙砍碎蜘蛛人蜘蛛網令其在空中失平衡後飛上天以一閃把蜘蛛人斬死&lt;br&gt;觀眾：「什麼？蜘蛛人會輸？」（然後按dislike）}} || [https://youtu.be/TXw9pjWkVgg youtube] 
+|-
+| 11 || Jotaro vs Yu&lt;br&gt;空條承太郎（[[JOJO]]） vs 鳴上悠（[[女神異聞錄/Persona系列|女神異聞錄系列]]） || 替身使者主角 vs Persona使者主角 || {{censored|承太郎發動時間停止後，避開ジオダイン再對鳴上悠以オラオラ攻擊，時間停止解除後鳴上悠還摸不著頭腦就爆成血花了}} || [https://youtu.be/HDgMr4qbLGs youtube] 
+|-
+| 12 || Donald Trump vs Hillary Clinton&lt;br&gt;唐納·川普（現實人物） vs 希拉蕊·柯林頓（現實人物） || &lt;s&gt;2016年美國[[大總統|總統]]大選（物理）&lt;br&gt;會場設置在日本某學校的操場中&lt;/s&gt; || {{censored|川普駕駛Trump EX MaChina（中國製鋼彈?）開火與希拉蕊的Proton Cannon互轟，結果[[世紀末|{{censored|雙方衝突產生的爆炸令整個城市變成廢墟}}]]，兩者滿身鮮血倒地不起後由美國隊長判定為兩敗俱死，美國隊長被樹上的秃鷹指出他成為了「一輩子的美國大總統」&lt;br&gt;&lt;s&gt;觀眾：「我投史蒂一票」&lt;/s&gt;}} || [https://youtu.be/opnT5w_TH2Y youtube] 
+|-
+| 13 || Terry Bogard vs Jon Talbain&lt;br&gt;泰利·波格（餓狼傳說） vs 加倫（魔域幽靈） || 狼男對決 || {{censored|加倫乘菲莉西亞偷襲泰利得手後對泰利連續攻擊，最後以X字爪擊將之擊殺}} || [https://youtu.be/jKaDSao8v2k youtube] 
+|-
+| 14 || Spawn vs Alucard&lt;br&gt;閃靈悍將（閃靈悍將） vs 阿卡德（[[Hellsing]]） || 魔物殺手對決 || {{censored|閃靈悍將射出一團Necroplasm打爆阿卡德的頭獲勝&lt;s&gt;請問阿卡德能殺死嗎？&lt;/s&gt;&lt;br&gt;戰鬥總時間未滿一分鐘&lt;s&gt;，耀西：「耀西～（比老子還要快！）」&lt;/s&gt;}} || [https://youtu.be/T5j-2UtLpVc youtube] 
+|-
+| 15 || Predator vs Prophet&lt;br&gt;終極戰士（終極戰士） vs 普費（末日之戰） || 寂靜殺戮戰士對決&lt;br&gt;第一季閉幕戰 || {{censored|普費一拳打爛終極戰士的面罩後以巨大石柱把終極戰士砸死}} || [https://youtu.be/Cn_GrdTYCys youtube] 
+|-
+| colspan="5" align="center" |'''第二季''' 
+|-
+| 16 || Iron Man vs Megaman X&lt;br&gt;鋼鐵人（漫威漫畫） vs 艾克斯（洛克人系列） || 高科技裝甲戰士對決&lt;br&gt;第二季開幕戰 || {{censored|穿上究極鎧甲的艾克斯以新星衝刺衝破Uni-beam並接近鋼鐵人，於零距離以集氣砲把鋼鐵人的頭打爆獲勝}} || [https://youtu.be/Kzxzkpy8UBg youtube] 
+|-
+| 17 || Rurouni Kenshin vs Roronoa Zoro&lt;br&gt;緋村劍心（神劍闖江湖） vs 羅羅亞·索隆（般海王） || Jump近代漫畫的劍豪角色對決 || {{censored|劍心使出&lt;s&gt;太るカレーセット&lt;/s&gt;九頭龍閃衝往索隆令其發動九刀流 阿修羅對抗，兩者互相一閃之後劍心大量出血而死&lt;br&gt;&lt;s&gt;\けんちゃああああああああああああん！/&lt;/s&gt;}} || [https://youtu.be/AQaVXlWFP_U youtube] 
+|-
+| 18 || Greninja vs Espio&lt;br&gt;甲賀忍蛙（精靈寶可夢系列） vs 艾斯皮歐（音速小子） || 兩棲類忍者vs爬蟲類忍者 || {{censored|甲賀忍蛙早艾斯皮歐一步搶到奧義球後發動しのびのひおうぎ，成功擊殺對手}} || [https://youtu.be/07cYSOTdGc0 youtube] 
+|-
+| 19 || Link vs Meta Knight&lt;br&gt;林克（薩爾達傳說） vs 魅塔騎士（星之卡比） || 任天堂產傳說勇者劍士對決 || {{censored|魅塔騎士以マッハトルネイド捲起大師劍脫手的林克，再施展ギャラクシアダークネス砍掉林克的頭獲勝}} || [https://youtu.be/T3Em2JVfucc youtube] 
+|-
+| 20 || Raiden vs Genji&lt;br&gt;雷電（潛龍諜影） vs 源氏（Overwatch） || [[改造人]]劍士忍者對決 || {{censored|雷電與源氏同時作出全力一擊的突進，雷電成功斬殺源氏同時撐過源氏的龍一文字得勝}} || [https://youtu.be/T74pErf39vQ youtube] 
+|-
+| 21 || Guile vs Paul Phoenix&lt;br&gt;凱爾（快打旋風） vs 保羅·菲尼克斯（鐵拳） || 格鬥遊戲之美藉金髮掃把頭角色對決 || {{censored|凱爾發動Sonic Hurricane把保羅打死...才怪，就只有剃掉保羅的掃把頭，保羅因失去獨特髮型而大發雷霆，一拳打在凱爾的[[陰莖|{{censored|子孫根}}]]上令其吐血死亡}} || [https://youtu.be/K18wWMuF9PM youtube] 
+|-
+| 22 || Raphael vs Wolverine&lt;br&gt;拉斐爾（忍者龜） vs 金剛狼（漫威漫畫） || 使用雙持三叉刃的壞脾氣英雄對決 || {{censored|金剛狼以Weapon X （超必殺技）擊殺拉斐爾獲勝}} || [https://youtu.be/wJFwgPqA1og youtube] 
+|-
+| 23 || Borly vs Doomsday&lt;br&gt;布羅利（七龍珠） vs 末日（DC漫畫） || 在宇宙間俳佪的殺戮意思對決 || {{censored|布羅利在巨大坑沮裡被末日按緊，末日從手腕生出利刃砍斷布羅利的腰獲勝}} || [https://youtu.be/m2PwbQFW46Q youtube]
+|-
+| 24 || Aigis vs Noel Vermillion&lt;br&gt;艾爾捷斯（女神異聞錄） vs 諾愛兒‧梵密利歐（蒼翼默示錄） || 內藏大量熱兵器的機械女戰士對決 || {{censored|諾愛兒變成Mu-12與艾爾捷斯激戰一輪後避開艾爾捷斯的突擊以炮台斬開其腰部再生出巨大利刃刺爆獲勝&lt;br&gt;事後Mu-12體力不支變回諾愛兒倒坐地上}} || [https://youtu.be/hpCbCD6mRkk youtube]
+|-
+| 25 || Cloud vs Guts&lt;br&gt;克勞德（最後幻想） vs 凱茲（烙印勇士） || 大劍傭兵主角對決 || {{censored|克勞德發動Limit Break後閃到凱茲背後將其從正中線一刀兩斷}} || [https://youtu.be/jo8ZfxIOGi0 youtube]
+|-
+| 26 || Sasuke vs Killua&lt;br&gt;宇智波佐助（火影忍者） vs 基路亞（HxH） || 使雷少年男二（?）對決 || {{censored|基路亞以落雷擊倒佐助，基路亞自己也體力不支倒下。&lt;br&gt;大蛇丸撿走佐助，傑·富力士看見基路亞只是肚子餓表示欣慰。}} || [https://youtu.be/ccswEuRqgZE youtube]
+|-
+| 27 || Megaman vs Bomberman&lt;br&gt;洛克人（洛克人系列） vs 轟炸超人（轟炸超人） || 被稱為Bomber的動作遊戲少年主角對決 || {{censored|轟炸超人利用加速道具快速在洛克人身邊設置大量炸彈，炸爆了洛克人...的伙伴機器犬萊茜，洛克人逃過一劫後把Clash Bomb射在傻眼的轟炸超人身上將其炸死}} || [https://youtu.be/LxsCwR0UdM4 youtube]
+|-
+| 28 || Mario vs Luigi&lt;br&gt;瑪利歐（瑪利歐系列） vs 路易吉（瑪利歐系列） || 瑪利歐兄弟反目成仇！ || {{censored|瑪利歐把路易吉轟飛到庫巴成堡壓扁了庫巴Jr.的生日蛋榚，因兒子被嚇壞而大發雷霆的庫巴一拳把兩兄弟打成星星，似乎沒打死他倆？&lt;br&gt;「今集沒有死者...」「開戰時耀西不就被瑪利歐壓死嗎？」}} || [https://youtu.be/6z0Bd-dS7eQ youtube]
+|-
+| 29 || Zero vs Strider&lt;br&gt; 傑洛（洛克人系列） vs Strider飛龍（出擊飛龍） || C社SF動作遊戲特務主角對決 || {{censored|傑格以幻夢零擊殺Strider飛龍獲勝|}} || [https://youtu.be/vhD1jWc5At0 youtube]
+|-
+| 30 || Iron &lt;s&gt;First&lt;/s&gt; Fist vs Akuma&lt;br&gt;鐵拳俠（漫威漫畫） vs 豪鬼（快打旋風） || 拳之極者對決&lt;br&gt;&lt;s&gt;豪鬼千里尋偶像「過招」記&lt;/s&gt;&lt;br&gt;{{censored|製作人員表示創作概念來自Netflix版鐵拳俠第一季實在太爛...（無誤）}} || {{censored|豪鬼進化成狂鬼後以天地雙潰掀把鐵拳俠打成碎塊獲勝}} || [https://youtu.be/8QNM5JXvRdA youtube]
+|-
+| 31 || Ken vs Blaziken&lt;br&gt;肯（快打旋風） vs 火焰雞（精靈寶可夢） || 火焰踢格鬥家對決 || {{censored|火焰雞以夾頭摔把肯打至倒地後追加一記飛膝踢把肯踢至變成灰燼&lt;s&gt;（這招沒命中的話死的就會變成火焰雞自己）&lt;/s&gt;}} || [https://youtu.be/rtU0hXB3ShU youtube]
+|-
+| 32 || Samus vs Master Chief&lt;br&gt;薩姆斯（銀河戰士） vs 士官長（最後一戰） || 科幻宇宙熱兵器戰士對決 || {{censored|薩姆斯以炸彈炸飛士官長後利用牽引光束把士官長摔往地面，再以充能光束重創士官長後於零距離多加一炮擊殺之}} || [https://youtu.be/EEznBGLSJjg youtube]
+|-
+| 33 || Wii Fit Trainer vs Dhalsim&lt;br&gt;Wii Fit瑜珈女教練（Wii Fit） vs 塔爾錫（快打旋風） || 對決！瑜珈戰士（？）！|| {{censored|塔爾錫以Yoga Inferno單方向打消女教練的Wii Fit（奧義）放出的分身，女教練無法躲過飛過來的大火球而被燒成骨頭}} || [https://youtu.be/ndIJodYi8qk youtube]
+|-
+| 34 || Magneto vs Darth Vader&lt;br&gt;萬磁王（漫威漫畫） vs 達斯·維達（星際大戰） || 擁有控物質能力的反派頭目對決 || {{censored|萬磁王成功拘束維達並以控制金屬的異能把光刀甩向維達的頭部，維達以原力操控萬磁王的披風遮住其視線，避開光刀後反過來控制光刀插向萬磁王的頭部成功擊殺之}} || [https://youtu.be/w3GgpZVEcKs youtube]
+|-
+| 35 || Vegeta vs Zod&lt;br&gt;貝基塔（七龍珠） vs 德魯·薩德（DC漫畫） || 貝基塔星與氪星的最後軍人對決 || {{censored|戰鬥途中薩德打算以身為其人質的小特南克斯威脅貝基塔，結果反而激發起貝基塔的怒火令自己被暴打一頓，最後被貝基塔與剛被救出的小特南克斯使出父子加克力砲擊殺}} || [https://youtu.be/VE-YnwKHEEI youtube]
+|-
+| 36 || Alucard vs &lt;s&gt;Dimitri&lt;/s&gt; Demitri&lt;br&gt;[[阿卡德]]（[[惡魔城系列]]） vs 戴米特里·馬克西莫夫（魔域幽靈） || 遊戲界的名門吸血鬼對決 || {{censored|阿卡德以十字架阻止戴米特里的攻擊，將之封印於棺材後再施展大魔法消滅了戴米特里}} || [https://youtu.be/110q-bglwdM youtube]
+|-
+| 37 || Noctis vs 2B&lt;br&gt;諾克提斯·路希斯·切拉姆（最終幻想系列） vs 寄葉2號B型（[[尼爾 自動人形]]） || SE社黑衣劍士對決 || {{censored|諾克提斯召喚多把武器跳往乘坐輔助機進行掃射的2B，對輔助機連環斬擊將之擊破獲勝}} || [https://youtu.be/TmWJ4nyOucw youtube]
+|-
+| 38 || Kratos vs Dante&lt;br&gt;克雷多斯（戰神） vs 但丁（惡魔獵人） || 殘酷無雙戰士對決 || {{censored|面對持阿耳忒彌斯之劍跳衝過來的克雷多斯，但丁裝備貝奧武夫迎擊並成功將克雷多斯毆打至上下半身分離&lt;br&gt;戰鬥總時間約一分鐘}} || [https://youtu.be/TD9mxu3WkTo youtube]
+|-
+| 39 || Captain Falcon vs Viewtiful Joe&lt;br&gt;飛集隊長（F-ZERO） vs 完美超人Joe（完美超人Joe系列） || 戴上頭盔、圍巾與緊身衣的馬赫速英雄對決 || {{censored|戰鬥的最後飛隼和Joe分別駕駛藍隼號和Six Machine對撞，釀成有兩名司機死亡的交通意外}} || [https://youtu.be/I-oKSTgf5HI youtube]
+|-
+| 40 || Goku Black vs Black Adam&lt;br&gt;黑悟空（七龍珠） vs 黑阿當（DC漫畫） || 日美漫裡與主角能力相同的黑色反派對決&lt;br&gt;第二季閉幕戰 || {{censored|黑悟空趁著與黑阿當推氣功時放出分身以黑氣手刀攻擊黑阿當令其無法招架而被氣功轟死}} || [https://youtu.be/GXP1NEMCzuw youtube]
+|-
+| colspan="5" align="center" |'''第三季''' 
+|-
+| 41 || Gambit vs Taskmaster&lt;br&gt;金牌手（漫威漫畫） vs 模仿大師（漫威漫畫） || 漫威漫畫知名的冷兵器與射擊兵器兼用的反英雄對決&lt;br&gt;第三季開幕戰 || {{censored|模仿大師閃過金牌手的Royal Flush後接近施以連續斬擊，以Sting Master將其槍斃}} || [https://youtu.be/tglKADnNtE4 youtube]
+|-
+| 42 || Lara Croft vs Jill Valentine&lt;br&gt;蘿拉·卡芙特（古墓奇兵） vs [[吉兒‧范倫婷]]（[[惡靈古堡系列]]） || 特種部隊女戰士對決 || {{censored|打到後面被一群喪屍包圍，於是兩人一邊決鬥一被清除喪屍，最後蘿拉被吉兒限制行動，逐漸一邊被燃燒彈燒傷一邊被喪屍分屍而死}} || [https://youtu.be/UzLfI0shgT0 youtube] 
+|-
+| 43 || Krillin vs Tien VS Yamcha&lt;br&gt;克林 vs 天津飯 vs 飲茶（全部為七龍珠） || Z戰士最強地球人決定戰&lt;br&gt;&lt;s&gt;天津飯是外星人這一點是秘密啊&lt;/s&gt; || {{censored|克林發動太陽拳後將天津飯和飲茶轟往地面，再利用擴散彈把兩人一口氣轟死}} || [https://youtu.be/vgiyMci2A80 youtube]
+|-
+| 44 || Chun-Li vs Tifa Lockhart&lt;br&gt;春麗（快打旋風） vs 蒂法‧洛赫特（最終幻想） || 遊戲界知名拳法女主角對決 || {{censored|春麗把蒂法轟出大廈外面後接連使出霸山蹴將對手五馬分屍&lt;s&gt;春麗的大腿粗得能殺人XD&lt;/s&gt;}} || [https://youtu.be/PhThhvi-b3Y youtube]
+|-
+| 45 || Thor vs 100 Pikachus&lt;br&gt;索爾（漫威漫畫） vs 100隻皮卡丘（精靈寶可夢） || &lt;s&gt;100等雷神vs100隻皮神&lt;/s&gt; || {{censored|索爾殺死皮卡丘的方法有用拳頭打死、拋出雷神之鎚打死、踏死、甩出一隻皮卡丘清掉一堆、大範圍清場閃電（Mighty Thunder）...最後用地震打出「效果絕佳！」消滅最後一隻獲勝}} || [https://youtu.be/WonLKEtxmIE youtube]
+|-
+| 46 || Hulk vs Juggernaut&lt;br&gt;浩克（漫威漫畫） vs 紅坦克（漫威漫畫） || 漫威漫畫兩大怪力巨體人類對決 || {{censored|浩克把紅坦克踢飛後將之抓緊，摔在地上半栽在地面裡獲勝}} || [https://youtu.be/dBR84fYQ0I8 youtube]
+|-
+| 47 || Blade vs Hellboy&lt;br&gt;幽靈刺客（DC漫畫） vs 地獄男爵（地獄怪客） || 美漫有名的半人半魔物對決 || {{censored|地獄男爵在地獄裡伸出角後接住幽靈刺客的斬擊再以上勾拳反之&lt;br&gt;事後投出煙蒂燒屍}} ||[https://youtu.be/X5r14gHirOM youtube]
+|-
+| 48 || Mr. Fantastic vs Luffy&lt;br&gt;驚奇先生（漫威漫畫） vs 蒙其·D·魯夫（[[航海王]]） || 擁有身體變型能力的領袖對決 || {{censored|魯夫以三檔狀態的手臂一拳打爆驚奇先生的下半身獲勝}} || [https://youtu.be/UahER0vaWKc youtube]
+|-
+| 49 || Daredevil vs Kenshi&lt;br&gt;夜魔俠（漫威漫畫） vs 劍士（真人快打） || 失明武術高手對決 || {{censored|劍士發動念力砸了夜魔俠數次後再以念力把自己的刀飛出去插穿夜魔俠的頭，FATALITY}} || [https://youtu.be/W1Yx4lyavus youtube]
+|-
+| 50 || Harley Quinn vs Domino&lt;br&gt;哈妮·奎恩（DC漫畫） vs 多米諾（漫威漫畫） || 追隨著狂人的女反派對決 || {{censored|雖然多米諾以裝死騙過哈妮一次，不過再次追上去時被哈妮的毒氣手榴彈弄暈，哈妮補上一發火箭炮把多米諾炸死獲勝}} || [https://youtu.be/mpoJvodwZj0 youtube]
+|-
+| 51 || Akame vs Killua&lt;br&gt;赤瞳（[[斬！赤紅之瞳]]） vs 基路亞（HxH） || 悲劇反英雄對決 || {{censored|基路亞以落雷擊倒赤瞳再一手抓甩赤瞳的頭部獲勝}} || [https://youtu.be/xnrwyHxE6oo youtube]
+|-
+| 52 || Yoshi vs Pac-Man&lt;br&gt;耀西（瑪利歐系列） vs 吃豆人（Pac-Man） || 遊戲界的大食客對決 || {{censored|吃豆人放出大量餅乾並從多個方向咬噬耀西將其咬碎}} || [https://youtu.be/6h1OBWeavEc youtube]
+|-
+| 53 || Natsu vs Iceman&lt;br&gt;納茲·多拉格尼爾（FAIRY TAIL） vs 冰人（漫威漫畫） || 日漫火炎使者vs美漫寒冰使者 || {{censored|冰人把納茲放出的火柱完全冰結，進而把納茲也變成冰塊，冰人以冰刃把納茲砍爆獲勝&lt;s&gt;真不愧為Omega等級的變種人&lt;/s&gt;}} || [https://youtu.be/PnGwbPyP8D4 youtube]
+|-
+| 54 || Amy vs Sakura&lt;br&gt;艾咪·蘿絲（音速小子） vs 春野櫻（火影忍者） || 追隨著主角（?）的女狂粉對決 || {{censored|春野櫻以手刀插穿艾咪身體}} || [https://youtu.be/Sx1TTD1nE7c youtube]
+|-
+| 55 || Juri vs Mileena&lt;br&gt;韓蛛俐（快打旋風） vs 米莉娜（真人快打） || 日美兩大格鬥遊戲的邪惡女格鬥家對決 || {{censored|米莉娜放飛叉擊中韓蛛俐再拔掉其頭部獲勝&lt;br&gt;有另類結局版}} || [https://youtu.be/hc5zcSBuKyE youtube]
+|-
+| 56 || Vergil vs Hakumen&lt;br&gt;維吉爾（惡魔獵人） vs 白面（蒼翼默示錄） || 電玩界有名白髮長劍士對決 || {{censored|白面擋下維吉爾的一劍下發動&lt;s&gt;潑墨劍法&lt;/s&gt;虛空陣奧義·惡滅將其&lt;s&gt;ズェア！&lt;/s&gt;痛斬再一刀砍掉半身獲勝}} || [https://youtu.be/zlpPqWNpDzo youtube]
+|-
+| 57 || Chie vs Karin&lt;br&gt;里中千枝（女神異聞錄系列） vs 神月卡琳（快打旋風） || 日本兩大格鬥遊戲的個性外向、高傲、精通武術的女格鬥家對決 || {{censored|千枝放出Persona一刀砍掉卡琳半身獲勝&lt;br&gt;有另類結局版&lt;s&gt;維吉爾淚目&lt;/s&gt;}} || [https://youtu.be/zb_OPRgCVuM youtube]
+|-
+| 58 || Burning Gundam vs Thunder Megazord&lt;br&gt;神威鋼彈（機動戰士鋼彈系列） vs 大連王（金剛戰士） || 20世紀90年代的單對單向超級機器人對決 || {{censored|多蒙發動超級模式衝破大連王發射的光彈，以神威掌把大連王打成鐵屑}} || [https://youtu.be/-a1iQxg6n2w youtube]
+|-
+| 59 || Batman vs Scorpion&lt;br&gt;[[蝙蝠俠]]（[[DC漫畫]]） vs 全蠍人（真人快打） || 華納旗下兩大"復仇""忍者"對決&lt;br&gt;&lt;s&gt;Injustice 2 DC x Mortal Kombat DLC 催生動畫&lt;/s&gt; || {{censored|全蠍人把蝙蝠俠扯至地獄虐打，再以地獄火燄燒成灰燼}} || [https://youtu.be/hm_YDMvUVgY youtube]
+|-
+| 60 || Sasuke vs Ichigo&lt;br&gt;宇智波佐助（火影忍者） vs 黑崎一護（死神）  || 周刊少年JUMP的術系少年劍士對決 || {{censored|一護以連番斬擊打倒佐助&lt;br&gt;…實情是一護中了佐助的幻術然後被砍掉頭部}} || [https://youtu.be/R3RjCZc8wPI youtube]
+|-
+| 61 || Wolverine vs 100 Barakas&lt;br&gt;金剛狼（漫威漫畫） vs 100個巴拉卡（真人快打） || 從雙手伸出利刃的火爆戰士對決 || {{censored|金剛狼一直殺個不停幾乎沒有被碰過，最後以Weapon X（超必殺技）清理最後一批巴拉卡獲勝}} || [https://youtu.be/5QOV9Sx-2Hs youtube]
+|-
+| 62 || Alucard vs Dio Brando&lt;br&gt;阿卡德（Hellsing） vs [[DIO|迪奧·布蘭多]]（JoJo的奇妙冒險） || 最危險的吸血鬼對決 || {{censored|阿卡德以雙手槍射向世界（替身）令迪奧四肢盡斷，最後咬掉迪奧的頭獲勝}} ||[https://youtu.be/Kj5pDU-Rop8 youtube]
+|-
+| 63 || Catwoman vs Black Cat&lt;br&gt;貓女（DC漫畫）vs 黑貓（漫威漫畫） || 美漫兩大手黑貓形象的大盜對決 || {{censored|黑貓向貓女狂抓至撕開上下半身獲勝&lt;br&gt;&lt;s&gt;因為是女性對女性DBX對決的恆例關係&lt;/s&gt;有另類結局版}} ||[https://youtu.be/Kj5pDU-Rop8 youtube]
+|-
+| 64 || Ruby Rose vs Ragna the Bloodedge&lt;br&gt;Ruby Rose （[[RWBY]]） vs 拉格納（蒼翼默示錄） || 紅黑主色的巨大鎌刀高手對決 || {{censored|Ruby發動Silver Eyes後&lt;s&gt;調查兵團式&lt;/s&gt;轉身刀砍劈開拉格納半身獲勝&lt;s&gt;因為是DBX的關係&lt;/s&gt;}} ||[https://youtu.be/Kj5pDU-Rop8 youtube]
+|-
+| 65 || Ryu VS Liu Kang&lt;br&gt;隆（快打旋風） vs 劉鋼（真人快打） || 日美兩大知名格鬥遊戲的正派主角對決&lt;br&gt;{{censored|前半段採MK早期系列的真實風格，後半段變成SF的漫畫風}} || {{censored|隆透過覺醒殺意之波動掙脫喪屍劉鋼放出的鎖鏈，對劉鋼連消帶打後使出瞬獄殺擊殺劉鋼獲勝}} || [https://youtu.be/0YafBxMzfv4 youtube]
+|-
+| 66 || Bendy vs Cuphead&lt;br&gt;班迪（班迪與油印機） vs 茶杯頭（茶杯頭） || 復古卡通動畫風格死にゲー的主角對決&lt;br&gt;第三季閉幕戰 || {{censored|茶杯頭拋出斧頭意外把油墨管打爆，結果漏出的油墨壓不死墨汁怪班迪之餘還令他再度強化，最後班迪扭斷茶杯頭的頭部，並把裡面的飲料（？）喝光後把茶杯頭的頭部摔爆&lt;br&gt;「'''YOU DIED!'''」}} || [https://youtu.be/v4MMIV9eXys youtube]
+|-
+| colspan="5" align="center" |'''第四季''' 
+|-
+| 67 || Gotham vs Superboy&lt;br&gt;孫悟飯（七龍珠） vs 超級小子（DC漫畫） || 繼承最強超級英雄的精神的少年對決&lt;br&gt;第四季開幕戰 || {{censored|悟飯以龜派氣功波與超級小子的熱射線互推時孫悟空忽然在悟飯身邊出現並出「波」相助，成功把超級小子轟死&lt;s&gt;成功靠父幹&lt;/s&gt;&lt;br&gt;另類結局：悟飯以龜派氣功波與超級小子的熱射線互推時，超級小子突然穿過悟飯的龜派氣功波，抓著悟飯的頭沖入太陽表面，從太陽出來的時候悟飯&lt;s&gt;還&lt;/s&gt;剩下一副骨頭&lt;br&gt;投票比率：57%—43%}} || [https://youtu.be/K09WW1Zezds youtube]
+|-
+| 68 || D.Va vs Tron Bonne&lt;br&gt;D.Va（Overwatch） vs 多蓉·邦（洛克人系列） || 騎乘裝甲戰鬥的遊戲美少女對決 || {{censored|宋荷娜以D.Va捆綁著多蓉·邦的騎乘裝甲自爆，自己則從彈射座椅逃離爆風。&lt;s&gt;韓國警員可以為了逮捕違法泊車者殺人的&lt;/s&gt;&lt;br&gt;另類結局：多蓉·邦抓著D.Va&lt;s&gt;像復仇者的浩克狠摔洛奇一樣&lt;/s&gt;摔個痛快&lt;br&gt;投票比率：58%—42%}} || [https://youtu.be/dpGrVxfGSro youtube]
+|-
+| 69 || Metal Sonic vs Mega Man&lt;br&gt;金屬索尼克（音速小子系列） vs 元祖洛克人（洛克人系列） || 遊戲界的藍色機器人對決 || {{censored|金屬索尼克在偷襲元祖洛克人的時候給停止時間並在其背後貼上炸彈，不知情的金屬索尼克在向元祖洛克人送上致命一擊的時候，元祖洛克人避過金屬索尼克的攻擊，然後金屬索尼克就爆掉了。&lt;br&gt;另類結局：金屬索尼克偷襲元祖洛克人得手，再向元祖洛克人送上致命一擊。&lt;br&gt;投票比率：43%—57%}} || [https://youtu.be/3xE6yCejd34 youtube]
+|-
+| 70 || Boa Hancock vs [[Medusa (Fate)|Rider （Medusa）]]&lt;br&gt;波雅·漢考克（航海王） vs Rider （Medusa） （Fate/stay night） || 以希臘蛇妖為藍本，擁有石化他人能力的高個子美女對決 || {{censored|Rider以他者封印・鮮血神殿把波雅轟至一灘血&lt;br&gt;另類結局：&lt;br&gt;投票比率：49.2%—50.8%}} || [https://youtu.be/Bk0067lQ1UY youtube]
+|-
+| 71 || Venom vs Spawn&lt;br&gt;猛毒（漫威漫畫） vs 閃靈悍將（閃靈悍將） || 異形殺神者附身的人類vs兜風附身的殺神者人類 || {{censored|閃靈悍將把猛毒封住然後放光杵把其轟至不留痕迹&lt;br&gt;另類結局：&lt;br&gt;投票比率：39%—61%}} || [https://youtu.be/3xE6yCejd34 youtube]
+|-
+| 72 || Link vs Trunks&lt;br&gt;林克（薩爾達傳說） vs 特南克斯（七龍珠） || 擁有時空穿越能力的劍士對決 || {{censored|特南克斯向林克連番斬擊，再使出氣功波把林克轟至不留痕迹&lt;br&gt;另類結局：&lt;br&gt;投票比率：43%—57%}} || [https://youtu.be/TIH8rjuO5XI youtube]
+|-
+| 73 || Ezio vs Prince&lt;br&gt;Ezio Auditore da Firenze（[[刺客教條]]） vs 王子 （波斯王子） || Ubisoft遊戲裡的跑酷殺手對決 || {{censored|Ezio在與王子展開拳頭摶擊期間伸出袖劍刺斷王子的喉嚨獲勝&lt;br&gt;另類結局：&lt;br&gt;投票比率：70%－30%}} || [https://youtu.be/RYNpTJJg-q4 youtube]
+|-
+| 74 || Blake vs Inuyasha&lt;br&gt;Blake Belladonna（RWBY） vs 犬夜叉（犬夜叉） || 獸耳劍士對決 || {{censored|犬夜叉發動妖怪形態把Blake按在地上撕成碎塊&lt;br&gt;另類結局：Blake以Gambol Shroud纏住犬夜叉的頸，扯甩犬夜叉的頭部&lt;br&gt;投票比率：48.4%－51.6%}} || [https://youtu.be/CJavD5scygo youtube]
+|-
+| 75 || Frieza vs Mewtwo &lt;br&gt;弗利札（龍珠） vs 超夢（精靈寶可夢系列） || 白色身體紫色腹肌惡魔&lt;s&gt;（第三次）&lt;/s&gt;對決 || {{censored|弗利札以元氣玉壓制超夢時加放氣圓斬消滅之&lt;br&gt;另類結局：弗利札以元氣玉壓制超夢時中了幻象術，結果給自己放的氣圓斬砍頭&lt;br&gt;投票比率：52%－48%}} || [https://youtu.be/9fivN5K4nRg youtube]
+|-
+| 76 || Batman vs Iron Man&lt;br&gt;蝙蝠俠（DC漫畫） vs 鋼鐵人（漫威漫畫） || 美漫兩大手的高強地球科技兼&lt;s&gt;鈔能力者&lt;/s&gt;富豪對決&lt;br&gt;第四季閉幕戰&lt;br&gt;{{censored|&lt;s&gt;客串出演的角色還真多啊！&lt;/s&gt;}}&lt;br&gt;{{censored|&lt;s&gt;Ringmaster有意在模擬戰鬥片段中栽贓Boomstick沒錢&lt;/s&gt;}} || {{censored|鋼鐵人一手拋開蝙蝠俠並發出Uni-beam把蝙蝠俠擊殺&lt;br&gt;另類結局：蝙蝠俠以索帶拋開鋼鐵人並埋下炸彈蝙蝠鏢把鋼鐵人擊殺&lt;br&gt;投票比率：39%－61%}} || [https://youtu.be/c695yKG1ilY youtube] &lt;br&gt;[https://youtu.be/tYImxP0Hx90 youtube （另類結局）] 
+|-
+| colspan="5" align="center" |'''第五季''' 
+|-
+| 77 || Vegeta vs Thor&lt;br&gt;貝基塔（七龍珠） vs 索爾（漫威漫畫） || 外星人王子對決&lt;br&gt;第五季開幕戰 || {{censored|索爾避開了貝基塔的吉利克炮並以充電的雷神之錘墮沖向貝基塔把他撞+烤成灰燼&lt;s&gt;雷神終於再贏了&lt;/s&gt;&lt;br&gt;另類結局：貝基塔用吉利克炮和索爾用充電的雷神之錘對炮，貝基塔贏了並把索爾炸成灰燼&lt;s&gt;但是雷神之錘完好&lt;/s&gt;&lt;br&gt;投票比率：48%—52%&lt;br&gt;&lt;s&gt;龍珠迷：貝王子靠北了，負評。還有那個復仇者4的胖索爾哪位啊?&lt;/s&gt;&lt;br&gt;[https://i.redd.it/fl3vf0lnxr251.jpg {{censored|其中一位動畫師透露片段在後期製作的時候出現難以挽救的問題導致畫面沒能夠盡善盡美並僅此道歉}}]}} || [https://youtu.be/1ozmo6BkpUo youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-6-2 官方網站 （修復版）] &lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-6-2-alt 官方網站 （另類結局）] 
+|-
+| 78 || Mulan vs Lucina&lt;br&gt;花木蘭（迪士尼{{ref|是次比賽採用了迪士尼的版本，不是原典故的木蘭辭版本}}） vs 露琪娜（[[聖火降魔錄 覺醒]]） || 代父從軍的[[男裝麗人|女扮男裝]]劍士對決 || {{censored|露琪娜用巨型吊勾勾住花木蘭的臉再推出去，最後丟出劍切斷吊勾的鋼纜讓花木蘭掉到巨型扇葉裡被切成碎片&lt;br&gt;另類結局：花木蘭沖向露琪娜並用劍捅死她，期間捅破了一道鋼牆捅出一個大洞&lt;br&gt;投票比率：34%—66%}} || [https://youtu.be/ALI9iE92gyQ youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-6-9-alt 官方網站 （另類結局）] 
+|-
+| 79 || Shantae vs Shovel Knight&lt;br&gt;桑塔（桑塔系列） vs 鏟子騎士（鏟子騎士） || 著名的Indie Game動作遊戲系列主角對決 || {{censored|鏟子騎士避開了桑塔的大象撞擊，用鏟子纏繞著桑塔的頭髮狠摔，然後一個下突把桑塔的身子一分為二。&lt;br&gt;另類結局：桑塔擋住了鏟子騎士的號角遺物攻擊，用炮彈把鏟子騎士轟至特攝式爆炸，然後變成大象把鏟子騎士壓成肉餅。&lt;br&gt;投票比率：48%—52%}} || [https://youtu.be/h_wK_4RPog0 youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-3-alt 官方網站 （另類結局）] 
+|-
+| 80 || Lucario vs Blaziken&lt;br&gt;路卡里歐（精靈寶可夢系列） vs 火焰雞（精靈寶可夢系列） || 向快打旋風致敬的格鬥系寶可夢對決&lt;br&gt;&lt;s&gt;精靈寶可夢隆vs精靈寶可夢肯&lt;/s&gt;&lt;br&gt;{{censored|是次比賽陣容非常豪華，雙方也有支援。攻方為瑟蕾娜手持火焰雞+瑪狃拉+尼多王，守方為持有Z純晶的路卡利歐和巴大蝶。而且歷時4分26秒，全3D製作哦。}} || {{censored|共通：尼多王&lt;s&gt;跪壓&lt;/s&gt;踩踏著路卡利歐，瑟蕾娜放精靈球準備收伏路卡利歐的時候給巴大蝶捨身擋住，導致瑟蕾娜先收伏了巴大蝶。路卡利歐一怒之下啟動Z純晶大殺四方，一個波導彈擊倒了尼多王，再用幾掌打趴了瑪狃拉和其影分身。&lt;s&gt;別吐槽強化形態不是Z招式而是超級進化的效果&lt;/s&gt;&lt;br&gt;票選結局：路卡利歐在和火焰雞的激戰中近距離用波導彈把火焰雞和瑟蕾娜都炸飛，巴大蝶也給釋放了。&lt;br&gt;另類結局：路卡利歐在和火焰雞的激戰中被火焰雞的連環火焰拳擊倒，再給瑟蕾娜收伏。&lt;br&gt;投票比率：57%—43%&lt;br&gt;嚴格來說是次對決在兩個結局當中也沒有真正的角色死亡。}} || [https://youtu.be/T62XlxRrUCo youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-4-alt 官方網站 （另類結局）] 
+|-
+| 81 || Kid Goku vs Gon&lt;br&gt;孫悟空（七龍珠{{ref|是次比賽採用了孫悟空少年篇時期的版本}}） vs 傑·富力士（HxH） || 以猜拳為藍本的神童格鬥家對決 || {{censored|悟空用龜波氣功作為噴射推進把小傑轟至大樹中，再用金剛棒把小傑捅進太空直達月球。&lt;br&gt;另類結局：小傑用猜猜拳-剪刀將悟空的身子一分為二。&lt;br&gt;投票比率：65%—35%}} || [https://youtu.be/i-AaeZvADJA youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-5-alt 官方網站 （另類結局）] 
+|-
+| 82 || Ben 10 vs Danny Phantom&lt;br&gt;田小班（Ben 10） vs 丹尼．芬頓（幻影丹尼） || 美國動畫的綠色少年英雄對決 || {{censored|丹尼．芬頓以精神靈魂形態進入田小班的體內，結果反被體內的田小班靈魂一個彈指直接把丹尼的精神給抹消，精神被抹消當然肉體也會跟者消失。&lt;br&gt;另類結局：丹尼．芬頓以精神靈魂形態進入田小班的體內，再於附身形態解除變身還原肉體，田小班的肉體給從內部爆開。&lt;br&gt;投票比率：68%—32%}} || [https://youtu.be/BxGrCTxd8Vw youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-6-alt 官方網站 （另類結局）]
+|-
+| 83 || Kenshin Himura vs Trafalgar D. Water Law&lt;br&gt;緋村劍心（神劍闖江湖） vs 拖拉法爾加‧羅（航海王） || Jump近代漫畫的&lt;s&gt;又一&lt;/s&gt;劍豪角色對決 || {{censored|拖拉法爾加用アンピュテート把劍心的身子一分為二，再用タクト舉起大冰塊把劍心的身體壓成肉餅。&lt;br&gt;另類結局：劍心用天翔龍閃把拖拉法爾加斬至骨碎血流。&lt;br&gt;投票比率：48%—52%}} || [https://youtu.be/lV7QC3zfgZY youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-7-alt 官方網站 （另類結局）]
+|-
+| 84 || Yang vs Bakugo&lt;br&gt;Yang Xiao Long（RWBY） vs 爆豪勝己（我的英雄學園） || 拳頭會產生爆炸的高校生對決 || {{censored|爆豪用爆破推進器跳高避開Yang的重擊，再用榴彈砲衝擊把Yang烤成灰燼。&lt;br&gt;另類結局：Yang破壞地板擋住爆豪的A.P.穿甲彈，再連環毆打爆豪至飛出場外並打穿圍牆。&lt;br&gt;投票比率：49.9%—50.1%}} || [https://youtu.be/RHMB9kXT83g youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-8-alt 官方網站 （另類結局）]
+|-
+| 85 || Arwing vs X-wing&lt;br&gt;Arwing（星際火狐） vs X翼戰機（星際大戰） || 主角駕駛的星際戰機對決 || {{censored|Arwing用脈衝炮炸向X翼戰機，X翼戰機給捲進了爆風炸毀。&lt;br&gt;另類結局：X翼戰機避開Arwing的脈衝炮爆風，再用質子飛彈炸毀Arwing。&lt;br&gt;投票比率：54%—46%}} || [https://youtu.be/8FUJ1mfaTH0 youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-9-alt 官方網站 （另類結局）]
+|-
+| 86 ||Superman vs Saitama&lt;br&gt;超人（DC漫畫） vs 埼玉（一拳超人） || 美日漫畫"離譜地強"的英雄對決&lt;br&gt;第五季閉幕戰 || {{censored|埼玉硬扛了超人的熱視線並以認真一拳把超人的腰部歐斷。&lt;br&gt;另類結局：超人抓起埼玉飛出外太空把他扔向太陽，埼玉用連續認真一拳轟向超人的臉也動不了超人一分，結果身體給扔向太陽並發生大爆炸，手臂當中給扯斷。&lt;br&gt;事前埼玉一拳把末日轟向大廈擊敗之。&lt;br&gt;投票比率：31%—69%}} || [https://youtu.be/iGFI6pgnhFw youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2020-10-alt 官方網站 （另類結局）]
+|-
+| colspan="5" align="center" |'''第六季''' 
+|-
+| 87 || Vegito vs Gogeta&lt;br&gt;貝基特（七龍珠） vs 悟基塔（七龍珠） || 悟空和貝基塔使用不同合體方法後產生出來的戰士對決&lt;br&gt;第六季開幕戰 || {{censored|悟基塔用星塵破壞者把貝基特存在抹殺至化為星塵&lt;br&gt;另類結局：貝基特用銀河靈力劍把悟基塔斬至數片，再用大爆炸龜波氣功把已經解除合體的悟基塔頭部粉碎&lt;br&gt;投票比率：47%—53%}} || [https://youtu.be/7GQhEyevP-A youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2021-1-alt 官方網站 （另類結局）]
+|-
+| 88 || Ness vs Sans&lt;br&gt;奈斯（地球冒險系列） vs Sans（Undertale） || 好友/主角成魔以前的最後勸降手對決 || {{censored|共通：Sans用骨頭牢子關奈斯厠所再使用多重骨頭浮游光炮攻擊。&lt;br&gt;票選結局：奈斯用力牆擋駕不果，力牆給擊穿，給幾條骨矛刺穿身體，心臟給挖出捏爛，靈魂也給吸收。&lt;br&gt;另類結局：奈斯用球棒畜力一揮打破骨頭牢子逃脫，並把Sans頭部打斷擊出天空。&lt;br&gt;投票比率：34%—66%}} || [https://youtu.be/x6wUs7orI98 youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2021-2-alt 官方網站 （另類結局）]
+|-
+| 89 || Naruto Uzumaki vs Ryu Hayabusa&lt;br&gt;漩渦鳴人（火影忍者） vs 隼龍（忍者龍劍傳） || 超能力忍者對決 || {{censored|鳴人用螺旋丸硬破隼龍的暗極重波彈之術並把隼龍的身體打碎。&lt;br&gt;另類結局：隼龍用時間凍結停止了鳴人的多重螺旋丸攻擊，然後用真龍劍把多重螺旋丸和鳴人的身體斬開兩邊。&lt;br&gt;投票比率：62%—38%}} ||  [https://youtu.be/c3YmsJghomM youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2021-3-alt 官方網站 （另類結局）]
+|-
+| 90 || Apocalypse vs Black Adam&lt;br&gt;天啟（漫威漫畫） vs 黑阿當（DC漫畫） || 美漫兩大手的集合多重超能力/神力的古埃及風反派對決 || {{censored|黑阿當抓住天啟並連續向天啟使用打雷，然後把天啟的身體撕成數塊，再把打雷打向拋到地下的天啟上半身，天啟的頭部再給踏爆。&lt;br&gt;另類結局：黑阿當抓住天啟並連續向天啟使用打雷，反而給天啟控制身體開了個洞，誘導打雷打向黑阿當的身體解除變身，天啟再把黑阿當的身體撕成數塊。&lt;br&gt;投票比率：47%—53%}} ||  [https://youtu.be/5oZ7Bdnyae8 youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2021-4-alt 官方網站 （另類結局）]
+|-
+| 91 || Donald Duck vs Daffy Duck&lt;br&gt;唐老鴨（迪士尼卡通系列） vs 達菲鴨（華納兄弟樂一通動畫系列） || 經典卡通系列鴨角色對決 || {{censored|共通：&lt;b&gt;傑斯‧候活特&lt;/b&gt;使用烈風拳偷襲唐老鴨跟達菲鴨，跟上的&lt;b&gt;無題大鵝模擬的鵝主角&lt;/b&gt;也打算亂入參戰，但是給達菲鴨和唐老鴨以“本打鬥只歡迎鴨類參與”拒絕。&lt;br&gt;票選結局：達菲鴨搶去唐老鴨的散彈槍並轟低唐老鴨跟從唐老鴨召喚的史高治·麥克老鴨和黑翼鴨，達菲鴨召喚的達克‧道奇也捏死一隻&lt;s&gt;路過的&lt;/s&gt;小鴨。賓尼兔&lt;b&gt;從打鴨子遊戲外用打鴨子光槍偷襲一直在打鴨子遊戲内的&lt;/b&gt;達菲鴨並&lt;s&gt;耍廚&lt;/s&gt;自諷很令人討厭。&lt;br&gt;另類結局：唐老鴨以Zettaflare把達菲鴨烤成灰燼，其死光能夠從宇宙看見。&lt;s&gt;米奇老鼠沒有從王國之心遊戲外偷襲在王國之心遊戲内的唐老鴨。&lt;/s&gt;&lt;br&gt;投票比率：49%—51%}} ||  [https://youtu.be/SICCx0qO5cI youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2021-5-alt 官方網站 （另類結局）]
+|-
+| 92 || Zuko vs Roy Mustang&lt;br&gt;蘇科（降世神通） vs 萊‧馬斯丹（鋼之鍊金術師） || 火使者角色對決&lt;br&gt;&lt;s&gt;火使者安vs火使者愛德華‧愛力克&lt;/s&gt; || {{censored|蘇科以火焰彈燒掉萊的煉金術手套，再用大刀把其雙臂和頭部砍掉。&lt;br&gt;另類結局：萊以火焰彈先後炸掉蘇科的眼睛、四肢跟身體軀幹。&lt;br&gt;投票比率：61%—39%}} || [https://youtu.be/zWaibpJjFw0 youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2021-6-alt 官方網站 （另類結局）]
+|-
+| 93 || Sailor Mercury vs Blue Ranger&lt;br&gt;水野亞美（水星戰士）（美少女戰士） vs 比利‧古蘭斯頓（藍衣戰士）（金剛戰士） || 保護地球的起祖五人戰隊中的藍衣智將形角色對決 || {{censored|比利避開亞美的附帶跟蹤性能的水星水流幻象，再用三角龍長槍插向亞美，讓水星水流幻象打中亞美自己。&lt;br&gt;另類結局：亞美用水星水流幻象把比利的身體灌水直到身體爆裂。&lt;br&gt;投票比率：48%—52%}} || [https://youtu.be/mVcoBBvLxJo youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2021-7-alt 官方網站 （另類結局）]
+|-
+| 94 || Palpatine vs Xehanort&lt;br&gt;白卜庭（星際大戰） vs 賽亞諾特（王國之心系列） || 長者宇宙大反派角色對決&lt;br&gt;&lt;s&gt;反派尤達vs反派國王米奇&lt;/s&gt; || {{censored|賽亞諾特用鑰刃從後偷襲白卜庭，白卜庭用一把光束劍格擋，再用開打不久故意弄失的另一把光束劍反偷襲賽亞諾特，白卜庭"背刺"了賽亞諾特以後再把他腰斬，用原力推賽亞諾特至窗口，賽亞諾特沒能夠儲氣使出魔法光彈就給空氣壓力推出死亡星外的太空。&lt;br&gt;另類結局：賽亞諾特把白卜庭扯進自己的固有境界（當中卻出現了貼上白卜庭身子的浮台），再用王國之心發出的能量光束把白卜庭的人烤熟，連帶浮台給切成兩邊。&lt;br&gt;投票比率：66%—34%&lt;br&gt;&lt;s&gt;白卜庭：我愛民主，我也愛死亡對決。我最愛有田小班的那集。“時間誒？謝謝你的提示。”哈哈哈… 順帶一提灰狐絕對秒殺蛇眼。殺很大。殺不用錢。&lt;/s&gt;}} || [https://youtu.be/eFQ0q7Vo29g youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2021-8-alt 官方網站 （另類結局）]
+|-
+| 95 || Goomba vs Koopa 2&lt;br&gt;栗寶寶（瑪利歐系列） vs 慢慢龜（瑪利歐系列） || 雜魚之王再戰 || {{censored|共通：&lt;s&gt;因為是DBX&lt;/s&gt;栗寶寶和慢慢龜雙方從地球到月球打的來回數十圈。&lt;br&gt;票選結局：雙方打出了一個蟲洞，慢慢龜給扯進了蟲洞並遇到了華利•威斯特、阿奇索尼克、綠光戰警和金色先鋒，慢慢龜穿越時間返回兩者開打前的過去，從栗寶寶的頭上出現並一拳轟爆其身體。&lt;br&gt;另類結局：栗寶寶避開了慢慢龜的一擊，攻擊落空的慢慢龜磨了地球一圈給地面的摩擦力煞停，栗寶寶用口把筋疲力盡的慢慢龜咬出並吃掉身體。&lt;br&gt;投票比率：40%—60%}} || [https://youtu.be/2cqlqqdTNAQ youtube]&lt;br&gt;[https://roosterteeth.com/watch/dbx-2021-9-alt 官方網站 （另類結局）]
+|}
+
+&lt;!-- 官方暗示貝基塔（七龍珠）、桑塔（桑塔系列）、索爾（漫威漫畫）和爆豪勝己（我的英雄學園）將會參戰第五季 --&gt;
+
+&lt;!-- 官方暗示白卜庭（星際大戰）、萊‧馬斯丹（鋼之鍊金術師）、貝基特（七龍珠）和隼龍（忍者龍劍傳）將會參戰第六季 --&gt;
+
+== DEATH RACE ==
+* &lt;s&gt;絕命尬車&lt;/s&gt;為一部美國科幻[[汽車|賽車]]動作片，描述一間監獄創立由囚犯互相靠賽車形式競爭的死亡賽車，'''但是這和本條目無關。'''
+* 賽車版的DBX，每次比賽均會把數台載具放進場內邊跑邊競（廝）技（殺），第一位過終點的載具/最後的生還載具就是勝利者。
+**{{censored|第一位過終點的載具/最後的生還載具可以不同，Ringmaster也表示大惑。}}
+* 由Ringmaster當比賽司儀，Wizard和Boomstick當[[解說員|旁述]]。
+
+=== 影片 ===
+
+'''IT'S TIME FOR A DEATH RACE!!'''
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 集數 !! 標題 !! 參賽載具 !! 賽果（注意有捏！） !! 影片連結
+|-
+| 1 || Batmobile Battle!&lt;br&gt;歷代蝙蝠車對決 || Tim Burton Batmobile VS Dark Knight Batmobile VS Arkham Knight Batmobile VS Adam West Batmobile&lt;br&gt;Tim Burton版蝙蝠車vs黑夜騎士蝙蝠車vs阿卡漢騎士蝙蝠車vs Adam West版蝙蝠車 || {{censored|黑夜騎士蝙蝠車顧著和阿卡漢騎士蝙蝠車鬥火力時失控飛出賽車軌道，變成電單車返回賽道時給Tim Burton版蝙蝠車烤熟。Adam West版蝙蝠車用“蝙蝠核彈”把阿卡漢騎士蝙蝠車炸爛。Tim Burton版蝙蝠車用榴彈誤把Adam West版蝙蝠車炸飛到終點。&lt;br&gt;黑夜騎士蝙蝠車和阿卡漢騎士蝙蝠車再起不能，Adam West版蝙蝠車大破第一名過終點線，Tim Burton版蝙蝠車完好第二名過終點線。&lt;br&gt;Boomstick&lt;s&gt;覺得給炸掉會飛的車很屌所以&lt;/s&gt;判Adam West版蝙蝠車獲勝。}} || {{youtube|rLOwrSTvZbU|Youtube}}
+|-
+| 2 || Optimus Prime VS Thomas the Tank Engine?&lt;br&gt;載具生命體對決 || Lightning McQueen VS Thomas the Tank Engine VS &lt;s&gt;Herbie&lt;/s&gt;Flying Ford Anglia VS Optimus Prime&lt;br&gt;閃電麥坤（汽車總動員）vs湯瑪士（湯瑪士小火車）vs&lt;s&gt;賀比（金龜車賀比）&lt;/s&gt;會飛的福特安格里亞車（[[哈利‧波特系列]]）vs柯博文（變形金剛） || {{censored|&lt;s&gt;掉坑假死後飛回賽道的&lt;/s&gt;湯瑪士以噴火烤焦了福特安格里亞&lt;s&gt;哈利可以看到父母了&lt;/s&gt;，此時柯博文後來追上並以斧頭把湯瑪士砍爆，爆風順便炸爆麥坤&lt;br&gt;柯博文雖然獲勝，但因為認為自己靠運氣和殘忍手段來贏太犯規，失去尊嚴的他最後跳崖自殺}} || {{youtube|Bja4RVtU93A|Youtube}}
+|-
+| 3 || BATTLE CARS!&lt;br&gt;武裝汽車對決&lt;br&gt;&lt;s&gt;霹靂車的人工知能擔任第三旁述&lt;/s&gt; || Warthog VS Spy Hunter VS James Bond’s Aston Martin VS KITT&lt;br&gt;疣豬號（最後一戰）vs間諜獵手（間諜獵手系列）vs詹姆士．龐德的奧斯頓·馬丁（007電影系列）vs霹靂車/遊俠2000（霹靂遊俠） || {{censored|疣豬號被占士邦以輪胎鑽頭吹飛上天，卻一直在空中打空翻並在終點安全著地奪冠，其餘三部車均被武裝直升機與與賽道崩塌的夾擊下墜軌落敗，期間間諜獵手射出導彈把奧斯頓·馬丁轟爆&lt;s&gt;讓占士邦表演血肉之軀撞爆直升機&lt;/s&gt;&lt;br&gt;&lt;s&gt;霹靂車的人工智慧夥計賽後駭入Wiz的身體 “復活”&lt;/s&gt;}} || {{youtube|311BpWFr3vk|Youtube}}
+|-
+| 4 || Sonic VS Mario VS Star Wars VS Intital D!&lt;br&gt;第一季閉幕戰&lt;br&gt;本比賽要求參賽者把披薩運到終點 || Star Wars' Speeder Bike VS Initial D's Toyota AE86 VS Back to the Future's DeLorean VS Sonic's Speed Star VS Mario's Standard Kart VS Captain Falcon's Blue Falcon&lt;br&gt;反重力戰車（星際大戰）vs豐田AE86（頭文字D）vs迪羅倫（回到未來）vs瑪利歐的標準車（瑪利歐賽車系列）vs索尼克的音速之星（音速小子與SEGA全明星賽車系列）vs藍色獵隼（F-ZERO系列） || {{censored|瑪利歐利用炮彈刺客把反重力戰車撞爆&lt;br&gt;飛隼隊長跳出車外用飛隼拳漂亮地打爆襲擊瑪利歐的巨型釘球，卻在向瑪利歐示好時被索尼克趁機撞出賽道，[[任天堂明星大亂鬥|{{censored|GAME!}}]]&lt;br&gt;索尼克向瑪利歐投出刺刺龜殻，卻因為瑪利歐投出的炸彈被機關彈回自己自爆的關係，刺刺龜殻反過來襲擊暫定第一的索尼克並將之炸死&lt;br&gt;最後迪羅倫利用時間跳躍能力率先衝過終點，卻因為車內的披薩碎掉而被取消資格，優勝者為其後衝過終點的豐田AE86&lt;s&gt;不愧為拓海，運送食物毫無難度}} || {{youtube|y3fxu4OYMJs|Youtube}}
+|}
+
+== [http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/OneMinuteMelee One Minute Melee]/一分鐘對戰 == 
+* 由製作DEATH BATTLE的影片製作員另外製作的影片系列。
+** 他們有表明此系列與DEATH BATTLE無關，也並非用作取締DEATH BATTLE。
+
+* 正如影片開始的旁白所言，內容為兩名角色在60秒內分出勝負&lt;s&gt;，但也有部份戰鬥會超時&lt;/s&gt;
+** 對戰人選比較隨便，早期開場片段的「No Research」（不重複搜尋）意指以直覺決定人選。
+** 對戰前後也不像DEATH BATTLE般解說角色實力，是純粹的對戰影片。勝方完全由動畫師決定。
+** 有時甚至會在影片加上一些創意，例如對戰被設定成在另一戰之後（甚至關乎某場DEATH BATTLE），或加上一些超出觀眾所料的劇情。
+** 另一分別為本系列的敗者不一定會死（但也不能保證不會獵奇死亡）。
+
+* 最初在一個名為DiMMFx的Youtube頻道上載，第四集開始改在Screwattack頻道公開。
+** 第三季再度和Screwattack分家，移到名為Hyun's Dojo的帳號。
+
+=== 影片 === 
+* '''2 FIGHTERS, 60 SECONDS, 1 VICTOR'''
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 集數 !! 標題 !! 解說 !! 賽果（注意有捏！） !! 影片連結
+|-
+| colspan="5" align="center" |'''第一季''' 
+|-
+| 1 || Jin Saotome VS Gambit &lt;br&gt;早乙女刃（裝甲戰士）vs金牌手（漫威漫畫） ||  || {{censored|早乙女刃以Blodia Punch擊倒金牌手取勝&lt;s&gt;Blodia[[火箭飛拳|{{censored|只有手臂飛出來}}]]&lt;/s&gt;}} || [https://www.youtube.com/watch?v=2RH5Y4ZTXHs youtube] 
+|-
+| 2 || Akuma VS Kenpachi Zaraki&lt;br&gt;豪鬼（快打旋風）vs更木劍八（死神） || 稱號為鬼的戰鬥狂對決 || {{censored|豪鬼以天衝海礫刃擊倒更木劍八}} || [https://www.youtube.com/watch?v=tkiD9Uixq84 youtube] 
+|-
+| 3 || Terry Bogard VS Burai Yamamoto&lt;br&gt;泰瑞·柏格（餓狼傳說）vs山本無賴（大番長） ||  || {{censored|無賴把泰端向上擊飛後以一記下勾拳追打獲勝。&lt;s&gt;那些咒文是什麼意思...&lt;/s&gt;}} || [https://www.youtube.com/watch?v=D0jHrm1nkDM youtube] 
+|-
+| 4 || Captain Falcon VS Captain Commando&lt;br&gt;飛隼隊長（F-ZERO）vs Captain Commando（上尉密令） || 電玩界"隊長"對決 || {{censored|飛隼隊長召喚藍隼號撞倒Captain Commando後以Falcon Punch追打獲勝&lt;br&gt;さすがCF}} || [https://www.youtube.com/watch?v=5LWSq4vkZ0w youtube] 
+|-
+| 5 || Batman VS Albert Wesker&lt;br&gt;蝙蝠俠（DC漫畫）vs亞伯·維斯卡（[[生化危機系列|惡靈古堡]]） || 人類的頂點對決 || {{censored|維斯卡以連環殺擊倒蝙蝠俠}} || [https://www.youtube.com/watch?v=HiDjJ9ahua0 youtube] 
+|-
+| 6 || Kim VS Juri&lt;br&gt;金甲喚（餓狼傳說）vs韓蛛俐（快打旋風） || &lt;s&gt;[[韓國起源]]&lt;/s&gt;正義與邪惡的[[足技|跆拳道]]對決 || {{censored|金甲喚在末段對韓蛛俐連消帶踢再以鳳凰腳作結獲勝}} || [https://www.youtube.com/watch?v=BTZ8xtVxhCM youtube] 
+|-
+| 7 || Zero VS Meta Knight&lt;br&gt;傑洛（洛克人系列）vs魅塔騎士（星之卡比） || 主角的前輩、劍士、和主角對峙過的角色對決 || {{censored|魅塔騎士整個身體被傑洛垂直切開兩邊死亡&lt;br&gt;&lt;s&gt;傑洛：「我本來想和原作一樣只把面具砍成兩邊的，只是用力太重...」&lt;/s&gt;}} || [https://www.youtube.com/watch?v=vy3m4VQ735o youtube] 
+|-
+| 8 || Bowser VS Dr.Eggman&lt;br&gt;庫巴（瑪利歐系列）vs蛋頭博士（音速小子） || 電玩界招牌頭目對決 || {{censored|庫巴抱住蛋頭機械人發射的飛彈反過來撞倒蛋頭機械人，再以雙飛腿將之擊飛}} || [https://www.youtube.com/watch?v=U4Efq9rCs_M youtube] 
+|-
+| 9 || Deadpool VS Deathstroke&lt;br&gt;死侍（漫威漫畫）vs喪鐘（DC漫畫） || 美漫兩大手的不死身傭兵對決：復仇戰 || {{censored|喪鐘拿出狙擊槍對死侍連續攻擊後發出子彈將其射至粉身碎骨&lt;s&gt;恭喜喪鐘服仇成功&lt;/s&gt;}} || [https://www.youtube.com/watch?v=D2IcxJ1H3yE youtube] 
+|-
+| 10 || Dante VS Ragna the Bloodedge&lt;br&gt;但丁（[[Devil May Cry|惡魔獵人]]）vs拉格納（蒼翼默示錄） || 白髮紅袍大劍對決&lt;br&gt;&lt;s&gt;拉格納為了讓觀眾容易辨認而換上白色衣服&lt;/s&gt; || {{censored|拉格納以無影移動在但丁身邊閃來閃去後突然砍出一刀打倒但丁得勝}} || [https://www.youtube.com/watch?v=Px7meNVRbzU youtube] 
+|-
+| 11 || Mewtwo VS Frieza&lt;br&gt;超夢（精靈寶可夢系列）vs弗利札（龍珠） || 白色身體紫色腹肌惡魔對決 || {{censored|弗利札避過超夢的光波攻擊後從後以巨大火球打倒超夢獲勝}} || [https://www.youtube.com/watch?v=X7YdAL9KLQY youtube] 
+|-
+| 12 || Sakuya Izayoi VS Dio Brando&lt;br&gt;[[十六夜咲夜]]（[[東方]]）vs[[DIO]]（JOJO） || &lt;s&gt;父女&lt;/s&gt;時間停止對決&lt;br&gt;&lt;s&gt;戰鬥歷時約兩分鐘&lt;/s&gt; || {{censored|咲夜被時間停止+壓路機攻擊時接回自己的鉈錶發動時間停止逃走，再賞DIO時停刀陣獲勝}} || [https://www.youtube.com/watch?v=uYD1FUdB0bc youtube] 
+|-
+| 13 || Hercule Satan VS Dan Hibiki&lt;br&gt;撒旦先生（龍珠）vs火引彈（快打旋風） || &lt;s&gt;最強的&lt;/s&gt;敗犬對決 || {{censored|撒旦先生向彈送出一部電子手帳後引爆內裡的炸彈把彈轟飛獲勝&lt;s&gt;「屍體」卻砸在撒旦先生之上&lt;/s&gt;}} || [https://www.youtube.com/watch?v=LYqigle1AyU youtube] 
+|-
+| 14 || Lucario VS Renamon&lt;br&gt;路卡利歐（精靈寶可夢系列）vs妖狐獸（[[デジモンシリーズ|數碼寶貝]]） || 狐狸寶可夢vs狐狸數碼寶貝 || {{censored|兩者互相擊中對家頭部，同時被擊倒}} || [https://www.youtube.com/watch?v=9wbsU53wq0s youtube] 
+|-
+| 15 || Samus Aran VS Mega Man&lt;br&gt;薩姆斯（銀河戰士）vs洛克人（洛克人系列） || 集氣手砲對決&lt;br&gt;{{censored|前者其實不是薩姆斯本人，而是SA-X}} || {{censored|SA-X的蓄力砲打在大廈內的裝置之上造成重力洞，洛克人以集氣砲把SA-X打進重力洞內獲勝&lt;br&gt;其後怪物型態的SA-X前來襲擊洛克人，此時真正的薩姆斯出現並與洛克人協力擊殺SA-X}} || [https://www.youtube.com/watch?v=iF-wpSiYi3M youtube] 
+|-
+| 16 || Sonic the Hedgehog VS Flash&lt;br&gt;索尼克（音速小子）vs[[貝瑞‧艾倫|閃電俠]]（DC漫畫） || 速度最快對決 || {{censored|索尼克變身成超級索尼克後衝到平流層再撞向地面的閃電俠獲勝}} || [https://www.youtube.com/watch?v=IX_8GSK2JQ0 youtube] 
+|-
+| 17 || Catwoman VS Black Widow&lt;br&gt;貓女（DC漫畫）vs黑寡婦（漫威漫畫） || 漫畫界黑衣惡女對決 || {{censored|貓女避過黑寡婦的狙擊槍子彈後作出連續攻擊，以夾頭摔打倒之}} || [https://www.youtube.com/watch?v=3ytQqeU9-s8 youtube] 
+|-
+| colspan="5" align="center" |'''第二季'''&lt;ref&gt;這一季每集戰鬥前會顯示角色選單&lt;s&gt;，不過首次出現時選單幾乎是空白的&lt;/s&gt;&lt;/ref&gt; 
+|-
+| 18 || Oni VS Kenpachi&lt;br&gt;狂オシキ鬼（快打旋風）vs更木劍八（死神） || 第2集的續篇 || {{censored|豪鬼以赤星地雷拳再一次擊倒更木劍八&lt;br&gt;草鹿やちる把倒下的劍八救走}} || [https://www.youtube.com/watch?v=fvR8JHWAJfA youtube] 
+|-
+| 19 || Lightning VS Wonder Woman&lt;br&gt;雷霆（最終幻想系列）vs神力女超人（DC漫畫） ||  ||  || [https://www.youtube.com/watch?v=pgWXWPLx_NA youtube] 
+|-
+| 20 || Scorpion VS Ghost Rider&lt;br&gt;全蠍人（真人快打）vs惡靈戰警（漫威漫畫） || 地獄火燄對決&lt;br&gt;{{censored|故事發生在隆vs全蠍人DEATH BATTLE之後，這戰之前肯因為要復仇而被全蠍人打倒了}} || {{censored|惡靈戰警騎在全蠍人身上連消帶打後再以贖罪之眼了結之}} || [https://www.youtube.com/watch?v=XbAgUzbhlMs youtube] 
+|-
+| 21 || Naruto VS Luffy&lt;br&gt;[[漩渦鳴人]]（火影忍者）vs蒙其·D·魯夫（航海王） || J家少年對決 || {{censored|魯夫以橡膠機關槍迎擊變成九尾狐衝過來的鳴人得勝}} || [https://www.youtube.com/watch?v=hAe8Nwjl5T4 youtube] 
+|-
+| 22 || Wario VS Knuckles&lt;br&gt;[[Wario|壞利歐]]（瑪利歐系列）vs納克魯斯（音速小子） || 兩大遊戲主機看板之No.3對決&lt;br&gt;{{censored|今回沒有「OH NO!」}} || {{censored|納克魯斯從地底挖出大石頭出來拋向壞利歐擊倒之&lt;br&gt;但混沌寶石被蛋頭博士乘機以直昇機運走}}&lt;ref&gt;{{censored|這一幕可能是比擬壞利歐樂園的結局}}：[https://www.youtube.com/watch?v=xdHsX-KJRG4 {{censored|見此}}]&lt;/ref&gt; || [https://www.youtube.com/watch?v=lAXUiVM8G4o youtube] 
+|-
+| 23 || Ryu VS Jin&lt;br&gt;隆（快打旋風）vs風間仁（[[鐵拳]]） || 日產大手2D與3D格鬥遊戲之主角對決&lt;br&gt;{{censored|最後演變成殺意隆vs惡魔仁}} || {{censored|殺意隆與惡魔仁互相擊中對方的頭部做成Double KO，黑化狀態也一起消失了}} || [https://www.youtube.com/watch?v=GAwQ61u_tSs youtube] 
+|-
+| 24 || Jotaro Kujo VS Kenshiro&lt;br&gt;[[空條承太郎]]（JOJO）vs拳四郎（北斗の拳） || J家黃金期的兄貴對決&lt;br&gt;故事接在咲夜vs DIO之後 || {{censored|經過一輪阿打打打vs[[成句/オラオラオラオラオラオラ|{{censored|歐啦歐啦}}]]比拼之下，承太郎成功命中拳四郎勝出&lt;s&gt;柳田理科雄被狠狠打臉&lt;/s&gt;&lt;br&gt;拳四郎打中承太郎的秘孔在對戰後發作，而且傷害不高}} || [https://www.youtube.com/watch?v=-j_VcsTtLBE youtube] 
+|-
+| 25 || Vergil VS Sephiroth&lt;br&gt;維吉爾（惡魔獵人）vs賽菲羅斯（最終幻想系列） || [[暗墮]]劍士對決 || {{censored|維吉爾趁著賽菲羅斯揮刀空振射出幻影劍擊倒之&lt;br&gt;賽菲羅斯似乎大難不死並且要復仇？}} || [https://www.youtube.com/watch?v=Pffi6xU5sTk youtube] 
+|-
+| 26 || Link VS Sora&lt;br&gt;林克（薩爾達傳說）vs索拉（王國之心） || 解謎式ARPG主角對決 || {{censored|林克企圖跳往倒地的索拉推行追打，結果反被鍵刃插中敗北&lt;br&gt;林克被擊倒後體內的暗黑林克被逼出來，林克連同索拉一行一起對付暗黑林克放出的魔物大軍}} || [https://www.youtube.com/watch?v=whuE8ouWdiQ youtube] 
+|-
+| 27 || Roronoa Zoro VS Rurouni Kenshin&lt;br&gt;羅羅亞·索隆（航海王）vs緋村劍心（神劍闖江湖） || J家武士對決&lt;br&gt;故事接在漩渦鳴人vs魯夫之後&lt;br&gt;&lt;s&gt;劍心好心報路卻被神經病拿刀砍&lt;/s&gt; || {{censored|兩者最一後一起突進，索隆以獅子輓歌擊倒劍心獲勝&lt;s&gt;\けんちゃああああああああああああん！/&lt;/s&gt;}} || [https://www.youtube.com/watch?v=ClcOa0W-TS4 youtube] 
+|-
+| 28 || BB Hood vs Peacock&lt;br&gt;芭蕾塔（魔域幽靈）vs孔雀（Skullgirls） || 少女兵器庫對決 || {{censored|Peacock以照射砲擊落芭蕾塔後連同夥伴一起圍毆，最後丟出炸彈擊倒之}} || [https://www.youtube.com/watch?v=Mu3wHy9o2nc youtube] 
+|-
+| 29 || Bowser Jr VS Metal Sonic&lt;br&gt;庫巴Jr.（瑪利歐系列）vs金屬索尼克（音速小子） || 兩大動遊戲招牌頭目的最強部下對決&lt;br&gt;故事接在庫巴vs蛋頭博士之後&lt;br&gt;{{censored|開戰一刻米格索尼克亂入並瞬倒金屬索尼克，取代它成為庫巴Jr.的對手}} || {{censored|庫巴Jr.被米格索尼克以照射砲擊中後再被連消帶打擊倒&lt;s&gt;一共被KO了兩次&lt;/s&gt;}} || [https://www.youtube.com/watch?v=NBK0stoukBQ youtube] 
+|-
+| 30 || Master Hand VS Polygon Man&lt;br&gt;Master Hand（&lt;s&gt;正版&lt;/s&gt;[[任天堂明星大亂鬥]]）vs Polygon Man（&lt;s&gt;山寨&lt;/s&gt;PS明星大亂鬥） || 兩個亂鬥遊戲世界的神主對決&lt;br&gt;&lt;s&gt;這大手掌會偶爾變成Crazy Hand&lt;/s&gt; || {{censored|Master Hand以毒龍鑽突破護罩搶掉Polygon Man的奧義球後發動奧義，放出重力洞將其壓成台座模型後再捏碎}} || [https://www.youtube.com/watch?v=cGCDThz1ttQ youtube] 
+|-
+| 31 || Green Arrow VS Hawkeye&lt;br&gt;綠箭俠（DC漫畫）vs鷹眼（漫威漫畫） || 美漫兩大手的最強弓兵對決：再戰 || {{censored|綠箭俠利用攀索箭拉自己往天花板再使用急降下雙飛腿擊中鷹眼獲勝}} || [https://www.youtube.com/watch?v=WWOMDGyRLyY youtube] 
+|-
+| 32 || Little Mac VS Makunouchi Ippo&lt;br&gt;里托爾·麥克（PUNCH OUT!!）vs幕之內一步（第一神拳） || 矮個子拳王對決&lt;br&gt;後來以Hyper Gauge帳號公開了完全版，共打了三回合 || {{censored|第一回合（舊版的戰鬥）：麥克最後以KOアッパーカット擊倒幕之內獲勝&lt;br&gt;&lt;s&gt;「日本羽量級拳王？老子可是連世界重量級拳王也可以擊倒的啊！」&lt;/s&gt;&lt;br&gt;第二回合：幕之內以輪擺式移位把麥克關到繩邊，擊倒麥克取勝&lt;br&gt;第三回合：兩人在擂台外互相以強力拳擊打中對方的頭部，雙方均被擊飛至不省人事}} || [https://www.youtube.com/watch?v=ey4ngnwtpSw 舊版]&lt;br&gt;[https://www.youtube.com/watch?v=uKZQgmTmyzQ 完全版] 
+|-
+| colspan="5" align="center" |'''第三季'''
+|-
+| 33 || Ichigo vs. Sasuke&lt;br&gt;黑崎一護（死神）vs宇智波佐助（火影忍者） || 故事發生在索隆vs劍心之後 || {{censored|雙方互相突進一閃之下佐助受傷，一護勝&lt;s&gt;首創勝者倒下敗者站得筆直的結局&lt;/s&gt;}} || [https://www.youtube.com/watch?v=E_0wGy-yl-4 youtube] 
+|-
+| 34 || Heihachi vs. Geese&lt;br&gt;三島平八（鐵拳）vs傑斯·候活特（餓狼傳說） || 日本格鬥遊戲暗黑財團總帥對決 || {{censored|平八在小熊的協助下圍爐傑斯獲勝，傑斯被綁在飛船上運往宇宙&lt;ref&gt;{{censored|致敬鐵拳5平八的結局}}&lt;/ref&gt;}} || [https://www.youtube.com/watch?v=JqNV_pcRCd0 youtube] 
+|-
+| ?? || OMM: GOKU VS SONIC?&lt;br&gt;孫悟空vs索尼克？ || {{censored|OMM＝One Minute Masscare&lt;br&gt;愚人節獻禮：孫悟空因自己的肉塊被盜去而到處亂殺生的小故事}} || {{censored|感謝埼玉用認真一拳把孫悟空這個連環殺人魔打至五馬分屍&lt;br&gt;事件解決後不久埼玉的後頭部被謎之紅色光束射中（不過埼玉顯得不痛不癢）...}} || [https://www.youtube.com/watch?v=0r4IlyZSG-Y youtube] 
+|-
+| 35 || Natsu vs Ace&lt;br&gt;納茲·多拉格尼爾（FAIRY TAIL）vs波特卡斯·D·艾斯（航海王） || Jump vs Magazine：火炎使者對決 || {{censored|艾斯高速接近正在口集火炎的納茲，攻擊其嘴巴令其「滿吐火」，再加一拳將之擊倒&lt;br&gt;&lt;s&gt;一樣柳田理科雄被打臉&lt;/s&gt;}} || [https://www.youtube.com/watch?v=Ax0AWhUYG98 youtube] 
+|-
+| 36 || Captain America vs Guile&lt;br&gt;美國隊長（漫威漫畫）vs凱爾（快打旋風） || 美國軍人比武對決 || {{censored|美國隊長把凱爾擊飛後用力甩盾擊倒凱爾}} || [https://www.youtube.com/watch?v=9Ex_cjFz9ok youtube] 
+|-
+| 37 || Asuna vs Orie&lt;br&gt;[[結城明日奈|亞絲娜]]（[[刀劍神域]]）vs織依（夜下降生） || 美少女劍士對決 || {{censored|織依召喚タナトス擋下亞絲娜的突進斬後在空中以踏擊擊倒之}} || [https://www.youtube.com/watch?v=ZXb6q3Wewck youtube] 
+|-
+| 38 || Bowser vs Mecha Sonic&lt;br&gt;庫巴（瑪利歐系列）vs米格索尼克（音速小子） || {{censored|接在庫巴Jr. vs金屬索尼克之後，庫巴對米格索尼克的復仇記}}&lt;br&gt;Hyun's Dojo表明此影片是對影片系列"Super Mario Bros. Z"致敬 || {{censored|庫巴以鉤爪把米格索尼克的電漿彈打回去，米格索尼克被打散&lt;br&gt;同時瑪利歐兄弟趁此機會把被庫巴拘禁的碧琪公主救走}} || [https://www.youtube.com/watch?v=Xd0Zi_IgO9I youtube] 
+|-
+| 39 || Kirby vs Pacman&lt;br&gt;卡比（星之卡比）vs小精靈（小精靈） || [[大食い|大食]]球體狀生物對決&lt;br&gt;&lt;s&gt;分數獎勵增至11000分？明明原作最多只有7650分的啊！&lt;/s&gt; || {{censored|卡比被小精靈以小鬼擊飛後冷靜地吸掉グズタ（橙色那隻鬼）後吐出攻擊小精靈，小精靈被擊中後便消失了}} || [https://www.youtube.com/watch?v=nd7Ff7qZHD8 youtube] 
+|-
+| 40 || Trunks vs Silver&lt;br&gt;未來特南克斯（七龍珠）vs白銀（音速小子） || 從[[世紀末]]未來而來的戰士對決 || {{censored|特南克斯以劍把白銀打上天後放出包圍彈，同時加斬擊擊把白銀擊倒&lt;br&gt;戰後顯示此戰同時發生貝基塔vs影子的DEATH BATTLE戰鬥...啊不，是日後第四季的影子vs貝基塔}} || [https://www.youtube.com/watch?v=RpeYA8W6VpM youtube] 
+|-
+| 41 || Cell vs Meruem&lt;br&gt;賽魯（七龍珠）vs梅路艾姆（獵人x獵人） || 吞食他人身體以強化自己的長尾巴戰士對決&lt;br&gt;{{censored|接在上一集之後}} || {{censored|梅路艾姆以龜派氣功波（進食塞魯的右手後學會）轟掉塞魯一手一腳獲勝&lt;br&gt;其後塞魯打算自爆與地球同歸於盡，然後…就和原作劇情一樣了…（再說便洩露劇情了）&lt;br&gt;&lt;s&gt;悟飯呢？&lt;/s&gt;}} || [https://youtu.be/_JmDzqTPhJE youtube] 
+|-
+| 42 || Yu Narukami vs Polnareff&lt;br&gt;鳴上悠（女神異聞錄系列）vs[[J‧P‧波魯納雷夫]]{{censored|+操控他的安努比斯神）}}（JOJO） || Persona使者日本劍客vs西洋劍客[[替身 (JOJO)|替身]] || {{censored|鳴上悠與伊邪那岐同時出飛踢令波魯納雷夫手上的魔劍脫手，再以ジオンガ劈斷魔劍得勝}} || [https://youtu.be/bP-SeQ6oAKk youtube] 
+|-
+| 43 || Saitama vs. Superman: Season 3 Finale&lt;br&gt;埼玉（一拳超人）vs超人（DC漫畫）：第三季閉幕戰 || 日美漫畫新最強英雄對決&lt;br&gt;{{censored|故事接在愚人節那集One Minute Masscare（孫悟空vs索尼克？）之後，此外是明顯不限時的一集}} || {{censored|超人出盡全力以Solar Flare燒掉四周後埼玉依然面不改容。堅持埼玉是壞人的超人雖然力盡但埼玉沒意思了結他，最後Natasha（黑寡婦）前來向超人解釋一切後事件結束&lt;ref&gt;對白裡顯示了這一集發生在兩集孫悟空vs超人DEATH BATTLE之後。&lt;/ref&gt;}} || [https://youtu.be/0seE9SMZ3P8 youtube] 
+|-
+| colspan="5" align="center" |'''第四季'''&lt;ref&gt;今季每集完結後會下一集參戰者的摺影&lt;/ref&gt; 
+|-
+| 44 || Oni vs Kenpachi&lt;br&gt;狂鬼vs更木劍八第三回合 || 豪鬼鬥劍八最終章&lt;s&gt;兩位好基友再續未了緣&lt;/s&gt;&lt;br&gt;此故事同時發生在一護vs佐助之後&lt;s&gt;三個路癡在森林找出路&lt;/s&gt;&lt;br&gt;劍八以發動卍解的狀態+攜帶斬魄刀出戰 || {{censored|狂鬼以瞬獄殺衝向使出中大迴轉斬的劍八獲勝&lt;br&gt;不過因為之前被劍八砍得很傷之餘還斷掉右手，在頒獎台上倒下了&lt;s&gt;大概是死了&lt;/s&gt;}} || [https://youtu.be/4nefmSagkuQ youtube] 
+|-
+| 45 || Hulk vs Broly&lt;br&gt;浩克（漫威漫畫）vs[[布羅利]]（七龍珠） || 憤怒破壞巨人對決&lt;br&gt;{{censored|故事也是發生在孫悟空vs索尼克之後（浩克被龜派氣功波轟到那美克星遇到尼爾被布羅利電）}} || {{censored|布羅利以イレイザーキャノン把那美克星轟成碎片獲勝'''\デデーン/'''}} || [https://youtu.be/Pr5poGAZ9Tk youtube] 
+|-
+| 46 || Rock Lee vs Sanji&lt;br&gt;李洛克（火影忍者）vs山治（航海王） || J家近代作品的[[足技]]對決&lt;br&gt;故事大概發生在佐助vs一護之前（因為佐助是孤獨一人） || {{censored|李洛克以裡蓮華作決勝一擊獲勝}} || [https://youtu.be/rZ5uxxkqxG4 youtube] 
+|-
+| 47 || Paul Phoenix vs Ken Masters&lt;br&gt;保羅·菲尼克斯（鐵拳）vs肯（快打旋風） || 紅衣金髮美藉格鬥家對決 || {{censored|肯以神龍拳擊中正使出崩拳的保羅獲勝}} || [https://youtu.be/LdvJv2H9bZs youtube] 
+|-
+| 48 || Joseph Joestar vs Edward Eiric&lt;br&gt;[[喬瑟夫‧喬斯達‏‎|喬瑟夫·喬斯達]]（JOJO）vs愛德華·愛力克（鋼之練金術師） || 艾哲紅石（賢者之石？）爭奪戰 || {{censored|愛德華接住喬瑟夫投出的鋼珠後被逃走中的喬瑟夫猜中他下一句想說「我會讓你不再稱我為豆釘」，愛德華因此感到驚訝時才發現手上的鋼珠其實是手榴彈…（轟！）…結果輸掉&lt;br&gt;戰後艾哲紅石被一隻烏鴉搶走}} || [https://youtu.be/JU8ZYlqmOL4 youtube] 
+|-
+| 49 || Batman vs Ironman&lt;br&gt;蝙蝠俠（DC漫畫）vs鋼鐵人（漫威漫畫） || 美漫兩大手的富豪英雄對決 || {{censored|蝙蝠俠躲過鋼鐵人的Proton Cannon並把含炸藥的蝙蝠飛鏢插在鋼鐵人背部後引爆獲勝}} || [https://youtu.be/axY4DfQYv18 youtube] 
+|-
+| Bonus || Shadow Vs Vegeta&lt;br&gt;影子（音速小子）vs貝基塔（七龍珠） || 主角的傲嬌宿敵對決&lt;br&gt;{{censored|與未來特南克斯vs白銀一戰同時發生}}&lt;br&gt;&lt;s&gt;貝基塔放了蛋頭博士一條生路&lt;/s&gt; || {{censored|貝基塔以加克力炮打倒影子獲勝}} || [https://youtu.be/AXUd9w1QNLo youtube] 
+|-
+| 50 || Liu Kang vs Fei Long&lt;br&gt;飛龍（快打旋風）vs劉鋼（真人快打） || 仿李小龍格鬥遊戲角色對決&lt;br&gt;{{censored|飛龍實為老尚宗發動變身而成}} || {{censored|劉鋼以Fireball擊中飛龍（尚宗）後以Bicycle Kick作出追打，最後以踏擊踏爆對手的頭獲勝&lt;s&gt;李小龍：「只懂得模仿表面...這不是&amp;quot;以無限為有限&amp;quot;！」&lt;/s&gt;&lt;br&gt;尚宗似乎陰魂不散？}} || [https://youtu.be/ay4NlQ38pBg youtube] 
+|-
+| 51 || Waddle Dee vs Goomba&lt;br&gt;Waddle Dee（星之卡比）vs香菇怪（馬利歐系列） || 任天堂動作遊戲兩大雜魚之王對決&lt;br&gt;{{censored|軍團戰，雙方也有其上位種及戰車戰機出陣}} || {{censored|小庫巴見自軍形勢不對，命令炮塔發射巨大炮彈怪，把雙方軍團同時毀滅&lt;br&gt;另一邊，庫巴與DEDEDE大王打網球時為爆炸所吃驚因而失了一分}} || [https://youtu.be/LlOuDkYm6Gs youtube] 
+|-
+| 52 || Piccolo vs Martian Manhunter&lt;br&gt;比克（七龍珠）vs火星獵人（DC漫畫） || 綠皮膚外星人對決 || {{censored|比克放出魔空包圍彈卻被火星獵人突圍而出遭到捱打後，突然抓住火星獵人再把所有光彈引向自己，結果只有比克自己吃下所有光彈而倒地輸掉}} || [https://youtu.be/_JA2vi202bo youtube] 
+|-
+| 53 || Solid Snake vs Chris Redfield&lt;br&gt;Solid Snake（潛龍諜影）vs克里斯·瑞德菲爾（[[惡霊古堡|惡靈古堡]]） || 特種部隊菁英對決 || {{censored|雙方同時伏在樹後互相開槍和閃避時Snake成功擊中克里斯一拳並把C4炸彈黏在其身上，Snake引爆炸彈後獲勝}} || [https://youtu.be/-3UoyBfAW14 youtube] 
+|-
+| 54 || Ibuki vs Valentine&lt;br&gt;伊吹（快打旋風）vs范倫婷（Skullgirls） || 現代女忍者對決 || {{censored|伊吹使出「破心衝→雷打」的連續技擊倒范倫婷}} || [https://youtu.be/5RnpIb7WiYc youtube] 
+|-
+| 55 || Sasori vs Alice Margatroid&lt;br&gt;赤沙之蠍（火影忍者）vs[[愛莉絲‧瑪嘉托洛伊德]]（東方） || 人偶使者對決 || {{censored|蠍操控著傀儡·第三代風影，對中了毒霧的艾莉絲使出千手操武而獲勝&lt;br&gt;艾莉絲成為蠍的傀儡}} || [https://youtu.be/S0Xl9_KMEsE youtube] 
+|-
+| 56 || Genos vs Raiden&lt;br&gt;傑諾斯（一拳超人）vs雷電（潛龍諜影） || 在都市破壞中失去雙親的改造人戰士對決&lt;br&gt;{{censored|又是發生在孫悟空vs索尼克?之後的一集,根據天色變成黃昏，應該是在埼玉vs超人之後}} || {{censored|雷電把傑諾斯轟飛到摩天大廈外牆後以高振動刀連擊把傑諾斯的身體砍成碎塊獲勝}} || [https://youtu.be/btnz5dbEpDs youtube] 
+|-
+| 57 || Decapre vs Painwheel&lt;br&gt;迪卡普莉（快打旋風）vs Painwheel（Skullgirls） || 利刃暗殺者對決 || {{censored|對迪卡普莉連消帶打的Painwheel從身體放出利刃定住對手，再以背後的風車鋸倒擊迪卡普莉獲勝}} || [https://youtu.be/ekGaqmPQnrM youtube] 
+|-
+| 58 || M.Bison vs God Rugal&lt;br&gt;貝卡（快打旋風）vs神路卡爾·班舒泰（[[拳皇]]/卡普空vsSNK） || 日本格鬥遊戲兩大手之魔王對決{{censored|一名Shadaloo科學家抓走在#44裡倒下的豪鬼，把殺意之波動注入路卡爾身體裡形成神路卡爾}} || {{censored|貝卡以Nightmare Booster突破路卡爾的Kaiser Wave並擊倒對手獲勝&lt;br&gt;賽後顯示該科學家已[[Marvel vs. Capcom系列|{{censored|把豪鬼作機械化改造}}]]}} || [https://youtu.be/ktUxyehS768 youtube] 
+|-
+| 59 || Gon Freecss vs Izuku Midoriya&lt;br&gt;傑·富力士（HxH）vs綠谷出久（我的英雄學院） || Jump漫畫的異能少年英雄對決&lt;br&gt;{{censored|共打了三回合}}|| {{censored|第一回合:出久衝往小傑打出決勝一擊時突然無法出招反被小傑一拳打倒&lt;br&gt;回合完結後小傑發現出久被百事能奇力貼黏住，到場外把希索加打發走後繼續比賽&lt;br&gt;第二回合:出久以底特律爆碎風擊倒正使出猜猜拳（石頭）的小傑獲勝&lt;br&gt;第三回合:兩人打到場外，再次互相以必殺一拳硬拼後小傑擊倒出久獲得最後勝利}} || [https://youtu.be/F1J8IDDX9_c youtube] 
+|-
+| colspan="5" align="center" |'''第五季'''{{ref|初期集數繼人承第四季的摺影予告不過其後取消，第二季的選人畫面再出現}}
+|-
+| 60 || Son Gohan vs Superboy&lt;br&gt;孫悟飯（七龍珠）vs超級小子（DC漫畫） || 日美漫最強英雄的繼承&lt;s&gt;失敗&lt;/s&gt;者對決&lt;br&gt;&lt;s&gt;連悟飯也被誤會是One Minute Masscare事件中的連環殺人狂&lt;/s&gt; || {{censored|悟飯與超級小子推氣功後於近身拳擊戰拼贏超級小子獲勝}} || [https://youtu.be/QrrsiBkeKfU youtube]
+|-
+| 61 || Byakuya vs Kakashi&lt;br&gt;朽木白哉（死神）vs旗木卡卡西（火影忍者） || 朽木家當家vs木葉村火影 || {{censored|卡卡西利用替身術避開白哉的千本櫻景嚴，乘機偷襲把炸彈裝在白哉背後將其打倒}} || [https://youtu.be/XnpXLwjz3Hw youtube]
+|-
+| 62 || Luigi vs Tails&lt;br&gt;路易吉（瑪利歐系列）vs塔爾斯（音速小子）|| 任天堂及SEGA主機看板遊戲的二番手對決 || {{censored|巨大化的路易吉在混亂間以帽子罩住塔爾斯的飛機阻止其攻勢，卻發現塔爾斯已離開飛機且在機上附上大量炸彈，結果路易吉被炸倒敗北}} || [https://youtu.be/_CvVQU5IKHo youtube]
+|-
+| 63 || Guts vs Kirito&lt;br&gt;凱茲（烙印勇士）vs桐谷和人（刀劍神域） || 黑劍士對決 || {{censored|穿上狂戰士之鎧的凱茲以高速移動掩人過和人的耳目後從天降下作出刺擊打倒和人獲勝}} || [https://youtu.be/wjEmHi5rEFE youtube]
+|-
+| 64 || Killua vs Hiei&lt;br&gt;基路亞（HxH）vs飛影（幽遊白書） || 富慳義博筆下的酷少年對決 || {{censored|以殘像騙過基路亞的飛影發動邪王炎殺黑龍波擊倒基路亞}} || [https://youtu.be/sJRbgdxVqp4 youtube]
+|-
+| 65 || Shantae vs Filia&lt;br&gt;桑塔（桑塔系列）vs弗莉亞（Skullgirls） || 能控制頭髮攻擊的少女對決 || {{censored|桑塔放出雷雲擊倒了突襲過來的弗莉亞之下險勝}} || [https://youtu.be/w6HJdVz9UWI youtube]
+|-
+| 66 || Mario vs Sonic&lt;br&gt;瑪利歐（瑪利歐系列）vs索尼克（音速小子） || 90年代兩大遊戲主機的No.1遊戲主角對決 || {{censored|索尼克最後發動超高速移動不斷攻擊瑪利歐，到了最後一擊時瑪利歐卻力量覺醒，被瑪利歐的上勾拳擊中而輸掉}} || [https://youtu.be/k1DnpzQh-Qk youtube]
+|-
+| 67 || Mob vs Tatsumaki&lt;br&gt;影山茂夫（路人超能100）vs戰慄之龍卷（一拳超人） || ONE氏筆下的超能力強者對決&lt;br&gt;全手繪動畫&lt;s&gt;不過因為質素連Hyper Guage都不滿意的關係&lt;/s&gt;Hyper Guage正籌備重製此集 || {{censored|茂夫超能力爆發後轉移到龍卷旁邊將其毆飛，再抓著她施以光彈⋯不，把她隨便地丟到地上擊倒}} || [https://youtu.be/zivVbNHNhrw youtube]{{ref|Hyper Gauge因受到木本香發出起訴，故把Youtube片段刪除}}
+|-
+| 68 || Shovel Knight vs Meta Knight &lt;br&gt;鏟子騎士（鏟子騎士）vs梅塔騎士（星之卡比） || 動作遊戲的低頭身騎士對決 || {{censored|梅塔騎士以Galatic Darkness成功擊倒鏟子騎士，不過這個冒牌貨（暗黑梅塔騎士）獲勝後瞬即被真正的梅塔騎士以連環斬砍斷身體，影片宣佈勝利者為真正的梅塔騎士}} || [https://youtu.be/Sxi25j78w-8 youtube]
+|-
+| 69 || Bill Cipher vs Sans&lt;br&gt;比爾·西佛（神秘小鎮大冒險）vs Sans（[[Undertale]]） || 萬聖節獻禮：隱藏著可怕一面的幽默魔物對決 || {{censored|比爾一直都被壓著打的情況下，趁著Sans輕敵停止時間並以巴掌擊倒Sans獲勝。戰後The Annoying Dog趕到並一鎚打倒比爾&lt;br&gt;真正的比爾其實是在電腦螢幕前觀看這場虛構戰鬥的影片，還不甘Sans太過受歡迎而翻桌弄壞電腦，最後選擇出外歡渡萬聖節}} || [https://youtu.be/p6W6fuAg74o youtube]
+|-
+| 70 || Gaara vs Crocodile&lt;br&gt;我愛羅（火影忍者）vs鱷魚（航海王） || JUMP台柱漫畫中操控沙的角色對決 || {{censored|鱷魚成功抓住我愛羅的脖子，抽乾其身上的水份將之擊殺}} || [https://youtu.be/vVmg2tVDvVE youtube]
+|-
+| 71 || Sephiroth vs Vergil&lt;br&gt;賽菲羅斯（最終幻想系列）vs維吉爾（惡魔獵人系列） || 第25集的復仇戰 || {{censored|兩人在空中互相以劍刺穿對方的身體，雙雙墮落於火山上兩敗俱傷}} || [https://youtu.be/YugdY5zAoE0 youtube]
+|-
+| Bonus || Vegeta vs Thor&lt;br&gt;貝基塔（七龍珠）vs索爾（漫威漫畫） ||  || {{censored|貝基塔把索爾轟往石牆後以Final Flash擊倒索爾獲勝}} || [https://youtu.be/HKwt-Zra_ZQ youtube]
+|-
+| 72 || Scott Pilgrim vs Viewtiful Joe&lt;br&gt;完美超人Joe（完美超人Joe系列）vs史考特（歪小子史考特） || 低頭身熱血少年英雄對決 || {{censored|史考特以低體勢閃過Joe的Six Cannon後擊倒Joe獲勝&lt;br&gt;卻因此錯過了最後的電影門票&lt;s&gt;與陌生人發生爭執果然是會雙輸&lt;/s&gt;}} || [https://youtu.be/ltZSsehT_P8 youtube]
+|-
+| 73 || Mewtwo vs Frieza&lt;br&gt;超夢（棈靈寶可夢）vs弗利札（七龍珠） || 第11集的重製版 || {{censored|弗利札以死亡光球把超夢連同一部份地球一併轟爆獲勝}} || [https://youtu.be/EcER0QQ1Cl0 youtube]
+|-
+| 74 || Goku vs Saitama&lt;br&gt;孫悟空（七龍珠）vs埼玉（一拳超人） || 日漫最強超級英雄決定戰 || {{censored|第一戰：崎玉強行突破超級賽亞人藍孫悟空的超龜派氣功波後一拳擊倒孫悟空勝出，令孫悟空發動無我極境·兆再戰&lt;br&gt;第二戰：兩人戰到平流層，崎玉把孫悟空轟回地面後再加一拳擊倒孫悟空再獲勝 }} ||[https://youtu.be/083ejSVz8DA youtube]
+|-
+| colspan="5" align="center" |'''第六季'''
+|-
+| 75 || Toph vs Terra&lt;br&gt;北方拓芺（降世神通）vs泰拉·馬克洛夫（DC漫畫） || 擁有操控石頭的超能力的少女英雄對決 || {{censored|泰拉欲偷襲舉起巨石的拓芺但反被拓芺以石製眼罩矇眼並以石製拳頭毆其腹部倒下&lt;br&gt;拓芺知道泰拉倒下後也懶得殺死她而只把巨石放在一旁 }} || [https://youtu.be/0F6OYnlzOVg youtube]
+|-
+| 76 || Bowser vs King DeDeDe&lt;br&gt;庫巴（瑪利歐系列）vs帝帝帝大王（星之卡比） || 任天堂過關動作遊戲的常連魔王對決 || {{censored|庫巴最後一拳毆向帝帝帝的腹部令其嘔吐出星之力後倒下獲勝&lt;br&gt;事後發現小庫巴率領Waddle Dee（星之卡比）vs香菇怪（馬利歐系列）軍團戰不力並擾亂其和帝帝帝的網球對決後將其禁足 }} || [https://youtu.be/myjYzX-D_yw youtube]
+|-
+| 77 || Kakashi vs Aizawa&lt;br&gt;旗木卡卡西（火影忍者）vs相澤消太（我的英雄學院） || 未來英雄的老師對決 ||  || [https://youtu.be/WeYo8c3Vxxg youtube]
+|-
+| 78 || Wolverine vs Black Panther&lt;br&gt;金剛狼（漫威漫畫）vs黑豹（漫威漫畫） || 漫威漫畫的速度型雙手鉤爪英雄戰士對決 || {{censored|黑豹把突進連擊中的金剛狼扔上天後跳起加一腳擊倒了金剛狼}} || [https://youtu.be/-3JhNBsuEJY youtube]
+|-
+| 79 || Sasuke vs Riku&lt;br&gt;宇智波佐助（火影忍者）vs里克（王國之心） ||  ||  || [https://youtu.be/SKFGy8Sd0vk youtube]
+|-
+| 80 || Cyborg vs Genos&lt;br&gt;鋼骨（DC漫畫）vs傑洛斯（一拳超人） || 日美漫裡為保命而成為改造人超級英雄的角色對決 || {{censored|傑洛斯避開鋼骨的火箭手臂準備作出突擊，鋼骨控制火箭手臂回來擊中傑洛斯的背部後，自己衝前一拳把傑洛斯轟往地面獲勝}} || [https://youtu.be/aVklYTy0uTs youtube]
+|-
+| Bonus || Ruby vs Spider-Man&lt;br&gt;Ruby Rose（[[RWBY]]）vs蜘蛛人（漫威漫畫） ||  || {{censored|蜘蛛人射出蜘蛛絲塞住Ruby的鐮刀的砲口，趁其射不出子彈而傻眼時接近突擊，以Maximum Spider打昏Ruby獲勝&lt;s&gt;然後便被富蘭克．威斯特拍下來取材了&lt;/s&gt;}} || [https://youtu.be/K92zRdACSYw youtube]
+|-
+| Bonus 2 || Link vs Cloud&lt;br&gt;林克（薩爾達傳說）vs克勞德（最終幻想系列） || 遊戲業界有名劍士對決 || {{censored|林克以三角力量斬擊倒克勞德獲勝&lt;br&gt;事後為昏倒的克勞德送上路比（錢）和藥水等物品}} || [https://youtu.be/Rn0foCyFaB4 youtube]
+|-
+| 81 || Boruto vs Goten&lt;br&gt;旋渦慕留人（火影忍者）vs孫悟天（七龍珠） ||  || {{censored|悟天趁慕留人擋住龜龜氣功波{{ref|這裡沒有錯字，悟天是這樣稱呼龜派氣功波的}}的時候轉到其身後將之一腳踢倒獲勝&lt;br&gt;悟天勝出後立刻餓昏倒下}} || [https://youtu.be/vsg-a3yuLnc youtube]
+|-
+| 82 || Undyne vs Pearl&lt;br&gt;Undyne（Undertale）vs珍珠（[[神臍小捲毛]]）  || 美女槍兵對決 || {{censored|Undyne和珍珠打算互相了斷時被Frisk和史提芬截停，大家和解後一起去燒烤作結（BBQ end無誤）}} || [https://youtu.be/Tsaph-l4__g youtube]
+|-
+| 83 || Yang vs Bakugo&lt;br&gt;Yang（RWBY）vs爆豪勝己（我的英雄學園） || 拳頭會產生爆炸的高校生對決 || {{censored|勝己以刺滾衝往Yang卻反被她用拳頭截住並被擊倒&lt;br&gt;被打倒的勝己仍不甘心再度衝向Yang，被Yang慢慢橫移兩步輕鬆避開}} || [https://youtu.be/J5G4HW57SZo youtube]
+|-
+| 84 || Enderman vs Slenderman&lt;br&gt;終界使者（當個創世神）vs瘦削人（現實的[[都市傳說]]） || 萬聖節特輯：追殺看到自己的人類的靈異體對決 || {{censored|瘦削人抓住終界使者將其放在地上拖行後，召喚數條觸手把終界使者的四肢扯斷獲勝。終界使者的遺體掉出一顆終界珍珠&lt;br&gt;之後有大量終界使者走向瘦削人，瘦削人似乎毫不害怕地準備大開殺戒？}} || [https://youtu.be/MC7aKMJyER8 youtube]
+|-
+| 85 || Noctis vs Zero&lt;br&gt;諾克提斯·路希斯·切拉姆（最終幻想系列）vs傑洛（洛克人系列） || 科幻劍士對決 || {{censored|}} || [https://youtu.be/IKOQ-SvYoIM youtube]
+|-
+| 86 || Rock &amp; Terry vs Ken &amp; Ryu&lt;br&gt;洛克·候活特&amp;泰利·波格vs肯&amp;隆 || 日本兩大格鬥遊戲的主角級金髮少爺&amp;其主角級浪人夥伴2對2對決 || {{censored|雖然泰利先被隆以真·昇龍拳擊倒，洛克卻在劣勢之下以Raging Storm同時擊倒隆和肯而險勝，贏得對手一頓免費晚餐&lt;br&gt;隆：「我身無分文，這頓飯麻煩肯你結帳了。」}} || [https://youtu.be/4Vio3FaPgco youtube]
+|-
+| 87 || Aizen vs Madara&lt;br&gt;[[藍染惣右介]]（死神）vs宇智波斑（火影忍者） || 周刊少年JUMP的術系少年戰鬥漫畫的幻術系主要反派角色對決 || {{censored|}} || [https://youtu.be/h7XdJI_EAa4 youtube]
+|-
+| colspan="5" align="center" |'''第七季''' {{censored|（七龍珠主題）}}
+|-
+| 88 || n/a || n/a || {{censored|n/a}} || n/a
+|}
+
+* 尚未開打的對戰
+**
+&lt;!-- 備用→[[成句/你從什麼時候開始產生了○○的錯覺？|文字]] --&gt;
+**但丁vs拉格納：重製版
+**影山茂夫vs戰慄之龍卷：重製版
+
+== 連結 == 
+* [http://www.screwattack.com/ 舊Screwattack官網]
+* [https://roosterteeth.com/channel/screwattack 新Screwattack官網]
+* [http://bit.ly/ScrewAttackSubscribe Screwattack的頻道]
+* [http://bit.ly/ScrewAttackFacebook Screwattack的Facebook專頁]
+* [http://bit.ly/ScrewAttackTwitter Screwattack的推特]
+* [http://deathbattle.wikia.com/wiki/DEATH_BATTLE_Wiki DEATH BATTLE wiki]（'''非官方'''wikia，以文字詳盡記錄每集的內容，'''注意捏他超多'''）
+* [https://youtu.be/ksHzYgSrWAw （影片）WatchMojo-Top 10 Screw Attack: Death Battle Episodes]
+
+== 投票 == 
+* 你希望未來會有的死亡對決/DBX/一分鐘對戰是？（歡迎追加）
+
+{{vote|section=1}}
+
+== 留言 == 
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+&lt;references/&gt;

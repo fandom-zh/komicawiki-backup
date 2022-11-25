@@ -1,0 +1,1204 @@
+{{h0|拳皇／格鬥天王／The King of Fighters}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| 以下含有部分的劇情，沒過接觸原著又不想被三神器隊封印的話請不要繼續看下去。 
+|-
+| 人物：[[拳皇系列原創人物列表-part 1|part 1]]/[[拳皇系列原創人物列表-part 2|part 2]]/[[拳皇系列原創人物列表-part 3|part 3]]/[[拳皇系列中從其他遊戲而來的人物列表|非原創人物]]/[[KOF ALL STAR]]。尚未有Striker專門角色及非戰鬥角色的欄目。 
+|-
+| 《KOFXV》遊戲內容現目前更新中。 
+|}
+
+==解說 ==
+* [[SNK]]（曾在倒產時改名為SNK Playmore，於2016年底改回原名）開發的[[格鬥遊戲]]系列，以「三個角色組隊參戰」及「集合自社各遊戲著名人物」為賣點。
+** 由於一次可玩的人物是一般單對單格鬥遊戲的三倍，因此增加了遊戲性和戰術性。不過遊戲中還是有傳統的一對一模式。&lt;br&gt;三對三是五局三勝（其中一方的三人全被打倒）；一對一有時是三局兩勝，有時是一局決勝負。
+** 除了單次遊玩時間增加外，還包括對局3V3的排設戰略、多人接力同遊、甚至也有特殊組隊陣容。
+** 由於組隊因素，使得歷代出場人物眾多，加上早期一年一作的緣故，多半代數角色強弱平衡不佳&lt;s&gt;，使得不少場次的對戰觀賞上都是重複幾個角色在打而已...&lt;/s&gt;
+* 雖然是同社明星大集合，但遊戲中的原創人物、故事、背景設定也是膾炙人口的要素之一。
+* 推出前各大傳媒都不看好這遊戲，結果大受歡迎，成了SNK最亮眼的IP，甚至在中港台也有足以超越[[Capcom]]的《[[快打旋風]]》系列的人氣。
+* 獨特的畫面出自當時被SNK吸收的、剛從街機撤退的IREM團隊，故爆炸等特效較接近[[射擊遊戲|STG]]。
+** 乾淨清爽的畫風和修長的人物比例佐以時尚的造型，擺脫過往FTG的漢臭味&lt;s&gt;，說的就是你快打旋風，裏面女角的大粗腿都快趕上男角了&lt;/s&gt;，吸引了不少女性玩家。
+* 簡稱'''KOF'''。中國大陸和香港稱《'''拳皇'''》。官方公認的中譯名為《'''拳皇'''》（可從SNK Playmore香港官網或部份系列作中的部份背景的文字得知）。
+** 台灣則以&lt;s&gt;機台招式貼紙的譯名《'''戰鬥群王'''》，&lt;/s&gt;青文出版社的譯名《'''格鬥天王'''》為主。
+* 直至KOF2003為止，作品均以SNK自家開發的基板「MVS」開發，而且這些作品都有在和MVS基板的互換遊戲機「NEO-GEO」中移植。
+* 以遊戲本傳劇情來說，大致被歸類為以下數項：
+** 序幕：《94》
+** 大蛇篇：《95》、《96》、《97》
+** N.E.S.T.S.篇：《99》、《2000》、《2001》
+** Ash篇（艾修篇）：《2003》、《XI》、《XIII》
+** 新章篇&lt;ref&gt;SNK還未正式定調篇章名稱。&lt;/ref&gt;：《XIV》、《XV》
+
+==系列作 ==
+
+===The King of Fighters '94 ===
+[[File:img4876.jpg]]
+* 系列處女作。
+* 由御用畫師森氣樓擔任該作一系列人物插畫師直到2000年為止。
+* 基本系統由SNK的格鬥遊戲"餓狼傳說"+"龍虎之拳"為藍本，各引入雙鍵指令(閃避、重擊)和集氣、氣條、挑釁(對手氣條未滿可以扣其氣量)&lt;s&gt;與爆衣&lt;/s&gt;。
+* 隊伍固定為8隊國家代表隊，陣容固定。
+* 以路卡爾舉辦過去同樣名稱的世界格鬥賽為背景，但主角為義大利隊(餓狼隊)和墨西哥隊(龍虎之拳隊)
+** 日後的主角“草薙京”早已在此作出現，[[陰影人|印象不甚強烈]]。
+*** &lt;s&gt;畢竟那猴子般的叫聲老實講很難讓人有好感&lt;/s&gt;
+* 94出口至海外時，由於代表英國隊的不知火舞在遊戲中會乳搖而怕在比日本保守的國家引起爭議，因此讓SNK又設計出小舞不會在遊戲中乳搖的版本出口至海外。
+** {{color|white|white|但有秘技可以在海外版中解禁乳搖}}&lt;ref&gt;見[http://neogeomuseum.snkplaymore.co.jp/blog/archives/2010/09/post_15.html ネオジオ博士的部落格]&lt;/ref&gt;
+* 許久後推出的重製版"The King of Fighters '94 Rebout"中，背景和介面大幅更新，超必殺技發動時追加暗轉效果，同時追加草薙柴舟及提供KOF95模式作為裏模式，還可以如日後作品般以Team Edit任意選角色組隊。
+**'94 Rebout"也是八神庵難得在此系列擔任背景人物的唯一作品。
+&lt;!-- 這是試驗作 --&gt;
+* '''本作登場角色(隊伍)及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM 
+|-
+| &lt;s&gt;沒一個是義大利人的&lt;/s&gt;&lt;ref&gt;2美國人+1日本人、會定調在義大利的原因是因為餓狼2的安迪場地在義大利&lt;/ref&gt;義大利隊(餓狼傳說隊) || Terry Bogard || Andy Bogard || 東丈 || [http://www.youtube.com/watch?v=buW1ayKtg3Q NAPOLITAN BLUES] 
+|-
+| &lt;s&gt;沒一個是墨西哥人的&lt;/s&gt;&lt;ref&gt;2日裔美國人+1義大利人。就算按國籍算，坂崎家也只能算美籍日本人，和墨西哥八竿子打不著，背景故事則交代是以極限流墨西哥分校報名參賽&lt;/ref&gt;墨西哥隊(龍虎之拳隊) || 坂崎亮 || Robert Garcia || 坂崎拓馬 || [http://www.youtube.com/watch?v=k12UcpCyJTA 龍虎の変] 
+|-
+| &lt;s&gt;沒一個是巴西人的&lt;/s&gt;巴西隊&lt;ref&gt;1不明+2美國人&lt;/ref&gt;(怒隊) || Heidern || Ralf Jones || Clark Steel || [http://www.youtube.com/watch?v=gzpuJfF5Vn8 JUNGLE BOUNCER] 
+|-
+| &lt;s&gt;有一個日本人也不覺得尷尬的中國隊&lt;/s&gt;(超能力戰士隊) || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || [http://www.youtube.com/watch?v=aw_vyZz5I8o サイコソルジャー"K・O・F Version"] 
+|-
+| 日本隊(日本最強隊) || 草薙京 || 二階堂紅丸 || 大門五郎 || [http://www.youtube.com/watch?v=MCYgBXbefYI ESAKA] &lt;ref&gt;ESAKA就是SNK的本部所在地：大阪府吹田市'''江坂'''町&lt;/ref&gt;
+|-
+| &lt;s&gt;沒一個是英國人的&lt;/s&gt;&lt;ref&gt;1法國人+1日本人+1日裔美國人，主要是因為King的酒吧剛好在英國&lt;/ref&gt;英國隊(女性格鬥家隊) || King || 不知火舞 || 坂崎Yuri || [http://www.youtube.com/watch?v=-pbTWhH_M2w ね！] 
+|-
+| 韓國隊(金的教育指導隊) || 金甲喚 || 張巨漢 || 崔稻妻 || [http://www.youtube.com/watch?v=hI8DS6lmphQ 憂] 
+|-
+| 美國隊(美國運動隊) || Heavy D! || Lucky Glauber || Brian Battler || [http://www.youtube.com/watch?v=uRszeQcxUog Slum No.5] 
+|-
+| Boss角色 || Rugal Bernstein ||  ||  || 第一形態:[http://www.youtube.com/watch?v=TcuoPwvrfMM 決鬥R&amp;D]／第二形態:[http://www.youtube.com/watch?v=ti4Ez7lYNcs 決著R&amp;D] 
+|}
+
+==大蛇篇 ==
+* KOF系列最初的劇情篇章。
+** 以地球意志「大蛇」的復活為目標的「大蛇一族」（以八傑集為主幹的集團），以及從古至今與該集團對抗的「三神器家族」之間的衝突為主軸展開的劇情。
+*** 然而，亦有不屬於大蛇一族，卻對該力量抱持濃厚興趣的野心家（路卡爾、基斯）覬覦。
+** 奠定本傳的一切故事基礎，此時原創的新角群也各具特色和存在感，而往後篇章的人物、設定跟此篇皆具有大小不等的關聯存在。
+** 由於劇情前後呼應、收尾完整，加上是在[[格鬥遊戲|FTG]]的發展黃金時期，以及許多傳媒（漫畫、音樂、雜誌等）的行銷，人氣至今不絕於耳。
+*** 不過值得注意的是在97如果選日本隊破關，就不會有草薙京失蹤的伏筆，反而是手動選擇的三神器隊才有主線劇情的完結畫面。
+===The King of Fighters '95 ===
+[[File:img4877.jpg]]
+* 吸收前作經驗的續作，讓草薙京昇格為代表主角，並加入宿敵「八神庵」，開始了「大蛇篇」的故事。
+** &lt;s&gt;美國運動隊從此悲劇掉&lt;/s&gt;
+** 過場畫面應為大蛇篇之最。
+* 除了八神庵外，此作新登場的角色還有京的老爸草薙柴舟，和分別從餓狼和龍虎移植過來的Billy Kane和如月影二。
+* 系統加以改良，將閃避動作後再追加一記反擊（改良自餓狼2的防禦後反擊）。
+** 導入大跳躍，但指令為輕點斜上，與之後操作不同。
+** 空中擊飛攻擊獨立化。
+** 直至此作為止，人物機能偏向於防守&lt;s&gt;閃避+反擊=逆轉&lt;/s&gt;，平均型角色當道。
+* 導入隊伍編輯。可以從眾多人物中自選3人組隊&lt;s&gt;不小心還是會選到整隊的&lt;/s&gt;
+* '''本作登場角色（隊伍）及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM 
+|-
+| 主角隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || [http://www.youtube.com/watch?v=rXZONSK7SsA FUNKY ESAKA] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || [http://www.youtube.com/watch?v=v4HxeV6jTJQ CLUB-M 〜青空にフルート〜] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎拓馬 || [http://www.youtube.com/watch?v=abaMRWjExN8 リュウコとケン 〜揺れる男心〜] 
+|-
+| 怒隊 || Heidern || Ralf Jones || Clark Steel || [http://www.youtube.com/watch?v=oFVgQI6ERCA DESERT REQUIEM] 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || [http://www.youtube.com/watch?v=ArWHJXakWWE 戦慄のドラ] 
+|-
+| 女性格鬥家隊 || King || 不知火舞 || 坂崎Yuri || [http://www.youtube.com/watch?v=5EDje6iPzOs 地を這うベース] 
+|-
+| 金隊 || 金甲喚 || 張巨漢 || 崔稻妻 || [http://www.youtube.com/watch?v=zASlBMgNdoI 慮] &lt;ref&gt;注意兩代的BGM名字拼在一起就是憂慮，配上關卡灰暗的環境和陰沉的音樂讓人深深感受到金對兩人頑劣的性格的擔憂&lt;/ref&gt;
+|-
+| 天敵隊 || 八神庵 || 如月影二 || Billy Kane || [http://www.youtube.com/watch?v=KmrBqc-3HaQ 嵐のサキソフォン] 
+|-
+| Boss角色 || 草薙柴舟 || Omega Rugal ||  || (柴舟戰)[http://www.youtube.com/watch?v=2q6GwaUoafI HALとベースとメロディーと]／(Omega Rugal戰)[http://www.youtube.com/watch?v=fJ5HAP5hyXg ギターとオメガとルガールと] 
+|}
+
+===The King of Fighters '96 ===
+[[File:img4878.jpg]]
+* 大蛇篇第2彈。
+* 此作新登場角色有從餓狼傳說移植過來的兩大反派人物Geese Howard和Wolfgang Karuser，跟從龍虎之拳移植的反派Mr.Big和龍白之女藤堂香澄，原創角色則有Heidern的神秘養女Leona、前作頭目Rugal的兩位秘書Mature和Vice以及也是三神器之一的傳人神樂千鶴。
+* 為解決玩家偏向防守的風氣，在遊戲系統上作出大幅調整：
+** →→動作改正為Dash（奔跑）而非Step in（前躍）。
+** 追加小跳躍、中跳躍和大跳躍，加大跳躍攻擊的奇襲靈活性。
+*** 奔跑動作中的跳躍還有殘影效果。
+** 以往的平均型角色多半被修改成打擊派角色，大部分角色的飛道具被大幅削減距離甚至被移除。
+*** 改變較少的八神庵因此被更多人愛用。
+** “攻擊迴避“改良為「緊急迴避」（前後滾），為一種集合移動和閃避於一身的新系統。
+*** 只有大門五郎和克拉克仍能使用「攻擊迴避」（BCD同按），但不能用迴避反擊。
+* 在體力低下+氣條集滿的狀態下發動超必殺技能夠變成「MAX超必殺技」，招式動作更長之餘攻擊力也更高。
+* 首次引入解摔、打擊防禦、Counter Hit和Guard Crush制度。
+* 指令輸入要求嚴苛。斜方向必須確實輸入並停留2/60秒。
+* 指令投十分強勢。
+* 特殊技全數削除。
+* 變化太大令固有玩家需要一段時間消化，因此此作不算太出名，但種種新的變化均改變了KOF日後的系統走向。
+* 因大幅改版有很多被[[鬼隱]]的[[没データ/遊戲未使用資料|沒招式]]，部份招式在KOF97或KOF98um中再現。([http://www.nicovideo.jp/watch/sm3013450 見此])
+* 因為重繪，每個角色都有躺下與趴下兩種倒地樣式。也因為系統翻修，角色被KO時還是可能被後續攻擊鞭屍。但相對的，龍虎之拳女角慣有的爆衣沒了。
+* '''本作登場角色（隊伍）及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM 
+|-
+| 主角隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || [http://www.youtube.com/watch?v=wjwNVG1GxqM ESAKA?] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || [http://www.youtube.com/watch?v=9LfzQSjEqSw Big Shot! "寂"] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎Yuri || [http://www.youtube.com/watch?v=e66MCIoUDg4 かみきり虫] 
+|-
+| 新．怒隊 || Leona Heidern || Ralf Jones || Clark Steel || [http://www.youtube.com/watch?v=JA0uGfKQmjE RUMBLING ON THE CITY] 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || [http://www.youtube.com/watch?v=yBkBZyAlz4w サイコソルジャー REMIX'96] 
+|-
+| 新．女性格鬥家隊 || King || 不知火舞 || 藤堂香澄 || [http://www.youtube.com/watch?v=YzoO9SZVnr0 Get'n Up] 
+|-
+| 金隊 || 金甲喚 || 張巨漢 || 崔稻妻 || [http://www.youtube.com/watch?v=wLda-3aPW_Q Seoul Road] 
+|-
+| 八神隊 || 八神庵 || Mature || Vice || [http://www.youtube.com/watch?v=guhoDSCDb-I 嵐のサキソフォン2] 
+|-
+| 頭目隊 || Geese Howard || Wolfgang Krauser || Mr.Big || Geese:[http://www.youtube.com/watch?v=lWPcsFKs8YY ギースに肩こり]／Karuser:[http://www.youtube.com/watch?v=yUfg7dk0_1Y Requiem短調 K.626 Dies Irae]／Mr.Big:[http://www.youtube.com/watch?v=H6dZ2HyV0EI Dust man] 
+|-
+| Boss角色 || 神樂千鶴 || Goenitz ||  || 千鶴:[http://www.youtube.com/watch?v=dmasBa8dbqE FAIRY]／Goenitz:[http://www.youtube.com/watch?v=ZAZgXyLZJKE TRASH HEAD] 
+|}
+
+===The King of Fighters '97 ===
+[[File:img4879.jpg]]
+* 大蛇篇結局。
+* 此作新登場角色有從餓狼傳說移植過來的女偵探Blue Mary和黑道大哥山崎龍二，其他原創角色分別為京的學弟矢吹真吾和以新人隊參戰的樂團三人組七枷社、Shermie、Chris。
+** 另外值得一提的是在97開發前，SNK曾經在雜誌舉辦票選餓狼傳說的角色中進入KOF，結果Blue Mary以些微票數擊敗Duck King，導致Duck King多年後才得以在XI登場。
+* 導入防禦取消擊飛攻擊，作為抵抗壓制的對策。前作強勢的空中擊飛攻擊可以蹲防。
+* 為了方便迎合新舊兩批玩家，設定出兩個戰鬥模式：
+** Advance：96的系統，氣條改良為透過攻擊來集氣以鼓勵玩家主動進攻，而且最多可以集三條。
+*** 氣條除了用作使出超必殺技之外還可以用作令角色一定時間強化的「Power Max發動」（俗稱爆氣），其間使出超必時將會變為MAX超必殺技。
+** Extra：95以前的系統。躍步、大跳躍、閃避與氣條均同95，但沒有迴避攻擊、不能解摔、MAX超必在血量低時出現。
+* 組隊模式中加入了角色因日期產生的心情狀態，特殊的組合下會影響氣條的變化。
+* 有很多調整失誤因而出現很多極惡性能招式及無限連續技，隱藏角色過強，但系統已經接近完成，事實上可玩性頗高。
+* 雖然有諸多批評但97整體來說算是該系列最精典成功的一部，也將KOF系列推向另一個高潮。
+** 97的盛況曾讓各大電玩場人滿為患，要排隊才有辦法玩到。
+*** 在中國大陸至今依然有居高不下的知名度。
+** &lt;s&gt;但餓狼系列與龍虎之拳的人氣也都被吸走了，唯一不受影響的侍魂則成為3D化的砲灰&lt;/s&gt;
+* 指令精度和KOF96剛好相反地過份寬鬆，如41236可簡化至16－即蹲防時昇龍指令一定會被判定為大正轉，非常容易出現招式爆發。
+* 此作的BGM要特定角色出場才會播放
+** 原因是開發小組想模擬電視轉播格鬥賽事的效果，因此對戰中很多時候只有各國背景音效。
+** 也不再有專用背景，但頭目有帥氣的專用舞台。
+* 另外該作草薙京的女友小雪也首度在劇情上完整登場，雖然小雪在97只有一句台詞，但當時SNK仍慎重的召開小雪的[[聲優]]甄選會，最後選出由小島朋子（現改名貴杉奈央）成為小雪的聲優。
+* '''本作登場角色（隊伍）及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! &lt;s&gt;顯示這是格差社會的&lt;/s&gt;BGM 
+|-
+| 主角隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || 京專用:[http://www.youtube.com/watch?v=dZTBiTssn18 ESAKA FOREVER] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || Terry專用:[http://www.youtube.com/watch?v=eUzRf9CI6Fo クリといつまでも] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎Yuri ||  
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel ||  
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || 雅典娜專用:[http://www.youtube.com/watch?v=qwi_yCRKh8c サイコソルジャー REMIX'97] 
+|-
+| 新．女性格鬥家隊 || 神樂千鶴 || King || 不知火舞 ||  
+|-
+| 金隊 || 金甲喚 || 張巨漢 || 崔稻妻 ||  
+|-
+| 新臉孔隊 || 七枷社 || Shermie || Chris || [http://www.youtube.com/watch?v=S3RycylNsYs Bloody] 
+|-
+| '97特別隊 || 山崎龍二 || Blue Mary || Billy Kane || 山崎:[http://www.youtube.com/watch?v=zC0xpTwZwMY C62 -シロクニ- Ver.2]／Mary:[http://www.youtube.com/watch?v=7-LRTt7kRa0 Blue Mary's BLUES]／Billy:[http://www.youtube.com/watch?v=XOTu5wAvUuI LONDON MARCH] 
+|-
+| 隊伍編緝專用 || 矢吹真吾 || 八神庵 ||  || 真吾:[http://www.youtube.com/watch?v=clxtplto1fA Still Green]／庵:[http://www.youtube.com/watch?v=WV90sdhS5uo COOL JAM 〜嵐のサキソフォン3〜] 
+|-
+| 裡角色 || '94草薙京 ||  ||  || 背景樂同表版 
+|-
+| rowspan = "3"  | Boss角色 || 在月之夜藉著大蛇之血而發狂的庵 || 在漆黑中藉著大蛇之血而覺醒的Leona ||  || [http://www.youtube.com/watch?v=ht9qEienJZU Control Crisis] 
+|-
+| 乾枯大地七枷社 || 荒狂電光Shermie || 烈火命運Chris || [http://www.youtube.com/watch?v=wGwDMHk_jGM Rhythmic Hallucination] 
+|-
+| 大蛇 ||  ||  || [https://www.youtube.com/watch?v=ZN9DbaKHcok The Origin of Mind] 
+|}
+
+===The King of Fighters '98 Dream Match Never Ends ===
+[[File:img4880.jpg]]
+* 繼97後推出的歷年合輯性質作品，本身沒有故事，可以視為94~97的精華版。
+* 系統再加以改良，且加入隊伍有角色敗陣後的優惠系統Advantage System（Advance會增加氣條儲存量，Extra則減短氣條）。
+* 接關重玩的BONUS系統為拉霸式，可能獲得:敵方第一人血量減半/先給一顆氣/降低該次戰鬥難度/不優惠
+* 角色的動畫、特效自96後再改版重繪。
+* 不單止追加96或以前的角色，而且角色性能均調整恰當，加上音樂和隱藏要素的豐富度，令此作大受好評。部份玩家均認為此作是系列最佳傑作。
+* 指令投加進了失敗動作，失敗時有明顯收招硬直，時間長短則隨角色不同各有差異。
+* '''本作登場角色（隊伍）及BGM'''
+** （沒提及BGM的裡角色,BGM均和表版一樣）
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! &lt;s&gt;開始場地不分的&lt;/s&gt;BGM 
+|-
+| 主角隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || [http://www.youtube.com/watch?v=xJq-QG2T1Ns ESAKA?]／玩家庵vsCPU京:[http://www.youtube.com/watch?v=7RSp95EdVg0 ESAKA FOREVER] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || [http://www.youtube.com/watch?v=2S9M12GzZg0 クリキントン 〜ごまめギターver〜] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎Yuri || [http://www.youtube.com/watch?v=bXSD6LY5HEc Art of Fight] 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel || [http://www.youtube.com/watch?v=qSpqM3z0hFo RUMBLING ON THE CITY] 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || [http://www.youtube.com/watch?v=j4LnKsZNw9s 震!戦慄のドラ] 
+|-
+| 女性格鬥家隊 || 神樂千鶴 || King || 不知火舞 || [http://www.youtube.com/watch?v=fK02KL7Lspo FAIRY] 
+|-
+| 金隊 || 金甲喚 || 張巨漢 || 崔稻妻 || [http://www.youtube.com/watch?v=GZtx8Ms1KE4 Seoul Town] 
+|-
+| 大蛇隊 || 七枷社 || Shermie || Chris || [http://www.youtube.com/watch?v=S3RycylNsYs Bloody] 
+|-
+| '97特別隊 || 山崎龍二 || Blue Mary || Billy Kane || 山崎:[http://www.youtube.com/watch?v=ZazOmSskHwM C62]／Mary:[http://www.youtube.com/watch?v=mhii-s0TdJU Blue Mary's BLUES]／Billy:[http://www.youtube.com/watch?v=WfOv2MPxg9o LONDON MARCH] 
+|-
+| 八神隊 || 八神庵 || Mature || Vice || 隊伍用:[http://www.youtube.com/watch?v=IdIwOnxqB40 嵐のサキソフォン2]／庵單體:[http://www.youtube.com/watch?v=-als-ojUPiQ 嵐のサキソフォン]／玩家京vsCPU庵:[http://www.youtube.com/watch?v=QEd8_lZ6q9k COOL JAM] 
+|-
+| 親父隊 || Heidern || 草薙柴舟 || 坂崎拓馬 || [http://www.youtube.com/watch?v=cUup73QPANk IN SPITE OF ONE'S AGE] 
+|-
+| 美國運動隊 || Heavy D! || Lucky Glauber || Brian Battler || [http://www.youtube.com/watch?v=0S8bdD2QH2k Slum No.5] 
+|-
+| 隊伍編緝專用 || 矢吹真吾 || Rugal Bernstein ||  || 真吾:[http://www.youtube.com/watch?v=lTcYZ_ylAoE Still Green]／Rugal:[http://www.youtube.com/watch?v=u7guAJavx1s The ЯR] 
+|-
+| rowspan = "4"  | 裡角色 || '95草薙京 || EX不知火舞 || EX Billy || 95京:[http://www.youtube.com/watch?v=w9EWEptWXQ8 ESAKA] 
+|-
+| EX Terry Bogard || EX Andy Bogard || EX東丈 ||  
+|-
+| EX坂崎亮 || EX Robert Garcia || EX坂崎Yuri ||  
+|-
+| 乾枯大地的社 || 狂而粗暴的雷光的Shermie || 操控火炎的Chris || 裡社:[http://www.youtube.com/watch?v=wGwDMHk_jGM Rhythmic Hallucination]／裡Shermie:[http://www.youtube.com/watch?v=NYz06dpSxt8 FANATIC WALTZ]／裡Chris:[http://www.youtube.com/watch?v=qc-exqSqX60 MAD FANTASY] 
+|-
+| Boss角色 || Omega Rugal ||  ||  || [http://www.youtube.com/watch?v=Mo4tasdvqM0 XXX] 
+|-
+! scope  | 其他BGM
+||  ||  ||  || King+Yuri+舞:[http://www.youtube.com/watch?v=fwx_NzdJrg8 ね!] 
+|}
+
+==NESTS篇&lt;ref&gt;由於港漫於2001將伊格尼斯的格鬥流派「音巢対流拳」錯誤拆解緣故，導致至今中文圈廣泛以「音巢」錯誤代稱NESTS，實際上當初原文漢譯應為音(ネ)巢(ス)対(ツ)流(りゅう)拳(けん)，故NESTS正確漢字表記為「音巢対」&lt;s&gt;，雖然看起來意義不明&lt;/s&gt;。&lt;/ref&gt; ==
+* 以新主角K'和其同夥Maxima從神秘組織N.E.S.T.S.叛逃以及與其對抗的主軸展開的劇情。
+** 背景設定上迴異於大蛇篇的古代日本神話要素，以近未來的高科技系統(如[[クローン|複製人]]、[[改造人]]、衛星兵器等)和諜報滲透情節為主要設計。
+*** 由於劇情中參有部分軍武風格演出，怒隊相關人物的存在感提高。
+*** 草薙京和八神庵則因為劇情因素，一直到2001年才復歸參賽&lt;ref&gt;99是以隱藏人物方式登場、2000則是獨立選角&lt;/ref&gt;。
+** 原本也是極具潛力並有機會將KOF推向另一高峰的篇章，但因[[SNK]]倒產導致遊戲品質嚴重劣化、劇情[[爛尾]]、不少設定胎死腹中狀況出現。(尚未交代完的設定由嬉野秋彦在小說&lt;ref&gt;分別為ザ・キング・オブ・ファイターズ2001〈上〉MORE THAN HUMAN，以及ザ・キング・オブ・ファイターズ2001〈下〉THE GODS THEMSELVES&lt;/ref&gt;中補足。)
+** 此時的主軸人物(K'、Kula為中心)因極有特色和知名度而在往後一直保有高度的露臉頻率。
+===The King of Fighters '99 ===
+[[File:img4881.jpg]]
+* 新的“N.E.S.T.S.篇”的第1作。改由K'為主角。
+* 新登場角色除了K'之外，有餓狼RBS的新女角李香緋、來自ROBOARMY的機械改造人Maxima、禁忌之子包、神秘傭兵新人Whip和金甲喚同門的全勳以及京的紀念角色京-1和京-2，共計8人。
+* 首次引入“Striker”系統的作品。玩家需要以4人為1隊，由其中一人負責Striker，戰鬥中消耗Striker Bomb召喚該人物進場作出輔助動作，動作完即退回，但也可以被打退。&lt;ref&gt;http://www.nicovideo.jp/watch/sm14887822&lt;/ref&gt;
+* 前後滾的“緊急迴避“改為折衷於95與96之間的”閃避移動”
+** 前滾改為向前撲，動作中可派生攻擊&lt;s&gt;但攻擊的性能微妙&lt;/s&gt;
+*** &lt;s&gt;其實是模仿彩京的格鬥遊戲＂墮落天使＂的閃避系統&lt;/s&gt;
+** 後滾改為&lt;s&gt;令玩家非常惱羞&lt;/s&gt;的'''向後閃完向前撲'''
+** 向後閃落地一刻可使出必殺技或超必殺技中止前撲動作
+*** &lt;s&gt;簡單說就是[[成句/我○○了，我又●●了，打我啊笨蛋！|我跳進去又跳出來了，打我啊笨蛋!]]&lt;/s&gt;
+* 將爆氣分為“Counter Mode”和“Armor Mode”兩個模式，各花3條氣發動。
+** 前者按ABC發動，可增加攻擊力及無限制使用超必殺技，且超必殺技可從部份必殺技作出＂超級取消(Super Cancel)＂。
+** 後者則按BCD發動，同時增加攻擊力和防禦力及令角色追加剛體(出招動作可以硬食對方動作)、不磨血(擋格必殺技不損血)效果。
+* 因為兩大台柱草薙京和八神庵鬼隱與四不像的閃避制，遊戲整體不獲好評。
+** 事實上兩人可以隱藏指令調出使用
+** 其實把草八兩大台柱鬼隱是為了配合兩人在劇情上下落不明的樣子，但因不獲好評，下一部的2000便將草八兩人以獨立角色的方式放在選單上，不過嚴格說起來，在劇情上兩人是直到2001才復出參加KOF。
+* Dreamcast移植版追加多個Extra Striker，部份Extra Striker需要透過連動和NGP遊戲“The King of Fighters Battle de Paradise”通訊才能取得。
+* '''本作登場角色(隊伍)及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! 隊員4 !! BGM 
+|-
+| 主角隊 || K' || Maxima || 二階堂紅丸 || 矢吹真吾 || [http://www.youtube.com/watch?v=Ef2BmffEYrI KD-0079] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || 不知火舞 || [http://www.youtube.com/watch?v=h71u0UrJmkE 176th Street] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎Yuri || 坂崎拓馬 || [http://www.youtube.com/watch?v=9HhE3xOTKGM RYO-KO] 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel || Whip || [http://www.youtube.com/watch?v=XAWWci1zfts W.W.Ⅲ] 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || 包 || [http://www.youtube.com/watch?v=NP1Y4Q3ZJLI Psyco Sonic Trip～Dance At The Paddy Field～] 
+|-
+| 女性格鬥家隊 || King || Blue Mary || 李香緋 || 藤堂香澄 || [http://www.youtube.com/watch?v=8BupImw_Fz8 SHA・LA・LA] 
+|-
+| 韓國隊 || 金甲喚 || 張巨漢 || 崔稻妻 || 全勳 || [http://www.youtube.com/watch?v=tRG5GNdYhyE The way to rebirth] 
+|-
+| 隊伍編緝專用 || 草薙京-1 || 草薙京-2 ||  ||  || 兩複製京共通:[http://www.youtube.com/watch?v=7YfbvmeSCWg ESAKA?(Acid Mix)] 
+|-
+| 隱藏角色 || 草薙京 || 八神庵 ||  ||  || 京:[http://www.youtube.com/watch?v=uFg4n_Y7hEo TEARS]／庵:[http://www.youtube.com/watch?v=mFqz2X85_tQ Sadistic Eyes] 
+|-
+| Boss角色 || Krizalid ||  ||  ||  || 第一形態:[http://www.youtube.com/watch?v=DJNaGoeMamE Mechanical Bless]／第二形態:[http://www.youtube.com/watch?v=Nyx78LXuHzE Dear Falling Angel] 
+|-
+| DC版追加Extra Striker(只有Justice形態) || Seth || Vanessa ||  ||  ||  
+|-
+| rowspan = "3"  | DC版追加Extra Striker(Justice和Dark形態俱備) || 草薙京EX || 雅典娜EX || 大門五郎 || 神樂千鶴 ||  
+|-
+| 山崎龍二 || Billy Kane || Alfred || Fio ||  
+|-
+| 天童凱 || 霧島翔 ||  ||  ||  
+|}
+
+===The King of Fighters 2000 ===
+[[File:img4882.jpg]]
+* N.E.S.T.S.第2作。
+* 此作新登場角色分別為人妻特務Vanessa、地下摔角手的Ramon、使用神秘暗殺術的麟、紅丸舊友同時也是特務的Seth、使用相撲格鬥的千金小姐四條雛子和NESTS為了對付K’而以隱藏角登場的冰系改造人少女-Kula Diamond，共計6人。
+* SNK破產前的最後一部正統獨立續作，同時也是角色御用畫師森氣樓最後在SNK的作品。
+** 但也有傳言說當時SNK的財務問題過於嚴重而差點讓2000無法上市，但最終還是有驚無險的成功推出。
+* 再度改回KOF98的緊急迴避設計。
+* 此外Striker系統也有所強化，於攻擊中、倒地中、通常投命中和解拆通常投也可以召喚Striker攻擊。
+** 每個角色都會提供一個特定的Another Striker可供選擇，此外還有部份角色才會提供選擇的隱藏“Maniac Striker”(要秘技&lt;ref&gt;選到Another Striker上後輸入↑←←←→→→↓&lt;/ref&gt;)。PS2移植版再追加更多Maniac Striker。&lt;ref&gt;http://www.nicovideo.jp/watch/sm14728418&lt;/ref&gt;
+* 玩家可以透過挑釁動作來補充一個Striker Bomb，但此舉需消耗1條氣。
+** 跟以往不同，挑釁動作無法透過任何動作取消，使用風險很大。
+* 因為召喚Striker的條件過於寬鬆的關係，令對戰局勢反過來變成由Striker掌握，被玩家戲稱為“The King of Strikers”。
+** 不少資深玩家均認為“若此作沒有Striker的話，平衡度其實相當高”。
+* '''本作登場角色(隊伍)及BGM'''
+** (粗體字者為PS2版追加Maniac Striker)
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! 隊員4 !! BGM 
+|-
+| 主角隊 || K' || Maxima || Ramon || Vanessa || rowspan="2"|[http://www.youtube.com/watch?v=8NsuuNBW4hM KD-0084] 
+|-
+| Another(Maniac) Striker || Another K'('''Krizalid''') || Rocky || Duke Edward(Neo [[蘭蘭路|McDonald]] &amp; Geo [[成句/這不是肯德基！|Kentucky]]) || Fio 
+|-
+| 紅丸隊 || 二階堂紅丸 || 矢吹真吾 || Seth || 麟 || rowspan="2"|[http://www.youtube.com/watch?v=BB4SX3hdla8 INNER SHADE] 
+|-
+| Another(Maniac) Striker || Another紅丸('''在月之夜藉著大蛇之血而發狂的庵''') || Cosplayer京子 || 大門五郎 || 如月影二 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || Blue Mary || rowspan="2"|[http://www.youtube.com/watch?v=-TPz_23v0C8 TERRY115] 
+|-
+| Another(Maniac) Striker || Geese Howard('''Brian Battler''') || Billy Kane('''Lucky Glauber''') || Duck King('''Heavy D!''') || 山崎龍二 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎拓馬 || King || rowspan="2"|[http://www.youtube.com/watch?v=fDRFHVSQBpg Beauty &amp; The Beast] 
+|-
+| Another(Maniac) Striker || 楓(G-Mantle) || Another Robert || 天童凱('''Mr.Big''') || 獅子王 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel || Whip || rowspan="2"|[http://www.youtube.com/watch?v=d-gciz54PMI The Trooper] 
+|-
+| Another(Maniac) Striker || Goenitz('''大蛇''') || 七枷社('''在漆黑中藉著大蛇之血而覺醒的Leona''') || Shermie || Chris('''Heidern''') 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || 包 || rowspan="2"|[http://www.youtube.com/watch?v=cD8UAQIK6wQ Will] 
+|-
+| Another(Maniac) Striker || Athena公主 || Psycho Soldier稚拳崇 || 白湯 || 渡部薰 
+|-
+| 女性格鬥家隊 || 不知火舞 || 坂崎Yuri || 藤堂香澄 || 四條雛子 || rowspan="2"|[http://www.youtube.com/watch?v=fvhXz-lHH3M Come up smiling] 
+|-
+| Another(Maniac) Striker || 神樂千鶴('''Wolfgang Karuser''') || Nakoruru || 李香緋(Unknown) || Lilly Kane 
+|-
+| 韓國隊 || 金甲喚 || 張巨漢 || 崔稻妻 || 全勳 || rowspan="2"|[http://www.youtube.com/watch?v=gw_v-u_YomY WILD PARTY] 
+|-
+| Another(Maniac) Striker || 金秀一 || 金東喚(Smart張巨漢) || 金在勳(Cool崔稻妻) || Kang Baedal 
+|-
+| 隊伍編緝專用 || 草薙京 || 八神庵 ||  ||  || rowspan="2"|京:[http://www.youtube.com/watch?v=LLTf0xGW4BE GOOD-BYE ESAKA]&lt;br&gt;庵:[http://www.youtube.com/watch?v=oBnHXYVkqPQ Stormy Scream 〜嵐のサキソフォン4〜] 
+|-
+| Another(Maniac) Striker || 霧島翔(草薙柴舟) || Mature&amp;Vice(Another庵) ||  ||  
+|-
+| Boss角色 || Kula Diamond(但表Striker為Candy) || Zero ||  ||  || rowspan="2"|Kula:[http://www.youtube.com/watch?v=ZMkP5eZ_dow Ice Place]&lt;br&gt;Zero:[http://www.youtube.com/watch?v=cdGfapcmWD8 SLASHER ZERO] 
+|-
+| Another(Maniac) Striker || Foxy(Rugal Bernstein) ||  ||  || 
+|}
+
+===The King of Fighters 2001 ===
+[[File:img4883.jpg]]
+* N.E.S.T.S.篇最終作。SNK和Eolith合資下開發的作品。
+* 此作新登場角色只有4位，分別為金甲喚的女弟子May-Lee以及本次NESTS派出參賽的神秘女子Angel、神秘人體兵器的K9999和引領隊伍的高層幹部-Foxy。
+* P.S.:此作絕非韓國人開發！！
+* P.S.:此作絕非韓國人開發！！&lt;s&gt;[[巴麻美|ξ( ◨ฺ ‿ ◨ฺ )ξ]]&lt;/s&gt;(很重要所以要說兩次)
+* 系統大幅改變，最矚目的是“Tactical Order System”：出場人數和Striker人數可以自由調整。
+** 出場人數越少時可使用的Striker種類越多，攻擊力、防禦力及氣條存量也越多。
+** 但相對允許輸掉的次數越少。
+* Striker改為消耗氣條召喚，而且召喚Striker期間會令自己的出場人物攻擊力下降。取而代之的是同時間召喚複數Striker會提昇較後出現的Striker的攻擊力。&lt;ref&gt;http://www.nicovideo.jp/watch/sm14912752&lt;/ref&gt;
+* 以往Counter限定的Super Cancel系統成為基本系統，超必殺技可以在特定必殺技動作中取消使出，但需額外消耗1條氣。
+* 某些招具有特殊追撃判定，碰到就算中。及“Wire Damage”(特定攻擊擊中對手會令對手碰壁並彈飛，追打可能)的要素增加連技可塑性。&lt;s&gt;很多無限連續技因此而來&lt;/s&gt;。
+* &lt;s&gt;因為是SNK瀕臨破產邊緣的環境下開發，故此&lt;/s&gt;畫面非常簡陋，人設形象作畫崩壞頻發，截然不同的BGM風格和隊伍毫無契合度，角色語音也經常有雜音。故事也因此草草收場。
+* 今作御用畫師森氣樓離開SNK，新聘請的插畫師“ノナ”(野中薰)於此作的&lt;s&gt;醜陋&lt;/s&gt;奇特畫風也飽受玩家批評
+** 許多以型男為賣相的角色全都反向操作，賢者之舞(紅丸)、挨揍(真吾)、遮臉(泰瑞)、露髮線(安迪)、露臀(東丈)、背對(八神)、獰笑(金甲煥)…&lt;ref&gt;事實上公式本記載了部分角色本來的插畫更醜結果不獲批......&lt;/ref&gt;
+** 可愛型的女性角色更是一個個猴子附身…
+* 雖然是劣作，但上述用作延伸連續技的Super Cancel、任意追擊等要素在日後也成為日後KOF作品的主要要素。
+* &lt;s&gt;此作的新角色K9999[[成句/太相似的話就會有版權問題|因為長相性能與大友克洋的Akira過於相似產生版權問題]]，讓SNK在各方壓力下不得不把K9999鬼隱起來而成為[[黑歷史]]&lt;/s&gt;。
+** 雖傳出大友克洋有提告SNK的事，但後證實是'''網路謠言'''，應屬SNK沒向大友克洋取得同意下創作新角-K9999，但事後發現太過相似而最後選擇自肅，如同上句所言。
+* &lt;s&gt;另外此作被部份網友戲稱為KOF系列中BUG最多的一部&lt;/s&gt;。
+* &lt;s&gt;臥虎藏龍&lt;/s&gt;&lt;ref&gt;本作某海賊改版的名字&lt;/ref&gt;
+* '''本作登場角色(隊伍)及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! 隊員4 !! &lt;s&gt;拉低水準的&lt;/s&gt;BGM 
+|-
+| 主角隊 || K' || Maxima || Whip || 麟 || [http://www.youtube.com/watch?v=tXJRj39sz4o BIG PAIN] 
+|-
+| 日本隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || 矢吹真吾 || [http://www.youtube.com/watch?v=WI7Z0sXMCl0 無敵の炎] 
+|-
+| 庵隊 || 八神庵 || Vanessa || Seth || Ramon || [http://www.youtube.com/watch?v=mRTFnBZ4amY 不滅の日輪] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || Blue Mary || [http://www.youtube.com/watch?v=-jDEXCJwAqw ALL OK!] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎Yuri || 坂崎拓馬 || [http://www.youtube.com/watch?v=kWy8S7ADmOo 極限ファイト] 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel || Heidern || [http://www.youtube.com/watch?v=8aforaGL1wU アタシの鞭] 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 椎拳崇 || 鎮元齋 || 包 || [http://www.youtube.com/watch?v=fwQPwQfME_M サイコなやつら] 
+|-
+| 女性格鬥家隊 || King || 不知火舞 || 四條雛子 || 李香緋 || [http://www.youtube.com/watch?v=qjH3adSW9mU THE QUEEN OF FIGHTERS] 
+|-
+| 韓國隊 || 金甲喚 || 張巨漢 || 崔稻妻 || May-lee || [http://www.youtube.com/watch?v=t3yKsK0-byc ネリチャギ] 
+|-
+| N.E.S.T.S.隊 || Kula Diamond || Foxy || Angel || K9999 || [http://www.youtube.com/watch?v=n-02JwFtru4 ネスツ闇の支配者] 
+|-
+| Boss角色 || Zero(本人) || Igniz ||  ||  || O.Zero:[http://www.youtube.com/watch?v=OivRHzXUm2A 0]／Igniz:[http://www.youtube.com/watch?v=3cNrj2f0BBo 我こそ最強] 
+|}
+
+===The King of Fighters 2002 Challenge to Ultimate Battle ===
+[[File:img4884.jpg]]
+* SNK破產又重生，最後以“Playmore”之名再戰江湖後，和Eolith社合資推出的作品。
+* 與98相同為無故事背景的合集作品。
+* 人物插畫師由“ノナ”(野中薰)繼續擔任，可能是注意到2001年極為負面的評價，因此在畫風上有些收歛&lt;ref&gt;但依然極為'''驚嚇'''&lt;/ref&gt;，但整體來說還是負面評價居多，特別是男性角色(尤其八神庵、山崎龍二、裡大蛇隊全隊)。
+** 但遊戲內角色長相正常許多&lt;s&gt;，不像2001時遊戲裡隨人設圖一起崩壞&lt;/s&gt;。
+* 刪去了不獲好評的Striker系統，且令整體系統回復類似KOF98的Advance Mode。
+* Power Max發動仍然存在，但效果改為令攻擊力下降但可以作出“どこでもキャンセル”，簡稱どこキャン。意為「在哪都能取消(必殺技出招)」。
+** “どこでもキャンセル”的效果為令必殺技可以在通常技、特殊技、必殺技後取消使出(不可同技連續使出)，需消耗一定份量的Power Max剩餘時間計量。
+* 追加體力低下時專用的超必殺技：MAX2。
+* 與98並列為系列作中評價最高的兩作。
+** 不過在影音和人物作畫方面跟前面的系列作相比仍有一些粗糙的地方存在，不過整體依然遠好過上部的2001。惜乎未能超越KOF98的良作。
+* 至今在中港台的電玩店仍有不少KOF2002機台，'''包括香港政府轄下的度假營'''。
+** &lt;s&gt;海賊改版也很多&lt;/s&gt;
+* '''本作登場角色(隊伍)及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM(本作改為準決賽才會播放) 
+|-
+| 日本隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || [http://www.youtube.com/watch?v=pV2YsLDk9mo TEARS] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || [http://www.youtube.com/watch?v=Lfd0KZkD8kg クリキントン] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎拓馬 || [http://www.youtube.com/watch?v=Qp2WGvlsV6M Beauty &amp; The Beast] 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel || [http://www.youtube.com/watch?v=eZ3sCr_kqss JUNGLE BOUNCER] 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || [http://www.youtube.com/watch?v=7KhiwEHG09w サイコソルジャー] 
+|-
+| 女性格鬥家隊 || May-lee || 不知火舞 || 坂崎Yuri || [http://www.youtube.com/watch?v=Gtgjd2h4fG4 Diet] 
+|-
+| 韓國隊 || 金甲喚 || 張巨漢 || 崔稻妻 || [http://www.youtube.com/watch?v=UVXd_ZbCKDE ソウルに行こう] 
+|-
+| KOF'96隊 || 八神庵 || Mature || Vice || [http://www.youtube.com/watch?v=juX1CWPBCIY 嵐のサキソフォン2] 
+|-
+| KOF'97隊 || 山崎龍二 || Blue Mary || Billy Kane || [http://www.youtube.com/watch?v=3o2cuSd_Z2A 誘惑の時] 
+|-
+| KOF'98隊 || 七枷社 || Shermie || Chris || [http://www.youtube.com/watch?v=ZpWuv6aSF24 Bloody] 
+|-
+| KOF'99隊 || K' || Maxima || Whip || [http://www.youtube.com/watch?v=o8ODmW23Bbw KD-0079] 
+|-
+| KOF2000隊 || Seth || Vanessa || Ramon || [http://www.youtube.com/watch?v=lTNCVGRDgEs KD-0084] 
+|-
+| KOF2001隊 || Kula Diamond || K9999 || Angel || [http://www.youtube.com/watch?v=e6Lb9qV3Qkc Napolitan Trance] 
+|-
+| 裡角色 || 乾枯大地的社 || 狂而粗暴的雷光的Shermie || 操控火炎的Chris || [http://www.youtube.com/watch?v=_7cTQyLz6vg 荒れ狂う炎の大地] 
+|-
+| 隱藏角色 || KUSANAGI ||  ||  || [http://www.youtube.com/watch?v=ifc5mAe6Ebw ESAKA] 
+|-
+| Boss角色 || Omega Rugal ||  ||  || [http://www.youtube.com/watch?v=O0cYnmIqlac Last Dance] 
+|-
+| rowspan = "2"  | PS2版追加角色 || King || 矢吹真吾 || 在月之夜藉著大蛇之血而發狂的庵 ||  
+|-
+| Geese Howard || Goenitz ||  ||  
+|-
+! scope rowspan = "2"  | 其他BGM
+|| 日本場景:[http://www.youtube.com/watch?v=CorrcWhXOUA&amp;feature=related Japan] || 韓國場景:[http://www.youtube.com/watch?v=uLzy0345u4M&amp;feature=related Progress] || 柬埔寨場景:[http://www.youtube.com/watch?v=06TlR_M54yM&amp;feature=related Deserted Town] ||  
+|-
+| 中國場景:[http://www.youtube.com/watch?v=8m1BhuiEauw&amp;feature=related Red Wind] || 荷蘭場景:[http://www.youtube.com/watch?v=ci_YWKIIiiM&amp;feature=related The Netherlands] || 墨西哥場景:[http://www.youtube.com/watch?v=Q_KHJLBSJWI&amp;feature=related Tacos Dance] ||  
+|}
+
+==Ash篇&lt;ref&gt;部分中文網站&lt;s&gt;特別是中國大陸地區&lt;/s&gt;慣以敵役團體來代稱此篇劇情，實際上來說日本官方及相關討論區始終都是以「アッシュ編」來作為此篇章名稱。&lt;/ref&gt; ==
+* 在N.E.S.T.S.篇虎頭蛇尾後的新篇，以神秘新主角Ash Crimson在三神器以及該篇主要敵役團體「遙遠的彼方之地」周旋和相互對立為主軸展開的劇情。
+** 迴異於以往篇章主角跟敵方團體對抗至勝利的直觀線路，本篇採取主角在正、反派陣營間難以捉摸的行徑來增加劇本上的詭譎程度。
+*** 不過主角和自身命運的戰鬥以及反派團體的野心展現這類的KOF歷代傳統特色一直都沒變。
+*** 但不同於K'和草薙京最終參加大賽以對抗幕後黑手，本篇的主角Ash Crimson選擇在最終篇缺席躲在暗處伺機而動&lt;ref&gt;遊戲中為編輯獨立選角&lt;/ref&gt;。
+** 前一篇章略顯影薄的草薙京、八神庵於劇本的重要性再度提高&lt;s&gt;，K'等人此後則開始路人化&lt;/s&gt;。
+** 此作開始讓一部分長年參戰的班底角色(如鎮元齋、崔稻妻等)退場，除了補上原創新角外，亦增加了來自餓狼MOW、風雲默示錄、武力〜BURIKI ONE〜等其他遊戲的角色，增加新奇度和祭典般的熱鬧性。
+** 由於在XI後重新以高清2D點陣圖重繪所有角色，因曠日費時使得角色嚴重不足，&lt;s&gt;甚至出了[[黑歷史]]般的半成品XII，&lt;/s&gt;連帶影響到劇情收尾的豐富度。
+*** 但比起完結很莫名的NESTS篇，Ash篇至少有把Ash、「遙遠的彼方之地」和Elizabeth家族之間的糾葛給交代清楚。
+===The King of Fighters 2003 ===
+[[File:img4885.jpg]]
+* 由新角色“Ash”擔任新主角，Ash篇第1作。
+* 新登場角色除了Ash之外，其他亦有上海暴力份子神武、使用神秘暗殺術的墮瓏、使用暗器的神秘女子Malin、鷹面摔角手Griffon Mask和使用中國拳法的牙刀，共計6人。
+* 最後一個使用MVS基板和最後一個以年代命名的KOF系列作。
+* 三人一隊，改為中途即可換人、只打一場的Multi Shift System。
+** 同按B+C或C+D可以換人入場。除此之外若輸入236B+C或236C+D則可以消耗1條氣使出先攻擊後換人的“交代攻擊”。
+** &lt;s&gt;其實是參考自C社的大亂鬥作品的Strike換人制&lt;/s&gt;
+* 引入角色Leader設定，隊伍的Leader可以使用其專用的“Leader超必殺技”(相等於以往的MAX超必殺技)。
+* 本作的插畫師“FALCOON”在繪畫插畫時連角色的特徵都會搞錯(如山崎龍二的利手)&lt;s&gt;女性角色胸部下垂&lt;/s&gt;，結果他只有在這集擔任插畫師。
+**但至少人設不會像前兩作的“ノナ”(野中薰)那般令人驚嚇就是。
+* 設定上有失衡，指令投非常吃香，不算太突出的作品。
+* '''本作登場角色(隊伍)及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM 
+|-
+| 主角隊 || Ash Crimson || 墮瓏 || 神武 || [http://www.youtube.com/watch?v=SNvu809y7dE Splendid Evil] 
+|-
+| 紅丸隊 || 二階堂紅丸 || 大門五郎 || 矢吹真吾 || [http://www.youtube.com/watch?v=XxKhwVVawTM Joyrider] 
+|-
+| 新．餓狼傳說隊 || Terry Bogard || 東丈 || Griffon Mask || [http://www.youtube.com/watch?v=Uca2g9O0gxw prolongation] 
+|-
+| 極限流隊 || 坂崎亮 || Robert Garcia || 坂崎Yuri || [http://www.youtube.com/watch?v=SAyLIc4K13w Kyoku-Gen] 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel || [http://www.youtube.com/watch?v=K711pp-Zam4 Inside Skinny] 
+|-
+| 韓國隊 || 金甲喚 || 張巨漢 || 全勳 || [http://www.youtube.com/watch?v=mpUm6OmOIOw Seoul Love] 
+|-
+| 女性格鬥家隊 || King || 不知火舞 || Blue Mary || [http://www.youtube.com/watch?v=Fk0PTv3-j7E I'm hot for you] 
+|-
+| 女子高中生隊 || 麻宮雅典娜 || 四條雛子 || Malin || [http://www.youtube.com/watch?v=aX3qbX9pdLk You Feel for ME] 
+|-
+| 外道隊 || 山崎龍二 || Billy Kane || 牙刀 || [http://www.youtube.com/watch?v=z4MGDffRpz4 Villainous] 
+|-
+| K'隊 || K' || Maxima || Whip || [http://www.youtube.com/watch?v=kthZh_Ua-Z4 KD] 
+|-
+| 三神器隊 || 草薙京 || 八神庵 || 神樂千鶴(注:隱藏角色,中頭目) || 京:[http://www.youtube.com/watch?v=Xqibz0384mU Blaze]／庵:[http://www.youtube.com/watch?v=rR5ZT7Kz4SI Cool Jam 2]／千鶴:[http://www.youtube.com/watch?v=6fkY29WSWNg Fairy] 
+|-
+| 隱藏角色 || KUSANAGI ||  ||  || [http://www.youtube.com/watch?v=7vDx59A7wxo ESAKA?03] 
+|-
+| Boss角色 || Adelheid Bernstein || 神樂萬龜 || 無界 || Adel:[http://www.youtube.com/watch?v=AIPeRBR6Mlg 革命のエチュード〜RII]／萬龜:[http://www.youtube.com/watch?v=zIex-pOqqS8 Sacredness〜Fairy]/無界:[http://www.youtube.com/watch?v=MHd5Mg5LmYY Styx] 
+|}
+
+===The King of Fighters XI ===
+[[File:img4887.jpg]]
+* Ash篇第2作。
+* 本次新登場角色分別為與Ash有淵源的貴族Elizabeth、使用撲克牌的前暗殺手Oswald、超能力隊新成員桃子、富有的女海賊-Bone Jenet和將街舞與武術結合的Duck King，共計5人。
+* 此次人物插畫師由森氣樓的弟子Hashimoto hiroaki”擔任，其細膩和近似森氣樓的畫風廣受玩家好評。也是KOF自森氣樓於2000年離開後第一個得到好評的人物插畫師。
+**  但各隊結局作畫居然又是由“ノナ”(野中薰)擔任，結果畫風變得比2001年還詭異，&lt;s&gt;跟2003和XIII的精美結圖比真的很不堪入目&lt;/s&gt;。
+* 除了技量表外另增依時間累積的交接表”Skill Gauge＂。避免了超級取消等系統與超必殺技共爭資源的問題，也可以在地上被打中立刻消耗全部兩個Skill Gauge計量強制換人從敵方連技中脫出。
+* Multi Shift System獲得強化，玩家可以類似KOF2002在進攻時施展更華麗的連段。
+* Skill Gauge除了用作攻擊中換人之外，還可以用作Super Cancel及本作新追加的“Dream Cancel”(特定超必殺技動作中取消往Leader超必殺技)。
+* 時間完結時的勝負判定並非看雙方體力餘值多寡，而是以時間計上的“Judgment Inch Meter”決定，對戰途中此計會偏向在戰局上有優勢的一方，而且Leader的攻擊對判定計有著較大的影響。
+** 時間完結時若判定計置中(沒有任何一方有優勢)則Leader尚存的一方能優先獲得勝利。
+* 可玩程度不比KOF98及KOF2002差，雖然也有老玩家批評此作變成了“草蜢遊戲”(草蜢的意味是指角色不斷跳躍，不斷採取空中攻勢的戰法)、“Combo遊戲”。
+* 家用版的音樂的風評欠佳，不及大型電玩版的音樂。
+* '''本作登場角色(隊伍)及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM !! 家用版追加BGM 
+|-
+| 主角隊 || Ash Crimson || Oswald || 神武 || [http://www.youtube.com/watch?v=ZMJyeMsZ0j4 joker]([http://www.youtube.com/watch?v=XW0R76zd5Ds Arrange版]) ||  
+|-
+| 競敵隊 || Elizabeth || 二階堂紅丸 || 墮瓏 || [http://www.youtube.com/watch?v=cva0mN0ZGno Queen]([http://www.youtube.com/watch?v=rWS4d13Ol7I Arrange版]) ||  
+|-
+| 餓狼傳說隊 || Terry Bogard || 金甲喚 || Duck King || [http://www.youtube.com/watch?v=FyWQtKN6lAE STREET DANCER]([http://www.youtube.com/watch?v=srAJKewWBaQ Arrange版]) || Terry:[http://www.youtube.com/watch?v=xsIoLCK84nA Big Shot!]／Duck King(演唱台Stage限定):[http://www.youtube.com/watch?v=RhiBEFtz5Ho Duck Duck Dub] 
+|-
+| 餓狼Mark of the Wolves隊 || Bone Jenet || Griffon Mask || 牙刀 || [http://www.youtube.com/watch?v=jggM7gW8tnk Kiss or poison]([http://www.youtube.com/watch?v=6fTKy8WQ7d8 Arrange版]) || Jenet:[http://www.youtube.com/watch?v=NpgzsOnPDuc Bad Girl] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || 坂崎Yuri || King || [http://www.youtube.com/watch?v=h11gqUr-3T0 After a long absence]([http://www.youtube.com/watch?v=mH3bMalrue4 Arrange版]) || Yuri:[http://www.youtube.com/watch?v=4iN7eAmdfzU ダイエット] 
+|-
+| 反極限流隊 || 如月影二 || 藤堂香澄 || Malin || [http://www.youtube.com/watch?v=NTbEhyy-bsI 凛々]([http://www.youtube.com/watch?v=c4EAoMi90OE Arrange版]) ||  
+|-
+| 怒隊 || Ralf Jones || Clark Steel || Whip || [http://www.youtube.com/watch?v=Sxqm3HEwn9g Smell of gunpowder]([http://www.youtube.com/watch?v=DtoVOTxuzSI Arrange版]) ||  
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 桃子 || [http://www.youtube.com/watch?v=scR6of4L194 PURE〜at good old days〜]([http://www.youtube.com/watch?v=G8sG9g96v5g Arrange版]) || 雅典娜(演唱台Stage限定):[http://www.youtube.com/watch?v=7Jgb5A7Zz7M 傷だらけのBLUE MOON] 
+|-
+| 特務隊 || Vanessa || Ramon || Blue Mary || [http://www.youtube.com/watch?v=vo7YktcU3wo Secret Circumstances]([http://www.youtube.com/watch?v=qjKlGd8XGRs Arrange版]) ||  
+|-
+| K'隊 || K' || Maxima || Kula Diamond || [http://www.youtube.com/watch?v=TgekzBH0I_w KDD-0075]([http://www.youtube.com/watch?v=0pFVOyZAtj4 Arrange版]) ||  
+|-
+| 京&amp;庵隊 || 草薙京 || 八神庵 || 矢吹真吾 || [http://www.youtube.com/watch?v=mPA3aydnm6o New Order]([http://www.youtube.com/watch?v=cSMe0Ghy3NQ Arrange版]) || 庵:[http://www.youtube.com/watch?v=iK_TOFv27gY 嵐のサキソフォン]／真吾:[http://www.youtube.com/watch?v=DbdxUCoJB6E Still Green] 
+|-
+| rowspan = "2"  | 隱藏角色 || Adelheid Bernstein || 天童凱 ||  || Adel&amp;天童凱:[http://www.youtube.com/watch?v=R2s-MzMyM3I King]([http://www.youtube.com/watch?v=5auHZkvw_7E Arrange版]) || 凱:[http://www.youtube.com/watch?v=4EohYBttVaA In High Gear]([http://www.youtube.com/watch?v=xut8SFSDjDg Arrange版]) 
+|-
+| Silber || 邪頭 || 疾風翔 || Silber&amp;邪頭[http://www.youtube.com/watch?v=6YGk1Aoe3XU Jack]([http://www.youtube.com/watch?v=aiJejwdQdJM Arrange版])／翔:[http://www.youtube.com/watch?v=iGFeOGL-3Ew 「チャーチャーチャー」]([http://www.youtube.com/watch?v=o6ZZuW1lRkI&amp;feature=watch_response Arrange版]) ||  
+|-
+| Boss角色 || 紫苑 || 禍忌 ||  || 紫苑:[http://www.youtube.com/watch?v=5C4ZTZ5pZUo 抗唄]([http://www.youtube.com/watch?v=ltlZFcOAvc0 Arrange版])／禍忌:[http://www.youtube.com/watch?v=ESclvAQHzwk an improvised concerto]([http://www.youtube.com/watch?v=_ZUjLI6z2CY Arrange版]) ||  
+|-
+| rowspan = "3"  | PS2版追加角色 || 草薙京EX || Mr.Big || Geese Howard ||  || 京EX:[http://www.youtube.com/watch?v=0W5Jf-rhir0 ESAKA?[Acid Re-Mix] ]／Geese:[http://www.youtube.com/watch?v=KH8HKrZv_7s ギースにしょうゆ] 
+|-
+| 不知火舞 || Robert Garcia || 唐福祿 ||  ||  
+|-
+| 雙葉螢 ||  ||  ||  ||  
+|}
+
+===The King of Fighters XIII ===
+[[File:img4894.png]]
+* Ash篇完結篇。
+* 與Ash前兩篇相較，此次新增的角色僅僅只有Hwa Jai和自XII登場的Raiden。創下自有故事的系列作以來新角色人數最少的一次。
+* 基板：TAITO Type-X2
+* 和XII同樣高清製作，但系統變回和KOF98類似。
+* 追加EX必殺技/EX超必殺技系統，能夠消耗1條氣使出通常必殺技/超必殺技的強化版。
+* 氣條以外還有一條“Hyper Drive Guage”，攻擊命中或被打時會增加，平時可以消耗半條Hyper計量令角色能於必殺技中取消往其他必殺技(Drive Cancel)或超必殺技(Super Cancel)，集滿時則可以發動“Hyper Drive Mode”，期間全通常技均可取消及可以無限制使用Drive Cancel和Super Cancel。
+* 追加消耗3條氣的“NEO MAX超必殺技”，需要在Hyper Drive Mode中或Hyper計量全滿的狀態下才能使出。Hyper Drive Mode中能在超必殺技動作中取消使出(MAX cancel)。
+* 可玩性相當高的作品，可謂高清製作的環境下的成形品。
+* 相對地因為製作角色點陣圖費時，新角色並不多(還包括沿用東丈的點陣圖的霍查)，超必殺技也多半靠佈滿整個畫面的特效粉飾&lt;s&gt;太平&lt;/s&gt;。故事似乎也因為這個原因缺乏新角色充實故事，草草收場。
+** &lt;s&gt;不過也有論調指本作一開始是想要做成3D，無奈新引擎開發不順利，又不能浪費辛苦做好的人物3D模型，最後是把模型渲染出來再由畫師一點一點描回2D圖……&lt;/s&gt;
+** 家用版新增的故事模式補完比賽過程的詳細動畫，本作許多沒有登場的角色只能在裡面露臉刷一點存在感。
+*** 結果包含Adelheid、遙遠彼方的部分成員這些理應參賽都不意外的人物都在內，使部分玩家替其抱屈。
+* &lt;s&gt;女角爆衣復活，但限於龍虎之拳女角。&lt;/s&gt;
+* 家用版於2011年11月推出(日版12月)，追加新角色和新場地，同時對角色平衡度作出大幅調整。
+* 大型電玩予定推出新版本"The King of Fighters XIII CLAIMAX"，將追加家用版全部角色及作出和家用版一樣的調整。
+* [https://www.youtube.com/watch?v=x3MIeFLPpNI 其實有不少SNK的角色亂入背景裡面] &lt;s&gt;連侍魂、Metal Slug、月華劍士、風雲黙示録的角色都可以超越時空來現代觀戰，也難怪娜可露露後來會在XIV參戰&lt;/s&gt;
+
+* '''本作登場角色(隊伍)及BGM'''
+&lt;!-- Type B部份未完成 --&gt;
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM(Type A) !! BGM(Type B) 
+|-
+| 隊伍編輯專用&lt;s&gt;主人公(笑)&lt;/s&gt; || Ash Crimson ||  ||  || [http://www.youtube.com/watch?v=3pC3TAd39ng The Second Joker] || joker(KOF XI) 
+|-
+| 伊莉莎白隊&lt;s&gt;定義上的主角隊(笑)&lt;/s&gt; || Elisabeth Blanctorche || 堕瓏 || 神武 || [http://www.youtube.com/watch?v=LcBHAAyiGos Each Promise] || Queen(KOF XI) 
+|-
+| 日本隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || [http://www.youtube.com/watch?v=ACW36lBGvsY ESAKA Continues...] || [http://www.youtube.com/watch?v=YVp4EcvTM1M ESAKA? Acid Re-Mix(KOF XI)]
+|-
+| 八神隊 || 八神庵 || Mature || Vice || [http://www.youtube.com/watch?v=vwqpjLfmjeQ 嵐のサキソフォン5] || [http://www.youtube.com/watch?v=nRDCG0PsXTs 嵐のサキソフォン(KOF XI)] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || [http://www.youtube.com/watch?v=eCwzdl2q6Ho Wild Street] || Street Dancer(KOF XI) 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎拓馬 || [http://www.youtube.com/watch?v=wFn8GkDqVRY 極限修行！-山篭もり-] || [http://www.youtube.com/watch?v=qYk2II_Bz1c After a Long Absence(KOF XI)] 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel || [http://www.youtube.com/watch?v=AIR_AufLPLE Irregular Mission] || Smell of Gunpowder(KOFXI) 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || [http://www.youtube.com/watch?v=8yG9jlG6hvA Purity Soldiers] || PURE〜at good old days〜(KOFXI) 
+|-
+| 女性格鬥家隊 || King || 不知火舞 || 坂崎Yuri || [http://www.youtube.com/watch?v=0ECFFKDzgp8 Who is Queen？] || [http://www.youtube.com/watch?v=12VonxLfyp0 I'm hot for you(KOF2003)] 
+|-
+| 金隊 || 金甲喚 || Hwa Jai || Raiden || [http://www.youtube.com/watch?v=8Jsdn0wHgQM Tame a Bad Boy] || [http://www.youtube.com/watch?v=AoDxtQZ7R5Q Seoul Road] 
+|-
+| K'隊 || K' || Maxima || Kula Diamond || [http://www.youtube.com/watch?v=YIbZgecFGkg KDD-0063] || KDD-0075(KOF XI) 
+|-
+| Boss角色 || 齋祀 || 血之螺旋中發狂的Ash ||  || 齋祀:[http://www.youtube.com/watch?v=97G5Qnb1P9o Fate]／黑艾修:[http://www.youtube.com/watch?v=vmPdp4QimA4 Diabolosis] ||  
+|-
+| 家用版追加角色 || Billy Kane || 齋祀(變身前) ||  || Billy:[http://www.youtube.com/watch?v=JsUnTkvXso0 London March]／變身前齋祀:[http://www.youtube.com/watch?v=uX0oFVCLPrA 時間を統べるもの] || Billy:[http://www.youtube.com/watch?v=Y2KC9wibFdc ギースに肩こり]／變身前齋祀:[http://www.youtube.com/watch?v=B0ae82zYPEo Fate(Arrange版)] 
+|-
+| 家用版追加DLC角色 || N.E.S.T.S. style京 || 取回火炎的庵 || Mr. Karate || N.E.S.T.S.京:[http://www.youtube.com/watch?v=7aEbNbIOWn4 GOOD-BYE ESAKA(Arrange版)]／火炎庵:[http://www.youtube.com/watch?v=M-jrwb_-j58 嵐のサキソフォン2(Arrange版)]／空手道先生:[https://www.youtube.com/watch?v=X4XYxhwqLUQ 師範] || 京:GOOD-BYE ESAKA(NEO GEO版)／火炎庵:嵐のサキソフォン2(NEO GEO版)／空手道先生:師範(NEO GEO版) 
+|}
+
+==新章篇 ==
+
+===The King of Fighters XIV ===
+http://fightersgeneration.com/nz6/game/kof-xiv/king-of-fighters-xiv-logo.png
+* 相隔上集多年後開發的家用機專用作品，平台為PS4。也有移植往Steam。
+** 後來有利用NESiCAxLive 2為平台[[逆流|逆向移植]]到大型電玩。
+* 從SNKP正式重回原有名稱SNK制作。
+* 由新角色“瞬影”擔任新主角，&lt;ref&gt;不過在XIV推出時是將其定位成「key person」，即為對劇情有關鍵影響力之人，直到XV開發時才由小田泰之正式稱其為主人公，確立從XIV以來的主角定位。&lt;/ref&gt;為全新的故事章節，如果不記MI系列的話，瞬影是該系列作第一個不是用火燄戰鬥的主角。
+** &lt;s&gt;畫面怎麼看也沒有PS4水準啊～&lt;/s&gt;雖然因最初公開的PV的動作流暢度相當低而遭到不少劣評，隨著資料影片逐步公開，也顯示出本遊戲是一個高質素作品，遊戲迷對其評價不斷提高至有超越快打旋風V之意見。
+** 可能因為改以全3D開發的關係，本作新角色非常之多（不少是中國系角色&lt;s&gt;大概和SNKP受中國企業贊助有關&lt;/s&gt;）。
+** 新登場角色除了瞬影之外，其他有電氣娘Sylvie、神秘的毒舌&lt;s&gt;[[刺客教條|刺客]]&lt;/s&gt;Kukri、將川劇變臉融入格鬥的Mian、天才拳擊手Nelson、使用[[足技]]的Zarina、巴西忍術達人Bandeiras、金的師父剛一、妖豔的跆拳道手-梁、傳說的囚犯Xanadu、瞬影的同門明天君、基斯的新手下-&lt;s&gt;坂本&lt;/s&gt;Hein和反派摔角手-King of Dinosaurs&lt;ref&gt;雖然真正身份是之前曾出場的Griffon Mask，但招式不同&lt;/ref&gt; 。若算入DLC的話還有在2018年所新增的中東女性Najd。
+** 其他有來自餓狼傳說的唐福祿和Alice、侍魂的Nakoruru和其下兩款官方柏青嫂人物的蜜蜜和Love Heart，新角色多達近18人，是該系列新角色最多的一代，和上代新角色最少的XIII形成強烈對比。
+** 既有舊角CV大幅更換為新CV(除少部分舊角CV繼續配音)；雖然換上了一些頗有名氣的聲優如前野智昭，近藤隆等等；但有些明明還是現役，很適合的聲優卻換走，讓SNK也被很多人罵了個翻天。
+* &lt;s&gt;草薙京的臉會隨著開發進度一直在變，而椎拳崇只想讓人問你是誰？&lt;/s&gt;
+* 2018年時，在SNK授權下，推出由あずま京太郎所繪製《The King of Fighters : A New Beginning》的XIV漫畫版。
+** 劇情上雖是以XIV為基底，但不少有原創情節的地方&lt;ref&gt;像是娜可露露並未找隊友參賽，而是以精神體狀態在賽場從旁觀察並對異狀加以排除，本作boss威爾斯身上的怨靈群出現了遊戲未提及的傑尼茲、七枷社、雪露米、克里斯、真Zero等人物。&lt;/ref&gt;&lt;s&gt;，還順便置入性行銷侍魂曉的人物&lt;/s&gt;，遊戲製作人小田泰之在訪談時也提到漫畫劇情不會被列入正史。
+** 戲份在分配上有明顯落差，舊角色（特別是主角系人物、基斯）得到作者十足的關愛，不少新角色淪為過場露臉和龍套&lt;s&gt;兼砲灰&lt;/s&gt;擔當。
+** 部分新角色有補完遊戲中未詳細提及的人物設定和招式原理，像是瞬影、明天君、希爾薇等人。
+** &lt;s&gt;當然沒有港漫式的鬼扯設定和演出。&lt;/s&gt;
+* '''本作登場角色(隊伍)及BGM'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM 
+|-
+| 中國隊 || 瞬影 || 唐福祿 || 明天君 || [https://www.youtube.com/watch?v=UX8YcUEmtMo Inheritance] 
+|-
+| 日本隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || [https://www.youtube.com/watch?v=EzqasS2_L3U やっぱりESAKA]&lt;ref&gt;21年了都還在玩ESAKA這個梗...&lt;/ref&gt; 
+|-
+| 官方招待隊 || Sylvie Paula Paula || Kukri || Mian || [https://www.youtube.com/watch?v=plFnAGcZ37s Venator Ballare] 
+|-
+| &lt;s&gt;美國運動隊2號&lt;/s&gt;南美隊 || Nelson || Zarina || Bandeiras服部 || [https://www.youtube.com/watch?v=CmXjJMsyUeE COCO] 
+|-
+| 八神隊 || 八神庵 || Mature || Vice || [https://www.youtube.com/watch?v=ETT-pej9tAs 月下のサキソフォン] 
+|-
+| 金隊 || 金甲喚 || 剛一 || 梁 || [https://www.youtube.com/watch?v=LYzcJH3C7LY Belief] 
+|-
+| &lt;s&gt;摔角&lt;/s&gt;墨西哥隊 || Ramon || Angel ||&lt;s&gt;Griffon Mask&lt;/s&gt;King of Dinosaurs || [https://www.youtube.com/watch?v=D3A4s-hTTQM Sky Blue] 
+|-
+| &lt;s&gt;柏青嫂&lt;/s&gt;異世界隊 || Nakoruru || 蜜蜜 || Love Heart || [https://www.youtube.com/watch?v=urs4Ic1G_Ls Magical Sky] 
+|-
+| &lt;s&gt;色物&lt;/s&gt;惡人隊&lt;ref&gt;其實KOF'94的韓國隊本來就是要作成三個壞人組成的隊伍的，這次算是原設定再現？&lt;/ref&gt; || Xanadu || 張巨漢 || 崔稻妻 || [https://www.youtube.com/watch?v=RzAZMa2xgzQ WA] 
+|-
+| K'隊 || K' || Maxima || Kula Diamond || [https://www.youtube.com/watch?v=4-6hnY9uM8s KD-SR] 
+|-
+| 怒隊 || Ralf Jones || Clark Steel || Leona Heidern || [https://www.youtube.com/watch?v=x3tTl4AX9xw Survivors Under The sky] 
+|-
+| 南鎮隊 || Geese Howard || Billy Kane || Hein || [https://www.youtube.com/watch?v=Bx1Qea8_WGc Soy Sauce for Koyadofu] 
+|-
+| 餓狼隊 || Terry Bogard || Andy Bogard || 東丈 || [https://www.youtube.com/watch?v=fyMLWWO37Go Departure from South Town] 
+|-
+| 女性格鬥家隊 || King || 不知火舞 || Alice || [https://www.youtube.com/watch?v=SVhvHsIk5xA Splendid Soldier] 
+|-
+| &lt;s&gt;沒人記得曾是中國隊的&lt;/s&gt;超能力戰士隊 || 麻宮雅典娜 || 椎拳崇 || 鎮元齋 || [https://www.youtube.com/watch?v=jr-PuIrkp00 Tachi Bou Ke -instrumental] 
+|-
+| 龍虎隊 || 坂崎亮 || Robert Garcia || 坂崎Yuri || [https://www.youtube.com/watch?v=igeiTHLy-ok Tiger &amp; Dragon] 
+|-
+| 頭目角色 || Antonov:[https://www.youtube.com/watch?v=Y0pRsStFZ8w I'm THE KING OF FIGHTERS Type-2&amp;br] || Verse:[https://www.youtube.com/watch?v=YGM-QfEvHkA Indepandence from an Aggregate] ||  ||  
+|-
+| rowspan = "2"  | DLC角色 || Whip:[https://www.youtube.com/watch?v=8GktZ5cKjac W.W.III -KOF XIV ver.]- || 山崎龍二:[https://www.youtube.com/watch?v=7iuiOsj7HXg C62 -KOF XIV ver.] || Vanessa:[https://www.youtube.com/watch?v=nAMqxvZshF0 Secret Circumstances -KOF XIV ver.]- || Rock Howard:[https://www.youtube.com/watch?v=ubvaqSNwh94 Emergence&lt;ref&gt;原本於MOTW中的BGM是Spread the wings/永遠の翼，但因後半段與已故的義大利音樂人Robert Miles於1995年所創作代表作"Children"過於相似，或許是為了避免爭議也或許是為了致敬這位音樂人，故於KOF14中替換掉了Rock的BGM。&lt;/ref&gt;] 
+|-
+| Oswald:[https://www.youtube.com/watch?v=s-GAjMFDGac JOKER -KOF XIV ver.] || Heidern:[https://www.youtube.com/watch?v=ugWbtCg3bWI&amp;t Desert Requiem -KOF XIV ver.] || Blue Mary:[https://www.youtube.com/watch?v=QOENyApyJgw Kiss Me -KOF XIV ver.] || Najd:[https://www.youtube.com/watch?v=Jzi0QqbkODY&amp;t Successor] 
+|-
+! scope rowspan = "4"  | 特殊對戰BGM
+|| 草薙京 vs 八神庵:[https://www.youtube.com/watch?v=NnyGkNRcogw New Order -KOF XIV Ver.] || 麻宮雅典娜 vs 椎拳崇:[https://www.youtube.com/watch?v=oPpvntmPv84 tachi bou ke] || Kula Diamond vs Angel:[https://www.youtube.com/watch?v=ZyXHZAx6vI8 Ice Place -KOF XIV Ver.] || Ralf Jones vs Clark Stee:[https://www.youtube.com/watch?v=eUsk48v9bU0 Ikari -KOF XIV Ver.] 
+|-
+| 金甲喚 vs 張巨漢、崔稻妻:[https://www.youtube.com/watch?v=HzAaU0_O8Jc Seoul Road -KOF XIV Ver.] || 坂崎亮 vs King:[https://www.youtube.com/watch?v=5vCN7zX8M38 Micha Iya! -KOF XIV Ver.] || Terry Bogard vs Geese Howard:[https://www.youtube.com/watch?v=WbtotopWmOQ Soy Sauce For Geese-KOF XIV Ver.] || Billy Kane vs Hein:[https://www.youtube.com/watch?v=0DUBC-ryF6U London March -KOF XIV Ver.] 
+|-
+| Andy Bogard vs 唐福祿:[https://www.youtube.com/watch?v=3cG05Zc46UE Pasta -KOF XIV Ver.] || 坂崎亮 vs Geese Howard:[https://www.youtube.com/watch?v=HpLqc6A6HHs A Kiss for Geese,Cyber Edit-KOFXIV Ver] || K' vs Ralf:[https://www.youtube.com/watch?v=sdM6Gdcw5kc&amp;t KD-0079 -KOF XIV Ver.] || 瞬影 vs Kukri:[https://www.youtube.com/watch?v=RGF4y9vhcLE&amp;t Full Burst]
+|-
+| Classic草薙京 vs Classic八神庵:[https://www.youtube.com/watch?v=um9sUtTKrXE&amp;t Yappari ESAKA?] || Classic八神庵 vs Classic草薙京:[https://www.youtube.com/watch?v=PL3k2DZ5kns&amp;t Stormy Saxophone -KOF XIV ver.] || ||  
+|}
+
+===The King of Fighters XV ===
+http://fightersgeneration.com/news2020/kofxv/kofxv-logo-dec2020.PNG
+
+* 新故事第2篇章節
+* 因為疫情&lt;s&gt;從2020延至&lt;/s&gt;預計2022年2月17日發行的新作。
+** 公開的PV跟上次的XIV一樣好壞評價十分兩極&lt;ref&gt;負評主要是在部分角色外型崩壞與XIV已經相隔超過五年卻沒在人物招式做出明顯變化，少數幾個即使新增也只是多一招or招式動作變更。&lt;/ref&gt;，但整體評價好過XIV。
+* 本作登場的新角色僅只有三位，分別是跟瞬影有同樣力量的少女- Isla、操控泥土的大隱士-Delores和神祕的改造人-Krohen&lt;ref&gt;&lt;s&gt;即是換名+換皮後的K9999，真要說起來應歸類在復刻角而非新角色。&lt;/s&gt;&lt;/ref&gt;。繼XIII以來再度創下新角色稀少的案例。
+** 跟上代XIV相比，整體參戰人數和隊伍明顯減少很多&lt;s&gt;但不排除缺席or其他人氣角色會以DLC的方式追加出場&lt;/s&gt;。
+** 部分前面篇章沉寂許久的經典角色部分復出(像是大蛇隊、神樂千鶴、Ash、伊莉莎白等等)受到不少玩家支持，相比之下在XIV登場的新角續役人數卻屈指可數。
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM 
+|-
+| 英雄隊 || 瞬影 || 明天君 || 二階堂紅丸 ||https://www.youtube.com/watch?v=gZkgK_XBXHQ
+|-
+| 三神器隊 || 草薙京 || 八神庵 || 神樂千鶴 ||https://www.youtube.com/watch?v=4vq9yGrOGvU
+|-
+| 宿敵隊 || Isla || Delores || Heidern || https://www.youtube.com/watch?v=4DATzZahRcM
+|-
+| 餓狼隊 || Terry Bogard || Andy Bogard || 東丈 || https://www.youtube.com/watch?v=AxxwZQBUWFo
+|-
+| 龍虎隊 || 坂崎亮 || Robert Garcia || King || https://www.youtube.com/watch?v=L-FnDxeNwPs
+|-
+| 大蛇隊 || 七枷社 || Shermie || Chris ||https://www.youtube.com/watch?v=XkO8Q0_WsSQ
+|-
+| &lt;s&gt;從女性格鬥家隊改名的&lt;/s&gt;超級女主角隊 || 麻宮雅典娜 || 不知火舞 || 坂崎百合 ||{{youtube|QU05m1XjC9M|Like a Queen}}
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel ||{{youtube|ZHWbeUZpVp0|Great Grit}}
+|-
+| 特務隊 || Blue Mary || Vanessa || 梁 || https://www.youtube.com/watch?v=YYe2WS-Zsl0
+|-
+| G.A.W.隊 || Antonov || Ramon || King of Dinosaurs ||  https://www.youtube.com/watch?v=GmHDNKhcGVs
+|-
+| K'隊 || K' || Whip ||Maxima || https://www.youtube.com/watch?v=LTIMhZTRJmY
+|-
+| &lt;s&gt;從N.E.S.T.S.隊改名的&lt;/s&gt; Krohen隊 || Krohen&lt;s&gt;K9999&lt;/s&gt; || Kula Diamond || Angel ||https://www.youtube.com/watch?v=kTEfbotFnIg
+|-
+| 艾修隊 || Ash Crimson || Kukri || Elisabeth Blanctorche ||
+|-
+| 餓狼Mark of the Wolves隊（DLC隊伍）|| Rock Howard ||牙刀 || Bone Jenet || 
+|-
+| 南鎮隊（DLC隊伍）|| Geese Howard || Billy Kane || 山崎龍二 || 
+|-
+| 頭目角色 || || || || 
+|-
+| DLC服裝 || 餓狼MoW版Terry Bogard || CLASSIC LEONA || || 
+|-
+! scope rowspan = "4"  | 特殊對戰BGM
+|| 瞬影 vs 明天君:https://www.youtube.com/watch?v=RZ70dYKBfmg|| 七枷社 vs 八神庵:https://www.youtube.com/watch?v=AYT4KtWl5MQ|| 草薙京 vs 八神庵|| K'  vs Krohen&lt;s&gt;K9999&lt;/s&gt;
+|- 
+|}
+
+==其他系列作 ==
+
+===The King of Fighters Neowave ===
+[[File:img4886.jpg]]
+* &lt;s&gt;ﾃｯﾃｯﾃｯﾃｯﾃ&lt;/s&gt;
+* Noise Factory開發。KOF2002的&lt;s&gt;Copy and Paste&lt;/s&gt;派生作品。
+* 此作開始放棄使用SNK固有的MVS基板，改使用Sammy社開發的基板“Atomiswave”。
+* 戰鬥模式被分成三種：
+** Super Cancel Mode：氣條分3條，能夠消耗1條氣使出“超級取消”。
+** Guard Break Mode：氣條分2條，能夠使用Just defence和消耗1條氣使出、攻擊前全身無敵、能誘發彈壁而且不能擋的Guard Break攻擊。
+** MAX2 Mode：氣條只有1條，但氣量常時自動增加，體力低下時能夠單花1條氣條使出MAX超必殺技和此模式專用的MAX2(但不能如以往的Extra模式般可任意使出超必殺技)&lt;s&gt;結果杓死可以無責任亂出&lt;/s&gt;。
+* 此外還有透過慢慢扣減自己的體力來換取攻擊力強化的Heat Mode，但體力低至一定量以下不能發動&lt;s&gt;MAX2 mode用來輕鬆達成MAX2使用條件的手段&lt;/s&gt;。
+* 現時唯一對應記錄卡的系統，能夠儲點數購買隱藏人物&lt;s&gt;，還提供隱藏喪屍顏色給玩家購買使用&lt;/s&gt;。
+** 另外和遊戲設定無關，Atomiswave的讀卡機能讀卡需時甚久而且容易出現讀卡錯誤，令不少玩家放棄使用卡牌遊玩以免讓其他玩家久等。
+** 但部份強角色如金甲喚還有&lt;s&gt;破壞遊戲平衡的&lt;/s&gt;基斯必須透過卡牌作媒介來購買方能使用...還好後來可以調整基板讓隱藏人物能不用IC卡直接使用。
+* 角色性能有不少調整失誤(如草薙柴舟和全勳的防禦力比力量型角色更高，基斯的蹲B擁有猶如強攻擊的攻擊力)令平衡度反而不及KOF2002
+** 還有背景音樂、畫面色調與以往KOF風格完全格格不入，很多玩家也覺得是KOF2002的劣化版。
+* 但最近又因為遊戲平衡度還不算太差，而且初心者也會不少勝機，高手沒太大優勢而出現能純粹在對戰中獲得樂趣的評語，需要再度評價的樣子。
+* 今回的插畫師“中野友和”的插畫也被批評成毫不了解各角色的個性，“每個男角都畫得[[成句/Jackie的鼻子有幾個？|很像成龍]] ”。&lt;s&gt;反而最像成龍的紅虎卻沒參戰.....&lt;/s&gt;
+* &lt;s&gt;ﾅｲｽﾌｧｲ！&lt;/s&gt;
+&lt;!-- http:dic.nicovideo.jp/a/neowave 參考用，哈哈！ --&gt;
+* '''本作登場角色(隊伍)'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 
+|-
+| 日本隊 || 草薙京 || 二階堂紅丸 || 大門五郎 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎拓馬 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 
+|-
+| 女性格鬥家隊 || King || 不知火舞 || 坂崎Yuri 
+|-
+| 韓國隊 || 全勳 || 張巨漢 || 崔稻妻 
+|-
+| KOF'96隊 || 八神庵 || Mature || Vice 
+|-
+| KOF'97隊 || 山崎龍二 || Blue Mary || Billy Kane 
+|-
+| KOF'98隊 || 七枷社 || Shermie || Chris 
+|-
+| KOF'99隊 || K' || Maxima || Whip 
+|-
+| 混合隊 || 草薙柴舟 || Kula Diamond || 矢吹真吾 
+|-
+| rowspan = "2"  | 裏角色 || 金甲喚 || Vanessa || Ramon 
+|-
+| 乾枯大地的社 || 狂而粗暴的雷光的Shermie || 操控火炎的Chris 
+|-
+| Boss角色 || Geese Howard(年輕時期) || vs Geese戰BGM:[http://www.youtube.com/watch?v=vZTxXt2xA2o Speed Hucker] ||  
+|-
+| 全家用版追加角色 || Seth || KUSANAGI || Omega Rugal 
+|-
+| PS2版追加角色 || May-lee || Angel ||  
+|}
+
+===The King of Fighters: Maximum Impact ===
+[[File:img4888.jpg]]
+* 家用機推出的立體作品。
+* 由FALCOON(上記KOF2003的插畫師)擔任新角色人設和故事設定&lt;s&gt;結果故事中和KOF正傳有很多矛盾點&lt;/s&gt;。
+* 故事和本家的KOF為兩個平行世界，以基斯墜樓身亡後的南鎮為故事舞台，主角為新角色“&lt;s&gt;阿魯巴&lt;/s&gt;Alba Meira”。
+* 沿用固有系統，追加了Side Step(橫移動)，Stylish Art等動作，並非3人組隊戰，採用回通常格鬥遊戲的1對1戰鬥。可說是餓狼Wild Ambition的發展型。
+* 開場先馳得點者就可得到一格氣的獎勵、防禦崩壞時一定時間只能檔單發攻擊、把倒地對手從地上挖起打飛的連段，給遊戲帶來不少爽快感。
+* 全人物均有裡服裝的設定，外觀會變得完全不一樣，一部份顏色甚至明顯地在cosplay其他作品中的角色甚至是非SNK Playmore的角色。
+* &lt;s&gt;女角們的[[乳量|戰鬥力]]都非常高且都有乳搖，此作實際上是向DOA致敬的作品&lt;/s&gt;
+* '''本作登場角色'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| Alba Meira || Soriee Meira || Lien Neville || Mignon Beart 
+|-
+| 蔡琳 || Rock Howard || 草薙京 || 八神庵 
+|-
+| Terry Bogard || 麻宮雅典娜 || 不知火舞 || 坂崎亮 
+|-
+| 坂崎Yuri || Ralf Jones || Clark Steel || Leona Heidern 
+|-
+| K' || Maxima || Seth || 最終Boss:Duke 
+|}
+
+===The King of Fighters: Maximum Impact 2 ===
+[[File:img4889.jpg]]
+* MI系列續作。
+* 本作由小說家“嬉野秋彥”負責故事。
+* 最矚目的是新動作“さばき”(捌き)，可依上下段撥開對手打擊技令其產生硬直，但對手在硬直中可立刻反過來使用さばき或硬直中耗氣迴避/反擊，令此系統變成改變遊戲性的關鍵。
+* 追加超級取消。須耗一格技量表。
+* 服裝的裡顏色改良至追加部件，上記的cosplay顏色於本作中的再現度更加高。
+* SNK Playmore原本的企劃還有“Maximum Impact 3”(MI三步曲的完結篇)甚至以第一集的頭目Duke為第一視點的前傳作品，但因為FALCOON的離任最後企劃胎死腹中。
+* '''本作登場角色'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! scope rowspan = "6"  | 通常角色
+|| Alba Meira || Soriee Meira || Lien Neville || Mignon Beart 
+|-
+| 蔡琳 || Duke || Luise Meyrink || 流星 
+|-
+| Billy Kane || Rock Howard || 草薙京 || 八神庵 
+|-
+| Terry Bogard || 麻宮雅典娜 || 不知火舞 || 坂崎亮 
+|-
+| 坂崎Yuri || Ralf Jones || Clark Steel || Leona Heidern 
+|-
+| K' || Maxima || Seth || Kula Diamond 
+|-
+! scope rowspan = "4"  | 隱藏角色
+|| 金甲喚 || Richard Myer || Bonne Janet || Nightmare Geese 
+|-
+| Lilly Kane || Ninon Beart || Hyena || 服部半藏 
+|-
+| Fio || Wild Wolf || 第二代Mr.Karate || 草薙京Classic 
+|-
+| Armor Ralf || 最終Boss:Jivatma ||  ||  
+|}
+
+===The King of Fighters : Maximum Impact Ragulation “A” ===
+[[File:img4890.jpg]]
+* 大型電玩化的MI系列作，無故事作品。整體色調較明亮，定位上類似《侍魂:天下一劍客傳》。
+* 為了讓一般KOF玩家容易適應，變回KOF固有的3人隊伍型式的對戰方式。
+* 平衡度不俗，有一定的Fans層。
+* 本來還有續作“Maximum Impact Regulation'A'2(暫名)”，也因為FALCOON的離任而胎死腹中。
+* '''本作登場角色(全部初期可選,'''粗字'''為新參戰角色)'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| Alba Meira || Soriee Meira || Lien Neville || Mignon Beart 
+|-
+| 蔡琳 || Luise Meyrink || 流星 || Billy Kane 
+|-
+| Rock Howard || 草薙京 || 八神庵 || Terry Bogard 
+|-
+| 麻宮雅典娜 || 不知火舞 || 坂崎亮 || 坂崎Yuri 
+|-
+| Ralf Jones || Clark Steel || Leona Heidern || K' 
+|-
+| Maxima || Seth || Kula Diamond || 金甲喚 
+|-
+| Richard Myer || Bonne Janet || Lilly Kane || Ninon Beart 
+|-
+| Hyena || 服部半藏 || Fio || Wild Wolf 
+|-
+| 第二代Mr.Karate || 草薙京Classic ||  ||  
+|-
+| '''Ash Crmison''' || '''Blue Mary''' || '''笑龍''' ||  
+|-
+| 最終Boss隊伍: || Nightmare Geese || Duke || Jivatma 
+|-
+| 隱藏Boss: || '''溝口誠''' ||  ||  
+|}
+
+===The King of Fighters 98 Ultimate Match ===
+[[File:img4891.jpg]]
+* KOF98的改良作，把大蛇篇所有角色補完。
+* 基板：Taito Type X。
+*和KOF2002不一樣的是森氣樓的人設全都保留起來，只有新增的如月影二、藤堂香澄、96頭目隊、Goenitz 和大蛇人設由Hashimoto hiroaki繪製。
+* 戰鬥模式除了固有的Advance和Extra之外還追加可以自由組合Dash動作、迴避行動及集氣方式的“Ultimate Mode”。
+* 改良了兩個作戰模式的平衡度。
+** Advance氣條模式能直接花3條氣使出MAX超必殺技。
+** Extra氣條固定為無印最後一人的長度，氣條集滿氣後會先預存起來，讓玩家自行輸入指令發動Power Max狀態，而且能在攻擊中發動Power Max同時減少招式硬直。Advantage System改為放寬紅血的血量低下條件，但紅血下放超必殺技後有一定時間不能利用這個條件再使出超必殺技。
+* Dash方式選擇Front Step時步行速度增加，但不能在Front Step中使出特殊技。
+* 引入了攻擊中作出迴避動作的“Quick緊急迴避”和“Quick攻擊迴避”。
+** 選擇Extra氣條時，發動Power Max期間能透過消耗強化時間使出這兩招。
+* 但角色性能調整似乎沒有無印KOF98那麼好&lt;ref&gt;主因是克勞薩性能過強&lt;s&gt;克勞薩與他愉快的夥伴們&lt;/s&gt;，無印為強角的八神庵沒有明顯大幅弱化甚至有不少強化點。&lt;/ref&gt;，且整體攻擊力被調低，反而不及無印KOF98般大人氣，批判聲音不少的樣子。
+** 日本遊樂店要搞KOF98比賽都寧願用無印版也不會用此作，和KOF2002積極地採用UM版作比賽的景象「相映成趣」。
+* 此外本作所收錄的背景音樂非常之多，一部份是家用版Arrange mode限定。(「全部樂曲列出來簡直令人嘔血！」編寫本作BGM列之人談)
+* 2008年為配合NESiCAxLive而推出《The King of Fighters 98 Ultimate Match Final Edition》（簡稱「98UMFE」），遊戲平衡度將會再度改善。
+** 2011年推出了Steam版後開始普及和挽回初版UM的污名，到了2021年更打算改用Rollback網絡程式碼減少網絡對戰的遲延。
+* '''本作登場角色(隊伍)及BGM'''
+** (粗體字為家用版Arrange Mode限定BGM)
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! &lt;s&gt;多得過份的&lt;/s&gt;BGM 
+|-
+| 主角隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || [http://www.youtube.com/watch?v=xJq-QG2T1Ns ESAKA?]／玩家庵vsCPU京:[http://www.youtube.com/watch?v=7RSp95EdVg0 ESAKA FOREVER] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || [http://www.youtube.com/watch?v=2S9M12GzZg0 クリキントン 〜ごまめギターver〜] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎Yuri || [http://www.youtube.com/watch?v=bXSD6LY5HEc Art of Fight] 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel || [http://www.youtube.com/watch?v=qSpqM3z0hFo RUMBLING ON THE CITY] 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 鎮元齋 || 隊伍用:[http://www.youtube.com/watch?v=j4LnKsZNw9s 震!戦慄のドラ]／雅典娜專用:[http://www.youtube.com/watch?v=yBkBZyAlz4w サイコソルジャー REMIX'96]('''[http://www.youtube.com/watch?v=bx9vpZXemDQ Arrange mode Vocal ver.]''') 
+|-
+| 女性格鬥家隊 || 神樂千鶴 || King || 不知火舞 || [http://www.youtube.com/watch?v=fK02KL7Lspo FAIRY] 
+|-
+| 金隊 || 金甲喚 || 張巨漢 || 崔稻妻 || [http://www.youtube.com/watch?v=GZtx8Ms1KE4 Soul Town] 
+|-
+| 大蛇隊 || 七枷社 || Shermie || Chris || [http://www.youtube.com/watch?v=S3RycylNsYs Bloody] 
+|-
+| '97特別隊 || 山崎龍二 || Blue Mary || Billy Kane || 山崎:[http://www.youtube.com/watch?v=ZazOmSskHwM C62]／Mary:[http://www.youtube.com/watch?v=mhii-s0TdJU Blue Mary's BLUES]／Billy:[http://www.youtube.com/watch?v=WfOv2MPxg9o LONDON MARCH] 
+|-
+| 八神隊 || 八神庵 || Mature || Vice || 隊伍用:[http://www.youtube.com/watch?v=IdIwOnxqB40 嵐のサキソフォン2]／玩家京vsCPU庵:[http://www.youtube.com/watch?v=QEd8_lZ6q9k COOL JAM] 
+|-
+| 親父隊 || Heidern || 草薙柴舟 || 坂崎拓馬 || [http://www.youtube.com/watch?v=cUup73QPANk IN SPITE OF ONE'S AGE] 
+|-
+| 美國運動隊 || Heavy D! || Lucky Glauber || Brian Battler || [http://www.youtube.com/watch?v=0S8bdD2QH2k Slum No.5] 
+|-
+| '96頭目隊 || Geese Howard || Wolfgang Karuser || Mr.Big || Geese:[http://www.youtube.com/watch?v=lWPcsFKs8YY ギースに肩こり]／Karuser:[http://www.youtube.com/watch?v=dnoDVG6gHhQ Requiem短調 K.626 Dies Irae]('''[http://www.youtube.com/watch?v=wStqcLNLI_Q Arrange mode Vocal Ver.]''')／Mr.Big:[http://www.youtube.com/watch?v=r6FGkWPXdj4 Dust man] 
+|-
+| rowspan = "2"  | 隊伍編緝專用 || 矢吹真吾 || 如月影二 || 藤堂香澄 || 真吾:[http://www.youtube.com/watch?v=lTcYZ_ylAoE Still Green]／影二:[http://www.youtube.com/watch?v=sMYM4kb4IeY 忍の道]／香澄:[http://www.youtube.com/watch?v=w2m4ZXqsuCI ART OF FIGHT (龍虎Ver.)] 
+|-
+| Rugal Bernstein ||  ||  || [http://www.youtube.com/watch?v=u7guAJavx1s The ЯR] 
+|-
+| rowspan = "6"  | 裡角色 || '95草薙京 || EX不知火舞 || EX King || 95京:[http://www.youtube.com/watch?v=w9EWEptWXQ8 ESAKA]／EX舞(Original mode):[http://www.youtube.com/watch?v=mFWyMrjURZs まいまいきゅ～ん]／'''EX舞(Arrange Mode):[http://www.youtube.com/watch?v=eP-nK-t0QPk タクハツロック]'''&lt;ref&gt;實際上是Real Bout餓狼傳說Special(及Real Bout餓狼傳說2中)望月雙角的背景BGM，但家用98um曲表的表記卻是"まいまいきゅ～ん"。&lt;s&gt;為什麼選擇這首BGM啊&lt;nowiki&gt;~~~&lt;/nowiki&gt;!!&lt;/s&gt;&lt;/ref&gt;／EX King:[http://www.youtube.com/watch?v=5EDje6iPzOs 地を這うベース] 
+|-
+| EX Terry Bogard || EX Andy Bogard || EX東丈 || [http://www.youtube.com/watch?v=v4HxeV6jTJQ CLUB-M 〜青空にフルート〜] 
+|-
+| EX坂崎亮 || EX Robert Garcia || EX坂崎Yuri || EX龍虎隊:[http://www.youtube.com/watch?v=e66MCIoUDg4 かみきり虫]／EX Yuri專用:[http://www.youtube.com/watch?v=6ZiDa1Iz9us ダイエット] 
+|-
+| EX山崎龍二 || EX Blue Mary || EX Billy Kane || EX山崎:[http://www.youtube.com/watch?v=mMS89UXqYI8 C62-シロクニ- (餓狼3Ver.)]／EX Mary:[http://www.youtube.com/watch?v=hBscflBDc7c Kiss Me]／EX Billy:[http://www.youtube.com/watch?v=_uCcotMTMes N.D.R] 
+|-
+| EX Geese Howard || 在月之夜藉著大蛇之血而發狂的庵 || 在漆黑中藉著大蛇之血而覺醒的Leona || EX Geese:[http://www.youtube.com/watch?v=ZPRalsPaXyo ギースにしょうゆ]／暴走庵&amp;覺醒Leona:[http://www.youtube.com/watch?v=ht9qEienJZU Control Crisis] 
+|-
+| 乾枯大地的社 || 狂而粗暴的雷光的Shermie || 操控火炎的Chris || 裡社:[http://www.youtube.com/watch?v=wGwDMHk_jGM Rhythmic Hallucination]／裡Shermie:[http://www.youtube.com/watch?v=NYz06dpSxt8 FANATIC WALTZ]／裡Chris:[http://www.youtube.com/watch?v=qc-exqSqX60 MAD FANTASY] 
+|-
+| Boss角色 || Omega Rugal || Goenitz || 大蛇 || O.Rugal:[http://www.youtube.com/watch?v=Mo4tasdvqM0 XXX]／Goenitz:[http://www.youtube.com/watch?v=ZAZgXyLZJKE TRASH HEAD]／大蛇:[http://www.youtube.com/watch?v=jqyXkktkwhU The Origin of Mind] 
+|-
+! scope rowspan = "2"  | 其他BGM
+|| 95京+紅丸+大門:[http://www.youtube.com/watch?v=rXZONSK7SsA FUNKY ESAKA] || 亮+Robert+拓馬:[http://www.youtube.com/watch?v=Nl-gMZ0UtGo 龍虎の変] || King+Yuri+舞:[http://www.youtube.com/watch?v=fwx_NzdJrg8 ね!] || King+舞+香澄:[http://www.youtube.com/watch?v=YzoO9SZVnr0 Get'n Up] 
+|-
+| Heidern+Ralf+Clark:[http://www.youtube.com/watch?v=oFVgQI6ERCA DESERT REQUIEM] || 庵+影二+Billy:[http://www.youtube.com/watch?v=-als-ojUPiQ 嵐のサキソフォン] || '''EX Terry vs EX Mary:[http://www.youtube.com/watch?v=nA7NkmbvV_E Blue Mary's BLUES (Vocal Ver.)]''' || '''雅典娜vs拳崇:[http://www.youtube.com/watch?v=TmuwMKBrHt0 MY LOVE ～勇気を出して～]''' 
+|}
+
+===The King of Fighters XII ===
+[[File:img4892.jpg]]
+* KOF系列首個高清製作作品。
+* 基板：TAITO Type-X2
+* 標榜高清製作，點陣圖面積比起以往大了許多因而令角色顯得更細膩&lt;ref&gt;SNKP自稱是3D建模輸入動作後再擷取加繪而成，只用一人得花上不只一個月才可完成一角,但完全看不出什麼特別的成效…&lt;/ref&gt;。畫面也追加了放大縮小的效果，視覺效果激增。
+** 擔任2001及2002人物插畫的畫師ノナ有份參與角色點陣圖製作。&lt;s&gt;難怪比例那麼詭異。&lt;/s&gt;
+* 畫面會因應雙方角色距離而放大縮小，但特效方面似乎較遜色。
+* 系統和以往的KOF盡不相同，必殺技大幅減少，固有的緊急迴避、多元化超必殺等均削除，改使用相殺系統和Critical Counter為主導，令整體遊戲節奏有極大變化，極大部份玩家均無所適從。
+* 正統系列作中人物數量最少(業務用版20個，家用移植版再追加2個)。
+* 角色插畫師由おぐら えいすけ(森氣樓的弟子之一)擔任。
+* おぐら えいすけ的畫風雖然細膩，但部份角色因為與之前的插畫家畫風相比差距頗大而備受批評&lt;ref&gt;例如Ralf和Clark畫得過份粗壯像個筋肉人、東丈太過消瘦、雅典娜身為偶像歌手卻擁有一對非常粗壯的大腿等&lt;/ref&gt;。
+** 此在不知何解，遊戲剛公開楆題時的宣傳海報中包括了おぐら えいすけ繪畫伊莉莎白的插畫但伊莉莎白卻沒在XII登場(僅在家用版XII登場)，及後KOF Offical Site首頁中出現由同畫師繪畫的不知火舞和K'插畫和部份XII角色插畫並齊但舞和K'也沒在家用版的XII登場，很多fans均稱之為詐騙。
+* 在日本因上述理由缺乏人氣，但在歐美地區卻因為角色點陣圖畫風的變化吸引了不少玩家嘗試。
+* 一些玩家批評該作完全像個半成品(明明是一個實驗作兼且毫無既往KOF的風格卻標上了"XII"的正統集數數字)，評價可能比當時感覺也像是趕工出來的2001還要來得糟糕。&lt;ref&gt;只是沒像2001一堆色塊一樣簡陋而又瞎眼&lt;/ref&gt;
+** &lt;s&gt;像三國無雙5一樣的過渡作+砍角色+系統改爛+人物形象奇怪(但又不算太醜)&lt;/s&gt;
+* 此外該作與2002 Unlimited Match於同一年推出，但在人氣方面卻完全被2002 Unlimited Match給比下去。
+* &lt;s&gt;・・・・すごい大会解説者だ。&lt;/s&gt;
+* '''本作登場角色(注意:本作不分隊伍&lt;s&gt;以下角色排列只是耍好看&lt;/s&gt;)'''
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| Ash Crimson || 堕瓏 || 神武 
+|-
+| 草薙京 || 二階堂紅丸 || 大門五郎 
+|-
+| Terry Bogard || Andy Bogard || 東丈 
+|-
+| 坂崎亮 || Robert Garcia ||  
+|-
+| Leona Heidern || Ralf Jones || Clark Steel 
+|-
+| 麻宮雅典娜 || 稚拳崇 || 鎮元齋 
+|-
+| 金甲喚 || Raiden || 八神庵 
+|-
+| 家用版追加角色: || Mature || Elisabeth Blanctorche 
+|}
+
+===The King of Fighters 2002 Unlimited Match ===
+[[File:img4893.jpg]]
+* KOF2002的改良作，把N.E.S.T.S.篇所有角色補完(但K9999因[[成句/太相似的話就會有版權問題|版權問題]]被刪除)。
+* 先是在PS2上推出，及後調整部份內容，逆移植往大型電玩之上。
+* 人數創下該系列有史以來最多的66人(包括最終boss和隱藏角色)
+* 基板：SYSTEMBOARD Y2。
+* 遊戲介面、背景等完全重新繪製，和KOF98→98um的“Re-new”相比，KOF2002→02um則是“Remake”作風。
+* 人物插畫改由XI的插畫師Hashimoto hiroaki出馬，而他本人也在此次接受訪問，訪問中表示66個角色中Kula這類型的角色是他所不擅長的。&lt;s&gt;不過身為同樣都是擅於畫兄貴的繪師，他還是比入錯行的中央東口幸運多了。&lt;/s&gt;
+** 雖然Hashimoto hiroaki的畫風廣受好評(森氣樓離任後最受好評的一次)，但部份女性角色的畫風被部份玩家批評似乎搞砸了。
+* 系統上作出部分改良，但不影響整體方向的呈現。
+** 許多角色(包含既有人物和追加人物)新增招式，提高戰術性的運用。
+** 追加在不發動Power Max的狀態下也能使出MAX超必的設定，但此時氣條消耗量為3顆。
+** Power Max的狀態下集氣型指令(如4&gt;6、2&gt;8)招式可以直接瞬發而不需花時間預先輸入。
+** 體力低下時血條會變色，使玩家更能辨識能發動MAX2的時機。
+*** 發動過MAX2後會有一段短時間不能使用MAX2（血條會暫停閃動）。
+** 多數既有角色MAX2指令輸入變更簡易化&lt;s&gt;，但少數幾位還是保有02時期那千奇百怪的按法&lt;/s&gt;。
+* 音樂均重新錄製，有些將舊曲重編有些則直接使用新的曲目，和KOF2001~02的音質相比下提昇了不少(雖然部份人物仍採用KOF2001那些充滿雜音的舊語音)。
+* 同時部份角色的配音全部重新錄製(包括K'、Maxima、坂崎Yuri、May-lee、Heidern、真Zero和Omega Rugal)。
+* 玩家們公認的無印02強化改良作，也有玩家認為與其說是改良作倒不如更像是新出來的作品，總之好評甚多。
+* 不過角色之間的平衡差距頗大，導致雖然人數非常多但卻只有部份角色會被玩家重覆使用(包括K'、無名、King和香澄)。
+* 最近為配合NESiCAxLive而推出“The King of Fighters 2002 Unlimited for NESiCAxLive”，和98um不一樣地沒有作任何調整。
+** (沒提及BGM的裡角色，BGM均和表版一樣)
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 隊伍名稱 !! 隊員1 !! 隊員2 !! 隊員3 !! BGM 
+|-
+| K'隊 || K' || Maxima || Whip || [http://www.youtube.com/watch?v=6DNvjWdrtZk KD-0079+] 
+|-
+| 日本隊 || 草薙京 || 二階堂紅丸 || 大門五郎 || [http://www.youtube.com/watch?v=UY7NHkLmoW8 ESAKA!!] 
+|-
+| 餓狼傳說隊 || Terry Bogard || Andy Bogard || 東丈 || [http://www.youtube.com/watch?v=hCTcZATRfKQ Sun Shine Glory] 
+|-
+| 龍虎之拳隊 || 坂崎亮 || Robert Garcia || 坂崎Yuri || [http://www.youtube.com/watch?v=pFr54AJcF1k Art of Fight 〜龍虎とツバメ〜] 
+|-
+| 怒隊 || Leona Heidern || Ralf Jones || Clark Steel || [http://www.youtube.com/watch?v=uT68kWxi2u4 DESERT REQUIEM ～Operation02um～] 
+|-
+| 超能力戰士隊 || 麻宮雅典娜 || 稚拳崇 || 包 || [http://www.youtube.com/watch?v=HoTnDDk10ZY サイコソルジャー 〜Super Chinese Remix〜] 
+|-
+| 女性格鬥家隊 || King || 不知火舞 || 藤堂香澄 || [http://www.youtube.com/watch?v=KdvtIdlA_Ig Destiny] 
+|-
+| 美少女格鬥家隊 || May-lee || 四條雛子 || 李香緋 || [http://www.youtube.com/watch?v=GFdubJiz00A SHINING・BRAVE!] 
+|-
+| 金隊 || 金甲喚 || 張巨漢 || 崔稻妻 || [http://www.youtube.com/watch?v=PIdwZ-Bb1GI Soul Town〜Ver.Justice〜] 
+|-
+| 全隊 || 全勳 || 麟 || 矢吹真吾 || [http://www.youtube.com/watch?v=u-Xy-RTdYrs アジア三国同盟] 
+|-
+| 八神隊 || 八神庵 || Mature || Vice || [http://www.youtube.com/watch?v=9fzV7mCskJU Tranquilizer] 
+|-
+| '97特別隊 || 山崎龍二 || Blue Mary || Billy Kane || [http://www.youtube.com/watch?v=xVh3awZrFnE Masquerade] 
+|-
+| 大蛇隊 || 七枷社 || Shermie || Chris || [http://www.youtube.com/watch?v=2WnNopFQ3MA Re：Bloody] 
+|-
+| 特務隊 || Seth || Vanessa || Ramon || [http://www.youtube.com/watch?v=fBqv2liDglw Undercover] 
+|-
+| N.E.S.T.S.隊 || Kula Diamond || Foxy || Angel || Kula:[http://www.youtube.com/watch?v=UnxJtCq96dE Diamond Dust]／Foxy:[http://www.youtube.com/watch?v=Aq4eDIV9Rec Falling of the Nightingale]／Angel:[http://www.youtube.com/watch?v=mzDrp5d1UNo QT☆@NGEL] 
+|-
+| 複製人隊 || KUSANAGI || 草薙京-1 || 草薙京-2 || [http://www.youtube.com/watch?v=xJpzLiQYJWQ 二律背反〜Mutually Exclusive Dichotomy〜] 
+|-
+| 師父隊 || Heidern || 坂崎拓馬 || 鎮元齋 || [http://www.youtube.com/watch?v=bwB7K__AYAA IN SPITE OF ONE'S AGE～Ver.Immortal～] 
+|-
+| 隊伍編緝專用 || Nameless ||  ||  || [http://www.youtube.com/watch?v=QRtheIyKzSI Ж′] 
+|-
+| 裡角色(裡大蛇隊) || 乾枯大地的社 || 狂而粗暴的雷光的Shermie || 操控火炎的Chris || [http://www.youtube.com/watch?v=7ZJM6hAsLts Butterfly emerges from Chrysalis] 
+|-
+| 裡角色 || EX Robert Garcia || EX稚拳崇 || EX坂崎拓馬 ||  
+|-
+| 隱藏角色 || Goenitz || Geese Howard || Nightmare Geese(Geese裡角色) || Goenitz:[http://www.youtube.com/watch?v=IBQr2bye-a8 Trash Head～春一番～]／兩Geese:[http://www.youtube.com/watch?v=rNUYCl3XRZQ ギースにマスタード] 
+|-
+| rowspan = "2"  | Boss角色 || Krizalid || Clone Zero || Original Zero || Krizalid:[http://www.youtube.com/watch?v=pfrv4fVP28E Cutting Edge]／Clone Zero:[http://www.youtube.com/watch?v=UJKMX7676hA Dark Gravitation]／Original Zero:[http://www.youtube.com/watch?v=2dNW-6UDa_0 Testament of Nests] 
+|-
+| Igniz || Omega Rugal ||  || Igniz:[http://www.youtube.com/watch?v=GUuQUyrZdbA Save the Universe]／O.Rugal:[http://www.youtube.com/watch?v=5nBBBs3FyOM Unlimited R] 
+|}
+
+===其他相關作品 ===
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| '''名稱''' || '''備註''' 
+|-
+| Quiz King of Fighters || 餓狼傳說、龍虎之拳、侍魂的各兩名主角的快問快答遊戲，遊戲中有必殺技的大圖特寫，有三款遊戲內全角色的頭像，並預告了KOF94的上市 
+|-
+| 熱鬥King of Fighters 95 || Takara(現名Takara Tomy)以KOF95為藍本開發的Gameboy用遊戲。追加了KOF95沒有的Nakoruru。 
+|-
+| 熱鬥King of Fighters 96 || Takara以KOF96為藍本開發的Gameboy遊戲。追加暴走庵，覺醒Leona，裡千鶴和Mr. Karate(阪崎拓馬)，以及追加隱藏招式的無限超級必殺技模式&lt;ref&gt;無限超級必殺技模式中除了有追加招式外，原招式也有大量的性能都被變更，尤其是在氣條集滿後的MAX狀態下，例如泰瑞的バーンナックル變成會黏住對手的連續衝擊拳，以及原本的MAX超必殺技只有3擊的トリプルウルフ會變成16連擊&lt;/ref&gt;{{ref|此外八神庵的MAX八稚女若果在亂舞期間對手被闇払い擊中的話庵會突然頭冒問號然後作出高速連擊，連擊期間可以用必殺技或超必殺技取消}}。 
+|-
+| The King of Fighters R-1 || SNK開發並推出的Neo Geo Pocket用格鬥遊戲，以KOF97為藍本。 
+|-
+| The King of Fighters R-2 || SNK開發並推出的Neo Geo Pocket Color用格鬥遊戲，以KOF98為藍本。追加育成模式。 
+|-
+| The King of Fighters Battle de Paradise || SNK開發並推出的Neo Geo Pocket Color用桌上遊戲。部份遊戲中取得的角色可以透過連動，傳送至DC版的KOF99中成為Extra Striker。 
+|-
+| SNK VS. CAPCOM 激突カードファイターズ || 由SNK開發的卡片遊戲。共三集。 
+|-
+| 頂上最強Fighters: SNK vs Capcom || SNK製作的Neo Geo Pocket Color專用遊戲，以SNK格鬥遊戲角色和Capcom格鬥遊戲角色同台較量為賣點。還有小遊戲和提供隱藏超必殺技購買。 
+|-
+| SNK Gals' Fighters || SNK開發的Neo Geo Pocket Color專用，女性角色大集合格鬥遊戲。系統接近KOF，角色列中還包括小雪(草薙京的女朋友)。 
+|-
+| The King of Fighters EX: Neo Blood || 由Artoon開發的Gameboy Advance用遊戲，因流暢度不足及出現很多調整失誤而成為[[クソゲー]]。 
+|-
+| The King of Fighters EX2: Howling Blood || 改交給SUN電子開發的Gameboy Advance用遊戲，完成度高。 
+|-
+| [[Metal Slug]]系列 || 原本是一個和格鬥遊戲無關的動作射擊遊戲，但在第6集Ralf和Clark成為可選角色，及後在Metal Slug XX再追加Leona(下載角色)，當中的女角Fio也有在KOF系列登場。[[拳皇|KOF XV]]的沙漠場景似乎也是取自[[Metal Slug]]系列 。 
+|-
+| CAPCOM VS. SNK || 一般簡稱CVS，由Capcom開發，共兩集。 
+|-
+| SNK VS. CAPCOM Chaos || 一般簡稱SVC，由SNK開發。 
+|-
+| Neo Geo Battle Coliseum || SNK Playmore開發的自社名星大亂鬥格鬥遊戲。 
+|-
+| The King Of Fighters Another Day(動畫) || 為宣傳MI系列而推出的短篇動畫。 
+|-
+| Day of Memories系列 || 以SNK旗下人物為主的戀愛遊戲，不過各角色設定多是本作原創以配合日常生活的主題。原本是手機遊戲但之後也有移植到NDS。 
+|-
+| The King of Fighters(柏青哥) || 以大蛇篇人物為主的柏青哥遊戲，更出現了上記SNK vs CAPCOM Chaos中傑尼茲被某吸血鬼女體化後的造型。 
+|-
+| The King of Fighters 2 || 以N.E.S.T.S.篇人物為主的柏青哥遊戲。 
+|-
+| KOF Sky Stage || 以KOF中的登場人物為主的射擊遊戲。&lt;s&gt;大概是眼紅於東方系列&lt;/s&gt; 
+|-
+| Neo Geo Heroes ~Ultimate Shooting~ || PSP用遊戲。在上記的射擊遊戲再追加SNK Playmore其他作品的人物而成的射擊遊戲。 
+|-
+| The King of Fighters (電影) || 完全西洋化的電影&lt;s&gt;，劇情和角色造型完全偏離原作的黑歷史&lt;/s&gt;。 
+|-
+| &lt;s&gt;The King of Fighters World&lt;/s&gt; || 主打中國大陸市場的網絡遊戲。（已夭折） 
+|-
+| The King of Fighters-i || iPhone/iPod touch用的遊戲，以KOFXIII為藍本。&lt;s&gt;比利先行試玩祭&lt;/s&gt; 
+|-
+| The King of Fighters-DESTINY (動畫)|| 主打中國大陸市場的動畫。&lt;s&gt;故事設定很多變動&lt;/s&gt; 
+|-
+| SNKヒロインズ Tag Team Frenzy || &lt;s&gt;SNK Gals' Fighters的精神續篇&lt;/s&gt;，集合以KOF為主的SNK女角們的雙人隊制格鬥遊戲，系統極度簡化&lt;s&gt;，外加最終魔王Kukri形象大崩壞&lt;/s&gt;。
+|-
+| THE KING OF FIGHTERS '98ULTIMATE MATCH Online|| 手機遊戲，2016年7月29日推出，由中國廠商OURPALM開發營運，SNK授權。遊戲以RPG方式進行。雖有出日文版但本身是主打中國大陸市場。
+|-
+| THE KING OF FIGHTERS WORLD || 上面夭折的東西在手機上重新推出，2018年1月18日在中國、同年6月5日在港澳台推出，以&lt;s&gt;充滿免洗武俠遊戲風格的&lt;/s&gt;MMORPG方式進行。&lt;s&gt;人物模組走樣很厲害的東西&lt;/s&gt;
+|-
+| The KING OF FIGHTERS DESTINY || 上面同名動畫手機遊戲，2018年5月16日推出（不刪檔封測），騰訊遊戲開發營運，SNK授權。橫向卷軸動作遊戲。&lt;s&gt;樓下的劣化版&lt;/s&gt;
+|-
+| [[KOF ALL STAR|THE KING OF FIGHTERS ALLSTAR]] || 手機遊戲，2018年7月26日推出，由韓國廠商netmarble開發營運，SNK授權。遊戲以橫向卷軸動作遊戲方式進行。
+|-
+| THE KING OF FIGHTERS Chronicle || 手機遊戲，2019年10月17日推出，由SNK開發營運。塔防RPG遊戲。2020年7月13日宣布10月15日結束營運
+|-
+| [https://kofg.net/ THE KING OF FIGHTERS for GIRLS] || 手機遊戲，2019年11月8日推出，以拳皇男性角色為中心的[[乙女遊戲|乙女向]]作品，Day of Memories系列的精神續篇。&lt;s&gt;什麼時候也出個手機版的拳皇GAL GAME啊？（敲碗&lt;/s&gt;&lt;br&gt;已於2021年3月31日結束營運
+|-
+| SNK Allstar || 手機遊戲，2019年10月17日推出，由中國廠商北京龍拳風暴開發營運，SNK授權。由於泰利的個人廣告出現嚴重OOC的表現導致美日粉絲炎上&lt;s&gt;餓狼傳說變成色狼傳說了&lt;/s&gt; ，害得SNK總公司公開道歉。
+|}
+
+==登場人物 ==
+* 拳皇系列中的原創人物：[[拳皇系列原創人物列表-part 1]]/[[拳皇系列原創人物列表-part 2]]/[[拳皇系列原創人物列表-part 3]]
+* 其他格鬥遊戲[[亂入]]的人物：[[拳皇系列中從其他遊戲而來的人物列表]]
+==相關連結 ==
+* [https://www.snk-corp.co.jp/ SNK新官網]
+* [http://neogeo.freeplaytech.com/index_jp.html 由海外網友提供的SNK舊官網備份]
+* [https://snk.fandom.com/wiki/Main_Page SNK Wiki]
+
+==回應 ==
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+&lt;references/&gt;
+[[Category:遊戲]]
+[[Category:格鬥遊戲]]
+[[category:機台遊戲]]
+[[category:拳皇（格鬥天王）系列]]

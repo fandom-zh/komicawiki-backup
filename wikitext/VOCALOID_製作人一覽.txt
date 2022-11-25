@@ -1,0 +1,1341 @@
+{{h0|[[VOCALOID]]/[[UTAU]]製作人一覽}}
+{| class="wikitable" style="margin: 1.5em auto;text-align:center;" 
+|-
+| 本條目歡迎愛好者加以補完。 
+|-
+| 觀看動畫時緊記保持ニコニコ(微笑)，遇到過度狂熱的支持者或anti時請無視不要回應，愛用niconico的NG功能或乾脆關彈幕。 
+|}
+
+
+==解說 ==
+* 由於不少Vocaloid的P(製作群)不會只用一套V家軟體，因此特別將P群獨立出來說明。
+** 現今也有跨足UTAU或者是反過來的P，因此也一併放在本區介紹。
+* 以下製作人名單依據英文字母與日文讀音排序。
+* 部分製作人現也已跨足到動漫歌曲製作，新番中偶爾可以在OP或ED看到他們的影子。
+* 另外也有不少作家進入了輕小說制作，多由角川旗下PHP研究社出版。
+** &lt;s&gt;搞的現在好像只要隨便創作一首曲子，就會有出版社跑來要出版你的故事的樣子&lt;/s&gt;
+
+== 歌曲製作者群一覽（以數字&gt;英文&gt;日文五十音排列） ==
+
+=== 150P(ワンハーフ) ===
+* [http://www.nicovideo.jp/mylist/13610527 mylist]
+* 150唸法是One Half &lt;ref&gt;所以這裡P不是指一般的Producer，而是Percent，&lt;s&gt;1.5倍&lt;/s&gt;&lt;/ref&gt;
+* 主要使用鏡音、IA，也有GUMI、ミク、MAYU(還有跟別人借的KAITO)
+** 擅長調教鏡音
+* 寫曲實力不錯，初投稿作就成為週刊ED曲
+* 曾參與學校的管弦樂部，曲風揉合古典樂元素，例如部份歌曲中可以聽出嘗試模仿古典樂的旋律行進以營造氣氛，也會善用8-bit音效等電子音樂手法編曲
+* 終焉ノ栞プロジェクト系列&lt;ref&gt;150P作曲/主犯(無誤)、スズム作詞/小說作者/原作&lt;/ref&gt;的作者
+** 終焉ノ栞プロジェクト系列投稿和同人專輯中用IA(在来ヒーローズ除外)，商業專輯則是按曲子主角不同而使用代表角色的VOCALOID
+* 曲子裡的口白是150P本人親自上陣
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm19811204 在来ヒーローズ] || 初音ミク・GUMI・鏡音リン・MAYU || 終焉Project主題曲(?) 
+|-
+| [http://www.nicovideo.jp/watch/sm15271378 Lost Destination] || 鏡音レン || [http://www.nicovideo.jp/watch/sm17436670 加上KAITO的版本] 
+|}
+
+
+=== 164 / 203soundwork ===
+* 元老級的VOCAROCK作家，主要使用初音、GUMI和MAYU
+* 出道作shiningray(以2009當時來說)的調教力之高驚豔了V家眾
+* &lt;s&gt;本名是「浩」&lt;/s&gt;&lt;ref&gt;164 = ひろし(hiroshi) = 浩&lt;/ref&gt;(無誤)
+** 不過164應該讀成イチロクヨン(i.chi.ro.ku.yon)才對，不過本人曾說讀成Hiroshi也可以
+* 203soundwork的由來是 164 + 39(ミク) = 203
+** &lt;s&gt;不過現在只用GUMI和MAYU了&lt;/s&gt;
+* 正在學習中文，去大陸演出時順道開了微博帳號，甚至有當地鄉民特別開了帳號專教164中文
+** &lt;s&gt;微博鄉民︰日本語でおｋです&lt;/s&gt;
+** &lt;s&gt;老子的歌就是酷炫狂霸拽!&lt;/s&gt;&lt;ref&gt;學習中文的時候在Twitter上請人教他一句中文，就有人教他這句，之後向みきとP問才知道意思，被一致認定是天然呆w之後也真的酷炫狂霸拽地曬起吉他來了&lt;/ref&gt;
+** &lt;s&gt;我全裸待機浴&lt;/s&gt;&lt;ref&gt;不知為何164誤會全裸待機可以當成等候的意思，被糾正後已改成「我等著洗澡」&lt;/ref&gt;
+* (疑似)GUMI控，而且他調的GUMI總是很神 (其實MAYU也是)
+* 有不少良曲，但很多人也只知道天ノ弱...
+** 不過曲數量很多，實力也獲Nico眾肯定，連個人大碟也已出4張，在V家P來說是一個輝煌紀錄
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm14583646 天ノ弱] || rowspan = "2" | GUMI || &lt;s&gt;EXIT TUNE的搖錢樹&lt;/s&gt; 
+|-
+| [http://www.nicovideo.jp/watch/sm17512026 サイコロジック] ||  
+|-
+| [http://www.nicovideo.jp/watch/sm19473241 青] || MAYU || 164的MAYU初原創 
+|}
+
+=== 21世紀P ===
+* [http://www.nicovideo.jp/mylist/14699878 mylist]
+* 以初音為主的P，本尊為聲優伊東健人&lt;ref&gt;知名角色為偶像大師SideM的硲道夫&lt;/ref&gt;。
+** P名源自第一首歌投稿時自稱的「21世紀」。
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm7672642 ～20XX～] || 初音ミク || 初投稿 
+|}
+
+=== 40㍍P ===
+* [http://www.nicovideo.jp/mylist/7975931 mylist]
+* 以初音為主的P(現在亦有使用GUMI)，成名曲為〈巨大少女〉、〈トリノコシティ〉。
+* 過去網名是ピアニカ(Pianica)，現名是因為第二作〈Melody in the sky〉插圖中的初音像巨人，而被NICO眾取了這樣的稱呼。
+** ㍍是日文中米(單位)的符號，不過本身是特殊符號，不見得每種字型都有，因此像在Fairy Tail的OP7以及多數海外網站中都是標記為40mP
+* 已結婚，妻子是同為NICO使用者的シャノ，兩人婚後生活看來很甜蜜，甚至已經有兩個孩子，[http://www.nicovideo.jp/watch/sm15577428 放起閃光彈來當然更是閃死人不償命]&lt;s&gt;[[可魯]]！你在哪啊──！&lt;/s&gt;
+** [http://www.nicovideo.jp/watch/sm16719809 閃光彈第二彈]，這次是育兒曲......看來這對夫婦的閃光旅程看來還會持續很久(默)
+* Fairy Tail OP7「Evidence」的作詞與作曲者&lt;ref&gt;歌手DaisyXDaisy則是[[水樹奈奈]]的妹妹自己的一人團體&lt;/ref&gt;
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm7164046 巨大少女] || rowspan = "2" | 初音ミク || 成名單 
+|-
+| [http://www.nicovideo.jp/watch/sm11559163 トリノコシティ] || miku的初期名曲 
+|-
+| [http://www.nicovideo.jp/watch/sm15230821 シリョクケンサ] || GUMI || &lt;s&gt;放開那個女孩！&lt;/s&gt; 
+|}
+
+=== 8#Prince (八王子P) ===
+* [http://www.nicovideo.jp/mylist/16586786  mylist]
+* 在09年末出道的彗星般的新人，以初音、巡音和GUMI為主，但現在也有用鏡音和IA
+* 曲風帶有超重的電音感，歌曲內容多半和分手有關
+** 和kz合作之後歌聲的金屬感降低了 &lt;ref&gt;不過也有人說八王子P的風格減弱了，是好是壞就見人見智了&lt;/ref&gt;
+* 純正的DTM作家，因為一開始就是由DTM起步，所以樂理不算好，甚至看不懂五線譜
+* 在成為P前就以當DJ而有一定人氣
+* 例行公事(?)是「Electric ***」
+* 因為VDM節奏感強大，和梅とら的曲子常變成多人舞步素材
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm9097377 エレクトリック・ラブ] || rowspan = "2" | 初音ミク || &lt;s&gt;何等恐怖的&lt;/s&gt;處女作，何等萌的[http://www.nicovideo.jp/watch/sm12234304 MMD-PV] 
+|-
+| [http://www.nicovideo.jp/watch/sm9711503 Sweet Devil] || [http://www.nicovideo.jp/watch/sm16084673 MMD-PV] 
+|-
+| [http://www.nicovideo.jp/watch/sm14705584 KiLLER LADY] || GUMI ||  
+|-
+| [http://www.nicovideo.jp/watch/sm28974414 気まぐれメルシィ] || 初音ミク|| 八王子P的第一首千萬傳說曲
+|}
+
+=== anemomania/ほぼ日P ===
+* [http://www.nicovideo.jp/mylist/12059661 mylist]
+* 以初音為主的P。
+* 特色是產曲速度超快，且常常是配合時事作曲
+** &lt;s&gt;所以想要知道日本有發生什麼大事的話專門追他的歌就對了&lt;/s&gt;
+* &lt;s&gt;婊人不留情&lt;/s&gt;
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm11480547 家に帰ると妻が必ず死んだふりをしています。] || 初音ミク ||  
+|-
+| [http://www.nicovideo.jp/watch/sm8516531 彼氏の財布がマジックテープ式だった] || 初音ミク ||  
+|-
+| [http://www.nicovideo.jp/watch/sm20036897 ジオワタ＼(＾0＾)／] || 結月ゆかり || 婊人證據(無誤)&lt;s&gt;有人發現歌名是じ○和オ○タP的合體嗎？&lt;/s&gt; 
+|-
+| [http://www.nicovideo.jp/watch/sm20388234 インターネットカラオケマン] || 初音ミク || 婊NICO翻唱歌手用歌曲&lt;s&gt;，毫不意外的沒一個有名翻唱歌手敢唱&lt;/s&gt;{{censored|不過當然有例外，比如[http://www.nicovideo.jp/watch/sm20390258 {{censored|ほぼ日P自己}}]跟[http://www.nicovideo.jp/watch/sm20402554 {{censored|鋼兵}}]}} 
+|}
+
+=== AVTechNO! ===
+[http://www.nicovideo.jp/user/9979822/video MyList]
+* 以初音、鏡音、巡音為主的P
+* 寫作AVTechNO!，讀作Advance_tech_no
+* 超重電音曲風，甚至有重低音部份，多數也建議戴耳機聽
+* 部分曲的歌詞採用架空（虛構）語言或是意味不明的語言編寫 。     &lt;s&gt;有把歌詞加密的嫌疑（無誤）&lt;/s&gt;
+* 由於長時間的情緒不穩而在2010年12月初刪除了所有作品，卻意外引爆KAT-TUN新曲的抄襲事件。
+** KAT-TUN的新作〈NEVER OVER〉被網民發現前奏與副歌的段落與〈DYE〉的節奏旋律等有將近九成以上的相同度，因而引爆話題，甚至引發一場罵戰。
+*** 當然也有人認為AVTechNO!的DYE本身就是抄襲1999年ICEMAN推出的〈GATE I〉，但兩首歌之間其實只有副歌節奏有點接近，因此該人被NICO網民一致評為耳朵有問題。
+*** 2011年1月19日AVTechNO!在自己的網誌上提起自己已經跟傑尼斯事務所達成和解，傑尼斯事務所也承認「〈NEVER OVER〉確實&lt;s&gt;是抄〈DYE〉的&lt;/s&gt;有受到〈DYE〉的影響」，事件就此告一段落。
+* 亦在Youtube上傳歌曲，實際上大部分被刪除的歌都在YouTube找的到
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [https://youtu.be/2LF0oNQ9j2U DYE] || 巡音ルカ || 英文歌，另有[http://www.nicovideo.jp/watch/sm11767540 Re:flation Remix] 
+|-
+| [http://www.nicovideo.jp/watch/nm15446015 LUST DOLL] || 鏡音リン || 
+|-
+| [https://www.youtube.com/watch?v=SaPA5by9HyU boku-boku] ||初音ミク ||右方鏈結為3分鐘版本&lt;br/&gt;語速超過300bpm（注意，是語速！語速！語速！）&lt;s&gt;根本不是給人唱的&lt;/s&gt;
+|-
+|[http://www.nicovideo.jp/watch/sm9256924 創造]||初音ミク・鏡音レン || 創（想）造（像）
+|}
+
+===[http://buzzg.net Buzz G] ===
+* [http://www.nicovideo.jp/mylist/13954828 MyList]
+* VOCAROCK的作家，愛用初音和GUMI
+* 每年感謝祭也會上台演奏Bass
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm9485673 アルビノ] || 初音ミク ||  
+|-
+| [http://www.nicovideo.jp/watch/sm13208536 星の唄] || GUMI ||  
+|}
+
+=== Ciel(神無月P) ===
+[http://www.nicovideo.jp/mylist/4223651 MyList]
+* 以初音和GUMI為主要創作方式的P，幾乎沒做過原創曲，大多作品都以翻唱為主。
+* P名應該是源自於第一作‧《神無月的巫女》的OP〈Re-sublimity〉翻唱(使用初音未來，原唱是KOTOKO)。
+* 有著驚人的調教力，調出來的歌聲都非常接近人聲，甚至調出英文神調教
+* &lt;s&gt;Ciel似乎是很多人都很愛用的網名，難怪大家都比較喜歡叫他神無月P，因為NICO還有另外一位P叫CielP&lt;/s&gt;
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm8568000 星間飛行] || rowspan = "2" | GUMI || 成名曲，GUMI的課題曲 
+|-
+| [http://www.nicovideo.jp/watch/sm8899411 君の知らない物語] ||  
+|-
+| [http://www.nicovideo.jp/watch/sm18753628 Dead END] || Lily V3 || 英文?! 
+|}
+
+=== cillia ===
+* 來自加拿大的16歲(2013時點)調教師，名字的讀音是シリア(也就是說c的讀音和s相同，不是k)
+* 以翻唱為主，但現在也開始幫他人的原創曲擔任調聲工作。
+* &lt;s&gt;難以想像她只有高中生年紀的&lt;/s&gt;超強大調教功力，只要一出手幾乎就是和真人接近的結果
+** &lt;s&gt;特別是重音與波音這兩個完成度很高的UTAU可謂神調教連發&lt;/s&gt;
+* 2019年11月上傳自己的第一首原創曲之後，開始了他的原創曲之路。
+* 順帶一提，她是UTAU「佐村トミ」的中の人
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! VOCALOID/UTAU !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm17969073 -ERROR] || rowspan = "2" | 波音リツ || 神調教 
+|-
+| [http://www.nicovideo.jp/watch/sm18076901 ジッタドール] ||  
+|-
+| [http://www.nicovideo.jp/watch/sm18327784 こちら、幸福安心委員會です。] || 健音テイ．鏡音レン ||  
+|-
+| [https://www.nicovideo.jp/watch/sm35934228 Scattered Glass] || 鳴花ミコト || 
+|-
+| [https://www.nicovideo.jp/watch/sm37318847 恋する☆ビーム] || 鏡音リン || 
+|}
+
+=== CleanTears ===
+* [https://www.nicovideo.jp/mylist/8157026 V家mylist]
+* [http://scx-ct.net/ 個人網站]
+* Trance為主的DJ。別名義「'''勝史'''」。
+* 歌曲產量非常多，縱橫於商業、同人、以至於這裡（V家）。
+
+=== cosMo(暴走P) / 黒猫アンティーク === 
+* [http://www.nicovideo.jp/mylist/3335347 暴走P mylist]
+* [http://www.nicovideo.jp/mylist/37662493 黒猫アンティーク Mylist]
+* 繪師+DTM作家&lt;s&gt;+[http://www.nicovideo.jp/watch/sm12478174 魔法少女（♂)]&lt;/s&gt;
+* 07年底活躍到現在的古參P，P名由來是他的第一首有名的歌"[http://www.nicovideo.jp/watch/sm1342044 初音ミクの暴走]"
+* 作曲故事作詞調教PV描圖也能一手包辦的有名P&lt;ref&gt;現在畫的圖個人風格很重，主要是厚塗上色&lt;/ref&gt;
+* 擅長快速曲和人類無法唱出的轉音與高音，也擅長創作組曲
+** 曲風多變，雖然旋律間中會一樣，但其實幾乎每首歌的伴奏曲風也不同。有傳說風、搖滾、電波系等。
+* 擁有4個系列曲&lt;ref&gt;「ボーカロイドにオリジナル曲を喋ってもらった (即消失系列) 」、「空想庭園シリーズ」、「星ノ少女ト幻奏楽土」和「ディストピア」&lt;/ref&gt;
+* 在星ノ少女ト幻奏楽土系列完結後以「黒猫アンティーク」重新出發。&lt;ref&gt;起碼nico帳戶的名稱也由cosmo@暴走P刪去暴走P改成こすも，&lt;s&gt;所以浅紫色のエンドロール某程度上的確是引退曲&lt;/s&gt;&lt;/ref&gt;
+** 現在會同時使用2個名義作曲
+* Project Diva中的BOSS役(無誤)
+* 題外話，經常合作的GAiA是有血緣的弟弟，最近還和專用繪師syuri22結婚了
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm2937784 初音ミクの消失] || rowspan = "2" | 初音ミク || 消失系列代表作，diva BOSS 
+|-
+| [http://www.nicovideo.jp/watch/sm5156246 少女の空想庭園] || 空想庭園系列 
+|-
+| [http://www.nicovideo.jp/watch/sm13587322 家出少年と迷子少女] || GUMI || 星ノ少女ト幻奏楽土代表作，初PV 
+|-
+| [http://www.nicovideo.jp/watch/sm15603633 ディストピア・ジパング] || GUMI || ディストピア系列 
+|}
+
+=== DECO*27 ===
+* [http://www.nicovideo.jp/mylist/9850666 mylist]
+* 從08年一直活躍到現在，人氣不減的有名P
+* 讀音為「デコニーナ&lt;ref&gt;ニーナ為27的讀法。其製作的〈二息步行〉中寫的「パパ、ママ、ニーナ」這段歌詞中的「ニーナ」就是指DECO*27自己&lt;/ref&gt;」。
+* 使用初音未來和GUMI的作曲者，曲子多半是黑暗題材的情歌，很多都是MMD課題曲。
+* 據說是甜食控&lt;s&gt;，用甜食就可以釣到&lt;/s&gt;。
+* 在11年與柴咲コウ、TeddyLoid組成新電音樂團「galaxias!」，也與 Mai、HIRO、Alex、Eddy（後來加入）四人結成樂團「LOVE LASTS FOREVER」。
+* 目前為[[LoveLive!虹咲學園學園偶像同好會]]的作曲擔當，另外有主辦多媒體計畫「MILGRAM」。
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm7696158 愛言葉] || rowspan = "6" | 初音ミク ||  全三首的系列曲
+|-
+| [http://www.nicovideo.jp/watch/sm8061508 二息歩行] ||  
+|-
+| [http://www.nicovideo.jp/watch/sm27965309 ゴーストルール] || 為「2016年ボカロ四天王」之一 
+|-
+| [http://www.nicovideo.jp/watch/sm31685272 ヒバナ] ||  已確定會在MEGA 39s收錄
+|-
+| [http://www.nicovideo.jp/watch/sm30067009 妄想感傷代償連盟] ||  英文歌名為DSCF
+|-
+| [http://www.nicovideo.jp/watch/sm28929186 ライアーダンス] || 英文歌名為Liar Dance 
+|-
+| [http://www.nicovideo.jp/watch/sm11398357 モザイクロール] || GUMI || 中文譯作「馬賽克卷」&lt;br&gt;GUMI第1首百萬名曲 
+|}
+
+=== Dios/シグナルP ===
+* [http://www.nicovideo.jp/mylist/4370404 mylist]
+* P名由來是他第一首作品リンリンシグナル
+* 職業作曲家出身。
+* 鏡音的樂曲和調教定評(特別是リン)。
+* リン廢。
+* 被ゆのみP事件影響導致[http://www.toranoana.jp/mailorder/article/04/0010/20/17/040010201749.html Prism feat.鏡音リン]停止發售，不過歌曲サンドリヨン仍正常公開動畫。
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm1971028 リンリンシグナル] || 鏡音リン・レン || 
+|-
+| [http://www.nicovideo.jp/watch/sm4410647 サンドリヨン（Cendrillon）] || 初音ミク、KAITO || 
+|-
+| [http://www.nicovideo.jp/watch/sm11713594 会いたい] || GUMI ||  
+|}
+
+=== doriko/きりたんP ===
+* [http://www.nicovideo.jp/mylist/4586898 mylist]
+* 擅長敘事曲系
+* P名由來是『みっくりすます』中的歌詞「き～り～た～ん～ぽ～」
+* 殿堂率100%的強者, 最近視排行如浮雲, 不再自己投稿了。
+* 與OSTER project和19's Sound Factory結成樂隊"ちーむMOER"
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm2085047 歌に形はないけれど] || rowspan = "5" | 初音ミク ||少數有官方中文版的曲目  
+|-
+| [http://www.nicovideo.jp/watch/sm2736134 夕日坂] ||  
+|-
+| [http://www.nicovideo.jp/watch/sm6666016 ロミオとシンデレラ] ||  羅密歐與仙杜瑞拉，多年後有續曲&lt;br&gt;被某些人認為是[[猥歌]] 
+|-
+| [http://www.nicovideo.jp/watch/sm12774972 キャットフード] ||  
+|-
+| [https://www.nicovideo.jp/watch/sm3771514 letter song] ||  副標題「給十年後的自己」，後來當然也有續作
+|}
+
+=== EZFG ===
+* [http://www.nicovideo.jp/mylist/18564543 mylist]
+* 11年出道，人氣不錯的P，擁有VY1/2，巡音，KAITO，Mew和IA
+* 看P名識真名系列
+* 曲中毒性高，就算是慢歌也很易中毒
+* 風格明確。
+** 以重金屬電子系音樂為主
+** PV一定是以「拿文字來玩」的模式來做
+* &lt;s&gt;以[http://http://www.nicovideo.jp/watch/1365748915 スレッドネイション]參加了V家P是誰的活動，結果大家一看PV和聽到前奏就猜到了&lt;/s&gt;
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm15440067 サイバーサンダーサイダー] || VY1 || o+&lt;[http://www.nicovideo.jp/watch/sm15924909 V3版]，[http://www.nicovideo.jp/watch/sm16714993 GA合唱版] 
+|-
+| [http://www.nicovideo.jp/watch/sm16658127 とても痛い痛がりたい] || VY2 || 口內炎之歌(無誤)，[http://www.nicovideo.jp/watch/sm19037197 V3版] 
+|-
+| [http://www.nicovideo.jp/watch/sm17849759 Magician's Operation] || 巡音ルカ ||  
+|}
+
+=== GYARI ===
+* [http://www.nicovideo.jp/mylist/6704802 mylist]
+* 又稱ココアシガレットP，活動上不只是作曲，同時也是畫師。
+* 除了少數歌曲比正常外，其代表作大多為容易讓人中毒電波歌曲。
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [https://www.nicovideo.jp/watch/sm32492001 何でも言うことを聞いてくれるアカネチャン] || 琴葉茜、結月ゆかり || 又稱「Seyana.」&lt;br&gt;MV在2018開始成為迷因
+|-
+| [https://www.nicovideo.jp/watch/sm33897535 アカリがやってきたぞっ] || 紲星あかり ||
+|}
+
+=== halyosy ===
+
+* [https://www.nicovideo.jp/user/1101042/mylist/5224392 mylist]、[https://halyosy.com 個人網站]
+* 本名森晴義，高中中輟後周遊亞洲，創作風格深受民族音樂影響。
+* 曾經是樂團absorb的成員，但現在該樂團已解散，成員各自單飛。
+* 現為職業作曲人，業界代表作為[[動物朋友]]的片頭歌&lt;s&gt;園歌&lt;/s&gt;「ようこそジャパリパークへ」
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| {{sm|4153727|Fire◎Flower}} || 鏡音レン || 在維基百科上有獨立專條
+|-
+| {{sm|2406770|桜ノ雨}} || 初音ミク || VOCALOID畢業歌代表，有改編成小說
+|-
+| {{sm|23304692|Blessings}} || 六人合唱 || 特別推薦包含本人獻聲的{{sm|23328696|合唱版}}
+|}
+
+=== HoneyWorks ===
+* [http://www.nicovideo.jp/mylist/20486867 mylist]
+* 由ゴム、使徒和ヤマコ組成的團體。
+** ┗|∵|┓ &lt;ref&gt;Honeyworks發音和植輪相似&lt;/ref&gt;
+** ゴム（Gom）：負責樂曲，為2007年開始nico活動的翻唱歌手。以[[思い出は億千万|おっくせんまん！]]為有名歌曲。結成最初以フェルナンドP名義活動。
+** 使徒（shito）：負責樂曲，為2007年開始nico活動的貝斯手。結成最初以チョリスP名義活動。
+** ヤマコ：負責動畫、插圖，為2009年開始nico活動的繪師兼動畫師。
+* 告白実行委員会～恋愛シリーズ為其有名系列作。
+* 曾為火影忍者疾風傳作過[[日向雛田]]個人曲「暁月夜-アカツキヅクヨ-」以及ED「言葉のいらない約束」
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm19218102 告白予行練習] || GUMI || rowspan = "2" | 閃光彈，&lt;s&gt;[[可魯]]！你在哪啊──！&lt;/s&gt; 
+|-
+| [http://www.nicovideo.jp/watch/sm19372291 告白予行練習-another story-] || 鏡音レン 
+|-
+| [http://www.nicovideo.jp/watch/sm21051219 ラズベリー＊モンスター] || 初音ミク ||  
+|}
+
+=== ika ===
+* [http://www.nicovideo.jp/mylist/1450136 mylist]
+* 初期的初音名調教者，無人不知無人不曉的樂曲〈[http://www.nicovideo.jp/watch/sm1097445 みくみくにしてあげる♪]〉就是由他製作的
+* 不過正因為發生了みくみく事件，後來在NICO消失了好幾年，直到12年10月才以〈[http://www.nicovideo.jp/watch/sm19069321 みんなみくみくにしてあげる♪]〉重新回到NICO，但人氣已經下降了不少。
+* 現已「鶴田加茂」的名義為MOSAIC.WAV製作樂曲活動中。
+* &lt;s&gt;不是烏賊。&lt;/s&gt;
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm1097445 みくみくにしてあげる♪] || rowspan = "2" | 初音ミク || 把你MIKUMIKU掉&lt;br&gt;VOCALOID全系列歌曲最高再生數 
+|-
+| [http://www.nicovideo.jp/watch/sm19069321 みんなみくみくにしてあげる♪] ||  
+|}
+
+=== junky ===
+* [http://www.nicovideo.jp/mylist/13804993 mylist]
+* 以鏡音リン的歌曲為主，リン廃&lt;s&gt;但是沒樓下某位嚴重&lt;/s&gt;
+* 擅長電音系歌曲
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm10444862 メランコリック] || 鏡音リン ||  
+|-
+| [http://www.nicovideo.jp/watch/sm12549171 For My Soul] || GUMI ||  
+|-
+| [http://www.nicovideo.jp/watch/sm20216505 ハッピートラップ] || CUL ||  
+|}
+
+=== kemu ===
+* [http://www.nicovideo.jp/mylist/28584850 mylist]
+* プロの犯行
+** 另一筆名是塚本けむ，作曲家，曾為星空へ架かる橋AA寫過ED。
+** 最近以本名創作的有名歌曲是驚爆遊戲的OP-No pain, No game(歌手是NICO有名的ナノ)
+* 最近崛起的V家製作人，每一首都有著極高的中毒性，週刊記錄保持者
+** 其調教相當了得。
+* 作曲效率約1~2個月一首
+* 2013年2月28日，第六首也是最近的投稿曲進入傳說，成為VOCALOID史上第一位全部投稿曲都進入傳說的製作人
+** 現今仍然保持全曲百萬的記錄。
+* 2013年5月的投稿曲最後幾秒留下了&lt;s&gt;不妙的&lt;/s&gt;信息"Thank you. We'll meet again, someday."
+** 意味不明，但未明言引退
+** 在スズム引退事件中被推測出眾多黑幕：
+*** kemu不僅使用塚本けむ的筆名，其真身疑似是過去曾與漫畫家矢吹健太朗的前妻柏木志保發生不倫戀引起軒然大波的NICO音樂人中村イネ
+*** {{censored|KEMU VOXX這個團體疑似在發展之後成果被スズム整碗捧去，kemu因此脫團，因此才會在敗北少年投稿後結束活動。}}
+*** {{censored|更惡劣的是スズム之後還疑似作出刻意暗示他就是kemu的舉動，有人更因此懷疑スズム必定是抓著kemu的把柄要求kemu為他寫歌，然後用自己的名義發行}}
+*** {{censored|不管怎麼說如果這些推測是真的，'''kemu至少在這件事上肯定是受害者'''}}
+*** 但{{censored|1=在2017年9月6日公開的[https://www.animatetimes.com/news/details.php?id=1504604234 訪談]中，kemu稱スズム為kemu voxx重要的成員，近年亦有跟ANCHOR（＝鈴木大記＝スズム）的合作，二人關係說不定其實不如外界猜測般惡劣。}}
+* 2015年11月7日在官方網站上公布[https://www.youtube.com/watch?v=mpf6h9-Swko 〈敗北的少年 -Piano Arrange-〉]，並在最後留下"Thank you for waking me up"的訊息，似乎是暗示自己即將復出的意思。
+** {{censored|看來上面關於スズム的揣測至少有幾成是真的。}}
+** {{censored|所屬樂團PENGUIN RESEARCH於2016年3月30日發售的CD《WILL》中收錄了〈敗北的少年〉重新編曲的翻唱版本，為日後公開身份一事埋下了伏筆。}}
+* 歌曲已陸續改篇成小說，每卷分別由不同小說作家執筆
+** &lt;s&gt;但是歌曲看來壯大的世界觀實際寫出來卻是囧到不行的小……&lt;/s&gt;
+* 2017年05月31日投稿{{sm|31314079|〈拝啓ドッペルゲンガー〉}}，短短幾小時內便突破十萬再生數，距上次投稿睽違四年後強勢回歸。功力仍然健在
+** 而且當天在Twitter宣佈本人正是堀江晶太（中村イネ）並作為貝斯手兼作曲活躍於樂團PENGUIN RESEARCH
+** 除此之外目前主要以製作動畫與遊戲相關的歌曲為主，像是[[アイドルマスター ミリオンライブ!|偶像大師Million Live]]等作品經常可以看到他的名字，可能也是因為工作繁忙，在〈拝啓ドッペルゲンガー〉之後暫時沒再以kemu名義投稿作品。
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! VOCALOID !! 備註 
+|-
+| {{sm|16110005|人生リセットボタン}} || GUMI ||  
+|-
+| {{sm|17520775|六兆年と一夜物語}} || IA ||  
+|-
+| {{sm|20423253|リンカーネイション}} || GUMI、鏡音リン ||
+|-
+| {{sm|31314079|拝啓ドッペルゲンガー}} || GUMI  || 
+|}
+
+===kz(livetune) ===
+* [http://www.nicovideo.jp/mylist/3091300 mylist]
+* 元老級的初音製作人。
+** 亦有P名為ダイソンP&lt;ref&gt;源自〈Light Song〉中對於「Light Song」的空耳。請注意，這個P名實際上kz有說他不喜歡被這樣叫，所以不要隨便亂用。ダイソン則是指吸塵器。&lt;/ref&gt;
+** 最初投稿Packaged的時候並沒有使用kz的名字，[http://natalie.mu/music/pp/projectdiva 在訪談中他表明當初投稿後發現太多人留言後覺得原本的名字「很危險」，所以改成現在使用的kz]。
+* 主作品: 「Packaged」、「Last  Night, Good Night」
+* 主要都是使用AutoTune的電音系歌曲。
+* 曾經是跟ryo並列的有名P，但退出NICO後人氣大減，現在是以專業音樂創作者活動。
+** 離開NICO後主要提供《[[我的妹妹哪有那麼可愛！]]》以及《[[デジモンクロスウォーズ]]第二部》的OP歌曲(詞曲仍是一手包辦，但歌手不是V家成員)
+** 不過即使如此還是被吐槽「kz你還是找初音未來唱這些歌吧」就是了......&lt;s&gt;主因其實是kz自己的電子曲風和同樣電子音濃的初音同步率比較高，換成真人來唱反而會有些不自然&lt;/s&gt;
+* 2012年初幫GOOGLE CHROME JAPAN的廣告時使用初音製作一首[http://www.youtube.com/watch?v=PqJNc9KVIZE Tell Your World]而重新被NICO網民們注意
+** 許多翻唱曲再生數也很高，代表kz還是有著極大的影響力。
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm1136355 Packaged] || rowspan = "8" | 初音ミク ||  
+|-
+| [http://www.nicovideo.jp/watch/sm3055567 Light Song] || &lt;s&gt;ダイソン♪&lt;/s&gt; 
+|-
+| [http://www.nicovideo.jp/watch/sm4141643 Last Night, Good Night] || 
+|-
+| [https://www.youtube.com/watch?v=PqJNc9KVIZE Tell Your World] || &lt;s&gt;難得的&lt;/s&gt;世界知名的V家曲[http://www.nicovideo.jp/watch/sm17164038 重音翻唱]、[http://www.nicovideo.jp/watch/sm17293900 巡音翻唱] 
+|-
+| [http://www.nicovideo.jp/watch/sm31985113 never ender] || 睽違9年再度於NICO投稿的新曲
+|-
+| [https://www.nicovideo.jp/watch/1278053029 Yellow] || &lt;s&gt;不是Coldplay那首&lt;/s&gt;&lt;br&gt;Project DIVA 2nd發表
+|-
+| [https://www.nicovideo.jp/watch/sm26654381 Hand In Hand] || 2015魔法未來主題歌
+|-
+| [https://www.nicovideo.jp/watch/so35597753 Catch The Wave] || MEGA39s主題歌
+|}
+
+===Last Note. ===
+* [http://www.nicovideo.jp/mylist/22274906 mylist]
+* 是兩個人的團體 分成 Last Note．（ラスノ）→作詞・作曲 和 Last Note．T（Tさん）→作曲・編曲
+* &lt;s&gt;名字那一點是必須的&lt;/s&gt;
+* &lt;s&gt;除了因為EXIT TUNE之外&lt;/s&gt;作品大多使用GUMI，而且是Power
+** 而且調教總是很神
+* 名曲有セツナトリップ、恋愛勇者等
+* 開了名為「ミカグラ学園組曲」的系列曲 &lt;s&gt;超級大坑，畢竟他產曲速度不快&lt;/s&gt;
+** 很特別的是ミカグラ学園組曲系列的歌出在EXIT TUNE的CD中的話Artist名不會如平常的「Last Note. feat. XXX」，而只顯示[Last Note.]
+** 2013年5月宣佈決定小說化、漫畫化
+** 2014年12月宣佈動畫化並於2015年4月開播
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm16742993 恋愛勇者] || rowspan = "3" | GUMI ||  
+|-
+| [http://www.nicovideo.jp/watch/sm17720979 セツナトリップ] ||  
+|-
+| [http://www.nicovideo.jp/watch/sm19480453 放課後ストライド] || &lt;s&gt;注意這不是某某Gal Game的片頭&lt;/s&gt;
+|-
+| [http://www.nicovideo.jp/watch/sm17064620 アカツキアライヴァル] ||初音ミク、巡音ルカ ||  
+|}
+
+=== M.Iz(成り行きの人、脫字P) ===
+* [http://www.nicovideo.jp/mylist/28507941 mylist(vocaloid曲)]
+* 原先主要以組曲系列為主，後亦轉入V家界發展。
+** 不過原創曲的人氣不高
+* 「成り行きの人」稱呼來自其製作的第一首組曲「成り行きで作ったニコニコメドレー」，「脫字P」則是因為其組曲的標記文字總是會有嚴重的錯漏字現象發生，因而有此稱呼。
+** &lt;s&gt;最近似乎是學乖了都交給朋友處理標記文字，錯漏字情況下降許多，但還是會不定時復發&lt;/s&gt;
+** &lt;s&gt;常常在不該錯漏字的地方出槌才是讓他的錯漏字那麼讓人印象深刻的原因&lt;/s&gt;
+* 在推出組曲「[http://www.nicovideo.jp/watch/sm20084682 駆け抜けるアニソンメドレーⅢ]」後，宣布自己有要事在身，無限期活動休止，但隨後在2013年年底復出。
+** 之後變成三人組合繼續製作組曲，直到2017年6月底，因成員間的合作關係結束而跟著宣布結束活動。
+** 隨後在2017年9月底，再次宣布會以單人的身分展開新的活動。
+
+=== MARETU(極悪P) ===
+* [http://www.nicovideo.jp/mylist/17912525 mylist]&lt;ref&gt;並不完全，[http://www.nicovideo.jp/user/15918028 所有投稿動畫見此]&lt;/ref&gt;
+* 最初以彈奏吉他在網上活動，之後於11年開始VOCALOID活動，也是造成[http://dic.nicovideo.jp/a/%E7%AC%AC%E4%B8%80%E6%AC%A1p%E5%90%8D%E5%91%BC%E3%81%B0%E3%82%8C%E3%81%9F%E3%81%8B%E6%88%A6%E4%BA%89 第一次P名呼ばれたか戦争（第一次P名被叫到戰爭）]的元凶(?)
+** 極惡P的外號也是由此而來。
+* 主要使用初音ミク。
+* 現今以金屬系中(狂)毒(氣)曲為主。
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm14100039 P　名　言　っ　て　み　ろ　！　【550人】] || rowspan = "4" | 初音ミク || &lt;s&gt;來考考你對V家P名了解多少吧！(11年以前的)&lt;/s&gt;
+|-
+| [http://www.nicovideo.jp/watch/sm19980280 コインロッカーベイビー] ||
+|-
+| [http://www.nicovideo.jp/watch/sm21870906 脳内革命ガール] || 少女系列之一
+|-
+| [http://www.nicovideo.jp/watch/sm30301328 ドクハク] ||
+|}
+
+===Mitchie M ===
+* [http://www.nicovideo.jp/mylist/26375614 MyList]
+* 名稱全寫是「Mitchie Mitchell a.k.a. Tucada」
+* &lt;s&gt;プロの犯行&lt;/s&gt;
+** 本業是以Tucada作名義的音樂職人，主要為太鼓達人提供歌曲
+** 目前似乎轉往VRChat還有中國發展，甚至有配布自己製作的初音VRChat模型
+* 以初音為主，但其實各個vocaloid也能神調，不過只用C社的
+* 主要是電子曲風配上讓人懷疑是真人唱的神調教
+** 由唱歌、說話、Rap、英文等全都控制自如
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm15172108 FREELY TOMMOROW] || 初音ミク ||  
+|-
+| [http://tn-skr3.smilevideo.jp/smile?i=18047788 愛Dee] || 初音ミク‧巡音ルカ || 傳說中的ルカRap 
+|-
+| [http://www.nicovideo.jp/watch/sm18396337 Birthday Song for ミク] || C社全員(除ミク) ||  
+|}
+
+===minato(流星P、湊貴太) ===
+* [http://www.nicovideo.jp/mylist/4348647 mylist]
+* P名由來是他第一首作品"[http://www.nicovideo.jp/watch/sm2019245 流星]"
+** 現今的名義則是網名「湊(minato)」加上自己的本名貴太。
+* 原本只是VOCALOID有力的中堅製作人, 以良好的調教見稱。
+* 後來自爆自己是人氣NICO歌手トゥライ時人氣倍增。&lt;ref&gt;http://tolie618.blog63.fc2.com/blog-date-20090101.html&lt;/ref&gt;
+* 傳說的[[巡音ルカ]]製作人之一
+* 據說和唱片公司簽了合約，所以無法再上傳影片，但更有可能的原因是湯吞P事件......
+* 但最後終於在闊別多年後於2018年1月5日再度投稿新曲「アンビバレンツ」，同時在2010事件後關閉多年的magnet也在同時重新公開。
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm2700265 Soar] || 初音ミク || 幾乎是VOCALION系作品必提的歌曲，亦曾有人做過[http://www.nicovideo.jp/watch/sm9073890 以本曲為BGM的VOCALION片頭動畫]
+|-
+| [http://www.nicovideo.jp/watch/sm2528674 SPICE!] || 鏡音レン ||  
+|-
+| [http://www.nicovideo.jp/watch/sm5992615 RIP=RELEASE] || 巡音ルカ ||  
+|-
+| [http://www.nicovideo.jp/watch/sm32422800 アンビバレンツ] || 初音ミク || 闊別V家圈8年後的新曲
+|}
+
+===mothy(悪ノP) ===
+* [http://www.nicovideo.jp/mylist/5298418 mylist]
+* 寫作[[七つの大罪シリーズ|悪ノ系列]]有名。
+* 以同人故事曲為主。
+* 最好連悪ノ娘小說也一起看會比較好&lt;s&gt;，不然可能會看不懂歌曲內容&lt;/s&gt;
+** &lt;s&gt;雖然也有人看完小說後認為「惡之P你還是找個人幫你代筆算了」&lt;/s&gt;
+* 歌曲世界觀以[[七宗罪|七原罪]]為基礎而更加延伸
+* &lt;s&gt;許多人還在關注最後一個以GUMI演唱的七大罪(憤怒)何時會出來&lt;/s&gt;
+** 最終在2014年夏季出了
+* 最近&lt;s&gt;棄坑&lt;/s&gt;開新坑，和電擊文庫合作推出《拷問塔は眠らない》Project
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm2916956 悪ノ娘] || 鏡音リン || [http://www.nicovideo.jp/watch/sm4104743 修正版]、[http://www.nicovideo.jp/watch/sm9212780 velvet remix] 
+|-
+| [http://www.nicovideo.jp/watch/sm3133304 悪ノ召使] || 鏡音レン || [http://www.nicovideo.jp/watch/sm4119128 再修正版]、[http://www.nicovideo.jp/watch/sm9212993 velvet remix] 
+|-
+| [http://www.nicovideo.jp/watch/sm21442720 拷問塔は眠らない] || VY1 ||  
+|}
+
+===Neru &lt;s&gt;/ 押入れP &lt;/s&gt;===
+* [http://www.nicovideo.jp/mylist/15619229 mylist]
+* 作曲使用鏡音リン．レン為主
+** 也使用過2次IA &lt;s&gt;結果IA在主要專輯中被抽掉了&lt;/s&gt;
+* 原本P名 押入れP(衣櫃P) 是因為個站中的發言「在家裡的衣櫃中有睡著了的鏡音リン．レン」
+* 無可救藥的正太/少年控，曾說過如果沒有レン這樣的正太，自己就不會用vocaloid
+* 用的編曲軟件是Cubase
+* 樂曲PV使用原創人物，歌詞反映學生對社會的不滿心聲
+** &lt;s&gt;某程度可說是中二，&lt;/s&gt;但基本上觀點也獲nico眾認同
+** &lt;s&gt;甚至有人要寄neru的曲去教育部、或請neru去做教育部長ww&lt;/s&gt;
+* 歌曲中毒性奇高
+** 2016/6/19投稿的〈脱法ロック〉不只中毒性高，&lt;s&gt;更是讓人真的有嗑了藥的感覺&lt;/s&gt;
+** &lt;s&gt;不管你嗑了什麼，都給我來一點&lt;/s&gt;
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm15308214 東京テディベア] || rowspan = "2" | 鏡音リン ||  
+|-
+| [http://www.nicovideo.jp/watch/sm20244918 ロストワンの号哭] || 目前投稿中再生數最高 
+|-
+| [http://www.nicovideo.jp/watch/sm29081909 脱法ロック] || 鏡音レン || 為「2016年ボカロ四天王」之一&lt;s&gt;謎之NHK感&lt;/s&gt; 
+|}
+
+===niki ===
+* [http://www.nicovideo.jp/mylist/22057852 mylist]
+* VOCALOID方面只使用lily&lt;ref&gt;但也有使用UTAU【雪歌ユフ】和曾幫秋赤音作曲&lt;/ref&gt;
+* 以搖滾系曲風著名&lt;s&gt;，最近電波魂覺醒&lt;/s&gt;
+* 唯一一位擁有lily複數殿堂原創曲的P
+** 現在已經被sele打破(3首)，但完全追不上niki的15首殿堂
+* 擅長用lily的高音，而且在混音上也十分出色。
+* 最近常常跟cillia一起合作。
+* 殿堂作品：+REVERSE、-ERROR、WAVE、ジッタードール、リミッター、Prototype、FACE、GLIDE、HYBRID、ユラギ、BC、パラノイド、ELECT、Close to you、FLARE、FIRST
+
+===nakano4(ナカノは4番) ===
+* [http://www.nicovideo.jp/mylist/17916883 mylist]
+* UTAU的名製作人，目前使用重音テト、唄音ウタ、桃音モモ、雪歌ユフ。
+* 每首歌都有著驚人的高音和洗腦的旋律。
+* 部分歌曲的PV非常絢麗。
+* 嗜好應該是攝影。&lt;ref&gt;大部分的PV都含有，但不排除是做PV的時候才拍的&lt;/ref&gt;
+* 個人清單永遠只有四首歌，但是他人翻唱自己歌曲的清單歌曲數卻有3頁。
+* 持有三首UTAU殿堂曲，hp是目前唯一的雪歌ユフ殿堂曲。
+
+=== Omoi===
+* [https://www.nicovideo.jp/user/33110496/mylist/37582888 mylist]
+* 新生代的P主代表，特長是VDM。
+* 代表作品：テオ、グリーンライツ・セレナーデ（2018魔法未來主題曲）
+
+===[http://oneroom206.seesaa.net/ OneRoom(ジミーサムP)] ===
+* [http://www.nicovideo.jp/mylist/8538985 mylist]
+* P名來自「有夠沒品味的螢幕截圖&lt;ref&gt;地味+サムネ，地味=沒品味，讀音與ジミ相近，螢幕截圖(Thumbnail)一般簡稱為サムネ&lt;/ref&gt;」，中文圈俗稱「吉米P」。
+** 主要原因是他傳上來的音樂基本上不會附PV也不會附上華麗的插畫，只有簡單的一個圖加上曲名的標題而已。
+*** 〈Beat!〉這首更絕，只有白底上一個用普通字體寫著「Beat!」的圖片，但其他的也好不到哪去。
+*** 縱使如此，他選的裝飾用小圖基本上和歌曲內容關係很高，不過他從來沒有用過初音未來和巡音流歌的圖就是了。
+*** 因為歌曲是這個樣子，所以其他創作者們創作出的PV多樣性也很多。
+*** 重返V家圈後開始和PV製作者合作，部分主打歌也會加上PV，不過也還是會有一如往常的簡單插圖+曲名的形式。
+* 偏好使用初音未來和巡音流歌的P，創作題材中則有一些宇宙天文相關的樂曲，頗受天文迷喜好。
+* 專用殿堂TAG為「the X00000(數字)th&lt;ref&gt;源自於第九個作品「the 9th」，因為the 9th描寫對象是冥王星的關係所以還有另一個專用殿堂TAG是「the 134340th」(源自於冥王星現在的小行星編號134340)，用在the 9th和PV上&lt;/ref&gt;
+* 有些時候會以「寒音ジミ」的身分加入樂曲中擔任合音。
+** 但是寒音ジミ到底是像ヒャダイン那樣直接把自己的聲音調整，還是吉米P自製的UTAU目前不明
+** 寒音ジミ讀音按照本人在NICO百科上的說法是Samune Zimi。
+* 歌詞的意思只要ジミーサム本人了解就好。
+* 由於2011/11/06上傳的新曲〈Live in Dead〉被懷疑抄襲ART-SCHOOL的歌曲，因而決定自肅一年不做曲也不在NICO活動
+** 對此有承認'''因為有在聽那團體的歌所以確實有受到影響'''。其實若認真聽的話會發覺兩首歌單純是伴奏和弦用的音差不多而已&lt;s&gt;所以抄襲某程度上根本是ANTI營造出的假象，至於平常作風低調的吉米P為何發生了還是被ANTI群起圍攻……你知道的。&lt;/s&gt;
+** 後於2012/12/13上傳新曲Reboot，重回V家界。
+
+===Orangestar（蜜柑星P）===
+* [http://www.nicovideo.jp/mylist/37081160 mylist]
+* 2013出道，以IA和初音ミク為主
+* 未 完 成 &lt;ref&gt;日語同音，[http://www.nicovideo.jp/watch/sm22792311 有一首曲子特別強調這一點]&lt;/ref&gt;
+* 沈寂一段時間後在2019年底復出，轉戰個人歌手
+** 2020年12月宣布與合作夥伴夏背結婚
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm24024502 イヤホンと蝉時雨] || rowspan = "3" | IA ||  
+|-
+| {{sm|24276234|アスノヨゾラ哨戒班}} || 次年有使用真實樂器作為背景的重製版「{{sm|26969103|キミノヨゾラ哨戒班}}」&lt;br&gt;[[バンドリ!|Afterglow]]有翻唱此曲，&lt;s&gt;犧牲[[佐倉綾音]]的聲帶&lt;/s&gt;得到了相當高的評價
+|-
+| {{sm|30156654|DAYBREAK FRONTLINE}} || 
+|}
+
+===OSTER project ===
+* [http://www.nicovideo.jp/mylist/2578149 mylist]
+* 元老級的初音製作人,，從初音出道直到現在還在活躍VOCALOID界。
+* 主作品:恋スルVOC@LOID、ミラクルペイント
+* 少有的女性製作人。
+* 當初曾借初音之口說不想公布性別，但在NHK的初音特輯專訪單元破功了(XX染色體)。
+* 以可愛的曲風和調教、鋼琴演奏有名。
+* 目前擁有最多殿堂曲(10萬再生曲)的製作人。(共25首)&lt;ref&gt;http://www.geocities.jp/vocaran_link/real/hof.htm&lt;/ref&gt;
+* &lt;s&gt;藍藍路教主信徒&lt;/s&gt;
+* 每次初音(東京)演唱會也會上台演出(鍵盤手)
+
+===otetsu ===
+* [http://www.nicovideo.jp/mylist/6985466 mylist]
+* 以VOCAROCK系為主。
+* 曾在巡音發售當天6小時內連投2首巡音原創曲一舉成名。
+* 主作品: 星屑ユートピア
+* 新人教育定評的製作人。&lt;ref&gt;Gakupo之後的VOCALOID發售當天都會投稿新人的作品, 而且調教不錯。&lt;/ref&gt;
+* 目前最多巡音殿堂曲的製作人, 傳說的[[巡音ルカ]]製作人之一。
+* VOCAROCK系為主，擅長有歌曲中作出強烈的變調
+
+===Re:NG ===
+* [http://www.nicovideo.jp/mylist/3328613 mylist]
+* 本身亦為翻唱歌手，創作的〈WAY〉為機動歌姬Vocalion的創始者。
+* 曾經和同為翻唱歌手的Re:A結為團體，因為網名很像所以常被開玩笑是夫妻，當Re:NG和其他歌手合作的時候甚至會被消遣是「浮氣&lt;ref&gt;意思就是劈腿，不過兩人從來沒有說彼此是男女朋友，所以別太認真，這個真的只是NICO眾開玩笑而已&lt;/ref&gt;」
+** 兩人現已結束合作關係，Re:A也以「理亞」之名重新出發了。
+* 喜歡使用的是初音，以及冰山老師&lt;s&gt;很少見的一個會愛用冰山老師的P呢&lt;/s&gt;
+
+===RINGO(赤い林檎、極甘P) ===
+* [http://www.nicovideo.jp/mylist/55070803 mylist]
+* 15年開始VOCALOID活動的P主，初投稿曲是使用只用過一次的重音テト。
+* 主要使用初音ミク、GUMI和音街鰻。
+* 是MARETU的粉絲，曲風和PV風格也和MARETU有幾分相似，但仍然有著強烈的自我風格。
+** 在「再演」一曲的說明文中表明自己是因為憧憬MARETU才開始作曲的。
+* cover過MARETU的「ダーリン」，而MARETU後來也cover了她的「再演」。&lt;s&gt;互相cover以示友好&lt;/s&gt;
+* 「極甘P」的外號來自於她的原創曲「甘蕉」&lt;s&gt;同時似乎也是為了與極惡P配套&lt;/s&gt;
+* 18年底毫無預警的突然刪除了自己的推特和幾乎所有的曲子後消失，唯獨算是有完整留下的曲只有「再演」。
+** &lt;s&gt;當時一度引起RINGO粉絲們慌亂&lt;/s&gt;
+** 後來換了個馬甲復出了，但變得很低調。
+* 20年1月23號開始突然在[https://www.youtube.com/channel/UCiU5_4nY36rIxkfqQNhLEZQ/videos 原本的YT帳號]上傳多首過去的舊曲，部分曲目標題與原本的有差異
+** 疑似因為生活問題打算出專，作為前置準備而重新以RINGO的身分回歸
+** 真的再演了
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [https://www.nicovideo.jp/watch/sm32209048 再演] || 音街鰻・GUMI || RINGO目前在NICO上留下的唯一一首完好的曲
+|}
+
+===Samfree ===
+* [http://www.nicovideo.jp/mylist/3765386 mylist]
+* 本名佐野貴幸，P名源自自己經營的網站「SAM FREE MUSIC」(該網站已於2010年10月29日閉站)。
+* [[比利海靈頓|森之妖精]]愛好者。
+* 有名歌曲系列為Eurobeat型曲子例行公事「[http://www.nicovideo.jp/tag/SAM%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA SAM NIGHT系列]」：
+** 新的V家開始販售→SAM立即推出使用新V家的Eurobeat歌曲→歌手實谷奈奈&amp;amp;鋼兵翻唱
+** 不過隨著V家成員越來越多，甚至發生常常有好幾個V家角色同步上市的狀況後，這樣的例行公事就不再有了。&lt;s&gt;畢竟Samfree不像ごぼうP以Talkloid作品為主&lt;/s&gt;
+** 最近的[http://www.nicovideo.jp/watch/sm21274199 ゾラミク★エキセント リックフューチャーナイト]不但由兩套不同資料庫(ZOLA PROJECT和初音ミク)合唱，更&lt;s&gt;一反常態&lt;/s&gt;不再使用靜止畫，而是請來三重の人做了極精美的MV
+* 雖然是V家元老級人物，但忽然在2015年9月24日過世，得年31歲。
+** 死訊在一周後的10/1由家屬在個人推特上公布，死因則僅簡單寫了「內因性急死」。
+** 因為不過一兩個月前ぽわぽわP才剛離世，samfree忽然的離世又再度震撼V家界。
+*** &lt;s&gt;上帝你還想帶走多少藝術家……&lt;/s&gt;
+
+===Sasakure.UK(ささくれP) ===
+* [http://www.nicovideo.jp/mylist/6280579 mylist]
+* 在進入Vocaloid領域之前為BMS作家
+* 擅長使用Chiptune(FC音源)作為編曲特色，亦有不少FC風格的PV作品
+* 終末系列四曲有三曲進入或者即將進入百萬再生殿堂。
+* 代表作：*ハロー、プラネット。
+
+===seikoP===
+*[https://www.nicovideo.jp/mylist/11281901 V家mylist] 
+*會畫會唱的女性P。別名義「'''ムツキセイ'''」
+*Vocaloid主要用巡音ルカ，另有VY1、GUMI等。
+*主攻療癒幻想系。
+**作風容易聯想到日系RPG，特別是充滿童心，很溫馨的那種。
+**尤其經常與[[聖劍傳說系列]]比較，seikoP亦在開始P後不久[http://sei-peri.seesaa.net/article/182743388.html 公開了一些二次創作作品]。
+**本人的歌聲也是像稚童般，與曲風和插畫親合。
+*2014年從P的身分引退，開設個人網站[https://peritune.com/ peritune]。
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [https://www.nicovideo.jp/watch/nm8848650 Queen Nereid] || 巡音ルカ || 中段的厚重卷舌音是最大亮點。
+|-
+| [https://www.nicovideo.jp/watch/nm9749170 Dryas (Part 1)] || seikoP &amp; 巡音ルカ || 有本人chorus+唱。
+|-
+| [https://www.nicovideo.jp/watch/nm12123552 月翅] || VY1 || 偏Techno Pop，相比其他作品節奏都快
+|}
+
+===[http://xenonp.dou-jin.com/ SHO(キセノンP)] ===
+* [http://www.nicovideo.jp/mylist/18521594 mylist]/[http://www.youtube.com/user/XENONPofficial youtube channel]
+* P名來自最有名的作品[[隼鳥號]]中，眾人對歌曲發出的「目からキセノン&lt;ref&gt;「眼睛噴出氙氣了」，主要原因是[[隼鳥號]]使用的離子推進器使用的是氙氣燃料。&lt;/ref&gt;」的評論。
+* 創作題材偏向現實系和重金屬系，同時亦有推出以在日本上頗有盛名的機械為主題的「重金屬英雄系列」。
+* 於2013年初宣布退出NICO，往後作品將發表於Youtube上。
+** &lt;s&gt;不過後來又食言了&lt;/s&gt;
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm10187442 隼鳥號] || rowspan = "4" | 初音ミク || 描寫小行星探測器[[隼鳥號]]的歌曲，重金屬英雄系列第一彈。&lt;br/&gt;因為推出時還隸屬於同人創作團體Ash Blind，因此是以該同人團體的公用帳號上傳的。 
+|-
+| [http://www.nicovideo.jp/watch/sm13776627 向日葵號] || 描寫氣象衛星向日葵5號的歌曲，重金屬英雄系列第二彈。 
+|-
+| [http://www.nicovideo.jp/watch/sm25044396 隼鳥2號] || 描寫小行星探測器[[隼鳥號|隼鳥2號]]從誕生至發射為止的經過。 
+|-
+| [http://www.nicovideo.jp/watch/sm12658454 まるくなる] ||  
+|}
+
+===[http://www.supercell.jp/index.html supercell(ryo)] ===
+* [http://www.nicovideo.jp/mylist/3291521 mylist]
+* &lt;s&gt;原本只是一個無名的sony售貨員&lt;/s&gt;
+** &lt;s&gt;為sony大法而生的男人(無誤)&lt;/s&gt;
+* 主要是搖滾曲風配上讓人懷疑是真人唱的神調教 
+* 曾經是VOCALOID最紅的製作人，現SonyMusic所屬，最近忙於從事音樂事業而暫停所有同人音樂活動。
+** 而相隔7年半再次以本人名義在NICO上傳新曲{{sm|29021785|罪の名前}}。
+* 主作品: 「メルト」、 「ワールドイズマイン」、「ブラック★ロックシューター」、「君の知らない物語」
+* 除了第一首原創曲外，其餘原創曲都是百萬再生以上。
+* 第24回日本ゴールドディスク大賞獲得 最佳前5新人, 成為少數獲得日本音樂界認同的製作人。&lt;ref&gt;http://www.barks.jp/news/?id=1000058681&lt;/ref&gt;
+* 擔任動畫[[化物語]]ED的作詞和作曲。
+* 擔任Project Diva系列的OP製作人(由PjD 2nd/Extend到f已連續三作了)
+* 主條目：[[supercell]]
+
+===wowaka(現実逃避P) ===
+* [http://www.nicovideo.jp/mylist/12484677 mylist]
+* V家人氣製作人。
+* 都是早口中毒系曲, 封面圖都是灰白的簡單的構圖，充滿節奏感的快歌多半有著抑鬱的歌詞意境。
+* 主作品: 裏表ラバーズ、ローリンガール、ワールズエンド・ダンスホール
+** 非V家的代表作品是「[[魔法少女まどか☆マギカ|魔法少女小圓]]」第九話的片尾曲"and I'm home"。
+* 目前擁有四首百萬名曲（アンハッピーリフレイン），其中ワールズエンド・ダンスホール{{censored|於辭世後}}突破千萬大關。
+** {{censored|其作品ワールズエンド・ダンスホール曾被質疑抄襲，造成本人有多年沒有再製作V家歌曲並專心樂團ヒトリエ的事業。}}
+*在2017年8月22日，久違的上傳一首新曲【アンノウン・マザーグース】{{censored|也是遺作}}
+* 於2019年4月5日因急性心臟衰竭離世，得年31歲。
+** 死訊在4月8日於所屬樂隊「ヒトリエ」官網中公佈。
+
+===日向電工 ===
+* [http://www.nicovideo.jp/mylist/32760080 mylist]
+* 現在仍在某大學就讀的V家製作人
+* 使用VOCALOID為初音MIKU。
+* 以PV風格的黑白剪貼圖以及曲名的接龍風格為特徵。
+** 歌曲重度WOWAKA風。
+** 連封面圖都黑白構圖一張&lt;s&gt;妳根本是wowaka的妹妹對吧&lt;/s&gt;
+* 地底人（誤）
+* 多重宗教信仰（誤）
+* 小號狂魔（電工小姐﹕沒有我的日子裡只能靠小號們（電工廚）了）
+** 在2016還有2017斷續投了幾首曲子又神隱了
+
+===yuukiss ===
+* [http://www.nicovideo.jp/mylist/2532792 mylist]
+* VOCANAIDESU技術創造者，有名曲為MEIKO的Nostalgia以及KAITO的FLOWER TAIL
+* &lt;s&gt;不要每個都只調一半啦！&lt;/s&gt;
+* &lt;s&gt;似乎是[http://www.nicovideo.jp/watch/sm15743076 巨乳控]&lt;/s&gt;
+
+===うたたP ===
+* [http://www.nicovideo.jp/mylist/3321393 mylist]
+* プロの犯行
+* &lt;s&gt;業界毒瘤&lt;/s&gt;
+* 事實上是專攻電音曲的職人，在〈こちら、幸福安心委員会です。〉之前便以〈ストラトスフィア〉和〈project diva desu.〉得到不少人氣
+* &lt;s&gt;最近他的曲也會崩壞，而且不打算回去的樣子&lt;/s&gt;
+** 想要腹黑怪調曲可找他。
+** &lt;s&gt;專輯中居然有一首正常的&lt;/s&gt;
+* 作品：ストラトスフィア、[project diva desu.]、[一途な片思い、実らせたい小さな幸せ。]、[永遠に幸せになる方法、見つけました。]、[キミのことが好きでゴメンナサイ]、[こちら、幸福安心委員会です。]
+** &lt;s&gt;曲名有標點好麻煩&lt;/s&gt;
+** 另見主條目︰[[這裡是幸福安心委員會]]
+
+=== 梅とら ===
+* [http://www.nicovideo.jp/mylist/28524172 mylist]
+* 男性作曲家，在中國有梅紳士的外號。
+** 過去以umedy的名義投稿，作曲風格多樣有Rock、Pop和舞曲等等。
+* 以四字熟語系列最為知名，曲目多半是五人合唱的VDM舞曲。
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| {{sm|22110492|虎視眈々}} || rowspan="3"|巡音ルカ、初音ミク、GUMI、IA、鏡音リン || 
+|-
+| {{sm|19233263|威風堂々}}  || 知名的[[猥歌]]，開頭就是明顯的性暗示。
+|-
+| {{sm|25086693|一騎当千}}  ||	
+|}
+
+=== オワタP ===
+* [http://www.nicovideo.jp/mylist/3236873 mylist]
+* 作曲名為ガルナ&lt;s&gt;（[http://www.nicovideo.jp/watch/sm12478174 科学少女（♂)]）&lt;/s&gt;。
+* 名字來源於 トルコ行進曲 - オワタ＼(^o^)／ 。
+* Vocaloid敍述定評人。本人也經常製作包含了Vocaloid旁白的曲目。與畫師做過短片動畫。
+* 是比リン廢四天王&lt;ref&gt;__(アンダーバー)、ジギル、タイ焼き屋、recog&lt;/ref&gt;還要更高一層，與ライブP、sezu並列的リン廢神。
+* 每週五23:00有網路電臺節目。
+* 僅用苯就可以作曲&lt;ref&gt;ベンゼン，アンチクロロベンゼン，パラジクロロベンゼン，ニトロベンゼン，トルエン&lt;/ref&gt;，某种意義上說跟藤堂愛麗絲一樣厲害。
+* 跟cosMo關係良好，不只會互相翻唱對方的曲子，也常常一起&lt;s&gt;邊喝酒邊&lt;/s&gt;實況遊戲。
+
+=== 乙P === 
+* [http://www.nicovideo.jp/mylist/5091172 mylist]
+* 以Trance系為主，愛用IA和初音
+* 初音有名&lt;s&gt;猥褻&lt;/s&gt;除外曲オマーン湖跟IA有名系列《天墜》的作者
+* 名曲：天墜-序章-和-第一章-、chord liner
+* 2013年7月9日因車禍而離世，終年25歲。
+
+===かいりきベア ===
+* [http://www.nicovideo.jp/mylist/25602141 mylist]
+* 名字是「怪力熊」的意思
+* 曲風和kemu有點相似，以音壓很高的搖滾為主
+* [[蘿莉|蘿莉控]]
+* ヘイセイプロジェクト全曲mix和mastering擔當
+
+=== きくお ===
+* [http://www.nicovideo.jp/mylist/19082290 mylist]
+* 使用初音ミク作曲，可說是把ミク的聲線發揮的淋漓盡致
+* 曲風通常以搭配上高中毒性曲風的黑暗或獵奇為主題，因此被稱為獵奇界鬼才
+** &lt;s&gt;但也讓聽眾產生了關懷他的念頭&lt;/s&gt;
+* 製作的歌曲大致上可分為兩種：純粹黑暗和&lt;s&gt;乍聽之下輕快但實則獵奇&lt;/s&gt;
+** 不過還是有做過令人淚腺崩壞的曲子的
+* 歌詞也分為兩種：直接了當和隱喻&lt;s&gt;其實就是藍色窗簾&lt;/s&gt;
+* &lt;s&gt;在2012年的Vo​ca Nico Night中被奉為教祖&lt;/s&gt;
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm13664704 僕をそんな目で見ないで] || rowspan = "5" | 初音ミク || 再生數九十萬的名曲，隱喻墮胎 
+|-
+| [http://www.nicovideo.jp/watch/sm20410104 君はできない子] || 少數幾首令人淚腺崩壞的曲子之一 
+|-
+| [http://www.nicovideo.jp/watch/sm16015251 ごめんね ごめんね] || 歌詞簡單粗暴並直白黑暗，&lt;s&gt;關懷P的說法由此而來&lt;/s&gt; 
+|-
+| [http://www.nicovideo.jp/watch/sm14993928 天国へ行こう] || 曲調輕快活潑，但歌詞的涵義不明，&lt;s&gt;藍色窗簾曲之一&lt;/s&gt; 
+|-
+| [http://www.nicovideo.jp/watch/sm18184783 そして君は月になった] || 隱喻殉情，雖然帶有少數獵奇感但曲風仍令人淚腺崩壞 
+|}
+
+===クエン酸P ===
+* [http://www.nicovideo.jp/mylist/11270648 mylist]
+* 出身台灣的P，P名源自於第一作由[http://www.nicovideo.jp/watch/sm5386734 鏡音雙子翻唱的蒼穹之戰神片頭曲「Shangri-La」]裡面的[[空耳]]「ココア☆ソーダ☆クエン酸(可可☆蘇打☆檸檬酸)」&lt;ref&gt;原文是「ここはそう楽園さ(這裡是所謂的樂園)」，因為angela的主唱atsuko特有的腔調而被空耳成這一句&lt;/ref&gt;。
+
+=== 黒うさP ===
+* [http://www.nicovideo.jp/mylist/4943376 mylist]
+* 超DTM作家，曾經有在一個月內連續投稿6首VOCALOID曲的超紀錄
+* 在第三首[http://www.nicovideo.jp/watch/sm2316254 白雪～sirayuki～]以及第四首[http://www.nicovideo.jp/watch/sm2393562 カンタレラ]的高評價使他一躍成為有名P之一
+* 投稿[http://www.nicovideo.jp/watch/sm2573003 ずっと、ずっと・・・]時造就了奇蹟的393939時間&lt;ref&gt;2008年3月9日3時9分39秒，強大的自我制約&lt;/ref&gt;
+* 似乎偏愛冰蔥配
+* 主作品：紅一葉、千本桜、ACUTE、カンタレラ
+** 其中以千本桜最著名，派生動畫多到與マトリョシカ有得比。
+
+=== 産総研P ===
+* [http://www.nicovideo.jp/mylist/7012071 mylist]
+* 産総研是「独立行政法人産業技術総合研究所」這個日本政府單位的簡稱
+* VocaListener的生父，他們測試的成果經常會用公認帳號上傳到NICO上公開，因此被NICO眾取了這個P名。
+** &lt;s&gt;所以毫無疑問他們的歌曲全部都是神調教而且只做翻唱&lt;/s&gt;
+* 可能是研究人員的喜好，翻唱的歌以演歌系為多。
+
+=== 仕事してP ===
+* [http://www.nicovideo.jp/mylist/7284081 mylist]
+* 擅長使用KAITO和MEIKO，被稱之為「傳說的年長組調教者」的P
+* 當初只有使用KAITO，在[http://www.nicovideo.jp/watch/sm4684724 廃墟に紡ぐ詩]時購入MEIKO
+** 亦有使用鏡音，巡音，猫村以及蒼姬
+* 曲常常都是MyList數大於評論數
+* 本身畫工也很強，歌曲的插圖常常也是由他自己畫的。
+
+=== 新城P ===
+* [http://www.nicovideo.jp/mylist/4839086 mylist]
+* 從以前到現在基本都只使用KAITO作曲(不過在專輯「神威夢奏」內亦有使用GACKPOID)
+* 因Pane dhiria一曲而成名
+* 調教有著特殊的風格，&lt;s&gt;使大哥的聲音聽來一點變態感都沒有&lt;/s&gt;
+** 現除了Pane dhiria以及少數曲外其餘動畫全為非公開，疑似引退
+** 不過18年3月底出了新曲[http://www.nicovideo.jp/watch/sm32936839 Rail world]，還是跟UTAU的合唱
+* 歌曲的插圖為自行繪製，且曲末附上Q版插圖
+
+=== スズム ===
+* [http://www.nicovideo.jp/mylist/20737161 mylist]
+* 暫時原創曲並不多，但之前長時間為不少ニコ歌手及VOCALOID製作人擔任各種幕後工作，從arrange到音源後製等各種領域都有涉獵
+** 在kemu的社團KEMU VOXX負責SMC(engineering)
+** 與150P合作的終焉ノ栞プロジェクト中負責填詞及原作，也為まふまふ提供過歌詞
+* 直到2013年1月23及24日連續兩天投稿原創曲&lt;ref&gt;其中過食性:アイドル症候群的MAYU單人版本在比較早的時間已收錄在隨MAYU聲庫一同發售的CD中&lt;/ref&gt;，正式成為VOCALOID製作人
+* 為「ダンガンロンパ 希望の学園と絶望の高校生 The Animation」提供ED曲「絶望性：ヒーロー治療薬」，順帶一提，VOCAL是nico歌手そらる
+* &lt;s&gt;歌名喜歡用「XX性︰XXXXX(4片假名+3漢字)」的格式&lt;/s&gt;
+* 2015年10月10日在部落格上發聲明表示終止一切活動
+** 理由是「一些作品的作詞、作曲、編曲、演奏這些行為裡面並沒有自己所為，卻對外宣傳是自己的作品，然後以此牟取利益。」、「在許多地方宣傳對當事人不利的非事實說法，並以此自豪。」、「對金錢誘惑的抵抗力不足」
+*** &lt;s&gt;簡單說大概又是幹了什麼[[原創風行]]的行為，現在是他自己爆出來，萬一是被他人爆出來，大概會死得更慘&lt;/s&gt;
+*** 數天後鋼兵開始在[http://www.nicovideo.jp/watch/sm27344847 生][http://justpaste.it/oadd 放送]與[http://ch.nicovideo.jp/vocal-kouhey/blomaga/ar892186 自己的][http://justpaste.it/oc52 部落格]連續砲轟
+*** 隨後[https://twitter.com/XenonP_XM/status/653797990239330304 キセノンP也跟著跳出來補刀]
+*** 再來是[https://twitter.com/Tsurishi_Tairyo/status/652711684193153024 三重之人也來跟著開槍]
+*** 還有Neru於9月底推出的專輯中有一首歌被認為疑似就是諷刺這件事，不過相關的推文Neru已刪
+*** {{censored|根據不少證言推測，他甚至可能是ジエンド事件的元兇}}
+*** &lt;s&gt;於是スズム形象整個炸掉了&lt;/s&gt;
+** &lt;s&gt;一年還沒過完已經折損了三個創作人，2015年的V家圈實在是多災多難&lt;/s&gt;
+* {{censored|目前以ANCHOR身份進行活動}}
+
+=== [http://death-manbo.com/ タカハシ ヨウ] ===
+* [http://www.nicovideo.jp/mylist/13745664 mylist]
+* 原本P名是「家の裏でマンボウが死んでるP」(我家後院死了一隻翻車魚P)
+** 現在「家の裏でマンボウが死んでるP」是他和姊姊「竜宮ツカサ」的組合用名
+** 組合結成後的投稿PV固定有&lt;s&gt;萬能&lt;/s&gt;河童、翻車魚、イケメン滅火器等亂入
+* 自帶天然黑屬性。 &lt;ref&gt;曾借歌曲(GUMI之口)對撞壞他單車的犯人下48個詛咒，第48個是咒你家後院死了一隻翻車魚&lt;/ref&gt;
+** 在雜誌訪談中被要求用一句概括自己的性格，回答是簡潔的「腹黑」
+*** 順帶一提，喜歡的屬性是「[[ツンデレ]]」
+* 主要使用VY2和GUMI，也使用VY1和初音。歌曲多數也是超展開模式，但最後又會意外地出現感人的場面。
+* 另外歌名大部分也超長也超不調和
+* &lt;s&gt;把GUMI和VY2的形象玩壞的主犯&lt;/s&gt; &lt;ref&gt;例如把GUMI當成河童&lt;/ref&gt;
+* 主作品：My Colorful Confuse、神様はエレキ守銭奴、クワガタにチョップしたらタイムスリップした、&lt;星のとなりの空け者&gt;系列等
+** &lt;s&gt;ほぼ日P的歌「家に帰ると妻が必ず死んだふりをしています」被部份人(甚至包括企業)當成是タカハシ ヨウ寫的，所以隔一段時間會在twitter上糾正&lt;/s&gt;
+* 有在主持名為「在家裡活著的廣播」的電台節目，本業是&lt;s&gt;twitter職人、&lt;/s&gt;電台節目主持、小說家及漫畫原著、最後(?)是音樂製作
+* 喜歡相撲&lt;ref&gt;喜歡到在自家官網放了日本相撲協會的官網連結，附提另一個謎連結是翻車魚的日文維基百科頁&lt;/ref&gt;和井口裕香，&lt;s&gt;井口裕香に溶けたい&lt;/s&gt;
+
+===ナユタン星人 ===
+* [http://www.nicovideo.jp/mylist/50857506 mylist]
+* 2015年崛起的P，使用初音ミク作曲
+* 其名稱「ナユタン」出自「那由他」(約10&lt;sup&gt;60&lt;/sup&gt;)這個詞，也意味著ナユタン星在設定上是一顆距離地球10&lt;sup&gt;60&lt;/sup&gt;光年的星球。
+* 以高中毒性的電波系曲風聞名
+* 每首歌曲的PV基本不是淺紅色背景就是青色背景&lt;s&gt;背景節省&lt;/s&gt;，PV主角也幾乎全部都是自己創造的一位外星人少女
+** 結果〈エイリアンエイリアン〉上傳後不但再生數最高，還成為了「2016年ボカロ四天王」之一
+** &lt;s&gt;讓人不禁懷疑他是不是早就預知這首曲子會不簡單所以PV顏色才不同以往，不過之後紅色背景變多了所以大概只是想試試換個顏色&lt;/s&gt;
+* 後來還有幫其他歌手製作PV以及編曲，代表作是電波名作「ダダダダ天使」。
+* 外星人(&lt;s&gt;不知道該說誤還是無誤&lt;/s&gt;)
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm26610255 アンドロメダアンドロメダ] || rowspan = "2" | 初音ミク || 初投稿就大受好評 
+|-
+| [http://www.nicovideo.jp/watch/sm28576299 エイリアンエイリアン] || 為「2016年ボカロ四天王」之一 
+|}
+
+===ハチ ===
+* [http://www.nicovideo.jp/mylist/12682175 mylist]
+* 歌詞多為特殊的世界觀，稍微帶點黑化的氣息，不過也有像〈ワンダーランドと羊の歌〉這樣比較輕快感覺的歌。
+* 主作品: 結ンデ開イテ羅刹ト骸、Mrs.Pumpkinの滑稽な夢、リンネ、マトリョシカ、パンダヒーロー等
+** 本人名義發表的代表作：Lemon、Peace Sign、砂之惑星
+* 首位有6首百萬再生曲的P，&lt;s&gt;ryo淚目&lt;/s&gt;
+* 2012年以本名「米津玄師」發行第一張個人專輯《diorama》，作詞、作曲、編曲、演唱、演奏、混音到宣傳動畫和專輯設計皆由自己一手包辦，獲得ORICON唱片週間排行榜第六名、入選第五回CD店大獎。
+* 2017發布「砂之惑星」，這是他以ハチ名義發表的最後一首新曲，至此他已經完全轉換跑道了...
+** 曲中有大量VOCALOID名曲的歌詞梗，而MV意境被認為是暗指ニコニコ以及VOCALOID的衰落
+** 這首歌在「Bootleg」專輯中有收錄本人演唱的版本
+
+=== 鼻そうめんP ===
+* [http://www.nicovideo.jp/mylist/9594806 mylist]
+* P名來自作者在投稿曲「インカーネイション」的留言「哇阿阿才注意到綜合(排名)第4名，，非常感謝。不知不覺素麵要從鼻孔跑出來了。」（うわああ気がついたら総合4位、、ありがとうございます。思わず'''鼻'''から'''そうめん'''出ました。）
+* 即是插畫家かんざきひろ/動畫師織田広之&lt;ref&gt;[[我的妹妹哪有那麼可愛！]]的原作插畫、動畫版角色設計和作畫監督&lt;/ref&gt;在V家界活動的網名。
+* 在國外也是很有名的Trance曲作者(名義是織田広之的英文Hiroyuki Oda)，所做曲基本上也都是Trance類型的曲。
+* 特徵是前奏非常長，基本上2分鐘左右跑不掉，網名亦從此而來。
+** 當然也有前奏不長很快就進主歌的歌曲，不過那畢竟是少數。
+* &lt;s&gt;プロの犯行&lt;/s&gt;
+** &lt;s&gt;其中最為著名的就是把[[哆啦A夢|藍色狸貓]]那個尖嘴三個角髮型的富二代炫耀時的背景音樂數次[http://www.nicovideo.jp/watch/sm8131531 Re][http://www.nicovideo.jp/watch/sm18903300 m][http://www.nicovideo.jp/watch/sm26734035 i][http://www.nicovideo.jp/watch/sm33734878 x]&lt;/s&gt;
+*** &lt;s&gt;抱歉大雄，這個Live沒你的份&lt;/s&gt;
+* [http://dic.nicovideo.jp/a/%E9%BC%BB%E3%81%9D%E3%81%86%E3%82%81%E3%82%93P%3DHiroyuki_ODA%3D%E3%81%8B%E3%82%93%E3%81%96%E3%81%8D%E3%81%B2%E3%82%8D 鼻そうめんP=Hiroyuki_ODA=かんざきひろ]
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm9205429 Unfragment] || 初音ミク || 成名曲
+|-
+| [http://www.nicovideo.jp/watch/sm14670198 irony] || はるよ (NICO歌手) || 「我的妹妹哪有那麼可愛！」片頭曲。&lt;s&gt;自繪自足&lt;/s&gt;&lt;ref&gt;irony這首歌原本的作詞曲是kz，不過原作插畫(兼動畫版角色設計)自己畫插圖還自己重編曲應該是史上罕有，甚至有可能是獨一無二的狀況&lt;/ref&gt;
+|}
+
+===ひとしずくP ===
+* P名來自第二作「last song～涙の海へ~」歌詞
+* 常合作的畫師有鈴ノ助和yucco
+* 11年開始與やま△長期合作，並且跟鈴ノ助合組三人團體“team OS”
+* 曲風很有歡樂的感覺(?)，PV故事性高
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm10282629 秘蜜〜黒の誓い〜] || 鏡音リン・レン ||  
+|-
+| [http://www.nicovideo.jp/watch/sm16702635 Bad ∞ End ∞ NighT] || rowspan = "4" | V家8人&lt;ref&gt;C社6人+gumi及神威&lt;/ref&gt; || NighT系列第一首，破百萬歌 
+|-
+| [http://www.nicovideo.jp/watch/sm18382294 Crazy ∞ nighT] || NighT系列第二首，破百萬歌 
+|-
+| [http://www.nicovideo.jp/watch/sm20081073 Twilight ∞ nighT] || NighT系列第三首，破百萬歌 
+|-
+| [http://www.nicovideo.jp/watch/sm24438970 EveR ∞ LastinG ∞ NighT] || NighT系列第四首，破百萬歌 
+|-
+| [http://www.nicovideo.jp/watch/sm22194095 怪盗Fの台本（シナリオ）〜消えたダイヤの謎〜] || rowspan = "2" | VOCALOID10人&lt;ref&gt;V家8人再加上IA及mayu&lt;/ref&gt; || 大哥[[便當]]組 
+|-
+| [http://www.nicovideo.jp/watch/sm29281205 祝福のメシアとアイの塔] || 全員便當組，劇情在最後有令人淚腺崩壞的轉折 
+|-
+| [http://www.nicovideo.jp/watch/sm23336175 Party×Party] || VOCALOID6人&lt;ref&gt;ミク,リン,レン,ルカ,KAITO,MEIKO&lt;/ref&gt; || 大哥便當組，劇情超展開。超Party3主題曲 
+|}
+
+=== マチゲリータP ===
+* [http://www.nicovideo.jp/mylist/4713790 mylist]
+* 以黑暗且恐怖的歌曲著名（如ロッテンガールグロテスクロマンス、暗い森のサーカス）
+** 甚至不只是自己原創曲，連翻唱他人的曲子都會莫名其妙變的黑暗，例如[http://www.nicovideo.jp/watch/sm23078175 《冰雪奇緣》的主題曲〈Let it go〉就被他唱的十分陰暗]
+* 不過還是有例外的歌曲(硝子ノ華)
+* 歌曲世界觀關係使得本身評價兩極
+* 例行公事為每年的萬聖曲
+* &lt;s&gt;你的世界觀怎麼了？&lt;/s&gt;
+
+=== 松田トキ ===
+* [http://www.nicovideo.jp/mylist/31584921 mylist]
+* VOCALOID和UTAU的使用者。
+* 松田っぽいよ、松田っぽいね和芥的音源提供者。
+** 除了幫自己做音源，還會幫其他製作音源。&lt;ref&gt;像是椎音あま和京音ロン等等&lt;/ref&gt;
+* 一開始就是使用UTAU，在後來才開始用VOCALOID。
+* 最近開始當PV製作人。
+
+===みきとP===
+* [https://www.nicovideo.jp/user/276638/video mylist]
+* 2010出道，歌手藝名為「愛島」，華語圈多暱稱為米奇頭。
+* 以出色的吉他運用聞名。
+* 代表作：ロキ、1 2 fan club、離去之原
+
+=== ミナツキトーカ ===
+* [http://www.nicovideo.jp/user/328782/video mylist]
+* UTAU元老級的作曲家
+* 曾協力不少的VIPPALOID釣魚計劃
+** 間接造就不少着名&lt;s&gt;釣魚&lt;/s&gt;UTAU的名氣，而且不少角色代表曲也是出自他手。
+* VOCALOID的調教力不錯，但UTAU的水平更是高
+
+=== やまじ ===
+* [http://www.nicovideo.jp/mylist/45785957 mylist]
+* 主要使用鏡音、初音、IA，調教風格很好認
+* 以ROCK為主
+* 歌詞很細膩
+* 雖然投稿說明文不會用P名，但ニコ上的tag是やまじ(チロP)，如果只打やまじ反而會搜尋不到
+** &lt;s&gt;やまじ這個網名和チロP這個P名的意思，以至本人行為都非常[[糟糕]]，詳細請自行觀看ニコニコ大百科&lt;/s&gt;
+** &lt;s&gt;反正只要翻mylist也找得到他所有作品就是了&lt;/s&gt;
+* 跟Neru(原來的P名也很糟糕，現在已不使用，另外在某方面跟やまじ有共通點)關係不錯&lt;s&gt;(意味深)&lt;/s&gt;
+* &lt;s&gt;應該是受不了大學一年級讀了3年(無誤，也被不少相熟的P取笑過)的壓力，&lt;/s&gt;2013年停止所有音樂活動，更刪除了twitter和nico等帳號，所以投稿作品也無法觀看
+** 不過隔年9月就回歸了，之前的曲子也重新投稿。
+
+=== ライブP ===
+* [http://www.nicovideo.jp/mylist/12089241 mylist]
+* 以鏡音リン的歌曲為主&lt;s&gt;，連醫生都宣告放棄救治的リン廢&lt;/s&gt;
+** 已經被尊稱是「リン的&lt;s&gt;變態&lt;/s&gt;父親」，與オワタP以及sezu合稱為リン廢神。
+* 代表作是[http://www.nicovideo.jp/watch/sm10122166 〈m9〉]&lt;ref&gt;來自AA，意指「指人的動作」，曲中故意用了很多同音錯別字(解釋是「因為鈴用手機所以打錯很多字」)，但神奇的是就算是錯別字組合起來的歌詞依然很通順&lt;/ref&gt;
+* [http://www.nicovideo.jp/watch/sm16680852 リン廢的極致]
+* [http://www.nicovideo.jp/watch/sm16952219 ライブP已經去了我們不知道的境界了...(VOCALOID討論版留言)]
+
+===和田たけあき(くらげP) ===
+* [http://www.nicovideo.jp/mylist/26113152 mylist]
+* 主要使用初音ミク和結月ゆかり，過去沉寂許久
+* 成名曲為〈チュルリラ・チュルリラ・ダッダッダ！〉
+** 這首曲子後來成為了「2016年ボカロ四天王」之一
+** 在那之後(包括本曲)的歌曲PV皆受到チェリ子的高中毒狂氣加持
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! 歌名 !! 歌手(?) !! 備註 
+|-
+| [http://www.nicovideo.jp/watch/sm28276238 チュルリラ・チュルリラ・ダッダッダ！] || rowspan = "2" | 結月ゆかり || 為「2016年ボカロ四天王」之一 
+|-
+| [http://www.nicovideo.jp/watch/sm29544351 チェチェ・チェック・ワンツー！] || &lt;s&gt;一點也不清純的清純少女曲&lt;/s&gt; 
+|}
+
+=== 綿飴(季節P) ===
+* [http://www.nicovideo.jp/mylist/27498331 mylist]
+* 使用初音ミク&lt;s&gt;用陽炎裡面的人作音源的軟件改三&lt;ref&gt;來自半惡搞曲「陽炎デイズ」&lt;/ref&gt;&lt;/s&gt;和IA作曲，也有參與過結月ゆかり的合輯
+* P名來自第7作「四季刻歌」
+* 曲風主要是帶有和風或青春感覺的ROCK和POP
+* 非常熱衷於[[艦隊Collection]]，除了為此作了幾首曲子，也上傳教人做船艦模型的影片了(?)
+** 引發過小爭議的「陽炎デイズ」抒發了造[[艦隊Collection/登場人物一覽-part2#.E9.9B.AA.E9.A2.A8.EF.BC.88.E3.82.86.E3.81.8D.E3.81.8B.E3.81.9C.EF.BC.8CYukikaze.EF.BC.89|雪風]]卻一直出[[艦隊Collection/登場人物一覽-part2#.E9.99.BD.E7.82.8E.EF.BC.88.E3.81.8B.E3.81.92.E3.82.8D.E3.81.86.EF.BC.8CKager.C5.8D.EF.BC.89|陽炎型1]],[[艦隊Collection/登場人物一覽-part2#.E4.B8.8D.E7.9F.A5.E7.81.AB.EF.BC.88.E3.81.97.E3.82.89.E3.81.AC.E3.81.84.EF.BC.8CShiranui.EF.BC.89|2]],[[艦隊Collection/登場人物一覽-part2#.E9.BB.91.E6.BD.AE.EF.BC.88.E3.81.8F.E3.82.8D.E3.81.97.E3.81.8A.EF.BC.8CKuroshio.EF.BC.89|3號艦]]的悲憤。&lt;s&gt;綿飴︰Project?不知道的孩子呢&lt;/s&gt;
+
+=== ごぼうP ===
+* [http://www.nicovideo.jp/mylist/10451591 mylist之一]，其他作品請參閱mylist說明
+* 以製作Talkloid系列影片為主的P，擁有自己獨特的V家角色性格和設定，似乎有一定程度會[[逆流]]回去。
+* 差不多只要有在市面上販售的V家商品他都有，[http://www.nicovideo.jp/watch/sm14824608 至2011年為止的花費總合計]&lt;s&gt;，讓人懷疑他到底是怎麼生活的&lt;/s&gt;
+** [[HA☆NA☆SE!|もうやめて!ごぼうPの財布の中は0よ!]]
+* 曾以[http://www.nicovideo.jp/watch/sm27589271 アルスロイド]來間接表示VOCALOID音聲數量已經超過[[神奇寶貝列表-第一世代|第一世代PM]]數量，'''重點是這還沒有包括非賣品跟活動贈送類VOCALOID。'''
+
+=== じっぷす ===
+* [http://www.nicovideo.jp/mylist/29786686 Mylist]
+* ヘイセイプロジェクト（平成project）的製作人（壯哉大我的kemu和Jin爺!!!!!!!!!!!!!!!!!）
+** 第一曲只是想惡搞別的project，後來的作品就認真起來了
+* &lt;s&gt;說不定是受かいりきベア影響，&lt;/s&gt;曲風和調教也和kemu有點相似，以音壓很高的搖滾為主
+* 調教也不錯，以GUMI和IA為主
+* 和かいりきベア關系不錯，經常合作
+* 吉他功力高強
+* 現在以ぷす身份轉攻翻唱界
+
+===[http://ia-project.net/artist/jin/profile じん（自然の敵P）] ===
+* [http://www.nicovideo.jp/mylist/30497131 mylist(陽炎project)]/[http://www.nicovideo.jp/mylist/33413141 mylist(非陽炎歌曲)]
+* 11年開始活動的V家製作人之一，IA project的工作人員；以初音及IA作曲，也購入了蒼姬和GUMI&lt;ref&gt;Twitter上消息，並發佈一段[http://voon.jp/a/cast/?id=2ficx3hmffl5a3yf#player 無參的蒼姬版想像Forest]&lt;/ref&gt;
+
+* VOCALOID史上第一位所有投稿曲全都進入週刊排行30名以內&lt;ref&gt;[http://www.nicovideo.jp/watch/sm17515598 週刊VOCALOID236]&lt;/ref&gt;
+* VOCALOID界第1位擁有超過6首百萬曲(現為16首)的P
+** 也是目前最多IA殿堂和百萬曲的P
+* 著名作品有歌曲系列カゲロウプロジェクト(陽炎Project)&lt;ref&gt;已小說化、漫畫化以及動畫化，&lt;s&gt;動畫是[[黑歷史]]&lt;/s&gt;。&lt;/ref&gt;
+** 歌曲有奇異的中毒性，歌詞意味深長
+** 世界觀為特殊能力、世界崩毀等
+** &lt;s&gt;但不少人也覺得根本是學[[虛淵玄]]耍中二賣黑而已，還學得不到家&lt;/s&gt;
+** 改編成動畫メカクシティアクターズ之後評價果然每況日下&lt;s&gt;，就算找新房和SHAFT團隊也很難救原作自己跳下來寫的劇本……&lt;/s&gt;
+* 除此以外，也有投稿系列外的歌曲。&lt;s&gt;但在陽炎project的陰影下，每次投稿這些曲子反而要特別注明&lt;/s&gt;
+** 非陽炎系列的歌曲再生都不高，不過很多也不錯。
+*** 例如[http://www.nicovideo.jp/watch/sm18658349 Sky of Beginning]就是非陽炎良曲之一，但投稿一年(截至2013年9月6日)卻連50萬再生都沒破，和每次投稿必定數小時內突破10萬、數日內破百萬的陽炎Project歌曲有著天壤之別
+*** 另外非陽炎曲再生數最高的「日本橋高架下R計画」在投稿後超過一年的現在也&lt;s&gt;才&lt;/s&gt;大概一百萬出頭。
+*** &lt;s&gt;明明是同個人的作品怎麼會如此天差地遠，說沒工作絕對不會有人信&lt;/s&gt;
+* 實力不錯，主要以搖滾風為主
+** 不過因為初時調教較為刺耳，所以不是人人也喜歡。&lt;ref&gt;然而しづ提供的PV倒一直很帥氣，而且一開始時是以歌詞中的故事累積人氣，所以一開始時甚至會有人說他是在賣故事賣PV&lt;/ref&gt;
+** 再加上[[廚]]們的工作和發言，結果雖然新投稿曲大多也會直上週刊第一，但意外地令他的評價下滑，甚至出現要把陽炎Project的曲在週刊中排除的提案並成為ジエンド事件的導火線。
+*** ジエンド事件的相關歌曲的PV中有一些影射他的字眼&lt;s&gt;特別是ほぼ日P的ジオワタ更已經超出影射的範圍而是到了有點是婊人的狀況&lt;/s&gt;，也因此評價變得很微妙
+*** 最主要的原因，大概真的是因為門番曲被工作得太兇惹來不少人厭惡，因為じん的歌曲從2013年初開始幾乎每期都會有三四首雄踞排行榜，可能就是因此而導致被人厭惡。&lt;ref&gt;&lt;s&gt;雖然黒うさP的千本櫻從2011年到現在完全是萬年推不倒門番&lt;/s&gt;（在502期/2017年已倒），但起碼千本櫻還有初音登場，陽炎系列卻是完全在賣自己的角色。&lt;/ref&gt;
+*** &lt;s&gt;[http://www.ptt.cc/bbs/Vocaloid/M.1374427722.A.3B9.html 反推坑的最佳實例]&lt;/s&gt;
+** 不過2013年之後各方面也開始進步起上來&lt;s&gt;，當然被人物和故事吸引的人還是有很多&lt;/s&gt;
+*** 新CD的收錄曲基本上調教和曲風也比較多變，可看出進步
+* &lt;s&gt;[[巨乳]]控。曾有把自己nico動上的曲子標題短暫改成爆乳デイズ的不良記錄。也曾抱怨以為會大受歡迎的巨乳角色反而人氣低落&lt;/s&gt;
+* 後重回nico新投稿的系列新曲「失想ワアド」也沒有&lt;s&gt;刷再生&lt;/s&gt;之前那樣誇張的觀看和mylist數，&lt;s&gt;可能跟15年後nico人數減半以及相關的廚自主規制有關係&lt;/s&gt;
+* 近年都在替動畫ED編曲。
+
+=== [http://www.sf.airnet.ne.jp/tkst/takepod/ デッドボールP] ===
+* [http://www.nicovideo.jp/mylist/3390381 mylist]
+* 筆名：槇タケポン 愛稱：デP，中文：死球P
+* 以前是某遊戲公司的BGM作曲家，但因為厭倦了為了市場需求而作曲退出公司。
+* &lt;s&gt;前除外王&lt;/s&gt;(從一般流通化後就成為傳說了)
+* 歌詞很糟糕，很直球。&lt;ref&gt;插入、[[中出]]、潮吹、內褲這些很多時在他的歌出現&lt;/ref&gt;
+** 更甚者曾經引發(NICO間的)國際問題&lt;ref&gt;事情是發生在他上傳〈Japanese Ninja No.1〉(一如往常這首歌很糟糕)後，一般被認為是適合清純歌的香港歌手香港娘居然翻唱了這首歌，不僅香港娘形象出現崩潰危機，更讓很多人連連在兩邊動畫寫說「デP出來(對破壞香港娘形象這件事)謝罪」，不過事實上連デP自己都囧到，還寫說「香港娘你幹嘛唱這首啊wwwwww(原文：ほんこーんさん何歌ってるんすかｗｗｗｗｗｗ)」，後被稱為'''デP最大的誤算'''&lt;/ref&gt;
+* 少數違反VOCALOID使用規則而被C社要求刪除動畫的人。
+* 曝光率很高，幾乎大部分的VOCALOID同人活動都看到他出現，有時還會擔當MC。
+* ミクFES'09演唱會在觀眾面前脫光(有內褲)跳舞表演再次成為傳說。
+* 例行公事為每年的聖誕曲&lt;s&gt;2012年突破了單位的極限&lt;/s&gt;
+** &lt;s&gt;[https://www.nicovideo.jp/watch/sm36071237 2019年最後一個黑色星期五推出的新曲]證明了他是[[瘋狂科學家]]的一份子(無誤?){{ref|樂曲從歌名到歌詞全部化學符號，完全沒有任何平假名與片假名的日文組成}}。&lt;/s&gt;
+* [http://ascii.jp/elem/000/000/476/476766/ 有關新聞]
+
+===ぺぺろんP ===
+* [http://www.nicovideo.jp/mylist/3093143 mylist]
+* 正式名稱是「虹原ぺぺろん」
+* VOCALOID界的中堅調教人兼新人定評者，不論是曲子數和VOCALOID數也是十分多(曲子超過60首)
+* 有着令人說「這是真人唱的吧」的可怕調教力
+** 除了歌聲神調教外，還可以做出吼叫&lt;ref&gt;冰山老師的Guilty Verse&lt;/ref&gt;等驚人之舉
+** 而且非常了解各個V家的聲質和特色，不會出現miki和鈴很像、冰山老師跟Kaito很像之類的情況
+* {{censored|2011年末因受不了不自重KAITO廚的騷擾而把所有KAITO的歌曲全部刪除以及挑釁，相關資料是不能說的黑歷史，不過還餘下一首}}
+* 前奏十分不錯，有「前奏魔術師」之稱，&lt;s&gt;但是歌曲開始時就普通了&lt;/s&gt;
+
+=== ぽわぽわP(椎名もた) ===
+* [http://www.nicovideo.jp/mylist/14312330 mylist]
+* 本名溝口 遼，2009年(當時14歲)開始在Nico活動。
+* P名來自第三作「おはよう。」
+* 也有使用UTAU。
+* 雖然發過許多曲子，但是到了[http://www.nicovideo.jp/watch/nm13359285 ストロボラスト]才廣為人知。
+** 當時在這首之後宣布停止活動(等同引退)，[https://www.cinra.net/interview/201503-siinamota 理由是家庭上的壓力以及網路上的批判等原因。]
+** 之後在GINGA伸出援手之後回歸V家活動。
+* 曲風輕快，中毒性高。
+* &lt;s&gt;目前跟許多公司有合作，像是《Divine Gate》&lt;/s&gt;。
+* 2015年7月23日逝去(簽約公司UMAA未公布死因)，[http://www.umaa.net/news/p821.html 得年20歲]。
+** 因為逝去得太過突然（當天還上傳了新曲，推特也看不出原因），對不少人造成了不小的衝擊。
+
+=== ゆうゆP ===
+* [https://www.nicovideo.jp/user/325945/video 投稿一覽]
+* 本名篠螺悠那，作為東方Project以及BMS作曲家時會以本名活動
+* 代表作為Clover Club、深海少女以及[[煙草]]的片尾曲INDETERMIDIATE UNIVERSE
+
+==VOCALOID-PV製作人一覽 ==
+===√Effect ===
+* [http://www.nicovideo.jp/mylist/13455504 mylist]
+* 讀音為「ルートエフェクト」，會以「レンリツ方程式」之名製作PV。
+* 藥石罔效的[[田井中律]]控，已經在不少自己的「高品質」律MAD中發出嫁宣言。
+* 目前暫時活動休止中&lt;s&gt;可能是因為受不了反廚的緣故&lt;/s&gt;
+
+===Not-116 ===
+* [http://www.nicovideo.jp/mylist/24090018 MyList]
+* 和ke-sanβ一樣多產
+** 但風格上比較多變，有《逃走本能》般帥氣的，也有《リズの内心革命》般可愛的
+* 主要以Aviutl和After effect做動畫
+* じっぷす的ヘイセイプロジェクト的PV師
+
+===TSO(とさお) ===
+* [http://www.nicovideo.jp/mylist/23603649 MyList]
+* 主要為ひとしつくP提供PV，主要和鈴ノ助合作
+* 標准的寫實風3D-PV&lt;ref&gt;雖然使用圖片素材，但背景等也是全3D作業&lt;/ref&gt;
+* 主要使用After effects和cinema4D等等
+
+===ke-sanβ ===
+* [http://www.nicovideo.jp/mylist/14639164 mylist]
+* 多產的PV師，成品的畫面也非常精緻，偶爾會被加上「片目3D&lt;ref&gt;單眼看會看到疑似3D效果&lt;/ref&gt;」的tag
+* 跟很多VOCALOID製作人及歌い手都有合作
+** 比較著名的合作是在kemu的社團KEMU VOXX擔任動畫製作及雜務(無誤)
+* 在ask.fm上表示使用After Effects制作動畫
+* 另外也有提供歌詞等各種工作
+
+===しづ ===
+* mylist為非公開狀態
+* 繪師兼PV師，開始活動時以提供樂曲插圖為主，到Neru的東京テディベア開始製作PV
+** 主要跟Neru及じん（自然の敵P）合作，也是後者的陽炎project主要繪師
+** IA project工作人員&lt;s&gt;，至少在IA老家官網上是這樣寫，但畫的IA數量非常少&lt;/s&gt;
+** 之後和Neru重新活動的時候改用作瀬的名義，雖然當初沒說，但因為畫風的關係馬上就穿幫了。
+* 不論是畫風和PV的表現都具有強烈個人特色&lt;s&gt;，就算用別的名義也馬上就穿幫的最大原因&lt;/s&gt;
+** 喜好畫凶神惡煞和三白眼的人物，曾自稱畫不出可愛的女孩子&lt;ref&gt;主要是畫風關係而很少表現虹膜的光影和層次變化&lt;/ref&gt;
+** 就算線條變得柔和，只要看眼睛幾乎都能一下子認出
+** PV跟作畫非常帥，不少時候說是推動曲子人氣的一大原因也不為過
+* 使用Aviutl做動畫，後來有購入after effects&lt;s&gt;，第一次打開介面時在twitter上驚歎&lt;/s&gt;，另外作畫則是用SAI
+* twitter廢，twitter上基本是意味不明的發言和洗TL
+** 其實也試過有正常和嚴肅的時候，甚至有幾次在twitter上直接叫[[廚|不自重的粉絲]]守禮儀&lt;ref&gt;要作者本身說出這問題其實算很嚴重&lt;/ref&gt;
+** 自稱「俺」&lt;s&gt;，但性別是不是男性有待驗證(笑)&lt;/s&gt;
+* 活躍於演奏してみた的鼓手3110是しづ[[成句/誰要有血緣關係的妹妹|有血緣關係的哥哥]]
+* 有為無關VOCALOID的輕小說提供插畫
+
+===三重の人 ===
+* [http://www.nicovideo.jp/mylist/10397135 mylist(非公開)]
+* 網名源自於自己的居住地日本三重縣(意思是住在三重縣的人)。
+* 個人風格強烈，幾乎是到了看幾秒就可以認出是他製作的。
+** 例如3D的背景和運鏡方式、細膩的背景、歌詞文字的表現手法等。
+* 代表作為〈SPiCa〉、〈千本櫻〉。
+* PV的3D背景是使用VUE製作的(筆者曾經因緣際會在生放送中問過)
+* 本人也是名翻唱歌手。
+* 在ジエンド騷動中，雖然已和牽涉在內的公司同時發表道歉聲明，但不久後&lt;s&gt;因為被ほぼ日P補刀&lt;/s&gt;刪除了帳號
+** 之後將推特帳號恢復以及開新nico帳號，&lt;s&gt;似乎要轉行ボカロP了。&lt;/s&gt;
+
+===わんにゃんぷー ===
+* mylist不公開
+* 名字是三種動物的叫聲，わん是狗、にゃん是貓這兩個很易懂、ぷー的話根據community的名字看應該是熊
+* 與其說是PV師，動畫師的稱呼比較適合
+** 畫風柔軟&lt;ref&gt;跟同是陽炎project繪師的しづ相比，擅長畫眼睛大的角色，畫兇惡眼神的時候看起來比較沒神&lt;/ref&gt;，另外畫背景和各種場景也不錯
+** 歌詞表現只是簡單地在固定位置弄一兩行字幕 &lt;s&gt;反正光是動畫部份已經夠她嗆了&lt;/s&gt;
+** 有時(?)只負責提供動畫，再由另外的PV師進行例如歌詞特效等的加工
+* [http://www.nicovideo.jp/watch/sm16450214 以自己的詮釋繪製自然之敵P的カゲロウデイズPV]，一鳴驚人
+** 雖然有很高完成度但這是二次創作，所以不能當作本家故事內容來看
+* 之後被自然之敵P本人邀請製作陽炎project的PV，又以guest身份制作終焉ノ栞系列其中一首在来ヒーローズ的動畫部份
+* 因為影格數量多(至少700張，一般1000張左右)，一首PV約要1~2個月時間完成
+* 初期使用comic studio(線稿)→photoshop(上色)→flash(動畫編輯)的過程製作，後來改用RETAS STUDIO
+
+== 3D模組動畫&lt;ref&gt;包括MMD、Project Diva PV等&lt;/ref&gt;製作人一覽 == 
+
+===com2007 ===
+* [http://www.nicovideo.jp/mylist/11222623 mylist]
+* 以機械、航太模組等令人驚訝到頻頻發出「這是[[MikuMikuDance|MMD]]做的嗎？」的動畫為主。
+* 不過在2010年隼鳥號回歸地球後似乎淡出了MMD圈&lt;s&gt;，所以你隼鳥號影片最後一集還要花多久時間才能補完坑？&lt;/s&gt;
+
+=== lobelia(ビームマンP) ===
+* [http://www.nicovideo.jp/mylist/22596285 mylist之一] [http://www.nicovideo.jp/mylist/9973286 mylist之二]
+* 以製作MMD專用效果模組(MikuMikuEffect，俗稱MME)為主的P，一般習慣用P名暱稱為光束人。
+* 由於自身製作非常多有用的效果模組，因此越來越多人在製作MMD動畫的時候都會把他製作的特效加入動畫中使用，最近幾期MMD杯的參加動畫更經常出現「ビームマンP無雙」的留言。
+* 本人也有參加過數回MMD比賽，一開始是活用自身的特效模組呈現美麗的MMD舞台風景，直到第9回終於透過MMD超級機器人大戰成功奪得優勝。
+* 第14回MMD杯由他製作的開幕告知動畫更因為做得太精美也十分熱血，於是被NICO廚們一致評為「開幕即優勝」&lt;s&gt;，喂喂，這樣其他人還能玩嗎？&lt;/s&gt;
+* 本家MMD杯島了之後，由他主催[https://dic.nicovideo.jp/a/mmd%E6%9D%AFzero2 MMD杯ZERO]，已經辦了兩屆，參賽作品海量，聲勢遠超本家。
+
+=== ussyP ===
+* [http://www.nicovideo.jp/mylist/4193178 mylist]
+* 以製作各種戲劇、PV類的模組為主。
+* 目前兼任MMD原創動畫《慟哭的Nightmare》導演與製作人。
+
+=== わかむらP ===
+* [http://www.nicovideo.jp/mylist/1399500 mylist]
+* 愛用Lat式初音
+* 除了第1作モノクロ∞ブルースカイ之外幾乎全部PV也是電音風
+* 在編舞、特效和演出也可謂專業級，多數是也可愛而性感的舞蹈見稱
+** 特別是Sweet Devil更是萌得引人犯罪
+* 曾被邀請使用Project Diva製作PV
+* 第一個(?)以MMD-PV推出商業CD的P
+
+== 參見 ==
+* [[VOCALOID及UTAU排行榜週刊]]
+* [[VOCALOID/相關事件]]
+* [http://dic.nicovideo.jp/a/VOCALOIDのプロデューサーの一覧 VOCALOIDのプロデューサーの一覧](NICO百科)
+* [https://dic.nicovideo.jp/t/a/VOCALOID楽曲の作詞家の一覧 VOCALOID楽曲の作詞家の一覧](NICO百科)
+* [https://dic.nicovideo.jp/t/a/VOCALOID-PVのプロデューサーの一覧 VOCALOID-PVのプロデューサーの一覧](NICO百科)
+* [http://dic.nicovideo.jp/a/UTAUのプロデューサーの一覧 UTAUのプロデューサーの一覧](NICO百科)
+{{VOCALOID}}
+
+== 回應 ==
+{{pcomment|section=2}}
+
+== 備註 ==
+&lt;references/&gt;
+[[分類:VOCALOID]]
+[[分類:現實人物]]

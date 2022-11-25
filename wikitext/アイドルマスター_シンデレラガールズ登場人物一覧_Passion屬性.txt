@@ -1,0 +1,2849 @@
+{{h0| [[アイドルマスター シンデレラガールズ|《偶像大師 灰姑娘女孩》]]遊戲登場角色人物一覽 -part3 }}
+&lt;!--
+{|class="wikitable" style="margin:auto;"
+|本列目為《偶像大師》智能手機網頁遊戲角色簡介一覽。
+|-
+|本條目為熱情（パッション/Passion）系偶像角色人物目錄
+|-
+|平行條目:[[アイドルマスター シンデレラガールズ 原創角色人物一覽-part1|（キュート）part1]]、[[アイドルマスター シンデレラガールズ 原創角色人物一覽-part2|（クール）part2]]
+|}
+{|class="wikitable" style="margin:auto;"
+|角色卡牌請自行參閱wiki。
+|}
+--&gt;
+== アイドル一覧（パッション屬性） ==
+* 圖騰象徵為陽黃，熱情系偶像。共60位。4位女教練不包含在內。
+
+{|class="wikitable" style="margin:auto;"
+!パッション系偶像名錄
+|-
+|本田未央、高森藍子、並木芽衣子、龍崎薫、木村夏樹、松山久美子、斉藤洋子、沢田麻里菜
+|-
+|矢口美羽、赤城みりあ、愛野渚、真鍋いつき、大槻唯、姫川友紀、相葉夕美、野々村そら
+|-
+|浜川愛結奈、若林智香、城ヶ崎美嘉、城ヶ崎莉嘉、仙崎恵磨、諸星きらり、十時愛梨、ナターリア
+|-
+|相馬夏美、槙原志保、向井拓海、喜多見柚、イヴ・サンタクロース、日野茜、上田鈴帆、市原仁奈
+|-
+|南条光、杉坂海、喜多日菜子、海老原菜帆、北川真尋、メアリー･コクラン、小松伊吹、三好紗南
+|-
+|キャシー・グラハム、難波笑美、及川雫、浜口あやめ、小関麗奈、衛藤美紗希、村上巴、土屋亜子
+|-
+|星輝子、首藤葵、片桐早苗、堀裕子、西島櫂、冴島清美、的場梨沙、財前時子
+|-
+|佐藤心、依田芳乃
+|-
+|夢見りあむ、久川凪
+|-
+|トレーナー、ベテラントレーナー、マスタートレーナー、ルーキートレーナー
+|}
+
+== デレマス-第一列序 ==
+
+=== 本田 未央（ほんだ みお） ===
+{|class="wikitable" style="margin:auto;"
+!本田未央（N）
+!本田未央+（N+）
+|-
+|[[File:img8719.jpg|300px|none]]
+|[[File:img8720.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|- bgcolor=#ffa500
+| colspan="3"| &lt;div style="text-align: center;"&gt;'''基本資料'''&lt;/div&gt;
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|15（高中一年生）
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|12月1日（人馬座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|161cm/46kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|84-58-87&lt;br&gt;
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|千葉
+|原紗友里
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|購物（ｼｮｯﾋﾟﾝｸﾞ）
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|圈外-圈外-5-18-6-2-2-1
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 島村卯月、渋谷凛、多田李衣菜、高森藍子、日野茜
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 典型的朝氣型少女。パッション系偶像代表列序第一位。
+* &lt;s&gt;二代目美希&lt;/s&gt;{{ref|外型上給人有種像短茶髮版美希的既視感，而且同樣多才多藝}}
+* &lt;s&gt;2 Cost組裡最慘的一位，ちゃんみおは不憫&lt;/s&gt;
+** 在同期2cost的幾個角色先後出世推出CD/新SR/實裝聲優時，只有她一人沒有任何新卡
+*** 因此在角色性格方面的描寫也不夠，比起&lt;s&gt;怪人雲集之地&lt;/s&gt;其他Pa屬性的角色就更加影薄
+** 在首兩次總選舉中，初期角色中只有她一人第一次選舉在30名圈外{{ref|但同次選舉中不少Pa角色都在30名內}}，第二次選舉也處於50名圈外
+** 此外跟卯月和凜在動畫中大部分是比較優遇的劇情比起來，因為第七集不成熟的表現{{ref|沒考慮到自己只是剛出道的新人，看到宣傳場零零落落也沒注意他們的人群，又誤解了武內P的話語導致她當場嚷著「不做偶像」而離去，因此還差點導致New Generation解體}}&lt;ref&gt;不過會發生這事故也有「NG三人組沒有經過新人該有的鋪塾過程就直接出道」這一大原因&lt;/ref&gt;，主角三人中她的人氣跌得很慘&lt;s&gt;連帶跑出大量黑&lt;/s&gt;
+** 不過於生日前一天2012年11月30日，偶像祭「1周年記念クリスマスパーティー」，終於姍姍來遲地推出SR卡牌：「［ニュージェネレーション］本田未央」{{ref|11月14日開始的偶像祭「アイドルLiveツアーinUSA」之後，即透露將推出她的新卡消息}}，之後更在第三次總選舉中得到總合第5名／Pa第一名的戰果，在2018年現在的人氣也屬於前排組。
+*** 而在睽違多年後，2019年總選中她終於一路過關斬將取得第1名，成為第8代灰姑娘，至此CG御三家終於都成為灰姑娘了。
+* N級卡牌特訓後打歌服相同的偶像有&lt;b&gt;松山久美子&lt;/b&gt;與&lt;b&gt;矢口美羽&lt;/b&gt;，有共組組合サンセットノスタルジー。
+* 目前除了NG之外最有名的組合為ポジティブパッション，其他成員為日野茜和高森藍子。
+* 萌屬性：
+** 茶髮、元氣、平凡&lt;s&gt;、DQN&lt;/s&gt;
+
+=== 高森 藍子（たかもり あいこ） ===
+{|class="wikitable" style="margin:auto;"
+!高森藍子（N）
+!高森藍子+（N+）
+|-
+|[[File:img8524.jpg|300px|none]]
+|[[File:img8525.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|16
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|7月20日（獅子座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|155cm/42kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|74-60-79&lt;br&gt;
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|東京
+|金子有希
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|近所の公園を散歩
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|20-15-12-34
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 日野茜、本田未央
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 是一個會對プロデューサー「ファンのみなさんが優しい気持ちになれるような、微笑んでくれるようなアイドル」的女孩子。
+* 上圍AAA&lt;s&gt;，千早的新伙伴&lt;/s&gt;
+*  搭檔組合：
+** positive Passion（ポジティブパッション）：本田未央、日野茜、高森藍子
+* 萌屬性：貧乳、治癒系
+
+=== 並木 芽衣子（なみき めいこ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|22歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|10月14日(天秤座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|160cm/44kg{{ref|N+以後：43kg}}
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|80-57-82{{ref|N+以後：80-56-82}}
+|-
+| style="background-color: #c1d5ef; " | 血型
+|AB型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|和歌山
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|旅行
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+=== 龍崎 薫（りゅうざき かおる） ===
+{|class="wikitable" style="margin:auto;"
+!龍崎薫（N）
+!龍崎薫+（N+）
+|-
+|[[File:img8721.jpg|300px|none]]
+|[[File:img8722.jpg|300px|none]]
+|-
+!［新春］（R）
+!［新春］+（R+）
+|-
+|[[File:img6808.jpg|300px|none]]
+|[[File:img6809.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|9（小學生）
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|7月20日（巨蟹座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|132cm/32kg&lt;br&gt;133cm/33kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|65-51-70&lt;br&gt;67-52-72
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | CV
+|-
+| style="background-color: #c1d5ef; " | 出身
+|愛媛
+|春瀬なつみ
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|料理
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|圈外-圈外-圈外
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 東郷あい
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 個性天真爛漫，典型パッション系偶像。
+* 與&lt;b&gt;市原仁奈&lt;/b&gt;同是年齡最小（9歲）的童星偶像。
+* 特訓後同款式衣裝：&lt;b&gt;愛野渚&lt;/b&gt;、&lt;b&gt;大槻唯&lt;/b&gt;、&lt;b&gt;姫川友紀&lt;/b&gt;。
+* 對製作人的稱呼是「老師(せんせー)」。
+* 萌屬性：[[蘿莉]]、元氣
+
+
+=== 木村 夏樹（きむら なつき） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|18
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|8月19日（獅子座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|159cm/41kg→45kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|82-57-83&lt;br&gt;83-57-85
+|-
+| style="background-color: #c1d5ef; " | 血型
+|AB型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|茨城
+|安野希世乃
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|重機旅行(ツーリング)
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|0-0-0
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 在動畫第19集演唱插入曲「Rockin’ Emotion」，為第一個未出CINDERELLA MASTER單曲就有個人曲的角色，也是動畫追加聲優的偶像中第一個唱歌的。
+* 萌屬性：搖滾、帥哥&lt;s&gt;、髮膠&lt;/s&gt;
+
+=== 松山 久美子（まつやま くみこ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|21歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|1月21日(水瓶座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|161cm/44kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|81-56-81
+|-
+| style="background-color: #c1d5ef; " | 血型
+|A型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|神奈川
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|ピアノ
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 小室千奈美、五十嵐響子
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 萌屬性：鋼琴家、美容、專業
+
+=== 斉藤 洋子（さいとう ようこ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|20歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|山羊座(山羊座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|157cm/46kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|85-57-82
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|福岡
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|半身浴
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 真鍋いつき
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 萌屬性：健康
+
+=== 沢田 麻理菜（さわだ まりな） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|26歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|5月6日(牡牛座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|166cm/47kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|87-57-87
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|長野
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|サーフィン
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 萌屬性：滑浪
+
+== デレマス-第二列序 ==
+
+=== 矢口 美羽（やぐち みう） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|14歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|7月10日(蟹座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|150cm/41kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|81-56-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|千葉
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|メール
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|圈外-圈外-圈外-圈外
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 今井加奈
+|}
+
+* 禮儀良好，努力上進的14歲女孩。
+** 雖然受偶像工作的影響，對陪學校朋友時間減少的事情很在意，但是被朋友作為偶像看著很開心。
+* 外貌特徵：特訓前是單包子頭，特訓後則是單馬尾。基本卡的服裝和本田未央、松山久美子同屬一套服裝。
+* 與角色關係
+** 視上田鈴帆、高垣楓為尊敬的對手或榜樣，與本田未央是手機郵件好友，同出身地、興趣與特質痛通點多。
+* 活動「戦国公演・天魔の乱　LIVEツアーカーニバル」中扮演信長，特訓後SR+ [天魔降臨]矢口美羽+扮相信長魔王魄力十足，被稱為「織田美羽長」與「矢口天魔王」。
+* 正在實行微笑路線。
+
+=== 赤城 みりあ（あかぎ みりあ） ===
+{|class="wikitable" style="margin:auto;"
+!赤城みりあ（N）
+!赤城みりあ+（N+）
+|-
+|[[File:img19269.jpg|300px|none]]
+|[[File:img19270.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|11（小学5年生）
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|4月14日（山羊座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|140cm/36kg&lt;br&gt;
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|75-55-78
+|-
+| style="background-color: #c1d5ef; " | 血型
+|AB型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | CV
+|-
+| style="background-color: #c1d5ef; " | 出身
+|東京
+|黒沢ともよ
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|閒聊（おしゃべり）
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|圈外-37-圈外-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 白坂小梅
+|}
+
+* 個性活潑天真與好奇心旺盛的小女孩。
+** 家中成員有父母與剛出生的妹妹。
+** 在動畫版的定位類似やよい。
+** 少數不靠翻譯就聽得懂神崎蘭子的中二病語言意涵的純真心靈少女。&lt;s&gt;蘭学者&lt;/s&gt;
+** &lt;s&gt;魔性のみりあ&lt;/s&gt;
+*** SLS故事中雖然是代缺席偶像出席活動，但卻把當時出席的粉絲全都變成自己的粉絲&lt;s&gt;這原本真的不是みりあ握手會？&lt;/s&gt;
+** 在&lt;s&gt;怪人&lt;/s&gt;個性派輩出的Pa中是很稀有的正統派。
+** 在SLS中因為長期沒有SSR→出了SSR卻是期間限定→之後長期沒有實裝常設SSR而讓擔當P呼天搶地，甚至多次立下「創舉」{{ref|包括&lt;b&gt;每次有新SSR實裝時&lt;/b&gt;みりあP的TAG都會沖上排行上位、SSR初次實裝時把遊戲伺服器砸成當機、16年的みりあ生誕祭除了讓專有TAG衝上Twitter的&lt;b&gt;世界排名&lt;/b&gt;之外更把Twitter伺服器砸成當機、16年10月19日的歌姬庭園10中因為出現了リアルみりあちゃん而使此TAG沖上排行上位等...}}
+** 直至17年4月活動「Shabon Song」之前沒有作為活動報酬SR實裝過。&lt;s&gt;然後過了一年多也是沒作為活動SR出場過，直到青空エール才再出一次下位報酬SR&lt;/s&gt;
+** 雖然活力充沛的一面非常顯眼，但其實也有充滿母性的一面。
+*** 在中之人演繹第二個人曲「わたぐも」時就收到過「還不夠慈愛」的指示。
+** &lt;s&gt;在GBF中曾經是上級玩家的仇視對象，並且是披著猛獸使皮的暗殺者&lt;/s&gt;{{ref|主因出於實裝當時的被動「みりあもやるー」是有一定機率將自己和玩家前列的角色強行換位，結果上級玩家在挑戰高難度關卡時常常因此翻車。加上みりあ是入手同期實裝可玩化的蘭子的必要條件之一，更是加大了不少騎空士的仇恨值。}}{{ref|在幾天後營運眼見事情不妙而緊急停止被動的換位效果並表明會換成其他效果，但之後又出現了みりあ的3技（機率'''即死'''效果）對不少高難度BOSS都有效的傳聞…後來證實是同期實裝的職業「エリュシオン」的弱體耐性下降DEBUFF對象設定出錯而包含了即死，經維護後已修正，時間內利用BUG刷高難度BOSS的玩家也被封帳一定日數}}{{ref|諷刺的是，由效果停止後起直到大半年後被動直接被調整成式樣(みりあ在後排時機率使用1技支援前排)而成為優秀的後排支援角。}}
+
+* 萌屬性：[[蘿莉]]、母性、活潑
+
+=== 愛野 渚（あいの なぎさ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|18歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|8月1日(獅子座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|163cm/47kg{{ref|特訓後：45kg}}
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|84-58-85{{ref|特訓後：84-56-85}}
+|-
+| style="background-color: #c1d5ef; " | 血型
+|A型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|愛知
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|バスケットボール
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+=== 真鍋 いつき（まなべ いつき） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|22歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|12月29日(山羊座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|165cm/46kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|85-57-83
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|石川
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|とにかく運動
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 斉藤洋子
+|}
+
+=== 大槻 唯（おおつき ゆい） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|17歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|5月7日(牡牛座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|155cm/42kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|84-56-83
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|埼玉
+|山下七海
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|カラオケ
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|22-46-49-19
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 相川千夏、メアリー・コクラン
+|}
+
+=== 姫川 友紀（ひめかわ ゆき） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|20歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|9月14日(乙女座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|161cm/44kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|80-57-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|A型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|宮崎
+|杜野まこ
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|野球観戦
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|21-17-8-47
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 結城晴
+|}
+
+=== 相葉 夕美（あいば ゆみ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|18歳(大学1年生)
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|4月15日(牡牛座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|158cm/42kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|81-57-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|神奈川
+|木村珠莉
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|ガーデニング
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|25-26-23-4
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 西園寺琴歌、渋谷凛
+|}
+
+* 興趣是園藝的花草系偶像。
+* 在&lt;s&gt;怪人&lt;/s&gt;個性派輩出的Pa中是很稀有的正統派。
+* （・ヮ・） 
+** 因初期卡片上的表情幾乎都是同一個笑臉而生出來的梗，之後雖然多了不同表情的卡片，但這個梗已經深入民心
+*** 甚至連營運在CGSS實裝第一張SSR時也使用了・ヮ・當表情&lt;s&gt;，公式認定個性&lt;/s&gt;
+
+=== 野々村 そら（ののむら そら） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|15歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|1月3日(山羊座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|157cm/46kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|84-57-85
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|福岡
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|友達と電話
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 赤西瑛梨華
+|}
+
+== デレマス-第三列序 ==
+
+=== 浜川 愛結奈（はまかわ あゆな） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|22歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|92-58-85(双子座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|168cm/168cm
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|92-58-85
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|大阪
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|乗馬
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 小室千奈美
+|}
+
+=== 若林 智香（わかばやし ともか） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|17歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|8月30日(乙女座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|乙女座/45kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|82-57-83
+|-
+| style="background-color: #c1d5ef; " | 血型
+|A型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|鹿児島
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|チアリーディング
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?-? 
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+=== 城ヶ崎 美嘉（じょうがさき みか） ===
+
+{|class="wikitable" style="margin:auto;"
+!城ヶ崎美嘉（R）
+!城ヶ崎美嘉（R+）
+|-
+|[[File:img8520.jpg|300px|none]]
+|[[File:img8521.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|17（高中三年生）
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|11月12日（天蠍座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|161cm/43kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|80-56-82
+|-
+| style="background-color: #c1d5ef; " | 血型
+|AB型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | CV
+|-
+| style="background-color: #c1d5ef; " | 出身
+|埼玉
+|佳村はるか
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|卡拉OK{{ref|一種隨音樂播放器伴奏音樂自唱的娛樂消遣，用語源自日本發展而來，因此以音譯俗稱為卡拉OK}}（カラオケ）
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|17-16-15
+|}
+
+* 《CINDERELLA GIRLS》登場角色，典型辣妹型偶像。
+* 城ヶ崎莉嘉的姐姐。
+** 別稱：姉ヶ崎&lt;s&gt;、処女ヶ崎、嫁ヶ崎、母ヶ崎&lt;/s&gt;
+* 與島村卯月、渋谷凛擔綱廣播劇三主播，直到廣播劇方針更換為止。
+** 因為當時NG組最後一位成員未央的CV還未確定，所以與島村卯月、渋谷凛的CV共同在廣播劇擔綱主播役演出。&lt;s&gt;差點就篡奪灰姑娘御三家Pa代表地位&lt;/s&gt;
+* 雖然打扮給人性感辣妹形象，但對於感情方面卻像少女般純情，也對年紀比自己年幼的偶像候補生相當照顧，但對自己的妹妹就比較嚴格
+** &lt;s&gt;官方四格漫畫劇場與部分卡牌顯示曾經讓製作人進入過閨房或是與製作人共乘轎車情景下獨處，至於有無特殊發展就任憑製作人們想像&lt;/s&gt;
+* 萌屬性：&lt;s&gt;橫乳&lt;/s&gt;、野性、&lt;s&gt;外婊內嬌&lt;/s&gt;、&lt;s&gt;[[蘿莉]][[情結|控]]&lt;/s&gt;
+** 羅莉控屬性是捏他自擔當聲優曾表示喜歡赤城みりあ的小女孩形象，後來逆輸入至本家遊戲劇情中。
+** 但真的逆流出現這方面劇情後，中之人反而多次在演唱會等公開場合表明「不希望讓自己的個性影響到美嘉」，官方後來也大幅收斂了這方面的描寫&lt;s&gt;，簡單來講就是[[黑歷史]]化了&lt;/s&gt;
+** 理所當然的這個設定在P之間也是賛否兩論，雖然偶爾還是會被拿來玩，但最好還是不要哪壺不提提哪壺惹爭端比較好。
+* 在動畫版中作為前輩偶像出場。
+** 在目睹拍宣傳照的NG三人組後決定讓她們擔任自己演唱會的伴舞，雖然讓三人成功出鏡但也種下之後NG演唱會失敗的伏筆…
+** 在第二期中受346事務所方針變更的影響而由原本的辣妹路線轉為走大人向路線，但最後成功在化妝品廣告中發揮出自己的風格。
+* 在家機新作「星曜季節」中確定登場。
+
+=== 城ヶ崎 莉嘉（じょうがさき りか） ===
+
+{|class="wikitable" style="margin:auto;"
+!城ヶ崎莉嘉（R）
+!城ヶ崎莉嘉+（R+）
+|-
+|[[File:img7267.jpg|300px|none]]
+|[[File:img7268.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|12（中學1年生）
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|7月30日（獅子座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|149cm/36kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|72-54-75
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | CV
+|-
+| style="background-color: #c1d5ef; " | 出身
+|埼玉
+|山本希望
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|收集貼紙（シール集め）
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|3-43-41
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 城ヶ崎美嘉的妹妹，別稱：妹ヶ崎。 
+* 萌屬性：[[虎牙]]、野性、獅娘
+
+{|class="wikitable" style="margin:auto;"
+!同名卡牌
+!初攻/守
+!成本（COST）
+!1成本攻/守
+!移籍金
+!特技（效果）
+|-
+|城ヶ崎莉嘉（R）
+|2300/1260
+|11
+|209/115
+|3,050Manny
+|ちびギャルの意地（パッションタイプの攻中アップ）
+|-
+|城ヶ崎莉嘉+（R+）
+|2760/1512
+|251/137
+|4,575Manny
+|}
+
+=== 仙崎 恵磨（せんざき えま） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|21歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|6月27日(蟹座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|156cm/45kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|81-55-81
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|大阪
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|革小物集め
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+=== 諸星 きらり（もろぼし きらり） ===
+{|class="wikitable" style="margin:auto;"
+!諸星きらり（R）
+!諸星きらり+（R+）
+|-
+|[[File:img7269.jpg|300px|none]]
+|[[File:img7270.jpg|300px|none]]
+|-
+!［ラブリープリンセス］（SR）
+!［ラブリープリンセス］+（SR+）
+|-
+|[[File:img8915.jpg|300px|none]]
+|[[File:img8916.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|17（高中生）
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|9月1日（處女座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|182cm/60kg→184/61kg{{ref|［ラブリープリンセス］：184.5cm/61kg→185cm/61.5kg，［CDデビュー］：182cm/60kg→184/61kg，［キューティーメイド］：185.5cm/61kg→186cm/61.5kg，［京町乙女］&amp;［ゴシックプリンセス］：186cm/61.5kg→186.2cm/61.5kg，最終值：186.2cm/61.5kg}}
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|91-64-86g→91-65-87{{ref|最終值：92-65-87}}
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | CV
+|-
+| style="background-color: #c1d5ef; " | 出身
+|東京
+|松嵜麗
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|收集可愛物品（かわいい物集め）
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|12-27-36
+|}
+
+* 《CINDERELLA GIRLS》登場角色，眾偶像當中身高最高。
+** 初登場182cm已經是最高，之後兩年雖然開始出現比她高的偶像不過都是男性。
+** 最終身高186.2cm&lt;s&gt;，1.86m巨人&lt;/s&gt;
+* 因為身高比例與同年齡的双葉杏呈極端反比，同人二次創作常將她們倆搭檔配對。
+** 而且兩人的生日剛好只差一天。
+* にょわー☆&lt;s&gt;(物理)&lt;/s&gt;
+** &lt;s&gt;[[北斗神拳#南斗六聖拳|南斗六聖拳]]第七人「諸星」&lt;/s&gt;
+* &lt;s&gt;R+卡面根本是大隻的高槻彌生&lt;/s&gt;
+* 萌屬性：女巨人、朝氣
+* 在家機新作「星曜季節」中確定登場。
+
+=== 十時 愛梨（ととき あいり） ===
+{|class="wikitable" style="margin:auto;"
+!十時愛梨（R）
+!十時愛梨+（R+）
+|-
+|[[File:img10455.jpg|300px|none]]
+|[[File:img10456.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|18（大學1年生）
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|12月8日（人馬座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|161cm/46kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|86（E）-58-88&lt;br&gt; 88-57-88
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | CV
+|-
+| style="background-color: #c1d5ef; " | 出身
+|秋田
+|原田ひとみ
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|製作蛋糕（ケーキ作り）
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/11/28
+|1-14-20
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 典型天然&lt;s&gt;呆+色氣役巨乳&lt;/s&gt;少女
+** &lt;s&gt;[[成句/脫光光雖然也不錯，不過半裸才是好色之人的正道啊|卡牌中的造型不時將重要特色顯露出來]]&lt;/s&gt;
+* 「[http://otanews.livedoor.biz/archives/51898007.html 第1回シンデレラガール選抜総選挙]」總票選冠軍，パッション組票數第1位，票數勝過第2位的神崎蘭子與第3位的城ヶ崎莉嘉。{{ref|キュート組前三位：緒方智絵里（總第6位）、双葉杏（總第8位）、小日向美穂（總第9位），クール組前三位：神崎蘭子（總第2位）、多田李衣菜（總第7位）、川島瑞樹（總第10位），}}
+* 萌屬性：[[天然呆]]、[[我，要成為雙馬尾|雙馬尾]]、[[巨乳]]、&lt;s&gt;脫衣女&lt;/s&gt;、&lt;s&gt;裸エプロン&lt;/s&gt;
+
+{|class="wikitable" style="margin:auto;"
+!同名卡牌
+|-
+|十時愛梨（R）、［スイートバレンタイン］（SR）、［シンデレラガール］（SR）、［アニバーサリープリンセス］（SR）、［CDデビュー］（SR）、［プリンセスバニー］（SR）、［ふわふわメイド］（SR）、［シンデレラドリーム］（SR）、［スウィートトゥスウィート］（SR）
+|}
+
+=== ナターリア ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|14歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|6月29日(蟹座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|155cm/43kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|84-55-86
+|-
+| style="background-color: #c1d5ef; " | 血型
+|A型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|里約熱內盧
+|生田輝
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|ベリーダンス
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-50-32-(中間15)-34-34-41-9(Pa3)
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 出身巴西的南國偶像
+** 理所當然森巴相關的捏她很多&lt;s&gt;，和隔壁的埃琳娜應該有很多能聊的&lt;/s&gt;
+** 順帶一提，她是在灰姑娘一開始推出的時候就實裝的偶像，在那個年代是偶像大師系列中少數(幾乎可說是唯一)一位非日本出身的偶像。
+*** 如果硬要說的話出身籠罩在一片迷霧中的四條貴音也可能是非日本出身的偶像，但她的資料並沒有那麼明確指出她真的是非日本出身(尤其ML的資料上出身一欄還寫著「京都府?」)
+* 雖然是初期就實裝的偶像，也不少P希望能聽到她的聲音，但她的總選之路卻一路跌跌撞撞
+** 第四次選舉雖然中間曾經闖入15名，但最後卻還是沒有得到任何名次。
+** 但是第八次總選的時候出現了預料外的狀況
+*** 有一位加拿大的娜塔莉亞P貼出了在潛龍諜影系列中為Solid Snake與Naked Snake配音的配音員David Hayter為娜塔莉亞拉票的影片&lt;ref&gt;由於影片出處是能夠出錢請有名人士說出想要台詞的cameo，因此不排除應該是該P付錢請Hayter先生演出的&lt;/ref&gt;
+*** 出乎意料外的援軍瞬間讓娜塔莉亞P們頓時變身成Snake，一時之間各種惡搞圖和宣傳圖如雨後春筍般冒出，甚至一度登上推特趨勢
+**** 也因為這個影片，一邊不熟MGS的娜塔莉亞P們開始接觸MGS，另一邊完全對灰姑娘一無所知的MGS粉們也因此入坑&lt;s&gt;，變成了互相推坑的狀況&lt;/s&gt;
+*** 在中間發表後，該P又貼出了同樣在該系列中配音Snake上官Roy Campbell的Paul Eiding先生與Otacon博士的Christopher Randolph的支援影片，使得這波熱潮不斷持續到投票結束
+*** 最終在化身為Snake的娜塔莉亞P們的努力下，她終於在第八次總選中取得了'''第9名'''的佳績，同時還是Passion屬性'''第3名'''，確定附聲&lt;s&gt;，娜塔莉亞P多年來的努力終於開花結果了&lt;/s&gt;
+
+== デレマス-第四列序 ==
+
+=== 相馬 夏美（そうま なつみ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|25歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|7月23日(獅子座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|160cm/160cm
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|83-60-89
+|-
+| style="background-color: #c1d5ef; " | 血型
+|獅子座
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|京都
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|ランニング
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+=== 槙原 志保（まきはら しほ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|19歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|4月27日(牡牛座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|162cm/46kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|86-57-91
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|三重
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|スイーツ巡り
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+=== 向井 拓海（むかい たくみ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|18（高中生）
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|8月7日（獅子座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|163cm/53kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|95-60-87&lt;br&gt;
+|-
+| style="background-color: #c1d5ef; " | 血型
+|A型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | CV
+|-
+| style="background-color: #c1d5ef; " | 出身
+|神奈川
+|原優子
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|改車（バイクいじり）
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/22
+|18-23-31-15
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 藤本里奈
+|}
+
+* 外貌典型女番長穿著特攻服裝扮的大姐頭，給人相當兇悍印象，有著僅次於及川雫的傲人胸圍{{ref|&lt;s&gt;許多卡牌的裝扮相當強調她傲人胸圍&lt;/s&gt;}}
+* パッション的傲嬌代表，兇悍的外表下有著平時不常見到柔情的一面
+** 私下會對貓咪等小動物如家人善待照顧，與木村夏樹、藤本里奈、原田美世等人頗有交情
+** 從事像是裝扮清涼在街上推銷牛奶等偶像工作對她而言有如羞恥PLAY般難為情 
+* 萌屬性：
+** 姊御、巨乳、外悍內嬌
+
+=== 喜多見 柚（きたみ ゆず） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|15歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|12月2日(射手座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|156cm/156cm
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|82-57-82
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|埼玉
+|武田羅梨沙多胡
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|バドミントン
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/09
+|?-?-38-33
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 桃井あずき、綾瀬穂乃香
+|}
+
+=== イヴ・サンタクロース（いゔ さんたくろーす） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|19歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|12月24日(山羊座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|165cm/44kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|81-56-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|グリーンランド
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|煙突探し
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/09
+|?-(速報50)-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+=== 日野 茜（ひの あかね） ===
+{|class="wikitable" style="margin:auto;"
+!日野茜（R）
+!日野茜+（R+）
+|-
+|[[File:img19265.jpg|300px|none]]
+|[[File:img19266.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|17（高中生）
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日（星座）
+|8月4日（獅子座）
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|148cm/40kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|80-60-82&lt;br&gt;
+|-
+| style="background-color: #c1d5ef; " | 血型
+|AB型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | CV
+|-
+| style="background-color: #c1d5ef; " | 出身
+|栃木
+|赤崎千夏
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|觀戰橄欖球賽（ラグビー観戦）
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/22
+|5-圈外-圈外
+|}
+
+* 《CINDERELLA GIRLS》登場角色，個子嬌小但朝氣活潑的元氣少女，初登場於イベント｢スロットチャンス！聖夜のLIVEバトル｣的偶像。
+** 興趣是觀看橄欖球比賽，喜歡飲用茶類飲品。
+* 翻唱歌曲：
+**｢ナンダカンダ｣
+* 搭檔組合：
+** Cheerful Bombers（チアフルボンバーズ）：日野茜、姫川友紀、若林智香，三人與應援球賽運動有關，別稱｢應援組｣
+** Positive Passion（ポジティブパッション）：本田未央、日野茜、高森藍子
+* 萌屬性：栗色單馬尾長髮、元氣
+
+{|class="wikitable" style="margin:auto;"
+!同名卡牌
+|-
+|チアフルトライ（R）、全力熱血（SR）、CDデビュー（SR）、暴走☆花嫁（SR）、バーニングハート（SR）、プールサイドクイーン（SR）、3rdアニバーサリー（SR）、3rdアニバーサリー・S（SR）
+|}
+
+=== 上田 鈴帆（うえだ すずほ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|14歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|10月26日(蠍座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|156cm/42kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|76-55-79
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|福岡
+|春野ななみ
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|裁縫
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 難波笑美
+|}
+
+=== 市原 仁奈（いちはら にな） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|9歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|2月8日(水瓶座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|128cm/29kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|61-57-67
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|静岡
+|久野美咲
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|着ぐるみ集め
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|4-39-48-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 諸星きらり
+|}
+
+== デレマス-第五列序 ==
+
+=== 南条 光（なんじょう ひかる） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|14歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|9月13日(乙女座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|140cm/41kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|79-59-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|徳島
+|神谷早矢佳
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|特撮番組鑑賞、特撮ごっこ
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 喜歡特攝英雄劇的元氣少女
+
+=== 杉坂 海（すぎさか うみ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|18歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|7月20日(蟹座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|162cm/45kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|88-58-86
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|山口
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|ウインドサーフィン
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/31
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 井村雪菜、藤居朋
+|}
+
+=== 喜多 日菜子（きた ひなこ） ===
+
+{|class="wikitable" style="margin:auto;"
+!R
+!R+
+|-
+|[[File:img8710.jpg|300px|none]]
+|[[File:img8711.jpg|300px|none]]
+|-
+!SR
+!SR+
+|-
+|[[File:img8716.jpg|300px|none]]
+|[[File:img8717.jpg|300px|none]]
+|}
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|15歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|4月6日(牡羊座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|151cm/38kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|78-56-78
+|-
+| style="background-color: #c1d5ef; " | 血型
+|AB型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|秋田
+|深川芹亜
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|妄想
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/31
+|?-40-35-43
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 經常幻想會有一位白馬王子出現在她眼前。
+* &lt;s&gt;與音無小鳥為師徒關係。&lt;/s&gt;{{ref|這兩人都很喜歡妄想……}}
+* 於2012年4月26日追加了SR化的特殊卡牌【［妄想お姫様］喜多日菜子】。
+* CGSS中成為當時無聲組第一位擁有常註SSR卡片的偶像。
+* 萌屬性：妄想癖
+
+=== 海老原 菜帆（えびはらなほ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|17歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|8月3日(獅子座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|162cm/58kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|92-65-93
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|熊本
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|散歩・和菓子屋さん巡り
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/01/13
+|圈外-圈外-圈外-圈外
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 初登場お仕事｢埼玉エリア｣。
+
+=== 北川 真尋（きたがわ まひろ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|17歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|2月17日(水瓶座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|158cm/43kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|75-57-79
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|香川
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|食べること・走ること・寝ること
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/01/23
+|圈外-圈外-圈外-圈外
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 初登場イベント｢アイドルサバイバル｣。
+
+=== メアリー・コクラン（めありー こくらん） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|11歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|1月19日(山羊座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|152cm/40kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|70-58-72
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|サンフランシスコ
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|女磨き・グルメツアー
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/01/31
+|圈外-圈外-圈外-圈外
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 大槻唯
+|}
+
+* 初登場コンプガチャ｢人は人、私は私｣。
+** 初期三圍數值登錄是83-58-87，爾後修正70-58-72。
+
+=== 小松 伊吹（こまつ いぶき） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|19歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|11月17日(蠍座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|165cm/48kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|85-59-88
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|茨城
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|ストリートダンス、スケボー、恋愛映画を見ること
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/01/31
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 初登場コンプガチャ｢人は人、私は私｣。
+
+=== 三好 紗南（みよし さな） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|14歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|6月25日(蟹座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|149cm/39kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|75-56-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|香川
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|TVゲーム、夜更かし
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/02/29
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 小関麗奈
+|}
+
+== デレマス-第六列序 ==
+
+=== キャシー・グラハム（きゃしー ぐらはむ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|15歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|9月19日(乙女座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|168cm/49kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|83-56-85
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|紐約(ニューヨーク)
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|インラインスケート・ダンス
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/02/29
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 初登場於コンプガチャ｢禁断の黒魔術｣，來自美國紐約的異國少女
+* 與同樣來自美國的メアリー・コクラン不同，&lt;b&gt;完全不懂英文&lt;/b&gt;
+
+=== 難波 笑美（なんば えみ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|17歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|5月1日(牡牛座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|158cm/45kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|82-56-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|大阪府
+|伊達朱里紗
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|お笑いライブ巡り、モノマネ
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/03/15
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 上田鈴帆
+|}
+
+=== 及川 雫（おいかわ しずく） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|16歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|6月3日(双子座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|170cm/56kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|105-64-92
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|両手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|岩手
+|のぐちゆり
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|乳搾り、トラクターの運転
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/04/13
+|23-(中間49)-19-圈外
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 家鄉在岩手縣經營酪農農場的農家少女，本作胸圍&lt;s&gt;乳量&lt;/s&gt;最巨的女藝人
+
+=== 浜口 あやめ（はまぐち あやめ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|15歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|1月13日(山羊座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|154cm/42kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|78-55-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|A型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|三重
+|田澤茉純
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|時代劇観賞、忍者グッズ収集、撮影所巡り
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/04/13
+|?-?-39-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 丹羽仁美
+|}
+
+=== 小関 麗奈（こせき れいな） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|13歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|3月5日(魚座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|148cm/41kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|75-50-77
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|山形
+|長野佑紀
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|いたずら
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 三好紗南
+|}
+
+=== 衛藤 美紗希（えとう みさき） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|22歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|3月18日(魚座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|160cm/45kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|84-56-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|大分
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|携帯小説、女子力アップ
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/06/26
+|無-圈外-圈外-圈外
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 月宮雅
+|}
+
+* 初登場お仕事｢広島エリア｣，喜好時尚流行的成年女性
+
+=== 村上 巴（むらかみ ともえ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|13歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|1月3日(山羊座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|146cm/37kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|74-53-76
+|-
+| style="background-color: #c1d5ef; " | 血型
+|A型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|広島
+|花井美春
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|演歌、将棋
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/06/26
+|無-49-圈外{{ref|中間44位}}-16
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 橘ありす
+|}
+
+* 初登場於お仕事｢広島エリア｣，似乎是出身極道世家的紅髮少女
+
+=== 土屋 亜子（つちや あこ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|15歳(中学3年生)
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|5月2日(牡牛座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|156cm/42kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|85-54-83
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|静岡
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|貯金、食べること
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/08/14
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 村松さくら、大石泉
+|}
+
+* 與村松さくら、大石泉同為三人組團體｢New Wave｣成員之一，對金錢方面精打細算的樂天少女
+
+== デレマス-第七列序 ==
+
+=== 星 輝子（ほし しょうこ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|15歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|6月6日(双子座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|142cm/35kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|73-53-75
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|左手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|福島
+|松田颯水
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|キノコ栽培
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2011/12/28
+|?-12-34-39
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 早坂美玲、森久保乃々、佐久間まゆ
+|}
+
+* 興趣是栽培蘑菇的內向少女，平時內向孤僻，但是一但唱歌...
+** &lt;s&gt;克勞薩流重金屬搖滾樂傳人&lt;/s&gt;
+
+=== 首藤 葵（しゅとう あおい） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|13歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|8月18日(獅子座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|145cm/39kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|73-53-75
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|大分
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|魚さばき
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/09/18
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 浅利七海
+|}
+
+* 家裡是開料理店的樂天少女，擅長切魚料理
+** &lt;s&gt;前川みく的天敵之一&lt;/s&gt;
+
+=== 片桐 早苗（かたぎり さなえ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|28歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|3月7日(魚座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|152cm/47kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|92-58-84
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|新潟
+|[[和氣杏未]]
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|マッサージ・スーパー銭湯
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2012/11/06
+|?-41-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 柊志乃
+|}
+
+=== 堀 裕子（ほり ゆうこ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|16歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|3月13日(魚座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|157cm/44kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|81-58-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|福井
+|鈴木絵理
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|サイキックトレーニング
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2013/01/18
+|?-47-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+* 自稱擁有超能力的少女&lt;s&gt;，CG第一大笨蛋&lt;/s&gt;
+** 從五格小劇場來看似乎真的有超能力只不過無法隨心所欲掌控造成的影響
+
+=== 西島 櫂（にしじま かい） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|19歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|8月17日(獅子座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|172cm/49kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|86-59-83
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|大阪
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|水族館巡り
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2013/03/12
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 吉岡沙紀
+|}
+
+=== 冴島 清美（さえじま きよみ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|15歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|9月26日(天秤座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|153cm/43kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|76-58-78
+|-
+| style="background-color: #c1d5ef; " | 血型
+|A型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|沖縄
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|掃除、整理整頓、腕章作り
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2013/07/17
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+
+=== 的場 梨沙（まとば りさ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|12歳(小6生)
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|11月19日(蠍座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|143cm/38kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|71-58-73
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|山口
+|集貝はな
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|ダンス、パパとデート
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2013/09/11
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 結城晴
+|}
+
+=== 財前 時子（ざいぜん ときこ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|21歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|4月18日(牡羊座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|168cm/46kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|83-55-85
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|名古屋(愛知)
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|お仕置き、豚を料理すること
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2013/12/19
+|?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+== デレマス-第八列序 ==
+
+=== 佐藤 心（さとう しん） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|26歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|7月22日(蟹座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|166cm/ダイエットちゅう
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|ぼんっ-きゅっ-ぼんっ♪
+|-
+| style="background-color: #c1d5ef; " | 血型
+|AB型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|長野
+|[[花守ゆみり]]
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|ドレスアップ・衣装作り
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2014/02/19
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 松尾千鶴
+|}
+
+=== 依田 芳乃（よりた よしの） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|16歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|7月3日(7月3日)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|151cm/40kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|73-53-73
+|-
+| style="background-color: #c1d5ef; " | 血型
+|O型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|鹿児島
+|[[高田憂希]]
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|悩み事解決、石ころ集め、失せ物探し
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2014/05/28
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|-
+|}
+
+== デレマス-第九列序 ==
+
+=== 夢見 りあむ（ゆめみ りあむ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|19歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|9月12日(處女座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|149cm/リンゴたくさん
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|{{ruby|でっかい|95}}&lt;ref&gt;個人台詞提及&lt;/ref&gt;-ふつう-たぶんふつう
+|-
+| style="background-color: #c1d5ef; " | 血型
+|AB型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|やさしい世界
+|星希成奏
+|-
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|真夜中の意味深ポエム、現場参戦
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2019/02/07
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|}
+
+* 《CINDERELLA GIRLS》登場角色。
+* 疑似帶有メンヘラ屬性的內向少女。
+* 台詞大多帶有流行網絡用語。
+
+=== 久川凪（ひさかわ なぎ） ===
+
+{|class="wikitable" style="margin:auto;"
+|-
+! style="text-align: center; background-color: #FFA500" colspan="3" | 基本資料 
+|-
+| style="background-color: #c1d5ef; " | 年齡
+|14歳
+| rowspan="5" style="text-align: center; " | [[File:img19188.png|100px|none]]
+|-
+| style="background-color: #c1d5ef; " | 生日(星座)
+|6月16日(雙子座)
+|-
+| style="background-color: #c1d5ef; " | 高/重
+|150cm/40kg
+|-
+| style="background-color: #c1d5ef; " | 三圍
+|76-56-80
+|-
+| style="background-color: #c1d5ef; " | 血型
+|B型
+|-
+| style="background-color: #c1d5ef; " | 慣用手
+|右手
+| style="background-color: #c1d5ef; " | [[聲優|CV]]
+|-
+| style="background-color: #c1d5ef; " | 出身
+|徳島
+|立花日菜
+|-
+|-
+|-
+| style="background-color: #c1d5ef; " | 興趣
+|写真、ポエム、読書(新書)
+| style="background-color: #c1d5ef; " | 總選舉名次
+|-
+| style="background-color: #c1d5ef; " | 初登場
+|2019/04/02
+|?-?-?-?
+|-
+| style="background-color: #c1d5ef; " | ｢アイドルトーク｣対象 || colspan="2" | 
+|}
+* 灰姑娘追加偶像之一，為七名新偶像中第六名追加的偶像。(和颯同時實裝)
+** 與同期加入的颯為雙胞胎，凪為姐姐，颯則為妹妹。
+* 繼765的亜美、真美，sideM 的W雙子，SC的大崎姊妹後，又一對雙子於偶像大師出現。
+* 台詞相當電波，反而獲得不少人氣。
+
+==備註==
+&lt;references /&gt;
+{{偶像大師系列}}
+[[分類:アイドルマスター シンデレラガールズ]]
+[[category:角色列表]][[分類:Cygames]]

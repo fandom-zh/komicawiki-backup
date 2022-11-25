@@ -1,0 +1,655 @@
+{{h0| 潛龍諜影（メタルギア/Metal Gear）系列 }}
+
+{| class="wikitable" style="margin:auto;"
+|-
+|本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。
+|}
+[[File:img11968.jpg|760px|center]]
+[[File:img18640.jpg|760px|center]]
+== 解說 ==
+* 由[[KONAMI]]公司小島組（現小島工作室/Kojima Productions）出品的戰術諜報動作遊戲品牌。
+* 多數作品共通的主旨是「不被敵人發現之下潛入敵方基地，並摧毀敵方最終兵器『核搭載二足步行[[戰車]]Metal Gear』」，反核武意涵濃厚。
+* 原中文譯名為「特攻神諜」（台灣、香港）、「合金裝備」（中國大陸）。但自《MGS2S》推出起，KONAMI便要求中文圈統一譯名為「潛龍諜影」。
+**&lt;s&gt;本系列跟名字很像的「Metal Slug」、「Metal Max」沒有關係&lt;/s&gt;
+* 上圖中的5個人其實只是兩個人的5個造型&lt;s&gt;，明明有當過本篇主角的雷電淚目&lt;/s&gt;
+** 左至右依序為：Solid Snake（MGS2）、Solid Snake（MGS）、Naked Snake（MGSPW）、Naked Snake（MGS3）、Solid Snake（MGS4）
+** 下圖中9個人也同樣是兩人的9個造型。
+*** {{censored|其實最右邊的Venom Snake是Naked Snake的替身，兩人是不同人。}}
+
+== 概念 ==
+* 製作人小島秀夫當初想製作以「戰爭」為主軸的動作遊戲，而在當時「動作遊戲=打倒敵人」的環境下他卻反其道而行，製作出「儘量避免戰鬥」的動作遊戲。
+** 背後的理由其實是因為當時MSX2的機能相當貧弱，畫面上同一時間無法顯示太多子彈；於是小島便突發奇想，設計一個儘量少開槍的玩法。
+** 玩法設計主要參考小島觀賞過的戰爭動作片，例如《第三集中營》、《紐約大逃亡》二部曲、《絕地任務》等。
+
+== 作品列表{{ref|標題依照英語／日語／國語排序}} ==
+
+=== 本篇 ===
+* 最初兩作《Metal Gear》、《Metal Gear 2: Solid Snake》為2D，第三作《Metal Gear '''Solid'''》後均為3D，標題加上意為「固體」的「Solid」一字來代指「3D化」。
+** &lt;s&gt;所以請別再問「為什麼MGS3、MGSPW的主角不是Solid Snake卻還要叫Solid？」了&lt;/s&gt;
+* 列於「本篇」的所有遊戲，目前均可在PS3上遊玩。
+
+{| class="wikitable" style="margin:auto;"
+|-
+!'''作品'''
+!'''對應主機'''
+!'''主角'''
+!'''故事設定年代'''
+!'''備註'''
+|-
+|Metal Gear&lt;br&gt;メタルギア&lt;br&gt;燃燒戰車
+| rowspan="2" |MSX2
+| rowspan="3" |[[Solid Snake]]
+|1995年
+|系列首作，2008年被金氏世界紀錄認定為「史上首款完全以匿蹤為主軸的電子遊戲」。&lt;s&gt;小兵視野只有一直線，可以貼身過&lt;/s&gt;
+|-
+|Metal Gear 2: Solid Snake&lt;br&gt;メタルギア2 ソリッドスネーク&lt;br&gt;燃燒戰車2
+|1999年
+|替系列真正打下基礎之作。新增雷達、匍匐前進、敲牆誘敵等要素，且故事性增強。&lt;s&gt;雖然小兵還是眼瞎，但終於有扇形視野了&lt;/s&gt;
+|-
+|Metal Gear Solid&lt;br&gt;メタルギアソリッド&lt;br&gt;潛龍諜影
+|PS&lt;br&gt;PC
+|2005年
+|系列首款3D作品，可說是MG2的3D化版本，但故事沉重度更勝前兩作，因而獲美國《財富》雜誌評為「20世紀最佳遊戲劇本」
+|-
+|Metal Gear Solid 2: Sons of Liberty&lt;br&gt;メタルギアソリッド2 サンズ・オブ・リバティ&lt;br&gt;潛龍諜影2 自由之子
+| rowspan="2" |PS2
+|[[Solid Snake]]&lt;br&gt;[[雷電(潛龍諜影)|雷電]]
+|2007年&lt;br&gt;2009年
+|系列首款雙主角作品，新增麻醉槍、威脅敵人，以及敵兵懂追跡等要素。同時本系列世界觀自此作起開始龐大、複雜化&lt;br&gt;2008年被金氏世界紀錄認定為「PS2史上銷量最佳的匿蹤遊戲」
+|-
+|Metal Gear Solid 3: Snake Eater&lt;br&gt;メタルギアソリッド3 スネークイーター&lt;br&gt;潛龍諜影3 食蛇者
+|[[Big Boss|Naked Snake]]
+|1964年
+|Naked Snake系列首部曲，首款採主角背後視點的作品，新增本作獨有的「捕食」、「求生」，以及日後依然沿用的「精力量表」要素。同時收錄與SCE異業合作的小遊戲「蛇猴大戰」
+|-
+|Metal Gear Solid 4: Guns of the Patriots&lt;br&gt;メタルギアソリッド4 ガンズ・オブ・ザ・パトリオット&lt;br&gt;潛龍諜影4 愛國者之槍
+|PS3
+|[[Solid Snake|Old Snake]]
+|2014年
+|Solid Snake系列完結篇，新增類TPS的主角背後視點射擊、情緒要素以及章魚迷彩。同時收錄第二版Metal Gear Online&lt;br&gt;《&lt;s&gt;塞錢&lt;/s&gt;電玩通》周刊史上第8個滿分作
+|-
+|Metal Gear Solid: Peace Walker&lt;br&gt;メタルギアソリッド ピースウォーカー&lt;br&gt;潛龍諜影 和平先驅
+|PSP
+|[[Big Boss|Naked Snake]]
+|1974年
+|系列史上首款青少年向+可連線破關的作品，導入「基地培養」要素，且與[[魔物獵人]]系列有異業合作&lt;br&gt;《&lt;s&gt;塞錢&lt;/s&gt;電玩通》周刊史上第14個滿分作
+|-
+|Metal Gear Rising: Revengeance&lt;br&gt;メタルギアライジング リベンジェンス&lt;br&gt;潛龍諜影崛起 再復仇
+|PS3&lt;br&gt;XB360&lt;br&gt;PC
+|[[雷電(潛龍諜影)|雷電]]
+|2018年
+|系列首款不以「潛入」而以「爽快動作」為主的作品&lt;br&gt;因為無法在動作與潛行風格上找到平衡點曾一度難產，之後外包給Platinum Games代為完成&lt;br&gt;從各方面來看都應該屬於外傳作品，但由於&lt;s&gt;賺很多&lt;/s&gt;小島秀夫也相當喜歡，甚至打算使用FOX Engine來出續作，轉正可能性很大
+|-
+|Metal Gear Solid V: Ground Zeroes&lt;br&gt;メタルギアソリッドV グラウンドゼロズ&lt;br&gt;潛龍諜影5 原爆點
+| rowspan="2" |PS3&lt;br&gt;PS4&lt;br&gt;XB360&lt;br&gt;XBONE&lt;br&gt;PC
+|[[Big Boss|Naked Snake]]
+|1975年
+|MGSV&lt;s&gt;錢賺&lt;/s&gt;前傳，使用了FOX Engine進行製作。&lt;br&gt;系列首款open world式作品，潛入自由度提升。&lt;br&gt;由於要趕上PS4發售後首波遊戲潮而決定和本篇分開發行，遊戲性略接近傳統系列作，小島定義其為「連接新舊的橋樑」
+|-
+|Metal Gear Solid V: The Phantom Pain&lt;br&gt;メタルギアソリッドV ファントムペイン&lt;br&gt;潛龍諜影5 幻痛
+|[[Punished 「Venom」 Snake|Punished "Venom" Snake]]
+|1984年
+|MGSV本篇&lt;s&gt;但結果還是[http://www.nicovideo.jp/watch/sm27128010 做不完]&lt;/s&gt;，還是使用FOX Engine進行製作。&lt;br&gt;系統與前傳相同但導入實時要素，且將擁有比前傳更廣闊的open world。同時收錄第三版Metal Gear Online&lt;br&gt;可能是系列首部18X作品&lt;s&gt;因為MGR賣太好所以敢這麼搞&lt;/s&gt;{{censored|主要的敏感話題其實是訓練童兵那一段，2014年E3更是繼續下猛藥，&lt;s&gt;相比之下GZ的PAZ被開腸破肚反而小兒科{{ref|而且GZ日版將這段畫面以「鏡頭帶到一旁角色」的方式[[河蟹]]了&lt;s&gt;，但還是能聆聽[[水樹奈奈|水樹]]的完壁絕叫&lt;/s&gt;}}&lt;/s&gt;}}&lt;br&gt;'''史上首部推出中文版的MGS'''
+|}
+
+=== 本篇資料片/移植/重製版 ===
+{| class="wikitable" style="margin:auto;"
+|-
+!'''作品'''
+!'''對應主機'''
+!'''主角'''
+!'''故事設定年代'''
+!'''備註'''
+|-
+|Metal Gear&lt;br&gt;メタルギア&lt;br&gt;燃燒戰車
+|FC
+| rowspan="2" |[[Solid Snake]]
+|1995年
+|MG1的FC移植版，KONAMI全盤交由社內FC遊戲小組製作的作品。但由於硬體問題而成了劣化版，也因此原本該出現的Metal Gear也不見了，最後惹來小島「這遊戲根本米田共」的惡評…{{ref|順帶一提，[[AVGN]]在2009年也曾大噴過本作，詳見[http://cinemassacre.com/2009/04/08/metal-gear/ 此（原版）]/[http://www.nicovideo.jp/watch/sm6723691 日語字幕版]}}
+|-
+|Metal Gear Solid: Integral&lt;br&gt;メタルギアソリッド インテグラル&lt;br&gt;潛龍諜影完全版
+|PS
+|2005年
+|MGS1的難度加強版，且新增各種VR訓練應用關卡
+|-
+|Metal Gear Solid 2: Substance&lt;br&gt;メタルギアソリッド2 サブスタンス&lt;br&gt;潛龍諜影2 真實之影
+|XBOX&lt;br&gt;PS2&lt;br&gt;PC
+|[[Solid Snake]]&lt;br&gt;[[雷電(潛龍諜影)|雷電]]
+|2007年&lt;br&gt;2009年
+|MGS2的難度加強版，為系列首款於XBOX上發行的作品。除新增各種VR訓練應用關卡與情境關卡外，還收錄各種以Solid Snake為主角的妄想故事模式「Snake Tales」
+|-
+|Metal Gear Solid: The Twin Snakes&lt;br&gt;メタルギアソリッド ザ・ツインスネークス&lt;br&gt;潛龍諜影 雙蛇出擊
+|GC
+| rowspan="3" |[[Solid Snake]]
+| rowspan="2" |2005年
+|以MGS2系統為基礎的MGS1重製版。應[[任天堂]]「能否在GC平台上推出MGS」之要求而製作，雖集結了小島秀夫、宮本茂與北村龍平三傑，但北村在過場劇情上的誇張演出{{ref|比方說Solid Snake如《駭客任務》般飛簷走壁地閃躲攻擊…}}卻使遊戲走味。同時&lt;s&gt;為了讓玩家體驗[[黑歷史]]，&lt;/s&gt;收錄FC版MG1
+|-
+|Metal Gear Solid: Bande Dessinée&lt;br&gt;メタルギアソリッド バンドデシネ&lt;br&gt;潛龍諜影 數位漫畫
+| rowspan="2" |PSP
+|MGS1的數位漫畫版，由澳洲知名漫畫家Ashley Wood執筆
+|-
+|Metal Gear Solid 2: Bande Dessinée&lt;br&gt;メタルギアソリッド2 バンドデシネ&lt;br&gt;潛龍諜影2 數位漫畫
+|2007年&lt;br&gt;2009年
+|MGS2的數位漫畫版，全程以Solid Snake視點進行
+|-
+|Metal Gear Solid 3: Subsistence&lt;br&gt;メタルギアソリッド3 サブシスタンス&lt;br&gt;潛龍諜影3 求生戰
+|PS2
+| rowspan="2" |[[Big Boss|Naked Snake]]
+| rowspan="2" |1964年
+|MGS3的難度加強版，修正MGS3本篇視角問題，且收錄MG1、MG2、蛇猴大戰加強版，以及初版Metal Gear Online
+|-
+|Metal Gear Solid: Snake Eater 3D&lt;br&gt;メタルギアソリッド スネークイーター3D&lt;br&gt;潛龍諜影 食蛇者3D
+|3DS
+|MGS3的3DS移植版
+|}
+
+=== 外傳（官方） ===
+{| class="wikitable" style="margin:auto;"
+|-
+!'''作品'''
+!'''對應主機'''
+!'''主角'''
+!'''故事設定年代'''
+!'''備註'''
+|-
+|Metal Gear: Ghost Babel&lt;br&gt;メタルギア ゴーストバベル&lt;br&gt;幽靈的巴比倫
+|GBC
+| rowspan="2" |[[Solid Snake]]
+|2002年
+|系列首款出在掌機上的作品，為小島組應海外粉絲「請在掌機上推出MGS」而製作。以MG2+MGS1系統為底，為末代的2D版MG，完成度堪稱GBC遊戲之冠
+|-
+|Metal Gear AC&lt;nowiki&gt;!&lt;/nowiki&gt;D&lt;br&gt;メタルギアアシッド
+| rowspan="4" |PSP
+|2016年
+|PSP上首款系列作，為MGGB的續集，但類型為「戰略諜報卡片遊戲」
+|-
+|Metal Gear AC&lt;nowiki&gt;!&lt;/nowiki&gt;D 2&lt;br&gt;メタルギアアシッド2
+|Snake{{ref|非本篇或MGGB/MGA1的Solid Snake，而是原創角色}}
+|?
+|MGA1續集，系統方面為MGA1的動作要素加強版
+|-
+|Metal Gear Solid: Portable Ops&lt;br&gt;メタルギアソリッド ポータブル・オプス&lt;br&gt;潛龍諜影 掌上行動
+| rowspan="2" |[[Big Boss|Naked Snake]]
+| rowspan="2" |1970年
+|第一款出在PSP上的「MGS」，新增「收集敵兵」要素，可惜MGSPW出片後被小島打為[[黑歷史]]{{ref|不過「收集敵兵」要素卻有在MGSPW被繼承且加強}}
+|-
+|Metal Gear Solid: Portable Ops Plus&lt;br&gt;メタルギアソリッド ポータブル・オプス+&lt;br&gt;潛龍諜影 掌上行動+
+|MGSPO的資料片。未收錄本篇故事模式，但有四種難度+隨機生成地圖的無限任務模式可遊玩，且新增MGS1~MGS4的敵兵及獨特角色
+|-
+|Metal Gear Survive&lt;br&gt;メタルギア サヴァイヴ&lt;br&gt;潛龍諜影 求生戰
+|PS 4、Xbox One、PC
+|母基地的某位士兵
+|原爆點結局後
+|以五代系統為基礎的打僵屍收集資源蓋基地的生存遊戲。
+|}
+
+=== 外傳（非官方） ===
+{| class="wikitable" style="margin:auto;"
+|-
+!'''作品'''
+!'''對應主機'''
+!'''主角'''
+!'''故事設定年代'''
+!'''備註'''
+|-
+|Snake's Revenge
+|NES
+|[[Solid Snake]]
+|1998年
+|[[KONAMI]]與美國ULTRA GAMES自行推出之MG1續集，為小島推出本家MG2之契機。整體難度偏高且有一部分橫向捲軸關卡
+|}
+
+=== 手機遊戲 ===
+{| class="wikitable" style="margin:auto;"
+|-
+!'''作品'''
+!'''對應主機'''
+!'''主角'''
+!'''故事設定年代'''
+!'''備註'''
+|-
+|Metal Gear Solid Mobile&lt;br&gt;メタルギアソリッド モバイル
+|日本手機
+| rowspan="2" |[[Solid Snake]]
+|2005~2007之間
+|系列首款手機遊戲
+|-
+|Metal Gear Solid Touch&lt;br&gt;メタルギアソリッド タッチ
+|iOS
+|2014年
+|MGS4的槍卡遊戲版
+|-
+|Metal Gear Solid: Social Ops&lt;br&gt;メタルギアソリッド ソーシャル・オプス
+|iOS&lt;br&gt;Android
+|[[Big Boss|Naked Snake]]
+|?
+|系列首款社群卡片遊戲，由GREE製作&lt;br&gt;已於2013年12月13日結束營運，創下本系列史上最短命紀錄&lt;s&gt;+又一部黑歷史&lt;/s&gt;
+|}
+
+=== 小說 ===
+{| class="wikitable" style="margin:auto;"
+|-
+!'''作品'''
+!'''作者'''
+!'''主角'''
+!'''故事設定年代'''
+!'''備註'''
+|-
+|Metal Gear Solid&lt;br&gt;メタルギアソリッド&lt;br&gt;潛龍諜影
+| rowspan="2" |Raymond Benson
+| rowspan="3" |[[Solid Snake]]
+|2005年
+|MGS1小說版，Solid Snake的性格與原作略有不同，且有採用一部份MGS3之後的設定。中文版由青文[[出版社]]發行
+|-
+|Metal Gear Solid 2: Sons of Liberty&lt;br&gt;メタルギアソリッド2 サンズ オブ リバティ&lt;br&gt;潛龍諜影2 自由之子
+|2007年&lt;br&gt;2009年
+|MGS2小說版，有補完本篇後半段Solid Snake部分
+|-
+|Metal Gear Solid: Guns of the Patriots&lt;br&gt;メタルギアソリッド ガンズ オブ ザ パトリオット&lt;br&gt;潛龍諜影 愛國者之槍
+|伊藤計劃
+|2014年
+|MGS4小說版，以Otacon口述視點進行，（似乎是因為作者下筆時收到的劇本仍未為最終版故）刪去原作中的BB部隊四美獸及更動部分劇情細節。&lt;br&gt;順帶一提，作者在本書出版後隔年便悲劇了…
+|-
+|Metal Gear Solid 3: Snake Eater&lt;br&gt;メタルギアソリッド3 スネークイーター&lt;br&gt;潛龍諜影3 食蛇者
+|長谷敏司
+| rowspan="2" |[[Big Boss|Naked Snake]]
+|1964年
+|MGS3小說版，2014年1月由角川書店發行（角川文庫）
+|-
+|Metal Gear Solid : Peace Walker&lt;br&gt;メタルギアソリッド ピースウォーカー&lt;br&gt;潛龍諜影 和平先驅
+| rowspan="4" |野島一人{{ref|真實身分為小島工作室成員矢野健二}}
+|1974年
+|MGSPW小說版，遊戲《潛龍諜影5 原爆點》限定版特典&lt;br&gt;角川文庫版於2014年3月發行，有節錄上述特典版中部份插圖（黑白化）
+|-
+|Metal Gear Solid Substance I -Shadow Moses-&lt;br&gt;メタルギアソリッド サブスタンスI -シャドー・モセス-&lt;br&gt;潛龍諜影 真實之影I-Shadow Moses-
+|[[Solid Snake]]
+|2005年
+|MGS1新小說版&lt;br&gt;角川文庫於2015年8月發行
+|-
+|Metal Gear Solid Substance II -Manhattan-&lt;br&gt;メタルギアソリッド サブスタンスII -マンハッタン-&lt;br&gt;潛龍諜影 真實之影II-Manhattan-
+|[[Solid Snake]]&lt;br&gt;[[雷電(潛龍諜影)|雷電]]
+|2007年&lt;br&gt;2009年
+|MGS2新小說版&lt;br&gt;角川文庫於2015年9月發行
+|-
+|Metal Gear Solid : The Phantom Pain&lt;br&gt;メタルギアソリッド ファントムペイン&lt;br&gt;潛龍諜影 幻痛
+|[[Punished 「Venom」 Snake|Punished "Venom" Snake]]
+|1984年
+|MGSVTPP小說版，角川文庫版於2015年10月發行&lt;br&gt;以原創角色視點敘事
+|}
+
+=== 影像作品 ===
+{| class="wikitable" style="margin:auto;"
+|-
+!'''作品'''
+!'''製作者'''
+!'''主角'''
+!'''故事設定年代'''
+!'''備註'''
+|-
+|[http://www.mgs-philanthropy.net/ Metal Gear Solid: Philanthropy]&lt;br&gt;潛龍諜影 博愛者
+|[http://www.hivedivision.net Hive Division]
+|[[Solid Snake]]
+|2007年
+|由義大利的獨立影像工作室Hive Division自費拍攝之非官方真人電影，無償提供所有人下載觀賞&lt;br&gt;2009年時推出第一集，[http://twitter.com/Kojima_Hideo/status/10005698896 小島秀夫本人亦觀賞過，並且讚譽有加]{{ref|1=[http://www.mgs-philanthropy.net/main/?p=1286&amp;lang=en 小島甚至在2013年親自見了製作方一面]，與小島合照者為導演兼主角Giacomo Talamini}}。原預定2014年10月下旬起為第二集募款，但因KONAMI拒絕釋出版權而宣告腰斬{{ref|1=[http://www.youtube.com/watch?v=VwtrEhBAtsY 腰斬聲明影片見此]}}。&lt;br&gt;[http://www.youtube.com/watch?v=5Va8jDL6ONk 第一集見此]、[http://www.youtube.com/watch?v=aZCFN8sTm1M 第二集預告見此]
+|}
+
+== 系統 ==
+=== 雷達 ===
+* Solid Snake在潛入敵陣時使用的雷達，能夠顯示Snake四周的地形以及敵人位置。
+* 於MG2中首度出現，可顯示出Snake四周九宮格的地形與敵人。
+** 須注意的是遊戲畫面'''僅會顯示Snake所在的那格'''，所以還得留意是否有敵人從其他九宮格滑過來…
+* MGS中則強化為能夠顯示敵人的視野，由Mei Ling所發明，稱「Soliton Radar」，於2代中依然被採用。
+* 此數種雷達的共同特色是，一旦被敵人發現進入「危險」階段就無法顯示地形。此外進入通風口等狹小通路或有電波干擾處也無法顯示。
+
+=== 潛行服（sneaking suit） ===
+* 潛入行動時所穿著的特殊緊身衣，內含大量奈米機械，可偵測穿著者受傷的部位並立刻治療。腳底部分採用不會發出腳步聲的材質。
+* 於MGS首次被採用。2代中也出現雷電專屬的潛行服「Skull suit」，如黑色骷髏般的外型為特徵。
+** 4代則有替老化的Snake特別打造、裝有人工肌肉的潛行服。
+* 以Big Boss為主角的3代、PW以及V兩部作亦有不同特色的潛行服。
+** 其中PW的潛行服性能之高堪稱[[IMBA|作弊]]級…
+
+=== 紙箱 ===
+* 系列除GZ外堪稱全勤的道具，可說是本系列最具代表性特色。
+* 一般作躲避敵人之用，自MG2起則多了「潛入敵方卡車以快速抵達特定地點」的功能。
+* 官方外傳《Metal Gear: Ghost Babel》裡則出現不同顏色紙箱，在敵方兵舍的輸送帶上切換紙箱種類可抵達兵舍內不同區域。此構想於《潛龍諜影2》中亦被採用。
+* PV中開始出現各種五花八門&lt;s&gt;[[公式が病気|有病]]&lt;/s&gt;的紙箱：例如真的能發射砲彈（次數有限）的紙箱戰車、可以當陷阱的爆炸紙箱，有救護車功能的救命紙箱{{ref|此種紙箱疑似被KONAMI在《和平先驅》後發售的《LOVEPLUS+》中拿來當梗：主角在女主角之一高嶺愛花表示「一個討厭救護車的患者堅持要送禮給她爸（醫生）」時，竟提議說「把救護車模樣的紙箱蓋在身上如何」；此外日版PW裡也有出現以《LOVEPLUS+》當封面的電玩雜誌}}以及跟刺客教條合作的稻草堆紙箱(?)等。
+* 之後到了TPP則是出現「自由紙箱」，可直接掀開上蓋威脅敵人，還可以&lt;s&gt;脫皮&lt;/s&gt;從紙箱側邊滑出並把紙箱留在原地誘敵，也可以把敵人拉進來打昏；更有病的則是上面貼有美女圖，可呈現站立狀態誘敵的紙箱…
+** 小兵看到紙箱在動時與本部的通話內容非常逗趣
+
+=== CQC（Close Quarters Combat） ===
+* 3代起導入的肉搏戰系統，為有過外籍部隊經驗的軍事作家毛利元貞（於本系列擔任軍事考據顧問）監修，參考現實中特戰隊的格鬥動作。
+* 本系列中則設定為Big Boss與其師父The Boss兩人所發明，於3代之後的系列作均有採用。
+** 至於為何Solid Snake在4代以前都不用，官方設定原因為「Snake視之為叛徒傳授的技術，但之後美國政府解密Big Boss的檔案，Snake便也解禁CQC&lt;s&gt;被當練習對象的Otacon淚目&lt;/s&gt;」。
+* 在這之前的近戰動作都只能拳打腳踢或鎖喉挾持，CQC系統則是增加各種派生動作：例如格擋反擊、奪槍威脅敵人、將敵人摔倒在地，甚至是利刃封喉。
+
+=== 母基地（Mother Base） ===
+* PW及TPP中採用的系統，即替玩家屯兵、生產物資等的基地。
+* 初次登場為PW，為KGB幹員Zadornov提供「無國界軍隊」的廢棄海洋探勘平台。剛開始只有三個建築物以及最基本功能，隨著主線進度以及招來的同伴程度，基地規模及功能會越來越完備。
+* TPP中則作為Big Boss的新傭兵部隊「Diamond Dogs」的基地登場，除了PW內已有的機能外，玩家可於基地中配置在關卡中搶來的武器物資等，並操作Venom Snake於基地內自由走動，與同伴對話，甚至於加強個人化功能：可改變基地顏色、標誌等。
+** 除了母基地外，玩家還須設置「前線基地」，配置人員與武裝以防其他玩家攻擊。玩家亦可派兵支援已加入好友的其他玩家。
+
+=== {{color|#FF0000||'''！'''}} ===
+* 其實就是被發現時，敵人頭上會冒出的「！」圖案。本系列代表性圖騰之一。
+* 有分種類：敵人察覺有異時，頭上會冒出白色「！」並前往主角被察覺的位置查看，若沒發現主角，就會冒出「？」然後回到原地。若主角被發現，就會冒出紅色「！」並進入「危險」階段。
+* 2代起在敵人冒出紅色「！」後，還得呼叫攻擊部隊前來才會進入「危險」狀態，因此便可趁這中間的空檔將敵人無力化，以迴避「危險」階段。
+* 被發現後的分階：
+** '''危險（ALERT）'''：區域內所有敵人+攻擊部隊圍攻主角，只要設法離開敵人視線或無力化敵人即進入「迴避」階段。
+** '''迴避（EVASION）'''：敵人追丟主角，開始清場。只要撐到此階段結束都不被發現，所有敵人就回歸崗位，攻擊部隊離開，便可繼續潛入任務。
+** '''戒備（CAUTION）'''：《潛龍諜影2》後新追加的階段，撐過「迴避」後就進入此階段。相當於原「迴避」階段後半的清場部分。
+
+=== 小惡搞 ===
+* 小島監督的小小惡作劇。&lt;s&gt;系列作不可或缺之物。&lt;/s&gt;以下條列較具代表性的：
+
+* '''假指令'''
+** 原出於《Metal Gear》。顧名思義。
+** {{censored|即Big Boss在Snake潛入Outer Heaven深處時對其下達的一系列假命令，要是聽從了就會被卡車載回起點、被敵軍圍攻或者掉進地洞裡。}}
+** {{censored|但最經典的莫過於Snake抵達地下100樓Metal Gear機庫前時的假命令：「任務中止，把MSX2（若是移植版便代換為其他遊戲機）關掉」。聽說當年真的有玩家上當⋯}}
+*** {{censored|遊戲中有辦法得到提示：只要順利救出人被關在地下100樓的反抗組織首領Kyle Schneider（前提是這之前的所有人質都要救到），他就會直接告訴玩家幕後黑手是Big Boss。}}
+** {{censored|MGS中則由假扮成Master Miller的Liquid Snake重現了這經典橋段，騙Snake幫他啟動Metal Gear Rex。}}
+
+* '''置入行銷'''
+** 系列作中經常可見小島其他作品的影子。例如《潛龍諜影》中可見到小島另一名作《POLICENAUTS》的海報，《潛龍諜影2》中寫著《Z.O.E.》的紙箱等。
+** 更早以前在《Metal Gear 2: Solid Snake》中則是出現「敵方想要的資料被藏在KONAMI出的MSX遊戲卡帶裡」這設定⋯
+** 在MGS4中也可以看到Otacon的電腦以《POLICENAUTS》與《[[ANUBIS ZONE OF THE ENDERS|Z.O.E.]]》的海報當桌面。
+
+* '''Mantis的超能力秀'''
+** 出自MGS，Snake在對戰其中一名BOSS「Psycho Mantis」前，Mantis向Snake展示了他一系列的超能力。
+*** 讀心：讀取玩家記憶卡，如果除了MGS外沒有別的存檔，他就會說玩家心靈很空虛；要是有其他[[KONAMI]]遊戲存檔，他就會說「你喜歡XXX（遊戲名稱）對吧」；要是有小島作品《SNATCHER》和《POLICENAUTS》的存檔，他便會用小島的聲音跟玩家說謝謝⋯
+*** [[美江牧師|&lt;s&gt;超自然&lt;/s&gt;]]震動：要玩家把DUALSHOCK搖桿放在地面，他就會出招使搖桿震動⋯
+*** 巧合的驚人預言：GAME CUBE重製版的所長室的照片依序是北村龍平(CG動畫監製)、小島秀夫(遊戲總製作人)、丹尼斯·戴雅克(代理商矽騎士社長)，Mantis在開打前把火球砸向右方把社長照片變成骸骨，結果矽騎士真的在十年後就倒閉了…
+** Mantis的告別秀：4代第5章擊敗四美獸之一「Screaming Mantis」後，他會附在Screaming Mantis留下的裝甲服上顯靈上演最後一次超能力秀。
+*** 「讀心」會因為PS3不需記憶卡而失敗；而「震動」方面，如果有裝DUALSHOCK 3搖桿便可成功，他便會歡天喜地升天去⋯
+
+* '''ヒデオ'''
+** 原出自《潛龍諜影》。Snake在對戰Psycho Mantis之始，Mantis讓電視畫面變黑的招式{{ref|照理說該列入上面「Mantis的超能力秀」一項，但基於本條目創建者對小島的敬&lt;s&gt;液&lt;/s&gt;意，特別分開說明}}。
+** Mantis開場會喊「Blackout」，接著畫面轉黑，右上角出現綠色「ヒデオ」三字，看似電視變成了未啟動影音設備時的影音模式。
+*** 但仔細看會發現綠色字並非「ビデオ（Video）」，而是小島秀夫的「秀夫（Hideo）」⋯數秒後便會回到遊戲畫面。
+** 4代的Screaming Mantis也會這招，同樣都是喊「Blackout」後進入黑畫面，但右上角變成了綠色的「ヒデオ2」⋯
+
+* '''發狂上校'''
+** 出自《潛龍諜影2》，雷電在終盤潛入Arsenal Gear時，直屬上司「上校」的一系列奇怪通訊。
+** 上校會瘋狂地呼叫雷電，內容全都是不知所謂的東西，例如說自己被外星人抓走，或者是叫人拿把剪刀來讓他切腹之類的。除此之外還會說出前作、外傳《Metal Gear: Ghost Babel》，還有MG終盤要玩家關機的假命令等。
+*** 此時的上校圖像也會變得很怪異，時而正面時而側面，甚至隱約可見臉皮底下的骷髏頭⋯
+** 同時Arsenal Gear內部的地名顯示也會出問題，全變成東京都內的地名。
+** {{censored|其實這位「上校」乃系列的幕後黑手「愛國者們」擁有的AI之一：G.W.投影在雷電腦中的幻象，由於G.W.在這之前已經中了Emma Emmerich研發的病毒，病毒剛好在雷電潛入時開始奏效，才使上校的言行出現異常。}}
+
+* '''FISSION MAILED'''
+** 出自《潛龍諜影2》，Snake與雷電在Arsenal Gear「乙狀結腸」與大量天狗兵戰鬥時，突然出現的GAME OVER畫面。
+** 2代後半（PLANT篇）的正規GAME OVER畫面為：右上角寫著「[[俠盜獵車手|MISSION FAILED]]」，左上角則是任務失敗的瞬間圖像，下頭有「EXIT」、「CONTINUE」兩個選項。
+** 細看天狗兵戰時的GAME OVER畫面會發現，右上角的「MISSION FAILED」被誤拼成「'''F'''ISSION '''M'''AILED」，下方大大的「EXIT」則寫成「E'''M'''IT」，「CONTINUE」成了「CONTINENT」，而左上角的小圖則是還在動作的遊戲畫面（可操作，千萬別停手）。數秒後就會變回正常的遊戲畫面{{ref|1=[https://www.youtube.com/watch?v=M3WBiVJdEyE#t=6m56s 參考用影片]}}。
+** {{censored|與上面的發狂上校相同，都是G.W.中了病毒而發生的現象。}}
+
+* '''「敗給你了」'''
+** 出自《潛龍諜影2》。雷電在終盤被Snake當誘餌而被打昏，醒來時在Arsenal Gear「胃」遭Solidus Snake拷問，之後被放走。
+** 此刻的雷電是全身[[裸奔|一絲不掛]]的，因此若在下張有天狗兵的地圖「空腸」被發現，是絕對無法對抗。
+** 但如果在被發現後迅速逃回「胃」，並在原本鎖住雷電的拷問台上靠牆的話，雷電會呈現被拷問時的姿勢，天狗兵追進來後會端詳雷電ㄧ下，然後莫名其妙說出「敗給你了⋯」後離開，同時戒備階段解除。
+*** {{censored|提示：在雷電呈現被拷問姿勢時鏡頭會拉遠，聚焦在附近桌上的飲料，而飲料吸管會剛好遮住雷電的[[陰莖|{{color|#000000||⋯}}]]}}
+
+* '''鱷魚帽'''
+** 出自《潛龍諜影3》，一頂可以讓Big Boss偽裝成鱷魚（雖然只有頭部）的頭套。裝備此道具後，浮在水面也不會被岸上或空中的敵人發現。
+** &lt;s&gt;Para-medic表示：好帥！像電影裡的鱷魚人一樣！&lt;/s&gt;
+** &lt;s&gt;儀式之人[[三神器]]之一。&lt;/s&gt;
+
+* '''打倒The End的三種方法'''
+** 出自《潛龍諜影3》。作品中有位BOSS「老年狙擊兵The End」，跟他對戰的地形橫跨三個區域，必須在這三個區域內跟他捉迷藏，找出他並將他打敗。若不諳打法此部分將很花時間，但其實除了正規打法外還有旁門左道可以鑽⋯
+** 正規打法：可以藉由狙擊鏡反光/引誘他開槍等方法先抓出他的位置，逮到他之後再以熱視鏡追蹤他腳印找到他下個藏匿地點，以上程序重複到打敗他為止。
+** 邪道打法1：打敗The Pain離開洞窟，沿著河流抵達「Ponizovje Warehouse: Exterior」會發生過場動畫，將過場動畫按掉後可以看見敵兵將The End搭乘的輪椅推回後方建築物，趁著他們進去前使用SVD狙擊槍瞄準The End頭部射擊可將他秒殺。
+*** 但相對地The End原本的轄區將會有山貓部隊駐守，必須將他們打倒才能繼續前進。
+** 邪道打法2：在正規打法的前提下先存檔，將遊戲主機的時間往後調一週後再讀檔，就會看見The End老死的過場動畫⋯
+
+* '''&lt;s&gt;身心和下巴&lt;/s&gt;被官方欺負的雷電'''
+** 《潛龍諜影2》本篇的主角從Snake變成雷電，儘管開拓了一些女性玩家群，小島團隊還是收到不少老玩家的不滿聲音。
+** 加上本系列的硬派風格也難以在女性客層中推廣，使雷電的定位變得兩面不是人。也因此，他在2代後續作品中的遭遇通常不太好過，不是變[[苦命人]]就是負責在其他片段搞笑。
+** 3代裡則出現一名長相、聲優都和雷電一樣的蘇聯少校「Ivan Raidenovich{{ref|意為「雷電的父親」}} Raikov」，玩家必須將他無力化並搶走他衣服偽裝成他繼續主線劇情，因此各種惡整他的玩法就陸續被玩家開發出來⋯
+*** &lt;s&gt;儀式之人：愉♂悅&lt;/s&gt;
+** 《潛龍諜影3：求生戰》的SECRET THEATER裡則收錄了一篇叫[https://www.youtube.com/watch?v=q3LhF9Th4kA 《Metal Gear Raiden: Snake Eraser》]的影片，敘述雷電想回到過去暗殺Big Boss以取代Snake坐上主角寶座卻失敗的悲情（？）故事。
+*** 影片最後Rosemary安慰他「不是還有5（可以讓他當主角）嗎？」，結果MGSV的主角還是Big Boss⋯
+** 4代裡透露雷電遭到生化改造而成了改造人不說，妻子Rosemary還被[[NTR]]{{ref|{{censored|其實是誤會一場，是Campbell為了幫他們瞞過「愛國者們」而進行的策略。}}}}，加上在劇中又受重傷，走悲劇改造英雄路線獲得不少玩家掌聲。
+** 不過在MGRR又被拖回戰場，不但要保護的對象在眼前被刺死，自己也再度受重傷，更換義體後變成不斬奪敵方改造人就會沒電的體質不說，還被迫面對自己內心好戰的黑暗面。最後雖然打倒幕後主謀但還是丟了工作⋯
+
+* '''小島本人登場'''
+** 出自《和平先驅》和《潛龍諜影5：原爆點》和《潛龍諜影5：幻痛》，簡單來說就是小島秀夫本人出現在遊戲中。
+** PW主線某關，小島就藏在一部車號是他生日的卡車裡，找到他後就可以將他收為同伴。
+** GZ的非主線關卡其中一關是要玩家從直升機上掩護他逃跑並將他救出，隨著過關評價不同，他還會有不同的台詞。
+** TPP的非主線關卡「112-最重要人物」裡交待他為9年前於Mother Base上服務的成員，玩家要再次從敵陣中將他救出。
+
+== 用語 ==
+=== Metal Gear ===
+:* 本系列名稱由來：搭載核彈的二足步行戰車。
+::* 除了少數作品外幾乎每代都會出現一台，通常作為終盤BOSS登場。本系列代表性圖騰之一。
+:* 沿革：3代中透露「在戰車上加上雙腳」的想法為蘇聯OKB-812設計局長Alexandre Leonovich Granin所提出，他認為「兵器是驅動時代轉動的齒輪」，更認為自己的構想為「連結『步兵』與『兵器』的齒輪」，因此將此構想取名為「Metal Gear」，可惜不被GRU採用。
+::* 之後他留下的設計圖外洩，而使得西方開始祕密研究二足步行戰車的技術。
+
+* '''TX-55 Metal Gear'''&lt;br&gt;[[File:img19354.png|none]]
+** 登場：《Metal Gear（MSX原版）》《Snake's Revenge》《Metal Gear: Ghost Babel》&lt;br&gt;所屬：Outer Heaven&lt;br&gt;設計者：Drago Pettrovich Madnar&lt;br&gt;駕駛員：無
+** 值得紀念的初代Metal Gear，安放於Outer Heaven地底下100層深處。還沒來得及啟動便被Solid Snake炸毀。
+** 本身完全不會動，只靠後方牆上會移動的防衛系統（參見圖）來攻擊Snake。腿部為弱點，但必須照Madnar博士提示的順序炸才有效&lt;s&gt;[[成句/這是什麼巫術|這是什麼巫術！？]]&lt;/s&gt;
+** 於非小島團隊製作的FC版中，礙於FC卡帶容量而未登場（僅在封面及宣傳圖上出現），取而代之的是一台「控制Metal Gear用」的巨型電腦安放於地下100層深處，同時配置四名敵兵保護。
+** NES上非本家續作《Snake's Revenge》中有出現此機體的量產型作背景{{ref|小島原本在製作《Metal Gear 2: Solid Snake》時有構想過要讓量產型Metal Gear排排站作背景，但礙於硬體性能未能實現，反倒是非本家的《Snake's Revenge》早一步實現這構想。順便一提，《MGS1》後常見的「探照燈」也是被《Snake's Revenge》早一步實現。}}。
+** 外傳《Metal Gear: Ghost Babel》的終盤可以見到它的殘骸躺在Galuade要塞地下100樓{{ref|因為這要塞是直接建在Outer Heaven原址上}}。
+
+* '''Metal Gear改D'''&lt;br&gt;[[File:img19355.jpg|none]]
+** 登場：《Metal Gear 2: Solid Snake》&lt;br&gt;所屬：Zanzibar Land&lt;br&gt;設計者：Drago Pettrovich Madnar&lt;br&gt;駕駛員：Grey Fox
+** 第二代的Metal Gear，Madnar博士為了超越前作而研發的「最高傑作」&lt;s&gt;但腿部還是很弱{{ref|其實是他故意留下的破綻}}&lt;/s&gt;。
+** 駕駛為Grey Fox，攻擊方式極為單調，只會一般射擊和飛彈。
+*** 與前作不同的是會動了，撞到它機身還會被秒殺&lt;s&gt;但還是很廢&lt;/s&gt;。
+*** 在一輪惡戰後被Solid Snake擊毀。
+
+* '''Metal Gear Rex'''&lt;br&gt;[[File:img19361.png|none]]
+** 登場：MGS、MGS4&lt;br&gt;所屬：美國陸軍&lt;br&gt;設計者：Hal Emmerich（Otacon）&lt;br&gt;駕駛員：Liquid Snake（MGS1）、Solid Snake（MGS4）
+** 2014年，掌控SOP系統而成為全球最大武力的Liquid Ocelot回到Shadow Moses島，以取得Rex的磁軌砲（未被SOP系統管理）發射核彈摧毀「愛國者們」。
+*** Rex的機體則被Otacon再度啟動並由Snake駕駛，在島上的港口與Liquid Ocelot駕駛的Ray激戰，最後Snake獲勝，但Rex也完全癱瘓。
+
+* '''Metal Gear Ray'''&lt;br&gt;[[File:img19362.png|750px|none]] 
+** 登場：MGS2、MGS4、MGRR&lt;br&gt;所屬：美國海軍陸戰隊→自由之子（MGS2）、民間軍事公司Outer Heaven（MGS4）、Desperado Enforcement（MGRR）&lt;br&gt;設計者：不明&lt;br&gt;駕駛員：Revolver（Liquid）Ocelot（原型機）、AI（量產機型）
+** 2代出現的Metal Gear，有分原型機和量產機兩種。
+*** 原型機為雙眼，有人駕駛，塗裝為青色；量產機則為單眼，AI控制，塗裝為褐色。
+** 2005年Shadow Moses事件結束後，Ocelot將製造Metal Gear的方法洩漏至黑市，使得各類Metal Gear亞種出現流竄跡象。美國海軍陸戰隊為了反制而秘密研發此款「對Metal Gear用Metal Gear」。
+** 名稱由來為魟魚，水陸兩用，機動性高，雙肩部分裝有機槍與導彈，嘴部則設有高壓水刀。
+** 2007年，Solid Snake潛入載運Ray原型機的偽裝油輪，但Ocelot與其盟友Sergei Gurlukovich父女也率領傭兵佔領油輪，準備搶奪Ray。
+*** 然而在Sergei一行人得手後，Ocelot卻突然背叛，殺害Sergei以及在場的海軍陸戰隊司令後駕駛Ray逃走。
+** 2009年，Solidus Snake和Ocelot率領的武裝集團「自由之子」佔領紐約外海的巨型除污設施「Big Shell」，雷電潛入後從神秘忍者「Mr. X」和美國總統James Johnson處得知驚人內幕：Big Shell其實是為了隱瞞「新型Metal Gear」的存在而建造的幌子。而「新型Metal Gear」則是潛藏於Big Shell底下的超巨型戰艦「Arsenal Gear」，內有25架Ray量產機，且可發射氫彈。
+*** 後來在雷電及Solid Snake一行人的活躍{{censored|以及「愛國者們」的操盤}}下，Arsenal Gear失控衝撞紐約市，25架量產型Ray也全數癱瘓，Ray原型機則被覺醒為Liquid Ocelot的Ocelot搶走。
+** 2014年，Liquid Ocelot秘密奪得的Arsenal Gear後繼艦「Outer Haven」，25架Ray量產機也被他回收，搭載於Outer Haven上。
+*** Ray原型機由Liquid Ocelot親自駕駛，與Snake駕駛的半殘Rex對戰，被擊破。
+*** 最後隨著「愛國者們」的毀滅，25架Ray量產機也全數停擺。
+** 2018年，民間軍事公司Desperado Enforcement在襲擊非洲某國時派出一架改造型的Ray量產機對付追殺他們的雷電。
+*** 此型號除了原有的武裝外，在肩部還裝備了近戰用刀刃。
+*** 這架Ray最後在激戰中被雷電摧毀。
+
+* '''Shagohod'''&lt;br&gt;[[File:img19363.png|386px|none]]
+** 登場：MGS3&lt;br&gt;所屬：蘇聯參謀本部情報總局（GRU）&lt;br&gt;設計者：Nikolai Stepanovich Sokolov&lt;br&gt;駕駛員：Yevgeny Borisovich Volgin
+** 由蘇聯OKB-754設計局長Sokolov所研製的核武搭載戰車。名稱在俄語中為「步行者」之意。
+*** 搭載了中程彈道飛彈，以火箭引擎推進機體再發射飛彈，以使中程彈道飛彈達到與洲際彈道飛彈相同的飛行距離。
+** 1964年，蘇聯GRU上校Volgin從Sokolov手中奪走未完成的Shagohod機體，並綁走Sokolov逼他繼續完成。
+*** 之後Shagohod所在的機庫被Big Boss裝設的C3炸藥炸毀，但Shagohod卻安然無恙，剛在肉搏戰敗給Big Boss的Volgin則親自搭上Shagohod追殺Big Boss和Eva。
+*** Volgin甚至使用自身發出的電力啟動Shagohod繼續戰鬥，但依然不敵Big Boss。最後重傷的Volgin被落雷劈死，Shagohod也因此停擺。
+** 其設計概念之後外流到CIA中美分局，使當時為CIA中美分局長Hot Coldman工作的Huey以此為基礎研發出AI兵器「Pupa」。
+
+* '''月光'''&lt;br&gt;[[File:img19364.jpg|308px|none]]
+** 登場：MGS4、MGRR
+** 所屬：五大PMC（MGS4）、Desperado Enforcement（MGRR）&lt;br&gt;設計者：不明&lt;br&gt;駕駛員：AI
+** ArmsTech所研發的量產型無人Metal Gear，正式產品名稱為「Irving」，未搭載核武。在2014年的戰爭經濟黃金期，甚至在這之後也被各大民間軍事公司普遍使用。
+*** 擁有柔軟度極高的步足，甚至可攀附於建築物牆上，因此又被稱為「壁虎（Gekko，音同日語「月光」）」。
+*** 除了基本型外還有各種不同改造型，甚至連可自爆的改造型都有。
+** &lt;s&gt;給雷電試刀用的砲灰。&lt;/s&gt;
+** &lt;s&gt;[[吉祥物]]&lt;/s&gt;
+
+* '''Metal Gear Mk.II &amp; III'''&lt;br&gt;[[File:img19365.jpg|144px|none]]
+** 登場：MGS4&lt;br&gt;所屬：Nomad&lt;br&gt;設計者：Hal Emmerich、Sunny&lt;br&gt;駕駛員：Solid Snake、Hal Emmerich（遙控）
+** 源自小島另一作品《SNATCHER》中的角色，但《SNATCHER》中的Metal Gear Mk.II有裝備AI（CV：&lt;s&gt;[[紫色老太婆]]&lt;/s&gt;小山茉美），可自行說話。
+*** 本系列中則是由Otacon和Gurlukovich遺孤Sunny根據「把Metal Gear技術用於和平用途」的理念而共同研發的超小型Metal Gear，外表與TX-55 Metal Gear有幾分相似。
+** 可供Snake與Otacon視訊通話，且備有光學迷彩機能且裝備了可將敵人無力化的電擊索。同時也備有傳輸線供Otacon從遠方駭入電腦用，甚至裡面有空間可收納手槍。
+** Otacon和Sunny研發出的第一架稱為「Metal Gear Mk.II」，之後Mk.II在東歐潛入Liquid Ocelot搭乘的小艇上，被Vamp發現而被踏壞。
+** 之後兩人再研發第二架供Snake使用，稱「Metal Gear Mk.III」，外裝則塗成紅色。
+*** Mk.III在「愛國者們」覆滅後，被Sunny送給了一位新認識的朋友作為見面禮。
+
+* '''Peace Walker'''&lt;br&gt;[[File:img19366.jpg|336px|none]]
+** 登場：MGSPW&lt;br&gt;所屬：CIA中美分局&lt;br&gt;設計者：Huey（機械&amp;Reptile Pod部分）、Strangelove（Mammal Pod部分）&lt;br&gt;駕駛員：AI（Mammal Pod &amp; Reptile Pod）
+** 由CIA中美分局長Hot Coldman主導的「Peace Walker計畫」的核心，全名為「AI搭載自動報復步行戰機」，搭載自動報復系統，可偵測飛來的飛彈並立即發射核彈還擊。有二足步行及四足步行兩種形態。
+*** 而Coldman企圖證實自己「只有機器才能確實執行報復，以達到完美嚇阻之效」之理論，決定以AI作為Peace Walker的核心。為此他找來Strangelove替他研發作為頭腦的AI，同時也找來Huey替他研發各種AI兵器，作為Peace Walker的機體部分候補。
+** 由兩組AI分別執行「思考」及「動作」。「思考」部分稱Mammal Pod，為Strangelove所研發{{censored|重現The Boss生前思考的AI}}，負責進行報復判斷；「動作」部分稱Reptile Pod，負責管理Peace Walker的動作與武器。
+*** 武裝相當豐富：可以啟動推進器衝撞敵人，還可發射鑽頭飛彈，機身底部設有火焰放射器。圓球狀頭部可發射毒性光線癱瘓敵人身體，也可發出電磁波使需要雷射瞄準的武器失效，同時也內含氫彈，若是爆炸威力號稱比沙皇炸彈強大。
+** 1974年，Coldman原想對Peace Walker輸入「蘇聯對美國本土發射核彈」的假資料，再將「無國界軍隊」基地設為報復目標以完成他的理論。但在蘇聯方合夥人Vladimir Alexandrovich Zadornov的背叛下而未得逞。
+*** Zadornov藉由Paz Ortega Andrade之手射傷Coldman，並強迫Strangelove將報復目標換為古巴，以進行加速中美洲赤化的戰略，就在Zadornov想殺Big Boss滅口時被「無國界軍隊」阻止。
+*** 然而Peace Walker也能夠傳輸假資料給外部，因此Coldman利用臨死前最後一絲力氣讓Peace Walker發射假資料給北美空防司令部（NORAD），並準備對古巴發射核彈。
+*** Big Boss於一輪激戰後暫時將Peace Walker癱瘓，Mammal Pod也在此刻自動打開，讓Big Boss進入拆解AI板。但Mammal Pod的動作程序流入Reptile Pod而繼續傳送假資料，就在現場以及美國方面萬念俱灰之際，Peace Walker突然自動站起，一面播放The Carpenters的[http://www.youtube.com/watch?v=iYjcNR7W-Ow 「Sing」]一面走入尼加拉瓜湖中自沉，阻止了核戰爆發。
+*** 上頭搭載的核彈之後被「無國界軍隊」回收，裝上新研發的Metal Gear ZEKE上。
+*** {{censored|Mammal Pod之後被與「愛國者們」合作的Huey打撈起來，於1984年阿富汗戰爭期間被Diamond Dogs回收。}}
+
+* '''Metal Gear ZEKE'''&lt;br&gt;[[File:img19367.jpg|348px|none]]
+** 登場：MGSPW&lt;br&gt;所屬：無國界軍隊（MSF）&lt;br&gt;設計者：Huey（機械部分）、Strangelove（AI部分）&lt;br&gt;駕駛員：AI（無人狀態）{{censored|、Paz Ortega Andrade（有人狀態）}} 
+** 「無國界軍隊」在Huey加入後新研發的Metal Gear，外表近似1代的Rex，取名由來為零式戰鬥機。
+** 武裝有：磁軌砲、雷達罩、推進器、外層裝甲板等，零件皆來自Big Boss於哥斯大黎加擊敗的AI兵器&lt;s&gt;看起來好像很威，但高階任務三不五時就被打爆甚至失敗&lt;/s&gt;。
+*** Huey負責完成機身部份，而在Peace Walker事件結束後加入的Strangelove則替Zeke設計AI，作為頭腦。機上搭載了從Peace Walker上回收的核彈。
+** 一般狀態下為AI駕駛，可外派支援步兵。{{censored|但Paz暗中將它改造為可載人，有人狀態時需要注水做為防衝擊之用。}}
+*** {{censored|Paz原想執行她的幕後老闆「CIPHER（即愛國者們）」的指示，在改造完成之際挾Zeke以令「無國界軍隊」替CIPHER效命，但她開始對「無國界軍隊」的生活感到憧憬而刻意拖慢改造進度，卻被其他內應發覺，於是她決定故意破壞Zeke零件卻又被「無國界軍隊」的年幼成員Chico目擊，她只得立刻啟動Zeke，自曝身份與Big Boss一戰。最後Zeke被Big Boss癱瘓，Paz則從駕駛艙摔落加勒比海中。}}
+** TPP中為了規避國際原能會的核武檢查{{censored|（其實是XOF為了摧毀「無國界軍隊」而設的局）}}而被藏進海裡。之後詳情不明。
+
+* '''Metal Gear Excelsus'''&lt;br&gt;[[File:img19369.jpg|384px|none]]
+** 登場：MGRR&lt;br&gt;所屬：Desperado Enforcement&lt;br&gt;設計者：不明&lt;br&gt;駕駛員：Steven Armstrong
+** 民間軍事公司Desperado Enforcement所擁有的超巨型Metal Gear。雖名為Metal Gear，但未搭載核武。四足步行，且裝備了一對巨大的手臂，宛如螃蟹，可於地底潛行。
+** 2018年，雷電在摧毀DE社的後台「World Marshal社」後，得知他們的幕後金主：科羅拉多州參議員「Steven Armstrong」準備於巴基斯坦Shabhazabad空軍基地暗殺即將到訪的美國總統，於是趕緊前往，但Armstrong早讓DE社改造人侵入基地殺害當地美軍，並流出「駐巴基斯坦美軍被恐攻」的假消息，準備煽動美國國內輿論傾向開戰。
+*** Armstrong駕駛Excelsus從地底出現，告知雷電自己的計畫後便與雷電開打，最後雷電斬下Excelsus的手臂，以之作為[[大劍|斬艦刀]]將Excelsus擊破。
+*** 之後Armstrong則吸收Excelsus內的剩餘能源，配合體內的特殊奈米機械強化自己肉體，與雷電進行激烈肉搏戰，戰敗。
+
+* '''ST-84 Metal Gear "Sahelanthropus"'''&lt;br&gt;[[File:img19370.png|225px|none]]&lt;br&gt;[[File:img22418.jpg|384px|none]]
+** 登場：MGSV:TPP&lt;br&gt;所屬：蘇聯軍→XOF{{censored|→蠅之王國}}&lt;br&gt;設計者：{{censored|Huey}}&lt;br&gt;駕駛員：{{censored|Eli（Liquid Snake）、Tretij Rebenok}}
+** 2014、2015年E3電玩展，以至TPP公開發售預告中均有出現的Metal Gear，外型酷似Metal Gear Rex，機頭畫有白色骷髏頭標誌。
+*** 名稱及機頭標誌由來為[https://zh.wikipedia.org/wiki/%E4%B9%8D%E5%BE%97%E6%B2%99%E8%B5%AB%E4%BA%BA 查德人猿（Sahelanthropus tchadensis）]。
+** {{censored|此Metal Gear為Skull Face與蘇聯合作開發，由Huey負責設計。}}
+** {{censored|開發完成後便遭Skull Face利用Tretij Rebenok的特殊能力奪為己用，在Venom Snake及Diamond Dogs的全力攻擊下被擊毀，並運回Diamond Dogs母基地作為「復仇完成的紀念碑」。}}
+** {{censored|然而Huey之後卻暗中教導Eli等童兵操作及修復技術，導致機體被Eli趁隙奪走。最後在Eli於非洲某處建立的「蠅之王國」被Venom Snake擊毀。}}
+** 有直立二足行走型態，且能從腰部拔出類似劍刃的電熱鞭。&lt;s&gt;這已經比黑科技更黑科技了&lt;/s&gt;
+*** {{censored|該武器正式名稱為「Archaea Blade」，附著其上的發熱粒子狀物質為Code Talker所發現的「極限環境微生物（Metallic Archaea）」：一種可吞食鈾元素甚至將之壓縮的古代菌種，同時亦可改變物質形體，因此Archaea Blade得以變化型態及在地面製造衝擊波。}}
+** 本身沒有搭載核武{{censored|但機體裝甲內含微量貧化鈾元素，可藉「極限環境微生物」將其中的鈾-235急速濃縮使Sahelanthropus直接自爆，形同會走路的核彈。根據Huey所言，其自爆時產生能量恐高達15千噸。}}
+
+* '''Walker Gear/D-Walker'''
+** 登場：MGSV:TPP&lt;br&gt;所屬：蘇聯軍、非洲傭兵、XOF/Diamond Dogs&lt;br&gt;設計者：Huey&lt;br&gt;駕駛員：一般士兵/Venom Snake
+** Huey在Skull Face的要求下替蘇聯開發的小型二足步行機械，之後被蓄意流通到非洲部分傭兵集團手中，Diamond Dogs所屬的則是Huey被回收後替Snake製造的玩家專用
+*** 有步行跟滑輪移動兩種移動方式，但移動的聲音都很大，基本上不適合潛入任務使用
+** 雖然跟歷代的MG相比不太起眼，但Walker Gear其實是歷代中最接近「在戰車上加上雙腳」、「連結『步兵』與『兵器』」這個構想的兵器
+*** 小型化的機體讓它在戰場上有更靈活的機動性，機械手臂跟雙足也有一定的戰鬥力，即使被貼臉也有反擊的餘地
+*** &lt;s&gt;最大的缺點就是駕駛姿勢不符合人體工學，要一直維持半蹲的姿勢感覺很傷腰和脊椎&lt;/s&gt;
+** Snake專用的D-Walker可以自由搭配零件、武裝及配色，最多有三個組合欄位可以選擇
+*** 裝載特定零件後會偵測附近敵人，可以視為兼具狗跟馬兩者性能的搭檔
+*** 由於上頭的武裝不支援無限頭巾，被敵人發現時也會遭受攻擊，除特定關卡外基本上沒什麼人會用
+
+* '''Battle Gear'''&lt;br&gt;[[File:img20062.jpg|348px|none]]
+** 登場：MGSV:TPP&lt;br&gt;所屬：Diamond Dogs&lt;br&gt;設計者：Huey&lt;br&gt;駕駛員：AI
+** 2015年E3電玩展的TPP簡短版預告中出現的Metal Gear，外型酷似Metal Gear ZEKE，但實際造好後看起來就是個四足坦克。
+** Huey為Diamond Dogs研發的Metal Gear，宣稱是為了應付在非洲戰場上大量流通的Walker Gear而設計的
+*** 跟ZEKE一樣是派遣任務用，但只有特定的任務能用，大概是系列中最影薄的MG。
+*** &lt;s&gt;雖然設計時Huey講的好像很厲害，但實際表現實在有點...常跟ZEKE一樣出個任務被敵軍打爆回家，Huey設計的真的都是一堆破銅爛鐵&lt;/s&gt;
+*** {{censored|小島原案有打算讓玩家在一般任務中使用此Metal Gear，但後來認為太破壞遊戲平衡而改成只能在派遣任務中使用}}
+
+=== Outer Heaven ===
+* 初次於《Metal Gear》中登場，位於南非的虛構武裝要塞國家。整個組織的成員{{censored|以身兼FOXHOUND總司令的Big Boss為首，}}都是傑出的傭兵，組織宗旨為「創造可讓戰士盡情發揮的戰場」。擁有TX-55 Metal Gear作為終極武器，但被Solid Snake一併摧毀。
+** 《Metal Gear: Ghost Babel》中則設定為美國政府在非洲設置的傭兵派遣公司，提供武器給非洲的政府及反政府勢力，製造戰亂好讓美國有藉口[[武力介入]]。
+
+* 《潛龍諜影》以後的系列作中也數度被提及：
+** MGS1：Liquid Snake自稱要將要塞化的Shadow Moses島改名Outer Heaven。
+** MGS2：Solidus Snake企圖讓Arsenal Gear上搭載的氫彈在紐約上空爆炸，使紐約{{censored|受「愛國者們」控管的}}各種電子儀器癱瘓，而形成「解放區（Outer Heaven）」。Outer Heaven一字從此代起出現符碼化趨勢。
+** MGS4：Liquid Ocelot將自己的民間軍事公司命名為Outer Heaven。也從這代起，Outer Heaven正式被劇中角色作為{{censored|與「愛國者們」對立的}}符碼。
+** MGSPW：作為象徵「拋棄家園的戰士們的容身之處」的單詞被提及。日版甚至一度將Outer Heaven配上「地獄」的漢字，彷彿對Big Boss與MSF成員們而言，這個唯一的容身之處既是天堂，也是地獄。
+
+* 在如今被官方當外傳的《掌上行動》中則有著與初代類似的解釋：FOX的新指揮官Gene企圖讓全世界陷入渾沌，建造可讓戰士們盡情戰鬥的「軍隊天堂（Army's Heaven）」。不認同其想法的Big Boss則說：「真正的天堂，是在你的天堂外面（Outer Heaven）」。
+
+=== FOX ===
+
+=== FOXHOUND ===
+
+=== 無國界軍隊（Militaires Sans Frontières） ===
+* 於《和平先驅》和《原爆點》登場，命名靈感為無國界醫生（Médecins sans frontières）。
+* 70年代中期由Big Boss和Kazuhira Miller（即Master Miller）於南美哥倫比亞所創立的傭兵派遣公司。剛開始只是小規模經營，1974年被捲入哥斯大黎加的Peace Walker事件而得以擁有母基地並漸漸擴大規模和生意範圍。Peace Walker事件過後曾一度遭神秘的非官方諜報組織「CIPHER{{censored|（即「愛國者們」）}}」威脅加入門下，但Big Boss拒絕，正式與「CIPHER」走上對立之路。
+
+* 1975年，「無國界軍隊」母基地在Big Boss前往古巴營救人質的空檔遭到神祕武裝集團「XOF」摧毀，「無國界軍隊」就此消滅。
+** 原因大致上有三個：
+*** {{censored|XOF假冒國際原能會名義打算來基地「做檢查」，Huey卻毫不懷疑地答應，給他們裝炸彈的機會。}}
+*** {{censored|幼年兵Chico在XOF頭子Skull Face的威脅利誘下招出基地位置，並發假求救訊息引Big Boss去古巴救他。&lt;s&gt;Chico必須死&lt;/s&gt;}}
+*** {{censored|大多數武裝及人員為了規避「檢查」而撤到陸地，Metal Gear Zeke也藏進海中，使母基地武力薄弱。}}
+
+=== Diamond Dogs ===
+* 於《潛龍諜影5：幻痛》登場，1984年由Big Boss、Miller和Ocelot於非洲建立的新傭兵派遣公司。同樣擁有Mother Base。
+
+=== 愛國者們（The Patriots） ===
+* 於《潛龍諜影2》開始被提及的名詞，號稱是真正控制美國，甚至全球政經的幕後老大哥組織。
+* 知道他們存在的人少之又少，且「愛國者們」的名號遭到[[河蟹|控管]]，若是有注射奈米機械的政界、軍界相關人士說出這名號，就會自動變成「らりるれろ（La-li-lu-le-lo）」，讓人聽不懂。
+** {{censored|由來為1964年「食蛇者作戰」中，Big Boss和Eva會合時預定使用的口令：「愛國者是？」（問）「らりるれろ」（答）。}}
+
+* 主要核心成員由12位「老人」構成，每個都是美國政、經、軍界影響力大到喊水會結凍的大老。
+** {{censored|以上只是幌子，其真面目為1964年「食蛇者作戰」結束後，由參與作戰的「FOX」核心成員Big Boss、Zero、Para-medic、SIGINT加上Eva、Ocelot於1970年所創設的組織。組織宗旨為實現The Boss的遺志：「達成人類意志的統合」。設立資金來自二次大戰時中美蘇三大勢力的秘密資金「賢者的遺產」。}}
+** {{censored|由於Zero以Big Boss作為組織「偶像」擴展人脈，「愛國者們」迅速壯大。但Zero擅自解釋The Boss的遺志，希望以暴力控管的方式達成組織宗旨，開始和不認同他作法的Big Boss發生衝突。企圖繼續維持Big Boss影響力的Zero啟動「恐怖之子」計畫，卻成為令Big Boss與其決裂的最後一根稻草。Eva和Ocelot雖暫時待在組織內，但兩人其實支持Big Boss。}}
+** {{censored|Big Boss為了反抗「愛國者們」而分別於1995年、1999年發動Outer Heaven、Zanzibar Land兩次戰爭，但都被「恐怖之子」計畫的成品--自己的兒子Solid Snake破壞，Big Boss因此受到瀕死重傷，被Zero以奈米機械封鎖意識。}}
+** {{censored|由於Big Boss的背叛而不信任他人的Zero決定將「愛國者們」交由AI管理，「愛國者們」的主體此後便轉為五大代理AI：J.D.、G.W.、T.J.、A.L.、T.R.。其中最重要的G.W.則作為篩選網路上爆炸的資訊，以創造Zero心目中「健全社會」之用。但AI只懂不停執行既定的程序，無法與時俱進，結果在一連串事件後使得世界演變成「戰爭經濟」的時代。}}
+** {{censored|五大代理AI於2014年「愛國者之槍」事件中被毀滅，而創始成員則有兩名先於2005年死去：Para-medic、SIGINT；之後Eva、Ocelot、Zero和Big Boss於「愛國者之槍」事件前後陸續死去，「愛國者們」至此完全消滅。}}
+** {{censored|除了組織本身外，似乎尚有其他外圍組織，例如曾在1974-75年和1984年與Big Boss交手的非官方諜報組織「CIPHER」。}}
+
+* 以上防雷部份為4代以後才正式確立的設定，在2代時從頭到尾並未解答「愛國者們」的真面目是什麼。
+** &lt;s&gt;若是照小島原本構想，在2代或3代就將系列完結的話，似乎不難看出小島或許只是想藉「愛國者們」諷刺螢幕外現實世界的某些人⋯？&lt;/s&gt;
+
+=== 令人恐懼之子計劃（Les Enfants Terribles） ===
+* 《潛龍諜影》以後數度被提及的名詞，即創造出Big Boss複製人的計畫。名稱由來為法國詩人考克多1929年創作的同名小說。
+* 計畫成品有三人：Solid Snake、Liquid Snake、Solidus Snake。其中Solid Snake和Liquid Snake分別繼承了Big Boss的劣性與優性基因，各走極端；而Solidus Snake則是三人之中最穩定的，堪稱完美的Big Boss複製人。
+* {{censored|計畫主要執行者為「愛國者們」成員Para-medic（Clark博士），當初此計劃乃「愛國者們」創始人Zero為了留住與他漸行漸遠的Big Boss而啟動，結果反而成為讓Big Boss離開「愛國者們」的最後一根稻草。}}
+
+== &lt;s&gt;未來發展&lt;/s&gt; ==
+* 2015年3月19日，小島工作室官方網站無預警消失（被導向新設MGS官網），Twitter帳號宣佈轉移，遊戲官方網站上關於「小島工作室」商標與「A Hideo Kojima Game」字樣皆被移除。&lt;s&gt;小島秀夫の消失&lt;/s&gt;
+** 美國知名電玩網站GameSpot亦獲得不具名內部爆料，指出小島秀夫與工作室高層在《潛龍諜影5：幻痛》完成後將會離開KONAMI，全員已由正職員工轉為約聘員工。
+** KONAMI於2015年3月20日針對此事[http://gnn.gamer.com.tw/0/112380.html 發表聲明]，宣示未來將會持續製作與提供《潛龍諜影》系列作，除了決議著手展開新作的製作，同時宣布開始招募新作的主要製作班底，等同間接承認小島秀夫及工作室管理高層即將於《潛龍諜影5：幻痛》發表後去職。
+**2015年12月15日，小島自 Konami Digital Entertainment（KONAMI）正式退社，並且與 KONAMI 時代的部下一同成立新公司。{{ref|http://gnn.gamer.com.tw/4/125244.html}}
+
+== [[角色]]人物簡介 ==
+=== 故事系列核心主角 ===
+* [[Big Boss|Naked Snake（Big Boss）]]
+** CV：大塚明夫、大塚周夫（MGS4）【日語】；David Hayter、Richard Doyle（MGS4）、Kiefer Sutherland（MGSV）【英語】
+** 登場作品：MG1、MG2、MGS3、MPO、MGS4、MGSPW、MGSV（GZ/TPP）
+** 本名John，Jack乃在CIA時的代號。美國特殊部隊Fox Unit成員，曾參與「Operation Snake Eater」，阻止了在美蘇之間的大戰，並殺死了「傳說中的士兵」The Boss，而得到Big Boss的稱號。
+** 在未經自身同意與不知情的情況下參與了令人恐懼之子計劃，並成為Solid Snake、Liquid Snake和Solidus Snake三人的基因提供者。
+** 特殊部隊Foxhound和要塞國家Outer Heaven及Zanzibar Land的創立人。
+
+* [[Punished 「Venom」 Snake]]
+
+* [[Solid Snake]]
+** CV：大塚明夫【日語】；David Hayter【英語】
+** 登場作品：MG1、MG2、MGS1、MGS2、MGS4、MGS3（猿蛇合戦）
+** 潛龍諜影大部分作品中的主角。據考證是以John Carpenter的漫畫《Snake Plissken Chronicles》的主角大蛇·普利斯金（該漫畫曾改編成兩部電影，《紐約大逃亡》及《洛杉磯大逃亡》），以及《第一滴血》的主角約翰·藍波為原型（三代中的主角Snake也就是Big Boss也參考此二人）。
+** 本名David，是「愛國者們」藉由拿取Big Boss五十五歲時的基因所製造出來的複製人，因此身體細胞急速老化。前Foxhound成員，IQ達180，能操流利六國語言。
+** 曾參與並解決「Outer Heaven危機」及「Zanzibar Land事件」，在兩次事變中摧毀了Metal Gear及Big Boss的野心而拯救世界，得到「傳說中的傭兵」這稱號。
+*** 退伍後在阿拉斯加隱居，之後因「Shadow Moses事件」而被迫再次參與任務。
+*** 事件後與Otacon一同成立反Metal Gear財團法人「Philanthropy」，在世界各地參與反Metal Gear運動。
+** 最後在Otacon、Sunny、Eva和Ocelot的幫助下摧毀「愛國者們」，然後和Otacon一起退隱，享受餘生。
+
+* Liquid Snake
+** CV：銀河萬丈{{censored|、本城雄太郎（MGSV:TPP）}}【日語】；Cam Clarke【英語】
+** 登場作品：MGS1、MGS2、MGS4
+** Big Boss的複製人之一，Solid Snake的雙胞胎兄弟。
+** Shadow Moses事件中Foxhound的指揮官，計劃失敗後死於FoxDie病毒誘發的心肌梗塞。
+** 此後，其右臂被移植到Ocelot身上，Liquid的意識竟然也「寄生」到了Ocelot體內。
+** 在MGS2中Liquid的意識復甦後就占據了主導地位，以致在MGS4中Ocelot也變成了Liquid Ocelot，後被證實只是Ocelot為了矇騙「愛國者們」所做的自我催眠。
+
+* Solidus Snake
+** CV：大塚明夫【日語】；John Cygan【英語】
+** 登場作品：MGS2、MGS4
+** 繼Solid於Liquid之後第三個複製人，因為基因上的瑕疵外表顯得較蒼老，但肉體較為強韌，堪稱Big Boss的「最完美複製人」。2005年Shadow Moses事件當時的美國總統，以及2009年Big Shell事件的首謀者。
+** 穿著特殊強化裝甲，主要武裝為可拆卸的觸手型武器「蛇手」，護身用P90衝鋒槍，以及兩把分別名為「民主刀」與「共和刀」的日本刀。
+** 在Big Shell事件中駕駛AV-8B Harrier II與Solid Snake &amp; 雷電激戰而失去左眼，之後戴起眼罩，被Ocelot評為「更像Big Boss了」。
+
+* [[Revolver Ocelot]]
+
+== 連結 ==
+* [http://www.konami.jp/mg25th/ 潛龍諜影系列25周年官網]
+* [http://www.konami.jp/kojima_pro/ 小島工作室官網]
+* [[Solid Snake]]
+* [[Big Boss]]
+* [[雷電(潛龍諜影)|雷電]]
+
+== 回應 ==
+*[[{{TALKPAGENAME}}]]
+
+==備註==
+&lt;references /&gt;
+[[分類:遊戲]]
+[[分類:動作遊戲]]
+[[分類:KONAMI]]
+[[分類:潛龍諜影系列|*]]
