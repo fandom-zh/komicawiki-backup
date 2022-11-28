@@ -1,0 +1,125 @@
+'''Fate Noble Phantasm''' 模板是用來顯示 Fate 系列的 Servent 的寶具用的模板。
+您也可以使用 <nowiki>{{Fate寶具}}</nowiki> 來使用此模板。
+
+== 參數 ==
+此模板的參數如下
+{| class="wikitable sortable"
+|-
+! 參數  !! 預設值  !! 說明
+|-
+| image || （寶具圖像） || 寶具圖像。可以是 wiki 內部圖片或是外連圖片<br />
+* 使用wiki 內部圖片的方式： <nowiki>{{Fate Noble Phantasm|image=[[File:img.jpg]]}}</nowiki>
+* 使用外連圖片的方式： <nowiki>{{Fate Noble Phantasm|image= http://example.org/img.jpg }}</nowiki>
+|-
+| color  || black || 寶具名稱、讀音的文字顏色
+|-
+| bgcolor || inherit || 寶具名稱、讀音的背景顏色
+|-
+| name || ? || 寶具名稱
+|-
+| pronounce || ? || 寶具讀音
+|-
+| rank || ? || 寶具等級
+|-
+| type || ? || 寶具種類，例如「對軍寶具」
+|-
+| range || ? || 寶具範圍
+|-
+| maxcaught || ? || 寶具最大捕捉
+|-
+| explain || ? || 寶具說明
+|-
+|}
+
+==範例==
+{{Fate寶具
+|color= white
+|bgcolor= black
+|name= 這只是一把劍
+|pronounce = This is a sword
+|rank=EX
+|type= 對人寶具
+|range=1~2
+|maxcaught=3
+|explain= 這只是一個範例而已。
+}}
+=== 原始碼 ===
+<pre><nowiki>{{Fate Noble Phantasm
+|color= white
+|bgcolor= black
+|name= 這只是一把劍
+|pronounce = This is a sword
+|rank=EX
+|type= 對人寶具
+|range=1~2
+|maxcaught=3
+|explain= 這只是一個範例而已。
+}}</nowiki></pre>
+
+== 複數寶具的情況 ==
+本模板僅適用於單一寶具
+
+若該 Servent 有複數寶具，請使用 [[模板:Fate寶具標頭]] 和 [[模板:Fate寶具列]]
+
+這兩個模板的使用方式如下：
+<pre>
+{| class="wikitable" <!-- 表格起始 -->
+{{Fate Noble Phantasm Head}} <!-- 顯示名稱、讀音、等級、種類、範圍、最大捕捉這幾個欄位 -->
+{{Fate寶具列}} <!-- 第一個寶具 -->
+{{Fate寶具列}} <!-- 第二個寶具 -->
+{{Fate寶具列}} <!-- 第三個寶具 -->
+|} <!-- 表格結尾 -->
+</pre>
+
+=== 範例 ===
+{| class="wikitable"
+	{{Fate Noble Phantasm Head}}
+	{{Fate寶具列
+		|color=     white
+		|bgcolor=   black
+		|name=      這只是一把劍
+		|pronounce=  This is a sword
+		|rank=      EX
+		|type=      對人寶具
+		|range=     1~2
+		|maxcaught= 3
+		|explain=   這只是一個範例而已。}} 
+	{{Fate寶具列|
+		|color=     white
+		|bgcolor=   black
+		|name=      這是一本書
+		|pronounce=  This is a book
+		|rank=      E
+		|type=      對軍寶具
+		|explain=   這是第二個寶具。}}
+|}
+
+==== 原始碼 ====
+<pre>{| class="wikitable"
+	{{Fate Noble Phantasm Head}}
+	{{Fate寶具列
+		|color=     white
+		|bgcolor=   black
+		|name=      這只是一把劍
+		|pronounce=  This is a sword
+		|rank=      EX
+		|type=      對人寶具
+		|range=     1~2
+		|maxcaught= 3
+		|explain=   這只是一個範例而已。}} 
+	{{Fate寶具列|
+		|color=     white
+		|bgcolor=   black
+		|name=      這是一本書
+		|pronounce=  This is a book
+		|rank=      E
+		|type=      對軍寶具
+		|explain=   這是第二個寶具。}}
+|}</pre>
+
+
+
+
+
+
+<includeonly>[[category:模板]][[category:特定主題使用模板]]</includeonly><noinclude>[[Category:模板文件]]</noinclude>

@@ -1,0 +1,18 @@
+<includeonly>
+{| class="wikitable" style="margin: 0 auto"
+{{Fate Noble Phantasm Head}}
+{{Fate Noble Phantasm Row
+|image=     {{{image|（寶具圖像）}}}
+|color=     {{{color|black}}}
+|bgcolor=   {{{bgcolor|inherit}}}
+|name=      {{{name|?}}}
+|pronounce= {{{pronounce|?}}}
+|rank=      {{{rank|?}}}
+|type=      {{{type|?}}}
+|range=     {{{range|?}}}
+|maxcaught= {{{maxcaught|?}}}
+|explain=   {{{explain|?}}}
+}}
+|}
+</includeonly>
+<noinclude>{{documentation}}</noinclude>
