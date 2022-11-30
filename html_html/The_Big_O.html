@@ -1,0 +1,561 @@
+<!DOCTYPE html><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" src="http://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=-xrDYD26wYPCPyP6zCKA5mYjiJbOinkqNufK95ndqEUCenxc9j_CCG6X80o7kTspsw3vgDyVBKCOTuVnK6Qau_Sffe8_jfGOjDsR-J8kKNHwuj_MhbkvXt3_6GCaBmz2BVk9tZL4ZrNeW2vbtiHEjQ" charset="UTF-8"></script><base href="https://wiki.komica.org/The_Big_O"><style>body{margin-left:0;margin-right:0;margin-top:0}#bN015htcoyT__google-cache-hdr{background:#f8f9fa;font:13px arial,sans-serif;text-align:left;color:#202124;border:0;margin:0;border-bottom:1px solid #dadce0;line-height:16px;padding:16px 28px 24px 28px}#bN015htcoyT__google-cache-hdr *{display:inline;font:inherit;text-align:inherit;color:inherit;line-height:inherit;background:none;border:0;margin:0;padding:0;letter-spacing:0}#bN015htcoyT__google-cache-hdr a{text-decoration:none;color:#1a0dab}#bN015htcoyT__google-cache-hdr a:hover{text-decoration:underline}#bN015htcoyT__google-cache-hdr a:visited{color:#681da8}#bN015htcoyT__google-cache-hdr div{display:block;margin-top:4px}#bN015htcoyT__google-cache-hdr b{font-weight:bold;display:inline-block;direction:ltr}</style><div id="bN015htcoyT__google-cache-hdr"><div><span>這是 Google 對 <a href="https://wiki.komica.org/The_Big_O">https://wiki.komica.org/The_Big_O</a> 的快取。</span>&nbsp;<span>這是該網頁於 2022年11月16日 12:02:47 GMT 顯示時的快照。</span>&nbsp;<span>在此期間，<a href="https://wiki.komica.org/The_Big_O">目前網頁</a>可能已經變更。</span>&nbsp;<a href="http://support.google.com/websearch/bin/answer.py?hl=zh-TW&amp;p=cached&amp;answer=1687222"><span>瞭解更多資訊</span>.</a></div><div><span style="display:inline-block;margin-top:8px;margin-right:104px;white-space:nowrap"><span style="margin-right:28px"><span style="font-weight:bold">完整版</span></span><span style="margin-right:28px"><a href="http://webcache.googleusercontent.com/search?q=cache:https://wiki.komica.org/The_Big_O&amp;strip=1&amp;vwsrc=0"><span>純文字版</span></a></span><span style="margin-right:28px"><a href="http://webcache.googleusercontent.com/search?q=cache:https://wiki.komica.org/The_Big_O&amp;strip=0&amp;vwsrc=1"><span>檢視原始碼</span></a></span></span></div><span style="display:inline-block;margin-top:8px;color:#70757a"><span>提示：如要在這個網頁上快速尋找您所搜尋的字詞，請按下 <b>Ctrl+F</b> 鍵或 <b>⌘-F</b> 鍵 (Mac)，然後使用尋找列進行搜尋。</span></span></div><div style="position:relative;"><!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hant-TW" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The Big O - Komica wiki</title>
+<script type="text/javascript" nonce="78b2f1e82ace4e04950651d2a29" src="//local.adguard.org?ts=1669512642936&amp;type=content-script&amp;dmn=webcache.googleusercontent.com&amp;pth=%2Fsearch%3Fq%3Dcache%3Ahttps%3A%2F%2Fwiki.komica.org%2FThe_Big_O&amp;app=firefox.exe&amp;css=3&amp;js=1&amp;rel=1&amp;rji=1&amp;sbe=1"></script>
+<script type="text/javascript" nonce="78b2f1e82ace4e04950651d2a29" src="//local.adguard.org?ts=1669512642936&amp;name=AdGuard%20Extra&amp;name=AdGuard%20Popup%20Blocker&amp;type=user-script"></script><script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Big_O","wgTitle":"The Big O","wgCurRevisionId":408577,"wgRevisionId":408577,"wgArticleId":2204,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-tw","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"The_Big_O","wgRelevantArticleId":2204,"wgRequestId":"3a27c4948f0ddc7c73992851","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgMFMode":"stable","wgMFLazyLoadImages":true,"wgMFLazyLoadReferences":false,"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMinervaFeatures":{"beta":false,"mobileOptionsLink":true,"categories":false,"backToTop":false,"shareButton":false,"toggling":true},"wgMinervaDownloadNamespaces":[0],"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"首頁","href":"/%E9%A6%96%E9%A0%81","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"隨機","href":"/%E7%89%B9%E6%AE%8A:%E9%9A%A8%E6%A9%9F%E9%A0%81%E9%9D%A2#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"登入","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5\u0026returnto=The+Big+O\u0026returntoquery=","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-login ","data-event-name":"login"}]}],[{"name":"settings","components":[{"text":"設定","href":"/index.php?title=%E7%89%B9%E6%AE%8A:%E8%A1%8C%E5%8B%95%E7%89%88%E9%81%B8%E9%A0%85\u0026returnto=The+Big+O","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"關於Komica wiki","href":"/Komica_wiki:%E9%97%9C%E6%96%BC","class":""}]},{"name":"disclaimers","components":[{"text":"免責聲明","href":"/Komica_wiki:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E","class":""}]}]},"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@1pwtpze",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-tw"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.page.startup","mediawiki.user","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.options","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.toggling","ext.gadget.webfont","ext.gadget.vote","ext.gadget.page-comment","mobile.site","mobile.init"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-tw&amp;modules=ext.cite.styles%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<meta name="theme-color" content="#eaecf0"/>
+<link rel="manifest" href="/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="編輯" href="/index.php?title=The_Big_O&amp;action=edit"/>
+<link rel="edit" title="編輯" href="/index.php?title=The_Big_O&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Komica wiki (zh-tw)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://wiki.komica.org/api.php?action=rsd"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-tw&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-The_Big_O rootpage-The_Big_O stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<header class="header-container header-chrome">
+			<form class="header" action="/index.php" method="get">
+				<div><a title="開啟主選單" href="/%E7%89%B9%E6%AE%8A:%E6%89%8B%E6%A9%9F%E7%89%88%E9%81%B8%E5%96%AE" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu main-menu-button" id="mw-mf-main-menu-button">開啟主選單</a></div>
+				<div class="branding-box">
+					<a href="/%E9%A6%96%E9%A0%81">
+						<span>Komica wiki</span>
+						<sup>&beta;</sup>
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+					   placeholder="搜尋 Komica wiki"
+					   value="">
+				</div>
+				<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-magnifying-glass skin-minerva-search-trigger" type="submit">搜尋</button></div>
+				
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled" title="編輯此頁面的導言章節"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=0" class="edit-page">編輯</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element watch-this-article"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E7%99%BB%E5%85%A5&amp;returnto=The+Big+O" title="將此頁面加入您的監視清單[w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-language-switcher language-selector disabled" title="以其他語言閱讀"></li></ul><h1 id="section_0">The Big O</h1><div class="tagline"></div></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="zh-Hant-TW" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><div style="font-family:verdana, arial, helvetica, Sans-Serif, 新細明體;font-size:24px;font-weight:bold;line-height:125%;background:#DDEEFF;padding:.3em;border:0px;margin:0px 0px .5em 0px;">The Big O（THE ビッグオー/魅影巨神<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>）</div>
+<table class="wikitable" style="margin: 1.5em auto; text-align:center;"><tbody><tr><td>這條目已被推倒重寫，只剩下原來條目最好的部分。<br>如果我們一直重複這個過程，這條目最終會成為最好的條目。
+</td></tr><tr><td>你是不是已經看過這個條目？<br><b>→YES　　YES</b>
+</td></tr><tr><td><b>這條目內的所有一切，都是謊言。</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr></tbody></table>
+
+<div id="toc" class="toc-mobile"><h2>目錄</h2></div></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說（偽）"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA.EF.BC.88.E5.81.BD.EF.BC.89"><s>解說（偽）</s></span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=1" title="編輯章節：解說（偽）" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<ul><li><s>一種數學的工具，用以代表某個誤差可以用某變數的升冪來表達，是預測根、方程的好幫手</s></li></ul><ul><li><s><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABZ%E9%8B%BC%E5%BD%88" title="機動戰士Z鋼彈">《機動戰士Z鋼彈》</a>的最終頭目機（之一），看似肥胖的身軀卻有強大的機動力和格鬥力，隱藏手臂藏在股間突然伸出砍人的設計，下流得到現在亦有機械人有相似設定（例：<a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%8800" title="機動戰士鋼彈00">機動戰士鋼彈00</a>，驚爆危機）</s></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="解說"></span><span class="mw-headline" id=".E8.A7.A3.E8.AA.AA">解說</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=2" title="編輯章節：解說" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li>製作：SUNRISE<br>監督：片山一良<br>人設、機設：さとうけいいち</li>
+<li>全26話</li>
+<li>原本是做來要賣超合金玩具給大人<s>騙錢</s>的卡通，所以設定時加入了60年代的電影風格（如007系列）、蝙蝠俠、美式漫畫、昭和時代的特攝片等大人才懂的設定，結果被人家打槍說「真不保險，如果設計成<s>O</s>鋼彈就沒問題」而無法玩具化（不過後來還是有推出「超合金魂」），但還是被日昇公司拿去拍成動畫…</li>
+<li>大概是因為本作<s>機體不像鋼彈、</s>沒有<s>像是基拉大魔王和粉紅魔女等</s>俊男美女的角色，加上相當謎的劇情使得收視普普，最終只有一季（13話）的份量，故事也在只交待到一半左右的位置結束</li></ul><ul><li>之後被賣美國的卡通頻道播放<s>（所以只有小孩子才看得懂門道和劇情？）</s>而搏得好人氣，於是就這樣<a href="/%E9%80%86%E6%B5%81" title="逆流">逆紅</a>到日本並拍出剩下的第二季並在日本的卡通頻道播放<s>…所以到底要賣給大人還是小孩子看啦</s>
+<ul><li>原本很謎的劇情，來到第二季後除了一樣謎之外又加上更多謎，並且也沒有任何解釋所有真相的說明之類，最後變成一部由粉絲自己去各說各話的作品<s>其實根本是劇組在裡面失去所有的記憶才對</s></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(3)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="故事提要"></span><span class="mw-headline" id=".E6.95.85.E4.BA.8B.E6.8F.90.E8.A6.81">故事提要</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=3" title="編輯章節：故事提要" data-section="3" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-3 collapsible-block" id="mf-section-3">
+<pre>羅傑‧史密斯住在一座沒有四十年前記憶的「柏洛蒂姆城（パラダイムシティ）」內，擔任談判專家。
+某天在執行一件工作失敗後遇上女生化人「桃樂絲・溫萊特」，並且因此被捲入許多奇怪的事件，之後羅傑發現整個城市的謎團和自己失去的記憶似乎有關，就連在城市中的自己和其他的角色存在、與自己的座機「Big O」如何出現也都是充滿謎團。
+於是他為了找出真相，要開始對抗這個失去記憶的城市和不時出現的記憶。
+
+<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後羅傑發現整個城市是以沒有四十年前的記憶所製作出來，而裡面的所有角色都可能是從不同地方加以複製而變成現在的模樣，並且身為記憶本身的安琪拉也企圖要將這個世界加以消除。</span>
+<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最終羅傑在阻止艾歷克斯後，極力和她交涉並且成功，而讓整個城市能回復原貌。</span>
+</pre>
+<ul><li>「戲中戲」的主題在The Big O多次被強調，雖然官方沒有証實這是劇集的中心，有數集明顯圍繞這主題發展：
+<ul><li>丹・達斯頓是《冬夜魅影》的影迷<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兼主角，而且他曾在失去記憶前與戲中女主演的女兒一同觀看這戲，這女孩追隨母親的步伐成為恐怖分子，最後被他槍殺。</span></li>
+<li>第14話中羅傑40年前的記憶<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">和他聲稱他在扮演另一個人，可能表示了談判專家的身份是裝出來的，而他肯定自己是談判專家的証據是和桃樂絲的情感。然而桃樂絲在機械和人的界線也刻意描寫得很模糊。</span></li>
+<li>Big-Duo Infernal<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最後直飛上天，撞上天空頂部的戲棚燈般的物體爆炸。</span></li>
+<li>安琪拉最終話中背上的翼快要生成時，抽泣的畫面在電視機上顯示，然後電視機又成為另一個電視機的映像，產生無限循環。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">高登似乎是四十年前的「那事件」的倖存者，而安琪拉可能在生成翼後成為全劇終的新倖存者，所以她可能最終走到監控房在觀看劇情。</span></li>
+<li>接近最終話整個世界出現疑似衰退的現象<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，衰退的方式是由天花和地下開始，各種實物退化成為模擬環境（類似綠幕房）。</span></li>
+<li>安琪拉<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">疑似作為導演的角色在監控房觀看之前的劇情，而羅傑在旁介入。</span></li>
+<li>安琪拉身旁有一本《都會（Metro polis）》，作者為安琪拉．羅茲瓦特，這書和高登編寫的同名書有非常相似的外觀。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">根據羅傑的記憶，可能安琪拉觀看了The Big O的劇情後編寫這書，這和高登根據四十年前的記憶寫書的行為相似。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">羅傑的記憶中有小時的安琪拉觀看The Big O的情節，但是小時的安琪拉和她的母親生活的情節在成年的她的眼中只是另一個戲劇。</span></li></ul></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(4)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="主要角色"></span><span class="mw-headline" id=".E4.B8.BB.E8.A6.81.E8.A7.92.E8.89.B2">主要角色</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=4" title="編輯章節：主要角色" data-section="4" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-4 collapsible-block" id="mf-section-4">
+<ul><li>註：雖然桃樂絲的體重是130kg，所有其他角色只在官網列出身高，<span style="color:#FF0000">沒有重量和年齡。</span>似乎隱藏了什麼奇怪的秘密…</li>
+<li>在舊版官網有年齡，可是劇中各人表現很令人懷疑是不是真的。</li></ul><h3 class="in-block"><span id="羅傑‧史密斯（Roger_Smith/ロジャー・スミス）"></span><span class="mw-headline" id=".E7.BE.85.E5.82.91.E2.80.A7.E5.8F.B2.E5.AF.86.E6.96.AF.EF.BC.88Roger_Smith.2F.E3.83.AD.E3.82.B8.E3.83.A3.E3.83.BC.E3.83.BB.E3.82.B9.E3.83.9F.E3.82.B9.EF.BC.89">羅傑‧史密斯（Roger Smith/ロジャー・スミス）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=5" title="編輯章節：羅傑‧史密斯（Roger Smith/ロジャー・スミス）" data-section="5" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/index.php?title=%E5%AE%AE%E6%9C%AC%E5%85%85&amp;action=edit&amp;redlink=1" class="new" title="宮本充（頁面不存在）">宮本充</a>（日）／Steven Blum（英）</li></ul><ul><li>原本是憲兵，因為和柏洛蒂姆公司意見相左，辭職並成為談判專家。
+<ul><li>對於被指揮不甚滿意，初期也和丹感情不太好。</li>
+<li>說得一口好的<s>嘴砲</s>談判技巧卻老是談判失敗，還被桃樂絲拿來恥笑過。</li>
+<li>可能因為曾經當兵的關係體能相當優秀，穿著西裝飛簷走壁等事不在話下<s>連130kg的桃樂絲都能<a href="/%E5%85%AC%E4%B8%BB%E6%8A%B1" title="公主抱">公主抱</a>了起來</s>。</li></ul></li></ul><ul><li>自認為是尊重女性和堅持原則的人<s>，所以非常<a href="/%E7%B4%B3%E5%A3%AB" title="紳士">紳士</a></s>。
+<ul><li>但是實際上有各種很橫行霸道的行為：如（因為為了迫桃樂絲不跟隨他）把桃樂絲當作誘餌差點令她被炸成粉碎，對汽車使用飛彈，甚至整個府第建立在違法的地段。</li>
+<li>談判技巧是堅持雙方要站在公平的位置來交換對等的條件，所以常會惱羞對方<s>讓自己有藉口可以開Big O打人</s></li></ul></li></ul><ul><li>極度喜歡黑色，家裡的一切都是黑色<s>，也喜歡任何<a href="/%E9%BB%91%E5%8C%96" title="黑化">黑化</a>的東西</s>，被桃樂絲吐嘈她是品味差勁的人
+<ul><li>在《機戰Z》裡甚至會對於敵人機體不是黑色而有意見…</li></ul></li></ul><ul><li>從其記憶中可得知他過去是個軍人，曾經駕駛Big O，並且還有<a href="/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3" title="クローン">許多個跟他一樣的人被大量生產</a><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">；另外最後也和桃樂絲一起出現在位於監控台的安琪拉背後和她交涉</span>。</li>
+<li>他在以前似乎在廢棄的圖書館中隔著一道門偷看高登把記憶植入多個兒童的腦內。高登似乎知道羅傑的存在但是沒有趕走或對付他。</li>
+<li>在一段時間後他更浮現了自己是「番茄」的記憶。</li></ul><ul><li><s>真實身分為<a href="/%E7%83%8F%E9%BE%8D%E6%B4%BE%E5%87%BA%E6%89%80%E7%B3%BB%E5%88%97%E4%BA%BA%E7%89%A9%E5%88%86%E9%A0%81#.E4.B8.BB.E8.A6.81.E4.BA.BA.E7.89.A9.28.E6.B4.BE.E5.87.BA.E6.89.80.29" title="烏龍派出所系列人物分頁">中川財團的少爺</a>，所以談判都是用錢來解決</s></li>
+<li><s>背地裡化名為<a rel="nofollow" class="external text" href="http://pds.exblog.jp/pds/1/200911/11/74/e0047874_1351841.jpg">「成步堂龍一」</a>幫人四處打官司</s></li>
+<li><s>不喜歡被叫做憲兵，擁有預視未來的能力但是無法改變過去，因此絕對會抹殺想知道自己過去的人，尤其是沒有人可以碰他的辦公桌！</s><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li></ul><ul><li><s>由於是個談判專家所以擅於殺價，被拍賣會列為黑名單，還能讓被打爆的機體免錢修理</s>
+<ul><li>以上設定皆在《超級機器人大戰Z》裡忠實呈現<s>，其實根本就是講不通就要開Big O揍人</s></li></ul></li>
+<li><s>怪力男兼<a href="/%E4%BA%82%E5%85%A5" title="亂入">亂入</a>王</s></li>
+<li><s>總是被人說像是布萊德‧彼特</s><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li></ul><ul><li>原形來自於蝙蝠俠的主角布魯斯‧韋恩。</li></ul><h3 class="in-block"><span id="R・桃樂絲・溫萊特（R._Dorothy_Wayneright/R・ドロシー・ウェインライト）"></span><span class="mw-headline" id="R.E3.83.BB.E6.A1.83.E6.A8.82.E7.B5.B2.E3.83.BB.E6.BA.AB.E8.90.8A.E7.89.B9.EF.BC.88R._Dorothy_Wayneright.2FR.E3.83.BB.E3.83.89.E3.83.AD.E3.82.B7.E3.83.BC.E3.83.BB.E3.82.A6.E3.82.A7.E3.82.A4.E3.83.B3.E3.83.A9.E3.82.A4.E3.83.88.EF.BC.89">R・桃樂絲・溫萊特（R. Dorothy Wayneright/R・ドロシー・ウェインライト）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=6" title="編輯章節：R・桃樂絲・溫萊特（R. Dorothy Wayneright/R・ドロシー・ウェインライト）" data-section="6" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV： <a href="/%E7%9F%A2%E5%B3%B6%E6%99%B6%E5%AD%90" title="矢島晶子">矢島晶子</a>（日）／Lia Sargent（英）</li>
+<li>原名「桃樂絲・蘇多奴（Dorothy Soldano）」，表面上是科學家米格爾・蘇多奴的女兒，其實是米格爾接受提莫西．溫萊特的委托，根據提莫西的已故女兒（名為桃樂絲・溫萊特）的形象建造的生化人。
+<ul><li><s><a href="/Yes,_Minister#.E5.A4.9A.E8.98.BF.E8.8C.9C.C2.B7.E9.9F.8B.E6.81.A9.E5.B4.B4.E7.89.B9.E3.80.90.E6.BC.94.EF.BC.9ADeborah_Norton.E3.80.91" title="Yes, Minister">某翻版戴卓爾夫人</a>的機械版</s><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>看上去非常像真人，很多人（包括羅傑、諾曼和丹）因為沒有仔細聽機械關節的聲音而誤認是人類。</li>
+<li>生日是12月25日，衣著的尺寸是3(美制)，身高幾近5尺高，<b>重130公斤</b>（重要）
+<ul><li>她非常在意自己超重的問題。</li></ul></li></ul></li></ul><ul><li>為了還人情和由於提莫西死亡後無處容身，<s>被強逼簽賣身契</s>而當羅傑的女僕。
+<ul><li><ul><li>由於<a href="/%E6%AE%BA%E4%BA%BA%E6%AD%8C%E8%81%B2" title="殺人歌聲">鋼琴彈得很極端</a>，所以也有鬧鐘的功能</li></ul></li>
+<li><s>由於擔任女僕的關係，所以侍奉技巧很<a href="/%E7%B3%B8%E8%89%B2%E5%80%AB" title="糸色倫">絕倫</a></s></li></ul></li></ul><ul><li>常和羅傑表演夫婦相聲，<s>而且是單方面進行所以</s>讓羅傑對此不知所措。
+<ul><li>本作中唯一會對羅傑的<a href="/%E9%BB%91%E5%8C%96" title="黑化">黑化</a><a href="/%E5%90%90%E6%A7%BD" title="吐槽">吐槽</a>的人：<s>「何なの、この人･･･」</s><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>在《超級機器人大戰Z》裡甚至曾對《交響詩篇艾蕾卡7》的霍蘭德<a href="/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8#.E9.87.8E.E5.8E.9F.E5.BB.A3.E5.BF.97.28.E9.87.8E.E5.8E.9F.E3.81.B2.E3.82.8D.E3.81.97.29" title="蠟筆小新登場人物列表">叫「爸爸」</a>，讓對方十分困擾…</li>
+<li>曾被貝克在頭部記憶器安裝洗腦機器後，趁著羅傑不知所措時<s>使用ジーグブリーカー</s>抱著他，企圖把他捏斷，但是自行把洗腦機器的保險絲燒斷而暫時停止活動。</li>
+<li>在貝克被抓之後，桃樂絲對羅傑問：「如果我們都沒有記憶，我們相遇後會相戀嗎？」<s>你們快交往吧</s>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">諷刺的是，雖然這問題對應當集的主題，可是在Act.1，2桃樂絲分別成為了米格爾和提摩西的親人，現在輪到羅傑遇到相似的問題，這就令整個Big-O的另一主題：存在主義危機浮現出來。</span></li></ul></li></ul></li></ul><ul><li>擁有啟動多台機神的能力，而且多次在不適當的時候發動而製造麻煩。
+<ul><li>最初被貝克抓去安裝在Dorothy-1的臉內當作動力源。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">根據R・因斯杜的設計，既然他本來的用途是用以啟用康絲坦茲而他的鋼琴技能可能是副產品，R・桃樂絲本來的用途可能是啟動Dorothy-1。</span></li>
+<li>自己的記憶不但能啟動Big Fau，也能夠由她本人自己來啟動Big O。</li></ul></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在最終話，羅傑遇溺時看到的記憶中包括了桃樂絲手辦被設計的情形。</span></li></ul><h3 class="in-block"><span id="諾曼・柏格（Norman_Burg/ノーマン・バーグ）"></span><span class="mw-headline" id=".E8.AB.BE.E6.9B.BC.E3.83.BB.E6.9F.8F.E6.A0.BC.EF.BC.88Norman_Burg.2F.E3.83.8E.E3.83.BC.E3.83.9E.E3.83.B3.E3.83.BB.E3.83.90.E3.83.BC.E3.82.B0.EF.BC.89">諾曼・柏格（Norman Burg/ノーマン・バーグ）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=7" title="編輯章節：諾曼・柏格（Norman Burg/ノーマン・バーグ）" data-section="7" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：清川元夢（日）／Milton James（第一季英），Alan Oppenheimer（第二季英）</li></ul><ul><li>羅傑的管家，雖然看起很老，但其實只有50多歲。</li></ul><ul><li>什麼東西都會<s><a href="/%E6%88%90%E5%8F%A5/%E9%80%99%E6%98%AF%E6%88%91%E7%88%B8%E5%9C%A8%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%95%99%E6%88%91%E7%9A%84" title="成句/這是我爸在夏威夷教我的">，可能是從夏威夷</a>甚至是從NERV學來的</s><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><ul><li>家務、各式烹飪、清潔都是他主理<s>家事A</s>，只要他不在羅傑什麼都做不了</li>
+<li>精通各式軍武<s>心眼（真）</s>，常用電瓶車代步飛車還有一手<s>騎乘B+</s></li>
+<li><s>傳說的爺爺</s></li></ul></li>
+<li>桃樂絲在早上彈鋼琴可能是他請求的，雖然諾曼從沒有公然反對羅傑遲起床，可是在管家角度來說做了早餐卻沒人吃（還有其他其他舉動）總感覺失禮，而且他多次暗示支持桃樂絲這樣做。</li></ul><ul><li>作為羅傑府第唯一長輩，對於羅傑和桃樂絲有種父親的感覺、而且有意撮合二人。是為羅傑最信任的搭檔。
+<ul><li>劇中曾提過自己「不知為何知道整備Big O的方法」，可能是曾經在40年前參與過整備The Big的工作，而且等了40年希望再次服侍羅傑。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">由於整個城市是拼湊出來的，很可能諾曼曾在另一個時空（實際不知道多少個）整備The Big，而學習的經歷很可能被消除了，剩下豐富的經驗</span></li>
+<li>漫畫版限定：諾曼一直在請求羅傑出薪水，可是羅傑用了各種方法推搪。</li></ul></li></ul><h3 class="in-block"><span id="丹・達斯頓（Dan_Dastun/ダン・ダストン）"></span><span class="mw-headline" id=".E4.B8.B9.E3.83.BB.E9.81.94.E6.96.AF.E9.A0.93.EF.BC.88Dan_Dastun.2F.E3.83.80.E3.83.B3.E3.83.BB.E3.83.80.E3.82.B9.E3.83.88.E3.83.B3.EF.BC.89">丹・達斯頓（Dan Dastun/ダン・ダストン）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=8" title="編輯章節：丹・達斯頓（Dan Dastun/ダン・ダストン）" data-section="8" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E7%8E%84%E7%94%B0%E5%93%B2%E7%AB%A0" title="玄田哲章">玄田哲章</a>（日）／Peter Lurie（英）</li>
+<li>羅傑的原上司，柏洛蒂姆警察的指揮官，由於警察聽命於柏洛蒂姆公司，間接地在艾歷克斯底下工作。
+<ul><li>把軍隊的榮耀放在一切之上，有點不懂通融，但是嚴厲而給予信賴的性格令他在軍隊非常有人望。</li>
+<li>經常會幫助羅傑，後來從少校升到上校。</li>
+<li>在辦公桌上有羅傑作為中士時穿著軍服的照片，也有到訪羅傑家時找他的照片看的奇怪習慣。</li>
+<li>是羅傑的長期酒友。羅傑說「柏洛蒂姆城需要他的程度，和他需要我的程度相當」，似乎沒有羅傑，丹就會發生什麼不好的事。</li></ul></li>
+<li>初時不知道Big-O（被稱為黑色機神）的駕駛員是羅傑，對於Big-O無視法律肆意地以退治機神為名四處破壞感到憤怒。
+<ul><li>可是在潛意識中是Big-O的粉絲，會不自覺地為它打氣。</li></ul></li></ul><ul><li>雖然羅傑說他似乎對浪漫和戀愛沒有興趣，但是他喜歡看電影《冬夜魅影》<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，到後面能就發現他其實就是電影的主角。</span></li>
+<li>在接手調查連環炸彈恐襲事件時，腦海開始浮現《冬夜魅影》的片斷，而且多次不意看見女主演西比爾·羅文一般的女性在人海中出現。</li>
+<li>認為接二連三的証據明顯地和《冬夜魅影》的情節有關，在受到內部調查時向官員表示炸彈襲擊可能來自柏洛蒂姆城外的勢力，但是因為被譏諷過於荒謬而引致他的工作表現被質疑，甚至被停職留薪。
+<ul><li>可是幾天後突然被復職了，而且被委任全權防備下一輪的恐襲。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">原因是艾歷克斯認為承認城外的勢力侵入柏洛蒂姆可能有助「某物」的覺醒，在第二季被確定了是Big Fau。</span></li></ul></li>
+<li>雖然有更佳的準備，可是官員還是不可理諭地暴露自己的位置，結果這次「出動」的炸彈由上鍊玩具大小的機械人變成了三十米高的機神…
+<ul><li>結果丹終於沿著記憶追著魅影駕駛的車，到了渡口，在橋上為了保護即將被她的機神炸掉的人，開槍令她受了致命傷。</li>
+<li>抱起她時的情景和《冬夜魅影》的情節重合，丹記起了兩人一直有預感會變成這個局面，結果令他們流淚，魅影就在他懷中死去。</li></ul></li>
+<li>羅傑認為不論真相是如何，這最終也成為了丹心中遙遠的記憶，說不定只是一個幻象。</li></ul><ul><li>漸漸理解到自己對機神的憤恨來自警察無力從機神的來襲保護市民，而且後來知道羅傑是Big-O的駕駛員，最後建立了堅定的信任。</li>
+<li>在最終話被剝奪指揮官權力後，乘上了被放置的坦克，發炮攻擊Big-Fau，幾乎被Big-Fau反擊，但因為小隊跟隨他攻擊Big-Fau而撿回一命。這也是把昏迷的羅傑打醒的遠因。
+<ul><li>最後在拯救受傷的下屬時目睹柏洛蒂姆城的衰退。</li></ul></li></ul><h3 class="in-block"><span id="安琪拉（Angel/エンジェル）"></span><span class="mw-headline" id=".E5.AE.89.E7.90.AA.E6.8B.89.EF.BC.88Angel.2F.E3.82.A8.E3.83.B3.E3.82.B8.E3.82.A7.E3.83.AB.EF.BC.89">安琪拉（Angel/エンジェル）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=9" title="編輯章節：安琪拉（Angel/エンジェル）" data-section="9" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E7%AF%A0%E5%8E%9F%E6%83%A0%E7%BE%8E" title="篠原惠美">篠原惠美</a>（日）／Wendee Lee（英）</li></ul><ul><li>本作的女主角之一，被羅傑稱為「墜天使」。</li>
+<li>最初化名Cassey Jenkins，以柏洛蒂姆公司能源管理部門的代表的身分，僱用羅傑與電力之城的市民談判，把城內廢棄的水力發電站重新啟動。
+<ul><li>之後潛入發電站自行把渦輪機啟動，迫使Big-O破壞電鰻，真正的任務（取得電鰻的樣本）成功後撤回柏洛蒂姆公司。</li></ul></li>
+<li>之後化名為Patricia Lovejoy，作為柏洛蒂姆出版社的秘書再次僱用羅傑，請求他說服員工出版社麥可・賽巴哈交出他的抄本，以換取豐厚的退休福利。</li>
+<li>接著她展露了她的真正目的：收集記憶並以高價倒賣，她買起了保羅預訂給羅傑的潛水艇，但是因為艇被攻擊損傷而被迫與羅傑被困在海底的大樓內。</li>
+<li>然後接管了生物研究所卻被吉生奪取控制權<s>小姐你到底是當什麼行業的？</s>
+<ul><li>之後在Big-O的營救下成功上岸，但是羅傑無視她的要求<s>隔著三十米遠還有一層裝甲，聽到才怪</s>，把機神大袞的頭破壞後，憤而離去。</li></ul></li>
+<li>一段時間後無緣無故成為艾歷克斯的秘書。不知為何知道麥可・賽巴哈有「史瓦茲華特」的稱呼。</li>
+<li>上述奇怪舉動把看了第一季的觀眾搞到糊里糊塗，令人感覺完全是Coincidence-driven story telling（用偶然搭成故事），可能是引致整套劇集在日本銷量不好的原因…
+<ul><li>實際上安琪拉在第一季的確是<a href="/%E6%83%85%E7%AF%80%E6%8E%A8%E9%80%B2%E5%99%A8" title="情節推進器">情節推進器</a><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，認清她的目的是為艾歷克斯收集記憶後，可見</span>她的行為還是有固定的趨向：喚醒機神&gt;讓Big-O解決&gt;收集記憶，可是知道第四道牆後面的東西的原因直至差不多最終話才揭盅…</li></ul></li>
+<li>實際上是聯合組織的臥底成員。</li>
+<li>和羅傑有很多對手戲，兩人間也有淡淡的情愫。</li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">自己本身就是啟動Big-Venus的記憶，而且和整個城市的存亡有很大的關係，所以她可能就是這個城市的製造者與導演</span></li></ul><ul><li>導演說安琪拉的原型是友里アンヌ（超人七號的角色），可是設計人物的員工似乎因為代溝出現認知偏差，<s>更重要的是魯邦三世的粉絲所以</s>結果把她設計得挺像峰不二子。</li></ul><h3 class="in-block"><span id="艾歷克斯・羅茲瓦特（Alex_Rosewater/アレックス・ローズウォーター）"></span><span class="mw-headline" id=".E8.89.BE.E6.AD.B7.E5.85.8B.E6.96.AF.E3.83.BB.E7.BE.85.E8.8C.B2.E7.93.A6.E7.89.B9.EF.BC.88Alex_Rosewater.2F.E3.82.A2.E3.83.AC.E3.83.83.E3.82.AF.E3.82.B9.E3.83.BB.E3.83.AD.E3.83.BC.E3.82.BA.E3.82.A6.E3.82.A9.E3.83.BC.E3.82.BF.E3.83.BC.EF.BC.89">艾歷克斯・羅茲瓦特（Alex Rosewater/アレックス・ローズウォーター）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=10" title="編輯章節：艾歷克斯・羅茲瓦特（Alex Rosewater/アレックス・ローズウォーター）" data-section="10" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E7%9F%B3%E5%A1%9A%E9%81%8B%E6%98%87" title="石塚運昇">石塚運昇</a>（日）／Michael Forest（英）</li></ul><ul><li>統治柏洛蒂姆城的柏洛蒂姆公司董事長，Big Fau的駕駛員。
+<ul><li>是個<a href="/%E6%83%85%E7%B5%90" title="情結">父控</a>。</li>
+<li>本作的幕後黑手，為了持有記憶<s>成為<a href="/%E6%96%B0%E4%B8%96%E7%95%8C%E7%9A%84%E7%A5%9E" title="新世界的神">新世界的神</a></s>而到處收集機神的記憶和暗殺擁有記憶者<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，真面目其實是自己父親所做的複製人。</span></li>
+<li>為了目的不擇手段，也置市民的性命不顧。</li></ul></li></ul><ul><li>與羅傑相反是極度喜歡白色的東西<s>，所以老是像大木博士一樣穿著白衣出場。</s></li></ul><ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">最終在掠奪桃樂絲記憶並駕馭Big Fau，與羅傑交戰<s>直面光束巨砲燒剩下半個機體</s>但大難不死後，被Big Venus抹消存在。</span></li></ul><ul><li><s>失去記憶前的身分如下：</s><br><a href="/%E9%A0%AD%E6%96%87%E5%AD%97D" title="頭文字D">某家豆腐店的老闆，除了開車技術一流</a>外，也有<a href="/%E7%A5%9E%E5%A5%87%E5%AF%B6%E8%B2%9D%E7%AC%AC%E4%B8%80%E4%B8%96%E4%BB%A3%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD#.E5.A4.A7.E6.9C.A8.E5.8D.9A.E5.A3.AB.E3.80.88.E3.82.AA.E3.83.BC.E3.82.AD.E3.83.89.E5.8D.9A.E5.A3.AB.EF.BC.8CProfessor_Oak.E3.80.89" title="神奇寶貝第一世代登場人物一覽">充沛的神奇寶貝知識</a><br>YF-21的機師<br><a href="/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E9%8B%BC%E5%BD%8800%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#.E4.BA.BA.E9.A1.9E.E9.9D.A9.E6.96.B0.E8.81.AF.E7.9B.9F" title="機動戰士鋼彈00角色列表">人革連MS部隊指揮官，人稱熊爸</a><br><s>地球再生機構DEAVA的司令、神速の魔術師<br>邁阿密戴德郡犯罪實驗室的主管<br>H-Game設計師，但其設計的遊戲一律是父嫁End<br>人類型態的賢者之石</s></li></ul><ul><li><s>爛番茄</s></li></ul><h3 class="in-block"><span id="高登・羅茲瓦特（Gordon_Rosewater/ゴードン・ローズウォーター）"></span><span class="mw-headline" id=".E9.AB.98.E7.99.BB.E3.83.BB.E7.BE.85.E8.8C.B2.E7.93.A6.E7.89.B9.EF.BC.88Gordon_Rosewater.2F.E3.82.B4.E3.83.BC.E3.83.89.E3.83.B3.E3.83.BB.E3.83.AD.E3.83.BC.E3.82.BA.E3.82.A6.E3.82.A9.E3.83.BC.E3.82.BF.E3.83.BC.EF.BC.89">高登・羅茲瓦特（Gordon Rosewater/ゴードン・ローズウォーター）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=11" title="編輯章節：高登・羅茲瓦特（Gordon Rosewater/ゴードン・ローズウォーター）" data-section="11" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：納谷悟朗（日）／William Frederick Knight（英）</li></ul><ul><li>前柏洛蒂姆公司董事長。在柏洛蒂姆城郊外種蕃茄，但其實是用來作複製實驗。</li>
+<li>在三十年以上之前設立了柏洛蒂姆城，與柏洛蒂姆委員會發出命令把所有懷疑進行反政府活動的人驅逐出境。</li></ul><ul><li>約15年前曾在某圖書館內把過去的記憶移植到多個小孩內，這過程似乎被羅傑偷看，所以高登認為羅傑有朝一天會來找他。
+<ul><li>15年後小孩中的其中四人被R. D.暗殺，死者唯一的共通點是記起自己並非在柏洛蒂姆市出生。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">根據他的番茄鬼話，他似乎在暗示R.D.的目的是要去除擁有不良記憶的人，保持柏洛蒂姆城的完整。</span></li></ul></li></ul><ul><li>謎之書籍《都會（Metro polis）》的作者，根據史瓦茲華特所述這書記載了40年前人類濫用神賦予的力量，企圖控制世界，引致巨神在全世界氾濫，<a href="/%E4%B8%96%E7%B4%80%E6%9C%AB" title="世紀末">造成大災難毀滅世界</a>。
+<ul><li>但是高登說<b>這一切都是謊言。</b></li></ul></li></ul><ul><li>曾與羅傑訂立契約，要求他為了「這個世界的存在而前去談判」並且有拍照存證<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">；結果後半段出現一張他和羅傑的照片，是在40年前拍攝，而且裡面羅傑的臉和現在一模一樣…</span></li></ul><h3 class="in-block"><span id="史瓦茲華特（Schwaltz_walt/シュヴァルツヴァルト）"></span><span class="mw-headline" id=".E5.8F.B2.E7.93.A6.E8.8C.B2.E8.8F.AF.E7.89.B9.EF.BC.88Schwaltz_walt.2F.E3.82.B7.E3.83.A5.E3.83.B4.E3.82.A1.E3.83.AB.E3.83.84.E3.83.B4.E3.82.A1.E3.83.AB.E3.83.88.EF.BC.89">史瓦茲華特（Schwaltz walt/シュヴァルツヴァルト）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=12" title="編輯章節：史瓦茲華特（Schwaltz walt/シュヴァルツヴァルト）" data-section="12" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：堀勝之祐（日）／Michael McConnohie（英）</li></ul><ul><li>本名「麥可・賽巴哈（Michael Seebach/マイクル・ゼーバッハ）」，是柏洛蒂姆出版社的一名記者，羅傑最初的對手之一。
+<ul><li>名稱來源自「黑森林（Schwarzwald）」而他也沒有否定，但是Schwaltz walt是官方譯名。</li></ul></li></ul><ul><li>在採訪關於記憶的事情中逐漸知道整個城市的真相，因此實行著雙重生活；由於柏洛蒂姆公司持續地阻礙他散佈真相，大受打擊的他切斷了和所有人的聯絡，更自我毀容變成了木乃伊般的模樣。
+<ul><li>之後潛到地下活動，三個月後羅傑尋找他時進入他廢棄的辦公室，被史瓦茲企圖縱火殺死但失敗，史瓦茲逃走到地下。</li>
+<li>羅傑在地下尋找他時，史瓦茲向他展示自己挖到Big的原型Archetype。企圖用陷阱再燒他但是因為Archetype意外啟動，他從Archetype上面摔下去同時被燒傷。Archetype被破壞後他再次逃去無蹤。</li>
+<li>其後發現藏在另一個地方的Big-Duo並且短時間內學懂操控。
+<ul><li>在荒地向羅傑揭露Big-Duo的本體後十分霸氣的憑空消失了。</li></ul></li></ul></li></ul><ul><li>羅傑受艾歷克斯的委託給予他遺散費支票時發現他潛入<a href="/%E5%81%87%E9%9D%A2" title="假面">假面</a>舞會，目的是向世人展示人類的貪慾無可避免地引致滅亡。
+<ul><li>被火燒後才被判斷為死亡，但是既然史瓦茲華特已經沒有任何有關聯的人，向死人發遺散費是什麼操作？</li>
+<li>透過啟動假面的機關引致大規模屠殺後，駕駛Big-Duo正式和羅傑對決。
+<ul><li>指令Big-Duo行動時會說出德語。</li></ul></li></ul></li>
+<li>戰敗時跳出Big-Duo駕駛艙並逃走，下落不明。</li></ul><ul><li>在第二季可見大量他散播傳單，但是安琪拉發現他早已死亡。此後其亡靈在劇中多次出現。</li></ul><h3 class="in-block"><span id="傑森・貝克（Jason_Beck/ジェイソン・ベック）"></span><span class="mw-headline" id=".E5.82.91.E6.A3.AE.E3.83.BB.E8.B2.9D.E5.85.8B.EF.BC.88Jason_Beck.2F.E3.82.B8.E3.82.A7.E3.82.A4.E3.82.BD.E3.83.B3.E3.83.BB.E3.83.99.E3.83.83.E3.82.AF.EF.BC.89">傑森・貝克（Jason Beck/ジェイソン・ベック）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=13" title="編輯章節：傑森・貝克（Jason Beck/ジェイソン・ベック）" data-section="13" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E5%A4%A7%E5%A1%9A%E8%8A%B3%E5%BF%A0" title="大塚芳忠">大塚芳忠</a>（日）／Bob Buchholz（英）</li></ul><ul><li>羅傑的對手之一，標準的卑鄙又搞笑的壞蛋。
+<ul><li>對比羅傑堅持溝通的雙方需要對等的待遇，貝克執著於在任何的交易都要取得優勢。</li></ul></li>
+<li>最初綁架了桃樂絲取得了米格爾・蘇多奴給予的贖金，但是在羅傑的介入下見財化水。</li>
+<li>之後利用提莫西再次抓走桃樂絲，把穿孔的Dorothy-1<a href="/%E9%AD%94%E6%94%B9%E9%80%A0" title="魔改造">魔改造</a>，安裝了桃樂絲後遙控Dorothy-1企圖爆竊銀行。</li>
+<li>最後被羅傑找到位置，用Big-O令貝克和手下被索帶綁住然後被警察抓去孤島上坐牢。</li></ul><ul><li>之後被手下控制的Beck Victory Deluxe劈開牢房，受接應逃獄。</li>
+<li>綁架了弗朗西斯．懷斯勒索贖金，發現交涉者是羅傑後設局企圖殺死他不果，搭乘Beck Victory Deluxe卻因為火力太弱，再一次被Big-O擊敗後抓走坐牢。</li></ul><ul><li>在羅傑的回憶中有出現，但不是現在的壞蛋角色而是一位銀行家。</li>
+<li>後來在逃獄時因被雷擊中而記起了羅傑是Big O的駕駛員，以此推斷兩人在40年前應該是有所相識。</li></ul><ul><li>雖然做事像個混混，但卻擁有高超的機械技術及記憶相關技術，擅長製造各種<s>諷刺羅傑的</s>道具，可是道具經常因為種種奇怪原因而失效，自滅或是產生反效果。</li>
+<li>在加百列<ruby>邀約<rp>（</rp><rt style="font-size:0.5em;">威脅</rt><rp>）</rp></ruby>下為艾歷克斯效力，把Big-Duo改造和把Big-Fau完成。</li>
+<li>在艾歷克斯使用Big-Fau輕易擊倒羅傑後，感到不滿而倒戈。</li>
+<li>被拔掉記憶的桃樂絲甦醒過來時，貝克對記憶的本質感到混亂。</li>
+<li>最後在同時憎恨羅傑和艾歷克斯的矛盾之間，決意把啟動Final Stage的方法告訴桃樂絲。
+<ul><li>在Big-O從海中返回岸邊時在拍腳大笑。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">根據羅傑知道Final Stage的反應，似乎是<a href="/%E8%A8%88%E7%94%BB%E9%80%9A%E3%82%8A" title="計画通り">計画通り</a>。</span></li>
+<li><s>其實是<a href="/%E8%93%8B%E7%89%B9%E6%A9%9F%E5%99%A8%E4%BA%BA" title="蓋特機器人">蓋特機器人</a>的粉絲，</s><a href="/%E6%88%90%E5%8F%A5/%E9%80%99%E7%A8%AE%E9%AB%98%E6%80%A7%E8%83%BD%E6%A9%9F%E5%99%A8%E4%BA%BA%E4%B8%80%E5%AE%9A%E6%98%AF%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%81%9A%E7%9A%84" title="成句/這種高性能機器人一定是日本人做的">開發出「東洋的神祕」<s>其實就日式合體機器人</s></a>，但在任何招式都沒用出來的情況下就被Big O幹掉<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li></ul></li></ul><h3 class="in-block"><span id="艾倫‧加百列（Alan_Gabriel/アラン・ゲイブリエル）"></span><span class="mw-headline" id=".E8.89.BE.E5.80.AB.E2.80.A7.E5.8A.A0.E7.99.BE.E5.88.97.EF.BC.88Alan_Gabriel.2F.E3.82.A2.E3.83.A9.E3.83.B3.E3.83.BB.E3.82.B2.E3.82.A4.E3.83.96.E3.83.AA.E3.82.A8.E3.83.AB.EF.BC.89">艾倫‧加百列（Alan Gabriel/アラン・ゲイブリエル）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=14" title="編輯章節：艾倫‧加百列（Alan Gabriel/アラン・ゲイブリエル）" data-section="14" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：二又一成（日）／Crispin Freeman（英）</li>
+<li>聯合組織的成員，是個半生化人，背地裡和艾歷克斯有所勾結。
+<ul><li><s>裝扮其實是抄蝙蝠俠的反派角色「<a href="/%E5%B0%8F%E4%B8%91_(DC%E6%BC%AB%E7%95%AB)" title="小丑 (DC漫畫)">小丑</a>」。</s></li>
+<li><s>默劇演員</s></li></ul></li></ul><ul><li>藉由身體的機能硬搭上去駕駛Big-Duo Inferno的駕駛員
+<ul><li>最終不被機體承認其身份並宣告「汝有罪」，史瓦茲的亡靈出現向他說「你無法接近真相」後被機體吃掉<s>只剩下帽子</s>。</li></ul></li></ul><h3 class="in-block"><span id="薇拉‧倫斯達特（Vela_Ronstadt/ヴェラ・ロンシュタット）"></span><span class="mw-headline" id=".E8.96.87.E6.8B.89.E2.80.A7.E5.80.AB.E6.96.AF.E9.81.94.E7.89.B9.EF.BC.88Vela_Ronstadt.2F.E3.83.B4.E3.82.A7.E3.83.A9.E3.83.BB.E3.83.AD.E3.83.B3.E3.82.B7.E3.83.A5.E3.82.BF.E3.83.83.E3.83.88.EF.BC.89">薇拉‧倫斯達特（Vela Ronstadt/ヴェラ・ロンシュタット）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=15" title="編輯章節：薇拉‧倫斯達特（Vela Ronstadt/ヴェラ・ロンシュタット）" data-section="15" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：紗ゆり（日）／Carolyn Hennesy（英）</li></ul><ul><li>聯合組織的成員和幹部，曾和艾歷克斯合作尋找Big Fau的機體零件，但後來因為雙方翻臉而到處派人到城市內搗亂。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">後半段揭露整個組織根本不存在，而她除了是安琪拉的母親外，還是高登所作的複製人之一。</span></li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(5)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="其他角色"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96.E8.A7.92.E8.89.B2">其他角色</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=16" title="編輯章節：其他角色" data-section="16" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-5 collapsible-block" id="mf-section-5">
+<h3 class="in-block"><span id="米格爾・蘇多奴（ミゲル・ソルダーノ）"></span><span class="mw-headline" id=".E7.B1.B3.E6.A0.BC.E7.88.BE.E3.83.BB.E8.98.87.E5.A4.9A.E5.A5.B4.EF.BC.88.E3.83.9F.E3.82.B2.E3.83.AB.E3.83.BB.E3.82.BD.E3.83.AB.E3.83.80.E3.83.BC.E3.83.8E.EF.BC.89">米格爾・蘇多奴（ミゲル・ソルダーノ）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=17" title="編輯章節：米格爾・蘇多奴（ミゲル・ソルダーノ）" data-section="17" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：緒方賢一（日）</li>
+<li>把女兒桃樂絲・蘇多奴撫養成人的古怪科學家，非常有錢。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際上是工業大亨，在巨蛋外擁有很大的權力，依靠非法生產斂財。</span></li></ul></li></ul><ul><li>由於女兒被綁架，委托了羅傑代替他交付贖金，卻違背羅傑的承諾在事件完畢前趕到交換人質的現場。一看之下卻發覺桃樂絲是生化人，因而要求取回贖金，引致交易告吹。</li></ul><ul><li>雖然羅傑已使用載有自動飛行機關的公文包，確保貝克在交換假人質的情況下，公文包會被遙控飛走回去他身邊，但是從羅傑旁述雙方都來意不善的角度來說，很可能公文包內的都是假鈔或是用什麼方法把錢變沒用了。
+<ul><li>貝克沒有點算就立刻帶錢飛馳而去，這點也成為了搞笑角色的伏線…</li>
+<li>另外，米格爾是徹底的守財奴，他唯一的弱點可能就是桃樂絲。</li></ul></li></ul><ul><li>根據丹的調查，米格爾根本沒有女兒。而大耳的情報顯示米格爾最近出現了記憶浮現的情況。
+<ul><li>根據以後的情節推斷，米格爾可能在「那事件」前把和桃樂絲相似的女兒撫養成人，而那段記憶被誤植到現在時間。</li></ul></li></ul><ul><li>之後米格爾回到他的工廠想辦法找尋他的女兒，但疑似被貝克槍殺。</li>
+<li>在死前他向羅傑坦白他從來沒有想為<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">　　</span>非法生產Dorothy-1。羅傑推斷米格爾想說的是他並非自願為聯合組職工作。</li>
+<li>桃樂絲的姊姊是Dorothy-1這回事是由羅傑說的，可是缺乏更多的資料考証。</li>
+<li>看見桃樂絲他認為她剛到達的樣子和他的女兒一樣。桃樂絲表示他的腦中只是浮現著記憶的藍圖，他說的是胡言亂語，但是他不介意她的惡言。</li></ul><h3 class="in-block"><span id="大耳（Big_Ears/ビッグイヤー）"></span><span class="mw-headline" id=".E5.A4.A7.E8.80.B3.EF.BC.88Big_Ears.2F.E3.83.93.E3.83.83.E3.82.B0.E3.82.A4.E3.83.A4.E3.83.BC.EF.BC.89">大耳（Big Ears/ビッグイヤー）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=18" title="編輯章節：大耳（Big Ears/ビッグイヤー）" data-section="18" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：辻親八（日）／Jamieson Price（英）</li>
+<li>羅傑的好友，常在酒館中向他透露重要的情報。</li>
+<li>把羅傑形容為「拯救公主的穿著閃亮盔甲的騎士」。</li>
+<li>曾發出「如果你想在城中生存得久，你不應該把別人迫得太緊。年輕人很多時都不明白這道理。」的耐人尋味的發言。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">真面目是生化人，並且最後向羅傑說出整個城市的真相。看的報紙記載著未來的新聞。</span></li></ul><h3 class="in-block"><span id="提摩西·溫萊特（Timothy_Wayneright/ティモシー・ウェインライト）"></span><span class="mw-headline" id=".E6.8F.90.E6.91.A9.E8.A5.BF.C2.B7.E6.BA.AB.E8.90.8A.E7.89.B9.EF.BC.88Timothy_Wayneright.2F.E3.83.86.E3.82.A3.E3.83.A2.E3.82.B7.E3.83.BC.E3.83.BB.E3.82.A6.E3.82.A7.E3.82.A4.E3.83.B3.E3.83.A9.E3.82.A4.E3.83.88.EF.BC.89">提摩西·溫萊特（Timothy Wayneright/ティモシー・ウェインライト）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=19" title="編輯章節：提摩西·溫萊特（Timothy Wayneright/ティモシー・ウェインライト）" data-section="19" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：石森達幸（日）／Kevin Seymour（英）</li>
+<li>柏洛蒂姆的貴族，在「那事件」失去了女兒。</li></ul><ul><li>在記憶開始恢復前單獨住在柏洛蒂姆城北部、不與他人聯絡；恢復記憶後了委託了米格爾・蘇多奴根據女兒的形象製作桃樂絲。
+<ul><li>然後又因為更多的記憶恢復，把桃樂絲誤認為他的孫女。</li>
+<li>桃樂絲也短暫認為提摩西是她的父親<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>，因此追蹤他，然後提摩西從羅傑手中「保護」桃樂絲，和她渡過了短暫的家庭時光。
+<ul><li>羅傑對此評論：桃樂絲在尋找關於自己的記憶。</li>
+<li>提摩西也是劇中第一個讓桃樂絲開懷地笑的人。</li></ul></li></ul></li></ul><ul><li>結果因此被貝克利用以引出桃樂絲，再次綁票，最後在混亂中被槍殺。
+<ul><li>在死後才被發現過去是科學家，和聯合組織內通製造了Dorothy-1的藍圖，因此換得用以訂製桃樂絲的大量金錢。</li></ul></li></ul><h3 class="in-block"><span id="電力之城的老人"></span><span class="mw-headline" id=".E9.9B.BB.E5.8A.9B.E4.B9.8B.E5.9F.8E.E7.9A.84.E8.80.81.E4.BA.BA">電力之城的老人</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=20" title="編輯章節：電力之城的老人" data-section="20" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：阪脩（日）</li>
+<li>根據出演名單，老人的名稱為Sven Mauriski</li>
+<li>在電力之城的偏遠小屋居住，這老人討厭為柏洛蒂姆城工作的人。</li>
+<li>最初因為羅傑跟隨他而把他打暈綁走，但是羅傑自行解綁，表明身份並協助老人的日常工作，漸漸博得他的好感。</li>
+<li>實際是已退休的基因學研究員<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，巨獸電鰻就是他乘著電力之城反對水電廠運作的勢頭建造的。</span></li>
+<li>家中的地下室收藏了基因研究的資料<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，還有連接電鰻的系統，可以得知電鰻是否啟動。</span></li>
+<li>為了阻止電鰻作出更多的破壞，決定回到發電廠控制室關閉電源，令電鰻失去力量。</li>
+<li>最後與市民同意讓羅傑摧毀水力發電站，避免和電鰻同樣的巨獸再次出現。</li></ul><h3 class="in-block"><span id="邦妮．弗雷澤（Bonnie_Fraizer）"></span><span class="mw-headline" id=".E9.82.A6.E5.A6.AE.EF.BC.8E.E5.BC.97.E9.9B.B7.E6.BE.A4.EF.BC.88Bonnie_Fraizer.EF.BC.89">邦妮．弗雷澤（Bonnie Fraizer）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=21" title="編輯章節：邦妮．弗雷澤（Bonnie Fraizer）" data-section="21" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E5%8F%A4%E8%B0%B7%E5%BE%B9" title="古谷徹">古谷徹</a>（日）</li>
+<li>名稱的源頭可能是<a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/My_Bonnie_Lies_over_the_Ocean">蘇格蘭民歌My Bonnie Lies over the Ocean</a>。</li>
+<li>東邊城的軍隊警官，擁有強大的正義感。一年前在哈德森河橋上防備抗議收地的武裝分子，因為公然反對武力鎮壓以及收地謀取暴利而被同僚槍擊，掉進河中被宣布MIA。
+<ul><li>全城似乎只有他的母親不知道他被宣佈死亡。</li>
+<li>因為他的消失和一個示威者的死亡，得以令暴亂平息。</li></ul></li>
+<li>因為執念喚醒了河中的機神Osrail，他被救起後消聲匿跡，控制著機神暗殺多個貪污警官，以自己的方法伸張正義。</li>
+<li>最後在Osrail被Big-O破壞後，道出了他一年內造過的事，分別與母親和兄弟重聚後，向軍隊自首。丹向羅傑保證邦妮會受到公正的審判。</li></ul><h3 class="in-block"><span id="梅麗莎．弗雷澤（Melissa_Fraizer）"></span><span class="mw-headline" id=".E6.A2.85.E9.BA.97.E8.8E.8E.EF.BC.8E.E5.BC.97.E9.9B.B7.E6.BE.A4.EF.BC.88Melissa_Fraizer.EF.BC.89">梅麗莎．弗雷澤（Melissa Fraizer）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=22" title="編輯章節：梅麗莎．弗雷澤（Melissa Fraizer）" data-section="22" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：一城美由希（日）</li>
+<li>在東邊城的豪宅居住的老人，有兩個兒子邦妮和瑞克。邦妮在一年前消失後，似乎知道的情報被瑞克控制，因此只知道邦妮似乎出了遠門。</li>
+<li>在瑞克的要求下，羅傑親身與梅麗莎談話，並因為羅傑的規條：尊重女性和老人，接受了她的委託尋找邦尼的下落。</li>
+<li>邦尼自首前他趕到梅麗莎的家，讓她在邦尼的身邊安詳離世。
+<ul><li>離世當天是梅麗莎的生日。</li></ul></li></ul><h3 class="in-block"><span id="瑞克．弗雷澤（Rick_Fraizer）"></span><span class="mw-headline" id=".E7.91.9E.E5.85.8B.EF.BC.8E.E5.BC.97.E9.9B.B7.E6.BE.A4.EF.BC.88Rick_Fraizer.EF.BC.89">瑞克．弗雷澤（Rick Fraizer）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=23" title="編輯章節：瑞克．弗雷澤（Rick Fraizer）" data-section="23" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：池水通洋（日）</li>
+<li>財大氣粗，囂張的頂級律師，梅麗莎的兒子，邦妮的兄弟。</li>
+<li>不信任羅傑的能力。知道羅傑的性格和他非常不合，本來不願意委託他尋找失蹤的邦妮，可是尊重母親的意願而肯花時間找羅傑。</li>
+<li>最後邦妮在軍警察的安排下，和瑞克短暫重聚。
+<ul><li>表面上兄弟分道揚鑣，實際上兩人相當記掛對方。</li></ul></li></ul><h3 class="in-block"><span id="R・因斯杜（R._Instro）"></span><span class="mw-headline" id="R.E3.83.BB.E5.9B.A0.E6.96.AF.E6.9D.9C.EF.BC.88R._Instro.EF.BC.89">R・因斯杜（R. Instro）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=24" title="編輯章節：R・因斯杜（R. Instro）" data-section="24" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：野島昭生（日）</li>
+<li>天才鋼琴手生化人，在鋼琴酒吧「亞瑪迪斯」居住和經營，酒吧名稱和因斯杜的父親的名稱相同，是他留給因斯杜的遺產。</li>
+<li>有很明顯的機械外表，但是生活和有一般人無異，還充滿人性。
+<ul><li>由亞瑪迪斯製造，生前當作兒子照顧。</li></ul></li>
+<li>接受了羅傑的建議嘗試教授桃樂絲彈奏新曲，但是驚訝於她已經爐火純青的的彈琴技能，認為自己不是她的導師的材料。</li>
+<li>在吉生的刺激下產生了劣等感，憤而搭乘機神康絲坦茲，履行父親的遺願：毀滅把他捨棄的柏洛蒂姆公司。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">其實是被吉生矇騙了，亞瑪迪斯製造機神的原因很可能是為了死了的兒子報仇，換言之R. 因斯杜還不知道自己的存在才是保持亞瑪迪斯理智的關鍵。</span></li></ul></li>
+<li>在幾乎使Big-O停止活動前想起了他希望做的事是彈鋼琴，根本不想破壞而主動放棄戰鬥。</li>
+<li>因為內疚而把自己的手掌留在機神內，放棄彈琴的才能。但是被桃樂絲激勵而重新振作，不久修復了雙手，最後順利教授桃樂絲新曲。
+<ul><li>桃樂絲表示羅傑家中的鋼琴和因斯杜家中的有些微的差別，但是她不在意。似乎在暗喻雖然沒有人可以完美模仿亞瑪迪斯<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">建造R. 因斯杜的手指的方法</span>，導致R. 因斯杜的彈琴技巧不會再和以前相同，但是從外人看來因斯杜還是因斯杜，仍是出色的鋼琴家。</li></ul></li></ul><h3 class="in-block"><span id="亞瑪迪斯（Amadeus）"></span><span class="mw-headline" id=".E4.BA.9E.E7.91.AA.E8.BF.AA.E6.96.AF.EF.BC.88Amadeus.EF.BC.89">亞瑪迪斯（Amadeus）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=25" title="編輯章節：亞瑪迪斯（Amadeus）" data-section="25" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>研究「留聲機器（Phonosonic Machine）」的科學家，在一次實驗事故中喪生。</li>
+<li>遺產包括他建築的鋼琴酒吧「亞瑪迪斯」和頂級鋼琴，由生化人R. 因斯杜繼承。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在家中藏著康絲坦茲，似乎是因為兒子的死亡化為怨念而建造的。換言之R．因斯杜和康絲坦茲似乎是硬幣的雙面的關係。</span></li>
+<li>R．因斯杜表示亞瑪迪斯最愛看著他在彈鋼琴。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">根據家中的照片，亞瑪迪斯很可能有一個外表是人類的兒子。這就產生一個疑問：為什麼R・因斯杜要聲稱是他的兒子？</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">若果亞瑪迪斯的兒子早已死亡，他就有充分理由製造R. 因斯杜作為兒子的替代品。因此很可能把兒子的喜好，長處都灌輸到生化人內。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">另外可留意R・因斯杜的「R・」前綴和R・桃樂絲・溫萊特可能有關聯，既然R・桃樂絲是基於提莫西的女兒的形象建造的，R・因斯杜可能就是亞瑪迪斯根據兒子的形象製造。</span></li></ul></li></ul><h3 class="in-block"><span id="吉生（Gieseng）"></span><span class="mw-headline" id=".E5.90.89.E7.94.9F.EF.BC.88Gieseng.EF.BC.89">吉生（Gieseng）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=26" title="編輯章節：吉生（Gieseng）" data-section="26" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：寺島幹夫（日）</li></ul><ul><li>研究「留聲機器（Phonosonic Machine）」的科學家，亞瑪迪斯的同事。在亞瑪迪斯喪生的事故中生還。</li>
+<li>作為監護人的角色要求R・因斯杜履行亞瑪迪斯的遺願：駕駛康絲坦茲消滅柏洛蒂姆。</li>
+<li>其實是諸惡之元凶，因為留聲機器是大殺傷力武器，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">引致亞瑪迪斯強烈反對研究，</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">所以製造了實驗事故把亞瑪迪斯殺死而且切斷和柏洛蒂姆的聯絡和融資，而且對R．因斯杜謊稱亞瑪迪斯因為留聲機器的研究被柏洛蒂姆破棄而製造康絲坦茲。</span></li></ul></li>
+<li>自己持有一部魔杖型的小型留聲機器，可以用音波破壞樹木。</li>
+<li>在康絲坦茲被拆開時走避不及，被倒下的大型機械手砸死。</li></ul><h3 class="in-block"><span id="連峻．里蓋蒂（Rene_Rigetti）"></span><span class="mw-headline" id=".E9.80.A3.E5.B3.BB.EF.BC.8E.E9.87.8C.E8.93.8B.E8.92.82.EF.BC.88Rene_Rigetti.EF.BC.89">連峻．里蓋蒂（Rene Rigetti）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=27" title="編輯章節：連峻．里蓋蒂（Rene Rigetti）" data-section="27" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：茶風林（日）</li>
+<li>海產批發商，由於賣魚的漁民懼怕突然出現的海巨人而連續兩星期無人出海，而引致無法購入任何魚，導致海產價格暴升，因此委託羅傑和漁民交涉，要求恢復捕魚。
+<ul><li>似乎時常想說服保羅買什麼東西，但是被多番拒絕。</li></ul></li></ul><h3 class="in-block"><span id="保羅．里德曼（Paul_Readerman）"></span><span class="mw-headline" id=".E4.BF.9D.E7.BE.85.EF.BC.8E.E9.87.8C.E5.BE.B7.E6.9B.BC.EF.BC.88Paul_Readerman.EF.BC.89">保羅．里德曼（Paul Readerman）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=28" title="編輯章節：保羅．里德曼（Paul Readerman）" data-section="28" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E7%AB%8B%E6%9C%A8%E6%96%87%E5%BD%A5" title="立木文彥">立木文彥</a>（日）</li>
+<li>在自設的修船工廠中工作，根據自己對父親的記憶建造了高速潛水艇。
+<ul><li>羅傑想在檢查潛水艇當晚租用潛水艇出海，於是先付了錢，可是後來的安琪拉出了更多的錢，於是保羅把潛水艇給了她。</li></ul></li></ul><h3 class="in-block"><span id="武裝潛水員"></span><span class="mw-headline" id=".E6.AD.A6.E8.A3.9D.E6.BD.9B.E6.B0.B4.E5.93.A1">武裝潛水員</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=29" title="編輯章節：武裝潛水員" data-section="29" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>在修船工廠附近出現的多個不明人物，被漁民稱為「海巨人的僕人」，多番潛水尋找機神多袞的所在地。</li>
+<li>發現了羅傑的潛水艇後使用水雷攻擊，然後繼續尋找機神，最後率先游進發光的海底入口，引致多袞甦醒之後不知所終。</li></ul><h3 class="in-block"><span id="佩羅（Pero）"></span><span class="mw-headline" id=".E4.BD.A9.E7.BE.85.EF.BC.88Pero.EF.BC.89">佩羅（Pero）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=30" title="編輯章節：佩羅（Pero）" data-section="30" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>在巷中流浪的灰色貓，被路過的桃樂絲帶到羅傑府收養，喜歡搗亂和與桃樂絲玩。</li>
+<li>本來的主人是費里夫婦。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際是少年羅伊·費里被尤金抓到研究所後，進行身體改造的結果，所以是有人的記憶的貓。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在羅伊被抓前，費里一家曾養著一隻貓，因為尤金抓出牠作實驗引致費里一家不斷懇求尤金歸還貓，而尤金僅因為他們礙事而把羅伊抓走以懲罰他們。</span></li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">在改造成貓後逃出了實驗所，</span>後來被尤金抓了回去，融合到奇美拉。</li></ul><h3 class="in-block"><span id="尤金．格蘭特（Eugene_Grant）"></span><span class="mw-headline" id=".E5.B0.A4.E9.87.91.EF.BC.8E.E6.A0.BC.E8.98.AD.E7.89.B9.EF.BC.88Eugene_Grant.EF.BC.89">尤金．格蘭特（Eugene Grant）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=31" title="編輯章節：尤金．格蘭特（Eugene Grant）" data-section="31" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：古川登志夫（日）</li>
+<li>柏洛蒂姆的煉金術師，被柏洛蒂姆公司忌憚。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">人造蛋白質的研究者，由於有部分的研究結果連柏洛蒂姆公司也不敢宣佈，因此不承認他是科學家。</span>
+<ul><li>據大耳所言，尤金擁有關於「生命」的記憶。</li></ul></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">大量的人口消失的案件的始作俑者，</span>因為柏洛蒂姆已經失去大量物種，依靠售賣<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">把拐掉的人改造成的</span>稀有物種的動物謀取暴利，柏洛蒂姆從這取得大量分紅。
+<ul><li>取得的金錢就用來滿足他想創造完美的生物的欲望，因此研究的規模不斷放大。</li></ul></li>
+<li>尤金以前背叛了安琪拉並奪取了實驗所的全部控制權，而且把研究隊伍升格為私人軍隊。
+<ul><li>從柏洛蒂姆的新聞可得知有多宗寵物發狂殺死主人的個案。根據安琪拉的資料，<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">被改造成動物的人類會遲早變異並發狂殺人。但是尤金等人明知後果還是高價售賣這些定時炸彈，善後的工作就丟給軍警處理。</span></li></ul></li>
+<li>在實驗所中擺放著數而不盡的實驗體，在他眼中那些實驗體都是垃圾。
+<ul><li>在Big-O把奇美拉從實驗所推出去戶外時，尤金的手下似乎把實驗所炸毀了，安其拉形容此舉會消滅內藏的記憶。</li></ul></li>
+<li>本來脅持桃樂絲令羅傑和奇美拉戰鬥時分心，但是因為公然羞辱桃樂絲，激怒奇美拉而被牠的觸手抓到半空，折斷身體。</li></ul><h3 class="in-block"><span id="羅拔．費里和路易絲．費里（Robert_Ferry_and_Louise_Ferry）"></span><span class="mw-headline" id=".E7.BE.85.E6.8B.94.EF.BC.8E.E8.B2.BB.E9.87.8C.E5.92.8C.E8.B7.AF.E6.98.93.E7.B5.B2.EF.BC.8E.E8.B2.BB.E9.87.8C.EF.BC.88Robert_Ferry_and_Louise_Ferry.EF.BC.89">羅拔．費里和路易絲．費里（Robert Ferry and Louise Ferry）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=32" title="編輯章節：羅拔．費里和路易絲．費里（Robert Ferry and Louise Ferry）" data-section="32" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：田中亮一、石村知子（日）</li>
+<li>灰貓佩羅的原主人<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，佩羅的原型少年的雙親，被拐走的另一隻貓的主人。</span></li>
+<li>追蹤到桃樂絲家中居住的佩羅，向羅傑要求歸還貓。可是被尾隨的尤金拐走了佩羅還被尤金的直升機安裝的加特林機槍掃射而死。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">過去因為養的貓被尤金抓去做實驗，使盡一切方法要求尤金歸還貓，卻被認為礙事的尤金全家抓走，在他們面前把兒子羅伊改造成灰貓的樣子。</span>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">兩人從實驗室潛逃，然後找到流浪的灰貓但是沒法把牠還原人型，佩羅卻再次逃走了，結果到處流浪直至被桃樂絲發現。</span></li></ul></li></ul><h3 class="in-block"><span id="懷斯（Wise）"></span><span class="mw-headline" id=".E6.87.B7.E6.96.AF.EF.BC.88Wise.EF.BC.89">懷斯（Wise）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=33" title="編輯章節：懷斯（Wise）" data-section="33" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：青野武（日）</li>
+<li>弗朗西斯．懷斯的父親，七十歲。兒子被綁架因此被勒索二百萬贖金，為了安全救回兒子委託了羅傑交涉。
+<ul><li>在「那事情」後因為所有人都喪生記憶，他感到脆弱而和瑪麗相戀，誕下弗朗西斯。</li>
+<li>瑪麗不久死去。<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">因為「那事情」的緣故，沒有人會承認弗朗西斯是懷斯親生兒子，而貝克恃著知道這地下情報而勒索他，</span>因此避免著驚動軍警察引致私下交了贖金，可是貝克收了錢當然不會放人。</li>
+<li>非常重視兒子而且不相信羅傑，遭到耍弄後勉為其難配合後者，以致他成功追蹤貝克，最後救回兒子而且收回贖金。</li></ul></li></ul><h3 class="in-block"><span id="弗朗西斯．懷斯（Francis_Wise）"></span><span class="mw-headline" id=".E5.BC.97.E6.9C.97.E8.A5.BF.E6.96.AF.EF.BC.8E.E6.87.B7.E6.96.AF.EF.BC.88Francis_Wise.EF.BC.89">弗朗西斯．懷斯（Francis Wise）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=34" title="編輯章節：弗朗西斯．懷斯（Francis Wise）" data-section="34" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>四十歲，懷斯家族生意的繼任人，被貝克綁架，最後被羅傑救出。可是羅傑中了貝克的圈套令丹以為羅傑是綁匪，羅傑突圍逃走後由軍警救出。</li></ul><h3 class="in-block"><span class="mw-headline" id="Dove">Dove</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=35" title="編輯章節：Dove" data-section="35" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：千田光男（日）</li>
+<li>貝克的手下之一。臉色蒼白，嘴唇鮮紅色。經常以御姐口調說話，圍著黃色的圍巾。在一次逃獄時因為被雷劈中變了爆炸頭，穿著紅色西裝。</li></ul><h3 class="in-block"><span class="mw-headline" id="T-Bone">T-Bone</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=36" title="編輯章節：T-Bone" data-section="36" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：園部啓一（日）</li>
+<li>貝克的手下之一。有像曬黑的膚色，身型圓潤。同樣圍著黃色的圍巾。在逃獄時因為被雷劈中頭髮倒立了，穿著綠色西裝。</li></ul><h3 class="in-block"><span id="西比爾·羅文（Sybil_Rowan/シベール・ロアン）"></span><span class="mw-headline" id=".E8.A5.BF.E6.AF.94.E7.88.BE.C2.B7.E7.BE.85.E6.96.87.EF.BC.88Sybil_Rowan.2F.E3.82.B7.E3.83.99.E3.83.BC.E3.83.AB.E3.83.BB.E3.83.AD.E3.82.A2.E3.83.B3.EF.BC.89">西比爾·羅文（Sybil Rowan/シベール・ロアン）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=37" title="編輯章節：西比爾·羅文（Sybil Rowan/シベール・ロアン）" data-section="37" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>最少三十年前，柏洛蒂姆城成立之前，演員西比爾成為了電影「冬夜魅影」的女主角。在電影的結尾，她飾演的角色被所愛的男人槍殺，臨終前她說了「vous êtes si gentil」（You're so sweet.）。
+<ul><li>很可能演員只是一個幌子（而且她只演出這電影），她因為美貌成為了反柏洛蒂姆城勢力的形象代表。</li></ul></li>
+<li>高登在成立柏洛蒂姆城時曾命令元老院把所有存在反政府嫌疑的人驅逐出城，而柏洛蒂姆軍隊在極端的壓力下拘禁了西比爾，把她一直囚禁，現時生死未卜。
+<ul><li>「冬夜魅影」的所有底片和宣傳資料在三十年前被柏洛蒂姆通通消除了，剩下極少的蛛絲馬跡可以追尋。</li></ul></li>
+<li>羅傑儘管盡力調查，也沒有發現西比爾有任何的後代。他倒是發掘出她可能從<s>法國</s>柏洛蒂姆城以外很遠的地方來的傳聞。
+<ul><li>似乎整個<s>曼克頓城</s>柏洛蒂姆城都沒有人知道「vous êtes si gentil」的含意。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">但是劇終時有字幕解釋含意，似乎代表了多年前電影被播映時，明顯有外地的文化在柏洛蒂姆城的前身扎根，之後被柏洛蒂姆城連根拔起了。</span></li></ul></li></ul></li></ul><h3 class="in-block"><span id="魅影（Phantom）"></span><span class="mw-headline" id=".E9.AD.85.E5.BD.B1.EF.BC.88Phantom.EF.BC.89">魅影（Phantom）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=38" title="編輯章節：魅影（Phantom）" data-section="38" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV: 玉川砂記子</li>
+<li>根據Big-O出演名單，魅影的真名是西比爾·羅文。</li>
+<li>連環炸彈殺人案件的兇手，擁有操縱機神厄里倪厄斯的遙控機關。和數十年前的人物西比爾·羅文在戲中的外貌一樣。</li>
+<li>「冬夜魅影」的情節不時在丹的腦海閃過，而且丹在接手殺人案件後，多次不意中看見她在人海中出現。</li>
+<li>炸彈襲擊的主要目標都是退休的柏洛蒂姆政府官員<s>，炸一人順便炸死數十個旁人這事請不要在意</s>柏洛蒂姆政府非常在意，但是因為只有發現起爆裝置，連炸彈的殘骸也被燒光而束手無策。</li>
+<li>在丹主導<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">根據他記憶中對魅影駕駛的Marbles Balloon車輛進行全方位監視</span>的新一輪偵查行動下，終於讓丹追到魅影，而魅影把他引誘到渡口的橋上。</li>
+<li>魅影和丹對恃，她表示丹只是可憐的守門犬，但是丹表示著守門犬也有自己的榮耀，向她槍擊，引致她控制的機神停止運作。</li>
+<li>她在丹的懷中彌留時表示她只是做了她認為必須做的事，當兩人都執行了自己的使命，這一切以外也不重要了。她感到奇怪，因為她像是很久以前已預知到這樣的結局，而丹原來有同感。</li></ul><h3 class="in-block"><span id="奧利弗（Oliver）"></span><span class="mw-headline" id=".E5.A5.A7.E5.88.A9.E5.BC.97.EF.BC.88Oliver.EF.BC.89">奧利弗（Oliver）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=39" title="編輯章節：奧利弗（Oliver）" data-section="39" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E4%B8%89%E6%9C%A8%E7%9C%9F%E4%B8%80%E9%83%8E" title="三木真一郎">三木真一郎</a>（日）</li></ul><ul><li>吹奏色士風的業餘街頭賣藝者，正職是收垃圾的工人，很窮。和情人勞拉同住。
+<ul><li>他說他的色士風和吹奏的技能是從他的祖父流傳下來的，但是他沒有親身見過祖父。</li></ul></li>
+<li>在聖誕前夕留意到全身黑色西裝的人（羅傑）很欣賞他的演奏。</li>
+<li>某夜（約為12月17-19日）<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>回家抱怨著沒錢買聖誕禮物時，被聖誕老人遊說亦接受了護身符一般的閃亮寶物。</li>
+<li>在平安夜前一直小心保存寶物，因此柏洛蒂姆警察沒法找到聖誕老人所指的威脅。</li>
+<li>平安夜時當奧利弗在城中心的圓拱吹奏士風，寶物被激活了而且長成一棵巨大的樹，一度把奧利弗推上半空，然後他滑手掉下去，幸好被下方的Big-O接住。</li>
+<li>巨樹停止生長後，在羅傑的請求下吹奏著Jingle Bell，其出色的演奏獲得了眾人的讚賞。</li></ul><h3 class="in-block"><span id="勞拉（Laura）"></span><span class="mw-headline" id=".E5.8B.9E.E6.8B.89.EF.BC.88Laura.EF.BC.89">勞拉（Laura）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=40" title="編輯章節：勞拉（Laura）" data-section="40" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：<a href="/%E6%B1%A0%E6%BE%A4%E6%98%A5%E8%8F%9C" title="池澤春菜">池澤春菜</a>（日）</li></ul><ul><li>奧利弗的情人，失明而且沒有出外工作。</li>
+<li>雖然奧利弗沒有很多本錢，包括吹奏色士風沒能帶來什麼收入，但是奧利弗堅持著做他喜愛的事，令他們一直在一起。</li>
+<li>勞拉知道奧利弗很多時候會對她說謊，但是最終的目的還是保持自己的初心。</li></ul><h3 class="in-block"><span id="聖誕老人（Santa_Claus）"></span><span class="mw-headline" id=".E8.81.96.E8.AA.95.E8.80.81.E4.BA.BA.EF.BC.88Santa_Claus.EF.BC.89">聖誕老人（Santa Claus）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=41" title="編輯章節：聖誕老人（Santa Claus）" data-section="41" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>CV：藤本讓（日）</li></ul><ul><li>很老的瘋狂科學家，擁有把環境還原成大自然的記憶，他曾說根據四十年前的記憶，柏洛蒂姆的一切將會被樹覆蓋。</li>
+<li>在聖誕節前一星期在城中每家每戶派發明信片，背面寫著「在七天後，世界將會重生」，引起了柏洛蒂姆政府的極大恐慌，警察大肆搜查聖誕老人的蹤影和異常的物件但是沒有發現。</li>
+<li>留意到奧利弗經常在街頭吹奏，游說了他收下寶物，留下了「我要離開這個世界了，這個世界的所有人都在窒息」的訊息，隨著大笑消失無蹤。</li></ul><h3 class="in-block"><span class="mw-headline" id="R._D.">R. D.</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=42" title="編輯章節：R. D." data-section="42" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">CV： 矢島晶子（日）／Lia Sargent（英）</span></li>
+<li>連環殺人事件的兇手，型號和身型與桃樂絲相同，穿著鮮紅色的斗篷，使用手槍槍擊似乎完全沒有共通點的市民。
+<ul><li>根據大耳，他們唯一的共通點是清楚記起他們不是在柏洛蒂姆城出生。</li>
+<li>暗殺過後統一用鮮紅色唇膏在旁邊寫上「CAST IN THE NAME OF GOD, YE NOT GUILTY」，因此令丹懷疑和羅傑有關，但是既然丹從來沒有乘上Big-O應該不知道Big-O的駕駛艙會顯示這字句…</li></ul></li>
+<li>自稱為Red Destiny，根據命令殺人，羅傑表示生化人是預設不會傷害人類的，對她是否生化人有疑問。</li>
+<li>追殺羅傑時成功把他槍傷，而且把附近的高壓變電機器破壞，令他沒有退路，但在幾乎槍殺羅傑時被從地面下突擊的Big-O一拳打穿地下鐵路牆頂，被完全破壞。</li></ul></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(6)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="機體介紹"></span><span class="mw-headline" id=".E6.A9.9F.E9.AB.94.E4.BB.8B.E7.B4.B9">機體介紹</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=43" title="編輯章節：機體介紹" data-section="43" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-6 collapsible-block" id="mf-section-6">
+<h3 class="in-block"><span id="The_Big（ザ・ビッグ）"></span><span class="mw-headline" id="The_Big.EF.BC.88.E3.82.B6.E3.83.BB.E3.83.93.E3.83.83.E3.82.B0.EF.BC.89">The Big（ザ・ビッグ）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=44" title="編輯章節：The Big（ザ・ビッグ）" data-section="44" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>本作出現的機體，也被稱為「機神（Mega Deus/メガデウス）」。
+<ul><li>造型特徵為有著巨大的手腕和纖細的手臂和<s>不像鋼彈</s>，擁有不同的機種和名稱</li>
+<li>從羅傑的回憶中能得知是量產機<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>並且還一度毀滅過這個世界。</li></ul></li></ul><ul><li>需要名為「記憶」的東西才能啟動，並且也只有擁有叫作「多繆拉斯（ドミュナス，拉丁語中「駕駛員」的意思）」的身份的人才能啟動。</li></ul><ul><li>啟動時螢幕會出現「<b>CAST IN THE NAME OF GOD, YE NOT GUILTY.（以神之名鑄造，汝等無罪）</b>」的句子，據說源自於12世紀<a href="/%E5%BE%B7%E5%9C%8B(%E6%96%87%E5%8C%96)" class="mw-redirect" title="德國(文化)">德國</a>的劊子手所持有的刀上所刻的文字<s>為什麼德國物品會寫英文</s>。
+<ul><li><s>在對岸經常被<a href="/%E7%A9%BA%E8%80%B3" title="空耳">空耳</a>成「爺 not guilty」</s></li>
+<li>Big-Duo Inferno最後<s>擁抱舊愛木乃伊</s>拒絕艾倫時，螢幕上出現了「<b>YE GUILTY（汝有罪）</b>」的字句</li>
+<li>Big Fau初次啟動時因為欠缺了「記憶」，螢幕上只出現了「<b>YE NOT...（汝非…）</b>」的字句</li></ul></li></ul><ul><li>要呼喚時需喊出「Big（名字）! Showtime!」才能叫出來，要讓機體動作則要喊出「Big（名字）! Action!」。
+<ul><li><s>找一部復讀機不斷叫機體名字也可以叫出來（貝克曾以複讀機遙控Big O丟到海裡）</s></li></ul></li></ul><h4 class="in-block"><span id="Big-O（ビッグオー）"></span><span class="mw-headline" id="Big-O.EF.BC.88.E3.83.93.E3.83.83.E3.82.B0.E3.82.AA.E3.83.BC.EF.BC.89">Big-O（ビッグオー）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=45" title="編輯章節：Big-O（ビッグオー）" data-section="45" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>羅傑的座機，主色是<s>羅傑最愛的</s>黑色，擁有不同的強力武裝。</li>
+<li>平常放置在柏洛蒂姆城地底的火車上，利用已廢棄之地下鐵路網隨著羅傑的呼喚移動到不同地方並從地底出現<s>，所以也是造成地層下陷的元兇</s>
+<ul><li><s>不要吐嘈整個柏洛蒂姆城地下鐵路都是他的，既然其他機神四處皆是，這其實是很普通的事</s></li></ul></li></ul><ul><li>雖然是主角的座機，不過實際上羅傑不曉得是如何得到、並且能操控它。而且有連自己也不知道可以用的武器。</li></ul><ul><li>武器大多數都是偏向實彈及物理型，光束武器<s>在第一季只</s>有頭部光束及眼部光束<u></u>
+<ul><li><s>但</s>在第二季中<s>不知道是不是因為電腦繪畫變得很想試著畫光束而</s>追加了O thunder及Final Stage。</li></ul></li></ul><div class="NavFrame collapsed" style=""><div class="NavHead" style="">武器</div><div class="NavContent" style="">
+<ul><li><b>Arc Line（アークライン）</b>
+<ul><li>從雙眼射出光束，似乎是The Big系列的標準配備。</li>
+<li>發射時需要先擺出發射動作（一臂舉起向前，一臂放後靠腰，雙手成掌形）<s>很有禮貌</s></li></ul></li></ul><ul><li><b>Chrome Buster（クロムバスター）</b>
+<ul><li>從頭部的水晶結構放出的高能量光束。<s>水晶被砸了就不能使用</s></li>
+<li>發射時同樣需先擺出發射動作（雙臂先後直直舉起→橫放合十對拳）<s>但偶然會不擺動作直接射</s></li></ul></li></ul><ul><li><b>Missile Party（ミサイルパーティー）</b>
+<ul><li>從腹部發射的多連裝飛彈。</li>
+<li><s>雖然有發射動作（與Arc Line相同）但大多數不擺</s></li></ul></li></ul><ul><li><b>Cannon Party（キャノンパーティー）</b>
+<ul><li>胸部展開後露出的加農砲。大多與Missile Party一同使用。</li>
+<li>只於Act:12擺過一次發射動作（雙臂交叉→雙臂舉前）</li></ul></li></ul><ul><li><b>O Thunder（Oサンダー）</b>
+<ul><li>手臂裝甲往外展開後以內藏的四連裝迴轉機關砲射擊。
+<ul><li>使用時駕駛艙內的操縱把手會變成專用型（附扳機）</li></ul></li>
+<li>是Big O火力最強的射擊武器，擁有能將Beck The Great RX3完全破壞、把Big-Duo Inferno<a href="/%E6%88%90%E5%8F%A5/%E9%BA%BB%E7%BE%8E_(%E5%8B%95%E8%A9%9E)" title="成句/麻美 (動詞)">斷頭</a>連帶貫穿數幢大樓的威力。</li>
+<li>名字由來是射擊時會有出現一個圓形光環。</li></ul></li></ul><ul><li><b>Mobydick Anchor（モビーディックアンカー）</b>
+<ul><li>裝設於腰部的8支鎖鏈噴射錨，能射出去貫穿/綁住目標後再拖過來。
+<ul><li>一支便有足以支撐Big O重量的強度。</li>
+<li>斷裂/主動排除後會從發射口推出新的錨補充。</li></ul></li></ul></li></ul><ul><li><b>Sudden Impact（サドンインパクト）</b>
+<ul><li>最常使用的必殺技，先把手肘的<a href="/%E8%B2%AB%E9%87%98" title="貫釘">壓縮器</a>退後壓縮空氣、再在拳擊時一同射出的零距離空氣砲。
+<ul><li>雖說是<a href="/%E9%9B%B6%E8%B7%9D%E9%9B%A2%E5%B0%84%E6%93%8A" title="零距離射擊">零距離射擊</a>，但空氣砲本身也能用以作攻擊遠處的目標。</li>
+<li>威力足以在雙臂齊發時把Big O從深海海底推回水面。</li></ul></li></ul></li></ul><dl><dd>作中唯一打不穿的是Big Fau的<s>AT Field</s>電磁牆。</dd></dl><ul><li><b>Plasma Gimmick（プラズマギミック）</b>
+<ul><li>上半身和雙臂裝甲展開後生成出巨大等離子球。也能用以反彈電擊。</li>
+<li><s>習得條件是被高壓電電擊直至出現幻覺</s></li></ul></li></ul><ul><li><b>Final Stage（ファイナルステージ）</b>
+<ul><li><a href="/%E6%88%90%E5%8F%A5/%E6%88%91%E6%9C%AC%E4%BE%86%E4%B8%8D%E6%83%B3%E7%94%A8%E9%80%99%E4%B8%80%E6%8B%9B%E7%9A%84" title="成句/我本來不想用這一招的">只能使用一次的最終究極兵器</a>，能一擊把直徑10公里的巨蛋粉碎的超強力光束砲。
+<ul><li>發射前需先把所有Mobydick Anchor射入地面固定機身，然後展開雙臂和胸口（前後）的裝甲、露出藏於胸口中央的球形砲口後蓄能射擊。射擊時雙臂的壓縮器會向後發射空氣砲抵銷後座力。</li>
+<li>使用時駕駛艙會出現專用的控制台和操縱桿。</li>
+<li>雖威力極大但只射一發砲身就會熔毀，無法再次使用。</li></ul></li>
+<li>根據貝克所述，必須由桃樂絲和Big O接續還有完成未知的程序才可以使用。</li></ul></li></ul></div></div>
+<h4 class="in-block"><span id="Big-Duo（ビッグデュオ）"></span><span class="mw-headline" id="Big-Duo.EF.BC.88.E3.83.93.E3.83.83.E3.82.B0.E3.83.87.E3.83.A5.E3.82.AA.EF.BC.89">Big-Duo（ビッグデュオ）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=46" title="編輯章節：Big-Duo（ビッグデュオ）" data-section="46" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>史瓦茲華特的座機，作品中唯一能飛的The Big，左右手臂都裝有像是螺旋槳的東西，雙肩有可收納及展開的翼，在飛行時全機呈現轟炸機的型態。
+<ul><li>初登場時以全身包裹繃帶的造型出場，被稱為木乃伊。</li></ul></li></ul><ul><li>以導彈爆擊為主的攻擊方式作戰，持有攻擊範圍極廣的百萬噸導彈<s>寫作百萬噸讀作氫彈吧。</s></li>
+<li><s>其實根本是台轟炸機，被打掉頭後就會暴走。</s></li>
+<li>不知為何只要被打掉頭就會放棄戰鬥（物理），自行退場的謎之機體。史瓦茲華特擁有Big Duo曾做過類似行為的記憶。</li>
+<li>在大破後被柏洛蒂姆公司回收，加裝強化設備後變成Big-Duo Infernal。</li></ul><div class="NavFrame collapsed" style=""><div class="NavHead" style="">武器</div><div class="NavContent" style="">
+<ul><li><b>繃帶</b>
+<ul><li>出場時全身被繃帶包住。它利用了雙手能高速旋轉的特性發射繃帶把Big-O抓住，還可以拉近和自由切斷。可是一遇上火器就被燃燒殆盡。</li></ul></li></ul><ul><li><b>Arc Line</b>
+<ul><li>眼部光束，威力與Big-O的相若<s>但不用擺發射動作</s>。</li></ul></li></ul><ul><li><b>煙幕</b>
+<ul><li>可以一瞬放出掩蓋全身周圍的煙幕，用以逃走。</li></ul></li></ul><ul><li><b>螺旋指（プロペラ・アーム）</b>
+<ul><li>手指接上旋轉引擎高速迴轉便成為螺旋槳，配合背上的火箭能於空中飛行。</li>
+<li>也能單純以旋轉手指當成切割刀使用、或加強手指握力。</li></ul></li></ul><ul><li><b>連裝導彈（ガトリングミサイル）</b>
+<ul><li>腹部內藏的大量飛彈，能於空中單方面對地面上的目標狂轟濫炸。</li></ul></li></ul><ul><li><b>百萬噸導彈（メガトンミサイル）</b>
+<ul><li>藏於小腿的最強武器，使用時膝蓋以下部分的小腿往下（前）滑開露出發射口，從每腿各排出一發特大號飛彈。</li>
+<li>不負最強武器之名，威力足以把落點方圓數百公尺範圍夷為平地並炸出磨菇雲。</li></ul></li></ul></div></div>
+<h5 class="in-block"><span id="Big-Duo_Inferno（ビッグデュオ・インフェルノ）"></span><span class="mw-headline" id="Big-Duo_Inferno.EF.BC.88.E3.83.93.E3.83.83.E3.82.B0.E3.83.87.E3.83.A5.E3.82.AA.E3.83.BB.E3.82.A4.E3.83.B3.E3.83.95.E3.82.A7.E3.83.AB.E3.83.8E.EF.BC.89">Big-Duo Inferno（ビッグデュオ・インフェルノ）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=47" title="編輯章節：Big-Duo Inferno（ビッグデュオ・インフェルノ）" data-section="47" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h5>
+<ul><li>艾倫的座機，由柏洛蒂姆公司回收Big-Duo所作的<s><a href="/%E9%AD%94%E6%94%B9%E9%80%A0" title="魔改造">魔改造</a></s>機體。</li>
+<li>格鬥特化，螺旋槳可變更成刀片，並藉由旋轉機能變為銳利的<a href="/%E9%91%BD%E9%A0%AD" title="鑽頭">鑽頭</a><s>但是那個效果跟音效真的很令人難受</s>
+<ul><li>可是完全沒有射擊火力<s>怎看都是一隻盲頭蒼蠅</s>，因為格鬥力特化而且比Big Duo明顯更輕而可以高速突擊<s>但是既然Big O本身怎跑也追不上，再點速度沒有意義啊，是故意衝過來被揍嗎</s></li></ul></li>
+<li>最終因不承認艾倫是它的駕駛員而將他吸收掉，然後直直飛上「天花板」撞毀。</li></ul><h4 class="in-block"><span id="Big-Fau（ビッグファウ）"></span><span class="mw-headline" id="Big-Fau.EF.BC.88.E3.83.93.E3.83.83.E3.82.B0.E3.83.95.E3.82.A1.E3.82.A6.EF.BC.89">Big-Fau（ビッグファウ）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=48" title="編輯章節：Big-Fau（ビッグファウ）" data-section="48" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>艾歷克斯的座機，全身是由各地的零件拼裝出來的機體。
+<ul><li>無論對空、對地或對水中的性能都很優秀，可說是Big系列最平衡的機體。</li>
+<li>擁有觸手型光束砲塔、大型對空砲塔，以及<a href="/%E7%81%AB%E7%AE%AD%E9%A3%9B%E6%8B%B3" title="火箭飛拳">火箭飛拳</a>等多彩武裝，最終戰搭載了能擋住Big-O攻擊的電磁力場。</li></ul></li></ul><ul><li>初啟動時一度否認艾歷克斯是駕駛員並暴走，在使用從桃樂絲身上取得的「記憶」後而卒能正常啟動。</li></ul><ul><li>駕駛室的主調色是藍色，在駕駛座後方有類似電子亮燈的介面，介面中間有漏斗狀的圖案。因為駕駛員背向介面，疑似Big-Fau的意志在監視著駕駛員。<s>Big-Fau在你後面，它非常火</s></li>
+<li>根據艾歷克斯所言，Big Fau常時處於一種半死的狀態，而且Big系列在承認駕駛者而且駕駛者的情況下會用管線和駕駛員接續。Big Fau的確這樣做了，而艾歷克斯認為它嘗試在吸收自己到機身內。
+<ul><li>羅傑的獨白中表示了這行為的最終結果會令駕駛員和機神的存在合而為一<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">，可是Big Venus的出現令Big Fau的機能完全停止，最終沒法完全融合的情況下被抹消存在。</span></li></ul></li></ul><div class="NavFrame collapsed" style=""><div class="NavHead" style="">武器</div><div class="NavContent" style="">
+<ul><li><b>Arc Line</b>
+<ul><li>眼部光束。只有在羅傑的記憶中出現的量產型有使用。</li></ul></li></ul><ul><li><b>觸手型光束砲塔</b>
+<ul><li>安裝在胸和背上各二台的自動瞄準射擊裝置。能連續發射光束，可是只適合摧毀小型目標。
+<ul><li>所謂的「小型目標」是指坦克之類的軍用車輛，換言之這砲塔是<b>對人兵器</b>…</li></ul></li>
+<li>在通常狀況下敵人在前面的話，後面的砲塔沒什麼用途，但是艾歷克斯和Big-Fau接續後，砲塔似乎得到了認知能力，可以準確命中身後的坦克，而且進行無差別射擊。</li></ul></li></ul><ul><li><b>對空砲塔</b></li></ul><ul><li><b>電磁防護罩</b></li></ul><ul><li><b>スクリュー・アーム</b>
+<ul><li>雙臂的腕環可高速旋轉，藉此增加格鬥時的攻擊力將目標撕裂。
+<ul><li>由於有著防護罩的絕對防禦，手臂笨重的弱點可以完全無視。</li></ul></li>
+<li>在水底時能充當螺旋槳進行高速潛航和上浮。</li></ul></li></ul><ul><li><b>ビッグファウ・キャノン</b></li></ul><ul><li><b>コークスクリューパンチ</b>
+<ul><li><s>究極的敗北flag</s></li></ul></li></ul></div></div>
+<h4 class="in-block"><span id="Big-Venus（ビッグヴィヌス）"></span><span class="mw-headline" id="Big-Venus.EF.BC.88.E3.83.93.E3.83.83.E3.82.B0.E3.83.B4.E3.82.A3.E3.83.8C.E3.82.B9.EF.BC.89"><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">Big-Venus（ビッグヴィヌス）</span></span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=49" title="編輯章節：Big-Venus（ビッグヴィヌス）" data-section="49" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">安琪拉的座機，第四台Big機體，一切資料都是謎。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">擁有將整個世界的所有事物化整為零的<s><a href="/%E5%A4%96%E6%8E%9B" title="外掛">外掛</a></s>能力。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;"><s>除了外觀上稍微不太一樣外，基本上就是Big-O的負片版</s></span></li></ul><h3 class="in-block"><span id="其他機體"></span><span class="mw-headline" id=".E5.85.B6.E4.BB.96.E6.A9.9F.E9.AB.94">其他機體</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=50" title="編輯章節：其他機體" data-section="50" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<ul><li>Big-O面對的主要對手。因為同樣以遠遠超越柏洛蒂姆的技術建造，除了用機神對付別無他法<s>但是因為要強調羅傑不想<a href="/%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5" title="武力介入">武力介入</a>，很多時反而是駕駛員或是機神自滅。</s>
+<ul><li>機神基本上不會被一般槍械傷害，即使被炮擊會被打到倒地，也可以輕易站起來繼續活動。</li></ul></li></ul><h4 class="in-block"><span class="mw-headline" id="Dorothy-1">Dorothy-1</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=51" title="編輯章節：Dorothy-1" data-section="51" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>根據提摩西的藍圖，由米格爾的工廠生產的機神，被稱為桃樂絲的「姐姐」。</li>
+<li>劇中襲擊了銀行，企圖奪取收藏的財富。</li>
+<li><s>絕對不是紅色宇宙恐龍海帕傑頓</s></li>
+<li>主要的武器是內藏鉗和<a href="/%E8%A7%B8%E6%89%8B" title="觸手">觸手</a>的雙手。
+<ul><li>觸手雖然不能直接用作打擊、刺擊或砍擊，但可以伸長至少100米，也可以綁住和抓起機神。觸手也可以變成鑽頭狀，高速旋轉以鑽開物件。</li>
+<li>觸手的尖端可以發射高熱射線熔解金屬。它曾用以破開銀行夾萬。尖端另有內藏小型起重鉗<s>說不定是偽裝的四次元百寶袋</s></li>
+<li>雙手收回觸手後可以展開尖鉗進行格鬥。</li></ul></li>
+<li>Dorothy-1運行時，臉上會有彩光圓點閃爍；機能停止後臉會變成全黑。</li>
+<li>桃樂絲和Dorothy-1有不明的關係，從她試圖接近機神而且模仿它的動作可見。</li></ul><ul><li>Dorothy-1機體中心被開洞後，被貝克回收，後來在臉部安裝了被綁架的桃樂絲用作電力制衡回路。最後貝克設計了替代駕駛裝置安裝到機體後，好不容易令它可以再用。</li>
+<li>桃樂絲被羅傑從Dorothy-1的臉部電路扯出來後，再度失去移動能力。</li>
+<li>似乎機體最後被柏洛蒂姆回收了。</li></ul><h4 class="in-block"><span id="電鰻（Eel）"></span><span class="mw-headline" id=".E9.9B.BB.E9.B0.BB.EF.BC.88Eel.EF.BC.89">電鰻（Eel）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=52" title="編輯章節：電鰻（Eel）" data-section="52" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>名稱源自《原子超空人》第27話中登場的「大怪物イーラ」。</li></ul><ul><li>在水力發電站附近的湖內沈睡的巨獸，被電力之城的居民稱為湖之神，據稱在憤怒時會放電破壞四周。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">為退休的基因學研究員的產品，因為討厭柏洛蒂姆在城中建造發電廠，根據記憶建造了一個巨獸順便協助居民抵抗柏洛蒂姆公司。</span></li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">電鰻最初的用途就是不依靠柏洛蒂姆公司，讓城內的人自給自足，可是持續的城市發展最後令電鰻過於強大，失去控制。</span></li>
+<li>安琪拉在發電廠啟動渦輪機後把牠喚醒，引致牠攻擊任何使用電力和移動的物件，包括車輛。</li>
+<li>由於從發電廠抽取電力作為能源，主要的戰鬥手段就是展開嘴放電，電鰻更可以短暫展開電磁牆，抵擋Big-O的正拳。</li>
+<li>另外會用原始的物理手段攻擊：牠會捲著敵人，用長舌抓住敵人，或是試圖整個吞掉。可是Big-O太大了吃不下。</li>
+<li>渦輪機被停止後失去所有動力，最後被Big-O的Chrome Buster射碎頭部，殘骸的樣本則被柏洛蒂姆公司回收，被改造成三頭電鰻。
+<ul><li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">電鰻的舌頭被Big-O扯斷時，明顯可見舌頭表層下的組件是機械的，因此電鰻是高仿生物的機神之一。</span></li></ul></li></ul><h4 class="in-block"><span class="mw-headline" id="Archetype">Archetype</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=53" title="編輯章節：Archetype" data-section="53" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>被埋藏在地下深處的機神，由於沒有人能在此居住，直至很久後才被史瓦茲發現。</li>
+<li>似乎有引誘桃樂絲接近，然後強行讀取她的記憶的能力。
+<ul><li>據桃樂絲說，Archetype在讀取記憶後「獲得生命」。而桃樂絲把它判斷為不應該存在的機神，和她沒有任何關係。</li>
+<li>Archetype追逐桃樂絲並試圖取得她，但被羅傑駕駛Big-O阻止。</li></ul></li>
+<li>由於沒有裝甲，能跳躍和快速爬動，行為像原始人。雖然力度比Big-O大但是沒有防禦力，結果被Missile Party近距直擊破壞。</li></ul><h4 class="in-block"><span class="mw-headline" id="Osrail">Osrail</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=54" title="編輯章節：Osrail" data-section="54" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>名字源來自《帕德的魔術世界》裡司死亡的天使「歐斯雷伊魯」。</li>
+<li>潛伏在東邊市的哈德森河中的機神，因為一年前警官邦妮．弗雷澤在橋上被同僚槍擊再掉進河裡，機神被邦妮強大的執念喚醒，把他救起並讓他控制，接連對多個貪污警官作出報復。</li>
+<li>裝備有發霧裝置和立體影像投影裝置，能夠投射出自己的幻影和隱藏實際位置、也因此被叫作「鬼（Ghost）」。警察由於完全無法追蹤實際位置而一籌莫展。
+<ul><li>但是本體還是可以被Big-O的雷達追蹤。</li></ul></li>
+<li>攻擊手段是放出等離子火球。</li></ul><h4 class="in-block"><span class="mw-headline" id="Constanze">Constanze</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=55" title="編輯章節：Constanze" data-section="55" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>名字來自於<a href="/Wolfgang_Amadeus_Mozart_(Fate)" title="Wolfgang Amadeus Mozart (Fate)">莫札特</a>的妻子康絲坦茲。</li>
+<li>由科學家亞瑪迪斯建造的機神，使用「留聲機械（Phonosonic Machine）」運作。留聲機械是使用音波攻擊把建築物等夷為平地的高威力武器。
+<ul><li>亞瑪迪斯在仕途失意後，建造了康絲坦茲用以向柏洛蒂姆公司復仇。</li>
+<li><span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際的建造原因不明，上面的原因是吉生騙R．因斯杜的。</span></li>
+<li>現實的留聲機的英文名稱為Phonograph。</li></ul></li>
+<li>唯一的戰鬥手段是<s>使用<a href="/%E9%A6%AC%E4%BF%9D%E5%9C%8B" title="馬保國">閃電五連鞭</a></s>高速旋轉它的四對手<s>變成電風扇</s>。
+<ul><li>產生的聲音衝擊波連Arc Line也可以折射開去，而且Big-O也沒法靠近。</li></ul></li>
+<li>在R．因斯杜喪失戰意後，Big-O把它的手全部拆掉，剝削它的戰鬥力。</li></ul><h4 class="in-block"><span class="mw-headline" id="Dagon">Dagon</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=56" title="編輯章節：Dagon" data-section="56" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>名字源自閃米特人的農業神大袞／達貢。</li>
+<li>沉眠於海底，和它有關連的控制者已故。全身被海草覆蓋。被軍隊炮擊後露出機械真身。
+<ul><li>因為數名潛水員企圖奪取記憶，接近機體而甦醒。時常在喊叫但是沒有知道它想說什麼。</li></ul></li>
+<li>能從肩上發射三連裝大型飛彈。</li>
+<li>安琪拉要求羅傑不要傷害頭部，因為保存了貴重的記憶，但是羅傑為了避免記憶被惡意使用，用Big-O抓住大袞的頭部，以Sudden Impact整個破壞了。</li>
+<li>艾歷克斯認為大袞不足為用，只有它的記憶才重要。</li></ul><h4 class="in-block"><span class="mw-headline" id="Beck_Victory_Deluxe">Beck Victory Deluxe</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=57" title="編輯章節：Beck Victory Deluxe" data-section="57" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>貝克對懷斯進行恐嚇，得到錢和零件製造的重金屬機器人。</li>
+<li>全身金黃色，走動時常時舉高雙手<s>舉手投降的進化版</s>，可是上半身能夠突然迴轉。<s>逃げるんだよ！</s></li>
+<li>武器包括胸部飛彈和轉動手指發射光束。
+<ul><li>可是火力遠遠不足以打穿Big-O的裝甲，不單被兩個Mobydick Anchor插中機身，還被Sudden Impact爆頸，剩下被抓住的頭部就被丟到丹旁邊。</li></ul></li></ul><h4 class="in-block"><span class="mw-headline" id="Eumenides">Eumenides</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=58" title="編輯章節：Eumenides" data-section="58" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>名字來自希臘神話的復仇女神厄里倪厄斯。</li>
+<li>魅影控制的機神。外形是古老玩具士兵機器人，內藏滿滿的炸藥。</li>
+<li>分為兩個版本：第一個為和現實玩具相同的大小，第二個約三十米高，連Big-O也要費力把它拉住的巨型機器人。
+<ul><li>或許第一個版本只是普通的炸彈<s>可是那個技術力很難不當作機神。</s></li></ul></li>
+<li>第一版本可以自行從地下通道爬出，受到觸碰時自行引爆。可以把數層樓高的建築物內所有人炸死。
+<ul><li>也有類似的版本用以炸掉車輛。</li></ul></li>
+<li>第二版本似乎可以用遙控控制移動和引爆。能旋轉頭部和從眼睛發射破壞光線。如果爆炸似乎可以把整個遊園地夷為平地。</li></ul><h4 class="in-block"><span id="魔鬼之種子（Daemonseed）"></span><span class="mw-headline" id=".E9.AD.94.E9.AC.BC.E4.B9.8B.E7.A8.AE.E5.AD.90.EF.BC.88Daemonseed.EF.BC.89">魔鬼之種子（Daemonseed）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=59" title="編輯章節：魔鬼之種子（Daemonseed）" data-section="59" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>聖誕老人說服奧利弗保管的寶物，實際是在平安夜會定時啟動，生長成覆蓋整個柏洛蒂姆城，頂穿巨蛋的聖誕樹機神。</li>
+<li>擁有無窮的生長和收復能力，生長時會破壞道路和沿著建築物的內外牆生長，直至貫穿天台。
+<ul><li>即使被Big-O的各種兵裝破壞枝節，也沒法阻止它的生長，最後在抓起Big-O試圖攻擊駕駛艙時，因為被設計只能生長到一定時間和長度，所以才沒有實際損害Big-O的機體。</li></ul></li></ul><h3 class="in-block"><span id="異形生物"></span><span class="mw-headline" id=".E7.95.B0.E5.BD.A2.E7.94.9F.E7.89.A9">異形生物</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=60" title="編輯章節：異形生物" data-section="60" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h3>
+<h4 class="in-block"><span id="奇美拉（キメラ）"></span><span class="mw-headline" id=".E5.A5.87.E7.BE.8E.E6.8B.89.EF.BC.88.E3.82.AD.E3.83.A1.E3.83.A9.EF.BC.89">奇美拉（キメラ）</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=61" title="編輯章節：奇美拉（キメラ）" data-section="61" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h4>
+<ul><li>尤金．格蘭特把動物<span class="inline-text-censored" title="你知道的太多了" style="color:black !important; background-color:black; cursor:default;">實際是改造的人類</span>中的失敗作融合到單一生命體，作為最終兵器用以防禦潛入的外人。外觀像是各種動物的外觀拼合的四足生物，臉龐像貓和巨人的混合體。
+<ul><li>佩羅不是奇美拉的名稱，奇美拉似乎擁有著這貓的記憶。</li>
+<li>能靈活的走動，使用肩上伸出的觸手抓住敵人，主要攻擊手段是用大嘴咬。</li></ul></li>
+<li>因為被激怒而和Big-O戰鬥，但是沒有取得上風，反而被差點扯斷右肩和幾乎被Sudden Impact打臉。</li>
+<li>在尤金用槍指桃樂絲加上過度刺激後，怒而用觸手抓起尤金，在半空把他身體折斷。</li>
+<li>在短暫撫摸桃樂絲後，決定離開她，進入崩潰中的實驗所消失無蹤。</li></ul><p><br></p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(7)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="後記"></span><span class="mw-headline" id=".E5.BE.8C.E8.A8.98">後記</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=62" title="編輯章節：後記" data-section="62" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-7 collapsible-block" id="mf-section-7">
+<table class="wikitable" style="margin: 1.5em auto;"><tbody><tr><td>但是這條目還是未完成！這條目還有一半的內容沒有寫上去。
+</td></tr><tr><td><b>你要在適當的時機收成。在最有靈感時不編輯條目，真太可惜了。</b>
+</td></tr></tbody></table></div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(8)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="回應"></span><span class="mw-headline" id=".E5.9B.9E.E6.87.89">回應</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=63" title="編輯章節：回應" data-section="63" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-8 collapsible-block" id="mf-section-8">
+<div class="pcomment-insert" data-number="" data-section="2" style="">{{pcomment|page=<a href="/%E8%A8%8E%E8%AB%96:The_Big_O" title="討論:The Big O">討論:The Big O</a>|number=|section=2}}</div>
+<p><a href="/%E8%A8%8E%E8%AB%96:The_Big_O" title="討論:The Big O">討論:The Big O</a>
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(9)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="備註"></span><span class="mw-headline" id=".E5.82.99.E8.A8.BB">備註</span><span class="mw-editsection"><a href="/index.php?title=The_Big_O&amp;action=edit&amp;section=64" title="編輯章節：備註" data-section="64" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-edit-enabled edit-page">編輯</a></span></h2><div class="mf-section-9 collapsible-block" id="mf-section-9">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">台灣青文出版社代理有賀ヒトシ漫畫版時的譯名</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">高登和羅傑談論種植番茄的對話</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">聲優梗：宮本充於PS2遊戲《JoJo的奇妙冒險 黄金の旋風》中配<a href="/%E8%BF%AA%E4%BA%9E%E6%B3%A2%E7%BE%85" title="迪亞波羅">迪亞波羅</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">宮本充和山寺宏一都是負責為他拍的電影配音的聲優</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">實際上劇本統籌小中氏是該劇集的粉絲。</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">聲優梗：矢島晶子是<a href="/%E6%96%B0%E6%A9%9F%E5%8B%95%E6%88%B0%E8%A8%98%E9%8B%BC%E5%BD%88W" title="新機動戰記鋼彈W">莉莉娜‧德利安</a>的CV</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">聲優梗：清川元夢是<a href="/%E5%86%AC%E6%9C%88%E8%80%95%E9%80%A0" class="mw-redirect" title="冬月耕造">冬月耕造</a>的CV</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">在機戰Z中不但出現該機體，還可以使出所有必殺技</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">桃樂絲第一次看到提摩西的印象。是誰的印象正確無從考究</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">根據聖誕老人派發明信片的時間判斷</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">在《機戰Z》的第58關「メモリーズ中」，會在最後出現大量的The Big</span>
+</li>
+</ol></div>
+
+
+
+
+
+</div></div></div><div class="printfooter">
+取自 "<a dir="ltr" href="https://wiki.komica.org/index.php?title=The_Big_O&amp;oldid=408577">https://wiki.komica.org/index.php?title=The_Big_O&amp;oldid=408577</a>"</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</main>
+		
+<footer class="minerva-footer">
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mf-arrow-gray mw-ui-icon-small mf-mw-ui-icon-rotate-anti-clockwise indicator"></div><a href="/%E7%89%B9%E6%AE%8A:%E6%AD%B7%E5%8F%B2/The_Big_O"
+				data-user-name="Leviaiz"
+				data-user-gender="unknown"
+				data-timestamp="1661770797">
+				最後編輯於 2022年8月29日 (週一) 18:59
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Komica wiki</h2>
+	<div class="license"></div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/Komica_wiki:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96" title="Komica wiki:隱私政策">隱私方針</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://wiki.komica.org/index.php?title=The_Big_O&amp;mobileaction=toggle_view_desktop">桌面版</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.1.2 -->
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.233","ppvisitednodes":{"value":1220,"limit":1000000},"ppgeneratednodes":{"value":2708,"limit":1000000},"postexpandincludesize":{"value":17935,"limit":2097152},"templateargumentsize":{"value":7748,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3203,"limit":5000000},"timingprofile":["100.00%  102.140      1 -total"," 61.31%   62.621      1 模板:H0"," 56.52%   57.726      3 模板:Ref"," 14.62%   14.936     62 模板:Censored","  1.99%    2.034      1 模板:Ruby","  1.94%    1.984      3 模板:Hidef","  1.63%    1.662      3 模板:Hideh","  1.43%    1.461      1 模板:Pcomment"]},"cachereport":{"timestamp":"20221116120247","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-114117-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="https://analytics.example.com/tracking.js"></script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":454});});</script>		</body>
+		</html>
+		
