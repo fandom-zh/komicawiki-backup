@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><base href="https://wiki.komica.org/wikiconv.html"><style>body{margin-left:0;margin-right:0;margin-top:0}#bN015htcoyT__google-cache-hdr{background:#f8f9fa;font:13px arial,sans-serif;text-align:left;color:#202124;border:0;margin:0;border-bottom:1px solid #dadce0;line-height:16px;padding:16px 28px 24px 28px}#bN015htcoyT__google-cache-hdr *{display:inline;font:inherit;text-align:inherit;color:inherit;line-height:inherit;background:none;border:0;margin:0;padding:0;letter-spacing:0}#bN015htcoyT__google-cache-hdr a{text-decoration:none;color:#1a0dab;}#bN015htcoyT__google-cache-hdr a:hover{text-decoration:underline}#bN015htcoyT__google-cache-hdr a:visited{color:#681da8}#bN015htcoyT__google-cache-hdr div{display:block;margin-top:4px}#bN015htcoyT__google-cache-hdr b{font-weight:bold;display:inline-block;direction:ltr}</style><div id="bN015htcoyT__google-cache-hdr"><div><span>這是 Google 對 <a href="https://wiki.komica.org/wikiconv.html">https://wiki.komica.org/wikiconv.html</a> 的快取。</span>&nbsp;<span>這是該網頁於 2022年9月25日 05:04:47 GMT 顯示時的快照。</span>&nbsp;<span>在此期間，<a href="https://wiki.komica.org/wikiconv.html">目前網頁</a>可能已經變更。</span>&nbsp;<a href="http://support.google.com/websearch/bin/answer.py?hl=zh-TW&amp;p=cached&amp;answer=1687222"><span>瞭解更多資訊</span>.</a></div><div><span style="display:inline-block;margin-top:8px;margin-right:104px;white-space:nowrap"><span style="margin-right:28px"><span style="font-weight:bold">完整版</span></span><span style="margin-right:28px"><a href="http://webcache.googleusercontent.com/search?q=cache:wC1Kx-PQLwEJ:https://wiki.komica.org/wikiconv.html&amp;hl=zh-TW&amp;gl=tw&amp;strip=1&amp;vwsrc=0"><span>純文字版</span></a></span><span style="margin-right:28px"><a href="http://webcache.googleusercontent.com/search?q=cache:wC1Kx-PQLwEJ:https://wiki.komica.org/wikiconv.html&amp;hl=zh-TW&amp;gl=tw&amp;strip=0&amp;vwsrc=1"><span>檢視原始碼</span></a></span></span></div><span style="display:inline-block;margin-top:8px;color:#70757a"><span>提示：如要在這個網頁上快速尋找您所搜尋的字詞，請按下 <b>Ctrl+F</b> 鍵或 <b>⌘-F</b> 鍵 (Mac)，然後使用尋找列進行搜尋。</span></span></div><div style="position:relative;"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Very Simple PukiWiki to MediaWiki Converter</title>
+  <style type="text/css">
+    textarea{
+      width:100%;
+    }
+    table, tr, th, td{
+      border: solid black 1px;
+    }
+    .footnote{
+      font-size:80%;
+    }
+    .w3{
+      float:right;
+    }
+  </style>
+</head>
+<body>
+  <h1>Very Simple PukiWiki to MediaWiki Converter</h1>
+  <h2>PukiWiki Format Text (input)</h2>
+  <p><textarea rows="20" cols="100" id="pukitext"></textarea></p>
+  <p><button onclick="convert()">Convert</button></p>
+  <h2>MediaWiki Format Text (output)</h2>
+  <p><textarea rows="20" cols="100" id="mediatext"></textarea></p>
+  <div>
+    <h3>Features</h3>
+    <p>This application is created in order to assist migration of <a href="http://opera-wiki.com/">http://opera-wiki.com/</a> from PukiWiki to MediaWiki.</p>
+    <p>Supported wiki formats are below.</p>
+    <table>
+      <tbody>
+        <tr><th>PukiWiki</th><th>MediaWiki</th><th>Comment</th></tr>
+        <tr><td>-/+ (start of line)</td><td>*/# (start of line)</td><td>lists (ordered/unordered, maximum depth of 3)</td></tr>
+        <tr><td>space (start of line)</td><td>space (start of line)</td><td>formatted text (&lt;pre&gt;)</td></tr>
+        <tr><td>* (start of line)</td><td>== ==</td><td>headings (maximum level of 5)</td></tr>
+        <tr><td>~ (end of line)</td><td>&lt;br /&gt;</td><td>line break<a id="annotation_for_br" href="#footnote_for_br">*1</a></td></tr>
+        <tr><td>'''/''</td><td>''/'''</td><td>emphases</td></tr>
+        <tr><td>%% %%</td><td>&lt;del&gt; &lt;/del&gt;</td><td>del</td></tr>
+        <tr><td>[[text:URL]]/[[text&gt;URL]]</td><td>[URL text]</td><td>links<a id="annotation_for_a" href="#footnote_for_a">*2</a></td></tr>
+        <tr><td>---- or more</td><td>----</td><td>horizontal line</td></tr>
+        <tr><td>#foobar</td><td></td><td>PukiWiki plugins (removed)</td></tr>
+        <tr><td>&gt; (start of line)</td><td>&lt;blockquote&gt; &lt;/blockquote&gt;</td><td>blockquote (maximum depth of 1)</td></tr>
+        <tr><td>// (start of line)</td><td>&lt;!-- --&gt;</td><td>comment</td></tr>
+        <tr><td>| | |</td><td>{|..|}</td><td>table (very limited support)</td></tr>
+        <tr><td>|~foo|</td><td>!foo</td><td>header cell (table)</td></tr>
+        <!-- table row template
+        <tr><td> </td><td> </td><td> </td></tr>
+        -->
+      </tbody>
+    </table>
+    <div class="footnote">
+      <p id="footnote_for_br"><a href="#annotation_for_br">*1</a> PukiWiki does not count line breaks of the source text as line breaks, but opera-wiki.com does. So this converter adds &lt;br /&gt; at the end of every line except for those followed by blockquote, table, list, heading or a blank line.</p>
+      <p id="footnote_for_a"><a href="#annotation_for_a">*2</a> I'm very sloppy here. I assume everything that is of type [[text:http*]] or [[text&gt;http*]] as an external link and make this conversion. Other links of type [[ ]] are kept unchanged.</p>
+    </div>
+    <h3>License, disclaimer, etc.</h3>
+    <p>This document, which encludes HTML, CSS and JavaScript source codes though DOES NOT include linked image(s), is distributed under <a href="http://en.wikipedia.org/wiki/Public_domain">public domain</a>.</p>
+    <p>The author of this document is not responsible for any damage/harm related to use of this document.</p>
+  </div>
+  <p class="w3"><a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Strict" height="31" width="88"></a></p>
+<script type="text/javascript">
+<!--
+function convert(){
+  text = getPuki();
+  lines = text.split(/\r?\n/);
+  for(var n=0;n<lines.length;n++){
+    lines[n] = convLine(lines[n]);
+  }
+  setMedia(finalize(lines.join('\r\n')));
+}
+
+// linewise conversion
+var convLine = (function(){
+  var ENV = {'BLOCKQUOTE':false,'TABLE':false};
+  var breakableCheck = [
+    //pre
+    {'re' : /^[ \t]/, 'func' : function(line,re){return line}},
+    //horizontal line
+    {'re' : /^----+/, 'func' : function(line,re){return line.replace(re,'----')}},
+    //comment
+    {'re' : /^\/\//, 'func' : function(line,re){return line.replace(re,'<!-- ').replace(/$/,' -->')}},
+    //remove plugins
+    {'re' : /^#.*/, 'func' : function(line,re){return ''}},
+    //{'re' : /^#contents\(?.*\)?;?\s*/, 'func' : function(line,re){return ''}},
+    //{'re' : /^#navi\(?.*\)?;?\s*/, 'func' : function(line,re){return ''}},
+    //close block element
+    {'re' : /^$/, 'func' : 
+      function(line,re){
+        if(ENV.BLOCKQUOTE){
+          ENV.BLOCKQUOTE=false;
+          return '<\/blockquote>\r\n'
+        }else if(ENV.TABLE){
+          ENV.TABLE=false;
+          return '|}\r\n'
+        }else{
+          return ''
+        }
+      }
+    }
+  ];
+  var unbreakableCheck = [
+    //headings
+    {'re' : /^\*\*\*\*\*/, 'func' : function(line,re){return line.replace(re,'====== ').replace(/(\[#\w{8}\])?\s*$/,' ======')}},
+    {'re' : /^\*\*\*\*/, 'func' : function(line,re){return line.replace(re,'===== ').replace(/(\[#\w{8}\])?\s*$/,' =====')}},
+    {'re' : /^\*\*\*/, 'func' : function(line,re){return line.replace(re,'==== ').replace(/(\[#\w{8}\])?\s*$/,' ====')}},
+    {'re' : /^\*\*/, 'func' : function(line,re){return line.replace(re,'=== ').replace(/(\[#\w{8}\])?\s*$/,' ===')}},
+    {'re' : /^\*/, 'func' : function(line,re){return line.replace(re,'== ').replace(/(\[#\w{8}\])?\s*$/,' ==')}},
+    //unordered lists
+    {'re' : /^---/, 'func' : function(line,re){return line.replace(re,'***')}},
+    {'re' : /^--/, 'func' : function(line,re){return line.replace(re,'**')}},
+    {'re' : /^-/, 'func' : function(line,re){return line.replace(re,'*')}},
+    //ordered lists
+    {'re' : /^\+\+\+/, 'func' : function(line,re){return line.replace(re,'###')}},
+    {'re' : /^\+\+/, 'func' : function(line,re){return line.replace(re,'##')}},
+    {'re' : /^\+/, 'func' : function(line,re){return line.replace(re,'#')}},
+    //line break after each line in paragraph
+    {'re' : /^[^ =*#|]/, 'func' : function(line,re){return line.replace(/~?$/,'<br \/>')}},
+    //make double quotes to triple and triple to double (strong/italic)
+    {'re' : /\'\'\'/g, 'func' : function(line,re){return line.replace(re,"TWO_QUOTATIONS")}},
+    {'re' : /\'\'/g, 'func' : function(line,re){return line.replace(re,"'''")}},
+    {'re' : /TWO_QUOTATIONS/g, 'func' : function(line,re){return line.replace(re,"''")}},
+    //footer text (complecated, so I'll leave it as a comment)
+    //{'re' : /\(\((.+)\)\)/g, 'func' : function(line,re){return line.replace(re,"($1)")}},
+    //del
+    {'re' : /%%(.+)%%/g, 'func' : function(line,re){return line.replace(re,"<del>$1<\/del>")}},
+    //external links
+    {'re' : /\[\[([^:>]+?)[:>](http.+?)\]\]/g, 'func' : function(line,re){return line.replace(re,'[$2 $1]')}},
+    //blockquote
+    {'re' : /^> ?/, 'func' : function(line,re){if(ENV.BLOCKQUOTE){return line.replace(re,'')}else{ENV.BLOCKQUOTE=true;return line.replace(re,'<blockquote>\r\n')}}},
+    //table
+    {'re' : /^\|/, 'func' : 
+      function(line,re){
+        if(ENV.TABLE){
+          return '|-'+line.replace(/\|[hf]?\s*$/,'').replace(/\|~/g,'\r\n!').replace(/\|/g,'\r\n|');
+        }else{
+          ENV.TABLE=true;
+          return '{|'+line.replace(/\|[hf]?\s*$/,'').replace(/\|~/g,'\r\n!').replace(/\|/g,'\r\n|');
+        }
+      }
+    },
+    //end of table
+    {'re' : /^[ =*#]/, 'func' : function(line,re){if(ENV.TABLE){ENV.TABLE=false;return '|}\r\n'+line;}return line}}
+  ];
+  return function(line){
+    for(var i=0;i<breakableCheck.length;i++){
+      if(breakableCheck[i].re.test(line))
+        return breakableCheck[i].func(line,breakableCheck[i].re);
+    }
+    for(var i=0;i<unbreakableCheck.length;i++){
+      if(unbreakableCheck[i].re.test(line))
+        line = unbreakableCheck[i].func(line,unbreakableCheck[i].re);
+    }
+    return line;
+  }
+})();
+
+// whole text conversion
+function finalize(text){
+  //remove line break right before next block/block end
+  return text.replace(/<br \/>(\r\n(?:<!--[^\n]*-->\r\n)*(?:[ =*#\r]|<\/blockquote>|{\|))/gm,"$1");
+}
+
+function getPuki(){
+  return $('pukitext').value;
+}
+
+function setMedia(text){
+  $('mediatext').value=text;
+}
+
+function $(id){
+  return document.getElementById(id);
+}
+// -->
+</script>
+</body>
+</html>
