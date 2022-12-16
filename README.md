@@ -17,10 +17,11 @@ This repository require linear history. Do NOT create merge commits.
     ![在本倉庫中搜尋](https://user-images.githubusercontent.com/13307281/208006495-e1e67040-91c0-4905-80d3-05a58a6a99ed.png)
     
  3. 找出你覺得內容最多的條目。例如尾綴數字可能是重覆的內容，討論、投票頁不含有主要內容的可以略過。
+    點擊檔名標題可以進入該檔案頁面。
 
     ![搜尋結果](https://user-images.githubusercontent.com/13307281/208006801-9e32200f-9248-461d-bab4-bb940ce61212.png)
 
- 4. 在左上方的 Raw 按鈕上按右鍵，選擇鏈結另存新檔，以下載原始檔案。
+ 4. 在右上方的 Raw 按鈕上按右鍵，選擇鏈結另存新檔，以下載原始檔案。
     
     ![另存新檔](https://user-images.githubusercontent.com/13307281/208007911-2f08b369-73dc-468f-9dd9-7c7c11a8cd7d.png)
 
