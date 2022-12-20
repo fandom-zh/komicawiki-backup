@@ -47,7 +47,6 @@ html 檔案原則上可以雙擊後直接在瀏覽器打開，若要自動轉換
 以下範例開頭部份為 google 頁庫存檔說明無法轉換，
 後面有部份轉換成功的 wiki 內容。
 
-
 ```wiki
 <div id="bN015htcoyT__google-cache-hdr">
 
@@ -95,3 +94,18 @@ html 檔案原則上可以雙擊後直接在瀏覽器打開，若要自動轉換
 如有不便，敬請見諒。
 |}
 ```
+
+### 換行符轉換
+下載的 wiki 檔案，多半是使用 `LF` (`\n`) 作為 [換行符]，
+如果在 windows 用記事本打開，
+會因為 windows 不認得 `LF` 作為換行符，
+造成換行符消失而所有行擠在同一行。
+
+[換行符]: https://zh.wikipedia.org/wiki/%E6%8F%9B%E8%A1%8C
+
+要讓換行符恢復正常換行，可以使用 [此線上 markdown 編輯器][md] 的載入檔案功能：
+選擇工具列的 *Upload File* > *Upload File from Computer* ，
+載入先前下載的 wiki 檔案，wiki 文字即可正常顯示在編輯器中。
+隨後使用 *Download File* 按鈕或是複製貼上到記事本皆可。
+
+[md]: https://www.tutorialspoint.com/online_markdown_editor.php
