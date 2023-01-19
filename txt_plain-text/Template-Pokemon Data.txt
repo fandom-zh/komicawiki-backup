@@ -1,0 +1,136 @@
+模板:Pokemon Data
+出自 Komica wiki
+跳至導覽 跳至搜尋
+以下為模板的說明文件（[編輯]、[更新]）
+請注意：此模版在某些情況下可能會部份或全體不可見。
+檢視模板:Pokemon Data/doc編輯文件內容。(如何使用？)
+為新模板建立說明文件時，會直接套用範本基底。
+目錄
+1 描述
+2 參數
+2.1 關於「屬性」一欄的文字顏色
+3 範例1：單一型態
+4 範例2：複數型態 =
+描述[編輯]
+這是各個「神奇寶貝列表」條目裡用作顯示各種寶可夢的簡短資料的模版。
+輸入的資料需要以寶可夢圖鑑內的資料為準。
+參數[編輯]
+此模板的參數如下：
+
+參數 預設值 說明
+number 編號 寶可夢的全國圖鑑編號（3位數）
+name 名字 寶可夢的名稱
+category 種類 寶可夢的種類
+image 圖像位置 寶可夢在寶可夢盒裡的小圖示點繪
+form 型態 寶可夢的形態（特定寶可夢的特別型態、超級進化、地區型態、超極巨化等）
+不適用者請輸入「-」號
+height 身高 寶可夢的身高數值（取至小數點後1位，無需輸入單位「m」）
+weight 體重 寶可夢的體重數值（取至小數點後1位，無需輸入單位「kg」）
+type 屬性 寶可夢的屬性
+ability1 特性1 寶可夢的特性（通常特性1/通常特性2/隱藏特性）
+不適用者請輸入「-」號
+ability2 特性2
+abilityh 隱藏特性
+pokedex 圖鑑 寶可夢圖鑑的說明文
+注：請把遊戲裡的中文說明文一字不差地寫進來！
+關於「屬性」一欄的文字顏色[編輯]
+填寫「屬性」一欄時，請依以下編碼輸入文字顏色來區別不同屬性。
+屬性 編碼 出來的效果
+一般 {{color|white|#D0BAA2|'''一般'''}} 一般
+火 {{color|white|#FF8F19|'''火'''}} 火
+水 {{color|white|#55A8FF|'''水'''}} 水
+電 {{color|gray|#F7FA00|'''電'''}} 電
+草 {{color|white|#55FF57|'''草'''}} 草
+冰 {{color|white|#39DDDF|'''冰'''}} 冰
+格鬥 {{color|white|#E35553|'''格鬥'''}} 格鬥
+毒 {{color|white|#8B008B|'''毒'''}} 毒
+地面 {{color|white|#BBBC7A|'''地面'''}} 地面
+飛行 {{color|white|#A2A1EF|'''飛行'''}} 飛行
+超能力 {{color|white|#FF3799|'''超能力'''}} 超能力
+蟲 {{color|white|#9ACD32|'''蟲'''}} 蟲
+岩石 {{color|white|saddlebrown|'''岩石'''}} 岩石
+幽靈 {{color|white|#7E54A6|'''幽靈'''}} 幽靈
+龍 {{color|white|#8000FA|'''龍'''}} 龍
+惡 {{color|white|#000000|'''惡'''}} 惡
+鋼 {{color|white|gray|'''鋼'''}} 鋼
+妖精 {{color|white|#FFB0AF|'''妖精'''}} 妖精
+範例1：單一型態[編輯]
+輸入的語法：
+{{Pokemon_Data
+|number= 025
+|name= 皮卡丘
+|category= 鼠
+|image= [[File:img17105.png|60px]]
+|form= -
+|height= 0.4
+|weight= 6.0
+|type= {{color|gray|#F7FA00|'''電'''}}
+|ability1= 靜電
+|ability2= -
+|abilityh= 避雷針
+|pokedex= 棲息在森林裡的寶可夢。臉頰上的囊能夠儲存電力，用手去摸會被電得麻麻的。
+}}
+出來的效果：
+
+No.025 皮卡丘 鼠寶可夢
+Img17105.png -
+身高 0.4m
+體重 6.0kg
+屬性 電 特性 靜電/-/［隱藏］避雷針
+棲息在森林裡的寶可夢。臉頰上的囊能夠儲存電力，用手去摸會被電得麻麻的。
+
+範例2：複數型態 =[編輯]
+需要複合運用模板:Pokemon_Data_Head和模板:Pokemon_Data_Row兩個模版。
+輪入的語法：
+{| class="wikitable" style="margin: 0 auto; text-align: center"
+
+{{Pokemon_Data_Head
+|number= 778
+|name= 謎擬Q
+|category= 畫皮
+}}
+
+{{Pokemon_Data_Row
+|image= [[File:img23852.png|100px]]
+|form= 化皮的樣子
+|height= 0.2
+|weight= 0.7
+|type= {{color|white|#7E54A6|'''幽靈'''}} {{color|white|#FFB0AF|'''妖精'''}}
+|ability1= 畫皮
+|ability2= -
+|abilityh= -
+|pokedex= 真面目是個謎。某個看過破布裡面的學者因為太可怕而被活活嚇死了。<br>用破破爛爛的布隱藏起可怕的模樣，接近人類和其他寶可夢的寂寞傢伙。
+}}
+
+{{Pokemon_Data_Row
+|image= [[File:img23852.png|100px]]
+|form= 現形的樣子
+|height= 0.2
+|weight= 0.7
+|type= {{color|white|#7E54A6|'''幽靈'''}} {{color|white|#FFB0AF|'''妖精'''}}
+|ability1= 畫皮
+|ability2= -
+|abilityh= -
+|pokedex= 特地喬裝打扮，脖子卻折斷了。布裡面的牠應該沒事，但感覺牠很傷心。<br>被攻擊後脖子折斷，或是身上披的布破了的話，本體就會熬夜進行修補。
+}}
+
+|}
+
+出來的效果：
+No.778 謎擬Q 畫皮寶可夢
+Img23852.png 化皮的樣子
+身高 0.2m
+體重 0.7kg
+屬性 幽靈 妖精 特性 畫皮/-/［隱藏］-
+真面目是個謎。某個看過破布裡面的學者因為太可怕而被活活嚇死了。
+用破破爛爛的布隱藏起可怕的模樣，接近人類和其他寶可夢的寂寞傢伙。
+Img23852.png 現形的樣子
+身高 0.2m
+體重 0.7kg
+屬性 幽靈 妖精 特性 畫皮/-/［隱藏］-
+特地喬裝打扮，脖子卻折斷了。布裡面的牠應該沒事，但感覺牠很傷心。
+被攻擊後脖子折斷，或是身上披的布破了的話，本體就會熬夜進行修補。
+取自 "https://wiki.komica.org/index.php?title=模板:Pokemon_Data&oldid=190870"
+2 個分類：
+模板
+特定主題使用模板
