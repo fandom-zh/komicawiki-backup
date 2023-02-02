@@ -27,11 +27,27 @@ This repository require linear history. Do NOT create merge commits.
 
 ### html 格式備份
 html 檔案原則上可以雙擊後直接在瀏覽器打開，若要自動轉換為 media wiki 格式文字，
-目前可行辦法是使用 [free file convert] 進行轉換。
+可以使用 [pandoc] 或 [free file convert] 進行轉換，但二者皆無法完整轉換，
+例如無法轉換回模板原始碼，轉換後的 media wiki 文字也會包含大量無法轉換的 html 原始碼。
 
+[pandoc]: https://pandoc.org/
 [free file convert]: https://www.freefileconvert.com/document-converter
 
- 1. 點擊網站中的 File 頁籤
+### pandoc 轉換教學
+
+ 1. 進入 [pandoc 網頁版](https://pandoc.org/try/)
+ 
+ 2. 格式選擇 from `html` to `mediawiki`
+ 
+    ![格式 from html to mediawiki](https://user-images.githubusercontent.com/13307281/216226398-2ad111c8-8d0f-45c1-a404-682d4dffab33.png)
+
+ 3. 用 *瀏覽* 選取 html 檔案或是直接將 html 原始碼貼入文字框中
+ 
+ 4. 點擊 `Convert` 按鈕，轉換結果即會在右側顯示。若有無法轉換的內容，會用綠色訊息顯示，其他轉換內容則會顯示在下方。
+
+### free file convert 轉換教學
+
+ 1. 點擊 [free file convert 網站][free file convert] 中的 File 頁籤
 
     ![file 頁籤](https://user-images.githubusercontent.com/13307281/208011773-dd3fbe0a-68b2-4428-a908-e892f480eb6f.png)
  
@@ -43,7 +59,8 @@ html 檔案原則上可以雙擊後直接在瀏覽器打開，若要自動轉換
 
     ![downlaod 按鈕](https://user-images.githubusercontent.com/13307281/208012419-f04032bf-4567-44d4-8bcb-162efa9a09f7.png)
 
-下載的檔案內容會混雜大量 html 在 wiki 語法內。
+### 轉換內容說明
+轉換後的 wiki 格式檔案內容多半會混雜大量 html 在 wiki 語法內。
 以下範例開頭部份為 google 頁庫存檔說明無法轉換，
 後面有部份轉換成功的 wiki 內容。
 
@@ -96,7 +113,7 @@ html 檔案原則上可以雙擊後直接在瀏覽器打開，若要自動轉換
 ```
 
 ### 換行符轉換
-下載的 wiki 檔案，多半是使用 `LF` (`\n`) 作為 [換行符]，
+從 free file convert 下載的 wiki 檔案，多半是使用 `LF` (`\n`) 作為 [換行符]，
 如果在 windows 用記事本打開，
 會因為 windows 不認得 `LF` 作為換行符，
 造成換行符消失而所有行擠在同一行。
